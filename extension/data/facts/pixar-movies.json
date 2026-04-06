@@ -1,0 +1,2121 @@
+{
+  "hobby": "Pixar Movies",
+  "facts": [
+    {
+      "text": "Pixar Animation Studios was originally part of Lucasfilm's Computer Division before being spun off as an independent company in 1986.",
+      "source": "https://en.wikipedia.org/wiki/Pixar_Animation_Studios"
+    },
+    {
+      "text": "Steve Jobs purchased Pixar from Lucasfilm for $5 million in 1986 and invested an additional $5 million to keep it running.",
+      "source": "https://en.wikipedia.org/wiki/Steve_Jobs"
+    },
+    {
+      "text": "Ed Catmull and Alvy Ray Smith co-founded Pixar, with Catmull serving as president and Smith as executive vice president.",
+      "source": "https://en.wikipedia.org/wiki/Ed_Catmull_and_Alvy_Ray_Smith"
+    },
+    {
+      "text": "The name \"Pixar\" was coined by Alvy Ray Smith and is a pseudo-Spanish word meaning \"to make pictures.\"",
+      "source": "https://en.wikipedia.org/wiki/Pixar"
+    },
+    {
+      "text": "Pixar's first product was the Pixar Image Computer, a high-end graphics system originally designed for government and medical visualization.",
+      "source": "https://en.wikipedia.org/wiki/Pixar%27s_first_product"
+    },
+    {
+      "text": "Before making feature films, Pixar survived financially by producing television commercials using their animation technology.",
+      "source": "https://en.wikipedia.org/wiki/Pixar_Movies"
+    },
+    {
+      "text": "\"To infinity and beyond!\" — Buzz Lightyear's catchphrase from Toy Story became one of the most quoted lines in animation history.",
+      "source": "https://en.wikipedia.org/wiki/To_infinity_and_beyond"
+    },
+    {
+      "text": "Toy Story (1995) was the first feature-length film entirely animated by computer, revolutionizing the animation industry forever.",
+      "source": "https://en.wikipedia.org/wiki/Toy_Story"
+    },
+    {
+      "text": "John Lasseter, who directed Toy Story, was fired from Disney in the early 1980s for pushing computer animation before joining Pixar.",
+      "source": "https://en.wikipedia.org/wiki/John_Lasseter%2C_who_directed_Toy_Story"
+    },
+    {
+      "text": "Toy Story was originally conceived as a 30-minute TV special before Disney encouraged Pixar to develop it into a full feature film.",
+      "source": "https://en.wikipedia.org/wiki/Toy_Story"
+    },
+    {
+      "text": "During early development, Toy Story's Woody was written as a sarcastic, unlikable character, and Disney nearly shut down production until the script was reworked.",
+      "source": "https://en.wikipedia.org/wiki/During_early_development%2C_Toy_Story%27s_Woody"
+    },
+    {
+      "text": "Tom Hanks voiced Woody in all four Toy Story films, bringing warmth and vulnerability to the character across nearly 25 years.",
+      "source": "https://en.wikipedia.org/wiki/Tom_Hanks"
+    },
+    {
+      "text": "Tim Allen was cast as Buzz Lightyear after the producers saw his performance on the TV sitcom Home Improvement.",
+      "source": "https://en.wikipedia.org/wiki/Tim_Allen"
+    },
+    {
+      "text": "\"You are a toy!\" — Woody's exasperated declaration to Buzz Lightyear in Toy Story is one of the film's most memorable exchanges.",
+      "source": "https://www.youtube.com/results?search_query=Pixar%20Movies%20You%20are%20a%20toy%21%20live%20performance"
+    },
+    {
+      "text": "The Pizza Planet truck, a yellow Toyota pickup, first appeared in Toy Story and has made a cameo in nearly every Pixar film since.",
+      "source": "https://en.wikipedia.org/wiki/Pizza_Planet_truck%2C_a_yellow_Toyota_pickup%2C_first_appeared_in_Toy_Story_and"
+    },
+    {
+      "text": "A113, a reference to a classroom at the California Institute of the Arts where many Pixar animators studied, appears as an Easter egg in every Pixar film.",
+      "source": "https://en.wikipedia.org/wiki/California_Institute_of_the_Arts"
+    },
+    {
+      "text": "Pixar's iconic desk lamp mascot, Luxo Jr., comes from the studio's 1986 short film of the same name, directed by John Lasseter.",
+      "source": "https://en.wikipedia.org/wiki/Luxo_Jr"
+    },
+    {
+      "text": "Luxo Jr. was one of the first CGI short films to be nominated for an Academy Award for Best Animated Short Film.",
+      "source": "https://en.wikipedia.org/wiki/Luxo_Jr"
+    },
+    {
+      "text": "The Luxo Ball, a yellow ball with a blue stripe and red star, originated in the Luxo Jr. short and appears as an Easter egg throughout Pixar films.",
+      "source": "https://en.wikipedia.org/wiki/Luxo_Ball"
+    },
+    {
+      "text": "Pixar developed RenderMan, a rendering software that became the industry standard for visual effects in both animated and live-action films.",
+      "source": "https://en.wikipedia.org/wiki/Pixar"
+    },
+    {
+      "text": "RenderMan has been used in nearly every Visual Effects Academy Award-winning film since 1995, including Jurassic Park and Avatar.",
+      "source": "https://en.wikipedia.org/wiki/RenderMan"
+    },
+    {
+      "text": "Toy Story earned $373 million worldwide against a production budget of approximately $30 million, proving CGI animation was commercially viable.",
+      "source": "https://en.wikipedia.org/wiki/Toy_Story"
+    },
+    {
+      "text": "A Bug's Life (1998) was Pixar's second feature film and was released the same year as DreamWorks' competing ant film, Antz.",
+      "source": "https://en.wikipedia.org/wiki/Bug%27s_Life"
+    },
+    {
+      "text": "A Bug's Life was inspired by Aesop's fable \"The Ant and the Grasshopper\" and Akira Kurosawa's Seven Samurai.",
+      "source": "https://en.wikipedia.org/wiki/Ant_and_the_Grasshopper"
+    },
+    {
+      "text": "Kevin Spacey voiced the villain Hopper in A Bug's Life, giving the menacing grasshopper a chillingly calm demeanor.",
+      "source": "https://en.wikipedia.org/wiki/Kevin_Spacey"
+    },
+    {
+      "text": "To research A Bug's Life, Pixar animators used \"bug cams\" — tiny cameras placed at ground level to see the world from an insect's perspective.",
+      "source": "https://en.wikipedia.org/wiki/bug_cams"
+    },
+    {
+      "text": "Toy Story 2 (1999) was originally planned as a direct-to-video sequel before Pixar upgraded it to a theatrical release after seeing its potential.",
+      "source": "https://en.wikipedia.org/wiki/Toy_Story_2_(1999)"
+    },
+    {
+      "text": "Toy Story 2 was nearly lost when a technical error deleted 90% of the film's files, but a supervising animator had a backup copy at her home.",
+      "source": "https://en.wikipedia.org/wiki/Toy_Story_2"
+    },
+    {
+      "text": "\"When she loved me\" — Sarah McLachlan's song for Jessie's backstory in Toy Story 2 is widely considered one of the most emotional moments in animation.",
+      "source": "https://www.youtube.com/results?search_query=Pixar%20Movies%20When%20she%20loved%20me%20live%20performance"
+    },
+    {
+      "text": "Joan Cusack voiced Jessie the cowgirl in Toy Story 2, bringing energy and emotional depth to the character.",
+      "source": "https://en.wikipedia.org/wiki/Joan_Cusack"
+    },
+    {
+      "text": "Kelsey Grammer voiced Stinky Pete the Prospector, Toy Story 2's twist villain who had never been taken out of his box.",
+      "source": "https://en.wikipedia.org/wiki/Kelsey_Grammer_voiced_Stinky_Pete_the_Prospector%2C_Toy_Story_2%27s_twist_villain_who"
+    },
+    {
+      "text": "Monsters, Inc. (2001) introduced the concept of monsters generating energy by scaring children, set in the fictional city of Monstropolis.",
+      "source": "https://en.wikipedia.org/wiki/Monsters%2C_Inc"
+    },
+    {
+      "text": "John Goodman voiced James P. \"Sulley\" Sullivan, bringing a gentle warmth to the massive blue-and-purple monster.",
+      "source": "https://en.wikipedia.org/wiki/Sulley"
+    },
+    {
+      "text": "Billy Crystal voiced Mike Wazowski in Monsters, Inc. after initially turning down the role of Buzz Lightyear in Toy Story, a decision he called his biggest career regret.",
+      "source": "https://en.wikipedia.org/wiki/Billy_Crystal"
+    },
+    {
+      "text": "\"I wouldn't have nothing if I didn't have you\" — the Randy Newman duet from Monsters, Inc. won the Academy Award for Best Original Song.",
+      "source": "https://www.youtube.com/results?search_query=Pixar%20Movies%20I%20wouldn%27t%20have%20nothing%20if%20I%20didn%27t%20have%20you%20live%20performance"
+    },
+    {
+      "text": "Boo's real name in Monsters, Inc. is Mary, which can be seen briefly on her drawings in the film.",
+      "source": "https://en.wikipedia.org/wiki/Boo%27s_real_name_in_Monsters%2C_Inc"
+    },
+    {
+      "text": "Animating Sulley's fur in Monsters, Inc. was a massive technical achievement — he has over 2.3 million individual hairs, each one individually simulated.",
+      "source": "https://en.wikipedia.org/wiki/Animating_Sulley%27s_fur_in_Monsters%2C_Inc"
+    },
+    {
+      "text": "\"Put that thing back where it came from, or so help me!\" — Mike Wazowski's panicked line became one of the most quoted Monsters, Inc. moments.",
+      "source": "https://en.wikipedia.org/wiki/Put_that_thing_back_where_it_came_from%2C_or_so_help_me"
+    },
+    {
+      "text": "Finding Nemo (2003) became the highest-grossing animated film at the time, earning over $940 million worldwide.",
+      "source": "https://en.wikipedia.org/wiki/Finding_Nemo"
+    },
+    {
+      "text": "\"Just keep swimming, just keep swimming\" — Dory's optimistic mantra in Finding Nemo became a pop culture catchphrase embraced worldwide.",
+      "source": "https://www.youtube.com/results?search_query=Pixar%20Movies%20Just%20keep%20swimming%2C%20just%20keep%20swimming%20live%20performance"
+    },
+    {
+      "text": "Ellen DeGeneres was cast as Dory in Finding Nemo after director Andrew Stanton saw her change topics mid-sentence during a TV interview.",
+      "source": "https://en.wikipedia.org/wiki/Ellen_DeGeneres"
+    },
+    {
+      "text": "Albert Brooks voiced the overprotective clownfish father Marlin, bringing neurotic charm to Finding Nemo's emotional core.",
+      "source": "https://en.wikipedia.org/wiki/Albert_Brooks"
+    },
+    {
+      "text": "Finding Nemo won the Academy Award for Best Animated Feature in 2004, Pixar's first win in the category.",
+      "source": "https://en.wikipedia.org/wiki/Finding_Nemo"
+    },
+    {
+      "text": "After Finding Nemo's release, clownfish sales surged by 40%, leading marine biologists to warn about the impact on wild populations.",
+      "source": "https://en.wikipedia.org/wiki/After_Finding_Nemo%27s"
+    },
+    {
+      "text": "Director Andrew Stanton was inspired to make Finding Nemo by his own overprotective tendencies as a father.",
+      "source": "https://en.wikipedia.org/wiki/Director_Andrew_Stanton"
+    },
+    {
+      "text": "The ocean water in Finding Nemo was so realistically rendered that Pixar had to make it slightly less realistic so audiences wouldn't think it was live-action.",
+      "source": "https://en.wikipedia.org/wiki/ocean_water_in_Finding_Nemo"
+    },
+    {
+      "text": "Finding Nemo features over 100,000 individual strands of sea anemone tentacles, each animated with realistic physics.",
+      "source": "https://en.wikipedia.org/wiki/Finding_Nemo"
+    },
+    {
+      "text": "The Incredibles (2004) was Pixar's first film to focus entirely on human characters rather than toys, bugs, monsters, or fish.",
+      "source": "https://en.wikipedia.org/wiki/Incredibles"
+    },
+    {
+      "text": "Brad Bird wrote and directed The Incredibles, joining Pixar specifically to make the film after his previous project The Iron Giant underperformed at the box office.",
+      "source": "https://en.wikipedia.org/wiki/Brad_Bird"
+    },
+    {
+      "text": "\"No capes!\" — Edna Mode's emphatic fashion rule in The Incredibles became one of Pixar's most iconic and quotable lines.",
+      "source": "https://en.wikipedia.org/wiki/No_capes"
+    },
+    {
+      "text": "Brad Bird also voiced Edna Mode, the diminutive superhero costume designer, after no voice actress could match his temp performance.",
+      "source": "https://en.wikipedia.org/wiki/Brad_Bird"
+    },
+    {
+      "text": "Craig T. Nelson voiced Bob Parr/Mr. Incredible, capturing the frustration of a superhero forced into suburban mediocrity.",
+      "source": "https://en.wikipedia.org/wiki/Craig_T._Nelson"
+    },
+    {
+      "text": "Holly Hunter voiced Helen Parr/Elastigirl, whose stretching powers made her one of the most complex characters to animate.",
+      "source": "https://en.wikipedia.org/wiki/Holly_Hunter"
+    },
+    {
+      "text": "Samuel L. Jackson voiced Frozone, Mr. Incredible's best friend, whose search for his super suit became a beloved scene. \"Where is my super suit?!\"",
+      "source": "https://en.wikipedia.org/wiki/Where_is_my_super_suit"
+    },
+    {
+      "text": "The Incredibles was the first Pixar film to receive a PG rating due to its action sequences and intense themes.",
+      "source": "https://en.wikipedia.org/wiki/Incredibles"
+    },
+    {
+      "text": "The Incredibles won the Academy Award for Best Animated Feature in 2005 and was also nominated for Best Original Screenplay.",
+      "source": "https://en.wikipedia.org/wiki/Incredibles"
+    },
+    {
+      "text": "Cars (2006) was inspired by John Lasseter's love of automobiles and a cross-country road trip he took with his family on Route 66.",
+      "source": "https://en.wikipedia.org/wiki/Cars"
+    },
+    {
+      "text": "The fictional town of Radiator Springs in Cars was modeled after real Route 66 towns that were bypassed when Interstate 40 was built.",
+      "source": "https://en.wikipedia.org/wiki/fictional_town_of_Radiator_Springs_in_Cars"
+    },
+    {
+      "text": "Owen Wilson voiced Lightning McQueen, the cocky race car who learns humility in the sleepy town of Radiator Springs.",
+      "source": "https://en.wikipedia.org/wiki/Owen_Wilson"
+    },
+    {
+      "text": "Paul Newman's final film role was voicing Doc Hudson in Cars, bringing gravitas to the retired racing champion.",
+      "source": "https://en.wikipedia.org/wiki/Paul_Newman%27s_final_film_role"
+    },
+    {
+      "text": "Larry the Cable Guy voiced Mater, the lovable but dim tow truck who became one of Pixar's most popular characters.",
+      "source": "https://en.wikipedia.org/wiki/Larry_the_Cable_Guy_voiced_Mater%2C_the_lovable_but_dim_tow_truck_who"
+    },
+    {
+      "text": "Cars generated over $10 billion in merchandise sales, making it one of the most profitable franchises in Disney history despite mixed critical reception.",
+      "source": "https://en.wikipedia.org/wiki/Pixar_Movies"
+    },
+    {
+      "text": "Ratatouille (2007) tells the story of Remy, a rat who dreams of becoming a gourmet chef in Paris, challenging the motto that \"anyone can cook.\"",
+      "source": "https://en.wikipedia.org/wiki/anyone_can_cook"
+    },
+    {
+      "text": "\"Anyone can cook!\" — Chef Gusteau's famous motto in Ratatouille carries the deeper meaning that greatness can come from anywhere, not that everyone is a great cook.",
+      "source": "https://en.wikipedia.org/wiki/Anyone_can_cook"
+    },
+    {
+      "text": "Patton Oswalt voiced Remy the rat, bringing passion and earnestness to a character driven by his love of fine cuisine.",
+      "source": "https://en.wikipedia.org/wiki/Patton_Oswalt"
+    },
+    {
+      "text": "Brad Bird took over directing Ratatouille from Jan Pinkava partway through production and reworked much of the story.",
+      "source": "https://en.wikipedia.org/wiki/Brad_Bird"
+    },
+    {
+      "text": "Peter O'Toole voiced the fearsome food critic Anton Ego, whose review at the film's climax is considered one of Pixar's finest pieces of writing.",
+      "source": "https://en.wikipedia.org/wiki/Peter_O%27Toole_voiced_the_fearsome_food_critic_Anton_Ego%2C_whose_review_at_the_film%27s_climax"
+    },
+    {
+      "text": "\"Not everyone can become a great artist, but a great artist can come from anywhere\" — Anton Ego's review in Ratatouille moved audiences to tears.",
+      "source": "https://en.wikipedia.org/wiki/Not_everyone_can_become_a_great_artist%2C_but_a_great_artist_can_come_from_anywhere"
+    },
+    {
+      "text": "Ratatouille won the Academy Award for Best Animated Feature in 2008, and its depiction of Paris cuisine inspired real chefs around the world.",
+      "source": "https://en.wikipedia.org/wiki/Ratatouille"
+    },
+    {
+      "text": "Pixar's research team traveled to Paris and trained under Thomas Keller at The French Laundry to accurately portray professional kitchen life in Ratatouille.",
+      "source": "https://en.wikipedia.org/wiki/Paris_and"
+    },
+    {
+      "text": "WALL-E (2008) features almost no dialogue in its first 40 minutes, telling a love story through visual storytelling and sound design.",
+      "source": "https://en.wikipedia.org/wiki/WALL-E"
+    },
+    {
+      "text": "\"WALL-E\" — the little robot's name stands for Waste Allocation Load Lifter Earth-class, and his loneliness on an abandoned Earth opens the film.",
+      "source": "https://www.youtube.com/results?search_query=Pixar%20Movies%20WALL-E%20live%20performance"
+    },
+    {
+      "text": "\"Eee-vah!\" — WALL-E's tender pronunciation of EVE's name captured the robot's innocent capacity for love without complex dialogue.",
+      "source": "https://en.wikipedia.org/wiki/Eee-vah"
+    },
+    {
+      "text": "Ben Burtt, the legendary sound designer behind Star Wars' R2-D2, created all of WALL-E's expressive vocal sounds.",
+      "source": "https://en.wikipedia.org/wiki/Ben_Burtt%2C_the_legendary_sound_designer_behind_Star_Wars%27_R2-D2"
+    },
+    {
+      "text": "WALL-E won the Academy Award for Best Animated Feature in 2009 and was widely praised as one of the greatest animated films ever made.",
+      "source": "https://en.wikipedia.org/wiki/WALL-E"
+    },
+    {
+      "text": "WALL-E's environmental message about consumerism and planetary neglect was considered bold for a family film and became more relevant with time.",
+      "source": "https://en.wikipedia.org/wiki/WALL-E%27s_environmental_message_about_consumerism_and_planetary_neglect"
+    },
+    {
+      "text": "Director Andrew Stanton conceived the idea for WALL-E during a lunch in 1994 with John Lasseter, Pete Docter, and Joe Ranft — the same lunch that spawned ideas for A Bug's Life, Finding Nemo, and Monsters, Inc.",
+      "source": "https://en.wikipedia.org/wiki/Director_Andrew_Stanton"
+    },
+    {
+      "text": "The live-action sequences aboard the Axiom in WALL-E were some of the first instances of Pixar blending photorealistic human animation with their signature style.",
+      "source": "https://en.wikipedia.org/wiki/live-action_sequences_aboard_the_Axiom_in_WALL-E"
+    },
+    {
+      "text": "Up (2009) opens with a wordless montage depicting Carl and Ellie's entire life together, widely regarded as one of the most emotionally powerful sequences in cinema history.",
+      "source": "https://en.wikipedia.org/wiki/Up"
+    },
+    {
+      "text": "Ed Asner voiced Carl Fredricksen in Up, bringing gruff tenderness to the elderly widower who ties thousands of balloons to his house.",
+      "source": "https://en.wikipedia.org/wiki/Ed_Asner"
+    },
+    {
+      "text": "\"Adventure is out there!\" — the motto shared by young Carl and Ellie in Up encapsulates the film's spirit of wonder and discovery.",
+      "source": "https://www.youtube.com/results?search_query=Pixar%20Movies%20Adventure%20is%20out%20there%21%20live%20performance"
+    },
+    {
+      "text": "Up was only the second animated film in history to open the Cannes Film Festival, following the same honor given to Shrek 2 in 2004.",
+      "source": "https://en.wikipedia.org/wiki/Up"
+    },
+    {
+      "text": "Up won the Academy Award for Best Animated Feature in 2010 and was also nominated for Best Picture, only the second animated film to receive that honor.",
+      "source": "https://en.wikipedia.org/wiki/Up"
+    },
+    {
+      "text": "Pixar created an entirely new software system to simulate the 10,297 balloons that lift Carl's house in Up, each with independent physics.",
+      "source": "https://en.wikipedia.org/wiki/Pixar"
+    },
+    {
+      "text": "The character of Russell in Up was inspired by Pixar animator Peter Sohn, who also served as a reference model for the character's physical mannerisms.",
+      "source": "https://en.wikipedia.org/wiki/character_of_Russell_in_Up"
+    },
+    {
+      "text": "Dug the talking dog in Up was voiced by Bob Peterson, who co-directed the film. \"I have just met you, and I love you\" became an instant fan-favorite line.",
+      "source": "https://en.wikipedia.org/wiki/I_have_just_met_you%2C_and_I_love_you"
+    },
+    {
+      "text": "Toy Story 3 (2010) earned over $1 billion worldwide, becoming the first animated film to cross that milestone and the highest-grossing film of 2010.",
+      "source": "https://en.wikipedia.org/wiki/Toy_Story_3_(2010)"
+    },
+    {
+      "text": "Toy Story 3's incinerator scene, where the toys hold hands while facing apparent destruction, left audiences of all ages in tears.",
+      "source": "https://en.wikipedia.org/wiki/Toy_Story_3"
+    },
+    {
+      "text": "\"So long, partner\" — Woody's farewell to Andy at the end of Toy Story 3 provided emotional closure to a story that began 15 years earlier.",
+      "source": "https://www.youtube.com/results?search_query=Pixar%20Movies%20So%20long%2C%20partner%20live%20performance"
+    },
+    {
+      "text": "Ned Beatty voiced Lotso, the strawberry-scented teddy bear villain of Toy Story 3, whose backstory of abandonment drives his cruel behavior.",
+      "source": "https://en.wikipedia.org/wiki/Ned_Beatty"
+    },
+    {
+      "text": "Michael Keaton voiced Ken in Toy Story 3, playing Barbie's boyfriend as a vain, fashion-obsessed romantic.",
+      "source": "https://en.wikipedia.org/wiki/Michael_Keaton"
+    },
+    {
+      "text": "Toy Story 3 won the Academy Award for Best Animated Feature in 2011, Pixar's fifth consecutive win in the category.",
+      "source": "https://en.wikipedia.org/wiki/Toy_Story_3"
+    },
+    {
+      "text": "The toys' escape from Sunnyside Daycare in Toy Story 3 is an elaborate homage to classic prison-break films like The Great Escape.",
+      "source": "https://en.wikipedia.org/wiki/toys%27_escape_from_Sunnyside_Daycare_in_Toy_Story_3"
+    },
+    {
+      "text": "Cars 2 (2011) shifted focus to Mater as the main character and added an international spy thriller plot featuring Michael Caine as secret agent Finn McMissile.",
+      "source": "https://en.wikipedia.org/wiki/Cars_2"
+    },
+    {
+      "text": "Cars 2 holds the distinction of being the lowest-rated Pixar film among critics, though it still earned over $559 million worldwide.",
+      "source": "https://en.wikipedia.org/wiki/Cars_2"
+    },
+    {
+      "text": "Brave (2012) was Pixar's first film with a female protagonist and the first set in a specific real-world historical setting — medieval Scotland.",
+      "source": "https://en.wikipedia.org/wiki/Brave"
+    },
+    {
+      "text": "Kelly Macdonald voiced Merida in Brave, replacing original voice actress Reese Witherspoon partway through production.",
+      "source": "https://en.wikipedia.org/wiki/Kelly_Macdonald"
+    },
+    {
+      "text": "Brave won the Academy Award for Best Animated Feature in 2013. Merida's wild, curly red hair required a breakthrough in hair simulation technology.",
+      "source": "https://en.wikipedia.org/wiki/Brave"
+    },
+    {
+      "text": "Merida's hair in Brave contains over 1,500 individually sculpted and simulated curls, making it the most complex hair Pixar had ever animated.",
+      "source": "https://en.wikipedia.org/wiki/Merida%27s_hair_in_Brave"
+    },
+    {
+      "text": "Brave was originally titled \"The Bear and the Bow\" and was directed by Brenda Chapman, making her the first woman to direct a Pixar feature, before Mark Andrews took over.",
+      "source": "https://en.wikipedia.org/wiki/Bear_and_the_Bow"
+    },
+    {
+      "text": "Monsters University (2013) is a prequel to Monsters, Inc. and tells the story of how Mike and Sulley met in college.",
+      "source": "https://en.wikipedia.org/wiki/Monsters_University"
+    },
+    {
+      "text": "Monsters University subverted expectations by having Mike fail to become a top scarer, teaching the lesson that success can come through unexpected paths.",
+      "source": "https://en.wikipedia.org/wiki/Monsters_University"
+    },
+    {
+      "text": "Helen Mirren voiced Dean Hardscrabble, the intimidating head of the School of Scaring in Monsters University.",
+      "source": "https://en.wikipedia.org/wiki/Helen_Mirren"
+    },
+    {
+      "text": "Inside Out (2015) personifies five core emotions — Joy, Sadness, Anger, Fear, and Disgust — living inside the mind of an 11-year-old girl named Riley.",
+      "source": "https://en.wikipedia.org/wiki/Inside_Out"
+    },
+    {
+      "text": "\"Crying helps me slow down and obsess over the weight of life's problems\" — Sadness's honest admission in Inside Out validated emotional vulnerability for audiences worldwide.",
+      "source": "https://www.youtube.com/results?search_query=Pixar%20Movies%20Crying%20helps%20me%20slow%20down%20and%20obsess%20over%20the%20weight%20of%20life%27s%20problems%20live%20performance"
+    },
+    {
+      "text": "Amy Poehler voiced Joy in Inside Out, bringing boundless optimism to the emotion determined to keep Riley happy at all costs.",
+      "source": "https://en.wikipedia.org/wiki/Amy_Poehler"
+    },
+    {
+      "text": "Phyllis Smith voiced Sadness in Inside Out, with her gentle, melancholy delivery becoming the emotional heart of the film.",
+      "source": "https://en.wikipedia.org/wiki/Phyllis_Smith"
+    },
+    {
+      "text": "Inside Out was developed with input from psychologists, including Dr. Dacher Keltner and Dr. Paul Ekman, to accurately portray how emotions function.",
+      "source": "https://en.wikipedia.org/wiki/Inside_Out"
+    },
+    {
+      "text": "Inside Out won the Academy Award for Best Animated Feature in 2016 and was praised for helping children understand and articulate their emotions.",
+      "source": "https://en.wikipedia.org/wiki/Inside_Out"
+    },
+    {
+      "text": "Director Pete Docter was inspired to create Inside Out when he noticed his daughter's personality changing as she entered adolescence.",
+      "source": "https://en.wikipedia.org/wiki/Director_Pete_Docter"
+    },
+    {
+      "text": "The concept of \"core memories\" in Inside Out was created to visualize how key emotional experiences shape personality and identity.",
+      "source": "https://www.youtube.com/results?search_query=Pixar%20Movies%20core%20memories%20live%20performance"
+    },
+    {
+      "text": "Lewis Black voiced Anger in Inside Out, perfectly channeling his stand-up comedy persona into a character whose head literally catches fire.",
+      "source": "https://en.wikipedia.org/wiki/Lewis_Black"
+    },
+    {
+      "text": "Bill Hader voiced Fear and Mindy Kaling voiced Disgust, rounding out the five emotions inside Riley's mind.",
+      "source": "https://en.wikipedia.org/wiki/Bill_Hader"
+    },
+    {
+      "text": "The Good Dinosaur (2015) imagined what would have happened if the asteroid that caused the dinosaur extinction had missed Earth.",
+      "source": "https://en.wikipedia.org/wiki/Good_Dinosaur"
+    },
+    {
+      "text": "The Good Dinosaur featured some of the most photorealistic landscape rendering ever achieved in animation, with environments nearly indistinguishable from real footage.",
+      "source": "https://en.wikipedia.org/wiki/Good_Dinosaur"
+    },
+    {
+      "text": "The Good Dinosaur underwent significant production challenges, including a complete change of director from Bob Peterson to Peter Sohn midway through development.",
+      "source": "https://en.wikipedia.org/wiki/Good_Dinosaur"
+    },
+    {
+      "text": "Finding Dory (2016) picks up six months after Finding Nemo as Dory remembers fragments of her childhood and sets out to find her parents.",
+      "source": "https://en.wikipedia.org/wiki/Finding_Dory"
+    },
+    {
+      "text": "\"I suffer from short-term memory loss\" — Dory's self-aware explanation of her condition in Finding Dory drove the film's central themes of identity and belonging.",
+      "source": "https://www.youtube.com/results?search_query=Pixar%20Movies%20I%20suffer%20from%20short-term%20memory%20loss%20live%20performance"
+    },
+    {
+      "text": "Finding Dory earned over $1 billion worldwide, making it one of the highest-grossing animated films and proving the enduring love for Dory's character.",
+      "source": "https://en.wikipedia.org/wiki/Finding_Dory"
+    },
+    {
+      "text": "Ed O'Neill voiced Hank the septopus (a seven-tentacled octopus) in Finding Dory, a character so complex he required entirely new animation software.",
+      "source": "https://en.wikipedia.org/wiki/Ed_O%27Neill"
+    },
+    {
+      "text": "Finding Dory featured the Marine Life Institute, inspired by the Monterey Bay Aquarium, whose consulted marine biologists helped ensure accuracy.",
+      "source": "https://en.wikipedia.org/wiki/Finding_Dory_featured_the_Marine_Life_Institute"
+    },
+    {
+      "text": "Ty Burrell voiced Bailey, a beluga whale with echolocation issues in Finding Dory, adding gentle humor to the film.",
+      "source": "https://en.wikipedia.org/wiki/Ty_Burrell"
+    },
+    {
+      "text": "Cars 3 (2017) returned the franchise's focus to Lightning McQueen as he faces being outpaced by a new generation of high-tech racers.",
+      "source": "https://en.wikipedia.org/wiki/Cars_3"
+    },
+    {
+      "text": "Cars 3 introduced Cruz Ramirez, voiced by Cristela Alonzo, a young trainer who harbors her own racing dreams and ultimately becomes the franchise's new hero.",
+      "source": "https://en.wikipedia.org/wiki/Cars_3"
+    },
+    {
+      "text": "Coco (2017) is set during Día de los Muertos (Day of the Dead) and follows young Miguel's journey to the Land of the Dead to learn about his family's history.",
+      "source": "https://en.wikipedia.org/wiki/Coco"
+    },
+    {
+      "text": "\"Remember me, though I have to say goodbye\" — the song from Coco became an emotional anthem about memory, family, and the bonds that transcend death.",
+      "source": "https://www.youtube.com/results?search_query=Pixar%20Movies%20Remember%20me%2C%20though%20I%20have%20to%20say%20goodbye%20live%20performance"
+    },
+    {
+      "text": "Coco won two Academy Awards — Best Animated Feature and Best Original Song for \"Remember Me,\" written by Kristen Anderson-Lopez and Robert Lopez.",
+      "source": "https://www.youtube.com/results?search_query=Pixar%20Movies%20Remember%20Me%2C%20live%20performance"
+    },
+    {
+      "text": "Pixar spent six years researching Mexican culture, traditions, and music to create Coco, consulting with cultural advisors throughout production.",
+      "source": "https://en.wikipedia.org/wiki/Pixar"
+    },
+    {
+      "text": "Gael García Bernal voiced Héctor in Coco, the charming trickster skeleton who becomes Miguel's guide through the Land of the Dead.",
+      "source": "https://en.wikipedia.org/wiki/Gael_Garc%C3%ADa_Bernal_voiced_H%C3%A9ctor_in_Coco%2C_the_charming_trickster_skeleton_who"
+    },
+    {
+      "text": "Anthony Gonzalez was just 12 years old when he voiced Miguel in Coco, selected from hundreds of auditions for his natural singing ability and emotional range.",
+      "source": "https://en.wikipedia.org/wiki/Anthony_Gonzalez"
+    },
+    {
+      "text": "Coco earned over $807 million worldwide and became a cultural phenomenon in Mexico, where audiences celebrated its respectful portrayal of their traditions.",
+      "source": "https://en.wikipedia.org/wiki/Coco"
+    },
+    {
+      "text": "Initially, Disney attempted to trademark \"Día de los Muertos\" for Coco's marketing, which sparked public backlash and was quickly abandoned.",
+      "source": "https://www.youtube.com/results?search_query=Pixar%20Movies%20D%C3%ADa%20de%20los%20Muertos%20live%20performance"
+    },
+    {
+      "text": "The character of Mama Coco was inspired by real Mexican grandmothers, and her fading memory represents the film's theme that people truly die only when they are forgotten.",
+      "source": "https://en.wikipedia.org/wiki/character_of_Mama_Coco"
+    },
+    {
+      "text": "Incredibles 2 (2018) picked up immediately where the first film ended and focused on Elastigirl taking the superhero spotlight while Mr. Incredible stays home with the kids.",
+      "source": "https://en.wikipedia.org/wiki/Incredibles_2"
+    },
+    {
+      "text": "Incredibles 2 earned over $1.2 billion worldwide, making it the highest-grossing animated film at the time of its release and the highest-grossing Pixar film ever.",
+      "source": "https://en.wikipedia.org/wiki/Incredibles_2"
+    },
+    {
+      "text": "Jack-Jack's 17 superpowers in Incredibles 2 — including laser eyes, multiplication, and monster transformation — created enormous animation challenges for the team.",
+      "source": "https://en.wikipedia.org/wiki/Jack-Jack%27s_17"
+    },
+    {
+      "text": "Brad Bird returned to write and direct Incredibles 2, fourteen years after the original, making it one of the longest gaps between a Pixar film and its sequel.",
+      "source": "https://en.wikipedia.org/wiki/Brad_Bird"
+    },
+    {
+      "text": "Bob Odenkirk voiced Winston Deavor and Catherine Keener voiced Evelyn Deavor in Incredibles 2, with the siblings' names forming a play on \"we endeavor.\"",
+      "source": "https://en.wikipedia.org/wiki/we_endeavor"
+    },
+    {
+      "text": "Toy Story 4 (2019) introduced Forky, a spork-turned-toy voiced by Tony Hale who struggles with an existential crisis about whether he is trash or a toy.",
+      "source": "https://en.wikipedia.org/wiki/Toy_Story_4_(2019)"
+    },
+    {
+      "text": "\"I'm not a toy! I was made for soup, salad, maybe chili, and then the trash!\" — Forky's protests in Toy Story 4 turned an anxious spork into an unexpectedly relatable character.",
+      "source": "https://en.wikipedia.org/wiki/I%27m_not_a_toy%21_I_was_made_for_soup%2C_salad%2C_maybe_chili%2C_and_then_the_trash"
+    },
+    {
+      "text": "Toy Story 4 introduced Bo Peep as a strong, independent \"lost toy\" who has thrived outside of being owned by a child.",
+      "source": "https://en.wikipedia.org/wiki/lost_toy"
+    },
+    {
+      "text": "Keanu Reeves voiced Duke Caboom, a Canadian stuntman toy in Toy Story 4, basing his performance on Evel Knievel-inspired action figures.",
+      "source": "https://en.wikipedia.org/wiki/Keanu_Reeves"
+    },
+    {
+      "text": "Toy Story 4 won the Academy Award for Best Animated Feature in 2020, giving the franchise three Oscar wins across its four films.",
+      "source": "https://en.wikipedia.org/wiki/Toy_Story_4"
+    },
+    {
+      "text": "Christina Hendricks voiced Gabby Gabby, Toy Story 4's sympathetic villain — a vintage doll with a broken voicebox seeking a child's love.",
+      "source": "https://en.wikipedia.org/wiki/Christina_Hendricks"
+    },
+    {
+      "text": "Toy Story 4 was the final Pixar film overseen by John Lasseter before his departure from the company in 2018.",
+      "source": "https://en.wikipedia.org/wiki/Toy_Story_4"
+    },
+    {
+      "text": "Onward (2020) is set in a suburban fantasy world where magic has been replaced by technology, following two elf brothers on a quest to bring back their father for one day.",
+      "source": "https://en.wikipedia.org/wiki/Onward"
+    },
+    {
+      "text": "Tom Holland and Chris Pratt voiced the elf brothers Ian and Barley Lightfoot in Onward, bringing genuine sibling chemistry to the roles.",
+      "source": "https://en.wikipedia.org/wiki/Tom_Holland_and_Chris_Pratt"
+    },
+    {
+      "text": "Onward was inspired by director Dan Scanlon's personal experience of losing his father as a young child and having almost no memories of him.",
+      "source": "https://en.wikipedia.org/wiki/Onward"
+    },
+    {
+      "text": "Onward was released in March 2020, just as COVID-19 lockdowns began worldwide, significantly impacting its theatrical performance.",
+      "source": "https://en.wikipedia.org/wiki/Onward"
+    },
+    {
+      "text": "Julia Louis-Dreyfus voiced Laurel Lightfoot, the brothers' adventurous mother, in Onward.",
+      "source": "https://en.wikipedia.org/wiki/Julia_Louis-Dreyfus"
+    },
+    {
+      "text": "Octavia Spencer voiced the Manticore, a once-fearsome mythical creature reduced to managing a family restaurant in Onward.",
+      "source": "https://en.wikipedia.org/wiki/Octavia_Spencer"
+    },
+    {
+      "text": "Soul (2020) was Pixar's first film to feature an African American protagonist, jazz musician Joe Gardner, voiced by Jamie Foxx.",
+      "source": "https://en.wikipedia.org/wiki/Soul"
+    },
+    {
+      "text": "\"Is all this living really worth dying for?\" — Soul's exploration of purpose and passion challenged audiences to consider what makes life truly meaningful.",
+      "source": "https://en.wikipedia.org/wiki/Is_all_this_living_really_worth_dying_for"
+    },
+    {
+      "text": "Tina Fey voiced 22, a soul in the \"Great Before\" who has resisted being born to Earth for thousands of years in Soul.",
+      "source": "https://en.wikipedia.org/wiki/Great_Before"
+    },
+    {
+      "text": "Soul was directed by Pete Docter and co-directed by Kemp Powers, marking the first time an African American filmmaker co-directed a Pixar feature.",
+      "source": "https://en.wikipedia.org/wiki/Soul"
+    },
+    {
+      "text": "Soul won the Academy Award for Best Animated Feature in 2021, along with the award for Best Animated Feature at the Golden Globes.",
+      "source": "https://en.wikipedia.org/wiki/Soul"
+    },
+    {
+      "text": "Jon Batiste composed the jazz performances in Soul, while Trent Reznor and Atticus Ross created the ethereal music of the Great Before.",
+      "source": "https://en.wikipedia.org/wiki/Jon_Batiste_composed_the_jazz_performances_in_Soul%2C_while_Trent_Reznor_and_Atticus_Ross"
+    },
+    {
+      "text": "Soul was released directly on Disney+ on Christmas Day 2020 due to the COVID-19 pandemic, bypassing a traditional theatrical release.",
+      "source": "https://en.wikipedia.org/wiki/Soul"
+    },
+    {
+      "text": "The portrayal of New York City in Soul is among the most detailed urban environments Pixar has ever created, with accurate depictions of specific neighborhoods.",
+      "source": "https://en.wikipedia.org/wiki/portrayal_of_New_York_City_in_Soul"
+    },
+    {
+      "text": "Soul won the Academy Award for Best Original Score for Trent Reznor, Atticus Ross, and Jon Batiste's work.",
+      "source": "https://en.wikipedia.org/wiki/Soul"
+    },
+    {
+      "text": "Luca (2021) is set on the Italian Riviera and follows two sea monster boys who disguise themselves as humans to experience life above the surface.",
+      "source": "https://en.wikipedia.org/wiki/Luca"
+    },
+    {
+      "text": "Director Enrico Casarosa based Luca on his own childhood friendship growing up in Genoa, Italy.",
+      "source": "https://en.wikipedia.org/wiki/Director_Enrico_Casarosa"
+    },
+    {
+      "text": "Luca was released directly on Disney+ without a theatrical release, continuing Pixar's pandemic-era streaming strategy.",
+      "source": "https://en.wikipedia.org/wiki/Luca"
+    },
+    {
+      "text": "Jacob Tremblay and Jack Dylan Grazer voiced the young sea monster friends Luca and Alberto in Luca.",
+      "source": "https://en.wikipedia.org/wiki/Jacob_Tremblay_and_Jack_Dylan_Grazer"
+    },
+    {
+      "text": "\"Silenzio, Bruno!\" — Alberto's catchphrase in Luca about silencing the voice of self-doubt resonated with audiences dealing with their own inner critics.",
+      "source": "https://en.wikipedia.org/wiki/Silenzio%2C_Bruno"
+    },
+    {
+      "text": "Luca's simple, stylized animation style was a deliberate departure from Pixar's typical photorealism, inspired by hand-drawn Italian illustrations.",
+      "source": "https://en.wikipedia.org/wiki/Luca%27s_simple%2C_stylized_animation_style"
+    },
+    {
+      "text": "Turning Red (2022) was Pixar's first film directed solely by a woman, Domee Shi, who previously directed the Oscar-winning Pixar short Bao.",
+      "source": "https://en.wikipedia.org/wiki/Turning_Red"
+    },
+    {
+      "text": "Turning Red is set in Toronto in 2002 and follows 13-year-old Mei Lee, who transforms into a giant red panda whenever she feels strong emotions.",
+      "source": "https://en.wikipedia.org/wiki/Turning_Red"
+    },
+    {
+      "text": "Turning Red was praised for its honest portrayal of puberty, mother-daughter relationships, and the intensity of being a teenage fangirl.",
+      "source": "https://en.wikipedia.org/wiki/Turning_Red"
+    },
+    {
+      "text": "Sandra Oh voiced Ming Lee, Mei's overbearing but loving mother, in Turning Red.",
+      "source": "https://en.wikipedia.org/wiki/Sandra_Oh"
+    },
+    {
+      "text": "Rosalie Chiang voiced Mei Lee in Turning Red, having been cast at age 10 when she auditioned for a scratch voice role.",
+      "source": "https://en.wikipedia.org/wiki/Rosalie_Chiang"
+    },
+    {
+      "text": "Turning Red was released directly on Disney+ in March 2022, making it the third consecutive Pixar film to skip traditional theatrical release.",
+      "source": "https://en.wikipedia.org/wiki/Turning_Red"
+    },
+    {
+      "text": "The fictional boy band 4*Town in Turning Red features original songs written by Billie Eilish and Finneas O'Connell.",
+      "source": "https://en.wikipedia.org/wiki/fictional_boy_band_4%2ATown_in_Turning_Red"
+    },
+    {
+      "text": "Lightyear (2022) is a sci-fi adventure depicting the fictional movie that inspired the Buzz Lightyear toy in the Toy Story universe.",
+      "source": "https://en.wikipedia.org/wiki/Lightyear"
+    },
+    {
+      "text": "Chris Evans replaced Tim Allen as the voice of Buzz Lightyear in Lightyear, voicing the \"real\" astronaut the toy was based on.",
+      "source": "https://en.wikipedia.org/wiki/real"
+    },
+    {
+      "text": "Lightyear underperformed at the box office relative to expectations, earning $226 million worldwide against a $200 million production budget.",
+      "source": "https://en.wikipedia.org/wiki/Pixar_Movies"
+    },
+    {
+      "text": "Peter Sohn voiced Sox, the robotic cat companion in Lightyear, who became the film's breakout character and fan favorite.",
+      "source": "https://en.wikipedia.org/wiki/Peter_Sohn_voiced_Sox%2C_the_robotic_cat_companion_in_Lightyear%2C_who"
+    },
+    {
+      "text": "Elemental (2023) is set in Element City, where residents of fire, water, earth, and air live together, and follows a fire element named Ember who befriends a water element named Wade.",
+      "source": "https://en.wikipedia.org/wiki/Elemental"
+    },
+    {
+      "text": "Leah Lewis and Mamoudou Athie voiced Ember and Wade in Elemental, a fire-and-water couple whose relationship defies their city's cultural divisions.",
+      "source": "https://en.wikipedia.org/wiki/Leah_Lewis_and_Mamoudou_Athie"
+    },
+    {
+      "text": "Director Peter Sohn based Elemental on his own experience as the child of Korean immigrants, exploring themes of assimilation and cultural identity.",
+      "source": "https://en.wikipedia.org/wiki/Director_Peter_Sohn"
+    },
+    {
+      "text": "Elemental had the weakest opening weekend of any Pixar theatrical release but recovered through strong word-of-mouth and international performance, eventually earning over $496 million.",
+      "source": "https://en.wikipedia.org/wiki/Elemental"
+    },
+    {
+      "text": "Inside Out 2 (2024) introduces new emotions — Anxiety, Envy, Ennui, and Embarrassment — as Riley enters her teenage years.",
+      "source": "https://en.wikipedia.org/wiki/Inside_Out_2"
+    },
+    {
+      "text": "Maya Hawke voiced Anxiety in Inside Out 2, a frenetic new emotion who takes over headquarters as Riley faces the stress of high school.",
+      "source": "https://en.wikipedia.org/wiki/Maya_Hawke_voiced_Anxiety_in_Inside_Out_2%2C_a_frenetic_new_emotion_who"
+    },
+    {
+      "text": "Inside Out 2 became the highest-grossing animated film of all time, surpassing Frozen II with over $1.6 billion worldwide.",
+      "source": "https://en.wikipedia.org/wiki/Inside_Out_2"
+    },
+    {
+      "text": "Inside Out 2 was the first film of 2024 to cross the $1 billion mark at the global box office.",
+      "source": "https://en.wikipedia.org/wiki/Inside_Out_2"
+    },
+    {
+      "text": "Amy Poehler returned to voice Joy in Inside Out 2, anchoring the emotional journey as Riley's inner world grows more complex.",
+      "source": "https://en.wikipedia.org/wiki/Amy_Poehler"
+    },
+    {
+      "text": "Ayo Edebiri voiced Envy, Adèle Exarchopoulos voiced Ennui, and Paul Walter Hauser voiced Embarrassment in Inside Out 2.",
+      "source": "https://en.wikipedia.org/wiki/Ayo_Edebiri"
+    },
+    {
+      "text": "Inside Out 2 explores the concept of a \"Sense of Self\" and how anxiety can distort a person's core beliefs during adolescence.",
+      "source": "https://en.wikipedia.org/wiki/Sense_of_Self"
+    },
+    {
+      "text": "Elio (2025) follows a boy who is accidentally beamed up to an intergalactic community and mistaken for Earth's ambassador.",
+      "source": "https://en.wikipedia.org/wiki/Elio"
+    },
+    {
+      "text": "Pixar's Braintrust is a group of the studio's top creative leaders who meet regularly to give candid feedback on films in development.",
+      "source": "https://en.wikipedia.org/wiki/Pixar%27s_Braintrust"
+    },
+    {
+      "text": "The Braintrust model at Pixar was pioneered by Ed Catmull and described in his book Creativity, Inc. as essential to the studio's success.",
+      "source": "https://en.wikipedia.org/wiki/Braintrust_model_at_Pixar"
+    },
+    {
+      "text": "A key rule of Pixar's Braintrust is that feedback is given to the director without prescriptive solutions — the director decides how to solve problems.",
+      "source": "https://en.wikipedia.org/wiki/A_key_rule_of_Pixar%27s_Braintrust"
+    },
+    {
+      "text": "Pixar's short films, screened before their features in theaters, serve as a proving ground for new directors and experimental animation techniques.",
+      "source": "https://en.wikipedia.org/wiki/Pixar%27s_short_films%2C_screened_before_their"
+    },
+    {
+      "text": "Geri's Game (1997), a Pixar short about an old man playing chess against himself, won the Academy Award for Best Animated Short Film.",
+      "source": "https://en.wikipedia.org/wiki/Geri%27s_Game"
+    },
+    {
+      "text": "For the Birds (2000), a Pixar short about small birds bullying a large one on a telephone wire, won the Academy Award for Best Animated Short Film.",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "The short film Bao (2018), about a Chinese-Canadian mother whose dumpling comes to life, won the Academy Award for Best Animated Short Film.",
+      "source": "https://en.wikipedia.org/wiki/Bao"
+    },
+    {
+      "text": "Pixar's short film Piper (2016) follows a baby sandpiper learning to find food on the beach and pushed the boundaries of photorealistic feather rendering.",
+      "source": "https://en.wikipedia.org/wiki/Piper"
+    },
+    {
+      "text": "La Luna (2011), a Pixar short about a boy learning to sweep stars on the moon, was nominated for the Academy Award for Best Animated Short Film.",
+      "source": "https://en.wikipedia.org/wiki/La_Luna"
+    },
+    {
+      "text": "Partly Cloudy (2009) is a Pixar short that imagines clouds creating babies for storks to deliver, with one cloud who specializes in dangerous animals.",
+      "source": "https://en.wikipedia.org/wiki/Partly_Cloudy"
+    },
+    {
+      "text": "Day & Night (2010) was an experimental Pixar short that combined 2D and 3D animation, with two characters whose bodies serve as windows into different worlds.",
+      "source": "https://en.wikipedia.org/wiki/Night"
+    },
+    {
+      "text": "Pixar's short film Kitbull (2019) tells the story of an unlikely friendship between a stray kitten and an abused pit bull, tackling animal cruelty.",
+      "source": "https://en.wikipedia.org/wiki/Kitbull"
+    },
+    {
+      "text": "Burrow (2020), directed by Madeline Sharafian, was the first Pixar SparkShorts film directed by a woman and tells the story of a rabbit building an underground home.",
+      "source": "https://en.wikipedia.org/wiki/Burrow"
+    },
+    {
+      "text": "SparkShorts is a Pixar program that gives employees small budgets, short timelines, and creative freedom to explore personal stories and experimental animation.",
+      "source": "https://en.wikipedia.org/wiki/SparkShorts"
+    },
+    {
+      "text": "Pixar was acquired by The Walt Disney Company in 2006 for $7.4 billion in an all-stock transaction, making Steve Jobs Disney's largest individual shareholder.",
+      "source": "https://en.wikipedia.org/wiki/Pixar"
+    },
+    {
+      "text": "After the Disney acquisition, Ed Catmull and John Lasseter were given leadership over both Pixar and Walt Disney Animation Studios.",
+      "source": "https://en.wikipedia.org/wiki/After_the_Disney_acquisition%2C_Ed_Catmull_and_John_Lasseter"
+    },
+    {
+      "text": "Steve Jobs negotiated the Disney acquisition of Pixar in part to protect the studio's unique creative culture from corporate interference.",
+      "source": "https://en.wikipedia.org/wiki/Steve_Jobs"
+    },
+    {
+      "text": "Under Pixar's creative leadership following the Disney merger, Walt Disney Animation Studios experienced a renaissance with films like Tangled, Frozen, and Zootopia.",
+      "source": "https://en.wikipedia.org/wiki/Under_Pixar%27s"
+    },
+    {
+      "text": "Pixar's headquarters in Emeryville, California, was designed by Steve Jobs to encourage chance encounters and collaboration among employees.",
+      "source": "https://en.wikipedia.org/wiki/Pixar%27s_headquarters_in_Emeryville%2C_California"
+    },
+    {
+      "text": "Steve Jobs insisted that Pixar's building have a central atrium with the only bathrooms, mailboxes, and cafeteria to force people from different departments to interact.",
+      "source": "https://en.wikipedia.org/wiki/Steve_Jobs_insisted_that_Pixar%27s_building"
+    },
+    {
+      "text": "The main building at Pixar's campus is named the Steve Jobs Building in honor of the co-founder who shaped the studio's business and culture.",
+      "source": "https://en.wikipedia.org/wiki/main_building_at_Pixar%27s_campus"
+    },
+    {
+      "text": "Pixar artists are encouraged to take classes in sculpting, drawing, and filmmaking at Pixar University, the studio's in-house educational program.",
+      "source": "https://en.wikipedia.org/wiki/Pixar_artists"
+    },
+    {
+      "text": "Pixar's campus features a swimming pool, volleyball court, soccer field, and a cereal bar stocked with over 20 varieties of cereal.",
+      "source": "https://en.wikipedia.org/wiki/Pixar%27s_campus"
+    },
+    {
+      "text": "Every Pixar employee, from security guards to directors, is encouraged to give notes on films in development, fostering an egalitarian creative culture.",
+      "source": "https://en.wikipedia.org/wiki/Every_Pixar_employee%2C_from_security_guards_to_directors"
+    },
+    {
+      "text": "Pixar has won 23 Academy Awards, including multiple wins for Best Animated Feature, Best Animated Short Film, and special achievement awards.",
+      "source": "https://en.wikipedia.org/wiki/Pixar"
+    },
+    {
+      "text": "Pixar has won the Academy Award for Best Animated Feature 12 times, more than any other studio in the history of the award.",
+      "source": "https://en.wikipedia.org/wiki/Pixar"
+    },
+    {
+      "text": "The Academy Award for Best Animated Feature was first given in 2002; Pixar has dominated the category since its inception.",
+      "source": "https://en.wikipedia.org/wiki/Academy_Award_for_Best_Animated_Feature"
+    },
+    {
+      "text": "Randy Newman has composed the scores for multiple Pixar films including all four Toy Story films, A Bug's Life, Monsters Inc., and Cars.",
+      "source": "https://en.wikipedia.org/wiki/Randy_Newman"
+    },
+    {
+      "text": "Randy Newman's \"You've Got a Friend in Me\" from Toy Story has become the unofficial anthem of Pixar and one of the most recognizable songs in animation.",
+      "source": "https://www.youtube.com/results?search_query=Pixar%20Movies%20You%27ve%20Got%20a%20Friend%20in%20Me%20live%20performance"
+    },
+    {
+      "text": "Michael Giacchino composed the scores for The Incredibles, Ratatouille, Up, Inside Out, and Coco, becoming one of Pixar's most prolific composers.",
+      "source": "https://en.wikipedia.org/wiki/Michael_Giacchino"
+    },
+    {
+      "text": "Michael Giacchino won the Academy Award for Best Original Score for his work on Up (2009).",
+      "source": "https://en.wikipedia.org/wiki/Up"
+    },
+    {
+      "text": "Thomas Newman composed the scores for Finding Nemo, Finding Dory, and WALL-E, bringing a unique acoustic style to Pixar's underwater and sci-fi worlds.",
+      "source": "https://en.wikipedia.org/wiki/Thomas_Newman"
+    },
+    {
+      "text": "Pixar's first feature film, Toy Story, had a budget of $30 million. By comparison, Incredibles 2's budget was approximately $200 million.",
+      "source": "https://en.wikipedia.org/wiki/Pixar%27s_first_feature_film%2C_Toy_Story"
+    },
+    {
+      "text": "Every Pixar film from Toy Story through Inside Out debuted at number one at the domestic box office.",
+      "source": "https://en.wikipedia.org/wiki/Every_Pixar"
+    },
+    {
+      "text": "As of 2024, Pixar films have grossed over $16 billion at the worldwide box office combined.",
+      "source": "https://en.wikipedia.org/wiki/As_of_2024%2C_Pixar_films"
+    },
+    {
+      "text": "Pixar traditionally includes bloopers and outtakes during the end credits of their films, a tradition that started with A Bug's Life.",
+      "source": "https://en.wikipedia.org/wiki/Pixar_traditionally"
+    },
+    {
+      "text": "The Pixar theory, popularized by fan Jon Negroni, proposes that all Pixar films exist in a shared universe connected through Easter eggs and timeline clues.",
+      "source": "https://en.wikipedia.org/wiki/Pixar"
+    },
+    {
+      "text": "In Brave, a carving of Sulley from Monsters, Inc. can be spotted in the witch's workshop, fueling Pixar shared universe theories.",
+      "source": "https://en.wikipedia.org/wiki/In_Brave"
+    },
+    {
+      "text": "The Pizza Planet truck has appeared in every Pixar feature film except The Incredibles, making it the studio's most consistent Easter egg.",
+      "source": "https://en.wikipedia.org/wiki/Pizza_Planet_truck"
+    },
+    {
+      "text": "Dinoco, the oil company from Cars, first appeared as a gas station brand in Toy Story, connecting the two films.",
+      "source": "https://en.wikipedia.org/wiki/Dinoco%2C_the_oil_company_from_Cars%2C_first"
+    },
+    {
+      "text": "The number A113 appears in every Pixar film — as a license plate, a room number, or a code — honoring CalArts classroom A113.",
+      "source": "https://en.wikipedia.org/wiki/Pixar_Movies"
+    },
+    {
+      "text": "CalArts classroom A113 has been used by Brad Bird, John Lasseter, Pete Docter, Andrew Stanton, and many other animators who became industry legends.",
+      "source": "https://en.wikipedia.org/wiki/CalArts_classroom_A113"
+    },
+    {
+      "text": "John Ratzenberger, known as Cliff Clavin from Cheers, has voiced a character in every Pixar film from Toy Story through Cars 3, earning him the title of Pixar's \"good luck charm.\"",
+      "source": "https://en.wikipedia.org/wiki/good_luck_charm"
+    },
+    {
+      "text": "In Toy Story, Ratzenberger voiced Hamm the piggy bank; in Monsters, Inc., he was the Abominable Snowman; in Finding Nemo, he was a school of fish.",
+      "source": "https://en.wikipedia.org/wiki/In_Toy_Story%2C_Ratzenberger_voiced_Hamm_the_piggy_bank%3B_in_Monsters%2C_Inc.%2C_he"
+    },
+    {
+      "text": "Pixar developed a proprietary animation system called Marionette that was used to create Toy Story before evolving into more advanced tools.",
+      "source": "https://en.wikipedia.org/wiki/Pixar"
+    },
+    {
+      "text": "Each frame of a modern Pixar film can take anywhere from 6 to 100+ hours to render, depending on complexity.",
+      "source": "https://en.wikipedia.org/wiki/Pixar_Movies"
+    },
+    {
+      "text": "A typical Pixar film takes four to seven years from initial concept to final release.",
+      "source": "https://en.wikipedia.org/wiki/A_typical_Pixar_film"
+    },
+    {
+      "text": "Pixar employs over 1,200 people at its Emeryville campus, including animators, technical directors, story artists, and software engineers.",
+      "source": "https://en.wikipedia.org/wiki/Pixar_Movies"
+    },
+    {
+      "text": "Pixar's story development process typically goes through eight to twelve major script revisions before finalizing.",
+      "source": "https://en.wikipedia.org/wiki/Pixar_Movies"
+    },
+    {
+      "text": "Storyboarding at Pixar is an iterative process where artists create thousands of drawings that are filmed as \"story reels\" to test the narrative before animation begins.",
+      "source": "https://en.wikipedia.org/wiki/story_reels"
+    },
+    {
+      "text": "Pixar was the first animation studio to use ray tracing extensively in their feature films, simulating how light interacts with objects for realistic illumination.",
+      "source": "https://en.wikipedia.org/wiki/Pixar"
+    },
+    {
+      "text": "Global illumination technology developed at Pixar allows light to bounce realistically between surfaces, creating the soft, natural lighting seen in films like Up and Coco.",
+      "source": "https://en.wikipedia.org/wiki/Global_illumination_technology"
+    },
+    {
+      "text": "Pixar developed Presto, their proprietary animation software, which replaced Marionette and allows animators to work more intuitively with character rigs.",
+      "source": "https://en.wikipedia.org/wiki/Pixar"
+    },
+    {
+      "text": "A character rig in Pixar animation can have over 1,000 individual controls that animators use to create facial expressions and body movements.",
+      "source": "https://en.wikipedia.org/wiki/A_character_rig_in_Pixar_animation_can"
+    },
+    {
+      "text": "Mike Wazowski's single eye in Monsters, Inc. required special animation techniques since traditional eye-line principles rely on two eyes for emotional expression.",
+      "source": "https://en.wikipedia.org/wiki/Mike_Wazowski%27s"
+    },
+    {
+      "text": "Pixar's water simulation technology advanced significantly from Finding Nemo to Finding Dory, with the sequel featuring far more complex ocean and aquarium environments.",
+      "source": "https://en.wikipedia.org/wiki/Finding_Nemo_to_Finding_Dory"
+    },
+    {
+      "text": "The dust particles floating in Toy Story's sunlit rooms were among the first examples of volumetric particle rendering in a feature-length animated film.",
+      "source": "https://en.wikipedia.org/wiki/dust_particles_floating_in_Toy_Story%27s_sunlit_rooms"
+    },
+    {
+      "text": "Toy Story required 800,000 machine hours to render, while later Pixar films like Monsters University required over 100 million machine hours.",
+      "source": "https://en.wikipedia.org/wiki/Toy_Story"
+    },
+    {
+      "text": "In Cars, each car has approximately 1,000 times the geometric complexity of a car model in Toy Story.",
+      "source": "https://en.wikipedia.org/wiki/In_Cars%2C_each_car"
+    },
+    {
+      "text": "Pixar's research team published numerous academic papers on cloth simulation, hair dynamics, and fluid physics that advanced the entire field of computer graphics.",
+      "source": "https://en.wikipedia.org/wiki/Pixar_Movies"
+    },
+    {
+      "text": "The cloth simulation in The Incredibles was a major breakthrough, allowing superhero capes and costumes to move realistically for the first time in CGI.",
+      "source": "https://en.wikipedia.org/wiki/cloth_simulation_in_The_Incredibles"
+    },
+    {
+      "text": "Merida's hair in Brave was simulated using a new system called Taz that modeled each curl as a series of connected springs.",
+      "source": "https://en.wikipedia.org/wiki/Merida%27s_hair_in_Brave"
+    },
+    {
+      "text": "Pixar developed the OpenSubdiv library, which they released as open-source software to help other studios create smoother 3D surfaces.",
+      "source": "https://en.wikipedia.org/wiki/Pixar"
+    },
+    {
+      "text": "WALL-E's expressive eyes were inspired by a pair of binoculars, and his whole emotional range is communicated through the angle and distance of his eye-lenses.",
+      "source": "https://en.wikipedia.org/wiki/WALL-E%27s_expressive_eyes"
+    },
+    {
+      "text": "In Up, the production team calculated that it would take 1.5 million balloons to actually lift a house, but settled on 20,622 for the film because it looked right on screen.",
+      "source": "https://en.wikipedia.org/wiki/In_Up"
+    },
+    {
+      "text": "The sushi restaurant in Finding Nemo features a brief shot of a Buzz Lightyear toy, one of many Pixar cross-film Easter eggs.",
+      "source": "https://en.wikipedia.org/wiki/sushi_restaurant_in_Finding_Nemo"
+    },
+    {
+      "text": "Boo gives Sulley a Nemo toy in Monsters, Inc., even though Finding Nemo wouldn't be released for another two years — Pixar had already designed Nemo.",
+      "source": "https://en.wikipedia.org/wiki/Boo_gives_Sulley_a_Nemo_toy_in_Monsters%2C_Inc.%2C_even_though_Finding_Nemo_wouldn%27t_be"
+    },
+    {
+      "text": "In Ratatouille, the shadow of the dog that Remy runs past is a Dug-like silhouette, foreshadowing Up's canine companion.",
+      "source": "https://en.wikipedia.org/wiki/In_Ratatouille%2C_the_shadow_of_the_dog_that_Remy_runs_past"
+    },
+    {
+      "text": "The Toy Story films collectively earned over $3 billion at the worldwide box office across all four installments.",
+      "source": "https://en.wikipedia.org/wiki/Toy_Story_films_collectively"
+    },
+    {
+      "text": "Pete Docter has directed four Pixar films — Monsters, Inc., Up, Inside Out, and Soul — and currently serves as Pixar's Chief Creative Officer.",
+      "source": "https://en.wikipedia.org/wiki/Pete_Docter"
+    },
+    {
+      "text": "Andrew Stanton directed Finding Nemo, WALL-E, and Finding Dory, all of which became critical and commercial successes.",
+      "source": "https://en.wikipedia.org/wiki/Andrew_Stanton_directed_Finding_Nemo%2C_WALL-E%2C_and_Finding_Dory%2C_all_of_which"
+    },
+    {
+      "text": "Lee Unkrich directed Toy Story 3 and co-directed Coco, both of which won the Academy Award for Best Animated Feature.",
+      "source": "https://en.wikipedia.org/wiki/Lee_Unkrich_directed_Toy_Story_3_and_co-directed_Coco%2C_both_of_which"
+    },
+    {
+      "text": "Brad Bird is the only director to have two Pixar films — The Incredibles and Ratatouille — both nominated for the Academy Award for Best Original Screenplay.",
+      "source": "https://en.wikipedia.org/wiki/Brad_Bird"
+    },
+    {
+      "text": "Joe Ranft, who co-wrote and contributed story work to Toy Story, A Bug's Life, and Cars, tragically died in a car accident in 2005 during Cars' production.",
+      "source": "https://en.wikipedia.org/wiki/Joe_Ranft"
+    },
+    {
+      "text": "Cars was dedicated to the memory of Joe Ranft, who was instrumental in developing the story and characters before his passing.",
+      "source": "https://en.wikipedia.org/wiki/Cars"
+    },
+    {
+      "text": "Dan Scanlon directed Monsters University and Onward, with both films drawing on deeply personal life experiences.",
+      "source": "https://en.wikipedia.org/wiki/Dan_Scanlon"
+    },
+    {
+      "text": "Angus MacLane directed Lightyear after previously co-directing Finding Dory, shifting from underwater adventure to space opera.",
+      "source": "https://en.wikipedia.org/wiki/Angus_MacLane"
+    },
+    {
+      "text": "Kelsey Mann directed Inside Out 2, taking on the massive challenge of following up one of Pixar's most beloved films.",
+      "source": "https://en.wikipedia.org/wiki/Kelsey_Mann"
+    },
+    {
+      "text": "Adrian Molina co-directed Coco with Lee Unkrich and co-wrote the screenplay, drawing on his own Mexican heritage.",
+      "source": "https://en.wikipedia.org/wiki/Adrian_Molina"
+    },
+    {
+      "text": "\"There's a snake in my boot!\" — Woody's pull-string catchphrase in Toy Story functions both as a character detail and a meta-joke about toy merchandise.",
+      "source": "https://en.wikipedia.org/wiki/There%27s_a_snake_in_my_boot"
+    },
+    {
+      "text": "\"You. Are. A. TOY! You aren't the real Buzz Lightyear!\" — Woody's confrontation with Buzz in Toy Story sets up the film's central thematic conflict.",
+      "source": "https://en.wikipedia.org/wiki/You._Are._A._TOY%21_You_aren%27t_the_real_Buzz_Lightyear"
+    },
+    {
+      "text": "\"I am a nice shark, not a mindless eating machine\" — Bruce's pledge in Finding Nemo hilariously parodies 12-step recovery programs.",
+      "source": "https://www.youtube.com/results?search_query=Pixar%20Movies%20I%20am%20a%20nice%20shark%2C%20not%20a%20mindless%20eating%20machine%20live%20performance"
+    },
+    {
+      "text": "\"Fish are friends, not food\" — the sharks' mantra in Finding Nemo became a popular vegetarian slogan and meme.",
+      "source": "https://www.youtube.com/results?search_query=Pixar%20Movies%20Fish%20are%20friends%2C%20not%20food%20live%20performance"
+    },
+    {
+      "text": "\"P. Sherman, 42 Wallaby Way, Sydney\" — Dory's one reliable memory in Finding Nemo proved that even a forgetful fish can hold onto what matters most.",
+      "source": "https://www.youtube.com/results?search_query=Pixar%20Movies%20P.%20Sherman%2C%2042%20Wallaby%20Way%2C%20Sydney%20live%20performance"
+    },
+    {
+      "text": "\"I wanted to run the whole operation\" — Lotso's confession in Toy Story 3 reveals the broken bear's desire for control after feeling abandoned.",
+      "source": "https://www.youtube.com/results?search_query=Pixar%20Movies%20I%20wanted%20to%20run%20the%20whole%20operation%20live%20performance"
+    },
+    {
+      "text": "\"I can't stop him, but I can tell you his plan\" — Mirage's defection in The Incredibles marks a turning point in the film's villain arc.",
+      "source": "https://en.wikipedia.org/wiki/I_can%27t_stop_him%2C_but_I_can_tell_you_his_plan"
+    },
+    {
+      "text": "\"I never look back, darling. It distracts from the now.\" — Edna Mode's advice in The Incredibles doubles as a life philosophy.",
+      "source": "https://en.wikipedia.org/wiki/I_never_look_back%2C_darling._It_distracts_from_the_now"
+    },
+    {
+      "text": "\"It's a beautiful day to save this world!\" — the optimistic action hero spirit of The Incredibles inspired themes of family heroism.",
+      "source": "https://en.wikipedia.org/wiki/It%27s_a_beautiful_day_to_save_this_world"
+    },
+    {
+      "text": "\"In the 35 years since, nothing has created quite the same reaction in me\" — Anton Ego's review in Ratatouille, connecting a great dish to childhood memory, moved audiences deeply.",
+      "source": "https://www.youtube.com/results?search_query=Pixar%20Movies%20In%20the%2035%20years%20since%2C%20nothing%20has%20created%20quite%20the%20same%20reaction%20in%20me%20live%20performance"
+    },
+    {
+      "text": "\"Your only limit is your soul\" — Chef Gusteau's ghost tells Remy in Ratatouille, echoing the film's message that passion transcends circumstance.",
+      "source": "https://en.wikipedia.org/wiki/Your_only_limit_is_your_soul"
+    },
+    {
+      "text": "\"Define dancing\" — WALL-E's adorable request to the ship's computer while trying to hold EVE's hand is a quietly touching moment.",
+      "source": "https://en.wikipedia.org/wiki/Define_dancing"
+    },
+    {
+      "text": "\"I don't want to survive. I want to live.\" — the Captain's declaration in WALL-E marks humanity's decision to reclaim Earth and reject complacency.",
+      "source": "https://en.wikipedia.org/wiki/I_don%27t_want_to_survive._I_want_to_live"
+    },
+    {
+      "text": "\"Squirrel!\" — Dug's sudden distraction in Up perfectly captures dog behavior and became one of Pixar's most quoted one-word lines.",
+      "source": "https://en.wikipedia.org/wiki/Squirrel"
+    },
+    {
+      "text": "\"I was hiding under your porch because I love you\" — Dug's honest confession in Up embodies the film's celebration of unconditional loyalty.",
+      "source": "https://en.wikipedia.org/wiki/I_was_hiding_under_your_porch_because_I_love_you"
+    },
+    {
+      "text": "\"The thing about happiness is that you only know you had it when it's gone\" — Bing Bong's observation in Inside Out applies as much to adults as to Riley.",
+      "source": "https://en.wikipedia.org/wiki/thing_about_happiness_is_that_you_only_know_you_had_it_when_it%27s_gone"
+    },
+    {
+      "text": "\"Take her to the moon for me\" — Bing Bong's final words to Joy as he sacrifices himself in Inside Out is one of Pixar's most devastating emotional moments.",
+      "source": "https://www.youtube.com/results?search_query=Pixar%20Movies%20Take%20her%20to%20the%20moon%20for%20me%20live%20performance"
+    },
+    {
+      "text": "\"Who is the monster and who is the man?\" — while from another Disney film, the theme runs through Monsters, Inc., which reveals that children are not the dangerous ones.",
+      "source": "https://en.wikipedia.org/wiki/Who_is_the_monster_and_who_is_the_man"
+    },
+    {
+      "text": "\"She's the boss, you're the boss, I just work here\" — Mike's acceptance of Boo's chaos in Monsters, Inc. mirrors every babysitter's reality.",
+      "source": "https://en.wikipedia.org/wiki/She%27s_the_boss%2C_you%27re_the_boss%2C_I_just_work_here"
+    },
+    {
+      "text": "\"I am speed\" — Lightning McQueen's pre-race mantra in Cars establishes his initial arrogance before his character transformation.",
+      "source": "https://en.wikipedia.org/wiki/I_am_speed"
+    },
+    {
+      "text": "\"The world is a beautiful place and it's worth fighting for\" — Pixar films consistently return to this optimistic worldview across their entire catalog.",
+      "source": "https://en.wikipedia.org/wiki/world_is_a_beautiful_place_and_it%27s_worth_fighting_for"
+    },
+    {
+      "text": "\"Is there a point to any of this?\" — Joe Gardner's existential question in Soul challenges audiences to find meaning not in achievement, but in the everyday experience of living.",
+      "source": "https://en.wikipedia.org/wiki/Is_there_a_point_to_any_of_this"
+    },
+    {
+      "text": "\"A spark is not a soul's purpose\" — the twist revelation in Soul redefines what motivates us, suggesting passion is about living fully rather than fulfilling a single destiny.",
+      "source": "https://en.wikipedia.org/wiki/A_spark_is_not_a_soul%27s_purpose"
+    },
+    {
+      "text": "\"Some people are worth melting for\" — while that's from Frozen, Pixar's own version of sacrificial love appears throughout their films, from Bing Bong to Héctor.",
+      "source": "https://en.wikipedia.org/wiki/Some_people_are_worth_melting_for"
+    },
+    {
+      "text": "\"Seize the day. Because, believe it or not, each and every one of us in this room is one day going to stop breathing\" — Mr. Incredible's motivational undercurrent echoes through Pixar storytelling.",
+      "source": "https://en.wikipedia.org/wiki/Seize_the_day._Because%2C_believe_it_or_not%2C_each_and_every_one_of_us_in_this_room"
+    },
+    {
+      "text": "\"The family Madrigal\" — while from Encanto, Pixar's Coco similarly celebrates multigenerational family bonds as the foundation of identity and belonging.",
+      "source": "https://en.wikipedia.org/wiki/family_Madrigal"
+    },
+    {
+      "text": "\"I'm not crying, you're crying\" — though not from any specific Pixar film, this phrase became synonymous with the Pixar viewing experience.",
+      "source": "https://en.wikipedia.org/wiki/I%27m_not_crying%2C_you%27re_crying"
+    },
+    {
+      "text": "Pixar has a tradition of producing teaser trailers that feature original scenes not in the final film, giving audiences a taste of the characters without spoiling the story.",
+      "source": "https://en.wikipedia.org/wiki/Pixar"
+    },
+    {
+      "text": "The emotional storytelling model at Pixar follows the principle that audiences must care about the character before any action or spectacle matters.",
+      "source": "https://en.wikipedia.org/wiki/Pixar_Movies"
+    },
+    {
+      "text": "Pixar's story rule #1, according to former story artist Emma Coats, is: \"You admire a character for trying more than for their successes.\"",
+      "source": "https://en.wikipedia.org/wiki/You_admire_a_character_for_trying_more_than_for_their_successes"
+    },
+    {
+      "text": "Pixar developed 22 \"Rules of Storytelling\" shared by Emma Coats, which became widely adopted in creative writing, filmmaking, and game design worldwide.",
+      "source": "https://en.wikipedia.org/wiki/Rules_of_Storytelling"
+    },
+    {
+      "text": "Pixar films frequently use the structure of having the protagonist want something but need something different, creating rich internal conflicts.",
+      "source": "https://en.wikipedia.org/wiki/Pixar_Movies"
+    },
+    {
+      "text": "Andrew Stanton's TED Talk, \"The Clues to a Great Story,\" drew heavily on Pixar's storytelling philosophy and emphasized the importance of making audiences \"work for their meal.\"",
+      "source": "https://en.wikipedia.org/wiki/Clues_to_a_Great_Story"
+    },
+    {
+      "text": "The first Pixar film to ever receive a sequel at the studio was Toy Story 2, setting the precedent that sequels would only be made if the story justified it.",
+      "source": "https://en.wikipedia.org/wiki/first_Pixar_film_to_ever_receive_a_sequel_at_the_studio"
+    },
+    {
+      "text": "Pixar's original films are typically developed in-house from original concepts, unlike many studios that adapt existing intellectual properties.",
+      "source": "https://en.wikipedia.org/wiki/Pixar%27s_original_films"
+    },
+    {
+      "text": "Pixar won the Academy Scientific and Technical Award in 2001 for developing RenderMan, recognizing its impact on the visual effects industry.",
+      "source": "https://en.wikipedia.org/wiki/Pixar"
+    },
+    {
+      "text": "RenderMan was used to create visual effects in the original Jurassic Park, Titanic, The Lord of the Rings, and Harry Potter films.",
+      "source": "https://en.wikipedia.org/wiki/RenderMan"
+    },
+    {
+      "text": "Pixar made RenderMan free for non-commercial use in 2014, democratizing professional-grade rendering technology for independent artists and students.",
+      "source": "https://en.wikipedia.org/wiki/Pixar_Movies"
+    },
+    {
+      "text": "Ed Catmull's research on texture mapping and subdivision surfaces in the 1970s laid the mathematical foundation for all modern 3D computer graphics.",
+      "source": "https://en.wikipedia.org/wiki/Ed_Catmull%27s"
+    },
+    {
+      "text": "Ed Catmull earned a PhD in computer science from the University of Utah, where he studied under Ivan Sutherland, the father of computer graphics.",
+      "source": "https://en.wikipedia.org/wiki/Ed_Catmull"
+    },
+    {
+      "text": "Alvy Ray Smith, Pixar co-founder, made fundamental contributions to computer paint programs and alpha channel compositing.",
+      "source": "https://en.wikipedia.org/wiki/Alvy_Ray_Smith"
+    },
+    {
+      "text": "Before Pixar, Alvy Ray Smith and Ed Catmull worked at the New York Institute of Technology's Computer Graphics Lab, a pioneering research facility.",
+      "source": "https://en.wikipedia.org/wiki/Before_Pixar"
+    },
+    {
+      "text": "Pixar's early short film The Adventures of André and Wally B. (1984) was one of the first CGI animated shorts and demonstrated motion blur techniques.",
+      "source": "https://en.wikipedia.org/wiki/Wally_B"
+    },
+    {
+      "text": "Tin Toy (1988) was the first CGI film to win an Academy Award for Best Animated Short Film and directly inspired the concept for Toy Story.",
+      "source": "https://en.wikipedia.org/wiki/Tin_Toy"
+    },
+    {
+      "text": "Knick Knack (1989) is a Pixar short about a snowman trapped inside a snow globe trying to escape and join a group of tropical souvenirs.",
+      "source": "https://en.wikipedia.org/wiki/Knick_Knack"
+    },
+    {
+      "text": "Red's Dream (1987) is an early Pixar short about a unicycle in a bike shop that dreams of performing in the circus.",
+      "source": "https://en.wikipedia.org/wiki/Red%27s_Dream"
+    },
+    {
+      "text": "Pixar's short film Lifted (2007) is a comedy about an alien teenager struggling to abduct a sleeping human during what appears to be a driving test equivalent.",
+      "source": "https://en.wikipedia.org/wiki/Lifted"
+    },
+    {
+      "text": "Presto (2008), a Pixar short about a magician and his defiant rabbit, was inspired by classic Bugs Bunny and Tex Avery cartoons.",
+      "source": "https://en.wikipedia.org/wiki/Presto"
+    },
+    {
+      "text": "The Blue Umbrella (2013) is a Pixar short that tells a love story between two umbrellas, featuring photorealistic rain effects that pushed rendering technology.",
+      "source": "https://en.wikipedia.org/wiki/Blue_Umbrella"
+    },
+    {
+      "text": "Sanjay's Super Team (2015), directed by Sanjay Patel, was the first Pixar short to feature Indian culture and Hindu mythology.",
+      "source": "https://en.wikipedia.org/wiki/Sanjay%27s_Super_Team"
+    },
+    {
+      "text": "Out (2020) was the first Pixar production to feature an openly gay main character, released as part of the SparkShorts program on Disney+.",
+      "source": "https://en.wikipedia.org/wiki/Out"
+    },
+    {
+      "text": "Float (2019), a SparkShorts film by Bobby Rubio, is about a father hiding his son's ability to float, serving as a metaphor for autism acceptance.",
+      "source": "https://en.wikipedia.org/wiki/Float"
+    },
+    {
+      "text": "Twenty Something (2021) is a SparkShorts film about turning 21 and the anxiety of transitioning from teenager to adult, using visual metaphors of literal masks.",
+      "source": "https://en.wikipedia.org/wiki/Twenty_Something"
+    },
+    {
+      "text": "Wind (2019) is a SparkShorts film about a grandmother and grandson trapped in a sinkhole, inspired by the director's Korean immigrant family experience.",
+      "source": "https://en.wikipedia.org/wiki/Wind"
+    },
+    {
+      "text": "Loop (2020) is a SparkShorts film featuring a nonverbal autistic girl paired with a talkative boy on a lake canoe trip, exploring communication beyond words.",
+      "source": "https://en.wikipedia.org/wiki/Loop"
+    },
+    {
+      "text": "Pixar's Emeryville campus sits on the site of the former Del Monte canning factory, and the studio preserved some of the original industrial architecture.",
+      "source": "https://en.wikipedia.org/wiki/Pixar%27s_Emeryville"
+    },
+    {
+      "text": "Steve Jobs reportedly spent over $100 million of his own money keeping Pixar alive during the years before Toy Story proved the studio's viability.",
+      "source": "https://en.wikipedia.org/wiki/Steve_Jobs_reportedly"
+    },
+    {
+      "text": "When Disney acquired Pixar, Steve Jobs became Disney's largest individual shareholder, owning approximately 7% of the company.",
+      "source": "https://en.wikipedia.org/wiki/When_Disney_acquired_Pixar%2C_Steve_Jobs"
+    },
+    {
+      "text": "The Pixar deal made Steve Jobs a billionaire through Disney stock, and he remained on Disney's board of directors until his death in 2011.",
+      "source": "https://en.wikipedia.org/wiki/Pixar"
+    },
+    {
+      "text": "John Lasseter won a Special Achievement Academy Award in 1996 for his inspired leadership of the Toy Story team.",
+      "source": "https://en.wikipedia.org/wiki/John_Lasseter"
+    },
+    {
+      "text": "John Lasseter left Pixar and Disney in 2018 following allegations of workplace misconduct, ending a nearly 30-year association with the studio.",
+      "source": "https://en.wikipedia.org/wiki/John_Lasseter"
+    },
+    {
+      "text": "Pete Docter succeeded John Lasseter as Pixar's Chief Creative Officer in 2018 and has guided the studio's creative direction since.",
+      "source": "https://en.wikipedia.org/wiki/Pete_Docter_succeeded_John_Lasseter_as_Pixar%27s_Chief_Creative_Officer_in_2018_and"
+    },
+    {
+      "text": "Jim Morris has served as president of Pixar since 2014, overseeing the studio's business operations and production pipeline.",
+      "source": "https://en.wikipedia.org/wiki/Jim_Morris"
+    },
+    {
+      "text": "Pixar helped pioneer the digital cinematography techniques used in their films, including virtual camera movements that mimic real-world filmmaking.",
+      "source": "https://en.wikipedia.org/wiki/Pixar"
+    },
+    {
+      "text": "In Finding Nemo, the underwater cameras simulate real underwater photography effects like caustic lighting patterns and depth of field.",
+      "source": "https://en.wikipedia.org/wiki/In_Finding_Nemo"
+    },
+    {
+      "text": "Pixar's lighting department uses hundreds of virtual lights in each scene, with some complex shots requiring over 1,000 individual light sources.",
+      "source": "https://en.wikipedia.org/wiki/Pixar_Movies"
+    },
+    {
+      "text": "The concert sequence at the end of Coco features some of the most complex crowd simulations Pixar has ever produced, with thousands of unique skeleton characters.",
+      "source": "https://en.wikipedia.org/wiki/concert_sequence_at_the_end_of_Coco"
+    },
+    {
+      "text": "Pixar created custom fur simulation software called Fizt (physics tool) that has been used from Monsters, Inc. through Brave and beyond.",
+      "source": "https://en.wikipedia.org/wiki/Pixar"
+    },
+    {
+      "text": "Toy Story 2's opening sequence of Buzz Lightyear navigating an asteroid field was originally designed as a video game concept for a Buzz Lightyear game.",
+      "source": "https://en.wikipedia.org/wiki/Toy_Story_2%27s_opening_sequence_of_Buzz_Lightyear_navigating_an_asteroid_field"
+    },
+    {
+      "text": "Emperor Zurg, Buzz Lightyear's nemesis, is revealed to claim he is Buzz's father in Toy Story 2, parodying Star Wars' iconic twist.",
+      "source": "https://en.wikipedia.org/wiki/Emperor_Zurg%2C_Buzz_Lightyear%27s_nemesis"
+    },
+    {
+      "text": "Don Rickles voiced Mr. Potato Head in all Toy Story films. After his death in 2017, Pixar used archival recordings for Toy Story 4.",
+      "source": "https://en.wikipedia.org/wiki/Don_Rickles"
+    },
+    {
+      "text": "Wallace Shawn has voiced Rex the anxious dinosaur in all four Toy Story films, bringing the same insecure charm each time.",
+      "source": "https://en.wikipedia.org/wiki/Wallace_Shawn"
+    },
+    {
+      "text": "Estelle Harris voiced Mrs. Potato Head starting in Toy Story 2, bringing the same fiery personality to the role through Toy Story 4.",
+      "source": "https://en.wikipedia.org/wiki/Estelle_Harris"
+    },
+    {
+      "text": "Bonnie Hunt voiced Dolly the rag doll in Toy Story 3 and 4, a no-nonsense toy who helps organize the new toy room.",
+      "source": "https://en.wikipedia.org/wiki/Bonnie_Hunt"
+    },
+    {
+      "text": "Timothy Dalton voiced Mr. Pricklepants, a thespian hedgehog toy in Toy Story 3 who treats every situation as a dramatic performance.",
+      "source": "https://en.wikipedia.org/wiki/Timothy_Dalton"
+    },
+    {
+      "text": "In Toy Story 3, the phone toy at Sunnyside Daycare is voiced by Teddy Newton, an animator and character designer at Pixar.",
+      "source": "https://en.wikipedia.org/wiki/In_Toy_Story_3%2C_the_phone_toy_at_Sunnyside_Daycare"
+    },
+    {
+      "text": "The ending of Toy Story 4, where Woody chooses to stay with Bo Peep instead of returning to his kid, was controversial among fans who felt it undermined Woody's core character.",
+      "source": "https://en.wikipedia.org/wiki/Toy_Story_4"
+    },
+    {
+      "text": "Monsters, Inc. was originally conceived with a 30-year-old man as the protagonist who discovers a book of monster drawings he made as a child come to life.",
+      "source": "https://en.wikipedia.org/wiki/Monsters%2C_Inc"
+    },
+    {
+      "text": "The door vault chase sequence in Monsters, Inc., with suspended doors moving on conveyor rails, took over a year to develop due to its technical complexity.",
+      "source": "https://en.wikipedia.org/wiki/Pixar_Movies"
+    },
+    {
+      "text": "Roz, the slug-like desk clerk in Monsters, Inc., is revealed to be an undercover agent, a twist that was set up by subtle visual clues throughout the film.",
+      "source": "https://en.wikipedia.org/wiki/Roz%2C_the_slug-like_desk_clerk_in_Monsters%2C_Inc"
+    },
+    {
+      "text": "The sushi restaurant in Finding Nemo where Nigel crashes through the window was designed using reference photos from dozens of real seafood restaurants in Sydney.",
+      "source": "https://en.wikipedia.org/wiki/sushi_restaurant_in_Finding_Nemo_where_Nigel_crashes_through_the_window"
+    },
+    {
+      "text": "Gill, voiced by Willem Dafoe in Finding Nemo, is a Moorish idol fish whose escape plans from the fish tank drive a significant portion of the film's subplot.",
+      "source": "https://en.wikipedia.org/wiki/Gill%2C_voiced_by_Willem_Dafoe_in_Finding_Nemo"
+    },
+    {
+      "text": "Crush the sea turtle in Finding Nemo was voiced by director Andrew Stanton himself, who improvised most of the character's dialogue.",
+      "source": "https://en.wikipedia.org/wiki/Crush_the_sea_turtle_in_Finding_Nemo"
+    },
+    {
+      "text": "The East Australian Current (EAC) surfing scene in Finding Nemo required Pixar to develop new fluid dynamics software for realistic ocean current visualization.",
+      "source": "https://en.wikipedia.org/wiki/East_Australian_Current"
+    },
+    {
+      "text": "In Finding Nemo, the dentist's waiting room features a Buzz Lightyear toy and a Mr. Incredible comic book in hidden Easter eggs.",
+      "source": "https://en.wikipedia.org/wiki/In_Finding_Nemo%2C_the_dentist%27s_waiting_room"
+    },
+    {
+      "text": "Syndrome, voiced by Jason Lee in The Incredibles, is one of Pixar's most complex villains — a former fan turned murderous nemesis.",
+      "source": "https://en.wikipedia.org/wiki/Syndrome%2C_voiced_by_Jason_Lee_in_The_Incredibles"
+    },
+    {
+      "text": "The Incredibles was animated with a retro-mid-century modern aesthetic inspired by 1960s spy films and the designs of artist Eyvind Earle.",
+      "source": "https://en.wikipedia.org/wiki/Incredibles"
+    },
+    {
+      "text": "Dash's super-speed chase through the jungle in The Incredibles required Pixar to develop new techniques for motion blur at extreme velocities.",
+      "source": "https://en.wikipedia.org/wiki/Incredibles"
+    },
+    {
+      "text": "Violet Parr's invisibility powers in The Incredibles presented unique animation challenges, as her character needed to convey emotion while partially or fully invisible.",
+      "source": "https://en.wikipedia.org/wiki/Violet_Parr%27s"
+    },
+    {
+      "text": "The Incredibles features over 781 visual effects shots and 35 unique sets, making it Pixar's most complex production at the time.",
+      "source": "https://en.wikipedia.org/wiki/Incredibles"
+    },
+    {
+      "text": "Remy's tiny size in Ratatouille required Pixar to build a fully detailed, life-size Parisian kitchen environment that could be filmed from both rat-level and human-level perspectives.",
+      "source": "https://en.wikipedia.org/wiki/Pixar_to"
+    },
+    {
+      "text": "The cooking sequences in Ratatouille were choreographed with the help of chef Thomas Keller, who also created the recipe for the film's signature ratatouille dish.",
+      "source": "https://en.wikipedia.org/wiki/cooking_sequences_in_Ratatouille"
+    },
+    {
+      "text": "Colette, voiced by Janeane Garofalo in Ratatouille, is the sole female chef in Gusteau's kitchen and represents the real-world struggles of women in professional cooking.",
+      "source": "https://en.wikipedia.org/wiki/Colette%2C_voiced_by_Janeane_Garofalo_in_Ratatouille"
+    },
+    {
+      "text": "In WALL-E, the Axiom cruise ship's autopilot, AUTO, is visually and thematically modeled after HAL 9000 from 2001: A Space Odyssey.",
+      "source": "https://en.wikipedia.org/wiki/In_WALL-E%2C_the_Axiom_cruise_ship%27s_autopilot%2C_AUTO"
+    },
+    {
+      "text": "WALL-E's treasured VHS tape of Hello, Dolly! provides the film's romantic framework, as the robot learns about love from the 1969 musical.",
+      "source": "https://en.wikipedia.org/wiki/Pixar_Movies"
+    },
+    {
+      "text": "The plant in WALL-E — a small seedling in a boot — symbolizes hope and the possibility of Earth's environmental recovery.",
+      "source": "https://en.wikipedia.org/wiki/Pixar_Movies"
+    },
+    {
+      "text": "In WALL-E, the humans on the Axiom have devolved into boneless, obese figures due to centuries of zero-gravity living and robotic dependency.",
+      "source": "https://en.wikipedia.org/wiki/In_WALL-E%2C_the_humans_on_the_Axiom"
+    },
+    {
+      "text": "The opening sequence of Up was storyboarded by Ronnie del Carmen, whose visual storytelling conveyed an entire lifetime in four minutes without dialogue.",
+      "source": "https://en.wikipedia.org/wiki/opening_sequence_of_Up"
+    },
+    {
+      "text": "Charles Muntz, the villain of Up voiced by Christopher Plummer, was named after Charles Mintz, the real-life producer who took Oswald the Lucky Rabbit from Walt Disney.",
+      "source": "https://en.wikipedia.org/wiki/Charles_Muntz%2C_the_villain_of_Up_voiced_by_Christopher_Plummer"
+    },
+    {
+      "text": "Paradise Falls in Up was inspired by the real tepui mountains of Venezuela, particularly Angel Falls, the world's tallest uninterrupted waterfall.",
+      "source": "https://en.wikipedia.org/wiki/Paradise_Falls_in_Up"
+    },
+    {
+      "text": "The production team of Up traveled to Venezuela and spent three days on top of a tepui to research the film's setting.",
+      "source": "https://en.wikipedia.org/wiki/production_team_of_Up_traveled_to_Venezuela_and"
+    },
+    {
+      "text": "Kevin, the colorful bird in Up, was animated with reference to real cassowary and bird-of-paradise movements and given a female identity despite Russell's male name choice.",
+      "source": "https://en.wikipedia.org/wiki/Kevin%2C_the_colorful_bird_in_Up"
+    },
+    {
+      "text": "Toy Story 3's subplot at Sunnyside Daycare includes references to Cool Hand Luke, including a character modeled after the prison warden.",
+      "source": "https://en.wikipedia.org/wiki/Toy_Story_3%27s_subplot_at_Sunnyside_Daycare"
+    },
+    {
+      "text": "In the Spanish mode scene of Toy Story 3, Buzz Lightyear dances flamenco with Jessie, performed with motion-capture reference from a professional flamenco dancer.",
+      "source": "https://en.wikipedia.org/wiki/In_the_Spanish_mode_scene_of_Toy_Story_3%2C_Buzz_Lightyear_dances_flamenco_with_Jessie"
+    },
+    {
+      "text": "The \"Married Life\" sequence from Up, composed by Michael Giacchino, has become a popular choice at real weddings despite depicting a life ending in loss.",
+      "source": "https://www.youtube.com/results?search_query=Pixar%20Movies%20Married%20Life%20live%20performance"
+    },
+    {
+      "text": "Pixar films have grossed over $1 billion at the domestic box office from Toy Story 3 onward, with several crossing the billion-dollar mark worldwide.",
+      "source": "https://en.wikipedia.org/wiki/Pixar_films"
+    },
+    {
+      "text": "Finding Nemo held the record for highest-grossing opening weekend for an animated film when it debuted with $70.3 million in 2003.",
+      "source": "https://en.wikipedia.org/wiki/Finding_Nemo"
+    },
+    {
+      "text": "Incredibles 2 set the record for the biggest opening weekend for an animated film with $182.7 million domestically in 2018.",
+      "source": "https://en.wikipedia.org/wiki/Incredibles_2"
+    },
+    {
+      "text": "Inside Out 2 shattered records in 2024 with a domestic opening weekend exceeding $154 million.",
+      "source": "https://en.wikipedia.org/wiki/Inside_Out_2"
+    },
+    {
+      "text": "Pixar's films have been translated into dozens of languages, with certain jokes and cultural references adapted for specific markets.",
+      "source": "https://en.wikipedia.org/wiki/Pixar%27s_films"
+    },
+    {
+      "text": "In the Japanese release of Inside Out, the broccoli that Riley dislikes was changed to green bell peppers because Japanese children generally don't dislike broccoli.",
+      "source": "https://en.wikipedia.org/wiki/In_the_Japanese_release_of_Inside_Out%2C_the_broccoli_that_Riley_dislikes"
+    },
+    {
+      "text": "Pixar replaced hockey references in Inside Out with soccer for international markets where hockey is less popular.",
+      "source": "https://en.wikipedia.org/wiki/Inside_Out_with"
+    },
+    {
+      "text": "Coco was the highest-grossing film of all time in Mexico, surpassing every Hollywood live-action blockbuster in that market.",
+      "source": "https://en.wikipedia.org/wiki/Coco"
+    },
+    {
+      "text": "Coco's portrayal of the Land of the Dead uses the concept of \"ofrendas\" (altars with photos and marigolds) as a gateway between the living and dead worlds.",
+      "source": "https://en.wikipedia.org/wiki/ofrendas"
+    },
+    {
+      "text": "The alebrije spirit guides in Coco — including Pepita the jaguar — are inspired by Mexican folk art traditions of brightly painted wooden figures.",
+      "source": "https://en.wikipedia.org/wiki/alebrije_spirit_guides_in_Coco_%E2%80%94_including_Pepita_the_jaguar_%E2%80%94"
+    },
+    {
+      "text": "Héctor's guitar in Coco is modeled after a specific white guitar, with production designers studying dozens of traditional Mexican instruments.",
+      "source": "https://en.wikipedia.org/wiki/H%C3%A9ctor%27s_guitar_in_Coco"
+    },
+    {
+      "text": "Dante, the hairless Xoloitzcuintli dog in Coco, is based on a breed that Aztecs believed could guide souls to the underworld.",
+      "source": "https://en.wikipedia.org/wiki/Dante%2C_the_hairless_Xoloitzcuintli_dog_in_Coco"
+    },
+    {
+      "text": "Ernesto de la Cruz, voiced by Benjamin Bratt in Coco, is a charismatic but murderous villain whose public image conceals a dark secret.",
+      "source": "https://en.wikipedia.org/wiki/Ernesto_de_la_Cruz%2C_voiced_by_Benjamin_Bratt_in_Coco"
+    },
+    {
+      "text": "The twist in Coco — revealing Héctor as Miguel's true great-great-grandfather instead of Ernesto — reframes the entire film's emotional stakes.",
+      "source": "https://en.wikipedia.org/wiki/Pixar_Movies"
+    },
+    {
+      "text": "\"Music is not just a hobby — it's my life\" captures the passion that drives Miguel in Coco to defy his family's ban on music.",
+      "source": "https://www.youtube.com/results?search_query=Pixar%20Movies%20Music%20is%20not%20just%20a%20hobby%20%E2%80%94%20it%27s%20my%20life%20live%20performance"
+    },
+    {
+      "text": "Soul's depiction of the Great Before, where unborn souls develop their personalities, required Pixar to create ethereal, non-physical environments unlike anything in their previous films.",
+      "source": "https://en.wikipedia.org/wiki/Great_Before"
+    },
+    {
+      "text": "The \"zone\" sequences in Soul, depicting the mental state of flow, used abstract 2D animation inspired by art from the 1960s.",
+      "source": "https://en.wikipedia.org/wiki/zone"
+    },
+    {
+      "text": "Soul's Joe Gardner plays jazz piano with a style modeled after real performances by Jon Batiste, who provided hand reference footage.",
+      "source": "https://en.wikipedia.org/wiki/Soul%27s_Joe_Gardner"
+    },
+    {
+      "text": "The barber shop scene in Soul was praised for its authentic portrayal of African American community spaces, developed with input from cultural consultants.",
+      "source": "https://en.wikipedia.org/wiki/barber_shop_scene_in_Soul"
+    },
+    {
+      "text": "Pixar reworked Soul's ending multiple times, ultimately choosing a conclusion where Joe returns to his body with a new appreciation for everyday life.",
+      "source": "https://en.wikipedia.org/wiki/Pixar_Movies"
+    },
+    {
+      "text": "Inside Out's depiction of core memories, personality islands, and the subconscious was developed with direct input from cognitive psychologists.",
+      "source": "https://en.wikipedia.org/wiki/Inside_Out%27s_depiction_of_core_memories%2C_personality_islands%2C_and_the_subconscious"
+    },
+    {
+      "text": "Riley's personality islands in Inside Out — Goofball, Friendship, Hockey, Honesty, and Family — represent the foundational aspects of her identity.",
+      "source": "https://en.wikipedia.org/wiki/Inside_Out"
+    },
+    {
+      "text": "Bing Bong, Riley's imaginary friend in Inside Out, was designed to be part elephant, part cat, and part dolphin, a visual metaphor for childhood imagination's illogical creativity.",
+      "source": "https://en.wikipedia.org/wiki/Bing_Bong%2C_Riley%27s_imaginary_friend_in_Inside_Out"
+    },
+    {
+      "text": "The Anxiety character in Inside Out 2 physically vibrates and has frizzy orange hair that becomes wilder as her influence grows.",
+      "source": "https://en.wikipedia.org/wiki/Anxiety_character_in_Inside_Out_2_physically_vibrates_and"
+    },
+    {
+      "text": "Ennui in Inside Out 2, voiced by French actress Adèle Exarchopoulos, lies on a couch and controls the console with her feet, physically embodying teenage indifference.",
+      "source": "https://en.wikipedia.org/wiki/Ennui_in_Inside_Out_2"
+    },
+    {
+      "text": "Embarrassment in Inside Out 2 is an enormous, hunched pink figure who hides behind his hoodie, visualizing the overwhelming nature of teenage self-consciousness.",
+      "source": "https://en.wikipedia.org/wiki/Embarrassment_in_Inside_Out_2"
+    },
+    {
+      "text": "Nostalgia makes a brief cameo in Inside Out 2, hinting at future emotional complexity as Riley continues to grow up.",
+      "source": "https://en.wikipedia.org/wiki/Inside_Out_2"
+    },
+    {
+      "text": "The Incredibles' Metroville is designed as a retro-futuristic city that blends 1960s architecture with advanced technology, creating a distinctive visual identity.",
+      "source": "https://en.wikipedia.org/wiki/Incredibles%27_Metroville"
+    },
+    {
+      "text": "Edna Mode in The Incredibles was partially inspired by real-world costume designer Edith Head and Japanese fashion icon Rei Kawakubo.",
+      "source": "https://en.wikipedia.org/wiki/Edna_Mode_in_The_Incredibles"
+    },
+    {
+      "text": "The Underminer, who appears at the end of The Incredibles and the beginning of Incredibles 2, is voiced by John Ratzenberger.",
+      "source": "https://en.wikipedia.org/wiki/Underminer"
+    },
+    {
+      "text": "Incredibles 2's Screenslaver villain uses hypnotic screen patterns, and Pixar issued photosensitive epilepsy warnings for the strobe effects.",
+      "source": "https://en.wikipedia.org/wiki/Incredibles_2"
+    },
+    {
+      "text": "In Cars, the landscape of Radiator Springs incorporates car shapes into the natural rock formations, matching the world's vehicle-only population concept.",
+      "source": "https://en.wikipedia.org/wiki/In_Cars"
+    },
+    {
+      "text": "Paul Newman's final creative performance was voicing Doc Hudson in Cars. The character was retired in Cars 3 as a tribute to the late actor.",
+      "source": "https://en.wikipedia.org/wiki/Paul_Newman%27s_final_creative_performance"
+    },
+    {
+      "text": "Cars 3 features Lightning McQueen training at Fireball Beach, a location inspired by real beaches in Daytona, Florida, where early stock car racing took place.",
+      "source": "https://en.wikipedia.org/wiki/Cars_3"
+    },
+    {
+      "text": "The Brave team spent extensive time in Scotland researching castle architecture, Highland landscapes, and Scottish Gaelic culture.",
+      "source": "https://en.wikipedia.org/wiki/Brave_team"
+    },
+    {
+      "text": "Brave's mother-daughter transformation story, where Queen Elinor becomes a bear, uses physical transformation as a metaphor for emotional distance and reconciliation.",
+      "source": "https://en.wikipedia.org/wiki/Brave%27s_mother-daughter_transformation_story%2C_where_Queen_Elinor"
+    },
+    {
+      "text": "The triplet brothers in Brave — Harris, Hubert, and Hamish — were animated with identical models but distinct personality quirks.",
+      "source": "https://en.wikipedia.org/wiki/triplet_brothers_in_Brave_%E2%80%94_Harris%2C_Hubert%2C_and_Hamish_%E2%80%94"
+    },
+    {
+      "text": "King Fergus in Brave, voiced by Billy Connolly, lost his leg to the demon bear Mor'du and considers the injury his greatest story.",
+      "source": "https://en.wikipedia.org/wiki/King_Fergus_in_Brave"
+    },
+    {
+      "text": "Monsters University's campus, with its Gothic architecture and monster fraternities, was designed after research visits to Harvard, MIT, Stanford, and UC Berkeley.",
+      "source": "https://en.wikipedia.org/wiki/Monsters_University%27s_campus%2C_with_its_Gothic_architecture_and_monster_fraternities"
+    },
+    {
+      "text": "The climactic scare in Monsters University, where Mike and Sulley scare adult humans at a camp, proved that teamwork can overcome individual limitations.",
+      "source": "https://en.wikipedia.org/wiki/Monsters_University"
+    },
+    {
+      "text": "Art, voiced by Charlie Day in Monsters University, is a purple, arched monster of indeterminate species whose bizarre comments steal scenes.",
+      "source": "https://en.wikipedia.org/wiki/Art%2C_voiced_by_Charlie_Day_in_Monsters_University"
+    },
+    {
+      "text": "Luca's rivalry with town bully Ercole, voiced by Saverio Raimondo, mirrors classic Italian commedia dell'arte character dynamics.",
+      "source": "https://en.wikipedia.org/wiki/Saverio_Raimondo"
+    },
+    {
+      "text": "The Portorosso Cup triathlon in Luca — swimming, cycling, and eating pasta — reflects the Italian coastal lifestyle the film celebrates.",
+      "source": "https://en.wikipedia.org/wiki/Portorosso_Cup"
+    },
+    {
+      "text": "Turning Red's Toronto is rendered with specific accuracy, featuring real locations like the SkyDome (Rogers Centre) and the city's Chinatown neighborhood.",
+      "source": "https://en.wikipedia.org/wiki/Turning_Red%27s_Toronto"
+    },
+    {
+      "text": "The red panda transformation in Turning Red is a metaphor for puberty, emotional volatility, and the challenge of balancing personal identity with family expectations.",
+      "source": "https://en.wikipedia.org/wiki/red_panda_transformation_in_Turning_Red"
+    },
+    {
+      "text": "Turning Red's climactic concert sequence, where Mei's entire family transforms into red pandas, required Pixar to animate dozens of unique giant panda designs.",
+      "source": "https://en.wikipedia.org/wiki/Turning_Red%27s"
+    },
+    {
+      "text": "Elemental's Element City is designed as a melting pot, drawing direct parallels to immigrant neighborhoods in cities like New York, with element-specific districts.",
+      "source": "https://en.wikipedia.org/wiki/Elemental%27s_Element_City"
+    },
+    {
+      "text": "The fire effects in Elemental required a complete rethinking of how to animate a character who is made of flames while maintaining readable facial expressions.",
+      "source": "https://en.wikipedia.org/wiki/Pixar_Movies"
+    },
+    {
+      "text": "Wade's ability to cry in Elemental serves as both a running gag and an emotional strength, normalizing male vulnerability.",
+      "source": "https://en.wikipedia.org/wiki/Pixar_Movies"
+    },
+    {
+      "text": "Elemental's love story between Ember and Wade uses the incompatibility of fire and water as a metaphor for intercultural romance and the fears that come with it.",
+      "source": "https://en.wikipedia.org/wiki/Ember_and_Wade"
+    },
+    {
+      "text": "Pixar has developed over 100 proprietary software tools for animation, modeling, shading, lighting, and rendering that are not available to other studios.",
+      "source": "https://en.wikipedia.org/wiki/Pixar"
+    },
+    {
+      "text": "Subdivision surfaces, a technique co-invented by Ed Catmull, allow Pixar to create smooth, organic shapes from angular polygon meshes.",
+      "source": "https://en.wikipedia.org/wiki/Ed_Catmull"
+    },
+    {
+      "text": "Pixar held a technology symposium called the Pixar Technology Summit where engineers and artists shared innovations in computer graphics.",
+      "source": "https://en.wikipedia.org/wiki/Pixar_held_a_technology_symposium"
+    },
+    {
+      "text": "In A Bug's Life, the colony's anthill city was inspired by real ant colony structures studied by entomologists consulting with Pixar.",
+      "source": "https://en.wikipedia.org/wiki/In_A_Bug%27s_Life%2C_the_colony%27s_anthill_city"
+    },
+    {
+      "text": "The color palette of Inside Out was carefully designed so each emotion's scenes have a distinct look — Joy's scenes are warm and golden, while Sadness's are cool blue.",
+      "source": "https://en.wikipedia.org/wiki/color_palette_of_Inside_Out"
+    },
+    {
+      "text": "Pixar's cafeteria, called the Café, is known for serving high-quality meals and has become a gathering spot that fosters the cross-departmental collaboration Steve Jobs envisioned.",
+      "source": "https://en.wikipedia.org/wiki/Pixar%27s_cafeteria%2C_called_the_Caf%C3%A9"
+    },
+    {
+      "text": "Pixar conducts \"Art Reviews\" where the entire company gathers to see artwork and animation progress on current productions, maintaining transparency across the studio.",
+      "source": "https://en.wikipedia.org/wiki/Art_Reviews"
+    },
+    {
+      "text": "\"Notes Day\" at Pixar, initiated by Ed Catmull, was a full studio work stoppage where every employee brainstormed ideas to improve the company's processes.",
+      "source": "https://en.wikipedia.org/wiki/Notes_Day"
+    },
+    {
+      "text": "Pixar's story artists use a technique called \"plus-ing\" — taking an idea and asking \"what if we could make it even better?\" — to continuously improve their work.",
+      "source": "https://en.wikipedia.org/wiki/plus-ing"
+    },
+    {
+      "text": "Each Pixar film typically generates between 75,000 and 125,000 storyboard drawings during the development process.",
+      "source": "https://en.wikipedia.org/wiki/Each_Pixar"
+    },
+    {
+      "text": "The original Pixar Image Computer found its most reliable customers in medical imaging and intelligence agencies rather than in entertainment.",
+      "source": "https://en.wikipedia.org/wiki/Pixar_Image_Computer"
+    },
+    {
+      "text": "Disney's contract with Pixar originally gave Disney distribution rights and ownership of all characters created under their deal, a point of contention that nearly ended the partnership.",
+      "source": "https://en.wikipedia.org/wiki/Disney%27s_contract_with_Pixar_originally"
+    },
+    {
+      "text": "Before the Disney acquisition, Pixar negotiated to retain creative control over its films, a rare concession that preserved the studio's independent spirit.",
+      "source": "https://en.wikipedia.org/wiki/Before_the_Disney"
+    },
+    {
+      "text": "The Pixar campus includes a screening room called the \"Steve Jobs Theater,\" though it's a different venue than Apple's theater of the same name.",
+      "source": "https://en.wikipedia.org/wiki/Steve_Jobs_Theater"
+    },
+    {
+      "text": "Pixar employees working on classified upcoming projects are located in secure areas of the building where artwork and story details are hidden from casual visitors.",
+      "source": "https://en.wikipedia.org/wiki/Pixar_employees_working_on_classified_upcoming_projects"
+    },
+    {
+      "text": "Pixar has hosted numerous exhibitions at major museums, including \"The Science Behind Pixar\" at the Museum of Science in Boston and traveling exhibitions worldwide.",
+      "source": "https://en.wikipedia.org/wiki/Science_Behind_Pixar"
+    },
+    {
+      "text": "The traveling exhibition \"Pixar: 30 Years of Animation\" displayed original artwork, sculptures, and digital installations from across Pixar's filmography.",
+      "source": "https://en.wikipedia.org/wiki/Pixar:_30_Years_of_Animation"
+    },
+    {
+      "text": "Pixar's art department produces hundreds of pastel, oil, and digital paintings for each film to establish color scripts — visual guides for the emotional tone of every scene.",
+      "source": "https://en.wikipedia.org/wiki/Pixar_Movies"
+    },
+    {
+      "text": "Color scripts at Pixar map the emotional journey of a film through color, with warm tones for happy moments and cool tones for sad or tense scenes.",
+      "source": "https://en.wikipedia.org/wiki/Pixar_Movies"
+    },
+    {
+      "text": "Pixar's production designers build physical maquettes (small sculptures) of characters before they are modeled digitally, ensuring consistent design from every angle.",
+      "source": "https://en.wikipedia.org/wiki/Pixar_Movies"
+    },
+    {
+      "text": "In Toy Story 3, the garbage dump sequence was partly inspired by the real Puente Hills landfill in Los Angeles, one of the largest in the United States.",
+      "source": "https://en.wikipedia.org/wiki/In_Toy_Story_3%2C_the_garbage_dump_sequence"
+    },
+    {
+      "text": "Pixar films often feature hidden references to upcoming productions — Nemo appears in Monsters, Inc., and a Brave poster appears in Toy Story 3.",
+      "source": "https://en.wikipedia.org/wiki/Toy_Story_3"
+    },
+    {
+      "text": "The post-credits scene of Cars shows Mater impersonating other car characters from the film, improvised by Larry the Cable Guy.",
+      "source": "https://en.wikipedia.org/wiki/Larry_the_Cable_Guy"
+    },
+    {
+      "text": "WALL-E is one of the few Pixar films with a largely silent protagonist, relying on physical comedy and visual gags reminiscent of Charlie Chaplin and Buster Keaton.",
+      "source": "https://en.wikipedia.org/wiki/WALL-E"
+    },
+    {
+      "text": "Andrew Stanton has described WALL-E as the most personal film he's ever made, as it reflects his thoughts on loneliness, consumerism, and love.",
+      "source": "https://en.wikipedia.org/wiki/Andrew_Stanton"
+    },
+    {
+      "text": "The Good Dinosaur (2015) had a troubled production, with the entire voice cast being replaced and the director changing from Bob Peterson to Peter Sohn.",
+      "source": "https://en.wikipedia.org/wiki/Good_Dinosaur"
+    },
+    {
+      "text": "The Good Dinosaur used satellite data from the United States Geological Survey to render photorealistic landscapes based on real American terrain.",
+      "source": "https://en.wikipedia.org/wiki/Good_Dinosaur"
+    },
+    {
+      "text": "Raymond Ochoa voiced Arlo, the young Apatosaurus in The Good Dinosaur, while Sam Elliott voiced Butch, a tough T. Rex rancher.",
+      "source": "https://en.wikipedia.org/wiki/Raymond_Ochoa"
+    },
+    {
+      "text": "Pixar's in-house tool for crowds, called Denizen, generates hundreds of unique background characters with varied appearances and behaviors.",
+      "source": "https://en.wikipedia.org/wiki/Pixar%27s_in-house_tool_for_crowds"
+    },
+    {
+      "text": "The final battle scene in The Incredibles features 640 visual effects shots, nearly matching some live-action Marvel films in visual complexity.",
+      "source": "https://en.wikipedia.org/wiki/final_battle_scene_in_The_Incredibles"
+    },
+    {
+      "text": "Finding Dory's Marine Life Institute was inspired by the Monterey Bay Aquarium, and Pixar held multiple research visits to study aquatic environments.",
+      "source": "https://en.wikipedia.org/wiki/Finding_Dory%27s_Marine_Life_Institute"
+    },
+    {
+      "text": "Hank the septopus in Finding Dory can camouflage himself against any background, which required Pixar to develop new real-time shader technology.",
+      "source": "https://en.wikipedia.org/wiki/Hank_the"
+    },
+    {
+      "text": "Destiny the whale shark, voiced by Kaitlin Olson in Finding Dory, is nearsighted and repeatedly bumping into walls, a comedic touch grounded in real whale shark behavior.",
+      "source": "https://en.wikipedia.org/wiki/Destiny_the_whale_shark%2C_voiced_by_Kaitlin_Olson_in_Finding_Dory"
+    },
+    {
+      "text": "In Finding Dory, Baby Dory's scenes were animated with extra care to convey vulnerability, and her childhood voice was provided by a seven-year-old actress.",
+      "source": "https://en.wikipedia.org/wiki/In_Finding_Dory%2C_Baby_Dory%27s_scenes"
+    },
+    {
+      "text": "Up's Carl Fredricksen was designed with a square shape to represent his stubborn, grounded personality, while Russell is round to feel open and enthusiastic.",
+      "source": "https://en.wikipedia.org/wiki/Up%27s_Carl_Fredricksen"
+    },
+    {
+      "text": "Pixar character designers use shape language — squares for stability, circles for friendliness, triangles for danger — as a foundational design principle.",
+      "source": "https://en.wikipedia.org/wiki/Pixar_Movies"
+    },
+    {
+      "text": "Pixar's rule of thumb is that the audience should understand a character's personality from their silhouette alone, before hearing a single line of dialogue.",
+      "source": "https://en.wikipedia.org/wiki/Pixar%27s_rule_of_thumb"
+    },
+    {
+      "text": "The secret agent plot in Cars 2 was inspired by John Lasseter's love of James Bond films, with Finn McMissile designed as an Aston Martin DB5 homage.",
+      "source": "https://en.wikipedia.org/wiki/secret_agent_plot_in_Cars_2"
+    },
+    {
+      "text": "Cars 2's departure from the original film's small-town Americana charm into international espionage divided audiences and critics alike.",
+      "source": "https://en.wikipedia.org/wiki/Cars_2"
+    },
+    {
+      "text": "Monsters University features over 400 unique monster characters on campus, each with distinct designs, colors, and textures.",
+      "source": "https://en.wikipedia.org/wiki/Monsters_University"
+    },
+    {
+      "text": "Lightyear explores the real science fiction behind Buzz Lightyear's origin story, including time dilation effects from near-light-speed travel.",
+      "source": "https://en.wikipedia.org/wiki/Buzz_Lightyear%27s"
+    },
+    {
+      "text": "The time dilation in Lightyear, where minutes for Buzz equal years for his friends, adds an emotional weight rarely explored in animated films.",
+      "source": "https://en.wikipedia.org/wiki/Pixar_Movies"
+    },
+    {
+      "text": "Onward's magic system is based on the idea that modern conveniences replaced the need for spells, creating a world where magic became a forgotten technology.",
+      "source": "https://en.wikipedia.org/wiki/Onward%27s_magic_system"
+    },
+    {
+      "text": "The Manticore's restaurant in Onward is called \"The Manticore's Tavern\" but has been rebranded with a family-friendly makeover, reflecting how modern life domesticates adventure.",
+      "source": "https://en.wikipedia.org/wiki/Manticore%27s_Tavern"
+    },
+    {
+      "text": "Ian Lightfoot's checklist in Onward — a list of things to do with his dad — was inspired by director Dan Scanlon's own list of things he wished he could share with his late father.",
+      "source": "https://en.wikipedia.org/wiki/Ian_Lightfoot%27s_checklist_in_Onward_%E2%80%94_a_list_of_things_to_do_with_his_dad_%E2%80%94"
+    },
+    {
+      "text": "Turning Red features the first depiction of menstruation in a Pixar film, when Mei's mother assumes the red panda transformation is Mei getting her period.",
+      "source": "https://en.wikipedia.org/wiki/Turning_Red"
+    },
+    {
+      "text": "The 4*Town concert in Turning Red was designed to evoke early 2000s boy band culture, with choreography referencing NSYNC and Backstreet Boys.",
+      "source": "https://en.wikipedia.org/wiki/4%2ATown_concert_in_Turning_Red"
+    },
+    {
+      "text": "Elemental had the weakest opening of any Pixar theatrical release with $29.5 million but ultimately earned significantly more through legs and international markets.",
+      "source": "https://en.wikipedia.org/wiki/Elemental"
+    },
+    {
+      "text": "Pixar's decision to release Luca, Turning Red, and Soul directly on Disney+ was controversial, with some at the studio feeling theatrical releases were important for their films' identity.",
+      "source": "https://en.wikipedia.org/wiki/Pixar%27s_decision_to_release_Luca%2C_Turning_Red%2C_and_Soul_directly_on_Disney%2B"
+    },
+    {
+      "text": "Bob Iger's return as Disney CEO in 2022 led to a renewed emphasis on theatrical releases for Pixar films after the Disney+ streaming era.",
+      "source": "https://en.wikipedia.org/wiki/Bob_Iger%27s"
+    },
+    {
+      "text": "Pixar's technical challenges in animating hair evolved from Toy Story's relatively simple plastic hair to the highly detailed, physically simulated hair in Brave, Coco, and Turning Red.",
+      "source": "https://en.wikipedia.org/wiki/Toy_Story%27s"
+    },
+    {
+      "text": "The skull-face paint designs in Coco required animators to blend expressive character animation with rigid geometric paint patterns on the skeleton faces.",
+      "source": "https://en.wikipedia.org/wiki/Pixar_Movies"
+    },
+    {
+      "text": "In Soul, Joe Gardner's piano playing hand movements were animated using reference footage of real jazz pianist Jon Batiste performing.",
+      "source": "https://en.wikipedia.org/wiki/In_Soul%2C_Joe_Gardner%27s_piano_playing_hand_movements"
+    },
+    {
+      "text": "Pixar's Soul features the character Terry, a soul counter who is neither male nor female, voiced by Rachel House.",
+      "source": "https://en.wikipedia.org/wiki/Pixar%27s_Soul"
+    },
+    {
+      "text": "The Moonwind character in Soul, voiced by Graham Norton, is a sign-twirler who astral projects to help lost souls, blending mundane life with spiritual comedy.",
+      "source": "https://en.wikipedia.org/wiki/Moonwind_character_in_Soul%2C_voiced_by_Graham_Norton"
+    },
+    {
+      "text": "Riley's hockey game in Inside Out was animated using real youth hockey footage as reference, capturing the nuances of the sport.",
+      "source": "https://en.wikipedia.org/wiki/Riley%27s_hockey_game_in_Inside_Out"
+    },
+    {
+      "text": "The Forgetters in Inside Out, who vacuum out Riley's old memories, represent the real psychological process of forgetting as routine maintenance for the mind.",
+      "source": "https://en.wikipedia.org/wiki/Forgetters_in_Inside_Out"
+    },
+    {
+      "text": "Abstract Thought in Inside Out, where Joy and Bing Bong become increasingly simplified geometric shapes, is one of Pixar's most visually inventive sequences.",
+      "source": "https://en.wikipedia.org/wiki/Abstract_Thought_in_Inside_Out"
+    },
+    {
+      "text": "Dream Productions in Inside Out is depicted as a movie studio inside Riley's mind, satirizing Hollywood production culture.",
+      "source": "https://en.wikipedia.org/wiki/Dream_Productions_in_Inside_Out"
+    },
+    {
+      "text": "Pixar's rendering farm, which processes the billions of calculations needed for each frame, has grown from a small server room for Toy Story to a massive data center.",
+      "source": "https://en.wikipedia.org/wiki/Pixar%27s_rendering_farm%2C_which_processes_the_billions_of_calculations_needed_for_each_frame"
+    },
+    {
+      "text": "A single frame of a complex Pixar film can require up to 24 hours to render, and a film may contain over 100,000 individual frames.",
+      "source": "https://en.wikipedia.org/wiki/Pixar_Movies"
+    },
+    {
+      "text": "Pixar was originally located in San Rafael, California, before moving to its purpose-built campus in Emeryville in 2000.",
+      "source": "https://en.wikipedia.org/wiki/Pixar"
+    },
+    {
+      "text": "The making of Toy Story involved only 110 people, while modern Pixar productions employ teams of over 400.",
+      "source": "https://en.wikipedia.org/wiki/Toy_Story"
+    },
+    {
+      "text": "Pixar's storytelling philosophy emphasizes that the best stories come from a director's personal experience and emotional truth.",
+      "source": "https://en.wikipedia.org/wiki/Pixar_Movies"
+    },
+    {
+      "text": "The \"What if\" premise that starts every Pixar film — What if toys were alive? What if emotions were people? — is the foundation of their worldbuilding approach.",
+      "source": "https://www.youtube.com/results?search_query=Pixar%20Movies%20What%20if%20live%20performance"
+    },
+    {
+      "text": "Pixar's 2020 film Onward was the last Pixar film to receive a full theatrical release before the COVID-19 pandemic disrupted the film industry.",
+      "source": "https://en.wikipedia.org/wiki/Pixar%27s_2020_film_Onward"
+    },
+    {
+      "text": "Toy Story's Sid Phillips, the toy-destroying kid next door, wears a skull shirt and braces, and appears briefly as a garbage collector in Toy Story 3.",
+      "source": "https://en.wikipedia.org/wiki/Toy_Story%27s_Sid_Phillips"
+    },
+    {
+      "text": "Andy's mom in Toy Story is theorized by fans to be the previous owner of Jessie, based on the style of her hat in Toy Story 2's flashback.",
+      "source": "https://en.wikipedia.org/wiki/Andy%27s_mom_in_Toy_Story"
+    },
+    {
+      "text": "The emotional climax of Inside Out, where Joy realizes Sadness is essential to Riley's well-being, challenged the cultural assumption that happiness should be the default emotional state.",
+      "source": "https://en.wikipedia.org/wiki/emotional_climax_of_Inside_Out%2C_where_Joy_realizes_Sadness"
+    },
+    {
+      "text": "Pixar's approach to villain design has evolved from clear-cut villains like Hopper and Syndrome to sympathetic antagonists like Lotso, who was once a beloved toy himself.",
+      "source": "https://en.wikipedia.org/wiki/Pixar%27s_approach_to_villain_design"
+    },
+    {
+      "text": "In Finding Nemo, Nemo's lucky fin (his small, underdeveloped right pectoral fin) represents both his physical limitation and his determination to overcome it.",
+      "source": "https://en.wikipedia.org/wiki/In_Finding_Nemo"
+    },
+    {
+      "text": "The barracuda attack that opens Finding Nemo, claiming Marlin's mate and their eggs except Nemo, is one of the most traumatic opening sequences in animated film.",
+      "source": "https://en.wikipedia.org/wiki/Finding_Nemo"
+    },
+    {
+      "text": "Mr. Ray, the stingray teacher in Finding Nemo voiced by Bob Peterson, sings educational songs that parody school musical programs.",
+      "source": "https://en.wikipedia.org/wiki/Mr._Ray"
+    },
+    {
+      "text": "The Tank Gang in Finding Nemo — Gill, Bloat, Peach, Jacques, Bubbles, Deb, and Gurgle — represent a found family united by their desire for freedom.",
+      "source": "https://en.wikipedia.org/wiki/Tank_Gang_in_Finding_Nemo"
+    },
+    {
+      "text": "In Cars, Lightning McQueen's number is 95, a reference to 1995, the year Toy Story was released.",
+      "source": "https://en.wikipedia.org/wiki/In_Cars%2C_Lightning_McQueen%27s_number"
+    },
+    {
+      "text": "Doc Hudson's racing number in Cars is 51, referencing the 1951 Hudson Hornet, the real car model that inspired the character.",
+      "source": "https://en.wikipedia.org/wiki/Doc_Hudson%27s_racing_number_in_Cars"
+    },
+    {
+      "text": "Fillmore the Volkswagen bus in Cars, voiced by George Carlin, is a hippie who sells organic fuel and lives in a psychedelic-painted dome.",
+      "source": "https://en.wikipedia.org/wiki/Fillmore_the_Volkswagen_bus_in_Cars%2C_voiced_by_George_Carlin"
+    },
+    {
+      "text": "Pixar's tradition of including a short film before their feature presentation in theaters has helped launch careers of several directors who went on to helm feature films.",
+      "source": "https://en.wikipedia.org/wiki/Pixar%27s_tradition_of_including_a_short_film_before_their_feature_presentation_in_theaters"
+    },
+    {
+      "text": "The Toy Story franchise has spawned theme park rides, including Toy Story Midway Mania! and Slinky Dog Dash at Disney's Hollywood Studios.",
+      "source": "https://en.wikipedia.org/wiki/Toy_Story_franchise"
+    },
+    {
+      "text": "Pixar's Cars franchise inspired the creation of Cars Land at Disney California Adventure, a fully immersive recreation of Radiator Springs.",
+      "source": "https://en.wikipedia.org/wiki/Pixar%27s_Cars_franchise"
+    },
+    {
+      "text": "Remy from Ratatouille inspired the ride Remy's Ratatouille Adventure at EPCOT, which uses trackless ride vehicles to shrink guests to rat-size.",
+      "source": "https://en.wikipedia.org/wiki/Remy_from_Ratatouille"
+    },
+    {
+      "text": "Pixar has multiple themed areas at Disney theme parks worldwide, including Pixar Pier at Disney California Adventure and Toy Story Land attractions.",
+      "source": "https://en.wikipedia.org/wiki/Pixar"
+    },
+    {
+      "text": "The Monsters, Inc. Laugh Floor at Magic Kingdom features an interactive comedy show starring animated monsters who improvise jokes with the live audience.",
+      "source": "https://en.wikipedia.org/wiki/Monsters%2C_Inc._Laugh_Floor_at_Magic_Kingdom"
+    },
+    {
+      "text": "Pixar films have influenced animation education worldwide, with many film schools now teaching courses specifically on Pixar's storytelling and technical methods.",
+      "source": "https://en.wikipedia.org/wiki/Pixar_films"
+    },
+    {
+      "text": "The Pixar in a Box program, created in partnership with Khan Academy, offers free online courses teaching the math, science, and art behind Pixar's filmmaking process.",
+      "source": "https://en.wikipedia.org/wiki/Pixar_in_a_Box_program"
+    },
+    {
+      "text": "Pixar's commitment to diverse storytelling has grown over time, with Coco, Soul, Turning Red, and Elemental centering stories from Mexican, African American, Chinese Canadian, and immigrant perspectives.",
+      "source": "https://en.wikipedia.org/wiki/Pixar%27s_commitment_to_diverse_storytelling"
+    },
+    {
+      "text": "The critical and audience response to Pixar films consistently highlights emotional resonance as their defining quality, with themes of loss, growth, and belonging recurring throughout their filmography.",
+      "source": "https://en.wikipedia.org/wiki/Pixar_Movies"
+    },
+    {
+      "text": "Pixar's 28 feature films span genres from buddy comedy (Toy Story) to environmental fable (WALL-E) to psychological drama (Inside Out), demonstrating unprecedented range for an animation studio.",
+      "source": "https://en.wikipedia.org/wiki/Pixar%27s_28"
+    },
+    {
+      "text": "Ed Catmull retired from Pixar in 2019 after serving as president for over 30 years, having fulfilled his childhood dream of making the first computer-animated feature film.",
+      "source": "https://en.wikipedia.org/wiki/Ed_Catmull"
+    },
+    {
+      "text": "Alvy Ray Smith left Pixar in 1991 after a disagreement with Steve Jobs, though he remained a shareholder and benefited from the Disney acquisition.",
+      "source": "https://en.wikipedia.org/wiki/Alvy_Ray_Smith"
+    },
+    {
+      "text": "Pixar has maintained a policy that directors can pursue any story idea, with the studio providing resources rather than dictating content from the top down.",
+      "source": "https://en.wikipedia.org/wiki/Pixar"
+    },
+    {
+      "text": "The emotional goodbye between Sulley and Boo at the end of Monsters, Inc. — \"Kitty!\" — ranks among the most tear-jerking finales in animated film history.",
+      "source": "https://www.youtube.com/results?search_query=Pixar%20Movies%20Kitty%21%20live%20performance"
+    },
+    {
+      "text": "Pixar's attention to physical accuracy extends to researching how rats move through pipes (Ratatouille), how clownfish navigate reefs (Finding Nemo), and how balloons behave in flight (Up).",
+      "source": "https://en.wikipedia.org/wiki/Finding_Nemo"
+    },
+    {
+      "text": "Every Pixar film's end credits include a \"Production Babies\" section listing all children born to the crew during the film's production.",
+      "source": "https://en.wikipedia.org/wiki/Production_Babies"
+    },
+    {
+      "text": "Pixar has released behind-the-scenes documentaries for several of their films, offering rare glimpses into the creative and technical processes.",
+      "source": "https://en.wikipedia.org/wiki/Pixar"
+    },
+    {
+      "text": "The documentary \"The Pixar Story\" (2007) chronicles the studio's history from its founding to the success of Ratatouille.",
+      "source": "https://en.wikipedia.org/wiki/Pixar_Story"
+    },
+    {
+      "text": "Pixar has won the Annie Award for Best Animated Feature multiple times, an honor given by the International Animated Film Association (ASIFA-Hollywood).",
+      "source": "https://en.wikipedia.org/wiki/Pixar"
+    },
+    {
+      "text": "In the credits of WALL-E, the visual style evolves from cave painting to impressionism to modern art, depicting humanity's artistic recovery after returning to Earth.",
+      "source": "https://en.wikipedia.org/wiki/In_the"
+    },
+    {
+      "text": "Pixar's influence on the animation industry extended to forcing traditional animation studios to adopt CGI or hybrid techniques to remain competitive.",
+      "source": "https://en.wikipedia.org/wiki/Pixar_Movies"
+    },
+    {
+      "text": "After Toy Story's success, every major studio rushed to develop CGI animation capabilities, leading to the founding or expansion of Blue Sky, Illumination, and Sony Animation.",
+      "source": "https://en.wikipedia.org/wiki/After_Toy_Story%27s"
+    },
+    {
+      "text": "Pixar maintains a research division where scientists and engineers publish work in journals like ACM SIGGRAPH, the premier conference for computer graphics.",
+      "source": "https://en.wikipedia.org/wiki/ACM_SIGGRAPH"
+    },
+    {
+      "text": "Pixar has received Technical Achievement Awards from the Academy for innovations in rendering, animation, and simulation.",
+      "source": "https://en.wikipedia.org/wiki/Pixar"
+    },
+    {
+      "text": "The concept of \"story is king\" at Pixar means that technology serves narrative purpose — every technical innovation is driven by a storytelling need.",
+      "source": "https://en.wikipedia.org/wiki/story_is_king"
+    },
+    {
+      "text": "Andy's room in Toy Story was modeled to look like a typical 1990s kid's bedroom, with deliberate period-accurate design details.",
+      "source": "https://en.wikipedia.org/wiki/Andy%27s_room_in_Toy_Story"
+    },
+    {
+      "text": "The climactic chase scene in Toy Story where Buzz and Woody race to catch the moving truck was storyboarded dozens of times before the team was satisfied.",
+      "source": "https://en.wikipedia.org/wiki/climactic_chase_scene_in_Toy_Story_where_Buzz_and_Woody_race_to_catch_the_moving_truck"
+    },
+    {
+      "text": "In Monsters, Inc., the energy crisis in Monstropolis mirrors real-world energy debates, with the twist that laughter is ten times more powerful than screams.",
+      "source": "https://en.wikipedia.org/wiki/In_Monsters"
+    }
+  ]
+}

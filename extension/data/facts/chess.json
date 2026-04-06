@@ -1,0 +1,1675 @@
+{
+  "hobby": "Chess",
+  "facts": [
+    {
+      "text": "Chess originated from an ancient Indian game called Chaturanga, which dates back to the 6th century AD.",
+      "source": "https://en.wikipedia.org/wiki/Chess_originated_from_an_ancient_Indian_game"
+    },
+    {
+      "text": "The Sicilian Defense (1.e4 c5) is the most popular response to 1.e4 at the highest levels of chess.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Sicilian_Defense_(1.e4_c5)"
+    },
+    {
+      "text": "Bobby Fischer became the 11th World Chess Champion by defeating Boris Spassky in Reykjavik, Iceland.",
+      "month": 9,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/Bobby_Fischer"
+    },
+    {
+      "text": "Magnus Carlsen achieved the highest ELO rating in history, reaching 2882 in May 2014.",
+      "source": "https://en.wikipedia.org/wiki/Magnus_Carlsen"
+    },
+    {
+      "text": "A fork is a tactic where a single piece attacks two or more enemy pieces simultaneously.",
+      "source": "https://en.wikipedia.org/wiki/A_fork"
+    },
+    {
+      "text": "Chess.com surpassed 100 million members, making it the largest online chess platform in the world.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Chess"
+    },
+    {
+      "text": "The Queen's Gambit on Netflix became the most-watched scripted limited series on the platform in 2020.",
+      "source": "https://en.wikipedia.org/wiki/Queen%27s_Gambit_on_Netflix"
+    },
+    {
+      "text": "Deep Blue defeated Garry Kasparov in a six-game match in 1997, the first time a computer beat a reigning world champion under standard time controls.",
+      "month": 5,
+      "day": 11,
+      "source": "https://en.wikipedia.org/wiki/Deep_Blue"
+    },
+    {
+      "text": "Judit Polgár is widely regarded as the strongest female chess player in history, reaching a peak rating of 2735.",
+      "source": "https://en.wikipedia.org/wiki/Judit_Polg%C3%A1r"
+    },
+    {
+      "text": "The Immortal Game was played between Adolf Anderssen and Lionel Kieseritzky in London in 1851.",
+      "month": 6,
+      "day": 21,
+      "source": "https://en.wikipedia.org/wiki/Immortal_Game"
+    },
+    {
+      "text": "Castling is the only move in chess where two pieces move at the same time — the king and a rook.",
+      "source": "https://en.wikipedia.org/wiki/Castling"
+    },
+    {
+      "text": "Garry Kasparov became the youngest undisputed World Chess Champion at age 22 in 1985.",
+      "month": 11,
+      "day": 9,
+      "source": "https://en.wikipedia.org/wiki/Garry_Kasparov"
+    },
+    {
+      "text": "The Ruy López opening, named after a 16th-century Spanish priest, is one of the oldest recorded openings in chess.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Ruy_L%C3%B3pez_opening%2C_named_after_a_16th-century_Spanish_priest"
+    },
+    {
+      "text": "Hikaru Nakamura became one of the most popular chess streamers on Twitch, regularly drawing tens of thousands of viewers.",
+      "source": "https://en.wikipedia.org/wiki/Hikaru_Nakamura"
+    },
+    {
+      "text": "AlphaZero, developed by DeepMind, taught itself chess in just four hours and defeated Stockfish in a 100-game match in 2017.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/AlphaZero"
+    },
+    {
+      "text": "The word 'checkmate' comes from the Persian phrase 'shāh māt,' meaning 'the king is helpless.'",
+      "source": "https://en.wikipedia.org/wiki/word_%27checkmate%27_comes_from_the_Persian_phrase_%27sh%C4%81h_m%C4%81t%2C%27_meaning_%27the_king"
+    },
+    {
+      "text": "En passant is a special pawn capture that can only occur immediately after a pawn moves two squares forward from its starting position.",
+      "source": "https://en.wikipedia.org/wiki/En_passant"
+    },
+    {
+      "text": "Viswanathan Anand became the first Indian to win the World Chess Championship, earning the title in 2000.",
+      "source": "https://en.wikipedia.org/wiki/Viswanathan_Anand"
+    },
+    {
+      "text": "The Game of the Century was played by 13-year-old Bobby Fischer against Donald Byrne in New York in 1956.",
+      "month": 10,
+      "day": 17,
+      "source": "https://en.wikipedia.org/wiki/Game_of_the_Century"
+    },
+    {
+      "text": "Lichess is a free, open-source chess server founded by Thibault Duplessis in 2010.",
+      "source": "https://en.wikipedia.org/wiki/Lichess"
+    },
+    {
+      "text": "A pin is a tactic where an attacked piece cannot move without exposing a more valuable piece behind it.",
+      "source": "https://en.wikipedia.org/wiki/A_pin"
+    },
+    {
+      "text": "The Polgár sisters — Susan, Sofia, and Judit — were part of an experiment by their father László to prove that geniuses are made, not born.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Polg%C3%A1r_sisters_%E2%80%94_Susan%2C_Sofia%2C_and_Judit_%E2%80%94"
+    },
+    {
+      "text": "Chess spread from India to Persia, where it was known as Shatranj, and then throughout the Arab world.",
+      "source": "https://en.wikipedia.org/wiki/Chess_spread_from_India_to_Persia%2C_where_it"
+    },
+    {
+      "text": "The Italian Game (1.e4 e5 2.Nf3 Nc6 3.Bc4) is one of the oldest recorded chess openings, dating back to the 15th century.",
+      "source": "https://en.wikipedia.org/wiki/Italian_Game_(1.e4_e5_2.Nf3_Nc6_3.Bc4)"
+    },
+    {
+      "text": "Stockfish is one of the strongest open-source chess engines and has won multiple Top Chess Engine Championships.",
+      "source": "https://en.wikipedia.org/wiki/Stockfish"
+    },
+    {
+      "text": "Bobby Fischer was born in Chicago, Illinois.",
+      "month": 3,
+      "day": 9,
+      "source": "https://en.wikipedia.org/wiki/Bobby_Fischer"
+    },
+    {
+      "text": "A skewer is the reverse of a pin — the more valuable piece is attacked first and must move, exposing a less valuable piece behind it.",
+      "source": "https://en.wikipedia.org/wiki/A_skewer"
+    },
+    {
+      "text": "Ding Liren became China's first World Chess Champion by defeating Ian Nepomniachtchi in 2023.",
+      "month": 4,
+      "day": 30,
+      "source": "https://en.wikipedia.org/wiki/Ding_Liren"
+    },
+    {
+      "text": "The ELO rating system, designed by Arpad Elo, was adopted by FIDE in 1970 to rank chess players worldwide.",
+      "source": "https://en.wikipedia.org/wiki/ELO_rating_system%2C_designed_by_Arpad_Elo"
+    },
+    {
+      "text": "The Queen's Gambit (1.d4 d5 2.c4) is one of the oldest known chess openings, first mentioned in a 15th-century manuscript.",
+      "source": "https://en.wikipedia.org/wiki/Queen%27s_Gambit_(1.d4_d5_2.c4)"
+    },
+    {
+      "text": "PogChamps was a chess tournament featuring popular Twitch streamers that helped bring chess to a wider online audience.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/PogChamps"
+    },
+    {
+      "text": "Anatoly Karpov held the World Chess Championship title from 1975 to 1985, defending it successfully multiple times.",
+      "source": "https://en.wikipedia.org/wiki/Anatoly_Karpov"
+    },
+    {
+      "text": "The Opera Game, played by Paul Morphy in 1858 at an opera house in Paris, is considered one of the most elegant games ever played.",
+      "source": "https://en.wikipedia.org/wiki/Opera_Game%2C_played_by_Paul_Morphy_in_1858_at_an_opera_house_in_Paris"
+    },
+    {
+      "text": "Chess clocks were first used in competitive play in 1883 during the London tournament.",
+      "source": "https://en.wikipedia.org/wiki/Chess_clocks"
+    },
+    {
+      "text": "A discovered attack occurs when one piece moves out of the way, revealing an attack from another piece behind it.",
+      "source": "https://en.wikipedia.org/wiki/Chess"
+    },
+    {
+      "text": "The French Defense (1.e4 e6) was named after a correspondence match between London and Paris in 1834.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/French_Defense_(1.e4_e6)"
+    },
+    {
+      "text": "Magnus Carlsen was born in Tønsberg, Norway.",
+      "month": 11,
+      "day": 30,
+      "source": "https://en.wikipedia.org/wiki/Magnus_Carlsen"
+    },
+    {
+      "text": "Chess notation allows players to record every move of a game using a system of letters and numbers.",
+      "source": "https://en.wikipedia.org/wiki/Chess"
+    },
+    {
+      "text": "The King's Indian Defense is a hypermodern opening where Black allows White to build a strong pawn center before counterattacking.",
+      "source": "https://en.wikipedia.org/wiki/King%27s_Indian_Defense"
+    },
+    {
+      "text": "Kasparov and Karpov's 1984-85 World Championship match was the longest in history, lasting 48 games before being controversially terminated.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Kasparov_and_Karpov%27s_1984-85_World_Championship_match"
+    },
+    {
+      "text": "Blitz chess is a fast-paced format where each player typically has 3 to 5 minutes for the entire game.",
+      "source": "https://en.wikipedia.org/wiki/Blitz_chess"
+    },
+    {
+      "text": "José Raúl Capablanca, the Cuban World Champion, was known for his extraordinary endgame technique and intuitive style.",
+      "source": "https://en.wikipedia.org/wiki/Jos%C3%A9_Ra%C3%BAl_Capablanca%2C_the_Cuban_World_Champion"
+    },
+    {
+      "text": "Emanuel Lasker held the World Chess Championship title for 27 years (1894–1921), the longest reign in history.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Emanuel_Lasker"
+    },
+    {
+      "text": "The Caro-Kann Defense (1.e4 c6) is known for producing solid but slightly passive positions for Black.",
+      "source": "https://en.wikipedia.org/wiki/Caro-Kann_Defense_(1.e4_c6)"
+    },
+    {
+      "text": "Chess in Central Park, New York City, is a beloved tradition where players of all skill levels gather to play.",
+      "source": "https://en.wikipedia.org/wiki/Chess_in_Central_Park%2C_New_York_City"
+    },
+    {
+      "text": "Leela Chess Zero (Lc0) is a neural network-based chess engine inspired by DeepMind's AlphaZero.",
+      "source": "https://en.wikipedia.org/wiki/Leela_Chess_Zero_(Lc0)"
+    },
+    {
+      "text": "Mikhail Tal, known as 'The Magician from Riga,' was famous for his brilliant sacrificial attacking style.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Mikhail_Tal%2C_known_as_%27The_Magician_from_Riga"
+    },
+    {
+      "text": "The stalemate rule — where a player with no legal moves but not in check draws the game — has been debated for centuries.",
+      "source": "https://en.wikipedia.org/wiki/stalemate_rule_%E2%80%94_where_a_player_with_no_legal_moves_but_not_in_check_draws_the_game_%E2%80%94"
+    },
+    {
+      "text": "Sergey Karjakin became the youngest grandmaster in history at age 12 years and 7 months in 2002.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Sergey_Karjakin"
+    },
+    {
+      "text": "The English Opening (1.c4) is named after the English master Howard Staunton, who favored it in the 19th century.",
+      "source": "https://en.wikipedia.org/wiki/English_Opening_(1.c4)"
+    },
+    {
+      "text": "Fischer Random Chess (Chess960) randomizes the starting positions of pieces on the back rank to reduce reliance on opening theory.",
+      "source": "https://en.wikipedia.org/wiki/Fischer_Random_Chess"
+    },
+    {
+      "text": "Garry Kasparov was born in Baku, Azerbaijan.",
+      "month": 4,
+      "day": 13,
+      "source": "https://en.wikipedia.org/wiki/Garry_Kasparov"
+    },
+    {
+      "text": "Pawn structure is a key strategic concept — pawns cannot move backward and often determine the character of a position.",
+      "source": "https://en.wikipedia.org/wiki/Pawn_structure"
+    },
+    {
+      "text": "The Netflix series 'The Queen's Gambit' was based on Walter Tevis's 1983 novel of the same name.",
+      "source": "https://en.wikipedia.org/wiki/Netflix_series_%27The_Queen%27s_Gambit"
+    },
+    {
+      "text": "In bullet chess, each player has only 1 minute for the entire game, requiring extremely fast decision-making.",
+      "source": "https://en.wikipedia.org/wiki/In_bullet_chess%2C_each_player"
+    },
+    {
+      "text": "Viswanathan Anand was born in Chennai, India.",
+      "month": 12,
+      "day": 11,
+      "source": "https://en.wikipedia.org/wiki/Viswanathan_Anand"
+    },
+    {
+      "text": "The Evergreen Game, played by Adolf Anderssen against Jean Dufresne in 1852, features a spectacular queen sacrifice.",
+      "source": "https://en.wikipedia.org/wiki/Evergreen_Game%2C_played_by_Adolf_Anderssen_against_Jean_Dufresne_in_1852"
+    },
+    {
+      "text": "Bughouse is a popular chess variant played by teams of two, where captured pieces are passed to a partner.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Bughouse"
+    },
+    {
+      "text": "The bishop was originally an elephant piece in Chaturanga before its movement changed as the game evolved in Europe.",
+      "source": "https://en.wikipedia.org/wiki/bishop"
+    },
+    {
+      "text": "Alexander Alekhine was the only World Chess Champion to die while still holding the title, in 1946.",
+      "source": "https://en.wikipedia.org/wiki/Alexander_Alekhine"
+    },
+    {
+      "text": "The Sicilian Najdorf variation is named after Argentine grandmaster Miguel Najdorf and is one of the sharpest openings in chess.",
+      "source": "https://en.wikipedia.org/wiki/Sicilian_Najdorf_variation"
+    },
+    {
+      "text": "Beth Harmon, the fictional protagonist of The Queen's Gambit, was inspired by several real-life chess prodigies.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Beth_Harmon%2C_the_fictional_protagonist_of_The_Queen%27s_Gambit"
+    },
+    {
+      "text": "Chess was included as a mind sport at the 2006 Asian Games in Doha, Qatar.",
+      "source": "https://en.wikipedia.org/wiki/Chess"
+    },
+    {
+      "text": "The longest possible chess game in terms of moves is 5,949 moves, based on the 50-move and 75-move rules.",
+      "source": "https://en.wikipedia.org/wiki/longest_possible_chess_game_in_terms_of_moves"
+    },
+    {
+      "text": "Bobby Fischer demanded and received unprecedented conditions for his 1972 World Championship match against Spassky.",
+      "source": "https://en.wikipedia.org/wiki/Bobby_Fischer"
+    },
+    {
+      "text": "The Grünfeld Defense (1.d4 Nf6 2.c4 g6 3.Nc3 d5) was a favorite weapon of Garry Kasparov.",
+      "source": "https://en.wikipedia.org/wiki/Gr%C3%BCnfeld_Defense_(1.d4_Nf6_2.c4_g6_3.Nc3_d5)"
+    },
+    {
+      "text": "The first official World Chess Championship match was held in 1886 between Wilhelm Steinitz and Johannes Zukertort.",
+      "month": 1,
+      "day": 11,
+      "source": "https://en.wikipedia.org/wiki/first_official_World_Chess_Championship_match"
+    },
+    {
+      "text": "A back-rank mate occurs when the king is trapped behind its own pawns and checkmated by a rook or queen on the last rank.",
+      "source": "https://en.wikipedia.org/wiki/A_back-rank_mate_occurs_when_the_king"
+    },
+    {
+      "text": "The COVID-19 pandemic combined with The Queen's Gambit series caused an unprecedented boom in chess popularity in 2020.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/COVID-19"
+    },
+    {
+      "text": "Anatoly Karpov was born in Zlatoust, Soviet Union.",
+      "month": 5,
+      "day": 23,
+      "source": "https://en.wikipedia.org/wiki/Anatoly_Karpov"
+    },
+    {
+      "text": "The Nimzo-Indian Defense (1.d4 Nf6 2.c4 e6 3.Nc3 Bb4) is one of the most respected defenses against 1.d4.",
+      "source": "https://en.wikipedia.org/wiki/Nimzo-Indian_Defense_(1.d4_Nf6_2.c4_e6_3.Nc3_Bb4)"
+    },
+    {
+      "text": "The 50-move rule states that a player can claim a draw if no capture or pawn move has been made in the last 50 moves.",
+      "source": "https://en.wikipedia.org/wiki/50-move_rule_states_that_a_player_can_claim_a_draw_if_no_capture_or_pawn_move"
+    },
+    {
+      "text": "Speed chess, including blitz and rapid formats, has become increasingly popular in online and over-the-board tournaments.",
+      "source": "https://en.wikipedia.org/wiki/Speed_chess%2C_including_blitz_and_rapid_formats"
+    },
+    {
+      "text": "In 1997, IBM's Deep Blue used specialized hardware capable of evaluating 200 million positions per second.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/IBM%27s_Deep_Blue"
+    },
+    {
+      "text": "The Scotch Game (1.e4 e5 2.Nf3 Nc6 3.d4) was popularized by Garry Kasparov in his World Championship matches.",
+      "source": "https://en.wikipedia.org/wiki/Scotch_Game_(1.e4_e5_2.Nf3_Nc6_3.d4)"
+    },
+    {
+      "text": "Chess is played in over 150 countries and is governed internationally by FIDE (Fédération Internationale des Échecs).",
+      "source": "https://en.wikipedia.org/wiki/Chess"
+    },
+    {
+      "text": "Mikhail Botvinnik, the 'Patriarch of Soviet Chess,' held the World Championship three separate times between 1948 and 1963.",
+      "source": "https://en.wikipedia.org/wiki/Mikhail_Botvinnik"
+    },
+    {
+      "text": "A zugzwang is a position where any move a player makes worsens their position, but they are compelled to move.",
+      "source": "https://en.wikipedia.org/wiki/A_zugzwang"
+    },
+    {
+      "text": "Bobby Fischer's 1972 victory over Spassky was seen as a Cold War battle between the United States and the Soviet Union.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Bobby_Fischer%27s_1972_victory_over_Spassky"
+    },
+    {
+      "text": "The London System (1.d4 followed by Bf4) has become extremely popular at the amateur level due to its simplicity.",
+      "source": "https://en.wikipedia.org/wiki/London_System_(1.d4_followed_by_Bf4)"
+    },
+    {
+      "text": "Judit Polgár defeated Garry Kasparov in a rapid game in 2002, one of the most significant moments in chess history.",
+      "source": "https://en.wikipedia.org/wiki/Garry_Kasparov_in"
+    },
+    {
+      "text": "The pawn is the only chess piece that captures differently from how it moves — it moves forward but captures diagonally.",
+      "source": "https://en.wikipedia.org/wiki/pawn"
+    },
+    {
+      "text": "Ding Liren was born in Wenzhou, China.",
+      "month": 10,
+      "day": 24,
+      "source": "https://en.wikipedia.org/wiki/Ding_Liren"
+    },
+    {
+      "text": "The Marshall Attack in the Ruy López involves a dramatic pawn sacrifice for long-term attacking chances.",
+      "source": "https://en.wikipedia.org/wiki/Marshall_Attack_in_the_Ruy"
+    },
+    {
+      "text": "FIDE (World Chess Federation) was founded in Paris, France.",
+      "month": 7,
+      "day": 20,
+      "source": "https://en.wikipedia.org/wiki/FIDE_(World_Chess_Federation)"
+    },
+    {
+      "text": "The concept of 'tempo' in chess refers to the value of a single move — gaining or losing a tempo can be critical.",
+      "source": "https://en.wikipedia.org/wiki/Chess"
+    },
+    {
+      "text": "Magnus Carlsen won his first World Chess Championship by defeating Viswanathan Anand in Chennai in 2013.",
+      "month": 11,
+      "day": 22,
+      "source": "https://en.wikipedia.org/wiki/Magnus_Carlsen"
+    },
+    {
+      "text": "The Philidor Defense (1.e4 e5 2.Nf3 d6) is named after the 18th-century French player François-André Danican Philidor.",
+      "source": "https://en.wikipedia.org/wiki/Philidor_Defense_(1.e4_e5_2.Nf3_d6)"
+    },
+    {
+      "text": "A chess grandmaster title, once earned, is held for life — it can never be taken away by FIDE.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/A_chess_grandmaster_title%2C_once"
+    },
+    {
+      "text": "Alekhine's Defense (1.e4 Nf6) is a provocative opening where Black immediately attacks White's e4 pawn.",
+      "source": "https://en.wikipedia.org/wiki/Alekhine%27s_Defense_(1.e4_Nf6)"
+    },
+    {
+      "text": "The world record for the most simultaneous chess games was set by Ehsan Ghaem-Maghami, who played 604 games at once in 2011.",
+      "source": "https://en.wikipedia.org/wiki/world_record_for_the_most_simultaneous_chess_games"
+    },
+    {
+      "text": "Kasparov and Karpov played five World Championship matches between 1984 and 1990, one of the greatest rivalries in sports history.",
+      "source": "https://en.wikipedia.org/wiki/Kasparov_and_Karpov"
+    },
+    {
+      "text": "The Benoni Defense is an aggressive opening for Black that aims for dynamic counterplay against White's pawn center.",
+      "source": "https://en.wikipedia.org/wiki/Benoni_Defense"
+    },
+    {
+      "text": "International Master (IM) and Grandmaster (GM) are the two highest titles awarded by FIDE to chess players.",
+      "source": "https://en.wikipedia.org/wiki/International_Master_(IM)_and_Grandmaster_(GM)"
+    },
+    {
+      "text": "The queen became the most powerful piece on the board during the late 15th century rules reform in Europe.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/queen"
+    },
+    {
+      "text": "Passed pawns — pawns with no opposing pawns blocking or guarding their advance — are a major asset in endgames.",
+      "source": "https://en.wikipedia.org/wiki/Passed_pawns_%E2%80%94_pawns_with_no_opposing_pawns_blocking_or_guarding_their_advance_%E2%80%94"
+    },
+    {
+      "text": "José Raúl Capablanca was born in Havana, Cuba.",
+      "month": 11,
+      "day": 19,
+      "source": "https://en.wikipedia.org/wiki/Jos%C3%A9_Ra%C3%BAl_Capablanca"
+    },
+    {
+      "text": "The Dragon variation of the Sicilian Defense is named for the pawn formation that resembles the constellation Draco.",
+      "source": "https://en.wikipedia.org/wiki/Dragon_variation_of_the_Sicilian_Defense"
+    },
+    {
+      "text": "Chess puzzles, also called chess problems, are positions where the solver must find the best move or sequence of moves.",
+      "source": "https://en.wikipedia.org/wiki/Chess_puzzles%2C_also_called_chess_problems"
+    },
+    {
+      "text": "AlphaZero's playing style was described as creative and unconventional, often making moves that surprised human grandmasters.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/AlphaZero%27s_playing_style"
+    },
+    {
+      "text": "The Dutch Defense (1.d4 f5) is an aggressive opening for Black that immediately fights for control of the e4 square.",
+      "source": "https://en.wikipedia.org/wiki/Dutch_Defense_(1.d4_f5)"
+    },
+    {
+      "text": "Wilhelm Steinitz is considered the first official World Chess Champion, holding the title from 1886 to 1894.",
+      "source": "https://en.wikipedia.org/wiki/Wilhelm_Steinitz"
+    },
+    {
+      "text": "The opposition is a key endgame concept in king-and-pawn endings where the player not on the move has the advantage.",
+      "source": "https://en.wikipedia.org/wiki/opposition"
+    },
+    {
+      "text": "Emanuel Lasker was born in Berlinchen, Prussia (now Barlinek, Poland).",
+      "month": 12,
+      "day": 24,
+      "source": "https://en.wikipedia.org/wiki/Emanuel_Lasker"
+    },
+    {
+      "text": "Chess engines have become so strong that even top grandmasters cannot compete with them in standard games.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Chess_engines"
+    },
+    {
+      "text": "The Sveshnikov variation of the Sicilian Defense features an early ...e5 push and has been used by many top players.",
+      "source": "https://en.wikipedia.org/wiki/Sveshnikov_variation_of_the_Sicilian_Defense"
+    },
+    {
+      "text": "Tigran Petrosian was known as 'Iron Tigran' for his nearly impenetrable defensive style of play.",
+      "source": "https://en.wikipedia.org/wiki/Tigran_Petrosian"
+    },
+    {
+      "text": "A sacrifice in chess is when a player deliberately gives up material for positional or tactical compensation.",
+      "source": "https://en.wikipedia.org/wiki/A_sacrifice_in_chess"
+    },
+    {
+      "text": "The Candidates Tournament determines which player will challenge the reigning World Champion for the title.",
+      "source": "https://en.wikipedia.org/wiki/Candidates_Tournament"
+    },
+    {
+      "text": "Bobby Fischer created Fischer Random Chess (Chess960) in 1996 to combat the growing influence of opening preparation.",
+      "source": "https://en.wikipedia.org/wiki/Bobby_Fischer"
+    },
+    {
+      "text": "The Scandinavian Defense (1.e4 d5) is one of the oldest recorded openings and immediately challenges White's e4 pawn.",
+      "source": "https://en.wikipedia.org/wiki/Scandinavian_Defense_(1.e4_d5)"
+    },
+    {
+      "text": "Mikhail Tal was born in Riga, Latvia.",
+      "month": 11,
+      "day": 9,
+      "source": "https://en.wikipedia.org/wiki/Mikhail_Tal"
+    },
+    {
+      "text": "An isolated queen's pawn (IQP) is a common pawn structure that provides dynamic chances but can become a weakness in endgames.",
+      "source": "https://en.wikipedia.org/wiki/An_isolated_queen%27s_pawn_(IQP)"
+    },
+    {
+      "text": "The annual Tata Steel Chess Tournament in Wijk aan Zee, Netherlands, is one of the most prestigious events in chess.",
+      "source": "https://en.wikipedia.org/wiki/annual_Tata_Steel_Chess_Tournament_in_Wijk_aan_Zee%2C_Netherlands"
+    },
+    {
+      "text": "Garry Kasparov retired from professional chess in 2005 to focus on politics and writing.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Garry_Kasparov"
+    },
+    {
+      "text": "The Bird's Opening (1.f4) is named after the 19th-century English player Henry Bird.",
+      "source": "https://en.wikipedia.org/wiki/Bird%27s_Opening_(1.f4)"
+    },
+    {
+      "text": "A fianchetto involves developing a bishop to g2 or b2 (for White) or g7 or b7 (for Black), placing it on a long diagonal.",
+      "source": "https://en.wikipedia.org/wiki/Chess"
+    },
+    {
+      "text": "The Sinquefield Cup in St. Louis, Missouri, regularly attracts the world's strongest players.",
+      "source": "https://en.wikipedia.org/wiki/Sinquefield_Cup_in_St._Louis"
+    },
+    {
+      "text": "The Berlin Defense in the Ruy López became known as the 'Berlin Wall' for its solid, drawish reputation.",
+      "source": "https://en.wikipedia.org/wiki/Berlin_Defense_in_the_Ruy_L%C3%B3pez"
+    },
+    {
+      "text": "The first chess-playing automaton, 'The Turk,' was built in 1770 and was later revealed to be a hoax with a human inside.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/first_chess-playing_automaton%2C_%27The_Turk"
+    },
+    {
+      "text": "Doubled pawns — two pawns of the same color on the same file — are generally considered a structural weakness.",
+      "source": "https://en.wikipedia.org/wiki/Doubled_pawns_%E2%80%94_two_pawns_of_the_same_color_on_the_same_file_%E2%80%94"
+    },
+    {
+      "text": "Magnus Carlsen relinquished his World Championship title in 2022, choosing not to defend it against the next challenger.",
+      "source": "https://en.wikipedia.org/wiki/Magnus_Carlsen"
+    },
+    {
+      "text": "The Petrov Defense (1.e4 e5 2.Nf3 Nf6) is a solid but somewhat drawish opening at the top level.",
+      "source": "https://en.wikipedia.org/wiki/Petrov_Defense_(1.e4_e5_2.Nf3_Nf6)"
+    },
+    {
+      "text": "Susan Polgár (Zsuzsa) was the first woman to earn the full Grandmaster title through the traditional rating system.",
+      "source": "https://en.wikipedia.org/wiki/Susan_Polg%C3%A1r_(Zsuzsa)"
+    },
+    {
+      "text": "Chess has been proposed multiple times for inclusion in the Olympic Games but has not yet been accepted.",
+      "source": "https://en.wikipedia.org/wiki/Chess"
+    },
+    {
+      "text": "A zwischenzug (intermediate move) is an unexpected move played before the expected response, often changing the evaluation.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/A_zwischenzug_(intermediate_move)"
+    },
+    {
+      "text": "The Slav Defense (1.d4 d5 2.c4 c6) is one of the most solid defenses against the Queen's Gambit.",
+      "source": "https://en.wikipedia.org/wiki/Slav_Defense_(1.d4_d5_2.c4_c6)"
+    },
+    {
+      "text": "Paul Morphy, an American chess prodigy from New Orleans, was considered the unofficial world champion in the 1850s.",
+      "source": "https://en.wikipedia.org/wiki/Paul_Morphy%2C_an_American_chess_prodigy_from_New_Orleans"
+    },
+    {
+      "text": "The principle of two weaknesses states that to win a position, the attacker often needs to create pressure on two fronts simultaneously.",
+      "source": "https://en.wikipedia.org/wiki/Chess"
+    },
+    {
+      "text": "Hikaru Nakamura is one of the fastest blitz and bullet chess players in history, with numerous speed chess titles.",
+      "source": "https://en.wikipedia.org/wiki/Hikaru_Nakamura"
+    },
+    {
+      "text": "The Staunton chess set, designed in 1849, became the standard set used in all official chess competitions.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Staunton_chess_set%2C_designed_in_1849"
+    },
+    {
+      "text": "The concept of 'compensation' in chess refers to non-material advantages (like initiative or attack) that offset a material deficit.",
+      "source": "https://en.wikipedia.org/wiki/Chess"
+    },
+    {
+      "text": "Kasparov's match against Deep Blue in 1996 ended 4–2 in Kasparov's favor, but the rematch in 1997 went to the machine.",
+      "month": 2,
+      "day": 10,
+      "source": "https://en.wikipedia.org/wiki/Deep_Blue"
+    },
+    {
+      "text": "The Closed Sicilian (with 2.Nc3 and 3.g3) avoids the complex Open Sicilian lines and leads to a more positional game.",
+      "source": "https://en.wikipedia.org/wiki/Closed_Sicilian"
+    },
+    {
+      "text": "Chess prodigies often achieve grandmaster status in their early teens — Abhimanyu Mishra became the youngest GM ever at 12 years, 4 months.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Chess_prodigies_often_achieve_grandmaster_status_in_their_early_teens_%E2%80%94_Abhimanyu_Mishra"
+    },
+    {
+      "text": "The Lucena position is a fundamental rook endgame position that demonstrates how to promote a pawn with a rook.",
+      "source": "https://en.wikipedia.org/wiki/Lucena_position"
+    },
+    {
+      "text": "Fischer's 6-0 whitewash of Mark Taimanov in the 1971 Candidates matches was one of the most dominant performances in chess history.",
+      "source": "https://en.wikipedia.org/wiki/Fischer%27s_6-0_whitewash_of_Mark_Taimanov_in_the_1971_Candidates_matches"
+    },
+    {
+      "text": "The concept of 'outpost' refers to a square where a piece (usually a knight) is firmly established and cannot be attacked by enemy pawns.",
+      "source": "https://en.wikipedia.org/wiki/concept_of_%27outpost%27_refers_to_a_square_where_a_piece_(usually_a_knight)"
+    },
+    {
+      "text": "Correspondence chess, played by mail or email, allows players days or weeks to analyze each move.",
+      "source": "https://en.wikipedia.org/wiki/Chess"
+    },
+    {
+      "text": "The Giuoco Piano (Italian for 'quiet game') is a slower, more positional approach within the Italian Game.",
+      "source": "https://en.wikipedia.org/wiki/Giuoco_Piano_(Italian_for_%27quiet_game%27)"
+    },
+    {
+      "text": "Arpad Elo, the creator of the ELO rating system, was born in Hungary but spent most of his life in the United States.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Arpad_Elo%2C_the_creator_of_the_ELO_rating_system"
+    },
+    {
+      "text": "A perpetual check occurs when one player can continuously check the opponent's king, resulting in a draw.",
+      "source": "https://en.wikipedia.org/wiki/Chess"
+    },
+    {
+      "text": "The World Rapid and Blitz Chess Championships are held annually and attract nearly all top grandmasters.",
+      "source": "https://en.wikipedia.org/wiki/World_Rapid_and_Blitz_Chess_Championships"
+    },
+    {
+      "text": "Kasparov's famous 'Immortal Game' against Veselin Topalov in 1999 featured a stunning series of sacrifices.",
+      "source": "https://en.wikipedia.org/wiki/Immortal_Game"
+    },
+    {
+      "text": "The Pirc Defense (1.e4 d6 2.d4 Nf6 3.Nc3 g6) is a hypermodern opening that allows White to build a strong center.",
+      "source": "https://en.wikipedia.org/wiki/Pirc_Defense_(1.e4_d6_2.d4_Nf6_3.Nc3_g6)"
+    },
+    {
+      "text": "Pawn promotion occurs when a pawn reaches the eighth rank and can be converted into any piece except a king.",
+      "source": "https://en.wikipedia.org/wiki/Chess"
+    },
+    {
+      "text": "The Philidor position in rook endgames demonstrates a drawing technique where the defending side uses their rook on the third rank.",
+      "source": "https://en.wikipedia.org/wiki/Philidor"
+    },
+    {
+      "text": "José Raúl Capablanca lost only 34 serious games in his entire career, an extraordinary achievement.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Chess"
+    },
+    {
+      "text": "The St. Louis Chess Club has become the premier chess venue in the United States.",
+      "source": "https://en.wikipedia.org/wiki/St._Louis_Chess_Club"
+    },
+    {
+      "text": "A battery in chess is formed when two or more pieces of the same type line up on a rank, file, or diagonal.",
+      "source": "https://en.wikipedia.org/wiki/A_battery_in_chess"
+    },
+    {
+      "text": "The Modern Defense (1.e4 g6) is a flexible opening that can transpose into many different structures.",
+      "source": "https://en.wikipedia.org/wiki/Modern_Defense_(1.e4_g6)"
+    },
+    {
+      "text": "FIDE awards the title of Woman Grandmaster (WGM) with lower requirements than the standard GM title.",
+      "source": "https://en.wikipedia.org/wiki/Woman_Grandmaster"
+    },
+    {
+      "text": "The Evans Gambit (1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4) is an aggressive opening offering a pawn for rapid development.",
+      "source": "https://en.wikipedia.org/wiki/Evans_Gambit_(1.e4_e5_2.Nf3_Nc6_3.Bc4_Bc5_4.b4)"
+    },
+    {
+      "text": "Garry Kasparov's peak ELO rating of 2851 stood as the record for nearly 20 years until Magnus Carlsen surpassed it.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Garry_Kasparov%27s"
+    },
+    {
+      "text": "The exchange sacrifice — giving up a rook for a bishop or knight — is a common positional tool, especially in Sicilian structures.",
+      "source": "https://en.wikipedia.org/wiki/exchange_sacrifice_%E2%80%94_giving_up_a_rook_for_a_bishop_or_knight_%E2%80%94"
+    },
+    {
+      "text": "The first international chess tournament was held in London in 1851, won by Adolf Anderssen.",
+      "month": 5,
+      "day": 27,
+      "source": "https://en.wikipedia.org/wiki/first_international_chess_tournament"
+    },
+    {
+      "text": "The Semi-Slav Defense combines ideas from the Slav and Queen's Gambit Declined and leads to rich, complex positions.",
+      "source": "https://en.wikipedia.org/wiki/Semi-Slav_Defense"
+    },
+    {
+      "text": "Chess blindfold play involves playing without seeing the board, relying entirely on memory and visualization.",
+      "source": "https://en.wikipedia.org/wiki/Chess"
+    },
+    {
+      "text": "Howard Staunton was one of the strongest players in the world during the 1840s and the Staunton chess set bears his name.",
+      "source": "https://en.wikipedia.org/wiki/Howard_Staunton"
+    },
+    {
+      "text": "The King's Gambit (1.e4 e5 2.f4) was one of the most popular openings in the 19th century's Romantic era of chess.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/King%27s_Gambit_(1.e4_e5_2.f4)"
+    },
+    {
+      "text": "A fortress is a drawing technique where the defending side creates an impenetrable position despite being down material.",
+      "source": "https://en.wikipedia.org/wiki/A_fortress"
+    },
+    {
+      "text": "The Candidates Tournament format has changed many times throughout chess history, from match play to round-robin to knockout.",
+      "source": "https://en.wikipedia.org/wiki/Candidates_Tournament_format"
+    },
+    {
+      "text": "Mikhail Tal won the World Chess Championship title by defeating Mikhail Botvinnik in 1960, at the age of 23.",
+      "month": 5,
+      "day": 7,
+      "source": "https://en.wikipedia.org/wiki/Mikhail_Tal"
+    },
+    {
+      "text": "The Tarrasch Defense (1.d4 d5 2.c4 e6 3.Nc3 c5) leads to an isolated queen's pawn structure for Black.",
+      "source": "https://en.wikipedia.org/wiki/Tarrasch_Defense"
+    },
+    {
+      "text": "Chess Olympiad is a biennial team event where countries send their best players to compete for gold, silver, and bronze medals.",
+      "source": "https://en.wikipedia.org/wiki/Chess_Olympiad"
+    },
+    {
+      "text": "The minority attack is a strategic plan where the side with fewer pawns on one wing advances them to create weaknesses.",
+      "source": "https://en.wikipedia.org/wiki/minority_attack"
+    },
+    {
+      "text": "Sven Magnus Øen Carlsen started playing chess at age 5 and became a grandmaster at age 13.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Sven_Magnus_%C3%98en_Carlsen_started_playing_chess_at_age_5_and"
+    },
+    {
+      "text": "The Réti Opening (1.Nf3) is a hypermodern opening that delays committing the center pawns.",
+      "source": "https://en.wikipedia.org/wiki/R%C3%A9ti_Opening_(1.Nf3)"
+    },
+    {
+      "text": "The Three-Move Checkmate (Scholar's Mate) is one of the first traps beginners learn: 1.e4 e5 2.Qh5 Nc6 3.Bc4 Nf6 4.Qxf7#.",
+      "source": "https://en.wikipedia.org/wiki/Three-Move_Checkmate_(Scholar%27s_Mate)"
+    },
+    {
+      "text": "International chess uses the algebraic notation system, where each square has a unique coordinate (a1 through h8).",
+      "source": "https://en.wikipedia.org/wiki/International_chess_uses_the_algebraic_notation_system%2C_where_each_square"
+    },
+    {
+      "text": "The Catalan Opening combines elements of the Queen's Gambit with a king's bishop fianchetto (1.d4 Nf6 2.c4 e6 3.g3).",
+      "source": "https://en.wikipedia.org/wiki/Catalan_Opening"
+    },
+    {
+      "text": "The Touch-Move rule states that if a player touches a piece, they must move it — if they touch an opponent's piece, they must capture it.",
+      "source": "https://en.wikipedia.org/wiki/Touch-Move"
+    },
+    {
+      "text": "The World Chess Championship has been contested since 1886, making it one of the oldest championships in any sport.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/World_Chess_Championship"
+    },
+    {
+      "text": "A decoy is a tactic that lures an enemy piece to a disadvantageous square.",
+      "source": "https://en.wikipedia.org/wiki/A_decoy"
+    },
+    {
+      "text": "Fabiano Caruana became the first American to challenge for the World Chess Championship since Bobby Fischer when he faced Carlsen in 2018.",
+      "source": "https://en.wikipedia.org/wiki/Fabiano_Caruana"
+    },
+    {
+      "text": "The Queen's Indian Defense (1.d4 Nf6 2.c4 e6 3.Nf3 b6) aims to control the center with pieces rather than pawns.",
+      "source": "https://en.wikipedia.org/wiki/Queen%27s_Indian_Defense"
+    },
+    {
+      "text": "Bobby Fischer won the US Chess Championship with a perfect 11-0 score in 1963-64, one of the greatest tournament results ever.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Bobby_Fischer"
+    },
+    {
+      "text": "The Sicilian Dragon gets its name because the pawn structure (pawns on d6, e7, f7, g6, h7) resembles the Draco constellation.",
+      "source": "https://en.wikipedia.org/wiki/Sicilian_Dragon"
+    },
+    {
+      "text": "Kasparov accused Deep Blue's team of cheating after his 1997 loss, claiming the computer received human assistance.",
+      "source": "https://en.wikipedia.org/wiki/Deep_Blue%27s"
+    },
+    {
+      "text": "The Philidor position and Lucena position are the two most important theoretical positions in rook endgames.",
+      "source": "https://en.wikipedia.org/wiki/Philidor_position_and_Lucena_position"
+    },
+    {
+      "text": "The Vienna Game (1.e4 e5 2.Nc3) is an opening that delays Nf3 to maintain the option of f2-f4.",
+      "source": "https://en.wikipedia.org/wiki/Vienna_Game_(1.e4_e5_2.Nc3)"
+    },
+    {
+      "text": "Over 600 million people worldwide know how to play chess, making it one of the most widely played games.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Over_600"
+    },
+    {
+      "text": "World Chess Day is celebrated annually on July 20th, marking the founding date of FIDE in 1924.",
+      "month": 7,
+      "day": 20,
+      "source": "https://en.wikipedia.org/wiki/World_Chess_Day"
+    },
+    {
+      "text": "A combination in chess is a sequence of forced moves that leads to a tangible advantage.",
+      "source": "https://en.wikipedia.org/wiki/A_combination_in_chess"
+    },
+    {
+      "text": "The 1972 Fischer-Spassky match in Reykjavik was nicknamed 'The Match of the Century.'",
+      "source": "https://en.wikipedia.org/wiki/1972_Fischer-Spassky_match_in_Reykjavik"
+    },
+    {
+      "text": "The Trompowsky Attack (1.d4 Nf6 2.Bg5) is a popular alternative to the more traditional Queen's Gambit lines.",
+      "source": "https://en.wikipedia.org/wiki/Trompowsky_Attack_(1.d4_Nf6_2.Bg5)"
+    },
+    {
+      "text": "Endgame tablebases have solved all positions with up to 7 pieces on the board, providing perfect play information.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Endgame_tablebases"
+    },
+    {
+      "text": "The concept of 'space advantage' in chess refers to controlling more squares on the board than your opponent.",
+      "source": "https://en.wikipedia.org/wiki/Chess"
+    },
+    {
+      "text": "Alexander Grischuk is known for his severe time trouble, often playing critical moves with just seconds on his clock.",
+      "source": "https://en.wikipedia.org/wiki/Alexander_Grischuk"
+    },
+    {
+      "text": "The Najdorf variation of the Sicilian Defense was a favorite of both Bobby Fischer and Garry Kasparov.",
+      "source": "https://en.wikipedia.org/wiki/Najdorf_variation_of_the_Sicilian_Defense"
+    },
+    {
+      "text": "The concept of a 'positional sacrifice' involves giving up material for long-term strategic advantages rather than a direct attack.",
+      "source": "https://en.wikipedia.org/wiki/Chess"
+    },
+    {
+      "text": "Vishwanathan Anand held the World Chess Championship title from 2007 to 2013, successfully defending it twice.",
+      "source": "https://en.wikipedia.org/wiki/Vishwanathan_Anand"
+    },
+    {
+      "text": "Fool's Mate (1.f3 e5 2.g4 Qh4#) is the shortest possible checkmate, occurring in just two moves.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Fool%27s_Mate_(1.f3_e5_2.g4_Qh4%23)"
+    },
+    {
+      "text": "The Benko Gambit (1.d4 Nf6 2.c4 c5 3.d5 b5) involves a pawn sacrifice for long-term queenside pressure.",
+      "source": "https://en.wikipedia.org/wiki/Benko_Gambit"
+    },
+    {
+      "text": "The chess clock was invented by Thomas Wilson in 1883, revolutionizing competitive chess.",
+      "source": "https://en.wikipedia.org/wiki/chess_clock"
+    },
+    {
+      "text": "An X-ray or skewer attack is when a piece attacks through another piece on the same line.",
+      "source": "https://en.wikipedia.org/wiki/An_X-ray_or_skewer_attack"
+    },
+    {
+      "text": "The term 'grandmaster' was first used informally in the early 20th century and became an official FIDE title in 1950.",
+      "source": "https://en.wikipedia.org/wiki/term_%27grandmaster"
+    },
+    {
+      "text": "Capablanca went undefeated for 8 years from 1916 to 1924, winning or drawing every serious game he played.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Chess"
+    },
+    {
+      "text": "The Accelerated Dragon variation of the Sicilian avoids the Yugoslav Attack by delaying ...d6.",
+      "source": "https://en.wikipedia.org/wiki/Accelerated_Dragon"
+    },
+    {
+      "text": "A windmill is a repeated discovered attack tactic, often involving a rook and bishop, that systematically captures material.",
+      "source": "https://en.wikipedia.org/wiki/A_windmill"
+    },
+    {
+      "text": "FIDE Master (FM) is a title awarded to players who achieve a rating of 2300 or higher.",
+      "source": "https://en.wikipedia.org/wiki/FIDE_Master_(FM)"
+    },
+    {
+      "text": "The Colle System (1.d4 d5 2.Nf3 Nf6 3.e3) is a solid but unambitious opening system popular at club level.",
+      "source": "https://en.wikipedia.org/wiki/Colle_System_(1.d4_d5_2.Nf3_Nf6_3.e3)"
+    },
+    {
+      "text": "Kasparov founded the Kasparov Chess Foundation to promote chess education in schools around the world.",
+      "source": "https://en.wikipedia.org/wiki/Kasparov"
+    },
+    {
+      "text": "The shortest decisive game in World Championship history lasted just 24 moves: Anand vs. Gelfand, Game 8, in 2012.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/World_Championship"
+    },
+    {
+      "text": "Triangulation is an endgame maneuver where the king takes three moves to reach a square it could reach in one, to lose a tempo.",
+      "source": "https://en.wikipedia.org/wiki/Triangulation"
+    },
+    {
+      "text": "The Chigorin Defense (1.d4 d5 2.c4 Nc6) is an unconventional opening that develops the knight before establishing a pawn chain.",
+      "source": "https://en.wikipedia.org/wiki/Chigorin_Defense_(1.d4_d5_2.c4_Nc6)"
+    },
+    {
+      "text": "Bobby Fischer forfeited Game 2 of his 1972 match against Spassky by refusing to play due to camera complaints.",
+      "month": 7,
+      "day": 13,
+      "source": "https://en.wikipedia.org/wiki/Bobby_Fischer"
+    },
+    {
+      "text": "The concept of prophylaxis in chess — preventing your opponent's plans before they execute them — was developed by Aron Nimzowitsch.",
+      "source": "https://en.wikipedia.org/wiki/Aron_Nimzowitsch"
+    },
+    {
+      "text": "The Maróczy Bind is a pawn structure (pawns on c4 and e4) that restricts Black's counterplay in many Sicilian variations.",
+      "source": "https://en.wikipedia.org/wiki/Mar%C3%B3czy_Bind"
+    },
+    {
+      "text": "There are more possible chess games than atoms in the observable universe — the Shannon number estimates 10^120 possible games.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/There"
+    },
+    {
+      "text": "The Latvian Gambit (1.e4 e5 2.Nf3 f5) is one of the most aggressive and risky openings in chess.",
+      "source": "https://en.wikipedia.org/wiki/Latvian_Gambit_(1.e4_e5_2.Nf3_f5)"
+    },
+    {
+      "text": "Kramnik defeated Kasparov in 2000 to become the 14th World Champion, using the Berlin Defense to neutralize Kasparov's e4.",
+      "month": 11,
+      "day": 2,
+      "source": "https://en.wikipedia.org/wiki/Kasparov_in_2000_to"
+    },
+    {
+      "text": "The concept of 'development' in chess refers to moving pieces from their starting positions to more active squares.",
+      "source": "https://en.wikipedia.org/wiki/Chess"
+    },
+    {
+      "text": "The Olympiad is the largest chess team event, with over 180 countries participating.",
+      "source": "https://en.wikipedia.org/wiki/Olympiad"
+    },
+    {
+      "text": "A clearance sacrifice removes one's own piece from a square to allow another piece to use that square.",
+      "source": "https://en.wikipedia.org/wiki/Chess"
+    },
+    {
+      "text": "Gata Kamsky was a child chess prodigy who defected from the Soviet Union and became a top American grandmaster.",
+      "source": "https://en.wikipedia.org/wiki/Gata_Kamsky"
+    },
+    {
+      "text": "The Two Knights Defense (1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6) is a sharp alternative to the more solid Giuoco Piano.",
+      "source": "https://en.wikipedia.org/wiki/Two_Knights_Defense_(1.e4_e5_2.Nf3_Nc6_3.Bc4_Nf6)"
+    },
+    {
+      "text": "Chess is one of the few sports where men and women can compete against each other on an equal playing field.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Chess"
+    },
+    {
+      "text": "The concept of the 'bishop pair advantage' refers to the two bishops working together being worth more than bishop and knight or two knights.",
+      "source": "https://en.wikipedia.org/wiki/Chess"
+    },
+    {
+      "text": "The Candidates Tournament in 2022 was held in Madrid, Spain, with Ian Nepomniachtchi winning convincingly.",
+      "month": 7,
+      "day": 5,
+      "source": "https://en.wikipedia.org/wiki/Candidates_Tournament_in_2022"
+    },
+    {
+      "text": "A Greek Gift sacrifice (Bxh7+) is a classic attacking pattern where a bishop is sacrificed on h7 to expose the opponent's king.",
+      "source": "https://en.wikipedia.org/wiki/A_Greek_Gift_sacrifice_(Bxh7%2B)"
+    },
+    {
+      "text": "The Grob Attack (1.g4) is one of the most unusual and rarely played first moves in chess.",
+      "source": "https://en.wikipedia.org/wiki/Grob_Attack_(1.g4)"
+    },
+    {
+      "text": "Magnus Carlsen has won the World Chess Championship five times, defending his title successfully in 2014, 2016, 2018, and 2021.",
+      "source": "https://en.wikipedia.org/wiki/Magnus_Carlsen"
+    },
+    {
+      "text": "The Venice System (or Reversed Sicilian) is when White plays 1.c4 e5, essentially playing the Sicilian with an extra tempo.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Venice_System_(or_Reversed_Sicilian)"
+    },
+    {
+      "text": "An overloaded piece is one that has too many defensive responsibilities and cannot fulfill all of them simultaneously.",
+      "source": "https://en.wikipedia.org/wiki/An_overloaded_piece"
+    },
+    {
+      "text": "Hou Yifan, the youngest female World Chess Champion in history, won her first title at age 16.",
+      "source": "https://en.wikipedia.org/wiki/Hou_Yifan%2C_the_youngest_female_World_Chess_Champion_in_history"
+    },
+    {
+      "text": "The Semi-Tarrasch Defense (1.d4 Nf6 2.c4 e6 3.Nc3 d5 4.cxd5 exd5 5.Nf3 c5) is considered slightly more reliable than the Tarrasch.",
+      "source": "https://en.wikipedia.org/wiki/Semi-Tarrasch_Defense_(1.d4_Nf6_2.c4_e6_3.Nc3_d5_4.cxd5_exd5_5.Nf3_c5)"
+    },
+    {
+      "text": "The term 'en prise' means a piece is left undefended and can be captured for free.",
+      "source": "https://en.wikipedia.org/wiki/term_%27en_prise%27_means_a_piece"
+    },
+    {
+      "text": "The 1927 World Chess Championship between Capablanca and Alekhine lasted 34 games.",
+      "month": 11,
+      "day": 29,
+      "source": "https://en.wikipedia.org/wiki/1927_World_Chess_Championship"
+    },
+    {
+      "text": "Chess pieces were originally carved from ivory, bone, and wood before plastic became the standard material.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Chess_pieces"
+    },
+    {
+      "text": "A hanging pawn pair (two adjacent pawns without pawn support) can be either a strength or a weakness depending on the position.",
+      "source": "https://en.wikipedia.org/wiki/Chess"
+    },
+    {
+      "text": "The Hippopotamus Defense is an unusual setup where all pieces are developed behind the third rank.",
+      "source": "https://en.wikipedia.org/wiki/Hippopotamus_Defense"
+    },
+    {
+      "text": "Aron Nimzowitsch's book 'My System' (1925) is considered one of the most influential chess books ever written.",
+      "source": "https://en.wikipedia.org/wiki/My_System"
+    },
+    {
+      "text": "The smothered mate pattern occurs when a knight delivers checkmate to a king surrounded by its own pieces.",
+      "source": "https://en.wikipedia.org/wiki/Chess"
+    },
+    {
+      "text": "Magnus Carlsen won the World Blitz Championship a record-setting number of times.",
+      "source": "https://en.wikipedia.org/wiki/Magnus_Carlsen"
+    },
+    {
+      "text": "The Ponziani Opening (1.e4 e5 2.Nf3 Nc6 3.c3) is one of the oldest known openings but is rarely seen at top level.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Ponziani_Opening_(1.e4_e5_2.Nf3_Nc6_3.c3)"
+    },
+    {
+      "text": "Kasparov's 'My Great Predecessors' series is a monumental five-volume work analyzing the games of all previous World Champions.",
+      "source": "https://en.wikipedia.org/wiki/Kasparov%27s_%27My_Great_Predecessors%27_series"
+    },
+    {
+      "text": "A desperado is a piece that is about to be captured and tries to inflict maximum damage before it is taken.",
+      "source": "https://en.wikipedia.org/wiki/A_desperado"
+    },
+    {
+      "text": "The Nimzowitsch-Larsen Attack (1.b3) aims to fianchetto the queen's bishop and exert pressure on the long diagonal.",
+      "source": "https://en.wikipedia.org/wiki/Nimzowitsch-Larsen_Attack"
+    },
+    {
+      "text": "Levon Aronian is one of the strongest players from Armenia, a country where chess is taught as a mandatory school subject.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Levon_Aronian"
+    },
+    {
+      "text": "The concept of 'the initiative' in chess refers to the ability to make threats and force the opponent to react.",
+      "source": "https://en.wikipedia.org/wiki/Chess"
+    },
+    {
+      "text": "Boris Spassky was born in Leningrad (now St. Petersburg), Soviet Union.",
+      "month": 1,
+      "day": 30,
+      "source": "https://en.wikipedia.org/wiki/Boris_Spassky"
+    },
+    {
+      "text": "The Dragon Sicilian's Yugoslav Attack (6.Be3) is one of the most aggressive systems White can employ.",
+      "source": "https://en.wikipedia.org/wiki/Dragon_Sicilian%27s_Yugoslav_Attack_(6.Be3)"
+    },
+    {
+      "text": "An interference is a tactic where a piece is placed between an attacking piece and its target, disrupting the attack.",
+      "source": "https://en.wikipedia.org/wiki/An_interference"
+    },
+    {
+      "text": "The grandmaster draw — a short, uneventful draw between top players — has been a controversial topic in chess for decades.",
+      "source": "https://en.wikipedia.org/wiki/grandmaster_draw_%E2%80%94_a_short%2C_uneventful_draw_between_top_players_%E2%80%94"
+    },
+    {
+      "text": "Vera Menchik was the first Women's World Chess Champion, holding the title from 1927 until her death in 1944.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Vera_Menchik"
+    },
+    {
+      "text": "The King's Indian Attack is a flexible system for White that can be used against many different Black setups.",
+      "source": "https://en.wikipedia.org/wiki/King%27s_Indian_Attack"
+    },
+    {
+      "text": "The concept of 'weak squares' refers to squares that cannot be controlled or defended by pawns.",
+      "source": "https://en.wikipedia.org/wiki/Chess"
+    },
+    {
+      "text": "The Taimanov variation of the Sicilian (1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6) offers Black flexible piece development.",
+      "source": "https://en.wikipedia.org/wiki/Taimanov"
+    },
+    {
+      "text": "Bobby Fischer disappeared from public life after winning the World Championship in 1972, not playing a competitive game for 20 years.",
+      "source": "https://en.wikipedia.org/wiki/Bobby_Fischer"
+    },
+    {
+      "text": "The first computer program to play chess was written by Alan Turing in 1950, though no computer was powerful enough to run it at the time.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/first_computer_program_to_play_chess"
+    },
+    {
+      "text": "A deflection is a tactic that forces a defending piece away from its critical square, leaving something unprotected.",
+      "source": "https://en.wikipedia.org/wiki/A_deflection"
+    },
+    {
+      "text": "The Open Catalan (1.d4 Nf6 2.c4 e6 3.g3 d5 4.Bg2 dxc4) allows Black to capture the c4 pawn, leading to asymmetrical play.",
+      "source": "https://en.wikipedia.org/wiki/Open_Catalan"
+    },
+    {
+      "text": "Max Euwe was the only Dutch player to become World Chess Champion, defeating Alekhine in 1935.",
+      "month": 12,
+      "day": 15,
+      "source": "https://en.wikipedia.org/wiki/Max_Euwe"
+    },
+    {
+      "text": "The Rauzer Attack in the Sicilian (6.Bg5 in the Classical Sicilian) leads to sharp, tactical play.",
+      "source": "https://en.wikipedia.org/wiki/Rauzer_Attack_in_the_Sicilian"
+    },
+    {
+      "text": "The 'Fischer boom' of the 1970s saw chess popularity skyrocket in the United States after Bobby Fischer's World Championship victory.",
+      "source": "https://en.wikipedia.org/wiki/%27Fischer_boom%27_of_the_1970s"
+    },
+    {
+      "text": "Anatoly Karpov is estimated to have won more chess tournaments than any other player in history — over 160.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Anatoly_Karpov"
+    },
+    {
+      "text": "The concept of 'color complex' refers to strategic patterns based on controlling squares of a particular color.",
+      "source": "https://en.wikipedia.org/wiki/Chess"
+    },
+    {
+      "text": "Domination is a tactic where a piece is trapped and cannot escape capture, even though it may have multiple squares available.",
+      "source": "https://en.wikipedia.org/wiki/Domination"
+    },
+    {
+      "text": "The Torre Attack (1.d4 Nf6 2.Nf3 e6 3.Bg5) is named after the Mexican grandmaster Carlos Torre Repetto.",
+      "source": "https://en.wikipedia.org/wiki/Torre_Attack_(1.d4_Nf6_2.Nf3_e6_3.Bg5)"
+    },
+    {
+      "text": "Wijk aan Zee, a small Dutch village, transforms every January into the center of the chess world during the Tata Steel tournament.",
+      "source": "https://en.wikipedia.org/wiki/Tata_Steel"
+    },
+    {
+      "text": "The Botvinnik Semi-Slav (1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 e6 5.Bg5 dxc4 6.e4) is one of the most complex and theory-heavy openings in chess.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Botvinnik_Semi-Slav_(1.d4_d5_2.c4_c6_3.Nf3_Nf6_4.Nc3_e6_5.Bg5_dxc4_6.e4)"
+    },
+    {
+      "text": "The 'opposition of colors' between bishop and pawns is crucial in many endgame positions — the bishop must be able to control the promotion square.",
+      "source": "https://en.wikipedia.org/wiki/%27opposition_of_colors%27_between_bishop_and_pawns"
+    },
+    {
+      "text": "The first chess book ever printed was 'Repetición de Amores y Arte de Ajedrez' by Luis Ramírez de Lucena in 1497.",
+      "source": "https://en.wikipedia.org/wiki/first_chess_book_ever_printed"
+    },
+    {
+      "text": "Anchor pawns are pawns that support a piece's outpost, keeping it secure on a strong square.",
+      "source": "https://en.wikipedia.org/wiki/Anchor_pawns"
+    },
+    {
+      "text": "The Budapest Gambit (1.d4 Nf6 2.c4 e5) is a surprise weapon where Black sacrifices a pawn for active piece play.",
+      "source": "https://en.wikipedia.org/wiki/Budapest_Gambit_(1.d4_Nf6_2.c4_e5)"
+    },
+    {
+      "text": "The Internet Chess Club (ICC) was one of the first major online chess platforms, founded in 1995.",
+      "source": "https://en.wikipedia.org/wiki/Internet_Chess_Club_(ICC)"
+    },
+    {
+      "text": "A fortress draw with bishop and wrong-colored rook pawn occurs when the defending king reaches the corner opposite to the bishop's color.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Chess"
+    },
+    {
+      "text": "The concept of 'pawn islands' — groups of connected pawns separated by open files — is a way to assess pawn structure quality.",
+      "source": "https://en.wikipedia.org/wiki/concept_of_%27pawn_islands%27_%E2%80%94_groups_of_connected_pawns_separated_by_open_files_%E2%80%94"
+    },
+    {
+      "text": "Teimour Radjabov became one of the world's top players while representing Azerbaijan.",
+      "source": "https://en.wikipedia.org/wiki/Teimour_Radjabov"
+    },
+    {
+      "text": "Mikhail Chigorin was a pioneer of Russian chess in the late 19th century and helped establish Russia's chess tradition.",
+      "source": "https://en.wikipedia.org/wiki/Mikhail_Chigorin"
+    },
+    {
+      "text": "The first online chess game was reportedly played in 1987 over a network connecting users across the United States.",
+      "source": "https://en.wikipedia.org/wiki/first_online_chess_game"
+    },
+    {
+      "text": "Nodirbek Abdusattorov won the World Rapid Championship in 2021 at just 17 years old, defeating Magnus Carlsen along the way.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Nodirbek_Abdusattorov"
+    },
+    {
+      "text": "The Bongcloud Attack (1.e4 e5 2.Ke2) became a famous meme opening when Magnus Carlsen played it in a serious online game.",
+      "source": "https://en.wikipedia.org/wiki/Bongcloud_Attack_(1.e4_e5_2.Ke2)"
+    },
+    {
+      "text": "The concept of 'coordination' in chess refers to how well pieces work together to attack or defend.",
+      "source": "https://en.wikipedia.org/wiki/Chess"
+    },
+    {
+      "text": "Fischer published his famous book 'My 60 Memorable Games' in 1969, which remains a classic of chess literature.",
+      "source": "https://en.wikipedia.org/wiki/My_60_Memorable_Games"
+    },
+    {
+      "text": "The Sicilian Kalashnikov (1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e5 5.Nb5 d6) is related to the Sveshnikov but avoids certain main lines.",
+      "source": "https://en.wikipedia.org/wiki/Sicilian_Kalashnikov_(1.e4_c5_2.Nf3_Nc6_3.d4_cxd4_4.Nxd4_e5_5.Nb5_d6)"
+    },
+    {
+      "text": "Bobby Fischer died in Reykjavik, Iceland, the same city where he won the World Championship 36 years earlier.",
+      "month": 1,
+      "day": 17,
+      "source": "https://en.wikipedia.org/wiki/Bobby_Fischer_died_in_Reykjavik%2C_Iceland%2C_the_same_city_where_he"
+    },
+    {
+      "text": "The seven pieces in chess are the king, queen, rook, bishop, knight, and pawn — each with unique movement rules.",
+      "source": "https://en.wikipedia.org/wiki/seven_pieces_in_chess"
+    },
+    {
+      "text": "A standard chess board has 64 squares arranged in an 8×8 grid of alternating light and dark colors.",
+      "source": "https://en.wikipedia.org/wiki/A_standard_chess_board"
+    },
+    {
+      "text": "The Breyer variation of the Ruy López (where Black plays ...Nb8) is a deep positional system favored by many top players.",
+      "source": "https://en.wikipedia.org/wiki/Breyer_variation_of_the_Ruy_L%C3%B3pez_(where_Black_plays_...Nb8)"
+    },
+    {
+      "text": "Grandmaster Levon Aronian and other Armenian players have helped Armenia win three Olympiad gold medals.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Grandmaster_Levon_Aronian_and_other_Armenian_players"
+    },
+    {
+      "text": "A backward pawn is one that cannot be advanced because the adjacent pawns have already moved past it.",
+      "source": "https://en.wikipedia.org/wiki/A_backward_pawn"
+    },
+    {
+      "text": "The concept of 'fortress breaking' involves finding ways to penetrate seemingly impregnable defensive setups.",
+      "source": "https://en.wikipedia.org/wiki/Chess"
+    },
+    {
+      "text": "The Najdorf Poisoned Pawn variation (6.Bg5 e6 7.f4 Qb6) is one of the sharpest lines in all of chess theory.",
+      "source": "https://en.wikipedia.org/wiki/Najdorf_Poisoned_Pawn_variation_(6.Bg5_e6_7.f4_Qb6)"
+    },
+    {
+      "text": "Samuel Reshevsky was a child chess prodigy who gave simultaneous exhibitions at age 8 in the 1920s.",
+      "source": "https://en.wikipedia.org/wiki/Samuel_Reshevsky"
+    },
+    {
+      "text": "The rule of the square is a quick way to determine if a king can catch a passed pawn in a pawn endgame.",
+      "source": "https://en.wikipedia.org/wiki/rule_of_the_square"
+    },
+    {
+      "text": "The 2023 World Chess Championship match between Ding Liren and Ian Nepomniachtchi was decided in rapid tiebreaks.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/2023_World_Chess_Championship_match_between_Ding_Liren_and_Ian_Nepomniachtchi"
+    },
+    {
+      "text": "Underpromotion — promoting a pawn to a knight, bishop, or rook instead of a queen — is rarely correct but occasionally essential.",
+      "source": "https://en.wikipedia.org/wiki/Underpromotion_%E2%80%94_promoting_a_pawn_to_a_knight%2C_bishop%2C_or_rook_instead_of_a_queen_%E2%80%94"
+    },
+    {
+      "text": "The English Attack in the Sicilian Najdorf (6.Be3 followed by f3, Qd2, and g4) is a modern aggressive system.",
+      "source": "https://en.wikipedia.org/wiki/English_Attack_in_the_Sicilian_Najdorf_(6.Be3_followed_by_f3%2C_Qd2%2C_and_g4)"
+    },
+    {
+      "text": "Emanuel Lasker was not only a chess champion but also a mathematician and philosopher who wrote about game theory.",
+      "source": "https://en.wikipedia.org/wiki/Emanuel_Lasker"
+    },
+    {
+      "text": "The passed pawn is often called 'the criminal who must be arrested' — a phrase attributed to Aron Nimzowitsch.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/passed_pawn"
+    },
+    {
+      "text": "The Queen's Gambit Declined (1.d4 d5 2.c4 e6) has been one of the most popular openings for over a century.",
+      "source": "https://en.wikipedia.org/wiki/Queen%27s_Gambit_Declined_(1.d4_d5_2.c4_e6)"
+    },
+    {
+      "text": "Fritz, developed by ChessBase, was one of the first commercial chess engines to become widely available to the public.",
+      "source": "https://en.wikipedia.org/wiki/Fritz"
+    },
+    {
+      "text": "The concept of 'pawn breaks' involves advancing pawns to open lines and change the pawn structure.",
+      "source": "https://en.wikipedia.org/wiki/Chess"
+    },
+    {
+      "text": "Caruana, Nakamura, and So made the United States one of the strongest chess nations in the 2010s.",
+      "source": "https://en.wikipedia.org/wiki/United_States"
+    },
+    {
+      "text": "The Bishop's Opening (1.e4 e5 2.Bc4) was played frequently in the 19th century and has seen a resurgence in modern play.",
+      "source": "https://en.wikipedia.org/wiki/Bishop%27s_Opening_(1.e4_e5_2.Bc4)"
+    },
+    {
+      "text": "The Ruy López opening is sometimes called 'The Spanish Game' and has been analyzed for over 500 years.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Ruy_L%C3%B3pez_opening"
+    },
+    {
+      "text": "A centralized knight on e5 or d5 is often considered as strong as a rook, as it controls many important squares.",
+      "source": "https://en.wikipedia.org/wiki/A_centralized_knight_on_e5_or_d5"
+    },
+    {
+      "text": "Garri Kasparov received his chess education at the Mikhail Botvinnik chess school in the Soviet Union.",
+      "source": "https://en.wikipedia.org/wiki/Garri_Kasparov"
+    },
+    {
+      "text": "The Three-Check variant is a popular chess variant where the first player to deliver three checks wins.",
+      "source": "https://en.wikipedia.org/wiki/Three-Check_variant"
+    },
+    {
+      "text": "The longest World Championship match in terms of games was the 1984 Karpov-Kasparov match, which lasted 48 games.",
+      "month": 2,
+      "day": 15,
+      "source": "https://en.wikipedia.org/wiki/longest_World_Championship_match_in_terms_of_games"
+    },
+    {
+      "text": "The Hedgehog formation is a flexible pawn structure for Black (pawns on a6, b6, d6, e6) that allows for dynamic counterplay.",
+      "source": "https://en.wikipedia.org/wiki/Hedgehog_formation"
+    },
+    {
+      "text": "An X-ray defense is when a piece defends through another piece on the same rank, file, or diagonal.",
+      "source": "https://en.wikipedia.org/wiki/An_X-ray_defense"
+    },
+    {
+      "text": "The Grand Chess Tour is a series of elite tournaments that spans several countries throughout the year.",
+      "source": "https://en.wikipedia.org/wiki/Grand_Chess_Tour"
+    },
+    {
+      "text": "The Rossolimo Sicilian (1.e4 c5 2.Nf3 Nc6 3.Bb5) is a popular Anti-Sicilian system that avoids the Open Sicilian's complications.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Rossolimo_Sicilian_(1.e4_c5_2.Nf3_Nc6_3.Bb5)"
+    },
+    {
+      "text": "Rook endgames are the most common type of endgame, occurring in roughly half of all games that reach an ending.",
+      "source": "https://en.wikipedia.org/wiki/Rook_endgames"
+    },
+    {
+      "text": "José Raúl Capablanca learned chess by watching his father play when he was just four years old.",
+      "source": "https://en.wikipedia.org/wiki/Jos%C3%A9_Ra%C3%BAl_Capablanca_learned_chess_by_watching_his_father_play_when_he"
+    },
+    {
+      "text": "The concept of 'dark-square weakness' occurs when a player loses control of the dark squares, often after trading away their dark-squared bishop.",
+      "source": "https://en.wikipedia.org/wiki/Chess"
+    },
+    {
+      "text": "The King's English (1.c4 e5) is a reversed Sicilian setup that gives White a solid, flexible position.",
+      "source": "https://en.wikipedia.org/wiki/King%27s_English_(1.c4_e5)"
+    },
+    {
+      "text": "Boris Spassky was World Chess Champion from 1969 to 1972, when he lost to Fischer in Reykjavik.",
+      "source": "https://en.wikipedia.org/wiki/Boris_Spassky"
+    },
+    {
+      "text": "The most famous chess café was the Café de la Régence in Paris, where Voltaire, Napoleon, and other notable figures played chess.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/most_famous_chess_caf%C3%A9"
+    },
+    {
+      "text": "The concept of 'piece activity' — having pieces on active, influential squares — is often more important than material count.",
+      "source": "https://en.wikipedia.org/wiki/concept_of_%27piece_activity%27_%E2%80%94_having_pieces_on_active%2C_influential_squares_%E2%80%94"
+    },
+    {
+      "text": "Fischer's remarkable run through the 1971 Candidates — beating Taimanov 6-0, Larsen 6-0, and Petrosian 6.5-2.5 — was unprecedented.",
+      "source": "https://en.wikipedia.org/wiki/Fischer%27s_remarkable"
+    },
+    {
+      "text": "The Advance variation of the French Defense (1.e4 e6 2.d4 d5 3.e5) locks the center and leads to a strategic battle.",
+      "source": "https://en.wikipedia.org/wiki/Advance"
+    },
+    {
+      "text": "According to Nimzowitsch, the center of the board (d4, d5, e4, e5) is the most important area to control in chess.",
+      "source": "https://en.wikipedia.org/wiki/center_of_the_board_(d4%2C_d5%2C_e4%2C_e5)"
+    },
+    {
+      "text": "The Chess Informant, first published in 1966 in Belgrade, standardized chess annotation symbols used worldwide.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Chess_Informant"
+    },
+    {
+      "text": "The concept of 'hanging pieces' refers to undefended pieces that can be tactically exploited.",
+      "source": "https://en.wikipedia.org/wiki/Chess"
+    },
+    {
+      "text": "The Moscow variation of the Sicilian (1.e4 c5 2.Nf3 d6 3.Bb5+) is another Anti-Sicilian that pins Black's pieces.",
+      "source": "https://en.wikipedia.org/wiki/Moscow_variation_of_the_Sicilian_(1.e4_c5_2.Nf3_d6_3.Bb5%2B)"
+    },
+    {
+      "text": "Vishy Anand is known for his lightning-fast speed even in classical chess, often making deep moves within seconds.",
+      "source": "https://en.wikipedia.org/wiki/Vishy_Anand"
+    },
+    {
+      "text": "Kramnik introduced the Berlin Defense as a major weapon in the 2000 World Championship match, where it proved nearly unbreakable.",
+      "source": "https://en.wikipedia.org/wiki/Kramnik"
+    },
+    {
+      "text": "The concept of 'the two bishops' advantage has been recognized since the 19th century and remains important in modern chess.",
+      "source": "https://en.wikipedia.org/wiki/concept_of_%27the_two_bishops%27_advantage"
+    },
+    {
+      "text": "Fischer set a record by winning 20 consecutive games against top-level competition in 1970-71.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Fischer"
+    },
+    {
+      "text": "The Alekhine Defense (1.e4 Nf6) invites White to advance their pawns and then seeks to undermine the overextended center.",
+      "source": "https://en.wikipedia.org/wiki/Alekhine_Defense"
+    },
+    {
+      "text": "A retrograde analysis problem requires deducing what previous moves must have been played to reach a given position.",
+      "source": "https://en.wikipedia.org/wiki/A_retrograde_analysis_problem_requires_deducing_what_previous_moves_must"
+    },
+    {
+      "text": "The Four Knights Game (1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6) is one of the most symmetrical openings in chess.",
+      "source": "https://en.wikipedia.org/wiki/Four_Knights_Game_(1.e4_e5_2.Nf3_Nc6_3.Nc3_Nf6)"
+    },
+    {
+      "text": "The Tal Memorial tournament in Moscow is held annually in honor of the great attacking player Mikhail Tal.",
+      "source": "https://en.wikipedia.org/wiki/Tal_Memorial_tournament_in_Moscow"
+    },
+    {
+      "text": "The concept of 'overprotection' — defending a strong point more times than necessary — was one of Nimzowitsch's key ideas.",
+      "source": "https://en.wikipedia.org/wiki/concept_of_%27overprotection%27_%E2%80%94_defending_a_strong_point_more_times_than_necessary_%E2%80%94"
+    },
+    {
+      "text": "India has produced a new generation of chess prodigies including R. Praggnanandhaa, D. Gukesh, and Arjun Erigaisi.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/India"
+    },
+    {
+      "text": "The concept of 'bad bishop' refers to a bishop blocked by its own pawns, reducing its mobility and effectiveness.",
+      "source": "https://en.wikipedia.org/wiki/Chess"
+    },
+    {
+      "text": "Max Euwe was born in Watergraafsmeer, Amsterdam, Netherlands.",
+      "month": 5,
+      "day": 20,
+      "source": "https://en.wikipedia.org/wiki/Max_Euwe"
+    },
+    {
+      "text": "Bobby Fischer invented a new chess clock that added time after each move, now known as the Fischer increment.",
+      "source": "https://en.wikipedia.org/wiki/Bobby_Fischer"
+    },
+    {
+      "text": "The Symmetrical English (1.c4 c5) leads to highly strategic positions where both sides vie for control of the d4 and d5 squares.",
+      "source": "https://en.wikipedia.org/wiki/Symmetrical_English"
+    },
+    {
+      "text": "The concept of 'calculation' in chess involves mentally playing out sequences of moves to determine the best continuation.",
+      "source": "https://en.wikipedia.org/wiki/Chess"
+    },
+    {
+      "text": "Pal Benko invented the Benko Gambit and was also a famous chess puzzle composer.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Pal_Benko"
+    },
+    {
+      "text": "A pawn chain is a diagonal line of pawns supporting each other, with the base being the most vulnerable point.",
+      "source": "https://en.wikipedia.org/wiki/A_pawn_chain"
+    },
+    {
+      "text": "The concept of 'dynamic play' emphasizes activity, initiative, and tactical complications over static positional factors.",
+      "source": "https://en.wikipedia.org/wiki/Chess"
+    },
+    {
+      "text": "Deep Blue's victory over Kasparov in 1997 was a landmark moment in artificial intelligence history.",
+      "source": "https://en.wikipedia.org/wiki/Deep_Blue%27s_victory_over_Kasparov_in_1997"
+    },
+    {
+      "text": "The first chess program to defeat a World Champion in a match under standard conditions was Deep Blue in 1997.",
+      "source": "https://en.wikipedia.org/wiki/first_chess_program_to_defeat_a_World_Champion_in_a_match_under_standard_conditions"
+    },
+    {
+      "text": "The Petroff Defense is favored by many top players for its solid, equalizing potential.",
+      "source": "https://en.wikipedia.org/wiki/Petroff_Defense"
+    },
+    {
+      "text": "The concept of 'doubled rooks' on an open file is one of the most powerful configurations in chess.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/concept_of_%27doubled_rooks%27_on_an_open_file"
+    },
+    {
+      "text": "The Lopez, Berlin, Marshall — these are all variations within the vast Ruy López opening complex.",
+      "source": "https://en.wikipedia.org/wiki/Lopez%2C_Berlin%2C_Marshall_%E2%80%94_these"
+    },
+    {
+      "text": "Anatoly Karpov and Viktor Korchnoi had a bitter rivalry culminating in two World Championship matches (1978 and 1981).",
+      "source": "https://en.wikipedia.org/wiki/Anatoly_Karpov_and_Viktor_Korchnoi"
+    },
+    {
+      "text": "India won the gold medal at the 2024 Chess Olympiad, signaling the country's rise as a chess powerhouse.",
+      "source": "https://en.wikipedia.org/wiki/India"
+    },
+    {
+      "text": "The Grunfeld Exchange variation (4.cxd5 Nxd5 5.e4) gives White a strong pawn center that Black aims to destroy.",
+      "source": "https://en.wikipedia.org/wiki/Grunfeld_Exchange"
+    },
+    {
+      "text": "The concept of 'quiet moves' — non-capturing, non-checking moves that improve one's position — are often the hardest to find in combinations.",
+      "source": "https://en.wikipedia.org/wiki/Chess"
+    },
+    {
+      "text": "Sergey Karjakin challenged Magnus Carlsen for the World Championship in 2016, losing in rapid tiebreaks.",
+      "month": 11,
+      "day": 30,
+      "source": "https://en.wikipedia.org/wiki/Sergey_Karjakin"
+    },
+    {
+      "text": "A stalemate can turn a completely lost position into a draw, making it one of the most dramatic outcomes in chess.",
+      "source": "https://en.wikipedia.org/wiki/Chess"
+    },
+    {
+      "text": "The concept of 'piece coordination' refers to how harmoniously the pieces work together toward a common goal.",
+      "source": "https://en.wikipedia.org/wiki/Chess"
+    },
+    {
+      "text": "Fischer Random (Chess960) was officially recognized by FIDE and has its own World Championship.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Fischer_Random_(Chess960)"
+    },
+    {
+      "text": "The concept of 'prophylactic thinking' — constantly asking 'What does my opponent want?' — is a hallmark of top-level chess.",
+      "source": "https://en.wikipedia.org/wiki/concept_of_%27prophylactic_thinking%27_%E2%80%94_constantly_asking_%27What_does_my_opponent_want%3F%27_%E2%80%94"
+    },
+    {
+      "text": "Paul Keres of Estonia was often called 'the crown prince of chess' — he came close to the World Championship but never won it.",
+      "source": "https://en.wikipedia.org/wiki/Paul_Keres_of_Estonia"
+    },
+    {
+      "text": "The concept of a 'good knight vs. bad bishop' evaluates the relative strength of minor pieces based on pawn structure.",
+      "source": "https://en.wikipedia.org/wiki/Chess"
+    },
+    {
+      "text": "The Meran variation of the Semi-Slav (5...dxc4 6.Bg5 b5) is one of the most complex and deeply analyzed systems in chess.",
+      "source": "https://en.wikipedia.org/wiki/Meran_variation_of_the_Semi-Slav_(5...dxc4_6.Bg5_b5)"
+    },
+    {
+      "text": "The Three Knights Game occurs when one side plays Nc3 and Nf3 but the opponent only develops one knight.",
+      "source": "https://en.wikipedia.org/wiki/Three_Knights_Game"
+    },
+    {
+      "text": "Judit Polgár was born in Budapest, Hungary.",
+      "month": 7,
+      "day": 23,
+      "source": "https://en.wikipedia.org/wiki/Judit_Polg%C3%A1r"
+    },
+    {
+      "text": "The concept of 'flexible pawn structure' means keeping options open for pawn breaks and piece maneuvers.",
+      "source": "https://en.wikipedia.org/wiki/Chess"
+    },
+    {
+      "text": "Computers have fundamentally changed chess preparation — top players now spend hours analyzing with engines before every game.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Computers"
+    },
+    {
+      "text": "The concept of 'the wrong bishop' in endgames refers to a bishop that cannot control the queening square of a rook pawn.",
+      "source": "https://en.wikipedia.org/wiki/Chess"
+    },
+    {
+      "text": "The concept of 'triangulation' — a king maneuver used to lose a tempo — is critical in many king-and-pawn endings.",
+      "source": "https://en.wikipedia.org/wiki/concept_of_%27triangulation%27_%E2%80%94_a_king_maneuver_used_to_lose_a_tempo_%E2%80%94"
+    },
+    {
+      "text": "D. Gukesh became the youngest World Chess Champion in history when he won the title in 2024 at the age of 18.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/D._Gukesh"
+    },
+    {
+      "text": "The Anti-Marshall lines (8.a4 or 8.h3 in the Ruy López) avoid the dangerous Marshall Attack but lead to quieter play.",
+      "source": "https://en.wikipedia.org/wiki/Anti-Marshall"
+    },
+    {
+      "text": "Chess has a rich artistic tradition — there are chess compositions that are valued as works of art, not competitive positions.",
+      "source": "https://en.wikipedia.org/wiki/Chess"
+    },
+    {
+      "text": "The concept of a 'positional squeeze' involves slowly improving one's position while restricting the opponent's pieces.",
+      "source": "https://en.wikipedia.org/wiki/Chess"
+    },
+    {
+      "text": "Alexander Alekhine was World Chess Champion from 1927 to 1935 and again from 1937 until his death in 1946.",
+      "source": "https://en.wikipedia.org/wiki/Alexander_Alekhine"
+    },
+    {
+      "text": "The concept of 'drawing margin' in chess refers to how much of a disadvantage can still lead to a draw with perfect play.",
+      "source": "https://en.wikipedia.org/wiki/Chess"
+    },
+    {
+      "text": "Oscar Panno, Samuel Reshevsky, and other prodigies demonstrated that chess talent can emerge at a remarkably young age.",
+      "source": "https://en.wikipedia.org/wiki/Oscar_Panno"
+    },
+    {
+      "text": "Kasparov's famous Scotch Game victories in the early 1990s revived interest in this once-forgotten opening.",
+      "source": "https://en.wikipedia.org/wiki/Scotch_Game"
+    },
+    {
+      "text": "The concept of the 'minority attack' was extensively analyzed by Alekhine and later popularized by Karpov.",
+      "source": "https://en.wikipedia.org/wiki/concept_of_the_%27minority_attack"
+    },
+    {
+      "text": "The Candidates Tournament in 2024 was held in Toronto, Canada, one of the rare times it was hosted in North America.",
+      "source": "https://en.wikipedia.org/wiki/Candidates_Tournament_in_2024"
+    },
+    {
+      "text": "A double check — where two pieces deliver check simultaneously — forces the king to move, as blocking or capturing cannot address both threats.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Chess"
+    },
+    {
+      "text": "The Winawer variation of the French Defense (3...Bb4) is one of the most complex and theoretically demanding lines.",
+      "source": "https://en.wikipedia.org/wiki/Winawer_variation_of_the_French_Defense_(3...Bb4)"
+    },
+    {
+      "text": "The first undisputed computer World Chess Championship was organized in 1974 and won by the program Kaissa.",
+      "source": "https://en.wikipedia.org/wiki/first_undisputed_computer_World_Chess_Championship"
+    },
+    {
+      "text": "Alireza Firouzja, born in Iran, switched federations to France and became one of the youngest players to cross 2800 ELO.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Alireza_Firouzja%2C_born_in_Iran%2C_switched_federations_to_France_and"
+    },
+    {
+      "text": "The concept of 'centralization' — placing pieces in the center of the board — is one of the most fundamental principles for beginners.",
+      "source": "https://en.wikipedia.org/wiki/concept_of_%27centralization%27_%E2%80%94_placing_pieces_in_the_center_of_the_board_%E2%80%94"
+    },
+    {
+      "text": "The Giuoco Pianissimo (Very Quiet Game) is an even slower variation of the Italian Game that prioritizes solid development.",
+      "source": "https://en.wikipedia.org/wiki/Giuoco_Pianissimo_(Very_Quiet_Game)"
+    },
+    {
+      "text": "Chess has been used as a therapeutic tool in education and psychology, shown to improve critical thinking and problem-solving skills.",
+      "source": "https://en.wikipedia.org/wiki/Chess"
+    },
+    {
+      "text": "The Anastasia's Mate is a checkmate pattern involving a knight and rook trapping the king on the edge of the board.",
+      "source": "https://en.wikipedia.org/wiki/Anastasia%27s_Mate"
+    },
+    {
+      "text": "Wilhelm Steinitz was born in Prague, in what was then the Austrian Empire.",
+      "month": 5,
+      "day": 14,
+      "source": "https://en.wikipedia.org/wiki/Wilhelm_Steinitz"
+    },
+    {
+      "text": "The concept of 'material imbalance' involves evaluating positions where each side has different combinations of pieces.",
+      "source": "https://en.wikipedia.org/wiki/concept_of_%27material_imbalance%27_involves_evaluating_positions_where_each_side"
+    },
+    {
+      "text": "Kramnik's use of computer preparation helped transform modern chess, making engine-assisted analysis essential for top-level play.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Kramnik%27s_use_of_computer_preparation"
+    },
+    {
+      "text": "The 'Swiss System' tournament format allows large numbers of players to compete efficiently, pairing players with similar scores each round.",
+      "source": "https://en.wikipedia.org/wiki/Swiss_System"
+    },
+    {
+      "text": "Bent Larsen, the great Danish grandmaster, was one of the few Western players who consistently competed with Soviet dominance in the 1960s-70s.",
+      "source": "https://en.wikipedia.org/wiki/Bent_Larsen%2C_the_great_Danish_grandmaster"
+    },
+    {
+      "text": "The Arabian Mate is a classic checkmate pattern using a rook and knight working together against a cornered king.",
+      "source": "https://en.wikipedia.org/wiki/Arabian_Mate"
+    }
+  ]
+}

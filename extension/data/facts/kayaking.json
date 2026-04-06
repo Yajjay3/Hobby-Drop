@@ -1,0 +1,1682 @@
+{
+  "hobby": "Kayaking",
+  "facts": [
+    {
+      "text": "The word 'kayak' comes from the Inuit word 'qajaq,' meaning 'hunter's boat.'",
+      "source": "https://en.wikipedia.org/wiki/Kayaking"
+    },
+    {
+      "text": "Whitewater rapids are classified on a scale from Class I (easy) to Class VI (nearly impossible and very dangerous).",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Whitewater_rapids"
+    },
+    {
+      "text": "Sea kayaking allows paddlers to explore coastlines, sea caves, and remote islands inaccessible by larger boats.",
+      "source": "https://en.wikipedia.org/wiki/Kayaking"
+    },
+    {
+      "text": "The Eskimo roll is a technique that allows a capsized kayaker to right themselves without exiting the boat.",
+      "source": "https://en.wikipedia.org/wiki/Eskimo_roll"
+    },
+    {
+      "text": "Kayak sprint racing became an Olympic sport at the 1936 Berlin Games.",
+      "month": 8,
+      "day": 7,
+      "source": "https://en.wikipedia.org/wiki/Kayak_sprint_racing"
+    },
+    {
+      "text": "Sit-on-top kayaks are popular for recreational paddling because they are easy to get on and off and are self-draining.",
+      "source": "https://en.wikipedia.org/wiki/Sit-on-top_kayaks"
+    },
+    {
+      "text": "The Colorado River through the Grand Canyon is one of the most iconic kayaking destinations in the world.",
+      "source": "https://en.wikipedia.org/wiki/Colorado_River_through_the_Grand_Canyon"
+    },
+    {
+      "text": "A kayak paddle typically has two blades, while a canoe paddle has only one.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/A_kayak_paddle_typically"
+    },
+    {
+      "text": "Pedal-drive kayaks allow anglers to fish hands-free while propelling themselves with their feet.",
+      "source": "https://en.wikipedia.org/wiki/Kayaking"
+    },
+    {
+      "text": "The Inuit and Aleut peoples of the Arctic originally built kayaks from driftwood or whalebone frames covered in animal skins.",
+      "source": "https://en.wikipedia.org/wiki/Inuit_and_Aleut_peoples_of_the_Arctic_originally"
+    },
+    {
+      "text": "Kayak slalom involves navigating through a series of hanging gates on a whitewater course.",
+      "source": "https://en.wikipedia.org/wiki/Kayaking"
+    },
+    {
+      "text": "Bioluminescent kayaking in places like Mosquito Bay, Puerto Rico, lets paddlers glide through glowing water at night.",
+      "source": "https://en.wikipedia.org/wiki/Mosquito_Bay"
+    },
+    {
+      "text": "The Futaleufú River in Chile is considered one of the best whitewater kayaking rivers on Earth.",
+      "source": "https://en.wikipedia.org/wiki/Futaleuf%C3%BA_River_in_Chile"
+    },
+    {
+      "text": "Recreational kayaks are generally wider and more stable than performance or whitewater kayaks.",
+      "source": "https://en.wikipedia.org/wiki/Recreational_kayaks"
+    },
+    {
+      "text": "Olympic kayak sprint events are held on flatwater courses over distances of 200m, 500m, and 1000m.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Olympic_kayak_sprint_events"
+    },
+    {
+      "text": "A spray skirt is a neoprene or nylon cover that fits around the cockpit of a sit-in kayak to keep water out.",
+      "source": "https://en.wikipedia.org/wiki/A_spray_skirt"
+    },
+    {
+      "text": "The Zambezi River below Victoria Falls offers some of the most intense Class IV-V rapids in the world.",
+      "source": "https://en.wikipedia.org/wiki/Zambezi_River"
+    },
+    {
+      "text": "Bracing is a paddle technique used to prevent capsizing by slapping the water surface with the blade.",
+      "source": "https://en.wikipedia.org/wiki/Bracing"
+    },
+    {
+      "text": "Kayak fishing has grown into a multi-billion-dollar industry with specialized boats, gear, and tournaments.",
+      "source": "https://en.wikipedia.org/wiki/Kayak_fishing"
+    },
+    {
+      "text": "In 1928, a German adventurer named Franz Romer crossed the Atlantic Ocean solo in a modified kayak.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/a_German_adventurer"
+    },
+    {
+      "text": "Tandem kayaks, also called doubles, seat two paddlers and require coordination between the front and rear paddler.",
+      "source": "https://en.wikipedia.org/wiki/Tandem_kayaks%2C_also"
+    },
+    {
+      "text": "The Ottawa River in Ontario, Canada, is famous for its large-volume whitewater and is a top freestyle kayaking spot.",
+      "source": "https://en.wikipedia.org/wiki/Ottawa_River_in_Ontario%2C_Canada"
+    },
+    {
+      "text": "PFDs (personal flotation devices) are the single most important piece of safety equipment for kayakers.",
+      "source": "https://en.wikipedia.org/wiki/PFDs_(personal_flotation_devices)"
+    },
+    {
+      "text": "Creek boating is a sub-discipline of whitewater kayaking that involves paddling steep, low-volume streams.",
+      "source": "https://en.wikipedia.org/wiki/Creek_boating"
+    },
+    {
+      "text": "The Greenland paddle, with its long, narrow blades, is one of the oldest paddle designs still in use.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Greenland_paddle%2C_with_its_long%2C_narrow_blades"
+    },
+    {
+      "text": "Kayak polo, also known as canoe polo, is a competitive team sport played in kayaks with a water polo ball.",
+      "source": "https://en.wikipedia.org/wiki/Kayak_polo%2C_also_known_as_canoe_polo"
+    },
+    {
+      "text": "The first modern fiberglass kayaks were developed in the 1950s, making the boats lighter and more accessible.",
+      "source": "https://en.wikipedia.org/wiki/first_modern_fiberglass_kayaks"
+    },
+    {
+      "text": "Ferrying is a technique where a kayaker paddles at an angle to the current to cross a river without being swept downstream.",
+      "source": "https://en.wikipedia.org/wiki/Ferrying"
+    },
+    {
+      "text": "Sea kayaks are typically longer (14-18 feet) than recreational kayaks to improve tracking and speed on open water.",
+      "source": "https://en.wikipedia.org/wiki/Sea_kayaks"
+    },
+    {
+      "text": "The Gauley River in West Virginia is known as the 'Beast of the East' for its challenging Class IV-V rapids.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Gauley_River_in_West_Virginia"
+    },
+    {
+      "text": "Dry suits are worn in cold-water kayaking to provide full-body waterproof protection and thermal insulation.",
+      "source": "https://en.wikipedia.org/wiki/Dry_suits"
+    },
+    {
+      "text": "Kayak slalom was first included in the Olympic Games at the 1972 Munich Olympics.",
+      "month": 8,
+      "day": 28,
+      "source": "https://en.wikipedia.org/wiki/Kayak_slalom"
+    },
+    {
+      "text": "Reading water is the skill of interpreting river features like eddies, waves, holes, and currents.",
+      "source": "https://en.wikipedia.org/wiki/Reading_water"
+    },
+    {
+      "text": "Inflatable kayaks have become increasingly popular for their portability and ease of storage.",
+      "source": "https://en.wikipedia.org/wiki/Inflatable_kayaks"
+    },
+    {
+      "text": "The voyageurs were French-Canadian fur traders who paddled massive canoes across North America's waterways in the 17th-19th centuries.",
+      "source": "https://en.wikipedia.org/wiki/voyageurs"
+    },
+    {
+      "text": "Whitewater helmets protect against impacts with rocks and are essential gear for river kayaking.",
+      "source": "https://en.wikipedia.org/wiki/Whitewater_helmets_protect_against_impacts_with_rocks_and"
+    },
+    {
+      "text": "In Olympic kayak slalom, touching a gate adds a 2-second penalty, and missing a gate adds 50 seconds.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/In_Olympic"
+    },
+    {
+      "text": "The difference between a kayak and a canoe is primarily in the paddler's position: kayakers sit with legs extended, canoeists kneel or sit on a raised seat.",
+      "source": "https://en.wikipedia.org/wiki/difference_between_a_kayak_and_a_canoe"
+    },
+    {
+      "text": "Folding kayaks, like those made by Klepper, were used by British commandos in World War II for covert operations.",
+      "source": "https://en.wikipedia.org/wiki/Folding_kayaks%2C_like_those_made_by_Klepper"
+    },
+    {
+      "text": "Edging, or tilting the kayak on its side, helps with turning and maintaining control in moving water.",
+      "source": "https://en.wikipedia.org/wiki/Kayaking"
+    },
+    {
+      "text": "The Boundary Waters Canoe Area in Minnesota has over 1,100 lakes connected by portage trails.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Boundary_Waters_Canoe_Area_in_Minnesota"
+    },
+    {
+      "text": "Kayaking burns approximately 400 calories per hour at a moderate pace.",
+      "source": "https://en.wikipedia.org/wiki/Kayaking"
+    },
+    {
+      "text": "A fish finder mounted on a kayak uses sonar to detect fish and map underwater structures.",
+      "source": "https://en.wikipedia.org/wiki/Kayaking"
+    },
+    {
+      "text": "The Aleut baidarka was a more streamlined design than the Inuit kayak, featuring a bifurcated (split) bow.",
+      "source": "https://en.wikipedia.org/wiki/Aleut_baidarka"
+    },
+    {
+      "text": "Whitewater kayaking on the Nile River near Jinja, Uganda, offers world-class rapids with warm water year-round.",
+      "source": "https://en.wikipedia.org/wiki/Nile_River"
+    },
+    {
+      "text": "The T-rescue is a technique where a rescuer positions their kayak perpendicular to a capsized kayaker to help them re-enter.",
+      "source": "https://en.wikipedia.org/wiki/T-rescue"
+    },
+    {
+      "text": "Gert Herschel of East Germany won gold in K-1 500m kayak sprint at the 1988 Seoul Olympics.",
+      "month": 9,
+      "day": 30,
+      "source": "https://en.wikipedia.org/wiki/Gert_Herschel_of_East_Germany"
+    },
+    {
+      "text": "Rotomolded polyethylene is the most common material for recreational kayaks due to its durability and low cost.",
+      "source": "https://en.wikipedia.org/wiki/Rotomolded_polyethylene"
+    },
+    {
+      "text": "The Chattooga River on the Georgia-South Carolina border was made famous by the 1972 film 'Deliverance.'",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Chattooga_River_on_the_Georgia-South_Carolina_border"
+    },
+    {
+      "text": "A wet exit is the process of deliberately exiting a capsized kayak underwater.",
+      "source": "https://en.wikipedia.org/wiki/A_wet_exit"
+    },
+    {
+      "text": "Kayak sails can be attached to sea kayaks to harness wind power on long crossings.",
+      "source": "https://en.wikipedia.org/wiki/Kayaking"
+    },
+    {
+      "text": "The first known kayaks date back approximately 4,000 years to the Arctic regions.",
+      "source": "https://en.wikipedia.org/wiki/Kayaking"
+    },
+    {
+      "text": "Paddle float self-rescue involves inflating a float on one paddle blade to create an outrigger for re-entry.",
+      "source": "https://en.wikipedia.org/wiki/Kayaking"
+    },
+    {
+      "text": "The Noatak River in Alaska is one of the longest free-flowing rivers in the United States and a premier wilderness kayaking destination.",
+      "source": "https://en.wikipedia.org/wiki/Noatak_River_in_Alaska"
+    },
+    {
+      "text": "Wing paddles, used in sprint kayaking, have a curved blade that generates lift for a more efficient stroke.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Wing_paddles%2C_used_in_sprint_kayaking"
+    },
+    {
+      "text": "White water kayakers often scout rapids from shore before attempting to run them.",
+      "source": "https://en.wikipedia.org/wiki/White_water_kayakers_often_scout_rapids_from_shore_before_attempting_to"
+    },
+    {
+      "text": "Jon Lugbill dominated canoe slalom in the 1980s, winning five world championship titles.",
+      "source": "https://en.wikipedia.org/wiki/Jon_Lugbill"
+    },
+    {
+      "text": "Crossover kayaks blend features of whitewater and recreational kayaks for versatility on different water types.",
+      "source": "https://en.wikipedia.org/wiki/Crossover_kayaks_blend"
+    },
+    {
+      "text": "The English Channel has been crossed by kayak numerous times, a distance of about 21 miles.",
+      "source": "https://en.wikipedia.org/wiki/English_Channel"
+    },
+    {
+      "text": "Kayak anglers often use anchor trolleys—a pulley system that lets them reposition their anchor point quickly.",
+      "source": "https://en.wikipedia.org/wiki/Kayaking"
+    },
+    {
+      "text": "The Durance River in the French Alps is a popular European whitewater kayaking destination.",
+      "source": "https://en.wikipedia.org/wiki/Durance_River_in_the_French_Alps"
+    },
+    {
+      "text": "Birgit Fischer of Germany is the most decorated Olympic kayaker, winning 8 gold and 4 silver medals across six Olympics.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Birgit_Fischer_of_Germany"
+    },
+    {
+      "text": "A bulkhead is a sealed wall inside a kayak that creates watertight compartments for flotation and storage.",
+      "source": "https://en.wikipedia.org/wiki/A_bulkhead"
+    },
+    {
+      "text": "Surf kayaking involves riding ocean waves in a specially designed short kayak.",
+      "source": "https://en.wikipedia.org/wiki/Kayaking"
+    },
+    {
+      "text": "The first canoe slalom world championships were held in 1949 in Geneva, Switzerland.",
+      "month": 7,
+      "day": 18,
+      "source": "https://en.wikipedia.org/wiki/first_canoe_slalom_world_championships"
+    },
+    {
+      "text": "Thigh braces inside a kayak cockpit help the paddler maintain contact with the boat for better control.",
+      "source": "https://en.wikipedia.org/wiki/Kayaking"
+    },
+    {
+      "text": "The Bow River in Banff, Alberta, offers stunning mountain scenery for recreational kayakers.",
+      "source": "https://en.wikipedia.org/wiki/Bow_River_in_Banff"
+    },
+    {
+      "text": "Kayaking engages the core, arms, shoulders, back, and even legs, making it a full-body workout.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Kayaking"
+    },
+    {
+      "text": "The C-to-C roll is one of the most commonly taught Eskimo roll techniques for beginners.",
+      "source": "https://en.wikipedia.org/wiki/C-to-C_roll"
+    },
+    {
+      "text": "Expedition sea kayakers carry all their gear in waterproof hatches and can be self-sufficient for weeks.",
+      "source": "https://en.wikipedia.org/wiki/Kayaking"
+    },
+    {
+      "text": "The first plastic kayak was produced in 1973, revolutionizing the sport by making boats affordable and durable.",
+      "source": "https://en.wikipedia.org/wiki/first_plastic_kayak"
+    },
+    {
+      "text": "Strainers are fallen trees or debris that let water pass through but can trap kayakers—one of the most dangerous river hazards.",
+      "source": "https://en.wikipedia.org/wiki/Strainers"
+    },
+    {
+      "text": "Paul Caffyn completed the first kayak circumnavigation of Australia in 1982, covering over 9,420 miles.",
+      "month": 11,
+      "day": 17,
+      "source": "https://en.wikipedia.org/wiki/Paul_Caffyn"
+    },
+    {
+      "text": "A rudder or skeg on a sea kayak helps maintain a straight course in wind and waves.",
+      "source": "https://en.wikipedia.org/wiki/Kayaking"
+    },
+    {
+      "text": "The Bio Bay in Vieques, Puerto Rico, is one of the brightest bioluminescent bays for nighttime kayaking.",
+      "source": "https://en.wikipedia.org/wiki/Bio_Bay_in_Vieques%2C_Puerto_Rico"
+    },
+    {
+      "text": "Squirt boating uses ultra-low-volume kayaks designed to submerge and perform moves beneath the water surface.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Kayaking"
+    },
+    {
+      "text": "The first Olympic women's kayak event was the K-1 500m, introduced at the 1948 London Games.",
+      "month": 8,
+      "day": 11,
+      "source": "https://en.wikipedia.org/wiki/first_Olympic_women%27s_kayak_event"
+    },
+    {
+      "text": "Kevlar and carbon fiber kayaks are significantly lighter than polyethylene, but much more expensive.",
+      "source": "https://en.wikipedia.org/wiki/Kevlar_and_carbon_fiber_kayaks"
+    },
+    {
+      "text": "The Sun Kosi River in Nepal, meaning 'River of Gold,' is a classic multi-day whitewater kayaking trip.",
+      "source": "https://en.wikipedia.org/wiki/Sun_Kosi_River_in_Nepal%2C_meaning_%27River_of_Gold"
+    },
+    {
+      "text": "A draw stroke pulls the kayak sideways toward the paddle, useful for positioning in current or at a dock.",
+      "source": "https://en.wikipedia.org/wiki/Kayaking"
+    },
+    {
+      "text": "Kayak camping, or kayak-packing, combines kayaking with backcountry camping at waterside campsites.",
+      "source": "https://en.wikipedia.org/wiki/Kayaking"
+    },
+    {
+      "text": "The International Canoe Federation (ICF) governs competitive kayaking and canoeing worldwide.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/International_Canoe_Federation"
+    },
+    {
+      "text": "Helmet cams like GoPros have made kayaking one of the most filmed adventure sports on social media.",
+      "source": "https://en.wikipedia.org/wiki/Helmet_cams_like_GoPros"
+    },
+    {
+      "text": "The hand roll is an advanced self-rescue technique where a kayaker rolls up without using a paddle.",
+      "source": "https://en.wikipedia.org/wiki/hand_roll"
+    },
+    {
+      "text": "Kayak length affects speed and maneuverability: longer kayaks are faster, shorter ones turn more easily.",
+      "source": "https://en.wikipedia.org/wiki/Kayak_length_affects_speed_and_maneuverability:_longer_kayaks"
+    },
+    {
+      "text": "The Monarch of the Mountains, the Golden Eagle, can sometimes be spotted while kayaking remote Scottish lochs.",
+      "source": "https://en.wikipedia.org/wiki/Monarch_of_the_Mountains"
+    },
+    {
+      "text": "Canoe camping in Algonquin Provincial Park in Ontario is a quintessential Canadian wilderness experience.",
+      "source": "https://en.wikipedia.org/wiki/Canoe_camping_in_Algonquin_Provincial_Park_in_Ontario"
+    },
+    {
+      "text": "Playboating, or freestyle kayaking, involves performing acrobatic moves on river features like waves and holes.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Playboating%2C_or_freestyle_kayaking%2C_involves_performing_acrobatic_moves_on_river"
+    },
+    {
+      "text": "Outrigger canoes, used throughout Polynesia, are among the oldest known watercraft.",
+      "source": "https://en.wikipedia.org/wiki/Outrigger_canoes%2C_used_throughout_Polynesia"
+    },
+    {
+      "text": "A paddle leash prevents you from losing your paddle if you capsize or drop it in moving water.",
+      "source": "https://en.wikipedia.org/wiki/Kayaking"
+    },
+    {
+      "text": "The River Spey in Scotland is famous for both whisky distilleries and excellent multi-day kayaking.",
+      "source": "https://en.wikipedia.org/wiki/River_Spey_in_Scotland"
+    },
+    {
+      "text": "The K-4 1000m is one of the most exciting Olympic kayak events, with four paddlers sprinting in unison.",
+      "source": "https://en.wikipedia.org/wiki/K-4_1000m"
+    },
+    {
+      "text": "Creek boats are short, rounded whitewater kayaks designed to handle steep drops and tight passages.",
+      "source": "https://en.wikipedia.org/wiki/Creek_boats"
+    },
+    {
+      "text": "Ed Gillet completed a solo kayak crossing from California to Hawaii in 1987, covering 2,200 miles in 63 days.",
+      "type": "did-you-know",
+      "month": 9,
+      "day": 27,
+      "source": "https://en.wikipedia.org/wiki/Ed_Gillet"
+    },
+    {
+      "text": "A high brace uses the power face of the paddle for support, while a low brace uses the back face.",
+      "source": "https://en.wikipedia.org/wiki/Kayaking"
+    },
+    {
+      "text": "Thermoformed ABS plastic kayaks offer a good balance between the weight of composites and the durability of polyethylene.",
+      "source": "https://en.wikipedia.org/wiki/Thermoformed_ABS"
+    },
+    {
+      "text": "The Yangtze River in China was first kayaked from source to sea in 1986.",
+      "source": "https://en.wikipedia.org/wiki/Yangtze_River_in_China"
+    },
+    {
+      "text": "Recreational kayaking is the fastest-growing paddle sport in the United States.",
+      "source": "https://en.wikipedia.org/wiki/Recreational_kayaking"
+    },
+    {
+      "text": "In a canoe, the stern paddler typically steers using a J-stroke to maintain a straight course.",
+      "source": "https://en.wikipedia.org/wiki/J-stroke_to"
+    },
+    {
+      "text": "The Green River Narrows in North Carolina is a legendary Class V run with waterfalls and tight gorges.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Green_River_Narrows_in_North_Carolina"
+    },
+    {
+      "text": "Dry bags are essential kayaking accessories that keep gear, food, and electronics dry inside the boat.",
+      "source": "https://en.wikipedia.org/wiki/Dry_bags"
+    },
+    {
+      "text": "Olympic kayak slalom courses are typically 250 meters long with 18-25 gates.",
+      "source": "https://en.wikipedia.org/wiki/Olympic_kayak_slalom_courses"
+    },
+    {
+      "text": "The forward sweep stroke is used to turn a kayak by sweeping the paddle in a wide arc from bow to stern.",
+      "source": "https://en.wikipedia.org/wiki/forward_sweep_stroke"
+    },
+    {
+      "text": "Kayak fishing tournaments have prize pools that can exceed $100,000 for major events.",
+      "source": "https://en.wikipedia.org/wiki/Kayak_fishing_tournaments"
+    },
+    {
+      "text": "The Mackenzie River in Canada, at 2,635 miles, is the longest river system in the country and a major expedition route.",
+      "source": "https://en.wikipedia.org/wiki/Mackenzie_River_in_Canada%2C_at_2%2C635_miles"
+    },
+    {
+      "text": "Neoprene gloves and pogies (paddle mitts) keep hands warm during cold-weather kayaking.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Kayaking"
+    },
+    {
+      "text": "The Verdon Gorge in France, known as Europe's Grand Canyon, offers stunning turquoise waters for kayaking.",
+      "source": "https://en.wikipedia.org/wiki/Verdon_Gorge_in_France"
+    },
+    {
+      "text": "A kayaker's reach, torso length, and kayak width all factor into choosing the correct paddle length.",
+      "source": "https://en.wikipedia.org/wiki/Kayaking"
+    },
+    {
+      "text": "Canoe slalom and kayak slalom are different events: canoe slalom uses a single-blade paddle while kneeling.",
+      "source": "https://en.wikipedia.org/wiki/Canoe_slalom_and_kayak_slalom"
+    },
+    {
+      "text": "Creeking often involves running waterfalls, some over 60 feet tall, in specialized kayaks.",
+      "source": "https://en.wikipedia.org/wiki/Kayaking"
+    },
+    {
+      "text": "The first successful descent of the entire Amazon River by kayak was completed by Joe Kane and Piotr Chmielinski in 1986.",
+      "month": 2,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/first_successful_descent_of_the_entire_Amazon_River_by_kayak"
+    },
+    {
+      "text": "Composite sea kayaks made of fiberglass or carbon fiber can weigh as little as 35-45 pounds.",
+      "source": "https://en.wikipedia.org/wiki/Kayaking"
+    },
+    {
+      "text": "Kayak polo is played in a pool or defined water area with teams of five, using kayaks and a ball.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Kayak_polo"
+    },
+    {
+      "text": "The draw stroke and sculling draw are essential techniques for maneuvering a kayak sideways in tight spaces.",
+      "source": "https://en.wikipedia.org/wiki/draw_stroke_and_sculling_draw"
+    },
+    {
+      "text": "Stand-up paddleboarding (SUP) has roots in the same water sports culture as kayaking.",
+      "source": "https://en.wikipedia.org/wiki/Stand-up_paddleboarding_(SUP)"
+    },
+    {
+      "text": "The Churchill River in Saskatchewan offers some of the best wilderness canoe and kayak trips in North America.",
+      "source": "https://en.wikipedia.org/wiki/Churchill_River_in_Saskatchewan"
+    },
+    {
+      "text": "Olympic kayak sprint courses are 9 lanes wide, each 9 meters across.",
+      "source": "https://en.wikipedia.org/wiki/Olympic_kayak_sprint_courses"
+    },
+    {
+      "text": "In 2016, Sarah Outen completed a human-powered journey around the Northern Hemisphere that included extensive sea kayaking.",
+      "month": 11,
+      "day": 3,
+      "source": "https://en.wikipedia.org/wiki/Sarah_Outen"
+    },
+    {
+      "text": "A dry top is a waterproof jacket with gaskets at the wrists and neck to prevent water entry.",
+      "source": "https://en.wikipedia.org/wiki/A_dry_top"
+    },
+    {
+      "text": "The Soca River in Slovenia is famous for its emerald-green water and world-class whitewater.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Soca_River_in_Slovenia"
+    },
+    {
+      "text": "Peel-out is a kayaking move where a paddler leaves an eddy and enters the main current.",
+      "source": "https://en.wikipedia.org/wiki/Peel-out"
+    },
+    {
+      "text": "Hobie revolutionized kayak fishing with the MirageDrive pedal system, first introduced in 1997.",
+      "source": "https://en.wikipedia.org/wiki/Hobie_revolutionized_kayak_fishing_with_the_MirageDrive_pedal_system%2C_first"
+    },
+    {
+      "text": "Traditional Greenland kayaking techniques are preserved through annual competitions and gatherings.",
+      "source": "https://en.wikipedia.org/wiki/Traditional_Greenland_kayaking_techniques"
+    },
+    {
+      "text": "The stern rudder stroke is used to make minor course corrections while maintaining forward momentum.",
+      "source": "https://en.wikipedia.org/wiki/stern_rudder_stroke"
+    },
+    {
+      "text": "Freya Hoffmeister completed a solo kayak circumnavigation of Australia in 2009, finishing in 332 days.",
+      "month": 12,
+      "day": 22,
+      "source": "https://en.wikipedia.org/wiki/Freya_Hoffmeister"
+    },
+    {
+      "text": "Sit-in kayaks provide better protection from wind and water, making them preferred for cold conditions.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Kayaking"
+    },
+    {
+      "text": "The Slave River in the Northwest Territories has the renowned rapids at Fort Smith.",
+      "source": "https://en.wikipedia.org/wiki/Slave_River_in_the_Northwest_Territories"
+    },
+    {
+      "text": "A bilge pump is a hand-operated pump used to remove water from inside a kayak cockpit.",
+      "source": "https://en.wikipedia.org/wiki/A_bilge_pump"
+    },
+    {
+      "text": "The Green River through Desolation Canyon in Utah is one of the most popular multi-day kayak trips in the American West.",
+      "source": "https://en.wikipedia.org/wiki/Green_River_through_Desolation_Canyon_in_Utah"
+    },
+    {
+      "text": "John MacGregor is credited with popularizing recreational kayaking in Europe in the 1860s with his 'Rob Roy' canoe.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/John_MacGregor"
+    },
+    {
+      "text": "White water kayakers use hand signals to communicate above the noise of rapids.",
+      "source": "https://en.wikipedia.org/wiki/Kayaking"
+    },
+    {
+      "text": "Kayak hull shapes vary: flat hulls provide stability, rounded hulls increase speed, and V-shaped hulls improve tracking.",
+      "source": "https://en.wikipedia.org/wiki/Kayaking"
+    },
+    {
+      "text": "The first Kayak World Championships were held in 1938 in Vaxholm, Sweden.",
+      "month": 8,
+      "day": 14,
+      "source": "https://en.wikipedia.org/wiki/first_Kayak_World_Championships"
+    },
+    {
+      "text": "Throwbags, ropes stored in small bags, are essential safety gear for whitewater kayak rescue.",
+      "source": "https://en.wikipedia.org/wiki/Throwbags%2C_ropes_stored_in_small_bags"
+    },
+    {
+      "text": "The Salmon River in Idaho, known as the 'River of No Return,' is a classic multi-day whitewater run.",
+      "source": "https://en.wikipedia.org/wiki/Salmon_River_in_Idaho%2C_known_as_the_%27River_of_No_Return"
+    },
+    {
+      "text": "Foot pegs inside a kayak are adjustable and provide bracing for powerful paddle strokes.",
+      "source": "https://en.wikipedia.org/wiki/Foot_pegs_inside_a_kayak"
+    },
+    {
+      "text": "Kayaking in Milford Sound, New Zealand, offers encounters with dolphins, seals, and towering fjord walls.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Kayaking_in_Milford_Sound"
+    },
+    {
+      "text": "A paddle with a feathered blade angle reduces wind resistance on the recovery stroke.",
+      "source": "https://en.wikipedia.org/wiki/Kayaking"
+    },
+    {
+      "text": "The Kaituna River in New Zealand features a seven-meter waterfall that is regularly kayaked.",
+      "source": "https://en.wikipedia.org/wiki/Kaituna_River_in_New_Zealand"
+    },
+    {
+      "text": "Canoe routes like the French River in Ontario have been used for thousands of years by Indigenous peoples.",
+      "source": "https://en.wikipedia.org/wiki/Canoe_routes_like_the_French_River_in_Ontario"
+    },
+    {
+      "text": "Whitewater kayaks are typically 6-9 feet long, much shorter than touring or sea kayaks.",
+      "source": "https://en.wikipedia.org/wiki/Whitewater_kayaks"
+    },
+    {
+      "text": "The ICF Canoe Slalom World Cup circuit visits rivers across Europe, Asia, and the Americas each season.",
+      "source": "https://en.wikipedia.org/wiki/ICF_Canoe_Slalom_World_Cup"
+    },
+    {
+      "text": "Kayaking in Glacier Bay, Alaska, puts paddlers among calving glaciers and feeding humpback whales.",
+      "source": "https://en.wikipedia.org/wiki/Kayaking_in_Glacier_Bay"
+    },
+    {
+      "text": "The low-volume ends of a squirt boat allow it to be submerged for moves like the mystery move—disappearing entirely underwater.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Kayaking"
+    },
+    {
+      "text": "A skeg is a retractable fin on the underside of a kayak that helps with tracking in crosswinds.",
+      "source": "https://en.wikipedia.org/wiki/A_skeg"
+    },
+    {
+      "text": "The Murray River, Australia's longest, offers over 1,500 miles of flatwater kayaking.",
+      "source": "https://en.wikipedia.org/wiki/Murray_River"
+    },
+    {
+      "text": "Bent-shaft paddles reduce wrist strain and improve ergonomics for long-distance paddling.",
+      "source": "https://en.wikipedia.org/wiki/Kayaking"
+    },
+    {
+      "text": "Jessica Fox of Australia is one of the most dominant canoe slalom athletes, winning multiple world titles and Olympic medals.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Jessica_Fox_of_Australia"
+    },
+    {
+      "text": "The Tara River Canyon in Montenegro, the deepest in Europe, offers spectacular whitewater kayaking.",
+      "source": "https://en.wikipedia.org/wiki/Tara_River_Canyon_in_Montenegro"
+    },
+    {
+      "text": "A kayak's primary stability refers to how stable it feels on flat water; secondary stability is how it handles when tilted on edge.",
+      "source": "https://en.wikipedia.org/wiki/Kayaking"
+    },
+    {
+      "text": "National Kayaking Day in the United States is celebrated on June 26.",
+      "month": 6,
+      "day": 26,
+      "source": "https://en.wikipedia.org/wiki/National_Kayaking_Day_in_the_United_States"
+    },
+    {
+      "text": "The Inside Passage from Washington State to Alaska is one of the world's premier sea kayaking expedition routes.",
+      "source": "https://en.wikipedia.org/wiki/Inside_Passage_from_Washington_State_to_Alaska"
+    },
+    {
+      "text": "Kayak paddles come in straight-shaft and crank-shaft (ergonomic) designs.",
+      "source": "https://en.wikipedia.org/wiki/Kayaking"
+    },
+    {
+      "text": "The Whanganui River in New Zealand is legally a person with its own rights under New Zealand law.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Whanganui_River_in_New_Zealand"
+    },
+    {
+      "text": "Surf skis are long, narrow kayaks designed for ocean racing and surfing downwind swells.",
+      "source": "https://en.wikipedia.org/wiki/Surf_skis"
+    },
+    {
+      "text": "Portaging means carrying your kayak or canoe overland between bodies of water.",
+      "source": "https://en.wikipedia.org/wiki/Kayaking"
+    },
+    {
+      "text": "The Rio Pacuare in Costa Rica runs through pristine rainforest and is rated Class III-IV.",
+      "source": "https://en.wikipedia.org/wiki/Rio_Pacuare_in_Costa_Rica_runs_through_pristine_rainforest_and"
+    },
+    {
+      "text": "Birgit Fischer won her first Olympic gold medal in kayaking at age 18 at the 1980 Moscow Olympics.",
+      "month": 8,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/Birgit_Fischer"
+    },
+    {
+      "text": "A rocker is the upward curvature of a kayak's hull from bow to stern; more rocker means easier turning.",
+      "source": "https://en.wikipedia.org/wiki/A_rocker"
+    },
+    {
+      "text": "White water parks with artificial rapids have been built in cities worldwide to bring kayaking to urban areas.",
+      "source": "https://en.wikipedia.org/wiki/White_water_parks_with_artificial_rapids"
+    },
+    {
+      "text": "The difference between an open canoe and a decked canoe is that decked canoes have a closed top like a kayak.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/difference_between_an_open_canoe_and_a_decked_canoe"
+    },
+    {
+      "text": "Skin-on-frame kayaks, built with modern materials, honor traditional construction while being lightweight.",
+      "source": "https://en.wikipedia.org/wiki/Skin-on-frame_kayaks"
+    },
+    {
+      "text": "The Coruh River in Turkey is one of the world's top whitewater rivers and hosts international competitions.",
+      "source": "https://en.wikipedia.org/wiki/Coruh_River_in_Turkey"
+    },
+    {
+      "text": "VHF radios are important safety equipment for sea kayakers paddling in coastal waters.",
+      "source": "https://en.wikipedia.org/wiki/VHF_radios"
+    },
+    {
+      "text": "The first descent of the Blue Nile by kayak was completed by a British expedition in 1968.",
+      "month": 9,
+      "day": 3,
+      "source": "https://en.wikipedia.org/wiki/first_descent_of_the_Blue_Nile_by_kayak"
+    },
+    {
+      "text": "Wave wheels, cartwheels, and loops are common freestyle kayaking tricks performed in river holes.",
+      "source": "https://en.wikipedia.org/wiki/Wave_wheels%2C_cartwheels%2C_and_loops"
+    },
+    {
+      "text": "A kayak's cockpit size affects how easily a paddler can enter and exit the boat.",
+      "source": "https://en.wikipedia.org/wiki/Kayaking"
+    },
+    {
+      "text": "The Milford Track in New Zealand can be complemented with kayaking in the adjacent fiordland waters.",
+      "source": "https://en.wikipedia.org/wiki/Milford_Track_in_New_Zealand"
+    },
+    {
+      "text": "K-1 means one paddler in a kayak; K-2 means two; K-4 means four.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Kayaking"
+    },
+    {
+      "text": "The Bow Falls in Banff have been kayaked by expert paddlers despite being in the middle of a town.",
+      "source": "https://en.wikipedia.org/wiki/Bow_Falls_in_Banff"
+    },
+    {
+      "text": "Kayak socks or booties made of neoprene protect feet from cold water and provide grip on slippery surfaces.",
+      "source": "https://en.wikipedia.org/wiki/Kayaking"
+    },
+    {
+      "text": "The first plastic rotomolded whitewater kayak was the Hollowform, created by Tom Johnson in the mid-1970s.",
+      "source": "https://en.wikipedia.org/wiki/first_plastic_rotomolded_whitewater_kayak"
+    },
+    {
+      "text": "Tidal races, where tidal currents accelerate through narrow passages, create exciting sea kayaking conditions.",
+      "source": "https://en.wikipedia.org/wiki/Kayaking"
+    },
+    {
+      "text": "The Caño Cristales river in Colombia, known as the 'River of Five Colors,' is a visual wonder for kayakers.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Ca%C3%B1o_Cristales_river_in_Colombia%2C_known_as_the_%27River_of_Five_Colors"
+    },
+    {
+      "text": "Oscar Saul Lèvano is credited with inventing the modern spray skirt in the 1950s.",
+      "source": "https://en.wikipedia.org/wiki/Oscar_Saul_L%C3%A8vano"
+    },
+    {
+      "text": "The Hudson River Greenway Water Trail stretches 156 miles along the Hudson River for kayakers.",
+      "source": "https://en.wikipedia.org/wiki/Hudson_River_Greenway_Water_Trail"
+    },
+    {
+      "text": "A screw roll is an alternate Eskimo roll technique where the paddle moves in a sweeping arc on the surface.",
+      "source": "https://en.wikipedia.org/wiki/A_screw_roll"
+    },
+    {
+      "text": "Kayak design software now allows paddlers to design custom hulls before cutting foam molds.",
+      "source": "https://en.wikipedia.org/wiki/Kayaking"
+    },
+    {
+      "text": "The Congo River has rapids so powerful they create underwater standing waves, making some sections un-kayakable.",
+      "source": "https://en.wikipedia.org/wiki/Congo_River"
+    },
+    {
+      "text": "Olympic kayak slalom was dropped after 1972 and did not return until the 1992 Barcelona Games.",
+      "month": 7,
+      "day": 30,
+      "source": "https://en.wikipedia.org/wiki/Olympic_kayak_slalom"
+    },
+    {
+      "text": "A deck line is the bungee or static rope on the top of a sea kayak used for securing gear and aiding rescues.",
+      "source": "https://en.wikipedia.org/wiki/A_deck_line"
+    },
+    {
+      "text": "Night kayaking requires LED navigation lights and often reveals marine bioluminescence.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Kayaking"
+    },
+    {
+      "text": "The volume of a kayak, measured in gallons or liters, determines how much weight it can carry and how it handles.",
+      "source": "https://en.wikipedia.org/wiki/Kayaking"
+    },
+    {
+      "text": "River right and river left are directional terms based on facing downstream, used universally in whitewater.",
+      "source": "https://en.wikipedia.org/wiki/River_right_and_river_left"
+    },
+    {
+      "text": "The Na Pali Coast of Kauai, Hawaii, is accessible almost exclusively by sea kayak or boat.",
+      "source": "https://en.wikipedia.org/wiki/Na_Pali_Coast_of_Kauai%2C_Hawaii"
+    },
+    {
+      "text": "Kayak bilge pumps can remove about 8 gallons of water per minute with vigorous pumping.",
+      "source": "https://en.wikipedia.org/wiki/Kayaking"
+    },
+    {
+      "text": "Milo Duffek, a Czech paddler, revolutionized whitewater technique in the 1950s with the Duffek stroke.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Milo_Duffek"
+    },
+    {
+      "text": "The Rio Grande/Rio Bravo forms the U.S.-Mexico border and offers remote desert canyon kayaking.",
+      "source": "https://en.wikipedia.org/wiki/Rio_Grande"
+    },
+    {
+      "text": "An asymmetrical paddle blade is designed so one edge is shorter, allowing a cleaner entry into the water.",
+      "source": "https://en.wikipedia.org/wiki/An_asymmetrical_paddle_blade"
+    },
+    {
+      "text": "The Nahanni River in Canada's Northwest Territories is a UNESCO World Heritage Site and a legendary paddling river.",
+      "source": "https://en.wikipedia.org/wiki/Nahanni_River_in_Canada%27s_Northwest_Territories"
+    },
+    {
+      "text": "Modern whitewater kayak design evolved rapidly in the 1990s as plastic molding technology improved.",
+      "source": "https://en.wikipedia.org/wiki/Kayaking"
+    },
+    {
+      "text": "Canoe polo was first played in the United Kingdom in the 1920s and has since spread worldwide.",
+      "source": "https://en.wikipedia.org/wiki/Canoe_polo"
+    },
+    {
+      "text": "The Tsangpo Gorge in Tibet is the deepest gorge on Earth and one of the most challenging kayaking environments.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Tsangpo_Gorge_in_Tibet"
+    },
+    {
+      "text": "A kayak cart or trolley helps solo paddlers transport their boats from a vehicle to the water's edge.",
+      "source": "https://en.wikipedia.org/wiki/Kayaking"
+    },
+    {
+      "text": "The Mississippi River, at 2,340 miles, has been kayaked from source to sea by numerous adventurers.",
+      "source": "https://en.wikipedia.org/wiki/Mississippi_River%2C_at_2%2C340_miles"
+    },
+    {
+      "text": "In kayak sprint, boats reach speeds over 12 mph (19 km/h) in the K-1 200m event.",
+      "source": "https://en.wikipedia.org/wiki/Kayaking"
+    },
+    {
+      "text": "Drop-stitch inflatable kayaks use thousands of internal threads to maintain a rigid shape when inflated.",
+      "source": "https://en.wikipedia.org/wiki/Kayaking"
+    },
+    {
+      "text": "The phrase 'between a rock and a hard place' resonates literally in tight whitewater gorges.",
+      "source": "https://en.wikipedia.org/wiki/Kayaking"
+    },
+    {
+      "text": "Olympic kayak sprint medals have been won by athletes from over 20 different countries.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Olympic_kayak_sprint_medals"
+    },
+    {
+      "text": "A tuilik is a traditional Greenlandic garment that combines a spray skirt and a waterproof jacket into one piece.",
+      "source": "https://en.wikipedia.org/wiki/A_tuilik"
+    },
+    {
+      "text": "Swiftwater rescue training is recommended for all serious whitewater kayakers.",
+      "source": "https://en.wikipedia.org/wiki/Swiftwater_rescue_training"
+    },
+    {
+      "text": "The first Women's Canoe Slalom event was held at the Olympics in 2020 (Tokyo).",
+      "month": 7,
+      "day": 25,
+      "source": "https://en.wikipedia.org/wiki/first_Women%27s_Canoe_Slalom_event"
+    },
+    {
+      "text": "Nose plugs are worn by some whitewater kayakers to prevent water from being forced up the nose during rolls.",
+      "source": "https://en.wikipedia.org/wiki/Nose_plugs"
+    },
+    {
+      "text": "The Pigeon River on the Minnesota-Ontario border was a historic voyageur canoe route.",
+      "source": "https://en.wikipedia.org/wiki/Pigeon_River_on_the_Minnesota-Ontario_border"
+    },
+    {
+      "text": "A hydration pack worn under a PFD lets kayakers drink water hands-free during long paddling sessions.",
+      "source": "https://en.wikipedia.org/wiki/Kayaking"
+    },
+    {
+      "text": "The Sjoa River in Norway is one of Europe's most popular whitewater destinations, with Class III-V rapids.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Sjoa_River_in_Norway"
+    },
+    {
+      "text": "Kayak racing categories include sprint, marathon, slalom, wildwater, ocean racing, and freestyle.",
+      "source": "https://en.wikipedia.org/wiki/Kayaking"
+    },
+    {
+      "text": "Rooftop kayak racks use J-cradles or saddle-style mounts to secure boats for transportation.",
+      "source": "https://en.wikipedia.org/wiki/Kayaking"
+    },
+    {
+      "text": "The Nantahala River in North Carolina is one of the most popular commercial and private whitewater runs in the eastern U.S.",
+      "source": "https://en.wikipedia.org/wiki/Nantahala_River_in_North_Carolina"
+    },
+    {
+      "text": "Blade size on a kayak paddle affects power and cadence: larger blades move more water per stroke but tire the paddler faster.",
+      "source": "https://en.wikipedia.org/wiki/Kayaking"
+    },
+    {
+      "text": "Indigenous peoples of the Pacific Northwest built dugout canoes from single cedar logs.",
+      "source": "https://en.wikipedia.org/wiki/Indigenous_peoples_of_the_Pacific_Northwest"
+    },
+    {
+      "text": "The Vltava River in the Czech Republic hosts the annual Prague to Mělník longboating race.",
+      "source": "https://en.wikipedia.org/wiki/Vltava_River_in_the_Czech_Republic"
+    },
+    {
+      "text": "A kayak's chine is the edge where the hull bottom meets the sides; hard chines improve edging, soft chines increase stability.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/A_kayak%27s_chine"
+    },
+    {
+      "text": "The first canoe to cross the Atlantic was sailed by Captain John Voss in a modified dugout canoe in 1901.",
+      "source": "https://en.wikipedia.org/wiki/first_canoe_to_cross_the_Atlantic"
+    },
+    {
+      "text": "River waves that hold a constant position, called standing waves, are used by surfers and freestyle kayakers.",
+      "source": "https://en.wikipedia.org/wiki/River_waves_that_hold_a_constant_position%2C_called_standing_waves"
+    },
+    {
+      "text": "The 200m kayak sprint was added to the Olympics in 2012 at the London Games.",
+      "month": 8,
+      "day": 10,
+      "source": "https://en.wikipedia.org/wiki/200m_kayak_sprint"
+    },
+    {
+      "text": "Hypothermia is the greatest danger in cold-water kayaking and can be incapacitating within minutes.",
+      "source": "https://en.wikipedia.org/wiki/Hypothermia"
+    },
+    {
+      "text": "The Tully River in Queensland, Australia, offers consistent Class III-IV whitewater in a tropical rainforest setting.",
+      "source": "https://en.wikipedia.org/wiki/Tully_River_in_Queensland"
+    },
+    {
+      "text": "Touring kayaks, designed for day trips and multi-day expeditions, typically have large storage hatches.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Touring_kayaks%2C_designed_for_day_trips_and_multi-day_expeditions%2C_typically"
+    },
+    {
+      "text": "Peeling out of an eddy involves leaning downstream and using a forward sweep to enter the current.",
+      "source": "https://en.wikipedia.org/wiki/Kayaking"
+    },
+    {
+      "text": "The Kenai River in Alaska is a premier kayak fishing destination for salmon.",
+      "source": "https://en.wikipedia.org/wiki/Kenai_River_in_Alaska"
+    },
+    {
+      "text": "Kayak design trade-offs include speed vs. stability, tracking vs. maneuverability, and storage vs. weight.",
+      "source": "https://en.wikipedia.org/wiki/Kayaking"
+    },
+    {
+      "text": "Native Americans used birch bark canoes throughout the woodlands of eastern North America.",
+      "source": "https://en.wikipedia.org/wiki/Native_Americans"
+    },
+    {
+      "text": "The first descent of the Grand Canyon by kayak was achieved by Walt Blackadar in 1969.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/first_descent_of_the_Grand_Canyon_by_kayak"
+    },
+    {
+      "text": "A paddle float rescue is often the first self-rescue technique taught to sea kayakers.",
+      "source": "https://en.wikipedia.org/wiki/A_paddle_float_rescue"
+    },
+    {
+      "text": "The Ganges River in India holds cultural significance and is also kayaked for its continuous rapids in upper sections.",
+      "source": "https://en.wikipedia.org/wiki/Ganges_River_in_India_holds_cultural_significance_and"
+    },
+    {
+      "text": "Olympic kayak slalom athletes must navigate downstream gates (green/white) and upstream gates (red/white).",
+      "source": "https://en.wikipedia.org/wiki/Kayaking"
+    },
+    {
+      "text": "The Great Glen Canoe Trail in Scotland follows 60 miles of connected lochs and canals, including Loch Ness.",
+      "source": "https://en.wikipedia.org/wiki/Great_Glen_Canoe_Trail_in_Scotland"
+    },
+    {
+      "text": "A pogies (also called mittens) is an open-back glove that wraps around the paddle shaft to keep hands warm.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/A_pogies_(also_called_mittens)"
+    },
+    {
+      "text": "Kayak marathon racing, also sanctioned by the ICF, involves races of 20 km or more on rivers, lakes, or canals.",
+      "source": "https://en.wikipedia.org/wiki/Kayaking"
+    },
+    {
+      "text": "The bow draw is a stroke used to quickly move the front of a kayak toward the paddle side.",
+      "source": "https://en.wikipedia.org/wiki/bow_draw"
+    },
+    {
+      "text": "The Snake River in Wyoming offers dramatic views of the Grand Tetons while kayaking.",
+      "source": "https://en.wikipedia.org/wiki/Snake_River_in_Wyoming"
+    },
+    {
+      "text": "In competitive kayaking, athletes typically train 6-8 hours per day, combining water and gym sessions.",
+      "source": "https://en.wikipedia.org/wiki/Kayaking"
+    },
+    {
+      "text": "The Bassmaster Kayak Series is one of the premier tournament trails for competitive kayak anglers.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Bassmaster_Kayak_Series"
+    },
+    {
+      "text": "A sea kayak's hatch covers must be completely waterproof to protect gear during rough crossings.",
+      "source": "https://en.wikipedia.org/wiki/Kayaking"
+    },
+    {
+      "text": "The Rogue River in Oregon is a designated Wild and Scenic River popular for multi-day kayak trips.",
+      "source": "https://en.wikipedia.org/wiki/Rogue_River_in_Oregon"
+    },
+    {
+      "text": "Using a bilge pump while sitting in the cockpit is a vital skill for solo sea kayakers.",
+      "source": "https://en.wikipedia.org/wiki/Using_a_bilge_pump_while_sitting_in_the_cockpit"
+    },
+    {
+      "text": "The Danube River, Europe's second longest, can be paddled from Germany to the Black Sea.",
+      "source": "https://en.wikipedia.org/wiki/Danube_River"
+    },
+    {
+      "text": "Kayak racing at the Olympic level uses lightweight carbon fiber and Kevlar boats that weigh about 26 pounds (12 kg) minimum.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Kayaking"
+    },
+    {
+      "text": "The Deerfield River in Massachusetts offers dam-controlled releases that provide reliable whitewater.",
+      "source": "https://en.wikipedia.org/wiki/Deerfield_River_in_Massachusetts"
+    },
+    {
+      "text": "A kayak's waterline length is the portion of the hull that sits in the water: longer waterlines mean faster hulls.",
+      "source": "https://en.wikipedia.org/wiki/A_kayak%27s_waterline_length"
+    },
+    {
+      "text": "Baidarka design featured a keyhole-shaped cockpit and was highly maneuverable in rough Alaskan seas.",
+      "source": "https://en.wikipedia.org/wiki/Baidarka_design_featured_a_keyhole-shaped_cockpit_and"
+    },
+    {
+      "text": "The first solo circumnavigation of Great Britain by sea kayak was completed by Paul Caffyn in 1980.",
+      "month": 8,
+      "day": 20,
+      "source": "https://en.wikipedia.org/wiki/first_solo_circumnavigation_of_Great_Britain_by_sea_kayak"
+    },
+    {
+      "text": "River surfing on standing waves in kayaks is practiced worldwide, with dedicated river surf parks emerging.",
+      "source": "https://en.wikipedia.org/wiki/River_surfing_on_standing_waves_in_kayaks"
+    },
+    {
+      "text": "The Cedar Key Paddling Trail in Florida offers sea kayaking through mangrove islands with abundant wildlife.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Cedar_Key_Paddling_Trail_in_Florida"
+    },
+    {
+      "text": "A kayak rudder is controlled by foot pedals and is most common on longer touring and sea kayaks.",
+      "source": "https://en.wikipedia.org/wiki/A_kayak_rudder"
+    },
+    {
+      "text": "The Indus River in Pakistan offers remote expedition kayaking through dramatic Himalayan gorges.",
+      "source": "https://en.wikipedia.org/wiki/Indus_River_in_Pakistan"
+    },
+    {
+      "text": "Kayak angler Brent Ehrler, a professional bass fisherman, has promoted tournament fishing from kayaks.",
+      "source": "https://en.wikipedia.org/wiki/Kayak_angler_Brent_Ehrler%2C_a_professional_bass_fisherman"
+    },
+    {
+      "text": "The Union Internationale de Canoë was founded in 1924 and later became the International Canoe Federation.",
+      "month": 1,
+      "day": 19,
+      "source": "https://en.wikipedia.org/wiki/Union_Internationale_de_Cano%C3%AB"
+    },
+    {
+      "text": "Spray deck material matters: neoprene provides a tighter seal than nylon but is harder to release in an emergency.",
+      "source": "https://en.wikipedia.org/wiki/Spray_deck_material_matters:_neoprene_provides_a_tighter_seal_than_nylon_but"
+    },
+    {
+      "text": "The San Juan Islands in Washington State are one of the top sea kayaking destinations in North America.",
+      "source": "https://en.wikipedia.org/wiki/San_Juan_Islands_in_Washington_State"
+    },
+    {
+      "text": "A bow rocker allows a kayak to ride up and over waves rather than cutting through them.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Kayaking"
+    },
+    {
+      "text": "The Arkansas River through the Royal Gorge in Colorado offers intense whitewater with sheer canyon walls.",
+      "source": "https://en.wikipedia.org/wiki/Arkansas_River"
+    },
+    {
+      "text": "Paddle length is generally determined by the paddler's height, boat width, and paddling style.",
+      "source": "https://en.wikipedia.org/wiki/Paddle_length"
+    },
+    {
+      "text": "The Franklin River in Tasmania is a famous wilderness kayaking river and the site of a major environmental protest in the 1980s.",
+      "source": "https://en.wikipedia.org/wiki/Franklin_River_in_Tasmania"
+    },
+    {
+      "text": "Kayak speed records on flatwater exceed 19 mph (31 km/h) in specialized sprint boats.",
+      "source": "https://en.wikipedia.org/wiki/Kayaking"
+    },
+    {
+      "text": "Catch, power phase, and recovery are the three main parts of an efficient kayak paddle stroke.",
+      "source": "https://en.wikipedia.org/wiki/Catch%2C_power_phase%2C_and_recovery"
+    },
+    {
+      "text": "The first kayaking club in the world was founded in Scotland in 1866 by John MacGregor.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/first_kayaking_club_in_the_world"
+    },
+    {
+      "text": "Elbow pads are sometimes worn by creek boaters navigating extremely tight gorges.",
+      "source": "https://en.wikipedia.org/wiki/Elbow_pads"
+    },
+    {
+      "text": "The Yukon River Quest is a 460-mile kayak and canoe race from Whitehorse to Dawson City.",
+      "month": 6,
+      "day": 25,
+      "source": "https://en.wikipedia.org/wiki/Yukon_River_Quest"
+    },
+    {
+      "text": "Planing hulls on modern freestyle kayaks allow them to surf and spin more easily on waves.",
+      "source": "https://en.wikipedia.org/wiki/Kayaking"
+    },
+    {
+      "text": "Towing systems on sea kayaks allow a stronger paddler to assist a tired companion.",
+      "source": "https://en.wikipedia.org/wiki/Kayaking"
+    },
+    {
+      "text": "The Potomac River near Washington, D.C., has Class II-III rapids at Great Falls.",
+      "source": "https://en.wikipedia.org/wiki/Potomac_River_near_Washington%2C_D.C"
+    },
+    {
+      "text": "Kayak scupper holes on sit-on-top models are self-bailing openings that drain water off the deck.",
+      "source": "https://en.wikipedia.org/wiki/Kayak_scupper_holes_on_sit-on-top_models"
+    },
+    {
+      "text": "The Devizes to Westminster International Canoe Race is a 125-mile race through England, one of the longest in the world.",
+      "type": "did-you-know",
+      "month": 3,
+      "day": 28,
+      "source": "https://en.wikipedia.org/wiki/Devizes_to_Westminster_International_Canoe_Race"
+    },
+    {
+      "text": "Foam saddles inside whitewater kayaks provide a custom fit and improve boat control.",
+      "source": "https://en.wikipedia.org/wiki/Kayaking"
+    },
+    {
+      "text": "The Apostle Islands in Lake Superior offer sea caves and sandstone cliffs for sea kayaking exploration.",
+      "source": "https://en.wikipedia.org/wiki/Apostle_Islands_in_Lake_Superior"
+    },
+    {
+      "text": "Kayak racing has been contested at every Summer Olympics since 1936, except for 1940 and 1944 during WWII.",
+      "source": "https://en.wikipedia.org/wiki/Kayak_racing"
+    },
+    {
+      "text": "A drytop paired with a drysuit bottom gives flexibility in layering for different water temperatures.",
+      "source": "https://en.wikipedia.org/wiki/Kayaking"
+    },
+    {
+      "text": "The Wailua River on Kauai leads to a fern grotto and is popular for recreational kayaking.",
+      "source": "https://en.wikipedia.org/wiki/Wailua_River_on_Kauai_leads_to_a_fern_grotto_and"
+    },
+    {
+      "text": "Stern squirts are playboating moves where the kayaker sinks the stern vertically in the current.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Stern_squirts"
+    },
+    {
+      "text": "The Rio Baker in Chilean Patagonia has some of the most voluminous whitewater in South America.",
+      "source": "https://en.wikipedia.org/wiki/Rio_Baker_in_Chilean_Patagonia"
+    },
+    {
+      "text": "A compass mounted on the deck of a sea kayak is essential for navigation in open water and fog.",
+      "source": "https://en.wikipedia.org/wiki/A_compass_mounted_on_the_deck_of_a_sea_kayak"
+    },
+    {
+      "text": "In 2011, Huw Kingston sea-kayaked, cycled, and trekked around the Mediterranean Sea, covering 13,000 km.",
+      "source": "https://en.wikipedia.org/wiki/Huw_Kingston"
+    },
+    {
+      "text": "The Indian River Lagoon in Florida is a popular destination for kayaking with manatees.",
+      "source": "https://en.wikipedia.org/wiki/Indian_River_Lagoon_in_Florida"
+    },
+    {
+      "text": "Olympic K-1 slalom races are decided by hundredths of a second, with courses completed in under 90 seconds.",
+      "source": "https://en.wikipedia.org/wiki/Olympic_K-1_slalom_races"
+    },
+    {
+      "text": "The concept of the Eskimo roll was introduced to European kayakers in the 1930s by Austrian Edi Hans Pawlata.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/concept_of_the_Eskimo_roll"
+    },
+    {
+      "text": "River difficulty can change dramatically with water levels: low water exposes rocks, high water creates powerful hydraulics.",
+      "source": "https://en.wikipedia.org/wiki/Kayaking"
+    },
+    {
+      "text": "The first descent of the Stikine River's Grand Canyon in British Columbia was completed in 1981.",
+      "month": 9,
+      "day": 16,
+      "source": "https://en.wikipedia.org/wiki/first_descent_of_the_Stikine_River%27s_Grand_Canyon_in_British_Columbia"
+    },
+    {
+      "text": "A low-profile seat in a kayak lowers the center of gravity and improves stability.",
+      "source": "https://en.wikipedia.org/wiki/Kayaking"
+    },
+    {
+      "text": "The Glenmore Lodge in Scotland is one of the premier kayaking and outdoor training centers in Europe.",
+      "source": "https://en.wikipedia.org/wiki/Glenmore_Lodge_in_Scotland"
+    },
+    {
+      "text": "Tracking is a kayak's ability to maintain a straight line, which is influenced by hull length and keel design.",
+      "source": "https://en.wikipedia.org/wiki/Tracking"
+    },
+    {
+      "text": "Modern kayaks can be made from wood-strip construction for a beautiful, lightweight handmade boat.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Kayaking"
+    },
+    {
+      "text": "The Chatkal River in Uzbekistan hosted a World Cup kayak slalom event in remote Central Asia.",
+      "source": "https://en.wikipedia.org/wiki/Chatkal_River_in_Uzbekistan"
+    },
+    {
+      "text": "Rescuers use pin kits—pulleys and webbing—to free kayaks and paddlers trapped against rocks.",
+      "source": "https://en.wikipedia.org/wiki/Kayaking"
+    },
+    {
+      "text": "Kayak anglers often add rod holders, tackle storage, and live wells to customize their fishing kayaks.",
+      "source": "https://en.wikipedia.org/wiki/Kayaking"
+    },
+    {
+      "text": "The Canoe Slalom venue for the 2024 Paris Olympics was at Vaires-sur-Marne.",
+      "month": 7,
+      "day": 27,
+      "source": "https://en.wikipedia.org/wiki/Canoe_Slalom_venue_for_the_2024_Paris_Olympics"
+    },
+    {
+      "text": "The Penobscot River in Maine is an excellent whitewater and wilderness kayaking destination.",
+      "source": "https://en.wikipedia.org/wiki/Penobscot_River_in_Maine"
+    },
+    {
+      "text": "A kayak's cockpit rim, also called the coaming, is where the spray skirt attaches.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/A_kayak%27s_cockpit_rim%2C_also_called_the_coaming"
+    },
+    {
+      "text": "The Kern River in California is one of the most kayaked whitewater rivers on the West Coast.",
+      "source": "https://en.wikipedia.org/wiki/Kern_River_in_California"
+    },
+    {
+      "text": "Paddle cadence in sprint kayaking is extremely fast, with elite athletes taking over 120 strokes per minute.",
+      "source": "https://en.wikipedia.org/wiki/Paddle_cadence_in_sprint_kayaking"
+    },
+    {
+      "text": "Loch Lomond in Scotland provides scenic flatwater kayaking with views of Ben Lomond.",
+      "source": "https://en.wikipedia.org/wiki/Loch_Lomond_in_Scotland"
+    },
+    {
+      "text": "The Piave River in Italy was the site of the first European whitewater kayak competitions.",
+      "source": "https://en.wikipedia.org/wiki/Piave_River_in_Italy"
+    },
+    {
+      "text": "Fiord kayaking in Norway puts paddlers beneath 1,000-meter cliffs and thundering waterfalls.",
+      "source": "https://en.wikipedia.org/wiki/Kayaking"
+    },
+    {
+      "text": "The North Shore of Lake Superior offers rugged sea kayaking conditions similar to ocean paddling.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/North_Shore_of_Lake_Superior"
+    },
+    {
+      "text": "The kayak's center of gravity should be kept low by storing heavy items on the floor and in center hatches.",
+      "source": "https://en.wikipedia.org/wiki/Kayaking"
+    },
+    {
+      "text": "Oskar Speck kayaked from Germany to Australia between 1932 and 1939, covering over 30,000 miles.",
+      "month": 5,
+      "day": 13,
+      "source": "https://en.wikipedia.org/wiki/Oskar_Speck"
+    },
+    {
+      "text": "A float plan shared with someone on shore is an essential safety practice before any kayaking trip.",
+      "source": "https://en.wikipedia.org/wiki/A_float_plan_shared_with_someone_on_shore"
+    },
+    {
+      "text": "The Wye River in Wales is a gentle, scenic river perfect for beginners in kayaking and canoeing.",
+      "source": "https://en.wikipedia.org/wiki/Wye_River_in_Wales"
+    },
+    {
+      "text": "Symmetrical paddle blades offer the same performance on both the left and right strokes.",
+      "source": "https://en.wikipedia.org/wiki/Symmetrical_paddle_blades_offer_the_same_performance_on_both_the"
+    },
+    {
+      "text": "Canoe racing was featured as a demonstration sport at the 1924 Paris Olympics.",
+      "month": 7,
+      "day": 6,
+      "source": "https://en.wikipedia.org/wiki/Canoe_racing"
+    },
+    {
+      "text": "The Chattooga River's Section IV is widely regarded as one of the best Class IV runs in the southeastern U.S.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Chattooga_River%27s_Section_IV"
+    },
+    {
+      "text": "A high-angle paddling style uses a more vertical paddle shaft and is preferred for whitewater and aggressive touring.",
+      "source": "https://en.wikipedia.org/wiki/A_high-angle_paddling_style_uses_a_more_vertical_paddle_shaft_and"
+    },
+    {
+      "text": "The Adriatic Sea coast of Croatia offers island-hopping sea kayaking with crystal-clear water.",
+      "source": "https://en.wikipedia.org/wiki/Adriatic_Sea"
+    },
+    {
+      "text": "Pontoon-style catamaran kayaks provide extreme stability for fishing in open water.",
+      "source": "https://en.wikipedia.org/wiki/Kayaking"
+    },
+    {
+      "text": "The K-2 500m women's event at the Olympics often produces thrilling finishes with margins under a second.",
+      "source": "https://en.wikipedia.org/wiki/K-2"
+    },
+    {
+      "text": "The concept of 'leave no trace' is essential in kayak camping to preserve wild waterways.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/concept_of_%27leave_no_trace"
+    },
+    {
+      "text": "Slalom gates are suspended from wires above the river and hang just above the water surface.",
+      "source": "https://en.wikipedia.org/wiki/Slalom_gates"
+    },
+    {
+      "text": "The Okavango Delta in Botswana can be explored by traditional mokoro (dugout canoe) or modern kayak.",
+      "source": "https://en.wikipedia.org/wiki/Okavango_Delta_in_Botswana"
+    },
+    {
+      "text": "A kayak's displacement determines how much water it pushes aside and affects both speed and carrying capacity.",
+      "source": "https://en.wikipedia.org/wiki/Kayaking"
+    },
+    {
+      "text": "Andrew McAuley attempted to kayak across the Tasman Sea from Australia to New Zealand in 2007 but was lost at sea just 30 km from his goal.",
+      "month": 2,
+      "day": 9,
+      "source": "https://en.wikipedia.org/wiki/Andrew_McAuley"
+    },
+    {
+      "text": "Thule, Yakima, and Malone are popular brands of rooftop kayak carrier systems.",
+      "source": "https://en.wikipedia.org/wiki/Thule%2C_Yakima%2C_and_Malone"
+    },
+    {
+      "text": "The lower Salmon River in Idaho is a warm-water float with Class II-III rapids and sandy beaches for camping.",
+      "source": "https://en.wikipedia.org/wiki/lower_Salmon_River_in_Idaho"
+    },
+    {
+      "text": "The concept of 'eddy hopping' involves moving downstream by paddling from one calm eddy to the next.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Kayaking"
+    },
+    {
+      "text": "A pump-action water bailer is a simpler alternative to electric bilge pumps for small kayaks.",
+      "source": "https://en.wikipedia.org/wiki/A_pump-action_water_bailer"
+    },
+    {
+      "text": "The River Dart in Devon, England, is a classic British whitewater river with continuous rapids.",
+      "source": "https://en.wikipedia.org/wiki/River_Dart_in_Devon%2C_England"
+    },
+    {
+      "text": "Tandem sea kayaks can be over 22 feet long to accommodate two paddlers and expedition gear.",
+      "source": "https://en.wikipedia.org/wiki/Kayaking"
+    },
+    {
+      "text": "Kayak polo world championships have been held since 1994, with top teams from Great Britain, France, and Germany.",
+      "source": "https://en.wikipedia.org/wiki/Kayak_polo_world_championships"
+    },
+    {
+      "text": "The Rio Marañón in Peru offers expedition-level whitewater through deep canyons in the Andes.",
+      "source": "https://en.wikipedia.org/wiki/Rio"
+    },
+    {
+      "text": "Sprint kayaks have minimal rocker and a long, narrow hull to maximize speed on flat water.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Sprint_kayaks"
+    },
+    {
+      "text": "The Menominee River on the Michigan-Wisconsin border has several named rapids and is a Midwest whitewater gem.",
+      "source": "https://en.wikipedia.org/wiki/Menominee_River_on_the_Michigan-Wisconsin_border"
+    },
+    {
+      "text": "Electric trolling motors can be mounted on fishing kayaks for hands-free propulsion.",
+      "source": "https://en.wikipedia.org/wiki/Kayaking"
+    },
+    {
+      "text": "The first International Whitewater Kayak Competition was held on the Yonne River in France in 1933.",
+      "month": 4,
+      "day": 15,
+      "source": "https://en.wikipedia.org/wiki/first_International_Whitewater_Kayak_Competition"
+    },
+    {
+      "text": "Kayakers should always check weather and water level conditions before launching.",
+      "source": "https://en.wikipedia.org/wiki/Kayaking"
+    },
+    {
+      "text": "The Abel Tasman National Park in New Zealand is a world-renowned multi-day sea kayaking destination.",
+      "source": "https://en.wikipedia.org/wiki/Abel_Tasman_National_Park_in_New_Zealand"
+    },
+    {
+      "text": "A thigh strap in an open canoe helps the paddler maintain contact for whitewater maneuvering.",
+      "source": "https://en.wikipedia.org/wiki/Kayaking"
+    },
+    {
+      "text": "The Pacuare River in Costa Rica was named by National Geographic as one of the best river trips in the world.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Pacuare_River_in_Costa_Rica"
+    },
+    {
+      "text": "Kayak sailing rigs can achieve speeds of 8+ knots in favorable winds.",
+      "source": "https://en.wikipedia.org/wiki/Kayaking"
+    },
+    {
+      "text": "The Allegheny River in Pennsylvania provides scenic flatwater kayaking through wooded valleys.",
+      "source": "https://en.wikipedia.org/wiki/Allegheny_River_in_Pennsylvania"
+    },
+    {
+      "text": "An offset or feathered paddle has blades set at an angle (usually 15-60 degrees) to each other.",
+      "source": "https://en.wikipedia.org/wiki/An_offset_or_feathered_paddle"
+    },
+    {
+      "text": "The Magpie River in Quebec is a remote wilderness whitewater gem with waterfalls and canyon rapids.",
+      "source": "https://en.wikipedia.org/wiki/Magpie_River_in_Quebec"
+    },
+    {
+      "text": "River kayakers use the 'one-third rule': if you can't see the bottom third of a rapid, scout it from shore.",
+      "source": "https://en.wikipedia.org/wiki/Kayaking"
+    },
+    {
+      "text": "Annie Dodge Wauneka, a Navajo leader, championed protecting the San Juan River, a key kayaking waterway.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Annie_Dodge_Wauneka"
+    },
+    {
+      "text": "The Lee Valley White Water Centre was purpose-built for the 2012 London Olympics kayak slalom events.",
+      "month": 7,
+      "day": 29,
+      "source": "https://en.wikipedia.org/wiki/Lee_Valley_White_Water_Centre"
+    },
+    {
+      "text": "Torso rotation, not arm strength, generates the most efficient and powerful paddle strokes.",
+      "source": "https://en.wikipedia.org/wiki/Kayaking"
+    },
+    {
+      "text": "Channel Islands National Park off California's coast offers outstanding sea kayaking with sea caves and marine wildlife.",
+      "source": "https://en.wikipedia.org/wiki/Channel_Islands_National_Park"
+    },
+    {
+      "text": "Phil Boyer set a Guinness World Record for the longest solo kayak journey on the Amazon, covering 7,200 km.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Phil_Boyer"
+    },
+    {
+      "text": "A sea sock is an internal sleeve in a kayak cockpit that limits the amount of water entering the boat during a capsize.",
+      "source": "https://en.wikipedia.org/wiki/A_sea_sock"
+    },
+    {
+      "text": "The Metolius River in Oregon is so clear that kayakers can see the river bottom in 20+ feet of water.",
+      "source": "https://en.wikipedia.org/wiki/Metolius_River_in_Oregon"
+    },
+    {
+      "text": "Canoe sprint was known as 'canoe racing' until the ICF standardized terminology.",
+      "source": "https://en.wikipedia.org/wiki/Canoe_sprint"
+    },
+    {
+      "text": "Spray deck implosion can occur in large waves when water pressure forces the skirt down into the cockpit.",
+      "source": "https://en.wikipedia.org/wiki/Kayaking"
+    },
+    {
+      "text": "The first modern kayak slalom course was set up on the Liffey River in Dublin, Ireland, in 1948.",
+      "month": 5,
+      "day": 22,
+      "source": "https://en.wikipedia.org/wiki/first_modern_kayak_slalom_course"
+    },
+    {
+      "text": "Kayaking with orcas in the San Juan Islands is a bucket-list experience for sea kayakers.",
+      "source": "https://en.wikipedia.org/wiki/Kayaking_with_orcas_in_the_San_Juan_Islands"
+    },
+    {
+      "text": "A skullcap or neoprene beanie prevents significant heat loss from the head during cold-water paddling.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Kayaking"
+    },
+    {
+      "text": "The James River in Virginia runs through Richmond with urban Class III-IV rapids.",
+      "source": "https://en.wikipedia.org/wiki/James_River_in_Virginia"
+    },
+    {
+      "text": "Kayak expedition photography requires specialized dry cases and mounts to protect camera gear.",
+      "source": "https://en.wikipedia.org/wiki/Kayaking"
+    },
+    {
+      "text": "The Wye Valley AONB in Wales and England is one of the UK's most popular canoe touring destinations.",
+      "source": "https://en.wikipedia.org/wiki/Wye_Valley_AONB_in_Wales_and_England"
+    },
+    {
+      "text": "Racing kayaks are so narrow (under 20 inches wide) that they require significant balance skills.",
+      "source": "https://en.wikipedia.org/wiki/Racing_kayaks"
+    },
+    {
+      "text": "The Buffalo National River in Arkansas was the first designated National River in the United States.",
+      "source": "https://en.wikipedia.org/wiki/Buffalo_National_River_in_Arkansas"
+    },
+    {
+      "text": "Freestyle kayaking world championships feature events in hole riding, wave surfing, and squirt boating.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Kayaking"
+    },
+    {
+      "text": "A kayak's initial stability can be deceptive; boats that feel tippy at first may have excellent secondary stability.",
+      "source": "https://en.wikipedia.org/wiki/A_kayak%27s_initial_stability_can_be_deceptive%3B_boats_that_feel_tippy_at_first_may"
+    },
+    {
+      "text": "The Verdon River in France requires permits due to its popularity and limited access points.",
+      "source": "https://en.wikipedia.org/wiki/Verdon_River_in_France"
+    },
+    {
+      "text": "Kayaking the Everglades' Ten Thousand Islands requires extensive navigation skills due to the maze of mangrove channels.",
+      "source": "https://en.wikipedia.org/wiki/Kayaking_the_Everglades%27_Ten_Thousand_Islands"
+    },
+    {
+      "text": "The C-1 is a decked canoe used in slalom competition, paddled with a single-blade paddle while kneeling.",
+      "source": "https://en.wikipedia.org/wiki/C-1"
+    },
+    {
+      "text": "Some sea kayaks have integrated rudder lines that run through the hull for a cleaner deck profile.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Some_sea_kayaks"
+    },
+    {
+      "text": "Sebastian Brendel of Germany won Olympic gold in C-1 1000m at both the 2012 and 2016 Olympics.",
+      "month": 8,
+      "day": 8,
+      "source": "https://en.wikipedia.org/wiki/Sebastian_Brendel_of_Germany"
+    },
+    {
+      "text": "A flatwater sprint kayak course uses a 2,000-meter regatta format with multiple heats and finals.",
+      "source": "https://en.wikipedia.org/wiki/Kayaking"
+    },
+    {
+      "text": "The Merced River in Yosemite Valley provides kayaking with views of El Capitan and Half Dome.",
+      "source": "https://en.wikipedia.org/wiki/Merced_River_in_Yosemite_Valley"
+    },
+    {
+      "text": "In Greenland-style paddling, the storm roll allows a kayaker to roll up in very rough conditions using minimal paddle movement.",
+      "source": "https://en.wikipedia.org/wiki/In_Greenland-style"
+    },
+    {
+      "text": "Kayak design for fishing has exploded since the 2010s, with features like standing platforms, pedal drives, and power poles.",
+      "source": "https://en.wikipedia.org/wiki/Kayak_design_for_fishing"
+    },
+    {
+      "text": "The Zambezi Batoka Gorge below Victoria Falls has 23 named rapids in its first 24 kilometers.",
+      "source": "https://en.wikipedia.org/wiki/Zambezi_Batoka_Gorge_below_Victoria_Falls"
+    },
+    {
+      "text": "A Greenland paddle is typically the same height as the paddler with arms raised overhead.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/A_Greenland_paddle"
+    },
+    {
+      "text": "The Nolichucky River in Tennessee carves through the deepest gorge east of the Mississippi.",
+      "source": "https://en.wikipedia.org/wiki/Nolichucky_River_in_Tennessee"
+    },
+    {
+      "text": "Helen Skelton kayaked the entire length of the Amazon in 2010, covering over 2,010 miles.",
+      "month": 9,
+      "day": 12,
+      "source": "https://en.wikipedia.org/wiki/Helen_Skelton"
+    },
+    {
+      "text": "Whitewater parks with adjustable wave features let paddlers customize the rapid difficulty.",
+      "source": "https://en.wikipedia.org/wiki/Whitewater_parks_with_adjustable_wave"
+    },
+    {
+      "text": "The Payette River system in Idaho offers Class II to Class V runs within a short drive of Boise.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Payette_River"
+    },
+    {
+      "text": "Kayak hatches sealed with rubber gaskets must be inspected regularly to prevent slow leaks on long trips.",
+      "source": "https://en.wikipedia.org/wiki/Kayaking"
+    },
+    {
+      "text": "The River Tees in England has the famous Low Force and High Force waterfalls that advanced kayakers run.",
+      "source": "https://en.wikipedia.org/wiki/River_Tees_in_England"
+    },
+    {
+      "text": "Olympic kayak slalom gates are 1.2 meters wide for single boats and 2 meters wide for C-2 events.",
+      "source": "https://en.wikipedia.org/wiki/Olympic_kayak_slalom_gates"
+    },
+    {
+      "text": "Gerd Fredriksson of Sweden won six Olympic gold medals in kayaking between 1948 and 1960.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Gerd_Fredriksson_of_Sweden"
+    },
+    {
+      "text": "The Alsek-Tatshenshini River system in Alaska and Canada is a remote glacier-fed expedition route.",
+      "source": "https://en.wikipedia.org/wiki/Alsek-Tatshenshini_River_system_in_Alaska_and_Canada"
+    },
+    {
+      "text": "Contact tow lines allow sea kayakers to quickly assist a struggling paddler without complex rigging.",
+      "source": "https://en.wikipedia.org/wiki/Kayaking"
+    },
+    {
+      "text": "The World Eskimo-Indian Olympics in Fairbanks includes traditional kayak-building demonstrations.",
+      "month": 7,
+      "day": 17,
+      "source": "https://en.wikipedia.org/wiki/World_Eskimo-Indian_Olympics_in_Fairbanks"
+    },
+    {
+      "text": "Hardshell kayaks are more durable than inflatables but require roof racks or trailers for transport.",
+      "source": "https://en.wikipedia.org/wiki/Hardshell_kayaks"
+    },
+    {
+      "text": "The Lochsa River in Idaho is a continuous 60-mile stretch of Class III-IV whitewater.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Lochsa_River_in_Idaho"
+    },
+    {
+      "text": "Kayak anglers use sonar-equipped fish finders that can be powered by lightweight lithium batteries.",
+      "source": "https://en.wikipedia.org/wiki/Kayaking"
+    },
+    {
+      "text": "The South Nahanni River drops over Virginia Falls, twice the height of Niagara, on its path through the Mackenzie Mountains.",
+      "source": "https://en.wikipedia.org/wiki/South_Nahanni_River"
+    },
+    {
+      "text": "Canoe and kayak clubs worldwide host pool sessions in winter so paddlers can practice rolls and rescues indoors.",
+      "source": "https://en.wikipedia.org/wiki/Canoe_and"
+    },
+    {
+      "text": "The Dordogne River in France offers gentle flatwater kayaking past medieval castles and villages.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Dordogne_River_in_France"
+    },
+    {
+      "text": "Kayak stabilizers, or outriggers, can be added to fishing kayaks for extra stability when standing.",
+      "source": "https://en.wikipedia.org/wiki/Kayaking"
+    },
+    {
+      "text": "The World Paddle Awards recognize outstanding achievements in kayaking, canoeing, and paddleboarding each year.",
+      "month": 12,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/World_Paddle_Awards"
+    },
+    {
+      "text": "A foot-controlled rudder is preferred over a skeg by many sea kayakers for precise steering in following seas.",
+      "source": "https://en.wikipedia.org/wiki/A_foot-controlled_rudder"
+    },
+    {
+      "text": "The Ocoee River in Tennessee was the venue for the 1996 Atlanta Olympics whitewater kayak slalom events.",
+      "month": 7,
+      "day": 28,
+      "source": "https://en.wikipedia.org/wiki/Ocoee_River_in_Tennessee"
+    },
+    {
+      "text": "Plastic creek boats are designed to withstand impacts against rocks at speeds that would destroy composite kayaks.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Plastic_creek_boats"
+    },
+    {
+      "text": "The Clearwater River in British Columbia is named for its glass-clear water and is a bucket-list paddling destination.",
+      "source": "https://en.wikipedia.org/wiki/Clearwater_River_in_British_Columbia"
+    },
+    {
+      "text": "Kayakers use float bags in the bow and stern to displace water and keep a swamped boat riding higher.",
+      "source": "https://en.wikipedia.org/wiki/Kayaking"
+    }
+  ]
+}

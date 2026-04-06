@@ -1,0 +1,1767 @@
+{
+  "hobby": "College Football",
+  "facts": [
+    {
+      "text": "Michigan Stadium, known as 'The Big House,' is the largest stadium in the United States with an official capacity of over 107,000.",
+      "source": "https://en.wikipedia.org/wiki/Michigan_Stadium%2C_known_as_%27The_Big_House"
+    },
+    {
+      "text": "The Heisman Trophy has been awarded annually since 1935 to the most outstanding player in college football.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Heisman_Trophy"
+    },
+    {
+      "text": "The rivalry between Michigan and Ohio State, known simply as 'The Game,' is widely considered the greatest rivalry in American sports.",
+      "source": "https://en.wikipedia.org/wiki/rivalry_between_Michigan_and_Ohio_State%2C_known_simply_as_%27The_Game"
+    },
+    {
+      "text": "Alabama's Nick Saban won six national championships with the Crimson Tide, the most by any coach at a single school in the modern era.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Alabama%27s_Nick_Saban"
+    },
+    {
+      "text": "The Rose Bowl, first played in 1902, is the oldest bowl game in college football and is nicknamed 'The Granddaddy of Them All.'",
+      "month": 1,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/Rose_Bowl%2C_first_played_in_1902"
+    },
+    {
+      "text": "Notre Dame's 'Play Like a Champion Today' sign, which players tap on their way to the field, has been a tradition since the late 1980s.",
+      "source": "https://en.wikipedia.org/wiki/Notre_Dame%27s"
+    },
+    {
+      "text": "The first college football game was played on November 6, 1869, between Rutgers and Princeton, with Rutgers winning 6–4.",
+      "month": 11,
+      "day": 6,
+      "source": "https://en.wikipedia.org/wiki/first_college_football_game"
+    },
+    {
+      "text": "Bear Bryant won 323 games as a head coach, including six national championships at Alabama.",
+      "source": "https://en.wikipedia.org/wiki/Bear_Bryant"
+    },
+    {
+      "text": "The SEC has produced more NFL first-round draft picks than any other conference in college football history.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/SEC"
+    },
+    {
+      "text": "Ohio State's tradition of 'Dotting the i' in Script Ohio is one of the most iconic marching band performances in sports.",
+      "source": "https://en.wikipedia.org/wiki/Ohio_State%27s_tradition_of_%27Dotting_the_i%27_in_Script_Ohio"
+    },
+    {
+      "text": "The Iron Bowl between Alabama and Auburn gets its name from the game historically being played in Birmingham, Alabama's iron and steel center.",
+      "source": "https://en.wikipedia.org/wiki/Iron_Bowl"
+    },
+    {
+      "text": "Clemson players touch Howard's Rock at the top of the hill before running down into Death Valley, a tradition started in 1966.",
+      "source": "https://en.wikipedia.org/wiki/Howard%27s_Rock_at_the"
+    },
+    {
+      "text": "Archie Griffin of Ohio State is the only player to win the Heisman Trophy twice, earning it in 1974 and 1975.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Archie_Griffin_of_Ohio_State"
+    },
+    {
+      "text": "The College Football Playoff replaced the BCS system in 2014, initially featuring a four-team format.",
+      "source": "https://en.wikipedia.org/wiki/College_Football_Playoff"
+    },
+    {
+      "text": "Knute Rockne compiled a career record of 105–12–5 at Notre Dame, giving him the highest winning percentage in college football history.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Knute_Rockne"
+    },
+    {
+      "text": "Tiger Stadium at LSU is known as 'Death Valley' because opposing teams rarely leave with a win under the lights on Saturday night.",
+      "source": "https://en.wikipedia.org/wiki/Tiger_Stadium_at_LSU"
+    },
+    {
+      "text": "The Red River Rivalry between Texas and Oklahoma is played annually at the Cotton Bowl in Dallas during the State Fair of Texas.",
+      "month": 10,
+      "day": 12,
+      "source": "https://en.wikipedia.org/wiki/Red_River_Rivalry_between_Texas_and_Oklahoma"
+    },
+    {
+      "text": "USC's Trojans got their nickname in 1912 when a sportswriter compared the team's fighting spirit to the ancient warriors of Troy.",
+      "source": "https://en.wikipedia.org/wiki/USC%27s_Trojans"
+    },
+    {
+      "text": "The Army-Navy Game has been played annually since 1890 and is one of the most tradition-rich rivalries in all of sports.",
+      "month": 12,
+      "day": 14,
+      "source": "https://en.wikipedia.org/wiki/Army-Navy_Game"
+    },
+    {
+      "text": "Oklahoma won 47 consecutive games from 1953 to 1957 under coach Bud Wilkinson, the longest winning streak in major college football history.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Oklahoma"
+    },
+    {
+      "text": "Bo Schembechler won or shared 13 Big Ten titles in 21 seasons at Michigan but never won a national championship.",
+      "source": "https://en.wikipedia.org/wiki/Bo_Schembechler"
+    },
+    {
+      "text": "The 'Kick Six' in the 2013 Iron Bowl saw Auburn's Chris Davis return a missed field goal 109 yards for a touchdown as time expired.",
+      "month": 11,
+      "day": 30,
+      "source": "https://en.wikipedia.org/wiki/%27Kick_Six%27_in_the_2013_Iron_Bowl"
+    },
+    {
+      "text": "Neyland Stadium in Knoxville, Tennessee, has a capacity of over 100,000, making it one of the largest stadiums in the world.",
+      "source": "https://en.wikipedia.org/wiki/Neyland_Stadium_in_Knoxville%2C_Tennessee"
+    },
+    {
+      "text": "The first Heisman Trophy was awarded to Jay Berwanger of the University of Chicago in 1935.",
+      "month": 12,
+      "day": 10,
+      "source": "https://en.wikipedia.org/wiki/first_Heisman_Trophy"
+    },
+    {
+      "text": "Georgia's mascot Uga is a live English Bulldog that has attended games since 1956, with each successive dog inheriting the name.",
+      "source": "https://en.wikipedia.org/wiki/Georgia%27s_mascot_Uga"
+    },
+    {
+      "text": "Bobby Bowden won two national championships at Florida State and accumulated 377 career victories across all programs.",
+      "source": "https://en.wikipedia.org/wiki/Bobby_Bowden"
+    },
+    {
+      "text": "The term 'bowl game' originates from the Rose Bowl Stadium, which was bowl-shaped, and other postseason games adopted the naming convention.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/term_%27bowl_game%27_originates_from_the_Rose_Bowl_Stadium%2C_which"
+    },
+    {
+      "text": "Penn State's 'White Out' games, where the entire stadium wears white, create one of the most intimidating atmospheres in college football.",
+      "source": "https://en.wikipedia.org/wiki/Penn_State%27s"
+    },
+    {
+      "text": "In 1984, Doug Flutie threw a game-winning Hail Mary pass for Boston College against Miami, one of the most famous plays in college football history.",
+      "month": 11,
+      "day": 23,
+      "source": "https://en.wikipedia.org/wiki/Doug_Flutie"
+    },
+    {
+      "text": "Texas A&M's 12th Man tradition began in 1922 when a student suited up and stood ready to play after injuries depleted the roster.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Texas_A%26M%27s"
+    },
+    {
+      "text": "The Sugar Bowl has been played in New Orleans since 1935 and is one of the original 'New Year's Six' bowl games.",
+      "source": "https://en.wikipedia.org/wiki/Sugar_Bowl"
+    },
+    {
+      "text": "Woody Hayes coached Ohio State for 28 seasons, winning five national championships and 13 Big Ten titles.",
+      "source": "https://en.wikipedia.org/wiki/Woody_Hayes"
+    },
+    {
+      "text": "The Florida Gators' 'Gator Chomp' is one of the most recognizable fan celebrations in college football.",
+      "source": "https://en.wikipedia.org/wiki/Florida_Gators%27_%27Gator_Chomp"
+    },
+    {
+      "text": "Boise State's Statue of Liberty play to win the 2007 Fiesta Bowl against Oklahoma is considered one of the greatest plays in bowl game history.",
+      "month": 1,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/Boise_State%27s_Statue_of_Liberty_play_to_win_the_2007_Fiesta_Bowl_against_Oklahoma"
+    },
+    {
+      "text": "The Pac-12 Conference, originally the Pacific Coast Conference, was founded in 1915 and underwent major realignment in the 2020s.",
+      "source": "https://en.wikipedia.org/wiki/Pac-12_Conference%2C_originally_the_Pacific_Coast_Conference"
+    },
+    {
+      "text": "Joe Paterno won 409 games at Penn State, though some victories were later vacated due to NCAA sanctions.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Joe_Paterno"
+    },
+    {
+      "text": "Michigan's winged helmet design, introduced by Fritz Crisler in 1938, is one of the most iconic in all of sports.",
+      "source": "https://en.wikipedia.org/wiki/Michigan%27s_winged_helmet_design"
+    },
+    {
+      "text": "The Orange Bowl has been played in the Miami area since 1935 and has hosted numerous national championship games.",
+      "source": "https://en.wikipedia.org/wiki/Orange_Bowl"
+    },
+    {
+      "text": "Urban Meyer went 187–32 as a head coach, winning three national championships at Florida and Ohio State.",
+      "source": "https://en.wikipedia.org/wiki/Urban_Meyer"
+    },
+    {
+      "text": "LSU's tradition of playing 'Neck' by Cameo after big plays was famously banned by the university but still chanted by fans.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/LSU%27s_tradition_of_playing_%27Neck%27_by_Cameo_after_big_plays"
+    },
+    {
+      "text": "The Cotton Bowl Classic was first played in 1937 and was long associated with the Southwest Conference champion.",
+      "source": "https://en.wikipedia.org/wiki/Cotton_Bowl_Classic"
+    },
+    {
+      "text": "The Yale Bulldogs have won the most national championships in college football history, though most came in the sport's earliest era.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Yale_Bulldogs"
+    },
+    {
+      "text": "Harvard and Yale's rivalry, known as 'The Game,' has been played since 1875, making it one of the oldest in college football.",
+      "month": 11,
+      "day": 22,
+      "source": "https://en.wikipedia.org/wiki/Harvard_and_Yale%27s_rivalry%2C_known_as_%27The_Game"
+    },
+    {
+      "text": "Alabama's Crimson Tide nickname reportedly originated from a 1907 newspaper account describing the team's muddy red jerseys.",
+      "source": "https://en.wikipedia.org/wiki/Alabama%27s_Crimson_Tide"
+    },
+    {
+      "text": "Dabo Swinney led Clemson to two national championships in 2016 and 2018, transforming the program into a powerhouse.",
+      "source": "https://en.wikipedia.org/wiki/Dabo_Swinney"
+    },
+    {
+      "text": "The Big Ten Conference, despite its name, has had varying numbers of member schools throughout its history, currently exceeding 14.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Big_Ten_Conference%2C_despite_its_name"
+    },
+    {
+      "text": "Oklahoma's Sooner Schooner, a Conestoga wagon pulled by ponies, charges onto the field after every Sooner score.",
+      "source": "https://en.wikipedia.org/wiki/Oklahoma%27s_Sooner_Schooner"
+    },
+    {
+      "text": "The 1971 'Game of the Century' between Nebraska and Oklahoma drew massive national attention, with Nebraska winning 35–31.",
+      "month": 11,
+      "day": 25,
+      "source": "https://en.wikipedia.org/wiki/1971"
+    },
+    {
+      "text": "Florida State's Chief Osceola plants a flaming spear at midfield before every home game, a tradition since 1978.",
+      "source": "https://en.wikipedia.org/wiki/Florida_State%27s_Chief_Osceola"
+    },
+    {
+      "text": "The 2006 Rose Bowl between Texas and USC is widely regarded as one of the greatest college football games ever played.",
+      "month": 1,
+      "day": 4,
+      "source": "https://en.wikipedia.org/wiki/2006_Rose_Bowl_between_Texas_and_USC"
+    },
+    {
+      "text": "Kirby Smart won the national championship at Georgia in 2021, ending a 41-year drought for the Bulldogs.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Kirby_Smart"
+    },
+    {
+      "text": "Notre Dame remains the only major program to maintain its independence from a football conference as of the early 2020s.",
+      "source": "https://en.wikipedia.org/wiki/Notre_Dame"
+    },
+    {
+      "text": "The Heisman Trophy is named after John Heisman, a pioneering coach who helped establish the forward pass as a fundamental part of the game.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Heisman_Trophy"
+    },
+    {
+      "text": "Tennessee's tradition of running through the 'T' formed by the Pride of the Southland Marching Band has been a pregame staple since 1965.",
+      "source": "https://en.wikipedia.org/wiki/Tennessee%27s_tradition_of_running_through_the_%27T"
+    },
+    {
+      "text": "Cal's 'The Play' in 1982 featured five laterals on the kickoff return, with the final ball carrier plowing through Stanford's band in the end zone.",
+      "month": 11,
+      "day": 20,
+      "source": "https://en.wikipedia.org/wiki/Play"
+    },
+    {
+      "text": "The Big 12 Conference was formed in 1996 from a merger of the Big Eight and four Southwest Conference schools.",
+      "source": "https://en.wikipedia.org/wiki/Big_12_Conference"
+    },
+    {
+      "text": "USC has produced more NFL first-round draft picks than any other school in college football history.",
+      "source": "https://en.wikipedia.org/wiki/USC"
+    },
+    {
+      "text": "The Forward Pass was legalized in 1906 to reduce the brutality of the game after 18 players died during the 1905 season.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Forward_Pass"
+    },
+    {
+      "text": "Wisconsin's 'Jump Around' tradition at Camp Randall Stadium, where fans jump to House of Pain's hit, registers on seismographs.",
+      "source": "https://en.wikipedia.org/wiki/Jump_Around"
+    },
+    {
+      "text": "The ACC was founded in 1953 and has grown from its original seven members to become one of the largest conferences in college football.",
+      "source": "https://en.wikipedia.org/wiki/ACC"
+    },
+    {
+      "text": "Tim Tebow became the first sophomore to win the Heisman Trophy in 2007.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Tim_Tebow"
+    },
+    {
+      "text": "Ohio State's Buckeye nickname comes from the Ohio buckeye tree, and players earn buckeye leaf stickers on their helmets for big plays.",
+      "source": "https://en.wikipedia.org/wiki/Ohio_State%27s_Buckeye"
+    },
+    {
+      "text": "The 2018 College Football Playoff National Championship saw Alabama defeat Georgia 26–23 in overtime on a walk-off touchdown pass.",
+      "month": 1,
+      "day": 8,
+      "source": "https://en.wikipedia.org/wiki/2018_College_Football_Playoff_National_Championship"
+    },
+    {
+      "text": "Auburn's Toomer's Corner, where fans roll the oak trees with toilet paper after victories, is one of college football's quirkiest traditions.",
+      "source": "https://en.wikipedia.org/wiki/Auburn%27s_Toomer%27s_Corner%2C_where_fans_roll_the_oak_trees_with_toilet_paper_after_victories"
+    },
+    {
+      "text": "The first nationally televised college football game was the 1952 matchup between Notre Dame and Penn.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/first_nationally_televised_college_football_game"
+    },
+    {
+      "text": "Clemson's Death Valley got its nickname because Presbyterian College coach Lonnie McMilllan said his team was going to 'Death Valley' before playing there.",
+      "source": "https://en.wikipedia.org/wiki/Clemson%27s_Death_Valley"
+    },
+    {
+      "text": "The Peach Bowl, now the Chick-fil-A Peach Bowl, was first played in 1968 and became a major bowl in the College Football Playoff rotation.",
+      "source": "https://en.wikipedia.org/wiki/Peach_Bowl%2C_now_the_Chick-fil-A_Peach_Bowl"
+    },
+    {
+      "text": "Alabama has the most appearances in the AP Poll's final No. 1 ranking, reflecting its sustained dominance over decades.",
+      "source": "https://en.wikipedia.org/wiki/Alabama"
+    },
+    {
+      "text": "The Michigan Wolverines have won the most games in college football history with over 1,000 victories.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Michigan_Wolverines"
+    },
+    {
+      "text": "Georgia's 'Between the Hedges' refers to the privet hedges that have surrounded Sanford Stadium's playing field since 1929.",
+      "source": "https://en.wikipedia.org/wiki/Georgia%27s_%27Between_the_Hedges%27_refers_to_the_privet_hedges_that"
+    },
+    {
+      "text": "The BCS (Bowl Championship Series) determined the national champion from 1998 to 2013 using a combination of polls and computer rankings.",
+      "source": "https://en.wikipedia.org/wiki/BCS"
+    },
+    {
+      "text": "The 1994 Penn State team went 12–0 but was denied a share of the national championship under the bowl coalition system, fueling calls for a playoff.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/1994_Penn_State_team_went_12%E2%80%930_but"
+    },
+    {
+      "text": "Texas's Bevo, a longhorn steer mascot, has attended Longhorn games since 1916 and is one of the most famous live mascots in sports.",
+      "source": "https://en.wikipedia.org/wiki/Texas%27s_Bevo%2C_a_longhorn_steer_mascot"
+    },
+    {
+      "text": "Vince Young's game-winning touchdown run in the 2006 Rose Bowl capped a comeback against USC and is one of the most replayed plays in college football.",
+      "month": 1,
+      "day": 4,
+      "source": "https://en.wikipedia.org/wiki/Vince_Young%27s_game-winning_touchdown"
+    },
+    {
+      "text": "The first College Football Hall of Fame was established in 1951 and is currently located in Atlanta, Georgia.",
+      "source": "https://en.wikipedia.org/wiki/first_College_Football_Hall_of_Fame"
+    },
+    {
+      "text": "Oklahoma has the most conference championships in college football history, largely accumulated during their Big Eight and Big 12 eras.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Oklahoma"
+    },
+    {
+      "text": "The 'War Eagle' battle cry of Auburn is separate from their Tigers nickname—Auburn is the only school with two such distinct traditions.",
+      "source": "https://en.wikipedia.org/wiki/%27War_Eagle%27_battle_cry_of_Auburn"
+    },
+    {
+      "text": "The Fiesta Bowl was first played in 1971 and rose to national prominence by hosting several memorable championship matchups.",
+      "source": "https://en.wikipedia.org/wiki/Fiesta_Bowl"
+    },
+    {
+      "text": "Bear Bryant's houndstooth hat became so iconic that it is displayed in the Paul W. Bryant Museum at the University of Alabama.",
+      "source": "https://en.wikipedia.org/wiki/Bear_Bryant%27s_houndstooth_hat"
+    },
+    {
+      "text": "Mississippi State's cowbells are so disruptive that the SEC banned artificial noisemakers, though an exception was later granted.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Mississippi_State%27s_cowbells"
+    },
+    {
+      "text": "Stanford's mascot is the Cardinal (the color), not a cardinal bird, making it one of the most unusual team names in college sports.",
+      "source": "https://en.wikipedia.org/wiki/Stanford%27s_mascot"
+    },
+    {
+      "text": "The 1966 Notre Dame vs. Michigan State game, known as 'The Game of the Century,' ended in a controversial 10–10 tie.",
+      "month": 11,
+      "day": 19,
+      "source": "https://en.wikipedia.org/wiki/1966_Notre_Dame_vs._Michigan_State"
+    },
+    {
+      "text": "The College Football Playoff expanded to 12 teams starting with the 2024–25 season, featuring first-round games on campus.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/College_Football_Playoff"
+    },
+    {
+      "text": "Ralphie the Buffalo charges across the field before every Colorado home game, guided by a team of handlers.",
+      "source": "https://en.wikipedia.org/wiki/Ralphie_the_Buffalo"
+    },
+    {
+      "text": "The 2013 BCS National Championship Game saw Alabama defeat Notre Dame 42–14 in a dominant performance.",
+      "month": 1,
+      "day": 7,
+      "source": "https://en.wikipedia.org/wiki/2013_BCS_National_Championship_Game"
+    },
+    {
+      "text": "Reggie Bush's 2005 Heisman Trophy was vacated due to NCAA violations, the first time that had happened in the award's history.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Reggie_Bush%27s_2005_Heisman_Trophy"
+    },
+    {
+      "text": "Nebraska's sellout streak of home games stretches back to 1962, one of the longest in all of sports.",
+      "source": "https://en.wikipedia.org/wiki/College_Football"
+    },
+    {
+      "text": "Virginia Tech's 'Enter Sandman' entrance, where fans jump in unison to Metallica, creates a mini-earthquake effect at Lane Stadium.",
+      "source": "https://en.wikipedia.org/wiki/Virginia_Tech%27s"
+    },
+    {
+      "text": "The 2017 National Championship Game between Clemson and Alabama was decided by a last-second touchdown pass from Deshaun Watson.",
+      "month": 1,
+      "day": 9,
+      "source": "https://en.wikipedia.org/wiki/2017_National_Championship_Game_between_Clemson_and_Alabama"
+    },
+    {
+      "text": "The Southwest Conference, which included Texas, Texas A&M, and Arkansas, dissolved in 1996 due to financial and competitive imbalance.",
+      "source": "https://en.wikipedia.org/wiki/Southwest_Conference"
+    },
+    {
+      "text": "Eddie George won the 1995 Heisman Trophy at Ohio State after rushing for 1,927 yards and 24 touchdowns.",
+      "source": "https://en.wikipedia.org/wiki/Eddie_George"
+    },
+    {
+      "text": "The AP Poll has been ranking college football teams since 1936, making it the oldest continuous poll in the sport.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/AP_Poll"
+    },
+    {
+      "text": "Clemson's Hill and Howard's Rock were added to Memorial Stadium in 1942, and the team has run down the hill before games ever since.",
+      "source": "https://en.wikipedia.org/wiki/Clemson%27s_Hill_and_Howard%27s_Rock"
+    },
+    {
+      "text": "The Egg Bowl between Mississippi State and Ole Miss features the Golden Egg trophy, one of college football's most unique rivalry prizes.",
+      "source": "https://en.wikipedia.org/wiki/Egg_Bowl_between_Mississippi_State_and_Ole_Miss"
+    },
+    {
+      "text": "In 2007, Appalachian State defeated No. 5 Michigan 34–32, widely considered the greatest upset in college football history.",
+      "month": 9,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/Appalachian_State"
+    },
+    {
+      "text": "Notre Dame's 'Touchdown Jesus' mural on the Hesburgh Library is visible from inside the stadium and has become an iconic symbol.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Notre_Dame%27s_%27Touchdown_Jesus%27_mural_on_the_Hesburgh_Library"
+    },
+    {
+      "text": "Jim Thorpe, one of the greatest athletes ever, played football at the Carlisle Indian Industrial School and won the 1912 Olympic decathlon.",
+      "source": "https://en.wikipedia.org/wiki/Jim_Thorpe"
+    },
+    {
+      "text": "The 'Bluegrass Miracle' in 2002 saw LSU score on a 74-yard Hail Mary to defeat Kentucky 33–30.",
+      "month": 11,
+      "day": 9,
+      "source": "https://en.wikipedia.org/wiki/%27Bluegrass_Miracle"
+    },
+    {
+      "text": "Texas's 'Hook 'em Horns' hand sign was created by student Harley Clark in 1955 and has been a Longhorn staple ever since.",
+      "source": "https://en.wikipedia.org/wiki/Texas%27s_%27Hook_%27em_Horns%27_hand_sign"
+    },
+    {
+      "text": "The Rose Bowl Stadium in Pasadena, California, has hosted five Super Bowls in addition to its iconic college football bowl game.",
+      "source": "https://en.wikipedia.org/wiki/Rose_Bowl_Stadium_in_Pasadena%2C_California"
+    },
+    {
+      "text": "Barry Sanders rushed for 2,628 yards in a single season at Oklahoma State in 1988, an NCAA record that still stands.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Barry_Sanders"
+    },
+    {
+      "text": "Georgia Tech's Ramblin' Wreck, a 1930 Ford Model A Sport Coupe, leads the team onto the field before every home game.",
+      "source": "https://en.wikipedia.org/wiki/Georgia_Tech%27s_Ramblin%27_Wreck"
+    },
+    {
+      "text": "The first overtime game in college football under the current rules occurred in 1996 after the NCAA adopted the overtime format.",
+      "source": "https://en.wikipedia.org/wiki/College_Football"
+    },
+    {
+      "text": "Nick Saban's coaching tree includes multiple head coaches across the NFL and college football, spreading his defensive philosophy nationwide.",
+      "source": "https://en.wikipedia.org/wiki/Nick_Saban%27s_coaching_tree"
+    },
+    {
+      "text": "Oregon's Phil Knight and Nike connection has given the Ducks some of the most creative and varied uniforms in college football.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Oregon%27s_Phil_Knight_and_Nike_connection"
+    },
+    {
+      "text": "The 2005 Rose Bowl between Texas and Michigan is remembered for Texas's 38–37 come-from-behind victory.",
+      "month": 1,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/2005_Rose_Bowl_between_Texas_and_Michigan"
+    },
+    {
+      "text": "The concept of 'homecoming' originated in college football, with the University of Missouri claiming to have held the first homecoming in 1911.",
+      "source": "https://en.wikipedia.org/wiki/University_of_Missouri"
+    },
+    {
+      "text": "Johnny Manziel became the first freshman to win the Heisman Trophy in 2012, earning the nickname 'Johnny Football.'",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Johnny_Manziel"
+    },
+    {
+      "text": "Peyton Manning, despite a stellar career at Tennessee, never won a national championship with the Volunteers.",
+      "source": "https://en.wikipedia.org/wiki/Peyton_Manning%2C_despite_a_stellar_career_at_Tennessee%2C_never"
+    },
+    {
+      "text": "The 'Immaculate Deflection' in the 2018 SEC Championship helped Georgia's Kirby Smart cement his program's rise.",
+      "source": "https://en.wikipedia.org/wiki/%27Immaculate_Deflection%27_in_the_2018_SEC_Championship"
+    },
+    {
+      "text": "Ohio State and Michigan have met every year since 1918, with only wartime interrupting the earlier years of the rivalry.",
+      "source": "https://en.wikipedia.org/wiki/Ohio_State_and_Michigan"
+    },
+    {
+      "text": "The Coaches Poll, run by the American Football Coaches Association, has been a fixture since 1950.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Coaches_Poll%2C_run_by_the_American_Football_Coaches_Association"
+    },
+    {
+      "text": "The 1979 Sugar Bowl featured No. 1 Penn State vs. No. 2 Alabama, with Alabama winning 14–7 for the national title.",
+      "month": 1,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/1979_Sugar_Bowl"
+    },
+    {
+      "text": "Miami's 'Turnover Chain,' introduced in 2017, became one of the most imitated sideline celebrations in college football.",
+      "source": "https://en.wikipedia.org/wiki/Miami%27s_%27Turnover_Chain"
+    },
+    {
+      "text": "LSU's live tiger mascot Mike has been a tradition since 1936, and the tiger's habitat sits adjacent to Tiger Stadium.",
+      "source": "https://en.wikipedia.org/wiki/LSU%27s_live_tiger_mascot_Mike"
+    },
+    {
+      "text": "The first night game in college football was played in 1892 between Wyoming Seminary and Mansfield State.",
+      "source": "https://en.wikipedia.org/wiki/first_night_game_in_college_football"
+    },
+    {
+      "text": "Troy Smith won the 2006 Heisman Trophy at Ohio State in one of the most lopsided votes in the award's history.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Troy_Smith"
+    },
+    {
+      "text": "The Bayou Classic between Grambling State and Southern University is the premier HBCU football rivalry game.",
+      "source": "https://en.wikipedia.org/wiki/Bayou_Classic_between_Grambling_State_and_Southern_University"
+    },
+    {
+      "text": "Wisconsin's Camp Randall Stadium is built on the site of a Civil War training camp, making it one of the most historic venues in the sport.",
+      "source": "https://en.wikipedia.org/wiki/Wisconsin%27s_Camp_Randall_Stadium"
+    },
+    {
+      "text": "The 2003 Fiesta Bowl saw Ohio State defeat Miami 31–24 in double overtime to win the BCS National Championship.",
+      "month": 1,
+      "day": 3,
+      "source": "https://en.wikipedia.org/wiki/2003_Fiesta_Bowl"
+    },
+    {
+      "text": "The 'Bush Push' in the 2005 USC–Notre Dame game saw Reggie Bush push Matt Leinart into the end zone for the winning score.",
+      "month": 10,
+      "day": 15,
+      "source": "https://en.wikipedia.org/wiki/%27Bush_Push%27_in_the_2005_USC%E2%80%93Notre_Dame_game"
+    },
+    {
+      "text": "Florida's 'Mr. Two Bits' led the Gator crowd in a cheering tradition from 1949 to 2008.",
+      "source": "https://en.wikipedia.org/wiki/Mr._Two_Bits"
+    },
+    {
+      "text": "The 1984 Orange Bowl saw Miami upset top-ranked Nebraska 31–30, launching the Hurricanes dynasty.",
+      "month": 1,
+      "day": 2,
+      "source": "https://en.wikipedia.org/wiki/1984_Orange_Bowl"
+    },
+    {
+      "text": "Lamar Jackson became Louisville's first Heisman Trophy winner in 2016 with a spectacular dual-threat season.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Lamar_Jackson"
+    },
+    {
+      "text": "The 'Surrender Cobra,' the hands-on-head gesture of disbelief, became an internet sensation thanks to college football broadcasts.",
+      "source": "https://en.wikipedia.org/wiki/%27Surrender_Cobra%2C%27_the_hands-on-head_gesture_of_disbelief"
+    },
+    {
+      "text": "College GameDay, ESPN's flagship Saturday morning show, has been broadcasting live from campuses since 1993.",
+      "source": "https://en.wikipedia.org/wiki/College_GameDay%2C_ESPN%27s_flagship_Saturday_morning_show"
+    },
+    {
+      "text": "The 'Miracle on the Plains' in 2013 saw Auburn's Nick Marshall throw a tipped pass that was caught for a 73-yard touchdown against Georgia.",
+      "month": 11,
+      "day": 16,
+      "source": "https://en.wikipedia.org/wiki/%27Miracle_on_the_Plains"
+    },
+    {
+      "text": "The SEC has won more national championships in the 21st century than any other conference.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/SEC"
+    },
+    {
+      "text": "Army and Navy's football rivalry has featured the 'Commander-in-Chief's Trophy' since 1972, also including Air Force.",
+      "source": "https://en.wikipedia.org/wiki/Army_and_Navy%27s_football_rivalry"
+    },
+    {
+      "text": "The 2002 Ohio State Buckeyes went 14–0 to win the national championship, the first team to play 14 games in a season.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/2002_Ohio_State_Buckeyes"
+    },
+    {
+      "text": "Texas's 'Big Bertha' bass drum, introduced in 1955, was once the world's largest bass drum used by a university band.",
+      "source": "https://en.wikipedia.org/wiki/Texas%27s_%27Big_Bertha%27_bass_drum"
+    },
+    {
+      "text": "Florida State went wire-to-wire at No. 1 in 1999, winning every game to capture the national title.",
+      "source": "https://en.wikipedia.org/wiki/Florida_State"
+    },
+    {
+      "text": "The Manning family—Archie, Peyton, and Eli—all played college football at Ole Miss or Tennessee, becoming football royalty.",
+      "source": "https://en.wikipedia.org/wiki/Manning"
+    },
+    {
+      "text": "The ACC added Notre Dame as a partial member in 2013, though the Fighting Irish retained football independence.",
+      "source": "https://en.wikipedia.org/wiki/ACC"
+    },
+    {
+      "text": "In 1982, Herschel Walker won the Heisman Trophy as a junior at Georgia and then left for the USFL.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Herschel_Walker"
+    },
+    {
+      "text": "The tradition of tailgating before college football games is deeply rooted in American culture and dates to the mid-19th century.",
+      "source": "https://en.wikipedia.org/wiki/tradition_of_tailgating_before_college_football_games"
+    },
+    {
+      "text": "Mike Leach popularized the 'Air Raid' offense at Texas Tech and later Washington State, revolutionizing passing in college football.",
+      "source": "https://en.wikipedia.org/wiki/Mike_Leach"
+    },
+    {
+      "text": "The 2000 Orange Bowl featured Tom Brady's Michigan team losing to Alabama 35–34 in overtime.",
+      "month": 1,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/2000_Orange_Bowl"
+    },
+    {
+      "text": "The first forward pass in a college football game is often credited to Bradbury Robinson of Saint Louis University in 1906.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/first_forward_pass_in_a_college_football_game"
+    },
+    {
+      "text": "Death Valley, LSU's Tiger Stadium, once registered a seismic event during a game, caused by fans cheering a big play.",
+      "source": "https://en.wikipedia.org/wiki/Death_Valley"
+    },
+    {
+      "text": "Deshaun Watson threw for 420 yards in the 2017 National Championship Game, leading Clemson to a 35–31 win over Alabama.",
+      "month": 1,
+      "day": 9,
+      "source": "https://en.wikipedia.org/wiki/Deshaun_Watson"
+    },
+    {
+      "text": "Ohio State's 'Buckeye Battle Cry' and 'Hang On Sloopy' are among the most beloved stadium anthems in the sport.",
+      "source": "https://en.wikipedia.org/wiki/Ohio_State%27s_%27Buckeye_Battle_Cry%27_and_%27Hang_On_Sloopy"
+    },
+    {
+      "text": "The wishbone offense, popularized by Texas and Oklahoma in the 1970s, transformed college football strategy.",
+      "source": "https://en.wikipedia.org/wiki/Texas_and_Oklahoma_in_the"
+    },
+    {
+      "text": "Marcus Allen won the 1981 Heisman Trophy at USC after setting the NCAA single-season rushing record with 2,342 yards.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Marcus_Allen"
+    },
+    {
+      "text": "Baylor's rise under Art Briles saw the Bears win Big 12 titles in 2013 and 2014 after decades of mediocrity.",
+      "source": "https://en.wikipedia.org/wiki/Baylor%27s_rise_under_Art_Briles"
+    },
+    {
+      "text": "The Territorial Cup between Arizona and Arizona State is the oldest rivalry trophy in college football, dating to 1899.",
+      "source": "https://en.wikipedia.org/wiki/Territorial_Cup_between_Arizona_and_Arizona_State"
+    },
+    {
+      "text": "Ricky Williams broke Tony Dorsett's career rushing record at Texas in 1998 and won the Heisman Trophy that season.",
+      "source": "https://en.wikipedia.org/wiki/Ricky_Williams_broke_Tony_Dorsett%27s_career_rushing_record_at_Texas_in_1998_and"
+    },
+    {
+      "text": "The 'Philly Special,' though famous from the NFL, was inspired by a play Clemson ran in a college game.",
+      "source": "https://en.wikipedia.org/wiki/%27Philly_Special%2C%27_though_famous_from_the_NFL"
+    },
+    {
+      "text": "The Fighting Irish of Notre Dame get their nickname from the school's Irish-Catholic heritage and the fighting spirit of their early teams.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Fighting_Irish_of_Notre_Dame"
+    },
+    {
+      "text": "The Heisman Trophy weighs approximately 25 pounds and depicts a player in a stiff-arm pose.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Heisman_Trophy"
+    },
+    {
+      "text": "The first black player to win the Heisman Trophy was Ernie Davis of Syracuse in 1961.",
+      "month": 12,
+      "day": 6,
+      "source": "https://en.wikipedia.org/wiki/first_black_player_to_win_the_Heisman_Trophy"
+    },
+    {
+      "text": "Clemson's tradition of releasing balloons after the first score of a home game was eventually discontinued for environmental reasons.",
+      "source": "https://en.wikipedia.org/wiki/Clemson%27s_tradition_of_releasing_balloons_after_the_first_score_of_a_home_game"
+    },
+    {
+      "text": "The 1945 Army-Navy game drew over 100,000 fans to Municipal Stadium in Philadelphia.",
+      "month": 12,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/1945_Army-Navy"
+    },
+    {
+      "text": "Florida won back-to-back national championships in 2006 and 2008 under Urban Meyer, with Tim Tebow starring in the second.",
+      "source": "https://en.wikipedia.org/wiki/Florida"
+    },
+    {
+      "text": "The Crimson Tide's elephant mascot, Big Al, has been a fixture of Alabama football since 1979.",
+      "source": "https://en.wikipedia.org/wiki/Crimson_Tide%27s_elephant_mascot%2C_Big_Al"
+    },
+    {
+      "text": "The oldest college football stadium still in use is Franklin Field at Penn, opened in 1895.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/oldest_college_football_stadium_still_in_use"
+    },
+    {
+      "text": "The 'Goal Line Stand' in the 1979 Sugar Bowl, where Alabama stopped Penn State four times from the one-yard line, is legendary.",
+      "month": 1,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/Goal_Line_Stand%27_in_the_1979_Sugar_Bowl"
+    },
+    {
+      "text": "Kirk Herbstreit and Lee Corso have become the most recognized analysts in college football through their roles on ESPN's GameDay.",
+      "source": "https://en.wikipedia.org/wiki/Kirk_Herbstreit_and_Lee_Corso"
+    },
+    {
+      "text": "Nebraska's 1995 team, which went 12–0 and outscored opponents by an average of 38 points per game, is considered one of the greatest ever.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Nebraska%27s_1995"
+    },
+    {
+      "text": "The 'Wide Right' series of missed Florida State field goals against Miami in the late 1980s and early 1990s defined the rivalry.",
+      "source": "https://en.wikipedia.org/wiki/Wide_Right"
+    },
+    {
+      "text": "Colorado's 1990 national championship was controversial, as the Buffaloes were awarded a 'fifth down' in a key win over Missouri.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Colorado%27s_1990_national_championship"
+    },
+    {
+      "text": "The first instant replay review in college football was used during the 2006 season.",
+      "source": "https://en.wikipedia.org/wiki/first_instant_replay_review_in_college_football"
+    },
+    {
+      "text": "Oklahoma's 1956 team under Bud Wilkinson outscored opponents 466–51 during a perfect 10–0 season.",
+      "source": "https://en.wikipedia.org/wiki/Oklahoma%27s_1956"
+    },
+    {
+      "text": "The 'Bluebonnet Bowl,' once a major postseason game in Houston, was discontinued after the 1987 season.",
+      "source": "https://en.wikipedia.org/wiki/%27Bluebonnet_Bowl%2C%27_once_a_major_postseason_game_in_Houston"
+    },
+    {
+      "text": "The 2011 BCS National Championship saw Alabama and LSU play for a second time that season, a controversial rematch that Alabama won 21–0.",
+      "month": 1,
+      "day": 9,
+      "source": "https://en.wikipedia.org/wiki/2011_BCS_National_Championship"
+    },
+    {
+      "text": "Cam Newton won the 2010 Heisman Trophy and led Auburn to a national championship in the same season.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Cam_Newton"
+    },
+    {
+      "text": "Michigan's 'Go Blue' chant and The Victors fight song are considered among the most iconic in college football.",
+      "source": "https://en.wikipedia.org/wiki/Michigan%27s_%27Go_Blue%27_chant_and_The_Victors_fight_song"
+    },
+    {
+      "text": "The concept of scholarship limits in college football was introduced to create competitive balance among programs.",
+      "source": "https://en.wikipedia.org/wiki/concept_of_scholarship_limits_in_college_football"
+    },
+    {
+      "text": "In the 2007 season, No. 1 and No. 2 ranked teams lost on the same weekend a record-tying four times.",
+      "source": "https://en.wikipedia.org/wiki/In_the_2007"
+    },
+    {
+      "text": "College football's overtime rules differ from the NFL, with each team getting a possession from the opponent's 25-yard line.",
+      "source": "https://en.wikipedia.org/wiki/College_Football"
+    },
+    {
+      "text": "The 'Sooner Magic' at Oklahoma refers to the program's history of dramatic comebacks and last-minute victories.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Sooner_Magic%27_at_Oklahoma"
+    },
+    {
+      "text": "Deion Sanders played both football and baseball at Florida State, excelling in both sports simultaneously.",
+      "source": "https://en.wikipedia.org/wiki/Deion_Sanders"
+    },
+    {
+      "text": "Southern Cal's 'Traveler,' a white horse ridden by a Trojan warrior, has circled the Coliseum after touchdowns since 1961.",
+      "source": "https://en.wikipedia.org/wiki/Southern_Cal%27s_%27Traveler%2C%27_a_white_horse_ridden_by_a_Trojan_warrior"
+    },
+    {
+      "text": "The 2009 Texas–Nebraska Big 12 Championship Game ended on a controversial replay review of a last-second field goal with one second added.",
+      "month": 12,
+      "day": 5,
+      "source": "https://en.wikipedia.org/wiki/2009_Texas"
+    },
+    {
+      "text": "Penn State's all-white home uniforms with no names on the back reflect Joe Paterno's philosophy that the team is bigger than any individual.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Penn_State%27s"
+    },
+    {
+      "text": "Charles Woodson became the first primarily defensive player to win the Heisman Trophy in 1997 at Michigan.",
+      "source": "https://en.wikipedia.org/wiki/Charles_Woodson"
+    },
+    {
+      "text": "The 'Gator Bowl' in Jacksonville, Florida, has been played since 1946 and was one of the early bowl games outside the Big Four.",
+      "source": "https://en.wikipedia.org/wiki/%27Gator_Bowl%27_in_Jacksonville%2C_Florida"
+    },
+    {
+      "text": "Alabama's dynasty under Saban from 2009 to 2020 included six national titles and is unmatched in the modern era.",
+      "source": "https://en.wikipedia.org/wiki/Alabama%27s_dynasty_under_Saban_from_2009_to_2020_included_six_national_titles_and"
+    },
+    {
+      "text": "The 'Little Brown Jug' is the trophy awarded to the winner of the Michigan–Minnesota rivalry, dating to 1903.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/%27Little_Brown_Jug"
+    },
+    {
+      "text": "The 1992 'Snow Bowl' between Notre Dame and Penn State was played in a blizzard, with Notre Dame winning 17–16.",
+      "source": "https://en.wikipedia.org/wiki/1992_%27Snow_Bowl%27_between_Notre_Dame_and_Penn_State"
+    },
+    {
+      "text": "Bo Jackson won the 1985 Heisman Trophy at Auburn and went on to become a two-sport professional star in football and baseball.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Bo_Jackson"
+    },
+    {
+      "text": "Florida State's Warchant, accompanied by the tomahawk chop, has been one of the most recognizable traditions in college football since the 1980s.",
+      "source": "https://en.wikipedia.org/wiki/Florida_State%27s_Warchant%2C_accompanied_by_the_tomahawk_chop"
+    },
+    {
+      "text": "The 2023 National Championship game saw Georgia defeat TCU 65–7, one of the most lopsided title games ever.",
+      "month": 1,
+      "day": 9,
+      "source": "https://en.wikipedia.org/wiki/2023_National_Championship_game"
+    },
+    {
+      "text": "The number of bowl games has grown from just four in the 1940s to over 40 in the modern era.",
+      "source": "https://en.wikipedia.org/wiki/number_of_bowl_games"
+    },
+    {
+      "text": "The 'Palmetto Bowl' between Clemson and South Carolina has been played since 1896 and is a fierce in-state rivalry.",
+      "source": "https://en.wikipedia.org/wiki/%27Palmetto_Bowl%27_between_Clemson_and_South_Carolina"
+    },
+    {
+      "text": "Kyler Murray won the 2018 Heisman Trophy at Oklahoma and was later the No. 1 overall pick in the 2019 NFL Draft.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Kyler_Murray"
+    },
+    {
+      "text": "The 2015 Michigan State–Michigan game ended on a botched punt, with Michigan State's Jalen Watts-Jackson returning it for a touchdown on the last play.",
+      "month": 10,
+      "day": 17,
+      "source": "https://en.wikipedia.org/wiki/2015_Michigan_State"
+    },
+    {
+      "text": "The 'Cy-Hawk Trophy' is awarded to the winner of the Iowa–Iowa State rivalry game.",
+      "source": "https://en.wikipedia.org/wiki/%27Cy-Hawk_Trophy"
+    },
+    {
+      "text": "Ohio State's 2014 national championship team won the first-ever College Football Playoff with their third-string quarterback Cardale Jones.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Ohio_State%27s_2014_national_championship_team"
+    },
+    {
+      "text": "Colorado's Ralphie V served as the live buffalo mascot from 2008 to 2019, continuing a tradition dating back to 1934.",
+      "source": "https://en.wikipedia.org/wiki/Colorado%27s_Ralphie_V"
+    },
+    {
+      "text": "The 1926 Rose Bowl featured Alabama dismantling Washington 20–19, putting Southern football on the national map.",
+      "month": 1,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/1926_Rose_Bowl"
+    },
+    {
+      "text": "Ara Parseghian rebuilt Notre Dame football in the 1960s, winning two consensus national titles during his tenure.",
+      "source": "https://en.wikipedia.org/wiki/Ara_Parseghian"
+    },
+    {
+      "text": "The 'Red River Showdown' between Texas and Oklahoma splits the Cotton Bowl stadium 50–50, with each side wearing their team's colors.",
+      "source": "https://en.wikipedia.org/wiki/Red_River_Showdown"
+    },
+    {
+      "text": "Desmond Howard's iconic Heisman pose after a punt return touchdown against Ohio State in 1991 became one of college football's defining images.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Desmond_Howard%27s_iconic_Heisman_pose_after_a_punt_return_touchdown_against_Ohio_State"
+    },
+    {
+      "text": "The 2016 Clemson–Alabama National Championship was decided 35–31, widely considered one of the best title games in CFP history.",
+      "month": 1,
+      "day": 11,
+      "source": "https://en.wikipedia.org/wiki/2016_Clemson%E2%80%93Alabama_National_Championship"
+    },
+    {
+      "text": "Notre Dame's golden dome and the Word of Life mural (Touchdown Jesus) are among the most photographed landmarks in college football.",
+      "source": "https://en.wikipedia.org/wiki/Notre_Dame%27s_golden_dome_and_the_Word_of_Life_mural_(Touchdown_Jesus)"
+    },
+    {
+      "text": "The transfer portal, introduced in 2018, fundamentally changed how players move between programs in college football.",
+      "source": "https://en.wikipedia.org/wiki/transfer_portal"
+    },
+    {
+      "text": "USC's 2004 team, which went 13–0 and won the BCS title, later had its championship vacated due to NCAA violations.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/USC%27s_2004_team%2C_which_went_13%E2%80%930_and"
+    },
+    {
+      "text": "The 'Horns Down' gesture by opposing fans toward Texas has become one of the more controversial taunts in Big 12 football.",
+      "source": "https://en.wikipedia.org/wiki/%27Horns_Down%27_gesture_by_opposing_fans_toward_Texas"
+    },
+    {
+      "text": "Miami's five national championships between 1983 and 2001 established the Hurricanes as a modern dynasty.",
+      "source": "https://en.wikipedia.org/wiki/College_Football"
+    },
+    {
+      "text": "The 1988 Notre Dame team went 12–0 and won the national championship under Lou Holtz, the last title for the Irish.",
+      "source": "https://en.wikipedia.org/wiki/1988_Notre_Dame_team_went_12%E2%80%930_and"
+    },
+    {
+      "text": "College football teams in the FBS are allowed 85 scholarship players, a limit established by the NCAA.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/College_football_teams_in_the_FBS"
+    },
+    {
+      "text": "LSU's 2019 team, led by Joe Burrow, went 15–0 and is considered by many to be the greatest college football team of all time.",
+      "source": "https://en.wikipedia.org/wiki/LSU%27s_2019_team%2C_led_by_Joe_Burrow%2C_went_15%E2%80%930_and"
+    },
+    {
+      "text": "Joe Burrow won the 2019 Heisman Trophy in a historic landslide, receiving the highest percentage of first-place votes ever.",
+      "month": 12,
+      "day": 14,
+      "source": "https://en.wikipedia.org/wiki/Joe_Burrow"
+    },
+    {
+      "text": "The 'Backyard Brawl' between Pittsburgh and West Virginia is one of the most intense rivalries in the eastern United States.",
+      "source": "https://en.wikipedia.org/wiki/%27Backyard_Brawl%27_between_Pittsburgh_and_West_Virginia"
+    },
+    {
+      "text": "The SEC Championship Game has been played in Atlanta since 1992 and often has national title implications.",
+      "source": "https://en.wikipedia.org/wiki/SEC_Championship_Game"
+    },
+    {
+      "text": "Texas Tech's 'Guns Up' hand sign was adopted in 1971 to represent the Red Raiders' dual-pistol logo.",
+      "source": "https://en.wikipedia.org/wiki/Texas_Tech%27s_%27Guns_Up%27_hand_sign"
+    },
+    {
+      "text": "The 1969 'Game of the Century' between Texas and Arkansas was attended by President Richard Nixon, who controversially declared Texas No. 1.",
+      "month": 12,
+      "day": 6,
+      "source": "https://en.wikipedia.org/wiki/1969_%27Game_of_the_Century%27_between_Texas_and_Arkansas"
+    },
+    {
+      "text": "Pat Tillman played safety for Arizona State before joining the U.S. Army after the September 11 attacks, making the ultimate sacrifice.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Pat_Tillman"
+    },
+    {
+      "text": "The Navy Midshipmen have played their games at various venues, but Navy-Marine Corps Memorial Stadium in Annapolis has been their home since 1959.",
+      "source": "https://en.wikipedia.org/wiki/Navy_Midshipmen"
+    },
+    {
+      "text": "The 2019 LSU–Alabama game, won by LSU 46–41, was one of the highest-scoring matchups in the rivalry's history.",
+      "month": 11,
+      "day": 9,
+      "source": "https://en.wikipedia.org/wiki/2019_LSU%E2%80%93Alabama_game"
+    },
+    {
+      "text": "Walk-on players who earn scholarships, known as 'scholarship walk-ons,' are a beloved tradition in college football programs.",
+      "source": "https://en.wikipedia.org/wiki/Walk-on_players_who_earn_scholarships%2C_known_as_%27scholarship_walk-ons"
+    },
+    {
+      "text": "The 1985 Chicago Bears' dominant defense was led by several former college football standouts, including Mike Singletary from Baylor.",
+      "source": "https://en.wikipedia.org/wiki/1985_Chicago_Bears%27_dominant_defense"
+    },
+    {
+      "text": "The 'Horseshoe,' Ohio State's iconic stadium, opened in 1922 and has been expanded multiple times to its current capacity of over 100,000.",
+      "source": "https://en.wikipedia.org/wiki/%27Horseshoe%2C%27_Ohio_State%27s_iconic_stadium"
+    },
+    {
+      "text": "The 2008 national championship game saw Florida, led by Tim Tebow, dominate Oklahoma 24–14.",
+      "month": 1,
+      "day": 8,
+      "source": "https://en.wikipedia.org/wiki/2008_national_championship_game"
+    },
+    {
+      "text": "Danny Wuerffel won the 1996 Heisman Trophy at Florida while leading the Gators to a national title under Steve Spurrier.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Danny_Wuerffel"
+    },
+    {
+      "text": "The 'Iron Bowl' has been played at neutral sites and home stadiums throughout its history, adding to the rivalry's intrigue.",
+      "source": "https://en.wikipedia.org/wiki/%27Iron_Bowl"
+    },
+    {
+      "text": "Oklahoma State's 'Paddle People' fans wave orange paddles in the stands, creating a unique visual atmosphere.",
+      "source": "https://en.wikipedia.org/wiki/Oklahoma_State%27s"
+    },
+    {
+      "text": "The 2022 College Football Playoff saw Georgia repeat as national champions with a 65–7 demolition of TCU.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/2022_College_Football_Playoff"
+    },
+    {
+      "text": "The Sun Bowl in El Paso, Texas, is the second-oldest bowl game, first played in 1935.",
+      "source": "https://en.wikipedia.org/wiki/Sun_Bowl_in_El_Paso%2C_Texas"
+    },
+    {
+      "text": "Howard 'Hopalong' Cassady won the 1955 Heisman Trophy at Ohio State, earning his nickname for his elusive running style.",
+      "source": "https://en.wikipedia.org/wiki/Howard_%27Hopalong%27_Cassady"
+    },
+    {
+      "text": "Georgia's Sanford Stadium features a natural hedgerow that gives the field its famous 'Between the Hedges' nickname.",
+      "source": "https://en.wikipedia.org/wiki/Georgia%27s_Sanford_Stadium"
+    },
+    {
+      "text": "College football's targeting rule, introduced in 2013, was designed to reduce dangerous helmet-to-helmet hits.",
+      "source": "https://en.wikipedia.org/wiki/College_football%27s_targeting_rule"
+    },
+    {
+      "text": "The 2014 inaugural College Football Playoff National Championship saw Ohio State defeat Oregon 42–20.",
+      "month": 1,
+      "day": 12,
+      "source": "https://en.wikipedia.org/wiki/2014_inaugural_College_Football_Playoff_National_Championship"
+    },
+    {
+      "text": "The 'Land Grant Trophy' between Michigan State and Penn State has been widely mocked as one of the ugliest rivalry trophies.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/%27Land_Grant_Trophy%27_between_Michigan_State_and_Penn_State"
+    },
+    {
+      "text": "USC's 'Song Girls' are cheerleaders who have been a Trojans sideline tradition since 1967.",
+      "source": "https://en.wikipedia.org/wiki/USC%27s_%27Song_Girls"
+    },
+    {
+      "text": "The annual spring game is a intrasquad scrimmage that gives fans their first look at the team before the fall season.",
+      "source": "https://en.wikipedia.org/wiki/annual_spring_game"
+    },
+    {
+      "text": "Charlie Ward won the 1993 Heisman Trophy at Florida State while also being a standout point guard for the basketball team.",
+      "source": "https://en.wikipedia.org/wiki/Charlie_Ward"
+    },
+    {
+      "text": "The first college football game played under lights at night occurred in 1892, long before night games became common.",
+      "source": "https://en.wikipedia.org/wiki/College_Football"
+    },
+    {
+      "text": "The Paul 'Bear' Bryant Award is given annually to the best coach in college football, named after the legendary Alabama coach.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Paul_%27Bear%27_Bryant_Award"
+    },
+    {
+      "text": "Oregon's Autzen Stadium is known for its deafening noise despite having a capacity under 55,000 due to its enclosed design.",
+      "source": "https://en.wikipedia.org/wiki/Oregon%27s_Autzen_Stadium"
+    },
+    {
+      "text": "Washington's Husky Stadium sits on the shores of Lake Washington, and fans often arrive by boat on game days.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Washington%27s_Husky_Stadium"
+    },
+    {
+      "text": "The 1987 Fiesta Bowl between Penn State and Miami, billed as a clash of styles, saw Penn State win the national championship 14–10.",
+      "month": 1,
+      "day": 2,
+      "source": "https://en.wikipedia.org/wiki/1987_Fiesta_Bowl_between_Penn_State_and_Miami%2C_billed_as_a_clash_of_styles"
+    },
+    {
+      "text": "The phrase 'student-athlete' was coined by the NCAA in the 1950s, and its meaning has been debated ever since.",
+      "source": "https://en.wikipedia.org/wiki/phrase_%27student-athlete"
+    },
+    {
+      "text": "Alabama's '4th and 31' conversion against Auburn in 2021 is remembered as one of the most improbable plays in rivalry history.",
+      "source": "https://en.wikipedia.org/wiki/Alabama%27s_%274th_and_31%27_conversion_against_Auburn_in_2021"
+    },
+    {
+      "text": "The 'Beamer Ball' philosophy at Virginia Tech under Frank Beamer emphasized special teams as a way to compete against more talented opponents.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Beamer_Ball"
+    },
+    {
+      "text": "The Citrus Bowl in Orlando, Florida, has been a New Year's Day staple since 1947 under various names.",
+      "source": "https://en.wikipedia.org/wiki/Citrus_Bowl_in_Orlando%2C_Florida"
+    },
+    {
+      "text": "Earl Campbell won the 1977 Heisman Trophy at Texas and became one of the most feared running backs in NFL history.",
+      "source": "https://en.wikipedia.org/wiki/Earl_Campbell"
+    },
+    {
+      "text": "The 'Kickoff Classic' was a preseason game played from 1983 to 2002 that often featured top-ranked teams.",
+      "source": "https://en.wikipedia.org/wiki/%27Kickoff_Classic"
+    },
+    {
+      "text": "Michigan State's 'Sparty' statue, a bronze figure of a Spartan warrior, has been a campus landmark since 1945.",
+      "source": "https://en.wikipedia.org/wiki/Michigan_State%27s_%27Sparty%27_statue%2C_a_bronze_figure_of_a_Spartan_warrior"
+    },
+    {
+      "text": "The 2007 Fiesta Bowl featured Boise State's hook-and-lateral and Statue of Liberty plays to upset Oklahoma in one of the greatest bowl games ever.",
+      "month": 1,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/2007_Fiesta_Bowl"
+    },
+    {
+      "text": "College football conferences receive revenue from television contracts worth billions of dollars, driving much of the sport's realignment.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/College_Football"
+    },
+    {
+      "text": "Auburn's 'War Eagle' flight, where a golden eagle soars around Jordan-Hare Stadium before games, is one of the most dramatic entrances in sports.",
+      "source": "https://en.wikipedia.org/wiki/War_Eagle"
+    },
+    {
+      "text": "The 'Victory Bell' is the rivalry trophy between UCLA and USC, painted in the winning team's colors each year.",
+      "source": "https://en.wikipedia.org/wiki/%27Victory_Bell"
+    },
+    {
+      "text": "The 'Palmetto State' rivalry between Clemson and South Carolina produces intense emotions throughout the state every November.",
+      "source": "https://en.wikipedia.org/wiki/Palmetto_State"
+    },
+    {
+      "text": "Roger Staubach won the 1963 Heisman Trophy as a junior at Navy before serving in the military and then starring in the NFL.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Roger_Staubach"
+    },
+    {
+      "text": "The 2010 'Cam-back' game saw Cam Newton rally Auburn from a 24–0 deficit to beat Alabama 28–27.",
+      "source": "https://en.wikipedia.org/wiki/2010_%27Cam-back%27_game"
+    },
+    {
+      "text": "Tommy Tuberville's Auburn team went undefeated in 2004 but was shut out of the BCS National Championship Game, fueling playoff debates.",
+      "source": "https://en.wikipedia.org/wiki/Tommy_Tuberville%27s_Auburn_team_went_undefeated_in_2004_but"
+    },
+    {
+      "text": "Manti Te'o's catfishing scandal at Notre Dame in 2013 became one of the biggest off-field stories in college football history.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Manti_Te%27o%27s_catfishing_scandal_at_Notre_Dame_in_2013"
+    },
+    {
+      "text": "The ACC's merger with several Pac-12 schools in the 2020s dramatically reshaped the conference landscape.",
+      "source": "https://en.wikipedia.org/wiki/ACC%27s"
+    },
+    {
+      "text": "The Biletnikoff Award is given annually to the best wide receiver in college football, named after Oakland Raiders legend Fred Biletnikoff.",
+      "source": "https://en.wikipedia.org/wiki/Biletnikoff_Award"
+    },
+    {
+      "text": "Steve Spurrier won the 1966 Heisman Trophy at Florida and later returned to coach the Gators to a national championship.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Steve_Spurrier"
+    },
+    {
+      "text": "Texas's 2005 national championship team went 13–0 with Vince Young, Cedric Benson, and a roster loaded with future NFL players.",
+      "source": "https://en.wikipedia.org/wiki/Texas%27s_2005"
+    },
+    {
+      "text": "The College Football Playoff selection committee, made up of 13 members, has been both praised and criticized for its ranking decisions.",
+      "source": "https://en.wikipedia.org/wiki/College_Football_Playoff_selection_committee%2C_made_up_of_13_members"
+    },
+    {
+      "text": "The 'Platoon System,' where different players play offense and defense, was popularized in the 1940s and changed the sport forever.",
+      "source": "https://en.wikipedia.org/wiki/%27Platoon_System%2C%27_where_different_players_play_offense_and_defense"
+    },
+    {
+      "text": "Georgia Tech's triple-option offense under Paul Johnson was one of the last remaining option-based schemes in major college football.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Georgia_Tech%27s_triple-option_offense_under_Paul_Johnson"
+    },
+    {
+      "text": "The 'Wally Pipp' story of college football involves numerous backup quarterbacks who stepped in and became stars.",
+      "source": "https://en.wikipedia.org/wiki/Wally_Pipp"
+    },
+    {
+      "text": "The 2021 Alabama–Texas A&M game ended in a shocking 41–38 upset of the No. 1 Crimson Tide.",
+      "month": 10,
+      "day": 9,
+      "source": "https://en.wikipedia.org/wiki/2021_Alabama"
+    },
+    {
+      "text": "The Outland Trophy is awarded annually to the best interior lineman in college football.",
+      "source": "https://en.wikipedia.org/wiki/Outland_Trophy"
+    },
+    {
+      "text": "In 2020, the Big Ten initially canceled the fall football season due to COVID-19 before reversing course and playing a shortened schedule.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Big_Ten"
+    },
+    {
+      "text": "SMU received the NCAA 'death penalty' in 1987 for repeated violations, effectively shutting down the football program for two years.",
+      "month": 2,
+      "day": 25,
+      "source": "https://en.wikipedia.org/wiki/College_Football"
+    },
+    {
+      "text": "The 'Butkus Award' for the nation's best linebacker is named after Dick Butkus, who starred at Illinois in the 1960s.",
+      "source": "https://en.wikipedia.org/wiki/%27Butkus_Award%27_for_the_nation%27s_best_linebacker"
+    },
+    {
+      "text": "College football introduced the two-point conversion in 1958, years before the NFL adopted it.",
+      "source": "https://en.wikipedia.org/wiki/College_football"
+    },
+    {
+      "text": "The 'Holy War' between BYU and Utah is one of the most heated rivalries in the Mountain West and Pac-12 regions.",
+      "source": "https://en.wikipedia.org/wiki/%27Holy_War%27_between_BYU_and_Utah"
+    },
+    {
+      "text": "Baker Mayfield won the 2017 Heisman Trophy at Oklahoma after walking on to the team and eventually becoming the starting quarterback.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Baker_Mayfield"
+    },
+    {
+      "text": "The 'World's Largest Outdoor Cocktail Party' is the nickname for the Florida–Georgia rivalry game, traditionally played in Jacksonville.",
+      "month": 10,
+      "day": 31,
+      "source": "https://en.wikipedia.org/wiki/%27World%27s_Largest_Outdoor_Cocktail_Party"
+    },
+    {
+      "text": "The Bedlam Series between Oklahoma and Oklahoma State has been played since 1904 and is one of the most lopsided rivalries in terms of wins.",
+      "source": "https://en.wikipedia.org/wiki/Bedlam_Series_between_Oklahoma_and_Oklahoma_State"
+    },
+    {
+      "text": "John David Crow won the 1957 Heisman Trophy at Texas A&M, the Aggies' only Heisman winner through 2024.",
+      "source": "https://en.wikipedia.org/wiki/John_David_Crow"
+    },
+    {
+      "text": "The 'Clock Play' in the 1994 Colorado–Michigan game saw a controversial time management decision influence the outcome.",
+      "source": "https://en.wikipedia.org/wiki/%27Clock_Play%27_in_the_1994_Colorado%E2%80%93Michigan_game"
+    },
+    {
+      "text": "Oklahoma's 'Boomer Sooner' fight song is played so frequently during games that opposing fans have called it the most annoying song in sports.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Oklahoma%27s_%27Boomer_Sooner%27_fight_song"
+    },
+    {
+      "text": "The 2012 SEC Championship Game between Alabama and Georgia came down to a goal-line stand, with Alabama winning 32–28.",
+      "month": 12,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/2012_SEC_Championship_Game"
+    },
+    {
+      "text": "The 'Old Oaken Bucket' is the trophy for the Indiana–Purdue rivalry, one of the oldest in the Big Ten.",
+      "source": "https://en.wikipedia.org/wiki/%27Old_Oaken_Bucket"
+    },
+    {
+      "text": "George Gipp, immortalized by the phrase 'Win one for the Gipper,' played for Notre Dame in the early 1920s and died at age 25.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/George_Gipp"
+    },
+    {
+      "text": "The 'CFP Top 25' rankings are released weekly during the season and carry significantly more weight than the AP or Coaches polls.",
+      "source": "https://en.wikipedia.org/wiki/%27CFP_Top_25%27_rankings"
+    },
+    {
+      "text": "Alabama's 'Rammer Jammer' cheer is a postgame tradition where fans celebrate victories by chanting the opposing team's defeat.",
+      "source": "https://en.wikipedia.org/wiki/Alabama%27s_%27Rammer_Jammer%27_cheer"
+    },
+    {
+      "text": "The 'Four Horsemen' of Notre Dame—Harry Stuhldreher, Don Miller, Jim Crowley, and Elmer Layden—were immortalized by sportswriter Grantland Rice in 1924.",
+      "month": 10,
+      "day": 18,
+      "source": "https://en.wikipedia.org/wiki/Four_Horsemen%27_of_Notre_Dame"
+    },
+    {
+      "text": "Travis Hunter became the first player to win both the Heisman Trophy and the Bednarik Award for best defensive player in the same season in 2024.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Travis_Hunter"
+    },
+    {
+      "text": "Conference realignment in the 2020s saw Texas and Oklahoma leave the Big 12 for the SEC, reshaping the college football landscape.",
+      "source": "https://en.wikipedia.org/wiki/Conference_realignment_in_the_2020s"
+    },
+    {
+      "text": "The 'Land of 10,000 Drums' at Oklahoma's Owen Field creates a unique pregame atmosphere with its massive drum line.",
+      "source": "https://en.wikipedia.org/wiki/Land_of_10"
+    },
+    {
+      "text": "Jim Brown, considered one of the greatest athletes ever, starred at Syracuse before being drafted No. 6 overall by the Cleveland Browns in 1957.",
+      "source": "https://en.wikipedia.org/wiki/Jim_Brown%2C_considered_one_of_the_greatest_athletes_ever"
+    },
+    {
+      "text": "The 2004 Auburn team went 13–0 but was left out of the BCS National Championship Game in favor of USC and Oklahoma.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/2004_Auburn_team_went_13%E2%80%930_but"
+    },
+    {
+      "text": "Notre Dame's 1988 victory over No. 1 Miami, ending the Hurricanes' 36-game winning streak, is known as 'Catholics vs. Convicts.'",
+      "month": 10,
+      "day": 15,
+      "source": "https://en.wikipedia.org/wiki/Notre_Dame%27s_1988_victory_over_No._1_Miami%2C_ending_the_Hurricanes%27_36-game_winning_streak"
+    },
+    {
+      "text": "The split T formation, developed by Missouri's Don Faurot in the 1940s, influenced the development of modern offensive schemes.",
+      "source": "https://en.wikipedia.org/wiki/split_T_formation"
+    },
+    {
+      "text": "The 'Hail Flutie' pass in 1984 helped Doug Flutie become a household name and win the Heisman Trophy.",
+      "source": "https://en.wikipedia.org/wiki/%27Hail_Flutie%27_pass"
+    },
+    {
+      "text": "Ohio State and Alabama have combined for the most CFP appearances among all programs since the playoff's inception.",
+      "source": "https://en.wikipedia.org/wiki/Ohio_State_and_Alabama"
+    },
+    {
+      "text": "The 'Angry Michigan Surrender Cobra' fan image became one of the most shared sports photos on social media.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/%27Angry_Michigan_Surrender_Cobra%27_fan_image"
+    },
+    {
+      "text": "Sam Bradford won the 2008 Heisman Trophy at Oklahoma and went on to be the No. 1 overall pick in the 2010 NFL Draft.",
+      "source": "https://en.wikipedia.org/wiki/Sam_Bradford"
+    },
+    {
+      "text": "The National Championship trophy in college football has undergone several redesigns and is currently sponsored by Dr Pepper.",
+      "source": "https://en.wikipedia.org/wiki/National_Championship_trophy_in_college_football"
+    },
+    {
+      "text": "Georgia's mascot, Uga, is so beloved that deceased mascots are buried in a mausoleum at the southwest corner of Sanford Stadium.",
+      "source": "https://en.wikipedia.org/wiki/Georgia%27s_mascot%2C_Uga"
+    },
+    {
+      "text": "The 'Bluegrass' portion of Kentucky's college football identity reflects the state's agricultural heritage.",
+      "source": "https://en.wikipedia.org/wiki/College_Football"
+    },
+    {
+      "text": "Carson Palmer won the 2002 Heisman Trophy at USC, helping revive the program under coach Pete Carroll.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Carson_Palmer"
+    },
+    {
+      "text": "The 1946 Army-Notre Dame game, featuring Doc Blanchard and Glenn Davis against Johnny Lujack, ended in a scoreless tie and is considered one of the greatest games ever.",
+      "month": 11,
+      "day": 9,
+      "source": "https://en.wikipedia.org/wiki/1946_Army-Notre_Dame"
+    },
+    {
+      "text": "Red Grange, 'The Galloping Ghost,' put college football on the national map with his performance against Michigan in 1924.",
+      "month": 10,
+      "day": 18,
+      "source": "https://en.wikipedia.org/wiki/Red_Grange"
+    },
+    {
+      "text": "The 'Miracle in Ann Arbor' in 2024 produced one of the most dramatic finishes in Michigan stadium history.",
+      "source": "https://en.wikipedia.org/wiki/Miracle_in_Ann_Arbor"
+    },
+    {
+      "text": "The 2015 Rose Bowl between Oregon and Florida State saw Marcus Mariota lead the Ducks to a 59–20 victory.",
+      "month": 1,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/2015_Rose_Bowl_between_Oregon_and_Florida_State"
+    },
+    {
+      "text": "The 'Third Saturday in October' refers to the Tennessee–Alabama rivalry game, traditionally scheduled for that date.",
+      "month": 10,
+      "day": 18,
+      "source": "https://en.wikipedia.org/wiki/Third_Saturday_in_October"
+    },
+    {
+      "text": "NIL (Name, Image, and Likeness) legislation, which took effect in 2021, allowed college athletes to profit from their personal brands for the first time.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/NIL_(Name%2C_Image%2C_and_Likeness)_legislation%2C_which"
+    },
+    {
+      "text": "The 'Tombstone' at Oklahoma is a tradition where a headstone is created for each team the Sooners defeat during the season.",
+      "source": "https://en.wikipedia.org/wiki/%27Tombstone%27_at_Oklahoma"
+    },
+    {
+      "text": "Eric Crouch won the 2001 Heisman Trophy at Nebraska as a dual-threat quarterback in the option offense.",
+      "source": "https://en.wikipedia.org/wiki/Eric_Crouch"
+    },
+    {
+      "text": "The Liberty Bowl in Memphis, Tennessee, has been played since 1959 and has hosted numerous competitive matchups.",
+      "source": "https://en.wikipedia.org/wiki/Liberty_Bowl_in_Memphis%2C_Tennessee"
+    },
+    {
+      "text": "The 2024 College Football Playoff expansion to 12 teams marked the biggest structural change in the sport's postseason history.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/2024_College_Football_Playoff_expansion_to_12_teams"
+    },
+    {
+      "text": "Auburn's Jordan-Hare Stadium has a capacity of over 87,000 and is known for its intense atmosphere on game day.",
+      "source": "https://en.wikipedia.org/wiki/Auburn%27s_Jordan-Hare_Stadium"
+    },
+    {
+      "text": "The 'Bourbon Bowl' is an unofficial name sometimes given to matchups between Kentucky and Louisville.",
+      "source": "https://en.wikipedia.org/wiki/%27Bourbon_Bowl"
+    },
+    {
+      "text": "Jason White won the 2003 Heisman Trophy at Oklahoma despite having two torn ACLs earlier in his career.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Jason_White"
+    },
+    {
+      "text": "The College Football Hall of Fame moved from South Bend, Indiana, to Atlanta, Georgia, in 2014.",
+      "source": "https://en.wikipedia.org/wiki/College_Football_Hall_of_Fame"
+    },
+    {
+      "text": "Texas A&M's midnight yell practice, held the night before home games, draws thousands of fans to Kyle Field.",
+      "source": "https://en.wikipedia.org/wiki/Texas_A%26M%27s"
+    },
+    {
+      "text": "The 'Paul Bunyan Trophy' is awarded to the winner of the Michigan–Michigan State rivalry.",
+      "source": "https://en.wikipedia.org/wiki/%27Paul_Bunyan_Trophy"
+    },
+    {
+      "text": "DeVonta Smith made history in 2020 as the first wide receiver to win the Heisman Trophy since Desmond Howard in 1991.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/DeVonta_Smith"
+    },
+    {
+      "text": "Ohio State's 2002 national championship run included a dramatic overtime victory against Miami in the Fiesta Bowl with controversial pass interference calls.",
+      "source": "https://en.wikipedia.org/wiki/Ohio_State%27s_2002_national_championship"
+    },
+    {
+      "text": "The 2019 playoff semifinal saw LSU dominate Oklahoma 63–28 in the Peach Bowl en route to the national title.",
+      "month": 12,
+      "day": 28,
+      "source": "https://en.wikipedia.org/wiki/2019_playoff_semifinal"
+    },
+    {
+      "text": "Gene Stallings coached Alabama to the 1992 national championship, continuing the school's tradition of defensive excellence.",
+      "source": "https://en.wikipedia.org/wiki/Gene_Stallings"
+    },
+    {
+      "text": "The 'Blackout' game tradition, where fans are encouraged to wear all black, originated at various schools and creates a dramatic visual effect.",
+      "source": "https://en.wikipedia.org/wiki/%27Blackout%27_game_tradition%2C_where_fans"
+    },
+    {
+      "text": "The 'Legends Division' and 'Leaders Division' were short-lived Big Ten alignment names widely ridiculed by fans before being replaced.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/%27Legends_Division%27_and_%27Leaders_Division"
+    },
+    {
+      "text": "The Davey O'Brien Award is given to the best quarterback in college football, named after TCU's 1938 Heisman winner.",
+      "source": "https://en.wikipedia.org/wiki/Davey_O%27Brien_Award"
+    },
+    {
+      "text": "Miami's 'Catholics vs. Convicts' shirt became one of the most iconic pieces of college football merchandise from the 1988 rivalry.",
+      "source": "https://en.wikipedia.org/wiki/Miami%27s_%27Catholics_vs._Convicts%27_shirt"
+    },
+    {
+      "text": "The 1973 'Game of the Century' between Alabama and Notre Dame in the Sugar Bowl saw Notre Dame win 24–23 to claim the national title.",
+      "month": 12,
+      "day": 31,
+      "source": "https://en.wikipedia.org/wiki/1973_%27Game_of_the_Century%27_between_Alabama_and_Notre_Dame_in_the_Sugar_Bowl"
+    },
+    {
+      "text": "Les Miles earned the nickname 'The Mad Hatter' for his unpredictable play-calling at LSU, including his habit of eating grass on the sideline.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Les_Miles"
+    },
+    {
+      "text": "Penn State's 'Nittanyville' tent city, where students camp out for tickets, demonstrates the passion of the Nittany Lion fanbase.",
+      "source": "https://en.wikipedia.org/wiki/Penn_State%27s"
+    },
+    {
+      "text": "The 2020 national championship between Alabama and Ohio State was played in a mostly empty stadium due to COVID-19 restrictions.",
+      "month": 1,
+      "day": 11,
+      "source": "https://en.wikipedia.org/wiki/2020_national_championship_between_Alabama_and_Ohio_State"
+    },
+    {
+      "text": "Robert Griffin III won the 2011 Heisman Trophy at Baylor, transforming the school's football program.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Robert_Griffin_III"
+    },
+    {
+      "text": "Howard Schnellenberger built the Miami Hurricanes into a national powerhouse in the 1980s before the program sustained success under Jimmy Johnson and Dennis Erickson.",
+      "source": "https://en.wikipedia.org/wiki/Howard_Schnellenberger"
+    },
+    {
+      "text": "The 'Granddaddy of Them All' nickname for the Rose Bowl was coined by legendary announcer Keith Jackson.",
+      "source": "https://en.wikipedia.org/wiki/%27Granddaddy_of_Them_All%27_nickname_for_the_Rose_Bowl"
+    },
+    {
+      "text": "Oklahoma's Selmon brothers—Lucious, Dewey, and Lee Roy—all played for the Sooners in the 1970s and all reached the NFL.",
+      "source": "https://en.wikipedia.org/wiki/Oklahoma%27s_Selmon"
+    },
+    {
+      "text": "Kyle Field at Texas A&M can hold over 102,000 fans, making it one of the largest stadiums in college football.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Kyle_Field_at_Texas_A%26M"
+    },
+    {
+      "text": "The 'Iron Bowl' gets its name from Birmingham's history as a center of the iron and steel industry in Alabama.",
+      "source": "https://en.wikipedia.org/wiki/Iron_Bowl"
+    },
+    {
+      "text": "Georgia's 2021 national championship team featured a historically dominant defense that held opponents to just 10.2 points per game.",
+      "source": "https://en.wikipedia.org/wiki/Georgia%27s_2021"
+    },
+    {
+      "text": "The single-game rushing record in FBS history is 427 yards, set by Samaje Perine of Oklahoma in 2014.",
+      "month": 11,
+      "day": 22,
+      "source": "https://en.wikipedia.org/wiki/single-game_rushing_record_in_FBS_history"
+    },
+    {
+      "text": "The first College GameDay on-campus broadcast was from South Bend, Indiana, for a Notre Dame game in 1993.",
+      "source": "https://en.wikipedia.org/wiki/first_College_GameDay_on-campus_broadcast"
+    },
+    {
+      "text": "Mark Ingram became the first Alabama player to win the Heisman Trophy when he claimed the award in 2009.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Mark_Ingram"
+    },
+    {
+      "text": "The 'Circle of Death' refers to the SEC West division, where multiple teams are consistently ranked in the top 25.",
+      "source": "https://en.wikipedia.org/wiki/%27Circle_of_Death%27_refers_to_the_SEC_West_division%2C_where_multiple_teams"
+    },
+    {
+      "text": "The 1997 split national championship between Michigan (AP) and Nebraska (Coaches) fueled the push for a definitive championship format.",
+      "source": "https://en.wikipedia.org/wiki/1997"
+    },
+    {
+      "text": "TCU's unexpected run to the 2022 CFP National Championship Game under first-year coach Sonny Dykes was one of the great Cinderella stories in recent memory.",
+      "source": "https://en.wikipedia.org/wiki/TCU%27s_unexpected"
+    },
+    {
+      "text": "The 'Sooner Schooner' crashed at a 1993 game against Kansas, one of the more bizarre incidents in college football mascot history.",
+      "source": "https://en.wikipedia.org/wiki/Sooner_Schooner"
+    },
+    {
+      "text": "The Piesman Trophy, an informal award for linemen who score touchdowns, has become a beloved tradition on social media.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Piesman_Trophy%2C_an_informal_award_for_linemen_who_score_touchdowns"
+    },
+    {
+      "text": "The longest field goal in college football history is 69 yards, kicked by Ove Johansson of Abilene Christian in 1976.",
+      "source": "https://en.wikipedia.org/wiki/longest_field_goal_in_college_football_history"
+    },
+    {
+      "text": "The 2022 Michigan team reached the CFP semifinal for the second consecutive year, signaling the program's return to elite status under Jim Harbaugh.",
+      "source": "https://en.wikipedia.org/wiki/2022_Michigan_team"
+    },
+    {
+      "text": "The 'Hook and Ladder' is one of the most exciting trick plays in college football, popularized by Boise State's Chris Petersen.",
+      "source": "https://en.wikipedia.org/wiki/%27Hook_and_Ladder"
+    },
+    {
+      "text": "The College Football Playoff selection show has become a major television event each December, drawing millions of viewers.",
+      "month": 12,
+      "day": 3,
+      "source": "https://en.wikipedia.org/wiki/College_Football_Playoff_selection_show"
+    },
+    {
+      "text": "USC's dominance in the early 2000s under Pete Carroll produced Heisman winners Matt Leinart and Reggie Bush in consecutive years.",
+      "source": "https://en.wikipedia.org/wiki/Pete_Carroll"
+    },
+    {
+      "text": "The 'Fifth Quarter' at Wisconsin refers to the postgame concert by the marching band, which often draws as many fans as the game itself.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Fifth_Quarter%27_at_Wisconsin"
+    },
+    {
+      "text": "Derrick Henry won the 2015 Heisman Trophy at Alabama with a historic 2,219-yard rushing season.",
+      "source": "https://en.wikipedia.org/wiki/Derrick_Henry"
+    },
+    {
+      "text": "The Black College Football Hall of Fame celebrates the contributions of HBCU programs and players to the sport.",
+      "source": "https://en.wikipedia.org/wiki/Black_College_Football_Hall_of_Fame"
+    },
+    {
+      "text": "The 1980 'Miracle on the Plains' featured a stunning Georgia win to cap a national championship season.",
+      "month": 11,
+      "day": 8,
+      "source": "https://en.wikipedia.org/wiki/1980"
+    },
+    {
+      "text": "The Broyles Award is given annually to the best assistant coach in college football.",
+      "source": "https://en.wikipedia.org/wiki/Broyles_Award"
+    },
+    {
+      "text": "Oklahoma's 'Land Run' pre-game entrance, where the Sooner Schooner leads the team onto the field, pays tribute to the state's frontier history.",
+      "source": "https://en.wikipedia.org/wiki/Oklahoma%27s_%27Land"
+    },
+    {
+      "text": "Bryce Young won the 2021 Heisman Trophy at Alabama, becoming the Crimson Tide's second Heisman winner under Nick Saban.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Bryce_Young"
+    },
+    {
+      "text": "The 'Judgement Day' phrase is sometimes attached to rivalry games where both teams enter with national championship implications.",
+      "source": "https://en.wikipedia.org/wiki/%27Judgement_Day%27_phrase"
+    },
+    {
+      "text": "The 1991 'Miracle on the Farm' saw Cal beat Stanford 18–16 after Stanford missed a last-second field goal.",
+      "source": "https://en.wikipedia.org/wiki/1991_%27Miracle_on_the_Farm"
+    },
+    {
+      "text": "Caleb Williams won the 2022 Heisman Trophy at USC after transferring from Oklahoma, showcasing the impact of the transfer portal.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Caleb_Williams"
+    },
+    {
+      "text": "The 2017 Rose Bowl between USC and Penn State featured 80 combined points in a thrilling 52–49 USC victory.",
+      "month": 1,
+      "day": 2,
+      "source": "https://en.wikipedia.org/wiki/2017_Rose_Bowl"
+    },
+    {
+      "text": "Alabama's '3rd and Saban' is a fan-coined term for the coach's uncanny ability to convert crucial third-down plays.",
+      "source": "https://en.wikipedia.org/wiki/Alabama%27s_%273rd_and_Saban"
+    },
+    {
+      "text": "The 2021 Michigan Wolverines broke a streak of eight consecutive losses to Ohio State with a dominant 42–27 victory.",
+      "month": 11,
+      "day": 27,
+      "source": "https://en.wikipedia.org/wiki/2021_Michigan_Wolverines"
+    },
+    {
+      "text": "The original 'Death Valley' nickname is claimed by both Clemson and LSU, with each school having its own origin story.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/original_%27Death_Valley%27_nickname"
+    },
+    {
+      "text": "Andre Ware won the 1989 Heisman Trophy at Houston while running the run-and-shoot offense.",
+      "source": "https://en.wikipedia.org/wiki/Andre_Ware"
+    },
+    {
+      "text": "The 2015 Alabama–Clemson championship game was the first of four title game matchups between the two programs in a span of four years.",
+      "source": "https://en.wikipedia.org/wiki/2015_Alabama%E2%80%93Clemson_championship_game"
+    },
+    {
+      "text": "The Maxwell Award is given annually to the best all-around player in college football.",
+      "source": "https://en.wikipedia.org/wiki/Maxwell_Award"
+    },
+    {
+      "text": "Southern Cal's Heritage Hall houses a collection of Heisman Trophies and other memorabilia from the program's storied history.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Southern_Cal%27s_Heritage_Hall"
+    },
+    {
+      "text": "College football's two-minute warning does not exist; unlike the NFL, the game clock runs continuously with only standard stoppages.",
+      "source": "https://en.wikipedia.org/wiki/College_Football"
+    },
+    {
+      "text": "The 'Shula Bowl' between Florida Atlantic and Florida International honored coach Don Shula, who grew up in the region.",
+      "source": "https://en.wikipedia.org/wiki/Shula_Bowl"
+    },
+    {
+      "text": "The 1991 Florida State–Miami game, known as 'Wide Right I,' saw Florida State miss a last-second field goal wide right, costing them the national championship.",
+      "month": 11,
+      "day": 16,
+      "source": "https://en.wikipedia.org/wiki/1991_Florida_State%E2%80%93Miami_game%2C_known_as_%27Wide_Right_I"
+    },
+    {
+      "text": "The concept of redshirting, where a player practices but doesn't play to preserve eligibility, is unique to college sports.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/College_Football"
+    },
+    {
+      "text": "USC has won 11 national championships, tying for the fourth-most in college football history.",
+      "source": "https://en.wikipedia.org/wiki/USC"
+    },
+    {
+      "text": "The 2012 Heisman ceremony was one of the most dramatic, with Johnny Manziel winning as a freshman.",
+      "month": 12,
+      "day": 8,
+      "source": "https://en.wikipedia.org/wiki/2012_Heisman_ceremony"
+    },
+    {
+      "text": "The Clemson–South Carolina rivalry game has featured some of the most dramatic finishes in ACC and SEC football.",
+      "source": "https://en.wikipedia.org/wiki/Clemson%E2%80%93South_Carolina_rivalry_game"
+    },
+    {
+      "text": "The 'Victory Lap' tradition at Notre Dame sees the marching band play the alma mater while the team celebrates with fans after a win.",
+      "source": "https://en.wikipedia.org/wiki/Victory_Lap"
+    },
+    {
+      "text": "The 2010 BCS National Championship Game saw Alabama defeat Texas 37–21 after Longhorns quarterback Colt McCoy was injured early.",
+      "month": 1,
+      "day": 7,
+      "source": "https://en.wikipedia.org/wiki/2010_BCS_National_Championship_Game"
+    },
+    {
+      "text": "Georgia's 'red and black' color scheme was reportedly chosen by the university's first football team in the 1890s.",
+      "source": "https://en.wikipedia.org/wiki/Georgia%27s_%27red_and_black%27_color_scheme"
+    },
+    {
+      "text": "Gino Torretta won the 1992 Heisman Trophy while quarterbacking Miami to a dominant regular season.",
+      "source": "https://en.wikipedia.org/wiki/Gino_Torretta"
+    },
+    {
+      "text": "The 'Clemson Tiger Paw' was designed by a local agency in 1970 and has become one of the most recognizable logos in college sports.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/%27Clemson_Tiger_Paw"
+    },
+    {
+      "text": "The 2018 semifinal saw Clemson dismantle Notre Dame 30–3 in the Cotton Bowl, one of the most lopsided playoff games.",
+      "month": 12,
+      "day": 29,
+      "source": "https://en.wikipedia.org/wiki/2018_semifinal"
+    },
+    {
+      "text": "Tom Osborne retired after winning three national championships at Nebraska in four seasons from 1994 to 1997.",
+      "source": "https://en.wikipedia.org/wiki/Tom_Osborne"
+    },
+    {
+      "text": "The 'Scholar-Baller' program recognizes student-athletes who maintain high academic standards while competing at the highest level.",
+      "source": "https://en.wikipedia.org/wiki/College_Football"
+    },
+    {
+      "text": "The 1996 Fiesta Bowl, which served as the de facto national championship, featured Nebraska's 62–24 victory over Florida.",
+      "month": 1,
+      "day": 2,
+      "source": "https://en.wikipedia.org/wiki/1996_Fiesta_Bowl"
+    },
+    {
+      "text": "The longest punt in college football history is 99 yards, achieved by Pat Brady of Nevada in 1950.",
+      "source": "https://en.wikipedia.org/wiki/longest_punt_in_college_football_history"
+    },
+    {
+      "text": "The 'Jeweled Shillelagh' is the trophy awarded to the winner of the USC–Notre Dame rivalry, studded with rubies and emeralds.",
+      "source": "https://en.wikipedia.org/wiki/%27Jeweled_Shillelagh"
+    },
+    {
+      "text": "The 1990 Colorado–Missouri 'Fifth Down' game remains one of college football's most controversial outcomes.",
+      "month": 10,
+      "day": 6,
+      "source": "https://en.wikipedia.org/wiki/1990_Colorado"
+    },
+    {
+      "text": "Minnesota's Floyd of Rosedale, a bronze pig trophy, goes to the winner of the Minnesota–Iowa rivalry each year.",
+      "source": "https://en.wikipedia.org/wiki/Minnesota%27s_Floyd_of_Rosedale"
+    },
+    {
+      "text": "The 2001 Miami Hurricanes are considered one of the most dominant teams ever, with 17 players from that roster drafted into the NFL.",
+      "source": "https://en.wikipedia.org/wiki/2001_Miami_Hurricanes"
+    },
+    {
+      "text": "The Paul Hornung Award is given to the most versatile player in college football, named after the 1956 Heisman winner from Notre Dame.",
+      "source": "https://en.wikipedia.org/wiki/Paul_Hornung_Award"
+    },
+    {
+      "text": "The 'Swamp' at Florida's Ben Hill Griffin Stadium is known for its oppressive heat and deafening crowd noise.",
+      "source": "https://en.wikipedia.org/wiki/%27Swamp%27_at_Florida%27s_Ben_Hill_Griffin_Stadium"
+    },
+    {
+      "text": "Kenneth Walker III won the 2021 Doak Walker Award at Michigan State after transferring from Wake Forest.",
+      "source": "https://en.wikipedia.org/wiki/Kenneth_Walker_III"
+    },
+    {
+      "text": "The longest game in college football history was a seven-overtime contest between Arkansas and Kentucky in 2003.",
+      "month": 11,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/longest_game_in_college_football_history"
+    },
+    {
+      "text": "Notre Dame's 'Fair Catch Free Kick' rule has been rarely invoked but remains one of the most obscure rules in the rulebook.",
+      "source": "https://en.wikipedia.org/wiki/Notre_Dame%27s_%27Fair_Catch_Free_Kick%27_rule"
+    },
+    {
+      "text": "The 'Kick Six' play in 2013 was named the greatest play in college football history by multiple media outlets.",
+      "month": 11,
+      "day": 30,
+      "source": "https://en.wikipedia.org/wiki/%27Kick_Six%27_play"
+    }
+  ]
+}

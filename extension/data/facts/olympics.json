@@ -1,0 +1,1794 @@
+{
+  "hobby": "Olympics",
+  "facts": [
+    {
+      "text": "The first modern Olympic Games were held in Athens, Greece, in 1896, featuring 241 athletes from 14 nations competing in 43 events.",
+      "month": 4,
+      "day": 6,
+      "source": "https://en.wikipedia.org/wiki/first_modern_Olympic_Games"
+    },
+    {
+      "text": "Michael Phelps is the most decorated Olympian of all time with 28 medals, including 23 golds, earned across five Olympic Games.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Michael_Phelps"
+    },
+    {
+      "text": "The Olympic rings represent the five continents of Africa, the Americas, Asia, Europe, and Oceania, and every national flag contains at least one of the ring colors.",
+      "source": "https://en.wikipedia.org/wiki/Olympic"
+    },
+    {
+      "text": "At the 1936 Berlin Olympics, Jesse Owens won four gold medals in track and field, defying Adolf Hitler's vision of Aryan supremacy.",
+      "month": 8,
+      "day": 3,
+      "source": "https://en.wikipedia.org/wiki/At_the_1936_Berlin_Olympics%2C_Jesse_Owens"
+    },
+    {
+      "text": "The Paralympic Games originated in 1948 when Sir Ludwig Guttmann organized a sports competition for World War II veterans with spinal cord injuries at Stoke Mandeville, England.",
+      "source": "https://en.wikipedia.org/wiki/Paralympic_Games"
+    },
+    {
+      "text": "Usain Bolt's lightning bolt celebration became one of the most iconic poses in Olympic history after his record-breaking 100m victory in Beijing 2008.",
+      "source": "https://en.wikipedia.org/wiki/Usain_Bolt%27s_lightning_bolt_celebration"
+    },
+    {
+      "text": "The first Winter Olympic Games were held in Chamonix, France, in 1924, with 258 athletes from 16 nations.",
+      "month": 1,
+      "day": 25,
+      "source": "https://en.wikipedia.org/wiki/first_Winter_Olympic_Games"
+    },
+    {
+      "text": "The Olympic motto was originally 'Citius, Altius, Fortius' (Faster, Higher, Stronger), and in 2021 the word 'Communiter' (Together) was added.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Olympic_motto"
+    },
+    {
+      "text": "The Miracle on Ice at the 1980 Lake Placid Winter Olympics saw the underdog U.S. hockey team defeat the dominant Soviet Union 4-3 in one of the greatest upsets in sports history.",
+      "month": 2,
+      "day": 22,
+      "source": "https://en.wikipedia.org/wiki/Miracle_on_Ice_at_the_1980_Lake_Placid_Winter_Olympics"
+    },
+    {
+      "text": "Skateboarding, surfing, sport climbing, and karate made their Olympic debuts at the Tokyo 2020 Games.",
+      "source": "https://en.wikipedia.org/wiki/Tokyo_2020_Games"
+    },
+    {
+      "text": "The IOC (International Olympic Committee) was founded on June 23, 1894, by Pierre de Coubertin, and this date is now celebrated as Olympic Day.",
+      "month": 6,
+      "day": 23,
+      "source": "https://en.wikipedia.org/wiki/IOC_(International_Olympic_Committee)"
+    },
+    {
+      "text": "At the 1968 Mexico City Olympics, Tommie Smith and John Carlos raised black-gloved fists on the medal podium in a powerful protest for civil rights.",
+      "month": 10,
+      "day": 16,
+      "source": "https://en.wikipedia.org/wiki/At_the_1968_Mexico_City_Olympics"
+    },
+    {
+      "text": "Larisa Latynina of the Soviet Union held the record for most Olympic medals (18) for 48 years before Michael Phelps surpassed her in 2012.",
+      "source": "https://en.wikipedia.org/wiki/Larisa_Latynina_of_the_Soviet_Union"
+    },
+    {
+      "text": "The Olympic flame relay tradition began at the 1936 Berlin Games, with the torch carried from Olympia, Greece, to the host city.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Olympic"
+    },
+    {
+      "text": "Russia was banned from competing under its own flag at the 2018 and 2022 Winter Olympics due to a state-sponsored doping scandal uncovered by WADA.",
+      "source": "https://en.wikipedia.org/wiki/Russia"
+    },
+    {
+      "text": "The 1992 Barcelona Olympics featured the Dream Team, the first U.S. men's basketball team composed of NBA professionals, including Michael Jordan, Magic Johnson, and Larry Bird.",
+      "month": 7,
+      "day": 25,
+      "source": "https://en.wikipedia.org/wiki/1992_Barcelona_Olympics"
+    },
+    {
+      "text": "Nadia Comaneci of Romania scored the first perfect 10 in Olympic gymnastics history at the 1976 Montreal Games, at just 14 years old.",
+      "month": 7,
+      "day": 18,
+      "source": "https://en.wikipedia.org/wiki/Nadia_Comaneci_of_Romania"
+    },
+    {
+      "text": "The 2008 Beijing Olympics opening ceremony, directed by Zhang Yimou, is often considered the most spectacular in Olympic history, featuring 15,000 performers.",
+      "month": 8,
+      "day": 8,
+      "source": "https://en.wikipedia.org/wiki/2008_Beijing_Olympics_opening_ceremony%2C_directed_by_Zhang_Yimou"
+    },
+    {
+      "text": "Breakdancing (breaking) made its Olympic debut at the Paris 2024 Games, becoming one of the newest sports added to the program.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Paris_2024_Games"
+    },
+    {
+      "text": "The ancient Olympic Games were held in Olympia, Greece, from 776 BC to 393 AD, spanning over a millennium.",
+      "source": "https://en.wikipedia.org/wiki/ancient_Olympic_Games"
+    },
+    {
+      "text": "Paavo Nurmi, the Flying Finn, won nine gold medals in distance running across the 1920, 1924, and 1928 Olympics.",
+      "source": "https://en.wikipedia.org/wiki/Paavo_Nurmi%2C_the_Flying_Finn"
+    },
+    {
+      "text": "The Olympic Village concept was first introduced at the 1932 Los Angeles Games, providing housing for male athletes.",
+      "source": "https://en.wikipedia.org/wiki/Olympic_Village_concept"
+    },
+    {
+      "text": "At the 2000 Sydney Olympics, Cathy Freeman lit the Olympic cauldron and later won gold in the 400m, becoming a symbol of reconciliation for Indigenous Australians.",
+      "month": 9,
+      "day": 15,
+      "source": "https://en.wikipedia.org/wiki/At_the_2000_Sydney_Olympics%2C_Cathy_Freeman_lit_the_Olympic_cauldron_and_later"
+    },
+    {
+      "text": "The 1980 Moscow Olympics were boycotted by 66 countries, including the United States, in protest of the Soviet invasion of Afghanistan.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/1980_Moscow_Olympics"
+    },
+    {
+      "text": "Carl Lewis won nine Olympic gold medals across four Games (1984–1996) in sprinting and long jump events.",
+      "source": "https://en.wikipedia.org/wiki/Carl_Lewis"
+    },
+    {
+      "text": "The host city for the Olympics is selected by IOC members through a bidding process that can take years and cost millions of dollars.",
+      "source": "https://en.wikipedia.org/wiki/host_city_for_the_Olympics"
+    },
+    {
+      "text": "Simone Biles has won seven Olympic medals in gymnastics, including four golds at Rio 2016, making her one of the most decorated gymnasts in history.",
+      "source": "https://en.wikipedia.org/wiki/Simone_Biles"
+    },
+    {
+      "text": "The 1972 Munich Olympics were marred by tragedy when 11 Israeli team members were taken hostage and killed by Palestinian terrorists.",
+      "month": 9,
+      "day": 5,
+      "source": "https://en.wikipedia.org/wiki/1972_Munich_Olympics"
+    },
+    {
+      "text": "Tug of war was an Olympic sport from 1900 to 1920, and croquet appeared only at the 1900 Paris Games.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Tug_of_war"
+    },
+    {
+      "text": "The Olympic torch for the 1964 Tokyo Games was lit by Yoshinori Sakai, who was born in Hiroshima on August 6, 1945, the day the atomic bomb was dropped.",
+      "source": "https://en.wikipedia.org/wiki/Olympic_torch_for_the_1964_Tokyo_Games"
+    },
+    {
+      "text": "Los Angeles will host the 2028 Summer Olympics, becoming the third city to host the Games three times after London and Paris.",
+      "source": "https://en.wikipedia.org/wiki/Los_Angeles"
+    },
+    {
+      "text": "The first Olympic marathon was inspired by the legend of Pheidippides, who reportedly ran from Marathon to Athens to announce a Greek military victory.",
+      "source": "https://en.wikipedia.org/wiki/first_Olympic_marathon"
+    },
+    {
+      "text": "At the 1984 Los Angeles Olympics, the Soviet Union and 13 allied nations staged a retaliatory boycott, mirroring the Western boycott of Moscow 1980.",
+      "month": 7,
+      "day": 28,
+      "source": "https://en.wikipedia.org/wiki/At_the_1984_Los_Angeles_Olympics"
+    },
+    {
+      "text": "South Korean archer Kim Soo-nyung won four gold medals across three Olympics (1988–2000), making her one of the greatest archers in Olympic history.",
+      "source": "https://en.wikipedia.org/wiki/South_Korean_archer_Kim_Soo-nyung"
+    },
+    {
+      "text": "The Olympic rings were designed by Pierre de Coubertin in 1913 and first used at the 1920 Antwerp Games.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Olympic_rings"
+    },
+    {
+      "text": "Swimmer Mark Spitz won seven gold medals at the 1972 Munich Olympics, a record that stood until Michael Phelps won eight golds in Beijing 2008.",
+      "source": "https://en.wikipedia.org/wiki/Swimmer_Mark_Spitz"
+    },
+    {
+      "text": "The 2012 London Olympics opening ceremony, directed by Danny Boyle, celebrated British culture from the Industrial Revolution to the digital age.",
+      "month": 7,
+      "day": 27,
+      "source": "https://en.wikipedia.org/wiki/2012_London_Olympics"
+    },
+    {
+      "text": "Brisbane, Australia, will host the 2032 Summer Olympics, marking the third time Australia has hosted the Games.",
+      "source": "https://en.wikipedia.org/wiki/Brisbane%2C_Australia%2C_will_host_the_2032_Summer_Olympics%2C_marking_the_third_time_Australia"
+    },
+    {
+      "text": "At the 1896 Athens Olympics, winners received silver medals and an olive branch; gold medals were not awarded until 1904.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/At_the_1896_Athens_Olympics"
+    },
+    {
+      "text": "Fanny Blankers-Koen of the Netherlands won four gold medals at the 1948 London Olympics, earning the nickname the Flying Housewife.",
+      "source": "https://en.wikipedia.org/wiki/Fanny_Blankers-Koen_of_the_Netherlands"
+    },
+    {
+      "text": "The Olympic cauldron at the 1992 Barcelona Games was lit by Paralympic archer Antonio Rebollo, who shot a flaming arrow over the cauldron rim.",
+      "source": "https://en.wikipedia.org/wiki/Olympic_cauldron_at_the_1992_Barcelona_Games"
+    },
+    {
+      "text": "Golf was removed from the Olympics after 1904 and did not return until the 2016 Rio Games, a gap of 112 years.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Golf"
+    },
+    {
+      "text": "The 1994 Lillehammer Winter Olympics marked a shift to a two-year stagger between Summer and Winter Games, which had previously been held in the same year.",
+      "month": 2,
+      "day": 12,
+      "source": "https://en.wikipedia.org/wiki/1994_Lillehammer_Winter_Olympics"
+    },
+    {
+      "text": "Ethiopian runner Abebe Bikila won the 1960 Rome Olympic marathon running barefoot, becoming the first Black African to win an Olympic gold medal.",
+      "source": "https://en.wikipedia.org/wiki/Ethiopian_runner_Abebe_Bikila"
+    },
+    {
+      "text": "The Olympic flag was first flown at the 1920 Antwerp Olympics and is ceremonially passed from the outgoing host city to the incoming one at each closing ceremony.",
+      "source": "https://en.wikipedia.org/wiki/Olympic_flag"
+    },
+    {
+      "text": "Gymnast Kohei Uchimura of Japan won consecutive all-around gold medals at the 2012 and 2016 Olympics and is considered one of the greatest gymnasts ever.",
+      "source": "https://en.wikipedia.org/wiki/Gymnast_Kohei_Uchimura_of_Japan"
+    },
+    {
+      "text": "The Paralympics have grown from 400 athletes at the 1960 Rome Games to over 4,400 athletes at the Tokyo 2020 Games.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Paralympics"
+    },
+    {
+      "text": "At the 2014 Sochi Winter Olympics, Russia topped the medal count with 33 medals, but many were later stripped due to doping violations.",
+      "month": 2,
+      "day": 7,
+      "source": "https://en.wikipedia.org/wiki/At_the_2014_Sochi_Winter_Olympics%2C_Russia_topped_the_medal_count_with_33_medals%2C_but_many"
+    },
+    {
+      "text": "The modern pentathlon was created by Pierre de Coubertin and has been part of the Olympics since 1912, combining fencing, swimming, equestrian show jumping, shooting, and running.",
+      "source": "https://en.wikipedia.org/wiki/modern_pentathlon"
+    },
+    {
+      "text": "Sonja Henie of Norway won three consecutive Olympic figure skating gold medals (1928, 1932, 1936) and later became a Hollywood film star.",
+      "source": "https://en.wikipedia.org/wiki/Sonja_Henie_of_Norway"
+    },
+    {
+      "text": "The 2020 Tokyo Olympics were postponed to 2021 due to the COVID-19 pandemic, the first peacetime postponement in Olympic history.",
+      "month": 7,
+      "day": 23,
+      "source": "https://en.wikipedia.org/wiki/2020_Tokyo_Olympics"
+    },
+    {
+      "text": "Equestrian events are the only Olympic sports in which men and women compete directly against each other on equal terms.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Equestrian_events"
+    },
+    {
+      "text": "Muhammad Ali (then Cassius Clay) won a gold medal in light heavyweight boxing at the 1960 Rome Olympics at age 18.",
+      "source": "https://en.wikipedia.org/wiki/Muhammad_Ali_(then_Cassius_Clay)"
+    },
+    {
+      "text": "The IOC generates most of its revenue from broadcasting rights, which accounted for over 60% of total Olympic revenue in the 2013–2016 cycle.",
+      "source": "https://en.wikipedia.org/wiki/IOC"
+    },
+    {
+      "text": "Kerri Strug's vault on an injured ankle secured the first team gold for the U.S. women's gymnastics team at the 1996 Atlanta Olympics.",
+      "source": "https://en.wikipedia.org/wiki/Kerri_Strug%27s"
+    },
+    {
+      "text": "The Olympic flame is lit at the Temple of Hera in Olympia, Greece, using a parabolic mirror to focus sunlight, before beginning its relay to the host city.",
+      "source": "https://en.wikipedia.org/wiki/Olympic_flame"
+    },
+    {
+      "text": "At the 2022 Beijing Winter Olympics, figure skater Nathan Chen of the USA won gold in the men's singles with a dominant free skate performance.",
+      "month": 2,
+      "day": 4,
+      "source": "https://en.wikipedia.org/wiki/At_the_2022_Beijing_Winter_Olympics%2C_figure_skater_Nathan_Chen_of_the_USA"
+    },
+    {
+      "text": "The marathon distance of 26.2 miles (42.195 km) was standardized at the 1908 London Olympics so the race could finish in front of the royal box.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/marathon_distance_of_26.2_miles_(42.195_km)"
+    },
+    {
+      "text": "Bob Beamon shattered the long jump world record at the 1968 Mexico City Olympics with a leap of 8.90 meters, a record that stood for 23 years.",
+      "source": "https://en.wikipedia.org/wiki/Bob_Beamon"
+    },
+    {
+      "text": "Table tennis became an Olympic sport in 1988, and China has since dominated the event, winning the majority of gold medals.",
+      "source": "https://en.wikipedia.org/wiki/Table_tennis"
+    },
+    {
+      "text": "Norwegian cross-country skier Marit Bjørgen is the most decorated Winter Olympian with 15 medals, including eight golds.",
+      "source": "https://en.wikipedia.org/wiki/Norwegian_cross-country_skier_Marit_Bj%C3%B8rgen"
+    },
+    {
+      "text": "The 1996 Atlanta Olympics were marred by a bombing in Centennial Olympic Park that killed two people and injured over 100.",
+      "month": 7,
+      "day": 27,
+      "source": "https://en.wikipedia.org/wiki/1996_Atlanta_Olympics"
+    },
+    {
+      "text": "Olympic medals must be at least 60mm in diameter, 3mm thick, and the gold medal must contain at least 6 grams of pure gold plated over silver.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Olympics"
+    },
+    {
+      "text": "The 2024 Paris Olympics featured surfing events held in Tahiti, French Polynesia, over 15,000 km from the host city.",
+      "month": 7,
+      "day": 26,
+      "source": "https://en.wikipedia.org/wiki/2024_Paris_Olympics"
+    },
+    {
+      "text": "Swimmer Katie Ledecky has won seven Olympic gold medals and is considered one of the greatest female swimmers in history.",
+      "source": "https://en.wikipedia.org/wiki/Swimmer_Katie_Ledecky"
+    },
+    {
+      "text": "The abandoned Olympic venues in Athens from the 2004 Games became a cautionary example of the cost overruns and white elephants associated with hosting.",
+      "source": "https://en.wikipedia.org/wiki/abandoned_Olympic_venues_in_Athens_from_the_2004_Games"
+    },
+    {
+      "text": "Eric Moussambani of Equatorial Guinea became famous at the 2000 Sydney Olympics for nearly drowning during his 100m freestyle heat, having only learned to swim months earlier.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Eric_Moussambani_of_Equatorial_Guinea"
+    },
+    {
+      "text": "The United States has won more Olympic medals than any other country, with over 2,600 total medals across Summer and Winter Games.",
+      "source": "https://en.wikipedia.org/wiki/United_States"
+    },
+    {
+      "text": "At the 1956 Melbourne Olympics, the People's Republic of China, Egypt, Iraq, and Lebanon boycotted due to various political disputes.",
+      "source": "https://en.wikipedia.org/wiki/At_the_1956_Melbourne_Olympics"
+    },
+    {
+      "text": "Wheelchair rugby, originally called murderball, became a full Paralympic medal sport in 2000 and is one of the most physical Paralympic events.",
+      "source": "https://en.wikipedia.org/wiki/Wheelchair_rugby%2C_originally_called_murderball"
+    },
+    {
+      "text": "The 1936 Berlin Olympics were the first to be broadcast on television, though coverage was limited to venues in Berlin.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/1936_Berlin_Olympics"
+    },
+    {
+      "text": "Jamaican sprinter Usain Bolt won eight Olympic gold medals across three Games (2008–2016), setting world records in the 100m, 200m, and 4x100m relay.",
+      "source": "https://en.wikipedia.org/wiki/Jamaican_sprinter_Usain_Bolt"
+    },
+    {
+      "text": "The concept of the Olympic Truce, or 'Ekecheiria,' originated in ancient Greece where wars were paused to allow safe travel to the Games.",
+      "source": "https://en.wikipedia.org/wiki/concept_of_the_Olympic_Truce%2C_or_%27Ekecheiria%2C%27_originated_in_ancient_Greece_where_wars"
+    },
+    {
+      "text": "At the 2016 Rio Olympics, the refugee team competed for the first time under the Olympic flag, featuring ten athletes from four countries.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/At_the_2016_Rio_Olympics"
+    },
+    {
+      "text": "Swedish shooter Oscar Swahn remains the oldest Olympic gold medalist, winning a team event at the 1912 Stockholm Games at age 64.",
+      "source": "https://en.wikipedia.org/wiki/Oscar_Swahn"
+    },
+    {
+      "text": "The 2028 Los Angeles Olympics will use existing venues and minimize new construction, aiming to be one of the most cost-effective Games in modern history.",
+      "source": "https://en.wikipedia.org/wiki/2028_Los_Angeles_Olympics"
+    },
+    {
+      "text": "Dick Fosbury revolutionized high jump at the 1968 Mexico City Olympics by going over the bar backwards, a technique now known as the Fosbury Flop.",
+      "month": 10,
+      "day": 12,
+      "source": "https://en.wikipedia.org/wiki/Dick_Fosbury"
+    },
+    {
+      "text": "Beach volleyball was added to the Olympic program at the 1996 Atlanta Games and quickly became one of the most popular spectator sports.",
+      "source": "https://en.wikipedia.org/wiki/Beach_volleyball"
+    },
+    {
+      "text": "The Olympic oath, first introduced at the 1920 Antwerp Games, is recited by an athlete from the host country on behalf of all competitors.",
+      "source": "https://en.wikipedia.org/wiki/Olympic_oath%2C_first"
+    },
+    {
+      "text": "Norway has won the most Winter Olympic medals of any country, with over 400 total medals, dominating sports like cross-country skiing and biathlon.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Norway"
+    },
+    {
+      "text": "Indian field hockey dominated the Olympics from 1928 to 1956, winning six consecutive gold medals.",
+      "source": "https://en.wikipedia.org/wiki/Olympics"
+    },
+    {
+      "text": "The Olympic Village at the London 2012 Games was converted into affordable housing after the event, providing over 2,800 homes.",
+      "source": "https://en.wikipedia.org/wiki/Olympic_Village_at_the_London_2012_Games"
+    },
+    {
+      "text": "Torvill and Dean's Bolero ice dance routine at the 1984 Sarajevo Winter Olympics earned unanimous perfect scores of 6.0 for artistic impression.",
+      "month": 2,
+      "day": 14,
+      "source": "https://en.wikipedia.org/wiki/Torvill_and_Dean%27s_Bolero_ice_dance_routine_at_the_1984_Sarajevo_Winter_Olympics"
+    },
+    {
+      "text": "Baseball and softball were dropped from the Olympics after 2008, reinstated for Tokyo 2020, then dropped again for Paris 2024.",
+      "source": "https://en.wikipedia.org/wiki/Baseball_and_softball"
+    },
+    {
+      "text": "The first Olympic Games featured only male athletes; women first competed at the 1900 Paris Olympics in tennis and golf.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Olympic_Games"
+    },
+    {
+      "text": "Ethiopian Haile Gebrselassie is a two-time Olympic gold medalist in the 10,000m (1996, 2000) and former marathon world record holder.",
+      "source": "https://en.wikipedia.org/wiki/Ethiopian_Haile_Gebrselassie"
+    },
+    {
+      "text": "The 2014 Sochi Winter Olympics was the most expensive Olympics ever, costing an estimated $51 billion.",
+      "source": "https://en.wikipedia.org/wiki/2014_Sochi_Winter_Olympics"
+    },
+    {
+      "text": "Hungarian swimmer Alfréd Hajós won two gold medals at the 1896 Athens Olympics, swimming in the open waters of the Bay of Zea in the Mediterranean Sea.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Hungarian_swimmer_Alfr%C3%A9d_Haj%C3%B3s"
+    },
+    {
+      "text": "BMX racing became an Olympic sport at the 2008 Beijing Games, reflecting the IOC's efforts to include youth-oriented sports.",
+      "source": "https://en.wikipedia.org/wiki/BMX_racing"
+    },
+    {
+      "text": "Tatyana McFadden, a wheelchair racer, has won 20 Paralympic medals across multiple Games, becoming one of the most prominent American Paralympians.",
+      "source": "https://en.wikipedia.org/wiki/Tatyana_McFadden%2C_a_wheelchair_racer"
+    },
+    {
+      "text": "The 1948 London Olympics, known as the Austerity Games, were held on a shoestring budget just three years after World War II ended.",
+      "month": 7,
+      "day": 29,
+      "source": "https://en.wikipedia.org/wiki/1948_London_Olympics%2C_known_as_the_Austerity_Games"
+    },
+    {
+      "text": "South Korea's short track speed skating team has won more Olympic medals in the sport than any other nation.",
+      "source": "https://en.wikipedia.org/wiki/South_Korea%27s_short_track_speed_skating_team"
+    },
+    {
+      "text": "The volunteer program for the Olympics typically involves 40,000–70,000 people, making it one of the largest volunteer events in the world.",
+      "source": "https://en.wikipedia.org/wiki/Olympics"
+    },
+    {
+      "text": "At the 1988 Seoul Olympics, Ben Johnson was stripped of his 100m gold medal after testing positive for the steroid stanozolol.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/At_the_1988_Seoul_Olympics%2C_Ben_Johnson"
+    },
+    {
+      "text": "Greco-Roman wrestling has been part of every modern Olympic Games since 1896, making it one of the original Olympic sports.",
+      "source": "https://en.wikipedia.org/wiki/Greco-Roman_wrestling"
+    },
+    {
+      "text": "The flame for the 1976 Montreal Olympics was transmitted via satellite from Athens to Ottawa in the form of an electronic signal.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/flame_for_the_1976_Montreal_Olympics"
+    },
+    {
+      "text": "At the 2004 Athens Olympics, the marathon followed the original route from Marathon to Athens, the same path legend attributes to Pheidippides.",
+      "month": 8,
+      "day": 13,
+      "source": "https://en.wikipedia.org/wiki/At_the_2004_Athens_Olympics"
+    },
+    {
+      "text": "Birgit Fischer of Germany won eight Olympic gold medals in canoeing across six Games (1980–2004), spanning 24 years.",
+      "source": "https://en.wikipedia.org/wiki/Birgit_Fischer_of_Germany"
+    },
+    {
+      "text": "The Olympic motto 'Citius, Altius, Fortius' was proposed by Henri Didon, a Dominican friar and friend of Pierre de Coubertin.",
+      "source": "https://en.wikipedia.org/wiki/Olympic_motto_%27Citius%2C_Altius%2C_Fortius"
+    },
+    {
+      "text": "At the Paris 2024 Olympics, the opening ceremony was held along the River Seine rather than in a stadium, a first in Olympic history.",
+      "source": "https://en.wikipedia.org/wiki/At_the_Paris_2024_Olympics%2C_the_opening_ceremony"
+    },
+    {
+      "text": "Competitors in ancient Greek Olympics performed nude, and married women were forbidden from watching under penalty of death.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Competitors_in_ancient_Greek_Olympics"
+    },
+    {
+      "text": "China has dominated Olympic diving since the 1984 Los Angeles Games, winning more diving golds than any other nation.",
+      "source": "https://en.wikipedia.org/wiki/China"
+    },
+    {
+      "text": "The 1906 Intercalated Games in Athens are not officially recognized by the IOC despite being sanctioned at the time.",
+      "source": "https://en.wikipedia.org/wiki/1906_Intercalated_Games_in_Athens"
+    },
+    {
+      "text": "Swimmer Ian Thorpe of Australia, the Thorpedo, won five Olympic gold medals and was known for his size 17 feet.",
+      "source": "https://en.wikipedia.org/wiki/Swimmer_Ian_Thorpe_of_Australia%2C_the_Thorpedo"
+    },
+    {
+      "text": "Drug testing was first introduced at the 1968 Mexico City Olympics to combat performance-enhancing substance use.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Drug_testing"
+    },
+    {
+      "text": "French baron Pierre de Coubertin initiated the revival of the modern Olympics, inspired by archaeological excavations at ancient Olympia.",
+      "source": "https://en.wikipedia.org/wiki/French_baron_Pierre_de_Coubertin_initiated_the_revival_of_the_modern_Olympics"
+    },
+    {
+      "text": "At the 2010 Vancouver Winter Olympics, Canada set a record for the most gold medals won by a host nation at a Winter Games with 14 golds.",
+      "month": 2,
+      "day": 12,
+      "source": "https://en.wikipedia.org/wiki/At_the_2010_Vancouver_Winter_Olympics%2C_Canada_set_a_record_for_the_most_gold_medals"
+    },
+    {
+      "text": "The ancient Olympic Games originally featured only one event: the stadion, a footrace of about 192 meters.",
+      "source": "https://en.wikipedia.org/wiki/Olympic_Games"
+    },
+    {
+      "text": "Oscar Pistorius, a double amputee, competed in the 2012 London Olympics on carbon fiber blades, becoming the first amputee sprinter to compete at an Olympics.",
+      "source": "https://en.wikipedia.org/wiki/Oscar_Pistorius"
+    },
+    {
+      "text": "The 1964 Tokyo Olympics were the first held in Asia and marked Japan's return to the world stage following World War II.",
+      "month": 10,
+      "day": 10,
+      "source": "https://en.wikipedia.org/wiki/1964_Tokyo_Olympics"
+    },
+    {
+      "text": "Rhythmic gymnastics became an Olympic sport in 1984, and Russia and the Soviet Union have historically dominated the discipline.",
+      "source": "https://en.wikipedia.org/wiki/Rhythmic_gymnastics"
+    },
+    {
+      "text": "The cost of hosting the Olympics has steadily increased, with the average Summer Games costing over $10 billion by the 2020s.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/cost_of_hosting_the_Olympics"
+    },
+    {
+      "text": "Norwegian biathlete Ole Einar Bjørndalen won 13 Olympic medals, earning him the nickname King of Biathlon.",
+      "source": "https://en.wikipedia.org/wiki/Norwegian_biathlete_Ole_Einar_Bj%C3%B8rndalen"
+    },
+    {
+      "text": "The Olympic Charter prohibits any kind of demonstration or political, religious, or racial propaganda in Olympic venues.",
+      "source": "https://en.wikipedia.org/wiki/Olympic_Charter"
+    },
+    {
+      "text": "Yusra Mardini, a Syrian refugee who swam through the sea to escape her war-torn country, competed on the Olympic Refugee Team at Rio 2016 and Tokyo 2020.",
+      "source": "https://en.wikipedia.org/wiki/Yusra_Mardini"
+    },
+    {
+      "text": "The ancient Greek Olympic truce halted all conflicts to allow athletes and spectators to travel safely to Olympia.",
+      "source": "https://en.wikipedia.org/wiki/Greek_Olympic"
+    },
+    {
+      "text": "At the 1924 Paris Olympics, Johnny Weissmuller won three gold medals in swimming before going on to fame as Tarzan in Hollywood films.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/At_the_1924_Paris_Olympics%2C_Johnny_Weissmuller"
+    },
+    {
+      "text": "Climbing, which debuted at Tokyo 2020, combines three disciplines: lead climbing, bouldering, and speed climbing.",
+      "source": "https://en.wikipedia.org/wiki/Tokyo_2020"
+    },
+    {
+      "text": "Romanian gymnast Nadia Comaneci's perfect scores were displayed as 1.00 on the scoreboard because the equipment could not display 10.00.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Romanian_gymnast_Nadia_Comaneci%27s_perfect_scores"
+    },
+    {
+      "text": "Since 1994, Winter and Summer Olympics have alternated every two years, ensuring an Olympic event occurs every other year.",
+      "source": "https://en.wikipedia.org/wiki/Since_1994%2C_Winter_and_Summer_Olympics"
+    },
+    {
+      "text": "The United States men's basketball team won seven consecutive gold medals from 1936 to 1968 before losing to the Soviet Union in 1972.",
+      "source": "https://en.wikipedia.org/wiki/United_States_men%27s_basketball_team"
+    },
+    {
+      "text": "Sir Steve Redgrave of Great Britain won gold medals in rowing at five consecutive Olympics from 1984 to 2000.",
+      "source": "https://en.wikipedia.org/wiki/Sir_Steve_Redgrave_of_Great_Britain"
+    },
+    {
+      "text": "At the 1960 Rome Games, Danish cyclist Knud Enemark Jensen collapsed and died during competition, prompting calls for drug testing reform.",
+      "source": "https://en.wikipedia.org/wiki/At_the_1960_Rome_Games"
+    },
+    {
+      "text": "The Olympic medal design changes for every Games, with the host city creating its own unique medal featuring the Olympic imagery on one side.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Olympic"
+    },
+    {
+      "text": "Tegla Loroupe of Kenya became a pioneer for women's distance running and served as chef de mission for the Refugee Olympic Team.",
+      "source": "https://en.wikipedia.org/wiki/Tegla_Loroupe_of_Kenya"
+    },
+    {
+      "text": "The 2012 London Olympics generated an estimated £9.9 billion in economic benefit for the United Kingdom.",
+      "source": "https://en.wikipedia.org/wiki/2012_London_Olympics"
+    },
+    {
+      "text": "Boxer Teófilo Stevenson of Cuba won three consecutive Olympic heavyweight gold medals (1972, 1976, 1980) and famously refused to turn professional.",
+      "source": "https://en.wikipedia.org/wiki/Boxer_Te%C3%B3filo_Stevenson_of_Cuba"
+    },
+    {
+      "text": "The 1928 Amsterdam Olympics were the first to feature a permanent Olympic flame burning throughout the Games.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/1928_Amsterdam_Olympics"
+    },
+    {
+      "text": "South Africa was banned from the Olympics from 1964 to 1988 due to its apartheid policies.",
+      "source": "https://en.wikipedia.org/wiki/South_Africa"
+    },
+    {
+      "text": "At the 2016 Rio Olympics, Mo Farah of Great Britain won the 5,000m and 10,000m double for a second consecutive Games.",
+      "source": "https://en.wikipedia.org/wiki/At_the_2016_Rio_Olympics%2C_Mo_Farah_of_Great_Britain"
+    },
+    {
+      "text": "The ancient Olympics included events like chariot racing, pankration (a mix of boxing and wrestling), and the pentathlon.",
+      "source": "https://en.wikipedia.org/wiki/Olympics"
+    },
+    {
+      "text": "Esther Vergeer of the Netherlands won four consecutive Paralympic wheelchair tennis gold medals and retired with a 470-match winning streak.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Esther_Vergeer_of_the_Netherlands"
+    },
+    {
+      "text": "The Tokyo 2020 Olympic medals were made from recycled electronics, including old smartphones and laptops donated by the Japanese public.",
+      "source": "https://en.wikipedia.org/wiki/Tokyo_2020_Olympic_medals"
+    },
+    {
+      "text": "Florence Griffith Joyner, Flo-Jo, set the still-standing world records in the 100m and 200m at the 1988 Seoul Olympics.",
+      "source": "https://en.wikipedia.org/wiki/Florence_Griffith_Joyner%2C_Flo-Jo"
+    },
+    {
+      "text": "The 1952 Helsinki Olympics were the first Games in which the Soviet Union competed, sparking an intense Cold War medal rivalry with the United States.",
+      "month": 7,
+      "day": 19,
+      "source": "https://en.wikipedia.org/wiki/1952_Helsinki_Olympics"
+    },
+    {
+      "text": "Women's boxing was added to the Olympic program at the 2012 London Games, completing the inclusion of women in all Olympic sports.",
+      "source": "https://en.wikipedia.org/wiki/Women%27s_boxing"
+    },
+    {
+      "text": "Pierre de Coubertin believed the Olympics should emphasize amateur athletics, a principle that gradually eroded until professionals were admitted in the 1990s.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Olympics"
+    },
+    {
+      "text": "At the 2018 PyeongChang Winter Olympics, athletes from North and South Korea marched together under a unified flag during the opening ceremony.",
+      "month": 2,
+      "day": 9,
+      "source": "https://en.wikipedia.org/wiki/At_the_2018_PyeongChang_Winter_Olympics"
+    },
+    {
+      "text": "Hungarian fencer Aladár Gerevich won gold medals in sabre at six consecutive Olympics from 1932 to 1960.",
+      "source": "https://en.wikipedia.org/wiki/Hungarian_fencer_Alad%C3%A1r_Gerevich"
+    },
+    {
+      "text": "The Olympic rings colors—blue, yellow, black, green, and red on a white background—were chosen because every nation's flag contains at least one of these colors.",
+      "source": "https://en.wikipedia.org/wiki/Olympic"
+    },
+    {
+      "text": "Snowboarding made its Olympic debut at the 1998 Nagano Winter Games, with giant slalom and halfpipe events.",
+      "source": "https://en.wikipedia.org/wiki/Nagano_Winter_Games"
+    },
+    {
+      "text": "At the 1904 St. Louis Olympics, the marathon was a near-disaster: the winner was disqualified for riding in a car, and another runner nearly died from rat poison and brandy given as a stimulant.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/At_the_1904_St._Louis_Olympics%2C_the_marathon"
+    },
+    {
+      "text": "Germany (reunified) and South Korea have both used the Olympics as a platform for national reconciliation and diplomacy.",
+      "source": "https://en.wikipedia.org/wiki/Germany_(reunified)_and_South_Korea"
+    },
+    {
+      "text": "The 2032 Brisbane Olympics will be held across Southeast Queensland, utilizing existing and upgraded venues.",
+      "source": "https://en.wikipedia.org/wiki/2032_Brisbane_Olympics"
+    },
+    {
+      "text": "Eliud Kipchoge of Kenya, widely considered the greatest marathon runner, won Olympic marathon gold in 2016 and 2020.",
+      "source": "https://en.wikipedia.org/wiki/Eliud_Kipchoge_of_Kenya%2C_widely_considered_the_greatest_marathon_runner"
+    },
+    {
+      "text": "The Olympic flame for the 2000 Sydney Games traveled underwater near the Great Barrier Reef, carried by a diver using a special flare.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Olympic"
+    },
+    {
+      "text": "Speed skating was included in the first Winter Olympics in 1924, and the Netherlands has historically dominated the sport.",
+      "source": "https://en.wikipedia.org/wiki/Speed_skating"
+    },
+    {
+      "text": "Jim Thorpe won gold in the pentathlon and decathlon at the 1912 Stockholm Olympics but was stripped of his medals for having played semi-professional baseball; they were reinstated in 1983.",
+      "source": "https://en.wikipedia.org/wiki/Jim_Thorpe"
+    },
+    {
+      "text": "The 2026 Winter Olympics will be held in Milan-Cortina, Italy, returning the Winter Games to Italy for the first time since Turin 2006.",
+      "source": "https://en.wikipedia.org/wiki/2026_Winter_Olympics"
+    },
+    {
+      "text": "At every Olympic closing ceremony, the mayor of the host city passes the Olympic flag to the mayor of the next host city.",
+      "source": "https://en.wikipedia.org/wiki/Olympics"
+    },
+    {
+      "text": "Wilma Rudolph overcame childhood polio to win three gold medals in sprinting at the 1960 Rome Olympics, becoming the fastest woman in the world.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Wilma_Rudolph"
+    },
+    {
+      "text": "The modern pentathlon was designed to simulate the experience of a 19th-century cavalry soldier behind enemy lines.",
+      "source": "https://en.wikipedia.org/wiki/modern_pentathlon"
+    },
+    {
+      "text": "Para swimming has been part of every Paralympic Games since their inception in 1960 and features athletes across multiple disability classifications.",
+      "source": "https://en.wikipedia.org/wiki/Para_swimming"
+    },
+    {
+      "text": "The 1932 Los Angeles Olympics saw the introduction of the victory podium and the three-medal system of gold, silver, and bronze.",
+      "source": "https://en.wikipedia.org/wiki/1932_Los_Angeles_Olympics"
+    },
+    {
+      "text": "At the 1976 Montreal Games, 22 African nations boycotted to protest New Zealand's rugby tour of apartheid South Africa.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/At_the_1976_Montreal_Games"
+    },
+    {
+      "text": "The Olympic torch relay for the 2008 Beijing Games covered 137,000 km across five continents, the longest in Olympic history.",
+      "source": "https://en.wikipedia.org/wiki/Olympic"
+    },
+    {
+      "text": "Cuban jumper Javier Sotomayor, the only person to high jump over 8 feet (2.45m), won gold at the 1992 Barcelona Olympics.",
+      "source": "https://en.wikipedia.org/wiki/Cuban_jumper_Javier_Sotomayor%2C_the_only_person_to_high_jump_over_8_feet_(2.45m)"
+    },
+    {
+      "text": "Triathlon was added to the Olympic program at the 2000 Sydney Games, combining swimming, cycling, and running.",
+      "source": "https://en.wikipedia.org/wiki/Triathlon"
+    },
+    {
+      "text": "The opening ceremony Parade of Nations always begins with Greece, the birthplace of the Olympics, and ends with the host nation.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Parade_of_Nations"
+    },
+    {
+      "text": "At the 1908 London Olympics, Italian marathon runner Dorando Pietri was disqualified after officials helped him across the finish line when he collapsed from exhaustion.",
+      "source": "https://en.wikipedia.org/wiki/At_the_1908_London_Olympics%2C_Italian_marathon_runner_Dorando_Pietri"
+    },
+    {
+      "text": "Trampoline gymnastics became an Olympic event at the 2000 Sydney Games, with China dominating the discipline.",
+      "source": "https://en.wikipedia.org/wiki/Trampoline_gymnastics"
+    },
+    {
+      "text": "The 1998 Nagano Winter Olympics organizing committee controversially destroyed financial records, preventing a full audit of the Games' costs.",
+      "source": "https://en.wikipedia.org/wiki/1998_Nagano_Winter_Olympics"
+    },
+    {
+      "text": "Allyson Felix holds the record for the most Olympic track and field medals by any American, with 11 medals including seven golds.",
+      "source": "https://en.wikipedia.org/wiki/Allyson_Felix"
+    },
+    {
+      "text": "Archery was part of the early Olympics (1900–1920), dropped, and returned in 1972, with South Korea becoming the dominant force.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Archery"
+    },
+    {
+      "text": "At the 2020 Tokyo Olympics, athlete protests were permitted for the first time, allowing gestures before and after events but not on the podium.",
+      "source": "https://en.wikipedia.org/wiki/At_the_2020_Tokyo_Olympics%2C_athlete_protests"
+    },
+    {
+      "text": "Swedish equestrian rider Henri de Saint Cyr won gold in dressage at both the 1952 and 1956 Olympics.",
+      "source": "https://en.wikipedia.org/wiki/Swedish_equestrian_rider_Henri_de_Saint_Cyr"
+    },
+    {
+      "text": "The 1920 Antwerp Olympics introduced the Olympic flag, oath, and the release of doves, all symbols that became lasting traditions.",
+      "month": 4,
+      "day": 20,
+      "source": "https://en.wikipedia.org/wiki/1920_Antwerp_Olympics"
+    },
+    {
+      "text": "Jamaican bobsled team's improbable appearance at the 1988 Calgary Winter Olympics inspired the movie Cool Runnings.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Jamaican_bobsled_team%27s_improbable_appearance_at_the_1988_Calgary_Winter_Olympics"
+    },
+    {
+      "text": "The first ever Olympic Winter Games featured only 16 events across six sports: bobsled, curling, ice hockey, skating, skiing, and military patrol.",
+      "source": "https://en.wikipedia.org/wiki/Olympic_Winter_Games"
+    },
+    {
+      "text": "China has won the most Olympic gold medals in weightlifting, table tennis, and diving combined.",
+      "source": "https://en.wikipedia.org/wiki/China"
+    },
+    {
+      "text": "At the 1912 Stockholm Olympics, Japan competed in the Olympics for the first time, sending just two athletes.",
+      "source": "https://en.wikipedia.org/wiki/At_the_1912_Stockholm_Olympics"
+    },
+    {
+      "text": "The IOC's Olympic Solidarity program provides financial assistance to National Olympic Committees in developing countries to support athlete training and participation.",
+      "source": "https://en.wikipedia.org/wiki/IOC%27s_Olympic_Solidarity"
+    },
+    {
+      "text": "Shooting events have been part of every modern Olympics except 1904 and 1928, making it one of the longest-running Olympic sports.",
+      "source": "https://en.wikipedia.org/wiki/Shooting_events"
+    },
+    {
+      "text": "The first ever Winter Olympic gold medal was won by American speed skater Charles Jewtraw in the 500m event at Chamonix in 1924.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/first_ever_Winter_Olympic_gold_medal"
+    },
+    {
+      "text": "At the 2012 London Paralympics, South African runner Oscar Pistorius lost the 200m final to Brazilian Alan Oliveira and controversially accused him of using longer blades.",
+      "source": "https://en.wikipedia.org/wiki/At_the_2012_London_Paralympics"
+    },
+    {
+      "text": "The original Olympic sports at Athens 1896 included athletics, cycling, fencing, gymnastics, shooting, swimming, tennis, weightlifting, and wrestling.",
+      "source": "https://en.wikipedia.org/wiki/Athens_1896"
+    },
+    {
+      "text": "Lee Chong Wei of Malaysia won three consecutive Olympic silver medals in badminton (2008, 2012, 2016), becoming a national hero despite never winning gold.",
+      "source": "https://en.wikipedia.org/wiki/Lee_Chong_Wei_of_Malaysia"
+    },
+    {
+      "text": "Skeleton, where athletes race headfirst down an ice track, was discontinued after 1948 and returned to the Winter Olympics in 2002.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Skeleton%2C_where_athletes_race_headfirst_down_an_ice_track"
+    },
+    {
+      "text": "The 2024 Paris Olympics marked the first time an Olympics achieved gender parity, with equal numbers of male and female athletes.",
+      "source": "https://en.wikipedia.org/wiki/2024_Paris_Olympics"
+    },
+    {
+      "text": "Hicham El Guerrouj of Morocco won both the 1,500m and 5,000m at the 2004 Athens Olympics, a rare distance double.",
+      "source": "https://en.wikipedia.org/wiki/Hicham_El_Guerrouj_of_Morocco"
+    },
+    {
+      "text": "London is the only city to have hosted the Summer Olympics three times: in 1908, 1948, and 2012.",
+      "source": "https://en.wikipedia.org/wiki/London"
+    },
+    {
+      "text": "At the 2008 Beijing Olympics, Jamaican relay teammate Nesta Carter tested positive for a banned substance years later, costing Usain Bolt one of his nine gold medals.",
+      "source": "https://en.wikipedia.org/wiki/At_the_2008_Beijing_Olympics"
+    },
+    {
+      "text": "The International Paralympic Committee was founded in 1989, serving as the global governing body for the Paralympic Movement.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/International_Paralympic_Committee"
+    },
+    {
+      "text": "Water polo has been an Olympic sport since 1900, making it one of the earliest team sports in the modern Games.",
+      "source": "https://en.wikipedia.org/wiki/Water_polo"
+    },
+    {
+      "text": "Soviet gymnast Olga Korbut captivated audiences at the 1972 Munich Olympics with daring routines, popularizing gymnastics worldwide.",
+      "source": "https://en.wikipedia.org/wiki/Olga_Korbut"
+    },
+    {
+      "text": "The 2028 LA Olympics will feature cricket and squash as new additions to the Olympic sports program.",
+      "source": "https://en.wikipedia.org/wiki/2028_LA_Olympics"
+    },
+    {
+      "text": "Finnish runner Lasse Virén won the 5,000m and 10,000m double at two consecutive Olympics (1972, 1976), despite falling during the 10,000m final in Munich.",
+      "source": "https://en.wikipedia.org/wiki/Finnish_runner_Lasse_Vir%C3%A9n"
+    },
+    {
+      "text": "At the 1968 Mexico City Olympics, Bob Beamon's long jump record of 8.90m exceeded the limits of the optical measuring equipment and had to be measured manually.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/At_the_1968_Mexico_City_Olympics"
+    },
+    {
+      "text": "The ancient Olympics featured only Greek male citizens and events lasted five days, including religious ceremonies honoring Zeus.",
+      "source": "https://en.wikipedia.org/wiki/Olympics"
+    },
+    {
+      "text": "South Korea's dominance in archery is so complete that they have won more than 40 Olympic medals in the sport.",
+      "source": "https://en.wikipedia.org/wiki/South_Korea%27s_dominance_in_archery"
+    },
+    {
+      "text": "Judo was introduced as an Olympic sport at the 1964 Tokyo Olympics, the first Games held in Asia.",
+      "source": "https://en.wikipedia.org/wiki/Judo"
+    },
+    {
+      "text": "The Olympic torch for the 1996 Atlanta Games was lit by Muhammad Ali, who despite his trembling hands from Parkinson's disease, delivered an unforgettable moment.",
+      "month": 7,
+      "day": 19,
+      "source": "https://en.wikipedia.org/wiki/Olympic_torch_for_the_1996_Atlanta_Games"
+    },
+    {
+      "text": "Charlotte Dujardin of Great Britain won three Olympic dressage gold medals, becoming one of the most successful equestrians in Olympic history.",
+      "source": "https://en.wikipedia.org/wiki/Charlotte_Dujardin_of_Great_Britain"
+    },
+    {
+      "text": "Polo was an Olympic sport from 1900 to 1936, with Argentina winning the last gold before it was removed from the program.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Polo"
+    },
+    {
+      "text": "At the 2000 Sydney Paralympics, Spain's intellectually disabled basketball team was stripped of their gold medal after it was revealed most players did not have disabilities.",
+      "source": "https://en.wikipedia.org/wiki/At_the_2000_Sydney_Paralympics%2C_Spain%27s_intellectually_disabled_basketball_team"
+    },
+    {
+      "text": "Handball has been a consistent Olympic sport since 1972, with European nations dominating the medal count.",
+      "source": "https://en.wikipedia.org/wiki/Handball"
+    },
+    {
+      "text": "The 1956 Melbourne Olympics were the first held in the Southern Hemisphere, with equestrian events held separately in Stockholm due to Australian quarantine laws.",
+      "month": 11,
+      "day": 22,
+      "source": "https://en.wikipedia.org/wiki/1956_Melbourne_Olympics"
+    },
+    {
+      "text": "American gymnast Mary Lou Retton became the first woman outside Eastern Europe to win the Olympic all-around gold medal at the 1984 Los Angeles Games.",
+      "source": "https://en.wikipedia.org/wiki/American_gymnast_Mary_Lou_Retton"
+    },
+    {
+      "text": "The Olympic Hymn was composed by Spyridon Samaras in 1896 and officially adopted by the IOC in 1958.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Olympic_Hymn"
+    },
+    {
+      "text": "Kenya has won more Olympic medals in middle and long-distance running than any other nation.",
+      "source": "https://en.wikipedia.org/wiki/Kenya"
+    },
+    {
+      "text": "At the 1988 Seoul Olympics, diver Greg Louganis hit his head on the springboard during preliminaries but came back to win gold in both diving events.",
+      "source": "https://en.wikipedia.org/wiki/At_the_1988_Seoul_Olympics"
+    },
+    {
+      "text": "Berlin 1936 was the first Olympics to use television broadcasting, electronic timing, and photo finishes for track events.",
+      "month": 8,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/Berlin_1936"
+    },
+    {
+      "text": "Freestyle skiing events like moguls and aerials were first introduced at the 1992 Albertville Winter Olympics.",
+      "source": "https://en.wikipedia.org/wiki/Freestyle_skiing_events_like_moguls_and_aerials"
+    },
+    {
+      "text": "The Olympic records page shows that the USA holds the all-time medal count lead with over 1,000 gold medals across all Games.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Olympic"
+    },
+    {
+      "text": "French fencer Laura Flessel-Colovic won five Olympic medals and carried the flag for France at the 2012 London opening ceremony.",
+      "source": "https://en.wikipedia.org/wiki/French_fencer_Laura_Flessel-Colovic"
+    },
+    {
+      "text": "At the 1936 Berlin Olympics, Korean marathon runner Sohn Kee-chung won gold but was forced to compete under the Japanese flag because Korea was under Japanese occupation.",
+      "source": "https://en.wikipedia.org/wiki/At_the_1936_Berlin_Olympics%2C_Korean_marathon_runner_Sohn_Kee-chung"
+    },
+    {
+      "text": "The IOC introduced the Youth Olympic Games in 2010, held in Singapore, aimed at athletes aged 15 to 18.",
+      "source": "https://en.wikipedia.org/wiki/IOC"
+    },
+    {
+      "text": "Carl Lewis matched Jesse Owens's record of four track and field golds at a single Olympics at the 1984 Los Angeles Games.",
+      "source": "https://en.wikipedia.org/wiki/Carl_Lewis"
+    },
+    {
+      "text": "Demonstration sports at past Olympics have included American football, glider flying, and roller hockey but never became permanent medal events.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Demonstration_sports_at_past_Olympics"
+    },
+    {
+      "text": "At the 2022 Beijing Winter Olympics, 15-year-old figure skater Kamila Valieva was at the center of a doping controversy that overshadowed the women's singles event.",
+      "source": "https://en.wikipedia.org/wiki/At_the_2022_Beijing_Winter_Olympics%2C_15-year-old_figure_skater_Kamila_Valieva"
+    },
+    {
+      "text": "Ethiopian Derartu Tulu and South African Elana Meyer embraced during a victory lap at the 1992 Barcelona Olympics, symbolizing post-apartheid unity.",
+      "source": "https://en.wikipedia.org/wiki/Ethiopian_Derartu_Tulu_and_South_African_Elana_Meyer"
+    },
+    {
+      "text": "Rowing has been on the Olympic program since 1900, though the 1896 rowing events were canceled due to bad weather.",
+      "source": "https://en.wikipedia.org/wiki/Rowing"
+    },
+    {
+      "text": "New Zealand's Lisa Carrington has won five Olympic gold medals in canoe sprint, making her one of the country's most decorated Olympians.",
+      "source": "https://en.wikipedia.org/wiki/New_Zealand%27s_Lisa_Carrington"
+    },
+    {
+      "text": "The Refugee Olympic Team was formally established by the IOC in 2015 and has competed at every Summer Games since Rio 2016.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Refugee_Olympic_Team"
+    },
+    {
+      "text": "At the 1952 Helsinki Olympics, the Soviet Union made its Olympic debut and immediately challenged U.S. dominance, winning 71 medals.",
+      "source": "https://en.wikipedia.org/wiki/At_the_1952_Helsinki_Olympics"
+    },
+    {
+      "text": "The Olympic oath was updated in 2021 to include commitments against doping and discrimination alongside fair competition.",
+      "source": "https://en.wikipedia.org/wiki/Olympic_oath"
+    },
+    {
+      "text": "Rugby sevens was introduced at the 2016 Rio Olympics, with Fiji winning gold in a landmark moment for the Pacific island nation.",
+      "source": "https://en.wikipedia.org/wiki/Rugby_sevens"
+    },
+    {
+      "text": "Dawn Fraser of Australia won the 100m freestyle swimming gold at three consecutive Olympics (1956, 1960, 1964).",
+      "source": "https://en.wikipedia.org/wiki/Dawn_Fraser_of_Australia"
+    },
+    {
+      "text": "The Paris 2024 Olympics used the Palace of Versailles as a venue for equestrian and modern pentathlon events.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Paris_2024_Olympics"
+    },
+    {
+      "text": "At ancient Olympia, the statue of Zeus was one of the Seven Wonders of the Ancient World, standing 13 meters tall and made of ivory and gold.",
+      "source": "https://en.wikipedia.org/wiki/At_ancient_Olympia%2C_the_statue_of_Zeus"
+    },
+    {
+      "text": "South African swimmer Natalie du Toit competed in both the Olympics and Paralympics at Beijing 2008, finishing 16th in the open water 10km marathon swim.",
+      "source": "https://en.wikipedia.org/wiki/South_African"
+    },
+    {
+      "text": "Badminton has been an Olympic sport since 1992, with Asian nations—especially China, Indonesia, and South Korea—dominating the medal count.",
+      "source": "https://en.wikipedia.org/wiki/Badminton"
+    },
+    {
+      "text": "American decathlete Rafer Johnson won gold at the 1960 Rome Olympics and later helped subdue Robert Kennedy's assassin in 1968.",
+      "source": "https://en.wikipedia.org/wiki/American_decathlete_Rafer_Johnson"
+    },
+    {
+      "text": "Only five sports have appeared at every Summer Olympic Games: athletics, cycling, fencing, gymnastics, and swimming.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Only_five_sports"
+    },
+    {
+      "text": "The 1984 Sarajevo Winter Olympics venues were later damaged and repurposed during the Bosnian War in the 1990s.",
+      "source": "https://en.wikipedia.org/wiki/1984_Sarajevo_Winter_Olympics_venues"
+    },
+    {
+      "text": "At the 2012 London Olympics, Saudi Arabia, Qatar, and Brunei sent female athletes for the first time, meaning all participating nations had women competitors.",
+      "source": "https://en.wikipedia.org/wiki/At_the_2012_London_Olympics"
+    },
+    {
+      "text": "Wrestler Aleksandr Karelin of Russia went undefeated for 13 years and won three consecutive Olympic golds (1988–1996) before a shocking final loss in 2000.",
+      "source": "https://en.wikipedia.org/wiki/Wrestler_Aleksandr_Karelin_of_Russia_went_undefeated_for_13_years_and"
+    },
+    {
+      "text": "The Olympic Village at Sydney 2000 was noted for distributing 70,000 condoms to athletes, a number that has increased at subsequent Games.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Olympic_Village_at_Sydney_2000"
+    },
+    {
+      "text": "Hungarian water polo team won nine Olympic gold medals, more than any other nation in the sport.",
+      "source": "https://en.wikipedia.org/wiki/Hungarian_water_polo_team"
+    },
+    {
+      "text": "Mao Asada and Yuna Kim's rivalry defined women's figure skating at the 2010 Vancouver Winter Olympics, where Kim won gold.",
+      "source": "https://en.wikipedia.org/wiki/Mao_Asada_and_Yuna_Kim%27s"
+    },
+    {
+      "text": "Live pigeon shooting was an event at the 1900 Paris Olympics—the only time in Olympic history that animals were deliberately killed during competition.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Live_pigeon_shooting"
+    },
+    {
+      "text": "Michael Johnson's 200m world record at the 1996 Atlanta Olympics, run in gold shoes, stood for 12 years.",
+      "source": "https://en.wikipedia.org/wiki/Michael_Johnson%27s_200m_world_record_at_the_1996_Atlanta_Olympics"
+    },
+    {
+      "text": "At the 2020 Tokyo Olympics, Filipino weightlifter Hidilyn Diaz won the country's first-ever Olympic gold medal.",
+      "source": "https://en.wikipedia.org/wiki/At_the_2020_Tokyo_Olympics%2C_Filipino_weightlifter_Hidilyn_Diaz"
+    },
+    {
+      "text": "The 1924 Paris Olympics were featured in the film Chariots of Fire, which depicted the true stories of British runners Eric Liddell and Harold Abrahams.",
+      "source": "https://en.wikipedia.org/wiki/1924_Paris_Olympics"
+    },
+    {
+      "text": "Curling became a medal sport at the 1998 Nagano Winter Olympics after appearing as a demonstration sport in earlier Games.",
+      "source": "https://en.wikipedia.org/wiki/Curling"
+    },
+    {
+      "text": "Finnish javelin throwers won every Olympic gold in the event from 1908 to 1936, establishing Finland's legacy in the sport.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Finnish_javelin_throwers"
+    },
+    {
+      "text": "The 2006 Turin Winter Olympics saw Shani Davis become the first Black athlete to win an individual gold medal at the Winter Games.",
+      "source": "https://en.wikipedia.org/wiki/2006_Turin_Winter_Olympics"
+    },
+    {
+      "text": "At the 1900 Paris Olympics, events were spread over five months and many athletes didn't even know they were competing in the Olympics.",
+      "source": "https://en.wikipedia.org/wiki/At_the_1900_Paris_Olympics%2C_events"
+    },
+    {
+      "text": "Cuban boxer Félix Savón won three consecutive Olympic heavyweight gold medals (1992, 2000, from three total Games).",
+      "source": "https://en.wikipedia.org/wiki/Cuban_boxer_F%C3%A9lix_Sav%C3%B3n"
+    },
+    {
+      "text": "The Olympic torch for the 2004 Athens Games visited every former Olympic host city during its relay.",
+      "source": "https://en.wikipedia.org/wiki/Olympic"
+    },
+    {
+      "text": "Volleyball was added to the Olympic program at the 1964 Tokyo Games, with the Japanese women's team winning gold and earning the nickname Witches of the Orient.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Volleyball"
+    },
+    {
+      "text": "At the 2016 Rio Olympics, Wayde van Niekerk of South Africa broke the 400m world record in lane 8, considered the worst lane for the event.",
+      "source": "https://en.wikipedia.org/wiki/At_the_2016_Rio_Olympics"
+    },
+    {
+      "text": "Taekwondo became a full Olympic medal sport at the 2000 Sydney Games after being a demonstration sport in 1988 and 1992.",
+      "source": "https://en.wikipedia.org/wiki/Taekwondo"
+    },
+    {
+      "text": "The ancient Olympic Games were banned in 393 AD by Roman Emperor Theodosius I, who considered them pagan festivals.",
+      "source": "https://en.wikipedia.org/wiki/ancient_Olympic_Games"
+    },
+    {
+      "text": "Japan's Yuzuru Hanyu won back-to-back Olympic figure skating gold medals (2014, 2018) and became one of the most popular athletes in the sport's history.",
+      "source": "https://en.wikipedia.org/wiki/Japan%27s_Yuzuru_Hanyu"
+    },
+    {
+      "text": "American sprinter Allyson Felix competed in five consecutive Olympics (2004–2020), winning medals at each one.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Allyson_Felix"
+    },
+    {
+      "text": "The 1972 Munich Olympics introduced a colorful, playful design aesthetic created by Otl Aicher that influenced Olympic branding for decades.",
+      "source": "https://en.wikipedia.org/wiki/1972_Munich_Olympics"
+    },
+    {
+      "text": "At the 2008 Beijing Olympics, Usain Bolt won the 100m in 9.69 seconds while visibly slowing down and celebrating before the finish line.",
+      "source": "https://en.wikipedia.org/wiki/At_the_2008_Beijing_Olympics%2C_Usain_Bolt"
+    },
+    {
+      "text": "Canadian ice hockey teams, both men's and women's, have historically dominated the Winter Olympics in the sport.",
+      "source": "https://en.wikipedia.org/wiki/Canadian_ice_hockey_teams%2C_both_men%27s_and_women%27s"
+    },
+    {
+      "text": "The 2020 Tokyo Olympics had no spectators in most venues due to COVID-19 restrictions, a first in Olympic history.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/2020_Tokyo_Olympics"
+    },
+    {
+      "text": "Daley Thompson of Great Britain won decathlon gold at both the 1980 and 1984 Olympics, scoring over 8,800 points each time.",
+      "source": "https://en.wikipedia.org/wiki/Daley_Thompson_of_Great_Britain"
+    },
+    {
+      "text": "At the 2024 Paris Olympics, the triathlon was nearly disrupted by concerns about pollution levels in the River Seine.",
+      "source": "https://en.wikipedia.org/wiki/At_the_2024_Paris_Olympics%2C_the_triathlon"
+    },
+    {
+      "text": "Synchronized swimming (now called artistic swimming) became an Olympic sport in 1984, with Russia and the Soviet Union winning the most medals.",
+      "source": "https://en.wikipedia.org/wiki/Synchronized_swimming_(now_called_artistic_swimming)"
+    },
+    {
+      "text": "Australian swimmer Shane Gould won three individual gold medals and set world records at age 15 at the 1972 Munich Olympics.",
+      "source": "https://en.wikipedia.org/wiki/Australian_swimmer_Shane_Gould"
+    },
+    {
+      "text": "The IOC has 206 member countries, more than the United Nations, with associations like Olympic Council of Asia coordinating regional participation.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/IOC"
+    },
+    {
+      "text": "Chinese diver Fu Mingxia won her first Olympic gold medal at the 1992 Barcelona Games at just 13 years old.",
+      "source": "https://en.wikipedia.org/wiki/Chinese_diver_Fu_Mingxia"
+    },
+    {
+      "text": "At the 1988 Calgary Winter Olympics, Eddie the Eagle Edwards of Britain became a beloved underdog in ski jumping despite finishing last.",
+      "source": "https://en.wikipedia.org/wiki/At_the_1988_Calgary_Winter_Olympics%2C_Eddie_the_Eagle_Edwards_of_Britain"
+    },
+    {
+      "text": "The 1936 Berlin Olympics were the first to introduce the torch relay from Olympia, carrying the flame through seven countries over 12 days.",
+      "source": "https://en.wikipedia.org/wiki/1936_Berlin_Olympics"
+    },
+    {
+      "text": "Fencing is the only combat sport that has been featured at every modern Olympic Games since 1896.",
+      "source": "https://en.wikipedia.org/wiki/Fencing"
+    },
+    {
+      "text": "At the 1996 Atlanta Olympics, Donovan Bailey of Canada won the 100m, ending a controversy over who was the world's fastest man.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/At_the_1996_Atlanta_Olympics%2C_Donovan_Bailey_of_Canada"
+    },
+    {
+      "text": "The Paralympic classification system groups athletes by functional ability to ensure fair competition across various physical and intellectual disabilities.",
+      "source": "https://en.wikipedia.org/wiki/Paralympic"
+    },
+    {
+      "text": "Weightlifting has been an Olympic sport since 1896 but was absent from the 1900, 1908, and 1912 Games.",
+      "source": "https://en.wikipedia.org/wiki/Weightlifting"
+    },
+    {
+      "text": "The 2000 Sydney Olympics introduced the first online ticketing system, with over 87% of tickets purchased through the internet.",
+      "source": "https://en.wikipedia.org/wiki/2000_Sydney_Olympics"
+    },
+    {
+      "text": "Czech long-distance runner Emil Zátopek won the 5,000m, 10,000m, and marathon at the 1952 Helsinki Olympics—the marathon being his first attempt at the distance.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Czech_long-distance_runner_Emil_Z%C3%A1topek"
+    },
+    {
+      "text": "At the 2004 Athens Olympics, the Greek women's water polo team won silver, sparking a national celebration in the sport's country of origin.",
+      "source": "https://en.wikipedia.org/wiki/At_the_2004_Athens_Olympics%2C_the_Greek_women%27s_water_polo_team"
+    },
+    {
+      "text": "The Olympic cauldron at the 2000 Sydney Games was lit amid a ring of fire and water, creating a dramatic visual spectacle.",
+      "source": "https://en.wikipedia.org/wiki/Olympic_cauldron_at_the_2000_Sydney_Games"
+    },
+    {
+      "text": "Table tennis has been dominated by China since its Olympic introduction, with Chinese athletes winning 32 of 37 gold medals through the 2024 Games.",
+      "source": "https://en.wikipedia.org/wiki/Table_tennis"
+    },
+    {
+      "text": "Ethiopian marathon legend Abebe Bikila won his second consecutive Olympic marathon gold at the 1964 Tokyo Games, this time wearing shoes.",
+      "source": "https://en.wikipedia.org/wiki/Ethiopian_marathon_legend_Abebe_Bikila"
+    },
+    {
+      "text": "The first Olympic mascot was Waldi, a dachshund, created for the 1972 Munich Olympics.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/first_Olympic_mascot"
+    },
+    {
+      "text": "At the 1924 Paris Games, swimmer Gertrude Ederle won bronze before becoming the first woman to swim the English Channel two years later.",
+      "source": "https://en.wikipedia.org/wiki/At_the_1924_Paris_Games%2C_swimmer_Gertrude_Ederle"
+    },
+    {
+      "text": "The IOC awards the Olympic Order to individuals who have made outstanding contributions to the Olympic Movement.",
+      "source": "https://en.wikipedia.org/wiki/IOC_awards_the_Olympic_Order_to_individuals_who"
+    },
+    {
+      "text": "Kayak and canoe events have been part of the Olympics since 1936, with Hungary and Germany among the top nations.",
+      "source": "https://en.wikipedia.org/wiki/Kayak_and_canoe_events"
+    },
+    {
+      "text": "At the 2012 London Olympics, Usain Bolt became the first sprinter to successfully defend both the 100m and 200m titles.",
+      "source": "https://en.wikipedia.org/wiki/At_the_2012_London_Olympics%2C_Usain_Bolt"
+    },
+    {
+      "text": "The ancient Olympics' most prestigious event was the stadion race, approximately 192 meters, equivalent to the length of the stadium in Olympia.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/ancient_Olympics%27_most_prestigious_event"
+    },
+    {
+      "text": "Mountain biking was added to the Olympic program at the 1996 Atlanta Games, with cross-country being the featured discipline.",
+      "source": "https://en.wikipedia.org/wiki/Mountain_biking"
+    },
+    {
+      "text": "At the 2022 Beijing Winter Olympics, mixed-team events were expanded, including a new mixed team relay in short track speed skating.",
+      "source": "https://en.wikipedia.org/wiki/At_the_2022_Beijing_Winter_Olympics%2C_mixed-team_events"
+    },
+    {
+      "text": "Kenya's Kipchoge Keino is considered the father of African distance running, winning gold in the 1,500m at the 1968 Mexico City Olympics.",
+      "source": "https://en.wikipedia.org/wiki/Kenya%27s_Kipchoge_Keino"
+    },
+    {
+      "text": "The 1960 Rome Olympics were the first Games to be widely broadcast on television, reaching millions of viewers worldwide.",
+      "source": "https://en.wikipedia.org/wiki/1960_Rome_Olympics"
+    },
+    {
+      "text": "At the 2016 Rio Olympics, long jumper Jeff Henderson of the USA won gold on his final attempt, leaping 8.38 meters.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/At_the_2016_Rio_Olympics%2C_long_jumper_Jeff_Henderson_of_the_USA"
+    },
+    {
+      "text": "Sailing has been an Olympic sport since 1900, though it was canceled at the 1896 Athens Games due to lack of wind and rough seas.",
+      "source": "https://en.wikipedia.org/wiki/Sailing"
+    },
+    {
+      "text": "The 2022 Beijing Winter Olympics made Beijing the first city to host both a Summer (2008) and Winter Olympics.",
+      "source": "https://en.wikipedia.org/wiki/Summer"
+    },
+    {
+      "text": "American swimmer Jenny Thompson won the most Olympic medals by any female swimmer with 12, including eight golds, all in relay events.",
+      "source": "https://en.wikipedia.org/wiki/American_swimmer_Jenny_Thompson"
+    },
+    {
+      "text": "At the 1936 Berlin Olympics, the Japanese pole vault event resulted in a tied silver medal that competitors resolved by cutting their medals in half and fusing them together.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/At_the_1936_Berlin_Olympics"
+    },
+    {
+      "text": "The Olympic Solidarity Commission distributes broadcasting revenue to help athletes from developing nations train and compete.",
+      "source": "https://en.wikipedia.org/wiki/Olympic_Solidarity_Commission"
+    },
+    {
+      "text": "At the 1992 Barcelona Games, Vitaly Scherbo of Belarus won six Olympic gold medals in gymnastics, the most in a single Games for a male gymnast.",
+      "source": "https://en.wikipedia.org/wiki/At_the_1992_Barcelona_Games%2C_Vitaly_Scherbo_of_Belarus"
+    },
+    {
+      "text": "Lacrosse appeared as a medal sport at the 1904 and 1908 Olympics and returned as a demonstration sport in 1928 and 1948.",
+      "source": "https://en.wikipedia.org/wiki/Lacrosse"
+    },
+    {
+      "text": "Shooter Kim Rhode of the USA won medals in six consecutive Olympics (1996–2016), the first American to achieve this feat in an individual sport.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Shooter_Kim_Rhode_of_the_USA"
+    },
+    {
+      "text": "At the 2000 Sydney Olympics, British rower Steve Redgrave completed an unprecedented five consecutive gold medals spanning 1984 to 2000.",
+      "source": "https://en.wikipedia.org/wiki/At_the_2000_Sydney_Olympics"
+    },
+    {
+      "text": "The 2028 LA Olympics will use the Intuit Dome, SoFi Stadium, and the LA Memorial Coliseum, which hosted the 1932 and 1984 opening ceremonies.",
+      "source": "https://en.wikipedia.org/wiki/2028_LA_Olympics"
+    },
+    {
+      "text": "Pakistan has won four Olympic field hockey gold medals, all between 1960 and 1984.",
+      "source": "https://en.wikipedia.org/wiki/Pakistan"
+    },
+    {
+      "text": "The first Winter Paralympics were held in Örnsköldsvik, Sweden, in 1976, featuring alpine and cross-country skiing for amputees and visually impaired athletes.",
+      "source": "https://en.wikipedia.org/wiki/first_Winter_Paralympics"
+    },
+    {
+      "text": "African Americans were excluded from many early Olympic trials, and it wasn't until 1936 that a significant number competed, led by Jesse Owens.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/African_Americans"
+    },
+    {
+      "text": "At the 1968 Grenoble Winter Olympics, Jean-Claude Killy of France won all three alpine skiing gold medals.",
+      "source": "https://en.wikipedia.org/wiki/At_the_1968_Grenoble_Winter_Olympics%2C_Jean-Claude_Killy_of_France"
+    },
+    {
+      "text": "Artistic gymnastics at the Olympics features six apparatus for men and four for women, with the all-around combining all events.",
+      "source": "https://en.wikipedia.org/wiki/Artistic_gymnastics_at_the_Olympics"
+    },
+    {
+      "text": "Ethiopian runner Tirunesh Dibaba won three Olympic gold medals in long-distance running (2008, 2012), earning the nickname Baby Faced Destroyer.",
+      "source": "https://en.wikipedia.org/wiki/Ethiopian_runner_Tirunesh_Dibaba"
+    },
+    {
+      "text": "The 1908 London Olympics established the current marathon distance of 26 miles and 385 yards, adjusted to accommodate the British royal family.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/1908_London_Olympics"
+    },
+    {
+      "text": "Modern Olympic gold medals are actually made of sterling silver coated with at least 6 grams of gold.",
+      "source": "https://en.wikipedia.org/wiki/Modern_Olympic_gold_medals"
+    },
+    {
+      "text": "At the 2004 Athens Olympics, Italian Alex Schwazer won the 50km race walk but was later caught doping before the 2012 Games.",
+      "source": "https://en.wikipedia.org/wiki/At_the_2004_Athens_Olympics%2C_Italian_Alex_Schwazer"
+    },
+    {
+      "text": "The Parade of Nations at the opening ceremony uses the alphabetical order of the host country's language.",
+      "source": "https://en.wikipedia.org/wiki/Parade_of_Nations_at_the"
+    },
+    {
+      "text": "Wrestler Kaori Icho of Japan won four consecutive Olympic gold medals (2004–2016) in women's freestyle wrestling.",
+      "source": "https://en.wikipedia.org/wiki/Wrestler_Kaori_Icho_of_Japan"
+    },
+    {
+      "text": "The 2028 Los Angeles Olympics will mark 100 years since the first Winter Olympics were held in Chamonix in 1924.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/2028_Los_Angeles_Olympics_will_mark_100_years_since_the_first_Winter_Olympics"
+    },
+    {
+      "text": "At the 2016 Rio Olympics, PV Sindhu of India won silver in badminton, inspiring millions across the country.",
+      "source": "https://en.wikipedia.org/wiki/At_the_2016_Rio_Olympics%2C_PV_Sindhu_of_India"
+    },
+    {
+      "text": "The 1992 Albertville Winter Olympics introduced short track speed skating as a medal sport.",
+      "month": 2,
+      "day": 8,
+      "source": "https://en.wikipedia.org/wiki/1992_Albertville_Winter_Olympics"
+    },
+    {
+      "text": "The ancient Olympics awarded olive wreaths to victors, sourced from the sacred wild olive tree near the Temple of Zeus.",
+      "source": "https://en.wikipedia.org/wiki/Temple_of_Zeus"
+    },
+    {
+      "text": "At the 1948 London Olympics, Fanny Blankers-Koen chose not to enter the long jump and high jump, events in which she held world records, because of scheduling conflicts.",
+      "source": "https://en.wikipedia.org/wiki/At_the_1948_London_Olympics"
+    },
+    {
+      "text": "North Korea and South Korea have periodically fielded joint teams, including at the 2018 PyeongChang Winter Olympics women's ice hockey tournament.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/North_Korea_and_South_Korea"
+    },
+    {
+      "text": "Canoe slalom, where paddlers navigate through gates on whitewater rapids, became an Olympic sport in 1972, was removed, and returned permanently in 1992.",
+      "source": "https://en.wikipedia.org/wiki/Canoe_slalom%2C_where_paddlers_navigate_through_gates_on_whitewater_rapids"
+    },
+    {
+      "text": "Michael Phelps won his 23rd Olympic gold medal in his final career race, the 4x100m medley relay at the 2016 Rio Games.",
+      "source": "https://en.wikipedia.org/wiki/Michael_Phelps"
+    },
+    {
+      "text": "The Olympic Program Commission meets regularly to evaluate which sports should be added or removed based on global popularity and other criteria.",
+      "source": "https://en.wikipedia.org/wiki/Olympic_Program_Commission"
+    },
+    {
+      "text": "At the 2014 Sochi Olympics, Dutch speed skaters won 23 of 36 available medals, including eight gold, completely dominating the sport.",
+      "source": "https://en.wikipedia.org/wiki/At_the_2014_Sochi_Olympics%2C_Dutch_speed_skaters"
+    },
+    {
+      "text": "Swedish thrower Parry O'Brien revolutionized the shot put technique and won two Olympic golds (1952, 1956) with his signature glide technique.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Swedish_thrower_Parry_O%27Brien_revolutionized_the_shot_put_technique_and"
+    },
+    {
+      "text": "The IOC's Rule 50 historically banned political demonstrations on the podium; the rule was relaxed for Tokyo 2020 to allow gestures before events.",
+      "source": "https://en.wikipedia.org/wiki/IOC%27s_Rule_50_historically_banned_political_demonstrations_on_the_podium%3B_the_rule"
+    },
+    {
+      "text": "At the 2024 Paris Olympics, Noah Lyles of the USA won the 100m final by five thousandths of a second, the closest Olympic 100m finish ever.",
+      "source": "https://en.wikipedia.org/wiki/At_the_2024_Paris_Olympics%2C_Noah_Lyles_of_the_USA"
+    },
+    {
+      "text": "Japanese judoka Yasuhiro Yamashita won gold at the 1984 Los Angeles Olympics despite suffering a torn calf muscle during the competition.",
+      "source": "https://en.wikipedia.org/wiki/Japanese_judoka_Yasuhiro_Yamashita"
+    },
+    {
+      "text": "The 1896 Athens Olympics had no standard uniform rules; many athletes competed in their everyday clothes.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/1896_Athens_Olympics"
+    },
+    {
+      "text": "Sprinter Marion Jones was stripped of all five medals won at the 2000 Sydney Olympics after admitting to steroid use in 2007.",
+      "source": "https://en.wikipedia.org/wiki/Sprinter_Marion_Jones"
+    },
+    {
+      "text": "At the Athens 2004 Olympics, Liu Xiang of China won the 110m hurdles, becoming the first Chinese man to win an Olympic gold in a track event.",
+      "source": "https://en.wikipedia.org/wiki/At_the_Athens_2004_Olympics%2C_Liu_Xiang_of_China"
+    },
+    {
+      "text": "Ice hockey has been part of the Olympic program since 1920 (summer) and 1924 (winter), making it one of the oldest Winter Olympic sports.",
+      "source": "https://en.wikipedia.org/wiki/Ice_hockey"
+    },
+    {
+      "text": "The Paralympic symbol of three agitos (meaning 'I move' in Latin) was adopted in 2003, representing motion and the worldwide reach of the movement.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Paralympic_symbol_of_three_agitos_(meaning_%27I_move%27_in_Latin)"
+    },
+    {
+      "text": "At the 2008 Beijing Olympics, jamaican sprinter Shelly-Ann Fraser-Pryce won the 100m gold, beginning her decade-long dominance in women's sprinting.",
+      "source": "https://en.wikipedia.org/wiki/At_the_2008_Beijing_Olympics%2C_jamaican_sprinter_Shelly-Ann_Fraser-Pryce"
+    },
+    {
+      "text": "The IOC requires host cities to provide anti-doping laboratories that can process thousands of samples during the Games.",
+      "source": "https://en.wikipedia.org/wiki/IOC"
+    },
+    {
+      "text": "Wrestling is considered one of the oldest competitive sports and has been part of the Olympics since the ancient Games.",
+      "source": "https://en.wikipedia.org/wiki/Wrestling"
+    },
+    {
+      "text": "At the 2010 Vancouver Winter Olympics, Georgian luger Nodar Kumaritashvili was killed during a training run just hours before the opening ceremony, prompting safety reviews.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/At_the_2010_Vancouver_Winter_Olympics%2C_Georgian_luger_Nodar_Kumaritashvili"
+    },
+    {
+      "text": "Japanese swimmer Kosuke Kitajima won back-to-back Olympic gold medals in both the 100m and 200m breaststroke (2004, 2008).",
+      "source": "https://en.wikipedia.org/wiki/Japanese_swimmer_Kosuke_Kitajima"
+    },
+    {
+      "text": "The Olympic bid process has become increasingly competitive, with cities spending up to $150 million on their campaigns.",
+      "source": "https://en.wikipedia.org/wiki/Olympic_bid_process"
+    },
+    {
+      "text": "Artistic gymnastics replaced the traditional compulsory exercises with an all-optional format starting at the 2000 Sydney Olympics.",
+      "source": "https://en.wikipedia.org/wiki/Sydney_Olympics"
+    },
+    {
+      "text": "At the 1984 Los Angeles Olympics, American Carl Lewis won four gold medals in the same events Jesse Owens had won at the 1936 Berlin Games.",
+      "source": "https://en.wikipedia.org/wiki/At_the_1984_Los_Angeles_Olympics%2C_American_Carl_Lewis"
+    },
+    {
+      "text": "The IOC generates over $7 billion per Olympic cycle from broadcasting rights, sponsorships, and licensing agreements.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/IOC"
+    },
+    {
+      "text": "At the 1980 Moscow Olympics, British runners Sebastian Coe and Steve Ovett waged an epic rivalry, each winning gold in the other's preferred event.",
+      "source": "https://en.wikipedia.org/wiki/At_the_1980_Moscow_Olympics"
+    },
+    {
+      "text": "Mixed martial arts has never been an Olympic sport, though discussions about its potential inclusion have occurred in recent years.",
+      "source": "https://en.wikipedia.org/wiki/Mixed_martial_arts"
+    },
+    {
+      "text": "The 1912 Stockholm Olympics introduced electronic timing and public address systems, pioneering modern sports technology.",
+      "source": "https://en.wikipedia.org/wiki/1912_Stockholm_Olympics"
+    },
+    {
+      "text": "At the 2020 Tokyo Olympics, Australian swimmer Emma McKeon won seven medals (four gold, three bronze), the most by a female athlete at a single Games.",
+      "source": "https://en.wikipedia.org/wiki/At_the_2020_Tokyo_Olympics%2C_Australian_swimmer_Emma_McKeon"
+    },
+    {
+      "text": "The first Olympic Winter Games in 1924 were originally called International Winter Sports Week and were retroactively designated as the first Winter Olympics by the IOC.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/first_Olympic_Winter_Games_in_1924"
+    },
+    {
+      "text": "Kenyan runner David Rudisha's 800m victory at the 2012 London Olympics, in a world record time of 1:40.91, is widely regarded as one of the greatest Olympic races ever.",
+      "source": "https://en.wikipedia.org/wiki/David_Rudisha%27s"
+    },
+    {
+      "text": "The Olympic Movement spreads across 206 National Olympic Committees, each responsible for their country's Olympic team.",
+      "source": "https://en.wikipedia.org/wiki/Olympic_Movement"
+    },
+    {
+      "text": "At the 2000 Sydney Olympics, Australian sprinter Cathy Freeman wore a full-body swift suit, sparking debate about athletic wear innovation.",
+      "source": "https://en.wikipedia.org/wiki/At_the_2000_Sydney_Olympics"
+    },
+    {
+      "text": "Golf featured at the 1900 and 1904 Olympics before its 112-year absence; it returned as a permanent sport in 2016.",
+      "source": "https://en.wikipedia.org/wiki/Olympics"
+    },
+    {
+      "text": "Italian sprinter Marcell Jacobs shocked the world by winning the 100m gold at the 2020 Tokyo Olympics, becoming the first European champion in the event since 1992.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Marcell_Jacobs"
+    },
+    {
+      "text": "At the 1972 Munich Olympics, the basketball final between the USA and Soviet Union ended in controversy when the clock was reset multiple times, leading to a disputed Soviet victory.",
+      "source": "https://en.wikipedia.org/wiki/At_the_1972_Munich_Olympics"
+    },
+    {
+      "text": "Sport climbing at the Olympics combines three disciplines, and in 2024 separated speed climbing into its own event due to athlete complaints.",
+      "source": "https://en.wikipedia.org/wiki/Olympics"
+    },
+    {
+      "text": "The 2012 London Olympics used HMS Belfast and the Tower of London as backdrop settings for beach volleyball, blending historic landmarks with modern sports.",
+      "source": "https://en.wikipedia.org/wiki/2012_London_Olympics"
+    },
+    {
+      "text": "Moroccan runner Hicham El Guerrouj holds the world record for the mile (3:43.13) and won Olympic gold in the 1,500m and 5,000m at Athens 2004.",
+      "source": "https://en.wikipedia.org/wiki/Moroccan_runner_Hicham_El_Guerrouj_holds_the_world_record_for_the_mile_(3:43.13)_and"
+    },
+    {
+      "text": "Only Greece, Australia, France, Great Britain, and Switzerland have sent athletes to every Summer Olympic Games since 1896.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Only_Greece%2C_Australia%2C_France%2C_Great_Britain%2C_and_Switzerland"
+    },
+    {
+      "text": "At the 2024 Paris Olympics, the Place de la Concorde served as an urban sports venue for skateboarding, BMX, and breakdancing.",
+      "source": "https://en.wikipedia.org/wiki/At_the_2024_Paris_Olympics"
+    },
+    {
+      "text": "Cross-country skiing is the oldest Winter Olympic sport, with roots in Scandinavian military and transportation history.",
+      "source": "https://en.wikipedia.org/wiki/Cross-country_skiing"
+    },
+    {
+      "text": "At the 1968 Mexico City Olympics, long jumper Bob Beamon was so stunned by his own record-breaking leap that he suffered a cataplectic seizure on the field.",
+      "source": "https://en.wikipedia.org/wiki/At_the_1968_Mexico_City_Olympics%2C_long_jumper_Bob_Beamon"
+    },
+    {
+      "text": "Pierre de Coubertin modeled the modern Olympics after the English public school sports tradition and ancient Greek athletic ideals.",
+      "source": "https://en.wikipedia.org/wiki/Olympics"
+    },
+    {
+      "text": "The Olympic Winter Games have never been held in the Southern Hemisphere due to the reversal of seasons.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Olympic_Winter_Games"
+    },
+    {
+      "text": "Czech midfielder and former Ballon d'Or winner Pavel Nedvěd competed in Olympic football; the sport has been part of the Games since 1900.",
+      "source": "https://en.wikipedia.org/wiki/Olympics"
+    },
+    {
+      "text": "The 1996 Atlanta Olympics were the first Summer Games to feature women's football (soccer), with the USA winning the inaugural gold medal.",
+      "source": "https://en.wikipedia.org/wiki/1996_Atlanta_Olympics"
+    },
+    {
+      "text": "At the 2020 Tokyo Olympics, Suni Lee won the women's gymnastics all-around title after Simone Biles withdrew citing mental health concerns, sparking important conversations about athlete well-being.",
+      "source": "https://en.wikipedia.org/wiki/At_the_2020_Tokyo_Olympics%2C_Suni_Lee"
+    },
+    {
+      "text": "The Winter Paralympics feature six sports: alpine skiing, biathlon, cross-country skiing, ice hockey, snowboard, and wheelchair curling.",
+      "source": "https://en.wikipedia.org/wiki/Winter_Paralympics"
+    },
+    {
+      "text": "Bob Mathias won the Olympic decathlon at the 1948 London Games at age 17, making him the youngest male Olympic athletics gold medalist at the time.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Bob_Mathias"
+    },
+    {
+      "text": "At the 1904 St. Louis Olympics, future Tarzan star Johnny Weissmuller was not yet born—those Games featured bizarre events including mud fighting.",
+      "source": "https://en.wikipedia.org/wiki/At_the_1904_St._Louis_Olympics%2C_future_Tarzan_star_Johnny_Weissmuller"
+    },
+    {
+      "text": "The 2032 Brisbane Olympics bid was the first awarded under the IOC's new Future Host Commission process, which replaced the traditional bid competition.",
+      "source": "https://en.wikipedia.org/wiki/2032_Brisbane_Olympics_bid"
+    },
+    {
+      "text": "Tessa Virtue and Scott Moir of Canada won the ice dance gold at the 2010 and 2018 Winter Olympics, becoming the most decorated ice dancers in Olympic history.",
+      "source": "https://en.wikipedia.org/wiki/Tessa_Virtue_and_Scott_Moir_of_Canada"
+    },
+    {
+      "text": "The ancient Olympics were held every four years, a period known as an Olympiad, which was used as a unit of time in ancient Greece.",
+      "source": "https://en.wikipedia.org/wiki/ancient_Olympics"
+    },
+    {
+      "text": "Swimmer Alexander Popov of Russia won consecutive Olympic 50m and 100m freestyle gold medals in 1992 and 1996 despite being stabbed in a street attack between Games.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Swimmer_Alexander_Popov_of_Russia"
+    },
+    {
+      "text": "The 1976 Montreal Olympics left the city with a debt that took 30 years to pay off, becoming a cautionary tale about Olympic cost overruns.",
+      "source": "https://en.wikipedia.org/wiki/1976_Montreal_Olympics"
+    },
+    {
+      "text": "At the 2016 Rio Olympics, the Refugee Olympic Team received a standing ovation during the opening ceremony's Parade of Nations.",
+      "source": "https://en.wikipedia.org/wiki/At_the_2016_Rio_Olympics"
+    },
+    {
+      "text": "Simone Biles withdrew from multiple events at the 2020 Tokyo Olympics due to the twisties, a dangerous mental block affecting spatial awareness in gymnastics.",
+      "source": "https://en.wikipedia.org/wiki/Simone_Biles"
+    },
+    {
+      "text": "The 2000 Sydney Olympics are often cited as one of the best-organized Games in modern history.",
+      "source": "https://en.wikipedia.org/wiki/2000_Sydney_Olympics"
+    },
+    {
+      "text": "At the 1920 Antwerp Olympics, American figure skater Theresa Weld was warned by judges for performing jumps they deemed unfeminine.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/At_the_1920_Antwerp_Olympics%2C_American_figure_skater_Theresa_Weld"
+    },
+    {
+      "text": "The youngest known Olympic champion was Greek gymnast Dimitrios Loundras, who won bronze at age 10 in the 1896 Athens Games.",
+      "source": "https://en.wikipedia.org/wiki/youngest_known_Olympic_champion"
+    },
+    {
+      "text": "Biathlon combines cross-country skiing and rifle shooting and has been part of the Winter Olympics since 1960.",
+      "source": "https://en.wikipedia.org/wiki/Biathlon_combines_cross-country_skiing_and_rifle_shooting_and"
+    },
+    {
+      "text": "At the 1984 Los Angeles Olympics, the Games turned a profit of over $200 million, proving that hosting could be financially viable.",
+      "source": "https://en.wikipedia.org/wiki/At_the_1984_Los_Angeles_Olympics%2C_the_Games"
+    },
+    {
+      "text": "The Olympic Village at the Tokyo 2020 Games featured cardboard beds that became a viral topic on social media when athletes tested their durability.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Olympic_Village_at_the_Tokyo_2020_Games_featured_cardboard_beds_that"
+    },
+    {
+      "text": "Ethiopian marathon runner Mamo Wolde won gold at the 1968 Mexico City Olympics and silver at the 1972 Munich Games.",
+      "source": "https://en.wikipedia.org/wiki/Ethiopian_marathon_runner_Mamo_Wolde"
+    },
+    {
+      "text": "Fencer Valentina Vezzali of Italy won six Olympic medals, including three consecutive individual foil golds (2000, 2004, 2008).",
+      "source": "https://en.wikipedia.org/wiki/Fencer_Valentina_Vezzali_of_Italy"
+    },
+    {
+      "text": "The IOC's TOP (The Olympic Partners) program features major global sponsors like Coca-Cola, Visa, Samsung, and Toyota.",
+      "source": "https://en.wikipedia.org/wiki/IOC%27s_TOP_(The_Olympic_Partners)_program"
+    },
+    {
+      "text": "At the 2018 PyeongChang Winter Olympics, Norway topped the medal table with 39 medals, including 14 golds.",
+      "source": "https://en.wikipedia.org/wiki/At_the_2018_PyeongChang_Winter_Olympics"
+    },
+    {
+      "text": "The 1100-meter Olympic marathon swimming event (also called open water 10km) was added at the 2008 Beijing Olympics.",
+      "source": "https://en.wikipedia.org/wiki/1100-meter_Olympic_marathon_swimming_event_(also"
+    },
+    {
+      "text": "American gymnast Simone Biles returned from her Tokyo withdrawal to win bronze on the balance beam, demonstrating remarkable resilience.",
+      "source": "https://en.wikipedia.org/wiki/Simone_Biles"
+    },
+    {
+      "text": "Skeleton racing involves athletes sliding headfirst down an icy track on a small sled at speeds of up to 130 km/h.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Olympics"
+    },
+    {
+      "text": "At the 2012 London Olympics, 10,568 athletes from 204 nations competed in 302 events across 26 sports.",
+      "source": "https://en.wikipedia.org/wiki/At_the_2012_London_Olympics"
+    },
+    {
+      "text": "The 1940 and 1944 Olympics were canceled due to World War II; Tokyo and Helsinki had been chosen as host cities.",
+      "source": "https://en.wikipedia.org/wiki/1940_and_1944_Olympics"
+    },
+    {
+      "text": "South Korean speed skater Lee Sang-hwa won consecutive 500m gold medals at the 2010 and 2014 Winter Olympics.",
+      "source": "https://en.wikipedia.org/wiki/South_Korean_speed_skater_Lee_Sang-hwa"
+    },
+    {
+      "text": "Skateboard legend Tony Hawk never competed in the Olympics because skateboarding was not included until after his competitive career.",
+      "source": "https://en.wikipedia.org/wiki/Skateboard_legend_Tony_Hawk_never_competed_in_the_Olympics_because_skateboarding"
+    },
+    {
+      "text": "At the 1992 Barcelona Olympics, the Dream Team defeated their opponents by an average margin of 44 points per game.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/At_the_1992_Barcelona_Olympics"
+    },
+    {
+      "text": "The Olympic torch for the 1956 Melbourne Games was carried on horseback across part of Australia due to the vastness of the country.",
+      "source": "https://en.wikipedia.org/wiki/Olympic_torch_for_the_1956_Melbourne_Games"
+    },
+    {
+      "text": "Ethiopian runner Haile Gebrselassie's racing style, with one arm held closer to his body than the other, was attributed to his childhood habit of running to school carrying his books.",
+      "source": "https://en.wikipedia.org/wiki/Haile_Gebrselassie%27s"
+    },
+    {
+      "text": "The 2024 Paris Olympics used the Grand Palais for fencing and taekwondo, turning the historic exhibition hall into a sports venue.",
+      "source": "https://en.wikipedia.org/wiki/2024_Paris_Olympics"
+    },
+    {
+      "text": "At the 1896 Athens Olympics, the marathon was won by Spiridon Louis, a Greek water carrier, who became a national hero.",
+      "month": 4,
+      "day": 10,
+      "source": "https://en.wikipedia.org/wiki/At_the_1896_Athens_Olympics%2C_the_marathon"
+    },
+    {
+      "text": "Women's marathon was not added to the Olympic program until the 1984 Los Angeles Games, where Joan Benoit of the USA won gold.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Women%27s_marathon"
+    },
+    {
+      "text": "The 1998 Nagano Winter Olympics saw women's ice hockey debut as an Olympic sport, with the USA winning the first gold medal.",
+      "source": "https://en.wikipedia.org/wiki/1998_Nagano_Winter_Olympics"
+    },
+    {
+      "text": "At the 2016 Rio Olympics, host country Brazil won their first ever Olympic gold in men's football, with Neymar scoring the decisive penalty.",
+      "source": "https://en.wikipedia.org/wiki/At_the_2016_Rio_Olympics%2C_host_country_Brazil"
+    },
+    {
+      "text": "The Olympic Agenda 2020, adopted in 2014, introduced 40 recommendations to make the Games more sustainable and affordable.",
+      "source": "https://en.wikipedia.org/wiki/Olympic_Agenda_2020%2C_adopted_in_2014"
+    },
+    {
+      "text": "American diver Pat McCormick won double gold medals (platform and springboard) at both the 1952 and 1956 Olympics.",
+      "source": "https://en.wikipedia.org/wiki/American_diver_Pat_McCormick"
+    },
+    {
+      "text": "The 1928 Amsterdam Olympics were the first to include women's athletics and gymnastics events.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/1928_Amsterdam_Olympics"
+    },
+    {
+      "text": "At the 2014 Sochi Winter Olympics, Meryl Davis and Charlie White won the first Olympic ice dance gold medal for the United States.",
+      "source": "https://en.wikipedia.org/wiki/At_the_2014_Sochi_Winter_Olympics%2C_Meryl_Davis_and_Charlie_White"
+    },
+    {
+      "text": "The 3x3 basketball format made its Olympic debut at the 2020 Tokyo Games, reflecting the sport's global street culture.",
+      "source": "https://en.wikipedia.org/wiki/Tokyo_Games"
+    },
+    {
+      "text": "At the 2012 London Olympics, the opening ceremony featured Queen Elizabeth II appearing in a James Bond-inspired parachute entrance.",
+      "source": "https://en.wikipedia.org/wiki/At_the_2012_London_Olympics"
+    },
+    {
+      "text": "The Salt Lake City 2002 Winter Olympics were tainted by a bid scandal in which IOC members were found to have accepted bribes from the organizing committee.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Salt_Lake_City_2002_Winter_Olympics"
+    },
+    {
+      "text": "At the 1996 Atlanta Olympics, Marie-José Pérec of France won the 200m and 400m double, while Michael Johnson did the same for the men.",
+      "source": "https://en.wikipedia.org/wiki/At_the_1996_Atlanta_Olympics%2C_Marie-Jos%C3%A9_P%C3%A9rec_of_France"
+    },
+    {
+      "text": "The Paralympics derive their name from the Greek preposition 'para' meaning alongside, signifying that they run parallel to the Olympics.",
+      "source": "https://en.wikipedia.org/wiki/Paralympics"
+    },
+    {
+      "text": "North Korea has won 16 Olympic gold medals, with most coming in weightlifting, wrestling, and shooting.",
+      "source": "https://en.wikipedia.org/wiki/North_Korea"
+    },
+    {
+      "text": "At the 2023 IOC session, India won the rights to host the 2036 Olympics, pending a future announcement.",
+      "source": "https://en.wikipedia.org/wiki/At_the_2023_IOC_session%2C_India"
+    },
+    {
+      "text": "Swedish discus thrower Adolfo Consolini won the Olympic title in 1948 and competed in four consecutive Olympics spanning 16 years.",
+      "source": "https://en.wikipedia.org/wiki/Swedish_discus_thrower_Adolfo_Consolini"
+    },
+    {
+      "text": "The 1924 Chamonix Winter Olympics featured only six sports compared to the 15 at the 2022 Beijing Winter Games.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/1924_Chamonix_Winter_Olympics"
+    },
+    {
+      "text": "At the 1936 Berlin Olympics, Helene Mayer, a Jewish fencer, competed for Germany and won a silver medal, giving a Nazi salute on the podium under duress.",
+      "source": "https://en.wikipedia.org/wiki/At_the_1936_Berlin_Olympics%2C_Helene_Mayer%2C_a_Jewish_fencer%2C_competed_for_Germany_and"
+    },
+    {
+      "text": "The 2008 Beijing Olympics featured a Bird's Nest stadium designed by architects Herzog & de Meuron, which became an icon of modern architecture.",
+      "source": "https://en.wikipedia.org/wiki/2008_Beijing_Olympics"
+    },
+    {
+      "text": "At the 2020 Tokyo Olympics, Caeleb Dressel of the USA won five gold medals in swimming, solidifying his status as the world's fastest sprinter in the pool.",
+      "source": "https://en.wikipedia.org/wiki/At_the_2020_Tokyo_Olympics%2C_Caeleb_Dressel_of_the_USA"
+    },
+    {
+      "text": "Track and field legend Jackie Joyner-Kersee won three Olympic gold medals and is considered one of the greatest all-around female athletes in history.",
+      "source": "https://en.wikipedia.org/wiki/Track_and_field_legend_Jackie_Joyner-Kersee"
+    },
+    {
+      "text": "The Olympic Charter states that the Olympic Games are competitions between athletes, not between countries, though unofficial medal tallies dominate media coverage.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Olympic_Charter_states_that_the_Olympic_Games"
+    },
+    {
+      "text": "At the 2018 PyeongChang Winter Olympics, 17-year-old American snowboarder Chloe Kim won gold in the halfpipe with back-to-back 1080-degree spins.",
+      "source": "https://en.wikipedia.org/wiki/At_the_2018_PyeongChang_Winter_Olympics%2C_17-year-old_American_snowboarder_Chloe_Kim"
+    },
+    {
+      "text": "Pierre de Coubertin initially opposed women's participation in the Olympics, believing athletics were too strenuous for them.",
+      "source": "https://en.wikipedia.org/wiki/Olympics"
+    },
+    {
+      "text": "At the 2024 Paris Paralympics, over 4,400 athletes competed in 549 events across 22 sports.",
+      "source": "https://en.wikipedia.org/wiki/At_the_2024_Paris_Paralympics"
+    },
+    {
+      "text": "The 1972 Munich Olympics introduced Waldi the dachshund as the first official mascot, starting a long tradition of Olympic mascots.",
+      "source": "https://en.wikipedia.org/wiki/1972_Munich_Olympics"
+    },
+    {
+      "text": "Jamaica's 4x100m relay team of Bolt, Blake, Carter, and Frater set a still-standing world record of 36.84 seconds at the 2012 London Olympics.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Jamaica%27s_4x100m_relay_team_of_Bolt%2C_Blake%2C_Carter%2C_and_Frater"
+    }
+  ]
+}

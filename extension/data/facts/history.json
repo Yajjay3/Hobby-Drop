@@ -1,0 +1,1705 @@
+{
+  "hobby": "History",
+  "facts": [
+    {
+      "text": "The Great Wall of China took over 2,000 years to build, with construction beginning in the 7th century BC and continuing through the Ming Dynasty.",
+      "source": "https://en.wikipedia.org/wiki/Great_Wall_of_China"
+    },
+    {
+      "text": "Cleopatra VII was the last active ruler of the Ptolemaic Kingdom of Egypt, and she spoke nine languages fluently.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Cleopatra_VII"
+    },
+    {
+      "text": "Julius Caesar was assassinated by a group of Roman senators on the Ides of March.",
+      "month": 3,
+      "day": 15,
+      "source": "https://en.wikipedia.org/wiki/Julius_Caesar"
+    },
+    {
+      "text": "The Viking Age lasted from approximately 793 to 1066 AD, during which Norse seafarers explored, raided, and traded across Europe.",
+      "source": "https://en.wikipedia.org/wiki/Viking_Age"
+    },
+    {
+      "text": "The printing press was invented by Johannes Gutenberg around 1440, revolutionizing the spread of knowledge across Europe.",
+      "source": "https://en.wikipedia.org/wiki/printing_press"
+    },
+    {
+      "text": "The ancient city of Pompeii was buried under volcanic ash when Mount Vesuvius erupted in 79 AD, preserving it for nearly 2,000 years.",
+      "month": 8,
+      "day": 24,
+      "source": "https://en.wikipedia.org/wiki/ancient_city_of_Pompeii"
+    },
+    {
+      "text": "Napoleon Bonaparte stood about 5 feet 7 inches tall, which was average height for his era — the myth of his shortness came from British propaganda.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Napoleon_Bonaparte_stood_about_5_feet_7_inches_tall%2C_which"
+    },
+    {
+      "text": "The Rosetta Stone, discovered in 1799, was the key to deciphering Egyptian hieroglyphics because it contained the same text in three scripts.",
+      "source": "https://en.wikipedia.org/wiki/Rosetta_Stone"
+    },
+    {
+      "text": "The Black Death killed an estimated 75–200 million people in Eurasia during the 14th century, wiping out roughly one-third of Europe's population.",
+      "source": "https://en.wikipedia.org/wiki/Black_Death"
+    },
+    {
+      "text": "The Declaration of Independence was adopted by the Continental Congress on July 4, 1776.",
+      "month": 7,
+      "day": 4,
+      "source": "https://en.wikipedia.org/wiki/Declaration_of_Independence"
+    },
+    {
+      "text": "Ancient Romans used urine as mouthwash because it contains ammonia, which acts as a natural cleaning agent.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Ancient_Romans_used_urine_as_mouthwash_because_it"
+    },
+    {
+      "text": "The Aztec Empire's capital, Tenochtitlan, was built on an island in Lake Texcoco and had a population of over 200,000 at its peak.",
+      "source": "https://en.wikipedia.org/wiki/Aztec_Empire%27s_capital%2C_Tenochtitlan"
+    },
+    {
+      "text": "Queen Victoria ruled the British Empire for 63 years, from 1837 to 1901, the second-longest reign of any British monarch.",
+      "source": "https://en.wikipedia.org/wiki/Queen_Victoria"
+    },
+    {
+      "text": "The ancient Library of Alexandria in Egypt was one of the largest and most significant libraries of the ancient world, housing hundreds of thousands of scrolls.",
+      "source": "https://en.wikipedia.org/wiki/ancient_Library_of_Alexandria_in_Egypt"
+    },
+    {
+      "text": "D-Day, the Allied invasion of Normandy, took place on June 6, 1944, and was the largest seaborne invasion in history.",
+      "month": 6,
+      "day": 6,
+      "source": "https://en.wikipedia.org/wiki/D-Day%2C_the_Allied_invasion_of_Normandy%2C_took_place_on_June_6%2C_1944%2C_and"
+    },
+    {
+      "text": "The Indus Valley Civilization, one of the world's oldest, had advanced urban planning with grid-pattern streets and sophisticated drainage systems as early as 2600 BC.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Indus_Valley_Civilization%2C_one_of_the_world%27s_oldest"
+    },
+    {
+      "text": "The Magna Carta, signed in 1215, was one of the first documents to limit the power of a king and establish the principle that everyone is subject to the law.",
+      "source": "https://en.wikipedia.org/wiki/Magna_Carta%2C_signed_in_1215"
+    },
+    {
+      "text": "Genghis Khan's Mongol Empire became the largest contiguous land empire in history, stretching from Eastern Europe to the Sea of Japan.",
+      "source": "https://en.wikipedia.org/wiki/Genghis_Khan%27s_Mongol_Empire"
+    },
+    {
+      "text": "The Titanic sank on its maiden voyage after hitting an iceberg on April 15, 1912, killing over 1,500 people.",
+      "month": 4,
+      "day": 15,
+      "source": "https://en.wikipedia.org/wiki/Titanic"
+    },
+    {
+      "text": "The ancient Greeks held the first Olympic Games in 776 BC at Olympia, and athletes competed in the nude.",
+      "source": "https://en.wikipedia.org/wiki/Olympic_Games_in_776_BC_at_Olympia"
+    },
+    {
+      "text": "Abraham Lincoln was assassinated by John Wilkes Booth at Ford's Theatre on April 14, 1865.",
+      "month": 4,
+      "day": 14,
+      "source": "https://en.wikipedia.org/wiki/Abraham_Lincoln"
+    },
+    {
+      "text": "The Hanging Gardens of Babylon, one of the Seven Wonders of the Ancient World, may never have actually existed — no definitive archaeological evidence has been found.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Hanging_Gardens_of_Babylon%2C_one_of_the_Seven_Wonders_of_the_Ancient_World%2C_may_never"
+    },
+    {
+      "text": "The French Revolution began in 1789 with the storming of the Bastille and led to the end of the French monarchy.",
+      "source": "https://en.wikipedia.org/wiki/French_Revolution"
+    },
+    {
+      "text": "Magellan's expedition was the first to circumnavigate the globe, though Magellan himself was killed in the Philippines before completing the journey.",
+      "source": "https://en.wikipedia.org/wiki/Magellan%27s_expedition"
+    },
+    {
+      "text": "The Cuban Missile Crisis in October 1962 brought the United States and Soviet Union to the brink of nuclear war for 13 tense days.",
+      "source": "https://en.wikipedia.org/wiki/Cuban_Missile_Crisis_in_October_1962"
+    },
+    {
+      "text": "Ancient Egyptians mummified not only humans but also cats, dogs, birds, and even crocodiles as offerings to the gods.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Ancient_Egyptians"
+    },
+    {
+      "text": "The Berlin Wall fell on November 9, 1989, symbolizing the end of the Cold War and the reunification of Germany.",
+      "month": 11,
+      "day": 9,
+      "source": "https://en.wikipedia.org/wiki/Berlin_Wall"
+    },
+    {
+      "text": "The Inca Empire used a system of knotted strings called quipu for record-keeping instead of a written language.",
+      "source": "https://en.wikipedia.org/wiki/Inca_Empire_used_a_system_of_knotted_strings"
+    },
+    {
+      "text": "Winston Churchill led Britain through World War II and is famous for his rousing speeches that boosted British morale during the Blitz.",
+      "source": "https://en.wikipedia.org/wiki/Winston_Churchill_led_Britain_through_World_War_II_and"
+    },
+    {
+      "text": "The Byzantine Empire, the eastern half of the Roman Empire, lasted for over 1,000 years after the fall of Rome in 476 AD.",
+      "source": "https://en.wikipedia.org/wiki/Byzantine_Empire"
+    },
+    {
+      "text": "The Wright Brothers made the first successful powered airplane flight at Kitty Hawk, North Carolina, on December 17, 1903.",
+      "month": 12,
+      "day": 17,
+      "source": "https://en.wikipedia.org/wiki/Wright_Brothers"
+    },
+    {
+      "text": "Cleopatra lived closer in time to the Moon landing than to the construction of the Great Pyramid of Giza.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza"
+    },
+    {
+      "text": "The Crusades were a series of religious wars between Christians and Muslims fought primarily for control of the Holy Land from 1096 to 1291.",
+      "source": "https://en.wikipedia.org/wiki/Crusades"
+    },
+    {
+      "text": "The Mayan civilization developed one of the most advanced writing systems in the pre-Columbian Americas and created a remarkably accurate calendar.",
+      "source": "https://en.wikipedia.org/wiki/Mayan_civilization"
+    },
+    {
+      "text": "The assassination of Archduke Franz Ferdinand of Austria on June 28, 1914, triggered the chain of events that led to World War I.",
+      "month": 6,
+      "day": 28,
+      "source": "https://en.wikipedia.org/wiki/Archduke_Franz_Ferdinand_of_Austria"
+    },
+    {
+      "text": "During the California Gold Rush of 1849, the population of San Francisco grew from about 1,000 to 25,000 in just two years.",
+      "source": "https://en.wikipedia.org/wiki/During_the_California_Gold_Rush_of_1849%2C_the_population_of_San_Francisco"
+    },
+    {
+      "text": "The ancient Roman Colosseum could hold between 50,000 and 80,000 spectators and was used for gladiatorial contests and public spectacles.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/ancient_Roman_Colosseum_could_hold_between_50%2C000_and_80%2C000_spectators_and"
+    },
+    {
+      "text": "The Treaty of Versailles, signed in 1919, officially ended World War I but imposed harsh penalties on Germany that contributed to World War II.",
+      "source": "https://en.wikipedia.org/wiki/Treaty_of_Versailles"
+    },
+    {
+      "text": "Leonardo da Vinci wrote his notes in mirror script, from right to left, possibly to keep his ideas secret or simply because he was left-handed.",
+      "source": "https://en.wikipedia.org/wiki/Leonardo_da_Vinci"
+    },
+    {
+      "text": "The Romanov dynasty ruled Russia for over 300 years before being overthrown in the Russian Revolution of 1917.",
+      "source": "https://en.wikipedia.org/wiki/Romanov"
+    },
+    {
+      "text": "Japan's attack on Pearl Harbor on December 7, 1941, brought the United States into World War II.",
+      "month": 12,
+      "day": 7,
+      "source": "https://en.wikipedia.org/wiki/Pearl_Harbor"
+    },
+    {
+      "text": "In ancient Sparta, boys were taken from their families at age seven to begin rigorous military training known as the agoge.",
+      "source": "https://en.wikipedia.org/wiki/In_ancient_Sparta%2C_boys"
+    },
+    {
+      "text": "The Suez Canal, opened in 1869, connects the Mediterranean Sea to the Red Sea and dramatically shortened shipping routes between Europe and Asia.",
+      "source": "https://en.wikipedia.org/wiki/Suez_Canal"
+    },
+    {
+      "text": "Oxford University is older than the Aztec Empire — teaching existed at Oxford as early as 1096, while the Aztec civilization began around 1325.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Oxford_University"
+    },
+    {
+      "text": "The Spanish Inquisition, established in 1478, was a tribunal set up to enforce Catholic orthodoxy in Spain.",
+      "source": "https://en.wikipedia.org/wiki/Spanish_Inquisition%2C_established_in_1478"
+    },
+    {
+      "text": "Alexander the Great created one of the largest empires in ancient history by the age of 30, stretching from Greece to northwestern India.",
+      "source": "https://en.wikipedia.org/wiki/Alexander_the_Great"
+    },
+    {
+      "text": "The Emancipation Proclamation, issued by Abraham Lincoln on January 1, 1863, declared freedom for enslaved people in Confederate states.",
+      "month": 1,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/Emancipation_Proclamation"
+    },
+    {
+      "text": "The Space Race between the US and Soviet Union was a key part of the Cold War, culminating in the Apollo 11 moon landing in 1969.",
+      "source": "https://en.wikipedia.org/wiki/Space_Race_between_the_US_and_Soviet_Union"
+    },
+    {
+      "text": "Ancient Mesopotamia, located in modern-day Iraq, is often called the 'Cradle of Civilization' because it was home to some of the earliest known civilizations.",
+      "source": "https://en.wikipedia.org/wiki/Ancient_Mesopotamia%2C_located_in_modern-day_Iraq"
+    },
+    {
+      "text": "Turkeys were once worshipped as gods by the Mayan people, who believed they were vessels of the gods.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Turkeys"
+    },
+    {
+      "text": "The Hundred Years' War between England and France actually lasted 116 years, from 1337 to 1453.",
+      "source": "https://en.wikipedia.org/wiki/Hundred_Years%27_War"
+    },
+    {
+      "text": "The first telephone call was made by Alexander Graham Bell on March 10, 1876, when he said 'Mr. Watson, come here. I want to see you.'",
+      "month": 3,
+      "day": 10,
+      "source": "https://en.wikipedia.org/wiki/first_telephone_call"
+    },
+    {
+      "text": "The Holocaust was the systematic murder of six million Jews by the Nazi regime during World War II.",
+      "source": "https://en.wikipedia.org/wiki/Holocaust"
+    },
+    {
+      "text": "The Terracotta Army, discovered in 1974, consists of thousands of life-sized clay soldiers built to protect China's first emperor, Qin Shi Huang, in the afterlife.",
+      "source": "https://en.wikipedia.org/wiki/Terracotta_Army"
+    },
+    {
+      "text": "Martin Luther King Jr. delivered his famous 'I Have a Dream' speech during the March on Washington on August 28, 1963.",
+      "month": 8,
+      "day": 28,
+      "source": "https://en.wikipedia.org/wiki/Martin_Luther_King_Jr._delivered_his_famous_%27I"
+    },
+    {
+      "text": "Vikings used sunstones — a type of calcite crystal — to navigate the open ocean even on cloudy days.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/History"
+    },
+    {
+      "text": "The ancient city of Petra in Jordan was carved directly into rose-colored rock faces by the Nabataeans over 2,000 years ago.",
+      "source": "https://en.wikipedia.org/wiki/ancient_city_of_Petra_in_Jordan"
+    },
+    {
+      "text": "The US Constitution, ratified in 1788, is the oldest written national constitution still in use today.",
+      "source": "https://en.wikipedia.org/wiki/US_Constitution%2C_ratified_in_1788"
+    },
+    {
+      "text": "Catherine the Great of Russia expanded the Russian Empire significantly and was one of the most powerful women in history.",
+      "source": "https://en.wikipedia.org/wiki/Catherine_the_Great_of_Russia_expanded_the_Russian_Empire_significantly_and"
+    },
+    {
+      "text": "The atomic bomb was dropped on Hiroshima on August 6, 1945, killing an estimated 80,000 people instantly.",
+      "month": 8,
+      "day": 6,
+      "source": "https://en.wikipedia.org/wiki/atomic_bomb"
+    },
+    {
+      "text": "The Silk Road was an ancient network of trade routes connecting China to the Mediterranean, facilitating the exchange of goods, ideas, and cultures.",
+      "source": "https://en.wikipedia.org/wiki/Silk_Road"
+    },
+    {
+      "text": "In medieval England, animals could be put on trial and even sentenced to death for crimes such as murder.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/History"
+    },
+    {
+      "text": "The Panama Canal, completed in 1914, is a 50-mile waterway that connects the Atlantic and Pacific Oceans.",
+      "source": "https://en.wikipedia.org/wiki/Panama_Canal%2C_completed_in_1914"
+    },
+    {
+      "text": "Galileo Galilei was placed under house arrest by the Catholic Church in 1633 for supporting the heliocentric model of the solar system.",
+      "source": "https://en.wikipedia.org/wiki/Galileo_Galilei"
+    },
+    {
+      "text": "The Battle of Gettysburg in July 1863 was a turning point in the American Civil War and the bloodiest battle ever fought on American soil.",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Gettysburg_in_July_1863"
+    },
+    {
+      "text": "The ancient Egyptian pharaoh Hatshepsut was one of the most successful female rulers in history, reigning for over 20 years.",
+      "source": "https://en.wikipedia.org/wiki/ancient_Egyptian_pharaoh_Hatshepsut"
+    },
+    {
+      "text": "Neil Armstrong became the first person to walk on the Moon on July 20, 1969.",
+      "month": 7,
+      "day": 20,
+      "source": "https://en.wikipedia.org/wiki/Neil_Armstrong"
+    },
+    {
+      "text": "The Great Fire of London in 1666 destroyed much of the medieval city but also helped end the Great Plague by killing the rats that carried it.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Great_Fire_of_London_in_1666_destroyed_much_of_the_medieval_city_but_also"
+    },
+    {
+      "text": "The Ottoman Empire lasted over 600 years, from 1299 to 1922, and at its height controlled much of southeastern Europe, western Asia, and North Africa.",
+      "source": "https://en.wikipedia.org/wiki/Ottoman_Empire"
+    },
+    {
+      "text": "The Pony Express, a mail delivery service in the American Wild West, only operated for about 18 months before being replaced by the telegraph.",
+      "source": "https://en.wikipedia.org/wiki/Pony_Express"
+    },
+    {
+      "text": "The Trojan War, described in Homer's Iliad, may have been based on a real conflict between the Greeks and the city of Troy around 1200 BC.",
+      "source": "https://en.wikipedia.org/wiki/Trojan_War%2C_described_in_Homer%27s_Iliad%2C_may"
+    },
+    {
+      "text": "The Soviet Union launched Sputnik, the first artificial satellite, on October 4, 1957, marking the start of the Space Age.",
+      "month": 10,
+      "day": 4,
+      "source": "https://en.wikipedia.org/wiki/Soviet_Union"
+    },
+    {
+      "text": "In ancient Rome, gladiators rarely fought to the death — they were expensive to train and maintain, so matches were usually carefully managed.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/In_ancient_Rome%2C_gladiators_rarely_fought_to_the_death_%E2%80%94_they"
+    },
+    {
+      "text": "The Protestant Reformation began in 1517 when Martin Luther nailed his Ninety-Five Theses to the door of a church in Wittenberg, Germany.",
+      "source": "https://en.wikipedia.org/wiki/Protestant_Reformation"
+    },
+    {
+      "text": "Machu Picchu, the Incan citadel in Peru, was built around 1450 and was never discovered by Spanish conquistadors.",
+      "source": "https://en.wikipedia.org/wiki/Machu_Picchu%2C_the_Incan_citadel_in_Peru"
+    },
+    {
+      "text": "The Battle of Thermopylae in 480 BC saw 300 Spartans and their allies make a legendary last stand against a massive Persian army.",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Thermopylae_in_480_BC"
+    },
+    {
+      "text": "The first successful vaccine was developed by Edward Jenner in 1796 to prevent smallpox.",
+      "source": "https://en.wikipedia.org/wiki/first_successful_vaccine"
+    },
+    {
+      "text": "The Berlin Wall stood for 28 years, from 1961 to 1989, dividing East and West Berlin during the Cold War.",
+      "source": "https://en.wikipedia.org/wiki/Berlin_Wall"
+    },
+    {
+      "text": "Ancient Egyptian workers who built the pyramids were not slaves but paid laborers who received beer as part of their daily rations.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Ancient_Egyptian_workers_who_built_the_pyramids"
+    },
+    {
+      "text": "Christopher Columbus reached the Americas on October 12, 1492, though he believed he had reached Asia.",
+      "month": 10,
+      "day": 12,
+      "source": "https://en.wikipedia.org/wiki/Christopher_Columbus_reached_the_Americas_on_October_12%2C_1492%2C_though_he_believed_he"
+    },
+    {
+      "text": "The samurai were the warrior class of feudal Japan, following a strict code of honor called bushido.",
+      "source": "https://en.wikipedia.org/wiki/samurai"
+    },
+    {
+      "text": "The Industrial Revolution, beginning in the late 18th century, transformed economies from agrarian to industrial and began in Great Britain.",
+      "source": "https://en.wikipedia.org/wiki/Industrial_Revolution"
+    },
+    {
+      "text": "King Henry VIII of England had six wives and broke with the Catholic Church to establish the Church of England so he could annul his first marriage.",
+      "source": "https://en.wikipedia.org/wiki/King_Henry_VIII_of_England"
+    },
+    {
+      "text": "The Boston Tea Party in 1773 was a political protest by American colonists against British taxation without representation.",
+      "source": "https://en.wikipedia.org/wiki/Boston_Tea_Party_in_1773"
+    },
+    {
+      "text": "The Trans-Siberian Railway, completed in 1916, is the longest rail line in the world, stretching 5,772 miles across Russia.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Trans-Siberian_Railway%2C_completed_in_1916"
+    },
+    {
+      "text": "The Zulu Kingdom under King Shaka in the early 19th century revolutionized warfare in southern Africa with innovative military tactics.",
+      "source": "https://en.wikipedia.org/wiki/Zulu_Kingdom"
+    },
+    {
+      "text": "The construction of the Great Pyramid of Giza took approximately 20 years and required an estimated 2.3 million stone blocks.",
+      "source": "https://en.wikipedia.org/wiki/construction_of_the_Great_Pyramid_of_Giza"
+    },
+    {
+      "text": "The War of the Roses was a series of English civil wars fought between the houses of Lancaster and York from 1455 to 1487.",
+      "source": "https://en.wikipedia.org/wiki/War_of_the_Roses"
+    },
+    {
+      "text": "The first manned Moon landing occurred during Apollo 11 in 1969, fulfilling President Kennedy's goal set earlier that decade.",
+      "source": "https://en.wikipedia.org/wiki/Apollo_11_in_1969"
+    },
+    {
+      "text": "The Code of Hammurabi, dating to about 1754 BC, is one of the oldest deciphered writings of significant length and established 282 laws.",
+      "source": "https://en.wikipedia.org/wiki/Code_of_Hammurabi%2C_dating_to_about_1754_BC"
+    },
+    {
+      "text": "Albert Einstein published his theory of special relativity in 1905, fundamentally changing our understanding of space and time.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Albert_Einstein"
+    },
+    {
+      "text": "The Bastille, a medieval fortress in Paris, was stormed on July 14, 1789, marking the beginning of the French Revolution.",
+      "month": 7,
+      "day": 14,
+      "source": "https://en.wikipedia.org/wiki/Bastille%2C_a_medieval_fortress_in_Paris"
+    },
+    {
+      "text": "The Lewis and Clark Expedition from 1804 to 1806 explored the western territory of the United States all the way to the Pacific Ocean.",
+      "source": "https://en.wikipedia.org/wiki/Lewis_and_Clark_Expedition"
+    },
+    {
+      "text": "The Parthenon in Athens was built between 447 and 432 BC as a temple dedicated to the goddess Athena.",
+      "source": "https://en.wikipedia.org/wiki/Parthenon_in_Athens"
+    },
+    {
+      "text": "The Korean War, fought from 1950 to 1953, ended in an armistice but technically never ended with a peace treaty.",
+      "source": "https://en.wikipedia.org/wiki/Korean_War"
+    },
+    {
+      "text": "During the height of the Roman Empire, a network of roads spanning over 250,000 miles connected the vast territory — many are still in use today.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/During_the"
+    },
+    {
+      "text": "The Gutenberg Bible, printed around 1455, was one of the first major books produced using movable type in Europe.",
+      "source": "https://en.wikipedia.org/wiki/Gutenberg_Bible%2C_printed_around_1455"
+    },
+    {
+      "text": "The ancient Chinese invented gunpowder during the 9th century, originally using it for fireworks and later for weapons.",
+      "source": "https://en.wikipedia.org/wiki/ancient_Chinese"
+    },
+    {
+      "text": "The sinking of the Lusitania in 1915 by a German U-boat helped turn public opinion and eventually brought the United States into World War I.",
+      "source": "https://en.wikipedia.org/wiki/sinking_of_the_Lusitania_in_1915_by_a_German_U-boat"
+    },
+    {
+      "text": "The Hagia Sophia in Istanbul served as a Christian cathedral, a mosque, and is now a museum that has stood for nearly 1,500 years.",
+      "source": "https://en.wikipedia.org/wiki/Hagia_Sophia_in_Istanbul_served_as_a_Christian_cathedral%2C_a_mosque%2C_and"
+    },
+    {
+      "text": "The September 11 attacks in 2001 resulted in the deaths of nearly 3,000 people and fundamentally changed US foreign policy.",
+      "month": 9,
+      "day": 11,
+      "source": "https://en.wikipedia.org/wiki/September_11"
+    },
+    {
+      "text": "The shortest war in history was between Britain and Zanzibar on August 27, 1896, lasting only 38 to 45 minutes.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/shortest_war_in_history"
+    },
+    {
+      "text": "Feudalism was the dominant social system in medieval Europe, in which lords granted land to vassals in exchange for military service.",
+      "source": "https://en.wikipedia.org/wiki/Feudalism"
+    },
+    {
+      "text": "The ancient Phoenicians, based in modern-day Lebanon, created one of the first alphabets, which influenced Greek and Latin scripts.",
+      "source": "https://en.wikipedia.org/wiki/ancient_Phoenicians%2C_based_in_modern-day_Lebanon"
+    },
+    {
+      "text": "The Gettysburg Address, delivered by Abraham Lincoln in November 1863, is considered one of the most important speeches in American history.",
+      "source": "https://en.wikipedia.org/wiki/Gettysburg_Address%2C_delivered_by_Abraham_Lincoln_in_November_1863"
+    },
+    {
+      "text": "The discovery of penicillin by Alexander Fleming in 1928 revolutionized medicine and saved millions of lives.",
+      "source": "https://en.wikipedia.org/wiki/discovery_of_penicillin_by_Alexander_Fleming_in_1928_revolutionized_medicine_and"
+    },
+    {
+      "text": "The Great Depression began with the stock market crash on October 29, 1929, and lasted until the late 1930s.",
+      "month": 10,
+      "day": 29,
+      "source": "https://en.wikipedia.org/wiki/Great_Depression"
+    },
+    {
+      "text": "Genghis Khan was responsible for the deaths of an estimated 40 million people, approximately 10% of the world's population at the time.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Genghis_Khan"
+    },
+    {
+      "text": "Joan of Arc, a teenage peasant girl, led the French army to several victories during the Hundred Years' War before being burned at the stake in 1431.",
+      "source": "https://en.wikipedia.org/wiki/Joan_of_Arc"
+    },
+    {
+      "text": "The Suez Crisis of 1956 marked the end of Britain and France's era as major world powers and the rise of American and Soviet influence.",
+      "source": "https://en.wikipedia.org/wiki/Suez_Crisis_of_1956"
+    },
+    {
+      "text": "The Mayflower carried the Pilgrims from England to Plymouth, Massachusetts, in 1620, establishing one of the first permanent European settlements in North America.",
+      "source": "https://en.wikipedia.org/wiki/Mayflower"
+    },
+    {
+      "text": "Trench warfare defined much of World War I, with soldiers living in muddy, disease-ridden trenches for months at a time.",
+      "source": "https://en.wikipedia.org/wiki/World_War_I"
+    },
+    {
+      "text": "The ancient city of Babylon, in modern-day Iraq, was one of the most important cities in the ancient world and home to the legendary Hanging Gardens.",
+      "source": "https://en.wikipedia.org/wiki/ancient_city_of_Babylon%2C_in_modern-day_Iraq"
+    },
+    {
+      "text": "In 1835, the US national debt was zero — the only time in history the country was completely debt-free.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/US_national_debt"
+    },
+    {
+      "text": "The Meiji Restoration in 1868 transformed Japan from a feudal society into a modern industrialized nation within a few decades.",
+      "source": "https://en.wikipedia.org/wiki/Meiji_Restoration"
+    },
+    {
+      "text": "The Trail of Tears in the 1830s was the forced relocation of Native American peoples from their homelands to territory west of the Mississippi River.",
+      "source": "https://en.wikipedia.org/wiki/Trail_of_Tears_in_the_1830s"
+    },
+    {
+      "text": "The Sphinx of Giza is believed to be over 4,500 years old, making it one of the oldest and largest sculptures in the world.",
+      "source": "https://en.wikipedia.org/wiki/Sphinx_of_Giza"
+    },
+    {
+      "text": "The V-E Day celebrations on May 8, 1945, marked the end of World War II in Europe.",
+      "month": 5,
+      "day": 8,
+      "source": "https://en.wikipedia.org/wiki/V-E_Day_celebrations_on_May_8%2C_1945"
+    },
+    {
+      "text": "The Persian Empire under Cyrus the Great practiced religious tolerance and is sometimes called the first human rights champion.",
+      "source": "https://en.wikipedia.org/wiki/Persian_Empire_under_Cyrus_the_Great_practiced_religious_tolerance_and"
+    },
+    {
+      "text": "Nicolaus Copernicus proposed the heliocentric model of the solar system in 1543, suggesting that Earth revolves around the Sun rather than the other way around.",
+      "source": "https://en.wikipedia.org/wiki/Nicolaus_Copernicus"
+    },
+    {
+      "text": "The ancient Olympic Games were held every four years for nearly 12 centuries, from 776 BC to 393 AD.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/ancient_Olympic_Games"
+    },
+    {
+      "text": "The Battle of Waterloo in 1815 ended Napoleon's rule as Emperor of France and reshaped the political map of Europe.",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Waterloo"
+    },
+    {
+      "text": "The Domesday Book, commissioned by William the Conqueror in 1086, was a comprehensive survey of England's landholdings and resources.",
+      "source": "https://en.wikipedia.org/wiki/Domesday_Book%2C_commissioned_by_William_the_Conqueror_in_1086"
+    },
+    {
+      "text": "The discovery of the New World by Columbus in 1492 initiated a period of European exploration, colonization, and exploitation of the Americas.",
+      "source": "https://en.wikipedia.org/wiki/New_World"
+    },
+    {
+      "text": "The first atomic bomb test, code-named Trinity, took place on July 16, 1945, in New Mexico.",
+      "month": 7,
+      "day": 16,
+      "source": "https://en.wikipedia.org/wiki/first_atomic_bomb_test%2C_code-named_Trinity"
+    },
+    {
+      "text": "The Khmer Empire built the vast temple complex of Angkor Wat in Cambodia in the 12th century, the largest religious monument in the world.",
+      "source": "https://en.wikipedia.org/wiki/Khmer_Empire"
+    },
+    {
+      "text": "During the Viking Age, Leif Erikson reached North America roughly 500 years before Columbus.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/During_the_Viking_Age%2C_Leif_Erikson"
+    },
+    {
+      "text": "The Charge of the Light Brigade during the Crimean War in 1854 became famous for its tragic futility as British cavalry charged directly into Russian cannon fire.",
+      "source": "https://en.wikipedia.org/wiki/Charge_of_the_Light_Brigade_during_the_Crimean_War_in_1854"
+    },
+    {
+      "text": "The construction of Stonehenge in England began around 3000 BC, and its exact purpose remains a mystery.",
+      "source": "https://en.wikipedia.org/wiki/Stonehenge_in_England"
+    },
+    {
+      "text": "The Cuban Revolution, led by Fidel Castro, overthrew the Batista regime in 1959 and established a communist government in Cuba.",
+      "source": "https://en.wikipedia.org/wiki/Cuban_Revolution"
+    },
+    {
+      "text": "The Transcontinental Railroad was completed on May 10, 1869, connecting the east and west coasts of the United States.",
+      "month": 5,
+      "day": 10,
+      "source": "https://en.wikipedia.org/wiki/Transcontinental_Railroad"
+    },
+    {
+      "text": "The Pharos of Alexandria, one of the Seven Wonders of the Ancient World, was a lighthouse that stood over 300 feet tall.",
+      "source": "https://en.wikipedia.org/wiki/Pharos_of_Alexandria%2C_one_of_the_Seven_Wonders_of_the_Ancient_World"
+    },
+    {
+      "text": "The Battle of Hastings in 1066 changed the course of English history when William the Conqueror defeated King Harold II.",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Hastings_in_1066"
+    },
+    {
+      "text": "Marie Antoinette never actually said 'Let them eat cake' — the phrase was attributed to her by political opponents.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Marie_Antoinette_never_actually"
+    },
+    {
+      "text": "The Boer Wars in South Africa between the British Empire and the Boer states introduced concentration camps, where thousands of civilians died.",
+      "source": "https://en.wikipedia.org/wiki/Boer_Wars_in_South_Africa_between_the_British_Empire_and_the_Boer_states"
+    },
+    {
+      "text": "The Marshall Plan, implemented after World War II, provided over $12 billion in economic aid to help rebuild European economies.",
+      "source": "https://en.wikipedia.org/wiki/Marshall_Plan"
+    },
+    {
+      "text": "The Colossus of Rhodes, a giant statue of the sun god Helios, stood at the entrance to the harbor of Rhodes circa 280 BC.",
+      "source": "https://en.wikipedia.org/wiki/Colossus_of_Rhodes"
+    },
+    {
+      "text": "The Women's Suffrage Movement in the United States achieved its goal when the 19th Amendment was ratified on August 18, 1920.",
+      "month": 8,
+      "day": 18,
+      "source": "https://en.wikipedia.org/wiki/Women%27s_Suffrage_Movement_in_the_United_States"
+    },
+    {
+      "text": "The Han Dynasty in China lasted over 400 years and is considered a golden age in Chinese history.",
+      "source": "https://en.wikipedia.org/wiki/Han_Dynasty_in_China_lasted_over_400_years_and"
+    },
+    {
+      "text": "Thomas Edison patented the phonograph in 1878, making it possible to record and play back sound for the first time.",
+      "source": "https://en.wikipedia.org/wiki/Thomas_Edison"
+    },
+    {
+      "text": "The guillotine was actually invented as a more humane method of execution and was used in France until 1977.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/guillotine"
+    },
+    {
+      "text": "The Spanish Armada, a fleet of 130 ships sent by Spain to invade England in 1588, was defeated by the English navy and severe weather.",
+      "source": "https://en.wikipedia.org/wiki/Spanish_Armada%2C_a_fleet_of_130_ships_sent_by_Spain_to_invade_England_in_1588"
+    },
+    {
+      "text": "The Nuremberg Trials after World War II were the first international war crimes tribunals, prosecuting prominent leaders of Nazi Germany.",
+      "source": "https://en.wikipedia.org/wiki/Nuremberg_Trials_after_World_War_II"
+    },
+    {
+      "text": "The ancient Sumerians of Mesopotamia invented the wheel around 3500 BC, initially using it for pottery rather than transportation.",
+      "source": "https://en.wikipedia.org/wiki/ancient_Sumerians_of_Mesopotamia"
+    },
+    {
+      "text": "The fall of Constantinople to the Ottoman Turks in 1453 marked the end of the Byzantine Empire and the beginning of Ottoman dominance in the region.",
+      "source": "https://en.wikipedia.org/wiki/fall_of_Constantinople_to_the_Ottoman_Turks_in_1453"
+    },
+    {
+      "text": "The United Nations was established on October 24, 1945, to promote international cooperation and prevent future world wars.",
+      "month": 10,
+      "day": 24,
+      "source": "https://en.wikipedia.org/wiki/United_Nations"
+    },
+    {
+      "text": "Ancient Romans had a festival called Saturnalia where masters served their slaves, and social norms were reversed for a week.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Ancient_Romans"
+    },
+    {
+      "text": "The Reconquista was a 780-year effort by Christian kingdoms to recapture the Iberian Peninsula from the Moors, ending in 1492.",
+      "source": "https://en.wikipedia.org/wiki/Reconquista"
+    },
+    {
+      "text": "The Opium Wars between Britain and China in the mid-19th century led to the ceding of Hong Kong to Britain.",
+      "source": "https://en.wikipedia.org/wiki/Opium_Wars"
+    },
+    {
+      "text": "The Rosetta Stone was discovered by French soldiers in Egypt in 1799 and became the key to understanding ancient Egyptian writing.",
+      "source": "https://en.wikipedia.org/wiki/Rosetta_Stone"
+    },
+    {
+      "text": "Marco Polo traveled from Venice to China in the 13th century and spent 24 years in Asia, documenting his experiences in a famous book.",
+      "source": "https://en.wikipedia.org/wiki/Marco_Polo_traveled_from_Venice_to_China_in_the_13th_century_and"
+    },
+    {
+      "text": "The Battle of Stalingrad, fought from 1942 to 1943, is considered the bloodiest battle in history with nearly 2 million casualties.",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Stalingrad%2C_fought_from_1942_to_1943"
+    },
+    {
+      "text": "President Andrew Jackson once held an open house party at the White House where a 1,400-pound block of cheese was served to guests.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/President_Andrew_Jackson"
+    },
+    {
+      "text": "The Boxer Rebellion in China at the turn of the 20th century was an anti-foreign uprising that was suppressed by an international coalition.",
+      "source": "https://en.wikipedia.org/wiki/Boxer_Rebellion_in_China_at_the_turn_of_the_20th_century"
+    },
+    {
+      "text": "The Erie Canal, completed in 1825, connected the Great Lakes to the Hudson River and helped make New York City the commercial capital of the United States.",
+      "source": "https://en.wikipedia.org/wiki/Erie_Canal%2C_completed_in_1825%2C_connected_the_Great_Lakes_to_the_Hudson_River_and"
+    },
+    {
+      "text": "The English Civil War in the 1640s led to the execution of King Charles I and the establishment of a republic under Oliver Cromwell.",
+      "source": "https://en.wikipedia.org/wiki/English_Civil_War_in_the"
+    },
+    {
+      "text": "The first transatlantic telegraph cable was completed in 1858, allowing messages to be sent between North America and Europe in minutes instead of weeks.",
+      "source": "https://en.wikipedia.org/wiki/first_transatlantic_telegraph_cable"
+    },
+    {
+      "text": "The Armistice that ended World War I was signed on November 11, 1918, at the 11th hour of the 11th day of the 11th month.",
+      "month": 11,
+      "day": 11,
+      "source": "https://en.wikipedia.org/wiki/Armistice_that_ended_World_War_I"
+    },
+    {
+      "text": "Cleopatra was actually Greek by heritage, not Egyptian — she was a descendant of Ptolemy I, one of Alexander the Great's generals.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Cleopatra"
+    },
+    {
+      "text": "The Mughal Empire ruled much of the Indian subcontinent from 1526 to 1857 and built architectural marvels like the Taj Mahal.",
+      "source": "https://en.wikipedia.org/wiki/Mughal_Empire_ruled_much_of_the_Indian_subcontinent_from_1526_to_1857_and"
+    },
+    {
+      "text": "The Louisiana Purchase in 1803 doubled the size of the United States, acquiring approximately 828,000 square miles from France for $15 million.",
+      "source": "https://en.wikipedia.org/wiki/Louisiana_Purchase"
+    },
+    {
+      "text": "The Enlightenment was an intellectual movement in 18th-century Europe that emphasized reason, science, and individual rights.",
+      "source": "https://en.wikipedia.org/wiki/Enlightenment"
+    },
+    {
+      "text": "The Bay of Pigs invasion in April 1961 was a failed attempt by the CIA to overthrow Fidel Castro's government in Cuba.",
+      "source": "https://en.wikipedia.org/wiki/Bay_of_Pigs_invasion_in_April_1961"
+    },
+    {
+      "text": "The ancient city of Mohenjo-daro in the Indus Valley had a sophisticated sewage and drainage system over 4,000 years ago.",
+      "source": "https://en.wikipedia.org/wiki/ancient_city_of_Mohenjo-daro_in_the_Indus_Valley"
+    },
+    {
+      "text": "The Tower of London has served as a royal palace, prison, armory, treasury, and zoo throughout its over 900-year history.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Tower_of_London"
+    },
+    {
+      "text": "The Crimean War of 1853–1856 was notable for Florence Nightingale's pioneering work in modern nursing.",
+      "source": "https://en.wikipedia.org/wiki/Crimean_War_of_1853%E2%80%931856"
+    },
+    {
+      "text": "The Renaissance began in Italy in the 14th century and spread across Europe, marking a cultural rebirth of art, science, and learning.",
+      "source": "https://en.wikipedia.org/wiki/Renaissance"
+    },
+    {
+      "text": "The Battle of Midway in June 1942 was a decisive naval battle in the Pacific Theater that turned the tide of World War II against Japan.",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Midway_in_June_1942"
+    },
+    {
+      "text": "The Cherokee Nation had its own written language, created by Sequoyah in 1821, making it one of the first Native American peoples with a writing system.",
+      "source": "https://en.wikipedia.org/wiki/Cherokee_Nation"
+    },
+    {
+      "text": "The Dreyfus Affair in France in the 1890s exposed deep-seated antisemitism and divided French society.",
+      "source": "https://en.wikipedia.org/wiki/Dreyfus_Affair_in_France_in_the"
+    },
+    {
+      "text": "The last execution by guillotine in France occurred on September 10, 1977 — the same year Star Wars was released.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/September_10"
+    },
+    {
+      "text": "The Peloponnesian War between Athens and Sparta lasted 27 years and ultimately weakened the Greek city-states.",
+      "source": "https://en.wikipedia.org/wiki/Peloponnesian_War"
+    },
+    {
+      "text": "The first subway system in the world opened in London in 1863, known as the Metropolitan Railway.",
+      "source": "https://en.wikipedia.org/wiki/first_subway_system_in_the_world"
+    },
+    {
+      "text": "The Bolshevik Revolution in October 1917 overthrew the Russian Provisional Government and led to the creation of the Soviet Union.",
+      "source": "https://en.wikipedia.org/wiki/Bolshevik_Revolution_in_October_1917"
+    },
+    {
+      "text": "The ancient Egyptians used a 365-day calendar, one of the first to closely match the solar year.",
+      "source": "https://en.wikipedia.org/wiki/History"
+    },
+    {
+      "text": "The Montgomery Bus Boycott began on December 5, 1955, after Rosa Parks refused to give up her seat, lasting 381 days.",
+      "month": 12,
+      "day": 5,
+      "source": "https://en.wikipedia.org/wiki/Montgomery_Bus_Boycott_began_on_December_5%2C_1955%2C_after_Rosa_Parks_refused_to"
+    },
+    {
+      "text": "The Carthaginian general Hannibal famously crossed the Alps with war elephants to attack Rome in 218 BC.",
+      "source": "https://en.wikipedia.org/wiki/Carthaginian"
+    },
+    {
+      "text": "In 1932, Australia fought the 'Great Emu War' against a population of emus — and lost, failing to significantly reduce their numbers.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Great_Emu_War"
+    },
+    {
+      "text": "The Forbidden City in Beijing was the imperial palace of China for nearly 500 years and contains 980 buildings.",
+      "source": "https://en.wikipedia.org/wiki/Forbidden_City_in_Beijing"
+    },
+    {
+      "text": "The Balfour Declaration of 1917 expressed British support for the establishment of a Jewish homeland in Palestine.",
+      "source": "https://en.wikipedia.org/wiki/Balfour_Declaration_of_1917"
+    },
+    {
+      "text": "The ancient Greek physician Hippocrates is considered the 'Father of Medicine' and established medicine as a profession separate from religion.",
+      "source": "https://en.wikipedia.org/wiki/ancient_Greek_physician_Hippocrates"
+    },
+    {
+      "text": "The Treaty of Tordesillas in 1494 divided the newly discovered lands of the Americas between Spain and Portugal.",
+      "source": "https://en.wikipedia.org/wiki/Treaty_of_Tordesillas_in_1494_divided_the_newly"
+    },
+    {
+      "text": "VJ Day, marking the end of World War II in the Pacific, was celebrated on August 15, 1945.",
+      "month": 8,
+      "day": 15,
+      "source": "https://en.wikipedia.org/wiki/VJ_Day%2C_marking_the_end_of_World_War_II_in_the_Pacific"
+    },
+    {
+      "text": "The Aztecs sacrificed an estimated 20,000 people per year to their gods, believing it necessary to keep the sun moving across the sky.",
+      "source": "https://en.wikipedia.org/wiki/Aztecs"
+    },
+    {
+      "text": "The Dow Jones Industrial Average lost 89% of its value during the Great Depression, dropping from 381 to 41 between 1929 and 1932.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Dow_Jones_Industrial_Average"
+    },
+    {
+      "text": "The Magna Carta was issued by King John of England at Runnymede in 1215, establishing principles still reflected in modern constitutional law.",
+      "source": "https://en.wikipedia.org/wiki/Magna_Carta"
+    },
+    {
+      "text": "The Scramble for Africa in the late 19th century saw European powers carve up the African continent, controlling approximately 90% of it by 1914.",
+      "source": "https://en.wikipedia.org/wiki/Scramble_for_Africa_in_the_late_19th_century"
+    },
+    {
+      "text": "The ancient Persians invented the postal system around 550 BC under the reign of Cyrus the Great.",
+      "source": "https://en.wikipedia.org/wiki/ancient_Persians"
+    },
+    {
+      "text": "The Chernobyl nuclear disaster occurred on April 26, 1986, and remains the worst nuclear power plant accident in history.",
+      "month": 4,
+      "day": 26,
+      "source": "https://en.wikipedia.org/wiki/Chernobyl"
+    },
+    {
+      "text": "The Salem Witch Trials of 1692 resulted in the execution of 20 people accused of witchcraft in colonial Massachusetts.",
+      "source": "https://en.wikipedia.org/wiki/Salem_Witch_Trials_of_1692"
+    },
+    {
+      "text": "The Easter Island statues, called moai, were carved by the Rapa Nui people between 1250 and 1500 AD, and some weigh over 80 tons.",
+      "source": "https://en.wikipedia.org/wiki/Easter_Island_statues%2C_called_moai"
+    },
+    {
+      "text": "Ancient Sparta had two kings who ruled simultaneously, a unique arrangement in the ancient world.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Ancient_Sparta"
+    },
+    {
+      "text": "The Erie Railroad War of 1868 was a battle between Jay Gould, Jim Fisk, and Cornelius Vanderbilt for control of the Erie Railroad.",
+      "source": "https://en.wikipedia.org/wiki/Erie_Railroad_War_of_1868"
+    },
+    {
+      "text": "The Voyager 1 spacecraft, launched in 1977, became the first human-made object to enter interstellar space in 2012.",
+      "source": "https://en.wikipedia.org/wiki/Voyager_1_spacecraft%2C_launched_in_1977"
+    },
+    {
+      "text": "The Battle of Marathon in 490 BC saw the Athenians defeat a much larger Persian force, preserving Greek independence.",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Marathon_in_490_BC"
+    },
+    {
+      "text": "The Rwandan Genocide in 1994 resulted in the deaths of an estimated 800,000 people in approximately 100 days.",
+      "source": "https://en.wikipedia.org/wiki/Rwandan_Genocide"
+    },
+    {
+      "text": "The Colossus of Rhodes stood for only 54 years before being destroyed by an earthquake in 226 BC.",
+      "source": "https://en.wikipedia.org/wiki/Colossus_of_Rhodes"
+    },
+    {
+      "text": "Abraham Lincoln, who championed the abolition of slavery, once lost a Senate race to Stephen Douglas in 1858 before winning the presidency in 1860.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Abraham_Lincoln"
+    },
+    {
+      "text": "The first permanent English settlement in the Americas was established at Jamestown, Virginia, in 1607.",
+      "source": "https://en.wikipedia.org/wiki/first_permanent_English_settlement_in_the_Americas"
+    },
+    {
+      "text": "The Taiping Rebellion in China (1850-1864) was one of the deadliest conflicts in history, with an estimated 20 to 30 million deaths.",
+      "source": "https://en.wikipedia.org/wiki/Taiping_Rebellion_in_China_(1850-1864)"
+    },
+    {
+      "text": "The Eiffel Tower was built as a temporary structure for the 1889 World's Fair in Paris and was almost demolished in 1909.",
+      "source": "https://en.wikipedia.org/wiki/Eiffel_Tower"
+    },
+    {
+      "text": "The Apollo 13 mission in April 1970 survived a catastrophic oxygen tank explosion and safely returned its crew to Earth.",
+      "source": "https://en.wikipedia.org/wiki/Apollo_13"
+    },
+    {
+      "text": "The first known use of biological warfare occurred in 1346 when the Mongols catapulted plague-infected corpses into the besieged city of Caffa.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/History"
+    },
+    {
+      "text": "The Whiskey Rebellion of 1794 was the first major domestic challenge to the authority of the new US federal government.",
+      "source": "https://en.wikipedia.org/wiki/Whiskey_Rebellion_of_1794"
+    },
+    {
+      "text": "The Zimmermann Telegram of 1917, in which Germany proposed a military alliance with Mexico against the US, helped draw America into World War I.",
+      "source": "https://en.wikipedia.org/wiki/Zimmermann_Telegram_of_1917"
+    },
+    {
+      "text": "The Roman Republic transitioned to the Roman Empire in 27 BC when Octavian became Augustus, the first Roman emperor.",
+      "source": "https://en.wikipedia.org/wiki/Roman_Republic_transitioned_to_the_Roman_Empire_in_27_BC_when_Octavian"
+    },
+    {
+      "text": "The Indian independence movement, led by Mahatma Gandhi, achieved independence from British rule on August 15, 1947.",
+      "month": 8,
+      "day": 15,
+      "source": "https://en.wikipedia.org/wiki/Indian"
+    },
+    {
+      "text": "The discovery of King Tutankhamun's nearly intact tomb by Howard Carter in 1922 was one of the greatest archaeological finds in history.",
+      "source": "https://en.wikipedia.org/wiki/discovery_of_King_Tutankhamun%27s_nearly_intact_tomb_by_Howard_Carter_in_1922"
+    },
+    {
+      "text": "The ancient Greeks had a word, 'ostracism,' from which we get our word 'ostracize' — citizens could vote to banish someone for 10 years by writing their name on a potsherd.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/ancient_Greeks"
+    },
+    {
+      "text": "The first successful powered flight by the Wright Brothers lasted only 12 seconds and covered just 120 feet.",
+      "source": "https://en.wikipedia.org/wiki/Wright_Brothers"
+    },
+    {
+      "text": "The Russo-Japanese War of 1904-1905 was the first modern war in which an Asian country defeated a European power.",
+      "source": "https://en.wikipedia.org/wiki/Russo-Japanese_War_of_1904-1905"
+    },
+    {
+      "text": "The Palace of Versailles was originally a hunting lodge before being expanded by Louis XIV into one of the most opulent palaces in history.",
+      "source": "https://en.wikipedia.org/wiki/Palace_of_Versailles"
+    },
+    {
+      "text": "The Battle of the Bulge in December 1944 was the last major German offensive of World War II on the Western Front.",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_the_Bulge_in_December_1944"
+    },
+    {
+      "text": "Nelson Mandela was imprisoned for 27 years before becoming South Africa's first Black president in 1994.",
+      "source": "https://en.wikipedia.org/wiki/Nelson_Mandela"
+    },
+    {
+      "text": "The ancient Roman aqueduct system brought fresh water over distances of up to 60 miles, supplying cities with millions of gallons daily.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/History"
+    },
+    {
+      "text": "The Alamo in Texas was the site of a famous 1836 battle during the Texas Revolution against Mexico.",
+      "source": "https://en.wikipedia.org/wiki/Alamo_in_Texas"
+    },
+    {
+      "text": "The Peace of Westphalia in 1648 ended the Thirty Years' War and established the modern concept of national sovereignty.",
+      "source": "https://en.wikipedia.org/wiki/Peace_of_Westphalia"
+    },
+    {
+      "text": "The first Olympic Games of the modern era were held in Athens, Greece, in 1896.",
+      "source": "https://en.wikipedia.org/wiki/first_Olympic_Games_of_the_modern_era"
+    },
+    {
+      "text": "The Manhattan Project was the secret US program that developed the first nuclear weapons during World War II.",
+      "source": "https://en.wikipedia.org/wiki/Manhattan_Project"
+    },
+    {
+      "text": "The ancient Chinese began building the Grand Canal around 486 BC, making it the longest artificial waterway in the world at over 1,100 miles.",
+      "source": "https://en.wikipedia.org/wiki/Grand_Canal"
+    },
+    {
+      "text": "Napoleon was once attacked by a horde of rabbits during a hunting party — the rabbits had been domesticated and charged at him expecting food.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Napoleon"
+    },
+    {
+      "text": "The storming of the Bastille on July 14, 1789, is celebrated as France's national holiday, Bastille Day.",
+      "source": "https://en.wikipedia.org/wiki/storming_of_the_Bastille_on_July_14%2C_1789"
+    },
+    {
+      "text": "The Inca Empire stretched over 2,500 miles along the western coast of South America and had a road system spanning about 25,000 miles.",
+      "source": "https://en.wikipedia.org/wiki/Inca_Empire_stretched_over_2%2C500_miles_along_the_western_coast_of_South_America_and"
+    },
+    {
+      "text": "The Texas Revolution of 1835-1836 resulted in Texas gaining independence from Mexico before later joining the United States.",
+      "source": "https://en.wikipedia.org/wiki/Texas_Revolution_of_1835"
+    },
+    {
+      "text": "The first Geneva Convention was adopted in 1864, establishing rules for the humane treatment of wounded soldiers.",
+      "source": "https://en.wikipedia.org/wiki/first_Geneva_Convention"
+    },
+    {
+      "text": "The Chinese Exclusion Act of 1882 was the first significant law restricting immigration into the United States.",
+      "source": "https://en.wikipedia.org/wiki/Chinese_Exclusion_Act_of_1882"
+    },
+    {
+      "text": "Tsutomu Yamaguchi survived both atomic bombings — he was in Hiroshima on August 6, 1945, and returned to his home in Nagasaki just in time for the second bombing on August 9.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Tsutomu_Yamaguchi_survived_both_atomic_bombings_%E2%80%94_he"
+    },
+    {
+      "text": "The Harlem Renaissance of the 1920s and 1930s was a cultural, social, and artistic explosion centered in Harlem, New York.",
+      "source": "https://en.wikipedia.org/wiki/Harlem_Renaissance_of_the_1920s_and_1930s"
+    },
+    {
+      "text": "The Punic Wars between Rome and Carthage lasted over 100 years and ended with the complete destruction of Carthage in 146 BC.",
+      "source": "https://en.wikipedia.org/wiki/Punic_Wars"
+    },
+    {
+      "text": "The Panama Canal took 10 years to build and cost over 25,000 workers their lives due to disease and landslides.",
+      "source": "https://en.wikipedia.org/wiki/Panama_Canal"
+    },
+    {
+      "text": "The Velvet Revolution in Czechoslovakia in 1989 peacefully ended communist rule in the country within six weeks.",
+      "source": "https://en.wikipedia.org/wiki/Velvet_Revolution_in_Czechoslovakia"
+    },
+    {
+      "text": "The invention of the compass by the Chinese during the Han Dynasty revolutionized navigation and exploration.",
+      "source": "https://en.wikipedia.org/wiki/Han_Dynasty"
+    },
+    {
+      "text": "The ancient Maya practiced skull modification on infants, binding boards to babies' heads to create elongated skulls as a sign of beauty.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/History"
+    },
+    {
+      "text": "The War of 1812 between the US and Britain included the burning of Washington, D.C., and the writing of 'The Star-Spangled Banner.'",
+      "source": "https://en.wikipedia.org/wiki/War_of_1812"
+    },
+    {
+      "text": "The Berlin Conference of 1884-1885 regulated European colonization and trade in Africa, leading to the Scramble for Africa.",
+      "source": "https://en.wikipedia.org/wiki/Berlin_Conference_of_1884"
+    },
+    {
+      "text": "The Dead Sea Scrolls, discovered between 1947 and 1956, are among the oldest known manuscripts of the Hebrew Bible.",
+      "source": "https://en.wikipedia.org/wiki/Dead_Sea_Scrolls"
+    },
+    {
+      "text": "The Lewis and Clark Expedition only had one fatality — Sergeant Charles Floyd, who likely died from a burst appendix.",
+      "source": "https://en.wikipedia.org/wiki/Lewis_and_Clark_Expedition_only"
+    },
+    {
+      "text": "The Triangle Shirtwaist Factory fire on March 25, 1911, killed 146 workers and led to major reforms in US labor laws.",
+      "month": 3,
+      "day": 25,
+      "source": "https://en.wikipedia.org/wiki/Triangle_Shirtwaist_Factory"
+    },
+    {
+      "text": "In medieval times, bread was used as a plate — stale slices called 'trenchers' held food and were eaten or given to the poor afterward.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/In_medieval_times%2C_bread"
+    },
+    {
+      "text": "The Stamp Act of 1765 was one of the key grievances that led to the American Revolution, as colonists protested taxation without representation.",
+      "source": "https://en.wikipedia.org/wiki/Stamp_Act_of_1765"
+    },
+    {
+      "text": "The Acropolis of Athens has been standing for over 2,500 years and was the center of ancient Athenian life.",
+      "source": "https://en.wikipedia.org/wiki/Acropolis_of_Athens"
+    },
+    {
+      "text": "The Yalta Conference in February 1945 was a meeting of Roosevelt, Churchill, and Stalin to plan the postwar reorganization of Europe.",
+      "source": "https://en.wikipedia.org/wiki/Yalta_Conference_in_February_1945"
+    },
+    {
+      "text": "The first successful heart transplant was performed by Dr. Christiaan Barnard on December 3, 1967, in Cape Town, South Africa.",
+      "month": 12,
+      "day": 3,
+      "source": "https://en.wikipedia.org/wiki/first_successful_heart_transplant"
+    },
+    {
+      "text": "The Aztec practice of human sacrifice was tied to their belief that the sun god required human blood to continue his journey across the sky.",
+      "source": "https://en.wikipedia.org/wiki/Aztec_practice_of_human_sacrifice"
+    },
+    {
+      "text": "The Napoleonic Code, introduced in 1804, influenced legal systems worldwide and established principles like the presumption of innocence.",
+      "source": "https://en.wikipedia.org/wiki/Napoleonic_Code"
+    },
+    {
+      "text": "The Colosseum in Rome was built with a retractable awning system called the velarium to shade spectators from the sun.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Colosseum_in_Rome"
+    },
+    {
+      "text": "The Meiji Constitution of 1889 was the first modern constitution in Asia and established Japan as a constitutional monarchy.",
+      "source": "https://en.wikipedia.org/wiki/Meiji_Constitution_of_1889"
+    },
+    {
+      "text": "The Battle of Agincourt in 1415 was a major English victory during the Hundred Years' War, where English longbowmen devastated the French army.",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Agincourt_in_1415"
+    },
+    {
+      "text": "The first commercial radio broadcast took place on November 2, 1920, from station KDKA in Pittsburgh, reporting election results.",
+      "source": "https://en.wikipedia.org/wiki/first_commercial_radio_broadcast"
+    },
+    {
+      "text": "The Ming Dynasty in China (1368-1644) oversaw the construction of the Forbidden City, the expansion of the Great Wall, and the voyages of Admiral Zheng He.",
+      "source": "https://en.wikipedia.org/wiki/Ming_Dynasty_in_China"
+    },
+    {
+      "text": "The Teapot Dome Scandal in the 1920s was one of the most significant political corruption scandals in US history before Watergate.",
+      "source": "https://en.wikipedia.org/wiki/Teapot_Dome_Scandal_in_the_1920s"
+    },
+    {
+      "text": "Queen Elizabeth I of England never married and was known as the 'Virgin Queen,' after whom the colony of Virginia was named.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Queen_Elizabeth_I_of_England_never_married_and"
+    },
+    {
+      "text": "The Franco-Prussian War of 1870-1871 led to the unification of Germany under Otto von Bismarck.",
+      "source": "https://en.wikipedia.org/wiki/Franco-Prussian_War_of_1870"
+    },
+    {
+      "text": "The ancient Greeks invented democracy in Athens around 508 BC, though only free adult males could participate.",
+      "source": "https://en.wikipedia.org/wiki/ancient_Greeks"
+    },
+    {
+      "text": "The Battle of Gallipoli in 1915 was a failed Allied campaign to open a sea route to Russia through the Ottoman Empire.",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Gallipoli_in_1915"
+    },
+    {
+      "text": "The Missouri Compromise of 1820 temporarily resolved the issue of slavery's expansion in the United States by admitting Missouri as a slave state and Maine as a free state.",
+      "source": "https://en.wikipedia.org/wiki/Missouri_Compromise_of_1820"
+    },
+    {
+      "text": "The fall of Saigon on April 30, 1975, marked the end of the Vietnam War and the reunification of Vietnam under communist rule.",
+      "month": 4,
+      "day": 30,
+      "source": "https://en.wikipedia.org/wiki/fall_of_Saigon_on_April_30%2C_1975"
+    },
+    {
+      "text": "Ancient Roman concrete was stronger than modern concrete — structures like the Pantheon have lasted over 2,000 years without reinforcement.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Ancient_Roman_concrete"
+    },
+    {
+      "text": "The Spanish Civil War from 1936 to 1939 was a precursor to World War II and saw the rise of Francisco Franco's dictatorship.",
+      "source": "https://en.wikipedia.org/wiki/Spanish_Civil_War_from_1936_to_1939"
+    },
+    {
+      "text": "The Haymarket Affair of 1886 in Chicago was a pivotal event in the history of the labor movement and the fight for the eight-hour workday.",
+      "source": "https://en.wikipedia.org/wiki/Haymarket_Affair_of_1886_in_Chicago"
+    },
+    {
+      "text": "The Parthenon's columns are slightly curved and tilted inward to create an optical illusion of perfect straightness.",
+      "source": "https://en.wikipedia.org/wiki/Parthenon%27s_columns"
+    },
+    {
+      "text": "The Watergate scandal led to the resignation of President Richard Nixon on August 9, 1974, the only US president to resign.",
+      "month": 8,
+      "day": 9,
+      "source": "https://en.wikipedia.org/wiki/Watergate"
+    },
+    {
+      "text": "The Song Dynasty in China (960-1279) saw the invention of movable type printing, the compass, and gunpowder weapons.",
+      "source": "https://en.wikipedia.org/wiki/Song_Dynasty_in_China_(960-1279)"
+    },
+    {
+      "text": "George Washington was unanimously elected as the first President of the United States and voluntarily stepped down after two terms.",
+      "source": "https://en.wikipedia.org/wiki/George_Washington"
+    },
+    {
+      "text": "The Bayeux Tapestry, actually an embroidery, is a 230-foot-long cloth depicting the events leading up to the Norman conquest of England in 1066.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Bayeux_Tapestry%2C_actually_an_embroidery"
+    },
+    {
+      "text": "The assassination of President John F. Kennedy on November 22, 1963, in Dallas, Texas, shocked the world.",
+      "month": 11,
+      "day": 22,
+      "source": "https://en.wikipedia.org/wiki/President_John_F._Kennedy"
+    },
+    {
+      "text": "The Iron Curtain was a political boundary dividing Europe into two separate areas during the Cold War.",
+      "source": "https://en.wikipedia.org/wiki/Iron_Curtain"
+    },
+    {
+      "text": "The ancient city of Carthage, located in modern-day Tunisia, was a major power in the Mediterranean before being destroyed by Rome.",
+      "source": "https://en.wikipedia.org/wiki/ancient_city_of_Carthage%2C_located_in_modern-day_Tunisia"
+    },
+    {
+      "text": "The first email was sent by Ray Tomlinson in 1971, and he chose the '@' symbol to separate the user name from the computer name.",
+      "source": "https://en.wikipedia.org/wiki/first_email"
+    },
+    {
+      "text": "The Dust Bowl of the 1930s devastated the Great Plains of the United States, displacing hundreds of thousands of families.",
+      "source": "https://en.wikipedia.org/wiki/Dust_Bowl_of_the"
+    },
+    {
+      "text": "The Spanish flu pandemic of 1918-1919 infected about one-third of the world's population and killed an estimated 50 million people.",
+      "source": "https://en.wikipedia.org/wiki/Spanish"
+    },
+    {
+      "text": "Alexander the Great named over 70 cities after himself, including Alexandria in Egypt, but also one after his horse, Bucephalus.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Alexander_the_Great"
+    },
+    {
+      "text": "The Glorious Revolution of 1688 in England replaced King James II with William and Mary without major bloodshed.",
+      "source": "https://en.wikipedia.org/wiki/Glorious_Revolution_of_1688_in_England"
+    },
+    {
+      "text": "The construction of the Transcontinental Railroad relied heavily on the labor of Chinese immigrants and Irish workers.",
+      "source": "https://en.wikipedia.org/wiki/Transcontinental_Railroad"
+    },
+    {
+      "text": "The ancient Romans built heated floors called hypocausts, an early form of central heating used in baths and wealthy homes.",
+      "source": "https://en.wikipedia.org/wiki/ancient_Romans"
+    },
+    {
+      "text": "The Potsdam Conference in 1945 established the framework for postwar Germany, dividing it into four occupation zones.",
+      "source": "https://en.wikipedia.org/wiki/Potsdam_Conference"
+    },
+    {
+      "text": "The first successful solo nonstop transatlantic flight was made by Charles Lindbergh on May 20-21, 1927.",
+      "month": 5,
+      "day": 21,
+      "source": "https://en.wikipedia.org/wiki/first_successful_solo_nonstop_transatlantic_flight"
+    },
+    {
+      "text": "The Rosetta Stone contains a decree issued in 196 BC on behalf of King Ptolemy V, written in three scripts: hieroglyphic, demotic, and Greek.",
+      "source": "https://en.wikipedia.org/wiki/Rosetta_Stone"
+    },
+    {
+      "text": "During World War II, a bear named Wojtek was officially enlisted in the Polish army and helped carry ammunition at the Battle of Monte Cassino.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/During_World_War_II%2C_a_bear_named_Wojtek"
+    },
+    {
+      "text": "The abolitionist movement in the 19th century fought to end slavery in the United States and the British Empire.",
+      "source": "https://en.wikipedia.org/wiki/United_States_and_the_British_Empire"
+    },
+    {
+      "text": "The Great Schism of 1054 permanently divided Christianity into the Roman Catholic Church and the Eastern Orthodox Church.",
+      "source": "https://en.wikipedia.org/wiki/Great_Schism_of_1054"
+    },
+    {
+      "text": "The Battle of Lepanto in 1571 was a decisive naval battle that halted Ottoman expansion into the western Mediterranean.",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Lepanto_in_1571"
+    },
+    {
+      "text": "The Nuremberg Laws of 1935 stripped Jewish people of German citizenship and prohibited marriages between Jews and non-Jews.",
+      "source": "https://en.wikipedia.org/wiki/Nuremberg_Laws_of_1935"
+    },
+    {
+      "text": "The ancient city of Troy, long thought to be mythical, was discovered by archaeologist Heinrich Schliemann in the 1870s.",
+      "source": "https://en.wikipedia.org/wiki/ancient_city_of_Troy%2C_long_thought_to_be_mythical"
+    },
+    {
+      "text": "The Antarctic Treaty, signed on December 1, 1959, dedicated the continent to peaceful scientific research and banned military activity.",
+      "month": 12,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/Antarctic_Treaty"
+    },
+    {
+      "text": "Ancient Egyptian pharaohs kept their hair covered at all times and were never seen without their royal headdress, called a nemes.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Ancient_Egyptian_pharaohs_kept_their_hair_covered_at_all_times_and"
+    },
+    {
+      "text": "The Hundred Days was the period in 1815 when Napoleon escaped from exile on Elba and briefly returned to power before his defeat at Waterloo.",
+      "source": "https://en.wikipedia.org/wiki/Hundred_Days"
+    },
+    {
+      "text": "The Gutenberg Revolution, enabled by the printing press, is considered one of the most important events in human history for spreading literacy and knowledge.",
+      "source": "https://en.wikipedia.org/wiki/Gutenberg_Revolution%2C_enabled_by_the_printing_press"
+    },
+    {
+      "text": "The Gold Rush of 1848-1855 in California attracted over 300,000 people from around the world seeking fortune.",
+      "source": "https://en.wikipedia.org/wiki/Gold_Rush_of_1848"
+    },
+    {
+      "text": "The Camp David Accords, signed in 1978, were a landmark peace agreement between Egypt and Israel, brokered by President Jimmy Carter.",
+      "source": "https://en.wikipedia.org/wiki/Camp_David_Accords%2C_signed_in_1978"
+    },
+    {
+      "text": "The first use of tanks in warfare occurred during the Battle of the Somme in September 1916 in World War I.",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_the_Somme_in_September_1916_in"
+    },
+    {
+      "text": "The Incas performed successful skull surgeries called trepanation, and many patients survived, as evidenced by healed bone growth.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Incas"
+    },
+    {
+      "text": "The Marshall Plan helped rebuild Western Europe after World War II and is credited with preventing the spread of communism in those countries.",
+      "source": "https://en.wikipedia.org/wiki/Marshall_Plan"
+    },
+    {
+      "text": "The Dred Scott decision of 1857 ruled that African Americans could not be US citizens, inflaming tensions that led to the Civil War.",
+      "source": "https://en.wikipedia.org/wiki/Dred_Scott"
+    },
+    {
+      "text": "The ancient Minoans on Crete built the Palace of Knossos around 1700 BC, which may have inspired the myth of the Labyrinth.",
+      "source": "https://en.wikipedia.org/wiki/ancient_Minoans_on_Crete_built_the_Palace_of_Knossos_around_1700_BC%2C_which_may"
+    },
+    {
+      "text": "The first shots of the American Revolution were fired at Lexington and Concord on April 19, 1775.",
+      "month": 4,
+      "day": 19,
+      "source": "https://en.wikipedia.org/wiki/first_shots_of_the_American_Revolution"
+    },
+    {
+      "text": "The Trans-Atlantic slave trade forcibly transported an estimated 12.5 million Africans to the Americas between the 16th and 19th centuries.",
+      "source": "https://en.wikipedia.org/wiki/Trans-Atlantic"
+    },
+    {
+      "text": "In 1752, Britain adopted the Gregorian calendar and 'lost' 11 days — September 2 was followed by September 14, causing widespread confusion.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Britain_adopted_the_Gregorian_calendar_and_%27lost%27_11_days_%E2%80%94_September_2"
+    },
+    {
+      "text": "The Opium Wars led to the Treaty of Nanking in 1842, which ceded Hong Kong to Britain and opened five Chinese ports to foreign trade.",
+      "source": "https://en.wikipedia.org/wiki/Opium_Wars_led_to_the_Treaty_of_Nanking_in_1842%2C_which_ceded_Hong_Kong_to_Britain_and"
+    },
+    {
+      "text": "The Great Zimbabwe ruins in southern Africa were the center of a thriving trading empire between the 11th and 15th centuries.",
+      "source": "https://en.wikipedia.org/wiki/Great_Zimbabwe_ruins_in_southern_Africa"
+    },
+    {
+      "text": "The Manhattan Project employed over 125,000 workers, yet many had no idea they were helping build an atomic bomb.",
+      "source": "https://en.wikipedia.org/wiki/Manhattan_Project_employed_over_125%2C000_workers%2C_yet_many"
+    },
+    {
+      "text": "The Battle of Bosworth Field in 1485 ended the Wars of the Roses and brought the Tudor dynasty to power in England.",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Bosworth_Field"
+    },
+    {
+      "text": "The first telephone exchange opened in New Haven, Connecticut, in 1878, with just 21 subscribers.",
+      "source": "https://en.wikipedia.org/wiki/first_telephone_exchange"
+    },
+    {
+      "text": "The original purpose of the Leaning Tower of Pisa was as a bell tower for the cathedral, and it began leaning during construction in 1173 due to soft ground.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/original_purpose_of_the_Leaning_Tower_of_Pisa"
+    },
+    {
+      "text": "The Seneca Falls Convention of 1848 was the first women's rights convention in the United States, marking the beginning of the organized suffrage movement.",
+      "source": "https://en.wikipedia.org/wiki/Seneca_Falls_Convention_of_1848"
+    },
+    {
+      "text": "The Qin Dynasty, though lasting only 15 years (221-206 BC), unified China, standardized weights and measures, and began construction of the Great Wall.",
+      "source": "https://en.wikipedia.org/wiki/Qin_Dynasty"
+    },
+    {
+      "text": "The Stonewall riots of June 1969 in New York City are considered a catalyst for the modern LGBTQ rights movement.",
+      "source": "https://en.wikipedia.org/wiki/Stonewall_riots_of_June_1969_in_New_York_City"
+    },
+    {
+      "text": "The Tang Dynasty (618-907) is often considered the golden age of Chinese civilization, known for its art, literature, and cosmopolitan culture.",
+      "source": "https://en.wikipedia.org/wiki/Tang_Dynasty_(618-907)"
+    },
+    {
+      "text": "The first photograph was taken by Joseph Nicéphore Niépce in 1826 or 1827, requiring an exposure time of about eight hours.",
+      "source": "https://en.wikipedia.org/wiki/first_photograph"
+    },
+    {
+      "text": "The Children's Crusade of 1212 was an ill-fated attempt by thousands of children to march to the Holy Land — most never arrived.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Children%27s_Crusade_of_1212"
+    },
+    {
+      "text": "The Declaration of the Rights of Man and of the Citizen, adopted during the French Revolution in 1789, inspired human rights documents worldwide.",
+      "source": "https://en.wikipedia.org/wiki/Declaration_of_the_Rights_of_Man_and"
+    },
+    {
+      "text": "The Transcontinental Railroad was joined at Promontory Summit, Utah, with a golden spike ceremony on May 10, 1869.",
+      "source": "https://en.wikipedia.org/wiki/Transcontinental_Railroad"
+    },
+    {
+      "text": "The Portuguese Empire was the first global maritime empire, spanning nearly six centuries from the 15th to the 20th century.",
+      "source": "https://en.wikipedia.org/wiki/Portuguese_Empire"
+    },
+    {
+      "text": "The Munich Agreement of 1938 allowed Nazi Germany to annex the Sudetenland, and British PM Neville Chamberlain declared it would bring 'peace for our time.'",
+      "source": "https://en.wikipedia.org/wiki/Munich_Agreement_of_1938"
+    },
+    {
+      "text": "The Korean Demilitarized Zone (DMZ) is the most heavily fortified border in the world and has stood since 1953.",
+      "source": "https://en.wikipedia.org/wiki/Korean_Demilitarized_Zone_(DMZ)"
+    },
+    {
+      "text": "During the construction of the Great Wall of China, workers mixed sticky rice into the mortar, making it stronger than modern cement.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/During_the"
+    },
+    {
+      "text": "The Pilgrims celebrated the first Thanksgiving in 1621 with the Wampanoag people, though the holiday wasn't made official until 1863.",
+      "source": "https://en.wikipedia.org/wiki/Pilgrims"
+    },
+    {
+      "text": "The Persian Wars between Greece and Persia in the 5th century BC helped define Western civilization and democracy.",
+      "source": "https://en.wikipedia.org/wiki/Persian_Wars_between_Greece_and_Persia_in_the_5th_century_BC"
+    },
+    {
+      "text": "The Apollo 11 mission's computer had less processing power than a modern pocket calculator.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Apollo_11_mission%27s_computer"
+    },
+    {
+      "text": "The Yom Kippur War of 1973 began when Egypt and Syria launched a surprise attack on Israel on the Jewish holy day.",
+      "source": "https://en.wikipedia.org/wiki/Yom_Kippur_War_of_1973_began_when_Egypt_and_Syria"
+    },
+    {
+      "text": "The first electric traffic light was installed in Cleveland, Ohio, on August 5, 1914.",
+      "source": "https://en.wikipedia.org/wiki/first_electric_traffic_light"
+    },
+    {
+      "text": "The Great Famine in Ireland (1845-1852) caused by potato blight resulted in the death or emigration of approximately 25% of the population.",
+      "source": "https://en.wikipedia.org/wiki/Great_Famine_in_Ireland"
+    },
+    {
+      "text": "The ancient Akkadian Empire, founded by Sargon of Akkad around 2334 BC, is considered the world's first empire.",
+      "source": "https://en.wikipedia.org/wiki/ancient_Akkadian_Empire"
+    },
+    {
+      "text": "The Brown v. Board of Education Supreme Court decision on May 17, 1954, declared racial segregation in public schools unconstitutional.",
+      "month": 5,
+      "day": 17,
+      "source": "https://en.wikipedia.org/wiki/Brown"
+    },
+    {
+      "text": "The ancient Romans added lead to their wine as a sweetener, which likely contributed to widespread lead poisoning.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/History"
+    },
+    {
+      "text": "The Thirty Years' War (1618-1648) devastated central Europe and killed an estimated 8 million people.",
+      "source": "https://en.wikipedia.org/wiki/Thirty_Years%27_War"
+    },
+    {
+      "text": "The Pax Romana was a 200-year period of relative peace and stability across the Roman Empire, lasting from 27 BC to 180 AD.",
+      "source": "https://en.wikipedia.org/wiki/Pax_Romana"
+    },
+    {
+      "text": "The Iranian Revolution of 1979 overthrew the Shah and established an Islamic Republic under Ayatollah Khomeini.",
+      "source": "https://en.wikipedia.org/wiki/Iranian_Revolution_of_1979"
+    },
+    {
+      "text": "The first World's Fair, the Great Exhibition of 1851, was held in London's Crystal Palace and attracted over 6 million visitors.",
+      "source": "https://en.wikipedia.org/wiki/first_World%27s_Fair%2C_the_Great_Exhibition_of_1851"
+    },
+    {
+      "text": "The Voting Rights Act was signed into law by President Lyndon B. Johnson on August 6, 1965, prohibiting racial discrimination in voting.",
+      "month": 8,
+      "day": 6,
+      "source": "https://en.wikipedia.org/wiki/Voting_Rights_Act"
+    },
+    {
+      "text": "The Wright Brothers' first successful airplane was called the Wright Flyer and cost less than $1,000 to build.",
+      "source": "https://en.wikipedia.org/wiki/Wright_Brothers%27_first_successful_airplane"
+    },
+    {
+      "text": "The Maginot Line, France's extensive defensive fortification along the German border, was easily bypassed by German forces who invaded through Belgium in 1940.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Maginot_Line%2C_France%27s_extensive_defensive_fortification_along_the_German_border"
+    },
+    {
+      "text": "The Plymouth Colony, established by the Pilgrims in 1620, was the second successful English settlement in North America.",
+      "source": "https://en.wikipedia.org/wiki/Plymouth_Colony%2C_established_by_the_Pilgrims_in_1620"
+    },
+    {
+      "text": "The Great Leap Forward in China (1958-1962) was a disastrous economic campaign that led to a famine killing an estimated 15 to 55 million people.",
+      "source": "https://en.wikipedia.org/wiki/Great_Leap_Forward_in_China_(1958-1962)"
+    },
+    {
+      "text": "The Rosetta Stone is currently housed in the British Museum in London, where it has been since 1802.",
+      "source": "https://en.wikipedia.org/wiki/Rosetta_Stone"
+    },
+    {
+      "text": "The Congress of Vienna in 1814-1815 redrew the map of Europe after the Napoleonic Wars and established a balance of power.",
+      "source": "https://en.wikipedia.org/wiki/Congress_of_Vienna"
+    },
+    {
+      "text": "The Tang Dynasty poet Li Bai is said to have drowned while trying to embrace the reflection of the Moon in a river after drinking too much wine.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Tang_Dynasty_poet_Li_Bai"
+    },
+    {
+      "text": "The Haitian Revolution (1791-1804) was the only successful slave revolt that led to the creation of an independent nation, Haiti.",
+      "source": "https://en.wikipedia.org/wiki/Haitian_Revolution_(1791-1804)"
+    },
+    {
+      "text": "The ancient Egyptians invented toothpaste using a mixture of crushed eggshells, ox hooves, and pumice.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/ancient_Egyptians"
+    },
+    {
+      "text": "The Tokugawa Shogunate ruled Japan for over 250 years (1603-1868) during a period of relative peace known as the Edo period.",
+      "source": "https://en.wikipedia.org/wiki/Tokugawa_Shogunate"
+    },
+    {
+      "text": "The first Geneva Convention of 1864 was inspired by Henry Dunant's horrific experience at the Battle of Solferino in 1859.",
+      "source": "https://en.wikipedia.org/wiki/first_Geneva_Convention_of_1864"
+    },
+    {
+      "text": "The Pueblo Revolt of 1680 was the most successful Native American uprising against Spanish colonizers in North America.",
+      "source": "https://en.wikipedia.org/wiki/Pueblo_Revolt_of_1680"
+    },
+    {
+      "text": "The ancient city of Ur in Mesopotamia contained a massive ziggurat dedicated to the moon god Nanna, built around 2100 BC.",
+      "source": "https://en.wikipedia.org/wiki/Ur_in_Mesopotamia"
+    },
+    {
+      "text": "The British East India Company was once the most powerful corporation in history, with its own army of over 260,000 soldiers.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/British_East_India_Company"
+    },
+    {
+      "text": "The Siege of Vienna in 1683 marked the turning point against Ottoman expansion into Europe.",
+      "source": "https://en.wikipedia.org/wiki/Siege_of_Vienna_in_1683"
+    },
+    {
+      "text": "The Code Talkers of World War II were Native Americans who used their indigenous languages to create unbreakable military codes.",
+      "source": "https://en.wikipedia.org/wiki/Code_Talkers_of_World_War_II"
+    },
+    {
+      "text": "The first census in recorded history was conducted in ancient Egypt around 3000 BC to plan the construction of the pyramids.",
+      "source": "https://en.wikipedia.org/wiki/first_census_in"
+    },
+    {
+      "text": "The Boxer Protocol of 1901 imposed harsh penalties on China and allowed foreign troops to be stationed in Beijing.",
+      "source": "https://en.wikipedia.org/wiki/Boxer_Protocol_of_1901"
+    },
+    {
+      "text": "The Ptolemaic dynasty of ancient Egypt lasted nearly 300 years, and Cleopatra VII was its final ruler.",
+      "source": "https://en.wikipedia.org/wiki/Ptolemaic_dynasty_of_ancient_Egypt_lasted_nearly_300_years%2C_and_Cleopatra_VII"
+    },
+    {
+      "text": "During the Middle Ages, European cathedrals took an average of 200 to 300 years to complete.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/During_the_Middle_Ages%2C_European_cathedrals"
+    },
+    {
+      "text": "The Abbasid Caliphate's House of Wisdom in Baghdad was one of the greatest centers of learning in the medieval world.",
+      "source": "https://en.wikipedia.org/wiki/Abbasid_Caliphate%27s_House_of_Wisdom_in_Baghdad"
+    },
+    {
+      "text": "The Siege of Leningrad during World War II lasted 872 days, making it one of the longest and most destructive sieges in history.",
+      "source": "https://en.wikipedia.org/wiki/Siege_of_Leningrad"
+    },
+    {
+      "text": "The first successful blood transfusion was performed by Dr. James Blundell in 1818, using human blood.",
+      "source": "https://en.wikipedia.org/wiki/first_successful_blood_transfusion"
+    },
+    {
+      "text": "The Mughal Emperor Shah Jahan built the Taj Mahal as a mausoleum for his beloved wife Mumtaz Mahal, who died during childbirth in 1631.",
+      "source": "https://en.wikipedia.org/wiki/Mughal_Emperor_Shah_Jahan"
+    },
+    {
+      "text": "Benjamin Franklin's famous kite experiment to prove the electrical nature of lightning took place in June 1752.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Benjamin_Franklin%27s_famous_kite_experiment_to_prove_the_electrical_nature_of_lightning"
+    },
+    {
+      "text": "The Battle of Trafalgar in 1805 established British naval supremacy for over a century, though Admiral Nelson was killed during the battle.",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Trafalgar"
+    },
+    {
+      "text": "The Aztec capital Tenochtitlan was built on an island and connected to the mainland by causeways, with a population larger than most European cities of the time.",
+      "source": "https://en.wikipedia.org/wiki/Aztec_capital_Tenochtitlan"
+    },
+    {
+      "text": "The ancient Olympic truce, called the ekecheiria, halted all conflicts in Greece so athletes could travel safely to the games.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/ancient_Olympic_truce"
+    },
+    {
+      "text": "The Molotov-Ribbentrop Pact of 1939 was a non-aggression agreement between Nazi Germany and the Soviet Union that shocked the world.",
+      "source": "https://en.wikipedia.org/wiki/Molotov-Ribbentrop_Pact_of_1939"
+    },
+    {
+      "text": "The discovery of the Americas by Europeans triggered the Columbian Exchange, transferring plants, animals, and diseases between the Old and New Worlds.",
+      "source": "https://en.wikipedia.org/wiki/Columbian_Exchange"
+    },
+    {
+      "text": "The Rosie the Riveter campaign during World War II encouraged millions of American women to work in factories and shipyards.",
+      "source": "https://en.wikipedia.org/wiki/Rosie_the_Riveter"
+    },
+    {
+      "text": "The Sumerians invented cuneiform writing around 3400 BC, one of the earliest known systems of writing.",
+      "source": "https://en.wikipedia.org/wiki/Sumerians"
+    },
+    {
+      "text": "The USS Maine exploded in Havana Harbor on February 15, 1898, helping trigger the Spanish-American War.",
+      "month": 2,
+      "day": 15,
+      "source": "https://en.wikipedia.org/wiki/USS_Maine"
+    },
+    {
+      "text": "The ancient Egyptians played a board game called Senet, which is one of the oldest known board games, dating back to around 3100 BC.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/ancient_Egyptians_played_a_board_game_called_Senet%2C_which"
+    },
+    {
+      "text": "The Warsaw Pact, formed in 1955, was the Soviet Union's military alliance counterpart to NATO.",
+      "source": "https://en.wikipedia.org/wiki/Warsaw_Pact"
+    },
+    {
+      "text": "The ancient Phoenicians were the first civilization to circumnavigate Africa, accomplishing the feat around 600 BC.",
+      "source": "https://en.wikipedia.org/wiki/ancient_Phoenicians"
+    },
+    {
+      "text": "The Second Boer War (1899-1902) saw the British use scorched earth tactics and concentration camps against the Boer civilian population.",
+      "source": "https://en.wikipedia.org/wiki/Second_Boer_War_(1899-1902)"
+    },
+    {
+      "text": "The East Berlin uprising on June 17, 1953, was one of the first major rebellions against Soviet control in Eastern Europe.",
+      "source": "https://en.wikipedia.org/wiki/East_Berlin_uprising_on_June_17%2C_1953"
+    },
+    {
+      "text": "The Seven Years' War (1756-1763) is sometimes called the first true 'world war' as it was fought across five continents.",
+      "source": "https://en.wikipedia.org/wiki/Seven_Years%27_War_(1756-1763)"
+    },
+    {
+      "text": "The Ottoman Empire's elite soldiers, the Janissaries, were originally enslaved Christian boys converted to Islam and trained from childhood.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Ottoman_Empire%27s_elite_soldiers%2C_the_Janissaries"
+    },
+    {
+      "text": "The Gregorian calendar, which most of the world uses today, was introduced by Pope Gregory XIII in October 1582.",
+      "source": "https://en.wikipedia.org/wiki/Gregorian_calendar%2C_which_most_of_the_world_uses_today"
+    },
+    {
+      "text": "The ancient Persians had an early form of refrigeration called a yakhchal, an ice house that kept food cold in desert conditions.",
+      "source": "https://en.wikipedia.org/wiki/ancient_Persians"
+    },
+    {
+      "text": "The Berlin Airlift of 1948-1949 delivered over 2.3 million tons of supplies to West Berlin during the Soviet blockade.",
+      "source": "https://en.wikipedia.org/wiki/Berlin_Airlift_of_1948"
+    },
+    {
+      "text": "The first Nobel Prizes were awarded on December 10, 1901, in the fields of physics, chemistry, medicine, literature, and peace.",
+      "month": 12,
+      "day": 10,
+      "source": "https://en.wikipedia.org/wiki/first_Nobel_Prizes"
+    },
+    {
+      "text": "The Safavid Empire established Shia Islam as the state religion of Persia in the 16th century, shaping Iranian identity to this day.",
+      "source": "https://en.wikipedia.org/wiki/Safavid_Empire"
+    },
+    {
+      "text": "The Rosetta Stone weighs approximately 1,680 pounds and stands about 3 feet 9 inches tall.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Rosetta_Stone"
+    },
+    {
+      "text": "The Boxer Rebellion was triggered partly by resentment of foreign influence and Christian missionary activities in China.",
+      "source": "https://en.wikipedia.org/wiki/Boxer_Rebellion"
+    },
+    {
+      "text": "The first Continental Congress met in Philadelphia in September 1774 to coordinate a colonial response to British tyranny.",
+      "source": "https://en.wikipedia.org/wiki/first_Continental_Congress"
+    },
+    {
+      "text": "The ancient Carthaginians were master sailors and traders, establishing colonies across the Mediterranean.",
+      "source": "https://en.wikipedia.org/wiki/ancient_Carthaginians"
+    },
+    {
+      "text": "The Long March of 1934-1935 was a 6,000-mile retreat by the Chinese Communist forces that solidified Mao Zedong's leadership.",
+      "source": "https://en.wikipedia.org/wiki/Long_March_of_1934-1935"
+    },
+    {
+      "text": "The Lascaux cave paintings in France are approximately 17,000 years old and depict large animals and human figures.",
+      "source": "https://en.wikipedia.org/wiki/Lascaux_cave_paintings_in_France"
+    },
+    {
+      "text": "In ancient Athens, the penalty for stealing vegetables was reportedly more severe than the penalty for murder.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/In_ancient_Athens%2C_the_penalty_for_stealing_vegetables"
+    },
+    {
+      "text": "The Sykes-Picot Agreement of 1916 secretly divided the Ottoman Empire's territories between Britain and France, reshaping the Middle East.",
+      "source": "https://en.wikipedia.org/wiki/Sykes-Picot_Agreement_of_1916"
+    },
+    {
+      "text": "The Versailles Treaty required Germany to accept full responsibility for World War I and pay reparations equivalent to $33 billion.",
+      "source": "https://en.wikipedia.org/wiki/Versailles_Treaty"
+    },
+    {
+      "text": "The Age of Enlightenment produced influential thinkers such as Voltaire, John Locke, and Jean-Jacques Rousseau.",
+      "source": "https://en.wikipedia.org/wiki/Age_of_Enlightenment"
+    },
+    {
+      "text": "The Battle of Iwo Jima in February-March 1945 was one of the bloodiest battles in the Pacific Theater, with nearly 7,000 US Marines killed.",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Iwo_Jima_in_February-March_1945"
+    },
+    {
+      "text": "The Tiananmen Square protests of 1989 were pro-democracy demonstrations in Beijing that were violently suppressed by the Chinese government.",
+      "month": 6,
+      "day": 4,
+      "source": "https://en.wikipedia.org/wiki/Tiananmen_Square_protests_of_1989"
+    }
+  ]
+}

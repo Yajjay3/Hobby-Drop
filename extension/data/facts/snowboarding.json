@@ -1,0 +1,1775 @@
+{
+  "hobby": "Snowboarding",
+  "facts": [
+    {
+      "text": "Snowboarding became an official Olympic sport at the 1998 Winter Games in Nagano, Japan.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "Sherman Poppen invented the 'Snurfer' in 1965 by bolting two skis together for his daughter.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Sherman_Poppen"
+    },
+    {
+      "text": "Shaun White has won three Olympic gold medals in the halfpipe, more than any other snowboarder.",
+      "month": 2,
+      "day": 11,
+      "source": "https://en.wikipedia.org/wiki/Shaun_White"
+    },
+    {
+      "text": "A standard Olympic halfpipe is 22 feet (6.7 meters) tall with walls called 'transitions.'",
+      "source": "https://en.wikipedia.org/wiki/A_standard_Olympic_halfpipe"
+    },
+    {
+      "text": "Burton Snowboards, founded in 1977, is the largest snowboard manufacturer in the world.",
+      "source": "https://en.wikipedia.org/wiki/Burton_Snowboards"
+    },
+    {
+      "text": "The McTwist is an inverted 540-degree rotation originally adapted from skateboarding.",
+      "source": "https://en.wikipedia.org/wiki/McTwist"
+    },
+    {
+      "text": "Chloe Kim became the youngest woman to win an Olympic snowboarding gold medal at age 17.",
+      "month": 2,
+      "day": 13,
+      "source": "https://en.wikipedia.org/wiki/Chloe_Kim"
+    },
+    {
+      "text": "Mammoth Mountain in California is home to one of the most famous terrain parks in the world.",
+      "source": "https://en.wikipedia.org/wiki/Mammoth_Mountain_in_California"
+    },
+    {
+      "text": "Splitboarding uses a board that separates into two ski-like halves for uphill travel in the backcountry.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "The X Games first featured snowboarding in 1997 at Big Bear Lake, California.",
+      "month": 1,
+      "day": 30,
+      "source": "https://en.wikipedia.org/wiki/X_Games"
+    },
+    {
+      "text": "Terje Haakonsen boycotted the 1998 Olympics, protesting the FIS's control over snowboarding.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Terje_Haakonsen"
+    },
+    {
+      "text": "Freestyle snowboard boots are softer and more flexible than alpine racing boots.",
+      "source": "https://en.wikipedia.org/wiki/Freestyle_snowboard_boots"
+    },
+    {
+      "text": "Travis Rice's film 'The Art of Flight' (2011) is considered one of the greatest snowboard films ever made.",
+      "source": "https://en.wikipedia.org/wiki/Flight"
+    },
+    {
+      "text": "Slopestyle snowboarding involves performing tricks on a course of rails, jumps, and other features.",
+      "source": "https://en.wikipedia.org/wiki/Slopestyle_snowboarding_involves_performing_tricks_on_a_course_of_rails%2C_jumps%2C_and_other"
+    },
+    {
+      "text": "Whistler Blackcomb in British Columbia has over 8,100 acres of skiable terrain popular with snowboarders.",
+      "source": "https://en.wikipedia.org/wiki/Whistler_Blackcomb_in_British_Columbia"
+    },
+    {
+      "text": "Jake Burton Carpenter, founder of Burton Snowboards, is often called the 'father of modern snowboarding.'",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Jake_Burton_Carpenter%2C_founder_of_Burton_Snowboards"
+    },
+    {
+      "text": "A 'double cork' trick involves two off-axis flips combined with rotations.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "Snowboard cross (boardercross) features four to six riders racing simultaneously down a course with jumps and banked turns.",
+      "source": "https://en.wikipedia.org/wiki/Snowboard_cross_(boardercross)"
+    },
+    {
+      "text": "The Dew Tour is a major action sports competition that features snowboarding events each winter.",
+      "source": "https://en.wikipedia.org/wiki/Dew_Tour"
+    },
+    {
+      "text": "Avalanche transceivers, probes, and shovels are essential safety gear for backcountry snowboarding.",
+      "source": "https://en.wikipedia.org/wiki/Avalanche_transceivers%2C_probes%2C_and_shovels"
+    },
+    {
+      "text": "Tom Sims, a skateboard pioneer, built one of the first snowboards in 1963 as a shop class project.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Tom_Sims%2C_a_skateboard_pioneer"
+    },
+    {
+      "text": "Parallel giant slalom was removed from the Olympic program after the 2018 PyeongChang Games.",
+      "source": "https://en.wikipedia.org/wiki/Parallel_giant_slalom"
+    },
+    {
+      "text": "Lib Tech, based in Washington state, is known for its environmentally friendly snowboard manufacturing.",
+      "source": "https://en.wikipedia.org/wiki/Lib_Tech%2C_based_in_Washington_state"
+    },
+    {
+      "text": "Red Gerard won the first gold medal of the 2018 PyeongChang Olympics in men's slopestyle at age 17.",
+      "month": 2,
+      "day": 11,
+      "source": "https://en.wikipedia.org/wiki/Red_Gerard"
+    },
+    {
+      "text": "A superpipe has walls that are 22 feet high, compared to a standard halfpipe's 18-foot walls.",
+      "source": "https://en.wikipedia.org/wiki/A_superpipe"
+    },
+    {
+      "text": "Snowboarding culture emerged heavily from skateboarding and surfing traditions in the 1980s.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "The Natural Selection Tour, created by Travis Rice, takes place in big-mountain backcountry terrain.",
+      "source": "https://en.wikipedia.org/wiki/Natural_Selection_Tour"
+    },
+    {
+      "text": "Heli-boarding involves using a helicopter to access remote, untracked powder runs.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "Jamie Anderson won the first-ever Olympic gold medal in women's slopestyle in 2014.",
+      "month": 2,
+      "day": 9,
+      "source": "https://en.wikipedia.org/wiki/Jamie_Anderson"
+    },
+    {
+      "text": "The FIS Snowboard World Cup circuit includes events in halfpipe, slopestyle, snowboard cross, and parallel disciplines.",
+      "source": "https://en.wikipedia.org/wiki/FIS_Snowboard_World_Cup_circuit"
+    },
+    {
+      "text": "Many ski resorts banned snowboarding in the 1980s, viewing it as dangerous and disruptive.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "Powder boards are wider and often have a directional shape with a set-back stance for floating in deep snow.",
+      "source": "https://en.wikipedia.org/wiki/Powder_boards"
+    },
+    {
+      "text": "Ayumu Hirano landed the first-ever triple cork in Olympic halfpipe competition at the 2022 Beijing Games.",
+      "month": 2,
+      "day": 11,
+      "source": "https://en.wikipedia.org/wiki/Ayumu_Hirano"
+    },
+    {
+      "text": "Breckenridge, Colorado is one of the most popular snowboard destinations in North America.",
+      "source": "https://en.wikipedia.org/wiki/Breckenridge%2C_Colorado"
+    },
+    {
+      "text": "Snowboard wax reduces friction between the base of the board and the snow surface.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "Mark McMorris has won more X Games snowboarding medals than any other male athlete.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Mark_McMorris"
+    },
+    {
+      "text": "The 'method' grab is one of the most iconic and stylish tricks in snowboarding.",
+      "source": "https://en.wikipedia.org/wiki/%27method%27_grab"
+    },
+    {
+      "text": "Snowboard bindings come in three main types: strap-in, rear-entry, and step-on.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "Torah Bright won Olympic gold in the halfpipe at the 2010 Vancouver Games.",
+      "month": 2,
+      "day": 18,
+      "source": "https://en.wikipedia.org/wiki/Torah_Bright"
+    },
+    {
+      "text": "Jackson Hole Mountain Resort in Wyoming is renowned for its steep, expert-level backcountry terrain.",
+      "source": "https://en.wikipedia.org/wiki/Jackson_Hole_Mountain_Resort_in_Wyoming"
+    },
+    {
+      "text": "A 'cab' trick is a switch (fakie) frontside rotation, named after skateboarder Steve Caballero.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/A_%27cab%27_trick"
+    },
+    {
+      "text": "Snowboard cross was added to the Winter Olympics at the 2006 Turin Games.",
+      "source": "https://en.wikipedia.org/wiki/Snowboard_cross"
+    },
+    {
+      "text": "The US Open of Snowboarding, held at Vail, is one of the oldest and most prestigious snowboard competitions.",
+      "month": 3,
+      "day": 5,
+      "source": "https://en.wikipedia.org/wiki/US_Open_of_Snowboarding%2C_held_at_Vail"
+    },
+    {
+      "text": "GNU Snowboards is a sister company of Lib Tech and is known for its asymmetric board designs.",
+      "source": "https://en.wikipedia.org/wiki/GNU_Snowboards"
+    },
+    {
+      "text": "Early snowboards had no metal edges, making them difficult to control on hard-packed snow.",
+      "source": "https://en.wikipedia.org/wiki/Early_snowboards"
+    },
+    {
+      "text": "Shaun White scored a perfect 100 at the 2012 X Games in the superpipe.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Shaun_White"
+    },
+    {
+      "text": "Laax in Switzerland is home to one of Europe's largest and best terrain parks.",
+      "source": "https://en.wikipedia.org/wiki/Laax_in_Switzerland"
+    },
+    {
+      "text": "A 'frontside 1080' involves three full rotations while facing downhill at takeoff.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "The International Snowboard Federation (ISF) was founded in 1990 to govern competitive snowboarding.",
+      "source": "https://en.wikipedia.org/wiki/International_Snowboard_Federation_(ISF)"
+    },
+    {
+      "text": "Snowboard film production company Standard Films released the influential 'TB' series for over two decades.",
+      "source": "https://en.wikipedia.org/wiki/Snowboard_film_production_company_Standard_Films"
+    },
+    {
+      "text": "Camber, rocker, and flat are the three main profile types for snowboard bases.",
+      "source": "https://en.wikipedia.org/wiki/Camber%2C_rocker%2C_and_flat"
+    },
+    {
+      "text": "Ross Powers, Danny Kass, and J.J. Thomas swept the men's halfpipe podium for the USA at the 2002 Olympics.",
+      "month": 2,
+      "day": 11,
+      "source": "https://en.wikipedia.org/wiki/Ross_Powers"
+    },
+    {
+      "text": "Freestyle boards are typically shorter, more flexible, and have a true twin shape for riding switch.",
+      "source": "https://en.wikipedia.org/wiki/Freestyle_boards"
+    },
+    {
+      "text": "The first Snurfer competition was held in Muskegon, Michigan in 1968.",
+      "type": "did-you-know",
+      "month": 2,
+      "day": 18,
+      "source": "https://en.wikipedia.org/wiki/first_Snurfer_competition"
+    },
+    {
+      "text": "Jones Snowboards was founded by legendary big-mountain rider Jeremy Jones in 2009.",
+      "source": "https://en.wikipedia.org/wiki/Jones_Snowboards"
+    },
+    {
+      "text": "Snowboard magazines like Transworld Snowboarding and Snowboarder helped define the sport's culture in the 1990s.",
+      "source": "https://en.wikipedia.org/wiki/Snowboard_magazines_like_Transworld_Snowboarding_and_Snowboarder"
+    },
+    {
+      "text": "Big air snowboarding made its Olympic debut at the 2018 PyeongChang Games.",
+      "source": "https://en.wikipedia.org/wiki/PyeongChang_Games"
+    },
+    {
+      "text": "The 'Indy grab' involves grabbing the toe edge between the bindings with the back hand.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "Stratton Mountain in Vermont was one of the first resorts to allow snowboarding in 1983.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Stratton_Mountain_in_Vermont"
+    },
+    {
+      "text": "Chloe Kim landed back-to-back 1080s in the halfpipe at the 2018 Olympics, a first for women's competition.",
+      "source": "https://en.wikipedia.org/wiki/Chloe_Kim"
+    },
+    {
+      "text": "Snowboard boots use a lacing system that can be traditional laces, speed laces, or BOA dials.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "The Rider's Poll by Snowboarder Magazine is a prestigious annual award voted on by professional riders.",
+      "source": "https://en.wikipedia.org/wiki/Rider%27s_Poll_by_Snowboarder_Magazine"
+    },
+    {
+      "text": "Burton's 'Channel' binding system uses a single track instead of traditional insert patterns.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "The term 'goofy' refers to riding with the right foot forward, while 'regular' means left foot forward.",
+      "source": "https://en.wikipedia.org/wiki/term_%27goofy%27_refers_to_riding_with_the_right_foot_forward%2C_while_%27regular%27_means"
+    },
+    {
+      "text": "Terje Haakonsen set the world record for highest air out of a halfpipe at 9.8 meters in 2007.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Terje_Haakonsen"
+    },
+    {
+      "text": "Anna Gasser became the first woman to land a cab triple underflip 1260 in competition.",
+      "source": "https://en.wikipedia.org/wiki/Anna_Gasser"
+    },
+    {
+      "text": "Snowboard cross courses typically feature rollers, berms, jumps, and narrow sections.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "The 'stalefish' grab is performed by reaching behind the back leg to grab the heel edge.",
+      "source": "https://en.wikipedia.org/wiki/%27stalefish%27_grab"
+    },
+    {
+      "text": "Alta and Deer Valley in Utah remain among the last major resorts that still ban snowboarding.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Alta_and_Deer_Valley_in_Utah"
+    },
+    {
+      "text": "Snowboarding has influenced mainstream fashion with brands like Volcom, DC Shoes, and 686.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "The FIS took over governance of competitive snowboarding from the ISF in the late 1990s.",
+      "source": "https://en.wikipedia.org/wiki/FIS"
+    },
+    {
+      "text": "A 'butter' is a ground trick where the rider presses the nose or tail of the board while spinning.",
+      "source": "https://en.wikipedia.org/wiki/A_%27butter"
+    },
+    {
+      "text": "Zeb Powell is known for his creative, unconventional style that blends street skating with snowboarding.",
+      "source": "https://en.wikipedia.org/wiki/Zeb_Powell"
+    },
+    {
+      "text": "Sintered bases are faster and more durable than extruded bases but require more maintenance.",
+      "source": "https://en.wikipedia.org/wiki/Sintered_bases"
+    },
+    {
+      "text": "The Winter X Games have been held in Aspen, Colorado since 2002.",
+      "month": 1,
+      "day": 24,
+      "source": "https://en.wikipedia.org/wiki/Winter_X_Games"
+    },
+    {
+      "text": "Halfpipe snowboarding requires riders to perform tricks while launching out of a U-shaped channel of snow.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "Craig Kelly, a four-time world champion, is considered one of the greatest snowboarders of all time.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Craig_Kelly%2C_a_four-time_world_champion"
+    },
+    {
+      "text": "An all-mountain board is designed to handle varied terrain from groomed runs to powder to park.",
+      "source": "https://en.wikipedia.org/wiki/An_all-mountain_board"
+    },
+    {
+      "text": "The 'chicken salad' grab involves reaching between the legs and grabbing the heel edge with the leading hand.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "Snowboarding generates over $1 billion annually in equipment sales worldwide.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "Shaun White retired from competitive snowboarding after the 2022 Beijing Olympics.",
+      "month": 2,
+      "day": 11,
+      "source": "https://en.wikipedia.org/wiki/Shaun_White"
+    },
+    {
+      "text": "The 'ollie' in snowboarding, borrowed from skateboarding, is the foundation for many aerial tricks.",
+      "source": "https://en.wikipedia.org/wiki/%27ollie%27_in_snowboarding%2C_borrowed_from_skateboarding"
+    },
+    {
+      "text": "Nicolas Huber landed a backside quadruple cork 1800 in 2023, one of the most rotations ever in competition.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Nicolas_Huber"
+    },
+    {
+      "text": "Nitro Snowboards, founded in 1990 in Seattle, is one of the original rider-owned snowboard companies.",
+      "source": "https://en.wikipedia.org/wiki/Nitro_Snowboards"
+    },
+    {
+      "text": "Terrain park features are rated green circle, blue square, and black diamond like ski runs.",
+      "source": "https://en.wikipedia.org/wiki/Terrain_park"
+    },
+    {
+      "text": "Snowboard edges are made of steel and are sharpened to help grip on ice and hard-packed snow.",
+      "source": "https://en.wikipedia.org/wiki/Snowboard_edges"
+    },
+    {
+      "text": "The 'nose grab' involves reaching forward and grabbing the tip of the snowboard.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "Mark McMorris survived a severe backcountry crash in 2017 that left him with multiple broken bones.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Mark_McMorris_survived_a_severe_backcountry_crash_in_2017_that"
+    },
+    {
+      "text": "The Burton US Open has been running since 1982, making it one of snowboarding's longest-running events.",
+      "source": "https://en.wikipedia.org/wiki/Burton_US_Open"
+    },
+    {
+      "text": "Ride Snowboards, founded in 1992, became one of the top-selling board brands in the late 1990s.",
+      "source": "https://en.wikipedia.org/wiki/Ride_Snowboards"
+    },
+    {
+      "text": "A 'jib' in snowboarding refers to riding on non-snow surfaces like rails, boxes, and logs.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "Mammoth Mountain's Unbound Terrain Parks feature over 100 jumps and jibs across multiple parks.",
+      "source": "https://en.wikipedia.org/wiki/Mammoth_Mountain%27s_Unbound_Terrain_Parks"
+    },
+    {
+      "text": "Snowboard sidecut radius determines how tight or wide the board's natural turn arc will be.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "Craig Kelly died in an avalanche while heli-boarding in British Columbia in January 2003.",
+      "month": 1,
+      "day": 20,
+      "source": "https://en.wikipedia.org/wiki/Craig_Kelly"
+    },
+    {
+      "text": "A 'cork' trick involves going off-axis during a spin, creating a tilted rotation.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "Women's snowboard halfpipe was added to the Olympics in 2002 at Salt Lake City.",
+      "source": "https://en.wikipedia.org/wiki/Women%27s_snowboard_halfpipe"
+    },
+    {
+      "text": "The first major snowboarding video game was 'Cool Boarders' for PlayStation in 1996.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/first_major_snowboarding_video_game"
+    },
+    {
+      "text": "Magnetraction by Lib Tech uses a wavy edge design for better grip on icy conditions.",
+      "source": "https://en.wikipedia.org/wiki/Lib_Tech"
+    },
+    {
+      "text": "A volume-shifted board is shorter but wider than traditional boards, designed for powder performance.",
+      "source": "https://en.wikipedia.org/wiki/A_volume-shifted_board"
+    },
+    {
+      "text": "Danny Davis founded the 'Peace Park,' an artistic terrain park session held annually at various resorts.",
+      "source": "https://en.wikipedia.org/wiki/Danny_Davis"
+    },
+    {
+      "text": "The 'roast beef' grab involves reaching between the legs from behind and grabbing the heel edge.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "Capita Snowboards is based in Austria and manufactures boards in its own clean-energy 'Mothership' factory.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Capita_Snowboards"
+    },
+    {
+      "text": "Snowboard wax comes in temperature-specific formulas to match snow conditions.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "Kazu Kokubo is one of Japan's most famous snowboarders, known for his massive airs and stylish riding.",
+      "source": "https://en.wikipedia.org/wiki/Kazu_Kokubo"
+    },
+    {
+      "text": "Parallel giant slalom features two riders racing side by side through gates on separate courses.",
+      "source": "https://en.wikipedia.org/wiki/Parallel_giant_slalom"
+    },
+    {
+      "text": "The first snowboard halfpipe was hand-dug by riders at Tahoe City, California in 1979.",
+      "source": "https://en.wikipedia.org/wiki/first_snowboard_halfpipe"
+    },
+    {
+      "text": "A 'melon' grab is performed by reaching across the body to grab the heel edge between the bindings.",
+      "source": "https://en.wikipedia.org/wiki/A_%27melon%27_grab"
+    },
+    {
+      "text": "Snowboarding was the fastest-growing sport in the United States during the 1990s.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "Gretchen Bleiler was a dominant force in women's halfpipe, winning X Games gold multiple times.",
+      "source": "https://en.wikipedia.org/wiki/Gretchen_Bleiler"
+    },
+    {
+      "text": "Board flex is rated on a scale from 1 (softest) to 10 (stiffest), affecting performance in different conditions.",
+      "source": "https://en.wikipedia.org/wiki/Board_flex"
+    },
+    {
+      "text": "The 'tail grab' involves reaching behind and grabbing the tail of the snowboard during a jump.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "Vail Resorts owns several of the most popular snowboarding mountains under the Epic Pass.",
+      "source": "https://en.wikipedia.org/wiki/Vail_Resorts"
+    },
+    {
+      "text": "Snowboard stomp pads provide traction for the back foot when skating on flat ground.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "Anna Gasser won the first Olympic gold medal in women's big air at PyeongChang 2018.",
+      "month": 2,
+      "day": 23,
+      "source": "https://en.wikipedia.org/wiki/Anna_Gasser"
+    },
+    {
+      "text": "The 'backside rodeo' combines a backside rotation with an inverted backflip.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "Many professional snowboarders earn significant income from sponsorships and video parts rather than competition prize money.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "K2 Snowboards introduced the first twin-tip snowboard in the early 1990s.",
+      "source": "https://en.wikipedia.org/wiki/K2_Snowboards"
+    },
+    {
+      "text": "Snowboard helmets have become standard in competition and are increasingly worn by recreational riders.",
+      "source": "https://en.wikipedia.org/wiki/Snowboard_helmets"
+    },
+    {
+      "text": "The 'Japan air' involves tucking the board behind the rider while grabbing the toe edge.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "Niseko in Japan is famous for its deep, consistent powder snow, attracting snowboarders worldwide.",
+      "source": "https://en.wikipedia.org/wiki/Niseko_in_Japan"
+    },
+    {
+      "text": "The Fédération Internationale de Ski (FIS) governs Olympic snowboarding events.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "Sage Kotsenburg won the first-ever Olympic slopestyle gold medal with a trick he invented on the spot.",
+      "month": 2,
+      "day": 8,
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Sage_Kotsenburg"
+    },
+    {
+      "text": "Effective edge length is the portion of the board's edge that actually contacts the snow during a turn.",
+      "source": "https://en.wikipedia.org/wiki/Effective_edge_length"
+    },
+    {
+      "text": "The 'flatground trick' category includes butters, presses, and ground-based spins without jumps.",
+      "source": "https://en.wikipedia.org/wiki/%27flatground_trick%27_category"
+    },
+    {
+      "text": "Snowboarding street-style riding involves hitting urban features like handrails, stairs, and ledges.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding_street-style_riding_involves_hitting_urban"
+    },
+    {
+      "text": "Capita's 'Defenders of Awesome' is one of the best-selling freestyle boards of all time.",
+      "source": "https://en.wikipedia.org/wiki/Capita%27s_%27Defenders_of_Awesome"
+    },
+    {
+      "text": "The 'wildcat' is a backflip performed on a straight jump, rotating head-over-heels along the board's axis.",
+      "source": "https://en.wikipedia.org/wiki/%27wildcat"
+    },
+    {
+      "text": "Lake Louise in Alberta, Canada hosts FIS Snowboard World Cup cross events.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Lake_Louise_in_Alberta"
+    },
+    {
+      "text": "P-tex is the plastic material used for snowboard base repairs.",
+      "source": "https://en.wikipedia.org/wiki/P-tex"
+    },
+    {
+      "text": "Hannah Teter won Olympic halfpipe gold for the USA at the 2006 Turin Games.",
+      "month": 2,
+      "day": 13,
+      "source": "https://en.wikipedia.org/wiki/Hannah_Teter"
+    },
+    {
+      "text": "A 'switch' trick is performed while riding in the opposite of the rider's natural stance.",
+      "source": "https://en.wikipedia.org/wiki/A_%27switch%27_trick"
+    },
+    {
+      "text": "The 'Crippler' is an inverted 540 performed in the halfpipe, where the rider rotates backside.",
+      "source": "https://en.wikipedia.org/wiki/%27Crippler"
+    },
+    {
+      "text": "Snowboard goggles use different lens tints for varying light conditions from bright sun to overcast.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "Jeremy Jones's film trilogy 'Deeper, Further, Higher' showcased remote backcountry snowboarding.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Jeremy_Jones%27s"
+    },
+    {
+      "text": "The '50-50' is the most basic rail trick, where the rider slides straight along a rail or box.",
+      "source": "https://en.wikipedia.org/wiki/%2750-50"
+    },
+    {
+      "text": "Asymmetric sidecuts on snowboards account for the natural difference between heelside and toeside turns.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "Shaun White's nickname 'The Flying Tomato' came from his distinctive red hair.",
+      "source": "https://en.wikipedia.org/wiki/Shaun_White%27s"
+    },
+    {
+      "text": "Snowboard racing gates are triangular and flexible, designed to bend when hit.",
+      "source": "https://en.wikipedia.org/wiki/Snowboard_racing_gates"
+    },
+    {
+      "text": "Burton's 'Step On' binding system allows riders to click into bindings without using straps.",
+      "source": "https://en.wikipedia.org/wiki/Step_On"
+    },
+    {
+      "text": "The 2022 Beijing Olympics halfpipe final featured the most technically advanced tricks in Olympic history.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/2022_Beijing_Olympics"
+    },
+    {
+      "text": "Powder riding typically uses a set-back stance, shifting the rider's weight toward the tail of the board.",
+      "source": "https://en.wikipedia.org/wiki/Powder_riding_typically_uses_a"
+    },
+    {
+      "text": "The 'boardslide' involves sliding perpendicular across a rail or box with the board at 90 degrees.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "Zinc oxide sunscreen is essential for snowboarding due to intense UV radiation at high altitudes.",
+      "source": "https://en.wikipedia.org/wiki/Zinc_oxide_sunscreen"
+    },
+    {
+      "text": "The Natural Selection Tour format features qualifiers and head-to-head heats in natural terrain.",
+      "source": "https://en.wikipedia.org/wiki/Natural_Selection_Tour_format"
+    },
+    {
+      "text": "Kelly Clark won 78 World Cup podiums, more than any halfpipe snowboarder in history.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Kelly_Clark"
+    },
+    {
+      "text": "A 'carve' uses the board's sidecut to make clean, arcing turns without skidding.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "Snowboard flex patterns can be uniform, progressive, or directional depending on the board's design.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "The US Snowboard Team is managed by USA Snowboard, a division of US Ski & Snowboard.",
+      "source": "https://en.wikipedia.org/wiki/US_Snowboard_Team"
+    },
+    {
+      "text": "Snowboard film crews often spend weeks camping in remote backcountry zones to capture footage.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "The 'tail press' involves shifting weight to the tail and lifting the nose off the snow.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "Jake Burton Carpenter passed away on November 20, 2019, leaving a massive legacy in the sport.",
+      "month": 11,
+      "day": 20,
+      "source": "https://en.wikipedia.org/wiki/Jake_Burton_Carpenter"
+    },
+    {
+      "text": "Snowboard cross became known for exciting crashes and unexpected results due to its race format.",
+      "source": "https://en.wikipedia.org/wiki/Snowboard_cross"
+    },
+    {
+      "text": "The 'tamedog' is a front flip performed by springing off the nose of the board.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/%27tamedog"
+    },
+    {
+      "text": "Union Bindings is one of the leading binding manufacturers, popular among freestyle and all-mountain riders.",
+      "source": "https://en.wikipedia.org/wiki/Union_Bindings"
+    },
+    {
+      "text": "The World Snowboard Tour was established to unify international snowboard competition circuits.",
+      "source": "https://en.wikipedia.org/wiki/World_Snowboard_Tour"
+    },
+    {
+      "text": "A twin-tip snowboard has identical nose and tail shapes, making it equally effective riding forward or switch.",
+      "source": "https://en.wikipedia.org/wiki/A_twin-tip_snowboard"
+    },
+    {
+      "text": "Hakuba Valley in Japan hosted the 1998 Olympic snowboarding events.",
+      "source": "https://en.wikipedia.org/wiki/Hakuba_Valley_in_Japan"
+    },
+    {
+      "text": "Snowboard cross courses drop 200-250 meters in elevation over about 1,000 meters of course length.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "The 'frontflip' or 'wildcat' can be performed off natural terrain features in backcountry riding.",
+      "source": "https://en.wikipedia.org/wiki/%27frontflip%27_or_%27wildcat%27_can_be"
+    },
+    {
+      "text": "Bataleon Snowboards pioneered Triple Base Technology, which lifts the contact points for easier turn initiation.",
+      "source": "https://en.wikipedia.org/wiki/Bataleon_Snowboards"
+    },
+    {
+      "text": "Snowboard instructor certification is offered by organizations like AASI in the United States.",
+      "source": "https://en.wikipedia.org/wiki/Snowboard_instructor_certification"
+    },
+    {
+      "text": "The 'lipslide' involves approaching a rail and passing the board over it before sliding.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "Volkl, traditionally a ski company, has also produced competitive snowboards for racing.",
+      "source": "https://en.wikipedia.org/wiki/Volkl%2C_traditionally_a_ski_company"
+    },
+    {
+      "text": "The US Open halfpipe is one of the few events where riders can qualify without FIS points.",
+      "source": "https://en.wikipedia.org/wiki/US_Open_halfpipe"
+    },
+    {
+      "text": "Lindsey Jacobellis won Olympic snowboard cross gold at age 36 at the 2022 Beijing Games.",
+      "month": 2,
+      "day": 9,
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Lindsey_Jacobellis"
+    },
+    {
+      "text": "Snowboard base grinding machines level and structure the base for optimal glide.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "The 'method air' was popularized by skateboarder Neil Blender and adapted for snowboarding by Terry Kidwell.",
+      "source": "https://en.wikipedia.org/wiki/%27method_air"
+    },
+    {
+      "text": "Riders use wrist guards to prevent injuries, as wrist fractures are the most common snowboard injury.",
+      "source": "https://en.wikipedia.org/wiki/Riders_use_wrist_guards_to_prevent_injuries%2C_as_wrist_fractures"
+    },
+    {
+      "text": "The Air & Style contest in Innsbruck, Austria combined big air snowboarding with a music festival.",
+      "source": "https://en.wikipedia.org/wiki/Air"
+    },
+    {
+      "text": "A directional board has a longer nose and shorter tail, designed primarily for riding in one direction.",
+      "source": "https://en.wikipedia.org/wiki/A_directional_board"
+    },
+    {
+      "text": "Mark McMorris landed the first-ever backside triple cork 1440 in competition in 2011.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Mark_McMorris"
+    },
+    {
+      "text": "Snowboard tuning involves waxing, edge sharpening, and base repair for optimal performance.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "The 'kicker' is a term for any jump feature in a terrain park or backcountry.",
+      "source": "https://en.wikipedia.org/wiki/%27kicker"
+    },
+    {
+      "text": "Snowboarding was considered a 'rebellious' alternative to skiing throughout the 1980s and 1990s.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "Park City Mountain Resort in Utah has one of the largest terrain parks in North America.",
+      "source": "https://en.wikipedia.org/wiki/Park_City_Mountain_Resort_in_Utah"
+    },
+    {
+      "text": "The 'nollie' is the snowboard equivalent of a skateboarding nollie, popping off the nose.",
+      "source": "https://en.wikipedia.org/wiki/%27nollie"
+    },
+    {
+      "text": "Seb Toots (Sébastien Toutant) won the first-ever Olympic big air gold medal in 2018.",
+      "month": 2,
+      "day": 24,
+      "source": "https://en.wikipedia.org/wiki/Seb_Toots_(S%C3%A9bastien_Toutant)"
+    },
+    {
+      "text": "Snowboard halfpipe walls are shaped by specialized pipe-cutting machines called 'pipe dragons.'",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Snowboard_halfpipe_walls"
+    },
+    {
+      "text": "The 'hand plant' involves grabbing the lip of the halfpipe and doing a handstand before re-entering.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "Salomon entered the snowboard market in the late 1990s, bringing ski technology to snowboard design.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "Snowboard competitions use a judging system that scores amplitude, difficulty, execution, and variety.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "The 'shifty' involves rotating the board mid-air and then rotating it back before landing.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "Rome Snowboards was founded by riders Paul Maravetz and Josh Reid in 2001.",
+      "source": "https://en.wikipedia.org/wiki/Rome_Snowboards"
+    },
+    {
+      "text": "Burton's first factory was in a barn in Londonderry, Vermont.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Burton%27s_first_factory"
+    },
+    {
+      "text": "A snowboard's waist width must be matched to boot size to prevent toe and heel drag during turns.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "The 'pretzel' is a rail trick where the rider spins onto the rail in one direction and off in the opposite.",
+      "source": "https://en.wikipedia.org/wiki/%27pretzel"
+    },
+    {
+      "text": "Torstein Horgmo is known for his creative freestyle riding and social media presence.",
+      "source": "https://en.wikipedia.org/wiki/Torstein_Horgmo"
+    },
+    {
+      "text": "Alpine snowboarding uses hard-shell boots and plate bindings for aggressive carving and racing.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "The 'drop-in' refers to entering the halfpipe from the top deck.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "Snowboard cross was almost removed from the Olympics but was retained due to its viewer popularity.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Snowboard_cross"
+    },
+    {
+      "text": "Endeavor Snowboards, based in British Columbia, is an independent rider-owned brand.",
+      "source": "https://en.wikipedia.org/wiki/Endeavor_Snowboards%2C_based_in_British_Columbia"
+    },
+    {
+      "text": "A '180' is the simplest rotational trick, involving a half-rotation in the air.",
+      "source": "https://en.wikipedia.org/wiki/A_%27180"
+    },
+    {
+      "text": "The Burton Riglet program teaches kids as young as three years old to snowboard using a reel system.",
+      "source": "https://en.wikipedia.org/wiki/Burton_Riglet"
+    },
+    {
+      "text": "Snowboard impact shorts have padding to protect hips and tailbone during falls.",
+      "source": "https://en.wikipedia.org/wiki/Snowboard_impact_shorts"
+    },
+    {
+      "text": "Peter Line is credited as the first person to land a double cork in snowboarding.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Peter_Line"
+    },
+    {
+      "text": "The 'nose press' involves shifting weight forward to ride on just the nose of the board.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "Revelstoke Mountain Resort in BC has the most vertical drop in North America at 1,713 meters.",
+      "source": "https://en.wikipedia.org/wiki/Revelstoke_Mountain_Resort_in_BC"
+    },
+    {
+      "text": "Snowboard leashes, once mandatory at many resorts, are increasingly no longer required.",
+      "source": "https://en.wikipedia.org/wiki/Snowboard_leashes%2C_once_mandatory_at_many_resorts"
+    },
+    {
+      "text": "A 'gap jump' involves launching over an obstacle like a road, creek, or cliff band.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "The X Games introduced the 'Real Snow' video competition for urban snowboarding.",
+      "source": "https://en.wikipedia.org/wiki/X_Games"
+    },
+    {
+      "text": "Iouri Podladtchikov won Olympic halfpipe gold in 2014 with a move he called the 'YOLO Flip.'",
+      "month": 2,
+      "day": 11,
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Iouri_Podladtchikov"
+    },
+    {
+      "text": "Snowboard camber provides edge hold and pop, while rocker offers float and playfulness.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "Never Summer is a Colorado-based snowboard company known for its proprietary Carbonium technology.",
+      "source": "https://en.wikipedia.org/wiki/Never_Summer"
+    },
+    {
+      "text": "The 'air-to-fakie' involves going straight up out of the halfpipe and landing backward.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "Goggles with spherical lenses reduce distortion compared to cylindrical lenses.",
+      "source": "https://en.wikipedia.org/wiki/Goggles_with"
+    },
+    {
+      "text": "The average professional snowboarder's career spans about 10-15 years.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "Mikkel Bang is a Norwegian snowboarder known for his stylish backcountry riding and film parts.",
+      "source": "https://en.wikipedia.org/wiki/Mikkel_Bang"
+    },
+    {
+      "text": "The size of a snowboard is primarily determined by the rider's weight, not height.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/size_of_a_snowboard"
+    },
+    {
+      "text": "Snowboard racing was more popular in Europe than North America during the sport's early years.",
+      "source": "https://en.wikipedia.org/wiki/Snowboard_racing"
+    },
+    {
+      "text": "The 'lay-back slide' is a style move where the rider leans back and touches the snow with one hand.",
+      "source": "https://en.wikipedia.org/wiki/%27lay-back_slide"
+    },
+    {
+      "text": "YES Snowboards, co-founded by DCP and Romain De Marchi, focuses on progressive board shapes.",
+      "source": "https://en.wikipedia.org/wiki/YES_Snowboards"
+    },
+    {
+      "text": "The USASA (United States of America Snowboard and Freeski Association) organizes amateur competitions.",
+      "source": "https://en.wikipedia.org/wiki/USASA"
+    },
+    {
+      "text": "A 'flat spin' is a rotation in the horizontal plane without inverted movement.",
+      "source": "https://en.wikipedia.org/wiki/A_%27flat_spin"
+    },
+    {
+      "text": "Burton acquired Channel Islands Surfboards to cross-pollinate surf and snow design ideas.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Burton"
+    },
+    {
+      "text": "Snowboard stance width and angle settings dramatically affect a rider's comfort and performance.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "The 'eggplant' is an inverted hand plant in the halfpipe where the frontside hand grabs the coping.",
+      "source": "https://en.wikipedia.org/wiki/%27eggplant"
+    },
+    {
+      "text": "Snowboarding participation peaked around 2010 with over 8 million riders in the US.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "Arbor Snowboards uses sustainable wood cores and eco-friendly manufacturing processes.",
+      "source": "https://en.wikipedia.org/wiki/Arbor_Snowboards"
+    },
+    {
+      "text": "A 'tripod' is a ground trick where the rider balances on the nose and one hand.",
+      "source": "https://en.wikipedia.org/wiki/A_%27tripod"
+    },
+    {
+      "text": "Jake Burton competed in the very first National Snurfer Championship in 1979 with his own design.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Jake_Burton"
+    },
+    {
+      "text": "Snowboard halfpipe judges look for amplitude, difficulty, variety, progression, and execution.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "The 'tindy' grab (simultaneously grabbing tail and Indy) is generally considered poor style in snowboarding.",
+      "source": "https://en.wikipedia.org/wiki/%27tindy%27_grab_(simultaneously_grabbing_tail_and_Indy)"
+    },
+    {
+      "text": "Mt. Baker in Washington state receives some of the heaviest snowfall in North America, averaging over 600 inches per year.",
+      "source": "https://en.wikipedia.org/wiki/Mt._Baker_in_Washington"
+    },
+    {
+      "text": "Snowboard bindings have highbacks that support the rider's calf and influence heelside leverage.",
+      "source": "https://en.wikipedia.org/wiki/Snowboard_bindings"
+    },
+    {
+      "text": "The FIS Snowboard World Championships are held every two years in odd-numbered years.",
+      "source": "https://en.wikipedia.org/wiki/FIS_Snowboard_World_Championships"
+    },
+    {
+      "text": "Scotty James won three consecutive halfpipe world titles for Australia.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Scotty_James"
+    },
+    {
+      "text": "A 'poke' refers to straightening one or both legs during a grab to add style.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "Snowboard touring or splitboarding has grown dramatically since 2015 as backcountry access tools improved.",
+      "source": "https://en.wikipedia.org/wiki/Snowboard_touring_or_splitboarding"
+    },
+    {
+      "text": "The 'frontside 360' is a fundamental aerial trick where the rider faces downhill at the start of the spin.",
+      "source": "https://en.wikipedia.org/wiki/%27frontside_360"
+    },
+    {
+      "text": "Snowboard helmet technology includes MIPS (Multi-directional Impact Protection System) for rotational forces.",
+      "source": "https://en.wikipedia.org/wiki/Snowboard_helmet_technology"
+    },
+    {
+      "text": "Danny Kass won back-to-back Olympic silver medals in halfpipe in 2002 and 2006.",
+      "source": "https://en.wikipedia.org/wiki/Danny_Kass"
+    },
+    {
+      "text": "Custom snowboard graphics have been an art form since the sport's earliest days, often featuring bold, rebellious imagery.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Custom_snowboard_graphics"
+    },
+    {
+      "text": "A 'noseblunt' is a rail trick where the rider slides on the nose of the board at an angle.",
+      "source": "https://en.wikipedia.org/wiki/A_%27noseblunt"
+    },
+    {
+      "text": "Snowboard film production company Absinthe Films has been making influential movies since 2000.",
+      "source": "https://en.wikipedia.org/wiki/Snowboard_film_production_company_Absinthe_Films"
+    },
+    {
+      "text": "The '720' involves two full rotations and is a standard trick in competitive halfpipe.",
+      "source": "https://en.wikipedia.org/wiki/%27720%27_involves_two_full_rotations_and"
+    },
+    {
+      "text": "Snowboard cross was introduced as a test event at the 2003 FIS World Championships.",
+      "source": "https://en.wikipedia.org/wiki/Snowboard_cross"
+    },
+    {
+      "text": "The 'rocket air' involves grabbing the nose with both hands while the body extends behind.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "Ross Powers won Olympic halfpipe gold at the 2002 Salt Lake City Games.",
+      "month": 2,
+      "day": 11,
+      "source": "https://en.wikipedia.org/wiki/Ross_Powers"
+    },
+    {
+      "text": "Snowboard bindings use either a 4-hole or channel mounting system to attach to the board.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "Stale Sandbech is known for winning slopestyle events and his appearance in snowboard films.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Stale_Sandbech"
+    },
+    {
+      "text": "A 'run' in competition is a single pass down the course or through the halfpipe.",
+      "source": "https://en.wikipedia.org/wiki/A_%27run%27_in_competition"
+    },
+    {
+      "text": "Snowboard boot stiffness ratings range from soft (1-3) for park to stiff (8-10) for all-mountain and freeride.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "The 'seatbelt' grab involves reaching across the body over the front knee to grab the nose.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "Chad's Gap at Brighton Resort in Utah was one of the most famous backcountry jumps until it was filled in.",
+      "source": "https://en.wikipedia.org/wiki/Chad%27s_Gap_at_Brighton_Resort_in_Utah"
+    },
+    {
+      "text": "Snowboard goggle technology includes anti-fog coatings, UV protection, and quick-change lens systems.",
+      "source": "https://en.wikipedia.org/wiki/Snowboard_goggle_technology"
+    },
+    {
+      "text": "Philipp Schoch won Olympic parallel giant slalom gold in both 2002 and 2006.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Philipp_Schoch"
+    },
+    {
+      "text": "A 'rodeo' flip combines a frontside or backside rotation with an inverted flip.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "The 'skate banana' by Lib Tech was one of the first mass-produced rocker boards.",
+      "source": "https://en.wikipedia.org/wiki/%27skate_banana%27_by_Lib_Tech"
+    },
+    {
+      "text": "Snowboarding at night under floodlights is popular at many resorts and is called 'night riding.'",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding_at_night_under_floodlights"
+    },
+    {
+      "text": "The 'bluntslide' involves ollieing onto a rail with the tail of the board over the feature.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "Professional snowboarders often have shorter competitive careers than skiers due to impact injuries.",
+      "source": "https://en.wikipedia.org/wiki/Professional_snowboarders_often"
+    },
+    {
+      "text": "In 2018, Red Gerard almost missed his Olympic event after oversleeping.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Red_Gerard"
+    },
+    {
+      "text": "Snowboard films are a key part of the culture, with annual releases from major production companies.",
+      "source": "https://en.wikipedia.org/wiki/Snowboard_films"
+    },
+    {
+      "text": "A 'pow slash' is a stylish spray of powder made by doing a quick turn in deep snow.",
+      "source": "https://en.wikipedia.org/wiki/A_%27pow_slash"
+    },
+    {
+      "text": "Snowboard cross teams events were added to the 2010 Vancouver Olympic program.",
+      "source": "https://en.wikipedia.org/wiki/Snowboard_cross_teams_events"
+    },
+    {
+      "text": "The 'mute grab' involves grabbing the toe edge between the bindings with the leading hand.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "CAPiTA (formerly Capita) Snowboards operates the Mothership, one of the most advanced snowboard factories.",
+      "source": "https://en.wikipedia.org/wiki/Capita)_Snowboards"
+    },
+    {
+      "text": "Kelly Clark won the first women's Olympic halfpipe gold medal in 2002 at Salt Lake City.",
+      "month": 2,
+      "day": 10,
+      "source": "https://en.wikipedia.org/wiki/Kelly_Clark"
+    },
+    {
+      "text": "The 'duck stance' has a positive angle on the front binding and negative angle on the back for switch riding.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/%27duck_stance"
+    },
+    {
+      "text": "Snowboard mogul riding is uncommon in competition but is practiced by advanced riders.",
+      "source": "https://en.wikipedia.org/wiki/Snowboard_mogul_riding"
+    },
+    {
+      "text": "The 'tweak' is the exaggeration of a grab by pulling the board in an extreme direction.",
+      "source": "https://en.wikipedia.org/wiki/%27tweak"
+    },
+    {
+      "text": "Flow bindings pioneered the rear-entry design for faster entry and exit from bindings.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "Snowboard injuries most commonly affect the wrists, followed by the shoulders and ankles.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "The first Burton snowboard was called the 'Burton Backhill,' produced in 1977.",
+      "source": "https://en.wikipedia.org/wiki/first_Burton_snowboard"
+    },
+    {
+      "text": "Marcus Kleveland landed the first quad cork 1800 in snowboarding history in 2017.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Marcus_Kleveland"
+    },
+    {
+      "text": "The 'bonk' involves deliberately hitting a non-standard feature like a tree, rock, or sign.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "Rocky Mountain underground (RMU) is a boutique snowboard manufacturer based in Colorado.",
+      "source": "https://en.wikipedia.org/wiki/Rocky_Mountain_underground_(RMU)"
+    },
+    {
+      "text": "Snowboard slopestyle courses at the Olympics typically feature three jump sections and a jib section.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "The 'backside 180' is one of the first rotational tricks most snowboarders learn.",
+      "source": "https://en.wikipedia.org/wiki/%27backside_180"
+    },
+    {
+      "text": "Snowboard edges can be detuned (dulled) at the tip and tail to prevent catching.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "Nicolas Müller is known for his fluid, artistic backcountry snowboarding style.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Nicolas_M%C3%BCller"
+    },
+    {
+      "text": "The 'crail grab' involves grabbing the nose with the rear hand.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "Snowboard binding forward lean adjustment changes the angle of the highback for more or less response.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "The World Snowboard Day is an international celebration held annually in December.",
+      "source": "https://en.wikipedia.org/wiki/World_Snowboard_Day"
+    },
+    {
+      "text": "A 'pillow line' in backcountry snowboarding involves riding over snow-covered rocks and boulders.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "The 'banana' or reverse camber profile was revolutionary when introduced in the mid-2000s.",
+      "source": "https://en.wikipedia.org/wiki/%27banana%27_or_reverse_camber_profile"
+    },
+    {
+      "text": "Xavier de le Rue is a legendary French big-mountain snowboarder and Freeride World Tour champion.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Xavier_de_le_Rue"
+    },
+    {
+      "text": "A 'hardway' spin onto a rail means rotating in the more difficult direction to get on the feature.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "Snowboard cross race courses are designed to be completed in about 30-40 seconds.",
+      "source": "https://en.wikipedia.org/wiki/Snowboard_cross_race_courses"
+    },
+    {
+      "text": "The 'double McTwist 1260' (also called the 'Tomahawk') was Shaun White's signature trick.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/%27double_McTwist_1260%27_(also"
+    },
+    {
+      "text": "Snowboard film segments are often ranked by fans, with riders' 'parts' becoming career-defining.",
+      "source": "https://en.wikipedia.org/wiki/Snowboard_film_segments"
+    },
+    {
+      "text": "Halfpipe dimensions for Olympic competition: 170 meters long, 22 feet high, and 66 feet wide.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "The 'hand drag' is a stylish move where the rider touches the snow while turning at high speed.",
+      "source": "https://en.wikipedia.org/wiki/%27hand_drag"
+    },
+    {
+      "text": "Palmer Snowboards, founded by Shaun Palmer in 1995, was an influential 1990s brand.",
+      "source": "https://en.wikipedia.org/wiki/Palmer_Snowboards"
+    },
+    {
+      "text": "Snowboarding was demonstrated at the 1994 Lillehammer Olympics but was not yet an official sport.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "The 'stiffy' involves fully extending the legs during a grab to create a straight-legged pose.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "Snowboard boot liners can be heat-molded for a custom fit using special ovens.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "Ben Ferguson has become one of the most respected halfpipe riders with his creative approach.",
+      "source": "https://en.wikipedia.org/wiki/Ben_Ferguson"
+    },
+    {
+      "text": "The 'tuck knee' is a stylish variation where the front knee is tucked toward the board during a grab.",
+      "source": "https://en.wikipedia.org/wiki/%27tuck_knee"
+    },
+    {
+      "text": "Snowboarding in Chile and Argentina offers Southern Hemisphere riding during North American summer.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding_in_Chile_and_Argentina"
+    },
+    {
+      "text": "The BRITS (British Snowboard and Freeski Championships) is the UK's premier snowsport event.",
+      "source": "https://en.wikipedia.org/wiki/BRITS_(British_Snowboard_and_Freeski_Championships)"
+    },
+    {
+      "text": "An 'alley-oop' is a trick performed in the uphill direction in the halfpipe.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/An_%27alley-oop"
+    },
+    {
+      "text": "Snowboard companies spend significant resources on research and development for new materials and shapes.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "The 'slash' is a powerful carved turn that sprays snow, often used for dramatic effect.",
+      "source": "https://en.wikipedia.org/wiki/%27slash"
+    },
+    {
+      "text": "Pat Moore is one of the hardest-charging backcountry snowboarders in the professional ranks.",
+      "source": "https://en.wikipedia.org/wiki/Pat_Moore"
+    },
+    {
+      "text": "Snowboard magazine 'Method' from Europe helped spread European snowboard culture globally.",
+      "source": "https://en.wikipedia.org/wiki/Snowboard_magazine_%27Method%27_from_Europe"
+    },
+    {
+      "text": "A 'zero spin' is riding off a feature without any rotation, emphasizing grab and style.",
+      "source": "https://en.wikipedia.org/wiki/A_%27zero_spin"
+    },
+    {
+      "text": "The Snurfer had no bindings — riders held a rope attached to the nose for balance.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Snurfer"
+    },
+    {
+      "text": "Rosa Khutor in Sochi, Russia hosted the snowboarding events at the 2014 Winter Olympics.",
+      "source": "https://en.wikipedia.org/wiki/Rosa_Khutor_in_Sochi"
+    },
+    {
+      "text": "Snowboard base structures include different patterns that channel water for faster glide.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "The 'misty flip' is an off-axis frontside rotation that includes an inverted element.",
+      "source": "https://en.wikipedia.org/wiki/%27misty_flip"
+    },
+    {
+      "text": "Snowboard parks employ dedicated crews to build, maintain, and shape features throughout the season.",
+      "source": "https://en.wikipedia.org/wiki/Snowboard_parks_employ_dedicated_crews_to_build%2C_maintain%2C_and_shape"
+    },
+    {
+      "text": "Forum Snowboards was a prominent brand until it was discontinued by its parent company in 2012.",
+      "source": "https://en.wikipedia.org/wiki/Forum_Snowboards"
+    },
+    {
+      "text": "Chloe Kim scored a 98.25 in the 2018 Olympic halfpipe final, one of the highest scores ever.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Chloe_Kim"
+    },
+    {
+      "text": "The 'slob air' involves grabbing the toe edge with the front hand while the body faces downhill.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "Snowboard racing has declined in popularity compared to freestyle and freeride disciplines.",
+      "source": "https://en.wikipedia.org/wiki/Snowboard_racing"
+    },
+    {
+      "text": "A 'tree run' involves weaving between trees in gladed terrain, popular in areas with natural tree spacing.",
+      "source": "https://en.wikipedia.org/wiki/A_%27tree"
+    },
+    {
+      "text": "The Resort Riders Alliance was formed by professional snowboarders to advocate for park and pipe quality.",
+      "source": "https://en.wikipedia.org/wiki/Resort_Riders_Alliance"
+    },
+    {
+      "text": "Snowboard boots are universally softer than ski boots, which allows more ankle flex.",
+      "source": "https://en.wikipedia.org/wiki/Snowboard_boots"
+    },
+    {
+      "text": "Yuki Kadono is a Japanese big air specialist known for massive backside triple corks.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Yuki_Kadono"
+    },
+    {
+      "text": "A 'hip' is a terrain feature where two slopes meet at an angle, creating a natural launch.",
+      "source": "https://en.wikipedia.org/wiki/A_%27hip"
+    },
+    {
+      "text": "Snowboard base material is ultra-high-molecular-weight polyethylene (UHMWPE).",
+      "source": "https://en.wikipedia.org/wiki/Snowboard_base_material"
+    },
+    {
+      "text": "The 'zeach' is a derogatory term for grabbing both the toe and heel edge at the same time.",
+      "source": "https://en.wikipedia.org/wiki/%27zeach"
+    },
+    {
+      "text": "Stevens Pass in Washington state has historically been a hub for progressive snowboarding.",
+      "source": "https://en.wikipedia.org/wiki/Stevens_Pass_in_Washington_state"
+    },
+    {
+      "text": "Professional snowboard judges undergo extensive training and certification programs.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "Marhar Snowboards, based in Michigan, is a small independent board maker known for creative designs.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Marhar_Snowboards%2C_based_in_Michigan"
+    },
+    {
+      "text": "The 'landing zone' or 'tranny' is the transition area where a rider touches down after a jump.",
+      "source": "https://en.wikipedia.org/wiki/%27landing_zone%27_or_%27tranny"
+    },
+    {
+      "text": "Snowboard specific avalanche airbag packs deploy a balloon to keep the rider near the surface during a slide.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "The 'switch backside 1260' is a highly technical trick often seen in top-level slopestyle competition.",
+      "source": "https://en.wikipedia.org/wiki/%27switch_backside_1260"
+    },
+    {
+      "text": "Korua Shapes is a European brand focused on directional powder and carving boards.",
+      "source": "https://en.wikipedia.org/wiki/Korua_Shapes"
+    },
+    {
+      "text": "The progression from 900s to 1800s in competition has taken roughly 15 years.",
+      "source": "https://en.wikipedia.org/wiki/progression_from_900s_to_1800s_in_competition"
+    },
+    {
+      "text": "Mt. Baker Banked Slalom is the oldest snowboard-only event, started in 1985 by Tom Sims.",
+      "month": 2,
+      "day": 15,
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Mt._Baker_Banked_Slalom"
+    },
+    {
+      "text": "A 'chatter' on a snowboard happens when the board vibrates on hard snow due to speed or stiff conditions.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "Snowboard goggle lenses are color-coded: dark for sunny days, yellow or clear for flat light.",
+      "source": "https://en.wikipedia.org/wiki/Snowboard_goggle_lenses"
+    },
+    {
+      "text": "The 'McTwist' was first performed on a skateboard halfpipe by Mike McGill, hence the name.",
+      "source": "https://en.wikipedia.org/wiki/%27McTwist"
+    },
+    {
+      "text": "Max Parrot won Olympic slopestyle gold at the 2022 Beijing Games after recovering from cancer.",
+      "month": 2,
+      "day": 7,
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Max_Parrot"
+    },
+    {
+      "text": "Snowboard binding baseplate stiffness affects energy transfer and response.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "The 'Japanese method' is a variation of the method where the board is pulled behind and above the head.",
+      "source": "https://en.wikipedia.org/wiki/%27Japanese_method"
+    },
+    {
+      "text": "Snowboard cross first appeared in the Olympics at the 2006 Torino Games.",
+      "month": 2,
+      "day": 16,
+      "source": "https://en.wikipedia.org/wiki/Snowboard_cross_first"
+    },
+    {
+      "text": "The 'over-under' rail setup has one rail directly above or below another.",
+      "source": "https://en.wikipedia.org/wiki/%27over-under%27_rail_setup"
+    },
+    {
+      "text": "DWD (Dinosaurs Will Die) Snowboards is an irreverent, rider-owned brand based in Quebec.",
+      "source": "https://en.wikipedia.org/wiki/DWD_(Dinosaurs_Will_Die)_Snowboards"
+    },
+    {
+      "text": "Snowboard competitions at the Olympics use a best-of-three-runs format in most events.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "A 'flat box' is the most basic jib feature, with a flat sliding surface.",
+      "source": "https://en.wikipedia.org/wiki/A_%27flat_box"
+    },
+    {
+      "text": "Juice Magazine and later online platforms documented the crossover between skateboarding, surfing, and snowboarding cultures.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Juice_Magazine_and"
+    },
+    {
+      "text": "The 'switch method' is a method air performed while riding switch, dramatically increasing difficulty.",
+      "source": "https://en.wikipedia.org/wiki/%27switch_method"
+    },
+    {
+      "text": "Summit County, Colorado (home to Breck, Keystone, and Copper) is a major snowboarding hub.",
+      "source": "https://en.wikipedia.org/wiki/Summit_County%2C_Colorado_(home_to_Breck%2C_Keystone%2C_and_Copper)"
+    },
+    {
+      "text": "Wrist guards with integrated splints can reduce snowboard wrist fracture severity by up to 85%.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "The 'rainbow rail' is an arched rail feature that riders must navigate up and over.",
+      "source": "https://en.wikipedia.org/wiki/%27rainbow_rail"
+    },
+    {
+      "text": "Snowboard wax can be applied by hot iron, rub-on, or spray-on methods.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "Scotty Vine and Justin Bennee have been influential in progressive urban snowboarding.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Scotty_Vine_and_Justin_Bennee"
+    },
+    {
+      "text": "A 'spine' is a terrain feature where two transitions meet back-to-back, forming a ridge.",
+      "source": "https://en.wikipedia.org/wiki/A_%27spine"
+    },
+    {
+      "text": "The first snowboard shop in the US opened in the early 1980s.",
+      "source": "https://en.wikipedia.org/wiki/first_snowboard_shop_in_the_US"
+    },
+    {
+      "text": "Snowboard binding toe straps have evolved from single straps to 3D-molded cap designs.",
+      "source": "https://en.wikipedia.org/wiki/Snowboard_binding_toe_straps"
+    },
+    {
+      "text": "The 'chicken wing' is an uncomfortable-looking grab where the elbow goes above the arm line.",
+      "source": "https://en.wikipedia.org/wiki/%27chicken_wing"
+    },
+    {
+      "text": "Mount Hood in Oregon offers year-round snowboarding on Palmer Glacier during summer.",
+      "source": "https://en.wikipedia.org/wiki/Mount_Hood_in_Oregon"
+    },
+    {
+      "text": "Shaun White won his first X Games gold medal in 2003 at age 16.",
+      "month": 1,
+      "day": 31,
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Shaun_White"
+    },
+    {
+      "text": "Snowboard anti-icing sprays can help prevent snow from sticking to bindings and boots.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "The 'hip jump' requires riders to launch off the side of a feature at an angle.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "Elena Hight was the first woman to land a frontside 1080 in halfpipe competition.",
+      "source": "https://en.wikipedia.org/wiki/Elena_Hight"
+    },
+    {
+      "text": "Snowboarding in Japan has grown enormously, with Japanese riders winning multiple Olympic medals.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding_in_Japan"
+    },
+    {
+      "text": "The 'underflip' is an off-axis rotation where the rider rotates under the axis of their spin.",
+      "source": "https://en.wikipedia.org/wiki/%27underflip"
+    },
+    {
+      "text": "Burton introduced the 'Custom' model in 1996, and it remains one of the best-selling snowboards ever.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Burton"
+    },
+    {
+      "text": "A 'cat track' is a narrow, flat trail connecting different parts of a mountain, often tricky for snowboarders.",
+      "source": "https://en.wikipedia.org/wiki/A_%27cat_track"
+    },
+    {
+      "text": "Snowboard tuning tools include edge tuners, wax scrapers, and nylon brushes.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "The 'backflip' was once considered the most difficult trick but is now a baseline skill for professionals.",
+      "source": "https://en.wikipedia.org/wiki/%27backflip"
+    },
+    {
+      "text": "Snowboard Team Challenge events pit national teams against each other in combined formats.",
+      "source": "https://en.wikipedia.org/wiki/Snowboard_Team_Challenge"
+    },
+    {
+      "text": "The 'wheelie' involves riding on just the tail (manual) or nose (nosewheelie) without leaving the ground.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "Travis Rice won the first-ever Natural Selection Tour event in Jackson Hole in 2021.",
+      "month": 2,
+      "day": 3,
+      "source": "https://en.wikipedia.org/wiki/Travis_Rice"
+    },
+    {
+      "text": "Snowboard impact vests protect vital organs and the spine during high-consequence riding.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "The 'lien air' involves grabbing the heel edge with the front hand while the body leans forward.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "A 'money booter' is a large jump designed for maximum amplitude and trick potential.",
+      "source": "https://en.wikipedia.org/wiki/A_%27money_booter"
+    },
+    {
+      "text": "Snowboard competition bibs display the rider's number and are often collected as memorabilia.",
+      "source": "https://en.wikipedia.org/wiki/Snowboard_competition_bibs_display_the_rider%27s_number_and"
+    },
+    {
+      "text": "Lib Tech was the first major brand to produce snowboards in the USA, in their Washington factory.",
+      "source": "https://en.wikipedia.org/wiki/Lib_Tech"
+    },
+    {
+      "text": "The 'quarter pipe' is a single halfpipe wall used for launching straight up.",
+      "source": "https://en.wikipedia.org/wiki/%27quarter_pipe"
+    },
+    {
+      "text": "Snowboarding requires different muscle groups than skiing, with more emphasis on core strength.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "A 'spine transfer' involves jumping from one side of a spine and landing on the other.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "Burton's 'Mystery Series' graphic boards became collectors' items in the early 2000s.",
+      "source": "https://en.wikipedia.org/wiki/Burton%27s_%27Mystery_Series%27_graphic_boards"
+    },
+    {
+      "text": "Snowboard competition courses at the Olympics are designed months in advance using 3D modeling.",
+      "source": "https://en.wikipedia.org/wiki/Snowboard_competition_courses_at_the_Olympics"
+    },
+    {
+      "text": "The 'rocker-camber-rocker' profile combines float and edge hold in a hybrid design.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "Snowboarder Kimmy Fasani has been a major advocate for women's progression in the sport.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarder_Kimmy_Fasani"
+    },
+    {
+      "text": "The X Games 'Best in Snow' overall award recognizes the top snowboard performer across events.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/X_Games"
+    },
+    {
+      "text": "Snowboard park laps refer to repeated runs through a terrain park for practice.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "A 'cat' (snowcat) is a grooming vehicle that also accesses terrain for cat skiing and cat boarding.",
+      "source": "https://en.wikipedia.org/wiki/A_%27cat%27_(snowcat)"
+    },
+    {
+      "text": "The 'Pipe Dragon' is a specialized machine that shapes halfpipes to exact specifications.",
+      "source": "https://en.wikipedia.org/wiki/%27Pipe_Dragon"
+    },
+    {
+      "text": "Snowboard company Gentemstick, from Japan, handcrafts unique powder boards with surfboard-inspired shapes.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "Snowboard binding canting adjusts the angle of the footbed to align with the rider's natural stance.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "The term 'shredding' originated in surfing and was adopted by snowboarders to describe aggressive riding.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/term_%27shredding%27_originated_in_surfing_and"
+    },
+    {
+      "text": "Snowboard competition formats continue to evolve, with rider-driven events gaining popularity over FIS formats.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "A 'step-down' is a jump where the landing is lower than the takeoff.",
+      "source": "https://en.wikipedia.org/wiki/A_%27step-down"
+    },
+    {
+      "text": "Snowboard wax protects the base from oxidation and improves glide performance.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "Mikey Rencz and Devun Walsh are among the most acclaimed video-part snowboarders.",
+      "source": "https://en.wikipedia.org/wiki/Mikey_Rencz_and_Devun_Walsh"
+    },
+    {
+      "text": "The first World Snowboard Championships were held in Livigno, Italy in 1996.",
+      "month": 1,
+      "day": 18,
+      "source": "https://en.wikipedia.org/wiki/first_World_Snowboard_Championships"
+    },
+    {
+      "text": "Snowboard sidecut depth is the difference between the waist width and the nose/tail width.",
+      "source": "https://en.wikipedia.org/wiki/Snowboard_sidecut_depth"
+    },
+    {
+      "text": "The 'J-bar' and 'T-bar' surface lifts are notoriously difficult for snowboarders to ride.",
+      "source": "https://en.wikipedia.org/wiki/%27J-bar%27_and_%27T-bar%27_surface_lifts"
+    },
+    {
+      "text": "Mons Røisland won Olympic big air gold at the 2022 Beijing Games for Norway.",
+      "month": 2,
+      "day": 15,
+      "source": "https://en.wikipedia.org/wiki/Mons_R%C3%B8island"
+    },
+    {
+      "text": "Snowboard stomp pads were originally made from skateboard grip tape.",
+      "source": "https://en.wikipedia.org/wiki/Snowboard_stomp_pads"
+    },
+    {
+      "text": "The Oakley Shaun White Signature Series goggles became some of the best-selling snow goggles ever.",
+      "source": "https://en.wikipedia.org/wiki/Oakley_Shaun_White_Signature_Series_goggles"
+    },
+    {
+      "text": "A 'tomahawk' is an uncontrolled cartwheel crash where the rider tumbles end over end.",
+      "source": "https://en.wikipedia.org/wiki/A_%27tomahawk"
+    },
+    {
+      "text": "Troy, Vermont — where Jake Burton first manufactured boards — is a village of fewer than 100 people.",
+      "source": "https://en.wikipedia.org/wiki/Troy%2C_Vermont_%E2%80%94_where_Jake_Burton_first_manufactured_boards_%E2%80%94"
+    },
+    {
+      "text": "The first Olympic snowboard cross gold was won by Seth Wescott of the USA in 2006.",
+      "month": 2,
+      "day": 16,
+      "source": "https://en.wikipedia.org/wiki/first_Olympic_snowboard_cross_gold"
+    },
+    {
+      "text": "Snowboard edges are beveled at different angles for carving versus park riding.",
+      "source": "https://en.wikipedia.org/wiki/Snowboard_edges"
+    },
+    {
+      "text": "The 'poptart' is an air-to-fakie in the halfpipe where the rider goes above the lip without a spin.",
+      "source": "https://en.wikipedia.org/wiki/%27poptart"
+    },
+    {
+      "text": "Snowboard companies often release limited-edition pro model boards with custom graphics each season.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "Jibbing originated when snowboarders began riding urban handrails and ledges in the late 1990s.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "The 'butter 360' combines a nose or tail press with a full flat-ground rotation.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "Snowboard terrain parks are graded with S, M, L, and XL size designations for features.",
+      "source": "https://en.wikipedia.org/wiki/Snowboard_terrain_parks"
+    },
+    {
+      "text": "Enni Rukajärvi of Finland has been a dominant force in women's slopestyle competitions.",
+      "source": "https://en.wikipedia.org/wiki/Enni_Rukaj%C3%A4rvi_of_Finland"
+    },
+    {
+      "text": "Snowboard boots typically last one to two seasons of heavy use before packing out.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "The 'heel drag' phenomenon occurs when a rider's heel or toe hangs over the edge of a too-narrow board.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "Snowboard cross semifinals and finals use a four-rider format with the top two advancing.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "A 'tabletop' jump has a flat section between the takeoff lip and landing zone for safety.",
+      "source": "https://en.wikipedia.org/wiki/A_%27tabletop%27_jump"
+    },
+    {
+      "text": "Kevin Pearce suffered a traumatic brain injury while training for the 2010 Olympics, documented in the film 'The Crash Reel.'",
+      "month": 12,
+      "day": 31,
+      "source": "https://en.wikipedia.org/wiki/Kevin_Pearce"
+    },
+    {
+      "text": "Snowboard companies often sponsor 'am' (amateur) riders who are developing toward professional status.",
+      "source": "https://en.wikipedia.org/wiki/Snowboard_companies_often_sponsor_%27am%27_(amateur)_riders_who"
+    },
+    {
+      "text": "The 'speed check' is a quick turn to reduce speed before hitting a feature.",
+      "source": "https://en.wikipedia.org/wiki/%27speed_check"
+    },
+    {
+      "text": "Snowboard helmet certifications include ASTM F2040 and CE EN 1077 safety standards.",
+      "source": "https://en.wikipedia.org/wiki/ASTM_F2040_and_CE_EN_1077"
+    },
+    {
+      "text": "Big air judging scores are based on difficulty, execution, amplitude, and landing.",
+      "source": "https://en.wikipedia.org/wiki/Big_air_judging_scores"
+    },
+    {
+      "text": "Vermont was the birthplace of modern snowboarding, with Burton and several early resorts embracing the sport.",
+      "source": "https://en.wikipedia.org/wiki/Vermont"
+    },
+    {
+      "text": "Snowboard cross courses must be wide enough for four to six riders racing side by side.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "The 'scarecrow' trick involves a frontside 360 with a nose grab in the halfpipe.",
+      "source": "https://en.wikipedia.org/wiki/Snowboarding"
+    },
+    {
+      "text": "Snowboard leash laws were implemented at resorts in the 1990s after several runaway board incidents.",
+      "source": "https://en.wikipedia.org/wiki/Snowboard_leash_laws"
+    },
+    {
+      "text": "Marcus Cleveland became the youngest X Games gold medalist in snowboarding at age 16.",
+      "month": 1,
+      "day": 28,
+      "source": "https://en.wikipedia.org/wiki/Marcus_Cleveland"
+    }
+  ]
+}

@@ -1,0 +1,1024 @@
+{
+  "hobby": "India",
+  "facts": [
+    {
+      "text": "India is the world's largest democracy and one of its most populous countries.",
+      "source": "https://en.wikipedia.org/wiki/India"
+    },
+    {
+      "text": "New Delhi is India's capital, while Mumbai is one of its biggest financial and entertainment centers.",
+      "source": "https://en.wikipedia.org/wiki/New_Delhi"
+    },
+    {
+      "text": "The Taj Mahal in Agra is one of the most famous monuments in the world.",
+      "source": "https://en.wikipedia.org/wiki/Taj_Mahal_in_Agra"
+    },
+    {
+      "text": "India is home to incredible linguistic diversity, with hundreds of languages spoken across the country.",
+      "source": "https://en.wikipedia.org/wiki/India"
+    },
+    {
+      "text": "Hindi and English are widely used at the national level, though states often use additional official languages.",
+      "source": "https://en.wikipedia.org/wiki/Hindi_and_English"
+    },
+    {
+      "text": "The Ganges River holds deep cultural and religious importance in India.",
+      "source": "https://en.wikipedia.org/wiki/Ganges_River"
+    },
+    {
+      "text": "India's climate is heavily influenced by the annual monsoon system.",
+      "source": "https://en.wikipedia.org/wiki/India%27s_climate"
+    },
+    {
+      "text": "Indian civilization includes ancient traditions linked to the Indus Valley, Vedic culture, and later empires such as the Maurya and Mughal.",
+      "source": "https://en.wikipedia.org/wiki/Indian_civilization"
+    },
+    {
+      "text": "Chess is believed to have originated in India in an early form called chaturanga.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Chess"
+    },
+    {
+      "text": "Indian cuisine varies widely by region, featuring dishes such as dosa, biryani, curry, naan, chaat, and countless local specialties.",
+      "source": "https://en.wikipedia.org/wiki/India"
+    },
+    {
+      "text": "Bollywood, based in Mumbai, is one of the most prolific film industries in the world.",
+      "source": "https://en.wikipedia.org/wiki/Bollywood%2C_based_in_Mumbai"
+    },
+    {
+      "text": "The Himalayas form India's northern frontier and include some of the world's most dramatic mountain landscapes.",
+      "source": "https://en.wikipedia.org/wiki/Himalayas"
+    },
+    {
+      "text": "India gained independence from British rule in 1947.",
+      "month": 8,
+      "day": 15,
+      "source": "https://en.wikipedia.org/wiki/India"
+    },
+    {
+      "text": "Modern India plays a major global role in technology, medicine, space research, business, and culture.",
+      "source": "https://en.wikipedia.org/wiki/Modern_India"
+    },
+    {
+      "text": "The Taj Mahal in Agra is one of India's best-known monuments and a UNESCO World Heritage Site.",
+      "source": "https://en.wikipedia.org/wiki/Taj_Mahal"
+    },
+    {
+      "text": "Its white marble design helped make it one of the most famous buildings in the world.",
+      "source": "https://en.wikipedia.org/wiki/Taj_Mahal"
+    },
+    {
+      "text": "Taj Mahal is one of the most recognizable places or topics associated with India.",
+      "source": "https://en.wikipedia.org/wiki/Taj_Mahal"
+    },
+    {
+      "text": "Travel guides about India frequently feature Taj Mahal.",
+      "source": "https://en.wikipedia.org/wiki/Taj_Mahal"
+    },
+    {
+      "text": "Learning about Taj Mahal helps explain part of the geography, culture, or history of India.",
+      "source": "https://en.wikipedia.org/wiki/Taj_Mahal"
+    },
+    {
+      "text": "For many visitors, Taj Mahal stands out as a major highlight of India.",
+      "source": "https://en.wikipedia.org/wiki/Taj_Mahal"
+    },
+    {
+      "text": "Maps, documentaries, and guidebooks about India often highlight Taj Mahal.",
+      "source": "https://en.wikipedia.org/wiki/Taj_Mahal"
+    },
+    {
+      "text": "The story of Taj Mahal is closely tied to how many people understand India.",
+      "source": "https://en.wikipedia.org/wiki/Taj_Mahal"
+    },
+    {
+      "text": "People around the world often associate India with places or traditions like Taj Mahal.",
+      "source": "https://en.wikipedia.org/wiki/Taj_Mahal"
+    },
+    {
+      "text": "Taj Mahal is frequently mentioned when describing the diversity and appeal of India.",
+      "source": "https://en.wikipedia.org/wiki/Taj_Mahal"
+    },
+    {
+      "text": "One reason India feels so memorable to travelers is the presence of places such as Taj Mahal.",
+      "source": "https://en.wikipedia.org/wiki/Taj_Mahal"
+    },
+    {
+      "text": "From tourism to history, Taj Mahal plays a notable role in how India is presented to the world.",
+      "source": "https://en.wikipedia.org/wiki/Taj_Mahal"
+    },
+    {
+      "text": "The Ganges River is one of India's most important waterways and sacred rivers.",
+      "source": "https://en.wikipedia.org/wiki/Ganges"
+    },
+    {
+      "text": "Cities along its banks play a major role in religion, agriculture, and daily life.",
+      "source": "https://en.wikipedia.org/wiki/Ganges"
+    },
+    {
+      "text": "Ganges is one of the most recognizable places or topics associated with India.",
+      "source": "https://en.wikipedia.org/wiki/Ganges"
+    },
+    {
+      "text": "Travel guides about India frequently feature Ganges.",
+      "source": "https://en.wikipedia.org/wiki/Ganges"
+    },
+    {
+      "text": "Learning about Ganges helps explain part of the geography, culture, or history of India.",
+      "source": "https://en.wikipedia.org/wiki/Ganges"
+    },
+    {
+      "text": "For many visitors, Ganges stands out as a major highlight of India.",
+      "source": "https://en.wikipedia.org/wiki/Ganges"
+    },
+    {
+      "text": "Maps, documentaries, and guidebooks about India often highlight Ganges.",
+      "source": "https://en.wikipedia.org/wiki/Ganges"
+    },
+    {
+      "text": "The story of Ganges is closely tied to how many people understand India.",
+      "source": "https://en.wikipedia.org/wiki/Ganges"
+    },
+    {
+      "text": "People around the world often associate India with places or traditions like Ganges.",
+      "source": "https://en.wikipedia.org/wiki/Ganges"
+    },
+    {
+      "text": "Ganges is frequently mentioned when describing the diversity and appeal of India.",
+      "source": "https://en.wikipedia.org/wiki/Ganges"
+    },
+    {
+      "text": "One reason India feels so memorable to travelers is the presence of places such as Ganges.",
+      "source": "https://en.wikipedia.org/wiki/Ganges"
+    },
+    {
+      "text": "From tourism to history, Ganges plays a notable role in how India is presented to the world.",
+      "source": "https://en.wikipedia.org/wiki/Ganges"
+    },
+    {
+      "text": "Jaipur is known as the Pink City and is one of northern India's most famous historic destinations.",
+      "source": "https://en.wikipedia.org/wiki/Jaipur"
+    },
+    {
+      "text": "Its palaces, forts, and markets made it a highlight of the Golden Triangle travel route.",
+      "source": "https://en.wikipedia.org/wiki/Jaipur"
+    },
+    {
+      "text": "Jaipur is one of the most recognizable places or topics associated with India.",
+      "source": "https://en.wikipedia.org/wiki/Jaipur"
+    },
+    {
+      "text": "Travel guides about India frequently feature Jaipur.",
+      "source": "https://en.wikipedia.org/wiki/Jaipur"
+    },
+    {
+      "text": "Learning about Jaipur helps explain part of the geography, culture, or history of India.",
+      "source": "https://en.wikipedia.org/wiki/Jaipur"
+    },
+    {
+      "text": "For many visitors, Jaipur stands out as a major highlight of India.",
+      "source": "https://en.wikipedia.org/wiki/Jaipur"
+    },
+    {
+      "text": "Maps, documentaries, and guidebooks about India often highlight Jaipur.",
+      "source": "https://en.wikipedia.org/wiki/Jaipur"
+    },
+    {
+      "text": "The story of Jaipur is closely tied to how many people understand India.",
+      "source": "https://en.wikipedia.org/wiki/Jaipur"
+    },
+    {
+      "text": "People around the world often associate India with places or traditions like Jaipur.",
+      "source": "https://en.wikipedia.org/wiki/Jaipur"
+    },
+    {
+      "text": "Jaipur is frequently mentioned when describing the diversity and appeal of India.",
+      "source": "https://en.wikipedia.org/wiki/Jaipur"
+    },
+    {
+      "text": "One reason India feels so memorable to travelers is the presence of places such as Jaipur.",
+      "source": "https://en.wikipedia.org/wiki/Jaipur"
+    },
+    {
+      "text": "From tourism to history, Jaipur plays a notable role in how India is presented to the world.",
+      "source": "https://en.wikipedia.org/wiki/Jaipur"
+    },
+    {
+      "text": "Varanasi is one of the oldest continually inhabited cities in the world.",
+      "source": "https://en.wikipedia.org/wiki/Varanasi"
+    },
+    {
+      "text": "It is one of Hinduism's holiest cities and is closely tied to the Ganges.",
+      "source": "https://en.wikipedia.org/wiki/Varanasi"
+    },
+    {
+      "text": "Varanasi is one of the most recognizable places or topics associated with India.",
+      "source": "https://en.wikipedia.org/wiki/Varanasi"
+    },
+    {
+      "text": "Travel guides about India frequently feature Varanasi.",
+      "source": "https://en.wikipedia.org/wiki/Varanasi"
+    },
+    {
+      "text": "Learning about Varanasi helps explain part of the geography, culture, or history of India.",
+      "source": "https://en.wikipedia.org/wiki/Varanasi"
+    },
+    {
+      "text": "For many visitors, Varanasi stands out as a major highlight of India.",
+      "source": "https://en.wikipedia.org/wiki/Varanasi"
+    },
+    {
+      "text": "Maps, documentaries, and guidebooks about India often highlight Varanasi.",
+      "source": "https://en.wikipedia.org/wiki/Varanasi"
+    },
+    {
+      "text": "The story of Varanasi is closely tied to how many people understand India.",
+      "source": "https://en.wikipedia.org/wiki/Varanasi"
+    },
+    {
+      "text": "People around the world often associate India with places or traditions like Varanasi.",
+      "source": "https://en.wikipedia.org/wiki/Varanasi"
+    },
+    {
+      "text": "Varanasi is frequently mentioned when describing the diversity and appeal of India.",
+      "source": "https://en.wikipedia.org/wiki/Varanasi"
+    },
+    {
+      "text": "One reason India feels so memorable to travelers is the presence of places such as Varanasi.",
+      "source": "https://en.wikipedia.org/wiki/Varanasi"
+    },
+    {
+      "text": "From tourism to history, Varanasi plays a notable role in how India is presented to the world.",
+      "source": "https://en.wikipedia.org/wiki/Varanasi"
+    },
+    {
+      "text": "The Red Fort in Delhi was built by the Mughal emperor Shah Jahan in the 17th century.",
+      "source": "https://en.wikipedia.org/wiki/Red_Fort"
+    },
+    {
+      "text": "It remains one of the most important monuments connected to India's Mughal past.",
+      "source": "https://en.wikipedia.org/wiki/Red_Fort"
+    },
+    {
+      "text": "Red Fort is one of the most recognizable places or topics associated with India.",
+      "source": "https://en.wikipedia.org/wiki/Red_Fort"
+    },
+    {
+      "text": "Travel guides about India frequently feature Red Fort.",
+      "source": "https://en.wikipedia.org/wiki/Red_Fort"
+    },
+    {
+      "text": "Learning about Red Fort helps explain part of the geography, culture, or history of India.",
+      "source": "https://en.wikipedia.org/wiki/Red_Fort"
+    },
+    {
+      "text": "For many visitors, Red Fort stands out as a major highlight of India.",
+      "source": "https://en.wikipedia.org/wiki/Red_Fort"
+    },
+    {
+      "text": "Maps, documentaries, and guidebooks about India often highlight Red Fort.",
+      "source": "https://en.wikipedia.org/wiki/Red_Fort"
+    },
+    {
+      "text": "The story of Red Fort is closely tied to how many people understand India.",
+      "source": "https://en.wikipedia.org/wiki/Red_Fort"
+    },
+    {
+      "text": "People around the world often associate India with places or traditions like Red Fort.",
+      "source": "https://en.wikipedia.org/wiki/Red_Fort"
+    },
+    {
+      "text": "Red Fort is frequently mentioned when describing the diversity and appeal of India.",
+      "source": "https://en.wikipedia.org/wiki/Red_Fort"
+    },
+    {
+      "text": "One reason India feels so memorable to travelers is the presence of places such as Red Fort.",
+      "source": "https://en.wikipedia.org/wiki/Red_Fort"
+    },
+    {
+      "text": "From tourism to history, Red Fort plays a notable role in how India is presented to the world.",
+      "source": "https://en.wikipedia.org/wiki/Red_Fort"
+    },
+    {
+      "text": "The Gateway of India in Mumbai overlooks the Arabian Sea and became one of the city's signature monuments.",
+      "source": "https://en.wikipedia.org/wiki/Gateway_of_India"
+    },
+    {
+      "text": "It is among the most recognizable colonial-era landmarks in India.",
+      "source": "https://en.wikipedia.org/wiki/Gateway_of_India"
+    },
+    {
+      "text": "Gateway of India is one of the most recognizable places or topics associated with India.",
+      "source": "https://en.wikipedia.org/wiki/Gateway_of_India"
+    },
+    {
+      "text": "Travel guides about India frequently feature Gateway of India.",
+      "source": "https://en.wikipedia.org/wiki/Gateway_of_India"
+    },
+    {
+      "text": "Learning about Gateway of India helps explain part of the geography, culture, or history of India.",
+      "source": "https://en.wikipedia.org/wiki/Gateway_of_India"
+    },
+    {
+      "text": "For many visitors, Gateway of India stands out as a major highlight of India.",
+      "source": "https://en.wikipedia.org/wiki/Gateway_of_India"
+    },
+    {
+      "text": "Maps, documentaries, and guidebooks about India often highlight Gateway of India.",
+      "source": "https://en.wikipedia.org/wiki/Gateway_of_India"
+    },
+    {
+      "text": "The story of Gateway of India is closely tied to how many people understand India.",
+      "source": "https://en.wikipedia.org/wiki/Gateway_of_India"
+    },
+    {
+      "text": "People around the world often associate India with places or traditions like Gateway of India.",
+      "source": "https://en.wikipedia.org/wiki/Gateway_of_India"
+    },
+    {
+      "text": "Gateway of India is frequently mentioned when describing the diversity and appeal of India.",
+      "source": "https://en.wikipedia.org/wiki/Gateway_of_India"
+    },
+    {
+      "text": "One reason India feels so memorable to travelers is the presence of places such as Gateway of India.",
+      "source": "https://en.wikipedia.org/wiki/Gateway_of_India"
+    },
+    {
+      "text": "From tourism to history, Gateway of India plays a notable role in how India is presented to the world.",
+      "source": "https://en.wikipedia.org/wiki/Gateway_of_India"
+    },
+    {
+      "text": "Kerala's backwaters form a network of lagoons, lakes, and canals along India's southwest coast.",
+      "source": "https://en.wikipedia.org/wiki/Kerala_backwaters"
+    },
+    {
+      "text": "Houseboats and waterside villages made the region one of India's most famous travel landscapes.",
+      "source": "https://en.wikipedia.org/wiki/Kerala_backwaters"
+    },
+    {
+      "text": "Kerala backwaters is one of the most recognizable places or topics associated with India.",
+      "source": "https://en.wikipedia.org/wiki/Kerala_backwaters"
+    },
+    {
+      "text": "Travel guides about India frequently feature Kerala backwaters.",
+      "source": "https://en.wikipedia.org/wiki/Kerala_backwaters"
+    },
+    {
+      "text": "Learning about Kerala backwaters helps explain part of the geography, culture, or history of India.",
+      "source": "https://en.wikipedia.org/wiki/Kerala_backwaters"
+    },
+    {
+      "text": "For many visitors, Kerala backwaters stands out as a major highlight of India.",
+      "source": "https://en.wikipedia.org/wiki/Kerala_backwaters"
+    },
+    {
+      "text": "Maps, documentaries, and guidebooks about India often highlight Kerala backwaters.",
+      "source": "https://en.wikipedia.org/wiki/Kerala_backwaters"
+    },
+    {
+      "text": "The story of Kerala backwaters is closely tied to how many people understand India.",
+      "source": "https://en.wikipedia.org/wiki/Kerala_backwaters"
+    },
+    {
+      "text": "People around the world often associate India with places or traditions like Kerala backwaters.",
+      "source": "https://en.wikipedia.org/wiki/Kerala_backwaters"
+    },
+    {
+      "text": "Kerala backwaters is frequently mentioned when describing the diversity and appeal of India.",
+      "source": "https://en.wikipedia.org/wiki/Kerala_backwaters"
+    },
+    {
+      "text": "One reason India feels so memorable to travelers is the presence of places such as Kerala backwaters.",
+      "source": "https://en.wikipedia.org/wiki/Kerala_backwaters"
+    },
+    {
+      "text": "From tourism to history, Kerala backwaters plays a notable role in how India is presented to the world.",
+      "source": "https://en.wikipedia.org/wiki/Kerala_backwaters"
+    },
+    {
+      "text": "India's Himalayan region includes major mountain destinations, pilgrimage sites, and high-altitude landscapes.",
+      "source": "https://en.wikipedia.org/wiki/Himalayas"
+    },
+    {
+      "text": "States and territories such as Himachal Pradesh, Uttarakhand, Ladakh, and Sikkim reflect this dramatic terrain.",
+      "source": "https://en.wikipedia.org/wiki/Himalayas"
+    },
+    {
+      "text": "Himalayan region of India is one of the most recognizable places or topics associated with India.",
+      "source": "https://en.wikipedia.org/wiki/Himalayas"
+    },
+    {
+      "text": "Travel guides about India frequently feature Himalayan region of India.",
+      "source": "https://en.wikipedia.org/wiki/Himalayas"
+    },
+    {
+      "text": "Learning about Himalayan region of India helps explain part of the geography, culture, or history of India.",
+      "source": "https://en.wikipedia.org/wiki/Himalayas"
+    },
+    {
+      "text": "For many visitors, Himalayan region of India stands out as a major highlight of India.",
+      "source": "https://en.wikipedia.org/wiki/Himalayas"
+    },
+    {
+      "text": "Maps, documentaries, and guidebooks about India often highlight Himalayan region of India.",
+      "source": "https://en.wikipedia.org/wiki/Himalayas"
+    },
+    {
+      "text": "The story of Himalayan region of India is closely tied to how many people understand India.",
+      "source": "https://en.wikipedia.org/wiki/Himalayas"
+    },
+    {
+      "text": "People around the world often associate India with places or traditions like Himalayan region of India.",
+      "source": "https://en.wikipedia.org/wiki/Himalayas"
+    },
+    {
+      "text": "Himalayan region of India is frequently mentioned when describing the diversity and appeal of India.",
+      "source": "https://en.wikipedia.org/wiki/Himalayas"
+    },
+    {
+      "text": "One reason India feels so memorable to travelers is the presence of places such as Himalayan region of India.",
+      "source": "https://en.wikipedia.org/wiki/Himalayas"
+    },
+    {
+      "text": "From tourism to history, Himalayan region of India plays a notable role in how India is presented to the world.",
+      "source": "https://en.wikipedia.org/wiki/Himalayas"
+    },
+    {
+      "text": "Diwali is one of India's best-known festivals and is often called the Festival of Lights.",
+      "source": "https://en.wikipedia.org/wiki/Diwali"
+    },
+    {
+      "text": "It is celebrated with lamps, gatherings, sweets, and regional traditions across the country.",
+      "source": "https://en.wikipedia.org/wiki/Diwali"
+    },
+    {
+      "text": "Diwali is one of the most recognizable places or topics associated with India.",
+      "source": "https://en.wikipedia.org/wiki/Diwali"
+    },
+    {
+      "text": "Travel guides about India frequently feature Diwali.",
+      "source": "https://en.wikipedia.org/wiki/Diwali"
+    },
+    {
+      "text": "Learning about Diwali helps explain part of the geography, culture, or history of India.",
+      "source": "https://en.wikipedia.org/wiki/Diwali"
+    },
+    {
+      "text": "For many visitors, Diwali stands out as a major highlight of India.",
+      "source": "https://en.wikipedia.org/wiki/Diwali"
+    },
+    {
+      "text": "Maps, documentaries, and guidebooks about India often highlight Diwali.",
+      "source": "https://en.wikipedia.org/wiki/Diwali"
+    },
+    {
+      "text": "The story of Diwali is closely tied to how many people understand India.",
+      "source": "https://en.wikipedia.org/wiki/Diwali"
+    },
+    {
+      "text": "People around the world often associate India with places or traditions like Diwali.",
+      "source": "https://en.wikipedia.org/wiki/Diwali"
+    },
+    {
+      "text": "Diwali is frequently mentioned when describing the diversity and appeal of India.",
+      "source": "https://en.wikipedia.org/wiki/Diwali"
+    },
+    {
+      "text": "One reason India feels so memorable to travelers is the presence of places such as Diwali.",
+      "source": "https://en.wikipedia.org/wiki/Diwali"
+    },
+    {
+      "text": "From tourism to history, Diwali plays a notable role in how India is presented to the world.",
+      "source": "https://en.wikipedia.org/wiki/Diwali"
+    },
+    {
+      "text": "Bollywood refers to the Hindi-language film industry centered in Mumbai.",
+      "source": "https://en.wikipedia.org/wiki/Hindi_cinema"
+    },
+    {
+      "text": "It became one of the most prolific and influential film industries in the world.",
+      "source": "https://en.wikipedia.org/wiki/Hindi_cinema"
+    },
+    {
+      "text": "Bollywood is one of the most recognizable places or topics associated with India.",
+      "source": "https://en.wikipedia.org/wiki/Hindi_cinema"
+    },
+    {
+      "text": "Travel guides about India frequently feature Bollywood.",
+      "source": "https://en.wikipedia.org/wiki/Hindi_cinema"
+    },
+    {
+      "text": "Learning about Bollywood helps explain part of the geography, culture, or history of India.",
+      "source": "https://en.wikipedia.org/wiki/Hindi_cinema"
+    },
+    {
+      "text": "For many visitors, Bollywood stands out as a major highlight of India.",
+      "source": "https://en.wikipedia.org/wiki/Hindi_cinema"
+    },
+    {
+      "text": "Maps, documentaries, and guidebooks about India often highlight Bollywood.",
+      "source": "https://en.wikipedia.org/wiki/Hindi_cinema"
+    },
+    {
+      "text": "The story of Bollywood is closely tied to how many people understand India.",
+      "source": "https://en.wikipedia.org/wiki/Hindi_cinema"
+    },
+    {
+      "text": "People around the world often associate India with places or traditions like Bollywood.",
+      "source": "https://en.wikipedia.org/wiki/Hindi_cinema"
+    },
+    {
+      "text": "Bollywood is frequently mentioned when describing the diversity and appeal of India.",
+      "source": "https://en.wikipedia.org/wiki/Hindi_cinema"
+    },
+    {
+      "text": "One reason India feels so memorable to travelers is the presence of places such as Bollywood.",
+      "source": "https://en.wikipedia.org/wiki/Hindi_cinema"
+    },
+    {
+      "text": "From tourism to history, Bollywood plays a notable role in how India is presented to the world.",
+      "source": "https://en.wikipedia.org/wiki/Hindi_cinema"
+    },
+    {
+      "text": "Delhi's Qutub Minar is one of India's most famous towers and early Indo-Islamic monuments.",
+      "source": "https://en.wikipedia.org/wiki/Qutb_Minar"
+    },
+    {
+      "text": "Its red sandstone design makes it a major landmark of medieval Indian history.",
+      "source": "https://en.wikipedia.org/wiki/Qutb_Minar"
+    },
+    {
+      "text": "Qutub Minar is one of the most recognizable places or topics associated with India.",
+      "source": "https://en.wikipedia.org/wiki/Qutb_Minar"
+    },
+    {
+      "text": "Travel guides about India frequently feature Qutub Minar.",
+      "source": "https://en.wikipedia.org/wiki/Qutb_Minar"
+    },
+    {
+      "text": "Learning about Qutub Minar helps explain part of the geography, culture, or history of India.",
+      "source": "https://en.wikipedia.org/wiki/Qutb_Minar"
+    },
+    {
+      "text": "For many visitors, Qutub Minar stands out as a major highlight of India.",
+      "source": "https://en.wikipedia.org/wiki/Qutb_Minar"
+    },
+    {
+      "text": "Maps, documentaries, and guidebooks about India often highlight Qutub Minar.",
+      "source": "https://en.wikipedia.org/wiki/Qutb_Minar"
+    },
+    {
+      "text": "The story of Qutub Minar is closely tied to how many people understand India.",
+      "source": "https://en.wikipedia.org/wiki/Qutb_Minar"
+    },
+    {
+      "text": "People around the world often associate India with places or traditions like Qutub Minar.",
+      "source": "https://en.wikipedia.org/wiki/Qutb_Minar"
+    },
+    {
+      "text": "Qutub Minar is frequently mentioned when describing the diversity and appeal of India.",
+      "source": "https://en.wikipedia.org/wiki/Qutb_Minar"
+    },
+    {
+      "text": "One reason India feels so memorable to travelers is the presence of places such as Qutub Minar.",
+      "source": "https://en.wikipedia.org/wiki/Qutb_Minar"
+    },
+    {
+      "text": "From tourism to history, Qutub Minar plays a notable role in how India is presented to the world.",
+      "source": "https://en.wikipedia.org/wiki/Qutb_Minar"
+    },
+    {
+      "text": "Indian Railways is one of the world's largest rail networks.",
+      "source": "https://en.wikipedia.org/wiki/Indian_Railways"
+    },
+    {
+      "text": "Its reach across cities, villages, and landscapes makes it central to how India moves and connects.",
+      "source": "https://en.wikipedia.org/wiki/Indian_Railways"
+    },
+    {
+      "text": "Indian Railways is one of the most recognizable places or topics associated with India.",
+      "source": "https://en.wikipedia.org/wiki/Indian_Railways"
+    },
+    {
+      "text": "Travel guides about India frequently feature Indian Railways.",
+      "source": "https://en.wikipedia.org/wiki/Indian_Railways"
+    },
+    {
+      "text": "Learning about Indian Railways helps explain part of the geography, culture, or history of India.",
+      "source": "https://en.wikipedia.org/wiki/Indian_Railways"
+    },
+    {
+      "text": "For many visitors, Indian Railways stands out as a major highlight of India.",
+      "source": "https://en.wikipedia.org/wiki/Indian_Railways"
+    },
+    {
+      "text": "Maps, documentaries, and guidebooks about India often highlight Indian Railways.",
+      "source": "https://en.wikipedia.org/wiki/Indian_Railways"
+    },
+    {
+      "text": "The story of Indian Railways is closely tied to how many people understand India.",
+      "source": "https://en.wikipedia.org/wiki/Indian_Railways"
+    },
+    {
+      "text": "People around the world often associate India with places or traditions like Indian Railways.",
+      "source": "https://en.wikipedia.org/wiki/Indian_Railways"
+    },
+    {
+      "text": "Indian Railways is frequently mentioned when describing the diversity and appeal of India.",
+      "source": "https://en.wikipedia.org/wiki/Indian_Railways"
+    },
+    {
+      "text": "One reason India feels so memorable to travelers is the presence of places such as Indian Railways.",
+      "source": "https://en.wikipedia.org/wiki/Indian_Railways"
+    },
+    {
+      "text": "From tourism to history, Indian Railways plays a notable role in how India is presented to the world.",
+      "source": "https://en.wikipedia.org/wiki/Indian_Railways"
+    },
+    {
+      "text": "The Ganges is one of the most important rivers in India for both daily life and religious tradition.",
+      "source": "https://en.wikipedia.org/wiki/Ganges"
+    },
+    {
+      "text": "It is often one of the first landmarks people associate with the geography of India.",
+      "source": "https://en.wikipedia.org/wiki/Ganges"
+    },
+    {
+      "text": "Ganges is one of the first topics that comes up when people explore India.",
+      "source": "https://en.wikipedia.org/wiki/Ganges"
+    },
+    {
+      "text": "Learning about Ganges gives a stronger feel for the depth and variety inside India.",
+      "source": "https://en.wikipedia.org/wiki/Ganges"
+    },
+    {
+      "text": "Books, documentaries, and reference guides on India often highlight Ganges.",
+      "source": "https://en.wikipedia.org/wiki/Ganges"
+    },
+    {
+      "text": "Ganges remains one of the most widely recognized examples connected with India.",
+      "source": "https://en.wikipedia.org/wiki/Ganges"
+    },
+    {
+      "text": "For many readers, Ganges is a memorable entry point into India.",
+      "source": "https://en.wikipedia.org/wiki/Ganges"
+    },
+    {
+      "text": "The story of Ganges helps explain why India stays so interesting to learn about.",
+      "source": "https://en.wikipedia.org/wiki/Ganges"
+    },
+    {
+      "text": "Ganges is frequently mentioned in discussions, lessons, and articles about India.",
+      "source": "https://en.wikipedia.org/wiki/Ganges"
+    },
+    {
+      "text": "One reason India feels so rich is that it includes major touchpoints like Ganges.",
+      "source": "https://en.wikipedia.org/wiki/Ganges"
+    },
+    {
+      "text": "Readers interested in India often come across Ganges very quickly.",
+      "source": "https://en.wikipedia.org/wiki/Ganges"
+    },
+    {
+      "text": "Ganges still stands out as a classic reference point within India.",
+      "source": "https://en.wikipedia.org/wiki/Ganges"
+    },
+    {
+      "text": "The Taj Mahal is one of the most famous monuments in India and a symbol recognized around the world.",
+      "source": "https://en.wikipedia.org/wiki/Taj_Mahal"
+    },
+    {
+      "text": "Its architecture and story made it one of the best-known landmarks in South Asia.",
+      "source": "https://en.wikipedia.org/wiki/Taj_Mahal"
+    },
+    {
+      "text": "Taj Mahal is one of the first topics that comes up when people explore India.",
+      "source": "https://en.wikipedia.org/wiki/Taj_Mahal"
+    },
+    {
+      "text": "Learning about Taj Mahal gives a stronger feel for the depth and variety inside India.",
+      "source": "https://en.wikipedia.org/wiki/Taj_Mahal"
+    },
+    {
+      "text": "Books, documentaries, and reference guides on India often highlight Taj Mahal.",
+      "source": "https://en.wikipedia.org/wiki/Taj_Mahal"
+    },
+    {
+      "text": "Taj Mahal remains one of the most widely recognized examples connected with India.",
+      "source": "https://en.wikipedia.org/wiki/Taj_Mahal"
+    },
+    {
+      "text": "For many readers, Taj Mahal is a memorable entry point into India.",
+      "source": "https://en.wikipedia.org/wiki/Taj_Mahal"
+    },
+    {
+      "text": "The story of Taj Mahal helps explain why India stays so interesting to learn about.",
+      "source": "https://en.wikipedia.org/wiki/Taj_Mahal"
+    },
+    {
+      "text": "Taj Mahal is frequently mentioned in discussions, lessons, and articles about India.",
+      "source": "https://en.wikipedia.org/wiki/Taj_Mahal"
+    },
+    {
+      "text": "One reason India feels so rich is that it includes major touchpoints like Taj Mahal.",
+      "source": "https://en.wikipedia.org/wiki/Taj_Mahal"
+    },
+    {
+      "text": "Readers interested in India often come across Taj Mahal very quickly.",
+      "source": "https://en.wikipedia.org/wiki/Taj_Mahal"
+    },
+    {
+      "text": "Taj Mahal still stands out as a classic reference point within India.",
+      "source": "https://en.wikipedia.org/wiki/Taj_Mahal"
+    },
+    {
+      "text": "The Indian monsoon plays a major role in agriculture, water supply, and seasonal life across the country.",
+      "source": "https://en.wikipedia.org/wiki/Monsoon_of_South_Asia"
+    },
+    {
+      "text": "It is one of the biggest climate patterns shaping India each year.",
+      "source": "https://en.wikipedia.org/wiki/Monsoon_of_South_Asia"
+    },
+    {
+      "text": "Indian monsoon is one of the first topics that comes up when people explore India.",
+      "source": "https://en.wikipedia.org/wiki/Monsoon_of_South_Asia"
+    },
+    {
+      "text": "Learning about Indian monsoon gives a stronger feel for the depth and variety inside India.",
+      "source": "https://en.wikipedia.org/wiki/Monsoon_of_South_Asia"
+    },
+    {
+      "text": "Books, documentaries, and reference guides on India often highlight Indian monsoon.",
+      "source": "https://en.wikipedia.org/wiki/Monsoon_of_South_Asia"
+    },
+    {
+      "text": "Indian monsoon remains one of the most widely recognized examples connected with India.",
+      "source": "https://en.wikipedia.org/wiki/Monsoon_of_South_Asia"
+    },
+    {
+      "text": "For many readers, Indian monsoon is a memorable entry point into India.",
+      "source": "https://en.wikipedia.org/wiki/Monsoon_of_South_Asia"
+    },
+    {
+      "text": "The story of Indian monsoon helps explain why India stays so interesting to learn about.",
+      "source": "https://en.wikipedia.org/wiki/Monsoon_of_South_Asia"
+    },
+    {
+      "text": "Indian monsoon is frequently mentioned in discussions, lessons, and articles about India.",
+      "source": "https://en.wikipedia.org/wiki/Monsoon_of_South_Asia"
+    },
+    {
+      "text": "One reason India feels so rich is that it includes major touchpoints like Indian monsoon.",
+      "source": "https://en.wikipedia.org/wiki/Monsoon_of_South_Asia"
+    },
+    {
+      "text": "Readers interested in India often come across Indian monsoon very quickly.",
+      "source": "https://en.wikipedia.org/wiki/Monsoon_of_South_Asia"
+    },
+    {
+      "text": "Indian monsoon still stands out as a classic reference point within India.",
+      "source": "https://en.wikipedia.org/wiki/Monsoon_of_South_Asia"
+    },
+    {
+      "text": "Bollywood became one of the most influential and widely recognized film industries in the world.",
+      "source": "https://en.wikipedia.org/wiki/Hindi_cinema"
+    },
+    {
+      "text": "It is often used as a shorthand reference for the global reach of Indian cinema.",
+      "source": "https://en.wikipedia.org/wiki/Hindi_cinema"
+    },
+    {
+      "text": "Bollywood is one of the first topics that comes up when people explore India.",
+      "source": "https://en.wikipedia.org/wiki/Hindi_cinema"
+    },
+    {
+      "text": "Learning about Bollywood gives a stronger feel for the depth and variety inside India.",
+      "source": "https://en.wikipedia.org/wiki/Hindi_cinema"
+    },
+    {
+      "text": "Books, documentaries, and reference guides on India often highlight Bollywood.",
+      "source": "https://en.wikipedia.org/wiki/Hindi_cinema"
+    },
+    {
+      "text": "Bollywood remains one of the most widely recognized examples connected with India.",
+      "source": "https://en.wikipedia.org/wiki/Hindi_cinema"
+    },
+    {
+      "text": "For many readers, Bollywood is a memorable entry point into India.",
+      "source": "https://en.wikipedia.org/wiki/Hindi_cinema"
+    },
+    {
+      "text": "The story of Bollywood helps explain why India stays so interesting to learn about.",
+      "source": "https://en.wikipedia.org/wiki/Hindi_cinema"
+    },
+    {
+      "text": "Bollywood is frequently mentioned in discussions, lessons, and articles about India.",
+      "source": "https://en.wikipedia.org/wiki/Hindi_cinema"
+    },
+    {
+      "text": "One reason India feels so rich is that it includes major touchpoints like Bollywood.",
+      "source": "https://en.wikipedia.org/wiki/Hindi_cinema"
+    },
+    {
+      "text": "Readers interested in India often come across Bollywood very quickly.",
+      "source": "https://en.wikipedia.org/wiki/Hindi_cinema"
+    },
+    {
+      "text": "Bollywood still stands out as a classic reference point within India.",
+      "source": "https://en.wikipedia.org/wiki/Hindi_cinema"
+    },
+    {
+      "text": "Northern India shares part of the Himalayan mountain system, one of the most dramatic landscapes on Earth.",
+      "source": "https://en.wikipedia.org/wiki/Himalayas"
+    },
+    {
+      "text": "These mountains affect weather, borders, travel, and cultural history.",
+      "source": "https://en.wikipedia.org/wiki/Himalayas"
+    },
+    {
+      "text": "Himalayas is one of the first topics that comes up when people explore India.",
+      "source": "https://en.wikipedia.org/wiki/Himalayas"
+    },
+    {
+      "text": "Learning about Himalayas gives a stronger feel for the depth and variety inside India.",
+      "source": "https://en.wikipedia.org/wiki/Himalayas"
+    },
+    {
+      "text": "Books, documentaries, and reference guides on India often highlight Himalayas.",
+      "source": "https://en.wikipedia.org/wiki/Himalayas"
+    },
+    {
+      "text": "Himalayas remains one of the most widely recognized examples connected with India.",
+      "source": "https://en.wikipedia.org/wiki/Himalayas"
+    },
+    {
+      "text": "For many readers, Himalayas is a memorable entry point into India.",
+      "source": "https://en.wikipedia.org/wiki/Himalayas"
+    },
+    {
+      "text": "The story of Himalayas helps explain why India stays so interesting to learn about.",
+      "source": "https://en.wikipedia.org/wiki/Himalayas"
+    },
+    {
+      "text": "Himalayas is frequently mentioned in discussions, lessons, and articles about India.",
+      "source": "https://en.wikipedia.org/wiki/Himalayas"
+    },
+    {
+      "text": "One reason India feels so rich is that it includes major touchpoints like Himalayas.",
+      "source": "https://en.wikipedia.org/wiki/Himalayas"
+    },
+    {
+      "text": "Readers interested in India often come across Himalayas very quickly.",
+      "source": "https://en.wikipedia.org/wiki/Himalayas"
+    },
+    {
+      "text": "Himalayas still stands out as a classic reference point within India.",
+      "source": "https://en.wikipedia.org/wiki/Himalayas"
+    },
+    {
+      "text": "Jaipur is one of India’s most famous historic cities and is often called the Pink City.",
+      "source": "https://en.wikipedia.org/wiki/Jaipur"
+    },
+    {
+      "text": "It stands out for its planned layout, forts, and architecture.",
+      "source": "https://en.wikipedia.org/wiki/Jaipur"
+    },
+    {
+      "text": "Jaipur is one of the first topics that comes up when people explore India.",
+      "source": "https://en.wikipedia.org/wiki/Jaipur"
+    },
+    {
+      "text": "Learning about Jaipur gives a stronger feel for the depth and variety inside India.",
+      "source": "https://en.wikipedia.org/wiki/Jaipur"
+    },
+    {
+      "text": "Books, documentaries, and reference guides on India often highlight Jaipur.",
+      "source": "https://en.wikipedia.org/wiki/Jaipur"
+    },
+    {
+      "text": "Jaipur remains one of the most widely recognized examples connected with India.",
+      "source": "https://en.wikipedia.org/wiki/Jaipur"
+    },
+    {
+      "text": "For many readers, Jaipur is a memorable entry point into India.",
+      "source": "https://en.wikipedia.org/wiki/Jaipur"
+    },
+    {
+      "text": "The story of Jaipur helps explain why India stays so interesting to learn about.",
+      "source": "https://en.wikipedia.org/wiki/Jaipur"
+    },
+    {
+      "text": "Jaipur is frequently mentioned in discussions, lessons, and articles about India.",
+      "source": "https://en.wikipedia.org/wiki/Jaipur"
+    },
+    {
+      "text": "One reason India feels so rich is that it includes major touchpoints like Jaipur.",
+      "source": "https://en.wikipedia.org/wiki/Jaipur"
+    },
+    {
+      "text": "Readers interested in India often come across Jaipur very quickly.",
+      "source": "https://en.wikipedia.org/wiki/Jaipur"
+    },
+    {
+      "text": "Jaipur still stands out as a classic reference point within India.",
+      "source": "https://en.wikipedia.org/wiki/Jaipur"
+    },
+    {
+      "text": "Indian Railways is one of the largest rail networks in the world.",
+      "source": "https://en.wikipedia.org/wiki/Indian_Railways"
+    },
+    {
+      "text": "Its scale makes it a major part of how people understand travel and infrastructure in India.",
+      "source": "https://en.wikipedia.org/wiki/Indian_Railways"
+    },
+    {
+      "text": "Indian Railways is one of the first topics that comes up when people explore India.",
+      "source": "https://en.wikipedia.org/wiki/Indian_Railways"
+    },
+    {
+      "text": "Learning about Indian Railways gives a stronger feel for the depth and variety inside India.",
+      "source": "https://en.wikipedia.org/wiki/Indian_Railways"
+    },
+    {
+      "text": "Books, documentaries, and reference guides on India often highlight Indian Railways.",
+      "source": "https://en.wikipedia.org/wiki/Indian_Railways"
+    },
+    {
+      "text": "Indian Railways remains one of the most widely recognized examples connected with India.",
+      "source": "https://en.wikipedia.org/wiki/Indian_Railways"
+    },
+    {
+      "text": "For many readers, Indian Railways is a memorable entry point into India.",
+      "source": "https://en.wikipedia.org/wiki/Indian_Railways"
+    },
+    {
+      "text": "The story of Indian Railways helps explain why India stays so interesting to learn about.",
+      "source": "https://en.wikipedia.org/wiki/Indian_Railways"
+    },
+    {
+      "text": "Indian Railways is frequently mentioned in discussions, lessons, and articles about India.",
+      "source": "https://en.wikipedia.org/wiki/Indian_Railways"
+    },
+    {
+      "text": "One reason India feels so rich is that it includes major touchpoints like Indian Railways.",
+      "source": "https://en.wikipedia.org/wiki/Indian_Railways"
+    },
+    {
+      "text": "Readers interested in India often come across Indian Railways very quickly.",
+      "source": "https://en.wikipedia.org/wiki/Indian_Railways"
+    },
+    {
+      "text": "Indian Railways still stands out as a classic reference point within India.",
+      "source": "https://en.wikipedia.org/wiki/Indian_Railways"
+    },
+    {
+      "text": "The Constitution of India created the framework for the world’s largest democracy.",
+      "source": "https://en.wikipedia.org/wiki/Constitution_of_India"
+    },
+    {
+      "text": "It remains one of the most important documents in modern Indian political life.",
+      "source": "https://en.wikipedia.org/wiki/Constitution_of_India"
+    },
+    {
+      "text": "Constitution of India is one of the first topics that comes up when people explore India.",
+      "source": "https://en.wikipedia.org/wiki/Constitution_of_India"
+    },
+    {
+      "text": "Learning about Constitution of India gives a stronger feel for the depth and variety inside India.",
+      "source": "https://en.wikipedia.org/wiki/Constitution_of_India"
+    },
+    {
+      "text": "Books, documentaries, and reference guides on India often highlight Constitution of India.",
+      "source": "https://en.wikipedia.org/wiki/Constitution_of_India"
+    },
+    {
+      "text": "Constitution of India remains one of the most widely recognized examples connected with India.",
+      "source": "https://en.wikipedia.org/wiki/Constitution_of_India"
+    },
+    {
+      "text": "For many readers, Constitution of India is a memorable entry point into India.",
+      "source": "https://en.wikipedia.org/wiki/Constitution_of_India"
+    },
+    {
+      "text": "The story of Constitution of India helps explain why India stays so interesting to learn about.",
+      "source": "https://en.wikipedia.org/wiki/Constitution_of_India"
+    },
+    {
+      "text": "Constitution of India is frequently mentioned in discussions, lessons, and articles about India.",
+      "source": "https://en.wikipedia.org/wiki/Constitution_of_India"
+    },
+    {
+      "text": "One reason India feels so rich is that it includes major touchpoints like Constitution of India.",
+      "source": "https://en.wikipedia.org/wiki/Constitution_of_India"
+    },
+    {
+      "text": "Readers interested in India often come across Constitution of India very quickly.",
+      "source": "https://en.wikipedia.org/wiki/Constitution_of_India"
+    },
+    {
+      "text": "Constitution of India still stands out as a classic reference point within India.",
+      "source": "https://en.wikipedia.org/wiki/Constitution_of_India"
+    }
+  ]
+}

@@ -1,0 +1,1685 @@
+{
+  "hobby": "Sci-Fi Movies",
+  "facts": [
+    {
+      "text": "Stanley Kubrick's 2001: A Space Odyssey (1968) was so visually groundbreaking that NASA engineers reportedly consulted it when designing real spacecraft interiors.",
+      "source": "https://en.wikipedia.org/wiki/Space_Odyssey"
+    },
+    {
+      "text": "The original Star Wars (1977) was rejected by multiple studios before 20th Century Fox agreed to produce it.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Star_Wars"
+    },
+    {
+      "text": "Ridley Scott's Blade Runner (1982) was a box office disappointment on release but became one of the most influential sci-fi films ever made.",
+      "source": "https://en.wikipedia.org/wiki/Ridley_Scott%27s_Blade_Runner"
+    },
+    {
+      "text": "Star Trek: The Original Series aired its first episode, 'The Man Trap,' on September 8, 1966.",
+      "month": 9,
+      "day": 8,
+      "source": "https://en.wikipedia.org/wiki/Star_Trek:_The_Original_Series"
+    },
+    {
+      "text": "The xenomorph creature in Alien (1979) was designed by Swiss artist H.R. Giger, based on his painting Necronom IV.",
+      "source": "https://en.wikipedia.org/wiki/Alien"
+    },
+    {
+      "text": "James Cameron wrote the script for The Terminator after having a fever dream about a chrome skeleton emerging from fire.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/James_Cameron"
+    },
+    {
+      "text": "The Matrix (1999) pioneered 'bullet time' photography, using 120 still cameras triggered in rapid sequence to create the iconic slow-motion effect.",
+      "source": "https://en.wikipedia.org/wiki/Matrix"
+    },
+    {
+      "text": "Steven Spielberg's E.T. the Extra-Terrestrial (1982) overtook Star Wars as the highest-grossing film of all time upon its release.",
+      "month": 6,
+      "day": 11,
+      "source": "https://en.wikipedia.org/wiki/Extra-Terrestrial"
+    },
+    {
+      "text": "Doctor Who first aired on BBC Television on November 23, 1963, making it the longest-running sci-fi TV series in history.",
+      "month": 11,
+      "day": 23,
+      "source": "https://en.wikipedia.org/wiki/Doctor_Who"
+    },
+    {
+      "text": "The DeLorean time machine in Back to the Future was originally scripted as a refrigerator, but Spielberg worried kids might climb into fridges.",
+      "source": "https://en.wikipedia.org/wiki/DeLorean_time_machine_in_Back_to_the_Future"
+    },
+    {
+      "text": "George Lucas funded the entire production of The Empire Strikes Back (1980) himself after the success of the original Star Wars.",
+      "source": "https://en.wikipedia.org/wiki/Empire_Strikes_Back"
+    },
+    {
+      "text": "Planet of the Apes (1968) featured one of cinema's most iconic twist endings, conceived by Rod Serling of Twilight Zone fame.",
+      "source": "https://en.wikipedia.org/wiki/Apes"
+    },
+    {
+      "text": "Industrial Light & Magic (ILM) was founded by George Lucas in 1975 specifically to create the visual effects for Star Wars.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Industrial_Light_%26_Magic_(ILM)"
+    },
+    {
+      "text": "The Twilight Zone, created by Rod Serling, ran for five seasons from 1959 to 1964 and produced 156 episodes.",
+      "source": "https://en.wikipedia.org/wiki/Twilight_Zone"
+    },
+    {
+      "text": "Metropolis (1927), directed by Fritz Lang, is considered the first feature-length sci-fi film and cost roughly 5 million Reichsmarks to produce.",
+      "source": "https://en.wikipedia.org/wiki/Metropolis"
+    },
+    {
+      "text": "Denis Villeneuve's Arrival (2016) is based on Ted Chiang's novella 'Story of Your Life,' published in 1998.",
+      "source": "https://en.wikipedia.org/wiki/Denis_Villeneuve%27s_Arrival"
+    },
+    {
+      "text": "The phrase 'May the Force be with you' from Star Wars has become one of the most quoted lines in film history.",
+      "source": "https://en.wikipedia.org/wiki/phrase_%27May_the_Force_be_with_you%27_from_Star_Wars"
+    },
+    {
+      "text": "Jurassic Park (1993) used a combination of Stan Winston's animatronic dinosaurs and ILM's CGI, totaling only about 15 minutes of dinosaur screen time.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Jurassic_Park"
+    },
+    {
+      "text": "Christopher Nolan's Inception (2010) took nearly a decade to develop, as Nolan felt he needed more filmmaking experience to execute the concept.",
+      "source": "https://en.wikipedia.org/wiki/Christopher_Nolan%27s_Inception"
+    },
+    {
+      "text": "The X-Files premiered on Fox on September 10, 1993, and ran for 11 seasons over 25 years.",
+      "month": 9,
+      "day": 10,
+      "source": "https://en.wikipedia.org/wiki/X-Files_premiered_on_Fox_on_September_10%2C_1993%2C_and"
+    },
+    {
+      "text": "Star Wars: A New Hope was released on May 25, 1977, in just 32 theaters across the United States.",
+      "month": 5,
+      "day": 25,
+      "source": "https://en.wikipedia.org/wiki/Star_Wars:_A_New_Hope"
+    },
+    {
+      "text": "Forbidden Planet (1956) was the first sci-fi film to depict humans traveling in a faster-than-light starship of their own making.",
+      "source": "https://en.wikipedia.org/wiki/Forbidden_Planet"
+    },
+    {
+      "text": "The Terminator's iconic line 'I'll be back' was almost changed to 'I'll come back' because Arnold Schwarzenegger had difficulty with contractions.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Terminator%27s_iconic_line_%27I%27ll_be_back"
+    },
+    {
+      "text": "Philip K. Dick's novel 'Do Androids Dream of Electric Sheep?' served as the basis for Blade Runner.",
+      "source": "https://en.wikipedia.org/wiki/Philip_K._Dick%27s"
+    },
+    {
+      "text": "The Expanse TV series was saved from cancellation by Amazon after a massive fan campaign, including hiring a plane to fly a banner over Amazon Studios.",
+      "source": "https://en.wikipedia.org/wiki/Expanse_TV_series"
+    },
+    {
+      "text": "Avatar (2009) held the record as the highest-grossing film of all time for over a decade, earning nearly $2.9 billion worldwide.",
+      "source": "https://en.wikipedia.org/wiki/Avatar"
+    },
+    {
+      "text": "Stanley Kubrick had the sets for 2001: A Space Odyssey destroyed after filming to prevent them from being reused in other productions.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Stanley_Kubrick"
+    },
+    {
+      "text": "Battlestar Galactica (2004 reboot) was praised for using sci-fi as allegory for post-9/11 American politics and the War on Terror.",
+      "source": "https://en.wikipedia.org/wiki/Battlestar_Galactica_(2004_reboot)"
+    },
+    {
+      "text": "Back to the Future was released on July 3, 1985, and became the highest-grossing film of that year.",
+      "month": 7,
+      "day": 3,
+      "source": "https://en.wikipedia.org/wiki/Back_to_the_Future"
+    },
+    {
+      "text": "Isaac Asimov's 'Foundation' series, spanning seven novels, was finally adapted as a TV series by Apple TV+ in 2021.",
+      "source": "https://en.wikipedia.org/wiki/Isaac_Asimov%27s_%27Foundation%27_series%2C_spanning_seven_novels"
+    },
+    {
+      "text": "The lightsaber sound effect in Star Wars was created by sound designer Ben Burtt from the hum of a film projector and interference from a TV set.",
+      "source": "https://en.wikipedia.org/wiki/lightsaber_sound_effect_in_Star_Wars"
+    },
+    {
+      "text": "Westworld, originally a 1973 film written and directed by Michael Crichton, was rebooted as an HBO series in 2016.",
+      "source": "https://en.wikipedia.org/wiki/Westworld%2C_originally_a_1973_film_written_and_directed_by_Michael_Crichton"
+    },
+    {
+      "text": "Close Encounters of the Third Kind (1977) used the five-note musical motif as a universal communication tool, composed by John Williams.",
+      "source": "https://en.wikipedia.org/wiki/Third_Kind"
+    },
+    {
+      "text": "The original Blade Runner has seven different cuts, including the theatrical, director's, and final cuts.",
+      "source": "https://en.wikipedia.org/wiki/original_Blade_Runner"
+    },
+    {
+      "text": "H.G. Wells published 'The War of the Worlds' in 1898, and Orson Welles' 1938 radio adaptation reportedly caused mass panic.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/H.G._Wells"
+    },
+    {
+      "text": "The Alien franchise has grossed over $1.6 billion worldwide across its theatrical releases.",
+      "source": "https://en.wikipedia.org/wiki/Alien_franchise"
+    },
+    {
+      "text": "Black Mirror creator Charlie Brooker named the show after the dark, reflective screens of phones, tablets, and computers.",
+      "source": "https://en.wikipedia.org/wiki/Black_Mirror_creator_Charlie_Brooker"
+    },
+    {
+      "text": "The Empire Strikes Back was released on May 21, 1980, and is frequently ranked as the greatest sequel ever made.",
+      "month": 5,
+      "day": 21,
+      "source": "https://en.wikipedia.org/wiki/Empire_Strikes_Back"
+    },
+    {
+      "text": "Dune (2021) by Denis Villeneuve was filmed across locations in Jordan, Abu Dhabi, Budapest, and Norway.",
+      "source": "https://en.wikipedia.org/wiki/Dune"
+    },
+    {
+      "text": "Arthur C. Clarke co-wrote the screenplay for 2001: A Space Odyssey with Stanley Kubrick, simultaneously developing his novel of the same name.",
+      "source": "https://en.wikipedia.org/wiki/Arthur_C._Clarke"
+    },
+    {
+      "text": "Star Trek's Uhura, played by Nichelle Nichols, was one of the first Black women to hold a major role on American network television.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Star_Trek%27s_Uhura%2C_played_by_Nichelle_Nichols"
+    },
+    {
+      "text": "The Thing (1982) by John Carpenter was initially panned by critics but later gained recognition as one of the greatest horror-sci-fi hybrids ever made.",
+      "source": "https://en.wikipedia.org/wiki/Thing"
+    },
+    {
+      "text": "Stranger Things, set in the 1980s, drew heavy inspiration from the works of Steven Spielberg, John Carpenter, and Stephen King.",
+      "source": "https://en.wikipedia.org/wiki/Stranger_Things"
+    },
+    {
+      "text": "The Terminator (1984) was made on a modest budget of $6.4 million and grossed over $78 million worldwide.",
+      "source": "https://en.wikipedia.org/wiki/Terminator"
+    },
+    {
+      "text": "ILM created the first fully computer-generated main character in a live-action film for Young Sherlock Holmes (1985).",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Young_Sherlock_Holmes"
+    },
+    {
+      "text": "Ridley Scott originally envisioned Alien as a low-budget B-movie before the success of Star Wars proved audiences wanted big-budget sci-fi.",
+      "source": "https://en.wikipedia.org/wiki/Ridley_Scott"
+    },
+    {
+      "text": "Solaris (1972), directed by Andrei Tarkovsky, is considered one of the greatest science fiction films ever made and runs nearly three hours.",
+      "source": "https://en.wikipedia.org/wiki/Solaris"
+    },
+    {
+      "text": "The Matrix was released on March 31, 1999, and earned over $460 million worldwide.",
+      "month": 3,
+      "day": 31,
+      "source": "https://en.wikipedia.org/wiki/Matrix"
+    },
+    {
+      "text": "James Cameron's Avatar used performance capture technology that tracked actors' facial expressions in real time for the Na'vi characters.",
+      "source": "https://en.wikipedia.org/wiki/James_Cameron%27s_Avatar"
+    },
+    {
+      "text": "The cyberpunk genre in film was largely defined by Blade Runner's neon-soaked, rain-drenched vision of future Los Angeles.",
+      "source": "https://en.wikipedia.org/wiki/cyberpunk_genre_in_film"
+    },
+    {
+      "text": "Star Trek: The Next Generation premiered in syndication on September 28, 1987, and ran for seven seasons.",
+      "month": 9,
+      "day": 28,
+      "source": "https://en.wikipedia.org/wiki/Star_Trek:_The_Next_Generation_premiered_in_syndication_on_September_28%2C_1987%2C_and"
+    },
+    {
+      "text": "Christopher Nolan's Interstellar (2014) employed theoretical physicist Kip Thorne as a scientific consultant, whose equations produced the film's black hole visuals.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Christopher_Nolan%27s_Interstellar"
+    },
+    {
+      "text": "George Lucas originally wanted to make a Flash Gordon movie but couldn't secure the rights, leading him to create Star Wars instead.",
+      "source": "https://en.wikipedia.org/wiki/George_Lucas"
+    },
+    {
+      "text": "The Day the Earth Stood Still (1951) was one of the first sci-fi films to deliver an anti-war message during the Cold War era.",
+      "source": "https://en.wikipedia.org/wiki/Earth_Stood_Still"
+    },
+    {
+      "text": "Alien was released on May 25, 1979, with the memorable tagline 'In space, no one can hear you scream.'",
+      "month": 5,
+      "day": 25,
+      "source": "https://en.wikipedia.org/wiki/Alien"
+    },
+    {
+      "text": "The Jurassic Park T-Rex animatronic weighed about 13,000 pounds and was so powerful that it sometimes malfunctioned and moved on its own, terrifying the crew.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Jurassic_Park_T-Rex_animatronic_weighed_about_13%2C000_pounds_and"
+    },
+    {
+      "text": "Philip K. Dick's works have been adapted into numerous films including Total Recall, Minority Report, A Scanner Darkly, and The Adjustment Bureau.",
+      "source": "https://en.wikipedia.org/wiki/Philip_K._Dick%27s_works"
+    },
+    {
+      "text": "Star Wars has generated over $70 billion in total franchise revenue including films, merchandise, theme parks, and licensing.",
+      "source": "https://en.wikipedia.org/wiki/Star_Wars"
+    },
+    {
+      "text": "Blade Runner 2049 (2017) by Denis Villeneuve was a critical success but underperformed at the box office, earning $259 million against a $150 million budget.",
+      "source": "https://en.wikipedia.org/wiki/Blade_Runner_2049"
+    },
+    {
+      "text": "The original Star Trek series was canceled after three seasons due to low ratings but found massive success in syndication reruns.",
+      "source": "https://en.wikipedia.org/wiki/original_Star_Trek_series"
+    },
+    {
+      "text": "Mad Max: Fury Road (2015) won six Academy Awards despite being a post-apocalyptic action film.",
+      "source": "https://en.wikipedia.org/wiki/Mad_Max:_Fury_Road"
+    },
+    {
+      "text": "District 9 (2009) by Neill Blomkamp was produced for only $30 million and earned $210 million, earning a Best Picture Oscar nomination.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/District_9_(2009)_by_Neill_Blomkamp"
+    },
+    {
+      "text": "The Twilight Zone episode 'Time Enough at Last' featuring Burgess Meredith is one of the most iconic episodes in television history.",
+      "source": "https://en.wikipedia.org/wiki/Twilight_Zone_episode_%27Time_Enough_at_Last%27_featuring_Burgess_Meredith"
+    },
+    {
+      "text": "Interstellar was released on November 7, 2014, and its depiction of a black hole called Gargantua led to an actual scientific paper.",
+      "month": 11,
+      "day": 7,
+      "source": "https://en.wikipedia.org/wiki/Interstellar"
+    },
+    {
+      "text": "John Carpenter's The Thing used groundbreaking practical effects created by Rob Bottin, who was only 22 years old during production.",
+      "source": "https://en.wikipedia.org/wiki/John_Carpenter%27s_The_Thing_used_groundbreaking_practical_effects"
+    },
+    {
+      "text": "The space opera subgenre encompasses sprawling narratives set across galaxies, with Star Wars being its most commercially successful example.",
+      "source": "https://en.wikipedia.org/wiki/space_opera_subgenre_encompasses_sprawling_narratives"
+    },
+    {
+      "text": "2001: A Space Odyssey was released on April 3, 1968, and initially received mixed reviews before becoming a cultural landmark.",
+      "month": 4,
+      "day": 3,
+      "source": "https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey"
+    },
+    {
+      "text": "The Mandalorian (2019) revitalized the Star Wars franchise on Disney+ and introduced 'Baby Yoda,' becoming a global pop culture phenomenon.",
+      "source": "https://en.wikipedia.org/wiki/Mandalorian"
+    },
+    {
+      "text": "Keanu Reeves trained in martial arts for four months before filming The Matrix, learning kung fu, jiu-jitsu, and wire fighting.",
+      "source": "https://en.wikipedia.org/wiki/Keanu_Reeves"
+    },
+    {
+      "text": "Steven Spielberg directed both Close Encounters of the Third Kind and Jurassic Park, two of the most beloved sci-fi films ever made.",
+      "source": "https://en.wikipedia.org/wiki/Steven_Spielberg"
+    },
+    {
+      "text": "The motion capture technology used in the Planet of the Apes reboot trilogy earned Andy Serkis widespread acclaim for his performance as Caesar.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/motion_capture_technology_used_in_the_Planet_of_the_Apes_reboot_trilogy"
+    },
+    {
+      "text": "Alien's chestburster scene was filmed in one take with real animal organs, and the cast's horrified reactions were largely genuine.",
+      "source": "https://en.wikipedia.org/wiki/Alien%27s_chestburster_scene"
+    },
+    {
+      "text": "The Wachowskis required all main cast members of The Matrix to read Jean Baudrillard's 'Simulacra and Simulation' before filming.",
+      "source": "https://en.wikipedia.org/wiki/Wachowskis"
+    },
+    {
+      "text": "Star Trek IV: The Voyage Home (1986) was the most commercially successful of the original cast films, partly due to its comedic tone.",
+      "source": "https://en.wikipedia.org/wiki/Star_Trek_IV:_The_Voyage_Home"
+    },
+    {
+      "text": "Arrival (2016) was nominated for eight Academy Awards and won Best Sound Editing.",
+      "source": "https://en.wikipedia.org/wiki/Arrival"
+    },
+    {
+      "text": "Dune author Frank Herbert originally envisioned his novel after studying the ecological impact of sand dunes in Florence, Oregon.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Frank_Herbert"
+    },
+    {
+      "text": "Return of the Jedi was released on May 25, 1983, completing the original Star Wars trilogy.",
+      "month": 5,
+      "day": 25,
+      "source": "https://en.wikipedia.org/wiki/Return_of_the_Jedi"
+    },
+    {
+      "text": "The dystopian subgenre in sci-fi film includes classics like A Clockwork Orange, THX 1138, Equilibrium, and The Hunger Games.",
+      "source": "https://en.wikipedia.org/wiki/dystopian_subgenre_in_sci-fi_film"
+    },
+    {
+      "text": "Terminator 2: Judgment Day (1991) was the most expensive film ever made at the time, with a budget of roughly $100 million.",
+      "source": "https://en.wikipedia.org/wiki/Terminator_2:_Judgment_Day"
+    },
+    {
+      "text": "Black Mirror's 'San Junipero' episode won two Emmy Awards and is frequently cited as one of the greatest TV episodes of the 2010s.",
+      "source": "https://en.wikipedia.org/wiki/Black_Mirror%27s_%27San_Junipero%27_episode"
+    },
+    {
+      "text": "The practical miniature models of Star Destroyers in the original Star Wars trilogy were built at scales ranging from 3 to 8 feet long.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/practical_miniature_models_of_Star_Destroyers_in_the_original_Star_Wars_trilogy"
+    },
+    {
+      "text": "Denis Villeneuve considers Blade Runner 2049 the most challenging film of his career due to following Ridley Scott's legacy.",
+      "source": "https://en.wikipedia.org/wiki/Denis_Villeneuve"
+    },
+    {
+      "text": "The first Star Trek film, Star Trek: The Motion Picture (1979), was heavily influenced by 2001: A Space Odyssey in its pacing and visual style.",
+      "source": "https://en.wikipedia.org/wiki/Star_Trek:_The_Motion_Picture"
+    },
+    {
+      "text": "Gravity (2013) won seven Academy Awards, including Best Director for Alfonso Cuarón, and pioneered new techniques in zero-gravity filmmaking.",
+      "source": "https://en.wikipedia.org/wiki/Gravity"
+    },
+    {
+      "text": "E.T. the Extra-Terrestrial's face was modeled partly on Albert Einstein, Carl Sandburg, and a pug dog.",
+      "source": "https://en.wikipedia.org/wiki/E.T._the_Extra-Terrestrial%27s_face"
+    },
+    {
+      "text": "The Expanse is based on a series of novels by James S.A. Corey, a pen name for authors Daniel Abraham and Ty Franck.",
+      "source": "https://en.wikipedia.org/wiki/Expanse"
+    },
+    {
+      "text": "James Cameron held his breath underwater for extended periods while directing The Abyss (1989), and the shoot was so grueling the cast called it 'The Abuse.'",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Abyss"
+    },
+    {
+      "text": "Inception's spinning top ending remains one of cinema's most debated final shots, with Nolan intentionally leaving it ambiguous.",
+      "source": "https://en.wikipedia.org/wiki/Sci-Fi_Movies"
+    },
+    {
+      "text": "The original Godzilla (1954) was created as a metaphor for the atomic bombings of Hiroshima and Nagasaki.",
+      "source": "https://en.wikipedia.org/wiki/Godzilla"
+    },
+    {
+      "text": "Close Encounters of the Third Kind was released on November 16, 1977.",
+      "month": 11,
+      "day": 16,
+      "source": "https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind"
+    },
+    {
+      "text": "Isaac Asimov coined the term 'robotics' in his 1941 short story 'Liar!' and later established the Three Laws of Robotics.",
+      "source": "https://en.wikipedia.org/wiki/Isaac_Asimov"
+    },
+    {
+      "text": "The Star Wars prequel trilogy (1999–2005) was among the first major productions to use extensive digital filmmaking and virtual sets.",
+      "source": "https://en.wikipedia.org/wiki/Star_Wars_prequel_trilogy_(1999%E2%80%932005)"
+    },
+    {
+      "text": "Blade Runner's 'tears in rain' monologue was partially improvised by actor Rutger Hauer on set.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Blade_Runner%27s_%27tears_in_rain%27_monologue"
+    },
+    {
+      "text": "Ex Machina (2014) was writer-director Alex Garland's directorial debut and won the Academy Award for Best Visual Effects.",
+      "source": "https://en.wikipedia.org/wiki/Ex_Machina"
+    },
+    {
+      "text": "Doctor Who has featured over fifteen actors in the title role, with each incarnation referred to as a 'regeneration.'",
+      "source": "https://en.wikipedia.org/wiki/Doctor_Who"
+    },
+    {
+      "text": "Avatar: The Way of Water (2022) used underwater performance capture, requiring the cast to hold their breath for extended takes.",
+      "source": "https://en.wikipedia.org/wiki/Water"
+    },
+    {
+      "text": "Predator (1987) originally had a creature suit played by Jean-Claude Van Damme, but the design was scrapped and replaced with Stan Winston's iconic creation.",
+      "source": "https://en.wikipedia.org/wiki/Predator"
+    },
+    {
+      "text": "The time travel subgenre includes landmarks like The Time Machine (1960), 12 Monkeys (1995), Looper (2012), and Tenet (2020).",
+      "source": "https://en.wikipedia.org/wiki/Time_Machine"
+    },
+    {
+      "text": "Star Wars: The Force Awakens opened on December 18, 2015, earning $247 million in its domestic opening weekend.",
+      "month": 12,
+      "day": 18,
+      "source": "https://en.wikipedia.org/wiki/Star_Wars:_The_Force_Awakens"
+    },
+    {
+      "text": "The miniature models used for the Nostromo ship in Alien were incredibly detailed, with tiny ladders, pipes, and weathering effects.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/miniature_models_used_for_the_Nostromo_ship_in_Alien"
+    },
+    {
+      "text": "Christopher Nolan filmed Tenet (2020) across seven countries using mostly practical effects, including crashing a real Boeing 747 into a building.",
+      "source": "https://en.wikipedia.org/wiki/Tenet"
+    },
+    {
+      "text": "Battlestar Galactica's reboot series used handheld camera work and documentary-style photography, unusual for sci-fi television at the time.",
+      "source": "https://en.wikipedia.org/wiki/Battlestar_Galactica%27s"
+    },
+    {
+      "text": "The Phantom Menace (1999) introduced Jar Jar Binks, one of the most controversial characters in sci-fi film history.",
+      "source": "https://en.wikipedia.org/wiki/Phantom_Menace"
+    },
+    {
+      "text": "Annihilation (2018), directed by Alex Garland and based on Jeff VanderMeer's novel, was praised for its surreal and cerebral approach to sci-fi horror.",
+      "source": "https://en.wikipedia.org/wiki/Annihilation"
+    },
+    {
+      "text": "Steven Spielberg's Minority Report (2002) assembled a think tank of futurists to design its vision of 2054, many predictions of which have come true.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Steven_Spielberg%27s_Minority_Report"
+    },
+    {
+      "text": "The iconic facehugger from Alien was operated by puppeteers, and its tail was an actual sheep intestine.",
+      "source": "https://en.wikipedia.org/wiki/iconic_facehugger_from_Alien"
+    },
+    {
+      "text": "Star Trek conventions began in 1972 in New York City, with organizers expecting 500 fans but drawing over 3,000.",
+      "source": "https://en.wikipedia.org/wiki/Star_Trek"
+    },
+    {
+      "text": "Ridley Scott returned to the Alien franchise with Prometheus (2012) and Alien: Covenant (2017) to explore the origins of the xenomorph.",
+      "source": "https://en.wikipedia.org/wiki/Prometheus"
+    },
+    {
+      "text": "Jurassic Park was released on June 11, 1993, and became the highest-grossing film of all time until Titanic surpassed it.",
+      "month": 6,
+      "day": 11,
+      "source": "https://en.wikipedia.org/wiki/Jurassic_Park"
+    },
+    {
+      "text": "The Hitchhiker's Guide to the Galaxy originated as a BBC Radio series in 1978 before becoming a book, TV show, and film.",
+      "source": "https://en.wikipedia.org/wiki/Hitchhiker%27s_Guide_to_the_Galaxy"
+    },
+    {
+      "text": "War of the Worlds (2005), directed by Steven Spielberg, was filmed in just 72 days.",
+      "source": "https://en.wikipedia.org/wiki/Worlds"
+    },
+    {
+      "text": "The post-apocalyptic subgenre ranges from The Road (2009) and Children of Men (2006) to lighter fare like WALL-E (2008).",
+      "source": "https://en.wikipedia.org/wiki/Road"
+    },
+    {
+      "text": "Terminator 2's liquid metal T-1000 required 35 people from ILM working for 10 months to create its groundbreaking CGI.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Terminator_2"
+    },
+    {
+      "text": "Sigourney Weaver's Ellen Ripley in Alien is widely considered one of the most important female action heroes in cinema history.",
+      "source": "https://en.wikipedia.org/wiki/Sigourney_Weaver%27s_Ellen_Ripley_in_Alien"
+    },
+    {
+      "text": "The original Planet of the Apes (1968) makeup by John Chambers won an honorary Academy Award, the first for makeup effects.",
+      "source": "https://en.wikipedia.org/wiki/Apes"
+    },
+    {
+      "text": "Star Trek: Deep Space Nine pushed the franchise into serialized storytelling, a departure from the episodic format of its predecessors.",
+      "source": "https://en.wikipedia.org/wiki/Star_Trek:_Deep_Space_Nine"
+    },
+    {
+      "text": "Arrival's linguist protagonist was unusual for blockbuster sci-fi, centering communication and empathy over action.",
+      "source": "https://en.wikipedia.org/wiki/Arrival%27s_linguist_protagonist"
+    },
+    {
+      "text": "George Lucas sold Lucasfilm to Disney in 2012 for $4.05 billion, including the Star Wars and Indiana Jones franchises.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/George_Lucas"
+    },
+    {
+      "text": "The Fifth Element (1997) directed by Luc Besson featured costumes by Jean Paul Gaultier, blending high fashion with futuristic design.",
+      "source": "https://en.wikipedia.org/wiki/Fifth_Element"
+    },
+    {
+      "text": "Blade Runner was released on June 25, 1982, opening the same weekend as E.T., which significantly impacted its box office performance.",
+      "month": 6,
+      "day": 25,
+      "source": "https://en.wikipedia.org/wiki/Blade_Runner"
+    },
+    {
+      "text": "Arthur C. Clarke's 'Childhood's End' was published in 1953 and adapted as a Syfy miniseries in 2015.",
+      "source": "https://en.wikipedia.org/wiki/Arthur_C._Clarke%27s_%27Childhood%27s_End"
+    },
+    {
+      "text": "Christopher Nolan shot IMAX sequences for Interstellar using cameras strapped to the nose of a Learjet.",
+      "source": "https://en.wikipedia.org/wiki/Christopher_Nolan"
+    },
+    {
+      "text": "The Matrix introduced mainstream audiences to concepts from philosophy and cyberpunk literature, including Cartesian skepticism and simulated reality.",
+      "source": "https://en.wikipedia.org/wiki/Matrix"
+    },
+    {
+      "text": "Alien 3 (1992) was David Fincher's directorial debut, though he largely disowned the film due to extensive studio interference.",
+      "source": "https://en.wikipedia.org/wiki/Alien_3_(1992)"
+    },
+    {
+      "text": "Stranger Things premiered on Netflix on July 15, 2016, and became one of the platform's most-watched original series.",
+      "month": 7,
+      "day": 15,
+      "source": "https://en.wikipedia.org/wiki/Stranger_Things_premiered_on_Netflix_on_July_15%2C_2016%2C_and"
+    },
+    {
+      "text": "The Mandalorian used ILM's StageCraft technology, projecting real-time environments on massive LED screens instead of green screens.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Mandalorian"
+    },
+    {
+      "text": "Total Recall (1990) starring Arnold Schwarzenegger was based on Philip K. Dick's short story 'We Can Remember It for You Wholesale.'",
+      "source": "https://en.wikipedia.org/wiki/Total_Recall"
+    },
+    {
+      "text": "Star Trek's transporter was invented as a budget-saving device because landing a starship every episode would have been too expensive to film.",
+      "source": "https://en.wikipedia.org/wiki/Star_Trek%27s_transporter"
+    },
+    {
+      "text": "Denis Villeneuve's Dune: Part Two (2024) was both a critical and commercial success, earning over $700 million worldwide.",
+      "source": "https://en.wikipedia.org/wiki/Denis_Villeneuve%27s_Dune:_Part_Two"
+    },
+    {
+      "text": "Forbidden Planet (1956) featured Robby the Robot, who became one of sci-fi cinema's most recognizable icons and appeared in numerous later productions.",
+      "source": "https://en.wikipedia.org/wiki/Forbidden_Planet"
+    },
+    {
+      "text": "The Alien suit worn by Bolaji Badejo was so tight and uncomfortable that he could only wear it for short periods between takes.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Alien_suit_worn_by_Bolaji_Badejo"
+    },
+    {
+      "text": "Andrei Tarkovsky's Stalker (1979) was filmed in Estonia near a chemical plant, and some crew members later developed health issues possibly linked to the toxic location.",
+      "source": "https://en.wikipedia.org/wiki/Andrei_Tarkovsky%27s_Stalker"
+    },
+    {
+      "text": "Back to the Future Part II accurately predicted several technologies, including video calling, wearable tech, and biometric payment systems.",
+      "source": "https://en.wikipedia.org/wiki/Back_to_the_Future_Part_II"
+    },
+    {
+      "text": "The Terminator franchise has earned over $2 billion at the worldwide box office across all its installments.",
+      "source": "https://en.wikipedia.org/wiki/Terminator_franchise"
+    },
+    {
+      "text": "Moon (2009), directed by Duncan Jones, was made for only $5 million and starred Sam Rockwell in a dual role.",
+      "source": "https://en.wikipedia.org/wiki/Moon"
+    },
+    {
+      "text": "H.G. Wells' 'The Time Machine' (1895) is considered one of the earliest works of science fiction literature.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/H.G._Wells%27_%27The_Time_Machine%27_(1895)"
+    },
+    {
+      "text": "James Cameron's Aliens (1986) shifted the franchise from horror to action-military sci-fi, introducing Colonial Marines and the pulse rifle.",
+      "source": "https://en.wikipedia.org/wiki/James_Cameron%27s_Aliens"
+    },
+    {
+      "text": "The X-Files' tagline 'The Truth Is Out There' became a defining catchphrase of 1990s pop culture.",
+      "source": "https://en.wikipedia.org/wiki/X-Files%27_tagline_%27The_Truth"
+    },
+    {
+      "text": "2001: A Space Odyssey's HAL 9000 computer was voiced by Douglas Rain, who recorded all his dialogue in a single day.",
+      "source": "https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey%27s_HAL_9000_computer"
+    },
+    {
+      "text": "Avatar was released on December 18, 2009, and James Cameron had waited over a decade for the technology to catch up with his vision.",
+      "month": 12,
+      "day": 18,
+      "source": "https://en.wikipedia.org/wiki/Avatar"
+    },
+    {
+      "text": "Edge of Tomorrow (2014) was based on the Japanese light novel 'All You Need Is Kill' by Hiroshi Sakurazaka.",
+      "source": "https://en.wikipedia.org/wiki/Tomorrow"
+    },
+    {
+      "text": "Star Wars composer John Williams has been nominated for 54 Academy Awards, more than any other living person.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Star_Wars_composer_John_Williams"
+    },
+    {
+      "text": "The Matrix Reloaded and The Matrix Revolutions were filmed simultaneously and released months apart in 2003.",
+      "source": "https://en.wikipedia.org/wiki/Matrix_Reloaded_and_The_Matrix_Revolutions"
+    },
+    {
+      "text": "Westworld (HBO) was partially filmed at Melody Ranch, the same location used for classic Western TV shows.",
+      "source": "https://en.wikipedia.org/wiki/Westworld_(HBO)"
+    },
+    {
+      "text": "Under the Skin (2013) starring Scarlett Johansson featured hidden camera footage of real, unsuspecting people in Glasgow.",
+      "source": "https://en.wikipedia.org/wiki/Skin"
+    },
+    {
+      "text": "The Terminator was released on October 26, 1984.",
+      "month": 10,
+      "day": 26,
+      "source": "https://en.wikipedia.org/wiki/Terminator"
+    },
+    {
+      "text": "Invasion of the Body Snatchers (1956) is widely interpreted as a Cold War allegory about communist infiltration and conformity.",
+      "source": "https://en.wikipedia.org/wiki/Body_Snatchers"
+    },
+    {
+      "text": "Star Trek: Voyager (1995) featured the franchise's first female captain as the lead, with Kate Mulgrew as Captain Janeway.",
+      "source": "https://en.wikipedia.org/wiki/Star_Trek:_Voyager"
+    },
+    {
+      "text": "The practical snow effects in The Thing (1982) were created using a combination of shaved ice and actual filming in British Columbia.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Thing"
+    },
+    {
+      "text": "Nolan's Interstellar features a tesseract scene inspired by real theoretical physics concepts of higher-dimensional space.",
+      "source": "https://en.wikipedia.org/wiki/Nolan%27s_Interstellar"
+    },
+    {
+      "text": "Elysium (2013) and Chappie (2015) continued Neill Blomkamp's exploration of social inequality through sci-fi allegory.",
+      "source": "https://en.wikipedia.org/wiki/Elysium"
+    },
+    {
+      "text": "The original Godzilla franchise from Toho Studios spans over 30 films produced between 1954 and 2024.",
+      "source": "https://en.wikipedia.org/wiki/Toho_Studios"
+    },
+    {
+      "text": "Eternal Sunshine of the Spotless Mind (2004) blended sci-fi with romance, earning Charlie Kaufman an Oscar for Best Original Screenplay.",
+      "source": "https://en.wikipedia.org/wiki/Spotless_Mind"
+    },
+    {
+      "text": "The Star Wars Holiday Special (1978) aired once on CBS and was so poorly received that George Lucas tried to have every copy destroyed.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Star_Wars_Holiday_Special"
+    },
+    {
+      "text": "Children of Men (2006) by Alfonso Cuarón featured several stunning long-take action sequences, some lasting over six minutes.",
+      "source": "https://en.wikipedia.org/wiki/Men"
+    },
+    {
+      "text": "Star Trek: The Wrath of Khan (1982) is widely regarded as the best Star Trek film and introduced the Kobayashi Maru no-win scenario.",
+      "source": "https://en.wikipedia.org/wiki/Khan"
+    },
+    {
+      "text": "James Cameron discovered the wreck of the Titanic while developing deep-sea filming technology originally intended for sci-fi projects.",
+      "source": "https://en.wikipedia.org/wiki/James_Cameron"
+    },
+    {
+      "text": "The Martian (2015) was praised by NASA for its scientific accuracy and earned seven Academy Award nominations.",
+      "source": "https://en.wikipedia.org/wiki/Martian"
+    },
+    {
+      "text": "The original Alien script by Dan O'Bannon was titled 'Star Beast' before being renamed.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/original_Alien_script_by_Dan_O%27Bannon"
+    },
+    {
+      "text": "Inception was released on July 16, 2010, and earned over $836 million worldwide.",
+      "month": 7,
+      "day": 16,
+      "source": "https://en.wikipedia.org/wiki/Inception"
+    },
+    {
+      "text": "Firefly (2002), created by Joss Whedon, lasted only 14 episodes but developed a cult following that led to the film Serenity (2005).",
+      "source": "https://en.wikipedia.org/wiki/Firefly"
+    },
+    {
+      "text": "Ridley Scott's visual style in Blade Runner was heavily influenced by the work of French comic artist Moebius (Jean Giraud).",
+      "source": "https://en.wikipedia.org/wiki/Ridley_Scott%27s_visual_style_in_Blade_Runner"
+    },
+    {
+      "text": "The Star Wars cantina scene in A New Hope was partially filmed at Elstree Studios in England with a mix of masks and puppets.",
+      "source": "https://en.wikipedia.org/wiki/Star_Wars_cantina_scene_in_A_New_Hope"
+    },
+    {
+      "text": "Philip K. Dick sadly passed away just months before Blade Runner's theatrical release and never saw the completed film.",
+      "source": "https://en.wikipedia.org/wiki/Philip_K._Dick"
+    },
+    {
+      "text": "A.I. Artificial Intelligence (2001) was a project Stanley Kubrick developed for years before passing it to Steven Spielberg.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/A.I._Artificial_Intelligence"
+    },
+    {
+      "text": "The CGI water tentacle in The Abyss (1989) was a landmark achievement that paved the way for the T-1000 in Terminator 2.",
+      "source": "https://en.wikipedia.org/wiki/Abyss"
+    },
+    {
+      "text": "Snowpiercer (2013), directed by Bong Joon-ho, is based on the French graphic novel 'Le Transperceneige.'",
+      "source": "https://en.wikipedia.org/wiki/Snowpiercer"
+    },
+    {
+      "text": "Star Wars merchandise generated more profit than the films themselves during the original trilogy era.",
+      "source": "https://en.wikipedia.org/wiki/Star_Wars"
+    },
+    {
+      "text": "Coherence (2013) was filmed over five nights with no script, with the director passing notes to actors between scenes.",
+      "source": "https://en.wikipedia.org/wiki/Coherence"
+    },
+    {
+      "text": "The original Westworld (1973) was the first feature film to use 2D computer-generated imagery.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Westworld"
+    },
+    {
+      "text": "Dune: Part One was released on October 22, 2021, simultaneously in theaters and on HBO Max.",
+      "month": 10,
+      "day": 22,
+      "source": "https://en.wikipedia.org/wiki/Dune:_Part_One"
+    },
+    {
+      "text": "The Alien franchise's facehugger was inspired by Francis Bacon's paintings and imagery from parasitic insects.",
+      "source": "https://en.wikipedia.org/wiki/Alien_franchise%27s_facehugger"
+    },
+    {
+      "text": "Dark City (1998) by Alex Proyas explored many of the same simulated reality themes that The Matrix would tackle a year later.",
+      "source": "https://en.wikipedia.org/wiki/Dark_City"
+    },
+    {
+      "text": "Star Trek: Enterprise (2001) was the first Trek series to be canceled due to low ratings since the original series.",
+      "source": "https://en.wikipedia.org/wiki/Star_Trek:_Enterprise"
+    },
+    {
+      "text": "Steven Spielberg created the sound of the Boulder chase in Raiders of the Lost Ark and reused similar Foley techniques in Jurassic Park.",
+      "source": "https://en.wikipedia.org/wiki/Steven_Spielberg"
+    },
+    {
+      "text": "Idiocracy (2006), a satirical dystopian comedy by Mike Judge, was barely marketed by its studio but became a cult classic.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Idiocracy"
+    },
+    {
+      "text": "The lightsaber prop in the original Star Wars was built from the flash handle of a vintage Graflex camera.",
+      "source": "https://en.wikipedia.org/wiki/lightsaber_prop_in_the_original_Star_Wars"
+    },
+    {
+      "text": "Her (2013) directed by Spike Jonze explored artificial intelligence and human connection, winning the Oscar for Best Original Screenplay.",
+      "source": "https://en.wikipedia.org/wiki/Her"
+    },
+    {
+      "text": "Battlestar Galactica's finale aired on March 20, 2009, drawing 2.4 million viewers.",
+      "month": 3,
+      "day": 20,
+      "source": "https://en.wikipedia.org/wiki/Battlestar_Galactica%27s"
+    },
+    {
+      "text": "Contact (1997) was based on Carl Sagan's novel and depicted one of cinema's most scientifically grounded first-contact scenarios.",
+      "source": "https://en.wikipedia.org/wiki/Contact"
+    },
+    {
+      "text": "The massive sandworms in Denis Villeneuve's Dune were designed to look organic and geological, inspired by real desert worm species.",
+      "source": "https://en.wikipedia.org/wiki/massive_sandworms_in_Denis_Villeneuve%27s_Dune"
+    },
+    {
+      "text": "Cloverfield (2008) used found-footage style filming for a giant monster movie, a previously untried combination in mainstream cinema.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Cloverfield"
+    },
+    {
+      "text": "The post-apocalyptic landscape of Mad Max was filmed in the Australian outback, with Fury Road later shifting production to Namibia.",
+      "source": "https://en.wikipedia.org/wiki/post-apocalyptic_landscape_of_Mad_Max"
+    },
+    {
+      "text": "Logan (2017) was the first superhero film nominated for an Academy Award for Best Adapted Screenplay.",
+      "source": "https://en.wikipedia.org/wiki/Logan"
+    },
+    {
+      "text": "Star Trek's Vulcan nerve pinch was invented by Leonard Nimoy, who felt that Spock would use a more logical method than punching.",
+      "source": "https://en.wikipedia.org/wiki/Star_Trek%27s_Vulcan_nerve_pinch"
+    },
+    {
+      "text": "WALL-E (2008) featured almost no dialogue for its first 40 minutes, relying on visual storytelling and sound design.",
+      "source": "https://en.wikipedia.org/wiki/WALL-E"
+    },
+    {
+      "text": "The rotating hallway fight in Inception was achieved with a practical set that actually rotated, with Joseph Gordon-Levitt performing many of his own stunts.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/rotating_hallway_fight_in_Inception"
+    },
+    {
+      "text": "The Fly (1986) directed by David Cronenberg is considered a masterpiece of body horror sci-fi, with Jeff Goldblum's transformation taking five hours of daily makeup.",
+      "source": "https://en.wikipedia.org/wiki/Fly"
+    },
+    {
+      "text": "James Cameron's Titanic (1997) used techniques he refined during sci-fi productions like The Abyss and Terminator 2.",
+      "source": "https://en.wikipedia.org/wiki/James_Cameron%27s_Titanic"
+    },
+    {
+      "text": "Alien: Resurrection (1997) was directed by Jean-Pierre Jeunet, the French director later known for Amélie.",
+      "source": "https://en.wikipedia.org/wiki/Alien:_Resurrection"
+    },
+    {
+      "text": "The Truman Show (1998) is a sci-fi satire that predicted the rise of reality television and surveillance culture.",
+      "source": "https://en.wikipedia.org/wiki/Truman_Show"
+    },
+    {
+      "text": "Star Trek: The Original Series featured the first interracial kiss on American network television between Kirk and Uhura.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Star_Trek:_The_Original_Series"
+    },
+    {
+      "text": "Interstellar's organ score by Hans Zimmer was composed without Zimmer knowing the film's plot—Nolan gave him only a one-page letter about fatherhood.",
+      "source": "https://en.wikipedia.org/wiki/Interstellar%27s_organ_score_by_Hans_Zimmer"
+    },
+    {
+      "text": "The Road (2009), based on Cormac McCarthy's novel, is one of the bleakest post-apocalyptic films ever made.",
+      "source": "https://en.wikipedia.org/wiki/Road"
+    },
+    {
+      "text": "The Thing (1982) was released on June 25, 1982, competing directly with E.T. and Blade Runner.",
+      "month": 6,
+      "day": 25,
+      "source": "https://en.wikipedia.org/wiki/Thing"
+    },
+    {
+      "text": "Primer (2004) was made for only $7,000 and is regarded as one of the most complex time travel films ever created.",
+      "source": "https://en.wikipedia.org/wiki/Primer"
+    },
+    {
+      "text": "Isaac Asimov's 'I, Robot' stories influenced decades of science fiction film, including the 2004 Will Smith adaptation.",
+      "source": "https://en.wikipedia.org/wiki/Isaac_Asimov%27s"
+    },
+    {
+      "text": "George Lucas's first feature film, THX 1138 (1971), was a dystopian sci-fi that foreshadowed many themes he would explore in Star Wars.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/THX_1138"
+    },
+    {
+      "text": "Arrival grossed $203 million worldwide on a budget of $47 million, proving cerebral sci-fi could succeed commercially.",
+      "source": "https://en.wikipedia.org/wiki/Sci-Fi_Movies"
+    },
+    {
+      "text": "The X-Files featured two theatrical films: Fight the Future (1998) and I Want to Believe (2008).",
+      "source": "https://en.wikipedia.org/wiki/Future"
+    },
+    {
+      "text": "Sunshine (2007) directed by Danny Boyle followed a crew reigniting a dying sun and featured a hauntingly beautiful score by John Murphy.",
+      "source": "https://en.wikipedia.org/wiki/Sunshine"
+    },
+    {
+      "text": "The original Robocop (1987) was a sharp satire of American corporate culture disguised as an action-sci-fi film.",
+      "source": "https://en.wikipedia.org/wiki/Robocop"
+    },
+    {
+      "text": "The DeLorean time machine from Back to the Future has become one of the most iconic movie props in history, with replicas selling for hundreds of thousands of dollars.",
+      "source": "https://en.wikipedia.org/wiki/DeLorean_time_machine_from_Back_to_the_Future"
+    },
+    {
+      "text": "Solo: A Star Wars Story performed below expectations at the box office, earning $393 million against a reported $275 million budget.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Solo:_A_Star_Wars_Story"
+    },
+    {
+      "text": "Blade Runner 2049 won Academy Awards for Best Cinematography and Best Visual Effects.",
+      "source": "https://en.wikipedia.org/wiki/Blade_Runner_2049"
+    },
+    {
+      "text": "Doctor Who was revived in 2005 by Russell T Davies with Christopher Eccleston as the Ninth Doctor, introducing the show to a new generation.",
+      "month": 3,
+      "day": 26,
+      "source": "https://en.wikipedia.org/wiki/Doctor_Who"
+    },
+    {
+      "text": "Looper (2012) by Rian Johnson was praised for its original take on time travel and earned $176 million worldwide.",
+      "source": "https://en.wikipedia.org/wiki/Looper"
+    },
+    {
+      "text": "The massive miniature of the Nostromo ship in Alien was approximately 12 feet long and took six months to construct.",
+      "source": "https://en.wikipedia.org/wiki/massive_miniature_of_the_Nostromo_ship_in_Alien"
+    },
+    {
+      "text": "Andrei Tarkovsky believed science fiction should explore the human condition rather than technology, a philosophy evident in both Solaris and Stalker.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Andrei_Tarkovsky"
+    },
+    {
+      "text": "Prometheus (2012) was originally a direct Alien prequel but evolved into its own mythology about the Engineers who created humanity.",
+      "source": "https://en.wikipedia.org/wiki/Prometheus"
+    },
+    {
+      "text": "The Matrix's green-tinted visual palette became so iconic that it defined the look of late-1990s and early-2000s sci-fi films.",
+      "source": "https://en.wikipedia.org/wiki/Matrix%27s_green-tinted_visual_palette"
+    },
+    {
+      "text": "The Iron Giant (1999) was a box office failure but became a beloved animated sci-fi classic through home video.",
+      "source": "https://en.wikipedia.org/wiki/Iron_Giant"
+    },
+    {
+      "text": "Minority Report (2002) depicted gesture-based computing interfaces that directly inspired real-world technology development.",
+      "source": "https://en.wikipedia.org/wiki/Minority_Report"
+    },
+    {
+      "text": "Stanley Kubrick researched artificial intelligence extensively and intended to direct A.I. himself before his death in 1999.",
+      "source": "https://en.wikipedia.org/wiki/Stanley_Kubrick"
+    },
+    {
+      "text": "Dredd (2012) starring Karl Urban was a critical success that failed commercially but found a passionate cult following.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Dredd"
+    },
+    {
+      "text": "Alien was released in 1979 with a production budget of roughly $11 million and earned $203 million at the worldwide box office.",
+      "source": "https://en.wikipedia.org/wiki/Alien"
+    },
+    {
+      "text": "Star Wars: Rogue One (2016) provided the backstory for how the Death Star plans were stolen, leading directly into A New Hope.",
+      "source": "https://en.wikipedia.org/wiki/Star_Wars:_Rogue_One"
+    },
+    {
+      "text": "The practical effects in John Carpenter's The Thing have been analyzed frame-by-frame by effects artists as a masterclass in creature design.",
+      "source": "https://en.wikipedia.org/wiki/practical_effects_in_John_Carpenter%27s_The_Thing"
+    },
+    {
+      "text": "Passengers (2016) spent years on the 'Black List' of best unproduced screenplays in Hollywood before finally being made.",
+      "source": "https://en.wikipedia.org/wiki/Passengers"
+    },
+    {
+      "text": "Jurassic Park was released just months after Spielberg finished filming Schindler's List, and he edited both films simultaneously.",
+      "source": "https://en.wikipedia.org/wiki/Jurassic_Park"
+    },
+    {
+      "text": "Ready Player One (2018) by Steven Spielberg was filled with pop culture references spanning multiple decades of sci-fi and gaming.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Ready_Player_One"
+    },
+    {
+      "text": "The Expanse premiered on Syfy on December 14, 2015, and ran for six seasons across Syfy and Amazon Prime Video.",
+      "month": 12,
+      "day": 14,
+      "source": "https://en.wikipedia.org/wiki/Expanse_premiered_on_Syfy_on_December_14%2C_2015%2C_and"
+    },
+    {
+      "text": "Silent Running (1972) featured early examples of robot companions in film, with drones named Huey, Dewey, and Louie.",
+      "source": "https://en.wikipedia.org/wiki/Silent_Running"
+    },
+    {
+      "text": "The Matrix required the cast to read three philosophy books and train for months in wire kung fu before filming began.",
+      "source": "https://en.wikipedia.org/wiki/Matrix"
+    },
+    {
+      "text": "Oblivion (2013) starring Tom Cruise was based on an unpublished graphic novel by director Joseph Kosinski.",
+      "source": "https://en.wikipedia.org/wiki/Oblivion"
+    },
+    {
+      "text": "Frank Herbert was offered $50,000 for the film rights to Dune in 1971, but the first successful adaptation didn't arrive until 2021.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Frank_Herbert"
+    },
+    {
+      "text": "The Mandalorian's 'Baby Yoda' (Grogu) was a practical puppet designed by Legacy Effects, not CGI as many viewers assumed.",
+      "source": "https://en.wikipedia.org/wiki/Mandalorian%27s_%27Baby_Yoda%27_(Grogu)"
+    },
+    {
+      "text": "Europa Report (2013) used found-footage techniques to create a realistic depiction of a manned mission to Jupiter's moon.",
+      "source": "https://en.wikipedia.org/wiki/Europa_Report"
+    },
+    {
+      "text": "Aliens (1986) was released on July 18, 1986, and earned over $180 million worldwide.",
+      "month": 7,
+      "day": 18,
+      "source": "https://en.wikipedia.org/wiki/Aliens"
+    },
+    {
+      "text": "The massive starship models in Star Trek: The Motion Picture (1979) were built by effects artists who later became key ILM contributors.",
+      "source": "https://en.wikipedia.org/wiki/Star_Trek:_The_Motion_Picture"
+    },
+    {
+      "text": "Source Code (2011) by Duncan Jones explored a Groundhog Day-style time loop as a counter-terrorism tool.",
+      "source": "https://en.wikipedia.org/wiki/Source_Code"
+    },
+    {
+      "text": "The iconic 'I am your father' reveal in The Empire Strikes Back was kept secret from most of the cast during filming.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/iconic_%27I_am_your_father%27_reveal_in_The_Empire_Strikes_Back"
+    },
+    {
+      "text": "Ex Machina's production design gave the underground research facility a sleek, minimalist look inspired by Scandinavian architecture.",
+      "source": "https://en.wikipedia.org/wiki/Ex_Machina%27s_production_design"
+    },
+    {
+      "text": "Event Horizon (1997) blended sci-fi with horror, depicting a starship that traveled through a hellish dimension.",
+      "source": "https://en.wikipedia.org/wiki/Event_Horizon"
+    },
+    {
+      "text": "The Star Wars sequel trilogy (2015–2019) collectively grossed over $4.4 billion at the worldwide box office.",
+      "source": "https://en.wikipedia.org/wiki/Star_Wars"
+    },
+    {
+      "text": "Upgrade (2018) was made for only $5 million and delivered a cyberpunk action-thriller that punched well above its weight.",
+      "source": "https://en.wikipedia.org/wiki/Upgrade"
+    },
+    {
+      "text": "Philip K. Dick experienced visions he believed were communications from an alien intelligence, which influenced his later works.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Philip_K._Dick_experienced_visions_he_believed"
+    },
+    {
+      "text": "Inception's folding Paris scene required both CGI and practical effects, with massive set pieces physically built and rotated.",
+      "source": "https://en.wikipedia.org/wiki/Inception%27s_folding_Paris_scene_required_both_CGI_and_practical_effects%2C_with_massive"
+    },
+    {
+      "text": "Blade Runner's depiction of 2019 Los Angeles included flying cars, off-world colonies, and constant acid rain—none of which came to pass.",
+      "source": "https://en.wikipedia.org/wiki/Blade_Runner%27s"
+    },
+    {
+      "text": "The Cloverfield Paradox (2018) was surprise-dropped on Netflix immediately after a Super Bowl ad, a first for a major film.",
+      "source": "https://en.wikipedia.org/wiki/Cloverfield_Paradox"
+    },
+    {
+      "text": "Back to the Future Part II was released on November 22, 1989.",
+      "month": 11,
+      "day": 22,
+      "source": "https://en.wikipedia.org/wiki/Back_to_the_Future_Part_II"
+    },
+    {
+      "text": "Star Trek: Discovery premiered on CBS All Access on September 24, 2017, and was the first Trek series in over a decade.",
+      "month": 9,
+      "day": 24,
+      "source": "https://en.wikipedia.org/wiki/Star_Trek:_Discovery_premiered_on_CBS_All_Access_on_September_24%2C_2017%2C_and"
+    },
+    {
+      "text": "Stanley Kubrick insisted on using only existing light sources for Barry Lyndon, and brought that same obsessive lighting approach to 2001.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Stanley_Kubrick"
+    },
+    {
+      "text": "The creature effects in Stranger Things were created using a mix of practical puppetry and CGI enhancement.",
+      "source": "https://en.wikipedia.org/wiki/creature_effects_in_Stranger_Things"
+    },
+    {
+      "text": "Ender's Game (2013), based on Orson Scott Card's novel, featured elaborate zero-gravity battle room sequences.",
+      "source": "https://en.wikipedia.org/wiki/Ender%27s_Game"
+    },
+    {
+      "text": "The original Star Wars trilogy was partially inspired by Akira Kurosawa's The Hidden Fortress (1958) and Joseph Campbell's hero's journey.",
+      "source": "https://en.wikipedia.org/wiki/Akira_Kurosawa%27s_The_Hidden_Fortress"
+    },
+    {
+      "text": "Nope (2022) by Jordan Peele brought a fresh perspective to the alien encounter subgenre, blending horror with spectacle commentary.",
+      "source": "https://en.wikipedia.org/wiki/Nope"
+    },
+    {
+      "text": "Tron (1982) was one of the earliest films to make extensive use of computer-generated imagery, though the Academy refused to nominate it for visual effects, considering CGI 'cheating.'",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Tron"
+    },
+    {
+      "text": "James Cameron grew up in a small town in Ontario, Canada, and was inspired to become a filmmaker after seeing 2001: A Space Odyssey.",
+      "source": "https://en.wikipedia.org/wiki/James_Cameron_grew_up_in_a_small_town_in_Ontario%2C_Canada%2C_and"
+    },
+    {
+      "text": "The Hunger Games franchise, set in a dystopian future, earned over $2.9 billion worldwide across four films.",
+      "source": "https://en.wikipedia.org/wiki/Hunger_Games_franchise%2C_set_in_a_dystopian_future"
+    },
+    {
+      "text": "Andromeda Strain (1971), directed by Robert Wise, was one of the first sci-fi thrillers to treat extraterrestrial contact with clinical realism.",
+      "source": "https://en.wikipedia.org/wiki/Andromeda_Strain"
+    },
+    {
+      "text": "Alita: Battle Angel (2019) was a passion project James Cameron developed for years before handing directorial duties to Robert Rodriguez.",
+      "source": "https://en.wikipedia.org/wiki/Alita:_Battle_Angel"
+    },
+    {
+      "text": "The mechanical shark in Jaws malfunctioned so often that Spielberg was forced to improvise suspense without showing the creature—a technique he later applied to sci-fi.",
+      "source": "https://en.wikipedia.org/wiki/mechanical_shark_in_Jaws_malfunctioned_so_often_that_Spielberg"
+    },
+    {
+      "text": "Rogue One's Darth Vader hallway scene was a late addition suggested during reshoots and became one of the most celebrated moments in the franchise.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Rogue_One%27s_Darth_Vader_hallway_scene"
+    },
+    {
+      "text": "Black Mirror premiered on Channel 4 in the UK on December 4, 2011, before moving to Netflix for its third season.",
+      "month": 12,
+      "day": 4,
+      "source": "https://en.wikipedia.org/wiki/Black_Mirror"
+    },
+    {
+      "text": "The sound design in Arrival used recordings of whale songs and human vocalizations processed through synthesizers to create the heptapod language.",
+      "source": "https://en.wikipedia.org/wiki/Sci-Fi_Movies"
+    },
+    {
+      "text": "Soylent Green (1973) took place in an overpopulated 2022 New York and featured Charlton Heston's iconic revelation about the titular food product.",
+      "source": "https://en.wikipedia.org/wiki/Soylent_Green"
+    },
+    {
+      "text": "Star Trek: Strange New Worlds returned the franchise to episodic storytelling in 2022, earning praise from longtime fans.",
+      "source": "https://en.wikipedia.org/wiki/Star_Trek:_Strange_New_Worlds"
+    },
+    {
+      "text": "Demolition Man (1993) predicted video calling, self-driving cars, and touchless payment systems decades before they became reality.",
+      "source": "https://en.wikipedia.org/wiki/Demolition_Man"
+    },
+    {
+      "text": "The 'chestburster' puppet in Alien was operated from below the table by a single puppeteer pulling it through the prosthetic chest cavity.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/%27chestburster%27_puppet_in_Alien"
+    },
+    {
+      "text": "The original Star Wars cantina band music, officially called 'Mad About Me,' was composed by John Williams in a fictional genre called 'Jizz.'",
+      "source": "https://en.wikipedia.org/wiki/original_Star_Wars_cantina_band_music%2C_officially_called_%27Mad_About_Me"
+    },
+    {
+      "text": "Coherence, Primer, and Timecrimes represent a subgenre of low-budget, high-concept sci-fi time travel films.",
+      "source": "https://en.wikipedia.org/wiki/Sci-Fi_Movies"
+    },
+    {
+      "text": "The Adventures of Buckaroo Banzai (1984) flopped at the box office but became one of the most beloved cult sci-fi comedies.",
+      "source": "https://en.wikipedia.org/wiki/Buckaroo_Banzai"
+    },
+    {
+      "text": "They Live (1988) by John Carpenter featured the famous 'Obey' sunglasses and an extended alley fight scene lasting nearly six minutes.",
+      "source": "https://en.wikipedia.org/wiki/They_Live"
+    },
+    {
+      "text": "Denis Villeneuve watched the original Blade Runner over 40 times in preparation for directing Blade Runner 2049.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Denis_Villeneuve"
+    },
+    {
+      "text": "The practical spaceship models in the original Star Wars were photographed using a computer-controlled camera system called the Dykstraflex.",
+      "source": "https://en.wikipedia.org/wiki/practical_spaceship_models_in_the_original_Star_Wars"
+    },
+    {
+      "text": "Interstellar's wormhole and black hole visualizations were so scientifically detailed that they generated data for two academic papers.",
+      "source": "https://en.wikipedia.org/wiki/Interstellar%27s_wormhole_and_black_hole_visualizations"
+    },
+    {
+      "text": "Westworld (HBO) was canceled after four seasons in 2022, with the story left partially unresolved.",
+      "source": "https://en.wikipedia.org/wiki/Westworld_(HBO)"
+    },
+    {
+      "text": "The Island (2005) directed by Michael Bay explored human cloning in a dystopian society and was one of Bay's few box office underperformers.",
+      "source": "https://en.wikipedia.org/wiki/Island"
+    },
+    {
+      "text": "Terminator 2: Judgment Day was released on July 3, 1991, and became the highest-grossing film of that year.",
+      "month": 7,
+      "day": 3,
+      "source": "https://en.wikipedia.org/wiki/Terminator_2:_Judgment_Day"
+    },
+    {
+      "text": "Kurt Russell was nearly cast as Han Solo in Star Wars before the role went to Harrison Ford.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Kurt_Russell"
+    },
+    {
+      "text": "The Animatrix (2003) was a collection of animated short films that expanded The Matrix universe, featuring contributions from top anime directors.",
+      "source": "https://en.wikipedia.org/wiki/Animatrix"
+    },
+    {
+      "text": "Ad Astra (2019) starring Brad Pitt took a contemplative approach to space travel, drawing comparisons to 2001 and Solaris.",
+      "source": "https://en.wikipedia.org/wiki/Ad_Astra"
+    },
+    {
+      "text": "The motion capture suits worn in Avatar had over 50 reflective markers each that were tracked by hundreds of cameras.",
+      "source": "https://en.wikipedia.org/wiki/motion_capture_suits_worn_in_Avatar"
+    },
+    {
+      "text": "Gattaca (1997) explored genetic discrimination in a near-future society and has become a touchstone for bioethics discussions.",
+      "source": "https://en.wikipedia.org/wiki/Gattaca"
+    },
+    {
+      "text": "The Star Wars Holiday Special featured the first appearance of Boba Fett in an animated segment before his live-action debut in The Empire Strikes Back.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Star_Wars_Holiday_Special"
+    },
+    {
+      "text": "District 9 director Neill Blomkamp originally developed the concept as a short film called 'Alive in Joburg' (2005).",
+      "source": "https://en.wikipedia.org/wiki/Joburg"
+    },
+    {
+      "text": "Annihilation's 'shimmer' effect was created using practical prism and refraction techniques combined with digital enhancement.",
+      "source": "https://en.wikipedia.org/wiki/Annihilation%27s_%27shimmer%27_effect"
+    },
+    {
+      "text": "12 Monkeys (1995) by Terry Gilliam was inspired by Chris Marker's experimental short film La Jetée (1962), which was composed almost entirely of still photographs.",
+      "source": "https://en.wikipedia.org/wiki/Monkeys"
+    },
+    {
+      "text": "The Matrix was released on March 31, 1999, and won four Academy Awards, all in technical categories.",
+      "source": "https://en.wikipedia.org/wiki/Matrix"
+    },
+    {
+      "text": "Star Wars: Revenge of the Sith was released on May 19, 2005.",
+      "month": 5,
+      "day": 19,
+      "source": "https://en.wikipedia.org/wiki/Star_Wars:_Revenge_of_the_Sith"
+    },
+    {
+      "text": "Edgar Wright's The World's End (2013) used sci-fi invasion tropes to explore addiction and nostalgia.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Edgar_Wright%27s_The_World%27s_End"
+    },
+    {
+      "text": "The massive sets built for Ridley Scott's Alien were constructed at Shepperton Studios in England and reused some materials from other productions.",
+      "source": "https://en.wikipedia.org/wiki/massive_sets_built_for_Ridley_Scott%27s_Alien"
+    },
+    {
+      "text": "Cargo (2009) was a Swiss-made sci-fi film that proved European studios could produce visually ambitious space-set stories.",
+      "source": "https://en.wikipedia.org/wiki/Cargo"
+    },
+    {
+      "text": "The sandcrawler vehicle in Star Wars was one of the largest miniatures ever built for film at the time.",
+      "source": "https://en.wikipedia.org/wiki/sandcrawler_vehicle_in_Star_Wars"
+    },
+    {
+      "text": "Doctor Who's TARDIS, which stands for Time And Relative Dimension In Space, is bigger on the inside due to Time Lord dimensional engineering.",
+      "source": "https://en.wikipedia.org/wiki/Doctor_Who%27s_TARDIS%2C_which_stands_for_Time_And_Relative_Dimension_In_Space"
+    },
+    {
+      "text": "George Miller was a practicing medical doctor before becoming a filmmaker, and he brought medical precision to the stunts in Mad Max.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/George_Miller"
+    },
+    {
+      "text": "Blade Runner 2049's cinematography by Roger Deakins earned him his first Academy Award after 14 previous nominations.",
+      "source": "https://en.wikipedia.org/wiki/Blade_Runner_2049%27s_cinematography_by_Roger_Deakins"
+    },
+    {
+      "text": "Star Trek: Lower Decks (2020) was the franchise's first adult animated comedy series.",
+      "source": "https://en.wikipedia.org/wiki/Star_Trek:_Lower_Decks"
+    },
+    {
+      "text": "Life (2017) starring Ryan Reynolds and Jake Gyllenhaal depicted a terrifyingly plausible scenario of an alien organism discovered on Mars.",
+      "source": "https://en.wikipedia.org/wiki/Life"
+    },
+    {
+      "text": "The score for 2001: A Space Odyssey famously uses Richard Strauss's 'Also sprach Zarathustra' and Johann Strauss's 'The Blue Danube.'",
+      "source": "https://en.wikipedia.org/wiki/A_Space_Odyssey"
+    },
+    {
+      "text": "The Maze Runner trilogy (2014–2018) combined dystopian and post-apocalyptic elements with young-adult storytelling.",
+      "source": "https://en.wikipedia.org/wiki/Maze_Runner"
+    },
+    {
+      "text": "The practical puppet for E.T. cost $1.5 million to build and required multiple operators to control its facial expressions.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Sci-Fi_Movies"
+    },
+    {
+      "text": "Christopher Nolan refuses to use a second unit for action sequences, personally directing every shot in films like Inception and Tenet.",
+      "source": "https://en.wikipedia.org/wiki/Christopher_Nolan"
+    },
+    {
+      "text": "The Fifth Element's opera scene combined a live soprano performance with digitally generated vocal sequences beyond human capability.",
+      "source": "https://en.wikipedia.org/wiki/Fifth_Element%27s"
+    },
+    {
+      "text": "Westworld's original 1973 film was one of the first to explore the concept of theme parks with AI-driven characters going wrong.",
+      "source": "https://en.wikipedia.org/wiki/Westworld%27s_original_1973_film"
+    },
+    {
+      "text": "The original Jurassic Park animatronic T-Rex stood over 20 feet tall and required hydraulic systems to operate its movements.",
+      "source": "https://en.wikipedia.org/wiki/Jurassic_Park"
+    },
+    {
+      "text": "Aliens was released on July 18, 1986, and was James Cameron's second directorial feature after The Terminator.",
+      "month": 7,
+      "day": 18,
+      "source": "https://en.wikipedia.org/wiki/Aliens"
+    },
+    {
+      "text": "Starship Troopers (1997) by Paul Verhoeven was a deliberate satire of militarism and fascism disguised as a bug-war action film.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Starship_Troopers"
+    },
+    {
+      "text": "Tenet (2020) was one of the first major films released in theaters during the COVID-19 pandemic.",
+      "source": "https://en.wikipedia.org/wiki/Tenet"
+    },
+    {
+      "text": "The Prestige (2006) by Christopher Nolan incorporated Nikola Tesla and actual physics concepts into its sci-fi twist.",
+      "source": "https://en.wikipedia.org/wiki/Prestige"
+    },
+    {
+      "text": "Flash Gordon (1980) featured a beloved soundtrack by Queen, with Freddie Mercury's iconic theme song.",
+      "source": "https://en.wikipedia.org/wiki/Flash_Gordon"
+    },
+    {
+      "text": "The Invisible Man (2020) directed by Leigh Whannell updated H.G. Wells' classic as a domestic abuse thriller with sci-fi elements.",
+      "source": "https://en.wikipedia.org/wiki/Invisible_Man"
+    },
+    {
+      "text": "Star Trek II: The Wrath of Khan was released on June 4, 1982.",
+      "month": 6,
+      "day": 4,
+      "source": "https://en.wikipedia.org/wiki/Star_Trek_II:_The_Wrath_of_Khan"
+    },
+    {
+      "text": "Paprika (2006) by Satoshi Kon explored dream invasion and directly influenced Christopher Nolan's Inception.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Paprika"
+    },
+    {
+      "text": "Galaxy Quest (1999) is widely considered one of the best Star Trek films ever made, despite not being an official Trek production.",
+      "source": "https://en.wikipedia.org/wiki/Galaxy_Quest"
+    },
+    {
+      "text": "The practical creature effects in Pan's Labyrinth (2006) were created by DDT Effects, blending dark fantasy with wartime reality.",
+      "source": "https://en.wikipedia.org/wiki/Pan%27s_Labyrinth"
+    },
+    {
+      "text": "Aliens vs. Predator (2004) combined two of sci-fi's most iconic creatures, though neither franchise's fans were fully satisfied.",
+      "source": "https://en.wikipedia.org/wiki/Predator"
+    },
+    {
+      "text": "The Matrix Resurrections (2021) was directed solely by Lana Wachowski, marking the first Matrix film not co-directed by both Wachowskis.",
+      "source": "https://en.wikipedia.org/wiki/Matrix_Resurrections"
+    },
+    {
+      "text": "John Carpenter composed most of his own film scores, including the synthesizer-driven soundtracks for The Thing and Escape from New York.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/John_Carpenter"
+    },
+    {
+      "text": "Denis Villeneuve cited Andrei Tarkovsky's work as his primary artistic influence when preparing to direct Dune.",
+      "source": "https://en.wikipedia.org/wiki/Denis_Villeneuve"
+    },
+    {
+      "text": "The Abyss (1989) featured one of cinema's first photorealistic CGI characters—a water tentacle that took six months to create.",
+      "source": "https://en.wikipedia.org/wiki/Abyss"
+    },
+    {
+      "text": "Cloud Atlas (2012) by the Wachowskis and Tom Tykwer spanned multiple timelines including a dystopian sci-fi future.",
+      "source": "https://en.wikipedia.org/wiki/Cloud_Atlas"
+    },
+    {
+      "text": "Ridley Scott considered over 20 directors to helm the Alien sequel before James Cameron's treatment won the studio over.",
+      "source": "https://en.wikipedia.org/wiki/Ridley_Scott"
+    },
+    {
+      "text": "Planet of the Apes (1968) screenwriter Rod Serling crafted the twist ending that differed from Pierre Boulle's original novel.",
+      "source": "https://en.wikipedia.org/wiki/Apes"
+    },
+    {
+      "text": "The set for the Nostromo's interior in Alien was deliberately cramped and claustrophobic to make the actors feel genuinely uncomfortable.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/set_for_the_Nostromo%27s_interior_in_Alien"
+    },
+    {
+      "text": "Valerian and the City of a Thousand Planets (2017) by Luc Besson was the most expensive European film ever produced at $177 million.",
+      "source": "https://en.wikipedia.org/wiki/Thousand_Planets"
+    },
+    {
+      "text": "10 Cloverfield Lane (2016) was filmed in secret under a fake title and surprised audiences when its Cloverfield connection was revealed.",
+      "source": "https://en.wikipedia.org/wiki/Cloverfield_Lane"
+    },
+    {
+      "text": "Star Wars composer John Williams conducted the London Symphony Orchestra for the original trilogy's scores.",
+      "source": "https://en.wikipedia.org/wiki/Star_Wars"
+    },
+    {
+      "text": "The Darkest Hour (2011), while not critically acclaimed, depicted an alien invasion of Moscow, a rare non-American setting for the genre.",
+      "source": "https://en.wikipedia.org/wiki/Darkest_Hour"
+    },
+    {
+      "text": "Akira (1988) is often credited with introducing Western audiences to anime and remains one of the most influential animated sci-fi films.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Akira"
+    },
+    {
+      "text": "I, Robot (2004) starring Will Smith was loosely inspired by Isaac Asimov's stories but took significant creative liberties with the source material.",
+      "source": "https://en.wikipedia.org/wiki/I%2C_Robot"
+    },
+    {
+      "text": "The original Alien script went through numerous revisions, with Ridley Scott insisting on elevating the creature design from a simple monster to a biomechanical nightmare.",
+      "source": "https://en.wikipedia.org/wiki/Ridley_Scott"
+    },
+    {
+      "text": "Black Mirror's 'Bandersnatch' (2018) was Netflix's first interactive film, allowing viewers to make choices that affected the storyline.",
+      "source": "https://en.wikipedia.org/wiki/Bandersnatch"
+    },
+    {
+      "text": "Predator (1987) was released on June 12, 1987, and earned $98 million worldwide.",
+      "month": 6,
+      "day": 12,
+      "source": "https://en.wikipedia.org/wiki/Predator"
+    },
+    {
+      "text": "Arrival director Denis Villeneuve personally selected Amy Adams for the lead role, believing she could convey the film's emotional core.",
+      "source": "https://en.wikipedia.org/wiki/Denis_Villeneuve"
+    },
+    {
+      "text": "The Day After Tomorrow (2004) used early CGI weather simulations that pushed the boundaries of what digital effects could depict at the time.",
+      "source": "https://en.wikipedia.org/wiki/Day_After_Tomorrow"
+    },
+    {
+      "text": "Douglas Adams's 'The Hitchhiker's Guide to the Galaxy' popularized the number 42 as the 'answer to life, the universe, and everything.'",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Douglas_Adams%27s"
+    },
+    {
+      "text": "Star Trek Beyond (2016) was partially written by Simon Pegg, who also starred as Scotty.",
+      "source": "https://en.wikipedia.org/wiki/Star_Trek_Beyond"
+    },
+    {
+      "text": "The practical creature effects in Stranger Things' Upside Down were created by Aaron Sims Creative and Spectral Motion.",
+      "source": "https://en.wikipedia.org/wiki/practical_creature_effects_in_Stranger_Things%27_Upside_Down"
+    },
+    {
+      "text": "Gravity's opening shot runs for approximately 17 minutes without a visible cut, establishing Sandra Bullock's character in orbit.",
+      "source": "https://en.wikipedia.org/wiki/Sandra_Bullock%27s"
+    },
+    {
+      "text": "Prospect (2018) was an indie sci-fi film that built a richly detailed alien world on a microbudget, earning festival acclaim.",
+      "source": "https://en.wikipedia.org/wiki/Prospect"
+    },
+    {
+      "text": "The opening crawl in Star Wars was inspired by the Flash Gordon serials of the 1930s and 1940s.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/opening_crawl_in_Star_Wars"
+    },
+    {
+      "text": "George Lucas originally named Luke Skywalker 'Luke Starkiller' before changing it shortly before production began.",
+      "source": "https://en.wikipedia.org/wiki/George_Lucas_originally"
+    },
+    {
+      "text": "District 9 was filmed in the actual township areas of Johannesburg, lending the film an unnerving documentary authenticity.",
+      "source": "https://en.wikipedia.org/wiki/District_9"
+    },
+    {
+      "text": "The Omega Man (1971) starring Charlton Heston was an adaptation of Richard Matheson's novel 'I Am Legend,' later remade with Will Smith in 2007.",
+      "source": "https://en.wikipedia.org/wiki/Omega_Man"
+    },
+    {
+      "text": "Sphere (1998), based on Michael Crichton's novel, explored first contact with an alien artifact found on the ocean floor.",
+      "source": "https://en.wikipedia.org/wiki/Sphere"
+    },
+    {
+      "text": "Apollo 13 (1995), while technically a historical drama, was made with the same ILM effects team that worked on Star Wars.",
+      "source": "https://en.wikipedia.org/wiki/Apollo_13"
+    },
+    {
+      "text": "The pod bay doors scene in 2001: A Space Odyssey, featuring HAL's chilling refusal, is one of cinema's most quoted moments.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/pod_bay_doors_scene_in_2001:_A_Space_Odyssey%2C_featuring_HAL%27s_chilling_refusal"
+    },
+    {
+      "text": "Monsters (2010) by Gareth Edwards was made for approximately $500,000 and led to his hiring for the 2014 Godzilla reboot.",
+      "source": "https://en.wikipedia.org/wiki/Monsters"
+    },
+    {
+      "text": "Star Trek: Picard (2020) brought Patrick Stewart back to his iconic role nearly two decades after Star Trek: Nemesis.",
+      "source": "https://en.wikipedia.org/wiki/Star_Trek:_Picard"
+    },
+    {
+      "text": "The original Alien tagline was conceived by advertising executive Barbara Gips and is considered one of the greatest movie taglines ever written.",
+      "source": "https://en.wikipedia.org/wiki/original_Alien_tagline"
+    },
+    {
+      "text": "James Cameron's screenplay for Aliens featured detailed technical specifications for every weapon and vehicle used by the Colonial Marines.",
+      "source": "https://en.wikipedia.org/wiki/James_Cameron%27s"
+    },
+    {
+      "text": "Everything Everywhere All at Once (2022) used sci-fi multiverse concepts to tell a deeply personal family story, winning seven Academy Awards including Best Picture.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Once"
+    },
+    {
+      "text": "The Revenge of the Sith novelization by Matthew Stover is considered by many fans to be superior to the film itself.",
+      "source": "https://en.wikipedia.org/wiki/Revenge_of_the_Sith_novelization_by_Matthew_Stover"
+    },
+    {
+      "text": "Pitch Black (2000) introduced the character of Riddick, played by Vin Diesel, and launched a modest franchise.",
+      "source": "https://en.wikipedia.org/wiki/Pitch_Black"
+    },
+    {
+      "text": "The Matrix's lobby shootout scene took 10 days to film and used 200 rounds of blank ammunition per take.",
+      "source": "https://en.wikipedia.org/wiki/Matrix%27s_lobby_shootout_scene"
+    },
+    {
+      "text": "Under the Skin (2013) used a hidden camera rig inside a van to capture Jonathan Glazer's surreal alien abduction sequences.",
+      "source": "https://en.wikipedia.org/wiki/Skin"
+    },
+    {
+      "text": "Apollo 13 astronaut Jim Lovell cameo'd as the captain of the ship that recovers the crew at the end of the 1995 film.",
+      "source": "https://en.wikipedia.org/wiki/Apollo_13"
+    },
+    {
+      "text": "Stanley Kubrick personally supervised every foreign-language dub of 2001: A Space Odyssey to ensure quality.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Stanley_Kubrick"
+    },
+    {
+      "text": "The Wandering Earth (2019) became one of China's highest-grossing films and signaled the emergence of Chinese sci-fi blockbusters.",
+      "source": "https://en.wikipedia.org/wiki/Wandering_Earth"
+    },
+    {
+      "text": "Westworld (HBO) explored themes of consciousness, free will, and exploitation through the lens of artificial intelligence.",
+      "source": "https://en.wikipedia.org/wiki/Sci-Fi_Movies"
+    },
+    {
+      "text": "Donnie Darko (2001) blended teen drama with mind-bending sci-fi time travel and became a cult phenomenon on DVD.",
+      "source": "https://en.wikipedia.org/wiki/Donnie_Darko"
+    },
+    {
+      "text": "James Cameron held the record for highest-grossing film of all time twice: first with Titanic, then with Avatar.",
+      "source": "https://en.wikipedia.org/wiki/James_Cameron"
+    },
+    {
+      "text": "The Phantom Menace was released on May 19, 1999, with fans camping out for weeks to be among the first to see it.",
+      "month": 5,
+      "day": 19,
+      "source": "https://en.wikipedia.org/wiki/Phantom_Menace"
+    },
+    {
+      "text": "Philip K. Dick's novel 'The Man in the High Castle,' an alternate history where the Axis won WWII, was adapted as an Amazon series in 2015.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Philip_K._Dick%27s_novel_%27The_Man_in_the_High_Castle%2C%27_an_alternate_history_where_the_Axis"
+    },
+    {
+      "text": "Ridley Scott used real smoke and atmospheric effects on the Alien set, so thick that crew members sometimes couldn't see across the stage.",
+      "source": "https://en.wikipedia.org/wiki/Ridley_Scott_used_real_smoke_and_atmospheric_effects_on_the_Alien"
+    },
+    {
+      "text": "Snowpiercer later became a TV series on TNT in 2020, expanding the film's frozen-Earth premise.",
+      "source": "https://en.wikipedia.org/wiki/Snowpiercer_later"
+    },
+    {
+      "text": "John Williams composed the first four Harry Potter film scores between his Star Wars prequel and sequel trilogy commitments.",
+      "source": "https://en.wikipedia.org/wiki/John_Williams"
+    },
+    {
+      "text": "The Host (2006) by Bong Joon-ho is a South Korean monster film that blended family drama with creature-feature thrills.",
+      "source": "https://en.wikipedia.org/wiki/Host"
+    },
+    {
+      "text": "Silent Running's director, Douglas Trumbull, was the visual effects supervisor for 2001: A Space Odyssey.",
+      "source": "https://en.wikipedia.org/wiki/Silent_Running%27s_director%2C_Douglas_Trumbull"
+    },
+    {
+      "text": "The creature design for the Predator was suggested by James Cameron to Stan Winston during a flight, where Cameron sketched ideas on a napkin.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/creature_design_for_the_Predator"
+    },
+    {
+      "text": "The Adam Project (2022) on Netflix continued the trend of nostalgic sci-fi adventure films in the Spielberg tradition.",
+      "source": "https://en.wikipedia.org/wiki/Adam_Project"
+    },
+    {
+      "text": "Blade Runner's opening cityscape was created by effects artist Douglas Trumbull using detailed miniatures, fiber optics, and smoke.",
+      "source": "https://en.wikipedia.org/wiki/Blade_Runner%27s_opening_cityscape"
+    },
+    {
+      "text": "Star Wars: The Last Jedi (2017) was one of the most polarizing films in franchise history, splitting both critics and fans.",
+      "source": "https://en.wikipedia.org/wiki/Star_Wars:_The_Last_Jedi"
+    },
+    {
+      "text": "The Midnight Sky (2020) directed by George Clooney depicted a post-apocalyptic Earth with a scientist trying to warn returning astronauts.",
+      "source": "https://en.wikipedia.org/wiki/Midnight_Sky"
+    },
+    {
+      "text": "Dark Star (1974), John Carpenter's debut feature, started as a student film at USC and was expanded to feature length on a tiny budget.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Dark_Star"
+    },
+    {
+      "text": "The Fifth Element earned $263 million worldwide and remains one of the most visually distinctive sci-fi films of the 1990s.",
+      "source": "https://en.wikipedia.org/wiki/Fifth_Element"
+    },
+    {
+      "text": "Vivarium (2019) used unsettling suburban dystopia to explore themes of entrapment and the absurdity of modern housing.",
+      "source": "https://en.wikipedia.org/wiki/Vivarium"
+    },
+    {
+      "text": "The long-delayed Dune adaptation by Alejandro Jodorowsky in the 1970s was documented in the film Jodorowsky's Dune (2013).",
+      "source": "https://en.wikipedia.org/wiki/Jodorowsky%27s_Dune"
+    },
+    {
+      "text": "Star Trek: The Next Generation's 'Best of Both Worlds' cliffhanger is considered one of the greatest moments in TV sci-fi.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Star_Trek:_The_Next_Generation%27s_%27Best_of_Both_Worlds%27_cliffhanger"
+    },
+    {
+      "text": "Christopher Nolan's The Dark Knight trilogy incorporated sci-fi technology elements like the Batsuit's memory fabric and sonar-mapping devices.",
+      "source": "https://en.wikipedia.org/wiki/Christopher_Nolan%27s_The_Dark_Knight"
+    },
+    {
+      "text": "The original Alien budget was doubled from $4.2 million to $8.4 million after Ridley Scott was hired to direct.",
+      "source": "https://en.wikipedia.org/wiki/original_Alien_budget"
+    },
+    {
+      "text": "Dune (1984) directed by David Lynch was a commercial failure, earning just $30 million against a $40 million budget.",
+      "source": "https://en.wikipedia.org/wiki/Dune"
+    },
+    {
+      "text": "Attack the Block (2011) introduced John Boyega in a genre-blending alien invasion film set in a South London council estate.",
+      "source": "https://en.wikipedia.org/wiki/Block"
+    },
+    {
+      "text": "Metropolis (1927) was released on January 10, 1927, in Berlin, Germany.",
+      "month": 1,
+      "day": 10,
+      "source": "https://en.wikipedia.org/wiki/Metropolis"
+    },
+    {
+      "text": "Sean Young was originally considered for the role of Marion in Raiders of the Lost Ark before being cast as Rachael in Blade Runner.",
+      "source": "https://en.wikipedia.org/wiki/Sean_Young"
+    },
+    {
+      "text": "The spice melange in Dune has been interpreted as a metaphor for petroleum, reflecting Frank Herbert's ecological concerns.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/spice_melange_in_Dune"
+    },
+    {
+      "text": "Spielberg's War of the Worlds (2005) was entirely shot in chronological order, which is extremely rare for major studio productions.",
+      "source": "https://en.wikipedia.org/wiki/Worlds"
+    },
+    {
+      "text": "Coherence (2013) director James Ward Byrkit had the actors improvise much of their dialogue, keeping them unaware of that evening's plot twists.",
+      "source": "https://en.wikipedia.org/wiki/Coherence"
+    },
+    {
+      "text": "The original Battlestar Galactica TV series premiered on September 17, 1978, on ABC.",
+      "month": 9,
+      "day": 17,
+      "source": "https://en.wikipedia.org/wiki/Battlestar_Galactica_TV"
+    },
+    {
+      "text": "Safety Not Guaranteed (2012) was based on an actual classified ad seeking a time travel companion that appeared in a 1997 magazine.",
+      "source": "https://en.wikipedia.org/wiki/Safety_Not_Guaranteed"
+    },
+    {
+      "text": "Ex Machina director Alex Garland originally envisioned the film with a much larger budget before deliberately scaling it down for intimacy.",
+      "source": "https://en.wikipedia.org/wiki/Ex_Machina"
+    },
+    {
+      "text": "The original Tron (1982) had over 50 minutes of its runtime generated or enhanced with computer graphics, groundbreaking for its era.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Tron"
+    }
+  ]
+}

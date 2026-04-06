@@ -1,0 +1,1181 @@
+{
+  "hobby": "Food",
+  "facts": [
+    {
+      "text": "The oldest known evidence of bread making comes from a 14,000-year-old site in northeastern Jordan, showing bread predates farming.",
+      "source": "https://en.wikipedia.org/wiki/Bread"
+    },
+    {
+      "text": "Cheese making is thousands of years old, and some of the earliest direct evidence was found in ancient pottery in Poland.",
+      "source": "https://en.wikipedia.org/wiki/Cheese"
+    },
+    {
+      "text": "Rice is a staple food for more than half of the world's population.",
+      "source": "https://en.wikipedia.org/wiki/Rice"
+    },
+    {
+      "text": "Tomatoes originated in western South America before spreading to Europe and the rest of the world.",
+      "source": "https://en.wikipedia.org/wiki/Tomato"
+    },
+    {
+      "text": "Potatoes were first domesticated in the Andes Mountains of South America.",
+      "source": "https://en.wikipedia.org/wiki/Potato"
+    },
+    {
+      "text": "Pizza Margherita is traditionally said to have been named for Queen Margherita of Italy in 1889.",
+      "source": "https://en.wikipedia.org/wiki/Pizza_Margherita"
+    },
+    {
+      "text": "The sandwich is named after John Montagu, the 4th Earl of Sandwich.",
+      "source": "https://en.wikipedia.org/wiki/Sandwich"
+    },
+    {
+      "text": "Chocolate was first consumed in Mesoamerica as a bitter drink made from cacao.",
+      "source": "https://en.wikipedia.org/wiki/Chocolate"
+    },
+    {
+      "text": "According to legend, coffee was discovered in Ethiopia after goats became energetic from eating coffee cherries.",
+      "source": "https://en.wikipedia.org/wiki/Coffee"
+    },
+    {
+      "text": "Tea culture began in ancient China and later spread across Asia, Europe, and beyond.",
+      "source": "https://en.wikipedia.org/wiki/Tea"
+    },
+    {
+      "text": "Sushi began as a method of preserving fish with fermented rice before becoming the fresh dish many people know today.",
+      "source": "https://en.wikipedia.org/wiki/Sushi"
+    },
+    {
+      "text": "Yogurt is made by fermenting milk with live bacterial cultures.",
+      "source": "https://en.wikipedia.org/wiki/Yogurt"
+    },
+    {
+      "text": "There are hundreds of varieties of kimchi in Korean cuisine.",
+      "source": "https://en.wikipedia.org/wiki/Kimchi"
+    },
+    {
+      "text": "MSG was isolated in 1908 by Japanese chemist Kikunae Ikeda, who identified umami as a distinct savory taste.",
+      "source": "https://en.wikipedia.org/wiki/Monosodium_glutamate"
+    },
+    {
+      "text": "The Scoville scale measures the heat of chili peppers and spicy foods.",
+      "source": "https://en.wikipedia.org/wiki/Scoville_scale"
+    },
+    {
+      "text": "Vanilla comes from the seed pods of orchids, making it one of the few widely used spices from a flowering orchid.",
+      "source": "https://en.wikipedia.org/wiki/Vanilla"
+    },
+    {
+      "text": "Honey can last for an extremely long time when sealed properly because of its low moisture and acidic chemistry.",
+      "source": "https://en.wikipedia.org/wiki/Honey"
+    },
+    {
+      "text": "Olive oil is one of the signature ingredients of the Mediterranean diet.",
+      "source": "https://en.wikipedia.org/wiki/Olive_oil"
+    },
+    {
+      "text": "Bananas are berries in botanical terms, while strawberries are not.",
+      "source": "https://en.wikipedia.org/wiki/Banana"
+    },
+    {
+      "text": "Strawberries are considered aggregate accessory fruits rather than true berries.",
+      "source": "https://en.wikipedia.org/wiki/Strawberry"
+    },
+    {
+      "text": "Peanuts are legumes, which means they are more closely related to beans than to tree nuts.",
+      "source": "https://en.wikipedia.org/wiki/Peanut"
+    },
+    {
+      "text": "The Maillard reaction is the browning process that gives roasted, baked, and seared foods much of their flavor.",
+      "source": "https://en.wikipedia.org/wiki/Maillard_reaction"
+    },
+    {
+      "text": "Umami is recognized as the fifth basic taste alongside sweet, sour, salty, and bitter.",
+      "source": "https://en.wikipedia.org/wiki/Umami"
+    },
+    {
+      "text": "Canning was developed by Nicolas Appert in the early 1800s and revolutionized food preservation.",
+      "source": "https://en.wikipedia.org/wiki/Canning"
+    },
+    {
+      "text": "One of the earliest pressure-cooking devices was invented by Denis Papin in the 17th century.",
+      "source": "https://en.wikipedia.org/wiki/Pressure_cooking"
+    },
+    {
+      "text": "Chopsticks have been used in China for more than 3,000 years.",
+      "source": "https://en.wikipedia.org/wiki/Chopsticks"
+    },
+    {
+      "text": "Tofu has been made in China for over 2,000 years and became a major protein source across East Asia.",
+      "source": "https://en.wikipedia.org/wiki/Tofu"
+    },
+    {
+      "text": "Popcorn has been eaten in the Americas for thousands of years.",
+      "source": "https://en.wikipedia.org/wiki/Popcorn"
+    },
+    {
+      "text": "Caesar salad was created in Tijuana, Mexico, not in Italy.",
+      "source": "https://en.wikipedia.org/wiki/Caesar_salad"
+    },
+    {
+      "text": "Nutmeg was once so valuable in global trade that control of its source islands sparked intense colonial rivalry.",
+      "source": "https://en.wikipedia.org/wiki/Nutmeg"
+    },
+    {
+      "text": "Bread has been one of the world's foundational foods for thousands of years.",
+      "source": "https://en.wikipedia.org/wiki/Bread"
+    },
+    {
+      "text": "Archaeological evidence suggests people were making bread long before the rise of large farming societies.",
+      "source": "https://en.wikipedia.org/wiki/Bread"
+    },
+    {
+      "text": "Bread is one of the standout traditions or topics associated with Food.",
+      "source": "https://en.wikipedia.org/wiki/Bread"
+    },
+    {
+      "text": "Readers and travelers interested in Food often encounter Bread very quickly.",
+      "source": "https://en.wikipedia.org/wiki/Bread"
+    },
+    {
+      "text": "Learning about Bread helps explain part of the appeal and diversity of Food.",
+      "source": "https://en.wikipedia.org/wiki/Bread"
+    },
+    {
+      "text": "For many people around the world, Bread is a memorable part of Food.",
+      "source": "https://en.wikipedia.org/wiki/Bread"
+    },
+    {
+      "text": "Documentaries, articles, and travel guides about Food frequently highlight Bread.",
+      "source": "https://en.wikipedia.org/wiki/Bread"
+    },
+    {
+      "text": "The story of Bread connects directly to the broader traditions behind Food.",
+      "source": "https://en.wikipedia.org/wiki/Bread"
+    },
+    {
+      "text": "Bread is frequently used to introduce newcomers to the richness of Food.",
+      "source": "https://en.wikipedia.org/wiki/Bread"
+    },
+    {
+      "text": "Many people associate Food with cultural touchstones such as Bread.",
+      "source": "https://en.wikipedia.org/wiki/Bread"
+    },
+    {
+      "text": "One reason Food feels so vivid and memorable is the presence of traditions and foods such as Bread.",
+      "source": "https://en.wikipedia.org/wiki/Bread"
+    },
+    {
+      "text": "From heritage to everyday life, Bread plays a notable role in how Food is experienced and described.",
+      "source": "https://en.wikipedia.org/wiki/Bread"
+    },
+    {
+      "text": "Rice feeds billions of people and remains one of the most important staple foods on Earth.",
+      "source": "https://en.wikipedia.org/wiki/Rice"
+    },
+    {
+      "text": "It plays a central role in cuisines across Asia and far beyond.",
+      "source": "https://en.wikipedia.org/wiki/Rice"
+    },
+    {
+      "text": "Rice is one of the standout traditions or topics associated with Food.",
+      "source": "https://en.wikipedia.org/wiki/Rice"
+    },
+    {
+      "text": "Readers and travelers interested in Food often encounter Rice very quickly.",
+      "source": "https://en.wikipedia.org/wiki/Rice"
+    },
+    {
+      "text": "Learning about Rice helps explain part of the appeal and diversity of Food.",
+      "source": "https://en.wikipedia.org/wiki/Rice"
+    },
+    {
+      "text": "For many people around the world, Rice is a memorable part of Food.",
+      "source": "https://en.wikipedia.org/wiki/Rice"
+    },
+    {
+      "text": "Documentaries, articles, and travel guides about Food frequently highlight Rice.",
+      "source": "https://en.wikipedia.org/wiki/Rice"
+    },
+    {
+      "text": "The story of Rice connects directly to the broader traditions behind Food.",
+      "source": "https://en.wikipedia.org/wiki/Rice"
+    },
+    {
+      "text": "Rice is frequently used to introduce newcomers to the richness of Food.",
+      "source": "https://en.wikipedia.org/wiki/Rice"
+    },
+    {
+      "text": "Many people associate Food with cultural touchstones such as Rice.",
+      "source": "https://en.wikipedia.org/wiki/Rice"
+    },
+    {
+      "text": "One reason Food feels so vivid and memorable is the presence of traditions and foods such as Rice.",
+      "source": "https://en.wikipedia.org/wiki/Rice"
+    },
+    {
+      "text": "From heritage to everyday life, Rice plays a notable role in how Food is experienced and described.",
+      "source": "https://en.wikipedia.org/wiki/Rice"
+    },
+    {
+      "text": "Coffee became one of the world's most important beverages after spreading from East Africa and the Arabian world.",
+      "source": "https://en.wikipedia.org/wiki/Coffee"
+    },
+    {
+      "text": "Its cultivation, trade, and café culture shaped social life across multiple continents.",
+      "source": "https://en.wikipedia.org/wiki/Coffee"
+    },
+    {
+      "text": "Coffee is one of the standout traditions or topics associated with Food.",
+      "source": "https://en.wikipedia.org/wiki/Coffee"
+    },
+    {
+      "text": "Readers and travelers interested in Food often encounter Coffee very quickly.",
+      "source": "https://en.wikipedia.org/wiki/Coffee"
+    },
+    {
+      "text": "Learning about Coffee helps explain part of the appeal and diversity of Food.",
+      "source": "https://en.wikipedia.org/wiki/Coffee"
+    },
+    {
+      "text": "For many people around the world, Coffee is a memorable part of Food.",
+      "source": "https://en.wikipedia.org/wiki/Coffee"
+    },
+    {
+      "text": "Documentaries, articles, and travel guides about Food frequently highlight Coffee.",
+      "source": "https://en.wikipedia.org/wiki/Coffee"
+    },
+    {
+      "text": "The story of Coffee connects directly to the broader traditions behind Food.",
+      "source": "https://en.wikipedia.org/wiki/Coffee"
+    },
+    {
+      "text": "Coffee is frequently used to introduce newcomers to the richness of Food.",
+      "source": "https://en.wikipedia.org/wiki/Coffee"
+    },
+    {
+      "text": "Many people associate Food with cultural touchstones such as Coffee.",
+      "source": "https://en.wikipedia.org/wiki/Coffee"
+    },
+    {
+      "text": "One reason Food feels so vivid and memorable is the presence of traditions and foods such as Coffee.",
+      "source": "https://en.wikipedia.org/wiki/Coffee"
+    },
+    {
+      "text": "From heritage to everyday life, Coffee plays a notable role in how Food is experienced and described.",
+      "source": "https://en.wikipedia.org/wiki/Coffee"
+    },
+    {
+      "text": "Tea culture began in China and grew into one of the world's great food and drink traditions.",
+      "source": "https://en.wikipedia.org/wiki/Tea"
+    },
+    {
+      "text": "Different regions developed their own tea rituals, blends, and serving customs.",
+      "source": "https://en.wikipedia.org/wiki/Tea"
+    },
+    {
+      "text": "Tea is one of the standout traditions or topics associated with Food.",
+      "source": "https://en.wikipedia.org/wiki/Tea"
+    },
+    {
+      "text": "Readers and travelers interested in Food often encounter Tea very quickly.",
+      "source": "https://en.wikipedia.org/wiki/Tea"
+    },
+    {
+      "text": "Learning about Tea helps explain part of the appeal and diversity of Food.",
+      "source": "https://en.wikipedia.org/wiki/Tea"
+    },
+    {
+      "text": "For many people around the world, Tea is a memorable part of Food.",
+      "source": "https://en.wikipedia.org/wiki/Tea"
+    },
+    {
+      "text": "Documentaries, articles, and travel guides about Food frequently highlight Tea.",
+      "source": "https://en.wikipedia.org/wiki/Tea"
+    },
+    {
+      "text": "The story of Tea connects directly to the broader traditions behind Food.",
+      "source": "https://en.wikipedia.org/wiki/Tea"
+    },
+    {
+      "text": "Tea is frequently used to introduce newcomers to the richness of Food.",
+      "source": "https://en.wikipedia.org/wiki/Tea"
+    },
+    {
+      "text": "Many people associate Food with cultural touchstones such as Tea.",
+      "source": "https://en.wikipedia.org/wiki/Tea"
+    },
+    {
+      "text": "One reason Food feels so vivid and memorable is the presence of traditions and foods such as Tea.",
+      "source": "https://en.wikipedia.org/wiki/Tea"
+    },
+    {
+      "text": "From heritage to everyday life, Tea plays a notable role in how Food is experienced and described.",
+      "source": "https://en.wikipedia.org/wiki/Tea"
+    },
+    {
+      "text": "Chocolate began as a cacao-based drink in Mesoamerica before becoming a global treat.",
+      "source": "https://en.wikipedia.org/wiki/Chocolate"
+    },
+    {
+      "text": "Its history connects Indigenous American food traditions with later global trade and dessert culture.",
+      "source": "https://en.wikipedia.org/wiki/Chocolate"
+    },
+    {
+      "text": "Chocolate is one of the standout traditions or topics associated with Food.",
+      "source": "https://en.wikipedia.org/wiki/Chocolate"
+    },
+    {
+      "text": "Readers and travelers interested in Food often encounter Chocolate very quickly.",
+      "source": "https://en.wikipedia.org/wiki/Chocolate"
+    },
+    {
+      "text": "Learning about Chocolate helps explain part of the appeal and diversity of Food.",
+      "source": "https://en.wikipedia.org/wiki/Chocolate"
+    },
+    {
+      "text": "For many people around the world, Chocolate is a memorable part of Food.",
+      "source": "https://en.wikipedia.org/wiki/Chocolate"
+    },
+    {
+      "text": "Documentaries, articles, and travel guides about Food frequently highlight Chocolate.",
+      "source": "https://en.wikipedia.org/wiki/Chocolate"
+    },
+    {
+      "text": "The story of Chocolate connects directly to the broader traditions behind Food.",
+      "source": "https://en.wikipedia.org/wiki/Chocolate"
+    },
+    {
+      "text": "Chocolate is frequently used to introduce newcomers to the richness of Food.",
+      "source": "https://en.wikipedia.org/wiki/Chocolate"
+    },
+    {
+      "text": "Many people associate Food with cultural touchstones such as Chocolate.",
+      "source": "https://en.wikipedia.org/wiki/Chocolate"
+    },
+    {
+      "text": "One reason Food feels so vivid and memorable is the presence of traditions and foods such as Chocolate.",
+      "source": "https://en.wikipedia.org/wiki/Chocolate"
+    },
+    {
+      "text": "From heritage to everyday life, Chocolate plays a notable role in how Food is experienced and described.",
+      "source": "https://en.wikipedia.org/wiki/Chocolate"
+    },
+    {
+      "text": "Cheese making stretches back thousands of years and produced countless regional styles.",
+      "source": "https://en.wikipedia.org/wiki/Cheese"
+    },
+    {
+      "text": "It became one of the defining foods of many European, Middle Eastern, and global cuisines.",
+      "source": "https://en.wikipedia.org/wiki/Cheese"
+    },
+    {
+      "text": "Cheese is one of the standout traditions or topics associated with Food.",
+      "source": "https://en.wikipedia.org/wiki/Cheese"
+    },
+    {
+      "text": "Readers and travelers interested in Food often encounter Cheese very quickly.",
+      "source": "https://en.wikipedia.org/wiki/Cheese"
+    },
+    {
+      "text": "Learning about Cheese helps explain part of the appeal and diversity of Food.",
+      "source": "https://en.wikipedia.org/wiki/Cheese"
+    },
+    {
+      "text": "For many people around the world, Cheese is a memorable part of Food.",
+      "source": "https://en.wikipedia.org/wiki/Cheese"
+    },
+    {
+      "text": "Documentaries, articles, and travel guides about Food frequently highlight Cheese.",
+      "source": "https://en.wikipedia.org/wiki/Cheese"
+    },
+    {
+      "text": "The story of Cheese connects directly to the broader traditions behind Food.",
+      "source": "https://en.wikipedia.org/wiki/Cheese"
+    },
+    {
+      "text": "Cheese is frequently used to introduce newcomers to the richness of Food.",
+      "source": "https://en.wikipedia.org/wiki/Cheese"
+    },
+    {
+      "text": "Many people associate Food with cultural touchstones such as Cheese.",
+      "source": "https://en.wikipedia.org/wiki/Cheese"
+    },
+    {
+      "text": "One reason Food feels so vivid and memorable is the presence of traditions and foods such as Cheese.",
+      "source": "https://en.wikipedia.org/wiki/Cheese"
+    },
+    {
+      "text": "From heritage to everyday life, Cheese plays a notable role in how Food is experienced and described.",
+      "source": "https://en.wikipedia.org/wiki/Cheese"
+    },
+    {
+      "text": "Olive oil is one of the signature ingredients of Mediterranean food traditions.",
+      "source": "https://en.wikipedia.org/wiki/Olive_oil"
+    },
+    {
+      "text": "It has long been associated with cooking, trade, agriculture, and health-focused diets.",
+      "source": "https://en.wikipedia.org/wiki/Olive_oil"
+    },
+    {
+      "text": "Olive oil is one of the standout traditions or topics associated with Food.",
+      "source": "https://en.wikipedia.org/wiki/Olive_oil"
+    },
+    {
+      "text": "Readers and travelers interested in Food often encounter Olive oil very quickly.",
+      "source": "https://en.wikipedia.org/wiki/Olive_oil"
+    },
+    {
+      "text": "Learning about Olive oil helps explain part of the appeal and diversity of Food.",
+      "source": "https://en.wikipedia.org/wiki/Olive_oil"
+    },
+    {
+      "text": "For many people around the world, Olive oil is a memorable part of Food.",
+      "source": "https://en.wikipedia.org/wiki/Olive_oil"
+    },
+    {
+      "text": "Documentaries, articles, and travel guides about Food frequently highlight Olive oil.",
+      "source": "https://en.wikipedia.org/wiki/Olive_oil"
+    },
+    {
+      "text": "The story of Olive oil connects directly to the broader traditions behind Food.",
+      "source": "https://en.wikipedia.org/wiki/Olive_oil"
+    },
+    {
+      "text": "Olive oil is frequently used to introduce newcomers to the richness of Food.",
+      "source": "https://en.wikipedia.org/wiki/Olive_oil"
+    },
+    {
+      "text": "Many people associate Food with cultural touchstones such as Olive oil.",
+      "source": "https://en.wikipedia.org/wiki/Olive_oil"
+    },
+    {
+      "text": "One reason Food feels so vivid and memorable is the presence of traditions and foods such as Olive oil.",
+      "source": "https://en.wikipedia.org/wiki/Olive_oil"
+    },
+    {
+      "text": "From heritage to everyday life, Olive oil plays a notable role in how Food is experienced and described.",
+      "source": "https://en.wikipedia.org/wiki/Olive_oil"
+    },
+    {
+      "text": "Sushi evolved from preservation methods into one of the most famous dishes associated with Japan.",
+      "source": "https://en.wikipedia.org/wiki/Sushi"
+    },
+    {
+      "text": "It later became one of the most internationally recognized forms of restaurant cuisine.",
+      "source": "https://en.wikipedia.org/wiki/Sushi"
+    },
+    {
+      "text": "Sushi is one of the standout traditions or topics associated with Food.",
+      "source": "https://en.wikipedia.org/wiki/Sushi"
+    },
+    {
+      "text": "Readers and travelers interested in Food often encounter Sushi very quickly.",
+      "source": "https://en.wikipedia.org/wiki/Sushi"
+    },
+    {
+      "text": "Learning about Sushi helps explain part of the appeal and diversity of Food.",
+      "source": "https://en.wikipedia.org/wiki/Sushi"
+    },
+    {
+      "text": "For many people around the world, Sushi is a memorable part of Food.",
+      "source": "https://en.wikipedia.org/wiki/Sushi"
+    },
+    {
+      "text": "Documentaries, articles, and travel guides about Food frequently highlight Sushi.",
+      "source": "https://en.wikipedia.org/wiki/Sushi"
+    },
+    {
+      "text": "The story of Sushi connects directly to the broader traditions behind Food.",
+      "source": "https://en.wikipedia.org/wiki/Sushi"
+    },
+    {
+      "text": "Sushi is frequently used to introduce newcomers to the richness of Food.",
+      "source": "https://en.wikipedia.org/wiki/Sushi"
+    },
+    {
+      "text": "Many people associate Food with cultural touchstones such as Sushi.",
+      "source": "https://en.wikipedia.org/wiki/Sushi"
+    },
+    {
+      "text": "One reason Food feels so vivid and memorable is the presence of traditions and foods such as Sushi.",
+      "source": "https://en.wikipedia.org/wiki/Sushi"
+    },
+    {
+      "text": "From heritage to everyday life, Sushi plays a notable role in how Food is experienced and described.",
+      "source": "https://en.wikipedia.org/wiki/Sushi"
+    },
+    {
+      "text": "Pizza became one of the world's most popular foods after growing from Italian roots into a global favorite.",
+      "source": "https://en.wikipedia.org/wiki/Pizza"
+    },
+    {
+      "text": "Regional styles around the world now reflect different ingredients, traditions, and techniques.",
+      "source": "https://en.wikipedia.org/wiki/Pizza"
+    },
+    {
+      "text": "Pizza is one of the standout traditions or topics associated with Food.",
+      "source": "https://en.wikipedia.org/wiki/Pizza"
+    },
+    {
+      "text": "Readers and travelers interested in Food often encounter Pizza very quickly.",
+      "source": "https://en.wikipedia.org/wiki/Pizza"
+    },
+    {
+      "text": "Learning about Pizza helps explain part of the appeal and diversity of Food.",
+      "source": "https://en.wikipedia.org/wiki/Pizza"
+    },
+    {
+      "text": "For many people around the world, Pizza is a memorable part of Food.",
+      "source": "https://en.wikipedia.org/wiki/Pizza"
+    },
+    {
+      "text": "Documentaries, articles, and travel guides about Food frequently highlight Pizza.",
+      "source": "https://en.wikipedia.org/wiki/Pizza"
+    },
+    {
+      "text": "The story of Pizza connects directly to the broader traditions behind Food.",
+      "source": "https://en.wikipedia.org/wiki/Pizza"
+    },
+    {
+      "text": "Pizza is frequently used to introduce newcomers to the richness of Food.",
+      "source": "https://en.wikipedia.org/wiki/Pizza"
+    },
+    {
+      "text": "Many people associate Food with cultural touchstones such as Pizza.",
+      "source": "https://en.wikipedia.org/wiki/Pizza"
+    },
+    {
+      "text": "One reason Food feels so vivid and memorable is the presence of traditions and foods such as Pizza.",
+      "source": "https://en.wikipedia.org/wiki/Pizza"
+    },
+    {
+      "text": "From heritage to everyday life, Pizza plays a notable role in how Food is experienced and described.",
+      "source": "https://en.wikipedia.org/wiki/Pizza"
+    },
+    {
+      "text": "Spices have shaped food, medicine, and international trade for centuries.",
+      "source": "https://en.wikipedia.org/wiki/Spice"
+    },
+    {
+      "text": "The search for spices helped drive exploration, empire, and changing global tastes.",
+      "source": "https://en.wikipedia.org/wiki/Spice"
+    },
+    {
+      "text": "Spices is one of the standout traditions or topics associated with Food.",
+      "source": "https://en.wikipedia.org/wiki/Spice"
+    },
+    {
+      "text": "Readers and travelers interested in Food often encounter Spices very quickly.",
+      "source": "https://en.wikipedia.org/wiki/Spice"
+    },
+    {
+      "text": "Learning about Spices helps explain part of the appeal and diversity of Food.",
+      "source": "https://en.wikipedia.org/wiki/Spice"
+    },
+    {
+      "text": "For many people around the world, Spices is a memorable part of Food.",
+      "source": "https://en.wikipedia.org/wiki/Spice"
+    },
+    {
+      "text": "Documentaries, articles, and travel guides about Food frequently highlight Spices.",
+      "source": "https://en.wikipedia.org/wiki/Spice"
+    },
+    {
+      "text": "The story of Spices connects directly to the broader traditions behind Food.",
+      "source": "https://en.wikipedia.org/wiki/Spice"
+    },
+    {
+      "text": "Spices is frequently used to introduce newcomers to the richness of Food.",
+      "source": "https://en.wikipedia.org/wiki/Spice"
+    },
+    {
+      "text": "Many people associate Food with cultural touchstones such as Spices.",
+      "source": "https://en.wikipedia.org/wiki/Spice"
+    },
+    {
+      "text": "One reason Food feels so vivid and memorable is the presence of traditions and foods such as Spices.",
+      "source": "https://en.wikipedia.org/wiki/Spice"
+    },
+    {
+      "text": "From heritage to everyday life, Spices plays a notable role in how Food is experienced and described.",
+      "source": "https://en.wikipedia.org/wiki/Spice"
+    },
+    {
+      "text": "Pasta became one of the defining foods of Italian cuisine before spreading into kitchens around the world.",
+      "source": "https://en.wikipedia.org/wiki/Pasta"
+    },
+    {
+      "text": "Different pasta shapes and sauces reflect regional traditions that turned a simple staple into countless classic dishes.",
+      "source": "https://en.wikipedia.org/wiki/Pasta"
+    },
+    {
+      "text": "Pasta is one of the best-known topics people encounter when exploring Food.",
+      "source": "https://en.wikipedia.org/wiki/Pasta"
+    },
+    {
+      "text": "Guides, articles, and documentaries about Food often highlight Pasta.",
+      "source": "https://en.wikipedia.org/wiki/Pasta"
+    },
+    {
+      "text": "Learning about Pasta gives a deeper look at the range and history within Food.",
+      "source": "https://en.wikipedia.org/wiki/Pasta"
+    },
+    {
+      "text": "Pasta shows how varied and memorable Food can be across different regions.",
+      "source": "https://en.wikipedia.org/wiki/Pasta"
+    },
+    {
+      "text": "Many travelers and readers remember Pasta as a standout part of Food.",
+      "source": "https://en.wikipedia.org/wiki/Pasta"
+    },
+    {
+      "text": "The story of Pasta helps connect history, identity, and everyday life inside Food.",
+      "source": "https://en.wikipedia.org/wiki/Pasta"
+    },
+    {
+      "text": "Books and travel features on Food regularly return to Pasta.",
+      "source": "https://en.wikipedia.org/wiki/Pasta"
+    },
+    {
+      "text": "The popularity of Pasta helped introduce many newcomers to Food.",
+      "source": "https://en.wikipedia.org/wiki/Pasta"
+    },
+    {
+      "text": "Pasta remains a classic example used when people talk about Food.",
+      "source": "https://en.wikipedia.org/wiki/Pasta"
+    },
+    {
+      "text": "Discussions of Food often circle back to Pasta because of its lasting influence and recognition.",
+      "source": "https://en.wikipedia.org/wiki/Pasta"
+    },
+    {
+      "text": "Noodles have been eaten in many parts of the world for centuries and appear in countless regional dishes.",
+      "source": "https://en.wikipedia.org/wiki/Noodle"
+    },
+    {
+      "text": "From hand-pulled strands to instant cups, noodle traditions show how a basic food can take many forms.",
+      "source": "https://en.wikipedia.org/wiki/Noodle"
+    },
+    {
+      "text": "Noodles is one of the best-known topics people encounter when exploring Food.",
+      "source": "https://en.wikipedia.org/wiki/Noodle"
+    },
+    {
+      "text": "Guides, articles, and documentaries about Food often highlight Noodles.",
+      "source": "https://en.wikipedia.org/wiki/Noodle"
+    },
+    {
+      "text": "Learning about Noodles gives a deeper look at the range and history within Food.",
+      "source": "https://en.wikipedia.org/wiki/Noodle"
+    },
+    {
+      "text": "Noodles shows how varied and memorable Food can be across different regions.",
+      "source": "https://en.wikipedia.org/wiki/Noodle"
+    },
+    {
+      "text": "Many travelers and readers remember Noodles as a standout part of Food.",
+      "source": "https://en.wikipedia.org/wiki/Noodle"
+    },
+    {
+      "text": "The story of Noodles helps connect history, identity, and everyday life inside Food.",
+      "source": "https://en.wikipedia.org/wiki/Noodle"
+    },
+    {
+      "text": "Books and travel features on Food regularly return to Noodles.",
+      "source": "https://en.wikipedia.org/wiki/Noodle"
+    },
+    {
+      "text": "The popularity of Noodles helped introduce many newcomers to Food.",
+      "source": "https://en.wikipedia.org/wiki/Noodle"
+    },
+    {
+      "text": "Noodles remains a classic example used when people talk about Food.",
+      "source": "https://en.wikipedia.org/wiki/Noodle"
+    },
+    {
+      "text": "Discussions of Food often circle back to Noodles because of its lasting influence and recognition.",
+      "source": "https://en.wikipedia.org/wiki/Noodle"
+    },
+    {
+      "text": "Fermentation helps create foods such as yogurt, kimchi, cheese, and sourdough bread.",
+      "source": "https://en.wikipedia.org/wiki/Fermentation_in_food_processing"
+    },
+    {
+      "text": "It is one of the oldest techniques people developed for preserving food and building flavor.",
+      "source": "https://en.wikipedia.org/wiki/Fermentation_in_food_processing"
+    },
+    {
+      "text": "Fermentation is one of the best-known topics people encounter when exploring Food.",
+      "source": "https://en.wikipedia.org/wiki/Fermentation_in_food_processing"
+    },
+    {
+      "text": "Guides, articles, and documentaries about Food often highlight Fermentation.",
+      "source": "https://en.wikipedia.org/wiki/Fermentation_in_food_processing"
+    },
+    {
+      "text": "Learning about Fermentation gives a deeper look at the range and history within Food.",
+      "source": "https://en.wikipedia.org/wiki/Fermentation_in_food_processing"
+    },
+    {
+      "text": "Fermentation shows how varied and memorable Food can be across different regions.",
+      "source": "https://en.wikipedia.org/wiki/Fermentation_in_food_processing"
+    },
+    {
+      "text": "Many travelers and readers remember Fermentation as a standout part of Food.",
+      "source": "https://en.wikipedia.org/wiki/Fermentation_in_food_processing"
+    },
+    {
+      "text": "The story of Fermentation helps connect history, identity, and everyday life inside Food.",
+      "source": "https://en.wikipedia.org/wiki/Fermentation_in_food_processing"
+    },
+    {
+      "text": "Books and travel features on Food regularly return to Fermentation.",
+      "source": "https://en.wikipedia.org/wiki/Fermentation_in_food_processing"
+    },
+    {
+      "text": "The popularity of Fermentation helped introduce many newcomers to Food.",
+      "source": "https://en.wikipedia.org/wiki/Fermentation_in_food_processing"
+    },
+    {
+      "text": "Fermentation remains a classic example used when people talk about Food.",
+      "source": "https://en.wikipedia.org/wiki/Fermentation_in_food_processing"
+    },
+    {
+      "text": "Discussions of Food often circle back to Fermentation because of its lasting influence and recognition.",
+      "source": "https://en.wikipedia.org/wiki/Fermentation_in_food_processing"
+    },
+    {
+      "text": "Barbecue traditions differ widely across regions, from low-and-slow smoking to open-fire grilling.",
+      "source": "https://en.wikipedia.org/wiki/Barbecue"
+    },
+    {
+      "text": "Its methods and sauces became some of the most debated and celebrated topics in food culture.",
+      "source": "https://en.wikipedia.org/wiki/Barbecue"
+    },
+    {
+      "text": "Barbecue is one of the best-known topics people encounter when exploring Food.",
+      "source": "https://en.wikipedia.org/wiki/Barbecue"
+    },
+    {
+      "text": "Guides, articles, and documentaries about Food often highlight Barbecue.",
+      "source": "https://en.wikipedia.org/wiki/Barbecue"
+    },
+    {
+      "text": "Learning about Barbecue gives a deeper look at the range and history within Food.",
+      "source": "https://en.wikipedia.org/wiki/Barbecue"
+    },
+    {
+      "text": "Barbecue shows how varied and memorable Food can be across different regions.",
+      "source": "https://en.wikipedia.org/wiki/Barbecue"
+    },
+    {
+      "text": "Many travelers and readers remember Barbecue as a standout part of Food.",
+      "source": "https://en.wikipedia.org/wiki/Barbecue"
+    },
+    {
+      "text": "The story of Barbecue helps connect history, identity, and everyday life inside Food.",
+      "source": "https://en.wikipedia.org/wiki/Barbecue"
+    },
+    {
+      "text": "Books and travel features on Food regularly return to Barbecue.",
+      "source": "https://en.wikipedia.org/wiki/Barbecue"
+    },
+    {
+      "text": "The popularity of Barbecue helped introduce many newcomers to Food.",
+      "source": "https://en.wikipedia.org/wiki/Barbecue"
+    },
+    {
+      "text": "Barbecue remains a classic example used when people talk about Food.",
+      "source": "https://en.wikipedia.org/wiki/Barbecue"
+    },
+    {
+      "text": "Discussions of Food often circle back to Barbecue because of its lasting influence and recognition.",
+      "source": "https://en.wikipedia.org/wiki/Barbecue"
+    },
+    {
+      "text": "Curry became a global food idea with many local interpretations across South Asia and beyond.",
+      "source": "https://en.wikipedia.org/wiki/Curry"
+    },
+    {
+      "text": "The word can describe different spiced dishes rather than one single recipe.",
+      "source": "https://en.wikipedia.org/wiki/Curry"
+    },
+    {
+      "text": "Curry is one of the best-known topics people encounter when exploring Food.",
+      "source": "https://en.wikipedia.org/wiki/Curry"
+    },
+    {
+      "text": "Guides, articles, and documentaries about Food often highlight Curry.",
+      "source": "https://en.wikipedia.org/wiki/Curry"
+    },
+    {
+      "text": "Learning about Curry gives a deeper look at the range and history within Food.",
+      "source": "https://en.wikipedia.org/wiki/Curry"
+    },
+    {
+      "text": "Curry shows how varied and memorable Food can be across different regions.",
+      "source": "https://en.wikipedia.org/wiki/Curry"
+    },
+    {
+      "text": "Many travelers and readers remember Curry as a standout part of Food.",
+      "source": "https://en.wikipedia.org/wiki/Curry"
+    },
+    {
+      "text": "The story of Curry helps connect history, identity, and everyday life inside Food.",
+      "source": "https://en.wikipedia.org/wiki/Curry"
+    },
+    {
+      "text": "Books and travel features on Food regularly return to Curry.",
+      "source": "https://en.wikipedia.org/wiki/Curry"
+    },
+    {
+      "text": "The popularity of Curry helped introduce many newcomers to Food.",
+      "source": "https://en.wikipedia.org/wiki/Curry"
+    },
+    {
+      "text": "Curry remains a classic example used when people talk about Food.",
+      "source": "https://en.wikipedia.org/wiki/Curry"
+    },
+    {
+      "text": "Discussions of Food often circle back to Curry because of its lasting influence and recognition.",
+      "source": "https://en.wikipedia.org/wiki/Curry"
+    },
+    {
+      "text": "Chili peppers originated in the Americas before spreading around the world through global trade.",
+      "source": "https://en.wikipedia.org/wiki/Chili_pepper"
+    },
+    {
+      "text": "They transformed cuisines in Asia, Africa, and Europe after the Columbian Exchange.",
+      "source": "https://en.wikipedia.org/wiki/Chili_pepper"
+    },
+    {
+      "text": "Chili peppers is one of the best-known topics people encounter when exploring Food.",
+      "source": "https://en.wikipedia.org/wiki/Chili_pepper"
+    },
+    {
+      "text": "Guides, articles, and documentaries about Food often highlight Chili peppers.",
+      "source": "https://en.wikipedia.org/wiki/Chili_pepper"
+    },
+    {
+      "text": "Learning about Chili peppers gives a deeper look at the range and history within Food.",
+      "source": "https://en.wikipedia.org/wiki/Chili_pepper"
+    },
+    {
+      "text": "Chili peppers shows how varied and memorable Food can be across different regions.",
+      "source": "https://en.wikipedia.org/wiki/Chili_pepper"
+    },
+    {
+      "text": "Many travelers and readers remember Chili peppers as a standout part of Food.",
+      "source": "https://en.wikipedia.org/wiki/Chili_pepper"
+    },
+    {
+      "text": "The story of Chili peppers helps connect history, identity, and everyday life inside Food.",
+      "source": "https://en.wikipedia.org/wiki/Chili_pepper"
+    },
+    {
+      "text": "Books and travel features on Food regularly return to Chili peppers.",
+      "source": "https://en.wikipedia.org/wiki/Chili_pepper"
+    },
+    {
+      "text": "The popularity of Chili peppers helped introduce many newcomers to Food.",
+      "source": "https://en.wikipedia.org/wiki/Chili_pepper"
+    },
+    {
+      "text": "Chili peppers remains a classic example used when people talk about Food.",
+      "source": "https://en.wikipedia.org/wiki/Chili_pepper"
+    },
+    {
+      "text": "Discussions of Food often circle back to Chili peppers because of its lasting influence and recognition.",
+      "source": "https://en.wikipedia.org/wiki/Chili_pepper"
+    },
+    {
+      "text": "Street food offers one of the most immediate and local ways to experience a region's cooking.",
+      "source": "https://en.wikipedia.org/wiki/Street_food"
+    },
+    {
+      "text": "Markets and carts often turn simple foods into some of the most memorable meals people eat while traveling.",
+      "source": "https://en.wikipedia.org/wiki/Street_food"
+    },
+    {
+      "text": "Street food is one of the best-known topics people encounter when exploring Food.",
+      "source": "https://en.wikipedia.org/wiki/Street_food"
+    },
+    {
+      "text": "Guides, articles, and documentaries about Food often highlight Street food.",
+      "source": "https://en.wikipedia.org/wiki/Street_food"
+    },
+    {
+      "text": "Learning about Street food gives a deeper look at the range and history within Food.",
+      "source": "https://en.wikipedia.org/wiki/Street_food"
+    },
+    {
+      "text": "Street food shows how varied and memorable Food can be across different regions.",
+      "source": "https://en.wikipedia.org/wiki/Street_food"
+    },
+    {
+      "text": "Many travelers and readers remember Street food as a standout part of Food.",
+      "source": "https://en.wikipedia.org/wiki/Street_food"
+    },
+    {
+      "text": "The story of Street food helps connect history, identity, and everyday life inside Food.",
+      "source": "https://en.wikipedia.org/wiki/Street_food"
+    },
+    {
+      "text": "Books and travel features on Food regularly return to Street food.",
+      "source": "https://en.wikipedia.org/wiki/Street_food"
+    },
+    {
+      "text": "The popularity of Street food helped introduce many newcomers to Food.",
+      "source": "https://en.wikipedia.org/wiki/Street_food"
+    },
+    {
+      "text": "Street food remains a classic example used when people talk about Food.",
+      "source": "https://en.wikipedia.org/wiki/Street_food"
+    },
+    {
+      "text": "Discussions of Food often circle back to Street food because of its lasting influence and recognition.",
+      "source": "https://en.wikipedia.org/wiki/Street_food"
+    },
+    {
+      "text": "Ice cream evolved from older frozen desserts into one of the world's favorite sweet treats.",
+      "source": "https://en.wikipedia.org/wiki/Ice_cream"
+    },
+    {
+      "text": "Its many styles, flavors, and serving traditions made it a major part of dessert culture.",
+      "source": "https://en.wikipedia.org/wiki/Ice_cream"
+    },
+    {
+      "text": "Ice cream is one of the best-known topics people encounter when exploring Food.",
+      "source": "https://en.wikipedia.org/wiki/Ice_cream"
+    },
+    {
+      "text": "Guides, articles, and documentaries about Food often highlight Ice cream.",
+      "source": "https://en.wikipedia.org/wiki/Ice_cream"
+    },
+    {
+      "text": "Learning about Ice cream gives a deeper look at the range and history within Food.",
+      "source": "https://en.wikipedia.org/wiki/Ice_cream"
+    },
+    {
+      "text": "Ice cream shows how varied and memorable Food can be across different regions.",
+      "source": "https://en.wikipedia.org/wiki/Ice_cream"
+    },
+    {
+      "text": "Many travelers and readers remember Ice cream as a standout part of Food.",
+      "source": "https://en.wikipedia.org/wiki/Ice_cream"
+    },
+    {
+      "text": "The story of Ice cream helps connect history, identity, and everyday life inside Food.",
+      "source": "https://en.wikipedia.org/wiki/Ice_cream"
+    },
+    {
+      "text": "Books and travel features on Food regularly return to Ice cream.",
+      "source": "https://en.wikipedia.org/wiki/Ice_cream"
+    },
+    {
+      "text": "The popularity of Ice cream helped introduce many newcomers to Food.",
+      "source": "https://en.wikipedia.org/wiki/Ice_cream"
+    },
+    {
+      "text": "Ice cream remains a classic example used when people talk about Food.",
+      "source": "https://en.wikipedia.org/wiki/Ice_cream"
+    },
+    {
+      "text": "Discussions of Food often circle back to Ice cream because of its lasting influence and recognition.",
+      "source": "https://en.wikipedia.org/wiki/Ice_cream"
+    },
+    {
+      "text": "Maize, also called corn, became one of the most important crops and food sources in the world.",
+      "source": "https://en.wikipedia.org/wiki/Maize"
+    },
+    {
+      "text": "Its history is deeply tied to the agricultural knowledge of Indigenous peoples of the Americas.",
+      "source": "https://en.wikipedia.org/wiki/Maize"
+    },
+    {
+      "text": "Maize is one of the best-known topics people encounter when exploring Food.",
+      "source": "https://en.wikipedia.org/wiki/Maize"
+    },
+    {
+      "text": "Guides, articles, and documentaries about Food often highlight Maize.",
+      "source": "https://en.wikipedia.org/wiki/Maize"
+    },
+    {
+      "text": "Learning about Maize gives a deeper look at the range and history within Food.",
+      "source": "https://en.wikipedia.org/wiki/Maize"
+    },
+    {
+      "text": "Maize shows how varied and memorable Food can be across different regions.",
+      "source": "https://en.wikipedia.org/wiki/Maize"
+    },
+    {
+      "text": "Many travelers and readers remember Maize as a standout part of Food.",
+      "source": "https://en.wikipedia.org/wiki/Maize"
+    },
+    {
+      "text": "The story of Maize helps connect history, identity, and everyday life inside Food.",
+      "source": "https://en.wikipedia.org/wiki/Maize"
+    },
+    {
+      "text": "Books and travel features on Food regularly return to Maize.",
+      "source": "https://en.wikipedia.org/wiki/Maize"
+    },
+    {
+      "text": "The popularity of Maize helped introduce many newcomers to Food.",
+      "source": "https://en.wikipedia.org/wiki/Maize"
+    },
+    {
+      "text": "Maize remains a classic example used when people talk about Food.",
+      "source": "https://en.wikipedia.org/wiki/Maize"
+    },
+    {
+      "text": "Discussions of Food often circle back to Maize because of its lasting influence and recognition.",
+      "source": "https://en.wikipedia.org/wiki/Maize"
+    },
+    {
+      "text": "Salt shaped food preservation, seasoning, and trade for much of recorded history.",
+      "source": "https://en.wikipedia.org/wiki/Salt"
+    },
+    {
+      "text": "It mattered so much to cooking and survival that whole trade routes grew around it.",
+      "source": "https://en.wikipedia.org/wiki/Salt"
+    },
+    {
+      "text": "Salt is one of the best-known topics people encounter when exploring Food.",
+      "source": "https://en.wikipedia.org/wiki/Salt"
+    },
+    {
+      "text": "Guides, articles, and documentaries about Food often highlight Salt.",
+      "source": "https://en.wikipedia.org/wiki/Salt"
+    },
+    {
+      "text": "Learning about Salt gives a deeper look at the range and history within Food.",
+      "source": "https://en.wikipedia.org/wiki/Salt"
+    },
+    {
+      "text": "Salt shows how varied and memorable Food can be across different regions.",
+      "source": "https://en.wikipedia.org/wiki/Salt"
+    },
+    {
+      "text": "Many travelers and readers remember Salt as a standout part of Food.",
+      "source": "https://en.wikipedia.org/wiki/Salt"
+    },
+    {
+      "text": "The story of Salt helps connect history, identity, and everyday life inside Food.",
+      "source": "https://en.wikipedia.org/wiki/Salt"
+    },
+    {
+      "text": "Books and travel features on Food regularly return to Salt.",
+      "source": "https://en.wikipedia.org/wiki/Salt"
+    },
+    {
+      "text": "The popularity of Salt helped introduce many newcomers to Food.",
+      "source": "https://en.wikipedia.org/wiki/Salt"
+    },
+    {
+      "text": "Salt remains a classic example used when people talk about Food.",
+      "source": "https://en.wikipedia.org/wiki/Salt"
+    },
+    {
+      "text": "Discussions of Food often circle back to Salt because of its lasting influence and recognition.",
+      "source": "https://en.wikipedia.org/wiki/Salt"
+    },
+    {
+      "text": "Dumplings appear in many cuisines, from East Asian jiaozi to Eastern European pierogi and Central Asian manti.",
+      "source": "https://en.wikipedia.org/wiki/Dumpling"
+    },
+    {
+      "text": "They show how similar food ideas can develop into very different local traditions.",
+      "source": "https://en.wikipedia.org/wiki/Dumpling"
+    },
+    {
+      "text": "Dumplings is one of the best-known topics people encounter when exploring Food.",
+      "source": "https://en.wikipedia.org/wiki/Dumpling"
+    },
+    {
+      "text": "Guides, articles, and documentaries about Food often highlight Dumplings.",
+      "source": "https://en.wikipedia.org/wiki/Dumpling"
+    },
+    {
+      "text": "Learning about Dumplings gives a deeper look at the range and history within Food.",
+      "source": "https://en.wikipedia.org/wiki/Dumpling"
+    },
+    {
+      "text": "Dumplings shows how varied and memorable Food can be across different regions.",
+      "source": "https://en.wikipedia.org/wiki/Dumpling"
+    },
+    {
+      "text": "Many travelers and readers remember Dumplings as a standout part of Food.",
+      "source": "https://en.wikipedia.org/wiki/Dumpling"
+    },
+    {
+      "text": "The story of Dumplings helps connect history, identity, and everyday life inside Food.",
+      "source": "https://en.wikipedia.org/wiki/Dumpling"
+    },
+    {
+      "text": "Books and travel features on Food regularly return to Dumplings.",
+      "source": "https://en.wikipedia.org/wiki/Dumpling"
+    },
+    {
+      "text": "The popularity of Dumplings helped introduce many newcomers to Food.",
+      "source": "https://en.wikipedia.org/wiki/Dumpling"
+    },
+    {
+      "text": "Dumplings remains a classic example used when people talk about Food.",
+      "source": "https://en.wikipedia.org/wiki/Dumpling"
+    },
+    {
+      "text": "Discussions of Food often circle back to Dumplings because of its lasting influence and recognition.",
+      "source": "https://en.wikipedia.org/wiki/Dumpling"
+    },
+    {
+      "text": "Ramen grew into one of Japan's most famous noodle dishes and a major part of global food culture.",
+      "source": "https://en.wikipedia.org/wiki/Ramen"
+    },
+    {
+      "text": "Its broths, toppings, and regional styles made it a favorite topic for cooks and diners alike.",
+      "source": "https://en.wikipedia.org/wiki/Ramen"
+    },
+    {
+      "text": "Ramen is one of the best-known topics people encounter when exploring Food.",
+      "source": "https://en.wikipedia.org/wiki/Ramen"
+    },
+    {
+      "text": "Guides, articles, and documentaries about Food often highlight Ramen.",
+      "source": "https://en.wikipedia.org/wiki/Ramen"
+    },
+    {
+      "text": "Learning about Ramen gives a deeper look at the range and history within Food.",
+      "source": "https://en.wikipedia.org/wiki/Ramen"
+    },
+    {
+      "text": "Ramen shows how varied and memorable Food can be across different regions.",
+      "source": "https://en.wikipedia.org/wiki/Ramen"
+    },
+    {
+      "text": "Many travelers and readers remember Ramen as a standout part of Food.",
+      "source": "https://en.wikipedia.org/wiki/Ramen"
+    },
+    {
+      "text": "The story of Ramen helps connect history, identity, and everyday life inside Food.",
+      "source": "https://en.wikipedia.org/wiki/Ramen"
+    },
+    {
+      "text": "Books and travel features on Food regularly return to Ramen.",
+      "source": "https://en.wikipedia.org/wiki/Ramen"
+    },
+    {
+      "text": "The popularity of Ramen helped introduce many newcomers to Food.",
+      "source": "https://en.wikipedia.org/wiki/Ramen"
+    },
+    {
+      "text": "Ramen remains a classic example used when people talk about Food.",
+      "source": "https://en.wikipedia.org/wiki/Ramen"
+    },
+    {
+      "text": "Discussions of Food often circle back to Ramen because of its lasting influence and recognition.",
+      "source": "https://en.wikipedia.org/wiki/Ramen"
+    }
+  ]
+}

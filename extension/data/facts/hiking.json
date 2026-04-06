@@ -1,0 +1,1521 @@
+{
+  "hobby": "Hiking & Walking",
+  "facts": [
+    {
+      "text": "The Appalachian Trail stretches approximately 2,190 miles from Springer Mountain in Georgia to Mount Katahdin in Maine, passing through 14 states.",
+      "source": "https://en.wikipedia.org/wiki/Appalachian_Trail"
+    },
+    {
+      "text": "The Pacific Crest Trail covers about 2,650 miles from the Mexican border to the Canadian border, traversing California, Oregon, and Washington.",
+      "source": "https://en.wikipedia.org/wiki/Pacific_Crest_Trail"
+    },
+    {
+      "text": "The Camino de Santiago, or Way of St. James, is a network of pilgrimage routes leading to the Cathedral of Santiago de Compostela in northwestern Spain.",
+      "source": "https://en.wikipedia.org/wiki/Camino_de_Santiago%2C_or_Way_of_St._James"
+    },
+    {
+      "text": "The Inca Trail to Machu Picchu is only 26 miles long but reaches a maximum altitude of 13,828 feet at Dead Woman's Pass.",
+      "source": "https://en.wikipedia.org/wiki/Inca_Trail_to_Machu_Picchu"
+    },
+    {
+      "text": "The Continental Divide Trail runs 3,100 miles along the Rocky Mountains from Mexico to Canada, making it one of the longest trails in the U.S.",
+      "source": "https://en.wikipedia.org/wiki/Continental_Divide_Trail"
+    },
+    {
+      "text": "Grandma Gatewood, Emma Gatewood, became the first woman to solo thru-hike the Appalachian Trail in 1955 at the age of 67, wearing Keds sneakers.",
+      "source": "https://en.wikipedia.org/wiki/Grandma_Gatewood%2C_Emma_Gatewood"
+    },
+    {
+      "text": "The longest hiking trail in the world is the Great Trail in Canada, stretching over 15,000 miles from the Atlantic to the Pacific to the Arctic Ocean.",
+      "source": "https://en.wikipedia.org/wiki/longest_hiking_trail_in_the_world"
+    },
+    {
+      "text": "Leave No Trace is built on seven principles designed to minimize human impact on the outdoors, including packing out all trash and staying on marked trails.",
+      "source": "https://en.wikipedia.org/wiki/Leave_No_Trace"
+    },
+    {
+      "text": "Hiking just 30 minutes a day can reduce the risk of heart disease, lower blood pressure, and improve cholesterol levels.",
+      "source": "https://en.wikipedia.org/wiki/Hiking"
+    },
+    {
+      "text": "The word 'hiking' comes from a dialectal English word meaning 'to walk vigorously,' first recorded in the early 19th century.",
+      "source": "https://en.wikipedia.org/wiki/word_%27hiking%27_comes_from_a_dialectal_English_word_meaning_%27to_walk_vigorously%2C%27_first"
+    },
+    {
+      "text": "Mount Kilimanjaro in Tanzania is the tallest freestanding mountain in the world and can be summited without technical climbing equipment.",
+      "source": "https://en.wikipedia.org/wiki/Mount_Kilimanjaro_in_Tanzania"
+    },
+    {
+      "text": "The Te Araroa Trail in New Zealand stretches 1,864 miles from Cape Reinga in the north to Bluff in the south.",
+      "source": "https://en.wikipedia.org/wiki/Te_Araroa_Trail_in_New_Zealand"
+    },
+    {
+      "text": "Trekking poles can reduce the impact on your knees by up to 25% when hiking downhill.",
+      "source": "https://en.wikipedia.org/wiki/Hiking"
+    },
+    {
+      "text": "The GR20 in Corsica, France, is widely considered one of the most difficult long-distance hiking trails in Europe.",
+      "source": "https://en.wikipedia.org/wiki/GR20_in_Corsica%2C_France"
+    },
+    {
+      "text": "A loaded backpack for a multi-day hike should ideally weigh no more than 20% of the hiker's body weight.",
+      "source": "https://en.wikipedia.org/wiki/Hiking"
+    },
+    {
+      "text": "The Appalachian Trail Conservancy estimates it takes five to seven months to complete a thru-hike of the entire AT.",
+      "source": "https://en.wikipedia.org/wiki/Appalachian_Trail_Conservancy_estimates_it"
+    },
+    {
+      "text": "Hiking uphill burns roughly 400 to 550 calories per hour depending on terrain, pace, and pack weight.",
+      "source": "https://en.wikipedia.org/wiki/Hiking"
+    },
+    {
+      "text": "The John Muir Trail in California runs 211 miles through the Sierra Nevada, passing through Yosemite, Kings Canyon, and Sequoia National Parks.",
+      "source": "https://en.wikipedia.org/wiki/John_Muir_Trail_in_California"
+    },
+    {
+      "text": "Properly broken-in hiking boots can prevent up to 90% of common blister problems on the trail.",
+      "source": "https://en.wikipedia.org/wiki/Hiking"
+    },
+    {
+      "text": "The first known recreational hike is often attributed to the poet Petrarch, who climbed Mont Ventoux in France in 1336 purely for pleasure.",
+      "source": "https://en.wikipedia.org/wiki/first_known_recreational_hike"
+    },
+    {
+      "text": "The Kokoda Track in Papua New Guinea is a 60-mile trail through dense jungle that was the site of a famous World War II battle.",
+      "source": "https://en.wikipedia.org/wiki/Kokoda_Track_in_Papua_New_Guinea"
+    },
+    {
+      "text": "Dehydration can set in after losing just 2% of your body weight in water, making hydration systems essential for hikers.",
+      "source": "https://en.wikipedia.org/wiki/Dehydration_can"
+    },
+    {
+      "text": "Hydration bladders, also called water reservoirs, allow hikers to drink hands-free through a tube while walking.",
+      "source": "https://en.wikipedia.org/wiki/Hydration_bladders%2C_also"
+    },
+    {
+      "text": "The average person walks about 100,000 miles in a lifetime, equivalent to circling the Earth four times.",
+      "source": "https://en.wikipedia.org/wiki/Hiking"
+    },
+    {
+      "text": "Trail runners typically move at twice the speed of hikers, covering the same terrain in roughly half the time.",
+      "source": "https://en.wikipedia.org/wiki/Hiking"
+    },
+    {
+      "text": "The highest paved road in North America is on Mount Evans in Colorado, reaching 14,130 feet, but hikers often prefer the summit trail.",
+      "source": "https://en.wikipedia.org/wiki/highest_paved_road_in_North_America"
+    },
+    {
+      "text": "AllTrails, one of the most popular hiking apps, has over 400,000 trail maps and has been downloaded by tens of millions of users worldwide.",
+      "source": "https://en.wikipedia.org/wiki/AllTrails%2C_one_of_the_most_popular_hiking_apps"
+    },
+    {
+      "text": "The Pacific Crest Trail was designated a National Scenic Trail in 1968, though it wasn't officially completed until 1993.",
+      "source": "https://en.wikipedia.org/wiki/Pacific_Crest_Trail"
+    },
+    {
+      "text": "Wearing moisture-wicking socks can reduce the risk of blisters by keeping feet dry and reducing friction.",
+      "source": "https://en.wikipedia.org/wiki/Hiking"
+    },
+    {
+      "text": "The Appalachian Trail passes through Great Smoky Mountains National Park, the most visited national park in the United States.",
+      "source": "https://en.wikipedia.org/wiki/Appalachian_Trail"
+    },
+    {
+      "text": "Cairns, small stacks of rocks, have been used as trail markers for thousands of years across many cultures.",
+      "source": "https://en.wikipedia.org/wiki/Cairns%2C_small_stacks_of_rocks"
+    },
+    {
+      "text": "Japan's Kumano Kodo pilgrimage trail is one of only two pilgrimage routes in the world designated as a UNESCO World Heritage Site, the other being the Camino de Santiago.",
+      "source": "https://en.wikipedia.org/wiki/Japan%27s_Kumano_Kodo_pilgrimage_trail"
+    },
+    {
+      "text": "Trekking poles were originally adapted from ski poles and became popular for hiking in the 1970s in Europe.",
+      "source": "https://en.wikipedia.org/wiki/Trekking_poles"
+    },
+    {
+      "text": "The fastest known time for completing the Appalachian Trail is just over 41 days, set by Karel Sabbe in 2018.",
+      "source": "https://en.wikipedia.org/wiki/fastest_known_time_for_completing_the_Appalachian_Trail"
+    },
+    {
+      "text": "Elevation gain is often a better indicator of trail difficulty than distance alone.",
+      "source": "https://en.wikipedia.org/wiki/Elevation_gain"
+    },
+    {
+      "text": "The Tongariro Alpine Crossing in New Zealand is considered one of the best day hikes in the world, crossing an active volcanic zone.",
+      "source": "https://en.wikipedia.org/wiki/Tongariro_Alpine_Crossing_in_New_Zealand"
+    },
+    {
+      "text": "Gaiters are worn over boots and lower legs to keep debris, snow, and water out while hiking in rough terrain.",
+      "source": "https://en.wikipedia.org/wiki/Gaiters"
+    },
+    {
+      "text": "The Sierra Club, founded in 1892 by John Muir, is one of the oldest and largest hiking and environmental organizations in the United States.",
+      "source": "https://en.wikipedia.org/wiki/Sierra_Club"
+    },
+    {
+      "text": "Night hiking under a full moon can be a unique experience, as moonlight can illuminate trails enough to hike without a headlamp in open terrain.",
+      "source": "https://en.wikipedia.org/wiki/Hiking"
+    },
+    {
+      "text": "The Long Trail in Vermont, completed in 1930, is the oldest long-distance hiking trail in the United States, running 272 miles.",
+      "source": "https://en.wikipedia.org/wiki/Long_Trail_in_Vermont%2C_completed_in_1930"
+    },
+    {
+      "text": "A topographic map uses contour lines to show elevation changes, making it an essential navigation tool for backcountry hikers.",
+      "source": "https://en.wikipedia.org/wiki/Hiking"
+    },
+    {
+      "text": "Declination, the difference between magnetic north and true north, must be accounted for when using a compass to navigate trails.",
+      "source": "https://en.wikipedia.org/wiki/Hiking"
+    },
+    {
+      "text": "Thru-hiking refers to completing an entire long-distance trail in a single continuous journey, as opposed to section hiking.",
+      "source": "https://en.wikipedia.org/wiki/Hiking"
+    },
+    {
+      "text": "Ultralight backpacking aims to reduce base pack weight to under 10 pounds, not counting food and water.",
+      "source": "https://en.wikipedia.org/wiki/Hiking"
+    },
+    {
+      "text": "The Tour du Mont Blanc is a 110-mile trail that circles the Mont Blanc massif through France, Italy, and Switzerland.",
+      "source": "https://en.wikipedia.org/wiki/Tour_du_Mont_Blanc"
+    },
+    {
+      "text": "Walking meditation, or kinhin, is a practice in Zen Buddhism where walking slowly and mindfully is a form of meditation.",
+      "source": "https://en.wikipedia.org/wiki/Walking_meditation%2C_or_kinhin"
+    },
+    {
+      "text": "The 10,000-steps-a-day guideline originated from a 1965 Japanese marketing campaign for a pedometer called Manpo-kei, meaning '10,000 steps meter.'",
+      "source": "https://en.wikipedia.org/wiki/10"
+    },
+    {
+      "text": "Switchbacks are zigzag paths on steep terrain that reduce the gradient and make climbing more manageable for hikers.",
+      "source": "https://en.wikipedia.org/wiki/Switchbacks"
+    },
+    {
+      "text": "Flash floods are one of the most dangerous hazards in desert hiking, capable of filling dry washes in minutes.",
+      "source": "https://en.wikipedia.org/wiki/Flash_floods"
+    },
+    {
+      "text": "The Haute Route from Chamonix to Zermatt is a classic Alpine trek covering about 112 miles with over 39,000 feet of total elevation gain.",
+      "source": "https://en.wikipedia.org/wiki/Haute_Route_from_Chamonix_to_Zermatt"
+    },
+    {
+      "text": "Bear canisters are required in many national parks and wilderness areas to store food and prevent wildlife encounters.",
+      "source": "https://en.wikipedia.org/wiki/Bear_canisters"
+    },
+    {
+      "text": "The Kalalau Trail on Kauai, Hawaii, runs 11 miles along dramatic sea cliffs on the Na Pali Coast.",
+      "source": "https://en.wikipedia.org/wiki/Kalalau_Trail_on_Kauai"
+    },
+    {
+      "text": "Hiking in high altitude requires acclimatization; ascending too quickly above 8,000 feet can cause altitude sickness.",
+      "source": "https://en.wikipedia.org/wiki/Hiking_in"
+    },
+    {
+      "text": "The Pennine Way was the first official National Trail in England, established in 1965 and stretching 268 miles.",
+      "source": "https://en.wikipedia.org/wiki/Pennine_Way"
+    },
+    {
+      "text": "Waterproof breathable fabrics like Gore-Tex revolutionized hiking gear by keeping rain out while allowing sweat to escape.",
+      "source": "https://en.wikipedia.org/wiki/Hiking"
+    },
+    {
+      "text": "The Triple Crown of Hiking consists of thru-hiking the Appalachian Trail, the Pacific Crest Trail, and the Continental Divide Trail.",
+      "source": "https://en.wikipedia.org/wiki/Triple_Crown_of_Hiking"
+    },
+    {
+      "text": "Fewer than 500 people have completed the Triple Crown of Hiking, making it one of the rarest achievements in outdoor recreation.",
+      "source": "https://en.wikipedia.org/wiki/Fewer_than_500_people"
+    },
+    {
+      "text": "GPS devices for hiking can pinpoint your location within about 10 feet, though tree cover and canyon walls can reduce accuracy.",
+      "source": "https://en.wikipedia.org/wiki/Hiking"
+    },
+    {
+      "text": "Scotland's right to roam law allows hikers to walk across most private land as long as they act responsibly.",
+      "source": "https://en.wikipedia.org/wiki/Hiking"
+    },
+    {
+      "text": "The Overland Track in Tasmania, Australia, is a 40-mile trail through Cradle Mountain–Lake St Clair National Park and is one of Australia's premier hikes.",
+      "source": "https://en.wikipedia.org/wiki/Overland_Track_in_Tasmania%2C_Australia"
+    },
+    {
+      "text": "Layering clothing is the most effective way to regulate body temperature while hiking: a base layer wicks moisture, a mid layer insulates, and an outer layer blocks wind and rain.",
+      "source": "https://en.wikipedia.org/wiki/Layering_clothing"
+    },
+    {
+      "text": "The Annapurna Circuit in Nepal is a classic Himalayan trek that reaches Thorong La Pass at 17,769 feet.",
+      "source": "https://en.wikipedia.org/wiki/Annapurna_Circuit_in_Nepal"
+    },
+    {
+      "text": "Hiking with a group is statistically safer than solo hiking, as injuries can be managed more effectively with assistance nearby.",
+      "source": "https://en.wikipedia.org/wiki/Hiking_with_a_group"
+    },
+    {
+      "text": "The concept of National Scenic Trails in the United States was established by the National Trails System Act of 1968.",
+      "source": "https://en.wikipedia.org/wiki/concept_of_National_Scenic_Trails_in_the_United_States"
+    },
+    {
+      "text": "Vibram, the famous rubber sole company, was founded after Vitale Bramani lost six companions in a mountaineering accident due to poor footwear.",
+      "source": "https://en.wikipedia.org/wiki/Vibram%2C_the_famous_rubber_sole_company"
+    },
+    {
+      "text": "The W Trek in Torres del Paine National Park, Chile, is named for the W-shaped route it follows through Patagonian wilderness.",
+      "source": "https://en.wikipedia.org/wiki/W_Trek_in_Torres_del_Paine_National_Park%2C_Chile"
+    },
+    {
+      "text": "Desert hikers are advised to carry at least one gallon of water per person per day due to rapid dehydration in arid conditions.",
+      "source": "https://en.wikipedia.org/wiki/Desert_hikers"
+    },
+    {
+      "text": "Trail magic refers to unexpected acts of kindness on the trail, such as leaving water or food for thru-hikers at remote points.",
+      "source": "https://en.wikipedia.org/wiki/Hiking"
+    },
+    {
+      "text": "The Milford Track in New Zealand was once called 'the finest walk in the world' and is a 33-mile route through Fiordland.",
+      "source": "https://en.wikipedia.org/wiki/Milford_Track_in_New_Zealand"
+    },
+    {
+      "text": "Birdwatching while hiking is called 'birding on foot' and is one of the fastest-growing outdoor activities combining two popular hobbies.",
+      "source": "https://en.wikipedia.org/wiki/Birdwatching_while_hiking"
+    },
+    {
+      "text": "The Bibbulmun Track in Western Australia stretches 621 miles from Kalamunda near Perth to Albany on the southern coast.",
+      "source": "https://en.wikipedia.org/wiki/Bibbulmun_Track_in_Western_Australia"
+    },
+    {
+      "text": "Hypothermia can occur even in summer if hikers get wet and are exposed to wind at higher elevations.",
+      "source": "https://en.wikipedia.org/wiki/Hypothermia_can_occur_even_in_summer_if_hikers_get_wet_and"
+    },
+    {
+      "text": "Power walking is defined as walking at a pace of 4 to 5.5 mph, faster than normal walking but not running.",
+      "source": "https://en.wikipedia.org/wiki/Power_walking"
+    },
+    {
+      "text": "The Lycian Way in Turkey is a 335-mile trail along the Mediterranean coast, passing ancient ruins and turquoise bays.",
+      "source": "https://en.wikipedia.org/wiki/Lycian_Way_in_Turkey"
+    },
+    {
+      "text": "A compass does not need batteries and is considered a more reliable backup navigation tool than GPS in the wilderness.",
+      "source": "https://en.wikipedia.org/wiki/A_compass_does_not_need_batteries_and"
+    },
+    {
+      "text": "John Muir, often called the Father of the National Parks, walked over 1,000 miles from Indiana to Florida in 1867.",
+      "source": "https://en.wikipedia.org/wiki/John_Muir%2C_often"
+    },
+    {
+      "text": "The Rim-to-Rim hike across the Grand Canyon is about 24 miles and drops nearly a mile in elevation before climbing back up.",
+      "source": "https://en.wikipedia.org/wiki/Rim-to-Rim_hike_across_the_Grand_Canyon"
+    },
+    {
+      "text": "DEET-based insect repellents are considered the gold standard for protection against ticks and mosquitoes on the trail.",
+      "source": "https://en.wikipedia.org/wiki/DEET-based_insect_repellents"
+    },
+    {
+      "text": "Shinrin-yoku, or forest bathing, is a Japanese practice of slowly walking through forests to reduce stress and boost immunity.",
+      "source": "https://en.wikipedia.org/wiki/Shinrin-yoku%2C_or_forest_bathing"
+    },
+    {
+      "text": "The Zion Narrows in Utah require hikers to wade through the Virgin River, sometimes in waist-deep water, for much of the 16-mile route.",
+      "source": "https://en.wikipedia.org/wiki/Zion_Narrows_in_Utah"
+    },
+    {
+      "text": "Step counters and pedometers date back to the 18th century, when Thomas Jefferson reportedly brought one from France to the United States.",
+      "source": "https://en.wikipedia.org/wiki/Thomas_Jefferson"
+    },
+    {
+      "text": "The Laugavegur Trail in Iceland covers 34 miles through colorful rhyolite mountains, hot springs, and black sand deserts.",
+      "source": "https://en.wikipedia.org/wiki/Laugavegur_Trail_in_Iceland"
+    },
+    {
+      "text": "Carrying a whistle is recommended for all hikers; three short blasts is the universal distress signal.",
+      "source": "https://en.wikipedia.org/wiki/Carrying_a_whistle"
+    },
+    {
+      "text": "The Great Wall of China stretches over 13,000 miles, and certain restored sections are popular hiking destinations.",
+      "source": "https://en.wikipedia.org/wiki/Great_Wall_of_China_stretches_over_13%2C000_miles%2C_and_certain_restored_sections"
+    },
+    {
+      "text": "Altitude sickness symptoms include headache, nausea, and dizziness, and the primary treatment is to descend to a lower elevation.",
+      "source": "https://en.wikipedia.org/wiki/Hiking"
+    },
+    {
+      "text": "Urban walking tours have become a popular way to explore cities, with guided walks covering history, architecture, food, and street art.",
+      "source": "https://en.wikipedia.org/wiki/Urban_walking_tours"
+    },
+    {
+      "text": "The Appalachian Mountain Club, founded in 1876, is the oldest outdoor recreation and conservation organization in the United States.",
+      "source": "https://en.wikipedia.org/wiki/Appalachian_Mountain_Club"
+    },
+    {
+      "text": "A blaze is a painted mark on a tree or rock used to indicate a trail's route; the Appalachian Trail uses white blazes.",
+      "source": "https://en.wikipedia.org/wiki/A_blaze"
+    },
+    {
+      "text": "The Everest Base Camp trek in Nepal reaches 17,598 feet and typically takes 12 to 14 days to complete.",
+      "source": "https://en.wikipedia.org/wiki/Everest_Base_Camp_trek_in_Nepal_reaches_17%2C598_feet_and_typically"
+    },
+    {
+      "text": "Merino wool is prized for hiking socks because it regulates temperature, wicks moisture, and resists odor naturally.",
+      "source": "https://en.wikipedia.org/wiki/Merino_wool"
+    },
+    {
+      "text": "The Pacific Northwest Trail runs 1,200 miles from Montana's Glacier National Park to Washington's Olympic Coast.",
+      "source": "https://en.wikipedia.org/wiki/Pacific_Northwest_Trail"
+    },
+    {
+      "text": "Hikers should yield to horses and pack animals on trails, stepping to the downhill side and speaking calmly.",
+      "source": "https://en.wikipedia.org/wiki/Hiking"
+    },
+    {
+      "text": "The Dolomites in Italy offer some of Europe's most dramatic hiking scenery, with jagged limestone peaks and via ferrata routes.",
+      "source": "https://en.wikipedia.org/wiki/Dolomites_in_Italy"
+    },
+    {
+      "text": "Via ferrata, meaning 'iron path' in Italian, are protected climbing routes using steel cables and ladders fixed to rock faces.",
+      "source": "https://en.wikipedia.org/wiki/Via_ferrata%2C_meaning_%27iron_path%27_in_Italian"
+    },
+    {
+      "text": "Walking just 20 minutes a day in nature has been shown to significantly reduce cortisol, the body's main stress hormone.",
+      "source": "https://en.wikipedia.org/wiki/Walking_just_20_minutes_a_day_in_nature"
+    },
+    {
+      "text": "The Wonderland Trail encircles Mount Rainier in Washington, covering 93 miles with over 22,000 feet of elevation gain.",
+      "source": "https://en.wikipedia.org/wiki/Wonderland_Trail"
+    },
+    {
+      "text": "Naismith's Rule estimates hiking time by allowing one hour for every three miles of distance plus one hour for every 2,000 feet of ascent.",
+      "source": "https://en.wikipedia.org/wiki/Naismith%27s_Rule"
+    },
+    {
+      "text": "The Drakensberg Grand Traverse in South Africa covers about 140 miles along the escarpment of the Drakensberg Mountains.",
+      "source": "https://en.wikipedia.org/wiki/Drakensberg_Grand_Traverse_in_South_Africa"
+    },
+    {
+      "text": "Cotton clothing is avoided by experienced hikers because it retains moisture and loses insulating properties when wet, earning it the nickname 'death cloth.'",
+      "source": "https://en.wikipedia.org/wiki/Cotton_clothing"
+    },
+    {
+      "text": "The Bruce Trail in Ontario, Canada, is the oldest and longest marked footpath in Canada at over 550 miles.",
+      "source": "https://en.wikipedia.org/wiki/Bruce_Trail_in_Ontario%2C_Canada"
+    },
+    {
+      "text": "Lyme disease, transmitted by tick bites, is a significant concern for hikers in the northeastern and upper midwestern United States.",
+      "source": "https://en.wikipedia.org/wiki/Lyme_disease%2C_transmitted_by_tick_bites"
+    },
+    {
+      "text": "The Otter Trail along South Africa's Garden Route is a five-day coastal hike limited to 12 hikers per day to protect the environment.",
+      "source": "https://en.wikipedia.org/wiki/Otter_Trail_along_South_Africa%27s_Garden_Route"
+    },
+    {
+      "text": "The average walking speed for an adult is about 3.1 miles per hour on flat ground.",
+      "source": "https://en.wikipedia.org/wiki/average_walking_speed_for_an_adult"
+    },
+    {
+      "text": "The concept of 'trail angels' — people who voluntarily help thru-hikers with rides, food, or lodging — is a beloved tradition of long-distance hiking culture.",
+      "source": "https://en.wikipedia.org/wiki/Hiking"
+    },
+    {
+      "text": "The King's Trail (Kungsleden) in Sweden runs 270 miles through Arctic landscapes above the polar circle.",
+      "source": "https://en.wikipedia.org/wiki/King%27s_Trail"
+    },
+    {
+      "text": "Headlamps are preferred over flashlights for hiking because they keep both hands free for balance and navigation.",
+      "source": "https://en.wikipedia.org/wiki/Headlamps"
+    },
+    {
+      "text": "Half Dome in Yosemite National Park requires a permit and the use of fixed cables to reach its 8,842-foot summit.",
+      "source": "https://en.wikipedia.org/wiki/Half_Dome_in_Yosemite_National_Park"
+    },
+    {
+      "text": "The GR10 traverses the French Pyrenees from the Atlantic to the Mediterranean, covering about 540 miles.",
+      "source": "https://en.wikipedia.org/wiki/GR10"
+    },
+    {
+      "text": "Moleskin is a common blister treatment that hikers apply directly to hot spots before blisters fully form.",
+      "source": "https://en.wikipedia.org/wiki/Moleskin"
+    },
+    {
+      "text": "The Israel National Trail runs about 683 miles from the northern tip of the country to the Red Sea in the south.",
+      "source": "https://en.wikipedia.org/wiki/Israel_National_Trail"
+    },
+    {
+      "text": "Geocaching, a GPS-based treasure hunting game, is a popular activity combined with hiking on trails worldwide.",
+      "source": "https://en.wikipedia.org/wiki/Geocaching%2C_a_GPS-based_treasure_hunting_game"
+    },
+    {
+      "text": "The volcanic terrain of Hawaii Volcanoes National Park offers unique hiking over hardened lava flows and through lush rainforests.",
+      "source": "https://en.wikipedia.org/wiki/Hawaii_Volcanoes_National_Park"
+    },
+    {
+      "text": "A space blanket, weighing less than two ounces, can reflect up to 90% of body heat and is an essential emergency item for hikers.",
+      "source": "https://en.wikipedia.org/wiki/A_space_blanket%2C_weighing_less_than_two_ounces%2C_can_reflect_up_to_90%25_of_body_heat_and"
+    },
+    {
+      "text": "The Chilkoot Trail in Alaska was used during the Klondike Gold Rush and is now a 33-mile historic hiking route.",
+      "source": "https://en.wikipedia.org/wiki/Chilkoot_Trail_in_Alaska"
+    },
+    {
+      "text": "Walking poles help distribute weight more evenly, effectively turning a two-legged activity into a four-legged one.",
+      "source": "https://en.wikipedia.org/wiki/Hiking"
+    },
+    {
+      "text": "The Snowman Trek in Bhutan is considered one of the most difficult treks in the world, taking 25 days with passes above 16,000 feet.",
+      "source": "https://en.wikipedia.org/wiki/Snowman_Trek_in_Bhutan"
+    },
+    {
+      "text": "Studies show that spending time walking in natural environments improves creative problem-solving by up to 50%.",
+      "source": "https://en.wikipedia.org/wiki/Hiking"
+    },
+    {
+      "text": "The Routeburn Track in New Zealand is a 20-mile alpine crossing between Mount Aspiring and Fiordland National Parks.",
+      "source": "https://en.wikipedia.org/wiki/Routeburn_Track_in_New_Zealand"
+    },
+    {
+      "text": "Bear spray has been shown to be more effective than firearms at deterring bear attacks, stopping aggressive bears over 90% of the time.",
+      "source": "https://en.wikipedia.org/wiki/Bear_spray"
+    },
+    {
+      "text": "The Hadrian's Wall Path in England follows the Roman-built wall for 84 miles from coast to coast.",
+      "source": "https://en.wikipedia.org/wiki/Hadrian%27s_Wall_Path_in_England"
+    },
+    {
+      "text": "Pedometers work by detecting the motion of a person's steps using a mechanical sensor or accelerometer.",
+      "source": "https://en.wikipedia.org/wiki/Hiking"
+    },
+    {
+      "text": "The Inca Empire built over 25,000 miles of roads and trails, many of which are still used by hikers today.",
+      "source": "https://en.wikipedia.org/wiki/Inca_Empire_built_over_25%2C000_miles_of_roads_and_trails%2C_many_of_which"
+    },
+    {
+      "text": "Trail running shoes are lighter and more flexible than hiking boots but offer less ankle support on rough terrain.",
+      "source": "https://en.wikipedia.org/wiki/Trail_running_shoes"
+    },
+    {
+      "text": "The Heysen Trail in South Australia stretches 746 miles from Cape Jervis to the Flinders Ranges.",
+      "source": "https://en.wikipedia.org/wiki/Heysen_Trail_in_South_Australia"
+    },
+    {
+      "text": "Sunburn risk increases by about 4% for every 1,000 feet of elevation gained due to thinner atmosphere.",
+      "source": "https://en.wikipedia.org/wiki/Hiking"
+    },
+    {
+      "text": "The West Highland Way in Scotland covers 96 miles from Milngavie near Glasgow to Fort William at the foot of Ben Nevis.",
+      "source": "https://en.wikipedia.org/wiki/West_Highland_Way_in_Scotland"
+    },
+    {
+      "text": "Ankle sprains account for roughly 25% of all hiking-related injuries, making sturdy footwear a top safety priority.",
+      "source": "https://en.wikipedia.org/wiki/Hiking"
+    },
+    {
+      "text": "The Appalachian Trail has over 250 shelters along its length, spaced roughly every eight miles for overnight hikers.",
+      "source": "https://en.wikipedia.org/wiki/Appalachian_Trail"
+    },
+    {
+      "text": "Camelback hydration packs popularized the hands-free drinking system and were originally developed for emergency medical workers.",
+      "source": "https://en.wikipedia.org/wiki/Camelback_hydration_packs_popularized_the_hands-free_drinking_system_and"
+    },
+    {
+      "text": "The Larapinta Trail in Australia's Northern Territory runs 139 miles along the West MacDonnell Ranges.",
+      "source": "https://en.wikipedia.org/wiki/Larapinta_Trail_in_Australia%27s_Northern_Territory"
+    },
+    {
+      "text": "Walking backwards, or retro-walking, is practiced in some fitness traditions and engages different muscle groups than forward walking.",
+      "source": "https://en.wikipedia.org/wiki/Walking_backwards%2C_or_retro-walking"
+    },
+    {
+      "text": "The Camino de Santiago has experienced a massive surge in popularity, with over 400,000 pilgrims receiving the Compostela certificate in recent years.",
+      "source": "https://en.wikipedia.org/wiki/Camino_de_Santiago"
+    },
+    {
+      "text": "Map and compass skills are collectively called orienteering, and competitive orienteering is recognized as a sport in over 70 countries.",
+      "source": "https://en.wikipedia.org/wiki/Map_and_compass_skills"
+    },
+    {
+      "text": "The Torres del Paine O Circuit in Chile is an 80-mile loop that takes about 8 to 10 days to complete.",
+      "source": "https://en.wikipedia.org/wiki/Torres_del_Paine_O_Circuit_in_Chile"
+    },
+    {
+      "text": "Hiking at a moderate pace can burn between 300 and 400 calories per hour for a 150-pound person.",
+      "source": "https://en.wikipedia.org/wiki/Hiking_at"
+    },
+    {
+      "text": "The Sentiero degli Dei (Path of the Gods) on Italy's Amalfi Coast offers stunning coastal views along a cliff-side trail.",
+      "source": "https://en.wikipedia.org/wiki/Sentiero"
+    },
+    {
+      "text": "Lightning is a serious danger for hikers above treeline; the 30-30 rule suggests seeking shelter if thunder follows lightning by less than 30 seconds.",
+      "source": "https://en.wikipedia.org/wiki/Lightning"
+    },
+    {
+      "text": "The South West Coast Path in England is the longest National Trail at 630 miles, following the coastline of Devon and Cornwall.",
+      "source": "https://en.wikipedia.org/wiki/South_West_Coast_Path_in_England"
+    },
+    {
+      "text": "Smartwool, a popular hiking sock brand, helped bring merino wool back into mainstream outdoor gear in the 1990s.",
+      "source": "https://en.wikipedia.org/wiki/Smartwool%2C_a_popular_hiking_sock_brand"
+    },
+    {
+      "text": "A hiker's 'trail name' is a nickname adopted during a thru-hike, a tradition especially strong on the Appalachian Trail.",
+      "source": "https://en.wikipedia.org/wiki/A_hiker%27s_%27trail_name"
+    },
+    {
+      "text": "The Fish River Canyon Hiking Trail in Namibia is one of Africa's great hikes, traversing an 86-mile canyon over five days.",
+      "source": "https://en.wikipedia.org/wiki/Fish_River_Canyon_Hiking_Trail_in_Namibia"
+    },
+    {
+      "text": "Water purification tablets containing chlorine dioxide can make backcountry water safe to drink in about 30 minutes.",
+      "source": "https://en.wikipedia.org/wiki/Hiking"
+    },
+    {
+      "text": "Denali National Park in Alaska has only one road and vast trail-less wilderness, requiring hikers to navigate cross-country.",
+      "source": "https://en.wikipedia.org/wiki/Denali_National_Park_in_Alaska"
+    },
+    {
+      "text": "The Ueli Steck, known as the 'Swiss Machine,' set numerous speed records on Alpine climbing and hiking routes.",
+      "source": "https://en.wikipedia.org/wiki/Ueli_Steck%2C_known_as_the_%27Swiss_Machine"
+    },
+    {
+      "text": "The average thru-hiker of the Appalachian Trail loses 20 to 40 pounds during the five to seven month journey.",
+      "source": "https://en.wikipedia.org/wiki/Appalachian_Trail"
+    },
+    {
+      "text": "Flânerie is the French art of leisurely walking through a city with no particular destination, simply observing urban life.",
+      "source": "https://en.wikipedia.org/wiki/Fl%C3%A2nerie"
+    },
+    {
+      "text": "The Haute Randonnée Pyrénéenne traverses the Pyrenees for about 500 miles, often following the border between France and Spain.",
+      "source": "https://en.wikipedia.org/wiki/Haute"
+    },
+    {
+      "text": "Green Boots, a famous landmark on Mount Everest, is the body of a climber that serves as a grim waypoint near the summit.",
+      "source": "https://en.wikipedia.org/wiki/Green_Boots%2C_a_famous_landmark_on_Mount_Everest"
+    },
+    {
+      "text": "Walking is the most popular form of exercise in the world, with billions of people walking daily for transportation or recreation.",
+      "source": "https://en.wikipedia.org/wiki/Walking"
+    },
+    {
+      "text": "The Bicentennial National Trail in Australia is the longest marked multi-use trail in the world at over 3,200 miles.",
+      "source": "https://en.wikipedia.org/wiki/Bicentennial_National_Trail_in_Australia"
+    },
+    {
+      "text": "Ticks are most active in warm months and are commonly found in tall grass and leaf litter along hiking trails.",
+      "source": "https://en.wikipedia.org/wiki/Ticks"
+    },
+    {
+      "text": "The Presidential Traverse in New Hampshire's White Mountains covers roughly 23 miles over peaks named after U.S. presidents.",
+      "source": "https://en.wikipedia.org/wiki/Presidential_Traverse_in_New_Hampshire%27s_White_Mountains"
+    },
+    {
+      "text": "The oxygen level at the summit of Mount Everest is about one-third of what it is at sea level.",
+      "source": "https://en.wikipedia.org/wiki/oxygen_level_at_the_summit_of_Mount_Everest"
+    },
+    {
+      "text": "Hiking with dogs is increasingly popular, but many trails and national parks require dogs to be on a leash at all times.",
+      "source": "https://en.wikipedia.org/wiki/Hiking_with_dogs"
+    },
+    {
+      "text": "The GR5 trail runs from the North Sea at Hoek van Holland to the Mediterranean at Nice, covering about 1,550 miles.",
+      "source": "https://en.wikipedia.org/wiki/GR5"
+    },
+    {
+      "text": "REI Co-op was founded in 1938 by a group of Pacific Northwest climbers who wanted quality ice axes at fair prices.",
+      "source": "https://en.wikipedia.org/wiki/REI_Co-op"
+    },
+    {
+      "text": "The Jordan Trail stretches 400 miles from Um Qais in the north to Aqaba on the Red Sea.",
+      "source": "https://en.wikipedia.org/wiki/Jordan_Trail"
+    },
+    {
+      "text": "Hiking downhill puts up to seven times your body weight in force on your knees, making trekking poles essential for descent.",
+      "source": "https://en.wikipedia.org/wiki/Hiking"
+    },
+    {
+      "text": "In Japan, there is a tradition of climbing Mount Fuji at night to reach the summit in time for sunrise.",
+      "source": "https://en.wikipedia.org/wiki/In_Japan%2C_there"
+    },
+    {
+      "text": "The first GPS satellite was launched in 1978, and the system became fully operational for civilian use in 1995, transforming wilderness navigation.",
+      "source": "https://en.wikipedia.org/wiki/first_GPS_satellite"
+    },
+    {
+      "text": "The Choquequirao Trek in Peru is an alternative to the Inca Trail, leading to ruins sometimes called the 'other Machu Picchu.'",
+      "source": "https://en.wikipedia.org/wiki/Choquequirao_Trek_in_Peru"
+    },
+    {
+      "text": "Acute mountain sickness affects an estimated 25% of hikers who sleep above 8,000 feet for the first time.",
+      "source": "https://en.wikipedia.org/wiki/Hiking"
+    },
+    {
+      "text": "The Great Glen Way in Scotland follows 79 miles of trails along a geological fault line from Fort William to Inverness.",
+      "source": "https://en.wikipedia.org/wiki/Great_Glen_Way_in_Scotland"
+    },
+    {
+      "text": "Waterfall hikes are among the most popular day hikes in national parks, combining scenic beauty with relatively moderate difficulty.",
+      "source": "https://en.wikipedia.org/wiki/Waterfall_hikes"
+    },
+    {
+      "text": "Hiking in Sweden, Finland, and Norway benefits from the 'Right of Public Access,' which allows hiking on private land as long as no damage is done.",
+      "source": "https://en.wikipedia.org/wiki/Hiking_in_Sweden"
+    },
+    {
+      "text": "The concept of wearing red or bright colors while hiking helps with visibility and can aid search and rescue teams in emergencies.",
+      "source": "https://en.wikipedia.org/wiki/Hiking"
+    },
+    {
+      "text": "The Inca Trail to Machu Picchu now requires permits, limited to 500 people per day including guides and porters.",
+      "source": "https://en.wikipedia.org/wiki/Inca_Trail_to_Machu_Picchu"
+    },
+    {
+      "text": "The Seven Summits challenge involves climbing the highest peak on each continent, with several of them requiring extensive hiking approaches.",
+      "source": "https://en.wikipedia.org/wiki/Seven_Summits"
+    },
+    {
+      "text": "Strava and other fitness apps have popularized tracking hiking performance with GPS data, elevation profiles, and pace metrics.",
+      "source": "https://en.wikipedia.org/wiki/Strava_and_other_fitness_apps"
+    },
+    {
+      "text": "The Peaks of the Balkans Trail is a 120-mile route through Albania, Kosovo, and Montenegro, crossing three countries.",
+      "source": "https://en.wikipedia.org/wiki/Peaks_of_the_Balkans_Trail"
+    },
+    {
+      "text": "Carrying a personal locator beacon (PLB) can send your GPS coordinates to search and rescue via satellite in an emergency.",
+      "source": "https://en.wikipedia.org/wiki/Hiking"
+    },
+    {
+      "text": "National Parks in the U.S. receive over 300 million recreational visits per year, with hiking being the most popular activity.",
+      "source": "https://en.wikipedia.org/wiki/National_Parks_in_the_U.S"
+    },
+    {
+      "text": "The Toubkal Circuit in Morocco takes hikers to the summit of Mount Toubkal at 13,671 feet, the highest peak in North Africa.",
+      "source": "https://en.wikipedia.org/wiki/Toubkal_Circuit_in_Morocco"
+    },
+    {
+      "text": "The term 'trailhead' refers to the designated starting point of a hiking trail, often marked with a sign and a parking area.",
+      "source": "https://en.wikipedia.org/wiki/term_%27trailhead%27_refers_to_the_designated_starting_point_of_a_hiking_trail%2C_often"
+    },
+    {
+      "text": "Walking is considered a low-impact exercise that strengthens bones without the joint stress of running.",
+      "source": "https://en.wikipedia.org/wiki/Walking"
+    },
+    {
+      "text": "The Tahoe Rim Trail encircles Lake Tahoe over 170 miles, passing through both California and Nevada.",
+      "source": "https://en.wikipedia.org/wiki/Tahoe_Rim_Trail"
+    },
+    {
+      "text": "Frostbite can occur within 30 minutes when wind chill drops below minus 20 degrees Fahrenheit, making proper winter hiking gear critical.",
+      "source": "https://en.wikipedia.org/wiki/Hiking"
+    },
+    {
+      "text": "The Via Dinarica is a long-distance trail running through the Dinaric Alps across eight countries in the Western Balkans.",
+      "source": "https://en.wikipedia.org/wiki/Via_Dinarica"
+    },
+    {
+      "text": "Trail etiquette generally dictates that hikers going uphill have the right of way over those descending.",
+      "source": "https://en.wikipedia.org/wiki/Trail_etiquette_generally_dictates_that_hikers_going_uphill"
+    },
+    {
+      "text": "The Richtersveld Wildflower Trail in South Africa offers spectacular wildflower displays during the spring bloom.",
+      "source": "https://en.wikipedia.org/wiki/Richtersveld_Wildflower_Trail_in_South_Africa"
+    },
+    {
+      "text": "Backpacking stoves weigh as little as three ounces and can boil water in under three minutes for on-trail meals.",
+      "source": "https://en.wikipedia.org/wiki/Hiking"
+    },
+    {
+      "text": "The Kungsleden trail in Sweden passes through Abisko National Park, one of the best places in the world to see the Northern Lights.",
+      "source": "https://en.wikipedia.org/wiki/Kungsleden"
+    },
+    {
+      "text": "Walking clubs have existed for centuries; the Sunday Tramps, a famous English walking club, was founded in 1879.",
+      "source": "https://en.wikipedia.org/wiki/Walking_clubs"
+    },
+    {
+      "text": "The average hiking speed on moderate terrain is about 2 miles per hour, accounting for elevation change and rest stops.",
+      "source": "https://en.wikipedia.org/wiki/average_hiking_speed_on_moderate_terrain"
+    },
+    {
+      "text": "The Cotswold Way in England stretches 102 miles through picturesque English countryside and honey-colored stone villages.",
+      "source": "https://en.wikipedia.org/wiki/Cotswold_Way_in_England"
+    },
+    {
+      "text": "Hypothermia can begin when core body temperature drops below 95 degrees Fahrenheit, even in conditions that seem mild.",
+      "source": "https://en.wikipedia.org/wiki/Hiking"
+    },
+    {
+      "text": "The Mark O. Hatfield Wilderness in Oregon contains part of the Pacific Crest Trail and receives over 100 inches of rain per year.",
+      "source": "https://en.wikipedia.org/wiki/Mark_O._Hatfield_Wilderness_in_Oregon"
+    },
+    {
+      "text": "Birdwatching is most productive during early morning hours, making dawn hikes ideal for spotting birds along the trail.",
+      "source": "https://en.wikipedia.org/wiki/Birdwatching"
+    },
+    {
+      "text": "Walking pilgrimage routes exist in nearly every culture, from the Shikoku Pilgrimage in Japan to Aboriginal songlines in Australia.",
+      "source": "https://en.wikipedia.org/wiki/Shikoku_Pilgrimage_in_Japan_to_Aboriginal"
+    },
+    {
+      "text": "The Maroon Bells near Aspen, Colorado, are the most photographed peaks in North America and offer several popular hiking trails.",
+      "source": "https://en.wikipedia.org/wiki/Maroon_Bells_near_Aspen%2C_Colorado"
+    },
+    {
+      "text": "Electrolyte replacement is essential during long hikes, as sweating depletes sodium, potassium, and magnesium.",
+      "source": "https://en.wikipedia.org/wiki/Electrolyte_replacement"
+    },
+    {
+      "text": "The E1 European long-distance path stretches over 4,900 miles from Norway's North Cape to Sicily, Italy.",
+      "source": "https://en.wikipedia.org/wiki/E1_European"
+    },
+    {
+      "text": "Micro-spikes or crampons are essential traction devices for hiking on icy or snowy trails during winter.",
+      "source": "https://en.wikipedia.org/wiki/Micro-spikes_or_crampons"
+    },
+    {
+      "text": "Crater Lake in Oregon, formed in the caldera of a collapsed volcano, is surrounded by over 90 miles of hiking trails.",
+      "source": "https://en.wikipedia.org/wiki/Crater_Lake_in_Oregon"
+    },
+    {
+      "text": "The phrase 'take only photographs, leave only footprints' encapsulates the core philosophy of Leave No Trace hiking ethics.",
+      "source": "https://en.wikipedia.org/wiki/Leave_No_Trace"
+    },
+    {
+      "text": "Bushwalking is the Australian term for hiking, and is one of the most popular recreational activities in the country.",
+      "source": "https://en.wikipedia.org/wiki/Bushwalking"
+    },
+    {
+      "text": "The South Kaibab Trail in the Grand Canyon descends 4,780 feet over just 7 miles, offering exposed ridgeline views the entire way.",
+      "source": "https://en.wikipedia.org/wiki/South_Kaibab_Trail_in_the_Grand_Canyon"
+    },
+    {
+      "text": "Research shows that walking in nature reduces activity in the prefrontal cortex area associated with repetitive negative thoughts.",
+      "source": "https://en.wikipedia.org/wiki/Hiking"
+    },
+    {
+      "text": "The Great Smoky Mountains have over 800 miles of trails, more than any other national park in the United States.",
+      "source": "https://en.wikipedia.org/wiki/Great_Smoky_Mountains"
+    },
+    {
+      "text": "A survival kit for hiking should include at minimum a whistle, fire starter, emergency blanket, water purification, and a first aid kit.",
+      "source": "https://en.wikipedia.org/wiki/Hiking"
+    },
+    {
+      "text": "The Cinque Terre trails along the Italian Riviera connect five colorful coastal villages and are a UNESCO World Heritage Site.",
+      "source": "https://en.wikipedia.org/wiki/Cinque_Terre"
+    },
+    {
+      "text": "Rucking, or walking with a weighted backpack, has become a popular fitness trend adapted from military training.",
+      "source": "https://en.wikipedia.org/wiki/Rucking%2C_or_walking_with_a_weighted_backpack"
+    },
+    {
+      "text": "The Samaria Gorge in Crete, Greece, is one of Europe's longest gorges and a popular 10-mile day hike.",
+      "source": "https://en.wikipedia.org/wiki/Samaria_Gorge_in_Crete%2C_Greece"
+    },
+    {
+      "text": "The oldest hiking boots ever found were worn by Ötzi the Iceman, dating back over 5,300 years, and featured insulation of dried grass.",
+      "source": "https://en.wikipedia.org/wiki/oldest_hiking_boots_ever_found"
+    },
+    {
+      "text": "Satellite messengers like the Garmin inReach allow hikers to send text messages and SOS signals from anywhere on Earth.",
+      "source": "https://en.wikipedia.org/wiki/Hiking"
+    },
+    {
+      "text": "The Zion Angels Landing trail features a chain-assisted scramble along a narrow ridge with 1,500-foot drop-offs on both sides.",
+      "source": "https://en.wikipedia.org/wiki/Zion_Angels_Landing_trail"
+    },
+    {
+      "text": "Plantar fasciitis, inflammation of the foot's connective tissue, is one of the most common overuse injuries among frequent hikers.",
+      "source": "https://en.wikipedia.org/wiki/Plantar_fasciitis%2C_inflammation_of_the_foot%27s_connective_tissue"
+    },
+    {
+      "text": "Walking meditation is practiced in many Buddhist traditions, where each step is taken with full awareness of the movement.",
+      "source": "https://en.wikipedia.org/wiki/Walking_meditation"
+    },
+    {
+      "text": "The Colorado Trail stretches 486 miles from Denver to Durango, with an average elevation of over 10,300 feet.",
+      "source": "https://en.wikipedia.org/wiki/Colorado_Trail"
+    },
+    {
+      "text": "Permethrin-treated clothing repels ticks and mosquitoes and remains effective through multiple washes.",
+      "source": "https://en.wikipedia.org/wiki/Hiking"
+    },
+    {
+      "text": "The Foothills Trail in South Carolina covers 77 miles through the Blue Ridge Escarpment with numerous waterfalls.",
+      "source": "https://en.wikipedia.org/wiki/Foothills_Trail_in_South_Carolina"
+    },
+    {
+      "text": "Glacier National Park in Montana has over 700 miles of trails but is losing its glaciers rapidly due to climate change.",
+      "source": "https://en.wikipedia.org/wiki/Glacier_National_Park_in_Montana"
+    },
+    {
+      "text": "Japanese walking culture emphasizes 'ma,' or mindful pauses, turning a simple walk into a contemplative practice.",
+      "source": "https://en.wikipedia.org/wiki/Hiking"
+    },
+    {
+      "text": "The O Treks and W Treks in Patagonia attract hikers from around the world seeking dramatic mountain and glacier scenery.",
+      "source": "https://en.wikipedia.org/wiki/O_Treks_and_W_Treks_in_Patagonia"
+    },
+    {
+      "text": "An emergency shelter or bivy sack weighing less than a pound can be a lifesaver if a hiker becomes stranded overnight.",
+      "source": "https://en.wikipedia.org/wiki/An_emergency_shelter_or_bivy_sack_weighing_less_than_a_pound_can_be_a_lifesaver_if_a_hiker"
+    },
+    {
+      "text": "The Nakasendo Trail in Japan is an ancient route connecting Kyoto and Tokyo through the mountainous Kiso Valley.",
+      "source": "https://en.wikipedia.org/wiki/Nakasendo_Trail_in_Japan"
+    },
+    {
+      "text": "Hiking in thunderstorms above treeline is extremely dangerous; exposed ridges and summits are prime locations for lightning strikes.",
+      "source": "https://en.wikipedia.org/wiki/Hiking_in_thunderstorms_above_treeline"
+    },
+    {
+      "text": "The Wainwrights are 214 fells in the English Lake District described by Alfred Wainwright, and completing all of them is a popular hiking challenge.",
+      "source": "https://en.wikipedia.org/wiki/Wainwrights"
+    },
+    {
+      "text": "Heel-to-toe foot placement is the most energy-efficient walking technique and reduces strain on joints.",
+      "source": "https://en.wikipedia.org/wiki/Heel-to-toe_foot_placement"
+    },
+    {
+      "text": "The Cape Wrath Trail in Scotland is often called Britain's toughest long-distance walk, covering 200 miles of remote Highland terrain.",
+      "source": "https://en.wikipedia.org/wiki/Cape_Wrath_Trail_in_Scotland"
+    },
+    {
+      "text": "Banana slugs, found on Pacific Northwest trails, can grow up to 10 inches long and are important decomposers of forest floor debris.",
+      "source": "https://en.wikipedia.org/wiki/Banana_slugs%2C_found_on_Pacific_Northwest_trails%2C_can_grow_up_to_10_inches_long_and"
+    },
+    {
+      "text": "The Indian Himalayas contain some of the highest trekking routes in the world, including the Chadar Trek on a frozen river.",
+      "source": "https://en.wikipedia.org/wiki/Indian_Himalayas"
+    },
+    {
+      "text": "Heel blisters form due to repetitive friction and can be prevented by properly laced boots and well-fitting socks.",
+      "source": "https://en.wikipedia.org/wiki/Hiking"
+    },
+    {
+      "text": "The Fimmvörðuháls Trail in Iceland passes between two glaciers and crosses a lava field created by the 2010 Eyjafjallajökull eruption.",
+      "source": "https://en.wikipedia.org/wiki/Fimmv%C3%B6r%C3%B0uh%C3%A1ls_Trail_in_Iceland_passes_between_two_glaciers_and_crosses_a_lava_field"
+    },
+    {
+      "text": "Nordic walking, which uses specially designed poles, engages 90% of the body's muscles compared to about 70% in regular walking.",
+      "source": "https://en.wikipedia.org/wiki/Hiking"
+    },
+    {
+      "text": "Mount Washington in New Hampshire holds the record for the highest wind speed ever directly recorded on Earth's surface at 231 mph.",
+      "source": "https://en.wikipedia.org/wiki/Mount_Washington_in_New_Hampshire"
+    },
+    {
+      "text": "Section hiking allows people to complete long trails in segments over several years rather than all at once.",
+      "source": "https://en.wikipedia.org/wiki/Hiking"
+    },
+    {
+      "text": "The Bob Graham Round is a famous fell running challenge in the Lake District covering 42 summits in 24 hours.",
+      "source": "https://en.wikipedia.org/wiki/Bob_Graham_Round"
+    },
+    {
+      "text": "Water filters using hollow fiber membranes can remove 99.99% of bacteria and protozoa from backcountry water sources.",
+      "source": "https://en.wikipedia.org/wiki/Hiking"
+    },
+    {
+      "text": "The Teton Crest Trail in Wyoming spans about 40 miles through the Teton Range with continuous views of jagged peaks.",
+      "source": "https://en.wikipedia.org/wiki/Teton_Crest_Trail_in_Wyoming"
+    },
+    {
+      "text": "Mud hiking or bog trotting is a niche hiking activity popular in parts of the UK and Scandinavia.",
+      "source": "https://en.wikipedia.org/wiki/Mud_hiking_or_bog_trotting"
+    },
+    {
+      "text": "The Darien Gap between Panama and Colombia is one of the most dangerous and impassable hiking regions in the world.",
+      "source": "https://en.wikipedia.org/wiki/Darien_Gap_between_Panama_and_Colombia"
+    },
+    {
+      "text": "Walking speed naturally decreases with age, but regular walking exercise can slow this decline significantly.",
+      "source": "https://en.wikipedia.org/wiki/Hiking"
+    },
+    {
+      "text": "The Hayduke Trail is an 800-mile unofficial route through the canyonlands of southern Utah and northern Arizona.",
+      "source": "https://en.wikipedia.org/wiki/Hayduke_Trail"
+    },
+    {
+      "text": "Portable water purifiers using UV light can kill 99.99% of viruses, bacteria, and protozoa in just 60 seconds.",
+      "source": "https://en.wikipedia.org/wiki/Hiking"
+    },
+    {
+      "text": "The Rota Vicentina in Portugal follows 280 miles of coastline through one of Europe's best-preserved coastal areas.",
+      "source": "https://en.wikipedia.org/wiki/Rota_Vicentina_in_Portugal"
+    },
+    {
+      "text": "Trail runners consume an estimated 3,000 to 6,000 calories per day during ultra-distance events.",
+      "source": "https://en.wikipedia.org/wiki/Hiking"
+    },
+    {
+      "text": "The Simien Mountains in Ethiopia offer trekking alongside endemic species like the gelada baboon and the Ethiopian wolf.",
+      "source": "https://en.wikipedia.org/wiki/Simien_Mountains_in_Ethiopia"
+    },
+    {
+      "text": "Cold weather hiking requires eating more calories because the body burns extra energy to maintain core temperature.",
+      "source": "https://en.wikipedia.org/wiki/Hiking"
+    },
+    {
+      "text": "The Arizona Trail stretches 800 miles from Mexico to Utah, crossing deserts, forests, canyons, and mountain ranges.",
+      "source": "https://en.wikipedia.org/wiki/Arizona_Trail"
+    },
+    {
+      "text": "The 'ten essentials' list for hiking was originally compiled by The Mountaineers in the 1930s and has been updated multiple times.",
+      "source": "https://en.wikipedia.org/wiki/%27ten_essentials%27_list_for_hiking"
+    },
+    {
+      "text": "Walking barefoot on natural surfaces, called 'earthing' or 'grounding,' is believed by some to reduce inflammation and improve sleep.",
+      "source": "https://en.wikipedia.org/wiki/Walking_barefoot_on_natural_surfaces%2C_called_%27earthing%27_or_%27grounding"
+    },
+    {
+      "text": "The Overland Track in Tasmania requires booking months in advance during peak season and limits the number of hikers per day.",
+      "source": "https://en.wikipedia.org/wiki/Overland_Track_in_Tasmania"
+    },
+    {
+      "text": "Black bears are generally more afraid of humans than humans are of bears and will retreat if given an escape route.",
+      "source": "https://en.wikipedia.org/wiki/Black_bears"
+    },
+    {
+      "text": "The Queen Charlotte Track in New Zealand is a 44-mile coastal walk through the Marlborough Sounds.",
+      "source": "https://en.wikipedia.org/wiki/Queen_Charlotte_Track_in_New_Zealand"
+    },
+    {
+      "text": "A trailhead register is a logbook at the start of a trail where hikers sign in, providing important safety data for rangers.",
+      "source": "https://en.wikipedia.org/wiki/A_trailhead_register"
+    },
+    {
+      "text": "The Camino Portugués is a popular variant of the Camino de Santiago starting in Lisbon or Porto and heading north into Spain.",
+      "source": "https://en.wikipedia.org/wiki/Camino_Portugu%C3%A9s"
+    },
+    {
+      "text": "Seam-sealed rain jackets prevent water from leaking through the stitching, which is a common failure point in waterproof gear.",
+      "source": "https://en.wikipedia.org/wiki/Seam-sealed_rain_jackets_prevent_water_from_leaking_through_the_stitching%2C_which"
+    },
+    {
+      "text": "The Ala Archa Valley in Kyrgyzstan offers high-altitude trekking with views of glaciers and peaks over 15,000 feet.",
+      "source": "https://en.wikipedia.org/wiki/Ala_Archa_Valley_in_Kyrgyzstan"
+    },
+    {
+      "text": "Walking clubs in Germany, called Wandervereine, have existed since the early 1800s and maintain thousands of miles of trails.",
+      "source": "https://en.wikipedia.org/wiki/Walking_clubs_in_Germany%2C_called_Wandervereine"
+    },
+    {
+      "text": "Mountain goats on hiking trails are attracted to the salt in human sweat and urine, which can create dangerous encounters.",
+      "source": "https://en.wikipedia.org/wiki/Mountain_goats_on_hiking_trails"
+    },
+    {
+      "text": "The Great Divide Trail in Canada runs 684 miles along the Continental Divide through the Canadian Rockies.",
+      "source": "https://en.wikipedia.org/wiki/Great_Divide_Trail_in_Canada"
+    },
+    {
+      "text": "Bamboo trekking poles are used in many parts of Asia and are surprisingly strong and lightweight.",
+      "source": "https://en.wikipedia.org/wiki/Bamboo_trekking_poles"
+    },
+    {
+      "text": "The Copper Canyon system in Mexico is deeper and larger than the Grand Canyon and offers remote multi-day hiking routes.",
+      "source": "https://en.wikipedia.org/wiki/Copper_Canyon_system_in_Mexico"
+    },
+    {
+      "text": "Walking at least 7,000 steps per day has been associated with a 50-70% lower risk of premature death in middle-aged adults.",
+      "source": "https://en.wikipedia.org/wiki/Walking_at_least_7%2C000_steps_per_day"
+    },
+    {
+      "text": "Trail conditions can change dramatically with seasons; a summer scramble may become an impassable snow route in winter.",
+      "source": "https://en.wikipedia.org/wiki/Hiking"
+    },
+    {
+      "text": "The Kerry Way in Ireland is the country's longest waymarked trail at 133 miles, looping around the Iveragh Peninsula.",
+      "source": "https://en.wikipedia.org/wiki/Kerry_Way_in_Ireland"
+    },
+    {
+      "text": "Hammock camping has become an alternative to tent camping for hikers, especially in forests with abundant trees.",
+      "source": "https://en.wikipedia.org/wiki/Hammock_camping"
+    },
+    {
+      "text": "The Three Peaks Challenge in the UK involves climbing the highest peaks in Scotland, England, and Wales within 24 hours.",
+      "source": "https://en.wikipedia.org/wiki/Three_Peaks_Challenge_in_the_UK"
+    },
+    {
+      "text": "A UV protection rating of UPF 50+ in hiking clothing blocks over 98% of harmful ultraviolet rays.",
+      "source": "https://en.wikipedia.org/wiki/A_UV"
+    },
+    {
+      "text": "The Pacific Coast Trail (not to be confused with the PCT) follows the Oregon coastline for 382 miles.",
+      "source": "https://en.wikipedia.org/wiki/Pacific_Coast_Trail"
+    },
+    {
+      "text": "Volcanic hiking on active volcanoes like Mount Etna in Sicily requires monitoring eruption alerts and staying on approved routes.",
+      "source": "https://en.wikipedia.org/wiki/Mount_Etna_in_Sicily"
+    },
+    {
+      "text": "The first Fitbit was released in 2009 and helped popularize step counting and daily walking goals among the general public.",
+      "source": "https://en.wikipedia.org/wiki/first_Fitbit"
+    },
+    {
+      "text": "The Pemi Loop in New Hampshire's White Mountains is a challenging 31-mile loop with over 9,000 feet of elevation gain.",
+      "source": "https://en.wikipedia.org/wiki/Pemi_Loop_in_New_Hampshire%27s_White_Mountains"
+    },
+    {
+      "text": "The Te Araroa Trail in New Zealand includes sections where hikers must kayak or canoe along waterways.",
+      "source": "https://en.wikipedia.org/wiki/Te_Araroa_Trail_in_New_Zealand"
+    },
+    {
+      "text": "Carabiner clip water bottles allow hikers to attach water to the outside of their packs for easy access.",
+      "source": "https://en.wikipedia.org/wiki/Hiking"
+    },
+    {
+      "text": "The Kalalau Trail on Kauai requires a permit and is one of the most remote coastal hikes in the Hawaiian Islands.",
+      "source": "https://en.wikipedia.org/wiki/Kalalau_Trail_on_Kauai_requires_a_permit_and"
+    },
+    {
+      "text": "The concept of forest kindergartens in Scandinavia involves children spending most of their school day walking and playing outdoors.",
+      "source": "https://en.wikipedia.org/wiki/Hiking"
+    },
+    {
+      "text": "The Highline Trail in Glacier National Park traverses alpine meadows and offers some of the most spectacular views in Montana.",
+      "source": "https://en.wikipedia.org/wiki/Highline_Trail_in_Glacier_National_Park"
+    },
+    {
+      "text": "Hiking at altitude increases red blood cell production, which is why many endurance athletes train at elevation.",
+      "source": "https://en.wikipedia.org/wiki/Hiking_at_altitude_increases_red_blood_cell_production%2C_which"
+    },
+    {
+      "text": "The Otter Trail in South Africa's Tsitsikamma section is so popular that bookings must be made up to a year in advance.",
+      "source": "https://en.wikipedia.org/wiki/Otter_Trail_in_South_Africa%27s_Tsitsikamma_section"
+    },
+    {
+      "text": "Charles Darwin's 'thinking path' at Down House, called the Sandwalk, was where he took daily walks to ponder his theories.",
+      "source": "https://en.wikipedia.org/wiki/Charles_Darwin%27s_%27thinking_path%27_at_Down_House%2C_called_the_Sandwalk"
+    },
+    {
+      "text": "The concept of 'hike your own hike' (HYOH) encourages hikers to go at their own pace without judgment from others.",
+      "source": "https://en.wikipedia.org/wiki/Hiking"
+    },
+    {
+      "text": "Mountain lions are rarely seen by hikers; there are fewer than 20 fatal mountain lion attacks recorded in North America in the last 100 years.",
+      "source": "https://en.wikipedia.org/wiki/Mountain_lions"
+    },
+    {
+      "text": "The number of people thru-hiking the Appalachian Trail has increased roughly tenfold since the 1990s.",
+      "source": "https://en.wikipedia.org/wiki/number_of_people_thru-hiking_the_Appalachian_Trail"
+    },
+    {
+      "text": "Creek crossings are one of the most hazardous parts of a hike; unbuckling chest and waist straps before crossing is recommended in case of a fall.",
+      "source": "https://en.wikipedia.org/wiki/Creek_crossings"
+    },
+    {
+      "text": "The GR221, also called the Dry Stone Route, crosses Mallorca's Serra de Tramuntana mountain range for 84 miles.",
+      "source": "https://en.wikipedia.org/wiki/GR221%2C_also"
+    },
+    {
+      "text": "The Walker's Haute Route from Chamonix to Zermatt is the hiking alternative to the mountaineering Haute Route.",
+      "source": "https://en.wikipedia.org/wiki/Walker%27s_Haute_Route_from_Chamonix_to_Zermatt"
+    },
+    {
+      "text": "The use of satellite imagery in apps like Gaia GPS allows hikers to see real-time terrain conditions before heading out.",
+      "source": "https://en.wikipedia.org/wiki/Gaia_GPS"
+    },
+    {
+      "text": "Yosemite's Mist Trail to the top of Vernal Fall climbs 317 granite steps, earning it the nickname 'the Stairway of the Giants.'",
+      "source": "https://en.wikipedia.org/wiki/Yosemite%27s_Mist_Trail_to_the"
+    },
+    {
+      "text": "The Kokoda Track in Papua New Guinea sees temperatures of up to 95°F with virtually 100% humidity.",
+      "source": "https://en.wikipedia.org/wiki/Kokoda_Track_in_Papua_New_Guinea"
+    },
+    {
+      "text": "Trailhead parking lots are common targets for vehicle break-ins; hikers should leave valuables at home or hidden.",
+      "source": "https://en.wikipedia.org/wiki/Trailhead_parking_lots"
+    },
+    {
+      "text": "The Confederation Trail on Prince Edward Island is a 273-mile rail trail that crosses the entire island.",
+      "source": "https://en.wikipedia.org/wiki/Confederation_Trail_on_Prince_Edward_Island"
+    },
+    {
+      "text": "Hiking improves balance and coordination, which are especially important for preventing falls in older adults.",
+      "source": "https://en.wikipedia.org/wiki/Hiking_improves_balance_and_coordination%2C_which"
+    },
+    {
+      "text": "The Haute Route Pyrénéenne stays as high as possible along the Pyrenees, often above 8,000 feet.",
+      "source": "https://en.wikipedia.org/wiki/Haute_Route"
+    },
+    {
+      "text": "The United States has over 60,000 miles of National Recreation Trails available for public use.",
+      "source": "https://en.wikipedia.org/wiki/United_States"
+    },
+    {
+      "text": "Dehydrated and freeze-dried meals designed for backpackers just require boiling water and can weigh as little as 4 ounces dry.",
+      "source": "https://en.wikipedia.org/wiki/Dehydrated_and"
+    },
+    {
+      "text": "The Markha Valley Trek in Ladakh, India, passes through remote Buddhist villages at altitudes over 16,000 feet.",
+      "source": "https://en.wikipedia.org/wiki/Markha_Valley_Trek_in_Ladakh"
+    },
+    {
+      "text": "Day hiking is the most popular form of hiking, with 80% of hikers preferring trips that require no overnight camping.",
+      "source": "https://en.wikipedia.org/wiki/Day_hiking"
+    },
+    {
+      "text": "The Tiger's Nest Monastery in Bhutan is reached by a steep trail that climbs nearly 3,000 feet to a monastery perched on a cliff face.",
+      "source": "https://en.wikipedia.org/wiki/Tiger%27s_Nest_Monastery_in_Bhutan"
+    },
+    {
+      "text": "Blisters are caused by friction, heat, and moisture — addressing any one of these three factors can prevent them.",
+      "source": "https://en.wikipedia.org/wiki/Blisters"
+    },
+    {
+      "text": "In Australia, drop bears are a fictional creature used to prank tourists, but real hazards include venomous snakes and spiders on the trail.",
+      "source": "https://en.wikipedia.org/wiki/In_Australia%2C_drop_bears"
+    },
+    {
+      "text": "The Pacific Crest Trail Association estimates that about 700 to 1,000 hikers attempt a PCT thru-hike each year.",
+      "source": "https://en.wikipedia.org/wiki/Pacific_Crest_Trail_Association"
+    },
+    {
+      "text": "Walking meditation labyrinths can be found in parks, churches, and hospitals worldwide as tools for contemplation and stress relief.",
+      "source": "https://en.wikipedia.org/wiki/Hiking"
+    },
+    {
+      "text": "The Appalachian Trail has an estimated 3 million visitors per year, though only about 3,000 attempt a thru-hike annually.",
+      "source": "https://en.wikipedia.org/wiki/Appalachian_Trail"
+    },
+    {
+      "text": "Giardia, a microscopic parasite found in backcountry water, causes severe gastrointestinal illness and is the main reason hikers purify water.",
+      "source": "https://en.wikipedia.org/wiki/Hiking"
+    },
+    {
+      "text": "The Ridgeway in England is called Britain's oldest road, following chalky paths that have been used for at least 5,000 years.",
+      "source": "https://en.wikipedia.org/wiki/Ridgeway_in_England"
+    },
+    {
+      "text": "Thru-hikers on the Appalachian Trail collectively eat an estimated 4 to 6 million calories per thru-hike.",
+      "source": "https://en.wikipedia.org/wiki/Thru-hikers_on_the_Appalachian_Trail"
+    },
+    {
+      "text": "The Salkantay Trek in Peru is an alternative to the Inca Trail that reaches 15,213 feet at Salkantay Pass.",
+      "source": "https://en.wikipedia.org/wiki/Salkantay_Trek_in_Peru"
+    },
+    {
+      "text": "The Japanese concept of 'komorebi' describes sunlight filtering through leaves, a sight frequently enjoyed by forest hikers.",
+      "source": "https://en.wikipedia.org/wiki/Japanese"
+    },
+    {
+      "text": "Satellite phones can cost several dollars per minute but remain the only communication option in extremely remote hiking areas.",
+      "source": "https://en.wikipedia.org/wiki/Hiking"
+    },
+    {
+      "text": "The GR34 in Brittany, France, follows the entire Breton coastline for over 1,100 miles.",
+      "source": "https://en.wikipedia.org/wiki/GR34_in_Brittany"
+    },
+    {
+      "text": "Proper foot care on the trail includes airing out feet during rest stops and changing into dry socks.",
+      "source": "https://en.wikipedia.org/wiki/Proper_foot_care_on_the_trail"
+    },
+    {
+      "text": "The Presidential Range in New Hampshire's White Mountains is known for some of the worst weather in the world.",
+      "source": "https://en.wikipedia.org/wiki/Presidential_Range_in_New_Hampshire%27s_White_Mountains"
+    },
+    {
+      "text": "The Camino del Norte follows Spain's northern coast for about 500 miles and is a less crowded alternative to the main Camino route.",
+      "source": "https://en.wikipedia.org/wiki/Camino_del_Norte_follows_Spain%27s_northern_coast_for_about_500_miles_and"
+    },
+    {
+      "text": "Hiking with children under five typically limits the pace to about one mile per hour, and trails should be chosen for safety.",
+      "source": "https://en.wikipedia.org/wiki/Hiking_with"
+    },
+    {
+      "text": "Mountain huts, or refugios, in the Alps provide food, shelter, and beds for hikers without the need to carry camping gear.",
+      "source": "https://en.wikipedia.org/wiki/Hiking"
+    },
+    {
+      "text": "Trekking in Nepal directly supports local economies, as teahouse lodges along major routes are family-run businesses.",
+      "source": "https://en.wikipedia.org/wiki/Trekking_in_Nepal_directly_supports_local_economies%2C_as_teahouse_lodges_along_major_routes"
+    },
+    {
+      "text": "The Inca Trail's permit system was introduced in 2001 after concerns about trail degradation from too many visitors.",
+      "source": "https://en.wikipedia.org/wiki/Inca_Trail%27s_permit_system"
+    },
+    {
+      "text": "Walking the entire coastline of Great Britain (the England Coast Path) will be approximately 2,795 miles when fully completed.",
+      "source": "https://en.wikipedia.org/wiki/Walking_the"
+    },
+    {
+      "text": "The Cerro Torre trek in Patagonia leads to views of one of the most technically difficult peaks in the world.",
+      "source": "https://en.wikipedia.org/wiki/Cerro_Torre"
+    },
+    {
+      "text": "A natural walking gait involves the arms swinging opposite to the legs, which improves balance and energy efficiency.",
+      "source": "https://en.wikipedia.org/wiki/Hiking"
+    },
+    {
+      "text": "The Annapurna Base Camp trek is a shorter alternative to the full circuit, reaching 13,549 feet in about 7 to 12 days.",
+      "source": "https://en.wikipedia.org/wiki/Annapurna_Base_Camp_trek"
+    },
+    {
+      "text": "Wearing a hat while hiking can reduce heat loss through the head by up to 10% in cold conditions and prevent heat stroke in warm weather.",
+      "source": "https://en.wikipedia.org/wiki/Hiking"
+    },
+    {
+      "text": "The Waitukubuli National Trail in Dominica is the longest hiking trail in the Caribbean at 115 miles.",
+      "source": "https://en.wikipedia.org/wiki/Waitukubuli_National_Trail_in_Dominica"
+    },
+    {
+      "text": "Traction cleats like Yaktrax or Kahtoola Microspikes can transform regular hiking boots into ice-capable footwear.",
+      "source": "https://en.wikipedia.org/wiki/Kahtoola_Microspikes"
+    },
+    {
+      "text": "The South Downs Way in England runs 100 miles along England's newest national park.",
+      "source": "https://en.wikipedia.org/wiki/South_Downs_Way_in_England"
+    },
+    {
+      "text": "About 75% of people who start a thru-hike of the Appalachian Trail do not finish, often due to injury, weather, or burnout.",
+      "source": "https://en.wikipedia.org/wiki/About_75"
+    },
+    {
+      "text": "The highest trail in Europe is on Mont Blanc, with the normal route summiting at 15,781 feet.",
+      "source": "https://en.wikipedia.org/wiki/highest_trail_in_Europe"
+    },
+    {
+      "text": "Wilderness permits are required in many U.S. wilderness areas to limit visitor numbers and protect the environment.",
+      "source": "https://en.wikipedia.org/wiki/Wilderness_permits"
+    },
+    {
+      "text": "The Offa's Dyke Path follows the Anglo-Welsh border for 177 miles along an earthwork built 1,200 years ago.",
+      "source": "https://en.wikipedia.org/wiki/Offa%27s_Dyke_Path_follows_the_Anglo-Welsh_border_for_177_miles_along_an_earthwork"
+    },
+    {
+      "text": "The Huemul Circuit in Patagonia involves river crossings by zip line and is considered one of the most adventurous treks in Argentina.",
+      "source": "https://en.wikipedia.org/wiki/Huemul_Circuit_in_Patagonia_involves_river_crossings_by_zip_line_and"
+    },
+    {
+      "text": "Wrist-mounted altimeters measure atmospheric pressure changes to estimate elevation, helping hikers track their progress on mountain trails.",
+      "source": "https://en.wikipedia.org/wiki/Hiking"
+    },
+    {
+      "text": "The Inca Trail to Machu Picchu passes through three distinct ecological zones: cloud forest, highland, and alpine tundra.",
+      "source": "https://en.wikipedia.org/wiki/Inca_Trail_to_Machu_Picchu"
+    },
+    {
+      "text": "Walking tours are the fastest-growing segment of the tourism industry, outpacing beach and resort vacations in recent years.",
+      "source": "https://en.wikipedia.org/wiki/Walking_tours"
+    },
+    {
+      "text": "The Lost Coast Trail in California is one of the few remaining wilderness coastlines in the state, stretching 25 miles.",
+      "source": "https://en.wikipedia.org/wiki/Lost_Coast_Trail_in_California"
+    },
+    {
+      "text": "Pole planting technique matters: the tip should contact the ground slightly behind the body's center of gravity for maximum benefit.",
+      "source": "https://en.wikipedia.org/wiki/Hiking"
+    },
+    {
+      "text": "The Simien Mountains trek in Ethiopia is one of the few places to see the rare Walia ibex in its natural habitat.",
+      "source": "https://en.wikipedia.org/wiki/Simien_Mountains_trek_in_Ethiopia"
+    },
+    {
+      "text": "The Slovenian Mountain Trail was one of the first long-distance mountain trails in Europe, established in the 1950s.",
+      "source": "https://en.wikipedia.org/wiki/Slovenian_Mountain_Trail"
+    },
+    {
+      "text": "Cairn building by hikers is discouraged in many areas because it disrupts trail markers and can harm fragile ecosystems.",
+      "source": "https://en.wikipedia.org/wiki/Cairn_building_by_hikers"
+    },
+    {
+      "text": "In Italian, a leisurely evening walk is called a 'passeggiata,' and it is a deeply embedded cultural tradition in many Italian towns.",
+      "source": "https://en.wikipedia.org/wiki/In_Italian%2C_a_leisurely_evening_walk"
+    },
+    {
+      "text": "The John Muir Way in Scotland stretches 134 miles from Helensburgh to Dunbar, the birthplace of John Muir.",
+      "source": "https://en.wikipedia.org/wiki/John_Muir_Way_in_Scotland"
+    },
+    {
+      "text": "Compression socks can reduce leg fatigue and swelling during long hikes by improving blood circulation.",
+      "source": "https://en.wikipedia.org/wiki/Hiking"
+    },
+    {
+      "text": "The Trans-Catalina Trail on Catalina Island off the California coast covers 38 miles across the island's rugged interior.",
+      "source": "https://en.wikipedia.org/wiki/Trans-Catalina_Trail_on_Catalina_Island"
+    },
+    {
+      "text": "The Abel Tasman Coast Track in New Zealand features golden beaches and turquoise water along 37 miles of coastline.",
+      "source": "https://en.wikipedia.org/wiki/Abel_Tasman_Coast_Track_in_New_Zealand"
+    },
+    {
+      "text": "Walking at least 4,000 steps per day has been shown to reduce the risk of dying from any cause in adults.",
+      "source": "https://en.wikipedia.org/wiki/Walking_at_least_4%2C000_steps_per_day"
+    },
+    {
+      "text": "The Lares Trek in Peru passes through traditional Quechua communities and offers cultural experiences not found on the Inca Trail.",
+      "source": "https://en.wikipedia.org/wiki/Lares_Trek_in_Peru"
+    },
+    {
+      "text": "The South West Coast Path in England has total ascent and descent roughly equivalent to climbing Mount Everest four times.",
+      "source": "https://en.wikipedia.org/wiki/South_West_Coast_Path_in_England"
+    },
+    {
+      "text": "Down insulation provides more warmth per ounce than synthetic insulation but loses its insulating properties when wet.",
+      "source": "https://en.wikipedia.org/wiki/Hiking"
+    },
+    {
+      "text": "The Jebel Shams Balcony Walk in Oman follows a narrow path along the rim of Oman's Grand Canyon.",
+      "source": "https://en.wikipedia.org/wiki/Jebel_Shams_Balcony_Walk_in_Oman"
+    },
+    {
+      "text": "Many hikers practice 'Leave No Trace' by bringing a small trowel to bury human waste at least 200 feet from water sources and trails.",
+      "source": "https://en.wikipedia.org/wiki/Leave_No_Trace"
+    },
+    {
+      "text": "GPS watches designed for hiking can track elevation gain, distance, heart rate, and barometric pressure in real time.",
+      "source": "https://en.wikipedia.org/wiki/Hiking"
+    },
+    {
+      "text": "The Chesapeake and Ohio Canal towpath provides 184 miles of flat hiking and biking from Cumberland, Maryland, to Washington, D.C.",
+      "source": "https://en.wikipedia.org/wiki/Chesapeake_and_Ohio_Canal"
+    },
+    {
+      "text": "Walking speed is used as a clinical measure of overall health; a pace below 0.8 meters per second is associated with higher health risks.",
+      "source": "https://en.wikipedia.org/wiki/Walking_speed"
+    },
+    {
+      "text": "The Fitz Roy Trek in Patagonia features stunning views of the iconic Fitz Roy massif and its surrounding glacial lakes.",
+      "source": "https://en.wikipedia.org/wiki/Fitz_Roy_Trek_in_Patagonia"
+    },
+    {
+      "text": "A properly adjusted hip belt on a backpack should carry about 80% of the pack's weight on the hiker's hips rather than shoulders.",
+      "source": "https://en.wikipedia.org/wiki/Hiking"
+    },
+    {
+      "text": "The Cape to Cape Track in Western Australia, stretching 75 miles along the coast, passes through karri forests and limestone caves.",
+      "source": "https://en.wikipedia.org/wiki/Cape_to_Cape_Track_in_Western_Australia"
+    },
+    {
+      "text": "The number of hiking-related search and rescue operations in U.S. national parks exceeds 3,000 per year.",
+      "source": "https://en.wikipedia.org/wiki/Hiking"
+    },
+    {
+      "text": "Walking poles made from carbon fiber are lighter than aluminum poles but more susceptible to breaking under sudden impact.",
+      "source": "https://en.wikipedia.org/wiki/Walking_poles_made_from_carbon_fiber"
+    },
+    {
+      "text": "The Shikoku Pilgrimage in Japan comprises 88 temples connected by a 750-mile walking route completed by thousands of pilgrims each year.",
+      "source": "https://en.wikipedia.org/wiki/Shikoku_Pilgrimage_in_Japan"
+    },
+    {
+      "text": "Crevasses on glacier hikes can be hidden by snow bridges, making rope teams and route-finding skills essential.",
+      "source": "https://en.wikipedia.org/wiki/Crevasses_on"
+    },
+    {
+      "text": "The Camino Frances, the most popular route of the Camino de Santiago, stretches about 500 miles from St-Jean-Pied-de-Port in France to Santiago de Compostela.",
+      "source": "https://en.wikipedia.org/wiki/Camino_Frances"
+    },
+    {
+      "text": "Ramblers, the UK's largest walking charity, campaigns for access to green spaces and maintains a network of paths across Britain.",
+      "source": "https://en.wikipedia.org/wiki/Hiking"
+    },
+    {
+      "text": "Sun protection while hiking includes sunscreen, sunglasses with UV protection, and a wide-brimmed hat.",
+      "source": "https://en.wikipedia.org/wiki/Sun_protection_while_hiking"
+    },
+    {
+      "text": "The use of handheld GPS units on trails became widespread in the early 2000s, gradually replacing map-and-compass for many day hikers.",
+      "source": "https://en.wikipedia.org/wiki/use_of_handheld_GPS_units_on_trails"
+    },
+    {
+      "text": "Night hiking requires red-light headlamps to preserve night vision while still illuminating the trail.",
+      "source": "https://en.wikipedia.org/wiki/Hiking"
+    },
+    {
+      "text": "The Haute Savoie region of France is home to some of the most popular day hikes in the Alps.",
+      "source": "https://en.wikipedia.org/wiki/Haute_Savoie_region_of_France"
+    },
+    {
+      "text": "Virtual hiking challenges and step competitions have grown in popularity, motivating millions to walk more using fitness trackers.",
+      "source": "https://en.wikipedia.org/wiki/Virtual_hiking_challenges_and_step_competitions"
+    },
+    {
+      "text": "The Dingle Way in Ireland is a 111-mile loop around the Dingle Peninsula with views of the Atlantic Ocean.",
+      "source": "https://en.wikipedia.org/wiki/Dingle_Way_in_Ireland"
+    },
+    {
+      "text": "A blister kit should include moleskin, athletic tape, antiseptic wipes, and a sterile needle for draining if necessary.",
+      "source": "https://en.wikipedia.org/wiki/Hiking"
+    },
+    {
+      "text": "Mount Whitney in California, the highest peak in the contiguous U.S. at 14,505 feet, can be summited via a 22-mile day hike.",
+      "source": "https://en.wikipedia.org/wiki/Mount_Whitney_in_California"
+    },
+    {
+      "text": "The Appalachian Trail features more than 165,000 white blazes painted on trees and rocks to guide hikers along the route.",
+      "source": "https://en.wikipedia.org/wiki/Appalachian_Trail"
+    },
+    {
+      "text": "The Cami de Cavalls in Menorca, Spain, is a 115-mile coastal path that circles the entire island.",
+      "source": "https://en.wikipedia.org/wiki/Cami_de_Cavalls_in_Menorca%2C_Spain"
+    },
+    {
+      "text": "Hemlock woolly adelgid, an invasive insect, is devastating hemlock trees along many eastern U.S. hiking trails, changing forest landscapes.",
+      "source": "https://en.wikipedia.org/wiki/Hemlock_woolly_adelgid%2C_an_invasive_insect"
+    },
+    {
+      "text": "In Nepal, 'namaste' is the traditional greeting exchanged between trekkers and locals on Himalayan trails.",
+      "source": "https://en.wikipedia.org/wiki/In_Nepal%2C_%27namaste"
+    },
+    {
+      "text": "The Dolomites Alta Via 1 is a 75-mile trail through Italy's Dolomite range, typically completed in 10 to 12 days.",
+      "source": "https://en.wikipedia.org/wiki/Dolomites_Alta_Via_1"
+    },
+    {
+      "text": "Hiking boots with ankle support became the standard for serious hiking in the mid-20th century, though many now prefer lighter trail shoes.",
+      "source": "https://en.wikipedia.org/wiki/Hiking_boots_with_ankle_support"
+    },
+    {
+      "text": "The St. Olav Ways are pilgrimage routes in Scandinavia leading to Trondheim, Norway, inspired by medieval pilgrims.",
+      "source": "https://en.wikipedia.org/wiki/St._Olav_Ways"
+    },
+    {
+      "text": "Walking aids recovery from many chronic conditions, and doctors increasingly prescribe 'park prescriptions' for patients to walk in nature.",
+      "source": "https://en.wikipedia.org/wiki/Hiking"
+    },
+    {
+      "text": "The Perito Moreno Glacier in Argentina offers ice trekking where hikers walk on the surface of a moving glacier with crampons.",
+      "source": "https://en.wikipedia.org/wiki/Perito_Moreno_Glacier_in_Argentina"
+    },
+    {
+      "text": "Cell phone coverage in many wilderness areas is nonexistent, making offline maps and GPS devices essential safety tools.",
+      "source": "https://en.wikipedia.org/wiki/Cell_phone_coverage_in_many_wilderness_areas"
+    },
+    {
+      "text": "The Pieterpad in the Netherlands is the country's most famous long-distance path, covering 310 miles from north to south.",
+      "source": "https://en.wikipedia.org/wiki/Pieterpad_in_the_Netherlands"
+    },
+    {
+      "text": "Trekking in the Karakoram range of Pakistan includes the K2 Base Camp Trek, often called one of the greatest treks on the planet.",
+      "source": "https://en.wikipedia.org/wiki/Trekking_in_the_Karakoram_range_of_Pakistan"
+    },
+    {
+      "text": "Ultraviolet exposure while hiking at high altitude can cause snow blindness, a painful temporary condition prevented by proper sunglasses.",
+      "source": "https://en.wikipedia.org/wiki/Hiking"
+    },
+    {
+      "text": "The Ice Age Trail in Wisconsin stretches over 1,200 miles, following the edge of the last continental glacier.",
+      "source": "https://en.wikipedia.org/wiki/Ice_Age_Trail_in_Wisconsin"
+    },
+    {
+      "text": "The world record for the most miles walked in a year is over 22,000, achieved by extreme endurance walkers.",
+      "source": "https://en.wikipedia.org/wiki/world_record_for_the_most_miles_walked_in_a_year"
+    },
+    {
+      "text": "Weighted vest walks are a popular alternative to rucking for hikers who want to increase cardiovascular intensity without a backpack.",
+      "source": "https://en.wikipedia.org/wiki/Weighted_vest_walks"
+    },
+    {
+      "text": "The pilgrim passport, or credencial, is stamped at various points along the Camino de Santiago and is required to receive the Compostela certificate.",
+      "source": "https://en.wikipedia.org/wiki/pilgrim_passport%2C_or_credencial"
+    },
+    {
+      "text": "The Highlands of Iceland offer some of the most remote and Mars-like hiking terrain on Earth, with volcanic landscapes and hot springs.",
+      "source": "https://en.wikipedia.org/wiki/Highlands_of_Iceland"
+    }
+  ]
+}

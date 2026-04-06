@@ -1,0 +1,1679 @@
+{
+  "hobby": "Ghosts & Paranormal",
+  "facts": [
+    {
+      "text": "The Tower of London is considered one of the most haunted places in England, with reported sightings of Anne Boleyn, Lady Jane Grey, and the two young princes.",
+      "source": "https://en.wikipedia.org/wiki/Tower_of_London"
+    },
+    {
+      "text": "EMF (Electromagnetic Field) meters are one of the most commonly used tools in paranormal investigations, based on the theory that ghosts disrupt electromagnetic fields.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/EMF_(Electromagnetic_Field)_meters"
+    },
+    {
+      "text": "The Winchester Mystery House in San Jose, California was continuously built for 38 years, reportedly to appease the spirits of those killed by Winchester rifles.",
+      "month": 9,
+      "day": 5,
+      "source": "https://en.wikipedia.org/wiki/Winchester_Mystery_House_in_San_Jose%2C_California"
+    },
+    {
+      "text": "Poltergeists are a type of haunting characterized by physical disturbances such as objects moving, loud noises, and even physical attacks on people.",
+      "source": "https://en.wikipedia.org/wiki/Poltergeists"
+    },
+    {
+      "text": "The 1947 Roswell incident in New Mexico remains one of the most famous alleged UFO crashes in history, sparking decades of conspiracy theories.",
+      "month": 7,
+      "day": 8,
+      "source": "https://en.wikipedia.org/wiki/1947_Roswell"
+    },
+    {
+      "text": "Ghost Hunters, which premiered on Syfy in 2004, followed the real-life Atlantic Paranormal Society (TAPS) and ran for 11 seasons.",
+      "source": "https://en.wikipedia.org/wiki/Ghost_Hunters"
+    },
+    {
+      "text": "The Brown Lady of Raynham Hall is one of the most famous ghost photographs ever taken, captured in 1936 by Captain Provand and Indre Shira for Country Life magazine.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Brown_Lady_of_Raynham_Hall"
+    },
+    {
+      "text": "Sleep paralysis, a condition where a person is temporarily unable to move or speak while falling asleep or waking up, is believed to explain many ghost and demon encounter reports.",
+      "source": "https://en.wikipedia.org/wiki/Sleep_paralysis%2C_a_condition_where_a_person"
+    },
+    {
+      "text": "The Fox sisters of Hydesville, New York are credited with launching the Spiritualism movement in 1848 when they claimed to communicate with a spirit through rapping sounds.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Fox_sisters_of_Hydesville%2C_New_York"
+    },
+    {
+      "text": "Ghostbusters (1984) was a massive box office hit, grossing nearly $300 million worldwide and spawning a franchise that continues to this day.",
+      "month": 6,
+      "day": 8,
+      "source": "https://en.wikipedia.org/wiki/Ghostbusters"
+    },
+    {
+      "text": "Eastern State Penitentiary in Philadelphia, once home to Al Capone, is now one of America's most popular haunted attractions, with reports of shadowy figures and echoing laughter.",
+      "source": "https://en.wikipedia.org/wiki/Eastern_State_Penitentiary_in_Philadelphia%2C_once_home_to_Al_Capone"
+    },
+    {
+      "text": "EVP (Electronic Voice Phenomena) refers to sounds found on electronic recordings that are interpreted as spirit voices, and is a staple technique of ghost hunters.",
+      "source": "https://en.wikipedia.org/wiki/EVP_(Electronic_Voice_Phenomena)_refers_to_sounds_found_on_electronic_recordings_that"
+    },
+    {
+      "text": "The Bell Witch haunting of Adams, Tennessee (1817–1821) is one of the most well-documented cases of paranormal activity in American history.",
+      "source": "https://en.wikipedia.org/wiki/Bell_Witch_haunting_of_Adams%2C_Tennessee_(1817%E2%80%931821)"
+    },
+    {
+      "text": "Bigfoot, also known as Sasquatch, has been reported in forests across North America, with the famous Patterson-Gimlin film from 1967 remaining the most debated evidence.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Bigfoot%2C_also_known_as_Sasquatch"
+    },
+    {
+      "text": "The Stanley Hotel in Estes Park, Colorado inspired Stephen King to write The Shining after he stayed there in 1974 and experienced eerie events.",
+      "source": "https://en.wikipedia.org/wiki/Stanley_Hotel_in_Estes_Park%2C_Colorado"
+    },
+    {
+      "text": "James Randi offered a one-million-dollar prize to anyone who could demonstrate supernatural abilities under controlled conditions — it was never claimed in over 50 years.",
+      "source": "https://en.wikipedia.org/wiki/James_Randi"
+    },
+    {
+      "text": "Infrasound, sound waves below the range of human hearing, has been shown to cause feelings of unease, anxiety, and even visual disturbances that may explain some ghost sightings.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Infrasound%2C_sound_waves_below_the_range_of_human_hearing"
+    },
+    {
+      "text": "The Conjuring (2013) was based on the real-life case files of Ed and Lorraine Warren, who investigated the Perron family haunting in Rhode Island.",
+      "source": "https://en.wikipedia.org/wiki/Conjuring"
+    },
+    {
+      "text": "Ouija boards were first commercially produced in 1890 and were originally marketed as a parlor game, not a tool for contacting the dead.",
+      "source": "https://en.wikipedia.org/wiki/Ouija_boards"
+    },
+    {
+      "text": "Ghost Adventures, hosted by Zak Bagans, has been airing on the Travel Channel since 2008 and is known for its dramatic lockdown investigation format.",
+      "source": "https://en.wikipedia.org/wiki/Ghost_Adventures%2C_hosted_by_Zak_Bagans"
+    },
+    {
+      "text": "The Loch Ness Monster, affectionately known as Nessie, has been reported in Scotland's Loch Ness since the 6th century, with the most famous photo taken in 1934 later revealed as a hoax.",
+      "source": "https://en.wikipedia.org/wiki/Loch_Ness_Monster%2C_affectionately_known_as_Nessie"
+    },
+    {
+      "text": "Residual hauntings are believed to be like recordings of past events that replay over and over, with no interaction between the ghost and the living.",
+      "source": "https://en.wikipedia.org/wiki/Residual_hauntings"
+    },
+    {
+      "text": "Poveglia Island near Venice, Italy is considered one of the most haunted places in the world — it served as a quarantine station for plague victims and later a mental asylum.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Poveglia_Island_near_Venice%2C_Italy"
+    },
+    {
+      "text": "Harry Houdini spent the later years of his career debunking fraudulent mediums and spiritualists, driven by his own failed attempts to contact his deceased mother.",
+      "source": "https://en.wikipedia.org/wiki/Harry_Houdini"
+    },
+    {
+      "text": "The Mothman was first sighted in Point Pleasant, West Virginia in 1966 and reportedly appeared before the collapse of the Silver Bridge in 1967.",
+      "month": 11,
+      "day": 15,
+      "source": "https://en.wikipedia.org/wiki/Mothman"
+    },
+    {
+      "text": "Paranormal Activity (2007) was made for approximately $15,000 and went on to gross nearly $200 million worldwide, making it one of the most profitable films ever.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Paranormal_Activity"
+    },
+    {
+      "text": "Shadow people are dark, humanoid figures seen in peripheral vision, often reported during episodes of sleep paralysis or extreme fatigue.",
+      "source": "https://en.wikipedia.org/wiki/Shadow_people"
+    },
+    {
+      "text": "The Edinburgh Vaults beneath the South Bridge in Scotland are a network of underground chambers that have been a hotspot for paranormal activity since the 18th century.",
+      "source": "https://en.wikipedia.org/wiki/Edinburgh_Vaults_beneath_the_South_Bridge_in_Scotland"
+    },
+    {
+      "text": "Cold reading is a technique used by some psychics and mediums to make seemingly specific statements by reading body language and making high-probability guesses.",
+      "source": "https://en.wikipedia.org/wiki/Cold_reading"
+    },
+    {
+      "text": "The Sixth Sense (1999) features one of cinema's most famous twist endings and earned six Academy Award nominations.",
+      "month": 8,
+      "day": 6,
+      "source": "https://en.wikipedia.org/wiki/Sixth_Sense"
+    },
+    {
+      "text": "Area 51, a classified US Air Force facility in Nevada, has been the subject of UFO conspiracy theories since the 1950s and wasn't officially acknowledged by the government until 2013.",
+      "source": "https://en.wikipedia.org/wiki/Area_51%2C_a_classified_US_Air_Force_facility_in_Nevada"
+    },
+    {
+      "text": "Alcatraz, the infamous island prison in San Francisco Bay, reportedly has haunted cell blocks where visitors and guards have reported hearing unexplained sounds and seeing apparitions.",
+      "source": "https://en.wikipedia.org/wiki/Alcatraz%2C_the_infamous_island_prison_in_San_Francisco_Bay%2C_reportedly"
+    },
+    {
+      "text": "The Chupacabra, meaning 'goat-sucker' in Spanish, was first reported in Puerto Rico in 1995 when livestock were found drained of blood.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Chupacabra%2C_meaning_%27goat-sucker%27_in_Spanish"
+    },
+    {
+      "text": "Spirit boxes, also known as ghost boxes, rapidly scan radio frequencies and are used by paranormal investigators who believe spirits can manipulate the audio to form words.",
+      "source": "https://en.wikipedia.org/wiki/Spirit_boxes%2C_also_known_as_ghost_boxes%2C_rapidly_scan_radio_frequencies_and"
+    },
+    {
+      "text": "Victorian-era séances became extremely popular in the mid-1800s, with darkened rooms, table turning, and spirit rapping as common features.",
+      "source": "https://en.wikipedia.org/wiki/Victorian-era_s%C3%A9ances"
+    },
+    {
+      "text": "The Myrtles Plantation in St. Francisville, Louisiana is said to be haunted by at least 12 ghosts and was built on a Tunica Indian burial ground.",
+      "source": "https://en.wikipedia.org/wiki/Myrtles_Plantation_in_St._Francisville%2C_Louisiana"
+    },
+    {
+      "text": "Pareidolia is the psychological tendency to perceive meaningful patterns in random stimuli, which explains why people often see faces or figures in shadows and photographs.",
+      "source": "https://en.wikipedia.org/wiki/Pareidolia"
+    },
+    {
+      "text": "Beetlejuice (1988) features Michael Keaton as a mischievous ghost-for-hire and became a cult classic, spawning a Broadway musical and a sequel decades later.",
+      "month": 3,
+      "day": 30,
+      "source": "https://en.wikipedia.org/wiki/Beetlejuice"
+    },
+    {
+      "text": "The Jersey Devil is a legendary creature said to inhabit the Pine Barrens of New Jersey, with sightings dating back to the 1700s.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Jersey_Devil"
+    },
+    {
+      "text": "Lorraine Warren was a self-described clairvoyant who, along with her husband Ed, investigated over 10,000 cases of alleged paranormal activity.",
+      "source": "https://en.wikipedia.org/wiki/Lorraine_Warren"
+    },
+    {
+      "text": "Ghost orbs are circular, translucent anomalies that appear in photographs, though skeptics attribute them to dust, moisture, or lens artifacts.",
+      "source": "https://en.wikipedia.org/wiki/Ghost_orbs"
+    },
+    {
+      "text": "The SETI (Search for Extraterrestrial Intelligence) Institute uses radio telescopes to scan the cosmos for signals from intelligent alien civilizations.",
+      "source": "https://en.wikipedia.org/wiki/SETI"
+    },
+    {
+      "text": "Gettysburg, Pennsylvania, site of one of the deadliest Civil War battles, is considered one of the most haunted places in the United States.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Gettysburg%2C_Pennsylvania%2C_site_of_one_of_the_deadliest_Civil_War_battles"
+    },
+    {
+      "text": "Insidious (2010) popularized the concept of astral projection in horror films and launched a multi-film franchise.",
+      "source": "https://en.wikipedia.org/wiki/Insidious"
+    },
+    {
+      "text": "Table turning, or table tipping, was a popular Victorian séance technique where participants placed their hands on a table and waited for it to move.",
+      "source": "https://en.wikipedia.org/wiki/Table_turning%2C_or_table_tipping"
+    },
+    {
+      "text": "The Philip Experiment in the 1970s saw a Canadian group create a fictional ghost named Philip and then seemingly experience genuine paranormal phenomena during their séances.",
+      "source": "https://en.wikipedia.org/wiki/Philip_Experiment_in_the_1970s"
+    },
+    {
+      "text": "Buzzfeed Unsolved: Supernatural ran from 2016 to 2021 and became one of YouTube's most popular paranormal series, blending humor with actual haunted location visits.",
+      "source": "https://en.wikipedia.org/wiki/Buzzfeed_Unsolved:_Supernatural_ran_from_2016_to_2021_and"
+    },
+    {
+      "text": "Casper the Friendly Ghost first appeared in a 1945 animated cartoon before becoming a comic book character and the star of a 1995 live-action film.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Casper_the_Friendly_Ghost_first"
+    },
+    {
+      "text": "Intelligent hauntings, unlike residual hauntings, are believed to involve spirits that are aware of and can interact with the living.",
+      "source": "https://en.wikipedia.org/wiki/Intelligent_hauntings%2C_unlike_residual_hauntings"
+    },
+    {
+      "text": "The Pentagon officially released three UFO videos in April 2020, confirming that the footage taken by Navy pilots showed 'unidentified aerial phenomena.'",
+      "month": 4,
+      "day": 27,
+      "source": "https://en.wikipedia.org/wiki/Pentagon_officially"
+    },
+    {
+      "text": "The Enfield Poltergeist case in London (1977-1978) involved a family terrorized by furniture moving, knocking sounds, and a child reportedly levitating.",
+      "source": "https://en.wikipedia.org/wiki/Enfield_Poltergeist"
+    },
+    {
+      "text": "Infrared cameras are used in ghost hunting because they can detect temperature variations, and some investigators believe cold spots indicate paranormal presence.",
+      "source": "https://en.wikipedia.org/wiki/Infrared_cameras"
+    },
+    {
+      "text": "The Amityville Horror is based on events the Lutz family claimed to experience after moving into a house in Amityville, New York where a mass murder had occurred.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Amityville_Horror"
+    },
+    {
+      "text": "Most Haunted, a British paranormal TV show hosted by Yvette Fielding, ran from 2002 to 2019 and investigated haunted locations across the UK and Europe.",
+      "source": "https://en.wikipedia.org/wiki/Most_Haunted%2C_a_British_paranormal_TV_show_hosted_by_Yvette_Fielding"
+    },
+    {
+      "text": "Resurrection Mary is one of Chicago's most famous ghosts — she reportedly appears as a young woman in a white dress hitchhiking along Archer Avenue near Resurrection Cemetery.",
+      "source": "https://en.wikipedia.org/wiki/Resurrection_Mary"
+    },
+    {
+      "text": "The Yeti, or Abominable Snowman, is a cryptid said to inhabit the Himalayan mountains, with reported sightings dating back centuries in Tibetan and Sherpa culture.",
+      "source": "https://en.wikipedia.org/wiki/Yeti%2C_or_Abominable_Snowman"
+    },
+    {
+      "text": "The Borley Rectory in Essex, England was once called 'the most haunted house in England' by paranormal investigator Harry Price in the 1930s.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Borley_Rectory_in_Essex%2C_England"
+    },
+    {
+      "text": "Ghost tourism is a multi-billion-dollar industry, with haunted hotels, ghost tours, and paranormal attractions drawing millions of visitors annually.",
+      "source": "https://en.wikipedia.org/wiki/Ghost_tourism"
+    },
+    {
+      "text": "The Travis Walton abduction case of 1975 is one of the most famous alleged alien abduction stories, later adapted into the film Fire in the Sky.",
+      "month": 11,
+      "day": 5,
+      "source": "https://en.wikipedia.org/wiki/Travis_Walton_abduction_case_of_1975"
+    },
+    {
+      "text": "Ectoplasm was a substance that mediums in the early 20th century claimed oozed from their bodies during séances as a physical manifestation of spirits.",
+      "source": "https://en.wikipedia.org/wiki/Ectoplasm"
+    },
+    {
+      "text": "The Others (2001), starring Nicole Kidman, is set in a haunted house on the island of Jersey and features a twist ending that redefines the entire film.",
+      "source": "https://en.wikipedia.org/wiki/Others"
+    },
+    {
+      "text": "Kindred Spirits, starring Amy Bruni and Adam Berry, focuses on helping families who believe their homes are haunted by communicating with the spirits.",
+      "source": "https://en.wikipedia.org/wiki/Kindred_Spirits"
+    },
+    {
+      "text": "The Bermuda Triangle, a loosely defined region in the western North Atlantic, has been associated with the disappearance of ships and aircraft under mysterious circumstances.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Bermuda_Triangle%2C_a_loosely_defined_region_in_the_western_North_Atlantic"
+    },
+    {
+      "text": "Halloween, celebrated on October 31, has roots in the ancient Celtic festival of Samhain, when people believed the boundary between the living and dead was thinnest.",
+      "month": 10,
+      "day": 31,
+      "source": "https://en.wikipedia.org/wiki/Halloween%2C_celebrated_on_October_31"
+    },
+    {
+      "text": "The RMS Queen Mary, permanently docked in Long Beach, California, is considered one of the most haunted ships in the world, with reported ghosts in the pool area and engine room.",
+      "source": "https://en.wikipedia.org/wiki/RMS_Queen_Mary%2C_permanently_docked_in_Long_Beach%2C_California"
+    },
+    {
+      "text": "Poltergeist (1982) was famously plagued by a 'curse' after several cast members died under unusual circumstances in the years following its release.",
+      "month": 6,
+      "day": 4,
+      "source": "https://en.wikipedia.org/wiki/Poltergeist"
+    },
+    {
+      "text": "FLIR (Forward-Looking Infrared) cameras are used by both military and paranormal investigators to detect heat signatures in complete darkness.",
+      "source": "https://en.wikipedia.org/wiki/FLIR_(Forward-Looking_Infrared)_cameras"
+    },
+    {
+      "text": "The Betty and Barney Hill abduction of 1961 was the first widely publicized alien abduction claim in the United States.",
+      "month": 9,
+      "day": 19,
+      "source": "https://en.wikipedia.org/wiki/Betty_and_Barney_Hill_abduction_of_1961"
+    },
+    {
+      "text": "The Spiritualism movement peaked in the mid-19th century with an estimated 8 million followers in the United States and Europe.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Spiritualism"
+    },
+    {
+      "text": "Bloody Mary is a folklore legend in which a ghostly figure appears in a mirror when her name is chanted multiple times in a darkened room.",
+      "source": "https://en.wikipedia.org/wiki/Bloody_Mary"
+    },
+    {
+      "text": "The Crescent Hotel in Eureka Springs, Arkansas bills itself as 'America's Most Haunted Hotel' and offers ghost tours of its historic property.",
+      "source": "https://en.wikipedia.org/wiki/Crescent_Hotel_in_Eureka_Springs"
+    },
+    {
+      "text": "Crop circles, often attributed to extraterrestrial activity, have been appearing in fields worldwide, though many have been proven to be human-made.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Crop_circles%2C_often_attributed_to_extraterrestrial_activity"
+    },
+    {
+      "text": "The concept of a poltergeist comes from the German words 'poltern' (to make noise) and 'geist' (ghost or spirit).",
+      "source": "https://en.wikipedia.org/wiki/Ghost"
+    },
+    {
+      "text": "Zak Bagans opened the Haunted Museum in Las Vegas in 2017, featuring artifacts from famous haunted locations and paranormal cases.",
+      "source": "https://en.wikipedia.org/wiki/Zak_Bagans"
+    },
+    {
+      "text": "The Waverly Hills Sanatorium in Louisville, Kentucky, a former tuberculosis hospital, is considered one of the most haunted buildings in the world.",
+      "source": "https://en.wikipedia.org/wiki/Waverly_Hills_Sanatorium_in_Louisville%2C_Kentucky%2C_a_former_tuberculosis_hospital"
+    },
+    {
+      "text": "Night vision technology, originally developed for military use, has become essential equipment for paranormal investigators who often work in complete darkness.",
+      "source": "https://en.wikipedia.org/wiki/Night_vision_technology%2C_originally"
+    },
+    {
+      "text": "The Skinwalker Ranch in Utah has been the site of reported UFO sightings, cattle mutilations, and other unexplained phenomena for decades.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Skinwalker_Ranch_in_Utah"
+    },
+    {
+      "text": "The Conjuring Universe has become one of the highest-grossing horror franchises, with films like Annabelle, The Nun, and The Curse of La Llorona.",
+      "source": "https://en.wikipedia.org/wiki/Conjuring_Universe"
+    },
+    {
+      "text": "Anne Boleyn's ghost is reportedly the most frequently sighted at the Tower of London, where she was executed in 1536.",
+      "source": "https://en.wikipedia.org/wiki/Anne_Boleyn%27s_ghost"
+    },
+    {
+      "text": "Paranormal Caught on Camera, which debuted on the Travel Channel in 2019, analyzes viewer-submitted footage of alleged paranormal events.",
+      "source": "https://en.wikipedia.org/wiki/Paranormal_Caught_on_Camera"
+    },
+    {
+      "text": "The Flatwoods Monster was reportedly sighted in Braxton County, West Virginia in 1952, described as a tall figure with a spade-shaped head and glowing eyes.",
+      "month": 9,
+      "day": 12,
+      "source": "https://en.wikipedia.org/wiki/Flatwoods_Monster"
+    },
+    {
+      "text": "K-II meters, originally designed to detect electromagnetic radiation from appliances, have been adopted by ghost hunters as a primary investigation tool.",
+      "source": "https://en.wikipedia.org/wiki/K-II_meters%2C_originally_designed_to_detect_electromagnetic_radiation_from_appliances"
+    },
+    {
+      "text": "The Great Amherst Mystery of 1878-1879 involved Esther Cox of Nova Scotia, who experienced fires, moving objects, and unexplained noises in one of Canada's most famous hauntings.",
+      "source": "https://en.wikipedia.org/wiki/Great_Amherst_Mystery_of_1878"
+    },
+    {
+      "text": "The Phoenix Lights incident of 1997 involved thousands of witnesses reporting a massive V-shaped formation of lights over Arizona and Nevada.",
+      "month": 3,
+      "day": 13,
+      "source": "https://en.wikipedia.org/wiki/Phoenix_Lights"
+    },
+    {
+      "text": "Demonologists study malevolent entities and are sometimes called in for cases that go beyond typical ghost hauntings, such as alleged possessions.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Demonologists_study_malevolent_entities_and"
+    },
+    {
+      "text": "The Hotel & Spa & Casino & Ghost: The Hotel & Casino at the Venetian in Las Vegas isn't haunted, but the original Flamingo Hotel supposedly is by its creator Bugsy Siegel's ghost.",
+      "source": "https://en.wikipedia.org/wiki/Hotel"
+    },
+    {
+      "text": "The Don CeSar hotel in St. Pete Beach, Florida is reportedly haunted by the ghost of its original owner, Thomas Rowe, who is seen wandering the grounds.",
+      "source": "https://en.wikipedia.org/wiki/Don_CeSar_hotel_in_St._Pete_Beach%2C_Florida"
+    },
+    {
+      "text": "Project Blue Book was a US Air Force program that investigated UFO reports from 1952 to 1969, examining over 12,000 sightings.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Project_Blue_Book"
+    },
+    {
+      "text": "The Whaley House in San Diego, California was officially designated as haunted by the US Commerce Department and is a popular tourist destination.",
+      "source": "https://en.wikipedia.org/wiki/Whaley_House_in_San_Diego%2C_California"
+    },
+    {
+      "text": "Ghost ships, or phantom vessels, are a category of paranormal phenomena where ships are seen at sea despite having sunk or disappeared years earlier.",
+      "source": "https://en.wikipedia.org/wiki/Ghost_ships%2C_or_phantom_vessels"
+    },
+    {
+      "text": "The word 'paranormal' literally means 'beyond normal' and refers to phenomena that cannot be explained by current scientific understanding.",
+      "source": "https://en.wikipedia.org/wiki/Ghost"
+    },
+    {
+      "text": "Annabelle, the haunted Raggedy Ann doll from the Warren's occult museum, inspired a series of horror films within The Conjuring Universe.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Annabelle%2C_the_haunted_Raggedy_Ann_doll_from_the_Warren%27s_occult_museum"
+    },
+    {
+      "text": "Full-spectrum cameras capture light beyond the visible spectrum, including ultraviolet and infrared, and are used by ghost hunters to detect anomalies invisible to the naked eye.",
+      "source": "https://en.wikipedia.org/wiki/Ghost"
+    },
+    {
+      "text": "The Monte Cristo Homestead in Junee, Australia is considered the most haunted house in Australia, with reports of ghostly figures, strange lights, and unexplained sounds.",
+      "source": "https://en.wikipedia.org/wiki/Monte_Cristo_Homestead_in_Junee%2C_Australia"
+    },
+    {
+      "text": "The Rendlesham Forest incident of 1980 in Suffolk, England is often called 'Britain's Roswell' and involved US military personnel reporting unexplained lights and a craft in the forest.",
+      "month": 12,
+      "day": 26,
+      "source": "https://en.wikipedia.org/wiki/Rendlesham_Forest_incident_of_1980_in_Suffolk%2C_England"
+    },
+    {
+      "text": "Automatic writing is a technique where a person writes without conscious intention, believed by some to be a form of spirit communication.",
+      "source": "https://en.wikipedia.org/wiki/Automatic_writing"
+    },
+    {
+      "text": "The Hotel & Casino at the Monte Carlo in Las Vegas: that aside, the real Monte Cristo Homestead offers overnight ghost hunting experiences.",
+      "source": "https://en.wikipedia.org/wiki/Hotel"
+    },
+    {
+      "text": "White noise generators are used in paranormal investigations, as some believe spirits can manipulate random noise to form words or messages.",
+      "source": "https://en.wikipedia.org/wiki/White_noise_generators"
+    },
+    {
+      "text": "The Georgetown haunting of 1949 inspired William Peter Blatty to write The Exorcist, which became one of the most terrifying films ever made.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Georgetown_haunting_of_1949"
+    },
+    {
+      "text": "The La Llorona (Weeping Woman) legend is a prominent ghost story throughout Latin America about a woman who drowned her children and wanders waterways crying for them.",
+      "source": "https://en.wikipedia.org/wiki/La_Llorona_(Weeping_Woman)_legend"
+    },
+    {
+      "text": "Digital voice recorders are considered essential ghost hunting equipment, used to capture potential EVP that may not be heard during the actual investigation.",
+      "source": "https://en.wikipedia.org/wiki/Digital_voice_recorders"
+    },
+    {
+      "text": "The Cecil Hotel in Los Angeles has a dark history of deaths and disappearances, earning it the nickname 'Hotel Death' and inspiring the TV series American Horror Story: Hotel.",
+      "source": "https://en.wikipedia.org/wiki/Cecil_Hotel_in_Los_Angeles"
+    },
+    {
+      "text": "An apparition is a supernatural appearance of a person or thing, especially a ghost, and is considered the most dramatic type of paranormal encounter.",
+      "source": "https://en.wikipedia.org/wiki/An_apparition"
+    },
+    {
+      "text": "The Roswell Daily Record headline from July 8, 1947 read 'RAAF Captures Flying Saucer On Ranch in Roswell Region,' sparking worldwide interest in UFOs.",
+      "source": "https://en.wikipedia.org/wiki/Roswell_Daily_Record"
+    },
+    {
+      "text": "The Sallie House in Atchison, Kansas is named after a young girl's ghost who reportedly haunts the residence, with visitors reporting scratches and objects moving.",
+      "source": "https://en.wikipedia.org/wiki/Sallie_House_in_Atchison%2C_Kansas"
+    },
+    {
+      "text": "Ghost hunting became significantly more popular after the premiere of Ghost Hunters on Syfy in 2004, inspiring a wave of amateur paranormal investigation groups.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Ghost_hunting"
+    },
+    {
+      "text": "The Flying Dutchman is perhaps the most famous ghost ship legend, said to be doomed to sail the oceans forever, never able to make port.",
+      "source": "https://en.wikipedia.org/wiki/Flying_Dutchman"
+    },
+    {
+      "text": "Thermal imaging cameras detect heat radiation and are used in ghost hunting to locate unexplained cold or hot spots in a location.",
+      "source": "https://en.wikipedia.org/wiki/Thermal_imaging_cameras_detect_heat_radiation_and"
+    },
+    {
+      "text": "The Greenbrier Ghost case of 1897 in West Virginia is the only known case where testimony from a ghost was accepted in a US court of law.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Greenbrier_Ghost_case_of_1897_in_West_Virginia"
+    },
+    {
+      "text": "Séances typically involve a group of people sitting in a circle, often holding hands, attempting to communicate with spirits through a medium.",
+      "source": "https://en.wikipedia.org/wiki/Ghost"
+    },
+    {
+      "text": "The Villisca Axe Murder House in Iowa, site of an unsolved 1912 mass murder, offers overnight stays for those brave enough to investigate its reportedly haunted rooms.",
+      "source": "https://en.wikipedia.org/wiki/Villisca_Axe_Murder_House_in_Iowa"
+    },
+    {
+      "text": "The Drake Hotel in Chicago is said to be haunted by the 'Woman in Red,' a ghostly figure seen on New Year's Eve after she allegedly discovered her husband's affair at a party there.",
+      "source": "https://en.wikipedia.org/wiki/Drake_Hotel_in_Chicago"
+    },
+    {
+      "text": "Motion sensors and laser grids are set up during ghost investigations to detect movement in areas where no living person is present.",
+      "source": "https://en.wikipedia.org/wiki/Motion_sensors_and_laser_grids"
+    },
+    {
+      "text": "The term 'UFO' was coined by the US Air Force in 1953, though it has largely been replaced by 'UAP' (Unidentified Aerial Phenomena) in official government language.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/term_%27UFO"
+    },
+    {
+      "text": "The Lizzie Borden House in Fall River, Massachusetts, now operates as a bed and breakfast where guests can sleep in the room where Abby Borden was murdered.",
+      "source": "https://en.wikipedia.org/wiki/Lizzie_Borden_House_in_Fall_River"
+    },
+    {
+      "text": "Stone Tape theory suggests that emotional events can be absorbed by surrounding materials and later 'played back' as ghostly experiences.",
+      "source": "https://en.wikipedia.org/wiki/Stone_Tape"
+    },
+    {
+      "text": "The Roswell incident led to the creation of the infamous 'alien autopsy' film in 1995, which was later revealed to be a hoax.",
+      "source": "https://en.wikipedia.org/wiki/Roswell"
+    },
+    {
+      "text": "Dowsing rods, traditionally used to find water, are sometimes used by paranormal investigators to detect spiritual energy or locate ghosts.",
+      "source": "https://en.wikipedia.org/wiki/Dowsing_rods%2C_traditionally_used_to_find_water"
+    },
+    {
+      "text": "The Driskill Hotel in Austin, Texas is reportedly haunted by multiple ghosts, including that of Colonel Jesse Driskill himself, who built the hotel in 1886.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Driskill_Hotel_in_Austin%2C_Texas"
+    },
+    {
+      "text": "Paranormal investigators often use a 'control room' setup with multiple camera feeds to monitor an entire location simultaneously during an investigation.",
+      "source": "https://en.wikipedia.org/wiki/Ghost"
+    },
+    {
+      "text": "The Ancient Ram Inn in Gloucestershire, England, built in 1145, is considered one of the most haunted buildings in Britain.",
+      "source": "https://en.wikipedia.org/wiki/Ancient_Ram_Inn_in_Gloucestershire%2C_England%2C_built_in_1145"
+    },
+    {
+      "text": "The Barney and Betty Hill Star Map, drawn by Betty under hypnosis after their alleged abduction, was later interpreted by Marjorie Fish as matching the Zeta Reticuli star system.",
+      "source": "https://en.wikipedia.org/wiki/Barney_and_Betty_Hill_Star_Map"
+    },
+    {
+      "text": "Ghostbusters' iconic line 'Who ya gonna call?' became one of the most recognizable catchphrases in movie history.",
+      "source": "https://en.wikipedia.org/wiki/Ghostbusters%27_iconic_line_%27Who_ya_gonna_call"
+    },
+    {
+      "text": "The Danvers State Hospital in Massachusetts, a former psychiatric institution, inspired the horror film Session 9 and was known for reports of paranormal activity before its demolition.",
+      "source": "https://en.wikipedia.org/wiki/Danvers_State_Hospital_in_Massachusetts%2C_a_former_psychiatric_institution"
+    },
+    {
+      "text": "A REM pod (Radiating Electromagnetism pod) is a ghost hunting device that creates its own electromagnetic field and alerts investigators when something enters that field.",
+      "source": "https://en.wikipedia.org/wiki/A_REM_pod_(Radiating_Electromagnetism_pod)"
+    },
+    {
+      "text": "The Smurl Haunting in West Pittston, Pennsylvania in 1986 involved a family who reported demonic activity, and the case was investigated by Ed and Lorraine Warren.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Smurl_Haunting_in_West_Pittston"
+    },
+    {
+      "text": "Crop circles first gained major media attention in the 1970s and 1980s in southern England, though similar formations had been reported centuries earlier.",
+      "source": "https://en.wikipedia.org/wiki/Ghost"
+    },
+    {
+      "text": "The Tower of London's most frequently reported ghost is that of Anne Boleyn, second wife of Henry VIII, who was beheaded there on May 19, 1536.",
+      "source": "https://en.wikipedia.org/wiki/Tower_of_London%27s_most_frequently_reported_ghost"
+    },
+    {
+      "text": "Ghost hunting apps for smartphones have become popular, though most paranormal investigators consider them unreliable entertainment rather than legitimate tools.",
+      "source": "https://en.wikipedia.org/wiki/Ghost_hunting_apps_for_smartphones"
+    },
+    {
+      "text": "The Babadook (2014), while not about traditional ghosts, explored themes of grief and haunting that resonated with paranormal horror fans.",
+      "source": "https://en.wikipedia.org/wiki/Babadook"
+    },
+    {
+      "text": "The O'Hare International Airport UFO sighting of 2006 involved multiple United Airlines employees witnessing a disc-shaped object hovering over Gate C17.",
+      "month": 11,
+      "day": 7,
+      "source": "https://en.wikipedia.org/wiki/O%27Hare_International_Airport_UFO"
+    },
+    {
+      "text": "Frank's Box, invented by Frank Sumption in 2002, was one of the first purpose-built spirit communication devices and inspired modern spirit boxes.",
+      "source": "https://en.wikipedia.org/wiki/Frank%27s_Box"
+    },
+    {
+      "text": "The Lalaurie Mansion in New Orleans is considered one of the most haunted houses in America, with a horrifying history of cruelty by Madame LaLaurie in the 1830s.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Lalaurie_Mansion_in_New_Orleans"
+    },
+    {
+      "text": "Ball lightning, a rare atmospheric electrical phenomenon, has been proposed as a natural explanation for some ghost light and UFO sightings.",
+      "source": "https://en.wikipedia.org/wiki/Ball_lightning%2C_a_rare_atmospheric_electrical_phenomenon"
+    },
+    {
+      "text": "The Baker Hotel in Mineral Wells, Texas, abandoned since 1972, is one of Texas's most famous haunted buildings, with plans for renovation ongoing.",
+      "source": "https://en.wikipedia.org/wiki/Baker_Hotel_in_Mineral_Wells%2C_Texas%2C_abandoned_since_1972"
+    },
+    {
+      "text": "Paranormal investigators typically conduct investigations at night not because ghosts are nocturnal, but because reduced ambient noise and light make it easier to detect anomalies.",
+      "source": "https://en.wikipedia.org/wiki/Paranormal_investigators_typically_conduct_investigations_at_night_not_because_ghosts"
+    },
+    {
+      "text": "The Hill Abduction case is the first widely reported alien abduction in the United States, occurring in New Hampshire's White Mountains.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Hill_Abduction_case"
+    },
+    {
+      "text": "Trigger objects are items placed in a location during an investigation to encourage spirits to interact — common examples include toys, coins, or period-appropriate items.",
+      "source": "https://en.wikipedia.org/wiki/Trigger_objects"
+    },
+    {
+      "text": "The Château de Brissac in France's Loire Valley is reportedly haunted by the 'Green Lady,' the ghost of Charlotte of France who was murdered by her husband.",
+      "source": "https://en.wikipedia.org/wiki/Ch%C3%A2teau_de_Brissac_in_France%27s_Loire_Valley"
+    },
+    {
+      "text": "Scrying is the practice of gazing into a reflective surface, such as a crystal ball or mirror, to receive spiritual visions or messages.",
+      "source": "https://en.wikipedia.org/wiki/Scrying"
+    },
+    {
+      "text": "The Estes Method, named after the Stanley Hotel's location in Estes Park, involves a blindfolded investigator wearing noise-canceling headphones connected to a spirit box.",
+      "source": "https://en.wikipedia.org/wiki/Estes_Method"
+    },
+    {
+      "text": "The Belgian UFO wave of 1989-1990 involved over 13,500 people reporting sightings of large, silent, low-flying black triangles.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Belgian_UFO"
+    },
+    {
+      "text": "The Marshall House in Savannah, Georgia, which served as a hospital during the Civil War, is considered one of the most haunted hotels in the South.",
+      "source": "https://en.wikipedia.org/wiki/Marshall_House_in_Savannah%2C_Georgia%2C_which_served_as_a_hospital_during_the_Civil_War"
+    },
+    {
+      "text": "Psychometry is the alleged psychic ability to read information about a person or event by touching an associated object.",
+      "source": "https://en.wikipedia.org/wiki/Psychometry"
+    },
+    {
+      "text": "The Conjuring 2 (2016) was based on the Enfield Poltergeist case that occurred in a council house in the London Borough of Enfield in 1977.",
+      "source": "https://en.wikipedia.org/wiki/Conjuring_2_(2016)"
+    },
+    {
+      "text": "Electronic equipment malfunction is commonly reported during paranormal investigations, with cameras, recorders, and batteries often failing unexpectedly in allegedly haunted locations.",
+      "source": "https://en.wikipedia.org/wiki/Electronic_equipment_malfunction"
+    },
+    {
+      "text": "The Skinwalker in Navajo tradition is a type of witch who can transform into or disguise themselves as any animal — the concept differs significantly from the ranch named after it.",
+      "source": "https://en.wikipedia.org/wiki/Skinwalker_in_Navajo_tradition"
+    },
+    {
+      "text": "The Lizard Man of Scape Ore Swamp in South Carolina was first reported in 1988 by a teenage driver who claimed the creature attacked his car.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Lizard_Man_of_Scape_Ore_Swamp_in_South_Carolina"
+    },
+    {
+      "text": "SLS (Structured Light Sensor) cameras map the environment using infrared dots and can outline humanoid figures that aren't visible to the human eye.",
+      "source": "https://en.wikipedia.org/wiki/Structured_Light_Sensor"
+    },
+    {
+      "text": "The Pfister Hotel in Milwaukee, Wisconsin is reportedly so haunted that visiting baseball players have requested room changes or stayed at different hotels.",
+      "source": "https://en.wikipedia.org/wiki/Pfister_Hotel_in_Milwaukee%2C_Wisconsin"
+    },
+    {
+      "text": "Clairvoyance is the alleged ability to perceive events or gain information beyond normal sensory contact, often associated with psychic mediums.",
+      "source": "https://en.wikipedia.org/wiki/Clairvoyance"
+    },
+    {
+      "text": "The Winchester Mystery House has approximately 161 rooms, 2,000 doors, 10,000 windows, 47 stairways, and 6 kitchens — many leading to nowhere.",
+      "source": "https://en.wikipedia.org/wiki/Winchester_Mystery_House"
+    },
+    {
+      "text": "The World's First Ghost Photo is believed to be a portrait taken by William Mumler in 1861, appearing to show the spirit of a deceased person behind the subject.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/World%27s_First_Ghost_Photo"
+    },
+    {
+      "text": "Night Trap (1992) was one of the first video games centered on paranormal investigation, requiring players to protect a house from vampire-like creatures.",
+      "source": "https://en.wikipedia.org/wiki/Night_Trap"
+    },
+    {
+      "text": "The Banff Springs Hotel in Alberta, Canada is said to be haunted by a bride who fell down a staircase and a bellman named Sam who reportedly helps guests from beyond the grave.",
+      "source": "https://en.wikipedia.org/wiki/Banff_Springs_Hotel_in_Alberta%2C_Canada"
+    },
+    {
+      "text": "The term 'ghost' comes from the Old English word 'gāst,' which originally meant 'breath' or 'spirit.'",
+      "source": "https://en.wikipedia.org/wiki/Old_English"
+    },
+    {
+      "text": "The Surrency Ghost of Surrency, Georgia in the 1870s involved a household where objects allegedly flew through the air and hot bricks fell from clear skies.",
+      "source": "https://en.wikipedia.org/wiki/Surrency_Ghost_of_Surrency"
+    },
+    {
+      "text": "Robert the Doll, housed in the Fort East Martello Museum in Key West, Florida, is one of the most famous allegedly haunted objects in the world.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Robert_the_Doll%2C_housed_in_the_Fort_East_Martello_Museum_in_Key_West%2C_Florida"
+    },
+    {
+      "text": "The Patterson-Gimlin film of Bigfoot, shot on October 20, 1967 in Northern California, remains the most analyzed piece of evidence for the creature's existence.",
+      "month": 10,
+      "day": 20,
+      "source": "https://en.wikipedia.org/wiki/Patterson-Gimlin"
+    },
+    {
+      "text": "The St. Augustine Lighthouse in Florida is considered one of the most haunted lighthouses in America, with visitors reporting the laughter of two girls who drowned during its construction.",
+      "source": "https://en.wikipedia.org/wiki/St._Augustine_Lighthouse_in_Florida"
+    },
+    {
+      "text": "Pendulums are used in paranormal investigations as a divination tool, with investigators asking yes-or-no questions and interpreting the pendulum's swing direction.",
+      "source": "https://en.wikipedia.org/wiki/Pendulums"
+    },
+    {
+      "text": "Insidious introduced the concept of 'The Further,' a dark astral plane where malevolent entities dwell, which became a key element throughout the franchise.",
+      "source": "https://en.wikipedia.org/wiki/Insidious"
+    },
+    {
+      "text": "The Bridgewater Triangle in southeastern Massachusetts is a 200-square-mile area known for reports of UFOs, Bigfoot sightings, cattle mutilations, and ghostly phenomena.",
+      "source": "https://en.wikipedia.org/wiki/Bridgewater_Triangle_in_southeastern_Massachusetts"
+    },
+    {
+      "text": "Ghost tours have become a staple of tourism in cities like New Orleans, Savannah, Edinburgh, and London, generating significant revenue for local economies.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Ghost_tours"
+    },
+    {
+      "text": "The Tedworth Drummer is one of the earliest well-documented poltergeist cases, occurring in Wiltshire, England in 1661.",
+      "source": "https://en.wikipedia.org/wiki/Tedworth_Drummer"
+    },
+    {
+      "text": "UAP (Unidentified Aerial Phenomena) is the term now used by the US government instead of UFO, as it encompasses a broader range of unexplained sightings.",
+      "source": "https://en.wikipedia.org/wiki/UAP_(Unidentified_Aerial_Phenomena)"
+    },
+    {
+      "text": "The Peabody Hotel in Memphis, Tennessee is reportedly haunted by Mary, a woman who jumped from the hotel's roof in the 1930s.",
+      "source": "https://en.wikipedia.org/wiki/Peabody_Hotel_in_Memphis%2C_Tennessee"
+    },
+    {
+      "text": "Spirit photography became popular in the 1860s, with photographers claiming to capture the images of deceased loved ones alongside living subjects.",
+      "source": "https://en.wikipedia.org/wiki/Spirit_photography"
+    },
+    {
+      "text": "The Hessdalen Lights in Norway are unexplained lights that have been observed in the Hessdalen valley since the 1930s, with scientific monitoring stations set up to study them.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Hessdalen_Lights_in_Norway"
+    },
+    {
+      "text": "Zak Bagans purchased the house where serial killer H.H. Holmes is said to have lived, relocating artifacts to his Haunted Museum in Las Vegas.",
+      "source": "https://en.wikipedia.org/wiki/Zak_Bagans_purchased_the_house_where_serial_killer_H.H._Holmes"
+    },
+    {
+      "text": "The Entity case of 1974 in Culver City, California involved Doris Bither, who claimed to be physically assaulted by invisible forces, inspiring the 1982 film The Entity.",
+      "source": "https://en.wikipedia.org/wiki/Entity"
+    },
+    {
+      "text": "A death mask is a wax or plaster cast made of a person's face after death, and some paranormal collectors believe these objects can retain spiritual energy.",
+      "source": "https://en.wikipedia.org/wiki/A_death_mask"
+    },
+    {
+      "text": "Phasmophobia, released in 2020 as an Early Access game, became hugely popular for its realistic cooperative ghost hunting gameplay.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Phasmophobia"
+    },
+    {
+      "text": "The Crescent Hotel in Eureka Springs, Arkansas was built in 1886 and has been called 'America's Most Haunted Hotel' due to its dark history as a fraudulent cancer hospital.",
+      "source": "https://en.wikipedia.org/wiki/Crescent_Hotel_in_Eureka_Springs%2C_Arkansas"
+    },
+    {
+      "text": "The 'stone throwing devil' of New Hampshire in 1682 is one of the earliest recorded poltergeist cases in North America.",
+      "source": "https://en.wikipedia.org/wiki/%27stone_throwing_devil%27_of_New_Hampshire"
+    },
+    {
+      "text": "Remote viewing is the alleged ability to psychically see distant or hidden locations, and was studied by the CIA in the Stargate Project during the Cold War.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Remote_viewing"
+    },
+    {
+      "text": "The Aokigahara Forest at the base of Mount Fuji in Japan is known as the 'Suicide Forest' and is said to be haunted by the spirits of those who died there.",
+      "source": "https://en.wikipedia.org/wiki/Aokigahara_Forest_at_the_base_of_Mount_Fuji_in_Japan"
+    },
+    {
+      "text": "Mel meters, named after paranormal researcher Gary Galka's daughter Melissa, measure both EMF and ambient temperature simultaneously.",
+      "source": "https://en.wikipedia.org/wiki/Mel_meters"
+    },
+    {
+      "text": "The White Lady is one of the most common types of ghosts reported worldwide, typically described as a female figure in a long white gown.",
+      "source": "https://en.wikipedia.org/wiki/White_Lady"
+    },
+    {
+      "text": "The War of the Worlds radio broadcast by Orson Welles on October 30, 1938 caused mass panic when listeners believed Earth was being invaded by aliens.",
+      "month": 10,
+      "day": 30,
+      "source": "https://en.wikipedia.org/wiki/War_of_the_Worlds"
+    },
+    {
+      "text": "Ghost Hunters introduced the concept of 'personal experiences' as a category of evidence, including feelings of being watched, touched, or sudden temperature changes.",
+      "source": "https://en.wikipedia.org/wiki/Ghost_Hunters"
+    },
+    {
+      "text": "The Mogollon Monster is Arizona's version of Bigfoot, reportedly sighted in the forests along the Mogollon Rim since the early 1900s.",
+      "source": "https://en.wikipedia.org/wiki/Mogollon_Monster"
+    },
+    {
+      "text": "The Moundsville Penitentiary in West Virginia, which housed violent offenders for over 100 years, is now one of the most popular paranormal investigation destinations in the US.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Moundsville_Penitentiary_in_West_Virginia"
+    },
+    {
+      "text": "Ghostbusters II (1989) introduced the concept of psychic slime that feeds on negative emotions, a creative paranormal idea unique to the franchise.",
+      "source": "https://en.wikipedia.org/wiki/Ghostbusters_II"
+    },
+    {
+      "text": "The Winchester Mystery House began construction in 1884 and continued 24 hours a day, 7 days a week until Sarah Winchester's death in 1922.",
+      "month": 9,
+      "day": 5,
+      "source": "https://en.wikipedia.org/wiki/Winchester_Mystery_House"
+    },
+    {
+      "text": "A banshee is a female spirit in Irish mythology whose wailing warns of an impending death in a family.",
+      "source": "https://en.wikipedia.org/wiki/A_banshee"
+    },
+    {
+      "text": "The Dybbuk Box is an allegedly haunted wine cabinet that gained fame after being sold on eBay, inspiring the 2012 horror film The Possession.",
+      "source": "https://en.wikipedia.org/wiki/Dybbuk_Box"
+    },
+    {
+      "text": "The Hotel & Spa & Casino: rather, the Mizpah Hotel in Tonopah, Nevada is considered one of the most haunted hotels in the West, famous for the Lady in Red.",
+      "source": "https://en.wikipedia.org/wiki/Hotel_%26_Spa_%26_Casino:_rather%2C_the_Mizpah_Hotel_in_Tonopah%2C_Nevada"
+    },
+    {
+      "text": "Hans Holzer was a prolific paranormal investigator and author who wrote over 140 books and investigated the Amityville case independently.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Hans_Holzer"
+    },
+    {
+      "text": "Time slips are a type of paranormal experience where people report momentarily being transported to a different time period.",
+      "source": "https://en.wikipedia.org/wiki/Time_slips"
+    },
+    {
+      "text": "The first season of Stranger Things drew heavily from paranormal themes including government experiments, alternate dimensions, and psychic abilities.",
+      "source": "https://en.wikipedia.org/wiki/Stranger_Things"
+    },
+    {
+      "text": "Dowsing, also known as divining, has been practiced for centuries and was originally used to find underground water sources.",
+      "source": "https://en.wikipedia.org/wiki/Dowsing%2C_also_known_as_divining"
+    },
+    {
+      "text": "The Bodie State Historic Park in California, a preserved ghost town, reportedly has cursed objects — visitors who take items home claim to experience bad luck.",
+      "source": "https://en.wikipedia.org/wiki/Bodie_State_Historic_Park_in_California%2C_a_preserved_ghost_town%2C_reportedly"
+    },
+    {
+      "text": "The Cottingley Fairies photographs, taken by two young girls in England in 1917, were believed to be genuine by many including Sir Arthur Conan Doyle before being debunked decades later.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Cottingley_Fairies_photographs%2C_taken_by_two_young_girls_in_England_in_1917"
+    },
+    {
+      "text": "Ghostbusters: Afterlife (2021) was directed by Jason Reitman, son of the original film's director Ivan Reitman, and served as a direct sequel to the 1984 film.",
+      "month": 11,
+      "day": 19,
+      "source": "https://en.wikipedia.org/wiki/Ghostbusters:_Afterlife"
+    },
+    {
+      "text": "The Third Man Factor describes the feeling of an unseen presence providing comfort or guidance during extreme survival situations.",
+      "source": "https://en.wikipedia.org/wiki/Third_Man_Factor"
+    },
+    {
+      "text": "The Jerome Grand Hotel in Arizona, a former miners' hospital, is reportedly haunted and offers ghost tours and paranormal investigation packages.",
+      "source": "https://en.wikipedia.org/wiki/Jerome_Grand_Hotel_in_Arizona%2C_a_former_miners%27_hospital"
+    },
+    {
+      "text": "Apports are objects that allegedly materialize during a séance, supposedly transported from another location by spirit energy.",
+      "source": "https://en.wikipedia.org/wiki/Apports"
+    },
+    {
+      "text": "The Roswell UFO Museum in New Mexico receives approximately 180,000 visitors per year, making it one of the town's primary tourist attractions.",
+      "source": "https://en.wikipedia.org/wiki/Roswell_UFO_Museum_in_New_Mexico"
+    },
+    {
+      "text": "The Bell Witch of Tennessee allegedly told Andrew Jackson's party to leave the property, and even the future president reportedly fled.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Bell_Witch_of_Tennessee_allegedly"
+    },
+    {
+      "text": "Electromagnetic interference (EMI) from geological formations containing quartz or limestone has been proposed as a natural explanation for some haunting experiences.",
+      "source": "https://en.wikipedia.org/wiki/Ghost"
+    },
+    {
+      "text": "The Don CeSar Pink Palace in Florida and the Hotel & Casino — more accurately, the Hawthorne Hotel in Salem, Massachusetts is famously haunted and connected to the town's witch trial history.",
+      "source": "https://en.wikipedia.org/wiki/Don_CeSar_Pink_Palace_in_Florida_and"
+    },
+    {
+      "text": "Crisis apparitions are ghosts of people who appear to loved ones at the moment of their death, often before the death is known.",
+      "source": "https://en.wikipedia.org/wiki/Crisis_apparitions"
+    },
+    {
+      "text": "The Conjuring franchise has grossed over $2 billion worldwide, making it one of the most successful horror series in cinema history.",
+      "source": "https://en.wikipedia.org/wiki/Conjuring_franchise"
+    },
+    {
+      "text": "The 1995 alien autopsy film, created by Ray Santilli, was eventually revealed to be a staged recreation, though Santilli claimed it was based on genuine footage he had seen.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/1995_alien_autopsy_film"
+    },
+    {
+      "text": "Ghost lights, also known as will-o'-the-wisps, are atmospheric phenomena seen in marshes and swamps, historically attributed to fairies or lost souls.",
+      "source": "https://en.wikipedia.org/wiki/Ghost_lights%2C_also_known_as_will-o%27-the-wisps"
+    },
+    {
+      "text": "The Dauphine Orleans Hotel in New Orleans features a cottage that was once a bordello, where guests report hearing phantom laughter and music from another era.",
+      "source": "https://en.wikipedia.org/wiki/Dauphine_Orleans_Hotel_in_New_Orleans"
+    },
+    {
+      "text": "The Fox sisters eventually confessed that their spirit rappings were produced by cracking their toe joints, though they later recanted the confession.",
+      "source": "https://en.wikipedia.org/wiki/Fox_sisters_eventually_confessed_that_their_spirit_rappings"
+    },
+    {
+      "text": "SB7 Spirit Boxes sweep through AM/FM frequencies at a rapid rate, creating white noise that some investigators believe spirits can manipulate to communicate.",
+      "source": "https://en.wikipedia.org/wiki/SB7_Spirit_Boxes"
+    },
+    {
+      "text": "The Haunting of Hill House (2018 Netflix series) was based on Shirley Jackson's 1959 novel and became one of the most acclaimed horror TV shows of its era.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Haunting_of_Hill_House_(2018_Netflix_series)"
+    },
+    {
+      "text": "Doppelgängers are supernatural doubles of living people, and in folklore, seeing one's own doppelgänger is considered an omen of death.",
+      "source": "https://en.wikipedia.org/wiki/Doppelg%C3%A4ngers"
+    },
+    {
+      "text": "The 1966 Westall UFO sighting in Melbourne, Australia involved over 200 students and teachers witnessing a mysterious flying object near their school.",
+      "month": 4,
+      "day": 6,
+      "source": "https://en.wikipedia.org/wiki/1966_Westall_UFO"
+    },
+    {
+      "text": "Ghost photography pioneer William Hope was exposed as a fraud in 1922 by Harry Price, who demonstrated how double exposures could create ghostly images.",
+      "source": "https://en.wikipedia.org/wiki/Ghost_photography_pioneer_William_Hope"
+    },
+    {
+      "text": "The National Museum of Funeral History in Houston includes exhibits on the paranormal, including embalming artifacts and memorial photography.",
+      "source": "https://en.wikipedia.org/wiki/National_Museum_of_Funeral_History_in_Houston"
+    },
+    {
+      "text": "Corpse candles, or 'canwyll corff' in Welsh folklore, are ghostly lights believed to foretell death, seen traveling the path a funeral procession would later take.",
+      "source": "https://en.wikipedia.org/wiki/Corpse_candles%2C_or_%27canwyll_corff%27_in_Welsh_folklore"
+    },
+    {
+      "text": "The Lemp Mansion in St. Louis, Missouri, site of multiple suicides by the Lemp family, is now a restaurant and inn known for paranormal activity.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Lemp_Mansion_in_St._Louis%2C_Missouri%2C_site_of_multiple_suicides_by_the_Lemp_family"
+    },
+    {
+      "text": "The term 'cryptid' was coined by John Wall in 1983 to describe animals whose existence is suggested but not confirmed by science.",
+      "source": "https://en.wikipedia.org/wiki/term_%27cryptid"
+    },
+    {
+      "text": "Ovilus devices contain a database of words and use environmental readings to select words, which some investigators believe spirits can influence.",
+      "source": "https://en.wikipedia.org/wiki/Ghost"
+    },
+    {
+      "text": "The Shining (1980), directed by Stanley Kubrick, was filmed at the Timberline Lodge in Oregon but was inspired by the Stanley Hotel in Colorado.",
+      "source": "https://en.wikipedia.org/wiki/Shining"
+    },
+    {
+      "text": "Electronic field disturbance meters can detect changes in the local electric field, and some ghost hunters believe spirits create detectable electrical disturbances.",
+      "source": "https://en.wikipedia.org/wiki/Ghost"
+    },
+    {
+      "text": "The Island of the Dolls (Isla de las Muñecas) near Mexico City is a creepy tourist destination covered in decaying dolls, said to be haunted by a drowned girl's spirit.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Island_of_the_Dolls_(Isla_de_las_Mu%C3%B1ecas)_near_Mexico_City"
+    },
+    {
+      "text": "Poltergeist activity has historically been associated with adolescents, leading some researchers to theorize a connection to psychokinetic energy.",
+      "source": "https://en.wikipedia.org/wiki/Poltergeist_activity"
+    },
+    {
+      "text": "The Queen Anne Hotel in San Francisco is reportedly haunted by Miss Mary Lake, the former headmistress of a girls' school that once occupied the building.",
+      "source": "https://en.wikipedia.org/wiki/Queen_Anne_Hotel_in_San_Francisco"
+    },
+    {
+      "text": "The Bermuda Triangle was first named in a 1964 article by Vincent Gaddis in Argosy magazine, though mysterious disappearances in the area had been reported for decades.",
+      "source": "https://en.wikipedia.org/wiki/Bermuda_Triangle"
+    },
+    {
+      "text": "Ed and Lorraine Warren founded the New England Society for Psychic Research in 1952 and went on to investigate thousands of cases.",
+      "month": 9,
+      "day": 7,
+      "source": "https://en.wikipedia.org/wiki/Ed_and_Lorraine_Warren"
+    },
+    {
+      "text": "Ghost box sessions, also called spirit box sessions, are conducted as real-time EVP attempts, allowing investigators to ask questions and receive immediate responses.",
+      "source": "https://en.wikipedia.org/wiki/Ghost_box_sessions%2C_also_called_spirit_box_sessions"
+    },
+    {
+      "text": "The Chase Vault in Barbados is a burial vault where coffins were repeatedly found moved from their original positions, despite the vault being sealed.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Chase_Vault_in_Barbados"
+    },
+    {
+      "text": "The Montauk Project is an alleged secret government program that supposedly conducted experiments in time travel and mind control at Camp Hero in Montauk, New York.",
+      "source": "https://en.wikipedia.org/wiki/Montauk_Project"
+    },
+    {
+      "text": "The Savoy Hotel in London is reportedly haunted by the ghost of Kaspar the cat, a three-foot-high wooden cat sculpture created to prevent unlucky dinner parties of 13.",
+      "source": "https://en.wikipedia.org/wiki/Savoy_Hotel_in_London"
+    },
+    {
+      "text": "Clairaudience is the alleged paranormal ability to hear sounds beyond the normal range, such as voices of spirits or music from another time.",
+      "source": "https://en.wikipedia.org/wiki/Clairaudience"
+    },
+    {
+      "text": "The Emily's Bridge in Stowe, Vermont is said to be haunted by a young woman named Emily who allegedly hanged herself there after being stood up by her lover.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Emily%27s_Bridge_in_Stowe%2C_Vermont"
+    },
+    {
+      "text": "Paranormal reality TV shows have been credited with increasing public interest in ghost hunting, with hundreds of amateur paranormal investigation teams forming since the mid-2000s.",
+      "source": "https://en.wikipedia.org/wiki/Paranormal_reality_TV_shows"
+    },
+    {
+      "text": "The Mothman Prophecies (2002), starring Richard Gere, was based on John Keel's book about the Mothman sightings in Point Pleasant, West Virginia.",
+      "source": "https://en.wikipedia.org/wiki/Mothman_Prophecies"
+    },
+    {
+      "text": "Geiger counters, which measure ionizing radiation, are occasionally used in paranormal investigations based on the theory that ghosts may produce radiation.",
+      "source": "https://en.wikipedia.org/wiki/Geiger_counters%2C_which_measure_ionizing_radiation"
+    },
+    {
+      "text": "The Menger Hotel in San Antonio, Texas, built in 1859, is reportedly haunted by over 30 ghosts, including Teddy Roosevelt and a chambermaid named Sallie White.",
+      "source": "https://en.wikipedia.org/wiki/Menger_Hotel_in_San_Antonio%2C_Texas%2C_built_in_1859"
+    },
+    {
+      "text": "The Fox sisters' Hydesville cottage, where the Spiritualism movement began, has been relocated and is now part of the Lily Dale Assembly in western New York.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Fox_sisters%27_Hydesville_cottage%2C_where_the_Spiritualism_movement_began"
+    },
+    {
+      "text": "Phantom sounds, such as footsteps, knocking, and music, are among the most commonly reported paranormal experiences in allegedly haunted locations.",
+      "source": "https://en.wikipedia.org/wiki/Phantom_sounds%2C_such_as_footsteps%2C_knocking%2C_and_music"
+    },
+    {
+      "text": "The Roswell incident prompted the creation of numerous conspiracy theories about the US government covering up evidence of extraterrestrial life.",
+      "source": "https://en.wikipedia.org/wiki/Roswell"
+    },
+    {
+      "text": "Ghostbusters' Stay Puft Marshmallow Man was created using a suit actor filmed with miniature buildings to create the illusion of a giant creature.",
+      "source": "https://en.wikipedia.org/wiki/Ghostbusters%27_Stay_Puft_Marshmallow_Man"
+    },
+    {
+      "text": "The Spiricom was a device built by George Meek in the 1980s that he claimed allowed two-way communication with spirits.",
+      "source": "https://en.wikipedia.org/wiki/Spiricom"
+    },
+    {
+      "text": "The Salem Witch Trials of 1692 resulted in the execution of 20 people and have left Salem, Massachusetts with a reputation for being one of the most haunted cities in America.",
+      "month": 6,
+      "day": 10,
+      "source": "https://en.wikipedia.org/wiki/Salem_Witch_Trials_of_1692_resulted_in_the_execution_of_20_people_and"
+    },
+    {
+      "text": "Extrasensory perception (ESP) encompasses telepathy, clairvoyance, and precognition, and has been studied by parapsychologists for over a century.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Extrasensory_perception_(ESP)_encompasses_telepathy%2C_clairvoyance%2C_and_precognition%2C_and"
+    },
+    {
+      "text": "The Overlook Hotel from The Shining is entirely fictional, but fans often visit the Stanley Hotel and Timberline Lodge as stand-ins for the iconic location.",
+      "source": "https://en.wikipedia.org/wiki/Overlook_Hotel_from_The_Shining"
+    },
+    {
+      "text": "The Biltmore Hotel in Coral Gables, Florida is reportedly haunted by Thomas 'Fatty' Walsh, a gangster who was murdered there during Prohibition.",
+      "source": "https://en.wikipedia.org/wiki/Biltmore_Hotel_in_Coral_Gables%2C_Florida"
+    },
+    {
+      "text": "Clairvoyant mediums claim to see spirits, while clairsentient mediums claim to feel the emotions and physical sensations of the deceased.",
+      "source": "https://en.wikipedia.org/wiki/Ghost"
+    },
+    {
+      "text": "The Chupacabra's name translates to 'goat-sucker' because the creatures it allegedly attacks are often found with puncture wounds and drained of blood.",
+      "source": "https://en.wikipedia.org/wiki/Chupacabra%27s"
+    },
+    {
+      "text": "Dead Time is a term used by ghost hunters to refer to the hours between midnight and 3 AM, believed to be when paranormal activity peaks.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Dead_Time"
+    },
+    {
+      "text": "The International Space Station astronauts have reported seeing unexplained lights and objects, though these are typically attributed to space debris or atmospheric effects.",
+      "source": "https://en.wikipedia.org/wiki/International_Space_Station_astronauts"
+    },
+    {
+      "text": "The Willard Library in Evansville, Indiana has been under surveillance by ghost cameras since 1999, with visitors able to watch live feeds online for paranormal activity.",
+      "source": "https://en.wikipedia.org/wiki/Willard_Library_in_Evansville%2C_Indiana"
+    },
+    {
+      "text": "Psychic surgery is a fraudulent practice where practitioners appear to perform surgery with their bare hands, supposedly removing diseased tissue without incisions.",
+      "source": "https://en.wikipedia.org/wiki/Psychic_surgery"
+    },
+    {
+      "text": "The Hotel & Casino — more precisely, the Hotel & Casino at Monte Carlo: actually, the notoriously haunted Hotel & Casino in New Orleans is known as Hotel & Casino. Rather, the Andrew Jackson Hotel in New Orleans is reportedly haunted by the ghosts of boys killed in a fire.",
+      "source": "https://en.wikipedia.org/wiki/Hotel"
+    },
+    {
+      "text": "The Tic Tac UFO encounter of 2004 involved US Navy pilots encountering a white, oblong object that moved in ways that defied known physics.",
+      "month": 11,
+      "day": 14,
+      "source": "https://en.wikipedia.org/wiki/Tic_Tac_UFO"
+    },
+    {
+      "text": "Ouija boards work through the ideomotor effect, where small unconscious movements of participants' hands guide the planchette to spell out messages.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Ghost"
+    },
+    {
+      "text": "The Society for Psychical Research (SPR), founded in London in 1882, was the first organization to conduct scholarly research into paranormal phenomena.",
+      "source": "https://en.wikipedia.org/wiki/Society_for_Psychical_Research_(SPR)"
+    },
+    {
+      "text": "The Ohio State Reformatory in Mansfield, known from The Shawshank Redemption, is also one of the most popular ghost hunting destinations in the Midwest.",
+      "source": "https://en.wikipedia.org/wiki/Ohio_State_Reformatory_in_Mansfield%2C_known_from_The_Shawshank_Redemption"
+    },
+    {
+      "text": "Materialization mediums claimed to produce physical phenomena during séances, including ghostly hands, faces, and even full-body apparitions.",
+      "source": "https://en.wikipedia.org/wiki/Ghost"
+    },
+    {
+      "text": "The Beast of Bodmin Moor is a phantom wild cat reportedly seen on Bodmin Moor in Cornwall, England, with sightings dating back to the 1970s.",
+      "source": "https://en.wikipedia.org/wiki/Beast_of_Bodmin_Moor"
+    },
+    {
+      "text": "The Proctor & Gamble moon-and-stars logo was the subject of a long-running urban legend claiming it was a satanic symbol, which the company eventually retired.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Proctor_%26_Gamble_moon-and-stars_logo"
+    },
+    {
+      "text": "Thermocouples are small temperature sensors used in ghost hunting to detect rapid temperature fluctuations that may indicate paranormal activity.",
+      "source": "https://en.wikipedia.org/wiki/Thermocouples"
+    },
+    {
+      "text": "The Bhangarh Fort in Rajasthan, India is considered the most haunted place in India, with the Archaeological Survey of India prohibiting entry after sunset.",
+      "source": "https://en.wikipedia.org/wiki/Bhangarh_Fort_in_Rajasthan%2C_India"
+    },
+    {
+      "text": "The Loch Ness Monster gained worldwide attention in 1933 when a couple reported seeing a 'tremendous upheaval' in the lake, sparking modern Nessie hysteria.",
+      "month": 5,
+      "day": 2,
+      "source": "https://en.wikipedia.org/wiki/Loch_Ness_Monster"
+    },
+    {
+      "text": "Ghost Adventures' documentary special, filmed at the Goldfield Hotel in 2004, launched Zak Bagans' career and eventually became the basis for the TV series.",
+      "source": "https://en.wikipedia.org/wiki/Ghost_Adventures%27_documentary_special%2C_filmed_at_the_Goldfield_Hotel_in_2004"
+    },
+    {
+      "text": "The White House is reportedly one of the most haunted buildings in America, with sightings of Abraham Lincoln's ghost reported by Winston Churchill, among others.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/White_House"
+    },
+    {
+      "text": "The Phantom Barber of Pascagoula, Mississippi terrorized the town in 1942, breaking into homes and cutting people's hair while they slept.",
+      "source": "https://en.wikipedia.org/wiki/Phantom_Barber_of_Pascagoula"
+    },
+    {
+      "text": "Smudging with sage is a practice borrowed from Indigenous traditions that some ghost hunters use to cleanse allegedly haunted locations of negative energy.",
+      "source": "https://en.wikipedia.org/wiki/Smudging_with_sage"
+    },
+    {
+      "text": "The Crying Boy painting, mass-produced in the 1950s and 60s, became the subject of a paranormal urban legend in the UK when it was blamed for house fires.",
+      "source": "https://en.wikipedia.org/wiki/Crying_Boy_painting%2C_mass-produced_in_the_1950s_and_60s"
+    },
+    {
+      "text": "The Roanoke Colony, which vanished in the 1580s leaving only the word 'CROATOAN' carved on a post, remains one of America's oldest unsolved mysteries.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Roanoke_Colony"
+    },
+    {
+      "text": "Ghost hunting television shows typically spend 8-12 hours investigating a location but condense the footage into 30-60 minute episodes.",
+      "source": "https://en.wikipedia.org/wiki/Ghost"
+    },
+    {
+      "text": "The Trans-Allegheny Lunatic Asylum in Weston, West Virginia offers overnight ghost hunts in one of the largest hand-cut stone buildings in North America.",
+      "source": "https://en.wikipedia.org/wiki/Trans-Allegheny_Lunatic_Asylum_in_Weston"
+    },
+    {
+      "text": "Precognition is the alleged psychic ability to perceive future events before they happen, one of the most commonly claimed paranormal abilities.",
+      "source": "https://en.wikipedia.org/wiki/Precognition"
+    },
+    {
+      "text": "The Sixth Sense's famous line 'I see dead people' was ranked one of the greatest movie quotes of all time by the American Film Institute.",
+      "source": "https://en.wikipedia.org/wiki/Sixth_Sense%27s_famous_line_%27I_see_dead_people"
+    },
+    {
+      "text": "The Hoia Baciu Forest in Romania is known as the 'Bermuda Triangle of Transylvania' due to reported UFO sightings, ghost apparitions, and people experiencing missing time.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Hoia_Baciu_Forest_in_Romania"
+    },
+    {
+      "text": "Trigger objects in paranormal investigations can include era-specific items — investigators at Civil War battlefields might use musket balls or period coins.",
+      "source": "https://en.wikipedia.org/wiki/Civil_War"
+    },
+    {
+      "text": "The Alamo in San Antonio, Texas is reportedly haunted by the ghosts of those who died in the 1836 battle, with guards reporting ghostly figures and phantom flames.",
+      "source": "https://en.wikipedia.org/wiki/Alamo_in_San_Antonio%2C_Texas"
+    },
+    {
+      "text": "Night vision monoculars and goggles allow ghost hunters to see in complete darkness using ambient light amplification technology.",
+      "source": "https://en.wikipedia.org/wiki/Ghost"
+    },
+    {
+      "text": "The Waverley Hills body chute, a 500-foot tunnel used to transport deceased patients away from the sanatorium, is one of its most haunted areas.",
+      "source": "https://en.wikipedia.org/wiki/Waverley_Hills"
+    },
+    {
+      "text": "The World's Largest Ouija Board was painted on the rooftop of a hotel in Salem, Massachusetts, measuring over 3,000 square feet.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/World%27s_Largest_Ouija_Board"
+    },
+    {
+      "text": "Hans Holzer coined the term 'The Other Side' as a more neutral alternative to 'heaven' or 'the afterlife' in his paranormal research.",
+      "source": "https://en.wikipedia.org/wiki/Hans_Holzer"
+    },
+    {
+      "text": "The Bob Mackey's Music World in Wilder, Kentucky is considered one of the most haunted nightclubs in America, with reported demonic activity in its basement.",
+      "source": "https://en.wikipedia.org/wiki/Bob_Mackey%27s_Music_World_in_Wilder%2C_Kentucky"
+    },
+    {
+      "text": "Day of the Dead (Día de los Muertos), celebrated primarily in Mexico on November 1-2, honors deceased loved ones and is a unique blend of indigenous and Catholic traditions.",
+      "month": 11,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/Day_of_the_Dead"
+    },
+    {
+      "text": "The Dover Demon was spotted by multiple witnesses in Dover, Massachusetts over two nights in April 1977 and has never been satisfactorily explained.",
+      "month": 4,
+      "day": 21,
+      "source": "https://en.wikipedia.org/wiki/Dover_Demon"
+    },
+    {
+      "text": "Automatic writing became popular during the Spiritualism movement, with practitioners believing they were channeling messages from spirits through their writing hand.",
+      "source": "https://en.wikipedia.org/wiki/Automatic_writing"
+    },
+    {
+      "text": "The Moon River Brewing Company in Savannah, Georgia is housed in a building that has been a hotel, hospital, and storage facility, and is reportedly extremely haunted.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Moon_River_Brewing_Company_in_Savannah%2C_Georgia"
+    },
+    {
+      "text": "The Marfa Lights in West Texas have been observed since the 1880s and remain unexplained, though theories range from atmospheric reflections to the paranormal.",
+      "source": "https://en.wikipedia.org/wiki/Marfa_Lights_in_West_Texas"
+    },
+    {
+      "text": "Ghost hunting shows have evolved from simple investigation formats to include competition elements, historical research, and psychological profiling of locations.",
+      "source": "https://en.wikipedia.org/wiki/Ghost_hunting_shows"
+    },
+    {
+      "text": "The Heceta Head Lighthouse in Oregon is reportedly haunted by a woman known as the 'Gray Lady,' believed to be the mother of a child whose remains were found on the property.",
+      "source": "https://en.wikipedia.org/wiki/Heceta_Head_Lighthouse_in_Oregon"
+    },
+    {
+      "text": "The First World War's heavy casualties led to a resurgence of Spiritualism as bereaved families sought to contact their lost loved ones.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/First_World_War%27s"
+    },
+    {
+      "text": "Cold spots, or sudden drops in temperature in specific areas, are one of the most commonly reported physical phenomena during ghost encounters.",
+      "source": "https://en.wikipedia.org/wiki/Cold_spots%2C_or_sudden_drops_in_temperature_in_specific_areas"
+    },
+    {
+      "text": "The Lizzie Borden case of 1892, in which Lizzie was acquitted of murdering her father and stepmother with a hatchet, remains one of America's most enduring mysteries.",
+      "month": 8,
+      "day": 4,
+      "source": "https://en.wikipedia.org/wiki/Lizzie_Borden_case_of_1892%2C_in_which_Lizzie"
+    },
+    {
+      "text": "Psychic debunker James Randi's foundation offered its million-dollar challenge from 1964 to 2015, testing over 1,000 applicants without a single success.",
+      "source": "https://en.wikipedia.org/wiki/James_Randi%27s"
+    },
+    {
+      "text": "The Villisca Axe Murder House saw eight people killed on June 10, 1912, and paranormal investigators report hearing children's voices during overnight stays.",
+      "source": "https://en.wikipedia.org/wiki/Villisca_Axe_Murder_House"
+    },
+    {
+      "text": "Ghost photography has evolved from double exposures on film to digital anomalies, orbs, and full-spectrum imaging in modern paranormal investigations.",
+      "source": "https://en.wikipedia.org/wiki/Ghost_photography"
+    },
+    {
+      "text": "The Headless Horseman of Sleepy Hollow, originated in Washington Irving's 1820 story, is one of America's most enduring ghost legends.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Headless_Horseman_of_Sleepy_Hollow%2C_originated_in_Washington_Irving%27s_1820_story"
+    },
+    {
+      "text": "Parapsychology, the study of paranormal phenomena including ESP and psychokinesis, was established as an academic discipline at Duke University by J.B. Rhine in the 1930s.",
+      "source": "https://en.wikipedia.org/wiki/Parapsychology%2C_the_study_of_paranormal_phenomena_including_ESP_and_psychokinesis"
+    },
+    {
+      "text": "The Hotel & Casino — properly, the Clown Motel in Tonopah, Nevada sits adjacent to a cemetery and is considered one of the creepiest motels in the US.",
+      "source": "https://en.wikipedia.org/wiki/Hotel"
+    },
+    {
+      "text": "The Poltergeist curse refers to the deaths of four cast members, including young stars Dominique Dunne and Heather O'Rourke, within six years of the first film's release.",
+      "source": "https://en.wikipedia.org/wiki/Poltergeist"
+    },
+    {
+      "text": "Digital thermometers with laser guides allow ghost hunters to take precise temperature readings of specific surfaces from a distance.",
+      "source": "https://en.wikipedia.org/wiki/Ghost"
+    },
+    {
+      "text": "The real-life Annabelle doll is a plain Raggedy Ann doll, kept in a glass case at the Warren's Occult Museum in Monroe, Connecticut.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/real-life_Annabelle_doll"
+    },
+    {
+      "text": "The Spring-Heeled Jack was a mysterious entity reported in Victorian England, described as having diabolical features and the ability to make extraordinary leaps.",
+      "source": "https://en.wikipedia.org/wiki/Spring-Heeled_Jack"
+    },
+    {
+      "text": "Electromagnetic theory in paranormal research suggests that ghosts may be composed of or utilize electromagnetic energy to manifest.",
+      "source": "https://en.wikipedia.org/wiki/Ghost"
+    },
+    {
+      "text": "The SS Eastland disaster of 1915 in Chicago killed 844 people, and the building where many bodies were taken — now Harpo Studios — was reportedly haunted.",
+      "source": "https://en.wikipedia.org/wiki/SS_Eastland"
+    },
+    {
+      "text": "The Stanley Hotel offers a 'Spirited Night Tour' and rents out its most haunted rooms at premium rates to guests seeking a paranormal experience.",
+      "source": "https://en.wikipedia.org/wiki/Stanley_Hotel"
+    },
+    {
+      "text": "The 1938 War of the Worlds panic, while often exaggerated in retellings, still caused genuine alarm among some listeners who believed Martians were invading.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/1938_War_of_the_Worlds"
+    },
+    {
+      "text": "Trance mediumship involves a medium entering an altered state of consciousness and allegedly allowing a spirit to speak through them.",
+      "source": "https://en.wikipedia.org/wiki/Ghost"
+    },
+    {
+      "text": "The Sedamsville Rectory in Cincinnati, Ohio has been featured on multiple paranormal TV shows due to reported shadow figures, disembodied voices, and physical attacks on investigators.",
+      "source": "https://en.wikipedia.org/wiki/Sedamsville_Rectory_in_Cincinnati%2C_Ohio"
+    },
+    {
+      "text": "Ancient Egyptians believed in the 'ka,' a spirit double that continued to live after death and required food, drink, and offerings.",
+      "source": "https://en.wikipedia.org/wiki/Ancient_Egyptians"
+    },
+    {
+      "text": "Penny Dreadful (2014-2016) wove together classic horror characters and paranormal themes including mediumship, possession, and Victorian occultism.",
+      "source": "https://en.wikipedia.org/wiki/Penny_Dreadful"
+    },
+    {
+      "text": "The Aswang is a shapeshifting creature from Filipino folklore that feeds on the unborn and the dead, and is one of the most feared supernatural beings in the Philippines.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Aswang"
+    },
+    {
+      "text": "Ghost hunting conventions and expos attract thousands of attendees annually, featuring celebrity investigators, vendor booths, and overnight investigations.",
+      "source": "https://en.wikipedia.org/wiki/Ghost"
+    },
+    {
+      "text": "The Sallie House investigation in Atchison, Kansas was one of the first cases to be extensively documented with video evidence in the 1990s.",
+      "source": "https://en.wikipedia.org/wiki/Sallie_House_investigation_in_Atchison%2C_Kansas"
+    },
+    {
+      "text": "The Brumder Mansion in Milwaukee, Wisconsin serves as a bed and breakfast where guests regularly report encounters with ghosts.",
+      "source": "https://en.wikipedia.org/wiki/Brumder_Mansion_in_Milwaukee"
+    },
+    {
+      "text": "Harry Houdini died on Halloween in 1926, and for years after, his wife Bess held annual séances on the anniversary of his death trying to contact him.",
+      "month": 10,
+      "day": 31,
+      "source": "https://en.wikipedia.org/wiki/Harry_Houdini"
+    },
+    {
+      "text": "Psychokinesis, also known as telekinesis, is the alleged ability to move objects with the mind and is central to poltergeist theories.",
+      "source": "https://en.wikipedia.org/wiki/Psychokinesis%2C_also_known_as_telekinesis"
+    },
+    {
+      "text": "The Sorrel-Weed House in Savannah, Georgia is reportedly haunted by the ghost of Matilda Sorrel, who fell from the balcony under mysterious circumstances.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Sorrel-Weed_House_in_Savannah%2C_Georgia"
+    },
+    {
+      "text": "The US Navy's UAP Task Force was established in 2020 to investigate encounters between military personnel and unidentified aerial phenomena.",
+      "source": "https://en.wikipedia.org/wiki/US_Navy%27s_UAP_Task_Force"
+    },
+    {
+      "text": "Spirit trumpets, cone-shaped devices used in séances, were claimed to amplify the voices of spirits communicating from beyond.",
+      "source": "https://en.wikipedia.org/wiki/Spirit_trumpets%2C_cone-shaped_devices_used_in_s%C3%A9ances"
+    },
+    {
+      "text": "The Hotel & Casino: appropriately, the 1886 Crescent Hotel conducted ghost tours that consistently rank among the top haunted hotel experiences in the world.",
+      "source": "https://en.wikipedia.org/wiki/Hotel"
+    },
+    {
+      "text": "The Phantom Hitchhiker is one of the most common urban legends worldwide, appearing in virtually every culture with minor variations.",
+      "source": "https://en.wikipedia.org/wiki/Phantom_Hitchhiker"
+    },
+    {
+      "text": "Ghostbusters earned Ray Parker Jr. a Grammy nomination for the iconic theme song, which spent three weeks at number one on the Billboard Hot 100.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Ghostbusters"
+    },
+    {
+      "text": "The Congress Plaza Hotel in Chicago is reportedly haunted by multiple ghosts, with Room 441 being so haunted that it has been permanently sealed off.",
+      "source": "https://en.wikipedia.org/wiki/Congress_Plaza_Hotel_in_Chicago"
+    },
+    {
+      "text": "Table tipping experienced its heyday during the 1850s, when it was a popular party activity that brought Spiritualism into mainstream Victorian society.",
+      "source": "https://en.wikipedia.org/wiki/Table_tipping_experienced_its_heyday_during_the_1850s%2C_when_it"
+    },
+    {
+      "text": "The Long Island Medium, starring Theresa Caputo, premiered in 2011 and brought psychic mediumship into mainstream pop culture through reality television.",
+      "source": "https://en.wikipedia.org/wiki/Long_Island_Medium"
+    },
+    {
+      "text": "Geomagnetic storms caused by solar activity have been correlated with increased reports of paranormal activity, suggesting a possible environmental trigger.",
+      "source": "https://en.wikipedia.org/wiki/Geomagnetic_storms_caused_by_solar_activity"
+    },
+    {
+      "text": "The Haunted Mansion attraction at Disneyland opened in 1969 and features 999 happy haunts, with room for one more.",
+      "month": 8,
+      "day": 9,
+      "source": "https://en.wikipedia.org/wiki/Haunted_Mansion_attraction_at_Disneyland"
+    },
+    {
+      "text": "The Screaming Tunnel near Niagara Falls, Canada is said to echo the screams of a girl who burned to death inside it, with the legend saying a match lit inside will be extinguished by her breath.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Screaming_Tunnel_near_Niagara_Falls%2C_Canada"
+    },
+    {
+      "text": "Faraday cages, which block electromagnetic fields, are sometimes used in paranormal experiments to create controlled environments free from external EMF interference.",
+      "source": "https://en.wikipedia.org/wiki/Faraday_cages%2C_which_block_electromagnetic_fields"
+    },
+    {
+      "text": "The Baker Hotel scheduled for reopening has attracted attention from the paranormal community, who are eager to investigate before and after renovation.",
+      "source": "https://en.wikipedia.org/wiki/Baker_Hotel_scheduled_for_reopening"
+    },
+    {
+      "text": "La Llorona sightings continue to this day throughout Latin America and the southwestern United States, particularly near rivers and streams.",
+      "source": "https://en.wikipedia.org/wiki/La_Llorona"
+    },
+    {
+      "text": "The Estes Park Stanley Hotel's Room 217 is its most requested room, where Stephen King stayed and experienced the nightmare that inspired The Shining.",
+      "source": "https://en.wikipedia.org/wiki/Estes_Park_Stanley_Hotel%27s_Room_217"
+    },
+    {
+      "text": "A fetch is a supernatural double or apparition of a living person in Irish folklore, similar to a doppelgänger, often seen as an omen of death.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/A_fetch"
+    },
+    {
+      "text": "The AATIP (Advanced Aerospace Threat Identification Program) was a secret Pentagon program from 2007-2012 that investigated UFO reports.",
+      "source": "https://en.wikipedia.org/wiki/AATIP_(Advanced_Aerospace_Threat_Identification_Program)"
+    },
+    {
+      "text": "Winchester Mystery House tour guides report unexplained cold spots, doorknobs turning on their own, and sounds of construction when the house is empty.",
+      "source": "https://en.wikipedia.org/wiki/Winchester_Mystery_House"
+    },
+    {
+      "text": "The USS Hornet, a decommissioned aircraft carrier in Alameda, California, is reportedly one of the most haunted ships in the US Navy's history.",
+      "source": "https://en.wikipedia.org/wiki/USS_Hornet%2C_a_decommissioned_aircraft_carrier_in_Alameda%2C_California"
+    },
+    {
+      "text": "The Highgate Vampire was a media sensation in the 1970s when reports of a tall, dark figure lurking in London's Highgate Cemetery sparked organized vampire hunts.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Highgate_Vampire"
+    },
+    {
+      "text": "Len Kasten's book 'The Secret History of Extraterrestrials' delves into alleged government cover-ups of alien contact over the past century.",
+      "source": "https://en.wikipedia.org/wiki/Len_Kasten%27s"
+    },
+    {
+      "text": "The Anderson House in Lexington, Kentucky has been owned by the same family since the 1810s and is reportedly haunted by a young woman in white.",
+      "source": "https://en.wikipedia.org/wiki/Anderson_House_in_Lexington%2C_Kentucky"
+    },
+    {
+      "text": "Paranormal romance, a literary genre combining supernatural elements with love stories, has become one of the most popular fiction categories, with millions of books sold annually.",
+      "source": "https://en.wikipedia.org/wiki/Paranormal_romance%2C_a_literary_genre_combining_supernatural_elements_with_love_stories"
+    },
+    {
+      "text": "The Spooky Walk at the Stanley Hotel allows visitors to explore the grounds where paranormal events have been reported for over a century.",
+      "source": "https://en.wikipedia.org/wiki/Spooky_Walk_at_the_Stanley_Hotel"
+    },
+    {
+      "text": "The Oak Alley Plantation in Vacherie, Louisiana is reportedly haunted by the ghosts of the enslaved people who once worked the sugarcane fields.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Oak_Alley_Plantation_in_Vacherie%2C_Louisiana"
+    },
+    {
+      "text": "Ghost hunting equipment has evolved from simple tools like candles and mirrors to sophisticated electronic devices costing thousands of dollars.",
+      "source": "https://en.wikipedia.org/wiki/Ghost_hunting_equipment"
+    },
+    {
+      "text": "The Haunting of Bly Manor (2020 Netflix series) was inspired by Henry James' 1898 novella The Turn of the Screw and explored themes of loss and memory.",
+      "source": "https://en.wikipedia.org/wiki/Haunting_of_Bly_Manor_(2020_Netflix_series)"
+    },
+    {
+      "text": "The Bermuda Triangle's most famous disappearance was Flight 19, a group of five torpedo bombers that vanished during a training mission in 1945.",
+      "month": 12,
+      "day": 5,
+      "source": "https://en.wikipedia.org/wiki/Bermuda_Triangle%27s_most_famous_disappearance"
+    },
+    {
+      "text": "Victorian post-mortem photography, where deceased loved ones were posed for photographs, was common and has contributed to ghost photography legends.",
+      "source": "https://en.wikipedia.org/wiki/Victorian_post-mortem_photography%2C_where_deceased_loved_ones"
+    },
+    {
+      "text": "Bigfoot Field Researchers Organization (BFRO) maintains a database of thousands of Bigfoot sighting reports across North America.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Bigfoot_Field_Researchers_Organization"
+    },
+    {
+      "text": "The 13th Floor, a concept featured in multiple horror films and urban legends, is why many buildings skip the 13th floor in their numbering.",
+      "source": "https://en.wikipedia.org/wiki/13th_Floor%2C_a_concept_featured_in_multiple_horror_films_and_urban_legends"
+    },
+    {
+      "text": "Ghost meter apps generate revenue through advertising and in-app purchases, despite having no scientifically validated ability to detect spirits.",
+      "source": "https://en.wikipedia.org/wiki/Ghost"
+    },
+    {
+      "text": "The Catherine Howard ghost at Hampton Court Palace was allegedly caught on CCTV in 2003 when a fire door was mysteriously opened by a figure in period dress.",
+      "source": "https://en.wikipedia.org/wiki/Catherine_Howard_ghost_at_Hampton_Court_Palace"
+    },
+    {
+      "text": "The Sallie House gained widespread attention when a man claimed to have been scratched by an invisible entity during a television investigation in the 1990s.",
+      "source": "https://en.wikipedia.org/wiki/Sallie_House_gained_widespread_attention_when_a_man_claimed_to"
+    },
+    {
+      "text": "The Loch Ness Monster has been the subject of multiple sonar surveys, none of which have conclusively identified a large unknown creature in the lake.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Loch_Ness_Monster"
+    },
+    {
+      "text": "The Blair Witch Project (1999) pioneered the found-footage horror genre and was marketed as real footage, convincing many viewers the events actually occurred.",
+      "month": 7,
+      "day": 30,
+      "source": "https://en.wikipedia.org/wiki/Blair_Witch_Project"
+    },
+    {
+      "text": "Ghost hunters typically request that lights and unnecessary electronics be turned off during investigations to reduce interference with sensitive equipment.",
+      "source": "https://en.wikipedia.org/wiki/Ghost_hunters_typically_request_that_lights_and_unnecessary_electronics_be"
+    },
+    {
+      "text": "The Eastern State Penitentiary Halloween event, Terror Behind the Walls, was one of the country's premier haunted attractions until it rebranded as Halloween Nights.",
+      "source": "https://en.wikipedia.org/wiki/Eastern_State_Penitentiary_Halloween_event%2C_Terror_Behind_the_Walls"
+    },
+    {
+      "text": "The Oak Ridge Boys song 'Ghost in This House' exemplifies how ghost themes have permeated music, with phantom and spectral themes common across all genres.",
+      "source": "https://en.wikipedia.org/wiki/Oak_Ridge_Boys_song_%27Ghost_in_This_House%27_exemplifies_how_ghost_themes"
+    },
+    {
+      "text": "Zak Bagans' documentary 'Demon House' (2018) chronicled his investigation and eventual demolition of a house in Gary, Indiana where demonic possession was allegedly witnessed by over 200 people.",
+      "source": "https://en.wikipedia.org/wiki/Demon_House"
+    },
+    {
+      "text": "The concept of haunted dolls has a long history, from Robert the Doll to Annabelle, and haunted doll auctions regularly appear on online marketplace sites.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/concept_of_haunted_dolls"
+    },
+    {
+      "text": "The Randolph Hotel in Oxford, England, built in 1864, is reportedly haunted by a ghost who roams its corridors.",
+      "source": "https://en.wikipedia.org/wiki/Randolph_Hotel_in_Oxford%2C_England%2C_built_in_1864"
+    },
+    {
+      "text": "Geordie Shore paranormal events: rather, the paranormal investigation series Most Haunted Live aired multi-hour live investigations from the UK's allegedly haunted locations.",
+      "source": "https://en.wikipedia.org/wiki/Geordie_Shore"
+    },
+    {
+      "text": "The Green Children of Woolpit, who appeared in a Suffolk village in the 12th century with green skin and an unknown language, remain one of England's strangest legends.",
+      "source": "https://en.wikipedia.org/wiki/Green_Children_of_Woolpit%2C_who"
+    },
+    {
+      "text": "The 'witching hour' between 3 and 4 AM is believed by some paranormal enthusiasts to be when the veil between our world and the spirit realm is thinnest.",
+      "source": "https://en.wikipedia.org/wiki/%27witching_hour%27_between_3_and_4_AM"
+    },
+    {
+      "text": "The National UFO Reporting Center has collected over 150,000 reports of UFO sightings since its founding in 1974.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/National_UFO_Reporting_Center"
+    },
+    {
+      "text": "The Clairvius Narcisse case in Haiti involved a man who was declared dead, buried, and then found alive years later, reportedly turned into a zombie through voodoo rituals.",
+      "source": "https://en.wikipedia.org/wiki/Clairvius_Narcisse_case_in_Haiti_involved_a_man_who"
+    },
+    {
+      "text": "Ed Warren served as a self-taught demonologist, while Lorraine served as a light trance medium during their investigations.",
+      "source": "https://en.wikipedia.org/wiki/Ed_Warren"
+    },
+    {
+      "text": "The Congress Hotel in Chicago charges premium rates for its most haunted rooms, demonstrating how the paranormal has become a selling point in the hospitality industry.",
+      "source": "https://en.wikipedia.org/wiki/Congress_Hotel_in_Chicago"
+    },
+    {
+      "text": "The Kentucky Meat Shower of 1876 saw chunks of meat fall from a clear sky over Bath County, Kentucky, in an event that has never been satisfactorily explained.",
+      "source": "https://en.wikipedia.org/wiki/Kentucky_Meat_Shower_of_1876"
+    },
+    {
+      "text": "The Pentagon's All-domain Anomaly Resolution Office (AARO) was established in 2022 to investigate UAP sightings reported by military personnel.",
+      "month": 7,
+      "day": 15,
+      "source": "https://en.wikipedia.org/wiki/Pentagon%27s_All-domain_Anomaly_Resolution_Office_(AARO)"
+    },
+    {
+      "text": "Ghost hunting reality shows have prompted some locations to offer overnight investigation packages, creating a new revenue stream for historic properties.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Ghost_hunting_reality_shows"
+    },
+    {
+      "text": "The Driskill Hotel's most famous ghost is the daughter of a US senator who tripped and fell down the grand staircase while chasing a ball.",
+      "source": "https://en.wikipedia.org/wiki/Driskill_Hotel%27s_most_famous_ghost"
+    },
+    {
+      "text": "The Mary King's Close underground streets in Edinburgh, Scotland are a popular paranormal tourism destination, with visitors reporting seeing the ghost of a young girl named Annie.",
+      "source": "https://en.wikipedia.org/wiki/Mary_King%27s_Close_underground_streets_in_Edinburgh%2C_Scotland"
+    },
+    {
+      "text": "A succubus is a female demon from medieval folklore believed to visit men in their sleep, while an incubus is its male counterpart.",
+      "source": "https://en.wikipedia.org/wiki/A_succubus"
+    },
+    {
+      "text": "Temperature data loggers can record ambient temperature changes over time, providing objective evidence of cold spots during ghost investigations.",
+      "source": "https://en.wikipedia.org/wiki/Ghost"
+    },
+    {
+      "text": "The Amityville house at 112 Ocean Avenue was renovated and renumbered after the infamous haunting, and subsequent owners have reported no paranormal activity.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Amityville_house_at_112_Ocean_Avenue"
+    },
+    {
+      "text": "The Roswell crash site has become a pilgrimage destination for UFO enthusiasts, with the town hosting an annual UFO festival each July.",
+      "source": "https://en.wikipedia.org/wiki/Roswell_crash_site"
+    },
+    {
+      "text": "Night Owl Paranormal and other YouTube channels have brought ghost hunting to a new generation of fans through live-streamed investigations.",
+      "source": "https://en.wikipedia.org/wiki/Night_Owl_Paranormal_and_other_YouTube_channels"
+    },
+    {
+      "text": "The Zozo demon is a supposedly dangerous entity that many Ouija board users claim to have contacted, though skeptics consider it a modern urban legend.",
+      "source": "https://en.wikipedia.org/wiki/Zozo_demon"
+    },
+    {
+      "text": "The Mothman Festival is held annually in Point Pleasant, West Virginia, commemorating the original 1966 sightings with speakers, vendors, and tours.",
+      "month": 9,
+      "day": 15,
+      "source": "https://en.wikipedia.org/wiki/Mothman_Festival"
+    },
+    {
+      "text": "The Conjuring (2013) opened to $41.8 million and held the record for the highest opening weekend for an original horror film at the time.",
+      "month": 7,
+      "day": 19,
+      "source": "https://en.wikipedia.org/wiki/Conjuring"
+    },
+    {
+      "text": "Ghost ships like the Mary Celeste, found abandoned in 1872 with no crew but still seaworthy, continue to captivate paranormal enthusiasts and historians alike.",
+      "source": "https://en.wikipedia.org/wiki/Mary_Celeste"
+    },
+    {
+      "text": "The Stanley Hotel's concert hall is reportedly haunted by Flora Stanley, wife of the hotel's founder, whose piano playing can allegedly be heard late at night.",
+      "source": "https://en.wikipedia.org/wiki/Stanley_Hotel%27s_concert_hall"
+    },
+    {
+      "text": "Electromagnetic pumps are devices used by some ghost hunters to flood an area with electromagnetic energy, theoretically giving spirits the energy needed to manifest.",
+      "source": "https://en.wikipedia.org/wiki/Electromagnetic_pumps"
+    },
+    {
+      "text": "The Bara Hack settlement in Pomfret, Connecticut is a ghost town where visitors report hearing children laughing, dogs barking, and wagon wheels despite the area being deserted since the 1890s.",
+      "source": "https://en.wikipedia.org/wiki/Bara_Hack_settlement_in_Pomfret%2C_Connecticut"
+    },
+    {
+      "text": "Sir Arthur Conan Doyle, creator of the hyper-rational Sherlock Holmes, was a devoted Spiritualist who believed in fairies, séances, and communication with the dead.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Sir_Arthur_Conan_Doyle%2C_creator_of_the_hyper-rational_Sherlock_Holmes"
+    },
+    {
+      "text": "The Providence Athenaeum library in Rhode Island is said to be haunted by Edgar Allan Poe himself, who courted a woman there before his mysterious death.",
+      "source": "https://en.wikipedia.org/wiki/Providence_Athenaeum_library_in_Rhode_Island"
+    },
+    {
+      "text": "The Ghostbusters firehouse, Hook & Ladder Company 8 in New York City's Tribeca neighborhood, is a real working firehouse that became a tourist landmark after the film.",
+      "source": "https://en.wikipedia.org/wiki/Ghostbusters"
+    }
+  ]
+}

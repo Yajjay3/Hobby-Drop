@@ -1,0 +1,1789 @@
+{
+  "hobby": "Swimming & Diving",
+  "facts": [
+    {
+      "text": "Michael Phelps holds the all-time record with 28 Olympic medals — 23 gold, 3 silver, and 2 bronze.",
+      "source": "https://en.wikipedia.org/wiki/Michael_Phelps"
+    },
+    {
+      "text": "An Olympic swimming pool is exactly 50 meters long, 25 meters wide, and at least 2 meters deep.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/An_Olympic_swimming_pool"
+    },
+    {
+      "text": "The butterfly stroke was originally developed as a variation of breaststroke in the 1930s before becoming its own official event.",
+      "source": "https://en.wikipedia.org/wiki/butterfly_stroke"
+    },
+    {
+      "text": "Greg Louganis hit his head on the springboard during the 1988 Seoul Olympics preliminary round, then returned to win gold in both springboard and platform events.",
+      "source": "https://en.wikipedia.org/wiki/Greg_Louganis"
+    },
+    {
+      "text": "Captain Matthew Webb became the first person to swim the English Channel on August 25, 1875, completing the crossing in about 21 hours and 45 minutes.",
+      "month": 8,
+      "day": 25,
+      "source": "https://en.wikipedia.org/wiki/Captain_Matthew_Webb"
+    },
+    {
+      "text": "Freestyle is not actually a specific stroke — it means swimmers can use any stroke, but the front crawl is universally chosen because it is the fastest.",
+      "source": "https://en.wikipedia.org/wiki/Freestyle"
+    },
+    {
+      "text": "Swim goggles were not commonly used in competitive swimming until the 1970s. Before that, swimmers simply endured the chlorine.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Swim_goggles"
+    },
+    {
+      "text": "Katie Ledecky's dominance in distance freestyle is so complete that she has lapped competitors in 1500m races.",
+      "source": "https://en.wikipedia.org/wiki/Katie_Ledecky%27s_dominance_in_distance_freestyle"
+    },
+    {
+      "text": "Water polo became an Olympic sport in 1900 at the Paris Games, making it one of the oldest team sports in the Olympics.",
+      "month": 5,
+      "day": 14,
+      "source": "https://en.wikipedia.org/wiki/Water_polo"
+    },
+    {
+      "text": "The backstroke is the only competitive swimming stroke that starts in the water rather than from a diving block.",
+      "source": "https://en.wikipedia.org/wiki/backstroke"
+    },
+    {
+      "text": "Johnny Weissmuller, who won five Olympic gold medals in swimming in the 1920s, went on to become the most famous movie Tarzan.",
+      "source": "https://en.wikipedia.org/wiki/Johnny_Weissmuller%2C_who"
+    },
+    {
+      "text": "Tech suits — full-body polyurethane swimsuits — were banned by FINA (now World Aquatics) in 2010 after a spate of world records that were deemed equipment-aided.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Tech_suits_%E2%80%94_full-body_polyurethane_swimsuits_%E2%80%94"
+    },
+    {
+      "text": "Tom Daley won his first World Championship diving title at age 15, making him one of the youngest world champions in the sport.",
+      "source": "https://en.wikipedia.org/wiki/Tom_Daley"
+    },
+    {
+      "text": "The individual medley (IM) requires swimmers to complete all four strokes in a specific order: butterfly, backstroke, breaststroke, then freestyle.",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "Marathon swimming covers a distance of 10 kilometers in open water and has been an Olympic event since 2008.",
+      "source": "https://en.wikipedia.org/wiki/Marathon_swimming_covers_a_distance_of_10_kilometers_in_open_water_and"
+    },
+    {
+      "text": "Mark Spitz set a then-record of seven gold medals at a single Olympics at the 1972 Munich Games, each in world-record time.",
+      "month": 9,
+      "day": 4,
+      "source": "https://en.wikipedia.org/wiki/Mark_Spitz"
+    },
+    {
+      "text": "The ancient Greeks and Romans considered swimming an essential life skill, and Roman bathhouses often included swimming areas.",
+      "source": "https://en.wikipedia.org/wiki/Greeks_and_Romans"
+    },
+    {
+      "text": "A regulation diving platform stands 10 meters above the water — roughly the height of a three-story building.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "Caeleb Dressel won five gold medals at the 2020 Tokyo Olympics, excelling in both individual and relay sprint events.",
+      "source": "https://en.wikipedia.org/wiki/Caeleb_Dressel"
+    },
+    {
+      "text": "Pull buoys are foam floats placed between a swimmer's thighs to isolate the upper body and improve arm stroke technique.",
+      "source": "https://en.wikipedia.org/wiki/Pull_buoys"
+    },
+    {
+      "text": "Synchronized swimming was officially renamed 'artistic swimming' by FINA in 2017.",
+      "source": "https://en.wikipedia.org/wiki/Synchronized_swimming"
+    },
+    {
+      "text": "Ian Thorpe, nicknamed 'Thorpedo,' became the youngest male to represent Australia in any sport when he competed at age 14.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Ian_Thorpe%2C_nicknamed_%27Thorpedo"
+    },
+    {
+      "text": "The world's deepest swimming pool, Deep Dive Dubai, plunges 60 meters (nearly 200 feet) and holds 14 million liters of water.",
+      "source": "https://en.wikipedia.org/wiki/Deep_Dive_Dubai"
+    },
+    {
+      "text": "Breaststroke is the oldest known swimming stroke, with depictions found in Stone Age cave paintings over 7,000 years old.",
+      "source": "https://en.wikipedia.org/wiki/Breaststroke"
+    },
+    {
+      "text": "Michael Phelps's wingspan of 6 feet 7 inches exceeds his height of 6 feet 4 inches, giving him a natural hydrodynamic advantage.",
+      "source": "https://en.wikipedia.org/wiki/Michael_Phelps%27s"
+    },
+    {
+      "text": "Springboard diving uses a flexible board set at 1 meter or 3 meters above the water, allowing divers to generate height through the board's spring.",
+      "source": "https://en.wikipedia.org/wiki/Springboard_diving_uses_a_flexible_board"
+    },
+    {
+      "text": "Open water swimmers often grease their bodies with petroleum jelly or lanolin to reduce chafing and provide slight insulation against cold water.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "Dawn Fraser of Australia was the first swimmer to break the 1-minute barrier in the 100m freestyle, clocking 59.9 seconds in 1962.",
+      "month": 10,
+      "day": 27,
+      "source": "https://en.wikipedia.org/wiki/Dawn_Fraser_of_Australia"
+    },
+    {
+      "text": "The first modern Olympic swimming events took place in open water at the Bay of Zea near Piraeus, Greece, in 1896.",
+      "month": 4,
+      "day": 11,
+      "source": "https://en.wikipedia.org/wiki/first_modern_Olympic_swimming_events"
+    },
+    {
+      "text": "Interval training in swimming typically involves repeated sets of a set distance with controlled rest periods, such as 10 × 100m on 1:30.",
+      "source": "https://en.wikipedia.org/wiki/Interval_training_in_swimming_typically_involves_repeated"
+    },
+    {
+      "text": "Esther Williams, known as 'America's Mermaid,' turned her swimming talent into a Hollywood career starring in elaborate aquatic musicals in the 1940s and 1950s.",
+      "source": "https://en.wikipedia.org/wiki/Esther_Williams%2C_known_as_%27America%27s_Mermaid"
+    },
+    {
+      "text": "Water polo players tread water for the entire game and are not allowed to touch the bottom of the pool or hang on the wall.",
+      "source": "https://en.wikipedia.org/wiki/Water_polo_players_tread_water_for_the_entire_game_and"
+    },
+    {
+      "text": "Swim caps reduce drag and keep hair out of a swimmer's face, but they actually do very little to keep hair dry.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "The 'Speedo LZR Racer' suit, introduced in 2008, was so effective that 94% of swimming gold medalists at the Beijing Olympics wore one.",
+      "source": "https://en.wikipedia.org/wiki/%27Speedo_LZR_Racer%27_suit"
+    },
+    {
+      "text": "Alexander Popov of Russia dominated the 50m and 100m freestyle in the 1990s, winning gold in both events at the 1992 and 1996 Olympics.",
+      "source": "https://en.wikipedia.org/wiki/Alexander_Popov_of_Russia"
+    },
+    {
+      "text": "In diving, a 'rip entry' is the term for a near-splashless entry into the water — the ultimate goal of every competitive diver.",
+      "source": "https://en.wikipedia.org/wiki/In_diving%2C_a_%27rip_entry"
+    },
+    {
+      "text": "The English Channel is about 21 miles (34 km) at its narrowest point, but strong currents mean swimmers actually cover much greater distances.",
+      "source": "https://en.wikipedia.org/wiki/English_Channel"
+    },
+    {
+      "text": "Tapering is a training strategy where swimmers reduce their training volume by 40-60% in the weeks before a major competition to allow full recovery and peak performance.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Tapering"
+    },
+    {
+      "text": "Katie Ledecky won her first Olympic gold medal at age 15 in the 800m freestyle at the 2012 London Olympics.",
+      "month": 8,
+      "day": 3,
+      "source": "https://en.wikipedia.org/wiki/Katie_Ledecky"
+    },
+    {
+      "text": "The wave pool was first patented in 1927, but commercially viable wave pools didn't appear until the 1960s.",
+      "source": "https://en.wikipedia.org/wiki/wave_pool"
+    },
+    {
+      "text": "In artistic (synchronized) swimming, athletes are not allowed to touch the bottom of the pool during their routine.",
+      "source": "https://en.wikipedia.org/wiki/In_artistic_(synchronized)_swimming%2C_athletes"
+    },
+    {
+      "text": "Kickboards isolate the legs during swim training, helping swimmers develop stronger kicks and better body position.",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "Competitive swimming pools use touchpads at each end that record times to the hundredth of a second when a swimmer's hand or body contacts them.",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "Michael Phelps consumed an estimated 8,000 to 10,000 calories per day during peak training.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Michael_Phelps"
+    },
+    {
+      "text": "The 'dolphin kick' used in butterfly and off walls mimics a dolphin's tail motion, with both legs moving together in an undulating wave.",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "Hungary has been a dominant force in Olympic water polo, winning more gold medals in the sport than any other nation.",
+      "source": "https://en.wikipedia.org/wiki/Hungary"
+    },
+    {
+      "text": "Gertrude Ederle became the first woman to swim the English Channel in 1926, beating the existing men's record by nearly two hours.",
+      "month": 8,
+      "day": 6,
+      "source": "https://en.wikipedia.org/wiki/Gertrude_Ederle"
+    },
+    {
+      "text": "The first indoor swimming pool in the world was built in London in 1828, called St George's Baths.",
+      "source": "https://en.wikipedia.org/wiki/first_indoor_swimming_pool_in_the_world"
+    },
+    {
+      "text": "Fins are used in swim training to build leg strength, improve ankle flexibility, and help swimmers maintain proper body position.",
+      "source": "https://en.wikipedia.org/wiki/Fins"
+    },
+    {
+      "text": "The 50-meter freestyle, nicknamed 'the splash and dash,' is the shortest race in Olympic swimming and typically takes around 21 seconds for men.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/50-meter_freestyle%2C_nicknamed_%27the_splash_and_dash"
+    },
+    {
+      "text": "Tom Daley and Matty Lee won synchronized 10m platform gold for Great Britain at the 2020 Tokyo Olympics.",
+      "month": 7,
+      "day": 26,
+      "source": "https://en.wikipedia.org/wiki/Tom_Daley_and_Matty_Lee"
+    },
+    {
+      "text": "Dry-land training for swimmers includes exercises like resistance bands, medicine ball throws, and core stability work to build power outside the pool.",
+      "source": "https://en.wikipedia.org/wiki/Dry-land_training_for_swimmers"
+    },
+    {
+      "text": "The backstroke flip turn requires swimmers to transition to their front before executing the flip, then push off the wall on their back.",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "Sun Yang of China became the first male swimmer to win the 200m, 400m, 800m, and 1500m freestyle world titles over his career.",
+      "source": "https://en.wikipedia.org/wiki/Sun_Yang_of_China"
+    },
+    {
+      "text": "In water polo, a player who commits a major foul is excluded from the game for 20 seconds, similar to a penalty box in hockey.",
+      "source": "https://en.wikipedia.org/wiki/In_water_polo%2C_a_player_who_commits_a_major_foul"
+    },
+    {
+      "text": "The 'catch' phase of the freestyle stroke is the moment when the hand enters the water and begins pulling — it's considered the most technically important part of the stroke.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/%27catch%27_phase_of_the_freestyle_stroke"
+    },
+    {
+      "text": "Infinity pools create a visual effect of water extending to the horizon by having one or more edges where water flows over into a catch basin below.",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "Swimming was part of the first modern Olympics in 1896, with only men competing in four events in open water.",
+      "source": "https://en.wikipedia.org/wiki/Swimming"
+    },
+    {
+      "text": "The modern flip turn was popularized in the 1950s and allows freestyle and backstroke swimmers to reverse direction without touching the wall with their hands.",
+      "source": "https://en.wikipedia.org/wiki/modern_flip_turn"
+    },
+    {
+      "text": "Greg Louganis is widely considered the greatest diver in history, winning gold medals in both springboard and platform at the 1984 and 1988 Olympics.",
+      "source": "https://en.wikipedia.org/wiki/Greg_Louganis"
+    },
+    {
+      "text": "An Olympic diving pool is usually kept at around 26°C (79°F), slightly warmer than the competition swimming pool, to prevent muscle cramping.",
+      "source": "https://en.wikipedia.org/wiki/An_Olympic_diving_pool"
+    },
+    {
+      "text": "Michael Phelps won eight gold medals at the 2008 Beijing Olympics, surpassing Mark Spitz's record of seven.",
+      "month": 8,
+      "day": 17,
+      "source": "https://en.wikipedia.org/wiki/Michael_Phelps"
+    },
+    {
+      "text": "The term 'negative split' refers to swimming the second half of a race faster than the first half — a strategy favored by distance swimmers.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "Artistic swimming routines are judged on execution, artistic impression, and difficulty, much like figure skating.",
+      "source": "https://en.wikipedia.org/wiki/Artistic_swimming_routines"
+    },
+    {
+      "text": "Lane ropes in competitive pools are designed with small rotating discs that absorb waves and reduce turbulence between lanes.",
+      "source": "https://en.wikipedia.org/wiki/Lane_ropes_in_competitive_pools"
+    },
+    {
+      "text": "Missy Franklin won four gold medals at the 2012 London Olympics at age 17, competing in backstroke and relay events.",
+      "source": "https://en.wikipedia.org/wiki/Missy_Franklin"
+    },
+    {
+      "text": "The San Alfonso del Mar pool in Chile was once the world's largest swimming pool at over 1,000 meters long, holding 250 million liters of seawater.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/San_Alfonso_del_Mar_pool_in_Chile"
+    },
+    {
+      "text": "Breaststroke swimmers must touch the wall with both hands simultaneously at each turn and finish, a rule strictly enforced by officials.",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "The Alcatraz swim, crossing San Francisco Bay from the former prison island, covers about 1.5 miles of cold, current-swept water.",
+      "source": "https://en.wikipedia.org/wiki/Alcatraz"
+    },
+    {
+      "text": "FINA, the international governing body for aquatic sports, was founded in 1908 and rebranded as World Aquatics in 2023.",
+      "month": 7,
+      "day": 19,
+      "source": "https://en.wikipedia.org/wiki/FINA%2C_the_international_governing_body_for_aquatic_sports"
+    },
+    {
+      "text": "In platform diving, athletes can reach speeds of up to 55 km/h (34 mph) when entering the water from the 10-meter platform.",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "The 'streamline' position — arms extended overhead, hands stacked, body tight — is used off every wall to minimize drag and maximize distance underwater.",
+      "source": "https://en.wikipedia.org/wiki/%27streamline%27_position_%E2%80%94_arms_extended_overhead%2C_hands_stacked%2C_body_tight_%E2%80%94"
+    },
+    {
+      "text": "Lap counters are held up poolside to show distance swimmers how many lengths they have remaining during long races like the 1500m.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Lap_counters"
+    },
+    {
+      "text": "Ryan Lochte's signature backstroke-to-breaststroke turn, named the 'Lochte Rule,' involved flipping onto the stomach early and was eventually addressed by officials.",
+      "source": "https://en.wikipedia.org/wiki/Ryan_Lochte%27s_signature_backstroke-to-breaststroke_turn"
+    },
+    {
+      "text": "Women's swimming was added to the Olympics in 1912 at the Stockholm Games, with events in 100m freestyle and the 4×100m relay.",
+      "month": 7,
+      "day": 8,
+      "source": "https://en.wikipedia.org/wiki/Women%27s_swimming"
+    },
+    {
+      "text": "Swimming burns roughly 400 to 700 calories per hour depending on intensity and stroke, making it one of the most efficient full-body workouts.",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "The 'I.M. order' — butterfly, backstroke, breaststroke, freestyle — is reversed in medley relays, where backstroke goes first so the swimmer can start in the water.",
+      "source": "https://en.wikipedia.org/wiki/%27I.M._order%27_%E2%80%94_butterfly%2C_backstroke%2C_breaststroke%2C_freestyle_%E2%80%94"
+    },
+    {
+      "text": "Synchronized diving was introduced at the 2000 Sydney Olympics, featuring pairs of divers performing identical dives simultaneously.",
+      "month": 9,
+      "day": 22,
+      "source": "https://en.wikipedia.org/wiki/Synchronized_diving"
+    },
+    {
+      "text": "A swimmer's 'feel for the water' refers to the proprioceptive sense of how their hands and arms interact with the water's resistance.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "The famous Bondi Icebergs pool in Sydney, Australia, is built into the rocks at the south end of Bondi Beach and is regularly swamped by ocean waves.",
+      "source": "https://en.wikipedia.org/wiki/famous_Bondi_Icebergs_pool_in_Sydney%2C_Australia"
+    },
+    {
+      "text": "Caeleb Dressel holds the world record in the 100m butterfly with a time of 49.45 seconds, set at the 2020 Tokyo Olympics.",
+      "month": 7,
+      "day": 31,
+      "source": "https://en.wikipedia.org/wiki/Caeleb_Dressel_holds_the_world_record_in_the_100m_butterfly_with_a_time_of_49.45_seconds"
+    },
+    {
+      "text": "The earliest known competitive swimming races took place in Japan in 36 BC, according to historical records.",
+      "source": "https://en.wikipedia.org/wiki/earliest_known_competitive_swimming_races"
+    },
+    {
+      "text": "In water polo, the 'eggbeater kick' allows players to maintain a stable, elevated position in the water while keeping their hands free for passing and shooting.",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "Training paddles are plastic hand paddles that increase the surface area of the pull, building upper-body strength and refining stroke mechanics.",
+      "source": "https://en.wikipedia.org/wiki/Training_paddles"
+    },
+    {
+      "text": "The butterfly stroke requires simultaneous arm movement and a dolphin kick, making it widely considered the most physically demanding stroke.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "Pieter van den Hoogenband of the Netherlands upset Ian Thorpe to win the 100m freestyle gold at the 2000 Sydney Olympics.",
+      "month": 9,
+      "day": 19,
+      "source": "https://en.wikipedia.org/wiki/Hoogenband_of_the_Netherlands"
+    },
+    {
+      "text": "Susie O'Neill of Australia, known as 'Madame Butterfly,' held the 200m butterfly world record for over a decade.",
+      "source": "https://en.wikipedia.org/wiki/Susie_O%27Neill_of_Australia"
+    },
+    {
+      "text": "The first swimming goggles designed for competitive use appeared in the 1930s, but they weren't permitted in Olympic competition until 1976.",
+      "source": "https://en.wikipedia.org/wiki/first_swimming_goggles_designed_for_competitive_use"
+    },
+    {
+      "text": "A swimmer performing a diving start can enter the water at speeds exceeding 8 meters per second, making the start critical in sprint events.",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "The Dead Sea, at over 30% salinity, is so buoyant that swimming in the traditional sense is nearly impossible — you simply float.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Dead_Sea%2C_at_over_30%25_salinity"
+    },
+    {
+      "text": "Tom Daley learned to dive at the age of seven and was competing nationally by age nine.",
+      "source": "https://en.wikipedia.org/wiki/Tom_Daley_learned_to_dive_at_the_age_of_seven_and"
+    },
+    {
+      "text": "In artistic swimming, underwater speakers allow athletes to hear the music while submerged, keeping their movements in sync.",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "The 'gallop' entry in diving refers to a running approach on the platform, used for forward-facing dives from the 10-meter height.",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "Distance swimmers consume liquid carbohydrate gels and drinks during open water races, grabbing them from feeding stations on poles.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "Natalie Coughlin became the first woman to swim the 100m backstroke in under a minute, clocking 59.58 seconds in 2002.",
+      "month": 8,
+      "day": 13,
+      "source": "https://en.wikipedia.org/wiki/Natalie_Coughlin"
+    },
+    {
+      "text": "An Olympic pool holds approximately 2.5 million liters (660,000 gallons) of water.",
+      "source": "https://en.wikipedia.org/wiki/An_Olympic"
+    },
+    {
+      "text": "The 'high elbow catch' is a freestyle technique where the elbow stays near the surface while the forearm and hand sweep downward to maximize propulsion.",
+      "source": "https://en.wikipedia.org/wiki/%27high_elbow_catch"
+    },
+    {
+      "text": "Sarah Sjöström of Sweden is known for having one of the most powerful butterfly strokes in women's swimming history.",
+      "source": "https://en.wikipedia.org/wiki/Sarah_Sj%C3%B6str%C3%B6m_of_Sweden"
+    },
+    {
+      "text": "Water polo goals measure 3 meters wide and 90 centimeters high, and goalkeepers are the only players who can use both hands on the ball.",
+      "source": "https://en.wikipedia.org/wiki/Water_polo_goals_measure_3_meters_wide_and_90_centimeters_high%2C_and_goalkeepers"
+    },
+    {
+      "text": "The world record for the longest continuous swim is held by Martin Strel, who swam the entire length of the Amazon River — 5,268 km — in 66 days in 2007.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/world_record_for_the_longest_continuous_swim"
+    },
+    {
+      "text": "Hypoxic training involves restricting breathing to every 5, 7, or 9 strokes to build lung capacity and comfort with oxygen debt.",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "The Federación Internacional de Natación was founded on July 19, 1908, during the London Olympics.",
+      "month": 7,
+      "day": 19,
+      "source": "https://en.wikipedia.org/wiki/Federaci%C3%B3n_Internacional_de_Nataci%C3%B3n"
+    },
+    {
+      "text": "Flip turns generate more speed than open turns because the swimmer never stops moving and pushes off the wall in a streamlined position.",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "Adam Peaty of Great Britain dominated the 100m breaststroke, becoming the first swimmer to break 57 seconds in the event.",
+      "month": 7,
+      "day": 25,
+      "source": "https://en.wikipedia.org/wiki/Adam_Peaty_of_Great_Britain"
+    },
+    {
+      "text": "The swimsuit evolved from heavy wool garments in the early 1900s to nylon in the 1960s and high-tech materials like polyurethane by the 2000s.",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "Diving difficulty ratings range from 1.0 to over 4.0 — a dive's final score is calculated by multiplying the judges' scores by the degree of difficulty.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Diving_difficulty_ratings_range_from_1.0_to_over_4.0_%E2%80%94_a_dive%27s_final_score"
+    },
+    {
+      "text": "The 'catch-up drill' in freestyle has swimmers complete one full arm stroke before the other arm begins, emphasizing glide and body rotation.",
+      "source": "https://en.wikipedia.org/wiki/%27catch-up_drill%27_in_freestyle"
+    },
+    {
+      "text": "Janet Evans won three gold medals at the 1988 Seoul Olympics in distance freestyle events, setting world records that stood for years.",
+      "month": 9,
+      "day": 22,
+      "source": "https://en.wikipedia.org/wiki/Janet_Evans"
+    },
+    {
+      "text": "In open water swimming, jellyfish stings, cold water, and strong currents are among the most common hazards athletes face.",
+      "source": "https://en.wikipedia.org/wiki/In_open_water_swimming%2C_jellyfish_stings%2C_cold_water%2C_and_strong_currents"
+    },
+    {
+      "text": "A standard water polo game consists of four 8-minute quarters, with a 30-second shot clock for each possession.",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "César Cielo of Brazil holds the world record in the 50m freestyle at 20.91 seconds, set in a tech suit era in 2009.",
+      "month": 12,
+      "day": 18,
+      "source": "https://en.wikipedia.org/wiki/C%C3%A9sar_Cielo_of_Brazil_holds_the_world_record_in_the_50m_freestyle_at_20.91_seconds"
+    },
+    {
+      "text": "Silicone swim caps are preferred over latex by many swimmers because they are more durable, don't pull hair as much, and create less drag.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Silicone_swim_caps"
+    },
+    {
+      "text": "The 'underwater phase' after a start or turn can last up to 15 meters — FINA rules require the swimmer's head to break the surface before the 15-meter mark.",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "Guo Jingjing of China is considered the greatest female springboard diver in history, winning four Olympic gold medals.",
+      "source": "https://en.wikipedia.org/wiki/Guo_Jingjing_of_China"
+    },
+    {
+      "text": "Bilateral breathing — breathing to both sides — helps swimmers develop symmetrical strokes and better awareness of competitors in adjacent lanes.",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "The ancient Olympic Games in Greece did not include swimming as an event, despite the Greeks being skilled swimmers.",
+      "source": "https://en.wikipedia.org/wiki/Olympic_Games_in_Greece"
+    },
+    {
+      "text": "Shane Gould of Australia won three individual gold medals at the 1972 Munich Olympics at age 15, then retired from competitive swimming at 16.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Shane_Gould_of_Australia"
+    },
+    {
+      "text": "In a medley relay, four different swimmers each swim one stroke: backstroke, breaststroke, butterfly, and freestyle, in that order.",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "The 'pike' position in diving requires the body to be bent at the hips with legs straight and toes pointed, forming a V shape.",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "Resistance bands are a staple of dry-land training for swimmers, simulating the pulling motion of strokes to build sport-specific strength.",
+      "source": "https://en.wikipedia.org/wiki/Resistance_bands"
+    },
+    {
+      "text": "Australia's 4×100m freestyle relay team, known as the 'Thorpedo relay,' won a dramatic gold at the 2000 Sydney Olympics.",
+      "month": 9,
+      "day": 16,
+      "source": "https://en.wikipedia.org/wiki/Australia%27s_4%C3%97100m_freestyle_relay_team%2C_known_as_the_%27Thorpedo_relay"
+    },
+    {
+      "text": "The first heated swimming pool is believed to have been built by Gaius Maecenas in Rome in the 1st century BC.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/first_heated_swimming_pool"
+    },
+    {
+      "text": "In artistic swimming, athletes use nose clips to prevent water from entering their nostrils during inverted positions.",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "The 'tuck' position in diving has the body curled tightly with knees drawn to the chest, allowing for faster rotation.",
+      "source": "https://en.wikipedia.org/wiki/%27tuck%27_position_in_diving"
+    },
+    {
+      "text": "Caeleb Dressel's 100m freestyle world record of 46.96 seconds was set at the 2021 ISL in Budapest.",
+      "source": "https://en.wikipedia.org/wiki/Caeleb_Dressel%27s_100m_freestyle_world_record_of_46.96_seconds"
+    },
+    {
+      "text": "Swimmers shave their bodies before major competitions to reduce drag and increase tactile sensitivity in the water.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "The first swimming strokes taught to beginners are typically freestyle and backstroke because of their natural body positions and simple breathing patterns.",
+      "source": "https://en.wikipedia.org/wiki/first_swimming_strokes_taught_to_beginners"
+    },
+    {
+      "text": "Duke Kahanamoku, a Hawaiian swimmer and Olympic gold medalist, is also credited with popularizing the sport of surfing worldwide.",
+      "source": "https://en.wikipedia.org/wiki/Duke_Kahanamoku%2C_a_Hawaiian_swimmer_and_Olympic_gold_medalist"
+    },
+    {
+      "text": "In Olympic diving, seven judges score each dive from 0 to 10 in half-point increments, with the two highest and two lowest scores discarded.",
+      "source": "https://en.wikipedia.org/wiki/In_Olympic"
+    },
+    {
+      "text": "The 'descend set' is a training method where each successive repeat is swum faster than the previous one, building pace awareness.",
+      "source": "https://en.wikipedia.org/wiki/%27descend"
+    },
+    {
+      "text": "Penny Heyns of South Africa won both the 100m and 200m breaststroke gold medals at the 1996 Atlanta Olympics.",
+      "month": 7,
+      "day": 21,
+      "source": "https://en.wikipedia.org/wiki/Penny_Heyns_of_South_Africa"
+    },
+    {
+      "text": "Olympic swimming pools have a minimum depth of 2 meters (6.6 feet) to minimize wave reflection from the bottom.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Olympic_swimming_pools"
+    },
+    {
+      "text": "The 'taper' period typically lasts 2 to 3 weeks before a major championship, during which training volume drops significantly while intensity remains high.",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "Synchronized diving scores factor in both individual execution and how closely the two divers match each other's timing and form.",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "Lynne Cox swam across the Bering Strait from Alaska to the Soviet Union in 1987, a distance of 2.7 miles in 3.6°C (38°F) water.",
+      "month": 8,
+      "day": 7,
+      "source": "https://en.wikipedia.org/wiki/Lynne_Cox"
+    },
+    {
+      "text": "The 'sculling' motion with the hands is fundamental to all strokes — it's the figure-eight pattern that generates continuous propulsion.",
+      "source": "https://en.wikipedia.org/wiki/%27sculling%27_motion_with_the_hands"
+    },
+    {
+      "text": "An average competitive swimmer performs about 1 million strokes per year during training.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "Water temperature in Olympic competition pools is maintained between 25°C and 28°C (77°F to 82°F).",
+      "source": "https://en.wikipedia.org/wiki/Water_temperature_in_Olympic_competition_pools"
+    },
+    {
+      "text": "Michael Phelps competed in five consecutive Olympics from 2000 to 2016, making his final Games in Rio de Janeiro at age 31.",
+      "month": 8,
+      "day": 13,
+      "source": "https://en.wikipedia.org/wiki/Michael_Phelps"
+    },
+    {
+      "text": "The 'layout' or 'straight' position in diving requires the body to be fully extended with no bend at the hips or knees.",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "Butterfly was officially recognized as a separate stroke by FINA in 1952 after years of swimmers using it in breaststroke events.",
+      "source": "https://en.wikipedia.org/wiki/Butterfly"
+    },
+    {
+      "text": "Wu Minxia of China competed in five consecutive Olympics in diving, winning five gold medals over her career.",
+      "source": "https://en.wikipedia.org/wiki/Wu_Minxia_of_China"
+    },
+    {
+      "text": "Ankle flexibility is crucial for an efficient kick — many elite swimmers can point their toes almost flat, like a ballerina.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Ankle_flexibility"
+    },
+    {
+      "text": "The short course world records are generally faster than long course because swimmers benefit from more turns and more time in streamline off walls.",
+      "source": "https://en.wikipedia.org/wiki/short_course_world_records"
+    },
+    {
+      "text": "In water polo, 'wet passes' are deliberately thrown into the water to a teammate's advantage, making it easier to catch while treading water.",
+      "source": "https://en.wikipedia.org/wiki/In_water_polo%2C_%27wet_passes"
+    },
+    {
+      "text": "The YMCA played a major role in promoting swimming in America, building public pools and offering swim classes starting in the late 1800s.",
+      "source": "https://en.wikipedia.org/wiki/YMCA"
+    },
+    {
+      "text": "Kristof Milák of Hungary set the 200m butterfly world record at 1:50.73 at the 2019 World Championships, breaking Phelps's long-standing record.",
+      "month": 7,
+      "day": 24,
+      "source": "https://en.wikipedia.org/wiki/Kristof_Mil%C3%A1k_of_Hungary"
+    },
+    {
+      "text": "Controlled breathing in swimming differs from most sports — exhaling occurs underwater and inhaling is timed with head rotation or lifting.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "The 'Tarzan drill' involves swimming freestyle with the head completely above water, strengthening the neck and building awareness of sighting in open water.",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "Ryan Murphy won the backstroke double (100m and 200m) at the 2016 Rio Olympics.",
+      "source": "https://en.wikipedia.org/wiki/Ryan_Murphy"
+    },
+    {
+      "text": "In the 'free' position in diving, the diver can combine tuck, pike, or straight positions during different phases of the dive.",
+      "source": "https://en.wikipedia.org/wiki/In_the"
+    },
+    {
+      "text": "The Marina Bay Sands infinity pool in Singapore, perched 57 stories above ground, is one of the most photographed pools in the world.",
+      "source": "https://en.wikipedia.org/wiki/Marina_Bay_Sands_infinity_pool_in_Singapore%2C_perched_57_stories_above_ground"
+    },
+    {
+      "text": "Ancient Roman aqueducts supplied water to public swimming baths called 'thermae,' which were central gathering places in Roman cities.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Ancient_Roman_aqueducts_supplied_water_to_public_swimming_baths_called_%27thermae%2C%27_which"
+    },
+    {
+      "text": "Speedo developed the Fastskin suit by studying sharkskin's dermal denticles, which reduce hydrodynamic drag.",
+      "source": "https://en.wikipedia.org/wiki/Speedo"
+    },
+    {
+      "text": "Rowdy Gaines won three gold medals at the 1984 Los Angeles Olympics and later became one of swimming's most recognizable TV commentators.",
+      "month": 7,
+      "day": 31,
+      "source": "https://en.wikipedia.org/wiki/Rowdy_Gaines"
+    },
+    {
+      "text": "The 'breakout' — the transition from underwater to surface swimming after a start or turn — is one of the most practiced skills in competitive swimming.",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "In artistic swimming, teams are penalized if any athlete touches the bottom of the pool during the routine.",
+      "source": "https://en.wikipedia.org/wiki/In_artistic_swimming%2C_teams"
+    },
+    {
+      "text": "A swimmer's stroke rate is measured in cycles per minute, with sprinters typically taking more strokes per minute than distance swimmers.",
+      "source": "https://en.wikipedia.org/wiki/A_swimmer%27s_stroke_rate"
+    },
+    {
+      "text": "The world record for the fastest English Channel crossing is 6 hours and 55 minutes, set by Trent Grimsey of Australia in 2012.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/world_record_for_the_fastest_English_Channel_crossing"
+    },
+    {
+      "text": "Cody Miller, a 2016 Olympic breaststroke medalist, was born with pectus excavatum, a condition where the breastbone is sunken into the chest.",
+      "source": "https://en.wikipedia.org/wiki/Cody_Miller%2C_a_2016_Olympic_breaststroke_medalist"
+    },
+    {
+      "text": "Vertical kicking drills, where swimmers kick while in a vertical position with arms above water, are used to build powerful kick endurance.",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "The 4×100m medley relay is traditionally the last swimming event at the Olympics, serving as a grand finale.",
+      "source": "https://en.wikipedia.org/wiki/4%C3%97100m_medley_relay"
+    },
+    {
+      "text": "In diving, 'balking' is when a diver starts their approach but stops or restarts — it results in a 2-point deduction from each judge.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/In_diving%2C_%27balking"
+    },
+    {
+      "text": "Dara Torres competed in five Olympic Games spanning 24 years, winning her last medal at age 41 in 2008.",
+      "source": "https://en.wikipedia.org/wiki/Dara_Torres"
+    },
+    {
+      "text": "The 'catch-up' position in freestyle ensures full extension and glide before the next stroke cycle begins.",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "Clara Lamore pioneered artistic swimming in the early 1900s, performing synchronized routines at the 1907 New York Hippodrome.",
+      "source": "https://en.wikipedia.org/wiki/Clara_Lamore"
+    },
+    {
+      "text": "In water polo, a 'dry pass' is thrown through the air directly to a teammate's hand, allowing immediate shots or passes.",
+      "source": "https://en.wikipedia.org/wiki/In_water_polo%2C_a_%27dry_pass"
+    },
+    {
+      "text": "Olympic pools use an electronic starting system called the Omega Quantum Timer that simultaneously sends a sound to speakers behind each block for fairness.",
+      "source": "https://en.wikipedia.org/wiki/Olympic_pools_use_an_electronic_starting_system"
+    },
+    {
+      "text": "The 1500m freestyle, known as 'the mile' despite being slightly shorter, is the longest individual pool event in Olympic competition.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/1500m_freestyle%2C_known_as_%27the_mile%27_despite_being_slightly_shorter"
+    },
+    {
+      "text": "Katie Ledecky's 1500m freestyle world record of 15:20.48 was set at the 2018 TYR Pro Swim Series.",
+      "month": 1,
+      "day": 14,
+      "source": "https://en.wikipedia.org/wiki/Katie_Ledecky%27s_1500m_freestyle_world_record_of_15:20.48"
+    },
+    {
+      "text": "Snorkels used in swim training isolate the stroke by eliminating the need to turn the head to breathe, improving body alignment.",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "The 'recovery' phase of a swim stroke refers to the part where the arm exits the water and returns forward for the next pull.",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "Fu Mingxia of China won her first Olympic diving gold medal at age 13 in 1992 and went on to win four Olympic golds total.",
+      "month": 8,
+      "day": 2,
+      "source": "https://en.wikipedia.org/wiki/Fu_Mingxia_of_China"
+    },
+    {
+      "text": "Lane assignments in Olympic finals are based on semifinal times, with the fastest swimmer placed in lane 4 (center).",
+      "source": "https://en.wikipedia.org/wiki/Lane_assignments_in_Olympic_finals"
+    },
+    {
+      "text": "Chloramine, not chlorine itself, is what causes the strong 'pool smell' — it's formed when chlorine reacts with nitrogen compounds from sweat and urine.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Chloramine%2C_not_chlorine_itself"
+    },
+    {
+      "text": "The 'pace clock' is a large poolside clock with second and minute hands used by swimmers and coaches to time intervals during training.",
+      "source": "https://en.wikipedia.org/wiki/%27pace_clock"
+    },
+    {
+      "text": "Aaron Peirsol won five Olympic gold medals in backstroke events between 2000 and 2008.",
+      "source": "https://en.wikipedia.org/wiki/Aaron_Peirsol"
+    },
+    {
+      "text": "In diving, the 'armstand' position has the diver beginning the dive from a handstand on the edge of the platform — it's exclusively a platform dive.",
+      "source": "https://en.wikipedia.org/wiki/In_diving%2C_the_%27armstand%27_position"
+    },
+    {
+      "text": "Open water swimming events use a mass start format, with all swimmers beginning simultaneously, leading to physical jostling at the start.",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "The world's oldest swimming club, the Arlington Baths Club in Glasgow, Scotland, was founded in 1870.",
+      "source": "https://en.wikipedia.org/wiki/world%27s_oldest_swimming_club%2C_the_Arlington_Baths_Club_in_Glasgow%2C_Scotland"
+    },
+    {
+      "text": "A typical collegiate swimmer covers 6,000 to 12,000 meters per day in practice, depending on their specialty and the phase of the season.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "Kosuke Kitajima of Japan won breaststroke gold in both the 100m and 200m at the 2004 Athens Olympics and repeated the feat in 2008.",
+      "month": 8,
+      "day": 15,
+      "source": "https://en.wikipedia.org/wiki/Kosuke_Kitajima_of_Japan"
+    },
+    {
+      "text": "The Ederle-Gonzalez technique of head-up breaststroke is commonly used in lifeguard training for approaching a distressed swimmer.",
+      "source": "https://en.wikipedia.org/wiki/Ederle-Gonzalez_technique_of_head-up_breaststroke"
+    },
+    {
+      "text": "Fruity-scented swim caps became popular with recreational swimmers in the 2010s but offer no competitive advantage.",
+      "source": "https://en.wikipedia.org/wiki/Fruity-scented_swim_caps"
+    },
+    {
+      "text": "The 'underwater dolphin kick' is so effective that it's sometimes called 'the fifth stroke' — it's used by all strokes coming off the walls.",
+      "source": "https://en.wikipedia.org/wiki/%27underwater_dolphin_kick"
+    },
+    {
+      "text": "In water polo, the cap with the number 1 and a different color (usually red for one team, blue for the other) always designates the goalkeeper.",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "Depression and anxiety are common among elite swimmers after major competitions, a phenomenon sometimes called 'post-Olympic blues.'",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Depression_and_anxiety"
+    },
+    {
+      "text": "The butterfly kick in backstroke swimming (done underwater off walls) can generate more speed than surface backstroke swimming.",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "Leisel Jones of Australia won an Olympic medal in breaststroke at three consecutive Games: 2000, 2004, and 2008.",
+      "source": "https://en.wikipedia.org/wiki/Leisel_Jones_of_Australia"
+    },
+    {
+      "text": "Diving judges evaluate five components: approach, takeoff, elevation, execution of movements, and entry into the water.",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "Paddles come in various shapes — some emphasize fingertip pressure, others power, and some are specifically designed to improve stroke technique.",
+      "source": "https://en.wikipedia.org/wiki/Paddles_come_in_various_shapes_%E2%80%94_some_emphasize_fingertip_pressure%2C_others_power%2C_and_some"
+    },
+    {
+      "text": "The first Olympic diving events took place at the 1904 St. Louis Games, featuring only platform diving.",
+      "month": 9,
+      "day": 5,
+      "source": "https://en.wikipedia.org/wiki/first_Olympic_diving_events"
+    },
+    {
+      "text": "Long-distance open water swimmers use a technique called 'sighting' — briefly lifting the head every few strokes to check navigation landmarks.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Long-distance_open_water_swimmers_use_a_technique"
+    },
+    {
+      "text": "The 'broken swim' is a training technique where a race distance is broken into segments with short rest between, simulating race pace.",
+      "source": "https://en.wikipedia.org/wiki/%27broken_swim"
+    },
+    {
+      "text": "Matt Biondi won seven medals (five gold) at the 1988 Seoul Olympics, excelling in sprint freestyle and relay events.",
+      "source": "https://en.wikipedia.org/wiki/Matt_Biondi"
+    },
+    {
+      "text": "The 'degree of difficulty' in diving is calculated based on the number of somersaults, twists, body position, and approach used.",
+      "source": "https://en.wikipedia.org/wiki/%27degree_of_difficulty%27_in_diving"
+    },
+    {
+      "text": "Corking — accidentally entering the water short of completing a rotation — is one of the most common errors in difficult platform dives.",
+      "source": "https://en.wikipedia.org/wiki/Corking_%E2%80%94_accidentally_entering_the_water_short_of_completing_a_rotation_%E2%80%94"
+    },
+    {
+      "text": "The 'bilateral' breathing pattern alternates breathing sides every three strokes and is considered fundamental to balanced freestyle.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/%27bilateral%27_breathing_pattern_alternates_breathing_sides_every_three_strokes_and"
+    },
+    {
+      "text": "Inge de Bruijn of the Netherlands won four Olympic gold medals in sprint freestyle and butterfly at the 2000 and 2004 Games.",
+      "source": "https://en.wikipedia.org/wiki/Inge_de_Bruijn_of_the_Netherlands"
+    },
+    {
+      "text": "The Wuhan Water Sports Center pool in China uses an advanced wave-dampening system that allows nearly zero wake during competitions.",
+      "source": "https://en.wikipedia.org/wiki/Wuhan_Water_Sports_Center"
+    },
+    {
+      "text": "In artistic swimming, gelatin is applied to hair to keep it rigidly in place during routines — it's practically a second swim cap.",
+      "source": "https://en.wikipedia.org/wiki/In_artistic_swimming%2C_gelatin"
+    },
+    {
+      "text": "Kicking accounts for only about 10-15% of propulsion in freestyle but is essential for body position and balance.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Kicking_accounts_for_only_about_10-15%25_of_propulsion_in_freestyle_but"
+    },
+    {
+      "text": "The swimming events at the 2020 Tokyo Olympics were held at the Tokyo Aquatics Centre, a venue with a capacity of 15,000.",
+      "month": 7,
+      "day": 24,
+      "source": "https://en.wikipedia.org/wiki/swimming_events_at_the_2020_Tokyo_Olympics"
+    },
+    {
+      "text": "The 'power rack' is used in dry-land training to help swimmers build explosive starts and turns through squats and deadlifts.",
+      "source": "https://en.wikipedia.org/wiki/%27power_rack"
+    },
+    {
+      "text": "Brendan Hansen held multiple world records in breaststroke and won Olympic gold in the 4×100m medley relay in 2004.",
+      "source": "https://en.wikipedia.org/wiki/Brendan_Hansen_held_multiple_world_records_in_breaststroke_and"
+    },
+    {
+      "text": "The 10-meter platform in diving has a surface area of at least 6 meters long and 2 meters wide.",
+      "source": "https://en.wikipedia.org/wiki/10-meter_platform_in_diving"
+    },
+    {
+      "text": "In water polo, the 'hole set' is the offensive position closest to the goal, often occupied by the strongest and most physical player.",
+      "source": "https://en.wikipedia.org/wiki/In_water_polo%2C_the_%27hole_set"
+    },
+    {
+      "text": "Swimmers can lose up to 1 liter of sweat per hour in warm pools, making hydration important even while immersed in water.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "Alexandre Despatie of Canada was one of the youngest-ever World Championship diving gold medalists, winning the 10m platform at age 13.",
+      "source": "https://en.wikipedia.org/wiki/Alexandre_Despatie_of_Canada"
+    },
+    {
+      "text": "The 'Tarzan' freestyle drill is named after the movie character and is used to develop open-water sighting skills.",
+      "source": "https://en.wikipedia.org/wiki/%27Tarzan%27_freestyle_drill"
+    },
+    {
+      "text": "Michael Phelps's final individual Olympic race was the 200m individual medley at the 2016 Rio Games, which he won for the third consecutive time.",
+      "month": 8,
+      "day": 11,
+      "source": "https://en.wikipedia.org/wiki/Michael_Phelps%27s_final_individual_Olympic_race"
+    },
+    {
+      "text": "Breaststroke timing is critical — the pull and kick must be coordinated so they don't overlap, or the swimmer loses propulsion.",
+      "source": "https://en.wikipedia.org/wiki/Breaststroke_timing"
+    },
+    {
+      "text": "The Melbourne Cricket Ground swimming pool was the venue for the 1956 Olympics, which saw Dawn Fraser emerge as a global star.",
+      "month": 12,
+      "day": 6,
+      "source": "https://en.wikipedia.org/wiki/Melbourne_Cricket_Ground_swimming_pool"
+    },
+    {
+      "text": "Ultraviolet light pool sanitization systems are increasingly used alongside chlorine to reduce chemical irritation and smell.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Ultraviolet_light_pool_sanitization_systems"
+    },
+    {
+      "text": "A swimmer's 'drag coefficient' is influenced by body shape, swimsuit, body position, and surface turbulence.",
+      "source": "https://en.wikipedia.org/wiki/A_swimmer%27s_%27drag_coefficient"
+    },
+    {
+      "text": "In diving, the 'inward' group consists of dives where the diver faces the board and rotates toward the board — among the most counterintuitive to learn.",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "The U.S. water polo men's team won their first Olympic medal (silver) in over 20 years at the 2008 Beijing Olympics.",
+      "source": "https://en.wikipedia.org/wiki/U.S._water_polo_men%27s_team"
+    },
+    {
+      "text": "Open water swimmers in cold conditions may experience 'cold water shock,' an involuntary gasp reflex that can cause drowning if the face is submerged.",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "A typical backstroke race begins with swimmers gripping a device called a 'backstroke ledge' or 'starting wedge' mounted on the wall below the blocks.",
+      "source": "https://en.wikipedia.org/wiki/A_typical_backstroke_race_begins_with_swimmers_gripping_a_device"
+    },
+    {
+      "text": "Katie Ledecky has won more individual Olympic and World Championship gold medals in women's swimming than any other swimmer in history.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Katie_Ledecky"
+    },
+    {
+      "text": "The Pan Pacific Championships and the Mare Nostrum series are two of the most prestigious non-Olympic swimming competitions.",
+      "source": "https://en.wikipedia.org/wiki/Pan_Pacific_Championships_and_the_Mare_Nostrum_series"
+    },
+    {
+      "text": "Samantha Riley of Australia set multiple breaststroke world records in the 1990s.",
+      "source": "https://en.wikipedia.org/wiki/Samantha_Riley_of_Australia"
+    },
+    {
+      "text": "In synchronized diving, the two divers must perform the same dive but can take off from different positions (one can stand, one can do an armstand in platform).",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "The 'T-pace' in swim training refers to the pace a swimmer can maintain over a 1,000-yard time trial, used as a baseline for training sets.",
+      "source": "https://en.wikipedia.org/wiki/T-pace%27_in"
+    },
+    {
+      "text": "Hironoshin Furuhashi of Japan broke multiple world freestyle records in the late 1940s, earning the nickname 'the Flying Fish of Fujiyama.'",
+      "source": "https://en.wikipedia.org/wiki/Hironoshin_Furuhashi_of_Japan"
+    },
+    {
+      "text": "The first women's Olympic diving events were held at the 1912 Stockholm Games, with only a plain high dive from the platform.",
+      "month": 7,
+      "day": 13,
+      "source": "https://en.wikipedia.org/wiki/first_women%27s_Olympic_diving_events"
+    },
+    {
+      "text": "Chlorine levels in competitive pools are strictly monitored and must stay between 1 and 3 parts per million.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Chlorine_levels_in_competitive_pools"
+    },
+    {
+      "text": "The 'gallop step' approach in platform diving allows the diver to build forward momentum while maintaining control before takeoff.",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "Federica Pellegrini of Italy set multiple world records in the 200m freestyle and competed in five consecutive Olympics.",
+      "source": "https://en.wikipedia.org/wiki/Federica_Pellegrini_of_Italy"
+    },
+    {
+      "text": "The 'gutter' system around the perimeter of a modern pool channels displaced water away, reducing wave action and turbulence.",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "In water polo, a penalty throw is awarded for a major foul inside the 6-meter line and is taken from the 5-meter line with only the goalkeeper defending.",
+      "source": "https://en.wikipedia.org/wiki/In_water_polo%2C_a_penalty_throw"
+    },
+    {
+      "text": "The backstroke start is the only start in competitive swimming performed from the water, with swimmers pushing off the wall on a signal.",
+      "source": "https://en.wikipedia.org/wiki/backstroke_start"
+    },
+    {
+      "text": "At the 1936 Berlin Olympics, Japanese swimmers won a combined total of 11 medals, dominating the men's swimming events.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/At_the_1936_Berlin_Olympics%2C_Japanese_swimmers"
+    },
+    {
+      "text": "The 'kick-on-side' drill trains swimmers to maintain a streamlined, rotated body position while developing an efficient flutter kick.",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "Greg Louganis scored a perfect 10 from all seven judges on a reverse 3½ somersault tuck at the 1984 Olympics.",
+      "source": "https://en.wikipedia.org/wiki/Greg_Louganis"
+    },
+    {
+      "text": "Cate Campbell and Bronte Campbell of Australia are one of the most successful sibling pairs in Olympic swimming history.",
+      "source": "https://en.wikipedia.org/wiki/Cate_Campbell_and_Bronte_Campbell_of_Australia"
+    },
+    {
+      "text": "In Olympic open water swimming, water temperature must be at least 16°C (61°F) for the event to proceed.",
+      "source": "https://en.wikipedia.org/wiki/In_Olympic"
+    },
+    {
+      "text": "The 'DPS' (distance per stroke) drill emphasizes taking fewer, more powerful strokes to cover the same distance, building efficiency.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "Dave McCagg invented the anti-wave lane rope in 1961, revolutionizing competitive swimming by reducing cross-lane turbulence.",
+      "source": "https://en.wikipedia.org/wiki/Dave_McCagg"
+    },
+    {
+      "text": "The Texas Swimming Center, home to the University of Texas Longhorns, is one of the premier college swimming facilities in the United States.",
+      "source": "https://en.wikipedia.org/wiki/Texas_Swimming_Center%2C_home_to_the_University_of_Texas_Longhorns"
+    },
+    {
+      "text": "In artistic swimming, teams can consist of duets, trios, or teams of 4-8 athletes performing synchronized routines.",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "Grant Hackett of Australia dominated the 1500m freestyle, winning the world title four times and Olympic gold in 2000 and silver in 2004.",
+      "source": "https://en.wikipedia.org/wiki/Grant_Hackett_of_Australia"
+    },
+    {
+      "text": "Fatigue-resistant 'Type I' slow-twitch muscle fibers are predominant in distance swimmers, while sprinters rely more on 'Type II' fast-twitch fibers.",
+      "source": "https://en.wikipedia.org/wiki/Fatigue-resistant_%27Type_I%27_slow-twitch_muscle_fibers"
+    },
+    {
+      "text": "An incoming diver hits the water with a force equivalent to about 1.5 times their body weight when diving from 10 meters.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "The 'sculling' drill has swimmers lying on their backs or fronts, using only small hand movements to propel themselves, building water feel.",
+      "source": "https://en.wikipedia.org/wiki/%27sculling%27_drill"
+    },
+    {
+      "text": "Stephanie Rice of Australia won three gold medals at the 2008 Beijing Olympics in the 200m IM, 400m IM, and medley relay.",
+      "source": "https://en.wikipedia.org/wiki/Stephanie_Rice_of_Australia"
+    },
+    {
+      "text": "In diving, the 'reverse' group involves takeoff from a forward-facing position with backward rotation — away from the board.",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "Nose clips in artistic swimming are custom-fitted to each athlete to ensure a secure seal during inverted underwater positions.",
+      "source": "https://en.wikipedia.org/wiki/Nose_clips_in_artistic_swimming"
+    },
+    {
+      "text": "The concept of 'feel for the water' is often cited by coaches as the hardest skill to teach and the most important to master.",
+      "source": "https://en.wikipedia.org/wiki/concept_of_%27feel_for_the_water"
+    },
+    {
+      "text": "The 800m freestyle was historically only an event for women at the Olympics, while men swam the 1500m — both genders now compete in both distances.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/800m_freestyle"
+    },
+    {
+      "text": "Swimming is one of the most-watched sports during the Summer Olympics, regularly drawing television audiences in the hundreds of millions.",
+      "source": "https://en.wikipedia.org/wiki/Swimming"
+    },
+    {
+      "text": "Dimitri Sautin of Russia competed in diving at six consecutive Olympics from 1992 to 2012, winning two medals.",
+      "month": 7,
+      "day": 27,
+      "source": "https://en.wikipedia.org/wiki/Dimitri_Sautin_of_Russia"
+    },
+    {
+      "text": "The 'drag suit' is an oversized, loose-fitting suit worn over a regular swimsuit during training to increase resistance and build strength.",
+      "source": "https://en.wikipedia.org/wiki/%27drag_suit"
+    },
+    {
+      "text": "In breaststroke, the pullout — one underwater pull and dolphin kick off each wall — is the only time a butterfly kick is allowed in the stroke.",
+      "source": "https://en.wikipedia.org/wiki/In_breaststroke%2C_the_pullout_%E2%80%94_one_underwater_pull_and_dolphin_kick_off_each_wall_%E2%80%94"
+    },
+    {
+      "text": "Kieren Perkins of Australia won the 1500m freestyle gold at the 1992 Barcelona Olympics and repeated the feat at the 1996 Atlanta Games from lane 8.",
+      "month": 7,
+      "day": 31,
+      "source": "https://en.wikipedia.org/wiki/Kieren_Perkins_of_Australia"
+    },
+    {
+      "text": "Body rotation in freestyle should be about 45-60 degrees to each side, driven by the hips, not the shoulders.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "The 'negative split strategy' in the 400m IM involves conserving energy in the butterfly and backstroke legs to attack the breaststroke and freestyle legs.",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "In the early 1900s, women were required to wear swimming costumes that covered them from neck to knee — violations could result in arrest.",
+      "source": "https://en.wikipedia.org/wiki/In_the_early_1900s%2C_women"
+    },
+    {
+      "text": "Pool temperature affects performance: water that's too warm reduces the body's ability to dissipate heat, leading to faster fatigue.",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "The 'twist' dives in competitive diving involve rotation around the body's vertical axis in addition to somersault rotations.",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "Ariarne Titmus of Australia defeated Katie Ledecky to win the 400m freestyle gold at the 2020 Tokyo Olympics.",
+      "month": 7,
+      "day": 26,
+      "source": "https://en.wikipedia.org/wiki/Ariarne_Titmus_of_Australia"
+    },
+    {
+      "text": "The backstroke flags are hung 5 meters from each end of the pool to alert swimmers that the wall is approaching.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/backstroke_flags"
+    },
+    {
+      "text": "In water polo, goalkeepers can use both hands, punch the ball with a clenched fist, and touch the ball with both hands within the 5-meter area.",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "Vladimir Salnikov of the Soviet Union was the first swimmer to break the 15-minute barrier in the 1500m freestyle, swimming 14:58.27 in 1980.",
+      "month": 7,
+      "day": 22,
+      "source": "https://en.wikipedia.org/wiki/Vladimir_Salnikov_of_the_Soviet_Union"
+    },
+    {
+      "text": "The 'catch phase' in butterfly involves both arms entering the water simultaneously and sweeping outward before pulling back.",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "Race analysis technology now tracks swimmers' stroke count, tempo, split times, and underwater distance in real time during competitions.",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "The first swimming pool in the United States was built in Brookline, Massachusetts, in 1887.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/first_swimming_pool_in_the_United_States"
+    },
+    {
+      "text": "The 'frog kick' in breaststroke involves bending the knees, rotating the feet outward, and sweeping them back together in a circular motion.",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "Pan Zhanle of China broke the 100m freestyle world record with a time of 46.40 seconds at the 2024 Paris Olympics.",
+      "month": 7,
+      "day": 31,
+      "source": "https://en.wikipedia.org/wiki/Pan_Zhanle_of_China"
+    },
+    {
+      "text": "Swimmer's shoulder is a common overuse injury caused by the repetitive overhead motion of strokes, particularly freestyle and butterfly.",
+      "source": "https://en.wikipedia.org/wiki/Swimmer%27s_shoulder"
+    },
+    {
+      "text": "In diving, a 'failed dive' is scored 0 when the diver performs a dive different from the one announced.",
+      "source": "https://en.wikipedia.org/wiki/In_diving%2C_a_%27failed_dive"
+    },
+    {
+      "text": "The 100m freestyle is often called 'the blue riband event' of swimming, akin to the 100m dash in track and field.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/100m_freestyle"
+    },
+    {
+      "text": "Mary T. Meagher, known as 'Madame Butterfly,' set 200m butterfly world records in 1981 that stood for nearly 20 years.",
+      "source": "https://en.wikipedia.org/wiki/Mary_T._Meagher%2C_known_as_%27Madame_Butterfly"
+    },
+    {
+      "text": "Anti-fog spray or solutions are commonly applied to the inside of swim goggles to maintain clear vision throughout a swim.",
+      "source": "https://en.wikipedia.org/wiki/Anti-fog_spray_or_solutions"
+    },
+    {
+      "text": "The 'Lochte rule' led to FINA clarifying that backstroke swimmers must be on their back when they leave the wall in medley events.",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "Open water swimming navigation is so challenging that some swimmers finish hundreds of meters over the actual course distance.",
+      "source": "https://en.wikipedia.org/wiki/Open_water_swimming_navigation"
+    },
+    {
+      "text": "The first World Aquatics Championships were held in Belgrade, Yugoslavia, in 1973.",
+      "month": 9,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/first_World_Aquatics_Championships"
+    },
+    {
+      "text": "Creatine and beta-alanine are among the most researched supplements used by competitive swimmers to improve sprint performance and delay fatigue.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Creatine_and_beta-alanine"
+    },
+    {
+      "text": "Simone Manuel became the first African American woman to win an individual Olympic gold medal in swimming at the 2016 Rio Games.",
+      "month": 8,
+      "day": 11,
+      "source": "https://en.wikipedia.org/wiki/Simone_Manuel"
+    },
+    {
+      "text": "The 'Power Tower' is a training device that provides variable resistance as a swimmer is tethered and pulled back to the wall.",
+      "source": "https://en.wikipedia.org/wiki/%27Power_Tower"
+    },
+    {
+      "text": "In platform diving, divers often use a shammy cloth to dry off between dives, as a wet body changes how they grip their legs in tuck positions.",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "Mixed-gender relays were introduced at the 2020 Tokyo Olympics, adding a new tactical dimension to relay swimming.",
+      "source": "https://en.wikipedia.org/wiki/Mixed-gender_relays"
+    },
+    {
+      "text": "Matt Zubalik holds the Guinness World Record for the most continuous hours swimming, at 63 hours and 39 minutes.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Matt_Zubalik"
+    },
+    {
+      "text": "The 'finis tempo trainer' is a small electronic metronome worn under a swim cap that beeps at a set frequency, helping swimmers maintain a target stroke rate.",
+      "source": "https://en.wikipedia.org/wiki/%27finis_tempo_trainer"
+    },
+    {
+      "text": "Chad le Clos of South Africa upset Michael Phelps to win the 200m butterfly gold at the 2012 London Olympics.",
+      "month": 7,
+      "day": 31,
+      "source": "https://en.wikipedia.org/wiki/Clos_of_South_Africa"
+    },
+    {
+      "text": "In water polo, the 'pressing defense' is a full-pool defensive strategy that tries to intercept passes and disrupt the opponent's offensive setup.",
+      "source": "https://en.wikipedia.org/wiki/In_water_polo%2C_the_%27pressing_defense"
+    },
+    {
+      "text": "The two-beat kick uses one kick per arm stroke and is favored by distance swimmers for its energy efficiency.",
+      "source": "https://en.wikipedia.org/wiki/two-beat_kick_uses_one_kick_per_arm_stroke_and"
+    },
+    {
+      "text": "The six-beat kick uses three kicks per arm stroke (six per full cycle) and is common among sprinters for maximum propulsion.",
+      "source": "https://en.wikipedia.org/wiki/six-beat_kick_uses_three_kicks_per_arm_stroke_(six_per_full_cycle)_and"
+    },
+    {
+      "text": "Platform divers develop 'air awareness' — the ability to know exactly where they are in space during a dive — through thousands of repetitions.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Platform_divers_develop_%27air_awareness%27_%E2%80%94_the_ability_to_know_exactly_where_they"
+    },
+    {
+      "text": "Rebecca Adlington of Great Britain won two gold medals at the 2008 Beijing Olympics, including the 800m freestyle.",
+      "month": 8,
+      "day": 16,
+      "source": "https://en.wikipedia.org/wiki/Rebecca_Adlington_of_Great_Britain"
+    },
+    {
+      "text": "The 'pull' phase of the stroke is when the hand and forearm generate the most propulsion, moving water backward to propel the swimmer forward.",
+      "source": "https://en.wikipedia.org/wiki/%27pull%27_phase_of_the_stroke"
+    },
+    {
+      "text": "In artistic swimming, routines last between 2 and 4 minutes, and athletes may spend up to 50% of that time underwater.",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "The 'warm-down pool' at major competitions allows swimmers to recover immediately after racing by swimming at low intensity.",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "Ian Crocker's 100m butterfly world record of 50.40, set in 2005, was the benchmark for nearly a decade.",
+      "source": "https://en.wikipedia.org/wiki/Ian_Crocker%27s_100m_butterfly_world_record_of_50.40%2C_set_in_2005"
+    },
+    {
+      "text": "Some marathon swimmers train in ice baths and cold lakes to acclimatize their bodies to the frigid temperatures they may encounter in open water.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "The 'eggbeater kick' used in water polo and artistic swimming involves alternating circular kicks that keep the torso stable above water.",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "Cullen Jones became one of the first African American swimmers to earn an Olympic gold medal, winning the 4×100m freestyle relay in 2008.",
+      "month": 8,
+      "day": 11,
+      "source": "https://en.wikipedia.org/wiki/Cullen_Jones"
+    },
+    {
+      "text": "In diving, a 'balk' on the springboard results in a mandatory deduction; two balks in the same dive result in a failed dive (zero score).",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "The 'threshold set' in training targets the anaerobic threshold — the pace just below where lactate accumulation overwhelms the muscles.",
+      "source": "https://en.wikipedia.org/wiki/%27threshold"
+    },
+    {
+      "text": "Yusra Mardini, a Syrian refugee, swam at the 2016 and 2020 Olympics as part of the Refugee Olympic Team after swimming for her life across the Aegean Sea.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Yusra_Mardini"
+    },
+    {
+      "text": "The 'over-distance' training approach has swimmers covering distances longer than their race distance at moderate pace to build aerobic endurance.",
+      "source": "https://en.wikipedia.org/wiki/%27over-distance%27_training_approach"
+    },
+    {
+      "text": "Jenny Thompson won 12 Olympic medals (8 gold) across four Games, all in relay events — the most by any female swimmer in U.S. history.",
+      "source": "https://en.wikipedia.org/wiki/Jenny_Thompson"
+    },
+    {
+      "text": "In water polo, the 'counterattack' is a fast break initiated immediately after gaining possession, aiming to score before the defense can set up.",
+      "source": "https://en.wikipedia.org/wiki/In_water_polo%2C_the_%27counterattack"
+    },
+    {
+      "text": "The London Aquatics Centre, designed by Zaha Hadid for the 2012 Olympics, features a wave-shaped roof that has become an architectural icon.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/London_Aquatics_Centre%2C_designed_by_Zaha_Hadid_for_the_2012_Olympics"
+    },
+    {
+      "text": "Fingertip paddles are small paddles that attach only to the fingers, emphasizing the catch and early vertical forearm position.",
+      "source": "https://en.wikipedia.org/wiki/Fingertip_paddles"
+    },
+    {
+      "text": "The 'IM switch' — transitioning smoothly between strokes in the individual medley — is a practiced skill that can gain or lose significant time.",
+      "source": "https://en.wikipedia.org/wiki/%27IM_switch%27_%E2%80%94_transitioning_smoothly_between_strokes_in_the_individual_medley_%E2%80%94"
+    },
+    {
+      "text": "David Wilkie of Great Britain won the 200m breaststroke gold medal at the 1976 Montreal Olympics.",
+      "month": 7,
+      "day": 24,
+      "source": "https://en.wikipedia.org/wiki/David_Wilkie_of_Great_Britain"
+    },
+    {
+      "text": "In the 2008 Olympics, the U.S. 4×100m freestyle relay staged one of the greatest comeback victories in Olympic history, with Jason Lezak anchoring.",
+      "month": 8,
+      "day": 11,
+      "source": "https://en.wikipedia.org/wiki/In_the_2008_Olympics"
+    },
+    {
+      "text": "The 'snorkel drill' removes the breathing variable from the stroke, allowing swimmers to focus entirely on body position and pull mechanics.",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "A typical taper for an Olympic swimmer involves reducing yardage from around 10,000 meters per day to about 3,000-4,000 meters.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "The 'catch-up drill' is one of the most universally prescribed freestyle drills for developing a long, efficient stroke.",
+      "source": "https://en.wikipedia.org/wiki/%27catch-up_drill"
+    },
+    {
+      "text": "Libby Trickett of Australia won four Olympic medals and held the 100m freestyle world record in a tech suit.",
+      "source": "https://en.wikipedia.org/wiki/Libby_Trickett_of_Australia"
+    },
+    {
+      "text": "In artistic swimming, the 'boost' or 'throw' involves teammates launching one swimmer high out of the water for acrobatic movements.",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "The term 'heat sheet' refers to the printed listing of all swimmers entered in each event at a swim meet, including their seed times and lane assignments.",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "Pieter van den Hoogenband's 100m freestyle gold at the 2000 Sydney Olympics came with a world record of 47.84 seconds.",
+      "month": 9,
+      "day": 20,
+      "source": "https://en.wikipedia.org/wiki/Sydney_Olympics"
+    },
+    {
+      "text": "Breath control in breaststroke is unique — the head must break the surface on every stroke, unlike butterfly where some coaches teach breathing every other stroke.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Breath_control_in_breaststroke"
+    },
+    {
+      "text": "Electronic touchpads at the ends of competitive pools are connected to timing systems accurate to 1/1000th of a second, though official results are given to 1/100th.",
+      "source": "https://en.wikipedia.org/wiki/Electronic_touchpads_at_the_ends_of_competitive_pools"
+    },
+    {
+      "text": "The 'anchor leg' of a relay is usually swum by the team's fastest or most experienced swimmer, as they can respond to the race situation.",
+      "source": "https://en.wikipedia.org/wiki/%27anchor_leg%27_of_a_relay"
+    },
+    {
+      "text": "The world's largest swimming competition by number of participants is the Midmar Mile in South Africa, which attracts over 20,000 swimmers annually.",
+      "source": "https://en.wikipedia.org/wiki/world%27s_largest_swimming_competition_by_number_of_participants"
+    },
+    {
+      "text": "In diving, each diver must submit a list of planned dives before the competition, and they cannot change them once the event begins.",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "The Lia Neal Story inspired many young African American swimmers after she became the youngest member of the 2012 U.S. Olympic swim team at age 17.",
+      "source": "https://en.wikipedia.org/wiki/Lia_Neal_Story"
+    },
+    {
+      "text": "The 'pace line' is a training formation where swimmers follow each other closely in a lane, drafting off the swimmer ahead to maintain faster paces.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/%27pace_line"
+    },
+    {
+      "text": "Ranomi Kromowidjojo of the Netherlands won the 50m and 100m freestyle golds at the 2012 London Olympics.",
+      "source": "https://en.wikipedia.org/wiki/Ranomi_Kromowidjojo_of_the_Netherlands"
+    },
+    {
+      "text": "The diving well at competition venues is typically separate from the swimming pool and is kept at 5 meters deep to safely absorb divers' entries.",
+      "source": "https://en.wikipedia.org/wiki/diving_well_at_competition_venues"
+    },
+    {
+      "text": "Breast muscles, latissimus dorsi, and deltoids are the primary muscle groups used in the pulling motion of most swimming strokes.",
+      "source": "https://en.wikipedia.org/wiki/Breast_muscles%2C_latissimus_dorsi%2C_and_deltoids"
+    },
+    {
+      "text": "The 'over-the-water recovery' in butterfly requires both arms to clear the water's surface simultaneously.",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "Lewis Pugh has completed a swim at every major ocean on Earth, including a 1 km swim in the Arctic at the North Pole.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Lewis_Pugh"
+    },
+    {
+      "text": "The split time is the recorded time for each individual length in a race, used by coaches and analysts to assess pacing strategy.",
+      "source": "https://en.wikipedia.org/wiki/split_time"
+    },
+    {
+      "text": "In water polo, the ball weighs between 400 and 450 grams and has a circumference of 68-71 cm for men and 65-67 cm for women.",
+      "source": "https://en.wikipedia.org/wiki/In_water_polo%2C_the_ball_weighs_between_400_and_450_grams_and"
+    },
+    {
+      "text": "The 'touch-and-go' turn is used in breaststroke and butterfly — swimmers must touch the wall with both hands before pushing off.",
+      "source": "https://en.wikipedia.org/wiki/%27touch-and-go%27_turn"
+    },
+    {
+      "text": "World Aquatics (formerly FINA) recognized short course meters (25m pools) records separately from long course (50m pools) records starting in 1991.",
+      "source": "https://en.wikipedia.org/wiki/World_Aquatics"
+    },
+    {
+      "text": "The Romanian women's water polo team, once little-known, has risen in prominence on the international stage in recent years.",
+      "source": "https://en.wikipedia.org/wiki/Romanian_women%27s_water_polo_team%2C_once_little-known"
+    },
+    {
+      "text": "A typical competition warm-up pool is heated to around 27-28°C and is available for swimmers to use before and between events.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/A_typical_competition_warm-up_pool"
+    },
+    {
+      "text": "Michael Phelps's career spanned from 2000 to 2016 and included 83 medals in major international competitions — more than any other swimmer in history.",
+      "source": "https://en.wikipedia.org/wiki/Michael_Phelps%27s"
+    },
+    {
+      "text": "In diving, the judges sit on either side of the pool at water level to observe the dive from multiple angles.",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "The 'feel drill' involves swimming with closed fists, forcing the swimmer to use the forearm for propulsion and enhancing water sensitivity.",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "Some Olympic pools use a standing-wave generator at one end to create consistent flow and prevent dead water lanes.",
+      "source": "https://en.wikipedia.org/wiki/Some_Olympic"
+    },
+    {
+      "text": "The International Swimming Hall of Fame is located in Fort Lauderdale, Florida, and honors the greatest swimmers, divers, and water polo players in history.",
+      "source": "https://en.wikipedia.org/wiki/International_Swimming_Hall_of_Fame"
+    },
+    {
+      "text": "Takeshi Matsuda of Japan competed in four consecutive Olympics, winning a silver in the 200m butterfly at the 2012 London Games.",
+      "source": "https://en.wikipedia.org/wiki/Takeshi_Matsuda_of_Japan"
+    },
+    {
+      "text": "The 'buoy turn' in open water swimming refers to turning around a marker buoy placed along the course, requiring good sighting skills.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "Jodie Henry of Australia won the 100m freestyle gold at the 2004 Athens Olympics and helped Australia to relay gold.",
+      "source": "https://en.wikipedia.org/wiki/Jodie_Henry_of_Australia"
+    },
+    {
+      "text": "In synchronized diving, judges score both the execution of individual dives and the synchronization between the pair.",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "The 'build swim' is a training tool where the swimmer progressively increases speed throughout the repeat, finishing at near-maximum effort.",
+      "source": "https://en.wikipedia.org/wiki/%27build_swim"
+    },
+    {
+      "text": "A 'negative split' in the 200m butterfly might involve a first 100m in 55 seconds and a second 100m in 54 seconds.",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "Modern starting blocks in swimming are angled and include an adjustable back plate that allows swimmers to push off with both feet for explosive starts.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Modern_starting_blocks_in_swimming"
+    },
+    {
+      "text": "The 'track start' position, with one foot forward and one back on the block, is the most common starting technique in modern competitive swimming.",
+      "source": "https://en.wikipedia.org/wiki/%27track_start%27_position%2C_with_one_foot_forward_and_one_back_on_the_block"
+    },
+    {
+      "text": "In water polo, teams consist of six field players and one goalkeeper in the water, with up to six substitutes on the bench.",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "Sarah Sjöström became the first woman to break 56 seconds in the 100m butterfly, setting a world record at the 2016 Rio Olympics.",
+      "month": 8,
+      "day": 7,
+      "source": "https://en.wikipedia.org/wiki/Sarah_Sj%C3%B6str%C3%B6m"
+    },
+    {
+      "text": "The 'popov pull' — named after Alexander Popov — emphasizes a relaxed, high-elbow recovery and a powerful catch in sprint freestyle.",
+      "source": "https://en.wikipedia.org/wiki/%27popov_pull%27_%E2%80%94"
+    },
+    {
+      "text": "In artistic swimming, highlights of the scoring include a 'degree of difficulty' component for acrobatic and hybrid elements.",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "Flip-turn specialists can gain up to half a second per wall compared to swimmers with weaker turns — in a distance race, this advantage multiplies.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "Anthony Ervin won gold in the 50m freestyle at the 2000 Sydney Olympics and won it again 16 years later at the 2016 Rio Olympics, aged 35.",
+      "source": "https://en.wikipedia.org/wiki/Anthony_Ervin"
+    },
+    {
+      "text": "The 'stretch cordz' or 'surgical tubing' attached to a belt around the waist provides resistance that swimmers must work against in the pool.",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "In the early 1800s, competitive swimming events in England were held in natural bodies of water like the Thames River.",
+      "source": "https://en.wikipedia.org/wiki/In_the_early_1800s%2C_competitive_swimming_events_in_England"
+    },
+    {
+      "text": "The 200m backstroke is considered one of the most demanding individual events because it requires sustained speed with limited oxygen access.",
+      "source": "https://en.wikipedia.org/wiki/200m_backstroke"
+    },
+    {
+      "text": "Diving bubbles are generated by a machine beneath the pool surface to break surface tension, giving divers a visual reference for the water surface from height.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Diving_bubbles"
+    },
+    {
+      "text": "The 'grind set' in training is a high-volume, moderate-intensity workout designed to build aerobic base and mental toughness.",
+      "source": "https://en.wikipedia.org/wiki/%27grind"
+    },
+    {
+      "text": "Ye Shiwen of China won the 200m and 400m individual medley golds at the 2012 London Olympics at age 16.",
+      "month": 7,
+      "day": 28,
+      "source": "https://en.wikipedia.org/wiki/Ye_Shiwen_of_China"
+    },
+    {
+      "text": "In water polo, the 'exclusion area' is the zone behind the goal line where excluded players must wait out their 20-second penalty.",
+      "source": "https://en.wikipedia.org/wiki/In_water_polo%2C_the_%27exclusion_area"
+    },
+    {
+      "text": "The 'power phase' of the stroke begins at the catch and ends when the hand exits the water near the hip.",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "Katinka Hosszú of Hungary won three individual gold medals at the 2016 Rio Olympics, earning the nickname 'Iron Lady.'",
+      "source": "https://en.wikipedia.org/wiki/Katinka_Hossz%C3%BA_of_Hungary"
+    },
+    {
+      "text": "The 'superman drill' in freestyle has the swimmer fully extending both arms forward with the face down, kicking, and taking a stroke only on the coach's command.",
+      "source": "https://en.wikipedia.org/wiki/%27superman_drill%27_in_freestyle"
+    },
+    {
+      "text": "Competitive swimming uses a false start rule where a single false start results in disqualification — there are no second chances.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "Penny Oleksiak became the youngest Olympic champion in Canadian history when she won gold in the 100m freestyle at age 16 at the 2016 Rio Olympics.",
+      "month": 8,
+      "day": 11,
+      "source": "https://en.wikipedia.org/wiki/Penny_Oleksiak"
+    },
+    {
+      "text": "The 'threshold pace' or 'CSS' (critical swim speed) is a training metric representing the fastest pace a swimmer can sustain without accumulating excess lactate.",
+      "source": "https://en.wikipedia.org/wiki/%27threshold_pace%27_or_%27CSS%27_(critical_swim_speed)"
+    },
+    {
+      "text": "In diving, the 'twisting' group includes dives with at least one twist combined with somersaults — they have some of the highest degrees of difficulty.",
+      "source": "https://en.wikipedia.org/wiki/In_diving%2C_the_%27twisting%27_group"
+    },
+    {
+      "text": "Pool lane dividers evolved from simple ropes in the early 1900s to the sophisticated anti-wave lane lines used today.",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "Swimming is recommended by most medical professionals as a low-impact exercise suitable for people with joint problems, arthritis, and rehabilitation needs.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Swimming"
+    },
+    {
+      "text": "The 'test set' is a benchmark workout — such as 5×200m freestyle on a specified interval — that coaches use to gauge a swimmer's fitness level throughout the season.",
+      "source": "https://en.wikipedia.org/wiki/%27test"
+    },
+    {
+      "text": "In the relay exchange, the outgoing swimmer must not leave the block until the incoming swimmer has touched the wall — false starts result in disqualification.",
+      "source": "https://en.wikipedia.org/wiki/In_the"
+    },
+    {
+      "text": "The photo finish camera in competitive swimming captures 100 images per second to help determine results in extremely close races.",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "Xu Haifeng won China's first-ever Olympic gold in any sport (shooting) in 1984, but China's aquatic dominance grew through diving in the decades following.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Xu_Haifeng"
+    },
+    {
+      "text": "Nathan Adrian won gold in the 100m freestyle at the 2012 London Olympics by just 0.01 seconds over James Magnussen.",
+      "month": 8,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/Nathan_Adrian"
+    },
+    {
+      "text": "The 'fly-kick' drill in breaststroke involves adding a single dolphin kick during the underwater pullout to practice the legal underwater phase.",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "In artistic swimming, the 'rocket split' is an acrobatic lift where a swimmer is launched out of the water and performs a split position in the air.",
+      "source": "https://en.wikipedia.org/wiki/In_artistic_swimming%2C_the_%27rocket_split"
+    },
+    {
+      "text": "Michael Phelps's first Olympic gold came in the 400m individual medley at the 2004 Athens Olympics.",
+      "month": 8,
+      "day": 14,
+      "source": "https://en.wikipedia.org/wiki/Michael_Phelps%27s"
+    },
+    {
+      "text": "The 'descend 1-3' training instruction means the first repeat is slowest and the third is fastest, teaching pace control.",
+      "source": "https://en.wikipedia.org/wiki/%27descend_1-3%27_training_instruction_means_the_first_repeat"
+    },
+    {
+      "text": "At the 1976 Montreal Olympics, the East German women's swimming team won 11 of 13 gold medals, later revealed to be aided by a state-sponsored doping program.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/At_the_1976_Montreal_Olympics%2C_the_East_German_women%27s_swimming_team"
+    },
+    {
+      "text": "A 'dead spot' in a swimmer's stroke is any point where propulsion temporarily stops, creating deceleration — great swimmers minimize dead spots.",
+      "source": "https://en.wikipedia.org/wiki/A_%27dead_spot%27_in_a_swimmer%27s_stroke"
+    },
+    {
+      "text": "The 'Omega Quantum Aquatics Timer' used at the Olympics can measure times to 1/1000th of a second through touchpad sensitivity.",
+      "source": "https://en.wikipedia.org/wiki/Omega_Quantum_Aquatics_Timer"
+    },
+    {
+      "text": "In water polo, the shot clock (30 seconds) resets when the attacking team earns an exclusion foul or corner throw.",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "The classic 'race dive' in swimming involves a flat, streamlined entry with arms extended forward and the body nearly horizontal to minimize depth and maximize distance.",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "Backstroke swimmers often struggle with swimming in straight lines because they cannot see the lane line below them.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "The Aquatics Centre at Olympic Park London used over 3,000 tons of steel and 160,000 tiles in its construction.",
+      "source": "https://en.wikipedia.org/wiki/Aquatics_Centre_at_Olympic_Park_London"
+    },
+    {
+      "text": "David Boudia won 10m platform diving gold for the U.S. at the 2012 London Olympics.",
+      "month": 8,
+      "day": 11,
+      "source": "https://en.wikipedia.org/wiki/David_Boudia"
+    },
+    {
+      "text": "In the 1900 Paris Olympics, swimming events included an obstacle race and an underwater swimming race — neither was ever held again.",
+      "source": "https://en.wikipedia.org/wiki/In_the_1900_Paris_Olympics"
+    },
+    {
+      "text": "The 'race-pace training' method has swimmers practicing at their goal race pace to develop neuromuscular patterns for competition.",
+      "source": "https://en.wikipedia.org/wiki/%27race-pace_training%27_method"
+    },
+    {
+      "text": "Quan Hongchan of China won the 10m platform diving gold at the 2020 Tokyo Olympics at age 14, earning three perfect 10 scores.",
+      "month": 8,
+      "day": 5,
+      "source": "https://en.wikipedia.org/wiki/Quan_Hongchan_of_China"
+    },
+    {
+      "text": "The 'underwater breakout' after a turn is often where races are won or lost — elite swimmers maintain speed off walls better than their competitors.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/%27underwater_breakout%27_after_a_turn"
+    },
+    {
+      "text": "In breaststroke, the 'out-sweep' and 'in-sweep' of the arms create a heart-shaped pulling pattern that generates propulsion.",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "The 4×200m freestyle relay is one of the longest relay events in Olympic swimming, often lasting over 7 minutes.",
+      "source": "https://en.wikipedia.org/wiki/4%C3%97200m_freestyle_relay"
+    },
+    {
+      "text": "Many elite swimmers practice visualization techniques, mentally rehearsing their races stroke by stroke before competition.",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "The 'hand entry' in freestyle should be between the shoulder and the midline of the head, with fingers entering first at about a 30-degree angle.",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "The 1972 Munich Olympics Mark Spitz competition was one of the most watched swimming broadcasts in television history.",
+      "month": 8,
+      "day": 28,
+      "source": "https://en.wikipedia.org/wiki/1972_Munich_Olympics_Mark_Spitz_competition"
+    },
+    {
+      "text": "An average competitive swimmer's heart rate during a sprint race can exceed 190 beats per minute.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "The 'recovery' in backstroke involves the arm exiting pinky-finger first and rotating overhead to re-enter thumb-first.",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "In water polo, the 'skip shot' bounces off the water surface before entering the goal, making it unpredictable for goalkeepers.",
+      "source": "https://en.wikipedia.org/wiki/Swimming_(sport)"
+    },
+    {
+      "text": "Matt Grevers won gold in the 100m backstroke at the 2012 London Olympics with a time of 52.16 seconds.",
+      "month": 8,
+      "day": 2,
+      "source": "https://en.wikipedia.org/wiki/Matt_Grevers"
+    },
+    {
+      "text": "The YMCA's 'Learn to Swim' program has taught millions of Americans to swim since its inception in the late 19th century.",
+      "source": "https://en.wikipedia.org/wiki/YMCA%27s_%27Learn_to_Swim%27_program"
+    },
+    {
+      "text": "Lilly King of the United States won the 100m breaststroke gold at the 2016 Rio Olympics and has been a dominant force in the event.",
+      "month": 8,
+      "day": 8,
+      "source": "https://en.wikipedia.org/wiki/Lilly_King_of_the_United_States"
+    }
+  ]
+}

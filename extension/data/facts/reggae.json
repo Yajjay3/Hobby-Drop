@@ -1,0 +1,1660 @@
+{
+  "hobby": "Reggae",
+  "facts": [
+    {
+      "text": "Reggae music originated in Jamaica in the late 1960s, evolving from earlier genres like ska and rocksteady.",
+      "source": "https://en.wikipedia.org/wiki/Jamaica_in_the"
+    },
+    {
+      "text": "The word 'reggae' first appeared in the 1968 single 'Do the Reggay' by Toots and the Maytals.",
+      "source": "https://en.wikipedia.org/wiki/word_%27reggae%27_first"
+    },
+    {
+      "text": "Bob Marley is widely regarded as the most iconic reggae musician of all time.",
+      "source": "https://en.wikipedia.org/wiki/Bob_Marley"
+    },
+    {
+      "text": "The one drop rhythm, characterized by an emphasis on the third beat of each measure, is a defining feature of roots reggae.",
+      "source": "https://en.wikipedia.org/wiki/one_drop_rhythm%2C_characterized_by_an_emphasis_on_the_third_beat_of_each_measure"
+    },
+    {
+      "text": "The Wailers, consisting of Bob Marley, Peter Tosh, and Bunny Wailer, formed in 1963 in Trench Town, Kingston.",
+      "source": "https://en.wikipedia.org/wiki/Wailers%2C_consisting_of_Bob_Marley%2C_Peter_Tosh%2C_and_Bunny_Wailer"
+    },
+    {
+      "text": "Studio One, founded by Clement 'Coxsone' Dodd, is often called the 'Motown of Jamaica.'",
+      "source": "https://en.wikipedia.org/wiki/Studio_One"
+    },
+    {
+      "text": "Lee 'Scratch' Perry is considered one of the most innovative music producers in history.",
+      "source": "https://en.wikipedia.org/wiki/Lee_%27Scratch%27_Perry"
+    },
+    {
+      "text": "King Tubby is credited as a pioneer of dub music, a subgenre that strips tracks down to their rhythm and bass.",
+      "source": "https://en.wikipedia.org/wiki/King_Tubby"
+    },
+    {
+      "text": "Island Records, founded by Chris Blackwell, was instrumental in bringing reggae to international audiences.",
+      "source": "https://en.wikipedia.org/wiki/Island_Records"
+    },
+    {
+      "text": "Trojan Records, founded in 1968, became one of the most important labels for distributing reggae in the UK.",
+      "source": "https://en.wikipedia.org/wiki/Trojan_Records"
+    },
+    {
+      "text": "Bob Marley's album 'Exodus' was named Album of the Century by Time magazine in 1999.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Bob_Marley%27s_album_%27Exodus"
+    },
+    {
+      "text": "Rastafari is a spiritual movement that has deeply influenced reggae music's themes of liberation and spirituality.",
+      "source": "https://en.wikipedia.org/wiki/Rastafari"
+    },
+    {
+      "text": "Reggae's skank guitar technique involves playing short, choppy chords on the off-beat.",
+      "source": "https://en.wikipedia.org/wiki/Reggae"
+    },
+    {
+      "text": "Burning Spear, born Winston Rodney, is one of the most respected roots reggae artists.",
+      "source": "https://en.wikipedia.org/wiki/Burning_Spear%2C_born_Winston_Rodney"
+    },
+    {
+      "text": "Peter Tosh released his landmark solo album 'Equal Rights' in 1977, advocating for human rights and cannabis legalization.",
+      "source": "https://en.wikipedia.org/wiki/Peter_Tosh"
+    },
+    {
+      "text": "Jimmy Cliff starred in the 1972 film 'The Harder They Come,' which introduced reggae to a global audience.",
+      "source": "https://en.wikipedia.org/wiki/Jimmy_Cliff_starred_in_the_1972_film_%27The_Harder_They_Come%2C%27_which"
+    },
+    {
+      "text": "Sound systems, mobile discotheques playing recorded music, have been central to Jamaican music culture since the 1950s.",
+      "source": "https://en.wikipedia.org/wiki/Sound_systems%2C_mobile_discotheques_playing"
+    },
+    {
+      "text": "Dub music was created by remixing existing reggae tracks, removing vocals, and emphasizing drums and bass.",
+      "source": "https://en.wikipedia.org/wiki/Dub_music"
+    },
+    {
+      "text": "The riddim is a recurring instrumental backing track in reggae and dancehall over which multiple artists record vocals.",
+      "source": "https://en.wikipedia.org/wiki/riddim"
+    },
+    {
+      "text": "Bob Marley was born on February 6, 1945, in Nine Mile, Saint Ann Parish, Jamaica.",
+      "month": 2,
+      "day": 6,
+      "source": "https://en.wikipedia.org/wiki/Bob_Marley"
+    },
+    {
+      "text": "Ska music preceded reggae and was characterized by a walking bass line and off-beat rhythm.",
+      "source": "https://en.wikipedia.org/wiki/Ska_music_preceded_reggae_and"
+    },
+    {
+      "text": "Rocksteady emerged around 1966 as a slower, more soulful evolution of ska.",
+      "source": "https://en.wikipedia.org/wiki/Reggae"
+    },
+    {
+      "text": "Dancehall originated in the late 1970s as a more uptempo, DJ-driven offshoot of reggae.",
+      "source": "https://en.wikipedia.org/wiki/Reggae"
+    },
+    {
+      "text": "Lovers rock is a subgenre of reggae that emerged in the UK in the mid-1970s, featuring romantic themes.",
+      "source": "https://en.wikipedia.org/wiki/Lovers_rock"
+    },
+    {
+      "text": "Bob Marley and the Wailers' 'Catch a Fire' (1973) was the first reggae album marketed to a rock audience.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Fire"
+    },
+    {
+      "text": "The Nyabinghi drumming tradition of Rastafari directly influenced reggae's rhythmic patterns.",
+      "source": "https://en.wikipedia.org/wiki/Nyabinghi"
+    },
+    {
+      "text": "Bob Marley survived an assassination attempt at his home in Kingston on December 3, 1976.",
+      "month": 12,
+      "day": 3,
+      "source": "https://en.wikipedia.org/wiki/Bob_Marley"
+    },
+    {
+      "text": "Toots Hibbert of Toots and the Maytals was one of the first artists to use the word 'reggae' in a song title.",
+      "source": "https://en.wikipedia.org/wiki/Toots_Hibbert_of_Toots_and_the_Maytals"
+    },
+    {
+      "text": "The electric bass guitar replaced the upright bass in Jamaican music during the transition from ska to rocksteady.",
+      "source": "https://en.wikipedia.org/wiki/Reggae"
+    },
+    {
+      "text": "Bob Marley's 'One Love' was adopted as a universal anthem of peace and unity.",
+      "source": "https://en.wikipedia.org/wiki/Bob_Marley%27s_%27One_Love"
+    },
+    {
+      "text": "The Skatalites were Jamaica's premier ska band and backed many recordings at Studio One in the 1960s.",
+      "source": "https://en.wikipedia.org/wiki/Skatalites"
+    },
+    {
+      "text": "Reggae Sunsplash, one of the first major reggae festivals, debuted in Montego Bay in 1978.",
+      "month": 6,
+      "day": 23,
+      "source": "https://en.wikipedia.org/wiki/Reggae_Sunsplash"
+    },
+    {
+      "text": "Prince Buster was a pioneering figure in Jamaican ska and early reggae music.",
+      "source": "https://en.wikipedia.org/wiki/Prince_Buster"
+    },
+    {
+      "text": "Desmond Dekker's 'Israelites' was the first reggae song to reach number one on the UK Singles Chart in 1969.",
+      "source": "https://en.wikipedia.org/wiki/Desmond_Dekker%27s_%27Israelites"
+    },
+    {
+      "text": "Bob Marley died on May 11, 1981, at the age of 36 from melanoma.",
+      "month": 5,
+      "day": 11,
+      "source": "https://en.wikipedia.org/wiki/Bob_Marley"
+    },
+    {
+      "text": "Trench Town, a neighborhood in Kingston, Jamaica, is often called the birthplace of reggae.",
+      "source": "https://en.wikipedia.org/wiki/Trench_Town%2C_a_neighborhood_in_Kingston%2C_Jamaica"
+    },
+    {
+      "text": "The Rastafarian colors of red, gold, and green are frequently associated with reggae music and culture.",
+      "source": "https://en.wikipedia.org/wiki/Rastafarian_colors_of_red%2C_gold%2C_and_green"
+    },
+    {
+      "text": "Sly Dunbar and Robbie Shakespeare are considered the most prolific rhythm section in reggae history.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Sly_Dunbar_and_Robbie_Shakespeare"
+    },
+    {
+      "text": "Bob Marley's 'Legend' (1984) is the best-selling reggae album of all time, with over 30 million copies sold.",
+      "source": "https://en.wikipedia.org/wiki/Legend"
+    },
+    {
+      "text": "The Melodians' 'Rivers of Babylon' became an international hit after appearing in 'The Harder They Come' soundtrack.",
+      "source": "https://en.wikipedia.org/wiki/Melodians%27_%27Rivers_of_Babylon"
+    },
+    {
+      "text": "Jamaican DJs, also called toasters, developed a style of talking over instrumental riddims that influenced hip-hop.",
+      "source": "https://en.wikipedia.org/wiki/Jamaican_DJs%2C_also_called_toasters"
+    },
+    {
+      "text": "King Tubby's studio on Dromilly Avenue in Kingston was a laboratory for dub experimentation.",
+      "source": "https://en.wikipedia.org/wiki/King_Tubby%27s_studio_on_Dromilly_Avenue_in_Kingston"
+    },
+    {
+      "text": "Chris Blackwell signed Bob Marley and the Wailers to Island Records in 1972, changing reggae's global trajectory.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Chris_Blackwell"
+    },
+    {
+      "text": "The one drop drum pattern was popularized by Carlton Barrett, the drummer for Bob Marley and the Wailers.",
+      "source": "https://en.wikipedia.org/wiki/one_drop_drum_pattern"
+    },
+    {
+      "text": "Reggae was inscribed on UNESCO's Representative List of the Intangible Cultural Heritage of Humanity in 2018.",
+      "month": 11,
+      "day": 29,
+      "source": "https://en.wikipedia.org/wiki/Reggae"
+    },
+    {
+      "text": "Steel Pulse, from Birmingham, England, became one of the most important UK reggae bands.",
+      "source": "https://en.wikipedia.org/wiki/Steel_Pulse%2C_from_Birmingham%2C_England"
+    },
+    {
+      "text": "Big Youth was one of the first dancehall DJs to achieve mainstream success in the 1970s.",
+      "source": "https://en.wikipedia.org/wiki/Big_Youth"
+    },
+    {
+      "text": "Bob Marley's 'Redemption Song' is one of the most covered songs in music history.",
+      "source": "https://en.wikipedia.org/wiki/Bob_Marley%27s_%27Redemption_Song"
+    },
+    {
+      "text": "Yellowman became one of dancehall's first mainstream stars in the early 1980s.",
+      "month": 1,
+      "day": 15,
+      "source": "https://en.wikipedia.org/wiki/Yellowman"
+    },
+    {
+      "text": "Reggae music often incorporates themes of social justice, resistance to oppression, and Pan-Africanism.",
+      "source": "https://en.wikipedia.org/wiki/Reggae"
+    },
+    {
+      "text": "Lee 'Scratch' Perry's Black Ark Studio, operational from 1973 to 1979, produced some of reggae's most influential recordings.",
+      "source": "https://en.wikipedia.org/wiki/Scratch%27_Perry%27s_Black_Ark_Studio"
+    },
+    {
+      "text": "Third World is one of the longest-running reggae bands, blending reggae with R&B, funk, and pop.",
+      "source": "https://en.wikipedia.org/wiki/Third_World"
+    },
+    {
+      "text": "The Congos' album 'Heart of the Congos,' produced by Lee Perry, is considered a masterpiece of roots reggae.",
+      "source": "https://en.wikipedia.org/wiki/Congos%27_album_%27Heart_of_the_Congos%2C%27_produced_by_Lee_Perry"
+    },
+    {
+      "text": "Gregory Isaacs was nicknamed the 'Cool Ruler' for his smooth vocal style in lovers rock and roots reggae.",
+      "source": "https://en.wikipedia.org/wiki/Gregory_Isaacs"
+    },
+    {
+      "text": "Aswad was a pioneering British reggae band formed in Ladbroke Grove, London, in 1975.",
+      "source": "https://en.wikipedia.org/wiki/Aswad"
+    },
+    {
+      "text": "Inner Circle won a Grammy for Best Reggae Album in 1994 for 'Bad Boys.'",
+      "source": "https://en.wikipedia.org/wiki/Inner_Circle"
+    },
+    {
+      "text": "Shaggy's album 'Hot Shot' reached number one on the Billboard 200 in 2001.",
+      "source": "https://en.wikipedia.org/wiki/Shaggy%27s_album_%27Hot_Shot"
+    },
+    {
+      "text": "Sean Paul's 'Dutty Rock' won the Grammy for Best Reggae Album in 2004.",
+      "source": "https://en.wikipedia.org/wiki/Sean_Paul%27s_%27Dutty_Rock"
+    },
+    {
+      "text": "Damian 'Jr. Gong' Marley, Bob Marley's youngest son, won a Grammy for 'Welcome to Jamrock' in 2006.",
+      "source": "https://en.wikipedia.org/wiki/Damian_%27Jr._Gong%27_Marley%2C_Bob_Marley%27s_youngest_son"
+    },
+    {
+      "text": "Ziggy Marley has won eight Grammy Awards, continuing his father's musical legacy.",
+      "source": "https://en.wikipedia.org/wiki/Ziggy_Marley"
+    },
+    {
+      "text": "The first Reggae Grammy Award was presented in 1985 to Black Uhuru for their album 'Anthem.'",
+      "month": 2,
+      "day": 26,
+      "source": "https://en.wikipedia.org/wiki/first_Reggae_Grammy_Award"
+    },
+    {
+      "text": "Eric Donaldson's 'Cherry Oh Baby' won the Jamaica Festival Song Competition in 1971 and became a reggae classic.",
+      "source": "https://en.wikipedia.org/wiki/Eric_Donaldson%27s_%27Cherry_Oh_Baby"
+    },
+    {
+      "text": "Barrington Levy's 'Here I Come' is one of the most recognizable dancehall tracks of the 1980s.",
+      "source": "https://en.wikipedia.org/wiki/Barrington_Levy%27s_%27Here_I_Come"
+    },
+    {
+      "text": "The Abyssinians' 'Satta Massagana' is one of the greatest roots reggae songs ever recorded.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Abyssinians%27_%27Satta_Massagana"
+    },
+    {
+      "text": "Sister Nancy's 'Bam Bam' is considered a classic of early dancehall, released in 1982.",
+      "month": 3,
+      "day": 20,
+      "source": "https://en.wikipedia.org/wiki/Sister_Nancy%27s_%27Bam_Bam"
+    },
+    {
+      "text": "DJ Kool Herc, a Jamaican-American, is credited with originating hip-hop in the Bronx, drawing from Jamaican sound system culture.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/DJ_Kool_Herc%2C_a_Jamaican-American"
+    },
+    {
+      "text": "Clement 'Coxsone' Dodd founded Studio One in 1963, which became the most important recording studio in Jamaica.",
+      "source": "https://en.wikipedia.org/wiki/Clement_%27Coxsone%27_Dodd"
+    },
+    {
+      "text": "Duke Reid operated the Treasure Isle studio, a rival to Studio One that produced many classic ska and rocksteady tracks.",
+      "source": "https://en.wikipedia.org/wiki/Duke_Reid"
+    },
+    {
+      "text": "The 'Sleng Teng' riddim, produced by King Jammy in 1985, revolutionized dancehall by using digital instrumentation.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Sleng_Teng"
+    },
+    {
+      "text": "Beenie Man and Bounty Killer had one of dancehall's most famous rivalries throughout the 1990s.",
+      "source": "https://en.wikipedia.org/wiki/Beenie_Man_and_Bounty_Killer"
+    },
+    {
+      "text": "Buju Banton's album 'Til Shiloh' marked his transition from dancehall to roots reggae in 1995.",
+      "source": "https://en.wikipedia.org/wiki/Buju_Banton%27s_album_%27Til_Shiloh"
+    },
+    {
+      "text": "Chronixx is one of the leading artists in the reggae revival movement that emerged in the 2010s.",
+      "source": "https://en.wikipedia.org/wiki/Chronixx"
+    },
+    {
+      "text": "Protoje, a Jamaican singer-songwriter, has been at the forefront of the modern reggae revival.",
+      "source": "https://en.wikipedia.org/wiki/Protoje%2C_a_Jamaican_singer-songwriter"
+    },
+    {
+      "text": "Koffee became the youngest artist and first woman to win the Grammy for Best Reggae Album in 2020.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Koffee"
+    },
+    {
+      "text": "Jamaica has a population of approximately 2.8 million but has had an outsized influence on global music.",
+      "source": "https://en.wikipedia.org/wiki/Jamaica"
+    },
+    {
+      "text": "The 'Stalag 17' riddim is one of the most versioned riddims in reggae and dancehall history.",
+      "source": "https://en.wikipedia.org/wiki/%27Stalag_17%27_riddim"
+    },
+    {
+      "text": "Marcia Griffiths, a member of the I-Threes, is one of reggae's most celebrated female artists.",
+      "source": "https://en.wikipedia.org/wiki/Marcia_Griffiths%2C_a_member_of_the_I-Threes"
+    },
+    {
+      "text": "The I-Threes were Bob Marley's backing vocal group, consisting of Rita Marley, Marcia Griffiths, and Judy Mowatt.",
+      "source": "https://en.wikipedia.org/wiki/I-Threes"
+    },
+    {
+      "text": "Judy Mowatt was the first female reggae artist to be nominated for a Grammy Award.",
+      "source": "https://en.wikipedia.org/wiki/Judy_Mowatt"
+    },
+    {
+      "text": "Bob Marley performed at the Zimbabwe Independence Day celebration on April 17, 1980.",
+      "month": 4,
+      "day": 17,
+      "source": "https://en.wikipedia.org/wiki/Bob_Marley"
+    },
+    {
+      "text": "The One Love Peace Concert held on April 22, 1978, saw Bob Marley unite political rivals Michael Manley and Edward Seaga on stage.",
+      "month": 4,
+      "day": 22,
+      "source": "https://en.wikipedia.org/wiki/One_Love_Peace_Concert_held_on_April_22%2C_1978"
+    },
+    {
+      "text": "Reggae bass players often use a technique called 'dropping' where the bass plays on beats one and three.",
+      "source": "https://en.wikipedia.org/wiki/Reggae_bass_players_often_use_a_technique"
+    },
+    {
+      "text": "Studio One's house band, the Soul Brothers, later renamed the Sound Dimension, backed hundreds of recordings.",
+      "source": "https://en.wikipedia.org/wiki/Studio_One%27s"
+    },
+    {
+      "text": "The Specials and Madness led the 2 Tone ska revival movement in late 1970s Britain, blending ska with punk energy.",
+      "source": "https://en.wikipedia.org/wiki/Specials_and_Madness"
+    },
+    {
+      "text": "The Police incorporated reggae rhythms into rock music, most notably on 'Roxanne' and 'Walking on the Moon.'",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Police"
+    },
+    {
+      "text": "The Clash recorded at Channel One Studio in Kingston and integrated reggae into their punk sound.",
+      "source": "https://en.wikipedia.org/wiki/Clash"
+    },
+    {
+      "text": "Eric Clapton's cover of Bob Marley's 'I Shot the Sheriff' reached number one in the US in 1974.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Eric_Clapton%27s_cover_of_Bob_Marley%27s_%27I_Shot_the_Sheriff"
+    },
+    {
+      "text": "Bob Marley's 'No Woman, No Cry' was recorded live at the Lyceum Theatre in London in 1975.",
+      "source": "https://en.wikipedia.org/wiki/Bob_Marley%27s_%27No_Woman%2C_No_Cry"
+    },
+    {
+      "text": "Johnny Nash's 'I Can See Clearly Now,' recorded in Jamaica, was a number-one hit in the US in 1972.",
+      "source": "https://en.wikipedia.org/wiki/Johnny_Nash%27s_%27I_Can_See_Clearly_Now"
+    },
+    {
+      "text": "Channel One Studio, run by the Hookim brothers, was a rival to Studio One and produced many classic roots reggae recordings.",
+      "source": "https://en.wikipedia.org/wiki/Channel_One_Studio%2C_run_by_the_Hookim_brothers"
+    },
+    {
+      "text": "The Roots Radics were one of the most important backing bands in the transition from roots reggae to early dancehall.",
+      "source": "https://en.wikipedia.org/wiki/Roots_Radics"
+    },
+    {
+      "text": "Scientist, a protege of King Tubby, became one of the most prominent dub engineers of the early 1980s.",
+      "source": "https://en.wikipedia.org/wiki/Scientist%2C_a_protege_of_King_Tubby"
+    },
+    {
+      "text": "Alpha Boys' School in Kingston trained many of the musicians who shaped ska and reggae.",
+      "source": "https://en.wikipedia.org/wiki/Alpha_Boys%27_School_in_Kingston"
+    },
+    {
+      "text": "Don Drummond, a trombonist from Alpha Boys' School, was one of the founding members of the Skatalites.",
+      "source": "https://en.wikipedia.org/wiki/Don_Drummond%2C_a_trombonist_from_Alpha_Boys%27_School"
+    },
+    {
+      "text": "Derrick Morgan was one of the most prolific artists of the ska era, recording hundreds of singles.",
+      "source": "https://en.wikipedia.org/wiki/Derrick_Morgan"
+    },
+    {
+      "text": "Laurel Aitken is considered the 'Godfather of Ska' and was one of the first Jamaican artists to record.",
+      "source": "https://en.wikipedia.org/wiki/Laurel_Aitken"
+    },
+    {
+      "text": "Alton Ellis is known as the 'Godfather of Rocksteady' for his pivotal role in the genre.",
+      "source": "https://en.wikipedia.org/wiki/Alton_Ellis"
+    },
+    {
+      "text": "The Heptones were one of the most popular vocal trios during the rocksteady era.",
+      "source": "https://en.wikipedia.org/wiki/Heptones"
+    },
+    {
+      "text": "Ken Boothe's cover of 'Everything I Own' reached number one in the UK in 1974.",
+      "source": "https://en.wikipedia.org/wiki/Ken_Boothe%27s_cover_of_%27Everything_I_Own"
+    },
+    {
+      "text": "The Ethiopians' 'Train to Skaville' is one of the definitive rocksteady tracks.",
+      "source": "https://en.wikipedia.org/wiki/Ethiopians%27_%27Train_to_Skaville"
+    },
+    {
+      "text": "Bob Marley's first single, 'Judge Not,' was recorded in 1962 when he was just 17 years old.",
+      "source": "https://en.wikipedia.org/wiki/Bob_Marley%27s_first_single%2C_%27Judge_Not"
+    },
+    {
+      "text": "Joe Higgs, known as the 'Father of Reggae,' mentored Bob Marley, Peter Tosh, and Bunny Wailer in Trench Town.",
+      "source": "https://en.wikipedia.org/wiki/Joe_Higgs"
+    },
+    {
+      "text": "Peter Tosh was murdered during a home invasion in Kingston on September 11, 1987.",
+      "month": 9,
+      "day": 11,
+      "source": "https://en.wikipedia.org/wiki/Peter_Tosh"
+    },
+    {
+      "text": "Bunny Wailer passed away on March 2, 2021, at the age of 73.",
+      "month": 3,
+      "day": 2,
+      "source": "https://en.wikipedia.org/wiki/Bunny_Wailer"
+    },
+    {
+      "text": "Toots Hibbert passed away on September 11, 2020, shortly after releasing 'Got to Be Tough.'",
+      "month": 9,
+      "day": 11,
+      "source": "https://en.wikipedia.org/wiki/Toots_Hibbert"
+    },
+    {
+      "text": "The Upsetters were Lee 'Scratch' Perry's backing band, known for their innovative studio work.",
+      "source": "https://en.wikipedia.org/wiki/Upsetters"
+    },
+    {
+      "text": "Lee Perry's Black Ark Studio was destroyed by fire in 1979 under mysterious circumstances.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Lee_Perry%27s_Black_Ark_Studio"
+    },
+    {
+      "text": "King Tubby was born Osbourne Ruddock and was originally a radio repairman before becoming a sound engineer.",
+      "source": "https://en.wikipedia.org/wiki/King_Tubby"
+    },
+    {
+      "text": "King Tubby was shot and killed outside his home in Kingston on February 6, 1989.",
+      "month": 2,
+      "day": 6,
+      "source": "https://en.wikipedia.org/wiki/King_Tubby"
+    },
+    {
+      "text": "Dub poetry, pioneered by artists like Linton Kwesi Johnson and Mutabaruka, combines spoken word with reggae rhythms.",
+      "source": "https://en.wikipedia.org/wiki/Linton_Kwesi_Johnson_and_Mutabaruka"
+    },
+    {
+      "text": "Linton Kwesi Johnson is a Jamaican-British poet whose work addresses the experience of Black Britons.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Linton_Kwesi_Johnson"
+    },
+    {
+      "text": "The 'Real Rock' riddim, originally by Sound Dimension, is one of the most recycled riddims in reggae history.",
+      "source": "https://en.wikipedia.org/wiki/%27Real_Rock%27_riddim%2C_originally_by_Sound_Dimension"
+    },
+    {
+      "text": "Jacob Miller was the lead singer of Inner Circle before his death in a car accident in 1980.",
+      "source": "https://en.wikipedia.org/wiki/Jacob_Miller"
+    },
+    {
+      "text": "Culture, led by Joseph Hill, recorded the seminal roots reggae album 'Two Sevens Clash' in 1977.",
+      "month": 8,
+      "day": 19,
+      "source": "https://en.wikipedia.org/wiki/Culture%2C_led_by_Joseph_Hill"
+    },
+    {
+      "text": "Black Uhuru became one of the most internationally successful reggae groups in the early 1980s.",
+      "source": "https://en.wikipedia.org/wiki/Black_Uhuru"
+    },
+    {
+      "text": "Michael Rose was the original lead vocalist of Black Uhuru during their most acclaimed period.",
+      "source": "https://en.wikipedia.org/wiki/Michael_Rose"
+    },
+    {
+      "text": "The Gladiators, led by Albert Griffiths, were one of the finest roots reggae groups of the 1970s.",
+      "source": "https://en.wikipedia.org/wiki/Gladiators%2C_led_by_Albert_Griffiths"
+    },
+    {
+      "text": "Luciano, known as 'The Messenger,' is renowned for his spiritual and conscious reggae lyrics.",
+      "source": "https://en.wikipedia.org/wiki/Luciano%2C_known_as_%27The_Messenger"
+    },
+    {
+      "text": "Sizzla Kalonji is one of the most prolific recording artists in reggae, with over 50 albums.",
+      "source": "https://en.wikipedia.org/wiki/Sizzla_Kalonji"
+    },
+    {
+      "text": "Capleton, known as 'The Fireman,' is a leading figure in conscious dancehall reggae.",
+      "source": "https://en.wikipedia.org/wiki/Capleton%2C_known_as_%27The_Fireman"
+    },
+    {
+      "text": "Morgan Heritage is a family group and part of the Marley-influenced roots reggae tradition.",
+      "source": "https://en.wikipedia.org/wiki/Morgan_Heritage"
+    },
+    {
+      "text": "Tarrus Riley's 'She's Royal' is one of the most popular modern reggae love songs.",
+      "source": "https://en.wikipedia.org/wiki/Tarrus_Riley%27s_%27She%27s_Royal"
+    },
+    {
+      "text": "Maxi Priest was the first reggae artist to have a number-one hit on the US Billboard Hot 100 with 'Close to You' in 1990.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Maxi_Priest"
+    },
+    {
+      "text": "Shabba Ranks brought dancehall to mainstream American audiences in the early 1990s.",
+      "source": "https://en.wikipedia.org/wiki/Shabba_Ranks"
+    },
+    {
+      "text": "Super Cat, also known as 'Wild Apache,' was one of dancehall's biggest stars in the late 1980s and early 1990s.",
+      "source": "https://en.wikipedia.org/wiki/Super_Cat%2C_also_known_as_%27Wild_Apache"
+    },
+    {
+      "text": "Ini Kamoze's 'Here Comes the Hotstepper' reached number one on the Billboard Hot 100 in 1994.",
+      "month": 11,
+      "day": 19,
+      "source": "https://en.wikipedia.org/wiki/Ini_Kamoze%27s_%27Here_Comes_the_Hotstepper"
+    },
+    {
+      "text": "Sean Paul's 'Get Busy' reached number one on the Billboard Hot 100 in 2003.",
+      "source": "https://en.wikipedia.org/wiki/Sean_Paul%27s_%27Get_Busy"
+    },
+    {
+      "text": "Shaggy's 'It Wasn't Me' was a number-one hit in multiple countries in 2001.",
+      "source": "https://en.wikipedia.org/wiki/Shaggy%27s_%27It_Wasn%27t_Me"
+    },
+    {
+      "text": "Popcaan, a protege of Vybz Kartel, has become one of dancehall's biggest international stars.",
+      "source": "https://en.wikipedia.org/wiki/Popcaan%2C_a_protege_of_Vybz_Kartel"
+    },
+    {
+      "text": "Spice, known as the 'Queen of Dancehall,' is one of the genre's most prominent female artists.",
+      "source": "https://en.wikipedia.org/wiki/Spice%2C_known_as_the_%27Queen_of_Dancehall"
+    },
+    {
+      "text": "Patra was one of the first female dancehall artists to achieve international success in the 1990s.",
+      "source": "https://en.wikipedia.org/wiki/Patra"
+    },
+    {
+      "text": "VP Records, founded by Vincent and Patricia Chin, is one of the largest distributors of reggae music.",
+      "source": "https://en.wikipedia.org/wiki/VP_Records"
+    },
+    {
+      "text": "Greensleeves Records, founded in London in 1977, was a major label for reggae and dancehall in the UK.",
+      "source": "https://en.wikipedia.org/wiki/Greensleeves_Records"
+    },
+    {
+      "text": "Joe Gibbs was a prolific reggae producer whose studio rivaled Studio One and Channel One.",
+      "source": "https://en.wikipedia.org/wiki/Joe_Gibbs"
+    },
+    {
+      "text": "Robbie Shakespeare passed away on December 8, 2021.",
+      "month": 12,
+      "day": 8,
+      "source": "https://en.wikipedia.org/wiki/Robbie_Shakespeare"
+    },
+    {
+      "text": "The Wailing Souls have been active since the 1960s and are one of reggae's longest-running groups.",
+      "source": "https://en.wikipedia.org/wiki/Wailing_Souls"
+    },
+    {
+      "text": "Justin Hinds and the Dominoes were among the most popular artists during the ska era in Jamaica.",
+      "source": "https://en.wikipedia.org/wiki/Justin_Hinds_and_the_Dominoes"
+    },
+    {
+      "text": "Marcus Garvey, the Jamaican national hero, is frequently referenced in reggae music as a prophet of repatriation.",
+      "source": "https://en.wikipedia.org/wiki/Marcus_Garvey%2C_the_Jamaican_national_hero"
+    },
+    {
+      "text": "Haile Selassie I of Ethiopia is considered the returned messiah in Rastafari and is revered in many reggae songs.",
+      "source": "https://en.wikipedia.org/wiki/Haile_Selassie_I_of_Ethiopia"
+    },
+    {
+      "text": "Haile Selassie visited Jamaica on April 21, 1966, a date now celebrated as Grounation Day by Rastafarians.",
+      "month": 4,
+      "day": 21,
+      "source": "https://en.wikipedia.org/wiki/Haile_Selassie"
+    },
+    {
+      "text": "Bob Marley's birthday, February 6, is celebrated annually in Jamaica as Bob Marley Day.",
+      "month": 2,
+      "day": 6,
+      "source": "https://en.wikipedia.org/wiki/Bob_Marley%27s_birthday%2C_February_6"
+    },
+    {
+      "text": "Tenor Saw's 'Ring the Alarm' is one of the most recognizable early digital dancehall tracks.",
+      "source": "https://en.wikipedia.org/wiki/Tenor_Saw%27s_%27Ring_the_Alarm"
+    },
+    {
+      "text": "Reggae en Espanol is popular throughout Latin America, with strong scenes in Argentina, Chile, and Mexico.",
+      "source": "https://en.wikipedia.org/wiki/Reggae_en_Espanol"
+    },
+    {
+      "text": "Alpha Blondy from Ivory Coast is one of the most prominent reggae artists from Africa.",
+      "source": "https://en.wikipedia.org/wiki/Alpha_Blondy_from_Ivory_Coast"
+    },
+    {
+      "text": "Lucky Dube was murdered during a carjacking in Johannesburg on October 18, 2007.",
+      "month": 10,
+      "day": 18,
+      "source": "https://en.wikipedia.org/wiki/Lucky_Dube"
+    },
+    {
+      "text": "Tiken Jah Fakoly from Ivory Coast uses reggae as a vehicle for political activism in West Africa.",
+      "source": "https://en.wikipedia.org/wiki/Tiken_Jah_Fakoly"
+    },
+    {
+      "text": "Reggae has a strong following in Japan, with artists like Pushim and the Mighty Crown sound system.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Reggae"
+    },
+    {
+      "text": "Mighty Crown is a Japanese sound system that won the World Clash competition in 1999.",
+      "source": "https://en.wikipedia.org/wiki/Mighty_Crown"
+    },
+    {
+      "text": "Reggae is hugely popular in Hawaii, where it has blended with local music to create 'Jawaiian' music.",
+      "source": "https://en.wikipedia.org/wiki/Reggae"
+    },
+    {
+      "text": "The Rototom Sunsplash Festival in Spain is one of the largest reggae festivals in Europe.",
+      "source": "https://en.wikipedia.org/wiki/Rototom_Sunsplash_Festival_in_Spain"
+    },
+    {
+      "text": "Summerjam in Cologne, Germany, is one of Europe's biggest reggae and dancehall festivals.",
+      "source": "https://en.wikipedia.org/wiki/Summerjam_in_Cologne%2C_Germany"
+    },
+    {
+      "text": "International Reggae Day is celebrated annually on July 1.",
+      "month": 7,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/International_Reggae_Day"
+    },
+    {
+      "text": "New Zealand has a vibrant reggae scene influenced by Polynesian culture, with artists like Katchafire.",
+      "source": "https://en.wikipedia.org/wiki/New_Zealand"
+    },
+    {
+      "text": "Gentleman, a German reggae artist, records and performs primarily in Jamaican Patois.",
+      "source": "https://en.wikipedia.org/wiki/Jamaican_Patois"
+    },
+    {
+      "text": "The term 'irie' is a Jamaican Patois word meaning good, positive, or feeling alright.",
+      "source": "https://en.wikipedia.org/wiki/term_%27irie"
+    },
+    {
+      "text": "Dreadlocks are closely associated with Rastafari culture and many reggae musicians.",
+      "source": "https://en.wikipedia.org/wiki/Dreadlocks"
+    },
+    {
+      "text": "The Lion of Judah is an important symbol in Rastafari and appears frequently in reggae imagery.",
+      "source": "https://en.wikipedia.org/wiki/Lion_of_Judah"
+    },
+    {
+      "text": "Nyabinghi is one of the main orders of Rastafari and is known for its drumming ceremonies.",
+      "source": "https://en.wikipedia.org/wiki/Nyabinghi"
+    },
+    {
+      "text": "Count Ossie was a Nyabinghi drummer who helped integrate Rastafarian rhythms into popular Jamaican music.",
+      "source": "https://en.wikipedia.org/wiki/Count_Ossie"
+    },
+    {
+      "text": "Count Ossie and the Mystic Revelation of Rastafari released the groundbreaking album 'Grounation' in 1973.",
+      "source": "https://en.wikipedia.org/wiki/Count_Ossie_and_the_Mystic_Revelation_of_Rastafari"
+    },
+    {
+      "text": "Bob Marley has eleven officially recognized children, many of whom became musicians.",
+      "source": "https://en.wikipedia.org/wiki/Bob_Marley"
+    },
+    {
+      "text": "Stephen Marley has won multiple Grammy Awards as both an artist and producer.",
+      "source": "https://en.wikipedia.org/wiki/Stephen_Marley"
+    },
+    {
+      "text": "Skip Marley, Bob Marley's grandson, collaborated with Katy Perry on the hit 'Chained to the Rhythm.'",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Skip_Marley"
+    },
+    {
+      "text": "YG Marley, another grandson of Bob Marley, went viral with 'Praise Jah in the Moonlight' in 2023.",
+      "source": "https://en.wikipedia.org/wiki/YG_Marley"
+    },
+    {
+      "text": "The Bob Marley Museum in Kingston is located at 56 Hope Road, the former home and studio of the legend.",
+      "source": "https://en.wikipedia.org/wiki/Bob_Marley_Museum_in_Kingston"
+    },
+    {
+      "text": "Tuff Gong International is a Jamaican record label founded by Bob Marley in 1970.",
+      "source": "https://en.wikipedia.org/wiki/Tuff_Gong_International"
+    },
+    {
+      "text": "Peter Tosh's 'Legalize It' (1976) was one of the first reggae albums to explicitly advocate marijuana legalization.",
+      "source": "https://en.wikipedia.org/wiki/Legalize_It"
+    },
+    {
+      "text": "Jimmy Cliff was inducted into the Rock and Roll Hall of Fame in 2010.",
+      "month": 3,
+      "day": 15,
+      "source": "https://en.wikipedia.org/wiki/Rock_and_Roll_Hall_of_Fame"
+    },
+    {
+      "text": "Jimmy Cliff's 'Many Rivers to Cross' is considered one of the greatest songs in Jamaican music.",
+      "source": "https://en.wikipedia.org/wiki/Jimmy_Cliff%27s_%27Many_Rivers_to_Cross"
+    },
+    {
+      "text": "The soundtrack to 'The Harder They Come' was one of the best-selling reggae albums in the US.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/soundtrack_to_%27The_Harder_They_Come"
+    },
+    {
+      "text": "Lee Perry was awarded the Order of Distinction by the Jamaican government for his contributions to music.",
+      "source": "https://en.wikipedia.org/wiki/Lee_Perry"
+    },
+    {
+      "text": "Lee Perry passed away on August 29, 2021, at the age of 85.",
+      "month": 8,
+      "day": 29,
+      "source": "https://en.wikipedia.org/wiki/Lee_Perry"
+    },
+    {
+      "text": "Perry Henzell directed 'The Harder They Come' starring Jimmy Cliff, which premiered in 1972.",
+      "month": 6,
+      "day": 5,
+      "source": "https://en.wikipedia.org/wiki/Perry_Henzell"
+    },
+    {
+      "text": "Sound system culture in Jamaica traces back to the 1950s when operators like Tom the Great Sebastian pioneered outdoor dances.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Tom_the_Great_Sebastian"
+    },
+    {
+      "text": "Sir Coxsone's Downbeat was one of Jamaica's most famous sound systems in the 1950s and 1960s.",
+      "source": "https://en.wikipedia.org/wiki/Sir_Coxsone%27s_Downbeat"
+    },
+    {
+      "text": "Duke Reid's Trojan sound system was a fierce rival to Coxsone Dodd's Downbeat.",
+      "source": "https://en.wikipedia.org/wiki/Duke_Reid%27s_Trojan_sound_system"
+    },
+    {
+      "text": "Dub plates, exclusive acetate recordings, are used by sound systems to gain a competitive edge.",
+      "source": "https://en.wikipedia.org/wiki/Dub_plates%2C_exclusive_acetate_recordings"
+    },
+    {
+      "text": "Stone Love Movement, founded in 1972, is one of Jamaica's most famous and enduring sound systems.",
+      "source": "https://en.wikipedia.org/wiki/Stone_Love_Movement"
+    },
+    {
+      "text": "Jah Shaka is a legendary UK-based sound system operator known for powerful dub sessions.",
+      "source": "https://en.wikipedia.org/wiki/Jah_Shaka"
+    },
+    {
+      "text": "David Rodigan is a British DJ and musicologist who has championed reggae on UK radio since 1978.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/David_Rodigan"
+    },
+    {
+      "text": "The Notting Hill Carnival in London features significant reggae and sound system culture.",
+      "source": "https://en.wikipedia.org/wiki/Notting_Hill_Carnival_in_London"
+    },
+    {
+      "text": "Birmingham, England, has been a major center for UK reggae, producing bands like Steel Pulse and UB40.",
+      "source": "https://en.wikipedia.org/wiki/Birmingham%2C_England"
+    },
+    {
+      "text": "Musical Youth's 'Pass the Dutchie' reached number one in the UK in 1982 and was a global hit.",
+      "month": 9,
+      "day": 25,
+      "source": "https://en.wikipedia.org/wiki/Musical_Youth%27s_%27Pass_the_Dutchie%27_reached_number_one_in_the_UK_in_1982_and"
+    },
+    {
+      "text": "Rebelution is one of the most popular American reggae bands, originating from Santa Barbara, California.",
+      "source": "https://en.wikipedia.org/wiki/Rebelution"
+    },
+    {
+      "text": "Groundation is an American roots reggae band known for their jazz-influenced instrumentation.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Groundation"
+    },
+    {
+      "text": "Eek-A-Mouse is known for his unusual 'singjay' style, blending singing with DJ toasting.",
+      "source": "https://en.wikipedia.org/wiki/Eek-A-Mouse"
+    },
+    {
+      "text": "Wayne Smith's 'Under Mi Sleng Teng' (1985) is widely considered the first fully digital reggae hit.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Under_Mi_Sleng_Teng"
+    },
+    {
+      "text": "The Casio MT-40 keyboard was used to create the 'Sleng Teng' riddim that changed dancehall forever.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Casio_MT-40_keyboard"
+    },
+    {
+      "text": "Sugar Minott founded the Youth Promotion label to give unsigned artists a chance to record.",
+      "source": "https://en.wikipedia.org/wiki/Sugar_Minott"
+    },
+    {
+      "text": "Sugar Minott is credited with helping to bridge the gap between roots reggae and early dancehall.",
+      "source": "https://en.wikipedia.org/wiki/Sugar_Minott"
+    },
+    {
+      "text": "Mikey Dread was a pioneering radio DJ and producer who hosted 'Dread at the Controls' on JBC Radio.",
+      "source": "https://en.wikipedia.org/wiki/Mikey_Dread"
+    },
+    {
+      "text": "Mikey Dread collaborated with The Clash on their album 'Sandinista!' in 1980.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Mikey_Dread"
+    },
+    {
+      "text": "Junior Murvin's 'Police and Thieves,' produced by Lee Perry, became an anthem of social unrest in 1976.",
+      "source": "https://en.wikipedia.org/wiki/Junior_Murvin%27s_%27Police_and_Thieves%2C%27_produced_by_Lee_Perry"
+    },
+    {
+      "text": "Mutabaruka is a Jamaican dub poet and radio host known for his politically charged performances.",
+      "source": "https://en.wikipedia.org/wiki/Mutabaruka"
+    },
+    {
+      "text": "The Ital diet, practiced by many Rastafarians, avoids processed food and often excludes meat.",
+      "source": "https://en.wikipedia.org/wiki/Ital"
+    },
+    {
+      "text": "The term 'Babylon' in reggae lyrics refers to oppressive systems of Western society.",
+      "source": "https://en.wikipedia.org/wiki/Babylon%27_in"
+    },
+    {
+      "text": "The concept of 'Zion' in reggae represents the promised land or a state of spiritual freedom.",
+      "source": "https://en.wikipedia.org/wiki/Zion%27_in"
+    },
+    {
+      "text": "The Twelve Tribes of Israel is one of the largest Rastafarian organizations, and Bob Marley was a member.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Twelve_Tribes_of_Israel"
+    },
+    {
+      "text": "Bunny Wailer's 'Blackheart Man' (1976) is considered one of the greatest reggae albums ever made.",
+      "source": "https://en.wikipedia.org/wiki/Blackheart_Man"
+    },
+    {
+      "text": "The Mighty Diamonds are a Jamaican harmony trio known for their album 'Right Time' (1976).",
+      "source": "https://en.wikipedia.org/wiki/Right_Time"
+    },
+    {
+      "text": "Ijahman Levi is a Jamaican roots reggae artist known for his spiritual and mystical lyrics.",
+      "source": "https://en.wikipedia.org/wiki/Ijahman_Levi"
+    },
+    {
+      "text": "Pablo Moses is a roots reggae artist known for his album 'Revolutionary Dream' (1975).",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Revolutionary_Dream"
+    },
+    {
+      "text": "Yabby You, born Vivian Jackson, was a roots reggae singer and producer known for his prophetic lyrics.",
+      "source": "https://en.wikipedia.org/wiki/Yabby_You%2C_born_Vivian_Jackson"
+    },
+    {
+      "text": "Earth, Wind & Fire and Stevie Wonder were influenced by reggae rhythms in some of their recordings.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Earth%2C_Wind_%26_Fire_and_Stevie_Wonder"
+    },
+    {
+      "text": "The Rolling Stones recorded at Dynamic Sounds studio in Kingston, Jamaica, in 1972.",
+      "source": "https://en.wikipedia.org/wiki/Rolling_Stones"
+    },
+    {
+      "text": "Keith Richards of the Rolling Stones is a well-known reggae enthusiast and friend of many Jamaican musicians.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Keith_Richards_of_the_Rolling_Stones"
+    },
+    {
+      "text": "Blondie's 'The Tide Is High' was originally a rocksteady song by the Paragons from 1967.",
+      "source": "https://en.wikipedia.org/wiki/Blondie%27s_%27The_Tide"
+    },
+    {
+      "text": "Led Zeppelin's 'D'yer Mak'er' was influenced by reggae rhythms, though it divided fans and purists.",
+      "source": "https://en.wikipedia.org/wiki/Led_Zeppelin%27s_%27D%27yer_Mak%27er"
+    },
+    {
+      "text": "No Doubt blended ska and reggae influences into their sound, especially on 'Tragic Kingdom.'",
+      "source": "https://en.wikipedia.org/wiki/No_Doubt"
+    },
+    {
+      "text": "Rihanna, from Barbados, has incorporated dancehall and reggae influences into many of her hit songs.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Rihanna%2C_from_Barbados"
+    },
+    {
+      "text": "Major Lazer, a project by Diplo, has drawn heavily from dancehall and reggae music.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Major_Lazer%2C_a_project_by_Diplo"
+    },
+    {
+      "text": "The 'dembow' rhythm pattern used in reggaeton and Latin trap originates from Jamaican dancehall.",
+      "source": "https://en.wikipedia.org/wiki/Reggae"
+    },
+    {
+      "text": "Shabba Ranks won back-to-back Grammy Awards for Best Reggae Album in 1992 and 1993.",
+      "source": "https://en.wikipedia.org/wiki/Shabba_Ranks"
+    },
+    {
+      "text": "Diana King's 'Shy Guy' was a huge dancehall crossover hit featured in the film 'Bad Boys' (1995).",
+      "source": "https://en.wikipedia.org/wiki/Bad_Boys"
+    },
+    {
+      "text": "Chaka Demus and Pliers had a number-one UK hit with 'Twist and Shout' in 1993.",
+      "source": "https://en.wikipedia.org/wiki/Chaka_Demus_and_Pliers"
+    },
+    {
+      "text": "The original 'Oh Carolina' was recorded by the Folkes Brothers in 1959, one of the earliest Jamaican recordings.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/original_%27Oh_Carolina"
+    },
+    {
+      "text": "Dawn Penn's 'You Don't Love Me (No, No, No)' was a massive international hit when re-released in 1994.",
+      "source": "https://en.wikipedia.org/wiki/Dawn_Penn%27s_%27You_Don%27t_Love_Me_(No%2C_No%2C_No)"
+    },
+    {
+      "text": "Garnett Silk was a rising roots reggae star before his tragic death in a fire on December 9, 1994.",
+      "month": 12,
+      "day": 9,
+      "source": "https://en.wikipedia.org/wiki/Garnett_Silk"
+    },
+    {
+      "text": "Anthony B is a Jamaican singjay known for his fiery, Rastafarian-inspired performances.",
+      "source": "https://en.wikipedia.org/wiki/Anthony_B"
+    },
+    {
+      "text": "Richie Spice is a roots reggae artist known for hits like 'Earth A Run Red.'",
+      "source": "https://en.wikipedia.org/wiki/Richie_Spice"
+    },
+    {
+      "text": "Etana is one of the most prominent female reggae artists of the 21st century.",
+      "source": "https://en.wikipedia.org/wiki/Etana"
+    },
+    {
+      "text": "Queen Ifrica is a Jamaican reggae singer known for her powerful voice and conscious lyrics.",
+      "source": "https://en.wikipedia.org/wiki/Queen_Ifrica"
+    },
+    {
+      "text": "Jah9, a Jamaican singer and yoga instructor, is a leading figure in the modern roots reggae revival.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Jah9%2C_a_Jamaican_singer_and_yoga_instructor"
+    },
+    {
+      "text": "Kabaka Pyramid won the Grammy for Best Reggae Album in 2023 for 'The Kalling.'",
+      "source": "https://en.wikipedia.org/wiki/Kabaka_Pyramid"
+    },
+    {
+      "text": "Lila Ike is a Jamaican singer associated with the In.Digg.Nation collective and the reggae revival.",
+      "source": "https://en.wikipedia.org/wiki/Lila_Ike"
+    },
+    {
+      "text": "Tanya Stephens is a Jamaican singer known for outspoken lyrics on gender and social issues.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Tanya_Stephens"
+    },
+    {
+      "text": "The Wailers' 'Simmer Down,' recorded at Studio One in 1963, was their first number-one hit in Jamaica.",
+      "source": "https://en.wikipedia.org/wiki/Wailers%27_%27Simmer_Down"
+    },
+    {
+      "text": "Bob Marley's 'Buffalo Soldier' was released posthumously in 1983 and became a worldwide hit.",
+      "source": "https://en.wikipedia.org/wiki/Bob_Marley%27s_%27Buffalo_Soldier"
+    },
+    {
+      "text": "'Natty Dread' (1974) was the first Bob Marley and the Wailers album without Peter Tosh and Bunny Wailer.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Natty_Dread"
+    },
+    {
+      "text": "Bob Marley received the United Nations Peace Medal of the Third World in 1978.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Bob_Marley"
+    },
+    {
+      "text": "The Smile Jamaica Concert, organized by Bob Marley, was held on December 5, 1976.",
+      "month": 12,
+      "day": 5,
+      "source": "https://en.wikipedia.org/wiki/Smile_Jamaica_Concert%2C_organized_by_Bob_Marley"
+    },
+    {
+      "text": "Bob Marley played a famous concert at the Rainbow Theatre in London on June 1, 1977.",
+      "month": 6,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/Bob_Marley"
+    },
+    {
+      "text": "'Rastaman Vibration' (1976) was the first Bob Marley album to crack the US Top 10 on the Billboard 200.",
+      "source": "https://en.wikipedia.org/wiki/Rastaman_Vibration"
+    },
+    {
+      "text": "'Kaya' (1978) took a softer, more introspective approach compared to Marley's earlier political albums.",
+      "source": "https://en.wikipedia.org/wiki/Kaya"
+    },
+    {
+      "text": "'Survival' (1979) is considered Bob Marley's most overtly Pan-Africanist album.",
+      "source": "https://en.wikipedia.org/wiki/Survival"
+    },
+    {
+      "text": "'Uprising' (1980) was the last album released by Bob Marley during his lifetime.",
+      "source": "https://en.wikipedia.org/wiki/Uprising"
+    },
+    {
+      "text": "The song 'Three Little Birds' by Bob Marley is one of his most beloved and frequently covered songs.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/song_%27Three_Little_Birds%27_by_Bob_Marley"
+    },
+    {
+      "text": "'Could You Be Loved' was one of Bob Marley's most dance-oriented tracks, blending reggae with disco.",
+      "source": "https://en.wikipedia.org/wiki/Could_You_Be_Loved"
+    },
+    {
+      "text": "'Jamming' was released in 1977 and became one of Bob Marley's most popular songs worldwide.",
+      "source": "https://en.wikipedia.org/wiki/Jamming"
+    },
+    {
+      "text": "'Get Up, Stand Up,' co-written by Bob Marley and Peter Tosh, became a human rights anthem.",
+      "source": "https://en.wikipedia.org/wiki/Get_Up%2C_Stand_Up%2C%27_co-written_by_Bob_Marley_and_Peter_Tosh"
+    },
+    {
+      "text": "'War' by Bob Marley was based on a speech by Haile Selassie I delivered to the United Nations in 1963.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/War%27_by_Bob_Marley"
+    },
+    {
+      "text": "The cover art of 'Catch a Fire' originally came in a Zippo lighter-shaped sleeve, one of the most distinctive album packages.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Reggae"
+    },
+    {
+      "text": "Peter Tosh's 'Bush Doctor' (1978) featured a duet with Mick Jagger on the track 'Don't Look Back.'",
+      "source": "https://en.wikipedia.org/wiki/Bush_Doctor"
+    },
+    {
+      "text": "Jimmy Cliff's 'Wonderful World, Beautiful People' was an early international reggae hit in 1969.",
+      "source": "https://en.wikipedia.org/wiki/Jimmy_Cliff%27s_%27Wonderful_World%2C_Beautiful_People"
+    },
+    {
+      "text": "Jimmy Cliff converted to Islam in the early 1970s and took the name El-Hadj Naim Bachir.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Jimmy_Cliff_converted_to_Islam_in_the_early_1970s_and"
+    },
+    {
+      "text": "Toots and the Maytals' 'Pressure Drop' was featured in 'The Harder They Come' soundtrack.",
+      "source": "https://en.wikipedia.org/wiki/Toots_and_the_Maytals%27_%27Pressure_Drop"
+    },
+    {
+      "text": "Toots and the Maytals blended reggae with soul, gospel, and R&B, creating a unique sound.",
+      "source": "https://en.wikipedia.org/wiki/Toots_and_the_Maytals"
+    },
+    {
+      "text": "Desmond Dekker's '007 (Shanty Town)' was one of the first songs to reference the 'rude boy' subculture.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Desmond_Dekker%27s_%27007_(Shanty_Town)"
+    },
+    {
+      "text": "The 'rude boy' subculture of 1960s Jamaica influenced both ska and early reggae music.",
+      "source": "https://en.wikipedia.org/wiki/Reggae"
+    },
+    {
+      "text": "Treasure Isle Records, Duke Reid's label, produced many of the most important rocksteady recordings.",
+      "source": "https://en.wikipedia.org/wiki/Treasure_Isle_Records"
+    },
+    {
+      "text": "Harry J Studio in Kingston has hosted recording sessions for many international and Jamaican artists.",
+      "source": "https://en.wikipedia.org/wiki/Harry_J_Studio_in_Kingston"
+    },
+    {
+      "text": "The Dynamic Sounds studio in Kingston was one of the first multi-track recording studios in the Caribbean.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Dynamic_Sounds_studio_in_Kingston"
+    },
+    {
+      "text": "Randy's Studio 17, run by the Chin family, was an important Kingston studio during the 1970s.",
+      "source": "https://en.wikipedia.org/wiki/Randy%27s_Studio_17%2C_run_by_the_Chin_family"
+    },
+    {
+      "text": "King Tubby's techniques of reverb, delay, and echo informed electronic music production globally.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/King_Tubby%27s"
+    },
+    {
+      "text": "The dub remix style pioneered by King Tubby and Lee Perry is considered a precursor to modern remix culture.",
+      "source": "https://en.wikipedia.org/wiki/dub_remix_style_pioneered_by_King_Tubby_and_Lee_Perry"
+    },
+    {
+      "text": "Augustus Pablo's 'King Tubby Meets Rockers Uptown' (1976) is often cited as the greatest dub album ever.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/King_Tubby_Meets_Rockers_Uptown"
+    },
+    {
+      "text": "The 'Far East' riddim, produced by Augustus Pablo, blended Eastern musical influences with reggae.",
+      "source": "https://en.wikipedia.org/wiki/Far_East"
+    },
+    {
+      "text": "Easy Star All-Stars' 'Dub Side of the Moon' is a reggae reimagining of Pink Floyd's 'The Dark Side of the Moon.'",
+      "source": "https://en.wikipedia.org/wiki/Easy_Star_All-Stars%27_%27Dub_Side_of_the_Moon"
+    },
+    {
+      "text": "The Aggrovators were a studio band assembled by Bunny Lee that played on dozens of classic reggae tracks.",
+      "source": "https://en.wikipedia.org/wiki/Aggrovators"
+    },
+    {
+      "text": "Bunny 'Striker' Lee is one of Jamaica's most prolific record producers, active since the 1960s.",
+      "source": "https://en.wikipedia.org/wiki/Bunny_%27Striker%27_Lee"
+    },
+    {
+      "text": "Jack Ruby produced Burning Spear's seminal 'Marcus Garvey' album.",
+      "source": "https://en.wikipedia.org/wiki/Jack_Ruby"
+    },
+    {
+      "text": "Gussie Clarke is a Jamaican producer known for blending roots reggae with digital production in the 1980s.",
+      "source": "https://en.wikipedia.org/wiki/Gussie_Clarke"
+    },
+    {
+      "text": "Dave Kelly, founder of the Madhouse label, produced many of the biggest dancehall hits of the 1990s.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Dave_Kelly"
+    },
+    {
+      "text": "Stephen McGregor, known as 'Di Genius,' is one of the most prolific dancehall producers of the 21st century.",
+      "source": "https://en.wikipedia.org/wiki/Stephen_McGregor%2C_known_as_%27Di_Genius"
+    },
+    {
+      "text": "The Penthouse label, run by Donovan Germain, produced numerous dancehall hits in the 1990s.",
+      "source": "https://en.wikipedia.org/wiki/Penthouse_label"
+    },
+    {
+      "text": "The Taxi Gang, led by Sly and Robbie, is one of the most in-demand backing bands in reggae history.",
+      "source": "https://en.wikipedia.org/wiki/Taxi_Gang%2C_led_by_Sly_and_Robbie"
+    },
+    {
+      "text": "Carlton Barrett pioneered the one drop rhythm and was a master of subtle percussion.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Carlton_Barrett_pioneered_the_one_drop_rhythm_and"
+    },
+    {
+      "text": "Aston 'Family Man' Barrett has been called the most important bass player in reggae history.",
+      "source": "https://en.wikipedia.org/wiki/Aston_%27Family_Man%27_Barrett"
+    },
+    {
+      "text": "Carlton Barrett was shot and killed outside his home in Kingston on April 17, 1987.",
+      "month": 4,
+      "day": 17,
+      "source": "https://en.wikipedia.org/wiki/Carlton_Barrett"
+    },
+    {
+      "text": "The Marley Coffee brand is managed by Rohan Marley, Bob Marley's son.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Marley_Coffee_brand"
+    },
+    {
+      "text": "The Bob Marley biopic 'One Love' was released in February 2024, starring Kingsley Ben-Adir.",
+      "month": 2,
+      "day": 14,
+      "source": "https://en.wikipedia.org/wiki/Bob_Marley_biopic_%27One_Love"
+    },
+    {
+      "text": "The 'Bam Bam' riddim has been versioned by dozens of artists since Sister Nancy's original.",
+      "source": "https://en.wikipedia.org/wiki/%27Bam_Bam%27_riddim"
+    },
+    {
+      "text": "Deejaying in Jamaica involves chanting or talking over riddims, distinct from the American DJ who selects records.",
+      "source": "https://en.wikipedia.org/wiki/Deejaying_in_Jamaica"
+    },
+    {
+      "text": "U-Roy is credited as the originator of the DJ style of toasting over records in Jamaica.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/U-Roy"
+    },
+    {
+      "text": "I-Roy was one of the most influential DJs of the 1970s, known for his witty and rapid-fire delivery.",
+      "source": "https://en.wikipedia.org/wiki/I-Roy"
+    },
+    {
+      "text": "Brigadier Jerry was a leading dancehall DJ associated with the Twelve Tribes of Israel.",
+      "source": "https://en.wikipedia.org/wiki/Brigadier_Jerry"
+    },
+    {
+      "text": "Charlie Chaplin (the Jamaican DJ, not the actor) was a popular dancehall artist in the 1980s.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Charlie_Chaplin_(the_Jamaican_DJ%2C_not_the_actor)"
+    },
+    {
+      "text": "Ninjaman, known as 'The Don Gorgon,' was one of the most controversial and influential dancehall DJs.",
+      "source": "https://en.wikipedia.org/wiki/Ninjaman%2C_known_as_%27The_Don_Gorgon"
+    },
+    {
+      "text": "Bounty Killer, known as the 'Warlord,' has been one of dancehall's biggest stars since the 1990s.",
+      "source": "https://en.wikipedia.org/wiki/Bounty_Killer%2C_known_as_the_%27Warlord"
+    },
+    {
+      "text": "Beenie Man's 'Who Am I' was a massive international dancehall hit in 1998.",
+      "source": "https://en.wikipedia.org/wiki/Beenie_Man%27s_%27Who_Am_I"
+    },
+    {
+      "text": "Beenie Man won the Grammy for Best Reggae Album in 2001 for 'Art and Life.'",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Beenie_Man"
+    },
+    {
+      "text": "Skillibeng blends dancehall with hip-hop and trap, representing a new generation of Jamaican artists.",
+      "source": "https://en.wikipedia.org/wiki/Reggae"
+    },
+    {
+      "text": "The 'Diwali' riddim (2003) featured Sean Paul and Bounty Killer and was one of the biggest riddims ever.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/%27Diwali%27_riddim_(2003)_featured_Sean_Paul_and_Bounty_Killer_and"
+    },
+    {
+      "text": "VP Records' 'Strictly the Best' compilation series has documented reggae and dancehall hits since 1991.",
+      "source": "https://en.wikipedia.org/wiki/VP_Records%27_%27Strictly_the_Best%27_compilation_series"
+    },
+    {
+      "text": "Jamaica gained independence from Britain on August 6, 1962, and music was central to national identity.",
+      "month": 8,
+      "day": 6,
+      "source": "https://en.wikipedia.org/wiki/Jamaica_gained_independence_from_Britain_on_August_6%2C_1962%2C_and_music"
+    },
+    {
+      "text": "Sting is Jamaica's biggest annual stage show for dancehall, held every Boxing Day.",
+      "month": 12,
+      "day": 26,
+      "source": "https://en.wikipedia.org/wiki/Sting"
+    },
+    {
+      "text": "Rebel Salute, founded by Tony Rebel, is an annual roots reggae festival held in Jamaica every January.",
+      "source": "https://en.wikipedia.org/wiki/Rebel_Salute"
+    },
+    {
+      "text": "Reggae Sumfest in Montego Bay is one of the Caribbean's biggest annual music festivals.",
+      "source": "https://en.wikipedia.org/wiki/Reggae_Sumfest_in_Montego_Bay"
+    },
+    {
+      "text": "Michael Manley, Jamaica's Prime Minister in the 1970s, was closely associated with reggae and Bob Marley.",
+      "source": "https://en.wikipedia.org/wiki/Michael_Manley%2C_Jamaica%27s_Prime_Minister_in_the_1970s"
+    },
+    {
+      "text": "Edward Seaga had ties to the music industry, having produced records at Studio One in the 1960s.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Edward_Seaga"
+    },
+    {
+      "text": "Trench Town Culture Yard is a museum and community center in the neighborhood where Bob Marley grew up.",
+      "source": "https://en.wikipedia.org/wiki/Trench_Town_Culture_Yard"
+    },
+    {
+      "text": "'Versions' or 'version sides' are instrumental B-sides of reggae singles, a tradition that gave rise to dub.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Versions%27_or_%27version_sides"
+    },
+    {
+      "text": "Reggae's influence can be heard in the music of artists as diverse as The Fugees, Snoop Dogg, and Ed Sheeran.",
+      "source": "https://en.wikipedia.org/wiki/Fugees"
+    },
+    {
+      "text": "Lauryn Hill's 'The Miseducation of Lauryn Hill' was influenced by reggae and partly recorded in Jamaica.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Lauryn_Hill%27s_%27The_Miseducation_of_Lauryn_Hill"
+    },
+    {
+      "text": "Bob Marley was posthumously inducted into the Rock and Roll Hall of Fame in 1994.",
+      "month": 1,
+      "day": 19,
+      "source": "https://en.wikipedia.org/wiki/Rock_and_Roll_Hall_of_Fame"
+    },
+    {
+      "text": "The Grammy Award for Best Reggae Album has been presented annually since 1985.",
+      "source": "https://en.wikipedia.org/wiki/Grammy_Award_for_Best_Reggae_Album"
+    },
+    {
+      "text": "Bad Brains, from Washington D.C., were pioneers in blending hardcore punk with reggae.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Bad_Brains%2C_from_Washington_D.C"
+    },
+    {
+      "text": "Grace Jones, a Jamaican-American model and singer, incorporated reggae and dub into her new wave music.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Grace_Jones"
+    },
+    {
+      "text": "Bristol's trip-hop scene, including Massive Attack and Portishead, drew heavily from dub and reggae.",
+      "source": "https://en.wikipedia.org/wiki/Massive_Attack_and_Portishead"
+    },
+    {
+      "text": "Shaggy served in the US Marine Corps during the Gulf War before launching his music career.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/US_Marine_Corps"
+    },
+    {
+      "text": "Damian Marley's 'Welcome to Jamrock' was one of the biggest reggae crossover hits of the 2000s.",
+      "source": "https://en.wikipedia.org/wiki/Damian_Marley%27s_%27Welcome_to_Jamrock"
+    },
+    {
+      "text": "Damian Marley and Nas collaborated on the album 'Distant Relatives' in 2010.",
+      "source": "https://en.wikipedia.org/wiki/Damian_Marley_and_Nas"
+    },
+    {
+      "text": "Ghetto Youths International is a record label run by Damian, Stephen, and Julian Marley.",
+      "source": "https://en.wikipedia.org/wiki/Ghetto_Youths_International"
+    },
+    {
+      "text": "The term 'steppers' refers to a reggae rhythm where the bass drum plays on every beat.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Reggae"
+    },
+    {
+      "text": "The Hammond organ and clavinet are frequently used keyboard instruments in classic reggae recordings.",
+      "source": "https://en.wikipedia.org/wiki/Hammond_organ_and_clavinet"
+    },
+    {
+      "text": "Reggae's tempo typically ranges from 60 to 90 beats per minute, giving it a relaxed feel.",
+      "source": "https://en.wikipedia.org/wiki/Reggae"
+    },
+    {
+      "text": "Bob Marley's 'Zimbabwe' became the de facto anthem of the Zimbabwean independence movement.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Bob_Marley%27s_%27Zimbabwe"
+    },
+    {
+      "text": "UB40's cover of Neil Diamond's 'Red Red Wine' became a global number-one hit in 1988.",
+      "source": "https://en.wikipedia.org/wiki/UB40%27s_cover_of_Neil_Diamond%27s_%27Red_Red_Wine"
+    },
+    {
+      "text": "Steel Pulse's debut album 'Handsworth Revolution' (1978) addressed racism and inequality in Britain.",
+      "source": "https://en.wikipedia.org/wiki/Handsworth_Revolution"
+    },
+    {
+      "text": "Janet Kay's 'Silly Games' (1979) was a number-two UK hit and a definitive lovers rock track.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Silly_Games"
+    },
+    {
+      "text": "Carroll Thompson is known as the 'Queen of Lovers Rock' for her smooth vocal stylings.",
+      "source": "https://en.wikipedia.org/wiki/Carroll_Thompson"
+    },
+    {
+      "text": "The Saxon Sound System in London launched the careers of Maxi Priest, Smiley Culture, and Tippa Irie.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Saxon_Sound_System_in_London"
+    },
+    {
+      "text": "Smiley Culture's 'Cockney Translation' cleverly blended Jamaican Patois with London cockney slang.",
+      "source": "https://en.wikipedia.org/wiki/Smiley_Culture%27s"
+    },
+    {
+      "text": "Jungle music, which emerged in the UK in the early 1990s, directly incorporated reggae and dancehall samples.",
+      "source": "https://en.wikipedia.org/wiki/UK_in_the"
+    },
+    {
+      "text": "Dubstep, which emerged in South London in the early 2000s, was heavily influenced by dub reggae.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Dubstep%2C_which_emerged_in_South_London_in_the_early_2000s"
+    },
+    {
+      "text": "Reggae has been performed in over 40 languages, demonstrating its truly global appeal.",
+      "source": "https://en.wikipedia.org/wiki/Reggae"
+    },
+    {
+      "text": "Bob Marley's 'Legend' compilation has spent more than 750 weeks on the Billboard 200 chart.",
+      "source": "https://en.wikipedia.org/wiki/Bob_Marley%27s_%27Legend%27_compilation"
+    },
+    {
+      "text": "'Catch a Fire' was remixed by Chris Blackwell to add rock guitar overdubs for wider appeal.",
+      "source": "https://en.wikipedia.org/wiki/Catch_a_Fire"
+    },
+    {
+      "text": "Bob Marley's 'Natural Mystic' opens 'Exodus' with one of reggae's most atmospheric introductions.",
+      "source": "https://en.wikipedia.org/wiki/Bob_Marley%27s"
+    },
+    {
+      "text": "Don Carlos, formerly of Black Uhuru, had a successful solo career in roots reggae.",
+      "source": "https://en.wikipedia.org/wiki/Don_Carlos%2C_formerly_of_Black_Uhuru"
+    },
+    {
+      "text": "Junior Reid's 'One Blood' became a reggae anthem and has been widely sampled in hip-hop.",
+      "source": "https://en.wikipedia.org/wiki/Junior_Reid%27s_%27One_Blood"
+    },
+    {
+      "text": "Buju Banton's 'Untold Stories' is considered one of the most powerful songs in reggae.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Buju_Banton%27s_%27Untold_Stories"
+    },
+    {
+      "text": "Buju Banton won the Grammy for Best Reggae Album in 2011 for 'Before the Dawn.'",
+      "source": "https://en.wikipedia.org/wiki/Buju_Banton"
+    },
+    {
+      "text": "Sean Paul has sold over 20 million albums worldwide, making him one of dancehall's best-selling artists.",
+      "source": "https://en.wikipedia.org/wiki/Sean_Paul"
+    },
+    {
+      "text": "Burning Spear was born on March 1, 1945, in Saint Ann's Bay, the same parish as Bob Marley.",
+      "month": 3,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/Burning_Spear"
+    },
+    {
+      "text": "'Pressure Drop' by Toots and the Maytals has been covered by The Clash, The Specials, and Keith Richards.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Pressure_Drop%27_by_Toots_and_the_Maytals"
+    },
+    {
+      "text": "Bob Marley's 'Stir It Up' was originally recorded in 1967 but became a hit when re-recorded in 1972.",
+      "source": "https://en.wikipedia.org/wiki/Bob_Marley%27s_%27Stir_It_Up"
+    },
+    {
+      "text": "The 'Punky Reggae Party' single was a declaration of solidarity between punk and reggae in 1977.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/%27Punky_Reggae_Party%27_single"
+    },
+    {
+      "text": "'Confrontation' (1983) was a posthumous Bob Marley album containing previously unreleased material.",
+      "source": "https://en.wikipedia.org/wiki/Confrontation"
+    },
+    {
+      "text": "Bob Marley's mausoleum is located in Nine Mile, Saint Ann Parish, Jamaica, his birthplace.",
+      "source": "https://en.wikipedia.org/wiki/Bob_Marley%27s_mausoleum"
+    },
+    {
+      "text": "Cedella Marley, Bob's daughter, is a singer, author, and fashion designer who heads the Marley brand.",
+      "source": "https://en.wikipedia.org/wiki/Cedella_Marley%2C_Bob%27s_daughter"
+    },
+    {
+      "text": "Frankie Paul, known as the 'Jamaican Stevie Wonder,' was one of the most prolific vocalists of the 1980s.",
+      "source": "https://en.wikipedia.org/wiki/Frankie_Paul%2C_known_as_the_%27Jamaican_Stevie_Wonder"
+    },
+    {
+      "text": "Matisyahu, an American artist, blended reggae with Jewish themes and achieved mainstream success.",
+      "source": "https://en.wikipedia.org/wiki/Reggae"
+    },
+    {
+      "text": "Slightly Stoopid blends reggae with rock, blues, and hip-hop and are major figures in the US reggae scene.",
+      "source": "https://en.wikipedia.org/wiki/Slightly_Stoopid_blends_reggae_with_rock%2C_blues%2C_and_hip-hop_and"
+    },
+    {
+      "text": "Gondwana is one of the most popular reggae bands in Chile and Latin America.",
+      "source": "https://en.wikipedia.org/wiki/Gondwana"
+    },
+    {
+      "text": "General Levy's 'Incredible' was a massive jungle and reggae crossover hit in the UK in 1994.",
+      "source": "https://en.wikipedia.org/wiki/General_Levy%27s_%27Incredible"
+    },
+    {
+      "text": "Pinnacle was one of the first Rastafarian communities in Jamaica, founded by Leonard Howell in the 1940s.",
+      "source": "https://en.wikipedia.org/wiki/Pinnacle"
+    },
+    {
+      "text": "Shabba Ranks' 'Mr. Loverman' was a crossover dancehall hit reaching the top 5 in the UK and US.",
+      "source": "https://en.wikipedia.org/wiki/Shabba_Ranks%27_%27Mr._Loverman"
+    },
+    {
+      "text": "Sanchez is one of the most respected lovers rock and dancehall vocalists from Jamaica.",
+      "source": "https://en.wikipedia.org/wiki/Sanchez"
+    },
+    {
+      "text": "Niney the Observer was a hitmaker producer who worked at both Studio One and Channel One.",
+      "source": "https://en.wikipedia.org/wiki/Niney_the_Observer"
+    },
+    {
+      "text": "Bobby Digital, born Robert Dixon, helped define the digital dancehall sound as a producer.",
+      "source": "https://en.wikipedia.org/wiki/Bobby_Digital%2C_born_Robert_Dixon"
+    },
+    {
+      "text": "Mixing Lab studio, owned by King Jammy, was where the digital dancehall revolution took place.",
+      "source": "https://en.wikipedia.org/wiki/Mixing_Lab_studio%2C_owned_by_King_Jammy"
+    },
+    {
+      "text": "The horn section in early reggae was essential, with trombones, trumpets, and saxophones adding depth.",
+      "source": "https://en.wikipedia.org/wiki/horn_section_in_early_reggae"
+    },
+    {
+      "text": "The 'bubble' organ pattern in reggae involves repeating a rhythmic chord pattern on the off-beat.",
+      "source": "https://en.wikipedia.org/wiki/Reggae"
+    },
+    {
+      "text": "Clarendon Parish in Jamaica has produced notable reggae artists including Barrington Levy and Freddie McGregor.",
+      "source": "https://en.wikipedia.org/wiki/Clarendon_Parish_in_Jamaica"
+    },
+    {
+      "text": "Rvssian is a Jamaican producer who has worked with international artists like Kanye West.",
+      "source": "https://en.wikipedia.org/wiki/Rvssian"
+    },
+    {
+      "text": "The Jamaica Festival Song Competition, established in 1966, was an important showcase for reggae talent.",
+      "source": "https://en.wikipedia.org/wiki/Jamaica_Festival_Song_Competition%2C_established_in_1966"
+    },
+    {
+      "text": "Half Pint's 'Greetings' was one of the biggest reggae hits of 1986.",
+      "source": "https://en.wikipedia.org/wiki/Half_Pint%27s_%27Greetings"
+    },
+    {
+      "text": "Political violence in Kingston during the 1970s and 1980s deeply influenced reggae and dancehall lyrics.",
+      "source": "https://en.wikipedia.org/wiki/Reggae"
+    },
+    {
+      "text": "The 'Riddim Twin' phenomenon means two songs are often released simultaneously on the same instrumental.",
+      "source": "https://en.wikipedia.org/wiki/%27Riddim_Twin%27_phenomenon_means_two_songs"
+    },
+    {
+      "text": "Mr. Vegas' 'Heads High' is one of the most iconic dancehall tracks of the late 1990s.",
+      "source": "https://en.wikipedia.org/wiki/Mr._Vegas%27_%27Heads_High"
+    },
+    {
+      "text": "T.O.K. is a dancehall group from Kingston known for their harmonies and party anthems.",
+      "source": "https://en.wikipedia.org/wiki/T.O.K"
+    },
+    {
+      "text": "Mento is considered a precursor to ska and reggae, and the Jolly Boys are one of its oldest groups.",
+      "source": "https://en.wikipedia.org/wiki/Mento"
+    },
+    {
+      "text": "Jean 'Binta' Breeze was a Jamaican dub poet who brought the art form to theatrical stages worldwide.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Jean_%27Binta%27_Breeze"
+    },
+    {
+      "text": "The Twinkle Brothers are a Jamaican roots reggae band that has been recording since the late 1960s.",
+      "source": "https://en.wikipedia.org/wiki/Twinkle_Brothers"
+    },
+    {
+      "text": "The Itals are a roots reggae vocal trio known for their close harmonies.",
+      "source": "https://en.wikipedia.org/wiki/Itals"
+    },
+    {
+      "text": "Bass Culture sound system events in London helped popularize reggae in the UK in the 1970s and 1980s.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Bass_Culture_sound_system_events_in_London"
+    },
+    {
+      "text": "Derrick Harriott was both a performer and producer who helped shape the rocksteady sound.",
+      "source": "https://en.wikipedia.org/wiki/Derrick_Harriott"
+    },
+    {
+      "text": "Cutty Ranks brought a distinctive gruff vocal style to dancehall in the late 1980s.",
+      "source": "https://en.wikipedia.org/wiki/Cutty_Ranks"
+    },
+    {
+      "text": "Josey Wales was one of the most popular dancehall DJs of the early 1980s.",
+      "source": "https://en.wikipedia.org/wiki/Josey_Wales"
+    },
+    {
+      "text": "Ranking Joe was a popular dancehall DJ who performed on many classic sound system sessions.",
+      "source": "https://en.wikipedia.org/wiki/Ranking_Joe"
+    },
+    {
+      "text": "Drum and bass, an evolution of jungle, continues to draw from dub and reggae bassline traditions.",
+      "source": "https://en.wikipedia.org/wiki/Drum_and"
+    },
+    {
+      "text": "'Rockers' (1978) is a Jamaican film that showcases the real reggae music scene of the late 1970s.",
+      "source": "https://en.wikipedia.org/wiki/Rockers"
+    },
+    {
+      "text": "LKJ released 'Dread Beat an' Blood' in 1978, one of the first dub poetry albums.",
+      "source": "https://en.wikipedia.org/wiki/LKJ"
+    },
+    {
+      "text": "10cc's 'Dreadlock Holiday' (1978) was a pop hit inspired by reggae that reached number one in the UK.",
+      "source": "https://en.wikipedia.org/wiki/Dreadlock_Holiday"
+    },
+    {
+      "text": "Julian Marley, son of Bob Marley, has earned Grammy nominations for his reggae albums.",
+      "source": "https://en.wikipedia.org/wiki/Julian_Marley%2C_son_of_Bob_Marley"
+    },
+    {
+      "text": "Ky-Mani Marley, Bob Marley's son, has released several reggae albums and also acted in films.",
+      "source": "https://en.wikipedia.org/wiki/Ky-Mani_Marley%2C_Bob_Marley%27s_son"
+    },
+    {
+      "text": "Dennis Brown passed away on July 1, 1999, and his death was mourned across the reggae world.",
+      "month": 7,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/Dennis_Brown_passed_away_on_July_1%2C_1999%2C_and_his_death"
+    },
+    {
+      "text": "Cedella Booker, Bob Marley's mother, wrote a memoir about raising the reggae icon.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Cedella_Booker%2C_Bob_Marley%27s_mother"
+    },
+    {
+      "text": "The documentary 'Marley' (2012) directed by Kevin Macdonald chronicles Bob Marley's life and legacy.",
+      "source": "https://en.wikipedia.org/wiki/Marley"
+    },
+    {
+      "text": "Bob Marley's 'Is This Love' remains one of the most played reggae love songs of all time.",
+      "source": "https://en.wikipedia.org/wiki/Bob_Marley%27s"
+    },
+    {
+      "text": "'Burnin'' (1973) was the last Wailers album with the original lineup of Marley, Tosh, and Wailer.",
+      "source": "https://en.wikipedia.org/wiki/Burnin"
+    },
+    {
+      "text": "Katchafire is a New Zealand roots reggae band that has achieved international recognition.",
+      "source": "https://en.wikipedia.org/wiki/Katchafire"
+    },
+    {
+      "text": "The concept of 'livity' in Rastafari refers to living a righteous and natural lifestyle.",
+      "source": "https://en.wikipedia.org/wiki/Reggae"
+    },
+    {
+      "text": "The Jolly Boys are one of the oldest mento groups still performing in Jamaica.",
+      "source": "https://en.wikipedia.org/wiki/Jolly_Boys"
+    },
+    {
+      "text": "Reggae bass players often use flatwound strings to achieve a deep, rounded tone.",
+      "source": "https://en.wikipedia.org/wiki/Reggae"
+    },
+    {
+      "text": "The film \"Countryman\" (1982) featured a soundtrack with music by Bob Marley and Toots and the Maytals.",
+      "source": "https://www.youtube.com/results?search_query=Reggae%20Countryman%20live%20performance"
+    },
+    {
+      "text": "Naomi Cowan is a Canadian-Jamaican artist who blends pop, dancehall, and reggae influences.",
+      "source": "https://en.wikipedia.org/wiki/Naomi_Cowan"
+    },
+    {
+      "text": "House of Marley produces audio equipment inspired by Bob Marley's legacy, using sustainable materials.",
+      "source": "https://en.wikipedia.org/wiki/House_of_Marley_produces_audio_equipment"
+    },
+    {
+      "text": "The Wailers Band continued touring extensively after Bob Marley's death, keeping the Wailers legacy alive.",
+      "source": "https://en.wikipedia.org/wiki/Wailers_Band"
+    }
+  ]
+}

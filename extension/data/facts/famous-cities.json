@@ -1,0 +1,1691 @@
+{
+  "hobby": "Famous Cities",
+  "facts": [
+    {
+      "text": "Paris is known as the City of Light because it was one of the first European cities to adopt widespread street lighting in the 1860s.",
+      "source": "https://en.wikipedia.org/wiki/Paris"
+    },
+    {
+      "text": "Tokyo's Shibuya Crossing is the busiest pedestrian intersection in the world, with up to 3,000 people crossing at once during peak times.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Tokyo%27s_Shibuya_Crossing"
+    },
+    {
+      "text": "New York City's subway system has 472 stations, making it the largest rapid transit system in the world by number of stations.",
+      "source": "https://en.wikipedia.org/wiki/New_York_City%27s_subway_system"
+    },
+    {
+      "text": "The Colosseum in Rome could hold between 50,000 and 80,000 spectators and was used for gladiatorial contests and public spectacles.",
+      "source": "https://en.wikipedia.org/wiki/Colosseum_in_Rome_could_hold_between_50%2C000_and_80%2C000_spectators_and"
+    },
+    {
+      "text": "The Eiffel Tower was originally intended to stand for only 20 years after the 1889 World's Fair before being dismantled.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Eiffel_Tower"
+    },
+    {
+      "text": "Istanbul is the only city in the world that spans two continents — Europe and Asia — divided by the Bosphorus Strait.",
+      "source": "https://en.wikipedia.org/wiki/Istanbul"
+    },
+    {
+      "text": "Singapore is both a city and a country, making it one of only three surviving city-states in the world.",
+      "source": "https://en.wikipedia.org/wiki/Singapore"
+    },
+    {
+      "text": "Rio de Janeiro's Christ the Redeemer statue stands 98 feet tall atop Mount Corcovado at 2,300 feet above sea level.",
+      "source": "https://en.wikipedia.org/wiki/Janeiro%27s_Christ_the_Redeemer"
+    },
+    {
+      "text": "London's Big Ben is actually the name of the bell inside the Elizabeth Tower, not the tower itself.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/London%27s_Big_Ben"
+    },
+    {
+      "text": "The Golden Gate Bridge in San Francisco is painted a color called International Orange, chosen for visibility in fog.",
+      "source": "https://en.wikipedia.org/wiki/Golden_Gate_Bridge_in_San_Francisco"
+    },
+    {
+      "text": "Bangkok's full ceremonial name in Thai is 168 letters long, making it the longest city name in the world.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Bangkok%27s_full_ceremonial_name_in_Thai"
+    },
+    {
+      "text": "Sydney Opera House took 16 years to build, from 1957 to 1973, and cost 14 times its original budget estimate.",
+      "source": "https://en.wikipedia.org/wiki/Sydney_Opera_House"
+    },
+    {
+      "text": "New Orleans is famous for its jazz music scene, which originated in the early 20th century in neighborhoods like Tremé and Storyville.",
+      "source": "https://en.wikipedia.org/wiki/New_Orleans"
+    },
+    {
+      "text": "Amsterdam has more bicycles than people — approximately 881,000 bikes for about 872,000 residents.",
+      "source": "https://en.wikipedia.org/wiki/Amsterdam"
+    },
+    {
+      "text": "The Burj Khalifa in Dubai stands at 2,717 feet, making it the tallest building in the world since its completion in 2010.",
+      "source": "https://en.wikipedia.org/wiki/Burj_Khalifa_in_Dubai"
+    },
+    {
+      "text": "Rome is called the Eternal City because ancient Romans believed the city would endure forever, no matter what happened to the empire.",
+      "source": "https://en.wikipedia.org/wiki/Rome"
+    },
+    {
+      "text": "According to legend, Rome was founded by Romulus on April 21, 753 BC, a date still celebrated as Natale di Roma.",
+      "month": 4,
+      "day": 21,
+      "source": "https://en.wikipedia.org/wiki/Rome"
+    },
+    {
+      "text": "Prague's Old Town Square has an astronomical clock installed in 1410, making it the oldest still-operating astronomical clock in the world.",
+      "source": "https://en.wikipedia.org/wiki/Prague%27s_Old_Town_Square"
+    },
+    {
+      "text": "Tokyo has more Michelin-starred restaurants than any other city in the world, with over 200 starred establishments.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Tokyo"
+    },
+    {
+      "text": "The London Underground, opened in 1863, was the world's first underground railway system.",
+      "source": "https://en.wikipedia.org/wiki/London_Underground"
+    },
+    {
+      "text": "Cape Town is home to Table Mountain, one of the oldest mountains on Earth at roughly 600 million years old.",
+      "source": "https://en.wikipedia.org/wiki/Cape_Town"
+    },
+    {
+      "text": "Chicago earned the nickname The Windy City, though it likely refers to its boastful politicians rather than the weather.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Chicago"
+    },
+    {
+      "text": "Venice's gondolas have been asymmetrically built since the 19th century so a single gondolier can row them in a straight line.",
+      "source": "https://en.wikipedia.org/wiki/Venice%27s_gondolas"
+    },
+    {
+      "text": "Mexico City was built on the ruins of Tenochtitlán, the capital of the Aztec Empire, which sat on an island in Lake Texcoco.",
+      "source": "https://en.wikipedia.org/wiki/Mexico_City"
+    },
+    {
+      "text": "The Statue of Liberty was a gift from France to the United States and was dedicated on October 28, 1886.",
+      "month": 10,
+      "day": 28,
+      "source": "https://en.wikipedia.org/wiki/Statue_of_Liberty"
+    },
+    {
+      "text": "Seoul's Gangnam District became world-famous after the 2012 hit song Gangnam Style by PSY.",
+      "source": "https://en.wikipedia.org/wiki/Seoul%27s_Gangnam_District"
+    },
+    {
+      "text": "Hong Kong has more skyscrapers than any other city in the world, with over 480 buildings exceeding 150 meters.",
+      "source": "https://en.wikipedia.org/wiki/Hong_Kong"
+    },
+    {
+      "text": "Buenos Aires has the widest avenue in the world — Avenida 9 de Julio is 140 meters wide with up to 16 lanes of traffic.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Buenos_Aires"
+    },
+    {
+      "text": "Nashville is known as Music City, a nickname it earned due to its central role in the country music industry.",
+      "source": "https://en.wikipedia.org/wiki/Nashville"
+    },
+    {
+      "text": "Barcelona's La Sagrada Familia basilica has been under construction since 1882 and is not expected to be completed until 2026.",
+      "source": "https://en.wikipedia.org/wiki/Barcelona%27s_La_Sagrada_Familia_basilica"
+    },
+    {
+      "text": "Marrakech's Jemaa el-Fnaa square transforms each evening into a massive open-air food market with hundreds of stalls.",
+      "source": "https://en.wikipedia.org/wiki/Marrakech%27s_Jemaa"
+    },
+    {
+      "text": "Dubai's Palm Jumeirah is an artificial archipelago that added 78 kilometers of coastline to the city.",
+      "source": "https://en.wikipedia.org/wiki/Dubai%27s_Palm_Jumeirah"
+    },
+    {
+      "text": "Vienna was the home of legendary composers Mozart, Beethoven, Haydn, Schubert, Strauss, and Brahms.",
+      "source": "https://en.wikipedia.org/wiki/Vienna"
+    },
+    {
+      "text": "The New York City Marathon is the largest marathon in the world, with over 50,000 finishers annually.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/New_York_City_Marathon"
+    },
+    {
+      "text": "Lisbon is one of the oldest cities in Western Europe, predating London, Paris, and Rome by centuries.",
+      "source": "https://en.wikipedia.org/wiki/Lisbon"
+    },
+    {
+      "text": "San Francisco's cable cars are the only mobile National Historic Landmark in the United States.",
+      "source": "https://en.wikipedia.org/wiki/San_Francisco%27s_cable_cars"
+    },
+    {
+      "text": "Cairo is home to the Great Pyramid of Giza, the only one of the Seven Wonders of the Ancient World still standing.",
+      "source": "https://en.wikipedia.org/wiki/Cairo"
+    },
+    {
+      "text": "Toronto's PATH system is the largest underground shopping complex in the world, stretching over 30 kilometers.",
+      "source": "https://en.wikipedia.org/wiki/Toronto%27s_PATH_system"
+    },
+    {
+      "text": "Las Vegas's famous Strip is actually not within the city limits of Las Vegas — it is in the unincorporated town of Paradise.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Las_Vegas%27s_famous_Strip"
+    },
+    {
+      "text": "Athens is considered the birthplace of democracy, with the first democratic system established around 508 BC.",
+      "source": "https://en.wikipedia.org/wiki/Athens"
+    },
+    {
+      "text": "Mumbai's Dabbawalas deliver over 200,000 home-cooked lunches daily with an error rate of roughly one in six million deliveries.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Mumbai%27s_Dabbawalas"
+    },
+    {
+      "text": "The Paris Metro was opened on July 19, 1900, to serve visitors to the Paris World's Fair.",
+      "month": 7,
+      "day": 19,
+      "source": "https://en.wikipedia.org/wiki/Paris_Metro"
+    },
+    {
+      "text": "Berlin's East Side Gallery is the longest remaining section of the Berlin Wall, stretching 1.3 kilometers and covered in murals.",
+      "source": "https://en.wikipedia.org/wiki/Berlin%27s_East_Side_Gallery"
+    },
+    {
+      "text": "Los Angeles was originally named El Pueblo de Nuestra Señora la Reina de los Ángeles del Río Porciúncula by Spanish settlers.",
+      "source": "https://en.wikipedia.org/wiki/Los_Angeles"
+    },
+    {
+      "text": "Kyoto was the imperial capital of Japan for over 1,000 years, from 794 to 1868.",
+      "source": "https://en.wikipedia.org/wiki/Kyoto"
+    },
+    {
+      "text": "The London Eye was the world's tallest Ferris wheel when it opened in 2000, standing 135 meters high.",
+      "source": "https://en.wikipedia.org/wiki/London_Eye"
+    },
+    {
+      "text": "Chicago is home to the first skyscraper ever built — the Home Insurance Building, completed in 1885.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Chicago"
+    },
+    {
+      "text": "Bali is known as the Island of the Gods and has over 10,000 Hindu temples across the island.",
+      "source": "https://en.wikipedia.org/wiki/Bali"
+    },
+    {
+      "text": "Washington DC was designed by French architect Pierre Charles L'Enfant, who planned the city's grid with wide avenues and circles.",
+      "source": "https://en.wikipedia.org/wiki/Washington_DC"
+    },
+    {
+      "text": "Shanghai's Maglev train is the fastest commercial train in the world, reaching speeds of 431 km/h (268 mph).",
+      "source": "https://en.wikipedia.org/wiki/Shanghai%27s_Maglev_train"
+    },
+    {
+      "text": "Boston was the site of the Boston Tea Party in 1773, a pivotal event leading to the American Revolution.",
+      "month": 12,
+      "day": 16,
+      "source": "https://en.wikipedia.org/wiki/Boston"
+    },
+    {
+      "text": "Rome has a law that says cats are free to roam the city and cannot be evicted from any public ruin.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Rome"
+    },
+    {
+      "text": "Miami's Art Deco Historic District in South Beach contains the largest collection of Art Deco architecture in the world.",
+      "source": "https://en.wikipedia.org/wiki/Miami%27s_Art_Deco_Historic_District_in_South_Beach"
+    },
+    {
+      "text": "Paris has an entire city beneath it — the Catacombs hold the remains of more than six million people in underground tunnels.",
+      "source": "https://en.wikipedia.org/wiki/Paris"
+    },
+    {
+      "text": "Singapore's Changi Airport regularly tops lists of the best airports in the world, featuring a butterfly garden, rooftop pool, and indoor waterfall.",
+      "source": "https://en.wikipedia.org/wiki/Singapore%27s_Changi_Airport"
+    },
+    {
+      "text": "New York City's Central Park is larger than the country of Monaco, covering 843 acres.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/New_York_City%27s_Central_Park"
+    },
+    {
+      "text": "Tokyo's Tsukiji Outer Market remains one of the world's most famous food destinations despite the inner wholesale market relocating to Toyosu in 2018.",
+      "source": "https://en.wikipedia.org/wiki/Tokyo%27s_Tsukiji_Outer_Market"
+    },
+    {
+      "text": "The London Underground map designed by Harry Beck in 1931 became the template for metro maps used by transit systems worldwide.",
+      "source": "https://en.wikipedia.org/wiki/London_Underground_map_designed_by_Harry_Beck_in_1931"
+    },
+    {
+      "text": "Istanbul's Grand Bazaar is one of the oldest and largest covered markets in the world, with over 4,000 shops.",
+      "source": "https://en.wikipedia.org/wiki/Istanbul%27s_Grand_Bazaar"
+    },
+    {
+      "text": "Barcelona's La Boqueria market on La Rambla has been a food market since the early 1200s.",
+      "source": "https://en.wikipedia.org/wiki/Barcelona%27s_La_Boqueria_market_on_La_Rambla"
+    },
+    {
+      "text": "Dubai went from a small fishing village to one of the wealthiest cities in the world in less than 50 years.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Famous_Cities"
+    },
+    {
+      "text": "Amsterdam's canal ring was built during the Dutch Golden Age in the 17th century and is a UNESCO World Heritage Site.",
+      "source": "https://en.wikipedia.org/wiki/Amsterdam%27s_canal_ring"
+    },
+    {
+      "text": "New Orleans celebrates Mardi Gras with massive parades and festivities that can attract over one million visitors.",
+      "source": "https://en.wikipedia.org/wiki/New_Orleans"
+    },
+    {
+      "text": "Prague is nicknamed the City of a Hundred Spires due to its many Gothic, Baroque, and Renaissance church towers.",
+      "source": "https://en.wikipedia.org/wiki/Prague"
+    },
+    {
+      "text": "São Paulo has the largest Japanese population outside Japan, with over 1.5 million people of Japanese descent.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/S%C3%A3o_Paulo"
+    },
+    {
+      "text": "The Sydney Harbour Bridge is nicknamed The Coathanger due to its arch-based design.",
+      "month": 3,
+      "day": 19,
+      "source": "https://en.wikipedia.org/wiki/Sydney_Harbour_Bridge"
+    },
+    {
+      "text": "Vienna's Sachertorte, a rich chocolate cake, was invented in 1832 by 16-year-old apprentice Franz Sacher.",
+      "source": "https://en.wikipedia.org/wiki/Vienna%27s_Sachertorte%2C_a_rich_chocolate_cake"
+    },
+    {
+      "text": "Athens' Parthenon has stood atop the Acropolis since 438 BC and remains one of the most iconic structures in Western civilization.",
+      "source": "https://en.wikipedia.org/wiki/Athens%27_Parthenon"
+    },
+    {
+      "text": "San Francisco's Chinatown, established in 1848, is the oldest Chinatown in North America.",
+      "source": "https://en.wikipedia.org/wiki/San_Francisco%27s_Chinatown%2C_established_in_1848"
+    },
+    {
+      "text": "Mexico City is sinking at a rate of up to 50 centimeters per year because it was built on a drained lakebed.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Mexico_City"
+    },
+    {
+      "text": "Seoul has the fastest average internet speed of any major city in the world.",
+      "source": "https://en.wikipedia.org/wiki/Seoul"
+    },
+    {
+      "text": "The Great Wall of China's nearest sections to Beijing at Badaling and Mutianyu draw millions of visitors each year.",
+      "source": "https://en.wikipedia.org/wiki/Great_Wall_of_China%27s"
+    },
+    {
+      "text": "Rio de Janeiro's Carnival is the world's largest carnival celebration, attracting about two million people per day.",
+      "month": 2,
+      "day": 28,
+      "source": "https://en.wikipedia.org/wiki/Rio_de_Janeiro%27s_Carnival"
+    },
+    {
+      "text": "Lisbon's Tram 28 is one of the most famous tram routes in the world, winding through the city's oldest neighborhoods.",
+      "source": "https://en.wikipedia.org/wiki/Lisbon%27s_Tram_28"
+    },
+    {
+      "text": "Chicago deep-dish pizza originated at Pizzeria Uno in 1943, created by Ike Sewell and Ric Riccardo.",
+      "source": "https://en.wikipedia.org/wiki/Chicago_deep-dish_pizza_originated_at_Pizzeria_Uno_in_1943"
+    },
+    {
+      "text": "Hong Kong's Star Ferry has been shuttling passengers across Victoria Harbour since 1888.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Hong_Kong%27s_Star_Ferry"
+    },
+    {
+      "text": "Berlin's Alexanderplatz TV Tower is the tallest structure in Germany at 368 meters.",
+      "source": "https://en.wikipedia.org/wiki/Berlin%27s_Alexanderplatz_TV_Tower"
+    },
+    {
+      "text": "Nashville's Grand Ole Opry has been broadcasting live country music since 1925, making it the longest-running radio show in US history.",
+      "month": 11,
+      "day": 28,
+      "source": "https://en.wikipedia.org/wiki/Nashville%27s_Grand_Ole_Opry"
+    },
+    {
+      "text": "Tokyo's train system is so punctual that if a train is more than five minutes late, passengers receive a delay certificate for their employers.",
+      "source": "https://en.wikipedia.org/wiki/Tokyo%27s_train_system"
+    },
+    {
+      "text": "Cape Town's Kirstenbosch National Botanical Garden is one of the great botanical gardens of the world, established in 1913.",
+      "source": "https://en.wikipedia.org/wiki/Cape_Town%27s_Kirstenbosch_National_Botanical_Garden"
+    },
+    {
+      "text": "Marrakech's medina, the old walled city, is a UNESCO World Heritage Site filled with narrow winding alleys and traditional souks.",
+      "source": "https://en.wikipedia.org/wiki/Marrakech%27s_medina%2C_the_old_walled_city"
+    },
+    {
+      "text": "Paris has 37 bridges crossing the Seine River, the oldest being the Pont Neuf, completed in 1607.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Paris"
+    },
+    {
+      "text": "London has hosted the Summer Olympic Games three times — in 1908, 1948, and 2012.",
+      "month": 7,
+      "day": 27,
+      "source": "https://en.wikipedia.org/wiki/London"
+    },
+    {
+      "text": "Toronto's CN Tower held the record as the world's tallest free-standing structure for 32 years, from 1975 to 2007.",
+      "source": "https://en.wikipedia.org/wiki/Toronto%27s_CN_Tower"
+    },
+    {
+      "text": "Buenos Aires has more bookstores per capita than any other city in the world.",
+      "source": "https://en.wikipedia.org/wiki/Buenos_Aires"
+    },
+    {
+      "text": "The Empire State Building in New York was built in just 410 days, finishing in April 1931.",
+      "month": 4,
+      "day": 11,
+      "source": "https://en.wikipedia.org/wiki/Empire_State_Building_in_New_York"
+    },
+    {
+      "text": "Dubai's indoor ski slope at the Mall of the Emirates maintains real snow in the middle of the desert.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Mall_of_the_Emirates"
+    },
+    {
+      "text": "Los Angeles has over 100 museums, more than any other city in the United States.",
+      "source": "https://en.wikipedia.org/wiki/Los_Angeles"
+    },
+    {
+      "text": "Mumbai is home to Bollywood, the largest film industry in the world by number of films produced annually.",
+      "source": "https://en.wikipedia.org/wiki/Mumbai"
+    },
+    {
+      "text": "Rome's Trevi Fountain collects roughly 3,000 euros in coins each day, which is donated to charity.",
+      "source": "https://en.wikipedia.org/wiki/Rome%27s_Trevi_Fountain_collects_roughly_3%2C000_euros_in_coins_each_day%2C_which"
+    },
+    {
+      "text": "Bangkok is the most visited city in the world by international tourists, surpassing London and Paris.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Bangkok"
+    },
+    {
+      "text": "Amsterdam's Rijksmuseum houses Rembrandt's Night Watch and over 8,000 other works of art and historical objects.",
+      "source": "https://en.wikipedia.org/wiki/Amsterdam%27s_Rijksmuseum"
+    },
+    {
+      "text": "Washington DC's Smithsonian Institution is the world's largest museum, education, and research complex with 21 museums — all free.",
+      "source": "https://en.wikipedia.org/wiki/Washington_DC%27s_Smithsonian_Institution"
+    },
+    {
+      "text": "Istanbul was previously known as Constantinople and before that as Byzantium, having been renamed multiple times through history.",
+      "source": "https://en.wikipedia.org/wiki/Istanbul"
+    },
+    {
+      "text": "Kyoto has 17 UNESCO World Heritage Sites, more than any other city in Japan.",
+      "source": "https://en.wikipedia.org/wiki/Kyoto"
+    },
+    {
+      "text": "Boston's Freedom Trail is a 2.5-mile walking path through 16 historically significant sites from the American Revolution.",
+      "source": "https://en.wikipedia.org/wiki/Boston%27s_Freedom_Trail"
+    },
+    {
+      "text": "Singapore banned chewing gum in 1992, and it remains illegal to sell or import it without a prescription.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Famous_Cities"
+    },
+    {
+      "text": "Las Vegas uses about 15 percent of all the neon in the world for its famous signs and displays.",
+      "source": "https://en.wikipedia.org/wiki/Las_Vegas"
+    },
+    {
+      "text": "The Great Sphinx of Giza near Cairo is one of the oldest and largest sculptures in the world, believed to have been built around 2500 BC.",
+      "source": "https://en.wikipedia.org/wiki/Great_Sphinx_of_Giza_near_Cairo"
+    },
+    {
+      "text": "Milan's fashion district, the Quadrilatero della Moda, is one of the most important fashion centers in the world.",
+      "source": "https://en.wikipedia.org/wiki/Milan%27s_fashion_district%2C_the_Quadrilatero_della_Moda"
+    },
+    {
+      "text": "New York City's Times Square attracts approximately 50 million visitors per year, making it one of the world's most visited tourist attractions.",
+      "source": "https://en.wikipedia.org/wiki/New_York_City%27s_Times_Square"
+    },
+    {
+      "text": "Shanghai's skyline in the Pudong district was mostly farmland as recently as 1990.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Shanghai%27s_skyline_in_the_Pudong_district"
+    },
+    {
+      "text": "The Leaning Tower of Pisa took 199 years to build and began leaning during construction when the soil beneath it shifted.",
+      "source": "https://en.wikipedia.org/wiki/Leaning_Tower_of_Pisa"
+    },
+    {
+      "text": "Copenhagen has been ranked the most bike-friendly city in the world, with more bikes than cars.",
+      "source": "https://en.wikipedia.org/wiki/Copenhagen"
+    },
+    {
+      "text": "Lima, Peru is considered one of the top food capitals of the world, known for ceviche and a thriving culinary scene.",
+      "source": "https://en.wikipedia.org/wiki/Lima%2C_Peru"
+    },
+    {
+      "text": "San Francisco's Golden Gate Bridge took four years to build and opened on May 27, 1937.",
+      "month": 5,
+      "day": 27,
+      "source": "https://en.wikipedia.org/wiki/San_Francisco%27s_Golden_Gate_Bridge_took_four_years_to_build_and"
+    },
+    {
+      "text": "Paris's Louvre Museum is the most visited art museum in the world, with nearly 10 million visitors annually.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Paris%27s_Louvre_Museum"
+    },
+    {
+      "text": "Prague's Charles Bridge was completed in 1402 and features 30 Baroque statues along its length.",
+      "source": "https://en.wikipedia.org/wiki/Prague%27s_Charles_Bridge"
+    },
+    {
+      "text": "Helsinki has been recognized as a UNESCO City of Design, reflecting Finland's world-renowned design culture.",
+      "source": "https://en.wikipedia.org/wiki/Helsinki"
+    },
+    {
+      "text": "Havana, Cuba is famous for its colorful vintage American cars from the 1950s that still serve as everyday transportation.",
+      "source": "https://en.wikipedia.org/wiki/Havana%2C_Cuba"
+    },
+    {
+      "text": "Tokyo Disneyland, opened in 1983, was the first Disney theme park built outside the United States.",
+      "month": 4,
+      "day": 15,
+      "source": "https://en.wikipedia.org/wiki/Tokyo_Disneyland"
+    },
+    {
+      "text": "London's Harrods department store covers five acres and has over 330 departments, making it one of the largest stores in the world.",
+      "source": "https://en.wikipedia.org/wiki/London%27s_Harrods_department_store_covers_five_acres_and"
+    },
+    {
+      "text": "Athens hosted the first modern Olympic Games in 1896.",
+      "month": 4,
+      "day": 6,
+      "source": "https://en.wikipedia.org/wiki/Olympic_Games"
+    },
+    {
+      "text": "Chicago's elevated train system, known as the L, forms a loop in the downtown area that gave the Loop neighborhood its name.",
+      "source": "https://en.wikipedia.org/wiki/Chicago%27s_elevated_train_system%2C_known_as_the_L%2C_forms_a_loop_in_the_downtown_area_that"
+    },
+    {
+      "text": "Stockholm is built on 14 islands connected by 57 bridges, earning it the nickname Venice of the North.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Stockholm"
+    },
+    {
+      "text": "Cairo's Khan el-Khalili bazaar has been a major market since the 14th century and remains one of the Middle East's largest marketplaces.",
+      "source": "https://en.wikipedia.org/wiki/Cairo%27s_Khan_el-Khalili_bazaar"
+    },
+    {
+      "text": "Montreal hosts the world's largest jazz festival, the Festival International de Jazz de Montréal, every summer.",
+      "source": "https://en.wikipedia.org/wiki/Festival_International"
+    },
+    {
+      "text": "The Petronas Towers in Kuala Lumpur were the tallest buildings in the world from 1998 to 2004.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Petronas_Towers_in_Kuala_Lumpur"
+    },
+    {
+      "text": "Venice has about 400 gondolas operating today, compared to over 10,000 in the 18th century.",
+      "source": "https://en.wikipedia.org/wiki/Venice"
+    },
+    {
+      "text": "Los Angeles' Hollywood sign was originally erected in 1923 as Hollywoodland to advertise a real estate development.",
+      "source": "https://en.wikipedia.org/wiki/Los_Angeles%27_Hollywood_sign"
+    },
+    {
+      "text": "Vienna's Spanish Riding School, founded in 1572, is the oldest riding school in the world that still practises classical dressage.",
+      "source": "https://en.wikipedia.org/wiki/Vienna%27s_Spanish_Riding_School"
+    },
+    {
+      "text": "San Francisco's Alcatraz Island served as a federal prison from 1934 to 1963 and is now one of the city's top tourist attractions.",
+      "source": "https://en.wikipedia.org/wiki/San_Francisco%27s_Alcatraz_Island_served_as_a_federal_prison_from_1934_to_1963_and"
+    },
+    {
+      "text": "Dubai's Deira Gold Souk contains over 300 gold retailers and holds an estimated 10 tons of gold at any time.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Dubai%27s_Deira_Gold_Souk"
+    },
+    {
+      "text": "Edinburgh hosts the world's largest annual arts festival, the Edinburgh Festival Fringe, every August.",
+      "month": 8,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/Edinburgh_Festival_Fringe"
+    },
+    {
+      "text": "New York City has approximately 26,000 restaurants, reflecting cuisines from every corner of the world.",
+      "source": "https://en.wikipedia.org/wiki/New_York_City"
+    },
+    {
+      "text": "Tokyo's Akihabara district is the global center of anime, manga, and electronics culture.",
+      "source": "https://en.wikipedia.org/wiki/Tokyo%27s_Akihabara_district"
+    },
+    {
+      "text": "Barcelona's Park Güell, designed by Antoni Gaudí, features the world's longest bench covered in colorful mosaic tiles.",
+      "source": "https://en.wikipedia.org/wiki/Barcelona%27s_Park_G%C3%BCell%2C_designed_by_Antoni_Gaud%C3%AD"
+    },
+    {
+      "text": "Munich's Oktoberfest is the world's largest beer festival, attracting over six million visitors annually.",
+      "month": 9,
+      "day": 21,
+      "source": "https://en.wikipedia.org/wiki/Munich%27s_Oktoberfest"
+    },
+    {
+      "text": "New Orleans is the birthplace of jazz music, which emerged in the late 19th and early 20th centuries.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/New_Orleans"
+    },
+    {
+      "text": "Beijing's Forbidden City is the world's largest palace complex, covering 178 acres with 980 buildings.",
+      "source": "https://en.wikipedia.org/wiki/Beijing%27s_Forbidden_City"
+    },
+    {
+      "text": "Amsterdam's Anne Frank House museum attracts over one million visitors per year.",
+      "source": "https://en.wikipedia.org/wiki/Amsterdam%27s_Anne_Frank_House"
+    },
+    {
+      "text": "Reykjavik is the northernmost capital city of a sovereign state in the world.",
+      "source": "https://en.wikipedia.org/wiki/Reykjavik"
+    },
+    {
+      "text": "Chicago's Willis Tower (formerly Sears Tower) has a glass-bottomed Skydeck Ledge that extends 4.3 feet out from the 103rd floor.",
+      "source": "https://en.wikipedia.org/wiki/Chicago%27s_Willis_Tower_(formerly_Sears_Tower)"
+    },
+    {
+      "text": "Rio de Janeiro's Sugarloaf Mountain offers panoramic views of the city and Guanabara Bay from its 1,299-foot summit.",
+      "source": "https://en.wikipedia.org/wiki/Janeiro%27s_Sugarloaf_Mountain"
+    },
+    {
+      "text": "The Tokyo subway system carries more than 8 million passengers daily, one of the busiest in the world.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Tokyo"
+    },
+    {
+      "text": "Bruges, Belgium is often called the Venice of the North due to its extensive canal system and medieval architecture.",
+      "source": "https://en.wikipedia.org/wiki/Bruges%2C_Belgium"
+    },
+    {
+      "text": "Paris has over 470 parks and gardens, including the famous Luxembourg Gardens and Tuileries Garden.",
+      "source": "https://en.wikipedia.org/wiki/Paris"
+    },
+    {
+      "text": "Istanbul's Hagia Sophia has served as a cathedral, a mosque, a museum, and then a mosque again over its 1,500-year history.",
+      "source": "https://en.wikipedia.org/wiki/Istanbul%27s_Hagia_Sophia"
+    },
+    {
+      "text": "London's Buckingham Palace has 775 rooms, including 78 bathrooms and 19 state rooms.",
+      "source": "https://en.wikipedia.org/wiki/London%27s_Buckingham_Palace"
+    },
+    {
+      "text": "Cusco, Peru was the historic capital of the Inca Empire and sits at over 11,000 feet above sea level.",
+      "source": "https://en.wikipedia.org/wiki/Cusco%2C_Peru"
+    },
+    {
+      "text": "Nashville's hot chicken, a spicy fried chicken dish, originated at Prince's Hot Chicken Shack in the 1930s.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Prince%27s_Hot_Chicken_Shack_in_the"
+    },
+    {
+      "text": "Sydney's Bondi Beach is one of the most famous beaches in the world and has been a public beach since 1882.",
+      "source": "https://en.wikipedia.org/wiki/Sydney%27s_Bondi_Beach"
+    },
+    {
+      "text": "The Panama Canal connects the Atlantic and Pacific oceans and took ten years to build, opening on August 15, 1914.",
+      "month": 8,
+      "day": 15,
+      "source": "https://en.wikipedia.org/wiki/Panama_Canal_connects_the_Atlantic_and_Pacific_oceans_and"
+    },
+    {
+      "text": "Lisbon's Belém Tower was built in 1515 as a ceremonial gateway to the city and a fort defending the Tagus River.",
+      "source": "https://en.wikipedia.org/wiki/Lisbon%27s_Bel%C3%A9m_Tower"
+    },
+    {
+      "text": "Seoul's Myeongdong district is one of Asia's largest shopping districts, drawing over two million visitors daily.",
+      "source": "https://en.wikipedia.org/wiki/Seoul%27s_Myeongdong_district"
+    },
+    {
+      "text": "Cape Town's Victoria & Alfred Waterfront is the most visited destination in South Africa, attracting 24 million visitors annually.",
+      "source": "https://en.wikipedia.org/wiki/Cape_Town%27s_Victoria_%26_Alfred_Waterfront"
+    },
+    {
+      "text": "Rome's Pantheon has the world's largest unreinforced concrete dome, built nearly 2,000 years ago and still standing.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Rome%27s_Pantheon"
+    },
+    {
+      "text": "Bogotá, Colombia closes 75 miles of roads every Sunday for Ciclovía, allowing cyclists and pedestrians to take over the streets.",
+      "source": "https://en.wikipedia.org/wiki/Sunday_for"
+    },
+    {
+      "text": "New York's Brooklyn Bridge, opened in 1883, was the first steel-wire suspension bridge ever constructed.",
+      "month": 5,
+      "day": 24,
+      "source": "https://en.wikipedia.org/wiki/New_York%27s_Brooklyn_Bridge"
+    },
+    {
+      "text": "Madrid's Museo del Prado houses one of the finest collections of European art, with over 8,000 paintings.",
+      "source": "https://en.wikipedia.org/wiki/Madrid%27s_Museo"
+    },
+    {
+      "text": "Singapore's Gardens by the Bay features Supertrees — vertical gardens up to 50 meters tall that function as environmental engines.",
+      "source": "https://en.wikipedia.org/wiki/Singapore%27s_Gardens_by_the_Bay"
+    },
+    {
+      "text": "Tokyo's Shinjuku Station is the busiest train station in the world, serving over 3.5 million passengers daily.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Tokyo%27s_Shinjuku_Station"
+    },
+    {
+      "text": "Florence is known as the birthplace of the Renaissance and is home to Michelangelo's David sculpture.",
+      "source": "https://en.wikipedia.org/wiki/Florence"
+    },
+    {
+      "text": "Buenos Aires' La Boca neighborhood is famous for its brightly painted buildings and tango street performers.",
+      "source": "https://en.wikipedia.org/wiki/Buenos_Aires%27_La_Boca_neighborhood"
+    },
+    {
+      "text": "London's West End has been a major theater district since the 17th century and rivals Broadway for live stage performances.",
+      "source": "https://en.wikipedia.org/wiki/London%27s_West_End"
+    },
+    {
+      "text": "Miami's Little Havana neighborhood is the cultural heart of Cuban-American life and is named after Cuba's capital city.",
+      "source": "https://en.wikipedia.org/wiki/Miami%27s_Little_Havana_neighborhood"
+    },
+    {
+      "text": "Berlin's Brandenburg Gate was trapped in no-man's land during the Cold War and became a symbol of German reunification.",
+      "month": 11,
+      "day": 9,
+      "source": "https://en.wikipedia.org/wiki/Berlin%27s_Brandenburg_Gate"
+    },
+    {
+      "text": "Bangkok's Grand Palace complex covers over 200,000 square meters and has been the official residence of Thai kings since 1782.",
+      "source": "https://en.wikipedia.org/wiki/Bangkok%27s_Grand_Palace_complex_covers_over_200%2C000_square_meters_and"
+    },
+    {
+      "text": "The Vatican City, located within Rome, is the smallest independent state in the world at just 0.17 square miles.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Vatican_City%2C_located_within_Rome"
+    },
+    {
+      "text": "San Francisco's Fisherman's Wharf has been a working waterfront since the Gold Rush era of the 1850s.",
+      "source": "https://en.wikipedia.org/wiki/San_Francisco%27s_Fisherman%27s_Wharf"
+    },
+    {
+      "text": "Copenhagen's Tivoli Gardens, opened in 1843, is one of the oldest amusement parks in the world and inspired Walt Disney.",
+      "month": 8,
+      "day": 15,
+      "source": "https://en.wikipedia.org/wiki/Copenhagen%27s_Tivoli_Gardens"
+    },
+    {
+      "text": "Cairo sits on the banks of the Nile River and is the largest city in the Arab world and Africa.",
+      "source": "https://en.wikipedia.org/wiki/Cairo_sits_on_the_banks_of_the_Nile_River_and"
+    },
+    {
+      "text": "Paris's Arc de Triomphe sits at the center of 12 radiating avenues and honors those who fought for France.",
+      "source": "https://en.wikipedia.org/wiki/Paris%27s_Arc"
+    },
+    {
+      "text": "Osaka is considered the food capital of Japan, with locals following the expression kuidaore, meaning to eat until you drop.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Osaka"
+    },
+    {
+      "text": "Toronto's annual International Film Festival is one of the most prestigious in the world and has launched dozens of Oscar-winning films.",
+      "source": "https://en.wikipedia.org/wiki/Toronto%27s_annual_International_Film_Festival"
+    },
+    {
+      "text": "London's Tower of London has served as a royal palace, prison, armory, treasury, and zoo over its nearly 1,000-year history.",
+      "source": "https://en.wikipedia.org/wiki/London%27s_Tower_of_London"
+    },
+    {
+      "text": "The Hollywood Walk of Fame in Los Angeles has more than 2,700 stars embedded in the sidewalk along Hollywood Boulevard.",
+      "source": "https://en.wikipedia.org/wiki/Hollywood_Walk_of_Fame_in_Los_Angeles"
+    },
+    {
+      "text": "Marrakech's Majorelle Garden was restored by fashion designer Yves Saint Laurent and features vivid blue buildings.",
+      "source": "https://en.wikipedia.org/wiki/Marrakech%27s_Majorelle_Garden"
+    },
+    {
+      "text": "Hong Kong's Victoria Peak offers stunning panoramic views of the city skyline and Victoria Harbour.",
+      "source": "https://en.wikipedia.org/wiki/Hong_Kong%27s_Victoria_Peak"
+    },
+    {
+      "text": "Washington DC's National Mall stretches two miles from the Capitol Building to the Lincoln Memorial.",
+      "source": "https://en.wikipedia.org/wiki/Washington_DC%27s_National_Mall"
+    },
+    {
+      "text": "Venice holds an annual Carnival celebration featuring elaborate masks and costumes dating back to the 12th century.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Famous_Cities"
+    },
+    {
+      "text": "The Great Fire of London in 1666 destroyed over 13,000 houses and 87 churches but led to the city being rebuilt in stone and brick.",
+      "month": 9,
+      "day": 2,
+      "source": "https://en.wikipedia.org/wiki/Great_Fire_of_London"
+    },
+    {
+      "text": "Lima's historic center is a UNESCO World Heritage Site featuring colonial architecture from the 16th century.",
+      "source": "https://en.wikipedia.org/wiki/Lima%27s_historic_center"
+    },
+    {
+      "text": "Seoul's Bukchon Hanok Village preserves hundreds of traditional Korean houses dating back to the Joseon dynasty.",
+      "source": "https://en.wikipedia.org/wiki/Seoul%27s_Bukchon_Hanok_Village"
+    },
+    {
+      "text": "New York's Grand Central Terminal is one of the most visited tourist attractions in the world, with approximately 750,000 visitors daily.",
+      "source": "https://en.wikipedia.org/wiki/New_York%27s_Grand_Central_Terminal"
+    },
+    {
+      "text": "Vienna's Naschmarkt has been a food market since the 16th century and offers everything from Viennese pastries to international cuisine.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Vienna%27s_Naschmarkt"
+    },
+    {
+      "text": "Istanbul has over 3,000 mosques, the most of any city in the world.",
+      "source": "https://en.wikipedia.org/wiki/Istanbul"
+    },
+    {
+      "text": "Mexico City's Zócalo is one of the largest public squares in the world and has been the city's main gathering place since Aztec times.",
+      "source": "https://en.wikipedia.org/wiki/Mexico_City%27s_Z%C3%B3calo"
+    },
+    {
+      "text": "Amsterdam has over 100 kilometers of canals, about 90 islands, and 1,500 bridges.",
+      "source": "https://en.wikipedia.org/wiki/Amsterdam"
+    },
+    {
+      "text": "Dubrovnik's old city walls stretch for nearly two kilometers and were used as a filming location for King's Landing in Game of Thrones.",
+      "source": "https://en.wikipedia.org/wiki/Dubrovnik%27s_old_city_walls_stretch_for_nearly_two_kilometers_and"
+    },
+    {
+      "text": "Chicago's Millennium Park features Cloud Gate, commonly called The Bean, a 110-ton polished stainless steel sculpture.",
+      "source": "https://en.wikipedia.org/wiki/Chicago%27s_Millennium_Park"
+    },
+    {
+      "text": "Bangkok has over 400 Buddhist temples, known as wats, including the famous Wat Phra Kaew and Wat Arun.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Bangkok"
+    },
+    {
+      "text": "San Francisco experienced a devastating earthquake and fire on April 18, 1906, destroying over 80 percent of the city.",
+      "month": 4,
+      "day": 18,
+      "source": "https://en.wikipedia.org/wiki/San_Francisco"
+    },
+    {
+      "text": "London's Notting Hill Carnival is the largest street festival in Europe, celebrating Caribbean culture every August.",
+      "source": "https://en.wikipedia.org/wiki/London%27s_Notting_Hill_Carnival"
+    },
+    {
+      "text": "Dubai's Palm Jumeirah can be seen from space and was built using enough sand to fill 2.5 Empire State Buildings.",
+      "source": "https://en.wikipedia.org/wiki/Dubai%27s_Palm_Jumeirah_can_be_seen_from_space_and"
+    },
+    {
+      "text": "Tokyo's Meiji Shrine is surrounded by a forest of 120,000 trees donated from all over Japan when it was built in 1920.",
+      "source": "https://en.wikipedia.org/wiki/Tokyo%27s_Meiji_Shrine"
+    },
+    {
+      "text": "The oldest continuously inhabited city in the world is Damascus, Syria, with evidence of habitation dating back 11,000 years.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/oldest_continuously_inhabited_city_in_the_world"
+    },
+    {
+      "text": "Rome's Trevi Fountain was featured in the 1960 film La Dolce Vita and has been a symbol of romance in cinema ever since.",
+      "source": "https://en.wikipedia.org/wiki/Rome%27s_Trevi_Fountain"
+    },
+    {
+      "text": "Nairobi is one of the few major cities in the world with a national park within its borders — Nairobi National Park.",
+      "source": "https://en.wikipedia.org/wiki/Nairobi"
+    },
+    {
+      "text": "Paris's Moulin Rouge cabaret has been entertaining audiences since it opened in 1889.",
+      "month": 10,
+      "day": 6,
+      "source": "https://en.wikipedia.org/wiki/Paris%27s_Moulin_Rouge_cabaret"
+    },
+    {
+      "text": "New York City's Statue of Liberty was assembled from 300 copper sheets and has a 35-foot waistline.",
+      "source": "https://en.wikipedia.org/wiki/New_York_City%27s_Statue_of_Liberty"
+    },
+    {
+      "text": "Prague's Old Town Square features an astronomical clock that puts on a show of moving apostle figures every hour.",
+      "source": "https://en.wikipedia.org/wiki/Prague%27s_Old_Town_Square"
+    },
+    {
+      "text": "Barcelona has nine UNESCO World Heritage Sites designed by architect Antoni Gaudí.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Barcelona"
+    },
+    {
+      "text": "Las Vegas casinos have no clocks or windows to help visitors lose track of time while gambling.",
+      "source": "https://en.wikipedia.org/wiki/Las_Vegas_casinos"
+    },
+    {
+      "text": "Sydney hosted the 2000 Summer Olympics, widely regarded as one of the most successful Games in modern history.",
+      "month": 9,
+      "day": 15,
+      "source": "https://en.wikipedia.org/wiki/Summer_Olympics"
+    },
+    {
+      "text": "Cape Town is one of the most biodiverse cities on Earth, located within the Cape Floristic Region with over 9,000 plant species.",
+      "source": "https://en.wikipedia.org/wiki/Cape_Town"
+    },
+    {
+      "text": "Tokyo's Ginza district is one of the most expensive shopping areas in the world, with land prices rivaling Manhattan.",
+      "source": "https://en.wikipedia.org/wiki/Tokyo%27s_Ginza_district"
+    },
+    {
+      "text": "The Acropolis of Athens has been damaged by war, earthquakes, and pollution, yet has endured for nearly 2,500 years.",
+      "source": "https://en.wikipedia.org/wiki/Acropolis_of_Athens"
+    },
+    {
+      "text": "New Orleans' French Quarter is the oldest neighborhood in the city, founded by the French in 1718.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/New_Orleans%27_French_Quarter"
+    },
+    {
+      "text": "Berlin has more museums than rainy days per year, with over 170 museums throughout the city.",
+      "source": "https://en.wikipedia.org/wiki/Berlin"
+    },
+    {
+      "text": "Mumbai's Marine Drive, a 3.6-kilometer arc-shaped boulevard, is nicknamed the Queen's Necklace for its nighttime lights.",
+      "source": "https://en.wikipedia.org/wiki/Mumbai%27s_Marine_Drive%2C_a_3.6-kilometer_arc-shaped_boulevard"
+    },
+    {
+      "text": "Milan's Cathedral, the Duomo, took nearly six centuries to complete and features over 3,400 statues.",
+      "source": "https://en.wikipedia.org/wiki/Milan%27s_Cathedral%2C_the_Duomo%2C_took_nearly_six_centuries_to_complete_and"
+    },
+    {
+      "text": "Havana's Malecón seawall stretches for 8 kilometers and is the social gathering spot for the city's residents.",
+      "source": "https://en.wikipedia.org/wiki/Havana%27s_Malec%C3%B3n_seawall_stretches_for_8_kilometers_and"
+    },
+    {
+      "text": "London's Heathrow Airport is one of the busiest airports in the world, handling over 80 million passengers annually.",
+      "source": "https://en.wikipedia.org/wiki/London%27s_Heathrow_Airport"
+    },
+    {
+      "text": "Petra, near Amman, Jordan, features buildings carved directly into rose-red cliff faces over 2,000 years ago.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Petra%2C_near_Amman%2C_Jordan"
+    },
+    {
+      "text": "Mexico City has the largest number of museums in the Americas, with over 150 recognized museums.",
+      "source": "https://en.wikipedia.org/wiki/Mexico_City"
+    },
+    {
+      "text": "Amsterdam's Van Gogh Museum holds the largest collection of Van Gogh's works, with over 200 paintings and 500 drawings.",
+      "source": "https://en.wikipedia.org/wiki/Amsterdam%27s_Van_Gogh_Museum"
+    },
+    {
+      "text": "Buenos Aires is known as the Paris of South America due to its European-style architecture and café culture.",
+      "source": "https://en.wikipedia.org/wiki/Buenos_Aires"
+    },
+    {
+      "text": "Shanghai's The Bund waterfront features 52 buildings in various architectural styles including Gothic, Baroque, and Art Deco.",
+      "source": "https://en.wikipedia.org/wiki/Shanghai%27s_The_Bund_waterfront"
+    },
+    {
+      "text": "Boston's Fenway Park, opened in 1912, is the oldest active Major League Baseball park in the United States.",
+      "month": 4,
+      "day": 20,
+      "source": "https://en.wikipedia.org/wiki/Boston%27s_Fenway_Park"
+    },
+    {
+      "text": "Bangkok's floating markets, including Damnoen Saduak, are iconic images of Thai culture where vendors sell food from boats.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Bangkok%27s_floating_markets%2C_including_Damnoen_Saduak"
+    },
+    {
+      "text": "Rome is home to the smallest country in the world — Vatican City — which has its own postal service, radio station, and army.",
+      "source": "https://en.wikipedia.org/wiki/Rome"
+    },
+    {
+      "text": "Wellington, New Zealand is the world's southernmost capital city.",
+      "source": "https://en.wikipedia.org/wiki/Wellington%2C_New_Zealand"
+    },
+    {
+      "text": "Paris's Shakespeare and Company bookshop has been a literary landmark since the 1920s, hosting writers like Hemingway and Joyce.",
+      "source": "https://en.wikipedia.org/wiki/Paris%27s_Shakespeare_and_Company_bookshop"
+    },
+    {
+      "text": "New York's Empire State Building was the tallest building in the world for nearly 40 years, from 1931 to 1970.",
+      "source": "https://en.wikipedia.org/wiki/New_York%27s_Empire_State_Building"
+    },
+    {
+      "text": "Lyon, France is considered the gastronomic capital of the world, known for its bouchons and Michelin-starred restaurants.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Lyon%2C_France"
+    },
+    {
+      "text": "Istanbul's Basilica Cistern is an underground water reservoir built in 532 AD that holds 80,000 cubic meters of water.",
+      "source": "https://en.wikipedia.org/wiki/Istanbul%27s_Basilica_Cistern"
+    },
+    {
+      "text": "Kyoto's Fushimi Inari Shrine features thousands of vermilion torii gates winding up Mount Inari.",
+      "source": "https://en.wikipedia.org/wiki/Kyoto%27s_Fushimi_Inari_Shrine"
+    },
+    {
+      "text": "San Francisco's Lombard Street is famous for its steep, one-block section featuring eight sharp hairpin turns.",
+      "source": "https://en.wikipedia.org/wiki/San_Francisco%27s_Lombard_Street"
+    },
+    {
+      "text": "Rio de Janeiro means River of January in Portuguese, named by explorers who arrived in January 1502.",
+      "month": 1,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/Rio_de_Janeiro_means_River_of_January_in_Portuguese"
+    },
+    {
+      "text": "Toronto is one of the most multicultural cities in the world — over 200 ethnic groups speak more than 140 languages.",
+      "source": "https://en.wikipedia.org/wiki/Toronto"
+    },
+    {
+      "text": "London's Globe Theatre is a reconstruction of the original theater where Shakespeare's plays were first performed.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/London%27s_Globe_Theatre"
+    },
+    {
+      "text": "Chicago's Willis Tower has 16,100 windows that are washed eight times a year by a crew of window washers.",
+      "source": "https://en.wikipedia.org/wiki/Chicago%27s_Willis_Tower"
+    },
+    {
+      "text": "Dubai's Dubai Mall is one of the largest shopping malls in the world, with over 1,200 retail stores and an indoor aquarium.",
+      "source": "https://en.wikipedia.org/wiki/Dubai%27s_Dubai_Mall"
+    },
+    {
+      "text": "Lisbon's hills give the city the nickname City of Seven Hills, much like Rome.",
+      "source": "https://en.wikipedia.org/wiki/Lisbon%27s_hills"
+    },
+    {
+      "text": "Singapore's hawker centers are open-air food courts that serve some of the best and cheapest street food in the world.",
+      "source": "https://en.wikipedia.org/wiki/Singapore%27s_hawker_centers"
+    },
+    {
+      "text": "Athens was the first European Capital of Culture in 1985, a designation by the European Union.",
+      "source": "https://en.wikipedia.org/wiki/Athens"
+    },
+    {
+      "text": "New York City's Broadway theater district has about 41 professional theaters in a small area around Times Square.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/New_York_City%27s_Broadway_theater_district"
+    },
+    {
+      "text": "Cape Town's Robben Island, where Nelson Mandela was imprisoned for 18 years, is now a UNESCO World Heritage Site and museum.",
+      "source": "https://en.wikipedia.org/wiki/Cape_Town%27s_Robben_Island%2C_where_Nelson_Mandela"
+    },
+    {
+      "text": "Oslo, Norway's capital, is surrounded by forests and fjords and is one of the greenest cities in Europe.",
+      "source": "https://en.wikipedia.org/wiki/Oslo%2C_Norway%27s_capital"
+    },
+    {
+      "text": "Chicago hosted the World's Columbian Exposition in 1893, which introduced the Ferris wheel, Cracker Jack, and Juicy Fruit gum.",
+      "month": 5,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/Chicago_hosted_the_World%27s_Columbian_Exposition_in_1893%2C_which"
+    },
+    {
+      "text": "Tokyo's cherry blossom season in spring draws millions of visitors to parks across the city for hanami flower-viewing parties.",
+      "source": "https://en.wikipedia.org/wiki/Famous_Cities"
+    },
+    {
+      "text": "Medellín, Colombia transformed from one of the most dangerous cities in the world to an innovation hub through urban planning.",
+      "source": "https://en.wikipedia.org/wiki/Famous_Cities"
+    },
+    {
+      "text": "Paris's Notre-Dame Cathedral, started in 1163, is one of the finest examples of French Gothic architecture.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Paris%27s_Notre-Dame_Cathedral%2C_started_in_1163"
+    },
+    {
+      "text": "London's Brick Lane is famous for its vibrant street art, curry houses, and vintage markets.",
+      "source": "https://en.wikipedia.org/wiki/London%27s_Brick_Lane"
+    },
+    {
+      "text": "Miami's South Beach is known for its pastel-colored Art Deco buildings dating from the 1930s and 1940s.",
+      "source": "https://en.wikipedia.org/wiki/Miami%27s_South_Beach"
+    },
+    {
+      "text": "Marrakech is called the Red City due to the distinctive reddish-pink color of its walls and buildings.",
+      "source": "https://en.wikipedia.org/wiki/Marrakech"
+    },
+    {
+      "text": "The Sagrada Familia in Barcelona receives over 4.5 million visitors per year, making it Spain's most visited monument.",
+      "source": "https://en.wikipedia.org/wiki/Sagrada_Familia_in_Barcelona"
+    },
+    {
+      "text": "Seoul's Lotte World Tower stands at 555 meters and is the fifth tallest building in the world.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Seoul%27s_Lotte_World_Tower_stands_at_555_meters_and"
+    },
+    {
+      "text": "New York City's subway runs 24 hours a day, 7 days a week — one of the few transit systems in the world to do so.",
+      "source": "https://en.wikipedia.org/wiki/New_York_City%27s"
+    },
+    {
+      "text": "Ho Chi Minh City, formerly Saigon, is Vietnam's largest city and economic hub with a population of over nine million.",
+      "source": "https://en.wikipedia.org/wiki/Ho_Chi_Minh_City%2C_formerly_Saigon"
+    },
+    {
+      "text": "Venice is built on 118 small islands separated by canals and has no roads — transportation is entirely by boat or on foot.",
+      "source": "https://en.wikipedia.org/wiki/Venice"
+    },
+    {
+      "text": "Hong Kong's Kowloon Walled City was once the most densely populated place on Earth with 33,000 people in 6.4 acres before its demolition in 1993.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Hong_Kong%27s_Kowloon_Walled_City"
+    },
+    {
+      "text": "Berlin's Museum Island in the Spree River contains five world-renowned museums and is a UNESCO World Heritage Site.",
+      "source": "https://en.wikipedia.org/wiki/Berlin%27s_Museum_Island_in_the_Spree_River"
+    },
+    {
+      "text": "Los Angeles is the entertainment capital of the world, home to major film studios including Warner Bros, Universal, and Paramount.",
+      "source": "https://en.wikipedia.org/wiki/Los_Angeles"
+    },
+    {
+      "text": "Istanbul connects Europe and Asia via two suspension bridges and a rail tunnel crossing the Bosphorus.",
+      "source": "https://en.wikipedia.org/wiki/Europe_and_Asia"
+    },
+    {
+      "text": "Nashville has more than 180 live music venues, earning it the reputation of having live music on every corner.",
+      "source": "https://en.wikipedia.org/wiki/Nashville"
+    },
+    {
+      "text": "Denver, Colorado is called the Mile High City because its elevation is exactly one mile (5,280 feet) above sea level.",
+      "source": "https://en.wikipedia.org/wiki/Denver%2C_Colorado"
+    },
+    {
+      "text": "Barcelona's Las Ramblas pedestrian boulevard stretches 1.2 kilometers from Plaça de Catalunya to the waterfront.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Barcelona%27s_Las_Ramblas"
+    },
+    {
+      "text": "Beijing's Temple of Heaven complex is four times the size of the Forbidden City.",
+      "source": "https://en.wikipedia.org/wiki/Beijing%27s_Temple_of_Heaven_complex"
+    },
+    {
+      "text": "The population of Tokyo's greater metropolitan area exceeds 37 million, making it the most populous metropolitan area in the world.",
+      "source": "https://en.wikipedia.org/wiki/Famous_Cities"
+    },
+    {
+      "text": "Amsterdam was founded as a small fishing village at the mouth of the Amstel River in the late 12th century.",
+      "source": "https://en.wikipedia.org/wiki/Amsterdam"
+    },
+    {
+      "text": "Cairo's City of the Dead is a vast necropolis where some families have taken up residence among the tombs.",
+      "source": "https://en.wikipedia.org/wiki/Cairo%27s_City_of_the_Dead"
+    },
+    {
+      "text": "New York's One World Trade Center opened on November 3, 2014, standing 1,776 feet tall — a symbolic reference to American independence.",
+      "month": 11,
+      "day": 3,
+      "source": "https://en.wikipedia.org/wiki/New_York%27s_One_World_Trade_Center"
+    },
+    {
+      "text": "London's Borough Market has been trading in some form since the 13th century, making it one of the oldest food markets in the world.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/London%27s_Borough_Market"
+    },
+    {
+      "text": "Prague's beer consumption per capita is the highest in the world, with Czech citizens drinking about 140 liters per person annually.",
+      "source": "https://en.wikipedia.org/wiki/Prague%27s_beer_consumption_per_capita"
+    },
+    {
+      "text": "Singapore's Marina Bay Sands hotel features a rooftop infinity pool 57 stories above ground, stretching 150 meters.",
+      "source": "https://en.wikipedia.org/wiki/Singapore%27s_Marina_Bay_Sands_hotel"
+    },
+    {
+      "text": "Buenos Aires has the widest avenue and the longest avenue in the world — Avenida 9 de Julio and Avenida Rivadavia respectively.",
+      "source": "https://en.wikipedia.org/wiki/Buenos_Aires"
+    },
+    {
+      "text": "Rome has a drinking fountain called a nasone on nearly every major street, providing free clean water to residents and visitors.",
+      "source": "https://en.wikipedia.org/wiki/Rome"
+    },
+    {
+      "text": "Dubai Frame is a 150-meter-tall picture-frame-shaped building that frames views of old and new Dubai from each side.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Dubai_Frame"
+    },
+    {
+      "text": "Hanoi is one of the oldest capital cities in the world, celebrating its 1,000th anniversary in 2010.",
+      "month": 10,
+      "day": 10,
+      "source": "https://en.wikipedia.org/wiki/Hanoi"
+    },
+    {
+      "text": "Los Angeles has approximately 300 sunny days per year, one of the sunniest cities in the United States.",
+      "source": "https://en.wikipedia.org/wiki/Los_Angeles"
+    },
+    {
+      "text": "Kraków's Main Square, Rynek Główny, is the largest medieval town square in Europe at about 40,000 square meters.",
+      "source": "https://en.wikipedia.org/wiki/Krak%C3%B3w%27s_Main_Square%2C_Rynek_G%C5%82%C3%B3wny"
+    },
+    {
+      "text": "Bangkok's Chatuchak Weekend Market has over 15,000 stalls and is one of the largest outdoor markets in the world.",
+      "source": "https://en.wikipedia.org/wiki/Bangkok%27s_Chatuchak_Weekend_Market"
+    },
+    {
+      "text": "Washington DC's cherry blossoms were a gift of 3,000 trees from the Mayor of Tokyo in 1912.",
+      "month": 3,
+      "day": 27,
+      "source": "https://en.wikipedia.org/wiki/Washington_DC%27s_cherry_blossoms"
+    },
+    {
+      "text": "The Petronas Towers in Kuala Lumpur are connected by a sky bridge at the 41st floor, 170 meters above the ground.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Petronas_Towers_in_Kuala_Lumpur"
+    },
+    {
+      "text": "Helsinki's unique architectural blend includes Art Nouveau, neoclassical, and modern styles, including Alvar Aalto's designs.",
+      "source": "https://en.wikipedia.org/wiki/Helsinki%27s_unique_architectural_blend"
+    },
+    {
+      "text": "The ancient city of Varanasi in India is one of the world's oldest continuously inhabited cities, dating back over 3,000 years.",
+      "source": "https://en.wikipedia.org/wiki/ancient_city_of_Varanasi_in_India"
+    },
+    {
+      "text": "London's Covent Garden was originally a fruit and vegetable market before becoming a shopping and entertainment district.",
+      "source": "https://en.wikipedia.org/wiki/London%27s_Covent_Garden"
+    },
+    {
+      "text": "Tokyo's Harajuku district is the epicenter of Japanese youth culture and street fashion.",
+      "source": "https://en.wikipedia.org/wiki/Tokyo%27s_Harajuku_district"
+    },
+    {
+      "text": "Chicago's Navy Pier extends 3,300 feet into Lake Michigan and is one of the most visited attractions in the Midwest.",
+      "source": "https://en.wikipedia.org/wiki/Chicago%27s_Navy_Pier_extends_3%2C300_feet_into_Lake_Michigan_and"
+    },
+    {
+      "text": "Jaipur is known as the Pink City because in 1876 the entire old city was painted terracotta pink to welcome the Prince of Wales.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Jaipur"
+    },
+    {
+      "text": "San Francisco's fog is so famous that locals have given it the name Karl.",
+      "source": "https://en.wikipedia.org/wiki/San_Francisco%27s_fog"
+    },
+    {
+      "text": "Cartagena, Colombia's walled old city is a UNESCO World Heritage Site featuring colorful colonial architecture.",
+      "source": "https://en.wikipedia.org/wiki/Cartagena%2C_Colombia%27s_walled_old_city"
+    },
+    {
+      "text": "Paris's Père Lachaise Cemetery is the most visited cemetery in the world, where Jim Morrison, Oscar Wilde, and Édith Piaf are buried.",
+      "source": "https://en.wikipedia.org/wiki/Paris%27s_P%C3%A8re_Lachaise_Cemetery"
+    },
+    {
+      "text": "New York City produces enough trash each day to fill the Empire State Building.",
+      "source": "https://en.wikipedia.org/wiki/New_York_City"
+    },
+    {
+      "text": "Istanbul's Topkapi Palace served as the primary residence of Ottoman sultans for almost 400 years.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Istanbul%27s_Topkapi_Palace"
+    },
+    {
+      "text": "Zurich consistently ranks as one of the most expensive cities in the world but also one of the highest in quality of life.",
+      "source": "https://en.wikipedia.org/wiki/Famous_Cities"
+    },
+    {
+      "text": "Seoul's Dongdaemun Design Plaza, designed by Zaha Hadid, is a major urban landmark built on a historic site.",
+      "source": "https://en.wikipedia.org/wiki/Seoul%27s_Dongdaemun_Design_Plaza%2C_designed_by_Zaha_Hadid"
+    },
+    {
+      "text": "Las Vegas's Bellagio fountain show features over 1,000 fountains that shoot water up to 460 feet in the air choreographed to music.",
+      "source": "https://en.wikipedia.org/wiki/Las_Vegas%27s_Bellagio_fountain_show"
+    },
+    {
+      "text": "Cape Town's Bo-Kaap neighborhood is famous for its brightly painted houses in the historic Malay Quarter.",
+      "source": "https://en.wikipedia.org/wiki/Cape_Town%27s_Bo-Kaap_neighborhood"
+    },
+    {
+      "text": "Barcelona hosted the 1992 Summer Olympics, which transformed the city's waterfront and infrastructure.",
+      "month": 7,
+      "day": 25,
+      "source": "https://en.wikipedia.org/wiki/Summer_Olympics"
+    },
+    {
+      "text": "London taxi drivers must pass The Knowledge, a grueling test requiring memorization of 25,000 streets within a six-mile radius.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Knowledge"
+    },
+    {
+      "text": "Dubrovnik's city walls have never been breached by a hostile army throughout their centuries-long history.",
+      "source": "https://en.wikipedia.org/wiki/Dubrovnik%27s_city_walls"
+    },
+    {
+      "text": "Bangkok's Khao San Road is one of the most famous backpacker streets in the world.",
+      "source": "https://en.wikipedia.org/wiki/Bangkok%27s_Khao_San_Road"
+    },
+    {
+      "text": "Rome has over 900 churches, more than any other city in the world.",
+      "source": "https://en.wikipedia.org/wiki/Rome"
+    },
+    {
+      "text": "New York City's pizza culture is so strong that there are more than 1,600 pizzerias across the five boroughs.",
+      "source": "https://en.wikipedia.org/wiki/New_York_City%27s_pizza_culture"
+    },
+    {
+      "text": "Angkor Wat near Siem Reap, Cambodia is the largest religious monument in the world, spanning over 400 acres.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Angkor_Wat_near_Siem_Reap%2C_Cambodia"
+    },
+    {
+      "text": "Amsterdam's Red Light District, De Wallen, dates back to the 14th century when the city was a major port.",
+      "source": "https://en.wikipedia.org/wiki/Amsterdam%27s_Red_Light_District%2C_De_Wallen%2C_dates_back_to_the_14th_century_when_the_city"
+    },
+    {
+      "text": "Helsinki's Temppeliaukio Church is carved directly into solid rock and is one of Finland's most visited attractions.",
+      "source": "https://en.wikipedia.org/wiki/Helsinki%27s_Temppeliaukio_Church"
+    },
+    {
+      "text": "Dubai's artificial islands include The World, a cluster of 300 islands shaped like a world map visible from space.",
+      "source": "https://en.wikipedia.org/wiki/World"
+    },
+    {
+      "text": "Mexico City's Palacio de Bellas Artes is considered the most important cultural center in the country with murals by Diego Rivera.",
+      "source": "https://en.wikipedia.org/wiki/Mexico_City%27s_Palacio_de_Bellas_Artes"
+    },
+    {
+      "text": "The Berlin Wall divided Berlin for 28 years, from 1961 to 1989.",
+      "month": 8,
+      "day": 13,
+      "source": "https://en.wikipedia.org/wiki/Berlin_Wall"
+    },
+    {
+      "text": "Paris has only one stop sign in the entire city, located at the exit of a building company's yard near the Quai Saint-Exupéry.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Paris"
+    },
+    {
+      "text": "Tokyo's Tsukiji Outer Market is known for serving the freshest sushi in the world.",
+      "source": "https://en.wikipedia.org/wiki/Tokyo%27s_Tsukiji_Outer_Market"
+    },
+    {
+      "text": "Buenos Aires developed a unique tango culture that UNESCO recognized as an Intangible Cultural Heritage of Humanity in 2009.",
+      "source": "https://en.wikipedia.org/wiki/Buenos_Aires"
+    },
+    {
+      "text": "New Orleans' above-ground cemeteries are called Cities of the Dead because the high water table prevents traditional burials.",
+      "source": "https://en.wikipedia.org/wiki/New_Orleans%27_above-ground_cemeteries"
+    },
+    {
+      "text": "Sydney's New Year's Eve fireworks display over the Harbour Bridge is one of the most-watched celebrations in the world.",
+      "source": "https://en.wikipedia.org/wiki/Sydney%27s_New_Year%27s_Eve_fireworks_display_over_the_Harbour_Bridge"
+    },
+    {
+      "text": "Hong Kong's MTR system has an on-time rate of over 99.9 percent, making it one of the most reliable transit systems globally.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Hong_Kong%27s_MTR_system"
+    },
+    {
+      "text": "Edinburgh Castle sits atop Castle Rock, an extinct volcanic plug that has been a fortified site for over 3,000 years.",
+      "source": "https://en.wikipedia.org/wiki/Edinburgh_Castle_sits_atop_Castle_Rock%2C_an_extinct_volcanic_plug_that"
+    },
+    {
+      "text": "Mumbai's Gateway of India was built to commemorate the visit of King George V and Queen Mary in 1911.",
+      "source": "https://en.wikipedia.org/wiki/Mumbai%27s_Gateway_of_India"
+    },
+    {
+      "text": "Athens has continuous habitation for over 5,000 years, making it one of the oldest cities in the world.",
+      "source": "https://en.wikipedia.org/wiki/Athens"
+    },
+    {
+      "text": "Boston's Big Dig, completed in 2007, was the most expensive highway project in US history at over $14.6 billion.",
+      "source": "https://en.wikipedia.org/wiki/Boston%27s_Big_Dig%2C_completed_in_2007"
+    },
+    {
+      "text": "Vienna's Theater an der Wien premiered Beethoven's Fidelio in 1805 and remains one of the world's great opera houses.",
+      "source": "https://en.wikipedia.org/wiki/Vienna%27s_Theater"
+    },
+    {
+      "text": "The Taj Mahal, near Agra, India, was built by Mughal Emperor Shah Jahan in memory of his wife and took 22 years to complete.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Taj_Mahal%2C_near_Agra%2C_India"
+    },
+    {
+      "text": "Shanghai's Yu Garden has been a tranquil retreat in the city since 1559 during the Ming Dynasty.",
+      "source": "https://en.wikipedia.org/wiki/Shanghai%27s_Yu_Garden"
+    },
+    {
+      "text": "London's Natural History Museum houses over 80 million specimens from the natural world, some dating back billions of years.",
+      "source": "https://en.wikipedia.org/wiki/London%27s_Natural_History_Museum"
+    },
+    {
+      "text": "San Francisco's cable car system is the last manually operated cable car system in the world.",
+      "source": "https://en.wikipedia.org/wiki/San_Francisco%27s_cable_car_system"
+    },
+    {
+      "text": "Prague is the fourteenth-largest city in the European Union and is sometimes called the Heart of Europe.",
+      "source": "https://en.wikipedia.org/wiki/Prague"
+    },
+    {
+      "text": "Bangkok residents spend an average of 72 minutes commuting each day, among the longest commute times in the world.",
+      "source": "https://en.wikipedia.org/wiki/Famous_Cities"
+    },
+    {
+      "text": "Chicago's Field Museum houses Sue, the largest and most complete Tyrannosaurus rex skeleton ever discovered.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Chicago%27s_Field_Museum"
+    },
+    {
+      "text": "Rio de Janeiro's Ipanema Beach inspired the famous bossa nova song The Girl from Ipanema in 1962.",
+      "source": "https://en.wikipedia.org/wiki/Rio_de_Janeiro%27s_Ipanema_Beach"
+    },
+    {
+      "text": "Singapore's strict laws include heavy fines for jaywalking, littering, and failing to flush a public toilet.",
+      "source": "https://en.wikipedia.org/wiki/Famous_Cities"
+    },
+    {
+      "text": "Paris is the most visited city in Europe, with over 30 million international tourists arriving annually.",
+      "source": "https://en.wikipedia.org/wiki/Paris"
+    },
+    {
+      "text": "Istanbul's Blue Mosque gets its nickname from the 20,000 handmade blue Iznik tiles decorating its interior.",
+      "source": "https://en.wikipedia.org/wiki/Istanbul%27s_Blue_Mosque"
+    },
+    {
+      "text": "New York City has 520 miles of subway track, enough to stretch from Manhattan to Toronto.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/New_York_City"
+    },
+    {
+      "text": "Lisbon was nearly destroyed by a massive earthquake, tsunami, and fire on November 1, 1755, one of the deadliest natural disasters in European history.",
+      "month": 11,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/Lisbon"
+    },
+    {
+      "text": "Los Angeles' Griffith Observatory has been featured in numerous films and offers free admission to the public.",
+      "source": "https://en.wikipedia.org/wiki/Los_Angeles%27_Griffith_Observatory"
+    },
+    {
+      "text": "Amsterdam's Concert­gebouw is regarded as having some of the finest acoustics of any concert hall in the world.",
+      "source": "https://en.wikipedia.org/wiki/Amsterdam%27s_Concert%C2%ADgebouw"
+    },
+    {
+      "text": "Tokyo hosted the 1964 Summer Olympics, which showcased Japan's postwar recovery and introduced the bullet train.",
+      "month": 10,
+      "day": 10,
+      "source": "https://en.wikipedia.org/wiki/Tokyo_hosted_the_1964_Summer_Olympics%2C_which_showcased_Japan%27s_postwar_recovery_and"
+    },
+    {
+      "text": "Cairo's Egyptian Museum holds over 120,000 artifacts including the golden mask of Tutankhamun.",
+      "source": "https://en.wikipedia.org/wiki/Cairo%27s_Egyptian_Museum"
+    },
+    {
+      "text": "Seville's Alcázar palace is the oldest royal palace still in use in Europe, originally built in the 10th century.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Seville%27s_Alc%C3%A1zar_palace"
+    },
+    {
+      "text": "Boston's Harvard University, founded in 1636, is the oldest institution of higher learning in the United States.",
+      "source": "https://en.wikipedia.org/wiki/Boston%27s_Harvard_University"
+    },
+    {
+      "text": "Dubai's metro system is the longest driverless, fully automated metro network in the world.",
+      "source": "https://en.wikipedia.org/wiki/Dubai%27s_metro_system"
+    },
+    {
+      "text": "Rome's SPQR initials stand for Senatus Populusque Romanus and can still be seen on manhole covers and buildings throughout the city.",
+      "source": "https://en.wikipedia.org/wiki/Rome%27s_SPQR"
+    },
+    {
+      "text": "Montreal's underground city, RÉSO, is the largest underground complex in the world with 32 kilometers of tunnels.",
+      "source": "https://en.wikipedia.org/wiki/Montreal%27s_underground_city%2C_R%C3%89SO"
+    },
+    {
+      "text": "Seoul was named the World Design Capital in 2010, recognized for using design to improve urban life.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Seoul"
+    },
+    {
+      "text": "Kyoto's Kinkaku-ji, the Golden Pavilion, is covered in actual gold leaf and reflects beautifully on the surrounding pond.",
+      "source": "https://en.wikipedia.org/wiki/Kyoto%27s_Kinkaku-ji%2C_the_Golden_Pavilion"
+    },
+    {
+      "text": "New York's Wall Street gets its name from a literal wall that Dutch colonists built in the 17th century to protect against attacks.",
+      "source": "https://en.wikipedia.org/wiki/New_York%27s_Wall_Street_gets_its_name_from_a_literal_wall_that_Dutch_colonists"
+    },
+    {
+      "text": "Barcelona's Magic Fountain of Montjuïc puts on free light and music shows that attract over 2.5 million spectators per year.",
+      "source": "https://en.wikipedia.org/wiki/Barcelona%27s_Magic_Fountain_of"
+    },
+    {
+      "text": "London's Oyster card transit system is named after the phrase the world is your oyster.",
+      "source": "https://en.wikipedia.org/wiki/London%27s_Oyster_card_transit_system"
+    },
+    {
+      "text": "Ho Chi Minh City has more motorbikes than people, with over 7.5 million registered motorcycles for a population of about 9 million.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Ho_Chi_Minh_City"
+    },
+    {
+      "text": "The Sydney Opera House's roof is made of over one million tiles, all manufactured in Sweden.",
+      "source": "https://en.wikipedia.org/wiki/Sydney_Opera_House%27s_roof"
+    },
+    {
+      "text": "Addis Ababa, Ethiopia is the highest capital city in Africa, sitting at about 2,355 meters above sea level.",
+      "source": "https://en.wikipedia.org/wiki/Addis_Ababa%2C_Ethiopia"
+    },
+    {
+      "text": "Chicago's Wrigley Field has had ivy growing on its outfield walls since 1937.",
+      "month": 4,
+      "day": 23,
+      "source": "https://en.wikipedia.org/wiki/Chicago%27s_Wrigley_Field"
+    },
+    {
+      "text": "Vienna consistently tops global quality-of-life and livability rankings.",
+      "source": "https://en.wikipedia.org/wiki/Famous_Cities"
+    },
+    {
+      "text": "Paris's Champs-Élysées is often considered the most beautiful avenue in the world, stretching 1.9 kilometers.",
+      "source": "https://en.wikipedia.org/wiki/Paris%27s_Champs-%C3%89lys%C3%A9es"
+    },
+    {
+      "text": "New York's Metropolitan Museum of Art has a collection of over two million works spanning 5,000 years of history.",
+      "source": "https://en.wikipedia.org/wiki/New_York%27s_Metropolitan_Museum_of_Art"
+    },
+    {
+      "text": "Singapore's total land area is only about 733 square kilometers but it continues to grow through land reclamation.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Singapore%27s_total_land_area"
+    },
+    {
+      "text": "Tokyo's Robot Restaurant in Shinjuku features colorfully lit performances with robots, dancers, and lasers.",
+      "source": "https://en.wikipedia.org/wiki/Tokyo%27s_Robot_Restaurant_in_Shinjuku"
+    },
+    {
+      "text": "Cairo's Al-Azhar University, founded in 970 AD, is one of the oldest universities in the world.",
+      "source": "https://en.wikipedia.org/wiki/Cairo%27s_Al-Azhar_University"
+    },
+    {
+      "text": "Las Vegas gets its name from the Spanish word for the meadows, named by Spanish travelers who found water in the desert.",
+      "source": "https://en.wikipedia.org/wiki/Las_Vegas_gets_its_name_from_the_Spanish_word_for_the_meadows"
+    },
+    {
+      "text": "Prague's astronomical clock draws thousands of tourists every hour to watch its mechanical show of 12 apostle figures.",
+      "source": "https://en.wikipedia.org/wiki/Famous_Cities"
+    },
+    {
+      "text": "Istanbul's Bosphorus Bridge, opened in 1973, was the first bridge to connect Europe and Asia.",
+      "month": 10,
+      "day": 29,
+      "source": "https://en.wikipedia.org/wiki/Istanbul%27s_Bosphorus_Bridge"
+    },
+    {
+      "text": "Portland, Oregon is known as the City of Roses and has been holding an annual Rose Festival since 1907.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Portland%2C_Oregon"
+    },
+    {
+      "text": "London's Hyde Park covers 350 acres and hosts events including concerts, festivals, and the annual Winter Wonderland.",
+      "source": "https://en.wikipedia.org/wiki/London%27s_Hyde_Park"
+    },
+    {
+      "text": "Buenos Aires' Café Tortoni, opened in 1858, is one of the oldest and most famous cafés in the world.",
+      "source": "https://en.wikipedia.org/wiki/Buenos_Aires%27_Caf%C3%A9_Tortoni"
+    },
+    {
+      "text": "Rome has over 2,000 fountains, more than any other city in the world, including famous works by Bernini.",
+      "source": "https://en.wikipedia.org/wiki/Rome"
+    },
+    {
+      "text": "Nashville's full-scale replica of the Parthenon was originally built for the 1897 Tennessee Centennial Exposition.",
+      "source": "https://en.wikipedia.org/wiki/Nashville%27s_full-scale_replica_of_the_Parthenon"
+    },
+    {
+      "text": "Amsterdam is below sea level — about 26 percent of the Netherlands lies below sea level, protected by dikes and dunes.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Amsterdam"
+    },
+    {
+      "text": "Dubai hosts the world's richest horse race, the Dubai World Cup, with prize money exceeding $30 million.",
+      "source": "https://en.wikipedia.org/wiki/Dubai_World_Cup"
+    },
+    {
+      "text": "Barcelona's La Rambla is actually five separate streets joined together to form one promenade.",
+      "source": "https://en.wikipedia.org/wiki/Barcelona%27s_La_Rambla"
+    },
+    {
+      "text": "Washington DC is not part of any US state — it is a federal district governed by Congress.",
+      "source": "https://en.wikipedia.org/wiki/Washington_DC"
+    },
+    {
+      "text": "Seoul's subway system is one of the largest and most efficient in the world, with over 300 stations.",
+      "source": "https://en.wikipedia.org/wiki/Seoul%27s_subway_system"
+    },
+    {
+      "text": "The Parthenon in Athens was originally painted in bright colors including red, blue, and gold — not the white marble seen today.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Parthenon_in_Athens"
+    },
+    {
+      "text": "Tallinn, Estonia has one of the best-preserved medieval old towns in Europe, a UNESCO World Heritage Site.",
+      "source": "https://en.wikipedia.org/wiki/Tallinn%2C_Estonia"
+    },
+    {
+      "text": "Tokyo's vending machines number over 5 million across Japan, selling everything from hot coffee to fresh eggs.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Famous_Cities"
+    },
+    {
+      "text": "Chicago's deep underground tunnels, built in the early 1900s for freight delivery, were largely forgotten until a flood in 1992.",
+      "source": "https://en.wikipedia.org/wiki/Chicago%27s_deep_underground_tunnels%2C_built_in_the_early_1900s_for_freight_delivery"
+    },
+    {
+      "text": "Casablanca's Hassan II Mosque is the largest mosque in Africa and has the tallest minaret in the world at 210 meters.",
+      "source": "https://en.wikipedia.org/wiki/Casablanca%27s_Hassan_II_Mosque"
+    },
+    {
+      "text": "Paris's Pont des Arts bridge once held over a million padlocks left by couples before they were removed in 2015 for safety.",
+      "source": "https://en.wikipedia.org/wiki/Paris%27s_Pont_des_Arts_bridge_once_held_over_a_million_padlocks_left_by_couples_before_they"
+    },
+    {
+      "text": "New York City's High Line park was built on an abandoned elevated railway on Manhattan's West Side.",
+      "source": "https://en.wikipedia.org/wiki/New_York_City%27s_High_Line_park"
+    },
+    {
+      "text": "Budapest is actually two cities — Buda and Pest — that were unified in 1873 across the Danube River.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Budapest"
+    },
+    {
+      "text": "Manila, the capital of the Philippines, is the most densely populated city in the world.",
+      "source": "https://en.wikipedia.org/wiki/Manila%2C_the_capital_of_the_Philippines"
+    },
+    {
+      "text": "Edinburgh has been a UNESCO City of Literature since 2004, the first city to receive the designation.",
+      "source": "https://en.wikipedia.org/wiki/Edinburgh"
+    },
+    {
+      "text": "Los Angeles has the largest system of freeways in the world, totaling over 1,000 miles of highway.",
+      "source": "https://en.wikipedia.org/wiki/Los_Angeles"
+    },
+    {
+      "text": "Copenhagen's Nyhavn harbor with its colorful 17th-century townhouses was once home to Hans Christian Andersen.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Copenhagen%27s_Nyhavn_harbor_with_its_colorful_17th-century_townhouses"
+    },
+    {
+      "text": "St. Petersburg, Russia has the largest art museum in the world — the Hermitage — with over three million items in its collection.",
+      "source": "https://en.wikipedia.org/wiki/St._Petersburg%2C_Russia"
+    },
+    {
+      "text": "Johannesburg is the world's largest city not situated on a river, lake, or coastline.",
+      "source": "https://en.wikipedia.org/wiki/Johannesburg"
+    },
+    {
+      "text": "Tokyo's Imperial Palace sits on grounds that are worth more than all the real estate in California by some estimates.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Tokyo%27s_Imperial_Palace_sits_on_grounds_that"
+    },
+    {
+      "text": "San Francisco's Ghirardelli Square is the site of the original Ghirardelli chocolate factory, operating since 1852.",
+      "source": "https://en.wikipedia.org/wiki/San_Francisco%27s_Ghirardelli_Square"
+    },
+    {
+      "text": "La Paz, Bolivia is the highest capital city in the world at roughly 3,640 meters above sea level.",
+      "source": "https://en.wikipedia.org/wiki/La_Paz%2C_Bolivia"
+    },
+    {
+      "text": "Bangkok's Wat Pho temple contains the largest reclining Buddha statue in Thailand, stretching 46 meters long.",
+      "source": "https://en.wikipedia.org/wiki/Bangkok%27s_Wat_Pho_temple"
+    },
+    {
+      "text": "London's Soho district was originally a royal hunting ground — the name comes from a hunting cry.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/London%27s_Soho_district"
+    },
+    {
+      "text": "Istanbul has been the capital of three empires — the Roman, Byzantine, and Ottoman empires.",
+      "source": "https://en.wikipedia.org/wiki/Istanbul"
+    },
+    {
+      "text": "Seattle is nicknamed the Emerald City due to its lush evergreen forests and surrounding greenery.",
+      "source": "https://en.wikipedia.org/wiki/Seattle"
+    },
+    {
+      "text": "Dubai's Miracle Garden is the world's largest natural flower garden with over 150 million flowers.",
+      "source": "https://en.wikipedia.org/wiki/Dubai%27s_Miracle_Garden"
+    },
+    {
+      "text": "Bruges' historic belfry tower stands 83 meters tall and houses a carillon of 47 bells.",
+      "source": "https://en.wikipedia.org/wiki/Famous_Cities"
+    },
+    {
+      "text": "New York City has over 800 languages spoken within its borders, making it the most linguistically diverse city in the world.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/New_York_City"
+    },
+    {
+      "text": "Moscow's metro stations are nicknamed underground palaces for their ornate chandeliers, marble walls, and mosaic art.",
+      "source": "https://en.wikipedia.org/wiki/Moscow%27s_metro_stations"
+    },
+    {
+      "text": "Cape Town's Table Mountain is estimated to be one of the oldest mountains on Earth, predating the Andes, Rockies, and Himalayas.",
+      "source": "https://en.wikipedia.org/wiki/Cape_Town%27s_Table_Mountain"
+    },
+    {
+      "text": "Quito, Ecuador sits at 2,850 meters above sea level and was the first city designated a UNESCO World Heritage Site in 1978.",
+      "month": 9,
+      "day": 8,
+      "source": "https://en.wikipedia.org/wiki/Quito%2C_Ecuador_sits_at_2%2C850_meters_above_sea_level_and"
+    },
+    {
+      "text": "Philadelphia was the first capital of the United States and is where the Declaration of Independence was signed in 1776.",
+      "month": 7,
+      "day": 4,
+      "source": "https://en.wikipedia.org/wiki/Philadelphia"
+    },
+    {
+      "text": "Venice's annual Regata Storica features a historical pageant of decorated boats followed by gondola races on the Grand Canal.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Venice%27s_annual_Regata_Storica"
+    },
+    {
+      "text": "Toronto's Yonge Street was once listed in the Guinness Book of Records as the longest street in the world at 1,896 km.",
+      "source": "https://en.wikipedia.org/wiki/Toronto%27s_Yonge_Street"
+    },
+    {
+      "text": "Shanghai has the world's most extensive bus rapid transit system, carrying more than 2.5 million passengers per day.",
+      "source": "https://en.wikipedia.org/wiki/Shanghai"
+    }
+  ]
+}

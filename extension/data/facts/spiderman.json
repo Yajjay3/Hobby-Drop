@@ -1,0 +1,2009 @@
+{
+  "hobby": "Spider-Man",
+  "facts": [
+    {
+      "text": "Spider-Man was created by writer Stan Lee and artist Steve Ditko and first appeared in Amazing Fantasy #15 in August 1962.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man"
+    },
+    {
+      "text": "Stan Lee originally wanted to call the character 'Spider-Man' with a hyphen to distinguish him from Superman, and the hyphen has remained ever since.",
+      "source": "https://en.wikipedia.org/wiki/Stan_Lee"
+    },
+    {
+      "text": "Peter Parker was one of the first teenage superheroes to be the main character rather than a sidekick, breaking a major convention of the genre.",
+      "source": "https://en.wikipedia.org/wiki/Peter_Parker"
+    },
+    {
+      "text": "Steve Ditko designed Spider-Man's iconic red-and-blue costume, including the full face mask that hid his identity — a radical choice at the time.",
+      "source": "https://en.wikipedia.org/wiki/Steve_Ditko"
+    },
+    {
+      "text": "Amazing Fantasy #15, Spider-Man's debut issue, is one of the most valuable comic books in history, with copies selling for over $3 million.",
+      "source": "https://en.wikipedia.org/wiki/Amazing_Fantasy_%2315%2C_Spider-Man%27s_debut_issue"
+    },
+    {
+      "text": "\"With great power comes great responsibility.\" — Uncle Ben's timeless lesson to Peter Parker became the defining motto of Spider-Man and one of the most famous quotes in comic book history.",
+      "source": "https://en.wikipedia.org/wiki/With_great_power_comes_great_responsibility"
+    },
+    {
+      "text": "Stan Lee has said that Marvel publisher Martin Goodman initially hated the idea of Spider-Man, believing that people hated spiders and a teenage hero wouldn't sell.",
+      "source": "https://en.wikipedia.org/wiki/Stan_Lee"
+    },
+    {
+      "text": "Spider-Man's ability to cling to walls was inspired by Stan Lee watching a fly crawl up a wall, sparking the idea of a hero with insect-like powers.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man%27s_ability_to_cling_to_walls"
+    },
+    {
+      "text": "Peter Parker was bitten by a radioactive spider during a science exhibit, gaining superhuman strength, agility, and the ability to cling to surfaces.",
+      "source": "https://en.wikipedia.org/wiki/Peter_Parker"
+    },
+    {
+      "text": "Spider-Man's spider-sense is a precognitive ability that warns him of danger, giving him a split-second advantage in combat situations.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man%27s_spider-sense"
+    },
+    {
+      "text": "Peter Parker invented his own web-shooters and web fluid, showcasing his genius-level intellect in addition to his superpowers.",
+      "source": "https://en.wikipedia.org/wiki/Peter_Parker"
+    },
+    {
+      "text": "The Amazing Spider-Man #1 was published in March 1963, launching one of the longest-running and most successful comic book series in history.",
+      "source": "https://en.wikipedia.org/wiki/Amazing_Spider-Man_%231"
+    },
+    {
+      "text": "J. Jonah Jameson, the cantankerous editor of the Daily Bugle, has been Spider-Man's most persistent media critic since the earliest comics.",
+      "source": "https://en.wikipedia.org/wiki/J._Jonah_Jameson%2C_the_cantankerous_editor_of_the_Daily_Bugle"
+    },
+    {
+      "text": "\"Spider-Man is a menace!\" — J. Jonah Jameson's relentless crusade against Spider-Man through the Daily Bugle became one of the most iconic running gags in comics.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man_is_a_menace"
+    },
+    {
+      "text": "Mary Jane Watson's first full appearance was in Amazing Spider-Man #42 (1966), where she delivered the famous line, \"Face it, tiger... you just hit the jackpot!\"",
+      "source": "https://en.wikipedia.org/wiki/Face_it%2C_tiger..._you_just_hit_the_jackpot"
+    },
+    {
+      "text": "Gwen Stacy was Peter Parker's first major love interest in the comics, debuting in Amazing Spider-Man #31 in 1965.",
+      "source": "https://en.wikipedia.org/wiki/Gwen_Stacy"
+    },
+    {
+      "text": "Aunt May has been one of Spider-Man's most enduring supporting characters, serving as Peter Parker's moral compass and surrogate mother throughout the comics.",
+      "source": "https://en.wikipedia.org/wiki/Aunt_May"
+    },
+    {
+      "text": "The Green Goblin, secretly Norman Osborn, is widely considered Spider-Man's greatest archenemy and was first introduced in Amazing Spider-Man #14 (1964).",
+      "source": "https://en.wikipedia.org/wiki/Green_Goblin%2C_secretly_Norman_Osborn"
+    },
+    {
+      "text": "\"Do you know how much I sacrificed?!\" — Norman Osborn's desperate cry as the Green Goblin captured his obsession with power and his tragic descent into madness.",
+      "source": "https://en.wikipedia.org/wiki/Do_you_know_how_much_I_sacrificed"
+    },
+    {
+      "text": "Doctor Octopus, created by Stan Lee and Steve Ditko, first appeared in Amazing Spider-Man #3 (1963) and became one of Spider-Man's most formidable foes.",
+      "source": "https://en.wikipedia.org/wiki/Doctor_Octopus"
+    },
+    {
+      "text": "Doc Ock's four mechanical tentacles were fused to his body after a laboratory accident, and they are controlled by a direct neural link to his brain.",
+      "source": "https://en.wikipedia.org/wiki/Doc_Ock%27s_four_mechanical_tentacles"
+    },
+    {
+      "text": "\"The power of the sun in the palm of my hand.\" — Doctor Octopus's famous line about his fusion reactor experiment became iconic in both comics and film.",
+      "source": "https://en.wikipedia.org/wiki/power_of_the_sun_in_the_palm_of_my_hand"
+    },
+    {
+      "text": "Venom first appeared as an alien symbiote costume in Amazing Spider-Man #252 (1984) before bonding with Eddie Brock to become one of Marvel's most popular antiheroes.",
+      "source": "https://en.wikipedia.org/wiki/Venom_first"
+    },
+    {
+      "text": "The black symbiote suit was originally introduced during the Secret Wars crossover event, where Spider-Man found it on an alien planet.",
+      "source": "https://en.wikipedia.org/wiki/black_symbiote_suit"
+    },
+    {
+      "text": "The Sinister Six, a team of Spider-Man's greatest villains, was first assembled by Doctor Octopus in Amazing Spider-Man Annual #1 (1964).",
+      "source": "https://en.wikipedia.org/wiki/Sinister_Six%2C_a_team_of_Spider-Man%27s_greatest_villains"
+    },
+    {
+      "text": "Mysterio, real name Quentin Beck, is a special effects expert and stunt coordinator who uses illusions and technology to commit crimes.",
+      "source": "https://en.wikipedia.org/wiki/Mysterio%2C_real_name_Quentin_Beck"
+    },
+    {
+      "text": "The Vulture, Adrian Toomes, was one of Spider-Man's earliest villains, debuting in Amazing Spider-Man #2 (1963) as an elderly engineer with a flying suit.",
+      "source": "https://en.wikipedia.org/wiki/Vulture%2C_Adrian_Toomes"
+    },
+    {
+      "text": "The Lizard, Dr. Curt Connors, was a scientist who lost an arm and experimented with reptilian DNA to regrow it, accidentally transforming himself into a monster.",
+      "source": "https://en.wikipedia.org/wiki/Lizard%2C_Dr._Curt_Connors"
+    },
+    {
+      "text": "Kraven the Hunter first appeared in Amazing Spider-Man #15 (1964) as a big-game hunter who considered Spider-Man the ultimate prey.",
+      "source": "https://en.wikipedia.org/wiki/Kraven_the_Hunter_first"
+    },
+    {
+      "text": "Sandman, William Baker, gained the ability to transform his body into sand after being exposed to irradiated sand on a beach near a nuclear testing site.",
+      "source": "https://en.wikipedia.org/wiki/William_Baker"
+    },
+    {
+      "text": "Electro, Max Dillon, was a lineman who gained the power to control electricity after being struck by lightning while working on power lines.",
+      "source": "https://en.wikipedia.org/wiki/Electro%2C_Max_Dillon"
+    },
+    {
+      "text": "The Rhino, Aleksei Sytsevich, is a Russian enforcer bonded to a nearly indestructible polymer suit that gives him superhuman strength and durability.",
+      "source": "https://en.wikipedia.org/wiki/Rhino%2C_Aleksei_Sytsevich"
+    },
+    {
+      "text": "The Scorpion, Mac Gargan, was created when J. Jonah Jameson funded an experiment to create someone powerful enough to defeat Spider-Man.",
+      "source": "https://en.wikipedia.org/wiki/Scorpion%2C_Mac_Gargan"
+    },
+    {
+      "text": "Kingpin, Wilson Fisk, is a crime lord who serves as a major antagonist to both Spider-Man and Daredevil, controlling New York's criminal underworld.",
+      "source": "https://en.wikipedia.org/wiki/Kingpin%2C_Wilson_Fisk"
+    },
+    {
+      "text": "\"When I was a boy...\" — Kingpin's cold, calculating speeches about his rise from poverty to crime lord status have made him one of Marvel's most compelling villains.",
+      "source": "https://en.wikipedia.org/wiki/When_I_was_a_boy"
+    },
+    {
+      "text": "The Hobgoblin was introduced in Amazing Spider-Man #238 (1983), and his secret identity became one of the most debated mysteries in comic book history.",
+      "source": "https://en.wikipedia.org/wiki/Hobgoblin"
+    },
+    {
+      "text": "Carnage, the offspring of the Venom symbiote, bonded with serial killer Cletus Kasady to become one of Spider-Man's most dangerously unhinged enemies.",
+      "source": "https://en.wikipedia.org/wiki/Cletus_Kasady_to"
+    },
+    {
+      "text": "Black Cat, Felicia Hardy, is a cat burglar and sometimes love interest of Spider-Man, inspired by DC's Catwoman but developing her own unique identity.",
+      "source": "https://en.wikipedia.org/wiki/Black_Cat%2C_Felicia_Hardy"
+    },
+    {
+      "text": "Spider-Man joined the Avengers in the comics and has been a member of various superhero teams including the Fantastic Four and the New Avengers.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man_joined_the_Avengers_in_the_comics_and"
+    },
+    {
+      "text": "The Death of Gwen Stacy in Amazing Spider-Man #121-122 (1973) is considered one of the most pivotal moments in comic book history, ending the Silver Age of Comics.",
+      "source": "https://en.wikipedia.org/wiki/Death_of_Gwen_Stacy_in_Amazing_Spider-Man_%23121-122_(1973)"
+    },
+    {
+      "text": "In the famous storyline, the Green Goblin threw Gwen Stacy from the George Washington Bridge, and the snap of Spider-Man's web catching her may have actually caused her death.",
+      "source": "https://en.wikipedia.org/wiki/In_the"
+    },
+    {
+      "text": "The Clone Saga, running from 1994 to 1996, was one of the most controversial Spider-Man storylines, introducing Ben Reilly as a clone of Peter Parker.",
+      "source": "https://en.wikipedia.org/wiki/Clone_Saga%2C_running_from_1994_to_1996"
+    },
+    {
+      "text": "Ben Reilly, the Scarlet Spider, became a fan-favorite character despite the Clone Saga's controversial reception, eventually taking over as Spider-Man temporarily.",
+      "source": "https://en.wikipedia.org/wiki/Ben_Reilly%2C_the_Scarlet_Spider"
+    },
+    {
+      "text": "\"It's you who's out, Gobby! Out of your mind!\" — Spider-Man's quippy comebacks during battles became a signature trait that set him apart from more serious heroes.",
+      "source": "https://en.wikipedia.org/wiki/It%27s_you_who%27s_out%2C_Gobby%21_Out_of_your_mind"
+    },
+    {
+      "text": "Spider-Man is known for his constant wisecracks during battle, a defense mechanism that also serves to distract and irritate his opponents.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man"
+    },
+    {
+      "text": "Kraven's Last Hunt (1987) by J.M. DeMatteis is considered one of the greatest Spider-Man stories ever told, depicting Kraven burying Spider-Man alive.",
+      "source": "https://en.wikipedia.org/wiki/Kraven%27s_Last_Hunt"
+    },
+    {
+      "text": "The storyline 'If This Be My Destiny' from Amazing Spider-Man #31-33 features the iconic scene of Spider-Man lifting heavy machinery while trapped underwater.",
+      "source": "https://en.wikipedia.org/wiki/storyline_%27If_This_Be_My_Destiny%27_from_Amazing_Spider-Man_%2331-33"
+    },
+    {
+      "text": "The machinery-lifting scene in Amazing Spider-Man #33 is consistently ranked as one of the greatest moments in comic book history for its depiction of sheer willpower.",
+      "source": "https://en.wikipedia.org/wiki/machinery-lifting_scene_in_Amazing_Spider-Man_%2333"
+    },
+    {
+      "text": "Todd McFarlane's run on Amazing Spider-Man in the late 1980s revolutionized Spider-Man's visual style with detailed web patterns and dynamic poses.",
+      "source": "https://en.wikipedia.org/wiki/Todd_McFarlane%27s"
+    },
+    {
+      "text": "Todd McFarlane later created Spawn partly as a response to his creative frustrations at Marvel, but his Spider-Man work remains legendary.",
+      "source": "https://en.wikipedia.org/wiki/Todd_McFarlane_later"
+    },
+    {
+      "text": "Spider-Man's web fluid is a synthetic adhesive compound that Peter Parker invented himself, demonstrating that his intellect is as much a superpower as his physical abilities.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man%27s_web_fluid"
+    },
+    {
+      "text": "In the Ultimate Marvel universe, Peter Parker was reimagined as a modern teenager, with the Ultimate Spider-Man series by Brian Michael Bendis running from 2000 to 2011.",
+      "source": "https://en.wikipedia.org/wiki/In_the_Ultimate_Marvel_universe%2C_Peter_Parker"
+    },
+    {
+      "text": "Ultimate Spider-Man introduced a younger, updated version of Peter Parker and is credited with making Spider-Man accessible to a new generation of readers.",
+      "source": "https://en.wikipedia.org/wiki/Ultimate_Spider-Man"
+    },
+    {
+      "text": "Miles Morales was created by writer Brian Michael Bendis and artist Sara Pichelli, first appearing in Ultimate Fallout #4 in August 2011.",
+      "source": "https://en.wikipedia.org/wiki/Miles_Morales"
+    },
+    {
+      "text": "Miles Morales is of African American and Puerto Rican descent, making him one of the most prominent heroes of color in mainstream comics.",
+      "source": "https://en.wikipedia.org/wiki/Miles_Morales"
+    },
+    {
+      "text": "Miles Morales gained his powers from a genetically engineered spider, similar to Peter Parker, but also possesses unique abilities like a venom strike and invisibility.",
+      "source": "https://en.wikipedia.org/wiki/Miles_Morales"
+    },
+    {
+      "text": "\"Anyone can wear the mask. You could wear the mask.\" — Miles Morales's message in Into the Spider-Verse became a powerful statement about representation and heroism.",
+      "source": "https://en.wikipedia.org/wiki/Anyone_can_wear_the_mask._You_could_wear_the_mask"
+    },
+    {
+      "text": "Spider-Gwen, also known as Ghost-Spider, is an alternate universe version of Gwen Stacy who was bitten by the radioactive spider instead of Peter Parker.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Gwen%2C_also_known_as_Ghost-Spider"
+    },
+    {
+      "text": "Spider-Gwen first appeared in Edge of Spider-Verse #2 (2014) and became so popular that she received her own ongoing series.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Gwen_first_appeared_in_Edge_of_Spider-Verse_%232_(2014)_and"
+    },
+    {
+      "text": "The Spider-Verse comic event (2014) brought together every version of Spider-Man from across the multiverse to face the villain Morlun and his family, the Inheritors.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Verse"
+    },
+    {
+      "text": "Spider-Man 2099, Miguel O'Hara, is a geneticist from the future who gained spider powers through a genetic experiment gone wrong.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man_2099%2C_Miguel_O%27Hara"
+    },
+    {
+      "text": "Spider-Man Noir is a version of Peter Parker set in 1930s New York during the Great Depression, fighting crime with a darker, grittier style.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man_Noir"
+    },
+    {
+      "text": "Spider-Ham, Peter Porker, is an anthropomorphic pig version of Spider-Man from an alternate universe, providing comic relief in the Spider-Verse.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Ham%2C_Peter_Porker"
+    },
+    {
+      "text": "Silk, Cindy Moon, was bitten by the same radioactive spider that gave Peter Parker his powers, but she was hidden away for years by Ezekiel Sims.",
+      "source": "https://en.wikipedia.org/wiki/Silk%2C_Cindy_Moon"
+    },
+    {
+      "text": "Spider-Woman, Jessica Drew, is a separate character from Spider-Man with her own unique origin involving HYDRA and genetic experimentation.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Woman%2C_Jessica_Drew"
+    },
+    {
+      "text": "The Superior Spider-Man storyline (2013) saw Doctor Octopus take over Peter Parker's body and attempt to prove he could be a better Spider-Man.",
+      "source": "https://en.wikipedia.org/wiki/Superior_Spider-Man_storyline_(2013)"
+    },
+    {
+      "text": "In Superior Spider-Man, Doc Ock's arrogance eventually proved to be his downfall, as he realized Peter Parker's heroism was truly superior to his own methods.",
+      "source": "https://en.wikipedia.org/wiki/In_Superior_Spider-Man"
+    },
+    {
+      "text": "Spider-Man has one of the most recognizable rogues' galleries in all of comics, rivaling Batman's in terms of iconic villains.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man"
+    },
+    {
+      "text": "The Daily Bugle, the newspaper where Peter Parker works as a freelance photographer, is one of the most famous fictional publications in comics.",
+      "source": "https://en.wikipedia.org/wiki/Daily_Bugle%2C_the_newspaper_where_Peter_Parker_works_as_a_freelance_photographer"
+    },
+    {
+      "text": "Peter Parker's job as a photographer for the Daily Bugle created the ironic situation of a hero profiting from photos of himself in action.",
+      "source": "https://en.wikipedia.org/wiki/Peter_Parker%27s_job_as_a_photographer_for_the_Daily_Bugle"
+    },
+    {
+      "text": "\"I want pictures of Spider-Man!\" — J. Jonah Jameson's iconic demand became one of the most quoted and memed lines in all of Spider-Man media.",
+      "source": "https://en.wikipedia.org/wiki/I_want_pictures_of_Spider-Man"
+    },
+    {
+      "text": "Spider-Man's web-swinging through New York City skyscrapers has become one of the most visually iconic elements of the character across all media.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man%27s_web-swinging_through_New_York_City_skyscrapers"
+    },
+    {
+      "text": "Flash Thompson, Peter Parker's high school bully, was ironically Spider-Man's biggest fan and eventually became the hero Agent Venom.",
+      "source": "https://en.wikipedia.org/wiki/Flash_Thompson%2C_Peter_Parker%27s_high_school_bully"
+    },
+    {
+      "text": "Harry Osborn, Peter's best friend, followed in his father Norman's footsteps to become the second Green Goblin, creating one of comics' most tragic conflicts.",
+      "source": "https://en.wikipedia.org/wiki/Harry_Osborn"
+    },
+    {
+      "text": "Ned Leeds was a reporter at the Daily Bugle who was brainwashed into becoming the Hobgoblin in the original comics.",
+      "source": "https://en.wikipedia.org/wiki/Ned_Leeds"
+    },
+    {
+      "text": "Spider-Man has had multiple costumes throughout his history, including the black symbiote suit, the Iron Spider armor, and the Stealth Suit.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man"
+    },
+    {
+      "text": "The Iron Spider suit was created by Tony Stark and given to Peter Parker during the Civil War storyline, featuring mechanical spider legs.",
+      "source": "https://en.wikipedia.org/wiki/Iron_Spider_suit"
+    },
+    {
+      "text": "Spider-Man played a pivotal role in Marvel's Civil War event, initially siding with Iron Man and publicly unmasking before switching to Captain America's side.",
+      "source": "https://en.wikipedia.org/wiki/Marvel%27s_Civil_War"
+    },
+    {
+      "text": "Peter Parker revealing his identity as Spider-Man on live television during Civil War was one of the most shocking moments in modern Marvel Comics.",
+      "source": "https://en.wikipedia.org/wiki/Peter_Parker_revealing_his_identity_as_Spider-Man_on_live_television_during_Civil_War"
+    },
+    {
+      "text": "The 'One More Day' storyline (2007) saw Peter Parker and Mary Jane make a deal with Mephisto to erase their marriage in exchange for saving Aunt May's life.",
+      "source": "https://en.wikipedia.org/wiki/%27One_More_Day%27_storyline_(2007)"
+    },
+    {
+      "text": "One More Day remains one of the most controversial Spider-Man stories ever published, with fans still debating its merits decades later.",
+      "source": "https://en.wikipedia.org/wiki/One_More_Day"
+    },
+    {
+      "text": "Spider-Man's classic rogues gallery includes the Sinister Six founding members: Doctor Octopus, Electro, Kraven the Hunter, Mysterio, Sandman, and the Vulture.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man%27s_classic_rogues_gallery"
+    },
+    {
+      "text": "The Spider-Man newspaper comic strip, written by Stan Lee himself, ran from 1977 to 2019, making it one of the longest-running superhero strips.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man_newspaper_comic_strip%2C_written_by_Stan_Lee_himself"
+    },
+    {
+      "text": "Spider-Man has appeared in more comic book issues than almost any other Marvel character, with thousands of appearances across multiple series.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man"
+    },
+    {
+      "text": "The Amazing Spider-Man #129 (1974) introduced the Punisher, who first appeared as a villain hired to kill Spider-Man before becoming an antihero in his own right.",
+      "source": "https://en.wikipedia.org/wiki/Amazing_Spider-Man_%23129_(1974)"
+    },
+    {
+      "text": "Morbius the Living Vampire first appeared in Amazing Spider-Man #101 (1971), created as a way to introduce a vampire character under the Comics Code Authority's relaxed rules.",
+      "source": "https://en.wikipedia.org/wiki/Morbius_the_Living_Vampire_first_appeared_in_Amazing_Spider-Man_%23101_(1971)"
+    },
+    {
+      "text": "Spider-Man's origin story — an ordinary teenager gaining extraordinary powers — has been called the most relatable superhero origin ever created.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man%27s_origin_story_%E2%80%94_an_ordinary_teenager_gaining_extraordinary_powers_%E2%80%94"
+    },
+    {
+      "text": "The first Spider-Man feature film was released in 2002, directed by Sam Raimi and starring Tobey Maguire as Peter Parker.",
+      "source": "https://en.wikipedia.org/wiki/first_Spider-Man_feature_film"
+    },
+    {
+      "text": "Sam Raimi's Spider-Man (2002) earned $821 million worldwide and was the first film to earn over $100 million in its opening weekend.",
+      "source": "https://en.wikipedia.org/wiki/Sam_Raimi%27s_Spider-Man"
+    },
+    {
+      "text": "Tobey Maguire's portrayal of Peter Parker emphasized the character's nerdy, everyman qualities and emotional vulnerability.",
+      "source": "https://en.wikipedia.org/wiki/Tobey_Maguire%27s"
+    },
+    {
+      "text": "In Raimi's films, Spider-Man's webs were organic rather than mechanical, a change from the comics that divided fans but simplified the origin.",
+      "source": "https://en.wikipedia.org/wiki/In_Raimi%27s_films%2C_Spider-Man%27s_webs"
+    },
+    {
+      "text": "Kirsten Dunst played Mary Jane Watson across all three Raimi Spider-Man films, becoming one of the most recognized versions of the character.",
+      "source": "https://en.wikipedia.org/wiki/Kirsten_Dunst"
+    },
+    {
+      "text": "The upside-down kiss in the rain between Spider-Man and Mary Jane in the 2002 film became one of the most iconic movie kisses in cinema history.",
+      "source": "https://en.wikipedia.org/wiki/upside-down_kiss_in_the_rain_between_Spider-Man_and_Mary_Jane_in_the_2002_film"
+    },
+    {
+      "text": "Willem Dafoe's performance as Norman Osborn/Green Goblin in Spider-Man (2002) is widely regarded as one of the best superhero villain performances ever.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man"
+    },
+    {
+      "text": "\"You know, I'm something of a scientist myself.\" — Norman Osborn's line delivered by Willem Dafoe became a massively popular internet meme decades after the film's release.",
+      "source": "https://www.youtube.com/results?search_query=Spider-Man%20You%20know%2C%20I%27m%20something%20of%20a%20scientist%20myself.%20live%20performance"
+    },
+    {
+      "text": "James Franco played Harry Osborn in the Raimi trilogy, portraying the character's transformation from Peter's best friend to the New Goblin.",
+      "source": "https://en.wikipedia.org/wiki/James_Franco"
+    },
+    {
+      "text": "J.K. Simmons' portrayal of J. Jonah Jameson in the Raimi trilogy is considered so perfect that he was brought back for the MCU Spider-Man films.",
+      "source": "https://en.wikipedia.org/wiki/J.K._Simmons%27_portrayal_of_J._Jonah_Jameson_in_the_Raimi_trilogy"
+    },
+    {
+      "text": "Spider-Man 2 (2004) is frequently cited as one of the greatest superhero films ever made, praised for its emotional depth and Alfred Molina's Doctor Octopus.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man_2_(2004)"
+    },
+    {
+      "text": "Alfred Molina's portrayal of Doctor Octopus in Spider-Man 2 brought genuine pathos to the villain, making him sympathetic despite his destructive actions.",
+      "source": "https://en.wikipedia.org/wiki/Alfred_Molina%27s"
+    },
+    {
+      "text": "Spider-Man 2's train sequence, where Spider-Man stops a runaway train and is caught by grateful passengers, is one of the most celebrated scenes in superhero cinema.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man_2%27s_train_sequence%2C_where_Spider-Man_stops_a_runaway_train_and"
+    },
+    {
+      "text": "\"I will not die a monster.\" — Doc Ock's final words in Spider-Man 2, as he sacrificed himself to destroy his fusion reactor, remain one of the trilogy's most powerful moments.",
+      "source": "https://en.wikipedia.org/wiki/I_will_not_die_a_monster"
+    },
+    {
+      "text": "Spider-Man 2 won the Academy Award for Best Visual Effects, one of the first superhero films to be recognized at the Oscars in that category.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man_2"
+    },
+    {
+      "text": "Spider-Man 3 (2007) introduced Venom, Sandman, and the New Goblin as villains, leading to criticism that the film was overstuffed with too many antagonists.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man_3_(2007)"
+    },
+    {
+      "text": "Topher Grace played Eddie Brock/Venom in Spider-Man 3, a casting choice that divided fans who expected a more physically imposing actor.",
+      "source": "https://en.wikipedia.org/wiki/Topher_Grace"
+    },
+    {
+      "text": "Thomas Haden Church played Sandman in Spider-Man 3, and despite the film's mixed reception, his performance was widely praised.",
+      "source": "https://en.wikipedia.org/wiki/Thomas_Haden_Church"
+    },
+    {
+      "text": "The emo Peter Parker dance sequence in Spider-Man 3 became one of the most memed scenes in superhero movie history.",
+      "source": "https://en.wikipedia.org/wiki/emo_Peter_Parker_dance_sequence_in_Spider-Man_3"
+    },
+    {
+      "text": "Sam Raimi had planned a Spider-Man 4 with Tobey Maguire, but the project was cancelled when he couldn't meet Sony's release schedule.",
+      "source": "https://en.wikipedia.org/wiki/Sam_Raimi"
+    },
+    {
+      "text": "The Amazing Spider-Man (2012) rebooted the franchise with Andrew Garfield as Peter Parker and Marc Webb as director.",
+      "source": "https://en.wikipedia.org/wiki/Amazing_Spider-Man"
+    },
+    {
+      "text": "Andrew Garfield's Spider-Man was more quippy and skateboard-cool compared to Tobey Maguire's more bookish interpretation of Peter Parker.",
+      "source": "https://en.wikipedia.org/wiki/Andrew_Garfield%27s_Spider-Man"
+    },
+    {
+      "text": "Emma Stone played Gwen Stacy in both Amazing Spider-Man films, and her chemistry with Andrew Garfield (her real-life boyfriend at the time) was widely praised.",
+      "source": "https://en.wikipedia.org/wiki/Emma_Stone"
+    },
+    {
+      "text": "The Amazing Spider-Man 2 (2014) depicted the death of Gwen Stacy, faithfully adapting one of the most tragic moments from the comics.",
+      "source": "https://en.wikipedia.org/wiki/Amazing_Spider-Man_2"
+    },
+    {
+      "text": "Rhys Ifans played the Lizard in The Amazing Spider-Man, portraying Dr. Curt Connors' tragic transformation into a reptilian monster.",
+      "source": "https://en.wikipedia.org/wiki/Rhys_Ifans"
+    },
+    {
+      "text": "Jamie Foxx played Electro in The Amazing Spider-Man 2, later returning in a reimagined version of the character in Spider-Man: No Way Home.",
+      "source": "https://en.wikipedia.org/wiki/Jamie_Foxx"
+    },
+    {
+      "text": "Dane DeHaan played Harry Osborn in The Amazing Spider-Man 2, taking on the Green Goblin mantle in a departure from the comics' timeline.",
+      "source": "https://en.wikipedia.org/wiki/Dane_DeHaan"
+    },
+    {
+      "text": "Plans for The Amazing Spider-Man 3 and a Sinister Six spinoff were cancelled after The Amazing Spider-Man 2's underperformance led to the Sony-Marvel deal.",
+      "source": "https://en.wikipedia.org/wiki/Plans_for_The_Amazing_Spider-Man_3_and_a_Sinister_Six_spinoff"
+    },
+    {
+      "text": "In 2015, Sony and Marvel Studios reached a historic deal to share the Spider-Man character, allowing him to appear in the Marvel Cinematic Universe.",
+      "source": "https://en.wikipedia.org/wiki/Sony_and_Marvel_Studios"
+    },
+    {
+      "text": "Tom Holland was cast as Spider-Man at age 19, making him the youngest actor to play the character in a major film.",
+      "source": "https://en.wikipedia.org/wiki/Tom_Holland"
+    },
+    {
+      "text": "Tom Holland first appeared as Spider-Man in Captain America: Civil War (2016), stealing the show despite limited screen time.",
+      "source": "https://en.wikipedia.org/wiki/Captain_America:_Civil_War"
+    },
+    {
+      "text": "\"Hey everyone.\" — Tom Holland's Peter Parker greeting the Avengers during the airport battle in Civil War perfectly captured the character's youthful enthusiasm.",
+      "source": "https://en.wikipedia.org/wiki/Hey_everyone"
+    },
+    {
+      "text": "Spider-Man: Homecoming (2017) was the first solo Spider-Man film set in the MCU, focusing on Peter Parker's high school life while dealing with the Vulture.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man:_Homecoming"
+    },
+    {
+      "text": "Michael Keaton played Adrian Toomes/Vulture in Homecoming, bringing a blue-collar menace to the role that grounded the villain in relatable economic frustration.",
+      "source": "https://en.wikipedia.org/wiki/Michael_Keaton"
+    },
+    {
+      "text": "The twist in Homecoming where Peter discovers the Vulture is his date's father is considered one of the best plot reveals in the MCU.",
+      "source": "https://en.wikipedia.org/wiki/twist_in_Homecoming_where_Peter_discovers_the_Vulture"
+    },
+    {
+      "text": "Zendaya plays MJ (Michelle Jones-Watson) in the MCU Spider-Man trilogy, offering a fresh take on the classic love interest.",
+      "source": "https://en.wikipedia.org/wiki/Michelle_Jones-Watson)_in_the_MCU_Spider-Man"
+    },
+    {
+      "text": "Jacob Batalon plays Ned Leeds in the MCU films, reimagined as Peter Parker's best friend and the 'guy in the chair' tech support.",
+      "source": "https://en.wikipedia.org/wiki/Jacob_Batalon"
+    },
+    {
+      "text": "Marisa Tomei plays Aunt May in the MCU, a younger and more vibrant interpretation compared to previous portrayals.",
+      "source": "https://en.wikipedia.org/wiki/Marisa_Tomei"
+    },
+    {
+      "text": "Tony Stark serves as Peter Parker's mentor in the MCU, creating an emotional father-son dynamic that defined Holland's first two films.",
+      "source": "https://en.wikipedia.org/wiki/Tony_Stark"
+    },
+    {
+      "text": "The Iron Spider suit in the MCU, created by Tony Stark, features nanotechnology and four mechanical spider legs that deploy from the back.",
+      "source": "https://en.wikipedia.org/wiki/Iron_Spider_suit_in_the_MCU"
+    },
+    {
+      "text": "Spider-Man: Far From Home (2019) dealt with Peter Parker's grief over Tony Stark's death while facing Mysterio's deceptions across Europe.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man:_Far_From_Home"
+    },
+    {
+      "text": "Jake Gyllenhaal played Mysterio in Far From Home, using holographic illusion technology created by ex-Stark employees to pose as a hero.",
+      "source": "https://en.wikipedia.org/wiki/Jake_Gyllenhaal_played_Mysterio_in_Far_From_Home%2C_using_holographic_illusion_technology"
+    },
+    {
+      "text": "The mid-credits scene in Far From Home shocked audiences when Mysterio framed Spider-Man for his death and revealed Peter Parker's identity to the world.",
+      "source": "https://en.wikipedia.org/wiki/Far_From_Home"
+    },
+    {
+      "text": "Spider-Man: No Way Home (2021) became one of the highest-grossing films of all time, earning over $1.9 billion worldwide.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man:_No_Way_Home"
+    },
+    {
+      "text": "No Way Home brought together all three live-action Spider-Men — Tobey Maguire, Andrew Garfield, and Tom Holland — for the first time in cinema history.",
+      "source": "https://en.wikipedia.org/wiki/No_Way_Home"
+    },
+    {
+      "text": "The return of Tobey Maguire and Andrew Garfield in No Way Home was one of the most anticipated and emotional fan moments in superhero movie history.",
+      "source": "https://en.wikipedia.org/wiki/return_of_Tobey_Maguire_and_Andrew_Garfield_in_No_Way_Home"
+    },
+    {
+      "text": "Andrew Garfield's Spider-Man catching MJ in No Way Home, after failing to save Gwen Stacy, was one of the most emotionally resonant moments in the film.",
+      "source": "https://en.wikipedia.org/wiki/Andrew_Garfield%27s_Spider-Man_catching_MJ_in_No_Way_Home%2C_after_failing_to_save_Gwen_Stacy"
+    },
+    {
+      "text": "\"I missed the part where that's my problem.\" — Tobey Maguire's Spider-Man line from Spider-Man 3 became a viral meme that endures across social media.",
+      "source": "https://en.wikipedia.org/wiki/I_missed_the_part_where_that%27s_my_problem"
+    },
+    {
+      "text": "No Way Home's plot involves Doctor Strange's spell going wrong, opening the multiverse and bringing villains from other Spider-Man film universes into the MCU.",
+      "source": "https://en.wikipedia.org/wiki/No_Way_Home%27s"
+    },
+    {
+      "text": "Willem Dafoe returned as Green Goblin in No Way Home, delivering a terrifying performance that many consider even better than his original.",
+      "source": "https://en.wikipedia.org/wiki/Willem_Dafoe"
+    },
+    {
+      "text": "Alfred Molina returned as Doc Ock in No Way Home, reprising his role from Spider-Man 2 with de-aging technology enhancing his appearance.",
+      "source": "https://en.wikipedia.org/wiki/Alfred_Molina"
+    },
+    {
+      "text": "\"Strong enough to have it all... too weak to take it!\" — Green Goblin's taunting of Spider-Man in No Way Home showcased Willem Dafoe's menacing intensity.",
+      "source": "https://en.wikipedia.org/wiki/Strong_enough_to_have_it_all..._too_weak_to_take_it"
+    },
+    {
+      "text": "No Way Home ends with Doctor Strange casting a spell that makes the entire world forget Peter Parker exists, leaving him truly alone as Spider-Man.",
+      "source": "https://en.wikipedia.org/wiki/No_Way_Home"
+    },
+    {
+      "text": "Spider-Man: Into the Spider-Verse (2018) won the Academy Award for Best Animated Feature and revolutionized animation with its comic-book-inspired visual style.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Verse"
+    },
+    {
+      "text": "Into the Spider-Verse was produced by Phil Lord and Christopher Miller, who brought their unique comedic and visual storytelling sensibilities to the project.",
+      "source": "https://en.wikipedia.org/wiki/Into_the_Spider-Verse"
+    },
+    {
+      "text": "The animation style of Into the Spider-Verse combined CGI with hand-drawn techniques, halftone dots, and varying frame rates to simulate reading a comic book.",
+      "source": "https://en.wikipedia.org/wiki/Into_the_Spider-Verse"
+    },
+    {
+      "text": "Shameik Moore voices Miles Morales in the Spider-Verse films, bringing warmth, humor, and authenticity to the character.",
+      "source": "https://en.wikipedia.org/wiki/Shameik_Moore"
+    },
+    {
+      "text": "\"What's up, danger?\" — Miles Morales's leap of faith off a skyscraper in Into the Spider-Verse, falling upward, became one of the most iconic animated scenes ever created.",
+      "source": "https://en.wikipedia.org/wiki/What%27s_up%2C_danger"
+    },
+    {
+      "text": "Into the Spider-Verse introduced audiences to multiple Spider-People including Spider-Gwen, Spider-Man Noir, Spider-Ham, Peni Parker, and Spider-Man 2099.",
+      "source": "https://en.wikipedia.org/wiki/Into_the_Spider-Verse"
+    },
+    {
+      "text": "Nicolas Cage voiced Spider-Man Noir in Into the Spider-Verse, delivering his lines in a hard-boiled detective style that was both hilarious and fitting.",
+      "source": "https://en.wikipedia.org/wiki/Nicolas_Cage"
+    },
+    {
+      "text": "Jake Johnson voiced Peter B. Parker in Into the Spider-Verse, a washed-up, older Spider-Man who becomes Miles Morales's reluctant mentor.",
+      "source": "https://en.wikipedia.org/wiki/Jake_Johnson"
+    },
+    {
+      "text": "Hailee Steinfeld voices Gwen Stacy/Spider-Gwen in the Spider-Verse films, giving the character a cool, independent edge.",
+      "source": "https://en.wikipedia.org/wiki/Hailee_Steinfeld"
+    },
+    {
+      "text": "The Kingpin, voiced by Liev Schreiber in Into the Spider-Verse, drives the plot by trying to access the multiverse to reunite with his deceased family.",
+      "source": "https://en.wikipedia.org/wiki/Kingpin"
+    },
+    {
+      "text": "Into the Spider-Verse's soundtrack, featuring artists like Post Malone and Swae Lee with 'Sunflower,' became a massive commercial hit.",
+      "source": "https://en.wikipedia.org/wiki/Into_the_Spider-Verse%27s"
+    },
+    {
+      "text": "'Sunflower' by Post Malone and Swae Lee, from Into the Spider-Verse, spent 33 weeks in the top ten of the Billboard Hot 100.",
+      "source": "https://en.wikipedia.org/wiki/Sunflower%27_by_Post_Malone_and_Swae_Lee%2C_from_Into_the_Spider-Verse"
+    },
+    {
+      "text": "Spider-Man: Across the Spider-Verse (2023) expanded the multiverse concept with stunning animation and introduced the Spider-Society led by Miguel O'Hara.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Verse"
+    },
+    {
+      "text": "Across the Spider-Verse visited multiple alternate dimensions, each rendered in a completely different animation style reflecting its universe's aesthetic.",
+      "source": "https://en.wikipedia.org/wiki/Across_the_Spider-Verse"
+    },
+    {
+      "text": "Oscar Isaac voices Miguel O'Hara/Spider-Man 2099 in Across the Spider-Verse, serving as the leader of the multiverse-spanning Spider-Society.",
+      "source": "https://en.wikipedia.org/wiki/Oscar_Isaac"
+    },
+    {
+      "text": "The Spider-Society in Across the Spider-Verse includes hundreds of Spider-People from across the multiverse working together to protect the fabric of reality.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Society_in_Across_the_Spider-Verse"
+    },
+    {
+      "text": "Across the Spider-Verse introduced the concept of 'canon events' — pivotal moments every Spider-Person must experience that define their heroic journey.",
+      "source": "https://en.wikipedia.org/wiki/Across_the_Spider-Verse"
+    },
+    {
+      "text": "The Spot, voiced by Jason Schwartzman in Across the Spider-Verse, started as a seemingly joke villain before becoming a genuinely terrifying multiverse-level threat.",
+      "source": "https://en.wikipedia.org/wiki/Spot"
+    },
+    {
+      "text": "Spider-Man: Beyond the Spider-Verse is the planned conclusion to the animated trilogy, continuing Miles Morales's story across the multiverse.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man:_Beyond_the_Spider-Verse"
+    },
+    {
+      "text": "Spider-Man has been adapted into numerous animated television series, starting with the 1967 Spider-Man cartoon that produced countless internet memes.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man"
+    },
+    {
+      "text": "The 1967 Spider-Man cartoon's theme song — 'Spider-Man, Spider-Man, does whatever a spider can' — remains one of the most recognizable TV theme songs ever.",
+      "source": "https://en.wikipedia.org/wiki/1967_Spider-Man"
+    },
+    {
+      "text": "The pointing Spider-Man meme, where two Spider-Men point at each other, originates from a 1967 animated series episode called 'Double Identity.'",
+      "source": "https://en.wikipedia.org/wiki/Double_Identity"
+    },
+    {
+      "text": "Spider-Man and His Amazing Friends (1981) teamed Spider-Man with Iceman and Firestar, becoming a beloved Saturday morning cartoon for an entire generation.",
+      "source": "https://en.wikipedia.org/wiki/His_Amazing_Friends"
+    },
+    {
+      "text": "The 1994 Spider-Man animated series on Fox is considered one of the greatest superhero cartoons ever made, adapting major comic storylines faithfully.",
+      "source": "https://en.wikipedia.org/wiki/1994_Spider-Man_animated_series_on_Fox"
+    },
+    {
+      "text": "The Spectacular Spider-Man (2008-2009) is widely regarded by fans as one of the best Spider-Man adaptations in any medium, despite being cancelled after two seasons.",
+      "source": "https://en.wikipedia.org/wiki/Spectacular_Spider-Man_(2008-2009)"
+    },
+    {
+      "text": "Ultimate Spider-Man (2012-2017) on Disney XD reimagined Peter Parker as a S.H.I.E.L.D. trainee working alongside other young heroes.",
+      "source": "https://en.wikipedia.org/wiki/Ultimate_Spider-Man"
+    },
+    {
+      "text": "Marvel's Spider-Man (2017-2020) animated series featured Peter Parker attending Horizon High, a school for scientifically gifted students.",
+      "source": "https://en.wikipedia.org/wiki/Marvel%27s_Spider-Man"
+    },
+    {
+      "text": "Spider-Man has been a staple of video games since the Atari 2600 era, with dozens of games released across nearly every gaming platform.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man"
+    },
+    {
+      "text": "Marvel's Spider-Man (2018) by Insomniac Games for PlayStation 4 is considered one of the greatest superhero video games ever made.",
+      "source": "https://en.wikipedia.org/wiki/Marvel%27s_Spider-Man"
+    },
+    {
+      "text": "Insomniac's Spider-Man features an older, more experienced Peter Parker who has been Spider-Man for eight years, giving the story a mature emotional weight.",
+      "source": "https://en.wikipedia.org/wiki/Insomniac%27s_Spider-Man"
+    },
+    {
+      "text": "The web-swinging mechanics in Insomniac's Spider-Man are widely praised as the best translation of Spider-Man's movement to a video game.",
+      "source": "https://en.wikipedia.org/wiki/web-swinging_mechanics_in_Insomniac%27s_Spider-Man"
+    },
+    {
+      "text": "Yuri Lowenthal voices Peter Parker in Insomniac's Spider-Man games, delivering a performance praised for its emotional depth and authenticity.",
+      "source": "https://en.wikipedia.org/wiki/Yuri_Lowenthal"
+    },
+    {
+      "text": "Insomniac's Spider-Man features Mister Negative as a primary villain, bringing the lesser-known character to mainstream attention.",
+      "source": "https://en.wikipedia.org/wiki/Insomniac%27s_Spider-Man"
+    },
+    {
+      "text": "The Insomniac Spider-Man game includes a devastating moment where Aunt May dies from the Devil's Breath virus, and Peter must choose not to use the last antidote to save her.",
+      "source": "https://en.wikipedia.org/wiki/Insomniac_Spider-Man_game"
+    },
+    {
+      "text": "\"You knew?\" — Aunt May's revelation that she always knew Peter was Spider-Man in Insomniac's game is one of gaming's most emotional scenes.",
+      "source": "https://www.youtube.com/results?search_query=Spider-Man%20You%20knew%3F%20live%20performance"
+    },
+    {
+      "text": "Marvel's Spider-Man: Miles Morales (2020) served as both a standalone game and a PlayStation 5 launch title, following Miles as he protects Harlem.",
+      "source": "https://en.wikipedia.org/wiki/Marvel%27s_Spider-Man:_Miles_Morales"
+    },
+    {
+      "text": "Miles Morales's venom powers and invisibility in the Insomniac games give him a distinct combat style from Peter Parker's Spider-Man.",
+      "source": "https://en.wikipedia.org/wiki/Miles_Morales%27s_venom_powers_and_invisibility_in_the_Insomniac_games"
+    },
+    {
+      "text": "The Miles Morales game features a storyline about gentrification and community, grounding the superhero action in real social issues affecting Harlem.",
+      "source": "https://en.wikipedia.org/wiki/Miles_Morales_game"
+    },
+    {
+      "text": "Marvel's Spider-Man 2 (2023) by Insomniac Games features both Peter Parker and Miles Morales as playable characters in an expanded New York City.",
+      "source": "https://en.wikipedia.org/wiki/Marvel%27s_Spider-Man_2_(2023)_by_Insomniac_Games"
+    },
+    {
+      "text": "Spider-Man 2 introduces the Venom symbiote as a major plot element, with Peter eventually bonding with and being corrupted by the alien organism.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man_2"
+    },
+    {
+      "text": "Tony Todd voices Venom in Insomniac's Spider-Man 2, bringing a deep, menacing presence to the iconic character.",
+      "source": "https://en.wikipedia.org/wiki/Tony_Todd"
+    },
+    {
+      "text": "Kraven the Hunter serves as a major antagonist in Spider-Man 2, hunting down supervillains across New York for sport.",
+      "source": "https://en.wikipedia.org/wiki/Kraven_the_Hunter"
+    },
+    {
+      "text": "The web wings in Spider-Man 2 allow players to glide across the expanded map, adding a new traversal dimension to the gameplay.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man_2"
+    },
+    {
+      "text": "Insomniac's Spider-Man games take place in their own universe, separate from the MCU but featuring many of the same characters and locations.",
+      "source": "https://en.wikipedia.org/wiki/Insomniac%27s_Spider-Man"
+    },
+    {
+      "text": "Spider-Man has appeared in multiple fighting games including Marvel vs. Capcom, where he is consistently one of the most popular playable characters.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man"
+    },
+    {
+      "text": "The Spider-Man 2 movie tie-in game (2004) by Treyarch was groundbreaking for its open-world web-swinging through a fully realized Manhattan.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man_2_movie_tie-in_game_(2004)_by_Treyarch"
+    },
+    {
+      "text": "Spider-Man: Shattered Dimensions (2010) featured four different versions of Spider-Man — Amazing, Noir, 2099, and Ultimate — each with unique gameplay styles.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man:_Shattered_Dimensions"
+    },
+    {
+      "text": "Spider-Man: Web of Shadows (2008) let players choose between red and black suit paths, affecting the story and Spider-Man's moral alignment.",
+      "source": "https://en.wikipedia.org/wiki/Shadows"
+    },
+    {
+      "text": "Spider-Man is one of the most commercially successful superhero properties in history, generating billions in merchandise, films, and licensing.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man"
+    },
+    {
+      "text": "Spider-Man's mask covering his entire face was deliberately designed so that any reader could imagine themselves behind the mask, regardless of race or background.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man%27s_mask_covering_his_entire_face"
+    },
+    {
+      "text": "Stan Lee made cameo appearances in every Spider-Man film from 2002 to 2018, becoming a beloved tradition for fans before his passing.",
+      "source": "https://en.wikipedia.org/wiki/Stan_Lee"
+    },
+    {
+      "text": "Stan Lee's cameo in Into the Spider-Verse, where he sells Miles a Spider-Man costume saying 'it always fits, eventually,' was a touching tribute.",
+      "source": "https://en.wikipedia.org/wiki/Stan_Lee%27s"
+    },
+    {
+      "text": "Spider-Man has been translated into virtually every language and is recognized worldwide, making him arguably the most universally known superhero.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man"
+    },
+    {
+      "text": "The 'Spider-Man pointing at Spider-Man' meme was recreated with all three live-action Spider-Men during the promotion of No Way Home.",
+      "source": "https://en.wikipedia.org/wiki/%27Spider-Man_pointing_at_Spider-Man%27_meme"
+    },
+    {
+      "text": "Spider-Man's powers include superhuman strength (able to lift approximately 10 tons), enhanced agility, wall-crawling, and his spider-sense.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man"
+    },
+    {
+      "text": "Peter Parker's intelligence rivals that of Reed Richards and Tony Stark, with expertise in biochemistry, physics, and engineering.",
+      "source": "https://en.wikipedia.org/wiki/Peter_Parker%27s"
+    },
+    {
+      "text": "Spider-Man's web fluid dissolves after approximately one hour, which Peter designed intentionally so his webs wouldn't permanently litter New York City.",
+      "source": "https://en.wikipedia.org/wiki/New_York_City"
+    },
+    {
+      "text": "The tracer spiders Peter Parker uses are tiny spider-shaped tracking devices that allow him to follow targets using his spider-sense.",
+      "source": "https://en.wikipedia.org/wiki/tracer_spiders_Peter_Parker_uses"
+    },
+    {
+      "text": "Spider-Man can lift roughly 10 tons in most comic iterations, though his strength has varied significantly depending on the writer and storyline.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man_can_lift_roughly_10_tons_in_most_comic_iterations%2C_though_his_strength"
+    },
+    {
+      "text": "The 'Way of the Spider' is a martial arts style Spider-Man developed specifically to complement his spider-sense and acrobatic abilities.",
+      "source": "https://en.wikipedia.org/wiki/%27Way_of_the_Spider"
+    },
+    {
+      "text": "Spider-Man's costume is typically made from a stretchable red and blue material that he designed and sewed himself.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man%27s_costume"
+    },
+    {
+      "text": "Peter Parker has worked as a freelance photographer, high school science teacher, scientist at Horizon Labs, and CEO of Parker Industries throughout the comics.",
+      "source": "https://en.wikipedia.org/wiki/Peter_Parker"
+    },
+    {
+      "text": "Parker Industries, Peter's own technology company, grew into a global corporation before being destroyed when Peter had to wipe its database to stop Doctor Octopus.",
+      "source": "https://en.wikipedia.org/wiki/Parker_Industries%2C_Peter%27s_own_technology_company"
+    },
+    {
+      "text": "\"Pizza time!\" — Tobey Maguire's Peter Parker delivering pizzas in Spider-Man 2 spawned one of the most enduring memes from the Raimi trilogy.",
+      "source": "https://en.wikipedia.org/wiki/Pizza_time"
+    },
+    {
+      "text": "The Sensational Spider-Man, Web of Spider-Man, and Spectacular Spider-Man have all been separate ongoing series running alongside Amazing Spider-Man.",
+      "source": "https://en.wikipedia.org/wiki/Sensational_Spider-Man%2C_Web_of_Spider-Man%2C_and_Spectacular_Spider-Man"
+    },
+    {
+      "text": "Spider-Man's first crossover with the X-Men occurred early in his career, and he has had notable team-ups with Wolverine throughout comics history.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man%27s_first_crossover_with_the_X-Men_occurred_early_in_his_career%2C_and_he"
+    },
+    {
+      "text": "Spider-Man and Deadpool formed an unlikely but beloved comic duo, starring in their own team-up series Spider-Man/Deadpool from 2016 to 2019.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man_and_Deadpool"
+    },
+    {
+      "text": "The Night Gwen Stacy Died (Amazing Spider-Man #121-122) was written by Gerry Conway and drawn by Gil Kane, and it permanently changed superhero comics.",
+      "source": "https://en.wikipedia.org/wiki/Night_Gwen_Stacy_Died_(Amazing_Spider-Man_%23121-122)"
+    },
+    {
+      "text": "Before Gwen Stacy's death, it was virtually unheard of for a major supporting character and love interest to be permanently killed in a superhero comic.",
+      "source": "https://en.wikipedia.org/wiki/Before_Gwen_Stacy%27s_death%2C_it"
+    },
+    {
+      "text": "\"Ah, Rosie, I love this boy!\" — Doc Ock's warm greeting to Peter Parker in Spider-Man 2 became an endlessly quotable and memed line.",
+      "source": "https://en.wikipedia.org/wiki/Ah%2C_Rosie%2C_I_love_this_boy"
+    },
+    {
+      "text": "Spider-Man has been a member of the Future Foundation, wearing a distinctive white-and-black costume designed by the Invisible Woman.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man"
+    },
+    {
+      "text": "The Spot, one of Spider-Man's quirkier villains, can create portable holes in space that allow him to teleport, making him surprisingly dangerous despite his silly appearance.",
+      "source": "https://en.wikipedia.org/wiki/Spot"
+    },
+    {
+      "text": "Madame Web, Cassandra Webb, is a psychic who has guided various Spider-People throughout the multiverse.",
+      "source": "https://en.wikipedia.org/wiki/Madame_Web%2C_Cassandra_Webb"
+    },
+    {
+      "text": "Morlun is a powerful vampiric being who hunts spider-totems across the multiverse, serving as the primary antagonist of the Spider-Verse comic events.",
+      "source": "https://en.wikipedia.org/wiki/Morlun"
+    },
+    {
+      "text": "The Spider-Verse concept established that every version of Spider-Man across all media is connected through a multiversal web of life and destiny.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Verse_concept_established_that_every_version_of_Spider-Man_across_all_media"
+    },
+    {
+      "text": "Spider-Man's Uncle Ben was murdered by a burglar that Peter had earlier refused to stop, teaching him the lesson that inaction has consequences.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man%27s_Uncle_Ben"
+    },
+    {
+      "text": "The burglar who killed Uncle Ben was later revealed in the comics to be a small-time criminal named Dennis Carradine, though later stories revisited this.",
+      "source": "https://en.wikipedia.org/wiki/burglar_who_killed_Uncle_Ben"
+    },
+    {
+      "text": "Aunt May nearly married Doctor Octopus in the comics, in one of the most bizarre and memorable subplots in Spider-Man history.",
+      "source": "https://en.wikipedia.org/wiki/Aunt_May"
+    },
+    {
+      "text": "Spider-Man once had six arms after trying to rid himself of his powers with a serum, leading to the classic 'Six Arms Saga.'",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man_once"
+    },
+    {
+      "text": "The Jackal, Miles Warren, was the mastermind behind the Clone Saga, creating clones of Peter Parker and Gwen Stacy out of his obsessive love for Gwen.",
+      "source": "https://en.wikipedia.org/wiki/Jackal%2C_Miles_Warren"
+    },
+    {
+      "text": "Kaine Parker, a degenerated clone of Peter Parker, eventually became the Scarlet Spider and an antihero in his own ongoing series.",
+      "source": "https://en.wikipedia.org/wiki/Kaine_Parker%2C_a_degenerated_clone_of_Peter_Parker%2C_eventually"
+    },
+    {
+      "text": "Spider-Man once wore a paper bag over his head and called himself the Bombastic Bag-Man when the Fantastic Four removed his symbiote suit.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man_once_wore_a_paper_bag_over_his_head_and"
+    },
+    {
+      "text": "Marvel published 'What If?' stories exploring alternate Spider-Man scenarios, such as 'What If Spider-Man Had Joined the Fantastic Four?'",
+      "source": "https://en.wikipedia.org/wiki/What_If"
+    },
+    {
+      "text": "Spider-Man's relationship with the Fantastic Four goes back to his earliest appearances, when he tried to join the team in Amazing Spider-Man #1.",
+      "source": "https://en.wikipedia.org/wiki/Fantastic_Four"
+    },
+    {
+      "text": "The Human Torch and Spider-Man developed one of the most enduring friendships in Marvel Comics, despite their constant pranking and rivalry.",
+      "source": "https://en.wikipedia.org/wiki/Human_Torch_and_Spider-Man"
+    },
+    {
+      "text": "When Johnny Storm (Human Torch) died, he left Peter Parker his spot on the Fantastic Four, showing the depth of their friendship.",
+      "source": "https://en.wikipedia.org/wiki/When_Johnny_Storm_(Human_Torch)_died%2C_he"
+    },
+    {
+      "text": "Spider-Man's webbing can hold about 120 pounds per strand in the comics, but he often uses multiple strands for heavy lifting.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man"
+    },
+    {
+      "text": "Peter Parker graduated from high school in Amazing Spider-Man #28 (1965) and went on to attend Empire State University.",
+      "source": "https://en.wikipedia.org/wiki/Peter_Parker"
+    },
+    {
+      "text": "At Empire State University, Peter studied biophysics and met many of his long-running supporting cast members.",
+      "source": "https://en.wikipedia.org/wiki/At_Empire_State_University%2C_Peter_studied_biophysics_and"
+    },
+    {
+      "text": "Curt Connors, the Lizard, was also one of Peter Parker's college professors, creating a complex relationship between hero and villain.",
+      "source": "https://en.wikipedia.org/wiki/Curt_Connors%2C_the_Lizard"
+    },
+    {
+      "text": "The Hobgoblin's identity was originally supposed to be reported Ned Leeds, but a behind-the-scenes creative dispute led to Roderick Kingsley being revealed instead.",
+      "source": "https://en.wikipedia.org/wiki/Hobgoblin%27s_identity"
+    },
+    {
+      "text": "Green Goblin's glider and pumpkin bombs are among the most recognizable villain weapons in comics, becoming synonymous with Spider-Man's archnemesis.",
+      "source": "https://en.wikipedia.org/wiki/Green_Goblin%27s_glider_and_pumpkin_bombs"
+    },
+    {
+      "text": "Norman Osborn was 'dead' in the comics for over 20 years before being brought back in the 1990s to launch new storylines.",
+      "source": "https://en.wikipedia.org/wiki/Norman_Osborn"
+    },
+    {
+      "text": "The 'Brand New Day' era following One More Day introduced a new status quo with a single Peter Parker, multiple new villains, and a rotating creative team.",
+      "source": "https://en.wikipedia.org/wiki/%27Brand_New_Day%27_era_following_One_More_Day"
+    },
+    {
+      "text": "Dan Slott's decade-long run on Amazing Spider-Man (2008-2018) is one of the longest by a single writer on the title.",
+      "source": "https://en.wikipedia.org/wiki/Dan_Slott%27s_decade-long_run_on_Amazing_Spider-Man_(2008-2018)"
+    },
+    {
+      "text": "Spider-Man: No More! (Amazing Spider-Man #50, 1967) features the iconic image of Peter Parker walking away from his discarded costume in a trash can.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man:_No_More%21_(Amazing_Spider-Man_%2350%2C_1967)"
+    },
+    {
+      "text": "The image from Spider-Man: No More! was homaged in Spider-Man 2 when Tobey Maguire's Peter throws his costume in a garbage can.",
+      "source": "https://en.wikipedia.org/wiki/image_from_Spider-Man:_No_More"
+    },
+    {
+      "text": "Spider-Man's rogues gallery has unique depth because many villains have personal connections to Peter Parker's civilian life.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man%27s_rogues_gallery"
+    },
+    {
+      "text": "Joe Quesada's run as Marvel's Editor-in-Chief directly led to the controversial One More Day storyline, which he personally penciled.",
+      "source": "https://en.wikipedia.org/wiki/Joe_Quesada%27s"
+    },
+    {
+      "text": "The Maximum Carnage storyline (1993) was a massive crossover that spawned a Super Nintendo/Sega Genesis video game adaptation.",
+      "source": "https://en.wikipedia.org/wiki/Maximum_Carnage_storyline_(1993)"
+    },
+    {
+      "text": "Spider-Man was briefly a member of the New Avengers, forming close bonds with Luke Cage, Wolverine, and other street-level heroes.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man"
+    },
+    {
+      "text": "During the Secret Invasion storyline, Spider-Man helped the Avengers fight the Skrull infiltration of Earth.",
+      "source": "https://en.wikipedia.org/wiki/During_the_Secret_Invasion_storyline%2C_Spider-Man"
+    },
+    {
+      "text": "\"Not everyone is meant to make a difference. But for me, the choice to lead an ordinary life is no longer an option.\" — Peter Parker's narration captured the burden and purpose of being Spider-Man.",
+      "source": "https://en.wikipedia.org/wiki/Not_everyone"
+    },
+    {
+      "text": "Spider-Man 2099's costume was designed by Rick Leonardi and features a distinctive skull-like pattern on the chest.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man_2099%27s_costume"
+    },
+    {
+      "text": "Miguel O'Hara, Spider-Man 2099, has talons instead of wall-crawling abilities and organic webbing rather than web-shooters.",
+      "source": "https://en.wikipedia.org/wiki/Miguel_O%27Hara%2C_Spider-Man_2099"
+    },
+    {
+      "text": "The Negative Zone Spider-Man suit is a color-inverted version of the classic costume, appearing primarily in the comics.",
+      "source": "https://en.wikipedia.org/wiki/Negative_Zone_Spider-Man_suit"
+    },
+    {
+      "text": "Spider-Man's Big Time suit, introduced in 2010, featured stealth capabilities that made him invisible to both sight and sound.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man%27s_Big_Time_suit"
+    },
+    {
+      "text": "The Velocity Suit, designed by artist Adi Granov for the Insomniac game, became so popular it was later adapted into the comics.",
+      "source": "https://en.wikipedia.org/wiki/Velocity_Suit%2C_designed_by_artist_Adi_Granov_for_the_Insomniac_game"
+    },
+    {
+      "text": "Spider-Man: Reign (2007) is a dark future story often compared to The Dark Knight Returns, depicting an elderly Peter Parker returning to heroism.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man:_Reign"
+    },
+    {
+      "text": "Spider-Man: Life Story (2019) told Peter Parker's entire story in real time, with each issue covering a decade from the 1960s to the 2010s.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man:_Life_Story"
+    },
+    {
+      "text": "Spider-Man India, Pavitr Prabhakar, reimagines Spider-Man in a Mumbai setting, drawing from Indian mythology and culture.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man_India"
+    },
+    {
+      "text": "Japanese Spider-Man (Supaidaman), a 1978 live-action TV series, gave Spider-Man a giant robot called Leopardon — a concept that inspired Super Sentai.",
+      "source": "https://en.wikipedia.org/wiki/Japanese_Spider-Man_(Supaidaman)%2C_a_1978_live-action_TV_series"
+    },
+    {
+      "text": "The Japanese Spider-Man show directly influenced the creation of the Super Sentai/Power Rangers franchise through its use of giant robot battles.",
+      "source": "https://en.wikipedia.org/wiki/Japanese_Spider-Man"
+    },
+    {
+      "text": "Spider-Man's wall-crawling ability works through electrostatic force between his body and surfaces, allowing him to stick to virtually any material.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man"
+    },
+    {
+      "text": "In some comic storylines, Spider-Man's powers have been mystically linked to a spider-totem, connecting him to a supernatural web of life.",
+      "source": "https://en.wikipedia.org/wiki/In_some_comic_storylines%2C_Spider-Man%27s_powers"
+    },
+    {
+      "text": "The Other storyline saw Spider-Man die and be reborn with enhanced powers including organic webbing, night vision, and stingers in his wrists.",
+      "source": "https://en.wikipedia.org/wiki/Other_storyline"
+    },
+    {
+      "text": "Ezekiel Sims, an older man with similar spider-powers, revealed to Peter that his abilities might have mystical rather than purely scientific origins.",
+      "source": "https://en.wikipedia.org/wiki/Ezekiel_Sims"
+    },
+    {
+      "text": "Mattie Franklin, one of several characters to assume the Spider-Woman identity, gained her powers during the Gathering of Five ritual.",
+      "source": "https://en.wikipedia.org/wiki/Mattie_Franklin"
+    },
+    {
+      "text": "Anya Corazón, also known as Araña and later Spider-Girl, is a Latina superhero who gained spider powers through a mystical Hunter ritual.",
+      "source": "https://en.wikipedia.org/wiki/Anya_Coraz%C3%B3n%2C_also_known_as_Ara%C3%B1a_and_later_Spider-Girl"
+    },
+    {
+      "text": "Mayday Parker, the daughter of Peter Parker and Mary Jane in an alternate future, became Spider-Girl in one of Marvel's longest-running female-led series.",
+      "source": "https://en.wikipedia.org/wiki/Mayday_Parker%2C_the_daughter_of_Peter_Parker_and_Mary_Jane_in_an_alternate_future"
+    },
+    {
+      "text": "Spider-Man Unlimited was both a comic series and a 1999 animated series set on Counter-Earth, featuring a very different take on the character.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man_Unlimited"
+    },
+    {
+      "text": "The Symbiote Spider-Man series explored untold stories from the period when Peter Parker was bonded to the alien symbiote that would become Venom.",
+      "source": "https://en.wikipedia.org/wiki/Symbiote_Spider-Man_series_explored_untold_stories_from_the_period_when_Peter_Parker"
+    },
+    {
+      "text": "Eddie Brock's hatred of Spider-Man stemmed from Peter Parker inadvertently exposing Brock's false story about the Sin-Eater's identity.",
+      "source": "https://en.wikipedia.org/wiki/Eddie_Brock%27s"
+    },
+    {
+      "text": "\"We are Venom!\" — The symbiote and Eddie Brock's declaration of their merged identity became one of the most chilling catchphrases in comics.",
+      "source": "https://www.youtube.com/results?search_query=Spider-Man%20We%20are%20Venom%21%20live%20performance"
+    },
+    {
+      "text": "Toxin, the offspring of the Carnage symbiote, bonded with police officer Patrick Mulligan and was considered potentially the most powerful symbiote.",
+      "source": "https://en.wikipedia.org/wiki/Patrick_Mulligan_and"
+    },
+    {
+      "text": "Anti-Venom, a form Eddie Brock gained through the remnants of the Venom symbiote and Mister Negative's powers, had the ability to cure diseases and other symbiotes.",
+      "source": "https://en.wikipedia.org/wiki/Eddie_Brock"
+    },
+    {
+      "text": "The Life Foundation created five symbiote offspring from Venom — Scream, Phage, Riot, Agony, and Lasher — each with unique abilities.",
+      "source": "https://en.wikipedia.org/wiki/Life_Foundation"
+    },
+    {
+      "text": "Shriek, a villain with sonic powers, was Carnage's partner during the Maximum Carnage storyline and one of Spider-Man's more disturbing enemies.",
+      "source": "https://en.wikipedia.org/wiki/Shriek%2C_a_villain_with_sonic_powers"
+    },
+    {
+      "text": "\"You're trash, Brock.\" — Peter Parker's dismissive line to Eddie Brock in Spider-Man 3 became another widely shared meme from the Raimi trilogy.",
+      "source": "https://www.youtube.com/results?search_query=Spider-Man%20You%27re%20trash%2C%20Brock.%20live%20performance"
+    },
+    {
+      "text": "The Chameleon, Dmitri Smerdyakov, was the very first villain Spider-Man ever faced, appearing in Amazing Spider-Man #1 (1963).",
+      "source": "https://en.wikipedia.org/wiki/Chameleon%2C_Dmitri_Smerdyakov"
+    },
+    {
+      "text": "Tombstone, Lonnie Lincoln, is an albino crime lord with super-strength and near-invulnerability who has been a persistent threat in Spider-Man's world.",
+      "source": "https://en.wikipedia.org/wiki/Tombstone%2C_Lonnie_Lincoln"
+    },
+    {
+      "text": "Hammerhead is a gangster whose skull was surgically reinforced with steel, making him a dangerous melee combatant and a recurring Spider-Man foe.",
+      "source": "https://en.wikipedia.org/wiki/Hammerhead"
+    },
+    {
+      "text": "Silver Sable, leader of the Wild Pack mercenary group from the fictional nation Symkaria, has alternated between ally and antagonist to Spider-Man.",
+      "source": "https://en.wikipedia.org/wiki/Silver_Sable%2C_leader_of_the_Wild_Pack_mercenary_group_from_the_fictional_nation_Symkaria"
+    },
+    {
+      "text": "The Prowler, Hobie Brown, is a reformed criminal who became Spider-Man's ally and has occasionally impersonated him.",
+      "source": "https://en.wikipedia.org/wiki/Prowler%2C_Hobie_Brown"
+    },
+    {
+      "text": "In the MCU, Aaron Davis (the Prowler) was played by Donald Glover in Homecoming, who is also Miles Morales's uncle in the comics and Spider-Verse films.",
+      "source": "https://en.wikipedia.org/wiki/In_the_MCU%2C_Aaron_Davis_(the_Prowler)"
+    },
+    {
+      "text": "The Spider-Mobile was a dune-buggy-style vehicle Spider-Man was pressured into using by a sponsor in the 1970s comics, and it's as ridiculous as it sounds.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Mobile"
+    },
+    {
+      "text": "Amazing Spider-Man #300 (1988) featured the first full appearance of Venom and is one of the most valuable modern-era comics.",
+      "source": "https://en.wikipedia.org/wiki/Amazing_Spider-Man_%23300_(1988)_featured_the_first_full_appearance_of_Venom_and"
+    },
+    {
+      "text": "Todd McFarlane's cover for Amazing Spider-Man #300 featuring Venom is one of the most iconic comic book covers of the 1980s.",
+      "source": "https://en.wikipedia.org/wiki/Todd_McFarlane%27s_cover_for_Amazing_Spider-Man_%23300_featuring_Venom"
+    },
+    {
+      "text": "Spider-Man has appeared on Broadway in 'Spider-Man: Turn Off the Dark,' which became notorious for its troubled production and multiple injuries during performances.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man"
+    },
+    {
+      "text": "Spider-Man: Turn Off the Dark, with music by Bono and The Edge of U2, was the most expensive Broadway show in history at the time, costing $75 million.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man:_Turn_Off_the_Dark%2C_with_music_by_Bono_and_The_Edge_of_U2"
+    },
+    {
+      "text": "The 1977 live-action Spider-Man TV series starring Nicholas Hammond was the first live-action Spider-Man adaptation.",
+      "source": "https://en.wikipedia.org/wiki/1977_live-action_Spider-Man_TV_series_starring_Nicholas_Hammond"
+    },
+    {
+      "text": "The Electric Company, a children's TV show, featured Spider-Man segments called 'Spidey Super Stories' in the 1970s, introducing him to younger audiences.",
+      "source": "https://en.wikipedia.org/wiki/Electric_Company%2C_a_children%27s_TV_show%2C_featured_Spider-Man_segments"
+    },
+    {
+      "text": "Spider-Man has been featured on countless merchandise items including lunch boxes, pajamas, and backpacks, making him one of the most marketed superheroes.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man"
+    },
+    {
+      "text": "Spider-Man's likeness generates billions of dollars in merchandise revenue annually, consistently outperforming most other superhero brands.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man"
+    },
+    {
+      "text": "The Spider-Signal is a flashlight-style device Spider-Man uses to project his spider emblem, though it's been used far less frequently than Batman's Bat-Signal.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Signal"
+    },
+    {
+      "text": "Peter Parker once became Captain Universe when the Uni-Power bonded with him, temporarily granting him cosmic-level abilities.",
+      "source": "https://en.wikipedia.org/wiki/Peter_Parker_once"
+    },
+    {
+      "text": "The Cosmic Spider-Man storyline gave Peter Parker the Enigma Force, making him one of the most powerful beings in the Marvel Universe for a brief time.",
+      "source": "https://en.wikipedia.org/wiki/Cosmic_Spider-Man_storyline"
+    },
+    {
+      "text": "Spider-Man's strength increases dramatically when people he cares about are in danger, as demonstrated multiple times when he lifts objects far beyond his normal limits.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man%27s_strength_increases_dramatically_when_people_he_cares_about"
+    },
+    {
+      "text": "\"Everybody gets one.\" — Spider-Man's casual post-rescue line became a popular meme and catchphrase from the Family Guy TV show.",
+      "source": "https://www.youtube.com/results?search_query=Spider-Man%20Everybody%20gets%20one.%20live%20performance"
+    },
+    {
+      "text": "In the comics, Spider-Man once held the Infinity Gauntlet, though his selfless nature prevented him from being corrupted by its power.",
+      "source": "https://en.wikipedia.org/wiki/In_the"
+    },
+    {
+      "text": "Spider-Man has fought Firelord, a former herald of Galactus, and won — demonstrating that his intelligence and agility can overcome vastly more powerful foes.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man"
+    },
+    {
+      "text": "\"If you're nothing without the suit, then you shouldn't have it.\" — Tony Stark's advice to Peter Parker in Homecoming echoed Uncle Ben's philosophy.",
+      "source": "https://en.wikipedia.org/wiki/If_you%27re_nothing_without_the_suit%2C_then_you_shouldn%27t_have_it"
+    },
+    {
+      "text": "The Spider-Armor Mark I was a silver-plated suit Peter created to fight the New Enforcers, sacrificing it in the battle.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Armor_Mark_I"
+    },
+    {
+      "text": "The Spider-Armor Mark II, the Bulletproof Suit, was created at Horizon Labs to protect Spider-Man from firearms.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Armor_Mark_II%2C_the_Bulletproof_Suit"
+    },
+    {
+      "text": "The Spider-Armor Mark III, also known as the Ends of the Earth Suit, was specifically designed to counter the Sinister Six's abilities.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Armor_Mark_III%2C_also_known_as_the_Ends_of_the_Earth_Suit"
+    },
+    {
+      "text": "The Spider-Armor Mark IV, the All-New All-Different suit, featured glowing green elements and was created during Parker Industries' peak.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Armor_Mark_IV"
+    },
+    {
+      "text": "Peter Parker and Mary Jane Watson-Parker had a baby named May in an alternate timeline, but the child was stolen by Norman Osborn in the main continuity.",
+      "source": "https://en.wikipedia.org/wiki/Peter_Parker_and_Mary_Jane_Watson-Parker"
+    },
+    {
+      "text": "The marriage of Peter Parker and Mary Jane Watson in Amazing Spider-Man Annual #21 (1987) was simulcast with a real ceremony at Shea Stadium.",
+      "source": "https://en.wikipedia.org/wiki/marriage_of_Peter_Parker_and_Mary_Jane_Watson_in_Amazing_Spider-Man_Annual_%2321_(1987)"
+    },
+    {
+      "text": "Spider-Man's webs can be shaped into various forms including shields, parachutes, rafts, and even a hang glider in creative combat situations.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man"
+    },
+    {
+      "text": "The Daily Bugle building is one of the most iconic fictional buildings in Marvel's New York, serving as a constant backdrop for Spider-Man stories.",
+      "source": "https://en.wikipedia.org/wiki/Daily_Bugle_building"
+    },
+    {
+      "text": "Robbie Robertson, the Daily Bugle's editor and J. Jonah Jameson's moral conscience, has been one of Spider-Man's most consistent behind-the-scenes allies.",
+      "source": "https://en.wikipedia.org/wiki/Robbie_Robertson%2C_the_Daily_Bugle%27s_editor_and_J._Jonah_Jameson%27s_moral_conscience"
+    },
+    {
+      "text": "Betty Brant, J. Jonah Jameson's secretary, was actually Peter Parker's first girlfriend in the comics before Gwen Stacy or Mary Jane.",
+      "source": "https://en.wikipedia.org/wiki/Betty_Brant%2C_J._Jonah_Jameson%27s_secretary"
+    },
+    {
+      "text": "Glory Grant, Debra Whitman, and Carlie Cooper are among Peter Parker's other love interests throughout the comics' long history.",
+      "source": "https://en.wikipedia.org/wiki/Glory_Grant%2C_Debra_Whitman%2C_and_Carlie_Cooper"
+    },
+    {
+      "text": "Spider-Man has fought alongside nearly every Marvel hero at some point, but his most frequent team-up partners include Daredevil, Wolverine, and the Human Torch.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man"
+    },
+    {
+      "text": "\"I'm going to put some dirt in your eye.\" — Tobey Maguire's Bully Maguire from Spider-Man 3 spawned an entire genre of internet memes.",
+      "source": "https://en.wikipedia.org/wiki/I%27m_going_to_put_some_dirt_in_your_eye"
+    },
+    {
+      "text": "The Spider-Man newspaper strip version of Peter Parker was notably older and already married to Mary Jane from the beginning.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man_newspaper_strip_version_of_Peter_Parker"
+    },
+    {
+      "text": "Stan Lee wrote the Spider-Man newspaper strip for over 40 years, creating a parallel continuity separate from the comic books.",
+      "source": "https://en.wikipedia.org/wiki/Stan_Lee"
+    },
+    {
+      "text": "Spider-Man PS4 features a collectible backpack system where players find old backpacks Peter left around the city, each containing mementos from his past adventures.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man_PS4"
+    },
+    {
+      "text": "The Advanced Suit in Insomniac's Spider-Man, designed specifically for the game, features a white spider emblem and has become an iconic design in its own right.",
+      "source": "https://en.wikipedia.org/wiki/Advanced_Suit_in_Insomniac%27s_Spider-Man%2C_designed_specifically_for_the_game"
+    },
+    {
+      "text": "Insomniac's Spider-Man features Miles Morales in a supporting role, attending the F.E.A.S.T. center where Peter volunteers, before gaining his own powers.",
+      "source": "https://en.wikipedia.org/wiki/Insomniac%27s_Spider-Man"
+    },
+    {
+      "text": "F.E.A.S.T. (Food, Emergency Aid, Shelter, and Training) in the Insomniac games is run by Martin Li, who is secretly Mister Negative.",
+      "source": "https://en.wikipedia.org/wiki/F.E.A.S.T._(Food%2C_Emergency_Aid%2C_Shelter%2C_and_Training)_in_the_Insomniac_games"
+    },
+    {
+      "text": "The Taskmaster appears in Insomniac's Spider-Man as an antagonist who challenges Spider-Man with combat and stealth trials throughout the city.",
+      "source": "https://en.wikipedia.org/wiki/Taskmaster"
+    },
+    {
+      "text": "Spider-Man PS4's photo mode became massively popular, with fans sharing stunning virtual photography of Spider-Man swinging through New York.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man_PS4%27s_photo_mode"
+    },
+    {
+      "text": "Insomniac's Spider-Man 2 features a seamless transition between Peter and Miles with no loading screens, allowing instant character switching.",
+      "source": "https://en.wikipedia.org/wiki/Insomniac%27s_Spider-Man_2"
+    },
+    {
+      "text": "The Venom symbiote's corruption of Peter Parker in Insomniac's Spider-Man 2 parallels the same storyline from the comics and Spider-Man 3.",
+      "source": "https://en.wikipedia.org/wiki/Venom"
+    },
+    {
+      "text": "Harry Osborn is the Venom host in Insomniac's Spider-Man 2, a twist on the traditional Eddie Brock origin that ties into the game's themes of friendship.",
+      "source": "https://en.wikipedia.org/wiki/Harry_Osborn"
+    },
+    {
+      "text": "Silver Sable and Hammerhead are featured antagonists in Insomniac's Spider-Man: The City That Never Sleeps DLC.",
+      "source": "https://en.wikipedia.org/wiki/Silver_Sable_and_Hammerhead"
+    },
+    {
+      "text": "Black Cat plays a significant role in the Insomniac Spider-Man DLC, with the storyline revealing she may have had a son with Peter Parker.",
+      "source": "https://en.wikipedia.org/wiki/Black_Cat"
+    },
+    {
+      "text": "Spider-Man: Miles Morales features the Tinkerer (Phin Mason) as the main villain, a childhood friend of Miles turned radical activist.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man:_Miles_Morales"
+    },
+    {
+      "text": "The Underground, Phin Mason's group in Miles Morales, uses programmable matter technology stolen from Roxxon Energy Corporation.",
+      "source": "https://en.wikipedia.org/wiki/Underground"
+    },
+    {
+      "text": "Ganke Lee, Miles Morales's best friend in the comics, was reimagined as Ned Leeds in the MCU films, sharing many of the same character traits.",
+      "source": "https://en.wikipedia.org/wiki/Ganke_Lee%2C_Miles_Morales%27s_best_friend_in_the_comics"
+    },
+    {
+      "text": "Rio Morales, Miles's mother, is a prominent character in both the comics and Insomniac games, serving as a community leader and source of strength.",
+      "source": "https://en.wikipedia.org/wiki/Rio_Morales%2C_Miles%27s_mother"
+    },
+    {
+      "text": "Jefferson Davis, Miles's father, is a former S.H.I.E.L.D. agent in the comics and a police officer in most adaptations, whose death often drives Miles's hero arc.",
+      "source": "https://en.wikipedia.org/wiki/Jefferson_Davis%2C_Miles%27s_father"
+    },
+    {
+      "text": "\"What would Spider-Man do?\" — This question guides Miles Morales throughout his journey as he tries to honor Peter Parker's legacy.",
+      "source": "https://en.wikipedia.org/wiki/What_would_Spider-Man_do"
+    },
+    {
+      "text": "Spider-Man's universe in Insomniac's games features its own version of the Avengers, with Avengers Tower visible in the New York skyline.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man%27s_universe_in_Insomniac%27s_games"
+    },
+    {
+      "text": "The Raft, a maximum-security prison for supervillains on Ryker's Island, features prominently in Insomniac's Spider-Man when its inmates are released.",
+      "source": "https://en.wikipedia.org/wiki/Raft%2C_a_maximum-security_prison_for_supervillains_on_Ryker%27s_Island"
+    },
+    {
+      "text": "Tombstone appears as a side mission antagonist in Insomniac's Spider-Man, where he is portrayed as a drug lord distributing a dangerous compound.",
+      "source": "https://en.wikipedia.org/wiki/Tombstone_appears_as_a_side_mission_antagonist_in_Insomniac%27s_Spider-Man%2C_where_he"
+    },
+    {
+      "text": "Screwball, a live-streaming villain who pulls dangerous pranks for online followers, represents modern social media culture in Insomniac's Spider-Man DLC.",
+      "source": "https://en.wikipedia.org/wiki/Insomniac%27s_Spider-Man_DLC"
+    },
+    {
+      "text": "The White Spider suit, Anti-Ock Suit, and Undies outfit are among the many unlockable costumes in Insomniac's Spider-Man.",
+      "source": "https://en.wikipedia.org/wiki/White_Spider_suit%2C_Anti-Ock_Suit%2C_and_Undies_outfit"
+    },
+    {
+      "text": "Each suit in Insomniac's Spider-Man comes with a unique suit power, such as the Electric Punch from the Electrically Insulated Suit or the Iron Arms from the Iron Spider.",
+      "source": "https://en.wikipedia.org/wiki/Insomniac%27s_Spider-Man"
+    },
+    {
+      "text": "Spider-Man's first animated film appearance was in a segment of the 1977 TV movie 'Spidey Goes Hollywood.'",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man%27s_first_animated_film_appearance"
+    },
+    {
+      "text": "The Clone Conspiracy (2016) saw the Jackal return with perfected cloning technology, resurrecting dead characters including Gwen Stacy and other Spider-Man losses.",
+      "source": "https://en.wikipedia.org/wiki/Clone_Conspiracy"
+    },
+    {
+      "text": "Renew Your Vows was a 2015 storyline exploring a world where Peter Parker and Mary Jane stayed married and raised their daughter Annie.",
+      "source": "https://en.wikipedia.org/wiki/Renew_Your_Vows"
+    },
+    {
+      "text": "The Spider-Geddon event (2018) was a sequel to Spider-Verse, once again uniting Spider-People from across the multiverse against the Inheritors.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Geddon_event_(2018)"
+    },
+    {
+      "text": "Morlun, the primary hunter of spider-totems, draws his power from consuming the life force of those connected to the Great Web of Life and Destiny.",
+      "source": "https://en.wikipedia.org/wiki/Great_Web_of_Life_and_Destiny"
+    },
+    {
+      "text": "The Great Web of Life and Destiny is a mystical construct that connects all spider-totems across the multiverse in Marvel's cosmology.",
+      "source": "https://en.wikipedia.org/wiki/Great_Web_of_Life_and_Destiny"
+    },
+    {
+      "text": "Cindy Moon (Silk) was locked in a bunker for years after being bitten by the same spider as Peter, because her presence would attract Morlun.",
+      "source": "https://en.wikipedia.org/wiki/Cindy_Moon_(Silk)"
+    },
+    {
+      "text": "Jessica Drew (Spider-Woman) is an Avenger, spy, and mother who has a completely different origin from Spider-Man, involving genetic engineering and HYDRA.",
+      "source": "https://en.wikipedia.org/wiki/Jessica_Drew_(Spider-Woman)"
+    },
+    {
+      "text": "Julia Carpenter, the second Spider-Woman, later became the new Madame Web after the original Cassandra Webb passed her powers on.",
+      "source": "https://en.wikipedia.org/wiki/Julia_Carpenter%2C_the_second_Spider-Woman%2C_later"
+    },
+    {
+      "text": "Spider-Man fought the X-Men villain Juggernaut in one of his most famous battles, using his brains rather than brawn to survive.",
+      "source": "https://en.wikipedia.org/wiki/Juggernaut_in"
+    },
+    {
+      "text": "\"In spite of everything you've done for them, eventually, they will hate you.\" — The Green Goblin's warning to Spider-Man in Sam Raimi's film proved prophetic across multiple storylines.",
+      "source": "https://en.wikipedia.org/wiki/In_spite_of_everything_you%27ve_done_for_them%2C_eventually%2C_they_will_hate_you"
+    },
+    {
+      "text": "Spider-Man's costume was originally going to be red and black, but coloring limitations in printing made the black areas appear blue, resulting in the iconic red-and-blue scheme.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man%27s_costume"
+    },
+    {
+      "text": "The spider emblem on Spider-Man's chest has gone through numerous design changes across different comic artists, each putting their own spin on the icon.",
+      "source": "https://en.wikipedia.org/wiki/spider_emblem_on_Spider-Man%27s_chest"
+    },
+    {
+      "text": "Spider-Man was the first Marvel character to become a television star, predating the live-action Hulk and Captain America TV movies.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man"
+    },
+    {
+      "text": "The Beyonder, a near-omnipotent being, recruited Spider-Man along with other heroes for the original Secret Wars (1984), where Spider-Man first found the symbiote.",
+      "source": "https://en.wikipedia.org/wiki/Secret_Wars"
+    },
+    {
+      "text": "During Secret Wars, Spider-Man obtained the alien symbiote costume from a machine he thought was a fabric replicator, not knowing it was alive.",
+      "source": "https://en.wikipedia.org/wiki/During_Secret_Wars"
+    },
+    {
+      "text": "Reed Richards and the Fantastic Four helped Spider-Man realize the black costume was a living symbiote, eventually removing it using a sonic weapon.",
+      "source": "https://en.wikipedia.org/wiki/Reed_Richards_and_the_Fantastic_Four"
+    },
+    {
+      "text": "The symbiote's hatred of Spider-Man for rejecting it made Eddie Brock's Venom personal, as the suit shared its knowledge of Peter's identity.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man_for"
+    },
+    {
+      "text": "Venom knowing Spider-Man's secret identity made him one of the most dangerous villains, as he could target Peter Parker's loved ones directly.",
+      "source": "https://en.wikipedia.org/wiki/Peter_Parker%27s"
+    },
+    {
+      "text": "Spider-Man once joined the Fantastic Four as a replacement for the Human Torch, wearing a white-and-black Future Foundation suit.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man_once"
+    },
+    {
+      "text": "\"The itsy bitsy spider went up the water spout...\" — Green Goblin's nursery rhyme taunting of Spider-Man in various media has added a layer of creepiness to the villain.",
+      "source": "https://en.wikipedia.org/wiki/itsy_bitsy_spider_went_up_the_water_spout"
+    },
+    {
+      "text": "The Stacy family has been deeply intertwined with Spider-Man's history: Captain George Stacy died saving a child from falling rubble during a fight with Doc Ock.",
+      "source": "https://en.wikipedia.org/wiki/Stacy_family"
+    },
+    {
+      "text": "Captain Stacy's dying words revealed he knew Peter was Spider-Man and asked him to take care of Gwen, adding tragedy to the relationship.",
+      "source": "https://en.wikipedia.org/wiki/Captain_Stacy%27s_dying_words_revealed_he_knew_Peter"
+    },
+    {
+      "text": "Norman Osborn took over S.H.I.E.L.D. and renamed it H.A.M.M.E.R. during the Dark Reign storyline, becoming one of the most powerful men on Earth.",
+      "source": "https://en.wikipedia.org/wiki/Norman_Osborn"
+    },
+    {
+      "text": "During Dark Reign, Norman Osborn created the Dark Avengers, including his own Iron Patriot armor, while secretly maintaining the Green Goblin's madness.",
+      "source": "https://en.wikipedia.org/wiki/During_Dark_Reign%2C_Norman_Osborn"
+    },
+    {
+      "text": "The Goblin Nation storyline in Superior Spider-Man saw the Green Goblin take over New York's criminal underworld while Doc Ock (in Peter's body) failed to stop him.",
+      "source": "https://en.wikipedia.org/wiki/Goblin_Nation_storyline_in_Superior_Spider-Man"
+    },
+    {
+      "text": "Spider-Man has been adapted into countless languages and published in nearly every country, making him one of the most globally recognized fictional characters.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man"
+    },
+    {
+      "text": "The Amazing Spider-Man comic series has been renumbered and relaunched multiple times, but the original numbering has been restored to honor its legacy.",
+      "source": "https://en.wikipedia.org/wiki/Amazing_Spider-Man_comic_series"
+    },
+    {
+      "text": "Amazing Spider-Man #583 featured a Barack Obama cover variant that became one of the bestselling comics of 2009.",
+      "source": "https://en.wikipedia.org/wiki/Amazing_Spider-Man_%23583_featured_a_Barack_Obama_cover_variant_that"
+    },
+    {
+      "text": "Spider-Man's web-swinging through Manhattan's skyscraper canyons has inspired parkour practitioners and urban athletes worldwide.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man%27s_web-swinging_through_Manhattan%27s_skyscraper_canyons"
+    },
+    {
+      "text": "\"Gonna cry?\" — Bully Maguire's taunt from Spider-Man 3 became the cornerstone of an entire subculture of Raimi meme edits on YouTube.",
+      "source": "https://en.wikipedia.org/wiki/Gonna_cry"
+    },
+    {
+      "text": "Tom Holland famously learned of his casting as Spider-Man via Instagram when Marvel posted the announcement, which he didn't believe was real at first.",
+      "source": "https://en.wikipedia.org/wiki/Tom_Holland"
+    },
+    {
+      "text": "Tom Holland performed many of his own stunts in the MCU Spider-Man films, leveraging his background in gymnastics and dance.",
+      "source": "https://en.wikipedia.org/wiki/Tom_Holland"
+    },
+    {
+      "text": "Tom Holland's audition for Spider-Man included performing a backflip, which helped demonstrate the physicality needed for the role.",
+      "source": "https://en.wikipedia.org/wiki/Tom_Holland%27s_audition_for_Spider-Man_included_performing_a_backflip%2C_which"
+    },
+    {
+      "text": "Robert Downey Jr.'s Tony Stark serves as a father figure to Tom Holland's Peter Parker, replacing Uncle Ben as the primary mentor in the MCU version.",
+      "source": "https://en.wikipedia.org/wiki/Robert_Downey_Jr.%27s_Tony_Stark"
+    },
+    {
+      "text": "The MCU's Spider-Man films were co-produced by Sony Pictures and Marvel Studios, a unique arrangement in the superhero film landscape.",
+      "source": "https://en.wikipedia.org/wiki/MCU%27s_Spider-Man_films"
+    },
+    {
+      "text": "The Vulture's twist as Liz's father in Homecoming was inspired by classic thriller reveals and is often compared to Darth Vader's iconic twist.",
+      "source": "https://en.wikipedia.org/wiki/Vulture%27s_twist_as_Liz%27s_father_in_Homecoming"
+    },
+    {
+      "text": "Spider-Man: Homecoming features the Washington Monument rescue, where Spider-Man scales the national landmark to save his Academic Decathlon teammates.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man:_Homecoming"
+    },
+    {
+      "text": "The 'Instant Kill' mode on Spider-Man's MCU suit was a recurring joke in the films, with Peter reluctant to use it until the battle against Thanos.",
+      "source": "https://en.wikipedia.org/wiki/%27Instant_Kill%27_mode_on_Spider-Man%27s_MCU_suit"
+    },
+    {
+      "text": "Happy Hogan, played by Jon Favreau, became an important supporting character in the MCU Spider-Man films, serving as Peter's connection to Stark Industries.",
+      "source": "https://en.wikipedia.org/wiki/Happy_Hogan%2C_played_by_Jon_Favreau"
+    },
+    {
+      "text": "Spider-Man was a key participant in the Battle of Titan in Avengers: Infinity War, fighting Thanos alongside Iron Man, Doctor Strange, and the Guardians.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man"
+    },
+    {
+      "text": "\"Mr. Stark, I don't feel so good...\" — Peter Parker's dusting scene in Infinity War became one of the most emotional moments in the entire MCU.",
+      "source": "https://www.youtube.com/results?search_query=Spider-Man%20Mr.%20Stark%2C%20I%20don%27t%20feel%20so%20good...%20live%20performance"
+    },
+    {
+      "text": "Tom Holland improvised much of the dusting scene in Infinity War, including his terrified reaction, which Robert Downey Jr. responded to in real time.",
+      "source": "https://en.wikipedia.org/wiki/Tom_Holland"
+    },
+    {
+      "text": "Spider-Man was the first hero to interact with Doctor Strange in the MCU, a relationship that became central to No Way Home's plot.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man"
+    },
+    {
+      "text": "The multiverse concept in No Way Home was set up by Doctor Strange's failed spell, which pulled in villains who knew Peter Parker's identity from other universes.",
+      "source": "https://en.wikipedia.org/wiki/multiverse_concept_in_No_Way_Home"
+    },
+    {
+      "text": "No Way Home's opening scene recreates the end of Far From Home, as Peter deals with J. Jonah Jameson broadcasting Mysterio's video to the world.",
+      "source": "https://en.wikipedia.org/wiki/No_Way_Home%27s"
+    },
+    {
+      "text": "Charlie Cox's Matt Murdock/Daredevil appears in No Way Home as Peter Parker's lawyer, marking his transition from Netflix to the MCU.",
+      "source": "https://en.wikipedia.org/wiki/Charlie_Cox%27s_Matt_Murdock"
+    },
+    {
+      "text": "\"I am Spider-Man. I always have been.\" — Peter Parker's realization in Far From Home that he doesn't need Tony Stark's technology to be a hero.",
+      "source": "https://en.wikipedia.org/wiki/I_am_Spider-Man._I_always_have_been"
+    },
+    {
+      "text": "The Statue of Liberty battle in No Way Home, featuring all three Spider-Men fighting together, is one of the most elaborate action sequences in the MCU.",
+      "source": "https://en.wikipedia.org/wiki/Statue_of_Liberty"
+    },
+    {
+      "text": "Tom Holland's Spider-Man created a new suit at the end of No Way Home using a sewing machine, echoing the homemade origins of the classic comics.",
+      "source": "https://en.wikipedia.org/wiki/Tom_Holland%27s_Spider-Man"
+    },
+    {
+      "text": "The final image of No Way Home shows Spider-Man swinging through a snowy New York in a classic red-and-blue suit, symbolizing a return to basics.",
+      "source": "https://en.wikipedia.org/wiki/No_Way_Home"
+    },
+    {
+      "text": "Sony's Spider-Man Universe (SSU) includes standalone films for Venom, Morbius, and Madame Web, set in a continuity adjacent to the MCU.",
+      "source": "https://en.wikipedia.org/wiki/Sony%27s_Spider-Man_Universe_(SSU)"
+    },
+    {
+      "text": "Tom Hardy plays Eddie Brock/Venom in Sony's Venom films (2018, 2021, 2024), portraying the character as a comedic antihero rather than a villain.",
+      "source": "https://en.wikipedia.org/wiki/Tom_Hardy"
+    },
+    {
+      "text": "Venom (2018) earned over $850 million worldwide despite mixed critical reception, proving the character's box office draw outside of Spider-Man.",
+      "source": "https://en.wikipedia.org/wiki/Venom"
+    },
+    {
+      "text": "Spider-Man's theme of power and responsibility has been explored in countless academic papers, making him one of the most studied superheroes in pop culture.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man%27s_theme_of_power_and_responsibility"
+    },
+    {
+      "text": "Spider-Man comics have addressed real-world issues including drug abuse, with a famous 1971 storyline about Harry Osborn's drug addiction published without the Comics Code seal.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man_comics"
+    },
+    {
+      "text": "The anti-drug Amazing Spider-Man issues #96-98 were published without Comics Code Authority approval at the request of the U.S. Department of Health, leading to a revision of the code.",
+      "source": "https://en.wikipedia.org/wiki/anti-drug_Amazing_Spider-Man_issues_%2396-98"
+    },
+    {
+      "text": "Spider-Man co-creator Steve Ditko left Amazing Spider-Man after issue #38 (1966) due to creative disagreements with Stan Lee, particularly over the Green Goblin's identity.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man_co-creator_Steve_Ditko"
+    },
+    {
+      "text": "During Ditko's run, the Green Goblin's identity was unknown, and Ditko reportedly wanted him to be a random stranger rather than Norman Osborn to emphasize that evil can come from anyone.",
+      "source": "https://en.wikipedia.org/wiki/During_Ditko%27s_run%2C_the_Green_Goblin%27s_identity"
+    },
+    {
+      "text": "John Romita Sr. took over art duties on Amazing Spider-Man after Ditko's departure, giving the book a more polished, romance-comic-influenced style.",
+      "source": "https://en.wikipedia.org/wiki/John_Romita_Sr"
+    },
+    {
+      "text": "John Romita Sr. redesigned Mary Jane Watson's look and made her the glamorous, confident character that became Peter's iconic love interest.",
+      "source": "https://en.wikipedia.org/wiki/John_Romita_Sr"
+    },
+    {
+      "text": "Ross Andru, Gil Kane, and many other artists have made significant contributions to Spider-Man's visual evolution throughout the decades.",
+      "source": "https://en.wikipedia.org/wiki/Ross_Andru%2C_Gil_Kane%2C_and_many_other_artists"
+    },
+    {
+      "text": "Mark Bagley holds the record for the most consecutive issues drawn on a single Marvel title, with 111 issues of Ultimate Spider-Man.",
+      "source": "https://en.wikipedia.org/wiki/Mark_Bagley"
+    },
+    {
+      "text": "J. Scott Campbell's covers for Amazing Spider-Man helped define Spider-Man's modern visual identity in the early 2000s.",
+      "source": "https://en.wikipedia.org/wiki/J._Scott_Campbell%27s_covers_for_Amazing_Spider-Man"
+    },
+    {
+      "text": "Humberto Ramos brought a distinctive, manga-influenced art style to Amazing Spider-Man that divided fans but attracted new readers.",
+      "source": "https://en.wikipedia.org/wiki/Humberto_Ramos"
+    },
+    {
+      "text": "\"You mess with one of us, you mess with all of us!\" — A New York bystander defending Spider-Man on the bridge in the 2002 film captured the hero's connection to ordinary people.",
+      "source": "https://en.wikipedia.org/wiki/You_mess_with_one_of_us%2C_you_mess_with_all_of_us"
+    },
+    {
+      "text": "Spider-Man's appeal has endured for over 60 years because he represents the everyman hero: someone with real problems who chooses to help others despite personal sacrifice.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man%27s_appeal"
+    },
+    {
+      "text": "Peter Parker's financial struggles have been a constant theme in Spider-Man comics, making him one of the few superheroes who actually worries about paying rent.",
+      "source": "https://en.wikipedia.org/wiki/Peter_Parker%27s_financial_struggles"
+    },
+    {
+      "text": "Spider-Man was part of the original Avengers lineup in the Ultimate universe, unlike the mainstream continuity where he joined later.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man"
+    },
+    {
+      "text": "In the Ultimate universe, Peter Parker was killed by the Green Goblin in Ultimate Spider-Man #160, paving the way for Miles Morales to take over.",
+      "source": "https://en.wikipedia.org/wiki/In_the_Ultimate_universe%2C_Peter_Parker"
+    },
+    {
+      "text": "Ultimate Peter Parker's death scene, where he saves Aunt May and tells her he couldn't save Uncle Ben but he could save her, is one of the most emotional moments in Marvel Comics.",
+      "source": "https://en.wikipedia.org/wiki/Ultimate_Peter_Parker%27s_death_scene%2C_where_he_saves_Aunt_May_and"
+    },
+    {
+      "text": "Miles Morales was inspired by actor Donald Glover's campaign to be considered for the role of Spider-Man in The Amazing Spider-Man.",
+      "source": "https://en.wikipedia.org/wiki/Miles_Morales"
+    },
+    {
+      "text": "Donald Glover wore Spider-Man pajamas on an episode of Community as part of his campaign, which directly inspired Brian Michael Bendis to create Miles Morales.",
+      "source": "https://en.wikipedia.org/wiki/Donald_Glover"
+    },
+    {
+      "text": "Miles Morales's venom blast, an ability unique to him, generates bioelectric energy that can incapacitate opponents with a touch.",
+      "source": "https://en.wikipedia.org/wiki/Miles_Morales%27s"
+    },
+    {
+      "text": "Miles Morales's camouflage ability allows him to blend into his surroundings, becoming effectively invisible — a power Peter Parker does not possess.",
+      "source": "https://en.wikipedia.org/wiki/Miles_Morales%27s"
+    },
+    {
+      "text": "The Spider-Man: Into the Spider-Verse soundtrack won the Grammy Award for Best Score Soundtrack for Visual Media, alongside Daniel Pemberton's acclaimed score.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man:_Into_the_Spider-Verse_soundtrack"
+    },
+    {
+      "text": "Across the Spider-Verse features a sequence set in Mumbattan (a fusion of Mumbai and Manhattan) rendered in a watercolor-inspired animation style.",
+      "source": "https://en.wikipedia.org/wiki/Across_the_Spider-Verse"
+    },
+    {
+      "text": "Across the Spider-Verse's Punk Spider-Man (Hobie Brown from Earth-138) is animated in a collage style reminiscent of punk rock zines and album art.",
+      "source": "https://en.wikipedia.org/wiki/Across_the_Spider-Verse%27s_Punk_Spider-Man_(Hobie_Brown_from_Earth-138)"
+    },
+    {
+      "text": "Jessica Drew appears as a pregnant Spider-Woman on a motorcycle in Across the Spider-Verse, rendered in a 3D cel-shaded style distinct from the other characters.",
+      "source": "https://en.wikipedia.org/wiki/Jessica_Drew"
+    },
+    {
+      "text": "The Spider-Verse animated films use a technique of animating on twos (12 frames per second instead of 24) to mimic the look of comic book panels.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Verse"
+    },
+    {
+      "text": "Spider-Man has been parodied and referenced in countless other media, from The Simpsons to Saturday Night Live to Family Guy.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man"
+    },
+    {
+      "text": "The pointing Spider-Man meme was officially recreated by Marvel with Tobey Maguire, Andrew Garfield, and Tom Holland as a promotional image.",
+      "source": "https://en.wikipedia.org/wiki/pointing_Spider-Man_meme"
+    },
+    {
+      "text": "\"It's not about the mask, it's about what you do while you wear it.\" — A recurring theme across Spider-Man media that anyone can be heroic.",
+      "source": "https://en.wikipedia.org/wiki/It%27s_not_about_the_mask%2C_it%27s_about_what_you_do_while_you_wear_it"
+    },
+    {
+      "text": "Spider-Man was ranked #1 on Empire magazine's list of the 50 Greatest Comic Book Characters of all time.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man"
+    },
+    {
+      "text": "IGN has consistently ranked Spider-Man as one of the top superheroes of all time across multiple polls spanning decades.",
+      "source": "https://en.wikipedia.org/wiki/IGN"
+    },
+    {
+      "text": "Spider-Man was the first superhero many people encountered as children through cartoons, making him a gateway character for comic book fandom.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man"
+    },
+    {
+      "text": "Spider-Man: Homecoming's John Hughes-inspired approach to the high school scenes was a deliberate homage to classic teen coming-of-age films.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man:_Homecoming%27s_John_Hughes-inspired_approach_to_the_high_school_scenes"
+    },
+    {
+      "text": "The Damage Control agency, which cleans up after superhero battles, plays a role in Homecoming's plot, as Adrian Toomes loses his salvage contract to them.",
+      "source": "https://en.wikipedia.org/wiki/Damage_Control"
+    },
+    {
+      "text": "Vulture's motivation in Homecoming — a working-class man squeezed out by powerful corporations — made him one of the MCU's most sympathetic villains.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man"
+    },
+    {
+      "text": "Mysterio's drones in Far From Home, called B.A.R.F. (Binarily Augmented Retro-Framing), were repurposed Stark technology first seen in Captain America: Civil War.",
+      "source": "https://en.wikipedia.org/wiki/Mysterio%27s_drones_in_Far_From_Home%2C_called_B.A.R.F._(Binarily_Augmented_Retro-Framing)"
+    },
+    {
+      "text": "The Elementals in Far From Home were actually projections created by Mysterio's team of disgruntled ex-Stark employees using drone technology.",
+      "source": "https://en.wikipedia.org/wiki/Elementals_in_Far_From_Home"
+    },
+    {
+      "text": "\"If you were good enough, maybe Tony would still be alive.\" — Mysterio's manipulation of Peter's grief in Far From Home showcased the villain's psychological cunning.",
+      "source": "https://en.wikipedia.org/wiki/If_you_were_good_enough%2C_maybe_Tony_would_still_be_alive"
+    },
+    {
+      "text": "The multiverse Night-Spider from No Way Home deleted scenes was a concept that included alternate universe versions of Spider-Man from throughout Marvel history.",
+      "source": "https://en.wikipedia.org/wiki/multiverse_Night-Spider_from_No_Way_Home_deleted_scenes"
+    },
+    {
+      "text": "Tom Holland has confirmed he will return for a fourth Spider-Man film, with plans to continue the MCU story set up by No Way Home's ending.",
+      "source": "https://en.wikipedia.org/wiki/Tom_Holland"
+    },
+    {
+      "text": "The ending of No Way Home essentially resets Spider-Man to a more classic status quo: no money, no friends, no one knowing his identity.",
+      "source": "https://en.wikipedia.org/wiki/No_Way_Home"
+    },
+    {
+      "text": "Spider-Man 4 (MCU) is in development, with potential storylines involving street-level crime and a more grounded approach similar to the classic comics.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man_4_(MCU)"
+    },
+    {
+      "text": "Sam Raimi directed Doctor Strange in the Multiverse of Madness (2022), marking his return to the Marvel universe after his Spider-Man trilogy.",
+      "source": "https://en.wikipedia.org/wiki/Madness"
+    },
+    {
+      "text": "Spider-Man's presence in Marvel's Avengers game (2020) was a PlayStation-exclusive character, creating controversy among Xbox and PC players.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man%27s_presence_in_Marvel%27s_Avengers_game_(2020)"
+    },
+    {
+      "text": "Spider-Man: Friend or Foe (2007) was a comedic beat-em-up game that teamed Spider-Man with his own villains to fight a greater threat.",
+      "source": "https://en.wikipedia.org/wiki/Foe"
+    },
+    {
+      "text": "Spider-Man: Edge of Time (2011) featured a crossover between Spider-Man and Spider-Man 2099 in a time-traveling adventure.",
+      "source": "https://en.wikipedia.org/wiki/Time"
+    },
+    {
+      "text": "The Lego Marvel games feature playable Spider-Man characters with humorous Lego-fied versions of his abilities and villains.",
+      "source": "https://en.wikipedia.org/wiki/Lego_Marvel"
+    },
+    {
+      "text": "Spider-Man has been a DLC character in multiple games including Fortnite, bringing his web-swinging abilities to the battle royale genre.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man"
+    },
+    {
+      "text": "The Spider-Man balloon has been a fixture of the Macy's Thanksgiving Day Parade since 1987, becoming one of the most popular character balloons.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man_balloon"
+    },
+    {
+      "text": "Spider-Man: Across the Spider-Verse ends on a cliffhanger, with Miles trapped in an alternate universe where his father's counterpart is the Prowler.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man:_Across_the_Spider-Verse"
+    },
+    {
+      "text": "In Across the Spider-Verse, it's revealed Miles's spider was from another universe (Earth-42), meaning he was never 'supposed' to be Spider-Man in his dimension.",
+      "source": "https://en.wikipedia.org/wiki/In_Across_the_Spider-Verse%2C_it%27s_revealed_Miles%27s_spider"
+    },
+    {
+      "text": "Earth-42 Miles Morales in Across the Spider-Verse is revealed to be a version of the Prowler, setting up a dramatic confrontation in Beyond the Spider-Verse.",
+      "source": "https://en.wikipedia.org/wiki/Earth-42_Miles_Morales_in_Across_the_Spider-Verse"
+    },
+    {
+      "text": "The concept of canon events in Across the Spider-Verse — that certain tragedies must happen in every Spider-Person's life — challenges Miles to defy destiny.",
+      "source": "https://en.wikipedia.org/wiki/Across_the_Spider-Verse"
+    },
+    {
+      "text": "\"I'll do my own thing.\" — Miles Morales's refusal to accept that a loved one must die as a 'canon event' represents his rebellion against predetermined fate.",
+      "source": "https://en.wikipedia.org/wiki/I%27ll_do_my_own_thing"
+    },
+    {
+      "text": "Gwen Stacy's relationship with her father Captain Stacy is a central emotional thread in Across the Spider-Verse, exploring acceptance and identity.",
+      "source": "https://en.wikipedia.org/wiki/Gwen_Stacy%27s_relationship_with_her_father_Captain_Stacy"
+    },
+    {
+      "text": "Peter B. Parker has a daughter named Mayday in Across the Spider-Verse, a nod to the Spider-Girl character from the MC2 alternate universe.",
+      "source": "https://en.wikipedia.org/wiki/Peter_B._Parker"
+    },
+    {
+      "text": "The Spider-Verse films have inspired a wave of experimentation in animation, influencing films like The Mitchells vs. the Machines and Puss in Boots: The Last Wish.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Verse_films"
+    },
+    {
+      "text": "Spider-Man has appeared in over 40 video games, making him one of the most frequently adapted superheroes in gaming history.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man"
+    },
+    {
+      "text": "The Daily Bugle was reimagined as TheDailyBugle.net in the MCU, reflecting the shift from print journalism to online media.",
+      "source": "https://en.wikipedia.org/wiki/Daily_Bugle"
+    },
+    {
+      "text": "Spider-Man's relationship with authority — distrusted by police and the press despite his heroism — remains one of his most relatable aspects.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man"
+    },
+    {
+      "text": "\"After everything you've done, you still want to help them?\" — A recurring question posed to Spider-Man by cynical characters, highlighting his unwavering compassion.",
+      "source": "https://en.wikipedia.org/wiki/After_everything_you%27ve_done%2C_you_still_want_to_help_them"
+    },
+    {
+      "text": "The 'Spider-Man Is a Menace' narrative run by J. Jonah Jameson has been used as commentary on media bias and the power of misinformation.",
+      "source": "https://en.wikipedia.org/wiki/%27Spider-Man"
+    },
+    {
+      "text": "Hobbie Brown (the Prowler in the main universe) is different from Hobie Brown (Spider-Punk in Earth-138), though both have become fan favorites.",
+      "source": "https://en.wikipedia.org/wiki/Hobbie_Brown_(the_Prowler_in_the_main_universe)"
+    },
+    {
+      "text": "Spider-Punk from Earth-138 fights against President Norman Osborn's fascist regime using punk rock as resistance, wielding a guitar as a weapon.",
+      "source": "https://en.wikipedia.org/wiki/President_Norman_Osborn%27s"
+    },
+    {
+      "text": "Spider-Man's inclusion in the MCU's multiverse saga has positioned him as a lynchpin character for future crossover events.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man%27s_inclusion_in_the_MCU%27s_multiverse_saga"
+    },
+    {
+      "text": "Ned Leeds using a sling ring to open portals in No Way Home hinted at his potential magical abilities, which may be explored in future films.",
+      "source": "https://en.wikipedia.org/wiki/Ned_Leeds"
+    },
+    {
+      "text": "The Scorpion, Mac Gargan, appeared briefly in Homecoming's post-credits scene, played by Michael Mando, hinting at future villain plans.",
+      "source": "https://en.wikipedia.org/wiki/Scorpion%2C_Mac_Gargan"
+    },
+    {
+      "text": "Spider-Man: Freshman Year was an animated Disney+ series (retitled Your Friendly Neighborhood Spider-Man) exploring Peter Parker's early days in an alternate universe.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man:_Freshman_Year"
+    },
+    {
+      "text": "\"Friendly neighborhood Spider-Man\" has been Peter Parker's self-given title, emphasizing his commitment to protecting ordinary people at the street level.",
+      "source": "https://en.wikipedia.org/wiki/Friendly_neighborhood_Spider-Man"
+    },
+    {
+      "text": "Spider-Man's story is fundamentally about growing up: each era of the comics reflects a different stage of Peter Parker's life, from adolescence to adulthood.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man%27s_story"
+    },
+    {
+      "text": "The character of Spider-Man has been used to explore themes of guilt, responsibility, sacrifice, identity, and the burden of doing what's right.",
+      "source": "https://en.wikipedia.org/wiki/character_of_Spider-Man"
+    },
+    {
+      "text": "\"When you can do the things that I can, but you don't, and then the bad things happen? They happen because of you.\" — Tom Holland's Peter Parker explaining his motivation to Tony Stark.",
+      "source": "https://en.wikipedia.org/wiki/Tom_Holland%27s_Peter_Parker"
+    },
+    {
+      "text": "Spider-Man's mask serves a narrative purpose beyond disguise: it allows him to be scared, to cry, and to suffer without the world seeing Peter Parker's vulnerability.",
+      "source": "https://en.wikipedia.org/wiki/Peter_Parker%27s"
+    },
+    {
+      "text": "Stan Lee once said Spider-Man was his favorite character because he was the most human — a hero with real-world problems who still chose to be selfless.",
+      "source": "https://en.wikipedia.org/wiki/Stan_Lee_once"
+    },
+    {
+      "text": "Steve Ditko passed away in June 2018, and his contributions to Spider-Man's creation are increasingly recognized as foundational to the character's success.",
+      "source": "https://en.wikipedia.org/wiki/Steve_Ditko_passed_away_in_June_2018%2C_and_his_contributions_to_Spider-Man%27s_creation"
+    },
+    {
+      "text": "Shocker, Herman Schultz, wields vibro-shock gauntlets that project concentrated blasts of air vibrated at high frequency, making him a persistent mid-tier Spider-Man foe.",
+      "source": "https://en.wikipedia.org/wiki/Herman_Schultz"
+    },
+    {
+      "text": "Boomerang, Fred Myers, is a villain-turned-reluctant-roommate of Peter Parker in Nick Spencer's Amazing Spider-Man run, creating surprisingly comedic stories.",
+      "source": "https://en.wikipedia.org/wiki/Boomerang%2C_Fred_Myers"
+    },
+    {
+      "text": "Kindred, revealed as a demonic version of Harry Osborn, was the central mystery villain of Nick Spencer's Amazing Spider-Man run from 2018 to 2021.",
+      "source": "https://en.wikipedia.org/wiki/Kindred%2C_revealed_as_a_demonic_version_of_Harry_Osborn"
+    },
+    {
+      "text": "Zeb Wells's controversial run on Amazing Spider-Man starting in 2022 divided fans with its dark tone and mysterious gap in Peter and MJ's relationship.",
+      "source": "https://en.wikipedia.org/wiki/Zeb_Wells%27s_controversial"
+    },
+    {
+      "text": "Spider-Man has fought every major Marvel villain at some point, from Doctor Doom to Thanos to the Phoenix Five during Avengers vs. X-Men.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man"
+    },
+    {
+      "text": "\"Hey, hey, hey! Chill, chill! We're all on the same side here!\" — Spider-Man's frequent role as a peacemaker among feuding heroes reflects his good-natured personality.",
+      "source": "https://en.wikipedia.org/wiki/Hey%2C_hey%2C_hey%21_Chill%2C_chill%21_We%27re_all_on_the_same_side_here"
+    },
+    {
+      "text": "The Inheritors, a family of multiversal vampire-like beings who feed on spider-totems, are considered the greatest threat the Spider-Verse has ever faced.",
+      "source": "https://en.wikipedia.org/wiki/Inheritors%2C_a_family_of_multiversal_vampire-like_beings_who_feed_on_spider-totems"
+    },
+    {
+      "text": "Solus, the patriarch of the Inheritors, was so powerful he killed Captain Universe Spider-Man, demonstrating the cosmic-level danger they represent.",
+      "source": "https://en.wikipedia.org/wiki/Solus%2C_the_patriarch_of_the_Inheritors"
+    },
+    {
+      "text": "Ben Reilly returned as the Jackal in the Clone Conspiracy, then later took over as Spider-Man again in the Beyond era, showing his continuing importance.",
+      "source": "https://en.wikipedia.org/wiki/Ben_Reilly_returned_as_the_Jackal_in_the_Clone_Conspiracy%2C_then_later"
+    },
+    {
+      "text": "Spider-Man's No Way Home grossed $1.916 billion worldwide, making it the sixth-highest-grossing film of all time at its release.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man%27s_No_Way_Home"
+    },
+    {
+      "text": "Spider-Man: Into the Spider-Verse grossed $375 million worldwide against a $90 million budget, proving the viability of animated Spider-Man films.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man:_Into_the_Spider-Verse"
+    },
+    {
+      "text": "Across the Spider-Verse grossed over $690 million worldwide, more than doubling the original film's box office while also receiving universal critical acclaim.",
+      "source": "https://en.wikipedia.org/wiki/Across_the_Spider-Verse"
+    },
+    {
+      "text": "The Spider-Verse films have been praised for their representation, showing that Spider-Man's message of heroism transcends any single race, gender, or background.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Verse_films"
+    },
+    {
+      "text": "Spider-Man Unlimited was a 1999 animated series set on Counter-Earth, featuring a nano-tech suit that could transform between classic and stealth modes.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man_Unlimited"
+    },
+    {
+      "text": "The Web Warriors is a team of spider-people from across the multiverse who protect the Great Web of Life, formed in the aftermath of the Spider-Verse event.",
+      "source": "https://en.wikipedia.org/wiki/Web_Warriors"
+    },
+    {
+      "text": "\"Live and let die\" — Norman Osborn has embodied this philosophy as the Green Goblin, valuing power and legacy above all human connections.",
+      "source": "https://en.wikipedia.org/wiki/Live_and_let_die"
+    },
+    {
+      "text": "Doctor Octopus proved in Superior Spider-Man that even with good intentions, his ego and methods made him a pale imitation of Peter Parker's hero.",
+      "source": "https://en.wikipedia.org/wiki/Doctor_Octopus"
+    },
+    {
+      "text": "The Friendly Neighborhood Spider-Man comic series has run multiple times under different creative teams, emphasizing Spider-Man's street-level, community-focused heroism.",
+      "source": "https://en.wikipedia.org/wiki/Friendly_Neighborhood_Spider-Man_comic_series"
+    },
+    {
+      "text": "\"It's a leap of faith. That's all it is, Miles. A leap of faith.\" — Peter B. Parker's advice to Miles Morales in Into the Spider-Verse distilled Spider-Man's philosophy into one sentence.",
+      "source": "https://en.wikipedia.org/wiki/It%27s_a_leap_of_faith._That%27s_all_it_is%2C_Miles._A_leap_of_faith"
+    },
+    {
+      "text": "Spider-Man's supporting cast is one of the richest in all of comics, with dozens of characters who have developed their own complex storylines and arcs over decades.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man%27s_supporting_cast"
+    },
+    {
+      "text": "The Spider-Man: Blue miniseries by Jeph Loeb and Tim Sale is a beautifully illustrated love letter to Peter Parker's relationship with Gwen Stacy.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man:_Blue_miniseries_by_Jeph_Loeb_and_Tim_Sale"
+    },
+    {
+      "text": "Spider-Man: Parallel Lives (1989) by Gerry Conway explored Peter Parker and Mary Jane's intertwined histories from childhood to marriage.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man:_Parallel_Lives"
+    },
+    {
+      "text": "\"Face it, tiger... you just hit the jackpot!\" — Mary Jane Watson's legendary first full appearance line is one of the most memorable character introductions in comic history.",
+      "source": "https://www.youtube.com/results?search_query=Spider-Man%20Face%20it%2C%20tiger...%20you%20just%20hit%20the%20jackpot%21%20live%20performance"
+    },
+    {
+      "text": "Spider-Man once temporarily lost his spider-sense, forcing him to learn traditional martial arts with Shang-Chi in order to compensate.",
+      "source": "https://en.wikipedia.org/wiki/Shang-Chi_in"
+    },
+    {
+      "text": "The Spider-Island storyline saw all of Manhattan's citizens gain spider-powers, forcing a powerless Peter Parker to use his intellect alone to save the day.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Island_storyline"
+    },
+    {
+      "text": "Anti-Venom (Eddie Brock) was instrumental in curing Spider-Island, sacrificing his Anti-Venom abilities to create a citywide cure.",
+      "source": "https://en.wikipedia.org/wiki/Anti-Venom_(Eddie_Brock)"
+    },
+    {
+      "text": "Spider-Man and the Human Torch frequently play pranks on each other, including a famous ongoing gag where Spider-Man fills Johnny Storm's car with webbing.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man_and_the_Human_Torch"
+    },
+    {
+      "text": "\"Just a kid from Queens.\" — Peter Parker's humble description of himself in the MCU perfectly encapsulates Spider-Man's everyman appeal.",
+      "source": "https://en.wikipedia.org/wiki/Just_a_kid_from_Queens"
+    },
+    {
+      "text": "Aunt May's wheatcakes are a running joke in classic Spider-Man comics, frequently referenced as Peter's favorite food and a symbol of home and normalcy.",
+      "source": "https://en.wikipedia.org/wiki/Aunt_May%27s_wheatcakes"
+    },
+    {
+      "text": "Spider-Man has inspired real scientific research into adhesives, biomimetic materials, and web-like synthetic fibers that could someday replicate his abilities.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man"
+    },
+    {
+      "text": "MIT researchers have studied Spider-Man's wall-crawling abilities and determined that van der Waals forces could theoretically support a human-sized climber.",
+      "source": "https://en.wikipedia.org/wiki/MIT_researchers"
+    },
+    {
+      "text": "The economics of Spider-Man have been analyzed by economists, with estimates that the property damage from his battles would cost New York billions annually.",
+      "source": "https://en.wikipedia.org/wiki/economics_of_Spider-Man"
+    },
+    {
+      "text": "Spider-Man represents the aspirational ideal that heroism isn't about being the strongest or richest — it's about using whatever abilities you have to help others.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man"
+    },
+    {
+      "text": "\"No one can win every battle. But no one should fall without a struggle.\" — Peter Parker's determination to never give up, no matter the odds, defines him as Spider-Man.",
+      "source": "https://en.wikipedia.org/wiki/No_one_can_win_every_battle._But_no_one_should_fall_without_a_struggle"
+    },
+    {
+      "text": "The Amazing Spider-Man #252 (1984), featuring the debut of the black costume, is one of the most iconic and recognizable comic covers of the 1980s.",
+      "source": "https://en.wikipedia.org/wiki/Amazing_Spider-Man_%23252_(1984)%2C_featuring_the_debut_of_the_black_costume"
+    },
+    {
+      "text": "Spider-Man has been featured in theme park attractions at Universal Studios and Disney parks, including the Web Slingers ride at Avengers Campus.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man"
+    },
+    {
+      "text": "The Spider-Man ride at Universal's Islands of Adventure was one of the first 3D dark rides, revolutionizing theme park attractions when it opened in 1999.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man_ride_at_Universal%27s_Islands_of_Adventure"
+    },
+    {
+      "text": "\"You want forgiveness? Get religion.\" — Tobey Maguire's cold Peter Parker line to Eddie Brock in Spider-Man 3 became yet another widely memed quote from the trilogy.",
+      "source": "https://www.youtube.com/results?search_query=Spider-Man%20You%20want%20forgiveness%3F%20Get%20religion.%20live%20performance"
+    },
+    {
+      "text": "Spider-Man comics have won multiple Eisner Awards, the highest honor in the American comic book industry, across various categories.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man_comics"
+    },
+    {
+      "text": "The original Amazing Fantasy #15 has sold for as much as $3.6 million at auction, making it one of the most expensive comic books ever sold.",
+      "source": "https://en.wikipedia.org/wiki/original_Amazing_Fantasy_%2315"
+    },
+    {
+      "text": "Spider-Man is the most profitable superhero franchise in terms of merchandise sales, consistently outselling Batman, Superman, and all other competitors.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man"
+    },
+    {
+      "text": "The character of Spider-Man has been cited by psychologists as an example of how fictional heroes can teach children about empathy, responsibility, and resilience.",
+      "source": "https://en.wikipedia.org/wiki/character_of_Spider-Man"
+    }
+  ]
+}

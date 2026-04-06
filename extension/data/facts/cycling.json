@@ -1,0 +1,1756 @@
+{
+  "hobby": "Biking & Cycling",
+  "facts": [
+    {
+      "text": "The Tour de France is the most famous cycling race in the world, first held in 1903 and covering approximately 3,500 kilometers over 21 stages.",
+      "source": "https://en.wikipedia.org/wiki/Tour_de_France"
+    },
+    {
+      "text": "Eddy Merckx of Belgium is widely considered the greatest cyclist of all time, winning 11 Grand Tours during his career.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Eddy_Merckx_of_Belgium"
+    },
+    {
+      "text": "Carbon fiber bicycle frames can weigh as little as 700 grams, making them significantly lighter than aluminum or steel frames.",
+      "source": "https://en.wikipedia.org/wiki/Cycling"
+    },
+    {
+      "text": "The first Tour de France was organized by newspaper L'Auto to boost circulation, and only 60 riders started the race.",
+      "month": 7,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/first_Tour_de_France"
+    },
+    {
+      "text": "Mountain biking became an Olympic sport at the 1996 Atlanta Games, with cross-country being the first discipline included.",
+      "source": "https://en.wikipedia.org/wiki/Mountain_biking"
+    },
+    {
+      "text": "Amsterdam has more bicycles than people, with an estimated 881,000 bikes for a population of about 821,000.",
+      "source": "https://en.wikipedia.org/wiki/Amsterdam"
+    },
+    {
+      "text": "The keirin, a track cycling event originating in Japan in 1948, was originally created as a form of gambling entertainment.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/keirin%2C_a_track_cycling_event_originating_in_Japan_in_1948"
+    },
+    {
+      "text": "FTP (Functional Threshold Power) represents the highest average power a cyclist can sustain for approximately one hour.",
+      "source": "https://en.wikipedia.org/wiki/Functional_Threshold_Power"
+    },
+    {
+      "text": "BMX racing made its Olympic debut at the 2008 Beijing Games, with both men's and women's events.",
+      "source": "https://en.wikipedia.org/wiki/Beijing_Games"
+    },
+    {
+      "text": "Shimano, SRAM, and Campagnolo are the three major manufacturers of bicycle groupsets for road cycling.",
+      "source": "https://en.wikipedia.org/wiki/Shimano%2C_SRAM%2C_and_Campagnolo"
+    },
+    {
+      "text": "The Giro d'Italia, first held in 1909, is known for its pink leader's jersey called the 'maglia rosa.'",
+      "month": 5,
+      "day": 13,
+      "source": "https://en.wikipedia.org/wiki/Giro_d%27Italia%2C_first_held_in_1909"
+    },
+    {
+      "text": "Paris-Roubaix is nicknamed 'The Hell of the North' due to its brutal cobblestone sections called pavé.",
+      "source": "https://en.wikipedia.org/wiki/Paris-Roubaix"
+    },
+    {
+      "text": "Chris Froome won the Tour de France four times (2013, 2015, 2016, 2017) while riding for Team Sky.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Chris_Froome"
+    },
+    {
+      "text": "Clipless pedals, despite their name, actually clip into the shoe — the name refers to the absence of traditional toe clips.",
+      "source": "https://en.wikipedia.org/wiki/Cycling"
+    },
+    {
+      "text": "The UCI Hour Record challenges a cyclist to ride the farthest distance possible in one hour on a velodrome track.",
+      "source": "https://en.wikipedia.org/wiki/UCI_Hour_Record"
+    },
+    {
+      "text": "Peloton, the indoor cycling company, was founded in 2012 and takes its name from the French word for the main group of riders in a road race.",
+      "source": "https://en.wikipedia.org/wiki/Peloton%2C_the_indoor_cycling_company"
+    },
+    {
+      "text": "The Vuelta a España was first held in 1935 and its leader wears a red jersey called the 'maillot rojo.'",
+      "source": "https://en.wikipedia.org/wiki/Vuelta_a_Espa%C3%B1a"
+    },
+    {
+      "text": "Disc brakes have largely replaced rim brakes on modern road bikes, offering better stopping power in wet conditions.",
+      "source": "https://en.wikipedia.org/wiki/Disc_brakes"
+    },
+    {
+      "text": "Red Bull Rampage is the most prestigious freeride mountain biking event, held annually in the desert terrain of Virgin, Utah.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Red_Bull_Rampage"
+    },
+    {
+      "text": "Copenhagen has over 390 kilometers of designated bike lanes, and about 49% of all commuters cycle to work or school.",
+      "source": "https://en.wikipedia.org/wiki/Copenhagen"
+    },
+    {
+      "text": "Drafting behind another cyclist can reduce air resistance by up to 30%, which is why peloton riding is so energy-efficient.",
+      "source": "https://en.wikipedia.org/wiki/Drafting_behind_another_cyclist_can_reduce_air_resistance_by_up_to_30%25%2C_which"
+    },
+    {
+      "text": "Fausto Coppi, known as 'Il Campionissimo,' was the first cyclist to win both the Tour de France and Giro d'Italia in the same year (1949).",
+      "month": 7,
+      "day": 24,
+      "source": "https://en.wikipedia.org/wiki/Fausto_Coppi%2C_known_as_%27Il_Campionissimo"
+    },
+    {
+      "text": "A professional road cycling team typically has 8 riders per Grand Tour, each with specific roles like domestique, sprinter, or GC leader.",
+      "source": "https://en.wikipedia.org/wiki/A_professional_road_cycling_team_typically"
+    },
+    {
+      "text": "The velodrome track is banked at angles up to 45 degrees, allowing cyclists to maintain high speeds through the turns.",
+      "source": "https://en.wikipedia.org/wiki/velodrome_track"
+    },
+    {
+      "text": "Lance Armstrong was stripped of his seven Tour de France titles in 2012 after a USADA investigation revealed systematic doping.",
+      "month": 8,
+      "day": 24,
+      "source": "https://en.wikipedia.org/wiki/Lance_Armstrong"
+    },
+    {
+      "text": "Power meters measure a cyclist's wattage output in real time and have revolutionized training and race tactics.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Power_meters_measure_a_cyclist%27s_wattage_output_in_real_time_and"
+    },
+    {
+      "text": "BMX freestyle was added to the Olympic program for the 2020 Tokyo Games, featuring park-style competition.",
+      "source": "https://en.wikipedia.org/wiki/BMX_freestyle"
+    },
+    {
+      "text": "Milan-San Remo is the longest one-day professional cycling race, covering approximately 298 kilometers.",
+      "source": "https://en.wikipedia.org/wiki/Milan-San_Remo"
+    },
+    {
+      "text": "The five Monuments of Cycling are Milan-San Remo, Tour of Flanders, Paris-Roubaix, Liège-Bastogne-Liège, and Il Lombardia.",
+      "source": "https://en.wikipedia.org/wiki/five_Monuments_of_Cycling"
+    },
+    {
+      "text": "VO2 max, the maximum rate of oxygen consumption during exercise, is a key indicator of a cyclist's aerobic fitness.",
+      "source": "https://en.wikipedia.org/wiki/VO2_max%2C_the_maximum_rate_of_oxygen_consumption_during_exercise"
+    },
+    {
+      "text": "Mark Cavendish holds the record for the most Tour de France stage wins with 35 victories.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Mark_Cavendish_holds_the_record_for_the_most_Tour_de_France_stage"
+    },
+    {
+      "text": "The first BMX races took place in the early 1970s in Southern California, inspired by motocross racing.",
+      "source": "https://en.wikipedia.org/wiki/first_BMX_races_took_place_in_the_early_1970s_in_Southern_California"
+    },
+    {
+      "text": "Bike-share programs exist in over 1,000 cities worldwide, with China operating the largest systems.",
+      "source": "https://en.wikipedia.org/wiki/Cycling"
+    },
+    {
+      "text": "The 'bonk' or 'hitting the wall' in cycling refers to sudden fatigue caused by glycogen depletion during long rides.",
+      "source": "https://en.wikipedia.org/wiki/Cycling"
+    },
+    {
+      "text": "Tadej Pogačar won his first Tour de France in 2020 at age 21, dramatically overtaking Primož Roglič in the final time trial.",
+      "month": 9,
+      "day": 19,
+      "source": "https://en.wikipedia.org/wiki/Tadej_Poga%C4%8Dar"
+    },
+    {
+      "text": "Aerodynamic drag accounts for about 90% of the resistance a cyclist faces at speeds over 30 km/h.",
+      "source": "https://en.wikipedia.org/wiki/Cycling"
+    },
+    {
+      "text": "The team pursuit in track cycling involves four riders working together in a pace line, with the team's time taken when the third rider crosses the finish.",
+      "source": "https://en.wikipedia.org/wiki/Cycling"
+    },
+    {
+      "text": "Marianne Vos is considered the greatest female cyclist ever, with world titles in road, cyclocross, track, and mountain biking.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Marianne_Vos"
+    },
+    {
+      "text": "Electronic shifting systems like Shimano Di2 and SRAM eTap use motors and batteries instead of mechanical cables.",
+      "source": "https://en.wikipedia.org/wiki/Shimano_Di2_and_SRAM"
+    },
+    {
+      "text": "The Giro d'Italia features the Cima Coppi, the highest climb of the race, named in honor of Fausto Coppi.",
+      "source": "https://en.wikipedia.org/wiki/Giro_d%27Italia"
+    },
+    {
+      "text": "Miguel Induráin won five consecutive Tour de France titles from 1991 to 1995, known for his dominant time trialing ability.",
+      "source": "https://en.wikipedia.org/wiki/Miguel_Indur%C3%A1in"
+    },
+    {
+      "text": "Downhill mountain biking courses can feature drops of over 10 feet and speeds exceeding 60 mph.",
+      "source": "https://en.wikipedia.org/wiki/Cycling"
+    },
+    {
+      "text": "The UCI (Union Cycliste Internationale) is the world governing body for cycling, founded in Paris on April 14, 1900.",
+      "month": 4,
+      "day": 14,
+      "source": "https://en.wikipedia.org/wiki/UCI_(Union_Cycliste_Internationale)"
+    },
+    {
+      "text": "Interval training, alternating between high-intensity efforts and recovery periods, is the most efficient way to improve cycling performance.",
+      "source": "https://en.wikipedia.org/wiki/Interval_training%2C_alternating_between_high-intensity_efforts_and_recovery_periods"
+    },
+    {
+      "text": "The first women's Tour de France stage race was held in 1984, but a modern version called the Tour de France Femmes launched in 2022.",
+      "month": 7,
+      "day": 24,
+      "source": "https://en.wikipedia.org/wiki/first_women%27s_Tour_de_France_stage_race"
+    },
+    {
+      "text": "A standard road bike tire is inflated to between 80 and 130 PSI, though wider tires at lower pressures have become more popular.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/A_standard_road_bike_tire"
+    },
+    {
+      "text": "The X Games first included BMX freestyle in 1995, and it has been one of the most popular events ever since.",
+      "source": "https://en.wikipedia.org/wiki/X_Games_first_included_BMX_freestyle_in_1995%2C_and_it"
+    },
+    {
+      "text": "Cross-country mountain biking courses typically include both climbing and technical descents over natural terrain.",
+      "source": "https://en.wikipedia.org/wiki/Cycling"
+    },
+    {
+      "text": "Professional cyclists can burn 4,000 to 8,000 calories per day during Grand Tour stages.",
+      "source": "https://en.wikipedia.org/wiki/Grand_Tour"
+    },
+    {
+      "text": "The polka dot jersey (maillot à pois) in the Tour de France is awarded to the best climber, known as the King of the Mountains.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/polka_dot_jersey_(maillot_%C3%A0_pois)_in_the_Tour_de_France"
+    },
+    {
+      "text": "Greg LeMond became the first American to win the Tour de France in 1986.",
+      "month": 7,
+      "day": 27,
+      "source": "https://en.wikipedia.org/wiki/Greg_LeMond"
+    },
+    {
+      "text": "Modern cycling computers can track speed, cadence, heart rate, power output, GPS position, and elevation in real time.",
+      "source": "https://en.wikipedia.org/wiki/Cycling"
+    },
+    {
+      "text": "The world's longest mountain bike trail is the Great Divide Mountain Bike Route, stretching 2,768 miles from Canada to Mexico.",
+      "source": "https://en.wikipedia.org/wiki/world%27s_longest_mountain_bike_trail"
+    },
+    {
+      "text": "Eddy Merckx won the Tour de France five times, the Giro d'Italia five times, and the Vuelta a España once.",
+      "source": "https://en.wikipedia.org/wiki/Eddy_Merckx"
+    },
+    {
+      "text": "The sprint event in track cycling covers 200 meters and can see speeds exceed 70 km/h on the final lap.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Cycling"
+    },
+    {
+      "text": "Cycling is the third most popular sport in the world by viewership, behind soccer and cricket.",
+      "source": "https://en.wikipedia.org/wiki/Cycling"
+    },
+    {
+      "text": "The first bicycle, called the 'draisine' or 'hobby horse,' was invented by Karl von Drais in 1817 and had no pedals.",
+      "source": "https://en.wikipedia.org/wiki/first_bicycle%2C_called_the_%27draisine%27_or_%27hobby_horse"
+    },
+    {
+      "text": "Paris-Roubaix features approximately 55 kilometers of cobblestone sectors, rated from one to five stars for difficulty.",
+      "source": "https://en.wikipedia.org/wiki/Paris-Roubaix"
+    },
+    {
+      "text": "The 'lanterne rouge' is the term for the last-place finisher in the Tour de France, named after the red lamp on the rear of a train.",
+      "source": "https://en.wikipedia.org/wiki/%27lanterne_rouge"
+    },
+    {
+      "text": "Campagnolo, founded in 1933 by Tullio Campagnolo, invented the quick-release wheel mechanism.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Campagnolo"
+    },
+    {
+      "text": "Bikepacking combines cycling with lightweight camping, using frame bags instead of traditional panniers.",
+      "source": "https://en.wikipedia.org/wiki/Cycling"
+    },
+    {
+      "text": "The Madison is a track cycling relay event where pairs of riders take turns racing and sling each other into the race with a hand-sling.",
+      "source": "https://en.wikipedia.org/wiki/Madison"
+    },
+    {
+      "text": "Tom Simpson collapsed and died on Mont Ventoux during the 1967 Tour de France, with amphetamines found in his jersey pocket.",
+      "month": 7,
+      "day": 13,
+      "source": "https://en.wikipedia.org/wiki/Tom_Simpson"
+    },
+    {
+      "text": "Hydraulic disc brakes offer more consistent and powerful braking than mechanical disc brakes, especially in adverse conditions.",
+      "source": "https://en.wikipedia.org/wiki/Cycling"
+    },
+    {
+      "text": "Bernard Hinault, known as 'The Badger,' won five Tour de France titles and is the last French winner of the race (1985).",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Bernard_Hinault%2C_known_as_%27The_Badger"
+    },
+    {
+      "text": "Cyclocross is a form of bicycle racing that takes place on mixed terrain courses, with riders often carrying their bikes over obstacles.",
+      "source": "https://en.wikipedia.org/wiki/Cyclocross"
+    },
+    {
+      "text": "The 'echelon' formation in cycling is a diagonal pace line used in crosswind conditions to maximize drafting efficiency.",
+      "source": "https://en.wikipedia.org/wiki/%27echelon%27_formation_in_cycling"
+    },
+    {
+      "text": "Cycling helmets became mandatory in professional road racing in 2003, following the death of Andrei Kivilev.",
+      "month": 3,
+      "day": 9,
+      "source": "https://en.wikipedia.org/wiki/Cycling_helmets"
+    },
+    {
+      "text": "The average speed of the Tour de France winner has increased from about 25 km/h in 1903 to over 41 km/h in recent years.",
+      "source": "https://en.wikipedia.org/wiki/average_speed_of_the_Tour_de_France_winner"
+    },
+    {
+      "text": "Gravel cycling has exploded in popularity since the 2010s, blending road and off-road riding on unpaved surfaces.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Gravel_cycling"
+    },
+    {
+      "text": "A cycling 'domestique' is a rider who works for the team leader, fetching water bottles, shielding from wind, and setting pace.",
+      "source": "https://en.wikipedia.org/wiki/A_cycling_%27domestique"
+    },
+    {
+      "text": "The Stelvio Pass in Italy, at 2,757 meters elevation, is one of the most famous cycling climbs in the world with 48 hairpin turns.",
+      "source": "https://en.wikipedia.org/wiki/Stelvio_Pass_in_Italy%2C_at_2%2C757_meters_elevation"
+    },
+    {
+      "text": "BMX bikes typically have 20-inch wheels and a single gear, designed for maximum acceleration and maneuverability.",
+      "source": "https://en.wikipedia.org/wiki/BMX_bikes_typically"
+    },
+    {
+      "text": "The Tour of Flanders (Ronde van Vlaanderen) is a prestigious one-day classic held in Belgium, famous for its steep cobbled climbs.",
+      "month": 4,
+      "day": 3,
+      "source": "https://en.wikipedia.org/wiki/Tour_of_Flanders_(Ronde_van_Vlaanderen)"
+    },
+    {
+      "text": "Cadence in cycling refers to the number of pedal revolutions per minute, with most road cyclists targeting 80-100 RPM.",
+      "source": "https://en.wikipedia.org/wiki/Cadence_in"
+    },
+    {
+      "text": "The yellow jersey (maillot jaune) was introduced to the Tour de France in 1919 to help spectators identify the race leader.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/yellow_jersey_(maillot_jaune)"
+    },
+    {
+      "text": "Cycling is one of the most effective forms of low-impact cardiovascular exercise, putting less stress on joints than running.",
+      "source": "https://en.wikipedia.org/wiki/Cycling"
+    },
+    {
+      "text": "The Alpe d'Huez climb has 21 switchbacks and is one of the most iconic mountain stages in the Tour de France.",
+      "source": "https://en.wikipedia.org/wiki/Alpe_d%27Huez_climb"
+    },
+    {
+      "text": "Track cycling bikes have no brakes and use a fixed gear, meaning the pedals are always turning when the wheels are moving.",
+      "source": "https://en.wikipedia.org/wiki/Track_cycling_bikes"
+    },
+    {
+      "text": "Sean Kelly held the number one world ranking in professional cycling for a record 1,662 days.",
+      "source": "https://en.wikipedia.org/wiki/Sean_Kelly"
+    },
+    {
+      "text": "The 'gruppetto' or 'autobus' is the group of non-climbers who ride together on mountain stages to finish within the time limit.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/%27gruppetto%27_or_%27autobus"
+    },
+    {
+      "text": "Liège-Bastogne-Liège, first held in 1892, is the oldest of the five Monuments of Cycling.",
+      "month": 4,
+      "day": 26,
+      "source": "https://en.wikipedia.org/wiki/Li%C3%A8ge-Bastogne-Li%C3%A8ge%2C_first_held_in_1892"
+    },
+    {
+      "text": "Tire rolling resistance, weight, and aerodynamics are the three main factors affecting cycling speed on flat terrain.",
+      "source": "https://en.wikipedia.org/wiki/Tire_rolling_resistance%2C_weight%2C_and_aerodynamics"
+    },
+    {
+      "text": "The Whistler Mountain Bike Park in British Columbia is one of the most famous lift-accessed mountain biking destinations in the world.",
+      "source": "https://en.wikipedia.org/wiki/Whistler_Mountain_Bike_Park_in_British_Columbia"
+    },
+    {
+      "text": "Peter Sagan won three consecutive road cycling world championships from 2015 to 2017.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Peter_Sagan"
+    },
+    {
+      "text": "Carbohydrate loading and in-ride nutrition (gels, bars, drinks) are essential for cyclists during rides lasting over 90 minutes.",
+      "source": "https://en.wikipedia.org/wiki/Carbohydrate_loading_and_in-ride_nutrition_(gels%2C_bars%2C_drinks)"
+    },
+    {
+      "text": "The 'breakaway' in road cycling is when a small group of riders escapes the main peloton, often resulting in exciting tactical battles.",
+      "source": "https://en.wikipedia.org/wiki/%27breakaway%27_in_road_cycling"
+    },
+    {
+      "text": "Victor Campenaerts set the UCI Hour Record in 2019, covering 55.089 km in one hour at the Aguascalientes velodrome in Mexico.",
+      "month": 4,
+      "day": 16,
+      "source": "https://en.wikipedia.org/wiki/Victor_Campenaerts"
+    },
+    {
+      "text": "An average road bike weighs between 7 and 10 kilograms, with the UCI minimum weight limit for racing set at 6.8 kg.",
+      "source": "https://en.wikipedia.org/wiki/Cycling"
+    },
+    {
+      "text": "The green jersey (maillot vert) in the Tour de France is awarded to the best sprinter based on points accumulated at sprint finishes.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/green_jersey_(maillot_vert)_in_the_Tour_de_France"
+    },
+    {
+      "text": "Mountain bike suspension can be 'hardtail' (front suspension only) or 'full suspension' (front and rear), each suited to different terrain.",
+      "source": "https://en.wikipedia.org/wiki/Cycling"
+    },
+    {
+      "text": "The Rás Tailteann is Ireland's premier multi-stage cycling race, first held in 1953.",
+      "source": "https://en.wikipedia.org/wiki/R%C3%A1s_Tailteann"
+    },
+    {
+      "text": "Tubeless tires have become the standard in both mountain biking and road cycling, reducing puncture risk and allowing lower pressures.",
+      "source": "https://en.wikipedia.org/wiki/Tubeless_tires"
+    },
+    {
+      "text": "Alberto Contador won all three Grand Tours during his career but had his 2010 Tour de France title stripped for a doping violation.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Alberto_Contador"
+    },
+    {
+      "text": "Cycling-specific shoes have stiff soles to maximize power transfer from foot to pedal, with cleats that click into the pedals.",
+      "source": "https://en.wikipedia.org/wiki/Cycling-specific_shoes"
+    },
+    {
+      "text": "The Moab area in Utah is one of the world's most famous mountain biking destinations, featuring the Slickrock Trail on sandstone terrain.",
+      "source": "https://en.wikipedia.org/wiki/Moab_area_in_Utah"
+    },
+    {
+      "text": "In professional road cycling, team cars follow behind providing mechanical support, nutrition, and tactical advice via radio.",
+      "source": "https://en.wikipedia.org/wiki/Cycling"
+    },
+    {
+      "text": "The first Giro d'Italia was held in 1909, and Luigi Ganna won the inaugural edition.",
+      "month": 5,
+      "day": 13,
+      "source": "https://en.wikipedia.org/wiki/first_Giro_d%27Italia"
+    },
+    {
+      "text": "Wind tunnels are used extensively in professional cycling to optimize rider position and equipment aerodynamics.",
+      "source": "https://en.wikipedia.org/wiki/Wind_tunnels"
+    },
+    {
+      "text": "The 'pain cave' is a slang term for the intense discomfort zone cyclists enter during maximum effort on indoor trainers or climbs.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/%27pain_cave"
+    },
+    {
+      "text": "Chris Hoy won six Olympic gold medals in track cycling, making him the most decorated Olympic cyclist from Great Britain.",
+      "source": "https://en.wikipedia.org/wiki/Chris_Hoy"
+    },
+    {
+      "text": "E-bikes (electric-assist bicycles) have motors that provide pedal assistance up to 25 km/h in Europe and 32 km/h in the US.",
+      "source": "https://en.wikipedia.org/wiki/E-bikes_(electric-assist_bicycles)"
+    },
+    {
+      "text": "The classic 'double diamond' bicycle frame design has remained essentially unchanged since the 1880s safety bicycle.",
+      "source": "https://en.wikipedia.org/wiki/classic_%27double_diamond%27_bicycle_frame_design"
+    },
+    {
+      "text": "Jacques Anquetil was the first cyclist to win five Tour de France titles, achieving the feat between 1957 and 1964.",
+      "source": "https://en.wikipedia.org/wiki/Jacques_Anquetil"
+    },
+    {
+      "text": "Bike fitting is the process of adjusting saddle height, handlebar reach, and cleat position to optimize comfort and power output.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Bike_fitting"
+    },
+    {
+      "text": "The Vuelta a España was not held between 1937 and 1940 due to the Spanish Civil War.",
+      "month": 8,
+      "day": 19,
+      "source": "https://en.wikipedia.org/wiki/Vuelta_a_Espa%C3%B1a"
+    },
+    {
+      "text": "Professional cyclists shave their legs primarily for easier wound treatment after road rash, not for aerodynamic advantage.",
+      "source": "https://en.wikipedia.org/wiki/Cycling"
+    },
+    {
+      "text": "The 'bonification' or time bonus is awarded to the first three finishers of each road stage and at intermediate sprints in Grand Tours.",
+      "source": "https://en.wikipedia.org/wiki/%27bonification%27_or_time_bonus"
+    },
+    {
+      "text": "Crit racing (criterium) involves riding multiple laps of a short, closed circuit, often in city centers, and is popular in the United States.",
+      "source": "https://en.wikipedia.org/wiki/United_States"
+    },
+    {
+      "text": "The world's fastest speed achieved on a bicycle is 280.57 km/h, set by Neil Campbell in 2019 while drafting behind a Porsche Cayenne.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/world%27s_fastest_speed_achieved_on_a_bicycle"
+    },
+    {
+      "text": "SRAM introduced wireless electronic shifting with its eTap system in 2015, eliminating the need for shift cables entirely.",
+      "source": "https://en.wikipedia.org/wiki/SRAM"
+    },
+    {
+      "text": "Zwift, launched in 2015, is a virtual cycling platform that allows riders to train and race online using smart trainers.",
+      "source": "https://en.wikipedia.org/wiki/Zwift%2C_launched_in_2015"
+    },
+    {
+      "text": "The cobblestones of Paris-Roubaix are so brutal that the winner traditionally receives a trophy made of cobblestone.",
+      "month": 4,
+      "day": 10,
+      "source": "https://en.wikipedia.org/wiki/cobblestones_of_Paris-Roubaix"
+    },
+    {
+      "text": "Lactate threshold is the exercise intensity at which lactate accumulates in the blood faster than it can be cleared, a key metric for cyclists.",
+      "source": "https://en.wikipedia.org/wiki/Lactate_threshold"
+    },
+    {
+      "text": "Wout van Aert is one of the most versatile cyclists in modern history, excelling in road racing, time trials, and cyclocross.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Wout_van_Aert"
+    },
+    {
+      "text": "The 'broom wagon' (voiture balai) follows behind the Tour de France peloton and picks up riders who abandon the race.",
+      "source": "https://en.wikipedia.org/wiki/Cycling"
+    },
+    {
+      "text": "Tubular tires are glued directly to the rim and are still used by many professional road cyclists for their ride quality and low rolling resistance.",
+      "source": "https://en.wikipedia.org/wiki/Tubular_tires"
+    },
+    {
+      "text": "Mountain biking's 'enduro' format combines timed downhill stages with untimed uphill transfers between stages.",
+      "source": "https://en.wikipedia.org/wiki/Cycling"
+    },
+    {
+      "text": "The Tour de France covers all regions of France and occasionally passes through neighboring countries like Belgium, Spain, and Italy.",
+      "source": "https://en.wikipedia.org/wiki/Tour"
+    },
+    {
+      "text": "Chamois cream is used by cyclists to reduce friction and prevent saddle sores during long rides.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Chamois_cream"
+    },
+    {
+      "text": "Anna Meares of Australia won six Olympic medals in track cycling, including two golds.",
+      "source": "https://en.wikipedia.org/wiki/Anna_Meares_of_Australia"
+    },
+    {
+      "text": "The largest bike-share system in the world is in Hangzhou, China, with over 80,000 bicycles available.",
+      "source": "https://en.wikipedia.org/wiki/largest_bike-share_system_in_the_world"
+    },
+    {
+      "text": "A 'century ride' is a cycling challenge of 100 miles (160 km), while a 'metric century' covers 100 kilometers.",
+      "source": "https://en.wikipedia.org/wiki/A_%27century_ride"
+    },
+    {
+      "text": "The first modern Olympic cycling events were held at the 1896 Athens Games, featuring track racing.",
+      "month": 4,
+      "day": 8,
+      "source": "https://en.wikipedia.org/wiki/first_modern_Olympic_cycling_events"
+    },
+    {
+      "text": "Aero bars or tri bars extend forward from the handlebars, allowing cyclists to adopt a more aerodynamic tucked position.",
+      "source": "https://en.wikipedia.org/wiki/Cycling"
+    },
+    {
+      "text": "The Festina affair of 1998 was a major doping scandal at the Tour de France that led to widespread reforms in anti-doping.",
+      "month": 7,
+      "day": 11,
+      "source": "https://en.wikipedia.org/wiki/Festina_affair_of_1998"
+    },
+    {
+      "text": "Cycling power-to-weight ratio, measured in watts per kilogram, is the most important metric for climbing performance.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Cycling_power-to-weight_ratio%2C_measured_in_watts_per_kilogram"
+    },
+    {
+      "text": "The rainbow jersey is worn by the current world champion in each cycling discipline and features horizontal bands of color.",
+      "source": "https://en.wikipedia.org/wiki/rainbow_jersey"
+    },
+    {
+      "text": "Recumbent bicycles place the rider in a laid-back position and hold most human-powered speed records.",
+      "source": "https://en.wikipedia.org/wiki/Cycling"
+    },
+    {
+      "text": "The 'caravan' that precedes the Tour de France peloton features sponsor vehicles that throw promotional items to spectators.",
+      "source": "https://en.wikipedia.org/wiki/%27caravan%27_that_precedes_the_Tour_de_France_peloton"
+    },
+    {
+      "text": "Il Lombardia, known as the 'Race of the Falling Leaves,' is the last Monument of the cycling season, held in October.",
+      "source": "https://en.wikipedia.org/wiki/Il_Lombardia%2C_known_as_the_%27Race_of_the_Falling_Leaves"
+    },
+    {
+      "text": "Bradley Wiggins became the first British winner of the Tour de France in 2012.",
+      "month": 7,
+      "day": 22,
+      "source": "https://en.wikipedia.org/wiki/Bradley_Wiggins"
+    },
+    {
+      "text": "Ceramic bearings in cycling components reduce friction compared to steel bearings, though the performance gain is marginal.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Cycling"
+    },
+    {
+      "text": "The tandem bicycle, designed for two riders, has been used in competitive cycling and was a track cycling Olympic event from 1908 to 1972.",
+      "source": "https://en.wikipedia.org/wiki/tandem_bicycle%2C_designed_for_two_riders"
+    },
+    {
+      "text": "Strava, the fitness tracking app popular with cyclists, was founded in 2009 and has over 100 million users.",
+      "source": "https://en.wikipedia.org/wiki/Strava%2C_the_fitness_tracking_app_popular_with_cyclists"
+    },
+    {
+      "text": "The 'classics season' in professional cycling runs from late February through April, featuring many of the sport's oldest one-day races.",
+      "source": "https://en.wikipedia.org/wiki/Cycling"
+    },
+    {
+      "text": "Bike messengers, or 'bicycle couriers,' became an iconic part of urban culture in cities like New York and San Francisco in the 1980s and 1990s.",
+      "source": "https://en.wikipedia.org/wiki/Bike_messengers%2C_or_%27bicycle_couriers"
+    },
+    {
+      "text": "Mathieu van der Poel excels in road cycling, cyclocross, and mountain biking, following a family tradition of cycling greatness.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Cycling"
+    },
+    {
+      "text": "The derailleur, the mechanism that shifts the chain between gears, was invented in the early 1900s and first allowed in the Tour de France in 1937.",
+      "source": "https://en.wikipedia.org/wiki/derailleur%2C_the_mechanism_that_shifts_the_chain_between_gears"
+    },
+    {
+      "text": "Cat-and-mouse tactics in the sprint finish are a hallmark of track cycling, with riders often riding extremely slowly to gain a tactical advantage.",
+      "source": "https://en.wikipedia.org/wiki/Cat-and-mouse_tactics_in_the_sprint_finish"
+    },
+    {
+      "text": "The Transcontinental Race is an unsupported ultra-endurance cycling race across Europe, covering roughly 4,000 km.",
+      "source": "https://en.wikipedia.org/wiki/Transcontinental_Race"
+    },
+    {
+      "text": "Cycling in the Netherlands is facilitated by extensive infrastructure, including dedicated traffic lights and parking garages for bikes.",
+      "source": "https://en.wikipedia.org/wiki/Cycling_in_the_Netherlands"
+    },
+    {
+      "text": "The term 'peloton' comes from the French word for 'platoon' and refers to the main group of riders in a road race.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Cycling"
+    },
+    {
+      "text": "Remco Evenepoel won the 2022 Vuelta a España and the road race world championship in the same season.",
+      "source": "https://en.wikipedia.org/wiki/Remco_Evenepoel"
+    },
+    {
+      "text": "Smart trainers can automatically adjust resistance to simulate real-world terrain and are used for indoor cycling training.",
+      "source": "https://en.wikipedia.org/wiki/Smart_trainers_can_automatically_adjust_resistance_to_simulate_real-world_terrain_and"
+    },
+    {
+      "text": "The drops, hoods, and tops are the three main hand positions on a road bike's drop handlebars, each serving different purposes.",
+      "source": "https://en.wikipedia.org/wiki/drops%2C_hoods%2C_and_tops"
+    },
+    {
+      "text": "Milan-San Remo is often decided on the Poggio climb or the Via Roma sprint finish in the final kilometers.",
+      "month": 3,
+      "day": 16,
+      "source": "https://en.wikipedia.org/wiki/Milan-San_Remo"
+    },
+    {
+      "text": "Bike polo, played on bicycles with mallets, has a growing competitive scene with world championships held annually.",
+      "source": "https://en.wikipedia.org/wiki/Bike_polo%2C_played_on_bicycles_with_mallets"
+    },
+    {
+      "text": "The 'wall' or 'muur' in Flemish cycling refers to short, extremely steep cobbled climbs featured in Belgian classics.",
+      "source": "https://en.wikipedia.org/wiki/Cycling"
+    },
+    {
+      "text": "Philippe Gilbert is one of the few cyclists to have won all five Monuments of Cycling during his career.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Philippe_Gilbert"
+    },
+    {
+      "text": "Nutrition timing is critical in cycling — riders typically consume 60-90 grams of carbohydrates per hour during racing.",
+      "source": "https://en.wikipedia.org/wiki/Nutrition_timing"
+    },
+    {
+      "text": "The penny-farthing, with its enormous front wheel, was the dominant bicycle design in the 1870s and 1880s.",
+      "source": "https://en.wikipedia.org/wiki/penny-farthing%2C_with_its_enormous_front_wheel"
+    },
+    {
+      "text": "GCN (Global Cycling Network) is one of the most popular YouTube channels dedicated to road cycling content.",
+      "source": "https://en.wikipedia.org/wiki/GCN_(Global_Cycling_Network)"
+    },
+    {
+      "text": "The Koppenberg is one of the steepest climbs in the Tour of Flanders, with gradients reaching 22%.",
+      "source": "https://en.wikipedia.org/wiki/Koppenberg"
+    },
+    {
+      "text": "Fausto Coppi and Gino Bartali's rivalry in the 1940s and 1950s divided Italy and became one of cycling's greatest stories.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Fausto_Coppi_and_Gino_Bartali%27s_rivalry_in_the_1940s_and_1950s_divided_Italy_and"
+    },
+    {
+      "text": "Cycle touring involves traveling long distances by bicycle, carrying gear for self-supported trips lasting days, weeks, or months.",
+      "source": "https://en.wikipedia.org/wiki/Cycling"
+    },
+    {
+      "text": "The first Vuelta a España was held in 1935, with Gustave Deloor of Belgium winning the inaugural edition.",
+      "month": 4,
+      "day": 29,
+      "source": "https://en.wikipedia.org/wiki/first_Vuelta_a_Espa%C3%B1a"
+    },
+    {
+      "text": "Aero wheels with deep-section carbon rims reduce drag but can be difficult to handle in strong crosswinds.",
+      "source": "https://en.wikipedia.org/wiki/Cycling"
+    },
+    {
+      "text": "Titanium bicycle frames are prized for their combination of light weight, strength, durability, and comfortable ride quality.",
+      "source": "https://en.wikipedia.org/wiki/Titanium_bicycle_frames"
+    },
+    {
+      "text": "The team time trial is a stage where an entire team rides together against the clock, requiring precise coordination.",
+      "source": "https://en.wikipedia.org/wiki/team_time_trial"
+    },
+    {
+      "text": "Bike lanes separated from motor traffic by physical barriers are called 'protected bike lanes' or 'cycle tracks.'",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Bike_lanes_separated_from_motor_traffic_by_physical_barriers"
+    },
+    {
+      "text": "Lauren De Crescenzo set the women's RAAM (Race Across America) record in 2024, crossing the US in under 10 days.",
+      "source": "https://en.wikipedia.org/wiki/Lauren_De_Crescenzo"
+    },
+    {
+      "text": "Pro cyclists typically ride 25,000 to 35,000 kilometers per year in training and racing combined.",
+      "source": "https://en.wikipedia.org/wiki/Cycling"
+    },
+    {
+      "text": "The omnium is a multi-event track cycling competition that combines scratch race, tempo race, elimination race, and points race.",
+      "source": "https://en.wikipedia.org/wiki/omnium"
+    },
+    {
+      "text": "Vincenzo Nibali won all three Grand Tours during his career — the Giro (2013, 2016), Tour (2014), and Vuelta (2010).",
+      "source": "https://en.wikipedia.org/wiki/Tour"
+    },
+    {
+      "text": "The 'sticky bottle' is a controversial tactic where a rider grabs a water bottle from a team car and gets a prolonged tow.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/%27sticky_bottle"
+    },
+    {
+      "text": "Bicycle chains have approximately 116 links and must be replaced every 2,000-3,000 miles to prevent drivetrain wear.",
+      "source": "https://en.wikipedia.org/wiki/Bicycle_chains"
+    },
+    {
+      "text": "The Race Across America (RAAM) is a 3,000-mile nonstop ultra-cycling race from the West Coast to the East Coast of the US.",
+      "source": "https://en.wikipedia.org/wiki/Race_Across_America_(RAAM)"
+    },
+    {
+      "text": "Mont Ventoux, known as the 'Beast of Provence,' is one of the most dreaded climbs in professional cycling.",
+      "source": "https://en.wikipedia.org/wiki/Mont_Ventoux%2C_known_as_the_%27Beast_of_Provence"
+    },
+    {
+      "text": "The first women's Giro d'Italia was held in 1988, and it remains the most prestigious women's stage race in Italy.",
+      "month": 7,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/first_women%27s_Giro_d%27Italia"
+    },
+    {
+      "text": "Cycling gloves serve multiple purposes: grip, vibration dampening, sweat wiping, and protection during crashes.",
+      "source": "https://en.wikipedia.org/wiki/Cycling"
+    },
+    {
+      "text": "The individual pursuit in track cycling requires a rider to chase down an opponent starting on the opposite side of the velodrome.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Cycling"
+    },
+    {
+      "text": "Bike computers from brands like Garmin, Wahoo, and Hammerhead have become essential tools for training and navigation.",
+      "source": "https://en.wikipedia.org/wiki/Bike_computers_from_brands_like_Garmin%2C_Wahoo%2C_and_Hammerhead"
+    },
+    {
+      "text": "The 'neutral zone' at the start of many professional cycling stages allows riders to warm up before the official racing begins.",
+      "source": "https://en.wikipedia.org/wiki/Cycling"
+    },
+    {
+      "text": "Cyclocross season runs from September through February, opposite to the road cycling calendar.",
+      "source": "https://en.wikipedia.org/wiki/Cycling"
+    },
+    {
+      "text": "Pavel Tonkov and Marco Pantani's battle at the 1998 Giro d'Italia is remembered as one of the greatest Grand Tour duels.",
+      "source": "https://en.wikipedia.org/wiki/Pavel_Tonkov_and_Marco_Pantani%27s_battle_at_the_1998_Giro_d%27Italia"
+    },
+    {
+      "text": "A bicycle wheel is a tensioned structure where the spokes pull the rim inward toward the hub, similar to a suspension bridge.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/A_bicycle_wheel"
+    },
+    {
+      "text": "The White Jersey (maillot blanc) in the Tour de France is awarded to the best young rider under the age of 25.",
+      "source": "https://en.wikipedia.org/wiki/White_Jersey_(maillot_blanc)_in_the_Tour_de_France"
+    },
+    {
+      "text": "Caroline Mani and Marianne Vos have been dominant forces in women's cyclocross, each winning multiple world championships.",
+      "source": "https://en.wikipedia.org/wiki/Caroline_Mani_and_Marianne_Vos"
+    },
+    {
+      "text": "Fat bikes have oversized tires (3.8 inches or wider) designed for riding on snow, sand, and other soft surfaces.",
+      "source": "https://en.wikipedia.org/wiki/Fat_bikes"
+    },
+    {
+      "text": "The six-day race is a track cycling event where teams of two race around a velodrome for six consecutive days.",
+      "source": "https://en.wikipedia.org/wiki/six-day_race"
+    },
+    {
+      "text": "Cycling caffeine use is widespread — studies show that 3-6 mg/kg of caffeine can improve endurance performance by 2-4%.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Cycling_caffeine_use"
+    },
+    {
+      "text": "The Ronde van Vlaanderen (Tour of Flanders) is Belgium's most important cycling race, attracting over a million roadside spectators.",
+      "month": 4,
+      "day": 3,
+      "source": "https://en.wikipedia.org/wiki/Ronde_van_Vlaanderen_(Tour_of_Flanders)"
+    },
+    {
+      "text": "Annemiek van Vleuten won the 2022 Tour de France Femmes in dominant fashion, solidifying her status as a cycling legend.",
+      "source": "https://en.wikipedia.org/wiki/Annemiek_van_Vleuten"
+    },
+    {
+      "text": "Trail difficulty in mountain biking is rated on a scale from green (easiest) through blue, black, to double black diamond (most difficult).",
+      "source": "https://en.wikipedia.org/wiki/Trail_difficulty_in_mountain_biking"
+    },
+    {
+      "text": "The 'peloton effect' describes how riders in a large group can save up to 40% of their energy compared to riding alone.",
+      "source": "https://en.wikipedia.org/wiki/Cycling"
+    },
+    {
+      "text": "Steel bicycle frames are known for their comfortable ride quality and durability, described with the phrase 'steel is real.'",
+      "source": "https://en.wikipedia.org/wiki/Steel_bicycle_frames"
+    },
+    {
+      "text": "The Dauphiné Libéré (now Critérium du Dauphiné) is a major stage race in France that serves as key preparation for the Tour de France.",
+      "source": "https://en.wikipedia.org/wiki/Dauphin%C3%A9_Lib%C3%A9r%C3%A9_(now_Crit%C3%A9rium_du_Dauphin%C3%A9)"
+    },
+    {
+      "text": "Track cycling at the Olympics is held in a velodrome with a wooden track surface, typically made of Siberian spruce.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Track_cycling_at_the_Olympics"
+    },
+    {
+      "text": "Lycra cycling jerseys and bib shorts became the standard racing attire in the 1980s, replacing wool garments.",
+      "source": "https://en.wikipedia.org/wiki/Lycra_cycling_jerseys_and_bib_shorts"
+    },
+    {
+      "text": "The 'attack' in cycling is when a rider suddenly accelerates away from the group to try to gain an advantage.",
+      "source": "https://en.wikipedia.org/wiki/%27attack%27_in_cycling"
+    },
+    {
+      "text": "Pinarello, Specialized, Trek, Cervélo, and Colnago are among the most prestigious road bicycle brands in professional cycling.",
+      "source": "https://en.wikipedia.org/wiki/Pinarello%2C_Specialized%2C_Trek%2C_Cerv%C3%A9lo%2C_and_Colnago"
+    },
+    {
+      "text": "Robert Marchand of France set the hour record for cyclists over 100 years old, covering 22.547 km at age 103.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Robert_Marchand_of_France"
+    },
+    {
+      "text": "The UCI WorldTour is the highest level of professional road cycling, featuring 18 teams and the sport's most prestigious races.",
+      "source": "https://en.wikipedia.org/wiki/UCI_WorldTour"
+    },
+    {
+      "text": "Chain wax and chain lube choices can affect drivetrain efficiency by 2-5 watts, which matters at the professional level.",
+      "source": "https://en.wikipedia.org/wiki/Cycling"
+    },
+    {
+      "text": "The first bicycle race is believed to have taken place on May 31, 1868, at the Parc de Saint-Cloud in Paris.",
+      "month": 5,
+      "day": 31,
+      "source": "https://en.wikipedia.org/wiki/first_bicycle_race"
+    },
+    {
+      "text": "Anquetil vs Poulidor on the Puy de Dôme in 1964 is one of the most iconic moments in Tour de France history.",
+      "month": 7,
+      "day": 12,
+      "source": "https://en.wikipedia.org/wiki/Anquetil_vs_Poulidor_on_the_Puy_de_D%C3%B4me_in_1964"
+    },
+    {
+      "text": "Heart rate zones in cycling range from Zone 1 (recovery) to Zone 5 (anaerobic capacity), each targeting different training adaptations.",
+      "source": "https://en.wikipedia.org/wiki/Zone_1"
+    },
+    {
+      "text": "The 'Hell of the North' moniker for Paris-Roubaix originated from the devastated landscape of northern France after World War I.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Hell_of_the_North"
+    },
+    {
+      "text": "Marco Pantani, nicknamed 'Il Pirata,' was one of the greatest climbers in cycling history, winning both the Tour and Giro in 1998.",
+      "source": "https://en.wikipedia.org/wiki/Marco_Pantani%2C_nicknamed_%27Il_Pirata"
+    },
+    {
+      "text": "Cycling socks have become a fashion statement in the sport, with rules about maximum sock height being controversially enforced by the UCI.",
+      "source": "https://en.wikipedia.org/wiki/Cycling_socks"
+    },
+    {
+      "text": "The 'gruppetto' must finish within a percentage of the stage winner's time or face elimination from a Grand Tour.",
+      "source": "https://en.wikipedia.org/wiki/Grand_Tour"
+    },
+    {
+      "text": "Japan has a professional keirin league that generates over $12 billion in annual betting revenue.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Japan"
+    },
+    {
+      "text": "The Strade Bianche race in Tuscany features white gravel (strade bianche) roads that make it one of the most visually stunning races.",
+      "source": "https://en.wikipedia.org/wiki/Strade_Bianche_race_in_Tuscany"
+    },
+    {
+      "text": "Hub dynamos generate electricity from the spinning wheel to power bicycle lights without the need for batteries.",
+      "source": "https://en.wikipedia.org/wiki/Cycling"
+    },
+    {
+      "text": "The 'prologue' in stage racing is a short individual time trial, usually under 10 km, held on the first day.",
+      "source": "https://en.wikipedia.org/wiki/%27prologue%27_in_stage_racing"
+    },
+    {
+      "text": "Canyon, a direct-to-consumer German bicycle brand, sponsors multiple WorldTour teams and has disrupted the traditional bike retail model.",
+      "source": "https://en.wikipedia.org/wiki/Canyon%2C_a_direct-to-consumer_German_bicycle_brand%2C_sponsors_multiple_WorldTour_teams_and"
+    },
+    {
+      "text": "Paris-Brest-Paris is the oldest cycling event still in existence, first held in 1891 as a 1,200 km audax ride.",
+      "month": 8,
+      "day": 16,
+      "source": "https://en.wikipedia.org/wiki/Paris-Brest-Paris"
+    },
+    {
+      "text": "Cycling is the most popular mode of daily transportation in the Netherlands, with 27% of all trips made by bicycle.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Cycling"
+    },
+    {
+      "text": "Handlebar tape, available in various materials and thicknesses, provides grip and vibration absorption on road bikes.",
+      "source": "https://en.wikipedia.org/wiki/Cycling"
+    },
+    {
+      "text": "The 'pavé' sectors of Paris-Roubaix are maintained by a group called Les Amis de Paris-Roubaix (Friends of Paris-Roubaix).",
+      "source": "https://en.wikipedia.org/wiki/%27pav%C3%A9%27_sectors_of_Paris-Roubaix"
+    },
+    {
+      "text": "Specialized's Body Geometry saddle system uses research-backed designs to reduce pressure on sensitive areas.",
+      "source": "https://en.wikipedia.org/wiki/Specialized%27s_Body_Geometry"
+    },
+    {
+      "text": "The Molteni team of the early 1970s, led by Eddy Merckx, is considered one of the greatest cycling teams ever assembled.",
+      "source": "https://en.wikipedia.org/wiki/Molteni_team_of_the_early_1970s%2C_led_by_Eddy_Merckx"
+    },
+    {
+      "text": "Mark Cavendish surpassed Eddy Merckx's record of 34 Tour de France stage wins in 2024.",
+      "month": 7,
+      "day": 3,
+      "source": "https://en.wikipedia.org/wiki/Mark_Cavendish_surpassed_Eddy_Merckx%27s_record_of_34_Tour_de_France_stage"
+    },
+    {
+      "text": "Belt-drive systems replace the traditional chain with a carbon fiber belt, offering cleaner and lower-maintenance operation.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Cycling"
+    },
+    {
+      "text": "The 'queen stage' is the most difficult mountain stage in a Grand Tour, often featuring multiple major climbs.",
+      "source": "https://en.wikipedia.org/wiki/%27queen_stage"
+    },
+    {
+      "text": "Alaphilippe's two consecutive rainbow jerseys (2020-2021) made him a national hero in France.",
+      "source": "https://en.wikipedia.org/wiki/Cycling"
+    },
+    {
+      "text": "Single-speed bicycles have one gear ratio and no derailleur, making them simple and low-maintenance.",
+      "source": "https://en.wikipedia.org/wiki/Single-speed_bicycles"
+    },
+    {
+      "text": "The Tour de France has never been canceled in peacetime — it was suspended only during World War I and World War II.",
+      "source": "https://en.wikipedia.org/wiki/Tour_de_France"
+    },
+    {
+      "text": "Recovery rides at low intensity help flush metabolic waste products and promote muscle repair between hard training sessions.",
+      "source": "https://en.wikipedia.org/wiki/Cycling"
+    },
+    {
+      "text": "The 'Super Tuck' descending position was banned by the UCI in 2021 over safety concerns after several high-profile crashes.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/%27Super_Tuck%27_descending_position"
+    },
+    {
+      "text": "Cargo bikes, designed to carry heavy loads, are increasingly used for last-mile delivery services in European cities.",
+      "source": "https://en.wikipedia.org/wiki/Cargo_bikes%2C_designed_to_carry_heavy_loads"
+    },
+    {
+      "text": "The Kona Ironman World Championship features a challenging 112-mile bike leg on the windy Hawaiian coast.",
+      "source": "https://en.wikipedia.org/wiki/Kona_Ironman_World_Championship"
+    },
+    {
+      "text": "Dennis Kimetto's cycling equivalent — the fastest time ever for the Tour de France — averages over 41 km/h for three weeks.",
+      "source": "https://en.wikipedia.org/wiki/Dennis_Kimetto%27s"
+    },
+    {
+      "text": "Alberto Contador's 'El Pistolero' victory salute became one of cycling's most recognizable celebrations.",
+      "source": "https://en.wikipedia.org/wiki/Alberto_Contador%27s_%27El_Pistolero%27_victory_salute"
+    },
+    {
+      "text": "The bicycle was key to the women's suffrage movement, with Susan B. Anthony saying it did more for women's emancipation than anything else.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/bicycle"
+    },
+    {
+      "text": "Garmin launched its first cycling GPS computer, the Edge 205, in 2006, pioneering GPS navigation for cyclists.",
+      "month": 1,
+      "day": 5,
+      "source": "https://en.wikipedia.org/wiki/Garmin"
+    },
+    {
+      "text": "The peloton can stretch over several kilometers on flat stages but compresses on climbs where speed differences emerge.",
+      "source": "https://en.wikipedia.org/wiki/Cycling"
+    },
+    {
+      "text": "Bamboo bicycle frames are an eco-friendly alternative, with organizations like Bamboo Bicycle Club teaching frame-building skills.",
+      "source": "https://en.wikipedia.org/wiki/Bamboo_bicycle_frames"
+    },
+    {
+      "text": "The lead-out train is a formation where a sprinter's teammates progressively increase speed to deliver the sprinter to the final sprint.",
+      "source": "https://en.wikipedia.org/wiki/lead-out_train"
+    },
+    {
+      "text": "Tour de France riders consume approximately 5,000 to 9,000 calories per day during the three-week race.",
+      "source": "https://en.wikipedia.org/wiki/Cycling"
+    },
+    {
+      "text": "Greg LeMond won the 1989 Tour de France by just 8 seconds — the smallest margin of victory in the race's history.",
+      "month": 7,
+      "day": 23,
+      "source": "https://en.wikipedia.org/wiki/Greg_LeMond"
+    },
+    {
+      "text": "The 'magic spanner' is a humorous term for when a team mechanic takes an unusually long time fixing a bike to give the rider a rest.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/%27magic_spanner"
+    },
+    {
+      "text": "Bicycle framesets are manufactured in various materials: steel, aluminum, carbon fiber, and titanium, each with distinct ride characteristics.",
+      "source": "https://en.wikipedia.org/wiki/Bicycle_framesets"
+    },
+    {
+      "text": "The Col du Galibier, at 2,642 meters, is one of the highest regularly used passes in the Tour de France.",
+      "source": "https://en.wikipedia.org/wiki/Col_du_Galibier%2C_at_2%2C642_meters"
+    },
+    {
+      "text": "The Haute Route is an amateur multi-day cycling event that covers iconic European mountain passes.",
+      "source": "https://en.wikipedia.org/wiki/Haute_Route"
+    },
+    {
+      "text": "Resistance trainers clamp the rear wheel and apply resistance for indoor riding, but have been largely replaced by smart trainers.",
+      "source": "https://en.wikipedia.org/wiki/Resistance_trainers_clamp_the_rear_wheel_and_apply_resistance_for_indoor_riding%2C_but"
+    },
+    {
+      "text": "The world record for the fastest bicycle speed on flat ground without drafting is 184.04 km/h, set by Denise Mueller-Korenek.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/world_record_for_the_fastest_bicycle_speed_on_flat_ground_without_drafting"
+    },
+    {
+      "text": "La Flèche Wallonne, with its famous finish atop the Mur de Huy, is one of the Ardennes Classics held each April.",
+      "month": 4,
+      "day": 19,
+      "source": "https://en.wikipedia.org/wiki/La_Fl%C3%A8che_Wallonne%2C_with_its_famous_finish_atop_the_Mur_de_Huy"
+    },
+    {
+      "text": "Cycling jerseys have rear pockets (typically three) for storing food, phone, and tools during rides.",
+      "source": "https://en.wikipedia.org/wiki/Cycling_jerseys"
+    },
+    {
+      "text": "The Paris-Tours race, nicknamed 'the sprinters' classic,' is one of the longest-running professional cycling events.",
+      "source": "https://en.wikipedia.org/wiki/Paris-Tours_race%2C_nicknamed_%27the_sprinters%27_classic"
+    },
+    {
+      "text": "Bike maintenance basics include chain lubrication, tire pressure checks, brake adjustment, and derailleur alignment.",
+      "source": "https://en.wikipedia.org/wiki/Cycling"
+    },
+    {
+      "text": "The concept of 'marginal gains' was popularized by Team Sky under Dave Brailsford, focusing on small improvements across every aspect of cycling.",
+      "source": "https://en.wikipedia.org/wiki/concept_of_%27marginal_gains"
+    },
+    {
+      "text": "The Giro d'Italia was not held during World War II, from 1941 to 1945.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Giro_d%27Italia"
+    },
+    {
+      "text": "Panniers are bags that attach to front or rear racks on a bicycle, used primarily for touring and commuting.",
+      "source": "https://en.wikipedia.org/wiki/Panniers"
+    },
+    {
+      "text": "The Col du Tourmalet in the Pyrenees has been included in the Tour de France more than any other mountain pass.",
+      "source": "https://en.wikipedia.org/wiki/Col_du_Tourmalet_in_the_Pyrenees"
+    },
+    {
+      "text": "Cyclocross bikes have wider tire clearance, cantilever or disc brakes, and more aggressive geometry than standard road bikes.",
+      "source": "https://en.wikipedia.org/wiki/Cyclocross_bikes"
+    },
+    {
+      "text": "Professional cycling team buses are custom-fitted mobile headquarters with massage tables, kitchens, and meeting areas.",
+      "source": "https://en.wikipedia.org/wiki/Professional_cycling_team_buses"
+    },
+    {
+      "text": "The 'classic' bicycle saddle by Brooks England, made of leather, has been produced continuously since 1866.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/%27classic%27_bicycle_saddle_by_Brooks_England%2C_made_of_leather"
+    },
+    {
+      "text": "Red Bull Rampage winner Brandon Semenuk is known for his fluid, trick-heavy riding style on massive freeride features.",
+      "source": "https://en.wikipedia.org/wiki/Red_Bull_Rampage_winner_Brandon_Semenuk"
+    },
+    {
+      "text": "Thigh circumference of top sprinters like Robert Förstemann can exceed 74 cm, compared to about 57 cm for the average person.",
+      "source": "https://en.wikipedia.org/wiki/Cycling"
+    },
+    {
+      "text": "The 2004 Vuelta a España saw Roberto Heras win, but his title was later stripped due to an EPO positive.",
+      "month": 9,
+      "day": 26,
+      "source": "https://en.wikipedia.org/wiki/2004_Vuelta_a_Espa%C3%B1a"
+    },
+    {
+      "text": "Cycling shoes generally use either a three-bolt (Look/SPD-SL) or two-bolt (SPD) cleat mounting system.",
+      "source": "https://en.wikipedia.org/wiki/Cycling"
+    },
+    {
+      "text": "The 'devil' Didi Senft is a famous Tour de France superfan who has appeared on roadsides in a red devil costume since 1993.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/%27devil%27_Didi_Senft"
+    },
+    {
+      "text": "Bike pumps are classified as floor pumps (for home use) and mini pumps or CO2 inflators (for carrying on rides).",
+      "source": "https://en.wikipedia.org/wiki/Bike_pumps"
+    },
+    {
+      "text": "Pogačar became only the third cyclist in history to win the 'Triple Crown' (Giro, Tour, and World Championship) in a single season in 2024.",
+      "source": "https://en.wikipedia.org/wiki/Poga%C4%8Dar"
+    },
+    {
+      "text": "The 'flamme rouge' is a red pennant hung 1 kilometer from the finish line in professional cycling races.",
+      "source": "https://en.wikipedia.org/wiki/%27flamme_rouge"
+    },
+    {
+      "text": "Indoor cycling apps like TrainerRoad, Sufferfest (now Wahoo SYSTM), and Rouvy complement Zwift in the virtual training space.",
+      "source": "https://en.wikipedia.org/wiki/Wahoo_SYSTM"
+    },
+    {
+      "text": "The Roubaix velodrome is the iconic finish location for Paris-Roubaix, where riders enter the outdoor track for the final meters.",
+      "source": "https://en.wikipedia.org/wiki/Roubaix_velodrome"
+    },
+    {
+      "text": "Women's professional cycling has seen significant growth, with team budgets and media coverage increasing dramatically since 2020.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Women%27s_professional_cycling"
+    },
+    {
+      "text": "The 'Maillot Jaune Féminin' was introduced for the Tour de France Femmes, mirroring the men's yellow jersey tradition.",
+      "source": "https://en.wikipedia.org/wiki/%27Maillot_Jaune_F%C3%A9minin"
+    },
+    {
+      "text": "Shifting under heavy load (like while climbing) is a common cause of dropped chains and damaged drivetrains.",
+      "source": "https://en.wikipedia.org/wiki/Shifting_under_heavy_load_(like_while_climbing)"
+    },
+    {
+      "text": "Nino Schurter of Switzerland is the most decorated cross-country mountain biker, with multiple World Championship and Olympic titles.",
+      "source": "https://en.wikipedia.org/wiki/Nino_Schurter_of_Switzerland"
+    },
+    {
+      "text": "The 'slipstream' effect means that following 6 inches behind another rider at 30 mph reduces drag by about 44%.",
+      "source": "https://en.wikipedia.org/wiki/Cycling"
+    },
+    {
+      "text": "Gino Bartali's heroics during World War II, where he smuggled forged identity documents hidden in his bicycle frame, saved hundreds of Jewish lives.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Gino_Bartali%27s"
+    },
+    {
+      "text": "Cyclocross barriers are 40 cm high obstacles that riders must dismount and hurdle or bunny-hop during races.",
+      "source": "https://en.wikipedia.org/wiki/Cyclocross_barriers"
+    },
+    {
+      "text": "The first World Championship road race was held in 1927 on the Nürburgring circuit in Germany.",
+      "month": 7,
+      "day": 21,
+      "source": "https://en.wikipedia.org/wiki/first_World_Championship_road_race"
+    },
+    {
+      "text": "Bike locks come in U-lock, chain, folding, and cable varieties, with U-locks generally offering the best security.",
+      "source": "https://en.wikipedia.org/wiki/Cycling"
+    },
+    {
+      "text": "The 'pain face' captured by race photographers during mountain stages has become a beloved genre of cycling imagery.",
+      "source": "https://en.wikipedia.org/wiki/%27pain_face%27_captured_by_race_photographers_during_mountain_stages"
+    },
+    {
+      "text": "Indoor cycling or 'spinning' classes were pioneered by South African cyclist Johnny Goldberg in the late 1980s.",
+      "source": "https://en.wikipedia.org/wiki/Indoor_cycling_or_%27spinning%27_classes"
+    },
+    {
+      "text": "The 'directeur sportif' is the team manager who follows in the team car and makes tactical decisions during races.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/%27directeur_sportif"
+    },
+    {
+      "text": "Bike-packing routes like the Arizona Trail, Colorado Trail, and Tour Divide attract thousands of adventure cyclists annually.",
+      "source": "https://en.wikipedia.org/wiki/Arizona_Trail"
+    },
+    {
+      "text": "The 'musette' is a small fabric bag handed to riders during feed zones, containing food and drinks for the road.",
+      "source": "https://en.wikipedia.org/wiki/%27musette"
+    },
+    {
+      "text": "Professional cyclists' resting heart rates can drop below 30 beats per minute due to their extreme cardiovascular fitness.",
+      "source": "https://en.wikipedia.org/wiki/Cycling"
+    },
+    {
+      "text": "The Col d'Aubisque is one of the most dangerous descents in the Tour de France, with narrow roads and sheer drops.",
+      "source": "https://en.wikipedia.org/wiki/Col_d%27Aubisque"
+    },
+    {
+      "text": "Tadej Pogačar won his second Tour de France in 2021, becoming one of only eight riders to win back-to-back Tours.",
+      "month": 7,
+      "day": 18,
+      "source": "https://en.wikipedia.org/wiki/Tadej_Poga%C4%8Dar"
+    },
+    {
+      "text": "The 'commissaire' is the official referee in cycling who enforces rules and can issue penalties during races.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/%27commissaire"
+    },
+    {
+      "text": "Bike fitting studios use motion capture technology and pressure mapping to optimize rider position for performance and comfort.",
+      "source": "https://en.wikipedia.org/wiki/Cycling"
+    },
+    {
+      "text": "Ernesto Colnago founded his namesake bicycle brand in 1954, and Colnago bikes have won more professional races than any other brand.",
+      "source": "https://en.wikipedia.org/wiki/Ernesto_Colnago"
+    },
+    {
+      "text": "The watt floor, or baseline power, is the minimum power output a cyclist can sustain all day, typically around 60% of FTP.",
+      "source": "https://en.wikipedia.org/wiki/watt_floor%2C_or_baseline_power"
+    },
+    {
+      "text": "Folding bicycles, popularized by brands like Brompton and Dahon, are designed for commuters who combine cycling with public transit.",
+      "source": "https://en.wikipedia.org/wiki/Folding_bicycles%2C_popularized_by_brands_like_Brompton_and_Dahon"
+    },
+    {
+      "text": "The 'general classification' (GC) is the overall standings in a stage race, determined by accumulated time across all stages.",
+      "source": "https://en.wikipedia.org/wiki/%27general_classification%27_(GC)"
+    },
+    {
+      "text": "In 2024, Pogačar completed the Giro-Tour double, becoming the first rider since Marco Pantani in 1998 to win both in the same year.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Marco_Pantani_in_1998_to"
+    },
+    {
+      "text": "The 'hors catégorie' (HC) designation is given to the steepest and most difficult climbs in professional cycling, literally meaning 'beyond category.'",
+      "source": "https://en.wikipedia.org/wiki/%27hors_cat%C3%A9gorie%27_(HC)_designation"
+    },
+    {
+      "text": "Stans NoTubes pioneered the tubeless tire system for mountain bikes in the early 2000s.",
+      "source": "https://en.wikipedia.org/wiki/Stans_NoTubes"
+    },
+    {
+      "text": "Criterium-style races are the bread and butter of American professional cycling, with fast, aggressive racing on short city circuits.",
+      "source": "https://en.wikipedia.org/wiki/Criterium-style_races"
+    },
+    {
+      "text": "The Kéo pedal system by Look is one of the most widely used clipless road pedal systems in the world.",
+      "source": "https://en.wikipedia.org/wiki/K%C3%A9o_pedal_system_by_Look"
+    },
+    {
+      "text": "Bicycle suspension forks use either air springs or coil springs to absorb impacts on rough terrain.",
+      "source": "https://en.wikipedia.org/wiki/Cycling"
+    },
+    {
+      "text": "The 'palmarès' is a cyclist's career record of victories, used to assess their place in cycling history.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/%27palmar%C3%A8s"
+    },
+    {
+      "text": "Handcycling is a Paralympic cycling discipline where athletes power the bike with their arms, competing in road and track events.",
+      "source": "https://en.wikipedia.org/wiki/Handcycling"
+    },
+    {
+      "text": "The Amstel Gold Race is the only Dutch Monument candidate, held annually in the hilly Limburg region.",
+      "month": 4,
+      "day": 14,
+      "source": "https://en.wikipedia.org/wiki/Amstel_Gold_Race"
+    },
+    {
+      "text": "Rim brakes work by clamping pads against the wheel rim, and they are gradually being phased out in modern road cycling.",
+      "source": "https://en.wikipedia.org/wiki/Rim_brakes_work_by_clamping_pads_against_the_wheel_rim%2C_and_they"
+    },
+    {
+      "text": "Bicycle touring associations like Adventure Cycling Association and Warm Showers provide route planning and hospitality networks for touring cyclists.",
+      "source": "https://en.wikipedia.org/wiki/Adventure_Cycling_Association_and_Warm_Showers"
+    },
+    {
+      "text": "The 'neutral service' car, traditionally provided by Mavic, carries spare wheels and bikes for any rider who needs mechanical assistance.",
+      "source": "https://en.wikipedia.org/wiki/Cycling"
+    },
+    {
+      "text": "Roger De Vlaeminck won Paris-Roubaix four times and is nicknamed 'Monsieur Paris-Roubaix.'",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Roger_De_Vlaeminck"
+    },
+    {
+      "text": "Childhood cycling proficiency programs like Bikeability in the UK teach children safe cycling skills on roads.",
+      "source": "https://en.wikipedia.org/wiki/Bikeability_in_the_UK"
+    },
+    {
+      "text": "The 'combat' in cycling refers to the active racing phase where attacks are launched and the race truly begins.",
+      "source": "https://en.wikipedia.org/wiki/%27combat%27_in_cycling_refers_to_the_active_racing_phase_where_attacks"
+    },
+    {
+      "text": "Pogačar's stage 20 time trial victory in the 2020 Tour de France is considered one of the greatest rides in cycling history.",
+      "month": 9,
+      "day": 19,
+      "source": "https://en.wikipedia.org/wiki/Poga%C4%8Dar%27s_stage_20_time_trial_victory_in_the_2020_Tour_de_France"
+    },
+    {
+      "text": "Aerodynamic helmets used in time trials can save 30-60 seconds over a 40 km course compared to standard road helmets.",
+      "source": "https://en.wikipedia.org/wiki/Cycling"
+    },
+    {
+      "text": "The 'Cipollini effect' refers to Mario Cipollini's flamboyant personality, which helped popularize cycling beyond traditional fans.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/%27Cipollini_effect%27_refers_to_Mario_Cipollini%27s_flamboyant_personality%2C_which"
+    },
+    {
+      "text": "Time trial bikes feature aggressive geometry, aero bars, and disc wheels to minimize drag against the clock.",
+      "source": "https://en.wikipedia.org/wiki/Cycling"
+    },
+    {
+      "text": "The 'mechanical doping' scandal emerged in 2016 when hidden motors were discovered in bicycles at the Cyclocross World Championships.",
+      "month": 1,
+      "day": 30,
+      "source": "https://en.wikipedia.org/wiki/%27mechanical_doping%27_scandal_emerged_in_2016_when_hidden_motors"
+    },
+    {
+      "text": "Bike advocacy organizations like People for Bikes and the League of American Bicyclists work to improve cycling infrastructure in the US.",
+      "source": "https://en.wikipedia.org/wiki/People_for_Bikes_and_the_League_of_American"
+    },
+    {
+      "text": "The 'soigneur' is a team member who provides massages, prepares food, and handles logistics for professional cycling teams.",
+      "source": "https://en.wikipedia.org/wiki/%27soigneur"
+    },
+    {
+      "text": "Disc wheel covers are used in track cycling and time trials to eliminate spoke drag and create a smooth aerodynamic surface.",
+      "source": "https://en.wikipedia.org/wiki/Disc_wheel_covers"
+    },
+    {
+      "text": "The first known cycling club, the Véloce Club de Paris, was founded in France in 1868.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/first_known_cycling_club%2C_the_V%C3%A9loce_Club_de_Paris"
+    },
+    {
+      "text": "Criteriums in Belgium, called 'kermesse' races, are post-Tour exhibition events where top riders earn appearance fees.",
+      "source": "https://en.wikipedia.org/wiki/Criteriums_in_Belgium%2C_called_%27kermesse%27_races"
+    },
+    {
+      "text": "The Gran Fondo format is a mass-participation cycling event that combines recreational riding with competitive timing.",
+      "source": "https://en.wikipedia.org/wiki/Gran_Fondo_format"
+    },
+    {
+      "text": "Bike lights with daytime running mode increase visibility and reduce the risk of car-bicycle collisions by up to 33%.",
+      "source": "https://en.wikipedia.org/wiki/Cycling"
+    },
+    {
+      "text": "The 'parcours' is the French term for the route or course of a cycling race, including all its climbs and technical features.",
+      "source": "https://en.wikipedia.org/wiki/%27parcours"
+    },
+    {
+      "text": "Professional cycling contracts have minimum salary requirements set by the UCI, varying by team category.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Professional_cycling_contracts"
+    },
+    {
+      "text": "The Arenberg Forest sector in Paris-Roubaix is the most feared cobblestone section, featuring rough pavé through a narrow gap in the trees.",
+      "month": 4,
+      "day": 10,
+      "source": "https://en.wikipedia.org/wiki/Arenberg_Forest_sector_in_Paris-Roubaix"
+    },
+    {
+      "text": "Electronic groupsets have faster and more precise shifting than mechanical systems but require battery charging.",
+      "source": "https://en.wikipedia.org/wiki/Electronic_groupsets"
+    },
+    {
+      "text": "The 'feed zone' or 'ravitaillement' is a designated section of a road race where riders can receive food and drink from team staff.",
+      "source": "https://en.wikipedia.org/wiki/%27feed_zone%27_or_%27ravitaillement"
+    },
+    {
+      "text": "Bike geometry charts show measurements like head tube angle, seat tube angle, chainstay length, and stack/reach.",
+      "source": "https://en.wikipedia.org/wiki/Cycling"
+    },
+    {
+      "text": "The Hour Record has been attempted by legends like Eddy Merckx, who set a record of 49.431 km in 1972 that stood for 12 years.",
+      "month": 10,
+      "day": 25,
+      "source": "https://en.wikipedia.org/wiki/Hour_Record"
+    },
+    {
+      "text": "Endurance road bikes have more relaxed geometry than race bikes, prioritizing comfort for long-distance rides.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Endurance_road_bikes"
+    },
+    {
+      "text": "The 'Classics' specialist is a rider who excels at one-day races rather than Grand Tours, like Tom Boonen or Fabian Cancellara.",
+      "source": "https://en.wikipedia.org/wiki/%27Classics%27_specialist"
+    },
+    {
+      "text": "Bikejoring is a sport where a cyclist is pulled by a dog or dogs attached via a towing line.",
+      "source": "https://en.wikipedia.org/wiki/Bikejoring"
+    },
+    {
+      "text": "The rainbow bands on the world champion's jersey represent the colors of the Olympic rings and the UCI's founding nations.",
+      "source": "https://en.wikipedia.org/wiki/Cycling"
+    },
+    {
+      "text": "Cycling's grand tour winners list includes just seven cyclists who have won all three Grand Tours in their career.",
+      "source": "https://en.wikipedia.org/wiki/Cycling%27s_grand_tour_winners_list"
+    },
+    {
+      "text": "The 'bonk bag' is a kit carried in jersey pockets containing emergency nutrition in case of energy depletion during rides.",
+      "source": "https://en.wikipedia.org/wiki/%27bonk_bag"
+    },
+    {
+      "text": "Fabian Cancellara won Paris-Roubaix three times and the Tour of Flanders three times, earning the nickname 'Spartacus.'",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Fabian_Cancellara"
+    },
+    {
+      "text": "Mudguards, or fenders, are essential for commuter cyclists in wet climates to prevent road spray from soaking the rider.",
+      "source": "https://en.wikipedia.org/wiki/Mudguards%2C_or_fenders"
+    },
+    {
+      "text": "The 'flexion test' determines whether cycling shoes are stiff enough for optimal power transfer to the pedals.",
+      "source": "https://en.wikipedia.org/wiki/%27flexion_test%27_determines_whether_cycling_shoes"
+    },
+    {
+      "text": "WorldTour teams must have at least 27 riders on their roster, from at least 10 different nationalities.",
+      "source": "https://en.wikipedia.org/wiki/WorldTour_teams_must"
+    },
+    {
+      "text": "The women's Road World Championship has been held since 1958, decades after the men's event started in 1927.",
+      "month": 8,
+      "day": 30,
+      "source": "https://en.wikipedia.org/wiki/women%27s_Road_World_Championship"
+    },
+    {
+      "text": "Bike-share programs reduce carbon emissions, decrease traffic congestion, and provide affordable transportation in cities.",
+      "source": "https://en.wikipedia.org/wiki/Cycling"
+    },
+    {
+      "text": "The 'Roubaix shower' describes the gritty, muddy conditions riders face during a wet Paris-Roubaix.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Cycling"
+    },
+    {
+      "text": "Bottom brackets connect the crankset to the frame and come in various standards including threaded, press-fit, and T47.",
+      "source": "https://en.wikipedia.org/wiki/Cycling"
+    },
+    {
+      "text": "Rachel Atherton dominated women's downhill mountain biking, winning five consecutive World Championship titles.",
+      "source": "https://en.wikipedia.org/wiki/Rachel_Atherton"
+    },
+    {
+      "text": "The 'souplesse' describes a cyclist's smooth and efficient pedaling style, often associated with French cycling tradition.",
+      "source": "https://en.wikipedia.org/wiki/Cycling"
+    },
+    {
+      "text": "Professional team buses arrive at stage starts hours early, with chefs preparing meals and mechanics setting up bikes.",
+      "source": "https://en.wikipedia.org/wiki/Cycling"
+    },
+    {
+      "text": "Hugo Koblet of Switzerland was the first non-Italian to win the Giro d'Italia, taking the title in 1950.",
+      "month": 6,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/Hugo_Koblet_of_Switzerland"
+    },
+    {
+      "text": "Wind resistance increases with the square of speed, meaning doubling your speed quadruples the aerodynamic drag.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Cycling"
+    },
+    {
+      "text": "The 'tempo' pace in cycling is a sustainable effort just below threshold, used for long base-building rides.",
+      "source": "https://en.wikipedia.org/wiki/%27tempo%27_pace_in_cycling"
+    },
+    {
+      "text": "Danny MacAskill's viral YouTube videos of trials riding in urban and natural settings have amassed hundreds of millions of views.",
+      "source": "https://en.wikipedia.org/wiki/Danny_MacAskill%27s_viral_YouTube_videos_of_trials_riding_in_urban_and_natural_settings"
+    },
+    {
+      "text": "Multi-tool kits for cycling typically include Allen keys, a chain tool, tire levers, and spoke wrenches.",
+      "source": "https://en.wikipedia.org/wiki/Cycling"
+    },
+    {
+      "text": "The 'maglia nera' was historically awarded to the last-place finisher in the Giro d'Italia, similar to the Tour's lanterne rouge.",
+      "source": "https://en.wikipedia.org/wiki/%27maglia_nera"
+    },
+    {
+      "text": "The Specialized S-Works Tarmac is one of the most successful race bikes in WorldTour history, ridden by multiple Grand Tour winners.",
+      "source": "https://en.wikipedia.org/wiki/Specialized_S-Works_Tarmac"
+    },
+    {
+      "text": "The Amgen Tour of California was once the most prestigious stage race in North America before its discontinuation in 2019.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Amgen_Tour_of_California"
+    },
+    {
+      "text": "Cycling sunglasses with photochromic lenses automatically adjust tint based on light conditions, ideal for variable weather.",
+      "source": "https://en.wikipedia.org/wiki/Cycling"
+    },
+    {
+      "text": "The 'commissaires' panel at a cycling race typically includes a president, finish judge, and timekeeper.",
+      "source": "https://en.wikipedia.org/wiki/%27commissaires%27_panel_at_a_cycling_race_typically"
+    },
+    {
+      "text": "The 2003 Tour de France was one of the closest in history, with Jan Ullrich finishing just 1 minute and 1 second behind Lance Armstrong.",
+      "source": "https://en.wikipedia.org/wiki/2003_Tour_de_France"
+    },
+    {
+      "text": "Bike racks for cars come in roof-mount, hitch-mount, and trunk-mount varieties, each with different load capacity and ease of use.",
+      "source": "https://en.wikipedia.org/wiki/Cycling"
+    },
+    {
+      "text": "The Unbound Gravel race (formerly Dirty Kanza) in Emporia, Kansas is the premier gravel cycling event in the world.",
+      "month": 6,
+      "day": 7,
+      "source": "https://en.wikipedia.org/wiki/Unbound_Gravel_race_(formerly_Dirty_Kanza)_in_Emporia%2C_Kansas"
+    },
+    {
+      "text": "Clipless pedal tension can be adjusted to match rider preference, from easy release for beginners to tight engagement for racers.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Cycling"
+    },
+    {
+      "text": "The 'echelon' was crucial in the 2015 and 2020 Tours de France, where crosswinds split the peloton and reshaped the overall standings.",
+      "source": "https://en.wikipedia.org/wiki/%27echelon"
+    },
+    {
+      "text": "Brompton World Championship requires competitors to ride folding Brompton bikes while wearing business attire.",
+      "source": "https://en.wikipedia.org/wiki/Brompton_World_Championship"
+    },
+    {
+      "text": "Saddle sores, caused by friction and pressure during long rides, are one of the most common ailments among competitive cyclists.",
+      "source": "https://en.wikipedia.org/wiki/Saddle_sores%2C_caused_by_friction_and_pressure_during_long_rides"
+    },
+    {
+      "text": "The Dolomites mountain range in Italy features some of the most dramatic and challenging cycling climbs in the world.",
+      "source": "https://en.wikipedia.org/wiki/Dolomites_mountain_range_in_Italy"
+    },
+    {
+      "text": "Andy Hampsten was the first American to win the Giro d'Italia in 1988, conquering the legendary Gavia Pass in a snowstorm.",
+      "month": 6,
+      "day": 12,
+      "source": "https://en.wikipedia.org/wiki/Andy_Hampsten"
+    },
+    {
+      "text": "The 'watts per kilogram' metric is so important in cycling that a difference of 0.1 W/kg can determine a Grand Tour winner.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/%27watts_per_kilogram%27_metric"
+    },
+    {
+      "text": "Cycling caps worn under helmets wick sweat from the forehead and shield the eyes from sun and rain.",
+      "source": "https://en.wikipedia.org/wiki/Cycling"
+    },
+    {
+      "text": "The Tour de France generates an estimated €2 billion in economic impact for host towns and regions.",
+      "source": "https://en.wikipedia.org/wiki/Tour"
+    },
+    {
+      "text": "Puncture-resistant tires use Kevlar or similar materials woven into the tire casing to prevent flats from glass and thorns.",
+      "source": "https://en.wikipedia.org/wiki/Cycling"
+    },
+    {
+      "text": "Rohan Dennis set the fastest individual time trial in Tour de France history in 2015, averaging over 55 km/h.",
+      "month": 7,
+      "day": 4,
+      "source": "https://en.wikipedia.org/wiki/Rohan_Dennis"
+    },
+    {
+      "text": "The 'gruppetto' culture creates camaraderie among non-climbers who share the suffering of mountain stages together.",
+      "source": "https://en.wikipedia.org/wiki/Cycling"
+    },
+    {
+      "text": "Bianchi's iconic 'celeste' green color has been the brand's trademark since 1885, making it one of the most recognizable colors in cycling.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Bianchi%27s_iconic_%27celeste%27_green_color"
+    },
+    {
+      "text": "Anti-chafing products and proper bike shorts with built-in chamois pads are essential for comfortable long-distance riding.",
+      "source": "https://en.wikipedia.org/wiki/Anti-chafing_products_and_proper_bike_shorts_with_built-in_chamois_pads"
+    },
+    {
+      "text": "The 'carrera' in Spanish cycling culture is more than a race — it represents the entire journey and struggle of competition.",
+      "source": "https://en.wikipedia.org/wiki/%27carrera%27_in_Spanish_cycling_culture"
+    },
+    {
+      "text": "Head units from Wahoo (ELEMNT), Garmin (Edge), and Hammerhead (Karoo) lead the cycling computer market.",
+      "source": "https://en.wikipedia.org/wiki/Cycling"
+    },
+    {
+      "text": "Track cycling events at the Olympics include sprint, team sprint, keirin, team pursuit, omnium, and Madison.",
+      "source": "https://en.wikipedia.org/wiki/Cycling"
+    },
+    {
+      "text": "The Passo dello Stelvio, with 48 hairpin bends and an altitude of 2,758m, is the highest paved pass in the Eastern Alps.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Passo_dello_Stelvio%2C_with_48_hairpin_bends_and_an_altitude_of_2%2C758m"
+    },
+    {
+      "text": "Cycling 'base miles' refer to long, steady rides at low intensity that build aerobic fitness during the off-season.",
+      "source": "https://en.wikipedia.org/wiki/Cycling"
+    },
+    {
+      "text": "The 'patron' of the peloton is an unofficial leader among riders who influences race conduct and unwritten rules.",
+      "source": "https://en.wikipedia.org/wiki/%27patron%27_of_the_peloton"
+    },
+    {
+      "text": "Lance Armstrong returned from testicular cancer to win his first Tour de France in 1999, though all seven titles were later stripped.",
+      "month": 7,
+      "day": 25,
+      "source": "https://en.wikipedia.org/wiki/Lance_Armstrong"
+    },
+    {
+      "text": "Wahoo Kickr, Tacx Neo, and Elite Direto are among the most popular smart trainers for indoor cycling.",
+      "source": "https://en.wikipedia.org/wiki/Wahoo_Kickr%2C_Tacx_Neo%2C_and_Elite_Direto"
+    },
+    {
+      "text": "Sean Kelly's 193rd professional victory came at Paris-Nice, a race he won seven consecutive times from 1982 to 1988.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Sean_Kelly%27s_193rd_professional_victory_came_at_Paris-Nice%2C_a_race_he"
+    },
+    {
+      "text": "The 'dropped chain' is one of the most frustrating mechanical issues in cycling, often occurring during poorly timed shifts.",
+      "source": "https://en.wikipedia.org/wiki/%27dropped_chain"
+    },
+    {
+      "text": "Junior gearing restrictions in competitive cycling limit the gear ratios young riders can use to protect their developing bodies.",
+      "source": "https://en.wikipedia.org/wiki/Cycling"
+    },
+    {
+      "text": "The Strade Bianche has rapidly risen to become one of the most anticipated races on the calendar since its first edition in 2007.",
+      "month": 3,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/Strade_Bianche"
+    },
+    {
+      "text": "Ceramic speed bottom brackets and pulleys claim to save up to 6 watts of power through reduced friction.",
+      "source": "https://en.wikipedia.org/wiki/Cycling"
+    },
+    {
+      "text": "The concept of 'micro-dosing' EPO became a concern in cycling after the biological passport system was introduced to detect doping.",
+      "source": "https://en.wikipedia.org/wiki/concept_of_%27micro-dosing%27_EPO"
+    },
+    {
+      "text": "Katie Compton won 15 consecutive US national cyclocross championships from 2004 to 2018.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Katie_Compton"
+    },
+    {
+      "text": "The 'neutral rollout' at the start of professional races allows the peloton to ride together at a gentle pace before the race officially begins.",
+      "source": "https://en.wikipedia.org/wiki/Cycling"
+    },
+    {
+      "text": "Presta and Schrader are the two main types of bicycle tire valves, with Presta being standard on road bikes.",
+      "source": "https://en.wikipedia.org/wiki/Presta_and_Schrader"
+    },
+    {
+      "text": "The three-week format of Grand Tours — 21 stages with two rest days — has been the standard since the mid-20th century.",
+      "source": "https://en.wikipedia.org/wiki/three-week_format_of_Grand_Tours_%E2%80%94_21_stages_with_two_rest_days_%E2%80%94"
+    },
+    {
+      "text": "Rim depth on road wheels ranges from shallow (25mm) for climbing to deep (80mm+) for flat time trials.",
+      "source": "https://en.wikipedia.org/wiki/Cycling"
+    },
+    {
+      "text": "The 'sag wagon' is another term for the support vehicle that follows a cycling event to assist riders who cannot continue.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/%27sag_wagon"
+    },
+    {
+      "text": "Greg LeMond's 1989 Tour de France victory, decided by just 8 seconds after a dramatic final time trial, revolutionized the use of aero bars.",
+      "source": "https://en.wikipedia.org/wiki/Greg_LeMond%27s_1989_Tour"
+    },
+    {
+      "text": "Stephen Roche became the second cyclist to achieve the Triple Crown (Giro, Tour, Worlds) in a single year in 1987.",
+      "source": "https://en.wikipedia.org/wiki/Stephen_Roche"
+    },
+    {
+      "text": "Cycling power data analysis uses metrics like Normalized Power (NP), Training Stress Score (TSS), and Intensity Factor (IF).",
+      "source": "https://en.wikipedia.org/wiki/Normalized_Power"
+    },
+    {
+      "text": "The BMX supercross track at the London 2012 Olympics was 400 meters long with berms, jumps, and rhythmic sections.",
+      "source": "https://en.wikipedia.org/wiki/BMX_supercross_track_at_the_London_2012_Olympics"
+    },
+    {
+      "text": "The UCI introduced a minimum bike weight of 6.8 kg in competition, leading some manufacturers to add weights to their lightest frames.",
+      "month": 1,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/UCI"
+    },
+    {
+      "text": "Cycling descents in the Alps and Pyrenees can see speeds exceed 100 km/h on steep, winding mountain roads.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Alps_and_Pyrenees"
+    },
+    {
+      "text": "Alpe d'Huez has hosted the Tour de France finish 31 times, with 'Dutch Corner' on hairpin 7 being the most famous spectator spot.",
+      "source": "https://en.wikipedia.org/wiki/Alpe_d%27Huez"
+    },
+    {
+      "text": "The Tour of Britain is the UK's premier stage race, held each September across various regions of England, Scotland, and Wales.",
+      "source": "https://en.wikipedia.org/wiki/Tour_of_Britain"
+    },
+    {
+      "text": "Fat tire bikes were originally developed in Alaska and New Mexico for riding on snow and sand in the 1980s.",
+      "source": "https://en.wikipedia.org/wiki/Fat_tire_bikes"
+    },
+    {
+      "text": "The 'derny' is a motorized bicycle used as a pacer in certain track cycling events, with the cyclist drafting behind it.",
+      "source": "https://en.wikipedia.org/wiki/%27derny"
+    },
+    {
+      "text": "Cycling in Japan has a unique culture, with 'mamachari' commuter bikes being ubiquitous and keirin racing drawing huge crowds.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Cycling_in_Japan"
+    },
+    {
+      "text": "The 2024 Paris Olympics featured a road race course that finished on the Champs-Élysées, returning Olympic cycling to its spiritual home.",
+      "month": 8,
+      "day": 3,
+      "source": "https://en.wikipedia.org/wiki/2024_Paris_Olympics"
+    },
+    {
+      "text": "Torque wrenches are essential when working with carbon fiber components, as overtightening can crack the material.",
+      "source": "https://en.wikipedia.org/wiki/Torque_wrenches"
+    },
+    {
+      "text": "The 'half-wheel' is annoying cycling etiquette where a riding partner constantly rides half a wheel ahead.",
+      "source": "https://en.wikipedia.org/wiki/%27half-wheel"
+    },
+    {
+      "text": "Cyclocross courses are typically 2.5-3.5 km long and feature barriers, steep run-ups, sand pits, and off-camber turns.",
+      "source": "https://en.wikipedia.org/wiki/Cyclocross_courses"
+    },
+    {
+      "text": "The Tour Down Under in Adelaide is the first WorldTour race of the season, held each January in Australia.",
+      "month": 1,
+      "day": 17,
+      "source": "https://en.wikipedia.org/wiki/Tour_Down_Under_in_Adelaide"
+    }
+  ]
+}

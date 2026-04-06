@@ -1,0 +1,1706 @@
+{
+  "hobby": "Drinking & Mixology",
+  "facts": [
+    {
+      "text": "The Old Fashioned is widely considered one of the oldest known cocktails, dating back to the early 1800s.",
+      "source": "https://en.wikipedia.org/wiki/Old_Fashioned"
+    },
+    {
+      "text": "A standard jigger measures 1.5 ounces on one side and 0.75 ounces on the other.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Drinking_%26_Mixology"
+    },
+    {
+      "text": "Bourbon must be made from a grain mixture that is at least 51% corn to legally carry the name.",
+      "source": "https://en.wikipedia.org/wiki/Bourbon_must_be_made_from_a_grain_mixture_that"
+    },
+    {
+      "text": "The Martini was originally made with sweet vermouth and gin before the dry version became the standard.",
+      "source": "https://en.wikipedia.org/wiki/Martini"
+    },
+    {
+      "text": "Prohibition in the United States lasted from January 17, 1920 to December 5, 1933.",
+      "month": 1,
+      "day": 17,
+      "source": "https://en.wikipedia.org/wiki/Prohibition_in_the_United_States"
+    },
+    {
+      "text": "Champagne can only legally be called Champagne if it comes from the Champagne region of France.",
+      "source": "https://en.wikipedia.org/wiki/Champagne_can_only_legally_be"
+    },
+    {
+      "text": "The Moscow Mule was invented in 1941 to help sell both Smirnoff vodka and ginger beer in the United States.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Moscow_Mule"
+    },
+    {
+      "text": "Scotch whisky must be aged in oak barrels for a minimum of three years in Scotland.",
+      "source": "https://en.wikipedia.org/wiki/Drinking_%26_Mixology"
+    },
+    {
+      "text": "The word 'cocktail' first appeared in print in a New York newspaper in 1806.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/word_%27cocktail%27_first"
+    },
+    {
+      "text": "A Boston shaker consists of two pieces — a metal tin and a mixing glass — while a cobbler shaker has three pieces including a built-in strainer.",
+      "source": "https://en.wikipedia.org/wiki/A_Boston"
+    },
+    {
+      "text": "Tequila is made from the blue agave plant, which takes 8 to 12 years to mature before harvesting.",
+      "source": "https://en.wikipedia.org/wiki/Tequila"
+    },
+    {
+      "text": "The Negroni was invented in Florence, Italy, in 1919 when Count Camillo Negroni asked for his Americano to be made with gin instead of soda water.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Negroni"
+    },
+    {
+      "text": "IPA stands for India Pale Ale, originally brewed with extra hops to survive the long sea voyage from England to India.",
+      "source": "https://en.wikipedia.org/wiki/India_Pale_Ale"
+    },
+    {
+      "text": "The Hawthorne strainer gets its name from a bar in Boston where it was reportedly first used.",
+      "source": "https://en.wikipedia.org/wiki/Hawthorne_strainer_gets_its_name_from_a_bar_in_Boston_where_it"
+    },
+    {
+      "text": "Cognac is a type of brandy that must be produced in the Cognac region of France using specific grape varieties and distillation methods.",
+      "source": "https://en.wikipedia.org/wiki/Cognac"
+    },
+    {
+      "text": "National Cocktail Day is celebrated on March 24 each year in the United States.",
+      "month": 3,
+      "day": 24,
+      "source": "https://en.wikipedia.org/wiki/National_Cocktail_Day"
+    },
+    {
+      "text": "Mezcal is the broader category of agave spirits, and tequila is technically a type of mezcal.",
+      "source": "https://en.wikipedia.org/wiki/Mezcal"
+    },
+    {
+      "text": "The Daiquiri was named after a beach near Santiago de Cuba where it was supposedly first mixed.",
+      "source": "https://en.wikipedia.org/wiki/Daiquiri"
+    },
+    {
+      "text": "Seedlip, launched in 2015, is widely credited as the world's first distilled non-alcoholic spirit.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Seedlip%2C_launched_in_2015"
+    },
+    {
+      "text": "The term 'proof' originated in 18th-century England when sailors would test rum by dousing gunpowder with it — if it still ignited, it was 'proof' of sufficient alcohol content.",
+      "source": "https://en.wikipedia.org/wiki/Drinking_%26_Mixology"
+    },
+    {
+      "text": "A muddler is used to gently crush herbs, fruits, and spices in the bottom of a glass to release their essential oils and flavors.",
+      "source": "https://en.wikipedia.org/wiki/A_muddler"
+    },
+    {
+      "text": "The Margarita is the most popular cocktail in the United States and has been for decades.",
+      "source": "https://en.wikipedia.org/wiki/Margarita"
+    },
+    {
+      "text": "Stout beer gets its dark color and roasted flavor from the use of roasted barley or malt.",
+      "source": "https://en.wikipedia.org/wiki/Drinking_%26_Mixology"
+    },
+    {
+      "text": "The Manhattan cocktail dates to the 1870s and is traditionally made with rye whiskey, sweet vermouth, and Angostura bitters.",
+      "source": "https://en.wikipedia.org/wiki/Manhattan_cocktail_dates_to_the_1870s_and"
+    },
+    {
+      "text": "Jack Daniel's Tennessee Whiskey was first registered in 1866 in Lynchburg, Tennessee.",
+      "month": 9,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/Jack_Daniel%27s_Tennessee_Whiskey"
+    },
+    {
+      "text": "The Dead Rabbit in New York City has been named one of the world's best bars multiple times.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Dead_Rabbit_in_New_York_City"
+    },
+    {
+      "text": "Gin gets its primary flavor from juniper berries, and the name 'gin' is derived from the Dutch word 'jenever.'",
+      "source": "https://en.wikipedia.org/wiki/Gin_gets_its_primary_flavor_from_juniper_berries%2C_and_the_name_%27gin"
+    },
+    {
+      "text": "Absinthe was banned in many countries in the early 1900s due to fears about thujone, a compound in wormwood, but most bans have since been lifted.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Absinthe"
+    },
+    {
+      "text": "A proper Mojito requires white rum, fresh lime juice, sugar, soda water, and muddled mint leaves.",
+      "source": "https://en.wikipedia.org/wiki/Drinking_%26_Mixology"
+    },
+    {
+      "text": "The Sazerac, often called the oldest American cocktail, originated in New Orleans in the mid-1800s.",
+      "source": "https://en.wikipedia.org/wiki/Sazerac%2C_often"
+    },
+    {
+      "text": "Wine has been produced for over 8,000 years, with the earliest evidence found in the country of Georgia.",
+      "source": "https://en.wikipedia.org/wiki/Wine"
+    },
+    {
+      "text": "Oktoberfest traditionally begins in mid-September and runs for about 16 to 18 days, ending on the first Sunday in October.",
+      "month": 9,
+      "day": 19,
+      "source": "https://en.wikipedia.org/wiki/September_and"
+    },
+    {
+      "text": "The Cosmopolitan gained massive popularity in the 1990s partly due to its frequent appearance on the TV show Sex and the City.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Cosmopolitan"
+    },
+    {
+      "text": "Craft beer is generally defined as beer made by a small, independent brewery that produces fewer than 6 million barrels per year.",
+      "source": "https://en.wikipedia.org/wiki/Craft_beer"
+    },
+    {
+      "text": "The Sidecar is a classic cocktail made with cognac, orange liqueur, and lemon juice, believed to have originated in Paris around World War I.",
+      "source": "https://en.wikipedia.org/wiki/Sidecar"
+    },
+    {
+      "text": "Dry ice should never be added directly to a drink for consumption — it must fully sublimate before the drink is safe to sip.",
+      "source": "https://en.wikipedia.org/wiki/Drinking_%26_Mixology"
+    },
+    {
+      "text": "Angostura bitters were originally created in 1824 as a medicinal tonic by a German doctor in Venezuela.",
+      "source": "https://en.wikipedia.org/wiki/Angostura_bitters"
+    },
+    {
+      "text": "Repeal Day, December 5, celebrates the end of Prohibition in 1933 with the ratification of the 21st Amendment.",
+      "month": 12,
+      "day": 5,
+      "source": "https://en.wikipedia.org/wiki/Repeal_Day"
+    },
+    {
+      "text": "The Tom Collins is a gin-based cocktail named after a famous 1874 hoax in which people were told a man named Tom Collins was talking about them in a nearby bar.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Tom_Collins"
+    },
+    {
+      "text": "Vodka, which means 'little water' in Russian, is traditionally made from fermented grains or potatoes.",
+      "source": "https://en.wikipedia.org/wiki/Vodka%2C_which_means_%27little_water%27_in_Russian"
+    },
+    {
+      "text": "A sommelier is a trained wine professional who specializes in all aspects of wine service, including pairing wine with food.",
+      "source": "https://en.wikipedia.org/wiki/A_sommelier"
+    },
+    {
+      "text": "The Mai Tai was created by Trader Vic in Oakland, California in 1944, and its name means 'the best' in Tahitian.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Mai_Tai"
+    },
+    {
+      "text": "Lager is fermented at cooler temperatures than ale, using bottom-fermenting yeast, which gives it a cleaner, crisper taste.",
+      "source": "https://en.wikipedia.org/wiki/Lager"
+    },
+    {
+      "text": "The Connaught Bar in London is consistently ranked among the top cocktail bars in the world.",
+      "source": "https://en.wikipedia.org/wiki/Connaught_Bar_in_London"
+    },
+    {
+      "text": "Rum is produced in more than 80 countries around the world, though the Caribbean remains its spiritual home.",
+      "source": "https://en.wikipedia.org/wiki/Rum"
+    },
+    {
+      "text": "National Beer Day in the United States is celebrated on April 7, marking the day in 1933 when beer with up to 3.2% ABV became legal again.",
+      "month": 4,
+      "day": 7,
+      "source": "https://en.wikipedia.org/wiki/National_Beer_Day_in_the_United_States"
+    },
+    {
+      "text": "The French 75 cocktail is named after the powerful French 75mm field gun used in World War I.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/French_75_cocktail"
+    },
+    {
+      "text": "Pinot Noir is often considered one of the most difficult grapes to grow, requiring very specific climate and soil conditions.",
+      "source": "https://en.wikipedia.org/wiki/Pinot_Noir"
+    },
+    {
+      "text": "A bar spoon is typically 10 to 12 inches long with a twisted handle designed for stirring cocktails smoothly in a mixing glass.",
+      "source": "https://en.wikipedia.org/wiki/A_bar_spoon"
+    },
+    {
+      "text": "The Whiskey Sour dates back to at least 1862 and is one of the first cocktails to appear in print in a bartending guide.",
+      "source": "https://en.wikipedia.org/wiki/Whiskey_Sour_dates_back_to_at_least_1862_and"
+    },
+    {
+      "text": "Hennessy, the world's best-selling cognac, was founded in 1765 by an Irishman named Richard Hennessy.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Hennessy%2C_the_world%27s_best-selling_cognac"
+    },
+    {
+      "text": "Triple sec, Cointreau, and Grand Marnier are all orange-flavored liqueurs commonly used in cocktails.",
+      "source": "https://en.wikipedia.org/wiki/Triple_sec%2C_Cointreau%2C_and_Grand_Marnier"
+    },
+    {
+      "text": "The practice of clinking glasses together is said to date back to medieval times, when drinks were poured into each other's cups to prove they weren't poisoned.",
+      "source": "https://en.wikipedia.org/wiki/practice_of_clinking_glasses_together"
+    },
+    {
+      "text": "An ABV of 40% means that 40% of the liquid in the bottle is pure ethanol.",
+      "source": "https://en.wikipedia.org/wiki/An_ABV_of_40%25_means_that_40%25_of_the_liquid_in_the_bottle"
+    },
+    {
+      "text": "The Mint Julep has been the official drink of the Kentucky Derby since 1938.",
+      "month": 5,
+      "day": 2,
+      "source": "https://en.wikipedia.org/wiki/Mint_Julep"
+    },
+    {
+      "text": "Homebrewing became legal in all 50 US states only in 2013, when Mississippi and Alabama finally legalized it.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Homebrewing"
+    },
+    {
+      "text": "Shaking a cocktail not only mixes the ingredients but also aerates and chills the drink more rapidly than stirring.",
+      "source": "https://en.wikipedia.org/wiki/Drinking_%26_Mixology"
+    },
+    {
+      "text": "Bordeaux, France produces more wine than any other region in the world and is divided into Left Bank and Right Bank areas.",
+      "source": "https://en.wikipedia.org/wiki/Bordeaux%2C_France_produces_more_wine_than_any_other_region_in_the_world_and"
+    },
+    {
+      "text": "A Pilsner is a type of pale lager that originated in the city of Plzeň in what is now the Czech Republic in 1842.",
+      "source": "https://en.wikipedia.org/wiki/A_Pilsner"
+    },
+    {
+      "text": "The concept of happy hour originated in the United States Navy in the 1920s, when sailors would enjoy entertainment and drinks before dinner.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/United_States_Navy_in_the"
+    },
+    {
+      "text": "Grey Goose vodka was created in 1997 by an American businessman specifically to capture the luxury vodka market in the US.",
+      "source": "https://en.wikipedia.org/wiki/Grey_Goose_vodka"
+    },
+    {
+      "text": "Flaming cocktails use high-proof spirits that are ignited for dramatic effect, but the flame should always be extinguished before drinking.",
+      "source": "https://en.wikipedia.org/wiki/Flaming_cocktails_use_high-proof_spirits_that"
+    },
+    {
+      "text": "Vermouth is a fortified wine flavored with various botanicals and comes in sweet (rosso) and dry varieties.",
+      "source": "https://en.wikipedia.org/wiki/Vermouth"
+    },
+    {
+      "text": "The world's oldest known recipe for beer comes from ancient Sumer in Mesopotamia, dating to around 3900 BCE.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Sumer_in_Mesopotamia"
+    },
+    {
+      "text": "Bacardi was founded in Santiago de Cuba in 1862 by Don Facundo Bacardí Massó, a Spanish immigrant.",
+      "month": 2,
+      "day": 4,
+      "source": "https://en.wikipedia.org/wiki/Bacardi"
+    },
+    {
+      "text": "A Gimlet is traditionally made with gin and Rose's lime juice, though many modern bartenders now use fresh lime juice.",
+      "source": "https://en.wikipedia.org/wiki/A_Gimlet"
+    },
+    {
+      "text": "The 'legs' or 'tears' you see running down the inside of a wine glass are caused by the Marangoni effect and indicate alcohol content rather than quality.",
+      "source": "https://en.wikipedia.org/wiki/%27legs%27_or_%27tears%27_you_see_running_down_the_inside_of_a_wine_glass"
+    },
+    {
+      "text": "Ice is considered the most important ingredient in cocktail making — it controls temperature, dilution, and presentation.",
+      "source": "https://en.wikipedia.org/wiki/Ice"
+    },
+    {
+      "text": "The Prohibition era gave rise to thousands of speakeasies across the United States, with an estimated 100,000 in New York City alone.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Prohibition_era"
+    },
+    {
+      "text": "Rye whiskey must contain at least 51% rye grain in its mash bill and is known for its spicier, more robust flavor compared to bourbon.",
+      "source": "https://en.wikipedia.org/wiki/Rye_whiskey_must_contain_at_least_51%25_rye_grain_in_its_mash_bill_and"
+    },
+    {
+      "text": "The Harvey Wallbanger, a vodka and orange juice cocktail topped with Galliano, was hugely popular in the 1970s.",
+      "source": "https://en.wikipedia.org/wiki/Harvey_Wallbanger%2C_a_vodka_and_orange_juice_cocktail_topped_with_Galliano"
+    },
+    {
+      "text": "Wine ratings on a 100-point scale were popularized by Robert Parker and his publication The Wine Advocate starting in the 1980s.",
+      "source": "https://en.wikipedia.org/wiki/Wine_ratings_on_a_100-point_scale"
+    },
+    {
+      "text": "National Margarita Day is celebrated on February 22 each year.",
+      "month": 2,
+      "day": 22,
+      "source": "https://en.wikipedia.org/wiki/National_Margarita_Day"
+    },
+    {
+      "text": "The espresso martini was invented in 1983 by London bartender Dick Bradsell when a young model asked for something that would 'wake me up and then mess me up.'",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/espresso_martini"
+    },
+    {
+      "text": "Bitters are concentrated flavoring agents made from herbs, bark, roots, and fruit, used in tiny amounts to add complexity to cocktails.",
+      "source": "https://en.wikipedia.org/wiki/Bitters"
+    },
+    {
+      "text": "A highball is any cocktail made with a spirit and a larger proportion of a non-alcoholic mixer, served in a tall glass with ice.",
+      "source": "https://en.wikipedia.org/wiki/A_highball"
+    },
+    {
+      "text": "The Dark 'n' Stormy is a trademarked cocktail that legally must be made with Gosling's Black Seal rum.",
+      "source": "https://en.wikipedia.org/wiki/Dark_%27n%27_Stormy"
+    },
+    {
+      "text": "Sake is not technically a wine or a spirit but rather a brewed beverage made from polished rice through a unique fermentation process.",
+      "source": "https://en.wikipedia.org/wiki/Sake"
+    },
+    {
+      "text": "Jameson Irish Whiskey was founded in 1780 by John Jameson in Dublin, Ireland.",
+      "month": 7,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/Jameson_Irish_Whiskey"
+    },
+    {
+      "text": "The Julep strainer was originally designed for drinkers to hold back ice and mint while sipping, not as a bartender's tool.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Julep_strainer"
+    },
+    {
+      "text": "Napa Valley became internationally famous after the 1976 Judgment of Paris, when California wines beat French wines in a blind tasting.",
+      "source": "https://en.wikipedia.org/wiki/Napa_Valley"
+    },
+    {
+      "text": "A dash of bitters is roughly equivalent to 6 to 8 drops, or about 1/32 of an ounce.",
+      "source": "https://en.wikipedia.org/wiki/A_dash_of_bitters"
+    },
+    {
+      "text": "The Bramble cocktail was created in 1984 by Dick Bradsell at Fred's Club in London using gin, lemon juice, sugar syrup, and crème de mûre.",
+      "source": "https://en.wikipedia.org/wiki/Bramble_cocktail"
+    },
+    {
+      "text": "Tequila must be produced in specific regions of Mexico, primarily in the state of Jalisco, to be labeled as tequila.",
+      "source": "https://en.wikipedia.org/wiki/Drinking_%26_Mixology"
+    },
+    {
+      "text": "During Prohibition, doctors could prescribe whiskey for medicinal purposes, and pharmacies like Walgreens grew enormously as a result.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/During_Prohibition"
+    },
+    {
+      "text": "A coupe glass, now popular for cocktails, was originally designed for Champagne and is rumored to have been modeled after Marie Antoinette's breast.",
+      "source": "https://en.wikipedia.org/wiki/A_coupe_glass%2C_now_popular_for_cocktails"
+    },
+    {
+      "text": "The Gibson cocktail is essentially a Martini garnished with a cocktail onion instead of an olive or lemon twist.",
+      "source": "https://en.wikipedia.org/wiki/Gibson_cocktail"
+    },
+    {
+      "text": "Barossa Valley in South Australia is world-renowned for its Shiraz wines and has some of the oldest vines in the world.",
+      "source": "https://en.wikipedia.org/wiki/Barossa_Valley_in_South_Australia"
+    },
+    {
+      "text": "The Penicillin cocktail, made with blended Scotch, lemon, honey-ginger syrup, and a float of Islay Scotch, was created by Sam Ross in 2005.",
+      "source": "https://en.wikipedia.org/wiki/Penicillin"
+    },
+    {
+      "text": "Moonshine gets its name because it was traditionally distilled at night by the light of the moon to avoid detection by law enforcement.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Moonshine_gets_its_name_because_it"
+    },
+    {
+      "text": "A fine strainer or tea strainer is used in addition to a Hawthorne strainer to double-strain shaken cocktails, removing small ice chips and pulp.",
+      "source": "https://en.wikipedia.org/wiki/A_fine_strainer_or_tea_strainer"
+    },
+    {
+      "text": "The Aperol Spritz became a global phenomenon in the 2010s, though it has been a popular aperitivo in Italy since the 1950s.",
+      "source": "https://en.wikipedia.org/wiki/Aperol_Spritz"
+    },
+    {
+      "text": "World Whisky Day is celebrated on the third Saturday of May each year.",
+      "month": 5,
+      "day": 16,
+      "source": "https://en.wikipedia.org/wiki/World_Whisky_Day"
+    },
+    {
+      "text": "Rum runners were smugglers who brought rum and other spirits from the Caribbean into the United States during Prohibition.",
+      "source": "https://en.wikipedia.org/wiki/Rum_runners"
+    },
+    {
+      "text": "The Bloody Mary was allegedly invented at Harry's New York Bar in Paris in the 1920s.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Bloody_Mary"
+    },
+    {
+      "text": "Port wine is a Portuguese fortified wine from the Douro Valley, traditionally served as a dessert wine.",
+      "source": "https://en.wikipedia.org/wiki/Port_wine"
+    },
+    {
+      "text": "Clear ice is made by using directional freezing, which forces impurities and air bubbles to one side, resulting in crystal-clear blocks.",
+      "source": "https://en.wikipedia.org/wiki/Clear_ice"
+    },
+    {
+      "text": "The Paloma, made with tequila and grapefruit soda, is actually more popular than the Margarita in Mexico.",
+      "source": "https://en.wikipedia.org/wiki/Paloma%2C_made_with_tequila_and_grapefruit_soda"
+    },
+    {
+      "text": "Bourbon gets its name from Bourbon County, Kentucky, though today it can legally be produced anywhere in the United States.",
+      "source": "https://en.wikipedia.org/wiki/Bourbon_County"
+    },
+    {
+      "text": "The first known cocktail book, 'How to Mix Drinks' by Jerry Thomas, was published in 1862.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/first_known_cocktail_book%2C_%27How_to_Mix_Drinks%27_by_Jerry_Thomas"
+    },
+    {
+      "text": "Pisco Sour, the national drink of both Peru and Chile, is made from pisco, lime juice, simple syrup, egg white, and bitters.",
+      "source": "https://en.wikipedia.org/wiki/Pisco_Sour%2C_the_national_drink_of_both_Peru_and_Chile"
+    },
+    {
+      "text": "Campari gets its distinctive bitter flavor and red color from a proprietary recipe that includes a blend of herbs, spices, and fruit.",
+      "source": "https://en.wikipedia.org/wiki/Campari_gets_its_distinctive_bitter_flavor_and_red_color_from_a_proprietary_recipe_that"
+    },
+    {
+      "text": "A rocks glass, also called an Old Fashioned glass or lowball, typically holds 6 to 10 ounces and is used for spirits served neat or on the rocks.",
+      "source": "https://en.wikipedia.org/wiki/A_rocks_glass%2C_also"
+    },
+    {
+      "text": "The temperance movement in the United States began in the early 19th century and was a major force behind the passage of the 18th Amendment.",
+      "source": "https://en.wikipedia.org/wiki/temperance_movement_in_the_United_States_began_in_the_early_19th_century_and"
+    },
+    {
+      "text": "Patrón tequila was founded in 1989 by John Paul DeJoria and Martin Crowley.",
+      "month": 1,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/Patr%C3%B3n_tequila"
+    },
+    {
+      "text": "The Last Word cocktail, made with gin, green Chartreuse, maraschino liqueur, and lime juice, was forgotten for decades before being revived in 2004 at the Zig Zag Café in Seattle.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Last_Word"
+    },
+    {
+      "text": "Fermentation is the process by which yeast converts sugars into alcohol and carbon dioxide — the fundamental chemical reaction behind all alcoholic beverages.",
+      "source": "https://en.wikipedia.org/wiki/Fermentation"
+    },
+    {
+      "text": "Islay Scotch is known for its intensely peaty, smoky flavor, which comes from drying malted barley over peat fires.",
+      "source": "https://en.wikipedia.org/wiki/Islay_Scotch"
+    },
+    {
+      "text": "Tiki bars originated in the 1930s with Don the Beachcomber in Hollywood and Trader Vic's in Oakland, popularizing tropical cocktails in America.",
+      "source": "https://en.wikipedia.org/wiki/Don_the_Beachcomber_in_Hollywood_and_Trader_Vic%27s"
+    },
+    {
+      "text": "The Singapore Sling was created at the Long Bar in the Raffles Hotel in Singapore around 1915.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Singapore_Sling"
+    },
+    {
+      "text": "A Collins glass is taller and narrower than a highball glass, designed specifically for the Tom Collins and similar drinks.",
+      "source": "https://en.wikipedia.org/wiki/A_Collins_glass"
+    },
+    {
+      "text": "Champagne is made using the méthode champenoise, which involves a secondary fermentation in the bottle to create bubbles.",
+      "source": "https://en.wikipedia.org/wiki/Champagne"
+    },
+    {
+      "text": "National Scotch Day is observed on July 27 each year.",
+      "month": 7,
+      "day": 27,
+      "source": "https://en.wikipedia.org/wiki/National_Scotch_Day"
+    },
+    {
+      "text": "Orange bitters were once as common as Angostura bitters in classic cocktails but nearly disappeared during Prohibition.",
+      "source": "https://en.wikipedia.org/wiki/Orange_bitters"
+    },
+    {
+      "text": "The 'sober curious' movement encourages people to question their relationship with alcohol without requiring total abstinence.",
+      "source": "https://en.wikipedia.org/wiki/Drinking_%26_Mixology"
+    },
+    {
+      "text": "Genever, the predecessor to modern gin, is a Dutch and Belgian spirit that tastes maltier and more complex than London Dry gin.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Genever%2C_the_predecessor_to_modern_gin"
+    },
+    {
+      "text": "A float is a cocktail technique where a spirit or liqueur is gently poured over the back of a bar spoon so it sits on top of the drink.",
+      "source": "https://en.wikipedia.org/wiki/A_float"
+    },
+    {
+      "text": "Cabernet Sauvignon is the most widely planted red wine grape in the world.",
+      "source": "https://en.wikipedia.org/wiki/Cabernet_Sauvignon"
+    },
+    {
+      "text": "The Aviation cocktail, made with gin, maraschino liqueur, and crème de violette, is known for its distinctive pale purple color.",
+      "source": "https://en.wikipedia.org/wiki/Aviation_cocktail%2C_made_with_gin%2C_maraschino_liqueur%2C_and_cr%C3%A8me_de_violette"
+    },
+    {
+      "text": "During Prohibition, grape juice concentrate was sold with a warning label that conveniently explained exactly how NOT to turn it into wine.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/During_Prohibition%2C_grape_juice_concentrate"
+    },
+    {
+      "text": "Mezcal's smoky flavor comes from roasting agave hearts (piñas) in underground pit ovens before fermentation.",
+      "source": "https://en.wikipedia.org/wiki/Drinking_%26_Mixology"
+    },
+    {
+      "text": "The Vieux Carré cocktail is named after the French Quarter in New Orleans, where it was invented at the Hotel Monteleone's Carousel Bar.",
+      "source": "https://en.wikipedia.org/wiki/Vieux_Carr%C3%A9_cocktail"
+    },
+    {
+      "text": "Sake brewing uses a process called multiple parallel fermentation, where starch conversion and sugar fermentation happen simultaneously.",
+      "source": "https://en.wikipedia.org/wiki/Sake_brewing_uses_a_process"
+    },
+    {
+      "text": "The Guinness brewery at St. James's Gate in Dublin signed a 9,000-year lease in 1759.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Guinness_brewery_at_St._James%27s_Gate_in_Dublin"
+    },
+    {
+      "text": "National Rum Day falls on August 16.",
+      "month": 8,
+      "day": 16,
+      "source": "https://en.wikipedia.org/wiki/National_Rum_Day"
+    },
+    {
+      "text": "The Corpse Reviver No. 2 was originally intended as a hangover cure and appears in Harry Craddock's 1930 Savoy Cocktail Book.",
+      "source": "https://en.wikipedia.org/wiki/Corpse_Reviver_No._2"
+    },
+    {
+      "text": "A mixing glass is used for stirred cocktails, which are typically spirit-forward drinks without citrus or cream, like Martinis and Manhattans.",
+      "source": "https://en.wikipedia.org/wiki/A_mixing_glass"
+    },
+    {
+      "text": "Prosecco is made using the Charmat method, where secondary fermentation takes place in large steel tanks rather than individual bottles.",
+      "source": "https://en.wikipedia.org/wiki/Prosecco"
+    },
+    {
+      "text": "The Bee's Knees cocktail was popular during Prohibition because the honey and lemon helped mask the taste of low-quality bathtub gin.",
+      "source": "https://en.wikipedia.org/wiki/Bee%27s_Knees_cocktail"
+    },
+    {
+      "text": "Sambuca, the Italian anise-flavored liqueur, is traditionally served with three coffee beans representing health, happiness, and prosperity.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Sambuca%2C_the_Italian_anise-flavored_liqueur"
+    },
+    {
+      "text": "Craft distilleries in the United States grew from fewer than 100 in 2005 to over 2,000 by 2020.",
+      "source": "https://en.wikipedia.org/wiki/Craft_distilleries_in_the_United_States"
+    },
+    {
+      "text": "Five-spice bourbon uses cinnamon, star anise, clove, fennel, and Sichuan peppercorn to create an Asian-inspired infusion.",
+      "source": "https://en.wikipedia.org/wiki/Drinking_%26_Mixology"
+    },
+    {
+      "text": "The Zombie cocktail, created by Donn Beach in the 1930s, was so strong that his bar limited customers to two per visit.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Zombie_cocktail"
+    },
+    {
+      "text": "A Lewis bag is a canvas bag used to crush ice with a mallet, traditionally used for making Juleps and other crushed-ice drinks.",
+      "source": "https://en.wikipedia.org/wiki/A_Lewis_bag"
+    },
+    {
+      "text": "Riesling is an aromatic white grape variety that ranges from bone-dry to lusciously sweet, primarily grown in Germany and Alsace.",
+      "source": "https://en.wikipedia.org/wiki/Riesling"
+    },
+    {
+      "text": "National Tequila Day is celebrated on July 24.",
+      "month": 7,
+      "day": 24,
+      "source": "https://en.wikipedia.org/wiki/National_Tequila_Day"
+    },
+    {
+      "text": "The term 'on the rocks' simply means a spirit or cocktail served over ice cubes.",
+      "source": "https://en.wikipedia.org/wiki/Drinking_%26_Mixology"
+    },
+    {
+      "text": "Chartreuse is made by Carthusian monks in France using a secret recipe of 130 herbs, plants, and flowers dating to 1737.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Chartreuse"
+    },
+    {
+      "text": "An egg white in cocktails creates a silky, frothy texture and is used in classic drinks like the Whiskey Sour and Pisco Sour.",
+      "source": "https://en.wikipedia.org/wiki/An_egg_white_in_cocktails_creates_a_silky%2C_frothy_texture_and"
+    },
+    {
+      "text": "The Boulevardier is essentially a Negroni with bourbon or rye whiskey substituted for gin.",
+      "source": "https://en.wikipedia.org/wiki/Boulevardier"
+    },
+    {
+      "text": "American whiskey labeled 'straight' must be aged for at least two years and contain no added flavoring or coloring.",
+      "source": "https://en.wikipedia.org/wiki/Drinking_%26_Mixology"
+    },
+    {
+      "text": "The Paper Plane cocktail was created by Sam Ross in 2007 and named after the M.I.A. song of the same name.",
+      "source": "https://en.wikipedia.org/wiki/Paper_Plane_cocktail"
+    },
+    {
+      "text": "Florería Atlántico in Buenos Aires, hidden behind a flower shop, has been ranked among the world's best bars.",
+      "source": "https://en.wikipedia.org/wiki/Florer%C3%ADa_Atl%C3%A1ntico_in_Buenos_Aires%2C_hidden_behind_a_flower_shop"
+    },
+    {
+      "text": "The 21st Amendment to the US Constitution, ratified on December 5, 1933, repealed Prohibition.",
+      "month": 12,
+      "day": 5,
+      "source": "https://en.wikipedia.org/wiki/Amendment_to_the_US_Constitution"
+    },
+    {
+      "text": "London Dry Gin is not required to be made in London — it's a style characterized by a lack of added sweeteners after distillation.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/London_Dry_Gin"
+    },
+    {
+      "text": "A speed rail or speed rack is the metal rack attached to the bar well where bartenders keep their most frequently used spirits.",
+      "source": "https://en.wikipedia.org/wiki/A_speed_rail_or_speed_rack"
+    },
+    {
+      "text": "Tuscany's Chianti region produces red wine primarily from the Sangiovese grape.",
+      "source": "https://en.wikipedia.org/wiki/Tuscany%27s_Chianti"
+    },
+    {
+      "text": "The Suffering Bastard cocktail was invented at the Long Bar of the Shepheard's Hotel in Cairo during World War II.",
+      "source": "https://en.wikipedia.org/wiki/Suffering_Bastard_cocktail"
+    },
+    {
+      "text": "Demerara sugar is a popular sweetener in cocktails, adding a richer, more complex sweetness than regular white sugar.",
+      "source": "https://en.wikipedia.org/wiki/Demerara_sugar"
+    },
+    {
+      "text": "Fernet-Branca, an intensely bitter Italian amaro, is the unofficial handshake drink of bartenders around the world.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Fernet-Branca%2C_an_intensely_bitter_Italian_amaro"
+    },
+    {
+      "text": "The Caipirinha is the national cocktail of Brazil, made with cachaça, sugar, and lime.",
+      "source": "https://en.wikipedia.org/wiki/Caipirinha"
+    },
+    {
+      "text": "National Vodka Day is celebrated on October 4.",
+      "month": 10,
+      "day": 4,
+      "source": "https://en.wikipedia.org/wiki/National_Vodka_Day"
+    },
+    {
+      "text": "Dry shaking means shaking a cocktail without ice first, typically done when using egg whites to create maximum foam.",
+      "source": "https://en.wikipedia.org/wiki/Drinking_%26_Mixology"
+    },
+    {
+      "text": "The phrase 'three-martini lunch' became a symbol of corporate excess in 1970s America.",
+      "source": "https://en.wikipedia.org/wiki/phrase_%27three-martini_lunch"
+    },
+    {
+      "text": "Japanese whisky has become one of the most sought-after spirits in the world since Suntory's Yamazaki won 'Best Whisky in the World' in 2014.",
+      "source": "https://en.wikipedia.org/wiki/Japanese_whisky"
+    },
+    {
+      "text": "The 86 rule in bartending means to refuse service or indicate that an item is no longer available — its origin is debated but may relate to Chumley's bar at 86 Bedford Street in New York.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/86_rule_in_bartending_means_to_refuse_service_or_indicate_that_an_item"
+    },
+    {
+      "text": "Natural wine is made with minimal intervention, using organic or biodynamic grapes and little or no added sulfites.",
+      "source": "https://en.wikipedia.org/wiki/Natural_wine"
+    },
+    {
+      "text": "The Hurricane cocktail was created at Pat O'Brien's bar in New Orleans during World War II as a way to use up surplus rum.",
+      "source": "https://en.wikipedia.org/wiki/Hurricane_cocktail"
+    },
+    {
+      "text": "Aquavit is a Scandinavian spirit flavored with caraway or dill seeds, traditionally consumed during festive occasions.",
+      "source": "https://en.wikipedia.org/wiki/Aquavit"
+    },
+    {
+      "text": "A channel knife is a bar tool used to cut long, thin spirals of citrus peel for garnishing cocktails.",
+      "source": "https://en.wikipedia.org/wiki/A_channel_knife"
+    },
+    {
+      "text": "The oldest known winery in the world was discovered in a cave in Armenia, dating to about 4100 BCE.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/oldest_known_winery_in_the_world"
+    },
+    {
+      "text": "National Wine Day occurs on May 25.",
+      "month": 5,
+      "day": 25,
+      "source": "https://en.wikipedia.org/wiki/National_Wine_Day"
+    },
+    {
+      "text": "Malbec, originally from France, has become Argentina's signature grape variety, particularly from the Mendoza region.",
+      "source": "https://en.wikipedia.org/wiki/Malbec%2C_originally_from_France"
+    },
+    {
+      "text": "A pousse-café is a layered cocktail created by carefully floating spirits and liqueurs of different densities on top of one another.",
+      "source": "https://en.wikipedia.org/wiki/A_pousse-caf%C3%A9"
+    },
+    {
+      "text": "The Sazerac was originally made with cognac before rye whiskey became the standard base spirit.",
+      "source": "https://en.wikipedia.org/wiki/Sazerac"
+    },
+    {
+      "text": "Club soda, seltzer, tonic water, and sparkling water are all different: tonic water contains quinine and sugar, while club soda has added minerals.",
+      "source": "https://en.wikipedia.org/wiki/Club_soda%2C_seltzer%2C_tonic_water%2C_and_sparkling_water"
+    },
+    {
+      "text": "In the UK, a 'pub' is short for 'public house,' and the tradition of public drinking houses dates back to Roman-era taverns.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/In_the_UK%2C_a_%27pub"
+    },
+    {
+      "text": "Oloroso sherry, a key ingredient in many craft cocktails, is aged oxidatively, giving it rich, nutty flavors.",
+      "source": "https://en.wikipedia.org/wiki/Oloroso_sherry%2C_a_key_ingredient_in_many_craft_cocktails"
+    },
+    {
+      "text": "The Hemingway Daiquiri, also called the Papa Doble, was Ernest Hemingway's preferred version and is made without sugar but with grapefruit juice and maraschino liqueur.",
+      "source": "https://en.wikipedia.org/wiki/Hemingway_Daiquiri%2C_also_called_the_Papa_Doble"
+    },
+    {
+      "text": "Stirred cocktails are typically spirit-forward and contain no citrus or dairy, while shaken cocktails usually include juice, cream, or eggs.",
+      "source": "https://en.wikipedia.org/wiki/Stirred_cocktails"
+    },
+    {
+      "text": "International Stout Day is the first Thursday of November.",
+      "month": 11,
+      "day": 5,
+      "source": "https://en.wikipedia.org/wiki/International_Stout_Day"
+    },
+    {
+      "text": "A copper mug keeps a Moscow Mule extra cold because copper conducts temperature more efficiently than glass.",
+      "source": "https://en.wikipedia.org/wiki/Moscow_Mule"
+    },
+    {
+      "text": "The Clover Club cocktail, made with gin, raspberry syrup, lemon juice, and egg white, predates Prohibition and was named after a Philadelphia men's club.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Clover_Club"
+    },
+    {
+      "text": "Sake is classified by its rice polishing ratio — the more the rice is polished, the more refined and expensive the sake.",
+      "source": "https://en.wikipedia.org/wiki/Sake"
+    },
+    {
+      "text": "Navy strength gin is bottled at 57% ABV, the minimum proof at which gunpowder soaked in gin would still ignite.",
+      "source": "https://en.wikipedia.org/wiki/Navy_strength_gin"
+    },
+    {
+      "text": "The world's most expensive cocktail, the Salvatore's Legacy, sold for over $8,000 and contained vintage spirits dating back to 1770.",
+      "source": "https://en.wikipedia.org/wiki/Salvatore%27s_Legacy"
+    },
+    {
+      "text": "Bénédictine is a herbal liqueur first produced in 1863 at the Benedictine Abbey of Fécamp in Normandy, France.",
+      "source": "https://en.wikipedia.org/wiki/B%C3%A9n%C3%A9dictine"
+    },
+    {
+      "text": "Maker's Mark bourbon is hand-dipped in its signature red wax, and the recipe has remained unchanged since 1953.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Maker%27s_Mark_bourbon"
+    },
+    {
+      "text": "Grappa is an Italian spirit made by distilling the pomace — the skins, seeds, and stems left over from winemaking.",
+      "source": "https://en.wikipedia.org/wiki/Grappa"
+    },
+    {
+      "text": "National Bourbon Day is celebrated on June 14.",
+      "month": 6,
+      "day": 14,
+      "source": "https://en.wikipedia.org/wiki/National_Bourbon_Day"
+    },
+    {
+      "text": "Fat-washing is a technique where melted fat (like bacon fat or butter) is mixed with a spirit, frozen, and then removed, leaving behind the fat's flavor.",
+      "source": "https://en.wikipedia.org/wiki/Fat-washing"
+    },
+    {
+      "text": "The Jungle Bird cocktail, featuring dark rum, Campari, and pineapple juice, was created at the Kuala Lumpur Hilton in 1978.",
+      "source": "https://en.wikipedia.org/wiki/Jungle_Bird_cocktail%2C_featuring_dark_rum%2C_Campari%2C_and_pineapple_juice"
+    },
+    {
+      "text": "Vermouth should be stored in the refrigerator after opening and consumed within a month, as it is a perishable wine-based product.",
+      "source": "https://en.wikipedia.org/wiki/Drinking_%26_Mixology"
+    },
+    {
+      "text": "El Floridita bar in Havana, Cuba, is known as 'La Cuna del Daiquiri' — the Cradle of the Daiquiri.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/El_Floridita_bar_in_Havana%2C_Cuba"
+    },
+    {
+      "text": "A jigger was named after an old word for a small measure, and it remains the most important tool for ensuring consistent cocktails.",
+      "source": "https://en.wikipedia.org/wiki/A_jigger"
+    },
+    {
+      "text": "The Bellini was invented at Harry's Bar in Venice, Italy in 1948 by Giuseppe Cipriani using white peach purée and Prosecco.",
+      "source": "https://en.wikipedia.org/wiki/Bellini"
+    },
+    {
+      "text": "Lambic is a Belgian beer style that undergoes spontaneous fermentation using wild yeast and bacteria from the air.",
+      "source": "https://en.wikipedia.org/wiki/Lambic"
+    },
+    {
+      "text": "Luxardo Maraschino Cherries, made from marasca cherries, are considered far superior to the bright-red supermarket variety.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Luxardo_Maraschino_Cherries%2C_made_from_marasca_cherries"
+    },
+    {
+      "text": "The Gold Rush cocktail, a modern classic made with bourbon, lemon juice, and honey syrup, was created at Milk & Honey in New York City.",
+      "source": "https://en.wikipedia.org/wiki/Gold_Rush_cocktail%2C_a_modern_classic_made_with_bourbon%2C_lemon_juice%2C_and_honey_syrup"
+    },
+    {
+      "text": "A coupe glass was originally designed for Champagne in 17th-century England before falling out of favor for flutes.",
+      "source": "https://en.wikipedia.org/wiki/A_coupe_glass"
+    },
+    {
+      "text": "Absinthe is traditionally served with an absinthe spoon, a sugar cube, and ice-cold water that is slowly dripped over the sugar.",
+      "source": "https://en.wikipedia.org/wiki/Absinthe"
+    },
+    {
+      "text": "National Gin and Tonic Day is celebrated on October 19.",
+      "month": 10,
+      "day": 19,
+      "source": "https://en.wikipedia.org/wiki/National_Gin_and_Tonic_Day"
+    },
+    {
+      "text": "The world's strongest beer, Snake Venom by Brewmeister, has an ABV of 67.5%.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/world%27s_strongest_beer%2C_Snake_Venom_by_Brewmeister"
+    },
+    {
+      "text": "Orgeat is an almond-flavored syrup used in tiki cocktails like the Mai Tai and the Japanese Cocktail.",
+      "source": "https://en.wikipedia.org/wiki/Orgeat"
+    },
+    {
+      "text": "Allspice dram, also known as pimento dram, is a rum-based liqueur flavored with allspice berries, popular in tiki drinks.",
+      "source": "https://en.wikipedia.org/wiki/Allspice_dram%2C_also_known_as_pimento_dram"
+    },
+    {
+      "text": "The Ramos Gin Fizz requires 12 minutes of vigorous shaking to achieve its signature frothy texture.",
+      "source": "https://en.wikipedia.org/wiki/Ramos_Gin_Fizz"
+    },
+    {
+      "text": "Amaro is an Italian herbal liqueur traditionally consumed as an after-dinner digestif, with over 100 varieties produced across Italy.",
+      "source": "https://en.wikipedia.org/wiki/Amaro"
+    },
+    {
+      "text": "The Prohibition-era speakeasy got its name because patrons had to 'speak easy' or keep their voices down to avoid drawing attention from police.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Prohibition-era_speakeasy_got_its_name_because_patrons"
+    },
+    {
+      "text": "Fino sherry from Jerez, Spain is one of the driest wines in the world and is protected by a layer of flor yeast during aging.",
+      "source": "https://en.wikipedia.org/wiki/Fino_sherry_from_Jerez%2C_Spain"
+    },
+    {
+      "text": "A Rickey is a simple cocktail format of a spirit, lime juice, and soda water — the Gin Rickey is the most famous version.",
+      "source": "https://en.wikipedia.org/wiki/A_Rickey"
+    },
+    {
+      "text": "Dewar's White Label, one of the best-selling blended Scotch whiskies, was first blended in 1899.",
+      "source": "https://en.wikipedia.org/wiki/Dewar%27s_White_Label%2C_one_of_the_best-selling_blended_Scotch_whiskies"
+    },
+    {
+      "text": "The term 'neat' means a spirit poured directly into a glass at room temperature with no ice, water, or mixer.",
+      "source": "https://en.wikipedia.org/wiki/Drinking_%26_Mixology"
+    },
+    {
+      "text": "Prohibition led to a mass exodus of American bartenders to Europe, Cuba, and other countries, spreading cocktail culture globally.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Drinking_%26_Mixology"
+    },
+    {
+      "text": "National Absinthe Day is celebrated on March 5.",
+      "month": 3,
+      "day": 5,
+      "source": "https://en.wikipedia.org/wiki/National_Absinthe_Day"
+    },
+    {
+      "text": "Frozen cocktails became popular in the 1950s after the invention of the frozen drink machine by dairy equipment manufacturers.",
+      "source": "https://en.wikipedia.org/wiki/Frozen_cocktails"
+    },
+    {
+      "text": "Curaçao, the blue liqueur, gets its color from artificial dyes — the actual flavor comes from the dried peel of the laraha citrus fruit.",
+      "source": "https://en.wikipedia.org/wiki/Drinking_%26_Mixology"
+    },
+    {
+      "text": "A swizzle stick was originally a branch from the Quararibea turbinata tree in the Caribbean, used to mix cocktails by rolling it between the palms.",
+      "source": "https://en.wikipedia.org/wiki/A_swizzle_stick"
+    },
+    {
+      "text": "The Hanky Panky cocktail was created by Ada 'Coley' Coleman, head bartender at the Savoy Hotel in London in the early 1900s, making her one of the first famous female bartenders.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Hanky_Panky_cocktail"
+    },
+    {
+      "text": "Japanese bartending emphasizes precision, hard ice carving, and the 'omotenashi' philosophy of selfless hospitality.",
+      "source": "https://en.wikipedia.org/wiki/Drinking_%26_Mixology"
+    },
+    {
+      "text": "An Old Fashioned is traditionally made with bourbon or rye, sugar, Angostura bitters, and a twist of orange peel.",
+      "source": "https://en.wikipedia.org/wiki/An_Old_Fashioned"
+    },
+    {
+      "text": "Breweries in Germany must follow the Reinheitsgebot, or Beer Purity Law, enacted in 1516, which limits beer ingredients to water, barley, and hops.",
+      "source": "https://en.wikipedia.org/wiki/Breweries_in_Germany"
+    },
+    {
+      "text": "The Gimlet is said to have been created by British Royal Navy sailors who mixed gin with lime cordial to prevent scurvy.",
+      "source": "https://en.wikipedia.org/wiki/Gimlet"
+    },
+    {
+      "text": "National Irish Coffee Day is celebrated on January 25.",
+      "month": 1,
+      "day": 25,
+      "source": "https://en.wikipedia.org/wiki/National_Irish_Coffee_Day"
+    },
+    {
+      "text": "The world consumes approximately 36 billion liters of beer per year.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Drinking_%26_Mixology"
+    },
+    {
+      "text": "Falernum is a sweet syrup or liqueur used in Caribbean and tiki cocktails, flavored with lime, almond, clove, and ginger.",
+      "source": "https://en.wikipedia.org/wiki/Falernum"
+    },
+    {
+      "text": "The Blood and Sand cocktail is named after a 1922 Rudolph Valentino film and uses Scotch, sweet vermouth, Cherry Heering, and orange juice.",
+      "source": "https://en.wikipedia.org/wiki/Blood_and_Sand_cocktail"
+    },
+    {
+      "text": "Soju is the best-selling spirit in the world by volume, primarily consumed in South Korea.",
+      "source": "https://en.wikipedia.org/wiki/Soju"
+    },
+    {
+      "text": "A punch bowl cocktail tradition dates back to the 1600s, when sailors would combine spirits with citrus, sugar, water, and spice.",
+      "source": "https://en.wikipedia.org/wiki/Drinking_%26_Mixology"
+    },
+    {
+      "text": "The Trident cocktail uses equal parts aquavit, dry sherry, and Cynar — three unusual base ingredients.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Trident"
+    },
+    {
+      "text": "Frangelico is an Italian hazelnut liqueur that comes in a distinctive monk-shaped bottle.",
+      "source": "https://en.wikipedia.org/wiki/Frangelico"
+    },
+    {
+      "text": "Pewter tankards were the standard drinking vessel in medieval England for ale.",
+      "source": "https://en.wikipedia.org/wiki/Pewter_tankards"
+    },
+    {
+      "text": "The Ranch Water cocktail, made with tequila, lime juice, and Topo Chico, became a nationwide trend from Texas.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Ranch_Water_cocktail%2C_made_with_tequila%2C_lime_juice%2C_and_Topo_Chico"
+    },
+    {
+      "text": "Tempranillo is Spain's most important red grape variety and the backbone of Rioja wines.",
+      "source": "https://en.wikipedia.org/wiki/Tempranillo"
+    },
+    {
+      "text": "International Whiskey Day is celebrated on March 27.",
+      "month": 3,
+      "day": 27,
+      "source": "https://en.wikipedia.org/wiki/International_Whiskey_Day"
+    },
+    {
+      "text": "A muddled cocktail like the Caipirinha requires gentle pressing rather than aggressive mashing to avoid releasing bitter compounds from the citrus pith.",
+      "source": "https://en.wikipedia.org/wiki/Drinking_%26_Mixology"
+    },
+    {
+      "text": "The Tommy's Margarita, created at Tommy's Mexican Restaurant in San Francisco, uses agave nectar instead of triple sec.",
+      "source": "https://en.wikipedia.org/wiki/Tommy%27s_Margarita"
+    },
+    {
+      "text": "Bathtub gin gets its name from the Prohibition era, when people would distill gin in their bathtubs using juniper oil and grain alcohol.",
+      "source": "https://en.wikipedia.org/wiki/Drinking_%26_Mixology"
+    },
+    {
+      "text": "Cask strength or barrel proof whiskey is bottled directly from the barrel without dilution and can be 60% ABV or higher.",
+      "source": "https://en.wikipedia.org/wiki/Cask_strength_or_barrel_proof_whiskey"
+    },
+    {
+      "text": "The first cocktail party is credited to Mrs. Julius S. Walsh Jr. of St. Louis, Missouri, who hosted one in 1917.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/first_cocktail_party"
+    },
+    {
+      "text": "A Nick & Nora glass is a smaller, more elegant alternative to the coupe, named after the characters in the 1934 film The Thin Man.",
+      "source": "https://en.wikipedia.org/wiki/A_Nick_%26_Nora_glass"
+    },
+    {
+      "text": "World Cocktail Day is celebrated on May 13, the date when the first definition of a cocktail was published in 1806.",
+      "month": 5,
+      "day": 13,
+      "source": "https://en.wikipedia.org/wiki/World_Cocktail_Day"
+    },
+    {
+      "text": "The Vesper Martini was invented by James Bond author Ian Fleming and appears in the 1953 novel Casino Royale.",
+      "source": "https://en.wikipedia.org/wiki/Vesper_Martini"
+    },
+    {
+      "text": "Cachaça is Brazil's most popular spirit and is made from fresh sugarcane juice, distinguishing it from most rums that use molasses.",
+      "source": "https://en.wikipedia.org/wiki/Cacha%C3%A7a"
+    },
+    {
+      "text": "Dry vermouth is a key ingredient in a classic Martini, and the ratio of vermouth to gin has decreased dramatically over the decades.",
+      "source": "https://en.wikipedia.org/wiki/Dry_vermouth"
+    },
+    {
+      "text": "The world's oldest pub, Ye Olde Fighting Cocks in St. Albans, England, claims to date back to 793 AD.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Ye_Olde_Fighting_Cocks_in_St._Albans"
+    },
+    {
+      "text": "Cellar temperature for serving red wine is around 55-65°F (13-18°C), not room temperature as is commonly believed.",
+      "source": "https://en.wikipedia.org/wiki/Cellar_temperature_for_serving_red_wine"
+    },
+    {
+      "text": "A wine key, or waiter's corkscrew, is the most widely used type of corkscrew in restaurants and bars worldwide.",
+      "source": "https://en.wikipedia.org/wiki/A_wine_key%2C_or_waiter%27s_corkscrew"
+    },
+    {
+      "text": "The Death & Co bar in New York City has been instrumental in the modern craft cocktail renaissance.",
+      "source": "https://en.wikipedia.org/wiki/Death_%26_Co_bar_in_New_York_City"
+    },
+    {
+      "text": "Brandy is made by distilling wine, and the name comes from the Dutch word 'brandewijn,' meaning 'burnt wine.'",
+      "source": "https://en.wikipedia.org/wiki/Brandy"
+    },
+    {
+      "text": "National Daiquiri Day is celebrated on July 19.",
+      "month": 7,
+      "day": 19,
+      "source": "https://en.wikipedia.org/wiki/National_Daiquiri_Day"
+    },
+    {
+      "text": "The Corpse Reviver cocktail family includes several variations, all originally designed as hangover cures or 'hair of the dog.'",
+      "source": "https://en.wikipedia.org/wiki/Corpse_Reviver_cocktail_family"
+    },
+    {
+      "text": "Craft cocktail bars typically use fresh-squeezed citrus juice rather than bottled juice, as fresh juice degrades in quality within hours.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Drinking_%26_Mixology"
+    },
+    {
+      "text": "Plymouth Gin is made exclusively at the Black Friars Distillery in Plymouth, England, the oldest working gin distillery in England.",
+      "source": "https://en.wikipedia.org/wiki/Plymouth_Gin"
+    },
+    {
+      "text": "Shrubs are drinking vinegars made by preserving fruit in vinegar and sugar, experiencing a revival in modern cocktail culture.",
+      "source": "https://en.wikipedia.org/wiki/Shrubs"
+    },
+    {
+      "text": "The Bamboo cocktail, made with sherry and dry vermouth, was created in the 1890s at the Grand Hotel in Yokohama, Japan.",
+      "source": "https://en.wikipedia.org/wiki/Bamboo_cocktail%2C_made_with_sherry_and_dry_vermouth"
+    },
+    {
+      "text": "Cider has been produced in England since before the Roman invasion, with apple orchards planted specifically for cider making.",
+      "source": "https://en.wikipedia.org/wiki/Cider"
+    },
+    {
+      "text": "The term 'rotgut' refers to cheap, poorly made liquor that was common during Prohibition and could cause serious health problems.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/term_%27rotgut%27_refers_to_cheap%2C_poorly_made_liquor_that"
+    },
+    {
+      "text": "A julep cup is traditionally made of sterling silver or pewter, which frosts beautifully when holding crushed ice.",
+      "source": "https://en.wikipedia.org/wiki/A_julep_cup"
+    },
+    {
+      "text": "Gewürztraminer is a highly aromatic white wine grape known for lychee and rose petal flavors, primarily grown in Alsace.",
+      "source": "https://en.wikipedia.org/wiki/Gew%C3%BCrztraminer"
+    },
+    {
+      "text": "National Piña Colada Day is celebrated on July 10.",
+      "month": 7,
+      "day": 10,
+      "source": "https://en.wikipedia.org/wiki/National_Pi%C3%B1a_Colada_Day"
+    },
+    {
+      "text": "The word 'toast' — as in raising a glass — comes from the Roman practice of dropping a piece of toasted bread into wine to reduce acidity.",
+      "source": "https://en.wikipedia.org/wiki/Drinking_%26_Mixology"
+    },
+    {
+      "text": "The first American cocktail guide, 'The Bon Vivant's Companion' by Jerry Thomas, included recipes for punches, sours, slings, and fizzes.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Bon_Vivant%27s_Companion"
+    },
+    {
+      "text": "Sotol is a Mexican spirit similar to mezcal but made from the Dasylirion plant rather than agave.",
+      "source": "https://en.wikipedia.org/wiki/Sotol"
+    },
+    {
+      "text": "Brunch cocktails like the Mimosa and Bloody Mary became popular in the mid-20th century as a socially acceptable way to drink before noon.",
+      "source": "https://en.wikipedia.org/wiki/Brunch_cocktails_like_the_Mimosa_and_Bloody_Mary"
+    },
+    {
+      "text": "The Pendennis Club in Louisville, Kentucky claims to be the birthplace of the Old Fashioned cocktail.",
+      "source": "https://en.wikipedia.org/wiki/Pendennis_Club_in_Louisville"
+    },
+    {
+      "text": "A copper pot still produces spirits with more flavor and character than a column still, which creates a cleaner, more neutral spirit.",
+      "source": "https://en.wikipedia.org/wiki/Drinking_%26_Mixology"
+    },
+    {
+      "text": "Frosé — frozen rosé wine — became a viral cocktail trend in 2016 after Bar Primi in New York City popularized it.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Fros%C3%A9_%E2%80%94_frozen_ros%C3%A9_wine_%E2%80%94"
+    },
+    {
+      "text": "Mead, made from fermented honey and water, is believed to be the oldest alcoholic beverage in the world.",
+      "source": "https://en.wikipedia.org/wiki/Mead%2C_made_from_fermented_honey_and_water"
+    },
+    {
+      "text": "A well drink uses the bar's cheapest, most accessible spirits, while a call drink uses a specific brand requested by the customer.",
+      "source": "https://en.wikipedia.org/wiki/Drinking_%26_Mixology"
+    },
+    {
+      "text": "The Piña Colada was invented in San Juan, Puerto Rico, and became the island's official national drink in 1978.",
+      "source": "https://en.wikipedia.org/wiki/Pi%C3%B1a_Colada"
+    },
+    {
+      "text": "World Gin Day is the second Saturday of June.",
+      "month": 6,
+      "day": 13,
+      "source": "https://en.wikipedia.org/wiki/World_Gin_Day"
+    },
+    {
+      "text": "Single malt Scotch is made from malted barley at a single distillery using pot stills, while blended Scotch combines malt and grain whiskies from multiple distilleries.",
+      "source": "https://en.wikipedia.org/wiki/Single_malt_Scotch"
+    },
+    {
+      "text": "The key to a proper mint garnish is to slap the mint leaves between your palms before placing them in the drink, which releases aromatic oils without bruising.",
+      "source": "https://en.wikipedia.org/wiki/key_to_a_proper_mint_garnish"
+    },
+    {
+      "text": "The Bee's Knees phrase originated in 1920s slang meaning 'the height of excellence,' and the cocktail was created during Prohibition.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Bee%27s_Knees"
+    },
+    {
+      "text": "Herbsaint is a New Orleans anise liqueur created as a substitute for absinthe during its ban, still used in the Sazerac cocktail.",
+      "source": "https://en.wikipedia.org/wiki/Herbsaint"
+    },
+    {
+      "text": "The sour cocktail family follows a basic template: 2 parts spirit, 1 part citrus, 0.75 parts sweetener.",
+      "source": "https://en.wikipedia.org/wiki/Drinking_%26_Mixology"
+    },
+    {
+      "text": "National Bourbon Heritage Month is September, declared by the US Senate in 2007.",
+      "month": 9,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/National_Bourbon_Heritage_Month"
+    },
+    {
+      "text": "Don Julio González founded his eponymous tequila brand in 1942 at the age of 17.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Don_Julio_Gonz%C3%A1lez"
+    },
+    {
+      "text": "A wine decanter aerates wine and separates it from sediment, particularly useful for young, tannic red wines.",
+      "source": "https://en.wikipedia.org/wiki/Drinking_%26_Mixology"
+    },
+    {
+      "text": "The Ti' Punch is the national cocktail of Martinique, made with rhum agricole, lime, and cane syrup.",
+      "source": "https://en.wikipedia.org/wiki/Ti%27_Punch"
+    },
+    {
+      "text": "Most cocktail cherries sold in grocery stores are bleached and dyed — genuine Maraschino cherries are preserved in Maraschino liqueur.",
+      "source": "https://en.wikipedia.org/wiki/Most_cocktail_cherries_sold_in_grocery_stores"
+    },
+    {
+      "text": "Laphroaig Scotch whisky from Islay is so distinctively peaty that it carries a royal warrant from Prince Charles.",
+      "source": "https://en.wikipedia.org/wiki/Laphroaig_Scotch_whisky_from_Islay"
+    },
+    {
+      "text": "A Boston shaker requires a separate strainer because, unlike a cobbler shaker, it has no built-in straining mechanism.",
+      "source": "https://en.wikipedia.org/wiki/A_Boston_shaker_requires_a_separate_strainer_because%2C_unlike_a_cobbler_shaker%2C_it"
+    },
+    {
+      "text": "The Americano cocktail, made with Campari, sweet vermouth, and soda, was the first drink James Bond ordered in Ian Fleming's novels — not a Martini.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Americano_cocktail%2C_made_with_Campari%2C_sweet_vermouth%2C_and_soda"
+    },
+    {
+      "text": "Armagnac is France's oldest brandy, predating cognac by about 200 years, and is typically distilled only once for a more robust flavor.",
+      "source": "https://en.wikipedia.org/wiki/Armagnac"
+    },
+    {
+      "text": "Kentucky produces about 95% of the world's bourbon supply.",
+      "source": "https://en.wikipedia.org/wiki/Drinking_%26_Mixology"
+    },
+    {
+      "text": "A garnish is not merely decorative — it adds aroma, flavor, and visual appeal that contribute to the overall cocktail experience.",
+      "source": "https://en.wikipedia.org/wiki/A_garnish"
+    },
+    {
+      "text": "The Pornstar Martini, created by Douglas Ankrah in 2002, is typically served with a shot of Prosecco on the side.",
+      "source": "https://en.wikipedia.org/wiki/Pornstar_Martini"
+    },
+    {
+      "text": "Prohibition was such a failure that alcohol consumption actually increased in some areas during the ban.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Prohibition"
+    },
+    {
+      "text": "IPA is the most popular craft beer style in America, accounting for nearly a third of all craft beer sales.",
+      "source": "https://en.wikipedia.org/wiki/IPA"
+    },
+    {
+      "text": "The Enzoni cocktail is a modern classic that blends the Negroni with muddled grapes and lemon juice.",
+      "source": "https://en.wikipedia.org/wiki/Enzoni_cocktail"
+    },
+    {
+      "text": "Draft beer is fresher than bottled or canned beer because kegs protect it from light and air exposure.",
+      "source": "https://en.wikipedia.org/wiki/Draft_beer"
+    },
+    {
+      "text": "Harry's New York Bar in Paris has been a legendary cocktail destination since 1911 and claims to have invented the Bloody Mary, the Sidecar, and the French 75.",
+      "source": "https://en.wikipedia.org/wiki/Harry%27s_New_York_Bar_in_Paris"
+    },
+    {
+      "text": "International Beer Day is celebrated on the first Friday of August.",
+      "month": 8,
+      "day": 7,
+      "source": "https://en.wikipedia.org/wiki/International_Beer_Day"
+    },
+    {
+      "text": "The term 'mixology' was first used in the 1850s and refers to the art and science of mixing cocktails.",
+      "source": "https://en.wikipedia.org/wiki/term_%27mixology"
+    },
+    {
+      "text": "Peat is partially decomposed plant material found in bogs, and burning it to dry malted barley gives Scotch whisky its smoky character.",
+      "source": "https://en.wikipedia.org/wiki/Peat"
+    },
+    {
+      "text": "George Washington operated one of the largest whiskey distilleries in America at Mount Vernon in the late 1790s.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/George_Washington"
+    },
+    {
+      "text": "Cynar is an Italian bitter liqueur made from 13 herbs and plants, with artichoke as its primary ingredient.",
+      "source": "https://en.wikipedia.org/wiki/Cynar"
+    },
+    {
+      "text": "The Cuban Missile Crisis reportedly led to a surge in cocktail consumption across America as people feared nuclear war.",
+      "source": "https://en.wikipedia.org/wiki/Cuban_Missile_Crisis"
+    },
+    {
+      "text": "A spherical ice mold creates a large ball of ice that melts more slowly than smaller cubes due to having a lower surface-area-to-volume ratio.",
+      "source": "https://en.wikipedia.org/wiki/Drinking_%26_Mixology"
+    },
+    {
+      "text": "Sauvignon Blanc from New Zealand's Marlborough region is known for its intensely aromatic, grassy, and tropical character.",
+      "source": "https://en.wikipedia.org/wiki/Sauvignon_Blanc_from_New_Zealand%27s_Marlborough_region"
+    },
+    {
+      "text": "Angel's share is the portion of whiskey or wine that evaporates from barrels during aging — typically 2 to 4 percent per year.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Angel%27s_share"
+    },
+    {
+      "text": "The Penicillin cocktail has been called the most important whisky cocktail invented in the last 50 years.",
+      "source": "https://en.wikipedia.org/wiki/Penicillin_cocktail"
+    },
+    {
+      "text": "Prohibition-era cocktails often used large amounts of citrus, sugar, and cream to mask the harsh taste of poorly made bootleg spirits.",
+      "source": "https://en.wikipedia.org/wiki/Drinking_%26_Mixology"
+    },
+    {
+      "text": "National Mojito Day is July 11.",
+      "month": 7,
+      "day": 11,
+      "source": "https://en.wikipedia.org/wiki/National_Mojito_Day"
+    },
+    {
+      "text": "A swizzle is a Caribbean cocktail technique where a pronged stick is rolled between the palms to mix and chill a drink.",
+      "source": "https://en.wikipedia.org/wiki/A_swizzle"
+    },
+    {
+      "text": "Beeswax-infused spirits are a trending technique in modern mixology, adding subtle floral and waxy notes.",
+      "source": "https://en.wikipedia.org/wiki/Beeswax-infused_spirits"
+    },
+    {
+      "text": "The Martinez cocktail is considered by many historians to be the precursor to the modern Martini.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Martinez_cocktail"
+    },
+    {
+      "text": "Pimm's No. 1 Cup is a gin-based fruit cup invented in 1823 by James Pimm at his oyster bar in London.",
+      "source": "https://en.wikipedia.org/wiki/Pimm%27s_No._1_Cup"
+    },
+    {
+      "text": "An aromatic cocktail is one where the aromatics — bitters, herbs, or citrus oils — play a central role in the drinking experience.",
+      "source": "https://en.wikipedia.org/wiki/An_aromatic_cocktail"
+    },
+    {
+      "text": "Wine glasses are designed with specific shapes for different grape varieties — a Burgundy glass has a wider bowl than a Bordeaux glass to capture more aromatics.",
+      "source": "https://en.wikipedia.org/wiki/Wine_glasses"
+    },
+    {
+      "text": "Crown Royal was created in 1939 to commemorate the visit of King George VI and Queen Elizabeth to Canada.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Crown_Royal"
+    },
+    {
+      "text": "National Whiskey Sour Day is August 25.",
+      "month": 8,
+      "day": 25,
+      "source": "https://en.wikipedia.org/wiki/National_Whiskey_Sour_Day"
+    },
+    {
+      "text": "A flip is a cocktail category involving a spirit, sugar, and a whole egg, resulting in a rich, creamy texture.",
+      "source": "https://en.wikipedia.org/wiki/A_flip"
+    },
+    {
+      "text": "The Savoy Cocktail Book, published in 1930 by Harry Craddock, is one of the most influential cocktail books ever written.",
+      "source": "https://en.wikipedia.org/wiki/Savoy_Cocktail_Book%2C_published_in_1930_by_Harry_Craddock"
+    },
+    {
+      "text": "Barrel-aged cocktails are premixed drinks aged in oak barrels for weeks or months, allowing flavors to mellow and integrate.",
+      "source": "https://en.wikipedia.org/wiki/Barrel-aged_cocktails"
+    },
+    {
+      "text": "Wild Turkey bourbon was named after distillery executive Thomas McCarthy's annual wild turkey hunting trip.",
+      "source": "https://en.wikipedia.org/wiki/Wild_Turkey_bourbon"
+    },
+    {
+      "text": "During Prohibition, some creative Americans obtained alcohol through a loophole allowing 'near beer' with less than 0.5% ABV to be sold.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/During_Prohibition"
+    },
+    {
+      "text": "Manzanilla sherry is a type of fino produced only in Sanlúcar de Barrameda, Spain, giving it a distinctive salty character.",
+      "source": "https://en.wikipedia.org/wiki/Manzanilla_sherry"
+    },
+    {
+      "text": "The Pornstar Martini is the UK's most ordered cocktail as of the 2020s, despite having no Martini ingredients.",
+      "source": "https://en.wikipedia.org/wiki/Pornstar_Martini"
+    },
+    {
+      "text": "An express refers to spraying essential oils from a citrus peel onto the surface of a cocktail by squeezing the peel over the drink.",
+      "source": "https://en.wikipedia.org/wiki/Drinking_%26_Mixology"
+    },
+    {
+      "text": "Woodford Reserve bourbon is made at the smallest and oldest distillery in Kentucky, established in 1812.",
+      "source": "https://en.wikipedia.org/wiki/Woodford_Reserve_bourbon"
+    },
+    {
+      "text": "National Prosecco Day is August 13.",
+      "month": 8,
+      "day": 13,
+      "source": "https://en.wikipedia.org/wiki/National_Prosecco_Day"
+    },
+    {
+      "text": "Jack Daniel's is technically Tennessee whiskey, not bourbon, because it undergoes the Lincoln County Process — charcoal filtering before aging.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Jack_Daniel%27s"
+    },
+    {
+      "text": "The term 'hair of the dog' comes from the old belief that placing hair of the dog that bit you on the wound would prevent infection.",
+      "source": "https://en.wikipedia.org/wiki/Drinking_%26_Mixology"
+    },
+    {
+      "text": "A Kir Royale is made with crème de cassis and Champagne, while a standard Kir uses white wine.",
+      "source": "https://en.wikipedia.org/wiki/A_Kir_Royale"
+    },
+    {
+      "text": "Irish coffee was first served at Foynes airbase in Ireland in the 1940s to warm up cold passengers arriving from transatlantic flights.",
+      "source": "https://en.wikipedia.org/wiki/Irish_coffee"
+    },
+    {
+      "text": "Oaked Chardonnay gets its buttery flavor from a process called malolactic fermentation.",
+      "source": "https://en.wikipedia.org/wiki/Oaked_Chardonnay_gets_its_buttery_flavor_from_a_process"
+    },
+    {
+      "text": "Elijah Craig is often credited with inventing bourbon by aging corn whiskey in charred oak barrels, though historians debate this claim.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Elijah_Craig"
+    },
+    {
+      "text": "National Cognac Day is June 4.",
+      "month": 6,
+      "day": 4,
+      "source": "https://en.wikipedia.org/wiki/National_Cognac_Day"
+    },
+    {
+      "text": "The Suffering Bastard was created to cure hangovers for British soldiers stationed in Egypt during World War II.",
+      "source": "https://en.wikipedia.org/wiki/Suffering_Bastard"
+    },
+    {
+      "text": "Tonic water glows under ultraviolet light because of the quinine it contains.",
+      "source": "https://en.wikipedia.org/wiki/Tonic_water_glows_under_ultraviolet_light_because_of_the_quinine_it"
+    },
+    {
+      "text": "A swath or ribbon garnish is a wide strip of citrus peel used to add both visual flair and essential oils to a cocktail.",
+      "source": "https://en.wikipedia.org/wiki/A_swath_or_ribbon_garnish"
+    },
+    {
+      "text": "Buffalo Trace Distillery in Frankfort, Kentucky has been distilling bourbon on the same site since 1773 and has been designated a National Historic Landmark.",
+      "source": "https://en.wikipedia.org/wiki/Buffalo_Trace_Distillery_in_Frankfort%2C_Kentucky"
+    },
+    {
+      "text": "The Moscow Mule's iconic copper mug was a marketing invention to sell both the mug and Smirnoff vodka simultaneously.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Moscow_Mule%27s_iconic_copper_mug"
+    },
+    {
+      "text": "Champagne bottles have about 90 pounds per square inch of pressure — roughly three times the pressure in a car tire.",
+      "source": "https://en.wikipedia.org/wiki/Champagne_bottles"
+    },
+    {
+      "text": "The B-52 shooter is named after the B-52 bomber and is layered with Kahlúa, Bailey's Irish Cream, and Grand Marnier.",
+      "source": "https://en.wikipedia.org/wiki/B-52_shooter"
+    },
+    {
+      "text": "Blue Curaçao is exactly the same flavor as regular Curaçao — it's simply dyed blue for visual effect.",
+      "source": "https://en.wikipedia.org/wiki/Blue_Cura%C3%A7ao"
+    },
+    {
+      "text": "The practice of using egg white in cocktails dates back to at least the 1860s and is considered safe when using fresh, pasteurized eggs.",
+      "source": "https://en.wikipedia.org/wiki/practice_of_using_egg_white_in_cocktails_dates_back_to_at_least_the_1860s_and"
+    },
+    {
+      "text": "World Bartender Day is celebrated on February 24.",
+      "month": 2,
+      "day": 24,
+      "source": "https://en.wikipedia.org/wiki/World_Bartender_Day"
+    },
+    {
+      "text": "An old vine or 'vieilles vignes' wine comes from grapevines typically over 35 to 50 years old, which produce fewer but more concentrated grapes.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Drinking_%26_Mixology"
+    },
+    {
+      "text": "Prohibition-era cocktail menus at illegal speakeasies were often written in code or not written at all.",
+      "source": "https://en.wikipedia.org/wiki/Prohibition-era_cocktail_menus_at_illegal_speakeasies"
+    },
+    {
+      "text": "A Collins cocktail is a sour lengthened with soda water, named after headwaiter John Collins of Limmer's Hotel in London.",
+      "source": "https://en.wikipedia.org/wiki/A_Collins_cocktail"
+    },
+    {
+      "text": "The Chartreuse monks who produce the famous green and yellow liqueurs keep their 130-ingredient recipe known to only two monks at a time.",
+      "source": "https://en.wikipedia.org/wiki/Chartreuse"
+    },
+    {
+      "text": "Cask ale, also called real ale, is unfiltered and unpasteurized, continuing to ferment and condition in the cask.",
+      "source": "https://en.wikipedia.org/wiki/Cask_ale%2C_also_called_real_ale"
+    },
+    {
+      "text": "The Elderflower Spritz has surged in popularity since St-Germain elderflower liqueur launched in 2007.",
+      "source": "https://en.wikipedia.org/wiki/Elderflower_Spritz"
+    },
+    {
+      "text": "The term 'bootlegger' comes from the practice of hiding flasks of liquor in the leg of a boot during Prohibition.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Drinking_%26_Mixology"
+    },
+    {
+      "text": "Amaretto, the Italian almond-flavored liqueur, is traditionally made with apricot pits rather than almonds.",
+      "source": "https://en.wikipedia.org/wiki/Amaretto%2C_the_Italian_almond-flavored_liqueur"
+    },
+    {
+      "text": "The correct way to hold a wine glass is by the stem to prevent warming the wine with your hand.",
+      "source": "https://en.wikipedia.org/wiki/correct_way_to_hold_a_wine_glass"
+    },
+    {
+      "text": "National Amaretto Day is April 19.",
+      "month": 4,
+      "day": 19,
+      "source": "https://en.wikipedia.org/wiki/National_Amaretto_Day"
+    },
+    {
+      "text": "A toddy is one of the oldest cocktail formats, combining a spirit with hot water, honey or sugar, and spices.",
+      "source": "https://en.wikipedia.org/wiki/A_toddy"
+    },
+    {
+      "text": "The phrase 'mind your Ps and Qs' may have originated in English pubs, referring to pints and quarts of beer.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/phrase_%27mind_your_Ps_and_Qs%27_may"
+    },
+    {
+      "text": "Sloe gin is not actually gin but a red liqueur made by infusing sloe berries in gin with added sugar.",
+      "source": "https://en.wikipedia.org/wiki/Sloe_gin"
+    },
+    {
+      "text": "The highball is Japan's most popular way to drink whisky, made with Japanese whisky and soda water, served ice-cold.",
+      "source": "https://en.wikipedia.org/wiki/highball"
+    },
+    {
+      "text": "Cocktail bitters were originally sold as patent medicines in the 18th and 19th centuries.",
+      "source": "https://en.wikipedia.org/wiki/Cocktail_bitters"
+    },
+    {
+      "text": "In Scotland, single malt Scotch must be made entirely from malted barley, water, and yeast — no other grains are allowed.",
+      "source": "https://en.wikipedia.org/wiki/In_Scotland"
+    },
+    {
+      "text": "The Milk Punch is a centuries-old technique using milk to clarify a spirit-based punch, resulting in a crystal-clear drink with a silky texture.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Milk_Punch"
+    },
+    {
+      "text": "A fizz cocktail contains citrus juice and carbonated water, with the Gin Fizz and Ramos Gin Fizz being the most famous examples.",
+      "source": "https://en.wikipedia.org/wiki/A_fizz_cocktail"
+    },
+    {
+      "text": "Fireball Cinnamon Whisky became one of the best-selling spirits in America in the 2010s.",
+      "source": "https://en.wikipedia.org/wiki/Fireball_Cinnamon_Whisky"
+    },
+    {
+      "text": "The difference between a lemon twist and a lemon peel is technique — a twist is curled to express oils over the drink.",
+      "source": "https://en.wikipedia.org/wiki/difference_between_a_lemon_twist_and_a_lemon_peel"
+    },
+    {
+      "text": "Ancient Egyptians brewed beer as a daily staple, and workers building the pyramids were paid partly in beer.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Ancient_Egyptians_brewed_beer_as_a_daily_staple%2C_and_workers_building_the_pyramids"
+    },
+    {
+      "text": "National Harvey Wallbanger Day is November 8.",
+      "month": 11,
+      "day": 8,
+      "source": "https://en.wikipedia.org/wiki/National_Harvey_Wallbanger_Day"
+    },
+    {
+      "text": "The Sazerac Company of New Orleans owns many famous brands including Buffalo Trace, Pappy Van Winkle, and Fireball.",
+      "source": "https://en.wikipedia.org/wiki/Sazerac_Company_of_New_Orleans"
+    },
+    {
+      "text": "A throwing technique involves pouring a cocktail back and forth between two vessels from a height to mix and aerate it.",
+      "source": "https://en.wikipedia.org/wiki/Drinking_%26_Mixology"
+    },
+    {
+      "text": "Pappy Van Winkle bourbon is so scarce and sought-after that bottles regularly sell for thousands of dollars on the secondary market.",
+      "source": "https://en.wikipedia.org/wiki/Pappy_Van_Winkle_bourbon"
+    },
+    {
+      "text": "Maraschino liqueur is a clear, dry cherry liqueur made from Marasca cherries, very different from the bright red cherry syrup.",
+      "source": "https://en.wikipedia.org/wiki/Maraschino_liqueur"
+    },
+    {
+      "text": "The Prohibition Bureau employed only about 1,500 agents to enforce the ban across the entire United States.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Prohibition_Bureau"
+    },
+    {
+      "text": "A smoked cocktail uses wood chips, a smoking gun, or a charred barrel stave to infuse the drink with smoky flavor.",
+      "source": "https://en.wikipedia.org/wiki/Drinking_%26_Mixology"
+    },
+    {
+      "text": "Templeton Rye claims to use the same recipe that was produced illegally during Prohibition in Templeton, Iowa.",
+      "source": "https://en.wikipedia.org/wiki/Templeton_Rye_claims_to_use_the_same_recipe_that"
+    },
+    {
+      "text": "Prosecco outsells Champagne globally, with Italy producing over 600 million bottles annually.",
+      "source": "https://en.wikipedia.org/wiki/Drinking_%26_Mixology"
+    },
+    {
+      "text": "The Suffering Bastard, Dying Bastard, and Dead Bastard form a trilogy of increasingly strong cocktails created at the same Cairo bar.",
+      "source": "https://en.wikipedia.org/wiki/Suffering_Bastard"
+    },
+    {
+      "text": "The oldest distillery in the world is believed to be the Old Bushmills Distillery in Northern Ireland, licensed in 1608.",
+      "month": 4,
+      "day": 20,
+      "source": "https://en.wikipedia.org/wiki/oldest_distillery_in_the_world"
+    },
+    {
+      "text": "The Adonis cocktail is a low-ABV classic made with sherry and sweet vermouth, named after the 1884 Broadway musical.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Adonis_cocktail"
+    },
+    {
+      "text": "A snifter glass is designed to concentrate the aromas of brandy and cognac, with a wide bowl and narrow top.",
+      "source": "https://en.wikipedia.org/wiki/A_snifter_glass"
+    },
+    {
+      "text": "Tepache is a traditional Mexican fermented beverage made from pineapple rinds, water, and piloncillo sugar.",
+      "source": "https://en.wikipedia.org/wiki/Tepache"
+    },
+    {
+      "text": "The word 'whiskey' comes from the Gaelic 'uisce beatha,' meaning 'water of life.'",
+      "source": "https://en.wikipedia.org/wiki/Drinking_%26_Mixology"
+    },
+    {
+      "text": "A stirred cocktail should be stirred for about 30 seconds, producing adequate dilution and chilling without incorporating air.",
+      "source": "https://en.wikipedia.org/wiki/Drinking_%26_Mixology"
+    },
+    {
+      "text": "The Spritz originated in the Veneto region of Italy when Austrian soldiers asked bartenders to spray (spritzen) water into their wine to lighten it.",
+      "source": "https://en.wikipedia.org/wiki/Spritz"
+    },
+    {
+      "text": "Añejo tequila is aged between one and three years in oak barrels, giving it a smoother, more complex flavor than blanco or reposado.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/A%C3%B1ejo_tequila"
+    },
+    {
+      "text": "The phrase 'one for the road' dates back to when condemned prisoners in London were offered a final drink at pubs along the route to the gallows.",
+      "source": "https://en.wikipedia.org/wiki/phrase_%27one_for_the_road%27_dates_back_to_when_condemned_prisoners_in_London"
+    },
+    {
+      "text": "National Champagne Day is celebrated on December 31.",
+      "month": 12,
+      "day": 31,
+      "source": "https://en.wikipedia.org/wiki/National_Champagne_Day"
+    },
+    {
+      "text": "A Boilermaker is a beer served alongside a shot of whiskey — either sipped alternately or with the shot dropped into the beer.",
+      "source": "https://en.wikipedia.org/wiki/A_Boilermaker"
+    },
+    {
+      "text": "The first canned beer was sold by the Gottfried Krueger Brewing Company in 1935 in Richmond, Virginia.",
+      "month": 1,
+      "day": 24,
+      "source": "https://en.wikipedia.org/wiki/first_canned_beer"
+    },
+    {
+      "text": "Oleo saccharum, made by muddling citrus peels with sugar. was a key ingredient in classic punches and is being revived by modern bartenders.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Oleo_saccharum%2C_made_by_muddling_citrus_peels_with_sugar"
+    },
+    {
+      "text": "The Negroni Sbagliato replaces gin with sparkling wine and went viral on social media in 2022.",
+      "source": "https://en.wikipedia.org/wiki/Negroni_Sbagliato"
+    },
+    {
+      "text": "A wine thief is a glass or metal tube used to extract small samples of wine from a barrel for tasting during the aging process.",
+      "source": "https://en.wikipedia.org/wiki/A_wine_thief"
+    },
+    {
+      "text": "Drambuie is a Scottish liqueur made from Scotch whisky, honey, herbs, and spices, featured in the Rusty Nail cocktail.",
+      "source": "https://en.wikipedia.org/wiki/Drambuie"
+    },
+    {
+      "text": "The ward eight cocktail was allegedly created in Boston in 1898 to celebrate a political election victory.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/ward_eight_cocktail"
+    },
+    {
+      "text": "Gentiane liqueurs like Suze and Salers are made from gentian root and have a distinctively bitter, earthy flavor popular in French aperitifs.",
+      "source": "https://en.wikipedia.org/wiki/Gentiane_liqueurs_like_Suze_and_Salers"
+    },
+    {
+      "text": "Sotol has been granted its own denomination of origin by the Mexican government, separate from tequila and mezcal.",
+      "source": "https://en.wikipedia.org/wiki/Sotol"
+    },
+    {
+      "text": "The Boulevardier first appeared in print in 1927 in Harry McElhone's 'Barflies and Cocktails.'",
+      "source": "https://en.wikipedia.org/wiki/Boulevardier_first"
+    },
+    {
+      "text": "International Grenache Day is the third Friday of September.",
+      "month": 9,
+      "day": 17,
+      "source": "https://en.wikipedia.org/wiki/International_Grenache_Day"
+    },
+    {
+      "text": "A wine's vintage year refers to the year the grapes were harvested, not the year the wine was bottled or released.",
+      "source": "https://en.wikipedia.org/wiki/A_wine%27s_vintage_year_refers_to_the_year_the_grapes"
+    },
+    {
+      "text": "Al Capone reportedly made $60 million a year from bootlegging operations during Prohibition.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Al_Capone"
+    },
+    {
+      "text": "The Pickleback — a shot of whiskey chased by pickle brine — originated at the Bushwick Country Club in Brooklyn around 2006.",
+      "source": "https://en.wikipedia.org/wiki/Pickleback"
+    },
+    {
+      "text": "Sherry is one of the most underrated cocktail ingredients, used in classics like the Sherry Cobbler and Bamboo.",
+      "source": "https://en.wikipedia.org/wiki/Sherry"
+    }
+  ]
+}

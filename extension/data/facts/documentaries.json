@@ -1,0 +1,1939 @@
+{
+  "hobby": "Documentaries",
+  "facts": [
+    {
+      "text": "Planet Earth (2006) took over five years to film and was shot in 204 locations across 62 countries.",
+      "source": "https://en.wikipedia.org/wiki/Planet_Earth"
+    },
+    {
+      "text": "David Attenborough narrated his first nature documentary, Zoo Quest, in 1954.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/David_Attenborough"
+    },
+    {
+      "text": "The word 'documentary' was first used by Scottish filmmaker John Grierson in 1926 to describe Robert Flaherty's film Moana.",
+      "source": "https://en.wikipedia.org/wiki/word_%27documentary"
+    },
+    {
+      "text": "Nanook of the North (1922) by Robert Flaherty is widely considered the first feature-length documentary film.",
+      "source": "https://en.wikipedia.org/wiki/North"
+    },
+    {
+      "text": "Ken Burns is known for his signature technique of slowly panning across still photographs, now called the 'Ken Burns effect.'",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Ken_Burns"
+    },
+    {
+      "text": "The Burns effect is so well known that Apple named a feature after it in iMovie and other software.",
+      "source": "https://en.wikipedia.org/wiki/Burns_effect"
+    },
+    {
+      "text": "Michael Moore's Fahrenheit 9/11 (2004) remains the highest-grossing documentary of all time, earning over $222 million worldwide.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Michael_Moore%27s_Fahrenheit_9"
+    },
+    {
+      "text": "Werner Herzog has directed more than 70 films, including both fiction features and documentaries.",
+      "source": "https://en.wikipedia.org/wiki/Werner_Herzog"
+    },
+    {
+      "text": "Errol Morris invented the Interrotron, a device that allows interview subjects to look directly into the camera while maintaining eye contact with the interviewer.",
+      "source": "https://en.wikipedia.org/wiki/Errol_Morris"
+    },
+    {
+      "text": "Frederick Wiseman has made over 40 documentary films, almost all examining American institutions.",
+      "source": "https://en.wikipedia.org/wiki/Frederick_Wiseman"
+    },
+    {
+      "text": "Morgan Spurlock's Super Size Me (2004) chronicled his 30-day experiment of eating only McDonald's food.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Morgan_Spurlock%27s_Super_Size_Me"
+    },
+    {
+      "text": "The Academy Award for Best Documentary Feature has been awarded annually since 1942.",
+      "source": "https://en.wikipedia.org/wiki/Academy_Award_for_Best_Documentary_Feature"
+    },
+    {
+      "text": "Making a Murderer (2015) became one of Netflix's most-watched original series and sparked widespread public debate about the justice system.",
+      "source": "https://en.wikipedia.org/wiki/Murderer"
+    },
+    {
+      "text": "The Jinx: The Life and Deaths of Robert Durst ended with a shocking hot-mic confession that led to Durst's arrest.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Jinx:_The_Life_and_Deaths_of_Robert"
+    },
+    {
+      "text": "Tiger King became the most-watched show on Netflix during the early weeks of the COVID-19 pandemic in 2020.",
+      "source": "https://en.wikipedia.org/wiki/Tiger_King"
+    },
+    {
+      "text": "Wild Wild Country (2018) explored the Rajneeshee movement in rural Oregon and won an Emmy for Outstanding Documentary Series.",
+      "source": "https://en.wikipedia.org/wiki/Wild_Wild_Country"
+    },
+    {
+      "text": "Blue Planet II (2017) is credited with significantly raising global awareness about plastic pollution in the oceans.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Blue_Planet_II"
+    },
+    {
+      "text": "Our Planet (2019), narrated by David Attenborough, was Netflix's first major nature documentary series.",
+      "source": "https://en.wikipedia.org/wiki/Our_Planet"
+    },
+    {
+      "text": "The Last Dance (2020) docuseries about Michael Jordan and the 1997–98 Chicago Bulls drew an average of 5.6 million viewers per episode on ESPN.",
+      "source": "https://en.wikipedia.org/wiki/Last_Dance"
+    },
+    {
+      "text": "Woodstock (1970), the documentary about the legendary 1969 music festival, won the Academy Award for Best Documentary Feature.",
+      "month": 3,
+      "day": 30,
+      "source": "https://en.wikipedia.org/wiki/Woodstock"
+    },
+    {
+      "text": "Amy (2015), about singer Amy Winehouse, won the Academy Award for Best Documentary Feature and grossed over $23 million.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Amy"
+    },
+    {
+      "text": "Montage of Heck (2015) was the first fully authorized documentary about Kurt Cobain and featured previously unseen home movies and recordings.",
+      "source": "https://en.wikipedia.org/wiki/Kurt_Cobain"
+    },
+    {
+      "text": "13th (2016) by Ava DuVernay examines the intersection of race, justice, and mass incarceration in the United States.",
+      "source": "https://en.wikipedia.org/wiki/Ava_DuVernay"
+    },
+    {
+      "text": "Blackfish (2013) investigated the treatment of orcas at SeaWorld and led to a significant decline in the park's attendance and stock price.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Blackfish"
+    },
+    {
+      "text": "An Inconvenient Truth (2006) featuring Al Gore won two Academy Awards and helped bring climate change into mainstream public discourse.",
+      "source": "https://en.wikipedia.org/wiki/An_Inconvenient_Truth"
+    },
+    {
+      "text": "Bowling for Columbine (2002) by Michael Moore won the Academy Award for Best Documentary Feature and explored gun violence in America.",
+      "source": "https://en.wikipedia.org/wiki/Columbine"
+    },
+    {
+      "text": "Free Solo (2018) documented Alex Honnold's free solo climb of El Capitan's 3,000-foot vertical rock face in Yosemite.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Free_Solo"
+    },
+    {
+      "text": "Icarus (2017) began as a film about doping in amateur cycling but accidentally uncovered Russia's state-sponsored Olympic doping program.",
+      "source": "https://en.wikipedia.org/wiki/Icarus"
+    },
+    {
+      "text": "Hoop Dreams (1994) followed two inner-city Chicago teenagers for over four years as they pursued their basketball dreams.",
+      "source": "https://en.wikipedia.org/wiki/Hoop_Dreams"
+    },
+    {
+      "text": "ESPN's 30 for 30 documentary series has produced over 100 films since its debut in 2009.",
+      "source": "https://en.wikipedia.org/wiki/ESPN%27s_30_for_30_documentary_series"
+    },
+    {
+      "text": "The Vietnam War (2017) by Ken Burns and Lynn Novick was an 18-hour, 10-episode documentary series that took over a decade to produce.",
+      "source": "https://en.wikipedia.org/wiki/Vietnam_War"
+    },
+    {
+      "text": "They Shall Not Grow Old (2018) by Peter Jackson used cutting-edge technology to colorize and restore World War I footage.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/They_Shall_Not_Grow_Old"
+    },
+    {
+      "text": "Jiro Dreams of Sushi (2011) profiles 85-year-old sushi master Jiro Ono, whose restaurant has three Michelin stars.",
+      "source": "https://en.wikipedia.org/wiki/Sushi"
+    },
+    {
+      "text": "Chef's Table, which debuted on Netflix in 2015, was one of the first original documentary series commissioned by the streaming platform.",
+      "source": "https://en.wikipedia.org/wiki/Chef%27s_Table%2C_which_debuted_on_Netflix_in_2015"
+    },
+    {
+      "text": "Netflix has become the largest commissioner of documentary content in the world, releasing dozens of original docs each year.",
+      "source": "https://en.wikipedia.org/wiki/Netflix"
+    },
+    {
+      "text": "HBO Documentary Films has won more Academy Awards for documentary than any other distributor.",
+      "source": "https://en.wikipedia.org/wiki/HBO_Documentary_Films"
+    },
+    {
+      "text": "Disney+ released the National Geographic-branded documentary Free Solo as one of its launch titles in 2019.",
+      "source": "https://en.wikipedia.org/wiki/Disney%2B"
+    },
+    {
+      "text": "Cosmos: A Personal Voyage (1980) hosted by Carl Sagan was watched by over 500 million people in 60 countries.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Personal_Voyage"
+    },
+    {
+      "text": "Cosmos: A Spacetime Odyssey (2014) was hosted by Neil deGrasse Tyson as a follow-up to Sagan's original series.",
+      "source": "https://en.wikipedia.org/wiki/Spacetime_Odyssey"
+    },
+    {
+      "text": "March of the Penguins (2005) earned $127 million worldwide, making it one of the highest-grossing nature documentaries ever.",
+      "source": "https://en.wikipedia.org/wiki/Penguins"
+    },
+    {
+      "text": "Man on Wire (2008) documented Philippe Petit's 1974 high-wire walk between the Twin Towers of the World Trade Center.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Wire"
+    },
+    {
+      "text": "The Thin Blue Line (1988) by Errol Morris helped exonerate Randall Dale Adams, who had been wrongfully convicted of murder.",
+      "source": "https://en.wikipedia.org/wiki/Thin_Blue_Line"
+    },
+    {
+      "text": "Grizzly Man (2005) by Werner Herzog told the story of Timothy Treadwell, who lived among grizzly bears in Alaska for 13 summers.",
+      "source": "https://en.wikipedia.org/wiki/Grizzly_Man"
+    },
+    {
+      "text": "Shoah (1985) by Claude Lanzmann is a nine-and-a-half-hour documentary about the Holocaust, composed entirely of interviews and location footage.",
+      "source": "https://en.wikipedia.org/wiki/Shoah"
+    },
+    {
+      "text": "The Act of Killing (2012) had Indonesian death squad leaders reenact their real-life mass killings in the style of their favorite film genres.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Killing"
+    },
+    {
+      "text": "Grey Gardens (1975) by the Maysles brothers documented the eccentric lives of Edith Bouvier Beale and her daughter, relatives of Jacqueline Kennedy Onassis.",
+      "source": "https://en.wikipedia.org/wiki/Grey_Gardens"
+    },
+    {
+      "text": "Searching for Sugar Man (2012) told the remarkable story of Rodriguez, a forgotten American musician who became a huge star in South Africa without knowing it.",
+      "source": "https://en.wikipedia.org/wiki/Sugar_Man"
+    },
+    {
+      "text": "The documentary Senna (2010) about Formula One driver Ayrton Senna was composed entirely of archival footage with no talking-head interviews.",
+      "source": "https://en.wikipedia.org/wiki/Senna"
+    },
+    {
+      "text": "Won't You Be My Neighbor? (2018) about Fred Rogers grossed over $22 million, making it the highest-grossing biographical documentary at the time.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Won%27t_You_Be_My_Neighbor"
+    },
+    {
+      "text": "RBG (2018) about Supreme Court Justice Ruth Bader Ginsburg earned over $14 million at the box office.",
+      "source": "https://en.wikipedia.org/wiki/RBG"
+    },
+    {
+      "text": "Citizenfour (2014) by Laura Poitras documented Edward Snowden's NSA revelations in real time and won the Academy Award for Best Documentary Feature.",
+      "source": "https://en.wikipedia.org/wiki/Citizenfour"
+    },
+    {
+      "text": "The Cove (2009) exposed the annual dolphin hunt in Taiji, Japan, and won the Academy Award for Best Documentary Feature.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Cove"
+    },
+    {
+      "text": "Inside Job (2010) examined the causes of the 2008 global financial crisis and won the Academy Award for Best Documentary Feature.",
+      "source": "https://en.wikipedia.org/wiki/Inside_Job"
+    },
+    {
+      "text": "O.J.: Made in America (2016) ran nearly eight hours and won the Academy Award for Best Documentary Feature, the longest film ever to win an Oscar.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/America"
+    },
+    {
+      "text": "Exit Through the Gift Shop (2010) by the street artist Banksy blurred the line between documentary and elaborate prank.",
+      "source": "https://en.wikipedia.org/wiki/Gift_Shop"
+    },
+    {
+      "text": "Waltz with Bashir (2008) was an animated documentary about the 1982 Lebanon War, one of the first animated films to be nominated for Best Foreign Language Film at the Oscars.",
+      "source": "https://en.wikipedia.org/wiki/Bashir"
+    },
+    {
+      "text": "The first documentary to win the Palme d'Or at Cannes was Fahrenheit 9/11 in 2004.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/first_documentary_to_win_the_Palme_d%27Or_at_Cannes"
+    },
+    {
+      "text": "Cinéma vérité, meaning 'truthful cinema,' is a documentary style that emerged in France in the 1960s emphasizing naturalistic observation.",
+      "source": "https://en.wikipedia.org/wiki/Cin%C3%A9ma_v%C3%A9rit%C3%A9%2C_meaning_%27truthful_cinema"
+    },
+    {
+      "text": "Direct cinema, the American counterpart to cinéma vérité, was pioneered by filmmakers like D.A. Pennebaker and the Maysles brothers.",
+      "source": "https://en.wikipedia.org/wiki/Direct_cinema%2C_the_American_counterpart_to_cin%C3%A9ma_v%C3%A9rit%C3%A9"
+    },
+    {
+      "text": "Don't Look Back (1967) by D.A. Pennebaker followed Bob Dylan on his 1965 concert tour of the United Kingdom.",
+      "source": "https://en.wikipedia.org/wiki/Don%27t_Look_Back"
+    },
+    {
+      "text": "The opening sequence of Don't Look Back, featuring Dylan flipping cue cards, is one of the most iconic scenes in documentary history.",
+      "source": "https://en.wikipedia.org/wiki/opening_sequence_of_Don%27t_Look_Back%2C_featuring_Dylan_flipping_cue_cards"
+    },
+    {
+      "text": "Gimme Shelter (1970) captured the Rolling Stones' disastrous 1969 concert at Altamont Speedway, including the fatal stabbing of a concertgoer.",
+      "source": "https://en.wikipedia.org/wiki/Gimme_Shelter"
+    },
+    {
+      "text": "Roger & Me (1989) was Michael Moore's debut film, documenting the impact of General Motors closing auto plants in Flint, Michigan.",
+      "source": "https://en.wikipedia.org/wiki/Me"
+    },
+    {
+      "text": "Michael Moore has directed six of the top 20 highest-grossing documentaries in North American box office history.",
+      "source": "https://en.wikipedia.org/wiki/Michael_Moore"
+    },
+    {
+      "text": "Fahrenheit 9/11 earned $119 million domestically, more than many Hollywood blockbusters released the same year.",
+      "source": "https://en.wikipedia.org/wiki/Fahrenheit_9%2F11"
+    },
+    {
+      "text": "Werner Herzog once ate his own shoe after losing a bet to Errol Morris, and it was captured in the short film Werner Herzog Eats His Shoe (1980).",
+      "source": "https://en.wikipedia.org/wiki/Werner_Herzog_Eats_His_Shoe"
+    },
+    {
+      "text": "Werner Herzog was once shot with an air rifle during an interview with the BBC and calmly continued speaking.",
+      "source": "https://en.wikipedia.org/wiki/Werner_Herzog"
+    },
+    {
+      "text": "Ken Burns' The Civil War (1990) attracted 40 million viewers when it first aired on PBS, the most-watched program in the network's history.",
+      "source": "https://en.wikipedia.org/wiki/Ken_Burns%27_The_Civil_War"
+    },
+    {
+      "text": "Ken Burns has spent his entire career making documentaries for PBS, never working for a major Hollywood studio.",
+      "source": "https://en.wikipedia.org/wiki/Ken_Burns"
+    },
+    {
+      "text": "The Up series, which began in 1964 with Seven Up!, revisits the same group of British individuals every seven years and has continued for over 60 years.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Up"
+    },
+    {
+      "text": "Spellbound (2002) followed eight teenagers competing in the National Spelling Bee and was nominated for an Academy Award.",
+      "source": "https://en.wikipedia.org/wiki/Spellbound"
+    },
+    {
+      "text": "An Inconvenient Sequel: Truth to Power (2017) was the follow-up to Al Gore's original climate change documentary.",
+      "source": "https://en.wikipedia.org/wiki/Power"
+    },
+    {
+      "text": "Supersize Me 2: Holy Chicken! (2019) saw Morgan Spurlock open his own fast-food restaurant to expose industry practices.",
+      "source": "https://en.wikipedia.org/wiki/Supersize_Me_2:_Holy_Chicken"
+    },
+    {
+      "text": "The first documentary shown on Netflix streaming was the 2009 film Food, Inc.",
+      "source": "https://en.wikipedia.org/wiki/first_documentary_shown_on_Netflix_streaming"
+    },
+    {
+      "text": "Food, Inc. (2008) examined corporate farming in America and was nominated for an Academy Award for Best Documentary Feature.",
+      "source": "https://en.wikipedia.org/wiki/Food%2C_Inc"
+    },
+    {
+      "text": "Forks Over Knives (2011) advocated for a whole-food, plant-based diet and became one of the most influential food documentaries.",
+      "source": "https://en.wikipedia.org/wiki/Forks_Over_Knives"
+    },
+    {
+      "text": "The Game Changers (2018) explored plant-based eating among elite athletes and was executive produced by James Cameron.",
+      "source": "https://en.wikipedia.org/wiki/Game_Changers"
+    },
+    {
+      "text": "David Attenborough has been making nature documentaries for over 70 years, beginning in the 1950s.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/David_Attenborough"
+    },
+    {
+      "text": "Planet Earth II (2016) was the first BBC nature series filmed entirely in Ultra High Definition (4K).",
+      "source": "https://en.wikipedia.org/wiki/Planet_Earth_II"
+    },
+    {
+      "text": "The iguana vs. snakes chase scene from Planet Earth II became a viral sensation, viewed over 100 million times online.",
+      "source": "https://en.wikipedia.org/wiki/iguana_vs._snakes_chase_scene_from_Planet_Earth_II"
+    },
+    {
+      "text": "A Life on Our Planet (2020) was described by David Attenborough as his 'witness statement' for the natural world.",
+      "source": "https://en.wikipedia.org/wiki/Our_Planet"
+    },
+    {
+      "text": "Dynasties (2018) narrated by Attenborough followed five endangered species — chimpanzees, emperor penguins, lions, painted wolves, and tigers.",
+      "source": "https://en.wikipedia.org/wiki/Dynasties"
+    },
+    {
+      "text": "The Hunt (2015) BBC series explored predator-prey relationships and took over three years to film.",
+      "source": "https://en.wikipedia.org/wiki/Hunt"
+    },
+    {
+      "text": "Frozen Planet (2011) explored life in the Arctic and Antarctic and attracted over 10 million viewers per episode in the UK.",
+      "source": "https://en.wikipedia.org/wiki/Frozen_Planet"
+    },
+    {
+      "text": "Seven Worlds, One Planet (2019) dedicated an entire episode to each continent's unique wildlife.",
+      "source": "https://en.wikipedia.org/wiki/Seven_Worlds%2C_One_Planet"
+    },
+    {
+      "text": "Night on Earth (2020) on Netflix used cutting-edge low-light camera technology to film animals after dark.",
+      "source": "https://en.wikipedia.org/wiki/Earth"
+    },
+    {
+      "text": "The Netflix documentary My Octopus Teacher (2020) won the Academy Award for Best Documentary Feature.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/My_Octopus_Teacher"
+    },
+    {
+      "text": "My Octopus Teacher followed filmmaker Craig Foster's year-long relationship with a wild octopus in a South African kelp forest.",
+      "source": "https://en.wikipedia.org/wiki/My_Octopus_Teacher"
+    },
+    {
+      "text": "The Social Dilemma (2020) featured former tech executives warning about the dangers of social media and was watched by over 100 million people on Netflix.",
+      "source": "https://en.wikipedia.org/wiki/Social_Dilemma"
+    },
+    {
+      "text": "The Great Hack (2019) explored the Cambridge Analytica data scandal and its effects on democracy.",
+      "source": "https://en.wikipedia.org/wiki/Great_Hack"
+    },
+    {
+      "text": "Making a Murderer filmmakers Laura Ricciardi and Moira Demos spent 10 years making the series.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Making_a_Murderer_filmmakers_Laura_Ricciardi_and_Moira_Demos"
+    },
+    {
+      "text": "The Staircase (2004–2018) was one of the earliest true crime documentary series, following the Michael Peterson murder case over 16 years.",
+      "source": "https://en.wikipedia.org/wiki/Staircase_(2004%E2%80%932018)"
+    },
+    {
+      "text": "Paradise Lost: The Child Murders at Robin Hood Hills (1996) helped galvanize the movement to free the West Memphis Three.",
+      "source": "https://en.wikipedia.org/wiki/Robin_Hood_Hills"
+    },
+    {
+      "text": "The Keepers (2017) investigated the unsolved murder of a nun and allegations of abuse at a Baltimore Catholic school.",
+      "source": "https://en.wikipedia.org/wiki/Keepers"
+    },
+    {
+      "text": "Dear Zachary: A Letter to a Son About His Father (2008) is frequently cited as one of the most emotionally devastating documentaries ever made.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Son_About_His_Father"
+    },
+    {
+      "text": "Evil Genius (2018) documented the bizarre 'collar bomb' bank robbery case in Erie, Pennsylvania.",
+      "source": "https://en.wikipedia.org/wiki/Evil_Genius"
+    },
+    {
+      "text": "Don't F**k with Cats (2019) showed how internet sleuths tracked down a killer who posted animal cruelty videos online.",
+      "source": "https://en.wikipedia.org/wiki/Cats"
+    },
+    {
+      "text": "The Imposter (2012) told the true story of a French con artist who convinced a Texas family he was their missing son.",
+      "source": "https://en.wikipedia.org/wiki/Imposter"
+    },
+    {
+      "text": "Abducted in Plain Sight (2017) became a viral sensation on Netflix due to its astonishing true-crime story.",
+      "source": "https://en.wikipedia.org/wiki/Plain_Sight"
+    },
+    {
+      "text": "Conversations with a Killer: The Ted Bundy Tapes (2019) used archival interviews with the serial killer recorded before his execution.",
+      "source": "https://en.wikipedia.org/wiki/Killer:_The_Ted_Bundy_Tapes"
+    },
+    {
+      "text": "The Innocence Files (2020) on Netflix examined cases handled by the Innocence Project, a nonprofit legal organization.",
+      "source": "https://en.wikipedia.org/wiki/Innocence_Files"
+    },
+    {
+      "text": "Murdaugh Murders: A Southern Scandal (2023) became one of Netflix's most-watched documentary series.",
+      "source": "https://en.wikipedia.org/wiki/Southern_Scandal"
+    },
+    {
+      "text": "American Murder: The Family Next Door (2020) about the Chris Watts case was composed entirely of archival footage, social media posts, and law enforcement recordings.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/American_Murder:_The_Family_Next_Door"
+    },
+    {
+      "text": "Capturing the Friedmans (2003) forced audiences to question the reliability of memory and testimony in an alleged child abuse case.",
+      "source": "https://en.wikipedia.org/wiki/Friedmans"
+    },
+    {
+      "text": "The Trials of Gabriel Fernandez (2020) examined the systems that failed an eight-year-old California boy.",
+      "source": "https://en.wikipedia.org/wiki/Gabriel_Fernandez"
+    },
+    {
+      "text": "Night Stalker: The Hunt for a Serial Killer (2021) on Netflix covered the investigation into Richard Ramirez.",
+      "source": "https://en.wikipedia.org/wiki/Serial_Killer"
+    },
+    {
+      "text": "Crime Scene: The Vanishing at the Cecil Hotel (2021) explored the mysterious death of Elisa Lam.",
+      "source": "https://en.wikipedia.org/wiki/Cecil_Hotel"
+    },
+    {
+      "text": "I'll Be Gone in the Dark (2020) on HBO was based on Michelle McNamara's book about the Golden State Killer.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Dark"
+    },
+    {
+      "text": "Ken Burns' Baseball (1994) was an 18-and-a-half-hour documentary series that became one of the most comprehensive histories of the sport.",
+      "source": "https://en.wikipedia.org/wiki/Ken_Burns%27_Baseball"
+    },
+    {
+      "text": "ESPN's 30 for 30 series was created in 2009 to celebrate ESPN's 30th anniversary with 30 documentary films.",
+      "source": "https://en.wikipedia.org/wiki/ESPN%27s_30_for_30_series"
+    },
+    {
+      "text": "The Two Escobars (2010) from 30 for 30 explored the intersection of soccer and drug cartels in Colombia.",
+      "source": "https://en.wikipedia.org/wiki/Two_Escobars"
+    },
+    {
+      "text": "Broke (2012) from 30 for 30 examined how professional athletes go bankrupt despite earning millions.",
+      "source": "https://en.wikipedia.org/wiki/Broke"
+    },
+    {
+      "text": "The Best That Never Was (2010) told the story of Marcus Dupree, a high school football prodigy whose career was derailed by injury.",
+      "source": "https://en.wikipedia.org/wiki/Best_That_Never_Was"
+    },
+    {
+      "text": "Survive and Advance (2013) from 30 for 30 covered NC State's miraculous 1983 NCAA basketball championship run.",
+      "source": "https://en.wikipedia.org/wiki/Advance"
+    },
+    {
+      "text": "Hoop Dreams was filmed over a four-and-a-half-year period and edited down from over 250 hours of footage.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Hoop_Dreams"
+    },
+    {
+      "text": "Free Solo won the Academy Award for Best Documentary Feature in 2019, with Alex Honnold's climb described as one of the greatest athletic feats ever filmed.",
+      "month": 2,
+      "day": 24,
+      "source": "https://en.wikipedia.org/wiki/Free_Solo"
+    },
+    {
+      "text": "Icarus filmmaker Bryan Fogel initially set out to dope himself for an amateur cycling race before uncovering the Russian scandal.",
+      "source": "https://en.wikipedia.org/wiki/Icarus_filmmaker_Bryan_Fogel_initially"
+    },
+    {
+      "text": "Icarus won the Academy Award for Best Documentary Feature in 2018.",
+      "month": 3,
+      "day": 4,
+      "source": "https://en.wikipedia.org/wiki/Icarus"
+    },
+    {
+      "text": "Murderball (2005) followed the U.S. Paralympic wheelchair rugby team and was nominated for an Academy Award.",
+      "source": "https://en.wikipedia.org/wiki/Murderball"
+    },
+    {
+      "text": "Pumping Iron (1977) helped launch Arnold Schwarzenegger's career by documenting his preparation for the 1975 Mr. Olympia contest.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Pumping_Iron"
+    },
+    {
+      "text": "When We Were Kings (1996) documented the legendary 'Rumble in the Jungle' boxing match between Muhammad Ali and George Foreman.",
+      "source": "https://en.wikipedia.org/wiki/When_We_Were_Kings"
+    },
+    {
+      "text": "The Endless Summer (1966) followed two surfers traveling the world in search of the perfect wave and became a cult classic.",
+      "source": "https://en.wikipedia.org/wiki/Endless_Summer"
+    },
+    {
+      "text": "Senna (2010) is regularly voted one of the greatest sports documentaries ever made.",
+      "source": "https://en.wikipedia.org/wiki/Senna"
+    },
+    {
+      "text": "Undefeated (2011) followed a high school football team in inner-city Memphis and won the Academy Award for Best Documentary Feature.",
+      "source": "https://en.wikipedia.org/wiki/Undefeated"
+    },
+    {
+      "text": "14 Peaks: Nothing Is Impossible (2021) documented Nirmal Purja's attempt to summit all 14 eight-thousander mountains in seven months.",
+      "source": "https://en.wikipedia.org/wiki/Peaks:_Nothing_Is_Impossible"
+    },
+    {
+      "text": "The Dawn Wall (2017) followed Tommy Caldwell and Kevin Jorgeson's historic free climb of the Dawn Wall of El Capitan.",
+      "source": "https://en.wikipedia.org/wiki/Dawn_Wall"
+    },
+    {
+      "text": "Meru (2015) documented three climbers attempting the nearly impossible Shark's Fin route on Mount Meru in the Himalayas.",
+      "source": "https://en.wikipedia.org/wiki/Meru"
+    },
+    {
+      "text": "The Last Dance drew an average of 5.6 million viewers per episode, making it ESPN's most-watched documentary content ever.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Last_Dance"
+    },
+    {
+      "text": "Ken Burns' The War (2007) was a 14-hour series exploring the American experience during World War II.",
+      "source": "https://en.wikipedia.org/wiki/Ken_Burns%27_The_War"
+    },
+    {
+      "text": "The Fog of War (2003) by Errol Morris featured former Secretary of Defense Robert McNamara reflecting on the Vietnam War and won the Academy Award.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/War"
+    },
+    {
+      "text": "Restrepo (2010) embedded with a platoon of U.S. soldiers in Afghanistan's Korengal Valley, one of the most dangerous postings of the war.",
+      "source": "https://en.wikipedia.org/wiki/Restrepo"
+    },
+    {
+      "text": "Sebastian Junger co-directed Restrepo and named it after a medic in the platoon who was killed in action.",
+      "source": "https://en.wikipedia.org/wiki/Sebastian_Junger_co-directed_Restrepo_and_named_it_after_a_medic_in_the_platoon_who"
+    },
+    {
+      "text": "Winter on Fire: Ukraine's Fight for Freedom (2015) documented the 2013–2014 Euromaidan protests in Kyiv.",
+      "source": "https://en.wikipedia.org/wiki/Freedom"
+    },
+    {
+      "text": "The Vietnam War by Ken Burns and Lynn Novick featured over 100 interviews and took 10 years to produce.",
+      "source": "https://en.wikipedia.org/wiki/Vietnam_War_by_Ken_Burns_and_Lynn_Novick_featured_over_100_interviews_and"
+    },
+    {
+      "text": "They Shall Not Grow Old used machine learning and lip readers to add audio to silent World War I footage.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/They_Shall_Not_Grow_Old"
+    },
+    {
+      "text": "Peter Jackson's team colorized and converted over 100 hours of archival footage for They Shall Not Grow Old.",
+      "source": "https://en.wikipedia.org/wiki/Peter_Jackson%27s"
+    },
+    {
+      "text": "5 Broken Cameras (2011) was filmed by Palestinian farmer Emad Burnat and documented nonviolent resistance in the West Bank.",
+      "source": "https://en.wikipedia.org/wiki/Broken_Cameras"
+    },
+    {
+      "text": "The Square (2013) covered the Egyptian Revolution of 2011 from the perspective of activists in Tahrir Square.",
+      "source": "https://en.wikipedia.org/wiki/Square"
+    },
+    {
+      "text": "Cartel Land (2015) paralleled vigilante groups fighting drug cartels on both sides of the U.S.–Mexico border.",
+      "source": "https://en.wikipedia.org/wiki/Cartel_Land"
+    },
+    {
+      "text": "Last Days in Vietnam (2014) documented the chaotic final days of the Vietnam War and the evacuations from Saigon.",
+      "source": "https://en.wikipedia.org/wiki/Vietnam"
+    },
+    {
+      "text": "Hearts and Minds (1974) was one of the most influential anti-Vietnam War documentaries and won the Academy Award for Best Documentary Feature.",
+      "month": 4,
+      "day": 8,
+      "source": "https://en.wikipedia.org/wiki/Minds"
+    },
+    {
+      "text": "Jiro Ono was 85 years old at the time Jiro Dreams of Sushi was filmed and had been making sushi for over 75 years.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Jiro_Ono"
+    },
+    {
+      "text": "Chef's Table has profiled chefs from over 30 countries across its multiple seasons.",
+      "source": "https://en.wikipedia.org/wiki/Chef%27s_Table"
+    },
+    {
+      "text": "Cooked (2016), based on Michael Pollan's book, explored the four elements — fire, water, air, and earth — as they relate to cooking.",
+      "source": "https://en.wikipedia.org/wiki/Cooked"
+    },
+    {
+      "text": "Salt Fat Acid Heat (2018) was based on Samin Nosrat's bestselling cookbook.",
+      "source": "https://en.wikipedia.org/wiki/Salt_Fat_Acid_Heat"
+    },
+    {
+      "text": "Rotten (2018) on Netflix investigated fraud, corruption, and supply chain issues in the global food industry.",
+      "source": "https://en.wikipedia.org/wiki/Rotten"
+    },
+    {
+      "text": "The Mind of a Chef (2012–2017) on PBS was narrated by Anthony Bourdain and explored culinary creativity.",
+      "source": "https://en.wikipedia.org/wiki/Mind_of_a_Chef_(2012%E2%80%932017)_on_PBS"
+    },
+    {
+      "text": "Somm (2012) followed four candidates preparing for the notoriously difficult Master Sommelier exam.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Somm"
+    },
+    {
+      "text": "Netflix's Taco Chronicles (2019) dedicated each episode to a different type of taco and its cultural history.",
+      "source": "https://en.wikipedia.org/wiki/Netflix%27s_Taco_Chronicles"
+    },
+    {
+      "text": "Street Food (2019) on Netflix showcased street food vendors across Asia and Latin America.",
+      "source": "https://en.wikipedia.org/wiki/Street_Food"
+    },
+    {
+      "text": "Ugly Delicious (2018) hosted by chef David Chang challenged notions of food authenticity and cultural ownership.",
+      "source": "https://en.wikipedia.org/wiki/Ugly_Delicious"
+    },
+    {
+      "text": "The first Oscar for Best Documentary Feature was awarded in 1942 to Churchill's Island, a Canadian war film.",
+      "month": 2,
+      "day": 26,
+      "source": "https://en.wikipedia.org/wiki/first_Oscar_for_Best_Documentary_Feature"
+    },
+    {
+      "text": "The category of Best Documentary Short Subject was introduced at the Oscars in 1942.",
+      "source": "https://en.wikipedia.org/wiki/category_of_Best_Documentary_Short_Subject"
+    },
+    {
+      "text": "A total of five documentary features have been nominated for the Palme d'Or at Cannes and only one has won.",
+      "source": "https://en.wikipedia.org/wiki/A_total_of_five_documentary"
+    },
+    {
+      "text": "Bowling for Columbine won the Academy Award for Best Documentary Feature on March 23, 2003.",
+      "month": 3,
+      "day": 23,
+      "source": "https://en.wikipedia.org/wiki/Bowling_for_Columbine"
+    },
+    {
+      "text": "An Inconvenient Truth won the Academy Award for Best Documentary Feature on February 25, 2007.",
+      "month": 2,
+      "day": 25,
+      "source": "https://en.wikipedia.org/wiki/An_Inconvenient_Truth"
+    },
+    {
+      "text": "The Sundance Film Festival is one of the most important launchpads for documentary films in the world.",
+      "source": "https://en.wikipedia.org/wiki/Sundance_Film_Festival"
+    },
+    {
+      "text": "Sundance's U.S. Documentary Grand Jury Prize has been awarded annually since 1989.",
+      "source": "https://en.wikipedia.org/wiki/Sundance%27s_U.S._Documentary_Grand_Jury_Prize"
+    },
+    {
+      "text": "The Toronto International Film Festival (TIFF) has premiered many Oscar-winning documentaries.",
+      "source": "https://en.wikipedia.org/wiki/Toronto_International_Film_Festival_(TIFF)"
+    },
+    {
+      "text": "Hot Docs in Toronto is the largest documentary film festival in North America.",
+      "source": "https://en.wikipedia.org/wiki/Hot_Docs_in_Toronto"
+    },
+    {
+      "text": "IDFA (International Documentary Film Festival Amsterdam) is the world's largest documentary film festival.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/IDFA_(International_Documentary_Film_Festival_Amsterdam)"
+    },
+    {
+      "text": "Tribeca Film Festival, co-founded by Robert De Niro, has a significant documentary section.",
+      "source": "https://en.wikipedia.org/wiki/Tribeca_Film_Festival%2C_co-founded_by_Robert_De_Niro"
+    },
+    {
+      "text": "The Grierson Trust, named after documentary pioneer John Grierson, gives annual awards for documentaries in the UK.",
+      "source": "https://en.wikipedia.org/wiki/Grierson_Trust"
+    },
+    {
+      "text": "Chris Marker's La Jetée (1962) was a 28-minute French documentary-style film composed almost entirely of still photographs.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Chris_Marker%27s_La_Jet%C3%A9e_(1962)"
+    },
+    {
+      "text": "Night and Fog (1956) by Alain Resnais was one of the first documentaries about the Holocaust and remains one of the most powerful.",
+      "source": "https://en.wikipedia.org/wiki/Fog"
+    },
+    {
+      "text": "Koyaanisqatsi (1982) is a documentary with no narration or dialogue, using only time-lapse photography and a Philip Glass score.",
+      "source": "https://en.wikipedia.org/wiki/Koyaanisqatsi"
+    },
+    {
+      "text": "The word Koyaanisqatsi comes from the Hopi language and means 'life out of balance.'",
+      "source": "https://en.wikipedia.org/wiki/Documentary_film"
+    },
+    {
+      "text": "Baraka (1992) was filmed in 24 countries on six continents and used no words — only images and music.",
+      "source": "https://en.wikipedia.org/wiki/Baraka"
+    },
+    {
+      "text": "Samsara (2011), the spiritual sequel to Baraka, was filmed over five years in 25 countries.",
+      "source": "https://en.wikipedia.org/wiki/Samsara"
+    },
+    {
+      "text": "The Corporation (2003) examined the modern corporation as a legal 'person' and diagnosed its behavior as psychopathic.",
+      "source": "https://en.wikipedia.org/wiki/Corporation"
+    },
+    {
+      "text": "Particle Fever (2013) documented the search for the Higgs boson at CERN's Large Hadron Collider.",
+      "source": "https://en.wikipedia.org/wiki/Particle_Fever"
+    },
+    {
+      "text": "Apollo 11 (2019) used exclusively archival footage, much of it never before seen, to document the first Moon landing.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Apollo_11"
+    },
+    {
+      "text": "For All Mankind (1989) compiled NASA footage from all nine crewed Apollo missions into a single narrative.",
+      "source": "https://en.wikipedia.org/wiki/For_All_Mankind"
+    },
+    {
+      "text": "In the Shadow of the Moon (2007) featured interviews with most of the surviving Apollo astronauts.",
+      "source": "https://en.wikipedia.org/wiki/Moon"
+    },
+    {
+      "text": "Cosmos: A Personal Voyage was partly funded by the German TV network WDR, as Carl Sagan struggled to find American backers.",
+      "source": "https://en.wikipedia.org/wiki/Cosmos:_A_Personal_Voyage"
+    },
+    {
+      "text": "Cosmos was the most-watched PBS series in history for a decade after its 1980 premiere.",
+      "source": "https://en.wikipedia.org/wiki/Cosmos"
+    },
+    {
+      "text": "Carl Sagan's catchphrase 'billions and billions' became synonymous with his Cosmos series, though he claimed he never actually said it.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Carl_Sagan%27s_catchphrase_%27billions_and_billions"
+    },
+    {
+      "text": "Into the Inferno (2016) by Werner Herzog and volcanologist Clive Oppenheimer explored active volcanoes around the world.",
+      "source": "https://en.wikipedia.org/wiki/Inferno"
+    },
+    {
+      "text": "Werner Herzog's Encounters at the End of the World (2007) documented life at the McMurdo Station in Antarctica.",
+      "source": "https://en.wikipedia.org/wiki/World"
+    },
+    {
+      "text": "Cave of Forgotten Dreams (2010) by Werner Herzog was one of the first documentaries shot in 3D and explored the Chauvet Cave in France.",
+      "source": "https://en.wikipedia.org/wiki/Forgotten_Dreams"
+    },
+    {
+      "text": "Werner Herzog once said, 'The poet must not avert his eyes,' to describe his philosophy of documentary filmmaking.",
+      "source": "https://en.wikipedia.org/wiki/Werner_Herzog_once"
+    },
+    {
+      "text": "Frederick Wiseman's Titicut Follies (1967) was the first film to be banned in the United States for reasons other than obscenity or national security.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Frederick_Wiseman%27s_Titicut_Follies"
+    },
+    {
+      "text": "Wiseman's documentaries have covered institutions ranging from hospitals and schools to zoos and ballet companies.",
+      "source": "https://en.wikipedia.org/wiki/Wiseman%27s_documentaries"
+    },
+    {
+      "text": "Errol Morris worked as a private detective before becoming a filmmaker, a skill he applied to investigative documentaries.",
+      "source": "https://en.wikipedia.org/wiki/Errol_Morris"
+    },
+    {
+      "text": "The Thin Blue Line (1988) was so effective in proving Randall Dale Adams's innocence that it essentially functioned as a legal defense.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Thin_Blue_Line"
+    },
+    {
+      "text": "Standard Operating Procedure (2008) by Errol Morris investigated the Abu Ghraib prison abuse scandal.",
+      "source": "https://en.wikipedia.org/wiki/Standard_Operating_Procedure"
+    },
+    {
+      "text": "Tabloid (2010) by Errol Morris told the bizarre true story of Joyce McKinney, a former beauty queen accused of kidnapping a Mormon missionary.",
+      "source": "https://en.wikipedia.org/wiki/Tabloid"
+    },
+    {
+      "text": "Agnes Varda's The Gleaners and I (2000) explored themes of waste, consumption, and art using one of the first consumer digital cameras.",
+      "source": "https://en.wikipedia.org/wiki/Agnes_Varda%27s_The_Gleaners_and_I"
+    },
+    {
+      "text": "Varda was one of the most acclaimed female documentary filmmakers in cinema history.",
+      "source": "https://en.wikipedia.org/wiki/Varda"
+    },
+    {
+      "text": "Barbara Kopple won two Academy Awards for Best Documentary Feature — for Harlan County, U.S.A. (1976) and American Dream (1990).",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Harlan_County%2C_U.S.A"
+    },
+    {
+      "text": "Harlan County, U.S.A. documented a coal miners' strike in Kentucky and is one of the landmark American documentaries.",
+      "source": "https://en.wikipedia.org/wiki/Harlan_County%2C_U.S.A._documented_a_coal_miners%27_strike_in_Kentucky_and"
+    },
+    {
+      "text": "The Maysles brothers pioneered the direct cinema movement in America with films like Salesman (1968) and Grey Gardens (1975).",
+      "source": "https://en.wikipedia.org/wiki/Salesman"
+    },
+    {
+      "text": "Salesman (1968) followed four door-to-door Bible salesmen and is considered a masterpiece of cinéma vérité.",
+      "source": "https://en.wikipedia.org/wiki/Salesman"
+    },
+    {
+      "text": "Kirsten Johnson's Cameraperson (2016) used her accumulated footage from decades of documentary work as a memoir in images.",
+      "source": "https://en.wikipedia.org/wiki/Kirsten_Johnson%27s_Cameraperson"
+    },
+    {
+      "text": "Joshua Oppenheimer received both an Academy Award nomination and a BAFTA for The Act of Killing.",
+      "source": "https://en.wikipedia.org/wiki/Joshua_Oppenheimer"
+    },
+    {
+      "text": "Honeyland (2019) from North Macedonia became the first film to be nominated for both Best Documentary Feature and Best International Feature Film at the Oscars.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Honeyland"
+    },
+    {
+      "text": "The documentary Collective (2019) from Romania was also nominated for both Best Documentary Feature and Best International Feature Film.",
+      "source": "https://en.wikipedia.org/wiki/Collective"
+    },
+    {
+      "text": "Flee (2021) became the first film to be nominated for Best Animated Feature, Best Documentary Feature, and Best International Feature Film at the same time.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Flee"
+    },
+    {
+      "text": "The average budget for a feature-length documentary is significantly lower than narrative films, often under $1 million.",
+      "source": "https://en.wikipedia.org/wiki/average_budget_for_a_feature-length_documentary"
+    },
+    {
+      "text": "Crowdfunding platforms like Kickstarter and Indiegogo have become major funding sources for independent documentaries.",
+      "source": "https://en.wikipedia.org/wiki/Crowdfunding_platforms_like_Kickstarter_and_Indiegogo"
+    },
+    {
+      "text": "Catfish (2010) gave rise to the popular MTV series and added 'catfishing' to the cultural lexicon.",
+      "source": "https://en.wikipedia.org/wiki/Catfish"
+    },
+    {
+      "text": "The September Issue (2009) provided a behind-the-scenes look at the production of Vogue magazine's largest-ever issue.",
+      "source": "https://en.wikipedia.org/wiki/September_Issue"
+    },
+    {
+      "text": "Bill Cunningham New York (2010) profiled the iconic New York Times street fashion photographer.",
+      "source": "https://en.wikipedia.org/wiki/Bill_Cunningham_New_York"
+    },
+    {
+      "text": "McQueen (2018) explored the life and work of fashion designer Alexander McQueen.",
+      "source": "https://en.wikipedia.org/wiki/McQueen"
+    },
+    {
+      "text": "Iris (2014) by Albert Maysles was his final film, profiling 93-year-old fashion icon Iris Apfel.",
+      "source": "https://en.wikipedia.org/wiki/Iris"
+    },
+    {
+      "text": "The True Cost (2015) investigated the environmental and human impact of fast fashion around the world.",
+      "source": "https://en.wikipedia.org/wiki/True_Cost"
+    },
+    {
+      "text": "Minimalism: A Documentary About the Important Things (2015) explored the growing movement toward living with less.",
+      "source": "https://en.wikipedia.org/wiki/Important_Things"
+    },
+    {
+      "text": "Tiny (2013) documented the tiny house movement and people living in homes smaller than 200 square feet.",
+      "source": "https://en.wikipedia.org/wiki/Tiny"
+    },
+    {
+      "text": "Werner Herzog's Lo and Behold, Reveries of the Connected World (2016) explored the history and future of the internet.",
+      "source": "https://en.wikipedia.org/wiki/Connected_World"
+    },
+    {
+      "text": "The Inventor: Out for Blood in Silicon Valley (2019) on HBO examined the Theranos fraud and Elizabeth Holmes.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Silicon_Valley"
+    },
+    {
+      "text": "WeWork: Or the Making and Breaking of a $47 Billion Unicorn (2021) chronicled the rise and fall of the coworking company.",
+      "source": "https://en.wikipedia.org/wiki/Billion_Unicorn"
+    },
+    {
+      "text": "The Fyre fraud was the subject of two competing documentaries in 2019: Fyre on Netflix and Fyre Fraud on Hulu.",
+      "source": "https://en.wikipedia.org/wiki/Fyre_fraud"
+    },
+    {
+      "text": "Enron: The Smartest Guys in the Room (2005) detailed the rise and fall of the Enron Corporation.",
+      "source": "https://en.wikipedia.org/wiki/Room"
+    },
+    {
+      "text": "The documentary Downfall: The Case Against Boeing (2022) examined the 737 MAX crashes and Boeing's corporate failures.",
+      "source": "https://en.wikipedia.org/wiki/Downfall:_The_Case_Against_Boeing"
+    },
+    {
+      "text": "Miss Americana (2020) on Netflix provided a personal look at Taylor Swift's life and political awakening.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Miss_Americana"
+    },
+    {
+      "text": "Homecoming (2019) on Netflix captured Beyoncé's historic 2018 Coachella performance.",
+      "source": "https://en.wikipedia.org/wiki/Homecoming"
+    },
+    {
+      "text": "Beyoncé's Homecoming performance at Coachella was the first headlining set by a Black woman at the festival.",
+      "source": "https://en.wikipedia.org/wiki/Beyonc%C3%A9%27s_Homecoming_performance_at_Coachella"
+    },
+    {
+      "text": "Justin Bieber: Never Say Never (2011) grossed over $99 million worldwide, one of the highest-grossing concert films.",
+      "source": "https://en.wikipedia.org/wiki/Justin_Bieber:_Never_Say_Never"
+    },
+    {
+      "text": "This Is It (2009) documented Michael Jackson's rehearsals for his planned comeback concerts and grossed over $261 million worldwide.",
+      "source": "https://en.wikipedia.org/wiki/This_Is_It"
+    },
+    {
+      "text": "Straight Outta Compton (2015), while a narrative film, drew on decades of documentary footage of N.W.A.",
+      "source": "https://en.wikipedia.org/wiki/Straight_Outta_Compton"
+    },
+    {
+      "text": "The Beatles: Get Back (2021) by Peter Jackson used over 60 hours of unseen footage and 150 hours of unheard audio from 1969.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Beatles:_Get_Back"
+    },
+    {
+      "text": "Get Back showed the Beatles composing and recording songs that would become the Let It Be album in real time.",
+      "source": "https://en.wikipedia.org/wiki/Get_Back"
+    },
+    {
+      "text": "What Happened, Miss Simone? (2015) explored the life, music, and activism of Nina Simone.",
+      "source": "https://en.wikipedia.org/wiki/What_Happened%2C_Miss_Simone"
+    },
+    {
+      "text": "Summer of Soul (2021) by Questlove unearthed footage from the 1969 Harlem Cultural Festival that had been unseen for over 50 years.",
+      "month": 4,
+      "day": 25,
+      "source": "https://en.wikipedia.org/wiki/Soul"
+    },
+    {
+      "text": "Summer of Soul won the Academy Award for Best Documentary Feature at the 2022 ceremony.",
+      "month": 3,
+      "day": 27,
+      "source": "https://en.wikipedia.org/wiki/Summer_of_Soul"
+    },
+    {
+      "text": "20 Feet from Stardom (2013) highlighted the lives of backup singers behind major music stars and won the Academy Award.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Stardom"
+    },
+    {
+      "text": "Searching for Sugar Man won the Academy Award for Best Documentary Feature at the 2013 ceremony.",
+      "month": 2,
+      "day": 24,
+      "source": "https://en.wikipedia.org/wiki/Searching_for_Sugar_Man"
+    },
+    {
+      "text": "The documentary Gimme Danger (2016) by Jim Jarmusch chronicled the career of Iggy Pop and the Stooges.",
+      "source": "https://en.wikipedia.org/wiki/Gimme_Danger"
+    },
+    {
+      "text": "Kurt Cobain: Montage of Heck was the first documentary authorized by Cobain's family and featured his personal journals and artwork.",
+      "source": "https://en.wikipedia.org/wiki/Kurt_Cobain"
+    },
+    {
+      "text": "Sound City (2013) directed by Dave Grohl explored the legendary recording studio where Nirvana, Tom Petty, and Fleetwood Mac recorded.",
+      "source": "https://en.wikipedia.org/wiki/Nirvana_(band)"
+    },
+    {
+      "text": "Tupac: Resurrection (2003) was narrated entirely by Tupac Shakur using archival audio recordings.",
+      "source": "https://en.wikipedia.org/wiki/Tupac:_Resurrection"
+    },
+    {
+      "text": "I Am Not Your Negro (2016) was based on James Baldwin's unfinished manuscript and narrated by Samuel L. Jackson.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Am_Not_Your_Negro"
+    },
+    {
+      "text": "13th by Ava DuVernay was the first documentary to open the New York Film Festival in its 54-year history.",
+      "source": "https://en.wikipedia.org/wiki/13th_by_Ava_DuVernay"
+    },
+    {
+      "text": "The 13th Amendment to the U.S. Constitution, which abolished slavery, included a clause allowing involuntary servitude as punishment for crime — a key focus of the film 13th.",
+      "source": "https://en.wikipedia.org/wiki/Amendment_to_the_U.S._Constitution"
+    },
+    {
+      "text": "Strong Island (2017) explored the murder of filmmaker Yance Ford's brother and systemic racism in the justice system.",
+      "source": "https://en.wikipedia.org/wiki/Strong_Island"
+    },
+    {
+      "text": "Time (2020) by Garrett Bradley followed a woman fighting for her husband's release from a 60-year prison sentence.",
+      "source": "https://en.wikipedia.org/wiki/Time"
+    },
+    {
+      "text": "Crip Camp (2020) traced the disability rights movement back to a revolutionary summer camp in the 1970s.",
+      "source": "https://en.wikipedia.org/wiki/Crip_Camp"
+    },
+    {
+      "text": "Blackfish was partially credited with SeaWorld ending its orca breeding program in 2016.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Blackfish"
+    },
+    {
+      "text": "Before the Flood (2016) followed Leonardo DiCaprio as he explored the impacts of climate change around the world.",
+      "source": "https://en.wikipedia.org/wiki/Flood"
+    },
+    {
+      "text": "Chasing Ice (2012) used time-lapse cameras to document the retreat of glaciers due to climate change.",
+      "source": "https://en.wikipedia.org/wiki/Chasing_Ice"
+    },
+    {
+      "text": "Chasing Coral (2017) documented the bleaching and death of coral reefs worldwide due to rising ocean temperatures.",
+      "source": "https://en.wikipedia.org/wiki/Chasing_Coral"
+    },
+    {
+      "text": "Racing Extinction (2015) used covert tactics to expose the illegal wildlife trade and species extinction crisis.",
+      "source": "https://en.wikipedia.org/wiki/Racing_Extinction"
+    },
+    {
+      "text": "The Ivory Game (2016) went undercover to reveal the global ivory trafficking network.",
+      "source": "https://en.wikipedia.org/wiki/Ivory_Game"
+    },
+    {
+      "text": "Kiss the Ground (2020) narrated by Woody Harrelson explored regenerative agriculture as a solution to climate change.",
+      "source": "https://en.wikipedia.org/wiki/Ground"
+    },
+    {
+      "text": "David Attenborough's A Life on Our Planet was released in cinemas, on Netflix, and as a companion book simultaneously.",
+      "source": "https://en.wikipedia.org/wiki/David_Attenborough%27s_A_Life_on_Our_Planet"
+    },
+    {
+      "text": "Seaspiracy (2021) on Netflix controversially argued that commercial fishing is the biggest threat to ocean ecosystems.",
+      "source": "https://en.wikipedia.org/wiki/Seaspiracy"
+    },
+    {
+      "text": "Cowspiracy (2014) examined the environmental impact of animal agriculture and was executive produced by Leonardo DiCaprio.",
+      "source": "https://en.wikipedia.org/wiki/Cowspiracy"
+    },
+    {
+      "text": "Dominion (2018) used drone and hidden camera footage to expose conditions in Australian animal farming.",
+      "source": "https://en.wikipedia.org/wiki/Dominion"
+    },
+    {
+      "text": "Virunga (2014) documented the fight to protect the endangered mountain gorillas in the Congo's Virunga National Park.",
+      "source": "https://en.wikipedia.org/wiki/Virunga"
+    },
+    {
+      "text": "Trophy (2017) examined the complex debate around big-game hunting and wildlife conservation in Africa.",
+      "source": "https://en.wikipedia.org/wiki/Trophy"
+    },
+    {
+      "text": "The Biggest Little Farm (2018) documented a couple's eight-year effort to build a sustainable farm outside Los Angeles.",
+      "source": "https://en.wikipedia.org/wiki/Biggest_Little_Farm"
+    },
+    {
+      "text": "The Netflix model of acquiring and distributing documentaries has fundamentally changed the economics of documentary filmmaking.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Netflix_model_of_acquiring_and_distributing_documentaries"
+    },
+    {
+      "text": "Hulu, Amazon Prime Video, and Apple TV+ have all significantly invested in original documentary content since 2018.",
+      "source": "https://en.wikipedia.org/wiki/Hulu%2C_Amazon_Prime_Video%2C_and_Apple_TV%2B"
+    },
+    {
+      "text": "Apple TV+'s first documentary series, Home (2020), explored innovative architecture around the world.",
+      "source": "https://en.wikipedia.org/wiki/Home"
+    },
+    {
+      "text": "Disney+'s partnership with National Geographic brought landmark nature documentaries to the streaming platform.",
+      "source": "https://en.wikipedia.org/wiki/National_Geographic"
+    },
+    {
+      "text": "HBO Max (now Max) has continued HBO's legacy of prestigious documentary programming.",
+      "source": "https://en.wikipedia.org/wiki/HBO_Max_(now_Max)"
+    },
+    {
+      "text": "Discovery+ launched in 2021 as a streaming service dedicated largely to unscripted and documentary content.",
+      "source": "https://en.wikipedia.org/wiki/Discovery%2B"
+    },
+    {
+      "text": "The Paramount+ documentary series The Real Criminal Minds examined true crime cases.",
+      "source": "https://en.wikipedia.org/wiki/Paramount"
+    },
+    {
+      "text": "Peacock's documentary lineup includes true crime, sports, and social issue films.",
+      "source": "https://en.wikipedia.org/wiki/Peacock%27s_documentary_lineup"
+    },
+    {
+      "text": "YouTube has become a major platform for independent documentary filmmakers to share their work.",
+      "source": "https://en.wikipedia.org/wiki/YouTube"
+    },
+    {
+      "text": "The rise of short-form documentaries on YouTube, TikTok, and Instagram has created new audiences for nonfiction storytelling.",
+      "source": "https://en.wikipedia.org/wiki/rise_of_short-form_documentaries_on_YouTube%2C_TikTok%2C_and_Instagram"
+    },
+    {
+      "text": "Vice Media built much of its early reputation on short-form documentary journalism.",
+      "source": "https://en.wikipedia.org/wiki/Vice_Media"
+    },
+    {
+      "text": "The cost of high-quality camera equipment has dropped dramatically, democratizing documentary filmmaking.",
+      "source": "https://en.wikipedia.org/wiki/cost_of_high-quality_camera_equipment"
+    },
+    {
+      "text": "Drone cinematography has revolutionized the way nature and landscape documentaries are shot.",
+      "source": "https://en.wikipedia.org/wiki/Drone_cinematography"
+    },
+    {
+      "text": "GoPro cameras have enabled documentary filmmakers to capture extreme sports and adventure footage in ways previously impossible.",
+      "source": "https://en.wikipedia.org/wiki/GoPro_cameras"
+    },
+    {
+      "text": "The use of thermal imaging and night-vision cameras has opened up new possibilities for wildlife documentary filmmaking.",
+      "source": "https://en.wikipedia.org/wiki/use_of_thermal_imaging_and_night-vision_cameras"
+    },
+    {
+      "text": "IMAX documentaries like Deep Sea 3D and Hubble 3D have brought immersive nonfiction storytelling to giant screens.",
+      "source": "https://en.wikipedia.org/wiki/IMAX_documentaries_like_Deep_Sea_3D_and_Hubble_3D"
+    },
+    {
+      "text": "Hidden camera and undercover filming techniques have been crucial in investigative documentaries exposing abuses.",
+      "source": "https://en.wikipedia.org/wiki/Hidden_camera_and_undercover_filming_techniques"
+    },
+    {
+      "text": "Documentary podcasts like Serial (2014) have blurred the line between audio and visual documentary storytelling.",
+      "source": "https://en.wikipedia.org/wiki/Serial"
+    },
+    {
+      "text": "Serial, while an audio podcast, led directly to the documentary series The Case Against Adnan Syed (2019) on HBO.",
+      "source": "https://en.wikipedia.org/wiki/Case_Against_Adnan_Syed"
+    },
+    {
+      "text": "The use of reenactments in documentaries is controversial — some purists consider it a violation of the genre's principles.",
+      "source": "https://en.wikipedia.org/wiki/use_of_reenactments_in_documentaries"
+    },
+    {
+      "text": "Errol Morris has defended the use of reenactments, arguing they can reveal truth in ways observational footage cannot.",
+      "source": "https://en.wikipedia.org/wiki/Errol_Morris"
+    },
+    {
+      "text": "The 'fly-on-the-wall' style of documentary aims to observe subjects without interference from the filmmaker.",
+      "source": "https://en.wikipedia.org/wiki/Documentary_film"
+    },
+    {
+      "text": "Participatory documentaries feature the filmmaker as an active character, as seen in Morgan Spurlock's and Michael Moore's work.",
+      "source": "https://en.wikipedia.org/wiki/Morgan_Spurlock%27s_and_Michael_Moore%27s"
+    },
+    {
+      "text": "Reflexive documentaries acknowledge the filmmaking process itself and question the nature of representation.",
+      "source": "https://en.wikipedia.org/wiki/Documentary_film"
+    },
+    {
+      "text": "Performative documentaries emphasize subjective experience and emotional engagement over objective presentation.",
+      "source": "https://en.wikipedia.org/wiki/Documentary_film"
+    },
+    {
+      "text": "Poetic documentaries prioritize mood, tone, and visual associations over conventional narrative structure.",
+      "source": "https://en.wikipedia.org/wiki/Documentary_film"
+    },
+    {
+      "text": "Expository documentaries use voice-of-God narration to directly address the viewer — the most traditional documentary mode.",
+      "source": "https://en.wikipedia.org/wiki/Documentary_film"
+    },
+    {
+      "text": "Bill Nichols defined six modes of documentary filmmaking: poetic, expository, observational, participatory, reflexive, and performative.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Bill_Nichols"
+    },
+    {
+      "text": "The verité style of documentary was heavily influenced by the development of portable sync-sound cameras in the 1960s.",
+      "source": "https://en.wikipedia.org/wiki/verit%C3%A9_style_of_documentary"
+    },
+    {
+      "text": "Nanook of the North was controversial because director Flaherty staged many of the scenes he presented as real life.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Nanook_of_the_North"
+    },
+    {
+      "text": "The ethical debate surrounding reenactments and staging in documentaries has persisted since the genre's earliest days.",
+      "source": "https://en.wikipedia.org/wiki/ethical_debate_surrounding_reenactments_and_staging_in_documentaries"
+    },
+    {
+      "text": "Triumph of the Will (1935) by Leni Riefenstahl remains one of the most technically accomplished yet morally troubling documentaries ever made.",
+      "source": "https://en.wikipedia.org/wiki/Will"
+    },
+    {
+      "text": "Why We Fight (1943–1945) was a series of seven propaganda films commissioned by the U.S. government and directed by Frank Capra.",
+      "source": "https://en.wikipedia.org/wiki/Why_We_Fight_(1943%E2%80%931945)"
+    },
+    {
+      "text": "The Battle of Midway (1942), directed by John Ford, was filmed during the actual battle and won an Academy Award.",
+      "month": 6,
+      "day": 4,
+      "source": "https://en.wikipedia.org/wiki/Midway"
+    },
+    {
+      "text": "John Huston directed three World War II documentaries for the U.S. Army, including The Battle of San Pietro (1945).",
+      "source": "https://en.wikipedia.org/wiki/San_Pietro"
+    },
+    {
+      "text": "Let There Be Light (1946) by John Huston documented PTSD in returning soldiers and was suppressed by the U.S. Army for over 30 years.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Let_There_Be_Light"
+    },
+    {
+      "text": "The World at War (1973–1974) is a 26-episode British documentary series widely regarded as the definitive TV history of World War II.",
+      "source": "https://en.wikipedia.org/wiki/World_at_War_(1973%E2%80%931974)"
+    },
+    {
+      "text": "Ken Burns' The Roosevelts: An Intimate History (2014) explored the lives of Theodore, Franklin, and Eleanor Roosevelt over 14 hours.",
+      "source": "https://en.wikipedia.org/wiki/Ken_Burns%27_The_Roosevelts:_An_Intimate_History"
+    },
+    {
+      "text": "Ken Burns' Country Music (2019) was an eight-part, 16-hour documentary that traced the genre's entire history.",
+      "source": "https://en.wikipedia.org/wiki/Ken_Burns%27_Country_Music"
+    },
+    {
+      "text": "Ken Burns' Jazz (2001) was a 10-part series exploring the history of jazz music in America.",
+      "source": "https://en.wikipedia.org/wiki/Ken_Burns%27_Jazz"
+    },
+    {
+      "text": "Ken Burns' The National Parks: America's Best Idea (2009) led to increased visitation at national parks.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Ken_Burns%27_The_National_Parks:_America%27s_Best_Idea"
+    },
+    {
+      "text": "Eyes on the Prize (1987, 1990) is the most acclaimed documentary series about the American civil rights movement.",
+      "source": "https://en.wikipedia.org/wiki/Eyes_on_the_Prize_(1987%2C_1990)"
+    },
+    {
+      "text": "The Civil Rights Act of 1964 was signed into law on July 2, 1964, an event extensively covered in Eyes on the Prize.",
+      "month": 7,
+      "day": 2,
+      "source": "https://en.wikipedia.org/wiki/Civil_Rights_Act_of_1964"
+    },
+    {
+      "text": "Paris Is Burning (1990) documented ball culture in New York City and introduced mainstream audiences to voguing.",
+      "source": "https://en.wikipedia.org/wiki/Paris_Is_Burning"
+    },
+    {
+      "text": "The Times of Harvey Milk (1984) won the Academy Award for Best Documentary Feature.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Harvey_Milk"
+    },
+    {
+      "text": "How to Survive a Plague (2012) documented the activism of ACT UP and TAG in fighting the AIDS epidemic.",
+      "source": "https://en.wikipedia.org/wiki/Plague"
+    },
+    {
+      "text": "United States vs. Billie Holiday and other narrative films drew heavily on documentary research about the War on Drugs.",
+      "source": "https://en.wikipedia.org/wiki/United_States_vs._Billie_Holiday_and"
+    },
+    {
+      "text": "The Oscar-winning documentary Born into Brothels (2004) gave cameras to children of sex workers in Calcutta.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Brothels"
+    },
+    {
+      "text": "Life Itself (2014) was a documentary about legendary film critic Roger Ebert, completed shortly after his death.",
+      "source": "https://en.wikipedia.org/wiki/Life_Itself"
+    },
+    {
+      "text": "Visions of Light (1992) celebrated the art of cinematography through interviews with legendary directors of photography.",
+      "source": "https://en.wikipedia.org/wiki/Light"
+    },
+    {
+      "text": "The Story of Film: An Odyssey (2011) was a 15-hour documentary series tracing the complete history of world cinema.",
+      "source": "https://en.wikipedia.org/wiki/Film:_An_Odyssey"
+    },
+    {
+      "text": "Side by Side (2012) hosted by Keanu Reeves explored the transition from photochemical film to digital cinema.",
+      "source": "https://en.wikipedia.org/wiki/Side"
+    },
+    {
+      "text": "Room 237 (2012) examined various conspiracy theories and hidden meanings in Stanley Kubrick's The Shining.",
+      "source": "https://en.wikipedia.org/wiki/Room_237"
+    },
+    {
+      "text": "Jodorowsky's Dune (2013) documented Alejandro Jodorowsky's ambitious but unrealized adaptation of Dune.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Jodorowsky%27s_Dune"
+    },
+    {
+      "text": "Lost in La Mancha (2002) documented Terry Gilliam's failed attempt to film The Man Who Killed Don Quixote.",
+      "source": "https://en.wikipedia.org/wiki/La_Mancha"
+    },
+    {
+      "text": "Hearts of Darkness: A Filmmaker's Apocalypse (1991) documented the troubled production of Apocalypse Now.",
+      "source": "https://en.wikipedia.org/wiki/Filmmaker%27s_Apocalypse"
+    },
+    {
+      "text": "Burden of Dreams (1982) by Les Blank documented the extreme difficulties of Werner Herzog filming Fitzcarraldo in the Amazon.",
+      "source": "https://en.wikipedia.org/wiki/Dreams"
+    },
+    {
+      "text": "ILM: Industrial Light & Magic (2022) on Disney+ celebrated the special effects company founded by George Lucas.",
+      "source": "https://en.wikipedia.org/wiki/Magic"
+    },
+    {
+      "text": "The First Movie (2009) by Mark Cousins explored how children in a Kurdish village respond to cinema.",
+      "source": "https://en.wikipedia.org/wiki/First_Movie"
+    },
+    {
+      "text": "Roadrunner: A Film About Anthony Bourdain (2021) controversially used AI to recreate Bourdain's voice.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Film_About_Anthony_Bourdain"
+    },
+    {
+      "text": "The use of AI-generated voiceovers in Roadrunner sparked a debate about ethics in documentary filmmaking.",
+      "source": "https://en.wikipedia.org/wiki/Documentary_film"
+    },
+    {
+      "text": "Deepfake technology presents new ethical challenges for the documentary genre.",
+      "source": "https://en.wikipedia.org/wiki/Documentary_film"
+    },
+    {
+      "text": "Nanook of the North was released on June 11, 1922, and is over 100 years old.",
+      "month": 6,
+      "day": 11,
+      "source": "https://en.wikipedia.org/wiki/Nanook_of_the_North"
+    },
+    {
+      "text": "Robert Flaherty's Man of Aran (1934) documented life on the Aran Islands off the west coast of Ireland.",
+      "source": "https://en.wikipedia.org/wiki/Aran"
+    },
+    {
+      "text": "Dziga Vertov's Man with a Movie Camera (1929) was a groundbreaking Soviet documentary about life in Ukrainian and Russian cities.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Movie_Camera"
+    },
+    {
+      "text": "Man with a Movie Camera is frequently ranked as one of the greatest documentaries ever made.",
+      "source": "https://en.wikipedia.org/wiki/Man_with_a_Movie_Camera"
+    },
+    {
+      "text": "Olympia (1938) by Leni Riefenstahl documented the 1936 Berlin Olympics and introduced many techniques still used in sports broadcasting.",
+      "source": "https://en.wikipedia.org/wiki/Olympia"
+    },
+    {
+      "text": "Primary (1960) by Robert Drew followed John F. Kennedy and Hubert Humphrey during the 1960 Wisconsin primary election.",
+      "source": "https://en.wikipedia.org/wiki/Primary"
+    },
+    {
+      "text": "Primary is considered one of the first films of the American direct cinema movement.",
+      "source": "https://en.wikipedia.org/wiki/Primary"
+    },
+    {
+      "text": "Chronicle of a Summer (1961) by Jean Rouch and Edgar Morin is considered the founding film of cinéma vérité.",
+      "source": "https://en.wikipedia.org/wiki/Summer"
+    },
+    {
+      "text": "The Sorrow and the Pity (1969) challenged the myth of widespread French resistance during World War II.",
+      "source": "https://en.wikipedia.org/wiki/Pity"
+    },
+    {
+      "text": "Marcel Ophüls' The Sorrow and the Pity was banned from French television for over a decade after its release.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Marcel_Oph%C3%BCls%27_The_Sorrow_and_the_Pity"
+    },
+    {
+      "text": "Crumb (1994) by Terry Zwigoff profiled underground comics artist Robert Crumb and his eccentric family.",
+      "source": "https://en.wikipedia.org/wiki/Crumb"
+    },
+    {
+      "text": "American Movie (1999) followed aspiring filmmaker Mark Borchardt's efforts to complete his ultra-low-budget horror film.",
+      "source": "https://en.wikipedia.org/wiki/American_Movie"
+    },
+    {
+      "text": "Dark Days (2000) by Marc Singer documented the lives of people living in the Freedom Tunnel beneath New York City's Riverside Park.",
+      "source": "https://en.wikipedia.org/wiki/Dark_Days"
+    },
+    {
+      "text": "Stevie (2002) by Steve James (who also directed Hoop Dreams) was a deeply personal study of a troubled young man in rural Illinois.",
+      "source": "https://en.wikipedia.org/wiki/Stevie"
+    },
+    {
+      "text": "The Gleaners and I was shot by Agnes Varda using a handheld digital camera, helping legitimize consumer-grade cameras for documentary use.",
+      "source": "https://en.wikipedia.org/wiki/Gleaners_and_I"
+    },
+    {
+      "text": "Touching the Void (2003) used dramatic reenactments to tell the harrowing climbing story of Joe Simpson and Simon Yates.",
+      "source": "https://en.wikipedia.org/wiki/Void"
+    },
+    {
+      "text": "Deep Water (2006) documented the 1968 Golden Globe yacht race and Donald Crowhurst's tragic and mysterious journey.",
+      "source": "https://en.wikipedia.org/wiki/Deep_Water"
+    },
+    {
+      "text": "Man on Wire won the Academy Award for Best Documentary Feature at the 2009 ceremony.",
+      "month": 2,
+      "day": 22,
+      "source": "https://en.wikipedia.org/wiki/Man_on_Wire"
+    },
+    {
+      "text": "Project Nim (2011) by James Marsh (who directed Man on Wire) told the story of a chimpanzee raised as a human.",
+      "source": "https://en.wikipedia.org/wiki/Project_Nim"
+    },
+    {
+      "text": "Blackfish director Gabriela Cowperthwaite was inspired to make the film after the death of SeaWorld trainer Dawn Brancheau.",
+      "month": 2,
+      "day": 24,
+      "source": "https://en.wikipedia.org/wiki/Blackfish_director_Gabriela_Cowperthwaite"
+    },
+    {
+      "text": "The Look of Silence (2014), Joshua Oppenheimer's companion film to The Act of Killing, followed a victim's family confronting perpetrators.",
+      "source": "https://en.wikipedia.org/wiki/Silence"
+    },
+    {
+      "text": "Tower (2016) used rotoscope animation to recreate the 1966 University of Texas mass shooting.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Tower"
+    },
+    {
+      "text": "Kate Plays Christine (2016) blurred the line between documentary and fiction by following an actress preparing to play a role.",
+      "source": "https://en.wikipedia.org/wiki/Kate_Plays_Christine"
+    },
+    {
+      "text": "Shirkers (2018) explored a stolen film and lost friendship in a highly personal and genre-bending way.",
+      "source": "https://en.wikipedia.org/wiki/Shirkers"
+    },
+    {
+      "text": "Minding the Gap (2018) by Bing Liu used skateboarding to explore themes of domestic abuse, race, and class.",
+      "source": "https://en.wikipedia.org/wiki/Gap"
+    },
+    {
+      "text": "The Cave (2019) documented a female doctor running an underground hospital in war-torn Syria.",
+      "source": "https://en.wikipedia.org/wiki/Cave"
+    },
+    {
+      "text": "American Factory (2019) was the first film released by Barack and Michelle Obama's production company Higher Ground.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/American_Factory"
+    },
+    {
+      "text": "American Factory won the Academy Award for Best Documentary Feature at the 2020 ceremony.",
+      "month": 2,
+      "day": 9,
+      "source": "https://en.wikipedia.org/wiki/American_Factory"
+    },
+    {
+      "text": "Dick Johnson Is Dead (2020) by Kirsten Johnson used staged death scenes to explore her father's dementia.",
+      "source": "https://en.wikipedia.org/wiki/Dick_Johnson_Is_Dead"
+    },
+    {
+      "text": "Collective (2019) followed journalists investigating a Romanian hospital corruption scandal after a nightclub fire killed 64 people.",
+      "source": "https://en.wikipedia.org/wiki/Collective"
+    },
+    {
+      "text": "Fire of Love (2022) chronicled the lives and eventual deaths of French volcanologists Katia and Maurice Krafft.",
+      "source": "https://en.wikipedia.org/wiki/Love"
+    },
+    {
+      "text": "All the Beauty and the Bloodshed (2022) by Laura Poitras won the Golden Lion at the Venice Film Festival, a rare honor for a documentary.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Bloodshed"
+    },
+    {
+      "text": "Navalny (2022) documented Russian opposition leader Alexei Navalny's investigation into his own poisoning and won the Academy Award.",
+      "month": 3,
+      "day": 12,
+      "source": "https://en.wikipedia.org/wiki/Navalny"
+    },
+    {
+      "text": "20 Days in Mariupol (2023) won the Academy Award for Best Documentary Feature and documented the Russian siege of Mariupol.",
+      "month": 3,
+      "day": 10,
+      "source": "https://en.wikipedia.org/wiki/Mariupol"
+    },
+    {
+      "text": "Prehistoric Planet (2022) on Apple TV+ used CGI to recreate dinosaurs in a nature documentary style narrated by David Attenborough.",
+      "source": "https://en.wikipedia.org/wiki/Prehistoric_Planet"
+    },
+    {
+      "text": "The Alpinist (2021) documented the life and climbs of Marc-André Leclerc, one of the most daring free soloists in history.",
+      "source": "https://en.wikipedia.org/wiki/Alpinist"
+    },
+    {
+      "text": "Return to Space (2022) on Netflix followed Elon Musk and SpaceX's mission to return American astronauts to the International Space Station.",
+      "source": "https://en.wikipedia.org/wiki/Space"
+    },
+    {
+      "text": "The Rescue (2021) by the Free Solo directors documented the 2018 Tham Luang cave rescue in Thailand.",
+      "source": "https://en.wikipedia.org/wiki/Rescue"
+    },
+    {
+      "text": "The Rescue used a combination of reenactments, archival footage, and interviews to tell the cave rescue story.",
+      "source": "https://en.wikipedia.org/wiki/Rescue"
+    },
+    {
+      "text": "Stutz (2022) directed by Jonah Hill featured conversations with his therapist in a unique and personal documentary.",
+      "source": "https://en.wikipedia.org/wiki/Stutz"
+    },
+    {
+      "text": "Pamela, A Love Story (2023) on Netflix was an authorized documentary about Pamela Anderson's life.",
+      "source": "https://en.wikipedia.org/wiki/Love_Story"
+    },
+    {
+      "text": "Arnold (2023) on Netflix was a three-part docuseries about Arnold Schwarzenegger's life and career.",
+      "source": "https://en.wikipedia.org/wiki/Arnold"
+    },
+    {
+      "text": "Beckham (2023) on Netflix became one of the most-watched documentary series in the platform's history.",
+      "source": "https://en.wikipedia.org/wiki/Beckham"
+    },
+    {
+      "text": "The Tinder Swindler (2022) on Netflix exposed a con man who defrauded women he met on Tinder out of millions.",
+      "source": "https://en.wikipedia.org/wiki/Tinder_Swindler"
+    },
+    {
+      "text": "Bad Vegan (2022) on Netflix told the story of a New York restaurateur who was manipulated into fraud.",
+      "source": "https://en.wikipedia.org/wiki/Bad_Vegan"
+    },
+    {
+      "text": "The Puppet Master: Hunting the Ultimate Con Man (2022) on Netflix exposed one of the UK's most notorious fraudsters.",
+      "source": "https://en.wikipedia.org/wiki/Ultimate_Con_Man"
+    },
+    {
+      "text": "Keep Sweet: Pray and Obey (2022) on Netflix documented the abuses within the FLDS church under Warren Jeffs.",
+      "source": "https://en.wikipedia.org/wiki/Obey"
+    },
+    {
+      "text": "Our Father (2022) on Netflix uncovered the story of a fertility doctor who secretly fathered dozens of children.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Our_Father"
+    },
+    {
+      "text": "Girl in the Picture (2022) on Netflix unraveled a complex true crime mystery of identity and coercion.",
+      "source": "https://en.wikipedia.org/wiki/Picture"
+    },
+    {
+      "text": "The first documentary to gross over $100 million at the worldwide box office was Fahrenheit 9/11 in 2004.",
+      "source": "https://en.wikipedia.org/wiki/first_documentary_to_gross_over_%24100_million_at_the_worldwide_box_office"
+    },
+    {
+      "text": "March of the Penguins was narrated by Morgan Freeman in the English version, while the French original had voiced penguin characters.",
+      "source": "https://en.wikipedia.org/wiki/March_of_the_Penguins"
+    },
+    {
+      "text": "Jackass: The Movie (2002), while classified as comedy, contained elements of documentary filmmaking.",
+      "source": "https://en.wikipedia.org/wiki/Jackass:_The_Movie"
+    },
+    {
+      "text": "Borat (2006) blended scripted comedy with genuine documentarian interactions, challenging genre boundaries.",
+      "source": "https://en.wikipedia.org/wiki/Borat"
+    },
+    {
+      "text": "Bruno (2009), also by Sacha Baron Cohen, continued the mockumentary-documentary hybrid format.",
+      "source": "https://en.wikipedia.org/wiki/Bruno"
+    },
+    {
+      "text": "This Is Spinal Tap (1984) popularized the mockumentary format, though it is not a true documentary.",
+      "source": "https://en.wikipedia.org/wiki/This_Is_Spinal_Tap"
+    },
+    {
+      "text": "Best in Show (2000) and other Christopher Guest films have perfected the mockumentary genre.",
+      "source": "https://en.wikipedia.org/wiki/Show"
+    },
+    {
+      "text": "The Blair Witch Project (1999) used found-footage documentary techniques to create a horror film phenomenon.",
+      "source": "https://en.wikipedia.org/wiki/Blair_Witch_Project"
+    },
+    {
+      "text": "Lake Mungo (2008) was an Australian horror film presented entirely as a mockumentary.",
+      "source": "https://en.wikipedia.org/wiki/Lake_Mungo"
+    },
+    {
+      "text": "The Office (2001–2003, UK; 2005–2013, US) popularized the mockumentary format for television comedy.",
+      "source": "https://en.wikipedia.org/wiki/Office"
+    },
+    {
+      "text": "Modern Family (2009–2020) also employed the mockumentary format popularized by The Office.",
+      "source": "https://en.wikipedia.org/wiki/Modern_Family"
+    },
+    {
+      "text": "Documentary filmmaking was originally done on film, but the transition to digital video in the 2000s made production far more accessible.",
+      "source": "https://en.wikipedia.org/wiki/Documentary_filmmaking"
+    },
+    {
+      "text": "The ARRI Alexa and RED camera systems are among the most popular high-end cameras used for modern documentary filmmaking.",
+      "source": "https://en.wikipedia.org/wiki/ARRI_Alexa_and_RED_camera_systems"
+    },
+    {
+      "text": "Many wildlife documentaries take years to film because they must wait for specific animal behaviors to occur naturally.",
+      "source": "https://en.wikipedia.org/wiki/Documentary_film"
+    },
+    {
+      "text": "Planet Earth reportedly took 2,000 days of filming across five years to complete.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Planet_Earth_reportedly"
+    },
+    {
+      "text": "The BBC Natural History Unit, based in Bristol, England, is the world's largest wildlife documentary production unit.",
+      "source": "https://en.wikipedia.org/wiki/BBC_Natural_History_Unit%2C_based_in_Bristol%2C_England"
+    },
+    {
+      "text": "National Geographic has been producing documentary content since the 1960s under its television division.",
+      "source": "https://en.wikipedia.org/wiki/National_Geographic"
+    },
+    {
+      "text": "The Discovery Channel launched in 1985 and became one of the first cable channels dedicated to documentary programming.",
+      "month": 6,
+      "day": 17,
+      "source": "https://en.wikipedia.org/wiki/Discovery_Channel_launched_in_1985_and"
+    },
+    {
+      "text": "PBS's Frontline series has been producing investigative documentaries since 1983 and has won numerous Peabody and Emmy Awards.",
+      "source": "https://en.wikipedia.org/wiki/PBS%27s_Frontline_series"
+    },
+    {
+      "text": "POV on PBS has been showcasing independent documentaries since 1988 and is the longest-running documentary series on television.",
+      "source": "https://en.wikipedia.org/wiki/POV_on_PBS"
+    },
+    {
+      "text": "The Criterion Collection has released numerous restored documentaries, helping preserve the genre's history.",
+      "source": "https://en.wikipedia.org/wiki/Criterion_Collection"
+    },
+    {
+      "text": "The Peabody Award, one of the most prestigious in electronic media, regularly honors outstanding documentaries.",
+      "source": "https://en.wikipedia.org/wiki/Peabody_Award"
+    },
+    {
+      "text": "The Cinema Eye Honors, founded in 2008, are dedicated exclusively to recognizing nonfiction filmmaking.",
+      "source": "https://en.wikipedia.org/wiki/Cinema_Eye_Honors"
+    },
+    {
+      "text": "The IDA (International Documentary Association) Documentary Awards have honored the best in nonfiction filmmaking since 1984.",
+      "source": "https://en.wikipedia.org/wiki/IDA_(International_Documentary_Association)_Documentary_Awards"
+    },
+    {
+      "text": "The True/False Film Fest in Columbia, Missouri, has become one of the most respected documentary festivals in the United States.",
+      "source": "https://en.wikipedia.org/wiki/True%2FFalse_Film_Fest_in_Columbia%2C_Missouri"
+    },
+    {
+      "text": "Full Frame Documentary Film Festival in Durham, North Carolina, is another prestigious American documentary festival.",
+      "source": "https://en.wikipedia.org/wiki/Full_Frame_Documentary_Film_Festival_in_Durham%2C_North_Carolina"
+    },
+    {
+      "text": "Sheffield DocFest in England is one of the most important documentary festivals in Europe.",
+      "source": "https://en.wikipedia.org/wiki/Sheffield_DocFest_in_England"
+    },
+    {
+      "text": "CPH:DOX in Copenhagen has grown into one of the largest documentary film festivals in the world.",
+      "source": "https://en.wikipedia.org/wiki/CPH:DOX_in_Copenhagen"
+    },
+    {
+      "text": "Sundance premiered both Blackfish and Searching for Sugar Man, which went on to win Academy Awards.",
+      "source": "https://en.wikipedia.org/wiki/Blackfish_and_Searching_for_Sugar_Man"
+    },
+    {
+      "text": "The Sundance Documentary Fund provides crucial grants to documentary filmmakers around the world.",
+      "source": "https://en.wikipedia.org/wiki/Sundance_Documentary_Fund"
+    },
+    {
+      "text": "Netflix's success with documentaries has led every major streaming platform to invest more heavily in nonfiction content.",
+      "source": "https://en.wikipedia.org/wiki/Netflix%27s_success_with_documentaries"
+    },
+    {
+      "text": "Streaming platforms now acquire many documentaries directly from film festivals, sometimes before theatrical release.",
+      "source": "https://en.wikipedia.org/wiki/Documentary_film"
+    },
+    {
+      "text": "The pandemic accelerated the direct-to-streaming release model for documentaries.",
+      "source": "https://en.wikipedia.org/wiki/Documentary_film"
+    },
+    {
+      "text": "Tiger King was released on Netflix on March 20, 2020, just as COVID-19 lockdowns began across the United States.",
+      "month": 3,
+      "day": 20,
+      "source": "https://en.wikipedia.org/wiki/Tiger_King"
+    },
+    {
+      "text": "Tiger King was viewed by 64 million households in its first four weeks on Netflix.",
+      "source": "https://en.wikipedia.org/wiki/Tiger_King"
+    },
+    {
+      "text": "The documentary series Wild Wild Country was based on archival footage the Rajneeshees had filmed themselves.",
+      "source": "https://en.wikipedia.org/wiki/documentary_series_Wild_Wild_Country"
+    },
+    {
+      "text": "Wild Wild Country won the Primetime Emmy Award for Outstanding Documentary or Nonfiction Series in 2018.",
+      "source": "https://en.wikipedia.org/wiki/Wild_Wild_Country"
+    },
+    {
+      "text": "The Defiant Ones (2017) on HBO documented the partnership between Jimmy Iovine and Dr. Dre.",
+      "source": "https://en.wikipedia.org/wiki/Defiant_Ones"
+    },
+    {
+      "text": "Hip-Hop Evolution (2016–2020) on Netflix traced the history of hip-hop music from its origins to the present day.",
+      "source": "https://en.wikipedia.org/wiki/Hip-Hop_Evolution"
+    },
+    {
+      "text": "Quincy (2018) on Netflix profiled the legendary music producer Quincy Jones and was co-directed by his daughter Rashida Jones.",
+      "source": "https://en.wikipedia.org/wiki/Quincy"
+    },
+    {
+      "text": "Springsteen on Broadway (2018) on Netflix captured Bruce Springsteen's one-man show on Broadway.",
+      "source": "https://en.wikipedia.org/wiki/Broadway"
+    },
+    {
+      "text": "Taylor Swift: The Eras Tour (2023) was technically a concert film but used documentary elements.",
+      "month": 10,
+      "day": 13,
+      "source": "https://en.wikipedia.org/wiki/Taylor_Swift:_The_Eras_Tour"
+    },
+    {
+      "text": "The documentary Stop Making Sense (1984) about the Talking Heads is widely considered the greatest concert film ever made.",
+      "source": "https://en.wikipedia.org/wiki/Stop_Making_Sense"
+    },
+    {
+      "text": "Stop Making Sense was re-released in IMAX in 2023 and again became a theatrical hit.",
+      "source": "https://en.wikipedia.org/wiki/Stop_Making_Sense"
+    },
+    {
+      "text": "The Last Waltz (1978) by Martin Scorsese documented The Band's final concert.",
+      "source": "https://en.wikipedia.org/wiki/Last_Waltz"
+    },
+    {
+      "text": "Shut Up and Play the Hits (2012) captured LCD Soundsystem's final concert at Madison Square Garden.",
+      "source": "https://en.wikipedia.org/wiki/Hits"
+    },
+    {
+      "text": "David Attenborough was born on May 8, 1926, and has been making documentaries for over seven decades.",
+      "month": 5,
+      "day": 8,
+      "source": "https://en.wikipedia.org/wiki/David_Attenborough"
+    },
+    {
+      "text": "Blue Planet (2001) was the first nature series to extensively explore Earth's marine environments.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Blue_Planet"
+    },
+    {
+      "text": "Green Planet (2022) explored the hidden world of plants using revolutionary time-lapse and macro photography.",
+      "source": "https://en.wikipedia.org/wiki/Green_Planet"
+    },
+    {
+      "text": "The Hunt for the Wilderpeople (2016), while a narrative film, was inspired by New Zealand's documentary-rich filmmaking culture.",
+      "source": "https://en.wikipedia.org/wiki/Wilderpeople"
+    },
+    {
+      "text": "Jane (2017) used previously unseen footage from the 1960s to tell the story of Jane Goodall's early work with chimpanzees.",
+      "source": "https://en.wikipedia.org/wiki/Jane"
+    },
+    {
+      "text": "Jane Goodall began her research on chimpanzees in Tanzania's Gombe Stream on July 14, 1960.",
+      "month": 7,
+      "day": 14,
+      "source": "https://en.wikipedia.org/wiki/Jane_Goodall"
+    },
+    {
+      "text": "The Elephant Queen (2019) followed a herd of elephants in Africa and was one of the first documentaries on Apple TV+.",
+      "source": "https://en.wikipedia.org/wiki/Elephant_Queen"
+    },
+    {
+      "text": "David Attenborough's Blue Planet II episode on the deep sea was filmed at depths of over 1,000 meters.",
+      "source": "https://en.wikipedia.org/wiki/David_Attenborough%27s_Blue_Planet_II_episode_on_the_deep_sea"
+    },
+    {
+      "text": "Werner Herzog believes in the 'ecstatic truth' — that documentaries should capture a deeper truth beyond mere facts.",
+      "source": "https://en.wikipedia.org/wiki/Werner_Herzog"
+    },
+    {
+      "text": "The documentary format has expanded into virtual reality, with projects like Notes on Blindness VR.",
+      "source": "https://en.wikipedia.org/wiki/documentary_format"
+    },
+    {
+      "text": "Interactive documentaries allow viewers to choose their own paths through a story, creating personalized experiences.",
+      "source": "https://en.wikipedia.org/wiki/Documentary_film"
+    },
+    {
+      "text": "The MIT Open Documentary Lab studies new forms of documentary storytelling including VR and interactive media.",
+      "source": "https://en.wikipedia.org/wiki/MIT_Open_Documentary_Lab"
+    },
+    {
+      "text": "Documentary films have increasingly been used as evidence in court cases and Congressional hearings.",
+      "source": "https://en.wikipedia.org/wiki/Documentary_films"
+    },
+    {
+      "text": "The documentary Fed Up (2014) narrated by Katie Couric investigated the role of sugar in the American obesity epidemic.",
+      "source": "https://en.wikipedia.org/wiki/Fed_Up"
+    },
+    {
+      "text": "That Sugar Film (2014) was an Australian documentary where filmmaker Damon Gameau consumed a high-sugar diet for 60 days.",
+      "source": "https://en.wikipedia.org/wiki/That_Sugar_Film"
+    },
+    {
+      "text": "The Magic Pill (2017) explored the ketogenic diet and its potential health benefits.",
+      "source": "https://en.wikipedia.org/wiki/Magic_Pill"
+    },
+    {
+      "text": "Fasting (2017) examined intermittent fasting through a documentary lens.",
+      "source": "https://en.wikipedia.org/wiki/Fasting"
+    },
+    {
+      "text": "What the Health (2017) examined the connection between diet and disease.",
+      "source": "https://en.wikipedia.org/wiki/Health"
+    },
+    {
+      "text": "Game Changers producer James Cameron owns a plant-based protein company, leading some critics to question the film's objectivity.",
+      "source": "https://en.wikipedia.org/wiki/Game_Changers"
+    },
+    {
+      "text": "Wasted! The Story of Food Waste (2017) narrated by Anthony Bourdain explored global food waste issues.",
+      "source": "https://en.wikipedia.org/wiki/Food_Waste"
+    },
+    {
+      "text": "The Oscar for Best Documentary Feature in 2024 went to 20 Days in Mariupol by Mstyslav Chernov.",
+      "month": 3,
+      "day": 10,
+      "source": "https://en.wikipedia.org/wiki/Oscar_for_Best_Documentary_Feature"
+    },
+    {
+      "text": "Every year, the Academy shortlists around 15 documentary features before narrowing to five nominees.",
+      "source": "https://en.wikipedia.org/wiki/Every_year%2C_the_Academy_shortlists_around_15_documentary"
+    },
+    {
+      "text": "Non-fiction filmmaking has existed since the very earliest days of cinema — the Lumière brothers' first films in 1895 were essentially documentaries.",
+      "month": 12,
+      "day": 28,
+      "source": "https://en.wikipedia.org/wiki/Non-fiction_filmmaking"
+    },
+    {
+      "text": "The Lumière brothers' Workers Leaving the Lumière Factory (1895) is often considered the first documentary film.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Lumi%C3%A8re_brothers%27_Workers_Leaving_the_Lumi%C3%A8re_Factory_(1895)"
+    },
+    {
+      "text": "Robert Flaherty is often called the 'father of documentary film' for his pioneering work on Nanook of the North.",
+      "source": "https://en.wikipedia.org/wiki/Robert_Flaherty"
+    },
+    {
+      "text": "John Grierson coined the term 'documentary' and founded the British Documentary Film Movement in the 1930s.",
+      "source": "https://en.wikipedia.org/wiki/John_Grierson_coined_the_term_%27documentary%27_and"
+    },
+    {
+      "text": "The GPO Film Unit in Britain, led by Grierson, produced innovative documentaries including Night Mail (1936).",
+      "source": "https://en.wikipedia.org/wiki/Night_Mail"
+    },
+    {
+      "text": "Night Mail (1936) featured poetry by W.H. Auden and music by Benjamin Britten.",
+      "source": "https://en.wikipedia.org/wiki/Night_Mail"
+    },
+    {
+      "text": "Humphrey Jennings' Listen to Britain (1942) used sound and image to paint a portrait of wartime Britain.",
+      "source": "https://en.wikipedia.org/wiki/Britain"
+    },
+    {
+      "text": "Point of Order (1964) by Emile de Antonio used only archival footage to document the Army–McCarthy hearings.",
+      "source": "https://en.wikipedia.org/wiki/Order"
+    },
+    {
+      "text": "Monterey Pop (1968) by D.A. Pennebaker captured the groundbreaking 1967 Monterey International Pop Festival.",
+      "month": 6,
+      "day": 16,
+      "source": "https://en.wikipedia.org/wiki/Monterey_Pop"
+    },
+    {
+      "text": "Harlan County, U.S.A. won the Academy Award for Best Documentary Feature in 1977.",
+      "month": 3,
+      "day": 28,
+      "source": "https://en.wikipedia.org/wiki/Harlan_County%2C_U.S.A"
+    },
+    {
+      "text": "Roger & Me was controversial because Michael Moore rearranged the timeline of events for dramatic effect.",
+      "source": "https://en.wikipedia.org/wiki/Roger_%26_Me"
+    },
+    {
+      "text": "Paris Is Burning was released in 1990 and has since become a cultural touchstone for LGBTQ+ communities.",
+      "month": 3,
+      "day": 13,
+      "source": "https://en.wikipedia.org/wiki/Paris"
+    },
+    {
+      "text": "When We Were Kings won the Academy Award for Best Documentary Feature nearly 22 years after the fight it documented.",
+      "source": "https://en.wikipedia.org/wiki/When_We"
+    },
+    {
+      "text": "Super Size Me grossed over $22 million against a production budget of just $65,000.",
+      "month": 5,
+      "day": 7,
+      "source": "https://en.wikipedia.org/wiki/Super_Size_Me"
+    },
+    {
+      "text": "The March of the Penguins was released on June 26, 2005, and became a surprise box office hit.",
+      "month": 6,
+      "day": 26,
+      "source": "https://en.wikipedia.org/wiki/March_of_the_Penguins"
+    },
+    {
+      "text": "The documentary RBG was released on May 4, 2018.",
+      "month": 5,
+      "day": 4,
+      "source": "https://en.wikipedia.org/wiki/documentary_RBG"
+    },
+    {
+      "text": "Won't You Be My Neighbor? was released on June 8, 2018, and became the year's highest-grossing documentary.",
+      "month": 6,
+      "day": 8,
+      "source": "https://en.wikipedia.org/wiki/Won%27t_You_Be_My_Neighbor"
+    },
+    {
+      "text": "My Octopus Teacher won the Academy Award for Best Documentary Feature on April 25, 2021.",
+      "month": 4,
+      "day": 25,
+      "source": "https://en.wikipedia.org/wiki/My_Octopus_Teacher"
+    },
+    {
+      "text": "Ken Burns' The Civil War first aired on PBS on September 23, 1990.",
+      "month": 9,
+      "day": 23,
+      "source": "https://en.wikipedia.org/wiki/Ken_Burns%27_The_Civil_War"
+    },
+    {
+      "text": "Cosmos: A Personal Voyage premiered on September 28, 1980.",
+      "month": 9,
+      "day": 28,
+      "source": "https://en.wikipedia.org/wiki/Cosmos:_A_Personal_Voyage"
+    }
+  ]
+}

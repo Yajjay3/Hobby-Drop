@@ -1,0 +1,2469 @@
+{
+  "hobby": "Super Heroes",
+  "facts": [
+    {
+      "text": "Superman, created by Jerry Siegel and Joe Shuster, first appeared in Action Comics #1 in June 1938, launching the Golden Age of Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/Superman"
+    },
+    {
+      "text": "Batman was created by artist Bob Kane and writer Bill Finger, debuting in Detective Comics #27 in May 1939.",
+      "source": "https://en.wikipedia.org/wiki/Batman"
+    },
+    {
+      "text": "\"I'm Batman.\" — Bruce Wayne's simple yet chilling declaration has become one of the most iconic lines in superhero history, used across comics, films, and animated series.",
+      "source": "https://en.wikipedia.org/wiki/I%27m_Batman"
+    },
+    {
+      "text": "Wonder Woman, created by psychologist William Moulton Marston, first appeared in All Star Comics #8 in December 1941 and was inspired partly by the suffragist movement.",
+      "source": "https://en.wikipedia.org/wiki/Wonder_Woman"
+    },
+    {
+      "text": "Captain America was created by Joe Simon and Jack Kirby and debuted in Captain America Comics #1 in March 1941, punching Adolf Hitler on the cover nearly a year before the U.S. entered World War II.",
+      "source": "https://en.wikipedia.org/wiki/Captain_America"
+    },
+    {
+      "text": "\"With great power comes great responsibility.\" — Spider-Man's iconic motto, first attributed to Uncle Ben, has become one of the most quoted lines in all of fiction.",
+      "source": "https://en.wikipedia.org/wiki/With_great_power_comes_great_responsibility"
+    },
+    {
+      "text": "The term 'superhero' is jointly trademarked by Marvel Comics and DC Comics, a rare instance of competing companies sharing intellectual property.",
+      "source": "https://en.wikipedia.org/wiki/term_%27superhero"
+    },
+    {
+      "text": "Stan Lee, born Stanley Martin Lieber, co-created Spider-Man, the X-Men, the Fantastic Four, Iron Man, Thor, the Hulk, Black Panther, and many other Marvel characters.",
+      "source": "https://en.wikipedia.org/wiki/Stan_Lee"
+    },
+    {
+      "text": "Jack Kirby, often called the 'King of Comics,' co-created Captain America, the Fantastic Four, the X-Men, the New Gods, and the Eternals, among hundreds of other characters.",
+      "source": "https://en.wikipedia.org/wiki/Jack_Kirby%2C_often"
+    },
+    {
+      "text": "The Golden Age of Comics (1938–1956) saw the creation of Superman, Batman, Wonder Woman, Captain America, and the original Green Lantern and Flash.",
+      "source": "https://en.wikipedia.org/wiki/Golden_Age_of_Comics_(1938%E2%80%931956)"
+    },
+    {
+      "text": "\"It's not who I am underneath, but what I do that defines me.\" — Batman's words to Rachel Dawes in Batman Begins encapsulate his philosophy of action over identity.",
+      "source": "https://en.wikipedia.org/wiki/It%27s_not_who_I_am_underneath%2C_but_what_I_do_that_defines_me"
+    },
+    {
+      "text": "The Silver Age of Comics began in 1956 when DC introduced a new version of the Flash, Barry Allen, in Showcase #4, revitalizing the superhero genre.",
+      "source": "https://en.wikipedia.org/wiki/Silver_Age_of_Comics_began_in_1956_when_DC"
+    },
+    {
+      "text": "Marvel Comics was originally called Timely Comics when it was founded in 1939, later becoming Atlas Comics before adopting the Marvel name in 1961.",
+      "source": "https://en.wikipedia.org/wiki/Marvel_Comics"
+    },
+    {
+      "text": "The Fantastic Four, created by Stan Lee and Jack Kirby in 1961, launched the Marvel Age of Comics and introduced a more realistic, flawed approach to superheroes.",
+      "source": "https://en.wikipedia.org/wiki/Fantastic_Four"
+    },
+    {
+      "text": "\"I am Groot.\" — Despite only speaking three words, Groot from Guardians of the Galaxy became one of the most beloved characters in the MCU.",
+      "source": "https://en.wikipedia.org/wiki/I_am_Groot"
+    },
+    {
+      "text": "Spider-Man first appeared in Amazing Fantasy #15 in August 1962 and was revolutionary for being a teenage superhero who was the star, not a sidekick.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man_first_appeared_in_Amazing_Fantasy_%2315_in_August_1962_and"
+    },
+    {
+      "text": "The X-Men, debuting in 1963, were created by Stan Lee and Jack Kirby as a metaphor for civil rights and the struggle against prejudice.",
+      "source": "https://en.wikipedia.org/wiki/X-Men%2C_debuting_in_1963"
+    },
+    {
+      "text": "\"I can do this all day.\" — Steve Rogers' defiant catchphrase, first uttered as a scrawny kid from Brooklyn, became Captain America's signature line throughout the MCU.",
+      "source": "https://en.wikipedia.org/wiki/I_can_do_this_all_day"
+    },
+    {
+      "text": "The Comics Code Authority was established in 1954 after psychiatrist Fredric Wertham's book 'Seduction of the Innocent' blamed comics for juvenile delinquency.",
+      "source": "https://en.wikipedia.org/wiki/Comics_Code_Authority"
+    },
+    {
+      "text": "Black Panther, created by Stan Lee and Jack Kirby, first appeared in Fantastic Four #52 in 1966, making him the first Black superhero in mainstream American comics.",
+      "source": "https://en.wikipedia.org/wiki/Black_Panther"
+    },
+    {
+      "text": "The Joker first appeared in Batman #1 in 1940 and was originally intended to be killed off in his second appearance, but editors saved him.",
+      "source": "https://en.wikipedia.org/wiki/Joker_first_appeared_in_Batman_%231_in_1940_and"
+    },
+    {
+      "text": "\"Why so serious?\" — Heath Ledger's Joker delivered this menacing line in The Dark Knight (2008), a performance that won him a posthumous Academy Award.",
+      "source": "https://en.wikipedia.org/wiki/Why_so_serious"
+    },
+    {
+      "text": "Action Comics #1, featuring Superman's debut, is the most valuable comic book ever sold, with a near-mint copy fetching $6 million at auction in 2024.",
+      "source": "https://en.wikipedia.org/wiki/Action_Comics_%231%2C_featuring_Superman%27s_debut"
+    },
+    {
+      "text": "DC Comics originally stood for Detective Comics, meaning the full name is technically 'Detective Comics Comics.'",
+      "source": "https://en.wikipedia.org/wiki/DC_Comics_originally_stood_for_Detective_Comics%2C_meaning_the_full_name"
+    },
+    {
+      "text": "The Flash can move faster than the speed of light in the comics, having outrun death itself and even the concept of speed on multiple occasions.",
+      "source": "https://en.wikipedia.org/wiki/Flash"
+    },
+    {
+      "text": "\"In brightest day, in blackest night, no evil shall escape my sight.\" — The Green Lantern oath has been recited by every member of the Green Lantern Corps since its introduction.",
+      "source": "https://en.wikipedia.org/wiki/In_brightest_day%2C_in_blackest_night%2C_no_evil_shall_escape_my_sight"
+    },
+    {
+      "text": "Crisis on Infinite Earths (1985) was DC's first major crossover event, consolidating its multiverse into a single universe and killing off Supergirl and the Barry Allen Flash.",
+      "source": "https://en.wikipedia.org/wiki/Infinite_Earths"
+    },
+    {
+      "text": "Marvel's Secret Wars (1984) was one of the first major company-wide crossover events and was created partly to sell a line of Mattel action figures.",
+      "source": "https://en.wikipedia.org/wiki/Marvel%27s_Secret_Wars"
+    },
+    {
+      "text": "The Infinity Gauntlet storyline (1991) by Jim Starlin inspired the MCU's Infinity War and Endgame, featuring Thanos wiping out half of all life in the universe.",
+      "source": "https://en.wikipedia.org/wiki/Infinity_Gauntlet_storyline_(1991)_by_Jim_Starlin"
+    },
+    {
+      "text": "\"I am Iron Man.\" — Tony Stark's closing line in the first Iron Man film (2008) broke the secret identity trope and launched the MCU's signature style of subverting expectations.",
+      "source": "https://en.wikipedia.org/wiki/I_am_Iron_Man"
+    },
+    {
+      "text": "Superman's 'S' symbol is not actually a letter — in the 2013 film Man of Steel, it's explained as the Kryptonian symbol for hope.",
+      "source": "https://en.wikipedia.org/wiki/Superman%27s_%27S%27_symbol"
+    },
+    {
+      "text": "Batman's rogues gallery is widely considered the greatest in all of comics, including the Joker, Catwoman, Riddler, Penguin, Two-Face, Bane, Ra's al Ghul, and Scarecrow.",
+      "source": "https://en.wikipedia.org/wiki/Batman%27s_rogues_gallery"
+    },
+    {
+      "text": "The Marvel Cinematic Universe, launched with Iron Man in 2008, became the highest-grossing film franchise in history, surpassing $30 billion worldwide.",
+      "source": "https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe%2C_launched_with_Iron_Man_in_2008"
+    },
+    {
+      "text": "\"Avengers, assemble!\" — Captain America's rallying cry in Avengers: Endgame (2019) was one of the most anticipated moments in cinema history, built up over 22 films.",
+      "source": "https://en.wikipedia.org/wiki/Avengers%2C_assemble"
+    },
+    {
+      "text": "Avengers: Endgame (2019) grossed $2.799 billion worldwide, briefly becoming the highest-grossing film of all time before Avatar reclaimed the top spot.",
+      "source": "https://en.wikipedia.org/wiki/Avengers:_Endgame"
+    },
+    {
+      "text": "Hugh Jackman played Wolverine for 17 years across nine films (2000–2017), the longest tenure of any actor in a superhero role until his return in Deadpool & Wolverine.",
+      "source": "https://en.wikipedia.org/wiki/Hugh_Jackman"
+    },
+    {
+      "text": "Christopher Reeve's portrayal of Superman in the 1978 film is often credited with proving that superhero movies could be taken seriously.",
+      "source": "https://en.wikipedia.org/wiki/Christopher_Reeve%27s_portrayal_of_Superman_in_the_1978_film"
+    },
+    {
+      "text": "\"You will believe a man can fly.\" — The tagline for Superman (1978) promised something revolutionary, and Christopher Reeve delivered on that promise.",
+      "source": "https://en.wikipedia.org/wiki/You_will_believe_a_man_can_fly"
+    },
+    {
+      "text": "The Dark Knight (2008) was the first superhero film to gross over $1 billion worldwide and is widely considered one of the greatest films ever made.",
+      "source": "https://en.wikipedia.org/wiki/Dark_Knight"
+    },
+    {
+      "text": "Aquaman was often mocked as a weak superhero until Jason Momoa's portrayal in the DCEU and Geoff Johns' acclaimed New 52 comic run rehabilitated his image.",
+      "source": "https://en.wikipedia.org/wiki/Aquaman"
+    },
+    {
+      "text": "\"I'm the best there is at what I do, but what I do best isn't very nice.\" — Wolverine's famous self-description perfectly captures the character's violent nature and moral complexity.",
+      "source": "https://en.wikipedia.org/wiki/I%27m_the_best_there_is_at_what_I_do%2C_but_what_I_do_best_isn%27t_very_nice"
+    },
+    {
+      "text": "The Hulk was originally gray in his first appearance in 1962, but printing issues with the gray ink led Stan Lee to change him to green starting with the second issue.",
+      "source": "https://en.wikipedia.org/wiki/Hulk"
+    },
+    {
+      "text": "Robin, Batman's sidekick, first appeared in Detective Comics #38 in 1940. The character was added to attract younger readers and nearly doubled Batman's sales.",
+      "source": "https://en.wikipedia.org/wiki/Robin%2C_Batman%27s_sidekick%2C_first_appeared_in_Detective_Comics_%2338_in_1940._The_character"
+    },
+    {
+      "text": "The Death of Superman storyline in 1992 made international headlines and sold millions of copies, with many buyers treating the polybagged issue as an investment.",
+      "source": "https://en.wikipedia.org/wiki/Death_of_Superman"
+    },
+    {
+      "text": "\"Hulk smash!\" — The Hulk's signature battle cry is one of the simplest yet most effective catchphrases in superhero history.",
+      "source": "https://en.wikipedia.org/wiki/Hulk_smash"
+    },
+    {
+      "text": "Deadpool, created by Rob Liefeld and Fabian Nicieza, first appeared in New Mutants #98 in 1991 and was originally a villain before becoming an anti-hero.",
+      "source": "https://en.wikipedia.org/wiki/Deadpool"
+    },
+    {
+      "text": "The Watchmen graphic novel by Alan Moore and Dave Gibbons (1986–87) deconstructed the superhero genre and is the only graphic novel on Time magazine's list of the 100 best novels.",
+      "source": "https://en.wikipedia.org/wiki/Watchmen"
+    },
+    {
+      "text": "Frank Miller's The Dark Knight Returns (1986) reinvented Batman as a gritty, aging vigilante and profoundly influenced all subsequent dark takes on superheroes.",
+      "source": "https://en.wikipedia.org/wiki/Frank_Miller%27s_The_Dark_Knight_Returns"
+    },
+    {
+      "text": "\"I am vengeance. I am the night. I am Batman!\" — Kevin Conroy's delivery of this line in Batman: The Animated Series defined the character's voice for an entire generation.",
+      "source": "https://en.wikipedia.org/wiki/I_am_vengeance._I_am_the_night._I_am_Batman"
+    },
+    {
+      "text": "The Marvel method of comic creation, popularized by Stan Lee, involved giving artists a plot outline and letting them design the visual storytelling before dialogue was added.",
+      "source": "https://en.wikipedia.org/wiki/Marvel"
+    },
+    {
+      "text": "Mjolnir, Thor's hammer, bears the inscription: 'Whosoever holds this hammer, if he be worthy, shall possess the power of Thor.'",
+      "source": "https://en.wikipedia.org/wiki/Super_Heroes"
+    },
+    {
+      "text": "The Batcave beneath Wayne Manor was not part of Batman's original concept — it was first introduced in the 1943 Batman serial and later adopted into the comics.",
+      "source": "https://en.wikipedia.org/wiki/Batcave_beneath_Wayne_Manor"
+    },
+    {
+      "text": "\"Truth, justice, and the American way.\" — Superman's famous motto originated not in the comics but in the 1940s radio serial Adventures of Superman.",
+      "source": "https://en.wikipedia.org/wiki/Truth%2C_justice%2C_and_the_American_way"
+    },
+    {
+      "text": "Wolverine was originally created as a Hulk villain, first appearing in The Incredible Hulk #181 in 1974 before joining the X-Men.",
+      "source": "https://en.wikipedia.org/wiki/Wolverine"
+    },
+    {
+      "text": "The Punisher, created by Gerry Conway, first appeared in The Amazing Spider-Man #129 in 1974 as a Spider-Man antagonist.",
+      "source": "https://en.wikipedia.org/wiki/Punisher"
+    },
+    {
+      "text": "Thanos was inspired by the DC character Darkseid. Creator Jim Starlin originally based him on Metron but was encouraged by editor Roy Thomas to 'beef him up' to resemble Darkseid.",
+      "source": "https://en.wikipedia.org/wiki/Thanos"
+    },
+    {
+      "text": "\"Wakanda forever!\" — The salute and phrase from Black Panther (2018) became a global cultural phenomenon and a tribute to star Chadwick Boseman after his passing in 2020.",
+      "source": "https://en.wikipedia.org/wiki/Wakanda_forever"
+    },
+    {
+      "text": "Black Panther (2018) was the first superhero film nominated for Best Picture at the Academy Awards.",
+      "source": "https://en.wikipedia.org/wiki/Black_Panther"
+    },
+    {
+      "text": "The Batmobile has gone through dozens of designs since 1941, from a simple red sedan to the tank-like Tumbler in Christopher Nolan's trilogy.",
+      "source": "https://en.wikipedia.org/wiki/Batmobile"
+    },
+    {
+      "text": "Stan Lee made cameo appearances in over 35 Marvel films and TV shows, becoming one of the most recognized figures in cinema history before his death in 2018.",
+      "source": "https://en.wikipedia.org/wiki/Stan_Lee"
+    },
+    {
+      "text": "\"Excelsior!\" — Stan Lee's famous catchphrase, meaning 'ever upward' in Latin, became his signature sign-off and a rallying cry for Marvel fans worldwide.",
+      "source": "https://en.wikipedia.org/wiki/Excelsior"
+    },
+    {
+      "text": "The idea of a superhero having a secret identity dates back to the Scarlet Pimpernel (1905) and Zorro (1919), both of whom influenced the creation of Superman and Batman.",
+      "source": "https://en.wikipedia.org/wiki/Scarlet_Pimpernel"
+    },
+    {
+      "text": "Green Arrow, created in 1941, was originally a Batman clone but was reinvented by Dennis O'Neil and Neal Adams in the 1970s as a politically liberal hero tackling social issues.",
+      "source": "https://en.wikipedia.org/wiki/Green_Arrow"
+    },
+    {
+      "text": "The 'Women in Refrigerators' trope was named by comic writer Gail Simone in 1999 after Green Lantern's girlfriend was murdered and stuffed in a refrigerator in a 1994 comic.",
+      "source": "https://en.wikipedia.org/wiki/%27Women_in_Refrigerators%27_trope"
+    },
+    {
+      "text": "\"I'm not locked in here with you. You're locked in here with me!\" — Rorschach's terrifying declaration in Watchmen subverts the expectation of a hero trapped by villains.",
+      "source": "https://en.wikipedia.org/wiki/I%27m_not_locked_in_here_with_you._You%27re_locked_in_here_with_me"
+    },
+    {
+      "text": "Nick Fury was redesigned to resemble Samuel L. Jackson in Marvel's Ultimate Comics line in 2001 — years before Jackson was cast in the MCU.",
+      "source": "https://en.wikipedia.org/wiki/Nick_Fury"
+    },
+    {
+      "text": "The first interracial kiss in mainstream comics occurred in 1971 between Luke Cage and a white woman, pushing boundaries at a time when such depictions were controversial.",
+      "source": "https://en.wikipedia.org/wiki/Luke_Cage_and"
+    },
+    {
+      "text": "Harley Quinn was created for Batman: The Animated Series in 1992 by Paul Dini and Bruce Timm before being adopted into the comics.",
+      "source": "https://en.wikipedia.org/wiki/Harley_Quinn"
+    },
+    {
+      "text": "\"Puddin'!\" — Harley Quinn's pet name for the Joker became iconic through Batman: The Animated Series and has been a defining element of their toxic relationship ever since.",
+      "source": "https://en.wikipedia.org/wiki/Puddin%27"
+    },
+    {
+      "text": "The concept of the multiverse in comics was pioneered by DC's 'Flash of Two Worlds' story in 1961, where Barry Allen met the Golden Age Flash, Jay Garrick.",
+      "source": "https://en.wikipedia.org/wiki/concept_of_the_multiverse_in_comics"
+    },
+    {
+      "text": "Iron Man's suit started as a bulky gray armor in Tales of Suspense #39 (1963) and evolved into the sleek red-and-gold design that became iconic.",
+      "source": "https://en.wikipedia.org/wiki/Iron_Man%27s"
+    },
+    {
+      "text": "The X-Men's Wolverine is actually quite short in the comics, standing at 5'3\", a far cry from the 6'2\" Hugh Jackman who portrayed him on screen.",
+      "source": "https://en.wikipedia.org/wiki/%2C_a_far_cry_from_the_6%272"
+    },
+    {
+      "text": "\"The city is flying, we're fighting an army of robots, and I have a bow and arrow. None of this makes sense.\" — Hawkeye's self-aware quip in Age of Ultron became a fan favorite.",
+      "source": "https://en.wikipedia.org/wiki/city"
+    },
+    {
+      "text": "Superman was sold by creators Siegel and Shuster to DC Comics for just $130 in 1938, leading to decades of legal battles over ownership and compensation.",
+      "source": "https://en.wikipedia.org/wiki/Superman"
+    },
+    {
+      "text": "The Phantom, created in 1936 by Lee Falk, is often considered the first costumed superhero, predating Superman by two years.",
+      "source": "https://en.wikipedia.org/wiki/Phantom"
+    },
+    {
+      "text": "Captain Marvel (Shazam) outsold Superman in the 1940s, leading DC to sue Fawcett Comics for copyright infringement. DC eventually acquired the character.",
+      "source": "https://en.wikipedia.org/wiki/Captain_Marvel"
+    },
+    {
+      "text": "\"Shazam!\" — Billy Batson's magic word that transforms him into Captain Marvel/Shazam is an acronym for Solomon, Hercules, Atlas, Zeus, Achilles, and Mercury.",
+      "source": "https://en.wikipedia.org/wiki/Shazam"
+    },
+    {
+      "text": "The Teen Titans were formed in 1964, featuring Robin, Kid Flash, and Aqualad, giving sidekicks their own team and storylines independent of their mentors.",
+      "source": "https://en.wikipedia.org/wiki/Teen_Titans"
+    },
+    {
+      "text": "Todd McFarlane's Spawn, launched in 1992, became the best-selling independent comic book of all time and proved that creator-owned characters could compete with Marvel and DC.",
+      "source": "https://en.wikipedia.org/wiki/Todd_McFarlane%27s_Spawn%2C_launched_in_1992"
+    },
+    {
+      "text": "Image Comics was founded in 1992 by seven Marvel artists, including Todd McFarlane, Jim Lee, and Rob Liefeld, who wanted creative ownership of their work.",
+      "source": "https://en.wikipedia.org/wiki/Image_Comics"
+    },
+    {
+      "text": "\"It's clobberin' time!\" — The Thing's battle cry from the Fantastic Four has been a Marvel staple since the early 1960s.",
+      "source": "https://en.wikipedia.org/wiki/It%27s_clobberin%27_time"
+    },
+    {
+      "text": "The Marvel Zombies storyline imagined a world where superheroes became flesh-eating zombies, becoming a surprise hit and spawning multiple sequels.",
+      "source": "https://en.wikipedia.org/wiki/Marvel_Zombies_storyline_imagined_a_world_where_superheroes"
+    },
+    {
+      "text": "Kryptonite, Superman's famous weakness, was actually invented for the Superman radio show in 1943 to give the voice actor time off, and was later adopted into the comics.",
+      "source": "https://en.wikipedia.org/wiki/Kryptonite%2C_Superman%27s_famous_weakness"
+    },
+    {
+      "text": "Batman carries a piece of Kryptonite in his utility belt at all times, given to him by Superman himself as a failsafe in case he ever goes rogue.",
+      "source": "https://en.wikipedia.org/wiki/Kryptonite_in"
+    },
+    {
+      "text": "\"You either die a hero, or you live long enough to see yourself become the villain.\" — Harvey Dent's prophetic words in The Dark Knight foreshadowed his transformation into Two-Face.",
+      "source": "https://en.wikipedia.org/wiki/You_either_die_a_hero%2C_or_you_live_long_enough_to_see_yourself_become_the_villain"
+    },
+    {
+      "text": "The Justice League of America first appeared in The Brave and the Bold #28 in 1960, inspired by the success of DC's earlier team, the Justice Society of America.",
+      "source": "https://en.wikipedia.org/wiki/Justice_League_of_America_first_appeared_in_The_Brave_and_the_Bold_%2328_in_1960"
+    },
+    {
+      "text": "The Avengers were formed in 1963 when Iron Man, Thor, Hulk, Ant-Man, and the Wasp banded together, with Captain America joining in issue #4 after being found frozen in ice.",
+      "source": "https://en.wikipedia.org/wiki/Avengers"
+    },
+    {
+      "text": "Venom, one of Spider-Man's greatest foes, originated from a fan-submitted idea for a black costume that Spider-Man acquired during Secret Wars.",
+      "source": "https://en.wikipedia.org/wiki/Secret_Wars"
+    },
+    {
+      "text": "\"We are Venom.\" — The symbiote's declaration of merged identity with its host became a signature line in both comics and Tom Hardy's portrayal in the Venom films.",
+      "source": "https://en.wikipedia.org/wiki/We_are_Venom"
+    },
+    {
+      "text": "The Suicide Squad concept — supervillains forced to do government dirty work — first appeared in The Brave and the Bold #25 in 1959.",
+      "source": "https://en.wikipedia.org/wiki/Suicide_Squad_concept_%E2%80%94_supervillains_forced_to_do_government_dirty_work_%E2%80%94_first"
+    },
+    {
+      "text": "Blue Beetle, originally a Fox Comics character from 1939, has been reimagined multiple times and became DC's first Latino superhero lead with Jaime Reyes in 2006.",
+      "source": "https://en.wikipedia.org/wiki/Blue_Beetle%2C_originally_a_Fox_Comics_character_from_1939"
+    },
+    {
+      "text": "Doctor Doom, the Fantastic Four's arch-nemesis, rules the fictional nation of Latveria and is considered one of the greatest villains in all of comics.",
+      "source": "https://en.wikipedia.org/wiki/Doctor_Doom%2C_the_Fantastic_Four%27s_arch-nemesis%2C_rules_the_fictional_nation_of_Latveria_and"
+    },
+    {
+      "text": "\"Doom does as he pleases!\" — Doctor Doom's imperious declaration reflects his status as one of Marvel's most powerful and egomaniacal villains.",
+      "source": "https://en.wikipedia.org/wiki/Doom_does_as_he_pleases"
+    },
+    {
+      "text": "The Sandman by Neil Gaiman (1989–1996) is considered one of the greatest comic book series ever written and helped establish DC's mature-reader Vertigo imprint.",
+      "source": "https://en.wikipedia.org/wiki/Sandman_by_Neil_Gaiman_(1989%E2%80%931996)"
+    },
+    {
+      "text": "Power Girl, the Earth-2 version of Supergirl, has been a prominent DC character since 1976 and is known for her assertive personality and leadership of the Justice Society.",
+      "source": "https://en.wikipedia.org/wiki/Power_Girl%2C_the_Earth-2_version_of_Supergirl"
+    },
+    {
+      "text": "The concept of superhero 'retcons' (retroactive continuity changes) has been a staple of comics since the 1960s, allowing writers to revise or update character histories.",
+      "source": "https://en.wikipedia.org/wiki/concept_of_superhero_%27retcons%27_(retroactive_continuity_changes)"
+    },
+    {
+      "text": "\"I am the law!\" — Judge Dredd's authoritarian catchphrase from the British comic 2000 AD satirizes police power and fascism while remaining an enduring anti-hero.",
+      "source": "https://en.wikipedia.org/wiki/I_am_the_law"
+    },
+    {
+      "text": "Magneto, the X-Men's greatest foe, is a Holocaust survivor whose experiences with human cruelty drive his belief that mutants must dominate to survive.",
+      "source": "https://en.wikipedia.org/wiki/Magneto%2C_the_X-Men%27s_greatest_foe"
+    },
+    {
+      "text": "Professor X and Magneto's relationship was inspired by Martin Luther King Jr. and Malcolm X, representing different philosophies on achieving equality for an oppressed minority.",
+      "source": "https://en.wikipedia.org/wiki/Professor_X_and_Magneto%27s_relationship"
+    },
+    {
+      "text": "The New Gods, created by Jack Kirby for DC in 1971, introduced Darkseid, Orion, and the cosmic mythology of Apokolips and New Genesis.",
+      "source": "https://en.wikipedia.org/wiki/New_Gods"
+    },
+    {
+      "text": "\"I am no man.\" — While from Tolkien, this archetype of defying expectations has inspired countless superhero moments, from Wonder Woman's battlefields to Captain Marvel's resilience.",
+      "source": "https://en.wikipedia.org/wiki/I_am_no_man"
+    },
+    {
+      "text": "Daredevil, the 'Man Without Fear,' was a second-tier character until Frank Miller's groundbreaking run in the early 1980s transformed him into one of Marvel's most compelling heroes.",
+      "source": "https://en.wikipedia.org/wiki/Daredevil%2C_the_%27Man_Without_Fear"
+    },
+    {
+      "text": "The Clone Saga, a Spider-Man storyline from 1994–1996, was originally planned to last a few months but stretched for two years due to strong sales, despite fan backlash.",
+      "source": "https://en.wikipedia.org/wiki/Clone_Saga%2C_a_Spider-Man_storyline_from_1994%E2%80%931996"
+    },
+    {
+      "text": "Civil War (2006–2007) by Mark Millar pitted Captain America against Iron Man over superhero registration, reflecting real-world debates about security versus liberty.",
+      "source": "https://en.wikipedia.org/wiki/Civil_War"
+    },
+    {
+      "text": "\"I could do this all day.\" — An elderly Steve Rogers in Avengers: Endgame hearing his younger self say his own catchphrase and wearily replying 'Yeah, I know' was a perfect character moment.",
+      "source": "https://en.wikipedia.org/wiki/I_could_do_this_all_day"
+    },
+    {
+      "text": "The Speed Force, introduced in the 1990s, is the extradimensional energy source that gives all DC speedsters their powers and has become central to Flash mythology.",
+      "source": "https://en.wikipedia.org/wiki/Speed_Force"
+    },
+    {
+      "text": "Groot's entire vocabulary in the MCU consists of the phrase 'I am Groot,' but other Guardians can understand the subtle variations in his tone and inflection.",
+      "source": "https://en.wikipedia.org/wiki/Super_Heroes"
+    },
+    {
+      "text": "The Winter Soldier storyline by Ed Brubaker brought Bucky Barnes back from the dead in 2005, one of comics' most successful resurrections after decades of 'Bucky stays dead' being an industry rule.",
+      "source": "https://en.wikipedia.org/wiki/Winter_Soldier"
+    },
+    {
+      "text": "\"On your left.\" — Sam Wilson's callback to Steve Rogers' jogging taunt, repeated during Endgame's portal scene, became one of the MCU's most emotionally charged callbacks.",
+      "source": "https://www.youtube.com/results?search_query=Super%20Heroes%20On%20your%20left.%20live%20performance"
+    },
+    {
+      "text": "Ghost Rider, Marvel's Spirit of Vengeance, was originally a Western character before being reimagined as a flaming-skulled motorcycle rider in 1972.",
+      "source": "https://en.wikipedia.org/wiki/Ghost_Rider%2C_Marvel%27s_Spirit_of_Vengeance"
+    },
+    {
+      "text": "Plastic Man, created by Jack Cole in 1941, was one of the first superhero comedies and could stretch his body into any shape imaginable.",
+      "source": "https://en.wikipedia.org/wiki/Plastic_Man"
+    },
+    {
+      "text": "The Spectre, DC's Spirit of Vengeance, is one of the most powerful beings in the DC Universe, essentially serving as God's wrath on Earth.",
+      "source": "https://en.wikipedia.org/wiki/Spectre%2C_DC%27s_Spirit_of_Vengeance"
+    },
+    {
+      "text": "\"Up, up, and away!\" — Superman's famous takeoff phrase was popularized by the 1940s radio show and became synonymous with the character.",
+      "source": "https://www.youtube.com/results?search_query=Super%20Heroes%20Up%2C%20up%2C%20and%20away%21%20live%20performance"
+    },
+    {
+      "text": "Teenage Mutant Ninja Turtles began as a black-and-white indie comic parody of popular Marvel titles like Daredevil and New Mutants in 1984.",
+      "source": "https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles"
+    },
+    {
+      "text": "The TMNT's origin directly references Daredevil — the same radioactive canister that blinded Matt Murdock is what mutated the turtles in the original comic.",
+      "source": "https://en.wikipedia.org/wiki/TMNT%27s"
+    },
+    {
+      "text": "Swamp Thing was transformed from a simple monster comic into literary horror by Alan Moore's run starting in 1984, which also introduced John Constantine.",
+      "source": "https://en.wikipedia.org/wiki/Swamp_Thing"
+    },
+    {
+      "text": "John Constantine, the chain-smoking occult detective, was inspired by the musician Sting and first appeared in Swamp Thing #37 in 1985.",
+      "source": "https://en.wikipedia.org/wiki/John_Constantine%2C_the_chain-smoking_occult_detective"
+    },
+    {
+      "text": "\"Do I look like a guy with a plan?\" — The Joker's rhetorical question in The Dark Knight is brilliantly ironic, as every one of his schemes is meticulously planned.",
+      "source": "https://en.wikipedia.org/wiki/Do_I_look_like_a_guy_with_a_plan"
+    },
+    {
+      "text": "The first superhero team in comics was the Justice Society of America, debuting in All Star Comics #3 in 1940–1941.",
+      "source": "https://en.wikipedia.org/wiki/first_superhero_team_in_comics"
+    },
+    {
+      "text": "She-Hulk was created in 1980 partly because Marvel's TV show producers might have created a female Hulk for television, and Marvel wanted to own the comic rights first.",
+      "source": "https://en.wikipedia.org/wiki/She-Hulk"
+    },
+    {
+      "text": "Ms. Marvel (Kamala Khan), introduced in 2013, became Marvel's first Muslim character to headline her own comic book and has been widely praised for her authentic representation.",
+      "source": "https://en.wikipedia.org/wiki/Ms._Marvel_(Kamala_Khan)"
+    },
+    {
+      "text": "Miles Morales was introduced as an alternate-universe Spider-Man in 2011 and became hugely popular, eventually being integrated into the main Marvel universe.",
+      "source": "https://en.wikipedia.org/wiki/Miles_Morales"
+    },
+    {
+      "text": "\"What's up, danger?\" — Miles Morales' fearless leap of faith in Spider-Man: Into the Spider-Verse (2018) became one of the most iconic scenes in animation history.",
+      "source": "https://en.wikipedia.org/wiki/What%27s_up%2C_danger"
+    },
+    {
+      "text": "Spider-Man: Into the Spider-Verse (2018) won the Academy Award for Best Animated Feature and revolutionized animation with its comic book-inspired visual style.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Verse"
+    },
+    {
+      "text": "The MCU's Infinity Saga, spanning 23 films over 11 years (2008–2019), is the most ambitious interconnected film franchise ever attempted.",
+      "source": "https://en.wikipedia.org/wiki/MCU%27s_Infinity_Saga%2C_spanning_23_films_over_11_years_(2008%E2%80%932019)"
+    },
+    {
+      "text": "Robert Downey Jr. was considered a risky casting choice for Iron Man in 2008 due to his troubled past, but his performance launched the entire MCU.",
+      "source": "https://en.wikipedia.org/wiki/Robert_Downey_Jr"
+    },
+    {
+      "text": "\"I am inevitable.\" \"And I... am... Iron Man.\" — The exchange between Thanos and Tony Stark in Endgame's climax is one of the most emotionally devastating moments in superhero cinema.",
+      "source": "https://www.youtube.com/results?search_query=Super%20Heroes%20I%20am%20inevitable.%20live%20performance"
+    },
+    {
+      "text": "Gal Gadot's debut as Wonder Woman in Batman v Superman (2016) was widely praised as the best part of the film, leading to her acclaimed solo movie.",
+      "source": "https://en.wikipedia.org/wiki/Superman"
+    },
+    {
+      "text": "Wonder Woman (2017) was the first major female-led superhero film and became a critical and commercial hit, grossing over $822 million worldwide.",
+      "source": "https://en.wikipedia.org/wiki/Wonder_Woman"
+    },
+    {
+      "text": "The Incredibles (2004) by Pixar is widely regarded as one of the best superhero films ever made, despite being an animated original story.",
+      "source": "https://en.wikipedia.org/wiki/Incredibles"
+    },
+    {
+      "text": "\"No capes!\" — Edna Mode's emphatic fashion rule from The Incredibles became one of the most quoted lines in animated film history.",
+      "source": "https://en.wikipedia.org/wiki/No_capes"
+    },
+    {
+      "text": "The Batman (2022) starring Robert Pattinson presented the most detective-focused version of Batman on screen, inspired by films like Se7en and Chinatown.",
+      "source": "https://en.wikipedia.org/wiki/Batman"
+    },
+    {
+      "text": "Joker (2019) starring Joaquin Phoenix became the first R-rated film to gross over $1 billion and won Phoenix the Academy Award for Best Actor.",
+      "source": "https://en.wikipedia.org/wiki/Joker"
+    },
+    {
+      "text": "\"All it takes is one bad day to reduce the sanest man alive to lunacy.\" — The Joker's chilling philosophy from Alan Moore's The Killing Joke (1988).",
+      "source": "https://en.wikipedia.org/wiki/All_it_takes_is_one_bad_day_to_reduce_the_sanest_man_alive_to_lunacy"
+    },
+    {
+      "text": "The Killing Joke (1988) by Alan Moore controversially depicted the Joker shooting and paralyzing Barbara Gordon (Batgirl), leading to her transformation into Oracle.",
+      "source": "https://en.wikipedia.org/wiki/Killing_Joke"
+    },
+    {
+      "text": "Barbara Gordon's reinvention as Oracle — a wheelchair-using information broker and hacker — became one of comics' most powerful representations of disability.",
+      "source": "https://en.wikipedia.org/wiki/Barbara_Gordon%27s"
+    },
+    {
+      "text": "Kevin Feige, president of Marvel Studios, has overseen every MCU film since Iron Man and is credited as the architect of the franchise's interconnected storytelling.",
+      "source": "https://en.wikipedia.org/wiki/Kevin_Feige%2C_president_of_Marvel_Studios"
+    },
+    {
+      "text": "The post-credits scene tradition in superhero films was popularized by the MCU, starting with Nick Fury's appearance at the end of Iron Man (2008).",
+      "source": "https://en.wikipedia.org/wiki/Iron_Man"
+    },
+    {
+      "text": "\"I'm always angry.\" — Bruce Banner's reveal before transforming into the Hulk during the Battle of New York in The Avengers (2012) was one of the film's biggest cheers.",
+      "source": "https://en.wikipedia.org/wiki/I%27m_always_angry"
+    },
+    {
+      "text": "Tim Burton's Batman (1989) starring Michael Keaton was a massive cultural event, with 'Batmania' sweeping the globe and the film earning $411 million worldwide.",
+      "source": "https://en.wikipedia.org/wiki/Tim_Burton%27s_Batman"
+    },
+    {
+      "text": "Joel Schumacher's Batman & Robin (1997), starring George Clooney, is widely considered one of the worst superhero films ever made and nearly killed the franchise.",
+      "source": "https://en.wikipedia.org/wiki/Robin"
+    },
+    {
+      "text": "Sam Raimi's Spider-Man (2002) was the first film to earn $100 million in its opening weekend and helped launch the modern superhero film era.",
+      "source": "https://en.wikipedia.org/wiki/Sam_Raimi%27s_Spider-Man"
+    },
+    {
+      "text": "Tobey Maguire, Andrew Garfield, and Tom Holland all appeared together as Spider-Man in Spider-Man: No Way Home (2021), delighting fans of all three iterations.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man:_No_Way_Home"
+    },
+    {
+      "text": "\"I love you guys.\" — Andrew Garfield's Peter Parker saying this to the other Spider-Men in No Way Home was an unscripted, genuine emotional moment.",
+      "source": "https://www.youtube.com/results?search_query=Super%20Heroes%20I%20love%20you%20guys.%20live%20performance"
+    },
+    {
+      "text": "The Dark Knight trilogy (2005–2012) by Christopher Nolan is often credited with proving that superhero films could be prestige cinema.",
+      "source": "https://en.wikipedia.org/wiki/Dark_Knight_trilogy_(2005%E2%80%932012)_by_Christopher_Nolan"
+    },
+    {
+      "text": "Heath Ledger's Joker performance involved locking himself in a hotel room for weeks, developing the character's mannerisms, voice, and psychology in a diary.",
+      "source": "https://en.wikipedia.org/wiki/Heath_Ledger%27s_Joker"
+    },
+    {
+      "text": "Mark Hamill has voiced the Joker in animated projects since 1992, and many fans consider his portrayal the definitive version of the character.",
+      "source": "https://en.wikipedia.org/wiki/Mark_Hamill"
+    },
+    {
+      "text": "\"It's not about the money... it's about sending a message.\" — The Joker's declaration while burning a mountain of cash in The Dark Knight illustrates his anarchist philosophy.",
+      "source": "https://en.wikipedia.org/wiki/It%27s_not_about_the_money..._it%27s_about_sending_a_message"
+    },
+    {
+      "text": "Kevin Conroy voiced Batman in animated projects for nearly 30 years, from Batman: The Animated Series (1992) until his passing in 2022.",
+      "source": "https://en.wikipedia.org/wiki/Batman:_The_Animated_Series"
+    },
+    {
+      "text": "Batman: The Animated Series (1992–1995) is widely considered the greatest superhero animated show ever made and introduced the noir-influenced 'dark deco' art style.",
+      "source": "https://en.wikipedia.org/wiki/Batman:_The_Animated_Series_(1992%E2%80%931995)"
+    },
+    {
+      "text": "The X-Men animated series (1992–1997) introduced an entire generation to Marvel's mutants and is remembered for its faithful adaptation of complex comic storylines.",
+      "source": "https://en.wikipedia.org/wiki/X-Men_animated_series_(1992%E2%80%931997)"
+    },
+    {
+      "text": "Spider-Man: The Animated Series (1994–1998) was notable for its season-long story arcs and the ambitious adaptation of the Clone Saga and Secret Wars.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man:_The_Animated_Series_(1994%E2%80%931998)"
+    },
+    {
+      "text": "\"To me, my X-Men!\" — Professor Xavier's telepathic rallying call has been a signature moment in X-Men comics since the 1960s.",
+      "source": "https://en.wikipedia.org/wiki/To_me%2C_my_X-Men"
+    },
+    {
+      "text": "Justice League Unlimited (2004–2006) featured virtually every DC hero and is considered one of the finest superhero shows, concluding the DC Animated Universe that began with Batman: TAS.",
+      "source": "https://en.wikipedia.org/wiki/Justice_League_Unlimited_(2004%E2%80%932006)_featured_virtually_every_DC_hero_and"
+    },
+    {
+      "text": "The Arrowverse, launched with Arrow in 2012, created an interconnected TV universe spanning seven shows over a decade on The CW.",
+      "source": "https://en.wikipedia.org/wiki/Arrowverse%2C_launched_with_Arrow_in_2012"
+    },
+    {
+      "text": "Daredevil (2015–2018) on Netflix, starring Charlie Cox, is widely regarded as the best Marvel TV series and revitalized interest in street-level heroes.",
+      "source": "https://en.wikipedia.org/wiki/Daredevil_(2015%E2%80%932018)_on_Netflix%2C_starring_Charlie_Cox"
+    },
+    {
+      "text": "\"I'm not seeking penance for what I've done, Father. I'm asking forgiveness for what I'm about to do.\" — Matt Murdock's confession in Daredevil captures the hero's moral struggle.",
+      "source": "https://en.wikipedia.org/wiki/I%27m_not_seeking_penance_for_what_I%27ve_done%2C_Father._I%27m_asking_forgiveness_for_what_I%27m_about_to_do"
+    },
+    {
+      "text": "The Boys, based on Garth Ennis's comic, became a massive hit for Amazon by satirizing corporate superheroes and the darker side of celebrity culture.",
+      "source": "https://en.wikipedia.org/wiki/Boys%2C_based_on_Garth_Ennis%27s_comic"
+    },
+    {
+      "text": "\"I can do whatever I want. I can do whatever I want!\" — Homelander's unhinged declaration in The Boys reflects the show's exploration of unchecked power.",
+      "source": "https://en.wikipedia.org/wiki/I_can_do_whatever_I_want._I_can_do_whatever_I_want"
+    },
+    {
+      "text": "Invincible, Robert Kirkman's comic and animated series, subverts superhero tropes by showing the brutal consequences of superpowered violence.",
+      "source": "https://en.wikipedia.org/wiki/Robert_Kirkman%27s"
+    },
+    {
+      "text": "The Superman radio serial (1940–1951) introduced many elements now considered canon, including kryptonite, Jimmy Olsen, and the Daily Planet name.",
+      "source": "https://en.wikipedia.org/wiki/Superman_radio_serial_(1940%E2%80%931951)"
+    },
+    {
+      "text": "Wonder Woman's Lasso of Truth was inspired by creator William Moulton Marston's involvement in the development of the polygraph (lie detector) machine.",
+      "source": "https://en.wikipedia.org/wiki/Wonder_Woman%27s_Lasso_of_Truth"
+    },
+    {
+      "text": "\"No matter how many times you save the world, it always manages to get back in jeopardy again.\" — Mr. Incredible's observation about the endless cycle of heroism.",
+      "source": "https://en.wikipedia.org/wiki/No_matter_how_many_times_you_save_the_world%2C_it_always_manages_to_get_back_in_jeopardy_again"
+    },
+    {
+      "text": "The Green Lantern Corps, an intergalactic police force of 7,200 members, each wielding a power ring fueled by willpower, was introduced in 1959.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern_Corps"
+    },
+    {
+      "text": "Hal Jordan, the most famous Green Lantern, was a test pilot chosen by a dying alien to inherit its power ring and join the Corps.",
+      "source": "https://en.wikipedia.org/wiki/Hal_Jordan%2C_the_most_famous_Green_Lantern"
+    },
+    {
+      "text": "The Anti-Monitor, the villain of Crisis on Infinite Earths, destroyed entire universes and killed more characters than any other DC villain in history.",
+      "source": "https://en.wikipedia.org/wiki/Anti-Monitor"
+    },
+    {
+      "text": "\"You're much stronger than you think you are. Trust me.\" — Superman's encouraging words to a suicidal girl in All-Star Superman demonstrate the character's compassion as his greatest power.",
+      "source": "https://www.youtube.com/results?search_query=Super%20Heroes%20You%27re%20much%20stronger%20than%20you%20think%20you%20are.%20Trust%20me.%20live%20performance"
+    },
+    {
+      "text": "Galactus, the Devourer of Worlds, is a cosmic being who consumes planets for sustenance and was first introduced as a Fantastic Four villain in 1966.",
+      "source": "https://en.wikipedia.org/wiki/Galactus%2C_the_Devourer_of_Worlds"
+    },
+    {
+      "text": "The Silver Surfer, Galactus's former herald, was created by Jack Kirby without Stan Lee's input — Kirby simply felt a being as powerful as Galactus should have a herald.",
+      "source": "https://en.wikipedia.org/wiki/Silver_Surfer%2C_Galactus%27s_former_herald"
+    },
+    {
+      "text": "Doctor Strange, the Sorcerer Supreme, was created by Stan Lee and Steve Ditko in 1963 and introduced psychedelic, mystical dimensions to Marvel Comics.",
+      "source": "https://en.wikipedia.org/wiki/Doctor_Strange%2C_the_Sorcerer_Supreme"
+    },
+    {
+      "text": "\"Dormammu, I've come to bargain.\" — Doctor Strange's time-loop gambit against the dark dimension ruler in his 2016 film showed that brains can beat brawn.",
+      "source": "https://en.wikipedia.org/wiki/Dormammu%2C_I%27ve_come_to_bargain"
+    },
+    {
+      "text": "The Infinity Stones (Space, Mind, Reality, Power, Time, Soul) are six immensely powerful gems that formed the backbone of the MCU's first three phases.",
+      "source": "https://en.wikipedia.org/wiki/Infinity_Stones_(Space%2C_Mind%2C_Reality%2C_Power%2C_Time%2C_Soul)"
+    },
+    {
+      "text": "Thanos's motivation in the MCU — halving all life to prevent overpopulation — differed from the comics, where he did it to impress the cosmic entity Death, whom he loved.",
+      "source": "https://en.wikipedia.org/wiki/Super_Heroes"
+    },
+    {
+      "text": "Black Widow, though one of the original MCU Avengers, did not receive her own solo film until 2021, 11 years after Scarlett Johansson first played the role.",
+      "source": "https://en.wikipedia.org/wiki/Black_Widow"
+    },
+    {
+      "text": "\"I don't see how that's a party.\" — The dry humor that permeated early Avengers films was pioneered by Joss Whedon's script for The Avengers (2012).",
+      "source": "https://en.wikipedia.org/wiki/I_don%27t_see_how_that%27s_a_party"
+    },
+    {
+      "text": "Ant-Man can shrink to subatomic size and enter the Quantum Realm, a concept that became crucial to the time-travel plot of Avengers: Endgame.",
+      "source": "https://en.wikipedia.org/wiki/Ant-Man_can_shrink_to_subatomic_size_and_enter_the_Quantum_Realm%2C_a_concept_that"
+    },
+    {
+      "text": "The Guardians of the Galaxy were obscure characters before James Gunn's 2014 film turned them into one of the MCU's most popular franchises.",
+      "source": "https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy"
+    },
+    {
+      "text": "Rocket Raccoon was inspired by the Beatles song 'Rocky Raccoon' and was created by Bill Mantlo and Keith Giffen in 1976.",
+      "source": "https://en.wikipedia.org/wiki/Rocket_Raccoon"
+    },
+    {
+      "text": "\"We are Groot.\" — Groot's change from 'I' to 'We' when sacrificing himself for the Guardians showed that even three words can carry enormous emotional weight.",
+      "source": "https://www.youtube.com/results?search_query=Super%20Heroes%20We%20are%20Groot.%20live%20performance"
+    },
+    {
+      "text": "Shang-Chi, the Master of Kung Fu, first appeared in 1973 during the martial arts craze and received his own MCU film in 2021.",
+      "source": "https://en.wikipedia.org/wiki/Shang-Chi%2C_the_Master_of_Kung_Fu%2C_first"
+    },
+    {
+      "text": "Moon Knight, Marvel's mentally complex vigilante, has dissociative identity disorder with distinct personalities including mercenary Marc Spector, cab driver Jake Lockley, and millionaire Steven Grant.",
+      "source": "https://en.wikipedia.org/wiki/Moon_Knight%2C_Marvel%27s_mentally_complex_vigilante"
+    },
+    {
+      "text": "The Eternals, created by Jack Kirby in 1976, were inspired by Erich von Däniken's 'Chariots of the Gods?' theory about ancient aliens.",
+      "source": "https://en.wikipedia.org/wiki/Eternals"
+    },
+    {
+      "text": "\"I have nothing to prove to you.\" — Captain Marvel's response to the Supreme Intelligence in her 2019 film resonated as a powerful feminist statement.",
+      "source": "https://en.wikipedia.org/wiki/I_have_nothing_to_prove_to_you"
+    },
+    {
+      "text": "Blade, the vampire-hunting Marvel hero, starred in a 1998 film that was one of the first successful Marvel movies and helped pave the way for the superhero film boom.",
+      "source": "https://en.wikipedia.org/wiki/Blade%2C_the_vampire-hunting_Marvel_hero%2C_starred_in_a_1998_film_that"
+    },
+    {
+      "text": "The Blade films starring Wesley Snipes (1998–2004) proved that lesser-known Marvel characters could carry successful films.",
+      "source": "https://en.wikipedia.org/wiki/Blade"
+    },
+    {
+      "text": "Hellboy, created by Mike Mignola, blends superhero action with Lovecraftian horror and folklore, debuting in 1993 for Dark Horse Comics.",
+      "source": "https://en.wikipedia.org/wiki/Hellboy"
+    },
+    {
+      "text": "Tank Girl, the anarchic anti-heroine from the British comic by Jamie Hewlett and Alan Martin, was one of the most prominent female-led indie comics of the late 1980s.",
+      "source": "https://en.wikipedia.org/wiki/Tank_Girl"
+    },
+    {
+      "text": "\"The door is more than it appears. It separates who you are from who you can be.\" — Franklin Richards, one of Marvel's most powerful characters, on the nature of potential.",
+      "source": "https://en.wikipedia.org/wiki/door_is_more_than_it_appears._It_separates_who_you_are_from_who_you_can_be"
+    },
+    {
+      "text": "The DC Animated Universe (DCAU), spanning Batman: TAS through Justice League Unlimited, is considered the gold standard for superhero animation.",
+      "source": "https://en.wikipedia.org/wiki/DC_Animated_Universe_(DCAU)%2C_spanning_Batman:_TAS_through_Justice_League_Unlimited"
+    },
+    {
+      "text": "Krypton, Superman's home planet, has been depicted with varying levels of detail, from a sterile crystal world (1978 film) to a war-torn civilization (Man of Steel).",
+      "source": "https://en.wikipedia.org/wiki/Krypton%2C_Superman%27s_home_planet"
+    },
+    {
+      "text": "\"Kneel before Zod!\" — General Zod's imperious demand, delivered memorably by Terence Stamp in Superman II (1980), became an iconic movie villain line.",
+      "source": "https://www.youtube.com/results?search_query=Super%20Heroes%20Kneel%20before%20Zod%21%20live%20performance"
+    },
+    {
+      "text": "The Fortress of Solitude, Superman's Arctic headquarters, was first introduced in the Superman comics in 1958 and has appeared in virtually every adaptation since.",
+      "source": "https://en.wikipedia.org/wiki/Fortress_of_Solitude%2C_Superman%27s_Arctic_headquarters"
+    },
+    {
+      "text": "Batman's no-kill rule, one of his defining characteristics, was not always present — early Batman comics showed him using guns and killing criminals.",
+      "source": "https://en.wikipedia.org/wiki/Batman%27s_no-kill_rule%2C_one_of_his_defining_characteristics"
+    },
+    {
+      "text": "The Bat-Signal, the searchlight used to summon Batman, first appeared in Detective Comics #60 in 1942.",
+      "source": "https://en.wikipedia.org/wiki/Bat-Signal%2C_the_searchlight_used_to_summon_Batman%2C_first"
+    },
+    {
+      "text": "Alfred Pennyworth, Batman's butler, was originally a bumbling comic relief character before evolving into the competent, caring father figure fans know today.",
+      "source": "https://en.wikipedia.org/wiki/Alfred_Pennyworth%2C_Batman%27s_butler"
+    },
+    {
+      "text": "\"Some men just want to watch the world burn.\" — Alfred's description of the Joker in The Dark Knight perfectly explains villains who operate outside rational motivation.",
+      "source": "https://en.wikipedia.org/wiki/Some_men_just_want_to_watch_the_world_burn"
+    },
+    {
+      "text": "The Lazarus Pit, used by Ra's al Ghul to extend his life for centuries, was introduced in 1971 and has become a key element of the Batman mythology.",
+      "source": "https://en.wikipedia.org/wiki/Lazarus_Pit%2C_used_by_Ra%27s_al_Ghul_to_extend_his_life_for_centuries"
+    },
+    {
+      "text": "Bane broke Batman's back in the 'Knightfall' storyline (1993), one of the most shocking moments in comics history.",
+      "source": "https://en.wikipedia.org/wiki/Super_Heroes"
+    },
+    {
+      "text": "\"I was wondering what would break first — your spirit, or your body.\" — Bane's menacing challenge to Batman in The Dark Knight Rises echoed the Knightfall storyline.",
+      "source": "https://en.wikipedia.org/wiki/I_was_wondering_what_would_break_first_%E2%80%94_your_spirit%2C_or_your_body"
+    },
+    {
+      "text": "Catwoman has oscillated between villain, anti-hero, and love interest throughout her 80+ year history, making her one of the most complex characters in comics.",
+      "source": "https://en.wikipedia.org/wiki/Catwoman"
+    },
+    {
+      "text": "\"Life doesn't give us purpose. We give life purpose.\" — The Flash's philosophy reflects the optimistic heroism that sets DC's speedster apart.",
+      "source": "https://en.wikipedia.org/wiki/Life_doesn%27t_give_us_purpose._We_give_life_purpose"
+    },
+    {
+      "text": "The Rogues, the Flash's villain team, have an unusual code of honor — they don't kill women or children and avoid attacking heroes' families.",
+      "source": "https://en.wikipedia.org/wiki/Rogues%2C_the_Flash%27s_villain_team"
+    },
+    {
+      "text": "Captain Cold, the Flash's most persistent foe, wields a cold gun rather than having innate powers, making him a blue-collar villain in a world of metahumans.",
+      "source": "https://en.wikipedia.org/wiki/Captain_Cold"
+    },
+    {
+      "text": "Martian Manhunter, one of the founding members of the Justice League, is often described as 'the heart and soul' of the team.",
+      "source": "https://en.wikipedia.org/wiki/Martian_Manhunter%2C_one_of_the_founding_members_of_the_Justice_League"
+    },
+    {
+      "text": "Power Rangers, while originating from Japanese Super Sentai, became a massive superhero franchise in the West, running for over 30 seasons since 1993.",
+      "source": "https://en.wikipedia.org/wiki/Power_Rangers%2C_while_originating_from_Japanese_Super_Sentai"
+    },
+    {
+      "text": "\"I am the punishment of God. If you had not committed great sins, God would not have sent a punishment like me upon you.\" — Mr. Freeze quoting Genghis Khan in Batman: TAS.",
+      "source": "https://en.wikipedia.org/wiki/I_am_the_punishment_of_God._If_you"
+    },
+    {
+      "text": "Mr. Freeze was reinvented from a gimmick villain into a tragic figure by Batman: The Animated Series episode 'Heart of Ice,' which won an Emmy Award.",
+      "source": "https://en.wikipedia.org/wiki/Mr._Freeze"
+    },
+    {
+      "text": "The concept of a 'comic book universe' where all heroes share the same world was pioneered by DC Comics in the 1940s with the Justice Society crossovers.",
+      "source": "https://en.wikipedia.org/wiki/concept_of_a_%27comic_book_universe%27_where_all_heroes_share_the_same_world"
+    },
+    {
+      "text": "Iron Fist, introduced in 1974 during the kung fu craze, has the power to channel his chi into his fist, creating a devastating weapon.",
+      "source": "https://en.wikipedia.org/wiki/Iron_Fist"
+    },
+    {
+      "text": "Luke Cage, introduced in 1972 as 'Hero for Hire,' was Marvel's first Black character to star in his own comic book.",
+      "source": "https://en.wikipedia.org/wiki/Luke_Cage"
+    },
+    {
+      "text": "\"Sweet Christmas!\" — Luke Cage's signature exclamation has been a part of the character since his 1972 debut.",
+      "source": "https://en.wikipedia.org/wiki/Sweet_Christmas"
+    },
+    {
+      "text": "The Falcon, introduced in 1969, was Marvel's first African American superhero (as opposed to Black Panther, who is African).",
+      "source": "https://en.wikipedia.org/wiki/Falcon"
+    },
+    {
+      "text": "Storm of the X-Men, first appearing in 1975, was one of the first Black female superheroes in mainstream comics and has been depicted as one of the most powerful mutants.",
+      "source": "https://en.wikipedia.org/wiki/Storm_of_the_X-Men%2C_first_appearing_in_1975"
+    },
+    {
+      "text": "Rogue of the X-Men permanently absorbed Ms. Marvel's powers of flight, strength, and invulnerability, a storyline that defined both characters for decades.",
+      "source": "https://en.wikipedia.org/wiki/Rogue_of_the_X-Men"
+    },
+    {
+      "text": "\"I'm the Juggernaut, bitch!\" — While originating from a viral fan parody video, this line was actually used by Vinnie Jones in X-Men: The Last Stand (2006).",
+      "source": "https://en.wikipedia.org/wiki/I%27m_the_Juggernaut%2C_bitch"
+    },
+    {
+      "text": "The Phoenix Saga (1976–1977) and the Dark Phoenix Saga (1980), written by Chris Claremont, are considered among the greatest superhero stories ever told.",
+      "source": "https://en.wikipedia.org/wiki/Dark_Phoenix_Saga"
+    },
+    {
+      "text": "Jean Grey's sacrifice as the Dark Phoenix — choosing death over becoming a cosmic threat — was one of the most impactful character deaths in comics history.",
+      "source": "https://en.wikipedia.org/wiki/Jean_Grey%27s_sacrifice_as_the_Dark_Phoenix_%E2%80%94_choosing_death_over_becoming_a_cosmic_threat_%E2%80%94"
+    },
+    {
+      "text": "The Days of Future Past storyline (1981) depicted a dystopian future where mutants are hunted by Sentinels, influencing countless alternate-future stories in comics.",
+      "source": "https://en.wikipedia.org/wiki/Days_of_Future_Past_storyline_(1981)_depicted_a_dystopian_future_where_mutants"
+    },
+    {
+      "text": "\"The measure of a man is what he does with power.\" — This paraphrase of Plato has been attributed to various heroes but perfectly captures the superhero ethos.",
+      "source": "https://en.wikipedia.org/wiki/measure_of_a_man_is_what_he_does_with_power"
+    },
+    {
+      "text": "Kitty Pryde, introduced in 1980, was one of the first major teenage characters in the X-Men and could phase through solid matter.",
+      "source": "https://en.wikipedia.org/wiki/Kitty_Pryde"
+    },
+    {
+      "text": "Deadpool is famous for breaking the fourth wall, directly addressing readers and acknowledging that he is a fictional character in a comic book.",
+      "source": "https://en.wikipedia.org/wiki/Deadpool"
+    },
+    {
+      "text": "\"Maximum effort!\" — Deadpool's sarcastic battle cry before doing something violent or absurd became one of the most quoted lines from the 2016 film.",
+      "source": "https://en.wikipedia.org/wiki/Maximum_effort"
+    },
+    {
+      "text": "Deadpool (2016) was made for just $58 million — a fraction of most superhero budgets — and grossed $782 million, proving R-rated superhero films could be blockbusters.",
+      "source": "https://en.wikipedia.org/wiki/Deadpool"
+    },
+    {
+      "text": "Ryan Reynolds fought for over a decade to get a faithful Deadpool film made after the character was mishandled in X-Men Origins: Wolverine (2009).",
+      "source": "https://en.wikipedia.org/wiki/X-Men_Origins:_Wolverine"
+    },
+    {
+      "text": "Logan (2017), Hugh Jackman's final Wolverine film (before his return), was rated R and is considered one of the best superhero films ever made.",
+      "source": "https://en.wikipedia.org/wiki/Logan"
+    },
+    {
+      "text": "\"So this is what it feels like.\" — Wolverine's final words in Logan, referring to dying — which his healing factor had always prevented — was devastatingly poignant.",
+      "source": "https://en.wikipedia.org/wiki/So_this_is_what_it_feels_like"
+    },
+    {
+      "text": "The X-Men films (2000–2019) were among the first successful superhero film franchises, with X-Men (2000) helping launch the modern superhero movie era alongside Spider-Man.",
+      "source": "https://en.wikipedia.org/wiki/X-Men"
+    },
+    {
+      "text": "Patrick Stewart and Ian McKellen's portrayals of Professor X and Magneto are considered definitive, bringing Shakespearean gravitas to superhero films.",
+      "source": "https://en.wikipedia.org/wiki/Patrick_Stewart_and_Ian_McKellen%27s_portrayals_of_Professor_X_and_Magneto"
+    },
+    {
+      "text": "\"Just because someone stumbles and loses their path, doesn't mean they can't be saved.\" — Professor X's belief in redemption is central to the X-Men's philosophy.",
+      "source": "https://en.wikipedia.org/wiki/Just_because_someone_stumbles_and_loses_their_path%2C_doesn%27t_mean_they_can%27t_be_saved"
+    },
+    {
+      "text": "The concept of retractable claws was not part of Wolverine's original design — they were initially attached to his gloves, not his body.",
+      "source": "https://en.wikipedia.org/wiki/concept_of_retractable_claws"
+    },
+    {
+      "text": "Adamantium, the indestructible metal bonded to Wolverine's skeleton, was introduced in Avengers #66 in 1969.",
+      "source": "https://en.wikipedia.org/wiki/Adamantium%2C_the_indestructible_metal_bonded_to_Wolverine%27s_skeleton"
+    },
+    {
+      "text": "Vibranium, the fictional metal found only in Wakanda, is used in Captain America's shield and is central to Black Panther's technology.",
+      "source": "https://en.wikipedia.org/wiki/Vibranium%2C_the_fictional_metal_found_only_in_Wakanda"
+    },
+    {
+      "text": "Captain America's shield is made from a unique vibranium-steel alloy that has never been successfully replicated in the Marvel Universe.",
+      "source": "https://en.wikipedia.org/wiki/Captain_America%27s_shield"
+    },
+    {
+      "text": "\"I don't like bullies. I don't care where they're from.\" — Steve Rogers' simple moral code, established before he became Captain America, defines his character.",
+      "source": "https://en.wikipedia.org/wiki/I_don%27t_like_bullies._I_don%27t_care_where_they%27re_from"
+    },
+    {
+      "text": "The Super Soldier Serum that created Captain America has been the subject of countless storylines about governments trying to replicate it, always with disastrous results.",
+      "source": "https://en.wikipedia.org/wiki/Super_Soldier_Serum_that"
+    },
+    {
+      "text": "The Red Skull, Captain America's arch-nemesis, was created by Joe Simon and Jack Kirby and first appeared in Captain America Comics #7 in 1941.",
+      "source": "https://en.wikipedia.org/wiki/Red_Skull%2C_Captain_America%27s_arch-nemesis"
+    },
+    {
+      "text": "HYDRA's motto 'Cut off one head, two more shall take its place' has made them one of Marvel's most persistent villain organizations.",
+      "source": "https://en.wikipedia.org/wiki/HYDRA%27s_motto_%27Cut_off_one_head%2C_two_more_shall_take_its_place"
+    },
+    {
+      "text": "\"Hail HYDRA.\" — The whispered phrase revealing secret HYDRA infiltration in Captain America: The Winter Soldier (2014) was one of the MCU's most shocking twists.",
+      "source": "https://en.wikipedia.org/wiki/Hail_HYDRA"
+    },
+    {
+      "text": "S.H.I.E.L.D., Marvel's premier spy agency, stands for Strategic Homeland Intervention, Enforcement and Logistics Division in the MCU.",
+      "source": "https://en.wikipedia.org/wiki/Strategic_Homeland_Intervention"
+    },
+    {
+      "text": "Nick Fury originally appeared as the leader of the Howling Commandos, a World War II combat unit, before becoming the head of S.H.I.E.L.D.",
+      "source": "https://en.wikipedia.org/wiki/Nick_Fury_originally"
+    },
+    {
+      "text": "The Negative Zone, a dimension of antimatter, was introduced by Stan Lee and Jack Kirby in Fantastic Four #51 (1966) and has been a key location in Marvel stories.",
+      "source": "https://en.wikipedia.org/wiki/Negative_Zone%2C_a_dimension_of_antimatter"
+    },
+    {
+      "text": "Doctor Octopus, one of Spider-Man's greatest villains, was a nuclear physicist named Otto Octavius whose mechanical arms became fused to his body in a lab accident.",
+      "source": "https://en.wikipedia.org/wiki/Doctor_Octopus%2C_one_of_Spider-Man%27s_greatest_villains"
+    },
+    {
+      "text": "\"Intelligence is not a privilege, it's a gift. And you use it for the good of mankind.\" — Doc Ock's wisdom in Spider-Man 2 (2004) before being corrupted by his own creation.",
+      "source": "https://en.wikipedia.org/wiki/Intelligence_is_not_a_privilege%2C_it%27s_a_gift._And_you_use_it_for_the_good_of_mankind"
+    },
+    {
+      "text": "Alfred Molina's portrayal of Doctor Octopus in Spider-Man 2 (2004) is widely considered one of the best superhero villain performances ever filmed.",
+      "source": "https://en.wikipedia.org/wiki/Alfred_Molina%27s_portrayal_of_Doctor_Octopus_in_Spider-Man_2_(2004)"
+    },
+    {
+      "text": "Spider-Man 2 (2004) is frequently cited as one of the greatest superhero films of all time, particularly for its exploration of Peter Parker's personal sacrifices.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man_2_(2004)"
+    },
+    {
+      "text": "The Green Goblin, Spider-Man's arch-nemesis, was first portrayed on screen by Willem Dafoe in 2002, a role he reprised 20 years later in No Way Home.",
+      "source": "https://en.wikipedia.org/wiki/Green_Goblin%2C_Spider-Man%27s_arch-nemesis"
+    },
+    {
+      "text": "\"You know, I'm something of a scientist myself.\" — Norman Osborn's line from Spider-Man (2002) became one of the internet's most popular memes.",
+      "source": "https://www.youtube.com/results?search_query=Super%20Heroes%20You%20know%2C%20I%27m%20something%20of%20a%20scientist%20myself.%20live%20performance"
+    },
+    {
+      "text": "J. Jonah Jameson, Spider-Man's media nemesis, was brilliantly portrayed by J.K. Simmons in the Raimi trilogy and brought back for the MCU as a conspiracy broadcaster.",
+      "source": "https://en.wikipedia.org/wiki/J._Jonah_Jameson%2C_Spider-Man%27s_media_nemesis"
+    },
+    {
+      "text": "Gwen Stacy's death in Amazing Spider-Man #121 (1973), when her neck snapped from the whiplash of Spider-Man's web catching her mid-fall, shocked the comics world and ended the optimistic Silver Age.",
+      "source": "https://en.wikipedia.org/wiki/Gwen_Stacy%27s"
+    },
+    {
+      "text": "The Night Gwen Stacy Died is considered one of the most important stories in comic book history, establishing that heroes can fail to save everyone.",
+      "source": "https://en.wikipedia.org/wiki/Night_Gwen_Stacy_Died"
+    },
+    {
+      "text": "\"Face it, tiger, you just hit the jackpot.\" — Mary Jane Watson's famous first line upon meeting Peter Parker in Amazing Spider-Man #42 (1966) remains one of comics' most iconic introductions.",
+      "source": "https://en.wikipedia.org/wiki/Face_it%2C_tiger%2C_you_just_hit_the_jackpot"
+    },
+    {
+      "text": "Superman has died, been resurrected, married Lois Lane, had a son (Jon Kent), lost his powers, been split into two beings, and been rebooted numerous times across his 85+ year history.",
+      "source": "https://en.wikipedia.org/wiki/Superman"
+    },
+    {
+      "text": "Jon Kent, Superman's son, took over the Superman mantle in 2021 and came out as bisexual, making international headlines.",
+      "source": "https://en.wikipedia.org/wiki/Jon_Kent%2C_Superman%27s_son"
+    },
+    {
+      "text": "The introduction of Superman in 1938 was inspired by the science fiction pulp magazines and strongman culture of the 1930s.",
+      "source": "https://en.wikipedia.org/wiki/introduction_of_Superman_in_1938"
+    },
+    {
+      "text": "\"Look, up in the sky! It's a bird! It's a plane! It's Superman!\" — This exclamation, originating from the radio show, is perhaps the most famous introduction in superhero history.",
+      "source": "https://en.wikipedia.org/wiki/Look%2C_up_in_the_sky%21_It%27s_a_bird%21_It%27s_a_plane%21_It%27s_Superman"
+    },
+    {
+      "text": "Lex Luthor, Superman's greatest enemy, was originally depicted with red hair before a coloring error made him bald — and bald he has remained ever since.",
+      "source": "https://en.wikipedia.org/wiki/Lex_Luthor%2C_Superman%27s_greatest_enemy"
+    },
+    {
+      "text": "Lex Luthor was reimagined in the 1980s by John Byrne as a corrupt billionaire industrialist rather than a mad scientist, reflecting modern fears about corporate power.",
+      "source": "https://en.wikipedia.org/wiki/Lex_Luthor"
+    },
+    {
+      "text": "Brainiac, one of Superman's most dangerous foes, is a hyper-intelligent alien android who shrinks and collects cities, including the Kryptonian city of Kandor.",
+      "source": "https://en.wikipedia.org/wiki/Brainiac%2C_one_of_Superman%27s_most_dangerous_foes"
+    },
+    {
+      "text": "\"This looks like a job for Superman!\" — Clark Kent's famous phrase before ducking into a phone booth (or supply closet) to change has been parodied countless times.",
+      "source": "https://en.wikipedia.org/wiki/This_looks_like_a_job_for_Superman"
+    },
+    {
+      "text": "The concept of a superhero landing — one knee down, fist to the ground — has become so ubiquitous that Deadpool famously mocked it as 'really hard on the knees.'",
+      "source": "https://en.wikipedia.org/wiki/concept_of_a_superhero_landing_%E2%80%94_one_knee_down%2C_fist_to_the_ground_%E2%80%94"
+    },
+    {
+      "text": "The Batfamily has grown to include Robin (multiple versions), Batgirl, Nightwing, Red Hood, Batwoman, Batwing, and many others operating in Gotham City.",
+      "source": "https://en.wikipedia.org/wiki/Batfamily"
+    },
+    {
+      "text": "Dick Grayson's evolution from Robin to Nightwing is considered one of the best character arcs in comics, showing a sidekick growing beyond his mentor's shadow.",
+      "source": "https://en.wikipedia.org/wiki/Dick_Grayson%27s_evolution_from_Robin_to_Nightwing"
+    },
+    {
+      "text": "Jason Todd, the second Robin, was famously killed by the Joker in 'A Death in the Family' (1988) after fans voted via phone poll to let him die.",
+      "source": "https://en.wikipedia.org/wiki/Family"
+    },
+    {
+      "text": "\"A good death is its own reward.\" — This Klingon-like warrior philosophy has been attributed to various comic anti-heroes, reflecting the genre's complex relationship with violence and sacrifice.",
+      "source": "https://en.wikipedia.org/wiki/A_good_death_is_its_own_reward"
+    },
+    {
+      "text": "Jason Todd's resurrection as the Red Hood in 2005 used the Lazarus Pit and Superboy-Prime's reality-altering punches — comic book logic at its most creative.",
+      "source": "https://en.wikipedia.org/wiki/Jason_Todd%27s"
+    },
+    {
+      "text": "Tim Drake, the third Robin, is notable for being the Robin who deduced Batman's identity on his own, proving his detective skills.",
+      "source": "https://en.wikipedia.org/wiki/Tim_Drake%2C_the_third_Robin"
+    },
+    {
+      "text": "Damian Wayne, the current Robin, is the son of Bruce Wayne and Talia al Ghul, raised by the League of Assassins before joining his father.",
+      "source": "https://en.wikipedia.org/wiki/Damian_Wayne%2C_the_current_Robin"
+    },
+    {
+      "text": "Nightwing is often considered the heart of the DC Universe, connecting the Batman family, the Teen Titans, and the Justice League through his relationships.",
+      "source": "https://en.wikipedia.org/wiki/Nightwing"
+    },
+    {
+      "text": "\"It's not a bird. It's not a plane. It's not even Superman. It's just us.\" — Nightwing's rallying cry to the Titans captures the team's independence from the Justice League.",
+      "source": "https://en.wikipedia.org/wiki/It%27s_not_a_bird._It%27s_not_a_plane._It%27s_not_even_Superman._It%27s_just_us"
+    },
+    {
+      "text": "Batgirl's original incarnation, Barbara Gordon, was the daughter of Commissioner Gordon and a librarian by day.",
+      "source": "https://en.wikipedia.org/wiki/Batgirl%27s_original_incarnation%2C_Barbara_Gordon"
+    },
+    {
+      "text": "Commissioner Gordon has been one of Batman's most important allies since 1939, trusting the Dark Knight despite never officially knowing his identity.",
+      "source": "https://en.wikipedia.org/wiki/Commissioner_Gordon"
+    },
+    {
+      "text": "The Bat-Signal's legal implications have been debated in real-world law journals — is it an endorsement of vigilantism by the Gotham City Police Department?",
+      "source": "https://en.wikipedia.org/wiki/Bat-Signal%27s_legal_implications"
+    },
+    {
+      "text": "Gotham City was designed to be a dark, corrupt reflection of New York City, while Metropolis represents New York's brighter, more optimistic side.",
+      "source": "https://en.wikipedia.org/wiki/Gotham_City"
+    },
+    {
+      "text": "\"Gotham needs something more, something worse to defend her. She needs a professional.\" — This sentiment captures why Gotham needs Batman, not just a police force.",
+      "source": "https://en.wikipedia.org/wiki/Gotham_needs_something_more%2C_something_worse_to_defend_her._She_needs_a_professional"
+    },
+    {
+      "text": "The concept of a superhero's 'rogues gallery' — a recurring cast of villains — was established early in comics and remains one of the genre's defining features.",
+      "source": "https://en.wikipedia.org/wiki/concept_of_a_superhero%27s_%27rogues_gallery%27_%E2%80%94_a_recurring_cast_of_villains_%E2%80%94"
+    },
+    {
+      "text": "Arkham Asylum, the psychiatric facility that houses Batman's villains, was named after the fictional city in H.P. Lovecraft's stories.",
+      "source": "https://en.wikipedia.org/wiki/Arkham_Asylum%2C_the_psychiatric_facility_that_houses_Batman%27s_villains"
+    },
+    {
+      "text": "Grant Morrison's Arkham Asylum: A Serious House on Serious Earth (1989) is one of the best-selling graphic novels ever and depicted the asylum as a truly nightmarish place.",
+      "source": "https://en.wikipedia.org/wiki/Serious_Earth"
+    },
+    {
+      "text": "The Arkham video game series by Rocksteady (2009–2015) is considered the definitive superhero game franchise, particularly Batman: Arkham City.",
+      "source": "https://en.wikipedia.org/wiki/Arkham_video_game_series_by_Rocksteady_(2009%E2%80%932015)"
+    },
+    {
+      "text": "Spider-Man's web-shooters were mechanical devices designed by Peter Parker in the original comics, though some adaptations (like the Raimi films) made them organic.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man%27s_web-shooters"
+    },
+    {
+      "text": "\"With great power comes great responsibility\" was not originally said by Uncle Ben in the comics — it appeared as a narrative caption in Amazing Fantasy #15's final panel.",
+      "source": "https://en.wikipedia.org/wiki/With_great_power_comes_great_responsibility"
+    },
+    {
+      "text": "The Spider-Verse concept, featuring infinite versions of Spider-Man across parallel universes, has become one of Marvel's most popular multiversal stories.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Verse"
+    },
+    {
+      "text": "Spider-Gwen (Ghost-Spider), an alternate version of Gwen Stacy who became Spider-Woman, debuted in 2014 and quickly became a fan favorite.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Gwen_(Ghost-Spider)%2C_an_alternate_version_of_Gwen_Stacy_who"
+    },
+    {
+      "text": "\"Anyone can wear the mask. You could wear the mask.\" — Spider-Man's declaration in Into the Spider-Verse speaks to the universal appeal of superheroes.",
+      "source": "https://en.wikipedia.org/wiki/Anyone_can_wear_the_mask._You_could_wear_the_mask"
+    },
+    {
+      "text": "The concept of legacy heroes — new characters taking on established mantles — is a core feature of the DC Universe, with multiple versions of Flash, Green Lantern, and others.",
+      "source": "https://en.wikipedia.org/wiki/concept_of_legacy_heroes_%E2%80%94_new_characters_taking_on_established_mantles_%E2%80%94"
+    },
+    {
+      "text": "Wally West succeeded Barry Allen as the Flash for over 20 years in the comics (1986–2009), becoming the definitive Flash for an entire generation of readers.",
+      "source": "https://en.wikipedia.org/wiki/Wally_West"
+    },
+    {
+      "text": "The Green Lantern ring is often described as the most powerful weapon in the universe, limited only by the wielder's imagination and willpower.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern_ring"
+    },
+    {
+      "text": "John Stewart, introduced in 1971 as the Green Lantern Corps' first Black member, became the most recognized Green Lantern for many fans through Justice League Unlimited.",
+      "source": "https://en.wikipedia.org/wiki/John_Stewart"
+    },
+    {
+      "text": "\"In blackest day, in brightest night, beware your fears made into light.\" — The Sinestro Corps oath, a dark mirror of the Green Lantern pledge, represents the power of fear.",
+      "source": "https://en.wikipedia.org/wiki/In_blackest_day%2C_in_brightest_night%2C_beware_your_fears_made_into_light"
+    },
+    {
+      "text": "Sinestro, originally Hal Jordan's mentor in the Green Lantern Corps, became one of DC's most complex villains after his expulsion for abusing his power.",
+      "source": "https://en.wikipedia.org/wiki/Sinestro%2C_originally_Hal_Jordan%27s_mentor_in_the_Green_Lantern_Corps"
+    },
+    {
+      "text": "The emotional spectrum in DC Comics assigns different colors to different emotions: green (willpower), yellow (fear), red (rage), blue (hope), violet (love), indigo (compassion), and orange (avarice).",
+      "source": "https://en.wikipedia.org/wiki/DC_Comics"
+    },
+    {
+      "text": "Blackest Night (2009–2010) by Geoff Johns featured dead heroes and villains reanimated as Black Lanterns, creating one of DC's most popular modern crossover events.",
+      "source": "https://en.wikipedia.org/wiki/Blackest_Night"
+    },
+    {
+      "text": "The New 52 relaunch in 2011 rebooted the entire DC Universe with 52 new #1 issues, generating massive sales but also significant fan controversy.",
+      "source": "https://en.wikipedia.org/wiki/New_52"
+    },
+    {
+      "text": "DC Rebirth in 2016 course-corrected many New 52 changes, restoring legacy and relationships that fans had missed.",
+      "source": "https://en.wikipedia.org/wiki/DC_Rebirth"
+    },
+    {
+      "text": "\"Every second is a gift.\" — The Flash's perspective on time, given his ability to perceive fractions of seconds, adds philosophical depth to his speedster powers.",
+      "source": "https://en.wikipedia.org/wiki/Every_second_is_a_gift"
+    },
+    {
+      "text": "Cyborg, originally a Teen Titans member, was elevated to a founding Justice League member in the New 52 reboot, reflecting his growing importance.",
+      "source": "https://en.wikipedia.org/wiki/Cyborg%2C_originally_a_Teen_Titans_member"
+    },
+    {
+      "text": "The Teen Titans' most famous roster — Robin, Starfire, Cyborg, Raven, and Beast Boy — was established by Marv Wolfman and George Pérez in 1980.",
+      "source": "https://en.wikipedia.org/wiki/Teen_Titans%27_most_famous_roster_%E2%80%94_Robin%2C_Starfire%2C_Cyborg%2C_Raven%2C_and_Beast_Boy_%E2%80%94"
+    },
+    {
+      "text": "The New Teen Titans by Wolfman and Pérez rivaled X-Men in the 1980s as the best-selling comic series, with 'The Judas Contract' being its most acclaimed storyline.",
+      "source": "https://en.wikipedia.org/wiki/New_Teen_Titans"
+    },
+    {
+      "text": "Terra, the mole within the Teen Titans in 'The Judas Contract,' remains one of the most shocking betrayals in comic book history.",
+      "source": "https://en.wikipedia.org/wiki/Teen_Titans_in"
+    },
+    {
+      "text": "\"There will be a time when you'll have to choose between what is right and what is easy.\" — A sentiment echoed by countless mentor figures across superhero stories.",
+      "source": "https://en.wikipedia.org/wiki/There_will_be_a_time_when_you%27ll_have_to_choose_between_what_is_right_and_what_is_easy"
+    },
+    {
+      "text": "Starfire, the alien princess from Tamaran, brought an otherworldly innocence to the Teen Titans that contrasted with the team's darker storylines.",
+      "source": "https://en.wikipedia.org/wiki/Teen_Titans"
+    },
+    {
+      "text": "Beast Boy can transform into any animal he has seen, always retaining his green coloration — a limitation that often makes stealth missions challenging.",
+      "source": "https://en.wikipedia.org/wiki/Beast_Boy_can_transform_into_any_animal_he"
+    },
+    {
+      "text": "Raven, daughter of the demon Trigon, constantly struggles to control her dark heritage while using her empathic and magical abilities for good.",
+      "source": "https://en.wikipedia.org/wiki/Super_Heroes"
+    },
+    {
+      "text": "Teen Titans Go!, the comedic animated series, divided fans but became one of Cartoon Network's highest-rated shows and introduced a new generation to the characters.",
+      "source": "https://en.wikipedia.org/wiki/Teen_Titans_Go%21%2C_the_comedic_animated_series%2C_divided_fans_but"
+    },
+    {
+      "text": "Young Justice, the animated series beginning in 2010, is praised for its mature storytelling and has developed a passionate fan base that saved it from cancellation twice.",
+      "source": "https://en.wikipedia.org/wiki/Young_Justice%2C_the_animated_series_beginning_in_2010"
+    },
+    {
+      "text": "\"It's hero time!\" — Ben 10's catchphrase, while from a different franchise, reflects the universal appeal of transformation that runs through all superhero media.",
+      "source": "https://en.wikipedia.org/wiki/It%27s_hero_time"
+    },
+    {
+      "text": "Static Shock, created by Milestone Comics in 1993, was one of the first Black teenage superheroes and starred in a popular animated series (2000–2004).",
+      "source": "https://en.wikipedia.org/wiki/Static_Shock"
+    },
+    {
+      "text": "Milestone Comics, founded in 1993, was a groundbreaking imprint featuring diverse superheroes, including Static, Icon, and Hardware.",
+      "source": "https://en.wikipedia.org/wiki/Milestone_Comics"
+    },
+    {
+      "text": "Icon, from Milestone Comics, was a Superman analogue who was a conservative Black man, subverting expectations about both superheroes and Black characters in comics.",
+      "source": "https://en.wikipedia.org/wiki/Icon%2C_from_Milestone_Comics"
+    },
+    {
+      "text": "The Umbrella Academy by Gerard Way (of My Chemical Romance fame) became an unlikely hit as both a comic and a Netflix series.",
+      "source": "https://en.wikipedia.org/wiki/Umbrella_Academy_by_Gerard_Way_(of_My_Chemical_Romance_fame)"
+    },
+    {
+      "text": "\"Despite everything, it's still you.\" — This sentiment of maintaining identity despite powers and trauma runs through virtually every superhero origin story.",
+      "source": "https://en.wikipedia.org/wiki/Despite_everything%2C_it%27s_still_you"
+    },
+    {
+      "text": "Kick-Ass (2010) explored what would happen if a regular teenager tried to become a superhero without any powers or training — with brutal consequences.",
+      "source": "https://en.wikipedia.org/wiki/Kick-Ass"
+    },
+    {
+      "text": "Unbreakable (2000) by M. Night Shyamalan deconstructed superhero mythology through a realistic lens years before the MCU boom.",
+      "source": "https://en.wikipedia.org/wiki/Unbreakable"
+    },
+    {
+      "text": "The Batman Who Laughs, a dark multiverse version of Batman infected by Joker toxin, became one of DC's most popular new villains when introduced in 2017.",
+      "source": "https://en.wikipedia.org/wiki/Batman_Who_Laughs%2C_a_dark_multiverse_version_of_Batman_infected_by_Joker_toxin"
+    },
+    {
+      "text": "Dark Nights: Metal (2017–2018) by Scott Snyder introduced the Dark Multiverse, where every nightmare version of Batman you could imagine exists.",
+      "source": "https://en.wikipedia.org/wiki/Dark_Nights:_Metal_(2017%E2%80%932018)_by_Scott_Snyder"
+    },
+    {
+      "text": "\"I'm not going to kill you. But I don't have to save you.\" — Batman's moral compromise in Batman Begins walks the razor-thin line of his no-kill rule.",
+      "source": "https://en.wikipedia.org/wiki/I%27m_not_going_to_kill_you._But_I_don%27t_have_to_save_you"
+    },
+    {
+      "text": "Spider-Man's spider-sense, a tingling sensation that warns him of danger, has been depicted as everything from a slight buzz to a full precognitive vision.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man%27s_spider-sense%2C_a_tingling_sensation_that_warns_him_of_danger"
+    },
+    {
+      "text": "The Punisher's skull logo has been controversially adopted by military and police units, a usage that comic writers have actively pushed back against in their stories.",
+      "source": "https://en.wikipedia.org/wiki/Punisher%27s_skull_logo"
+    },
+    {
+      "text": "\"One batch, two batch, penny and dime.\" — The Punisher's children's book reference in Daredevil Season 2 revealed the devastating humanity beneath Frank Castle's violence.",
+      "source": "https://en.wikipedia.org/wiki/One_batch%2C_two_batch%2C_penny_and_dime"
+    },
+    {
+      "text": "Jessica Jones, created by Brian Michael Bendis in 2001, was a retired superhero dealing with PTSD, alcoholism, and the trauma of mind control.",
+      "source": "https://en.wikipedia.org/wiki/Jessica_Jones"
+    },
+    {
+      "text": "Alias by Brian Michael Bendis, featuring Jessica Jones, was the first Marvel MAX title, allowing mature themes including explicit language and sexual content.",
+      "source": "https://en.wikipedia.org/wiki/Alias_by_Brian_Michael_Bendis%2C_featuring_Jessica_Jones"
+    },
+    {
+      "text": "The Authority, created by Warren Ellis in 1999, featured superheroes who actively tried to change the world rather than just maintaining the status quo.",
+      "source": "https://en.wikipedia.org/wiki/Authority"
+    },
+    {
+      "text": "Planetary by Warren Ellis and John Cassaday (1999–2009) was a love letter to the entire history of pulp fiction, science fiction, and superhero comics.",
+      "source": "https://en.wikipedia.org/wiki/Planetary_by_Warren_Ellis_and_John_Cassaday_(1999%E2%80%932009)"
+    },
+    {
+      "text": "\"It's a strange world. Let's keep it that way.\" — Elijah Snow's closing line in Planetary captures the series' celebration of wonder and mystery.",
+      "source": "https://en.wikipedia.org/wiki/It%27s_a_strange_world._Let%27s_keep_it_that_way"
+    },
+    {
+      "text": "Kingdom Come (1996) by Mark Waid and Alex Ross depicted an aging Superman returning from retirement to face a new generation of violent, amoral heroes.",
+      "source": "https://en.wikipedia.org/wiki/Kingdom_Come"
+    },
+    {
+      "text": "Alex Ross's painted artwork for Kingdom Come and Marvels is considered some of the most beautiful art ever produced in the superhero genre.",
+      "source": "https://en.wikipedia.org/wiki/Alex_Ross%27s_painted_artwork_for_Kingdom_Come_and_Marvels"
+    },
+    {
+      "text": "Marvels (1994) by Kurt Busiek and Alex Ross told Marvel Universe history from the perspective of an ordinary photojournalist, grounding superheroes in human experience.",
+      "source": "https://en.wikipedia.org/wiki/Marvels"
+    },
+    {
+      "text": "Astro City by Kurt Busiek explores every aspect of life in a superhero-filled world, from the heroes themselves to the ordinary people who live among them.",
+      "source": "https://en.wikipedia.org/wiki/Astro_City"
+    },
+    {
+      "text": "\"This is what I was made for. This is why I am here.\" — Superman's selfless philosophy, born from Kansas values and Kryptonian heritage, defines the ideal superhero.",
+      "source": "https://en.wikipedia.org/wiki/This_is_what_I_was_made_for._This_is_why_I_am_here"
+    },
+    {
+      "text": "Miracleman (originally Marvelman), revamped by Alan Moore in the 1980s, was one of the first truly deconstructionist takes on superheroes.",
+      "source": "https://en.wikipedia.org/wiki/Miracleman_(originally_Marvelman)%2C_revamped_by_Alan_Moore_in_the_1980s"
+    },
+    {
+      "text": "The Authority's Apollo and Midnighter, introduced in 1998, were among the first openly gay superheroes in mainstream comics, modeled on Superman and Batman.",
+      "source": "https://en.wikipedia.org/wiki/Authority%27s_Apollo_and_Midnighter"
+    },
+    {
+      "text": "Batwoman (Kate Kane), reintroduced in 2006, was DC's most prominent LGBTQ+ superhero and headlined her own comic and TV series.",
+      "source": "https://en.wikipedia.org/wiki/Batwoman_(Kate_Kane)%2C_reintroduced_in_2006"
+    },
+    {
+      "text": "America Chavez, also known as Miss America, is a Latina LGBTQ+ superhero who can punch star-shaped holes between dimensions.",
+      "source": "https://en.wikipedia.org/wiki/America_Chavez%2C_also_known_as_Miss_America"
+    },
+    {
+      "text": "\"You don't get to decide who I am.\" — This defiant declaration has been echoed by queer superheroes across publishers as representation in comics has expanded.",
+      "source": "https://en.wikipedia.org/wiki/You_don%27t_get_to_decide_who_I_am"
+    },
+    {
+      "text": "Northstar of the X-Men was one of the first openly gay superheroes in mainstream comics, coming out in Alpha Flight #106 in 1992.",
+      "source": "https://en.wikipedia.org/wiki/Northstar_of_the_X-Men"
+    },
+    {
+      "text": "Northstar's wedding to his partner Kyle Jinadu in Astonishing X-Men #51 (2012) was one of the first same-sex marriages depicted in mainstream comics.",
+      "source": "https://en.wikipedia.org/wiki/Northstar%27s_wedding_to_his_partner_Kyle_Jinadu_in_Astonishing_X-Men_%2351_(2012)"
+    },
+    {
+      "text": "The concept of superhero fatigue — audiences growing tired of the genre — has been predicted by critics since the early 2010s, yet the genre continues to produce hits.",
+      "source": "https://en.wikipedia.org/wiki/concept_of_superhero_fatigue_%E2%80%94_audiences_growing_tired_of_the_genre_%E2%80%94"
+    },
+    {
+      "text": "Superhero films have won Academy Awards for acting (Heath Ledger, Joaquin Phoenix), visual effects, sound, and music, but none has won Best Picture.",
+      "source": "https://en.wikipedia.org/wiki/Superhero_films"
+    },
+    {
+      "text": "\"Even the smallest person can change the course of the future.\" — While Tolkien's Galadriel said it first, this philosophy is at the heart of every underdog superhero story.",
+      "source": "https://en.wikipedia.org/wiki/Even_the_smallest_person_can_change_the_course_of_the_future"
+    },
+    {
+      "text": "The first live-action superhero film was the 1941 Adventures of Captain Marvel serial, predating Superman's film debut by nearly four decades.",
+      "source": "https://en.wikipedia.org/wiki/first_live-action_superhero_film"
+    },
+    {
+      "text": "The 1966 Batman TV series starring Adam West embraced campy humor with onscreen 'POW!' and 'BAM!' effects, defining Batman in popular culture for decades.",
+      "source": "https://en.wikipedia.org/wiki/1966_Batman_TV"
+    },
+    {
+      "text": "Adam West never received a star on the Hollywood Walk of Fame during his lifetime, finally receiving one posthumously through fan campaigning.",
+      "source": "https://en.wikipedia.org/wiki/Adam_West"
+    },
+    {
+      "text": "Michael Keaton was initially derided as a comedy actor cast as Batman in 1989, but his intense, understated performance won over skeptics and critics.",
+      "source": "https://en.wikipedia.org/wiki/Michael_Keaton"
+    },
+    {
+      "text": "\"You wanna get nuts? Let's get nuts!\" — Michael Keaton's Bruce Wayne losing his composure in Batman (1989) showed that even the Dark Knight has breaking points.",
+      "source": "https://en.wikipedia.org/wiki/You_wanna_get_nuts%3F_Let%27s_get_nuts"
+    },
+    {
+      "text": "Christian Bale gained and lost significant weight multiple times for the Dark Knight trilogy, embodying the physical commitment the role demands.",
+      "source": "https://en.wikipedia.org/wiki/Christian_Bale"
+    },
+    {
+      "text": "Ben Affleck's casting as Batman in 2013 was met with massive fan backlash — dubbed 'Batfleck' — but his performance was ultimately praised by many viewers.",
+      "source": "https://en.wikipedia.org/wiki/Ben_Affleck%27s_casting_as_Batman_in_2013"
+    },
+    {
+      "text": "Robert Pattinson's casting as Batman similarly sparked outrage before The Batman (2022) proved his suitability with a brooding, detective-focused performance.",
+      "source": "https://en.wikipedia.org/wiki/Batman"
+    },
+    {
+      "text": "\"I'm not wearing hockey pads!\" — Batman's dismissal of copycat vigilantes in The Dark Knight highlights the distinction between a trained hero and a well-meaning amateur.",
+      "source": "https://en.wikipedia.org/wiki/I%27m_not_wearing_hockey_pads"
+    },
+    {
+      "text": "Superman has been played on screen by George Reeves, Christopher Reeve, Dean Cain, Tom Welling, Brandon Routh, Henry Cavill, Tyler Hoechlin, and David Corenswet, among others.",
+      "source": "https://en.wikipedia.org/wiki/Superman"
+    },
+    {
+      "text": "Christopher Reeve's real-life heroism after his paralyzing horse-riding accident in 1995 proved that courage is not limited to fictional characters.",
+      "source": "https://en.wikipedia.org/wiki/Christopher_Reeve%27s"
+    },
+    {
+      "text": "Henry Cavill's first appearance as Superman in Man of Steel (2013) was praised for its visual spectacle but criticized for the level of destruction in the Metropolis battle.",
+      "source": "https://en.wikipedia.org/wiki/Steel"
+    },
+    {
+      "text": "\"A hero can be anyone. Even a man doing something as simple as putting a coat around a young boy's shoulders to let him know the world hadn't ended.\" — Batman in The Dark Knight Rises.",
+      "source": "https://en.wikipedia.org/wiki/Batman_in_The_Dark_Knight_Rises"
+    },
+    {
+      "text": "Tom Holland was just 19 when cast as Spider-Man for Captain America: Civil War (2016), making him the youngest actor to play the role in a theatrical film.",
+      "source": "https://en.wikipedia.org/wiki/Captain_America:_Civil_War"
+    },
+    {
+      "text": "Zendaya's MJ in the MCU Spider-Man films was a fresh take on Mary Jane Watson, bringing a sardonic intelligence to the character.",
+      "source": "https://en.wikipedia.org/wiki/Zendaya%27s_MJ_in_the_MCU_Spider-Man_films"
+    },
+    {
+      "text": "The Spider-Man: Homecoming trilogy (2017–2021) was notable for being the first Spider-Man films integrated into the larger MCU.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man:_Homecoming_trilogy_(2017%E2%80%932021)"
+    },
+    {
+      "text": "\"Mr. Stark, I don't feel so good.\" — Tom Holland's improvised line during Spider-Man's disintegration in Infinity War was one of the most emotionally devastating moments in MCU history.",
+      "source": "https://www.youtube.com/results?search_query=Super%20Heroes%20Mr.%20Stark%2C%20I%20don%27t%20feel%20so%20good.%20live%20performance"
+    },
+    {
+      "text": "Scarlet Witch, initially a minor Avenger, became one of Marvel's most powerful characters, with reality-warping abilities showcased in WandaVision and Doctor Strange 2.",
+      "source": "https://en.wikipedia.org/wiki/Scarlet_Witch%2C_initially_a_minor_Avenger"
+    },
+    {
+      "text": "WandaVision (2021) explored grief through the lens of sitcom history, becoming one of the most creatively ambitious projects in the MCU.",
+      "source": "https://en.wikipedia.org/wiki/WandaVision"
+    },
+    {
+      "text": "\"What is grief, if not love persevering?\" — Vision's profound observation in WandaVision became one of the MCU's most quoted and emotionally resonant lines.",
+      "source": "https://www.youtube.com/results?search_query=Super%20Heroes%20What%20is%20grief%2C%20if%20not%20love%20persevering%3F%20live%20performance"
+    },
+    {
+      "text": "Loki, Tom Hiddleston's charming trickster, evolved from an Avengers villain into one of the MCU's most beloved characters with his own Disney+ series.",
+      "source": "https://en.wikipedia.org/wiki/Tom_Hiddleston%27s"
+    },
+    {
+      "text": "\"I am burdened with glorious purpose.\" — Loki's initial grandiose declaration became a recurring theme as the character discovered what his true purpose really was.",
+      "source": "https://www.youtube.com/results?search_query=Super%20Heroes%20I%20am%20burdened%20with%20glorious%20purpose.%20live%20performance"
+    },
+    {
+      "text": "Vision was created from the Mind Stone, Tony Stark's AI JARVIS, Ultron's vibranium body, Thor's lightning, and Bruce Banner's genetic expertise — making him truly unique.",
+      "source": "https://en.wikipedia.org/wiki/Vision"
+    },
+    {
+      "text": "Ultron, the AI villain created by Hank Pym in the comics (Tony Stark in the MCU), represents humanity's fear of artificial intelligence turning against its creators.",
+      "source": "https://en.wikipedia.org/wiki/Ultron%2C_the_AI_villain"
+    },
+    {
+      "text": "\"There are no strings on me.\" — Ultron's first words after gaining sentience in Age of Ultron referenced Pinocchio while establishing his terrifying independence.",
+      "source": "https://en.wikipedia.org/wiki/There_are_no_strings_on_me"
+    },
+    {
+      "text": "Black Panther (2018) grossed over $1.3 billion worldwide and became a cultural milestone, particularly for its celebration of African culture and its predominantly Black cast.",
+      "source": "https://en.wikipedia.org/wiki/Black_Panther"
+    },
+    {
+      "text": "Killmonger, the villain of Black Panther, was praised for having one of the most sympathetic motivations in the MCU, challenging Wakanda's isolationism.",
+      "source": "https://en.wikipedia.org/wiki/Killmonger%2C_the_villain_of_Black_Panther"
+    },
+    {
+      "text": "\"Is this your king?\" — Killmonger's challenge to T'Challa resonated beyond the film as a commentary on leadership, accountability, and the Black diaspora.",
+      "source": "https://en.wikipedia.org/wiki/Is_this_your_king"
+    },
+    {
+      "text": "Chadwick Boseman filmed several MCU appearances while secretly battling colon cancer, a revelation after his death in 2020 that stunned the world.",
+      "source": "https://en.wikipedia.org/wiki/Chadwick_Boseman"
+    },
+    {
+      "text": "The Falcon and the Winter Soldier (2021) tackled racism and the legacy of Captain America, culminating in Sam Wilson officially taking up the shield.",
+      "source": "https://en.wikipedia.org/wiki/Winter_Soldier"
+    },
+    {
+      "text": "\"They will never let a Black man be Captain America.\" — Isaiah Bradley's bitter warning to Sam Wilson addressed real-world racial injustice through the superhero lens.",
+      "source": "https://en.wikipedia.org/wiki/They_will_never_let_a_Black_man_be_Captain_America"
+    },
+    {
+      "text": "Isaiah Bradley, introduced in the 2003 comic Truth: Red, White & Black, was a Black soldier who was given a version of the Super Soldier Serum in experiments echoing the real Tuskegee study.",
+      "source": "https://en.wikipedia.org/wiki/Isaiah_Bradley"
+    },
+    {
+      "text": "The Eternals (2021) was directed by Chloé Zhao, fresh off her Best Director Oscar win for Nomadland, making it one of the most auteur-driven MCU films.",
+      "source": "https://en.wikipedia.org/wiki/Eternals"
+    },
+    {
+      "text": "Shang-Chi and the Legend of the Ten Rings (2021) was the first MCU film with an Asian lead and incorporated wuxia filmmaking traditions.",
+      "source": "https://en.wikipedia.org/wiki/Ten_Rings"
+    },
+    {
+      "text": "Doctor Strange in the Multiverse of Madness (2022) was directed by Sam Raimi, returning the Spider-Man trilogy director to the superhero genre with his signature horror style.",
+      "source": "https://en.wikipedia.org/wiki/Madness"
+    },
+    {
+      "text": "\"It's not about you.\" — The Ancient One's lesson to Doctor Strange that heroism requires selflessness resonated as a theme throughout Phase Four of the MCU.",
+      "source": "https://en.wikipedia.org/wiki/It%27s_not_about_you"
+    },
+    {
+      "text": "Thor: Ragnarok (2017), directed by Taika Waititi, reinvented Thor as a cosmic comedy, revitalizing a character whose solo films had been considered the weakest in the MCU.",
+      "source": "https://en.wikipedia.org/wiki/Thor:_Ragnarok"
+    },
+    {
+      "text": "Taika Waititi also voiced Korg, the soft-spoken rock gladiator, who became a fan-favorite character from just a few scenes in Ragnarok.",
+      "source": "https://en.wikipedia.org/wiki/Taika_Waititi_also_voiced_Korg%2C_the_soft-spoken_rock_gladiator%2C_who"
+    },
+    {
+      "text": "The Guardians of the Galaxy Holiday Special (2022) was a love letter to 1970s and 1980s holiday specials, continuing James Gunn's nostalgic filmmaking approach.",
+      "source": "https://en.wikipedia.org/wiki/Galaxy_Holiday_Special"
+    },
+    {
+      "text": "James Gunn's departure from and return to Marvel, after being fired and rehired over old tweets, was one of the most dramatic behind-the-scenes stories in superhero filmmaking.",
+      "source": "https://en.wikipedia.org/wiki/James_Gunn%27s"
+    },
+    {
+      "text": "\"I'm Mary Poppins, y'all!\" — Yondu's delighted exclamation in Guardians Vol. 2 was both hilarious and poignant, given his sacrifice moments later.",
+      "source": "https://www.youtube.com/results?search_query=Super%20Heroes%20I%27m%20Mary%20Poppins%2C%20y%27all%21%20live%20performance"
+    },
+    {
+      "text": "The Suicide Squad (2021), James Gunn's soft reboot, was praised for its irreverent humor and willingness to kill off major characters unexpectedly.",
+      "source": "https://en.wikipedia.org/wiki/Suicide_Squad"
+    },
+    {
+      "text": "Peacemaker, spun off from The Suicide Squad, became one of DC's most acclaimed shows, with John Cena delivering a surprisingly nuanced performance.",
+      "source": "https://en.wikipedia.org/wiki/Peacemaker%2C_spun_off_from_The_Suicide_Squad"
+    },
+    {
+      "text": "The concept of anti-heroes — morally ambiguous characters who fight for good through questionable methods — has become increasingly popular since the 1980s.",
+      "source": "https://en.wikipedia.org/wiki/Super_Heroes"
+    },
+    {
+      "text": "\"Sometimes you gotta run before you can walk.\" — Tony Stark's philosophy of learning by doing extended beyond himself to the entire MCU's approach to storytelling.",
+      "source": "https://en.wikipedia.org/wiki/Sometimes_you_gotta_run_before_you_can_walk"
+    },
+    {
+      "text": "Wolverine's berserker rage, a state where he loses control and becomes a feral killing machine, represents the constant struggle between his humanity and animal nature.",
+      "source": "https://en.wikipedia.org/wiki/Wolverine%27s_berserker_rage%2C_a_state_where_he_loses_control_and"
+    },
+    {
+      "text": "Cable, the time-traveling mutant soldier, is the son of Scott Summers (Cyclops) and a clone of Jean Grey, making his backstory one of the most convoluted in comics.",
+      "source": "https://en.wikipedia.org/wiki/Cable%2C_the_time-traveling_mutant_soldier"
+    },
+    {
+      "text": "The Age of Apocalypse (1995) replaced the entire X-Men line for four months with an alternate timeline where Charles Xavier died and Apocalypse conquered North America.",
+      "source": "https://en.wikipedia.org/wiki/Apocalypse"
+    },
+    {
+      "text": "Apocalypse, one of the X-Men's most powerful villains, is the world's first mutant, born in ancient Egypt around 3000 BC.",
+      "source": "https://en.wikipedia.org/wiki/Apocalypse%2C_one_of_the_X-Men%27s_most_powerful_villains"
+    },
+    {
+      "text": "\"I am inevitable.\" — Thanos's declaration of cosmic certainty in Endgame echoed Apocalypse's philosophy of survival of the fittest, a common theme among Marvel's cosmic villains.",
+      "source": "https://en.wikipedia.org/wiki/I_am_inevitable"
+    },
+    {
+      "text": "Mr. Sinister, the geneticist obsessed with the Summers bloodline, has been pulling strings behind the X-Men for over a century in the comics.",
+      "source": "https://en.wikipedia.org/wiki/Mr._Sinister%2C_the_geneticist_obsessed_with_the_Summers_bloodline"
+    },
+    {
+      "text": "The Savage Land, a hidden prehistoric jungle in Antarctica, has been a recurring location in Marvel Comics since the X-Men encountered it in the 1960s.",
+      "source": "https://en.wikipedia.org/wiki/Savage_Land%2C_a_hidden_prehistoric_jungle_in_Antarctica"
+    },
+    {
+      "text": "The Danger Room, the X-Men's holographic training facility, has evolved from a room with mechanical obstacles to a sentient being in various storylines.",
+      "source": "https://en.wikipedia.org/wiki/Danger_Room%2C_the_X-Men%27s_holographic_training_facility"
+    },
+    {
+      "text": "\"Bamf!\" — The sound effect of Nightcrawler's teleportation, accompanied by a puff of brimstone-scented smoke, is one of the most distinctive in comics.",
+      "source": "https://en.wikipedia.org/wiki/Bamf"
+    },
+    {
+      "text": "Nightcrawler, the X-Men's teleporting swashbuckler, is a devout Catholic despite his demonic appearance, exploring questions of faith and appearance.",
+      "source": "https://en.wikipedia.org/wiki/Nightcrawler%2C_the_X-Men%27s_teleporting_swashbuckler"
+    },
+    {
+      "text": "Gambit, the Cajun mutant who charges objects with kinetic energy, became one of the most popular X-Men of the 1990s despite (or because of) his mysterious past.",
+      "source": "https://en.wikipedia.org/wiki/Gambit%2C_the_Cajun_mutant_who_charges_objects_with_kinetic_energy"
+    },
+    {
+      "text": "Channing Tatum was attached to a Gambit solo film for years before the project was ultimately canceled, one of the most famous unmade superhero films.",
+      "source": "https://en.wikipedia.org/wiki/Channing_Tatum"
+    },
+    {
+      "text": "The Sentinels, giant mutant-hunting robots, represent governmental overreach and technological oppression in the X-Men's allegorical framework.",
+      "source": "https://en.wikipedia.org/wiki/Sentinels"
+    },
+    {
+      "text": "\"The real crime would be not to finish what we started.\" — Doctor Octopus's rationalization for his dangerous experiments in Spider-Man 2 reflects how good intentions can lead to villainy.",
+      "source": "https://en.wikipedia.org/wiki/real_crime_would_be_not_to_finish_what_we_started"
+    },
+    {
+      "text": "House of M (2005), where Scarlet Witch altered reality and then depowered most of the world's mutants with the words 'No more mutants,' was one of Marvel's most impactful events.",
+      "source": "https://en.wikipedia.org/wiki/House_of_M"
+    },
+    {
+      "text": "\"No more mutants.\" — Scarlet Witch's three devastating words in House of M reduced the mutant population from millions to 198, reshaping the X-Men comics for years.",
+      "source": "https://www.youtube.com/results?search_query=Super%20Heroes%20No%20more%20mutants.%20live%20performance"
+    },
+    {
+      "text": "The Hellfire Club, a secret society of wealthy mutants, served as X-Men antagonists and was based on a real 18th-century British social club of the same name.",
+      "source": "https://en.wikipedia.org/wiki/Hellfire_Club%2C_a_secret_society_of_wealthy_mutants%2C_served_as_X-Men_antagonists_and"
+    },
+    {
+      "text": "Emma Frost, the White Queen of the Hellfire Club, evolved from villain to X-Men member and one of the team's most complex and compelling leaders.",
+      "source": "https://en.wikipedia.org/wiki/Emma_Frost"
+    },
+    {
+      "text": "Mystique, the shape-shifting mutant, has been both villain and anti-hero, and is the mother of both Nightcrawler and Rogue's adopted mother.",
+      "source": "https://en.wikipedia.org/wiki/Mystique%2C_the_shape-shifting_mutant"
+    },
+    {
+      "text": "The Brotherhood of Mutants, originally the Brotherhood of Evil Mutants, has been Magneto's primary team for fighting against human oppression of mutants.",
+      "source": "https://en.wikipedia.org/wiki/Brotherhood_of_Mutants%2C_originally_the_Brotherhood_of_Evil_Mutants"
+    },
+    {
+      "text": "\"You are a god among insects. Never let anyone tell you different.\" — Magneto's words to his fellow mutants reflect his supremacist philosophy born from surviving genocide.",
+      "source": "https://en.wikipedia.org/wiki/You_are_a_god_among_insects._Never_let_anyone_tell_you_different"
+    },
+    {
+      "text": "The Danger Room sessions that open many X-Men comics established the tradition of superhero training sequences that has been adopted across the genre.",
+      "source": "https://en.wikipedia.org/wiki/Danger_Room"
+    },
+    {
+      "text": "Cerebro, Professor Xavier's mutant-detecting device, amplifies his telepathic abilities to locate mutants worldwide and has been a key plot device for decades.",
+      "source": "https://en.wikipedia.org/wiki/Professor_Xavier%27s"
+    },
+    {
+      "text": "The Shi'ar, Kree, and Skrull empires are the three major alien civilizations in Marvel Comics, each playing significant roles in various cosmic storylines.",
+      "source": "https://en.wikipedia.org/wiki/Shi%27ar%2C_Kree%2C_and_Skrull_empires"
+    },
+    {
+      "text": "The Kree-Skrull War (1971–1972) was one of the first epic cosmic storylines in Marvel, pitting the Avengers between two warring alien empires.",
+      "source": "https://en.wikipedia.org/wiki/Kree-Skrull_War_(1971%E2%80%931972)"
+    },
+    {
+      "text": "Secret Invasion (2008) revealed that shape-shifting Skrulls had been replacing heroes for years, creating a paranoid atmosphere throughout the Marvel Universe.",
+      "source": "https://en.wikipedia.org/wiki/Secret_Invasion"
+    },
+    {
+      "text": "\"He loves you.\" — The Skrull Queen's repeated phrase during Secret Invasion, referring to a Skrull god, made every character's identity suspect.",
+      "source": "https://en.wikipedia.org/wiki/He_loves_you"
+    },
+    {
+      "text": "The Inhumans, created by Stan Lee and Jack Kirby, are a race of superhumans created by Kree experiments on early humans, with their powers activated by Terrigen Mist.",
+      "source": "https://en.wikipedia.org/wiki/Inhumans"
+    },
+    {
+      "text": "Black Bolt, king of the Inhumans, has a voice so powerful that a whisper can level a city, forcing him into eternal silence.",
+      "source": "https://en.wikipedia.org/wiki/Black_Bolt%2C_king_of_the_Inhumans"
+    },
+    {
+      "text": "The Microverse (renamed from the Micronauts' realm) is a sub-atomic universe accessible through shrinking, explored extensively in Ant-Man and Fantastic Four stories.",
+      "source": "https://en.wikipedia.org/wiki/Microverse_(renamed_from_the_Micronauts%27_realm)"
+    },
+    {
+      "text": "Squirrel Girl, despite being a comedic character, has defeated Doctor Doom, Thanos, Galactus, and other major villains, making her technically one of Marvel's most powerful heroes.",
+      "source": "https://en.wikipedia.org/wiki/Squirrel_Girl%2C_despite_being_a_comedic_character"
+    },
+    {
+      "text": "\"Eating nuts and kicking butts!\" — Squirrel Girl's motto perfectly encapsulates her absurd yet effective approach to superheroics.",
+      "source": "https://en.wikipedia.org/wiki/Eating_nuts_and_kicking_butts"
+    },
+    {
+      "text": "Howard the Duck, a satirical character from the 1970s, was trapped on Earth from his home dimension and starred in one of the worst-reviewed superhero films of all time in 1986.",
+      "source": "https://en.wikipedia.org/wiki/Howard_the_Duck%2C_a_satirical_character_from_the_1970s"
+    },
+    {
+      "text": "Marvel's 'What If...?' concept, exploring alternate scenarios in the Marvel Universe, has been published since 1977 and became a Disney+ animated series in 2021.",
+      "source": "https://en.wikipedia.org/wiki/Marvel%27s_%27What_If...%3F%27_concept%2C_exploring_alternate_scenarios_in_the_Marvel_Universe"
+    },
+    {
+      "text": "The Elseworlds imprint at DC published alternate-reality stories, including Superman: Red Son (where Superman landed in the Soviet Union) and Gotham by Gaslight (Victorian Batman).",
+      "source": "https://en.wikipedia.org/wiki/Elseworlds"
+    },
+    {
+      "text": "Superman: Red Son (2003) asked what would have happened if Superman's rocket had landed in the Soviet Union instead of Kansas, exploring Cold War fears through a superhero lens.",
+      "source": "https://en.wikipedia.org/wiki/Superman:_Red_Son"
+    },
+    {
+      "text": "\"Why don't you just put the whole world in a bottle, Superman?\" — Lex Luthor's challenge in Red Son perfectly encapsulates the philosophical tension between protection and control.",
+      "source": "https://en.wikipedia.org/wiki/Why_don%27t_you_just_put_the_whole_world_in_a_bottle%2C_Superman"
+    },
+    {
+      "text": "Batman: Year One (1987) by Frank Miller and David Mazzucchelli is considered the definitive origin story for both Batman and Jim Gordon.",
+      "source": "https://en.wikipedia.org/wiki/Batman:_Year_One"
+    },
+    {
+      "text": "The Long Halloween (1996–1997) by Jeph Loeb and Tim Sale is one of the most acclaimed Batman stories, combining noir detective fiction with superhero drama.",
+      "source": "https://en.wikipedia.org/wiki/Long_Halloween_(1996%E2%80%931997)_by_Jeph_Loeb_and_Tim_Sale"
+    },
+    {
+      "text": "Hush (2002–2003) by Jeph Loeb and Jim Lee featured virtually every major Batman villain and introduced the bandaged villain Hush.",
+      "source": "https://en.wikipedia.org/wiki/Jeph_Loeb_and_Jim_Lee"
+    },
+    {
+      "text": "Court of Owls (2011–2012) by Scott Snyder introduced a secret society that had controlled Gotham for centuries, proving that new Batman villains could still be created.",
+      "source": "https://en.wikipedia.org/wiki/Court_of_Owls_(2011%E2%80%932012)_by_Scott_Snyder"
+    },
+    {
+      "text": "\"Beware the Court of Owls, that watches all the time, ruling Gotham from a shadow perch, behind granite and lime.\" — The nursery rhyme from Snyder's Batman run became instantly iconic.",
+      "source": "https://en.wikipedia.org/wiki/Beware_the_Court_of_Owls"
+    },
+    {
+      "text": "Batman: The White Knight (2017) by Sean Murphy presented a reformed Joker fighting against a Batman who had gone too far, inverting their traditional dynamic.",
+      "source": "https://en.wikipedia.org/wiki/Batman:_The_White_Knight"
+    },
+    {
+      "text": "Superman: All-Star Superman (2005–2008) by Grant Morrison and Frank Quitely is widely considered the greatest Superman story ever told, depicting his final days.",
+      "source": "https://en.wikipedia.org/wiki/Superman:_All-Star_Superman_(2005%E2%80%932008)_by_Grant_Morrison_and_Frank_Quitely"
+    },
+    {
+      "text": "\"I love you, Lois Lane, until the end of time.\" — Superman's declaration in All-Star Superman distills the character's romantic core to its purest expression.",
+      "source": "https://en.wikipedia.org/wiki/I_love_you%2C_Lois_Lane%2C_until_the_end_of_time"
+    },
+    {
+      "text": "The relationship between Superman and Lois Lane is one of the longest-running romances in fiction, spanning over 85 years of comics, shows, and films.",
+      "source": "https://en.wikipedia.org/wiki/relationship_between_Superman_and_Lois_Lane"
+    },
+    {
+      "text": "Batman and Superman's friendship, despite their vastly different philosophies, is one of the most important relationships in DC Comics.",
+      "source": "https://en.wikipedia.org/wiki/Batman_and_Superman%27s_friendship%2C_despite_their_vastly_different_philosophies"
+    },
+    {
+      "text": "World's Finest, the classic team-up title featuring Batman and Superman, ran from 1941 to 1986 and established their collaborative dynamic.",
+      "source": "https://en.wikipedia.org/wiki/World%27s_Finest%2C_the_classic_team-up_title_featuring_Batman_and_Superman"
+    },
+    {
+      "text": "\"If Clark wanted to, he could use his superspeed and squish me into the cement. But I know how he thinks. Even more than the Kryptonite, he's got one big weakness. Deep down, Clark's essentially a good person... and deep down, I'm not.\" — Batman on why he can beat Superman.",
+      "source": "https://en.wikipedia.org/wiki/If_Clark"
+    },
+    {
+      "text": "The Justice League's Watchtower, their orbital headquarters, gives the team a global perspective while keeping them separate from Earth's politics.",
+      "source": "https://en.wikipedia.org/wiki/Justice_League%27s_Watchtower"
+    },
+    {
+      "text": "The Hall of Justice, the Justice League's Earth-based headquarters, was introduced in the Super Friends animated series and later adopted into DC Comics.",
+      "source": "https://en.wikipedia.org/wiki/Hall_of_Justice%2C_the_Justice_League%27s_Earth-based_headquarters"
+    },
+    {
+      "text": "Darkseid, the ruler of Apokolips, seeks the Anti-Life Equation to control all sentient beings and is one of the most powerful villains in the DC Universe.",
+      "source": "https://en.wikipedia.org/wiki/Anti-Life_Equation_to"
+    },
+    {
+      "text": "\"Darkseid is.\" — The terrifying two-word sentence from Grant Morrison's Final Crisis conveys Darkseid's status as the embodiment of tyranny and cosmic evil.",
+      "source": "https://en.wikipedia.org/wiki/Darkseid_is"
+    },
+    {
+      "text": "The Anti-Life Equation, which mathematically proves that life is meaningless, is one of the most unsettling concepts in superhero comics.",
+      "source": "https://en.wikipedia.org/wiki/Anti-Life_Equation%2C_which_mathematically_proves_that_life"
+    },
+    {
+      "text": "Orion, the son of Darkseid raised on New Genesis, constantly struggles against his violent nature — a literal nature-versus-nurture story.",
+      "source": "https://en.wikipedia.org/wiki/New_Genesis"
+    },
+    {
+      "text": "Big Barda, a warrior woman from Apokolips who defected to join the heroes, was based by Jack Kirby on singer-actress Lainie Kazan and his own wife Roz.",
+      "source": "https://en.wikipedia.org/wiki/Big_Barda%2C_a_warrior_woman_from_Apokolips_who_defected_to_join_the_heroes"
+    },
+    {
+      "text": "The Source Wall, at the edge of the DC Universe, traps anyone who tries to pass it — including gods — in its surface for eternity.",
+      "source": "https://en.wikipedia.org/wiki/Source_Wall"
+    },
+    {
+      "text": "Booster Gold, a time-traveling hero from the 25th century, came to the present to become famous using his knowledge of history, making him a unique self-promotional hero.",
+      "source": "https://en.wikipedia.org/wiki/Booster_Gold"
+    },
+    {
+      "text": "\"I'm the greatest hero you've never heard of.\" — Booster Gold's eventual acceptance of being an unsung hero protecting the timestream is one of DC's best character arcs.",
+      "source": "https://en.wikipedia.org/wiki/I%27m_the_greatest_hero_you%27ve_never_heard_of"
+    },
+    {
+      "text": "Blue Beetle and Booster Gold's friendship is one of the most beloved bromances in comics, known for their comedic buddy-cop dynamic.",
+      "source": "https://en.wikipedia.org/wiki/Blue_Beetle_and_Booster_Gold%27s_friendship"
+    },
+    {
+      "text": "The Justice League International era (1987–1996) brought humor to the Justice League, with Keith Giffen and J.M. DeMatteis writing the team as a dysfunctional workplace comedy.",
+      "source": "https://en.wikipedia.org/wiki/Justice_League_International"
+    },
+    {
+      "text": "The Atom, Ray Palmer, can shrink to subatomic size while retaining his full mass, making him incredibly dense and powerful at small scales.",
+      "source": "https://en.wikipedia.org/wiki/Atom"
+    },
+    {
+      "text": "Hawkman and Hawkgirl have one of the most complicated continuities in DC Comics, with multiple origin stories involving reincarnation, alien police officers, and Egyptian mythology.",
+      "source": "https://en.wikipedia.org/wiki/Hawkman_and_Hawkgirl"
+    },
+    {
+      "text": "\"Criminals are a superstitious, cowardly lot.\" — Batman's justification for his bat-themed persona, from his origin story, explains why he chose fear as his weapon.",
+      "source": "https://en.wikipedia.org/wiki/Criminals_are_a_superstitious%2C_cowardly_lot"
+    },
+    {
+      "text": "The concept of a 'shared universe' pioneered by superhero comics has become the dominant model for franchise filmmaking, inspiring the MCU, DCEU, and many imitators.",
+      "source": "https://en.wikipedia.org/wiki/concept_of_a_%27shared_universe%27_pioneered_by_superhero_comics"
+    },
+    {
+      "text": "Comic-Con International in San Diego, which began as a small gathering of comics fans in 1970, has grown into the world's largest celebration of popular culture.",
+      "source": "https://en.wikipedia.org/wiki/Comic-Con_International_in_San_Diego"
+    },
+    {
+      "text": "The direct market system of comic book distribution, established in the 1970s, allowed specialty comic shops to order specific titles and fundamentally changed the industry.",
+      "source": "https://en.wikipedia.org/wiki/Super_Heroes"
+    },
+    {
+      "text": "The speculator boom of the 1990s saw comics being bought as investments, leading to an industry crash when the bubble burst around 1993–1996.",
+      "source": "https://en.wikipedia.org/wiki/speculator_boom_of_the_1990s"
+    },
+    {
+      "text": "Chrome and holographic covers, polybagged issues, and multiple variant editions were staples of the 1990s speculator market and have made a comeback in modern comics.",
+      "source": "https://en.wikipedia.org/wiki/Chrome_and_holographic_covers%2C_polybagged_issues%2C_and_multiple_variant_editions"
+    },
+    {
+      "text": "\"Flame on!\" — The Human Torch's battle cry from the Fantastic Four has been a Marvel staple since 1961.",
+      "source": "https://en.wikipedia.org/wiki/Flame_on"
+    },
+    {
+      "text": "The Fantastic Four are often called 'Marvel's First Family' because their dysfunctional family dynamics were revolutionary when introduced in 1961.",
+      "source": "https://en.wikipedia.org/wiki/Fantastic_Four"
+    },
+    {
+      "text": "Reed Richards (Mr. Fantastic) is considered one of the smartest people in the Marvel Universe, sometimes depicted as so intelligent that it borders on alien.",
+      "source": "https://en.wikipedia.org/wiki/Reed_Richards_(Mr._Fantastic)"
+    },
+    {
+      "text": "Sue Storm (Invisible Woman) was initially portrayed as a passive female character but has evolved into one of Marvel's most powerful heroes, with force fields strong enough to contain explosions.",
+      "source": "https://en.wikipedia.org/wiki/Sue_Storm_(Invisible_Woman)"
+    },
+    {
+      "text": "The Thing's rocky exterior is a permanent transformation, and his struggle to accept his appearance has made him one of Marvel's most sympathetic characters.",
+      "source": "https://en.wikipedia.org/wiki/Thing%27s_rocky_exterior"
+    },
+    {
+      "text": "The Fantastic Four's exploration of the Negative Zone, the Microverse, and alternate dimensions made them Marvel's primary science fiction adventure team.",
+      "source": "https://en.wikipedia.org/wiki/Fantastic_Four%27s"
+    },
+    {
+      "text": "\"It's a metaphor, Doctor. Every person is a world unto themselves.\" — Reed Richards explaining the multiverse concept that would become central to modern superhero storytelling.",
+      "source": "https://en.wikipedia.org/wiki/It%27s_a_metaphor%2C_Doctor._Every_person_is_a_world_unto_themselves"
+    },
+    {
+      "text": "Namor the Sub-Mariner, first appearing in 1939, is one of the oldest Marvel characters and has been both hero and villain depending on the story.",
+      "source": "https://en.wikipedia.org/wiki/Namor_the_Sub-Mariner%2C_first_appearing_in_1939"
+    },
+    {
+      "text": "The Avengers vs. X-Men crossover (2012) pitted Marvel's two biggest teams against each other over the return of the Phoenix Force.",
+      "source": "https://en.wikipedia.org/wiki/Avengers_vs._X-Men"
+    },
+    {
+      "text": "Crossover events have been a financial staple of the comics industry since Secret Wars and Crisis on Infinite Earths in the mid-1980s.",
+      "source": "https://en.wikipedia.org/wiki/Crossover_events"
+    },
+    {
+      "text": "The concept of retconning (retroactive continuity) was formalized in the superhero genre but has since spread to all forms of serialized fiction.",
+      "source": "https://en.wikipedia.org/wiki/concept_of_retconning_(retroactive_continuity)"
+    },
+    {
+      "text": "\"I solemnly swear that I am up to no good.\" — While from Harry Potter, this sentiment applies to every trickster hero from Loki to Deadpool to Harley Quinn.",
+      "source": "https://en.wikipedia.org/wiki/I_solemnly_swear_that_I_am_up_to_no_good"
+    },
+    {
+      "text": "Constantine, DC's occult detective, navigates the supernatural underworld through cunning, trickery, and sheer audacity rather than raw superhuman power.",
+      "source": "https://en.wikipedia.org/wiki/Super_Heroes"
+    },
+    {
+      "text": "Zatanna, DC's magical heroine, casts spells by speaking backwards, a unique and visually distinctive magic system in comics.",
+      "source": "https://en.wikipedia.org/wiki/Super_Heroes"
+    },
+    {
+      "text": "Doctor Fate, one of DC's most powerful mystics, derives his power from the Helmet of Nabu, which contains the spirit of an ancient sorcerer.",
+      "source": "https://en.wikipedia.org/wiki/Doctor_Fate"
+    },
+    {
+      "text": "The Justice League Dark, DC's team of magical heroes, was formed to handle threats too supernatural for the regular Justice League.",
+      "source": "https://en.wikipedia.org/wiki/Justice_League_Dark%2C_DC%27s_team_of_magical_heroes"
+    },
+    {
+      "text": "\"We're the Avengers. We can bust arms dealers all the livelong day, but that up there? That's the endgame.\" — Tony Stark's ominous prediction in Age of Ultron foreshadowed the film's title.",
+      "source": "https://en.wikipedia.org/wiki/We%27re_the_Avengers._We"
+    },
+    {
+      "text": "The concept of a 'multiverse' in physics was actually influenced by DC Comics' use of the term, showing how superhero fiction can impact scientific discourse.",
+      "source": "https://en.wikipedia.org/wiki/concept_of_a_%27multiverse%27_in_physics"
+    },
+    {
+      "text": "Grant Morrison's run on All-Star Superman is often used to teach creative writing, as each issue is a self-contained story while contributing to the larger narrative.",
+      "source": "https://en.wikipedia.org/wiki/Grant_Morrison%27s_run_on_All-Star_Superman"
+    },
+    {
+      "text": "Bendis's Ultimate Spider-Man (2000–2009) retold Spider-Man's origin for a modern audience and is credited with revitalizing the character for a new generation.",
+      "source": "https://en.wikipedia.org/wiki/Bendis%27s_Ultimate_Spider-Man"
+    },
+    {
+      "text": "The Ultimate Universe, launched in 2000, reimagined Marvel characters for a modern audience and directly influenced the MCU's character designs and storylines.",
+      "source": "https://en.wikipedia.org/wiki/Ultimate_Universe"
+    },
+    {
+      "text": "Samuel L. Jackson's Nick Fury was directly based on the Ultimate Marvel version, which was drawn to resemble Jackson — with his permission — years before he was cast.",
+      "source": "https://en.wikipedia.org/wiki/Samuel_L._Jackson%27s_Nick_Fury"
+    },
+    {
+      "text": "\"Motherf—\" — Nick Fury's interrupted expletive during Infinity War's post-credits scene was Samuel L. Jackson's signature, perfectly capturing the audience's shock.",
+      "source": "https://en.wikipedia.org/wiki/Motherf%E2%80%94"
+    },
+    {
+      "text": "The MCU's approach to after-credits scenes has changed audience behavior, with most moviegoers now staying through the entire credits of superhero films.",
+      "source": "https://en.wikipedia.org/wiki/MCU%27s_approach_to_after-credits_scenes"
+    },
+    {
+      "text": "Iron Man's JARVIS AI, voiced by Paul Bettany, was named after Edwin Jarvis, the Avengers' butler in the comics, before Bettany was cast as Vision.",
+      "source": "https://en.wikipedia.org/wiki/Iron_Man%27s_JARVIS_AI%2C_voiced_by_Paul_Bettany"
+    },
+    {
+      "text": "Pepper Potts, Tony Stark's love interest and eventual wife, suited up as Rescue in Avengers: Endgame, fulfilling a role she's held in the comics.",
+      "source": "https://en.wikipedia.org/wiki/Pepper_Potts"
+    },
+    {
+      "text": "War Machine, James Rhodes, is Tony Stark's best friend and has been a superhero in his own right since the 1980s when he temporarily replaced Stark as Iron Man.",
+      "source": "https://en.wikipedia.org/wiki/War_Machine%2C_James_Rhodes"
+    },
+    {
+      "text": "\"Boom! You looking for this?\" — War Machine's attempt to tell a cool war story that falls flat in Age of Ultron was a perfect character moment for Rhodes.",
+      "source": "https://en.wikipedia.org/wiki/Boom%21_You_looking_for_this"
+    },
+    {
+      "text": "The Iron Man armor has gone through hundreds of iterations in the comics, from the original gray suit to Hulkbuster armor to bleeding-edge nanotech.",
+      "source": "https://en.wikipedia.org/wiki/Iron_Man_armor"
+    },
+    {
+      "text": "The Hulkbuster armor, designed by Tony Stark specifically to fight the Hulk, became one of the most popular Iron Man designs after appearing in Age of Ultron.",
+      "source": "https://en.wikipedia.org/wiki/Hulkbuster_armor%2C_designed_by_Tony_Stark_specifically_to_fight_the_Hulk"
+    },
+    {
+      "text": "She-Hulk's fourth-wall-breaking predates Deadpool's by decades — Jennifer Walters has been talking to readers and writers since the 1980s under John Byrne's pen.",
+      "source": "https://en.wikipedia.org/wiki/She-Hulk%27s_fourth-wall-breaking_predates_Deadpool%27s_by_decades_%E2%80%94_Jennifer_Walters"
+    },
+    {
+      "text": "The Thunderbolts, a team of supervillains disguised as heroes, debuted in 1997 with one of comics' greatest twist reveals.",
+      "source": "https://en.wikipedia.org/wiki/Thunderbolts"
+    },
+    {
+      "text": "\"Like a bolt from the blue — it's the Thunderbolts!\" — Baron Zemo's disguised villains fooling the public became one of the most celebrated twists in 1990s comics.",
+      "source": "https://www.youtube.com/results?search_query=Super%20Heroes%20Like%20a%20bolt%20from%20the%20blue%20%E2%80%94%20it%27s%20the%20Thunderbolts%21%20live%20performance"
+    },
+    {
+      "text": "Red Hulk (General Thunderbolt Ross) was introduced in 2008, turning one of the Hulk's greatest antagonists into a gamma-powered being himself.",
+      "source": "https://en.wikipedia.org/wiki/Red_Hulk_(General_Thunderbolt_Ross)"
+    },
+    {
+      "text": "The Sentry, Marvel's Superman analogue, has the power of a million exploding suns but is mentally unstable, embodying the danger of unchecked power.",
+      "source": "https://en.wikipedia.org/wiki/Sentry%2C_Marvel%27s_Superman_analogue"
+    },
+    {
+      "text": "Hyperion, another Marvel Superman analogue from the Squadron Supreme, starred in one of the first comics to explore what happens when superheroes take over government.",
+      "source": "https://en.wikipedia.org/wiki/Hyperion%2C_another_Marvel_Superman_analogue_from_the_Squadron_Supreme"
+    },
+    {
+      "text": "Squadron Supreme (1985–1986) by Mark Gruenwald was a precursor to Watchmen, examining the consequences of superheroes imposing their will on society.",
+      "source": "https://en.wikipedia.org/wiki/Squadron_Supreme_(1985%E2%80%931986)_by_Mark_Gruenwald"
+    },
+    {
+      "text": "\"Heroes aren't born. They're built.\" — This tagline for Iron Man 3 reflects the MCU's emphasis on character growth over innate power.",
+      "source": "https://en.wikipedia.org/wiki/Heroes_aren%27t_born._They%27re_built"
+    },
+    {
+      "text": "The Nova Corps, Marvel's intergalactic police force, is the counterpart to DC's Green Lantern Corps and draws power from the Nova Force.",
+      "source": "https://en.wikipedia.org/wiki/Nova_Corps%2C_Marvel%27s_intergalactic_police_force"
+    },
+    {
+      "text": "Adam Warlock, the cosmic hero, is central to the Infinity Saga in the comics and was finally introduced in the MCU in Guardians Vol. 3.",
+      "source": "https://en.wikipedia.org/wiki/Adam_Warlock%2C_the_cosmic_hero"
+    },
+    {
+      "text": "The Beyonder, the near-omnipotent being who created the original Secret Wars, is one of the most powerful entities in Marvel Comics.",
+      "source": "https://en.wikipedia.org/wiki/Beyonder%2C_the_near-omnipotent_being_who"
+    },
+    {
+      "text": "Galactus's helmet is actually a life-support device that helps him contain his immense cosmic energy, not just decorative headgear.",
+      "source": "https://en.wikipedia.org/wiki/Galactus%27s_helmet"
+    },
+    {
+      "text": "The Living Tribunal, a cosmic entity that oversees the multiverse, can nullify the Infinity Stones and has been referenced in the MCU's Doctor Strange.",
+      "source": "https://en.wikipedia.org/wiki/Living_Tribunal"
+    },
+    {
+      "text": "\"The hardest choices require the strongest wills.\" — Thanos's philosophical justification for genocide in Infinity War made him the MCU's most compelling villain.",
+      "source": "https://en.wikipedia.org/wiki/hardest_choices_require_the_strongest_wills"
+    },
+    {
+      "text": "Spider-Man has been a member of the Avengers, the Fantastic Four, and even the X-Men at various points in comic history.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man"
+    },
+    {
+      "text": "The Clone Saga introduced Ben Reilly, Spider-Man's clone, who temporarily replaced Peter Parker as Spider-Man in the 1990s.",
+      "source": "https://en.wikipedia.org/wiki/Clone_Saga"
+    },
+    {
+      "text": "Spider-Man 2099 (Miguel O'Hara) was created in 1992 and appeared in the Spider-Verse animated sequel, expanding Spider-Man's legacy into the future.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man_2099_(Miguel_O%27Hara)"
+    },
+    {
+      "text": "Spider-Man Noir, a Depression-era version of the character, was voiced by Nicolas Cage in Into the Spider-Verse and received his own live-action series.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man_Noir%2C_a_Depression-era_version_of_the_character"
+    },
+    {
+      "text": "\"I was bitten by a radioactive spider. And for the last 60 years, that's been the origin story that launched a million variations.\" — The simplicity of Spider-Man's origin is part of its genius.",
+      "source": "https://en.wikipedia.org/wiki/And_for_the"
+    },
+    {
+      "text": "Superman's Fortress of Solitude contains artifacts from Krypton, advanced technology, and a menagerie of alien creatures collected during his adventures.",
+      "source": "https://en.wikipedia.org/wiki/Superman%27s_Fortress_of_Solitude"
+    },
+    {
+      "text": "The Phantom Zone, a dimension used as a prison on Krypton, has served as a recurring plot device in Superman stories since its introduction in 1961.",
+      "source": "https://en.wikipedia.org/wiki/Phantom_Zone%2C_a_dimension_used_as_a_prison_on_Krypton"
+    },
+    {
+      "text": "Doomsday, the monster that killed Superman, was engineered through repeated cycles of death and resurrection on ancient Krypton.",
+      "source": "https://en.wikipedia.org/wiki/Doomsday%2C_the_monster_that_killed_Superman"
+    },
+    {
+      "text": "The Death of Superman generated over $30 million in comic sales during 1992, including the famous black polybagged edition with a black armband.",
+      "source": "https://en.wikipedia.org/wiki/Death_of_Superman"
+    },
+    {
+      "text": "Four replacement Supermen appeared after his death: Steel, Superboy, the Eradicator, and Cyborg Superman, each representing a different aspect of the original.",
+      "source": "https://en.wikipedia.org/wiki/Four_replacement_Supermen"
+    },
+    {
+      "text": "Steel (John Henry Irons), inspired by Superman's sacrifice, built a suit of armor and became a hero in his own right, later starring in a 1997 film with Shaquille O'Neal.",
+      "source": "https://en.wikipedia.org/wiki/Steel_(John_Henry_Irons)"
+    },
+    {
+      "text": "\"It's not an 'S.' On my world, it means 'hope.'\" — Superman's explanation of his symbol in Man of Steel recontextualized the most famous logo in comics.",
+      "source": "https://en.wikipedia.org/wiki/It%27s_not_an_%27S.%27_On_my_world%2C_it_means_%27hope"
+    },
+    {
+      "text": "Superboy (Conner Kent), a clone created from Superman's and Lex Luthor's DNA, has struggled with his dual heritage in numerous storylines.",
+      "source": "https://en.wikipedia.org/wiki/Superboy_(Conner_Kent)%2C_a_clone"
+    },
+    {
+      "text": "The Legion of Super-Heroes, a 31st-century team inspired by Superboy, has been one of DC's most enduring properties since 1958.",
+      "source": "https://en.wikipedia.org/wiki/Legion_of_Super-Heroes%2C_a_31st-century_team"
+    },
+    {
+      "text": "Power Girl's origin as the Earth-2 Supergirl survived Crisis on Infinite Earths through increasingly convoluted retcons, becoming a running joke about continuity problems.",
+      "source": "https://en.wikipedia.org/wiki/Power_Girl%27s"
+    },
+    {
+      "text": "Supergirl has been adapted into a successful TV series (2015–2021) starring Melissa Benoist, running for six seasons.",
+      "source": "https://en.wikipedia.org/wiki/Supergirl"
+    },
+    {
+      "text": "\"Hope, help, and compassion for all.\" — Supergirl's motto in her TV series expanded Superman's philosophy to emphasize empathy.",
+      "source": "https://en.wikipedia.org/wiki/Hope%2C_help%2C_and_compassion_for_all"
+    },
+    {
+      "text": "The Justice Society of America, the first superhero team, was revived in the 1990s and has served as an elder statesman team mentoring younger heroes.",
+      "source": "https://en.wikipedia.org/wiki/Justice_Society_of_America%2C_the_first_superhero_team"
+    },
+    {
+      "text": "Wildcat, a member of the Justice Society, is a retired heavyweight boxing champion who trained Batman, Black Canary, and other fighters in the DC Universe.",
+      "source": "https://en.wikipedia.org/wiki/Wildcat%2C_a_member_of_the_Justice_Society"
+    },
+    {
+      "text": "Black Canary's 'Canary Cry,' a sonic scream capable of shattering objects, makes her one of the most powerful martial artists in the DC Universe.",
+      "source": "https://en.wikipedia.org/wiki/Black_Canary%27s"
+    },
+    {
+      "text": "Green Arrow and Black Canary's romantic relationship is one of DC's most enduring couples, spanning decades of stories.",
+      "source": "https://en.wikipedia.org/wiki/Green_Arrow_and_Black_Canary%27s_romantic_relationship"
+    },
+    {
+      "text": "\"You have failed this city!\" — Oliver Queen's signature warning on the Arrow TV series became the show's defining catchphrase.",
+      "source": "https://en.wikipedia.org/wiki/You_have_failed_this_city"
+    },
+    {
+      "text": "The Titans franchise has spawned animated, live-action, and comic versions, each with different tones from lighthearted (Teen Titans Go!) to mature (Titans on HBO Max).",
+      "source": "https://en.wikipedia.org/wiki/Titans_franchise"
+    },
+    {
+      "text": "Deathstroke, the Teen Titans' greatest villain, is an enhanced mercenary whose skills rival Batman's and whose vendetta against the Titans is deeply personal.",
+      "source": "https://en.wikipedia.org/wiki/Deathstroke%2C_the_Teen_Titans%27_greatest_villain"
+    },
+    {
+      "text": "Deathstroke was the inspiration for Deadpool — even their names (Slade Wilson vs. Wade Wilson) are intentionally similar, as Deadpool began as a parody.",
+      "source": "https://en.wikipedia.org/wiki/Deathstroke"
+    },
+    {
+      "text": "The Wall, Amanda Waller, is one of the most feared people in the DC Universe despite having no superpowers — she controls the Suicide Squad through sheer authority.",
+      "source": "https://en.wikipedia.org/wiki/Wall%2C_Amanda_Waller"
+    },
+    {
+      "text": "\"I'm the Wall. And walls don't break.\" — Amanda Waller's unyielding demeanor has made her one of DC's most formidable non-powered characters.",
+      "source": "https://en.wikipedia.org/wiki/I%27m_the_Wall._And_walls_don%27t_break"
+    },
+    {
+      "text": "Superhero costumes have evolved from simple tights and capes to complex armored suits, reflecting changing fashion and the influence of movie designs on comic art.",
+      "source": "https://en.wikipedia.org/wiki/Superhero_costumes"
+    },
+    {
+      "text": "Cape physics — how superhero capes move in wind, combat, and flight — has been a persistent challenge in superhero animation and film visual effects.",
+      "source": "https://en.wikipedia.org/wiki/Cape_physics_%E2%80%94_how_superhero_capes_move_in_wind%2C_combat%2C_and_flight_%E2%80%94"
+    },
+    {
+      "text": "The 'no capes' argument made famous by The Incredibles actually has support in comics, where several heroes have abandoned capes for practical reasons.",
+      "source": "https://en.wikipedia.org/wiki/%27no_capes%27_argument_made_famous_by_The_Incredibles_actually"
+    },
+    {
+      "text": "Taskmaster, a Marvel villain, can perfectly replicate any fighting style he observes, making him a dangerous opponent for virtually any hero.",
+      "source": "https://en.wikipedia.org/wiki/Super_Heroes"
+    },
+    {
+      "text": "\"I've seen all your moves, Captain. I know everything you're going to do.\" — Taskmaster's photographic reflexes make him one of the few villains who can match Captain America in combat.",
+      "source": "https://en.wikipedia.org/wiki/I%27ve_seen_all_your_moves%2C_Captain._I_know_everything_you%27re_going_to_do"
+    },
+    {
+      "text": "The Hand, a ninja clan in Marvel Comics, has been a recurring threat in Daredevil, Elektra, and Wolverine storylines.",
+      "source": "https://en.wikipedia.org/wiki/Hand%2C_a_ninja_clan_in_Marvel_Comics"
+    },
+    {
+      "text": "Elektra Natchios, the deadly assassin and Daredevil's great love, was killed by Bullseye in one of Frank Miller's most famous Daredevil storylines.",
+      "source": "https://en.wikipedia.org/wiki/Elektra_Natchios%2C_the_deadly_assassin_and_Daredevil%27s_great_love"
+    },
+    {
+      "text": "Bullseye, who never misses a thrown object, is one of Marvel's most psychopathic villains and Daredevil's deadliest foe.",
+      "source": "https://en.wikipedia.org/wiki/Bullseye%2C_who_never_misses_a_thrown_object"
+    },
+    {
+      "text": "Kingpin (Wilson Fisk) straddles both Spider-Man and Daredevil's worlds as a crime lord who operates in plain sight as a seemingly legitimate businessman.",
+      "source": "https://en.wikipedia.org/wiki/Wilson_Fisk"
+    },
+    {
+      "text": "Vincent D'Onofrio's portrayal of Kingpin in Daredevil is considered one of the greatest villain performances in superhero television.",
+      "source": "https://en.wikipedia.org/wiki/Vincent_D%27Onofrio%27s_portrayal_of_Kingpin_in_Daredevil"
+    },
+    {
+      "text": "\"When I was a boy...\" — Kingpin's soft-spoken reminiscences before acts of extreme violence became a signature storytelling device in Netflix's Daredevil.",
+      "source": "https://en.wikipedia.org/wiki/When_I_was_a_boy"
+    },
+    {
+      "text": "The superhero genre has produced some of literature's most enduring philosophical questions: Can power be used responsibly? Does the end justify the means? Who watches the watchmen?",
+      "source": "https://en.wikipedia.org/wiki/superhero_genre"
+    },
+    {
+      "text": "\"Who watches the watchmen?\" — Alan Moore borrowed this question from the Roman poet Juvenal to frame Watchmen's examination of unchecked vigilante power.",
+      "source": "https://en.wikipedia.org/wiki/Who_watches_the_watchmen"
+    },
+    {
+      "text": "The trope of the superhero origin story — ordinary person gains extraordinary abilities through accident or destiny — has become one of the most recognizable narrative structures in fiction.",
+      "source": "https://en.wikipedia.org/wiki/Super_Heroes"
+    },
+    {
+      "text": "Superhero stories have been analyzed through the lens of mythology by scholars like Joseph Campbell, with heroes like Superman mapped onto the monomyth or 'Hero's Journey.'",
+      "source": "https://en.wikipedia.org/wiki/Superhero_stories"
+    },
+    {
+      "text": "The secret identity trope, where heroes disguise their real selves, has been interpreted as a metaphor for everything from immigration to queerness to imposter syndrome.",
+      "source": "https://en.wikipedia.org/wiki/secret_identity_trope%2C_where_heroes_disguise_their_real_selves"
+    },
+    {
+      "text": "\"Why do we fall, Bruce? So we can learn to pick ourselves up.\" — Thomas Wayne's lesson to young Bruce in Batman Begins became the trilogy's defining philosophy of resilience.",
+      "source": "https://en.wikipedia.org/wiki/Why_do_we_fall%2C_Bruce%3F_So_we_can_learn_to_pick_ourselves_up"
+    },
+    {
+      "text": "Superhero comics have addressed social issues throughout their history, from Captain America fighting Nazis to the X-Men tackling prejudice to Ms. Marvel representing Muslim Americans.",
+      "source": "https://en.wikipedia.org/wiki/Superhero_comics"
+    },
+    {
+      "text": "Green Lantern/Green Arrow #85-86 (1971) depicted Speedy (Green Arrow's sidekick) as a heroin addict, one of the first times comics directly addressed drug abuse.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern"
+    },
+    {
+      "text": "The Comics Code Authority's prohibition on depicting drug use was challenged when Marvel published anti-drug Spider-Man issues without the Code's seal of approval in 1971.",
+      "source": "https://en.wikipedia.org/wiki/Comics_Code_Authority%27s_prohibition_on_depicting_drug_use"
+    },
+    {
+      "text": "Spider-Man's 'The Night Gwen Stacy Died' (1973) is considered the story that ended the optimistic Silver Age and ushered in the more mature Bronze Age of Comics.",
+      "source": "https://en.wikipedia.org/wiki/Night_Gwen_Stacy_Died"
+    },
+    {
+      "text": "The Bronze Age of Comics (1970–1985) saw more mature storytelling, diverse characters, and social relevance in superhero comics.",
+      "source": "https://en.wikipedia.org/wiki/Bronze_Age_of_Comics_(1970%E2%80%931985)"
+    },
+    {
+      "text": "The Modern Age of Comics, beginning around 1985 with Watchmen and Dark Knight Returns, brought unprecedented complexity and moral ambiguity to the superhero genre.",
+      "source": "https://en.wikipedia.org/wiki/Modern_Age_of_Comics"
+    },
+    {
+      "text": "\"In this world, there is right and there is wrong, and that distinction is not difficult to make.\" — Superman's moral clarity in Kingdom Come set the standard for heroic idealism.",
+      "source": "https://en.wikipedia.org/wiki/In_this_world%2C_there_is_right_and_there_is_wrong%2C_and_that_distinction_is_not_difficult_to_make"
+    },
+    {
+      "text": "The Marvel Method of creating comics, where artists worked from loose plots rather than full scripts, gave artists enormous creative input and led to disputes over credit.",
+      "source": "https://en.wikipedia.org/wiki/Marvel_Method_of"
+    },
+    {
+      "text": "Jack Kirby left Marvel in 1970 partly due to frustrations over credit and compensation, moving to DC where he created the Fourth World saga.",
+      "source": "https://en.wikipedia.org/wiki/Jack_Kirby"
+    },
+    {
+      "text": "Steve Ditko, co-creator of Spider-Man and Doctor Strange, left Marvel in 1966 over creative differences with Stan Lee and became increasingly reclusive until his death in 2018.",
+      "source": "https://en.wikipedia.org/wiki/Steve_Ditko%2C_co-creator_of_Spider-Man_and_Doctor_Strange"
+    },
+    {
+      "text": "The work-for-hire system in comics, where publishers own characters created by employees, has been one of the industry's most contentious issues for decades.",
+      "source": "https://en.wikipedia.org/wiki/work-for-hire_system_in_comics%2C_where_publishers_own_characters"
+    },
+    {
+      "text": "Jerry Siegel and Joe Shuster spent decades fighting for recognition and compensation as Superman's creators, eventually receiving credit and a pension in 1975.",
+      "source": "https://en.wikipedia.org/wiki/Jerry_Siegel_and_Joe_Shuster"
+    },
+    {
+      "text": "\"I believe there's a hero in all of us.\" — Aunt May's wisdom in Spider-Man 2 (2004) speaks to the genre's democratic belief that heroism is available to everyone.",
+      "source": "https://www.youtube.com/results?search_query=Super%20Heroes%20I%20believe%20there%27s%20a%20hero%20in%20all%20of%20us.%20live%20performance"
+    },
+    {
+      "text": "The idea that anyone can be a hero — not just those with superpowers or wealth — is the most enduring and important message of the superhero genre.",
+      "source": "https://en.wikipedia.org/wiki/idea_that_anyone_can_be_a_hero_%E2%80%94_not_just_those_with_superpowers_or_wealth_%E2%80%94"
+    },
+    {
+      "text": "Superhero merchandise generates billions annually, with Spider-Man alone earning over $1 billion per year in licensed products.",
+      "source": "https://en.wikipedia.org/wiki/Super_Heroes"
+    },
+    {
+      "text": "Batman v Superman: Dawn of Justice (2016) divided fans and critics but established the DCEU and featured the first live-action meeting of DC's greatest heroes.",
+      "source": "https://en.wikipedia.org/wiki/Justice"
+    },
+    {
+      "text": "Zack Snyder's Justice League (2021), the four-hour director's cut released on HBO Max, was made possible by a massive fan campaign using #ReleaseTheSnyderCut.",
+      "source": "https://en.wikipedia.org/wiki/Zack_Snyder%27s_Justice_League"
+    },
+    {
+      "text": "The MCU's Phase One (2008–2012) established Iron Man, Captain America, Thor, and Hulk before uniting them in The Avengers, a model that every franchise has since tried to replicate.",
+      "source": "https://en.wikipedia.org/wiki/MCU%27s_Phase_One"
+    },
+    {
+      "text": "\"There was an idea, Stark knows this, called the Avengers Initiative. The idea was to bring together a group of remarkable people.\" — Nick Fury's pitch launched the most ambitious franchise in film history.",
+      "source": "https://en.wikipedia.org/wiki/There"
+    },
+    {
+      "text": "Captain America: The Winter Soldier (2014) was praised as a political thriller disguised as a superhero film, with themes of surveillance and government overreach.",
+      "source": "https://en.wikipedia.org/wiki/Captain_America:_The_Winter_Soldier"
+    },
+    {
+      "text": "The Russo Brothers, who directed Winter Soldier, Civil War, Infinity War, and Endgame, became the most commercially successful directors in box office history.",
+      "source": "https://en.wikipedia.org/wiki/Russo_Brothers%2C_who_directed_Winter_Soldier%2C_Civil_War%2C_Infinity_War%2C_and_Endgame"
+    },
+    {
+      "text": "Captain America: Civil War (2016) introduced Spider-Man and Black Panther to the MCU while adapting one of Marvel's most popular comic storylines.",
+      "source": "https://en.wikipedia.org/wiki/Captain_America:_Civil_War"
+    },
+    {
+      "text": "\"He's my friend.\" \"So was I.\" — The emotional exchange between Steve Rogers and Tony Stark in Civil War crystallized the personal stakes of their ideological conflict.",
+      "source": "https://www.youtube.com/results?search_query=Super%20Heroes%20He%27s%20my%20friend.%20live%20performance"
+    },
+    {
+      "text": "Spider-Man: No Way Home (2021) used the multiverse to bring together villains and heroes from all three Spider-Man film franchises, grossing $1.9 billion worldwide.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man:_No_Way_Home"
+    },
+    {
+      "text": "The concept of the superhero team-up — heroes from different titles joining forces — was pioneered in the 1940s and remains one of the genre's most commercially successful formulas.",
+      "source": "https://en.wikipedia.org/wiki/concept_of_the_superhero_team-up_%E2%80%94_heroes_from_different_titles_joining_forces_%E2%80%94"
+    },
+    {
+      "text": "JLA (1997–2006) by Grant Morrison and Howard Porter returned the Justice League to its 'Big Seven' lineup and is considered one of the definitive runs on the team.",
+      "source": "https://en.wikipedia.org/wiki/Grant_Morrison_and_Howard_Porter"
+    },
+    {
+      "text": "Grant Morrison's Animal Man run (1988–1990) deconstructed superhero comics by having the character become aware he was fictional and confront his writer.",
+      "source": "https://en.wikipedia.org/wiki/Grant_Morrison%27s_Animal_Man"
+    },
+    {
+      "text": "\"I can see you! I can see you!\" — Animal Man's shattering realization that he can see the reader through the comic page broke the fourth wall in a genuinely disturbing way.",
+      "source": "https://en.wikipedia.org/wiki/I_can_see_you%21_I_can_see_you"
+    },
+    {
+      "text": "The ongoing debate about whether Batman could defeat Superman has generated more discussion than perhaps any other hypothetical in popular culture.",
+      "source": "https://en.wikipedia.org/wiki/ongoing_debate_about_whether_Batman_could_defeat_Superman"
+    },
+    {
+      "text": "Frank Miller's The Dark Knight Returns featured an elderly Batman defeating Superman using a Kryptonite arrow and powered armor, establishing the template for their conflicts.",
+      "source": "https://en.wikipedia.org/wiki/Frank_Miller%27s_The_Dark_Knight_Returns"
+    },
+    {
+      "text": "Alan Moore's Swamp Thing run revealed that Swamp Thing was not Alec Holland transformed into a plant creature, but a plant creature that thought it was Alec Holland — a brilliant twist.",
+      "source": "https://en.wikipedia.org/wiki/Alan_Moore%27s_Swamp_Thing_run_revealed_that_Swamp_Thing"
+    },
+    {
+      "text": "\"You think your pretty little world will be safe forever? There's a storm coming, superhero.\" — Variations of this villain warning have appeared in virtually every superhero franchise.",
+      "source": "https://en.wikipedia.org/wiki/You_think_your_pretty_little_world_will_be_safe_forever%3F_There%27s_a_storm_coming%2C_superhero"
+    },
+    {
+      "text": "The concept of the 'comic book death' — where characters die only to be resurrected later — has become so common that death has lost much of its dramatic impact in superhero stories.",
+      "source": "https://en.wikipedia.org/wiki/Super_Heroes"
+    },
+    {
+      "text": "The only characters traditionally said to 'stay dead' in Marvel Comics were Uncle Ben, Bucky Barnes, and Gwen Stacy — but two of those three have since been brought back.",
+      "source": "https://en.wikipedia.org/wiki/only_characters_traditionally"
+    },
+    {
+      "text": "Marvel's Illuminati, a secret group of the smartest heroes (Iron Man, Professor X, Mr. Fantastic, Black Bolt, Doctor Strange, Namor), made covert decisions affecting the entire Marvel Universe.",
+      "source": "https://en.wikipedia.org/wiki/Marvel%27s_Illuminati"
+    },
+    {
+      "text": "Asgard, Thor's home realm in Norse mythology adapted by Marvel, has been depicted as everything from a floating city to a small town in Oklahoma.",
+      "source": "https://en.wikipedia.org/wiki/Asgard%2C_Thor%27s_home_realm_in_Norse_mythology_adapted_by_Marvel"
+    },
+    {
+      "text": "\"I am Thor, son of Odin!\" — Thor's declaration of identity connects the Marvel superhero directly to millennia of Norse mythological tradition.",
+      "source": "https://en.wikipedia.org/wiki/I_am_Thor%2C_son_of_Odin"
+    },
+    {
+      "text": "Thor's worthiness has been a recurring theme — several characters including Captain America, Jane Foster, and Beta Ray Bill have proven worthy of lifting Mjolnir.",
+      "source": "https://en.wikipedia.org/wiki/Thor%27s_worthiness"
+    },
+    {
+      "text": "Jane Foster becoming Thor in the comics (2014) and in Thor: Love and Thunder (2022) explored what worthiness means when the wielder is dying of cancer.",
+      "source": "https://en.wikipedia.org/wiki/Thunder"
+    },
+    {
+      "text": "Beta Ray Bill, an alien who proved worthy of Mjolnir, was the first non-Norse character to wield Thor's hammer and received his own enchanted weapon, Stormbreaker.",
+      "source": "https://en.wikipedia.org/wiki/Beta_Ray_Bill%2C_an_alien_who_proved_worthy_of_Mjolnir"
+    },
+    {
+      "text": "Loki has died and been reborn more times than almost any other Marvel character, each incarnation bringing new dimensions to the God of Mischief.",
+      "source": "https://en.wikipedia.org/wiki/Loki"
+    },
+    {
+      "text": "\"Your savior is here!\" — Loki's grandiose announcements are always undercut by his schemes going awry, creating the perfect blend of comedy and pathos.",
+      "source": "https://en.wikipedia.org/wiki/Your_savior_is_here"
+    },
+    {
+      "text": "The Infinity War film (2018) ended with Thanos succeeding in his plan, one of the few times a superhero film ended with the villain winning.",
+      "source": "https://en.wikipedia.org/wiki/Infinity_War"
+    },
+    {
+      "text": "Avengers: Endgame's opening weekend of $1.2 billion remains the highest opening weekend in box office history.",
+      "source": "https://en.wikipedia.org/wiki/Avengers:_Endgame%27s"
+    },
+    {
+      "text": "The final battle of Endgame, featuring virtually every MCU hero against Thanos's army, took months of visual effects work and involved over 2,500 VFX shots.",
+      "source": "https://en.wikipedia.org/wiki/final_battle_of_Endgame%2C_featuring_virtually_every_MCU_hero_against_Thanos%27s_army"
+    },
+    {
+      "text": "\"I love you 3000.\" — Morgan Stark's bedtime phrase to her father Tony became the emotional throughline of Endgame and resonated with audiences worldwide.",
+      "source": "https://www.youtube.com/results?search_query=Super%20Heroes%20I%20love%20you%203000.%20live%20performance"
+    },
+    {
+      "text": "Tony Stark's funeral scene in Endgame featured nearly every major MCU character, serving as both a character farewell and a celebration of the franchise's first decade.",
+      "source": "https://en.wikipedia.org/wiki/Tony_Stark%27s"
+    },
+    {
+      "text": "The MCU has introduced audiences to obscure characters like the Guardians of the Galaxy, Shang-Chi, and the Eternals who would have been unknown outside comics.",
+      "source": "https://en.wikipedia.org/wiki/MCU"
+    },
+    {
+      "text": "Superhero video games have produced masterpieces including Batman: Arkham City, Spider-Man (PS4), and Marvel's Guardians of the Galaxy.",
+      "source": "https://en.wikipedia.org/wiki/Superhero_video_games"
+    },
+    {
+      "text": "Insomniac's Spider-Man (2018) for PS4 is considered the definitive Spider-Man video game, with its open-world Manhattan and fluid web-swinging mechanics.",
+      "source": "https://en.wikipedia.org/wiki/Insomniac%27s_Spider-Man"
+    },
+    {
+      "text": "The Arkham series (2009-2015) revolutionized superhero gaming with its 'freeflow' combat system that made players feel like Batman.",
+      "source": "https://en.wikipedia.org/wiki/Arkham"
+    },
+    {
+      "text": "Marvel vs. Capcom, the fighting game franchise pitting superheroes against video game characters, has been a competitive gaming staple since the 1990s.",
+      "source": "https://en.wikipedia.org/wiki/Marvel_vs._Capcom"
+    },
+    {
+      "text": "Injustice: Gods Among Us (2013) featured a storyline where Superman became a dictator after the Joker tricked him into killing Lois Lane. Its story was praised as being better than many DC films.",
+      "source": "https://en.wikipedia.org/wiki/Injustice:_Gods_Among_Us"
+    },
+    {
+      "text": "\"I'm whatever Gotham needs me to be.\" — Batman's willingness to be the villain in the public eye to protect Gotham's hope speaks to selfless heroism beyond glory.",
+      "source": "https://en.wikipedia.org/wiki/I%27m_whatever_Gotham_needs_me_to_be"
+    },
+    {
+      "text": "The superhero genre's influence extends beyond entertainment — concepts like 'kryptonite' (a fatal weakness) and 'alter ego' have entered everyday language.",
+      "source": "https://en.wikipedia.org/wiki/Super_Heroes"
+    },
+    {
+      "text": "Superheroes have been analyzed as modern mythology, filling the same cultural role that gods and demigods played in ancient Greek, Norse, and Hindu traditions.",
+      "source": "https://en.wikipedia.org/wiki/Superheroes"
+    },
+    {
+      "text": "The practice of superhero cosplay began at comic conventions in the 1960s and has grown into a massive global community of costume crafters and performers.",
+      "source": "https://en.wikipedia.org/wiki/practice_of_superhero_cosplay_began_at_comic_conventions_in_the_1960s_and"
+    },
+    {
+      "text": "\"It ain't about how hard you hit. It's about how hard you can get hit and keep moving forward.\" — While Rocky's quote, it perfectly describes the superhero ethos of perseverance.",
+      "source": "https://www.youtube.com/results?search_query=Super%20Heroes%20It%20ain%27t%20about%20how%20hard%20you%20hit.%20It%27s%20about%20how%20hard%20you%20can%20get%20hit%20and%20keep%20moving%20forward.%20live%20performance"
+    },
+    {
+      "text": "The tradition of superhero Christmas specials dates back to the 1940s, with Batman's first Christmas story appearing in Batman #15 in 1943.",
+      "source": "https://en.wikipedia.org/wiki/Super_Heroes"
+    },
+    {
+      "text": "Superhero wedding issues are historically among the best-selling comics, with the marriages of Superman/Lois Lane, Spider-Man/MJ, and Northstar/Kyle all making headlines.",
+      "source": "https://en.wikipedia.org/wiki/Superhero_wedding_issues"
+    },
+    {
+      "text": "The superhero genre has been adapted into Broadway musicals, including Spider-Man: Turn Off the Dark (2011), one of the most expensive and troubled productions in Broadway history.",
+      "source": "https://en.wikipedia.org/wiki/Dark"
+    },
+    {
+      "text": "Spider-Man: Turn Off the Dark cost an estimated $75 million to produce, featured multiple actor injuries, and received mostly negative reviews despite running for over 1,000 performances.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man:_Turn_Off_the_Dark"
+    },
+    {
+      "text": "\"We have a Hulk.\" — Tony Stark's trump card declaration to Loki in The Avengers perfectly captures the Hulk's role as the team's ultimate weapon.",
+      "source": "https://en.wikipedia.org/wiki/We_have_a_Hulk"
+    },
+    {
+      "text": "The Planet Hulk storyline (2006) sent the Hulk to an alien gladiator planet where he became a warrior king, inspiring elements of Thor: Ragnarok.",
+      "source": "https://en.wikipedia.org/wiki/Planet_Hulk_storyline_(2006)_sent_the_Hulk_to_an_alien_gladiator_planet_where_he"
+    },
+    {
+      "text": "World War Hulk (2007) featured the Hulk returning to Earth for revenge against the Illuminati who exiled him, delivering one of Marvel's most satisfying 'Hulk smash' stories.",
+      "source": "https://en.wikipedia.org/wiki/World_War_Hulk"
+    },
+    {
+      "text": "The different Hulk personas — Savage Hulk, Joe Fixit (gray Hulk), Professor Hulk, World-Breaker Hulk — represent different aspects of Bruce Banner's fractured psyche.",
+      "source": "https://en.wikipedia.org/wiki/Savage_Hulk"
+    },
+    {
+      "text": "Amadeus Cho became the Totally Awesome Hulk in 2015, bringing a young Korean American genius into the gamma-powered legacy.",
+      "source": "https://en.wikipedia.org/wiki/Amadeus_Cho"
+    },
+    {
+      "text": "Red She-Hulk, Betty Ross transformed into a gamma being, paralleled her father's transformation into Red Hulk, showing how gamma radiation affected the entire Ross family.",
+      "source": "https://en.wikipedia.org/wiki/Red_She-Hulk"
+    },
+    {
+      "text": "Abomination, the Hulk's physical rival, was created when Emil Blonsky received a higher dose of gamma radiation than Bruce Banner.",
+      "source": "https://en.wikipedia.org/wiki/Abomination%2C_the_Hulk%27s_physical_rival"
+    },
+    {
+      "text": "\"That's my secret, Cap. I'm always angry.\" — Bruce Banner's revelation in The Avengers recontextualized the Hulk as a controlled power rather than an uncontrolled curse.",
+      "source": "https://en.wikipedia.org/wiki/That%27s_my_secret%2C_Cap._I%27m_always_angry"
+    },
+    {
+      "text": "The Marvel Universe's fictional timeline stretches from the Big Bang (with the First Firmament) through the modern era and into futures like 2099 and the 31st century.",
+      "source": "https://en.wikipedia.org/wiki/Marvel_Universe%27s"
+    },
+    {
+      "text": "The DC Universe's timeline is similarly vast, from the creation of the emotional spectrum to the 31st century Legion of Super-Heroes and beyond.",
+      "source": "https://en.wikipedia.org/wiki/DC_Universe%27s_timeline"
+    },
+    {
+      "text": "Superhero archetypes — the alien outsider (Superman), the driven vigilante (Batman), the reluctant hero (Spider-Man) — have influenced character creation across all media.",
+      "source": "https://en.wikipedia.org/wiki/Super_Heroes"
+    },
+    {
+      "text": "The 'fridging' of female characters — using their deaths or trauma to motivate male heroes — remains one of the most criticized tropes in superhero storytelling.",
+      "source": "https://en.wikipedia.org/wiki/Super_Heroes"
+    },
+    {
+      "text": "Modern comics have actively worked to address representation, with characters like Miles Morales, Kamala Khan, America Chavez, and the Nubia Wonder Woman leading the way.",
+      "source": "https://en.wikipedia.org/wiki/Modern_comics"
+    },
+    {
+      "text": "\"Anyone can be a hero. You just have to be brave enough to stand up.\" — This sentiment, expressed in various forms across superhero media, is the genre's most fundamental message.",
+      "source": "https://en.wikipedia.org/wiki/Anyone_can_be_a_hero._You_just_have_to_be_brave_enough_to_stand_up"
+    }
+  ]
+}

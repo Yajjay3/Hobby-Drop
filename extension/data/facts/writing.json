@@ -1,0 +1,1701 @@
+{
+  "hobby": "Writing & Journaling",
+  "facts": [
+    {
+      "text": "Stephen King writes 2,000 words every single day, including holidays and his birthday.",
+      "source": "https://en.wikipedia.org/wiki/Stephen_King"
+    },
+    {
+      "text": "The word 'journal' comes from the French word 'jour,' meaning day.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Journaling"
+    },
+    {
+      "text": "Ernest Hemingway wrote standing up at a specially built desk in his home.",
+      "source": "https://en.wikipedia.org/wiki/Ernest_Hemingway"
+    },
+    {
+      "text": "J.K. Rowling was rejected by 12 publishers before Bloomsbury accepted Harry Potter.",
+      "month": 6,
+      "day": 26,
+      "source": "https://en.wikipedia.org/wiki/J.K._Rowling"
+    },
+    {
+      "text": "The longest novel ever written is 'In Search of Lost Time' by Marcel Proust, at roughly 1.2 million words.",
+      "source": "https://en.wikipedia.org/wiki/longest_novel_ever_written"
+    },
+    {
+      "text": "Bullet journaling was invented by Ryder Carroll, a digital product designer from Brooklyn, New York.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Bullet_journaling"
+    },
+    {
+      "text": "Agatha Christie is the best-selling fiction writer of all time, with over 2 billion copies sold worldwide.",
+      "source": "https://en.wikipedia.org/wiki/Agatha_Christie"
+    },
+    {
+      "text": "NaNoWriMo (National Novel Writing Month) challenges writers to produce 50,000 words in November.",
+      "source": "https://en.wikipedia.org/wiki/National_Novel_Writing_Month"
+    },
+    {
+      "text": "Shakespeare invented over 1,700 words in the English language, including 'assassin,' 'lonely,' and 'generous.'",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Shakespeare"
+    },
+    {
+      "text": "The first known diary in English was kept by Edward VI, who began writing it in 1547.",
+      "source": "https://en.wikipedia.org/wiki/first_known_diary_in_English"
+    },
+    {
+      "text": "Mark Twain was the first major author to submit a typewritten manuscript to a publisher — 'Life on the Mississippi' in 1883.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Mark_Twain"
+    },
+    {
+      "text": "Julia Cameron's 'The Artist's Way' popularized the practice of writing three pages of stream-of-consciousness every morning, called 'morning pages.'",
+      "source": "https://en.wikipedia.org/wiki/Julia_Cameron%27s"
+    },
+    {
+      "text": "Charles Dickens published most of his novels as weekly or monthly serial installments before they were collected into books.",
+      "source": "https://en.wikipedia.org/wiki/Charles_Dickens"
+    },
+    {
+      "text": "The Pulitzer Prize for Fiction has been awarded since 1918.",
+      "month": 4,
+      "day": 16,
+      "source": "https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Fiction"
+    },
+    {
+      "text": "A 'pantser' is a writer who writes by the seat of their pants without an outline, as opposed to a 'plotter' who outlines in advance.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/A_%27pantser"
+    },
+    {
+      "text": "Maya Angelou rented a hotel room to write in each day, removing all art from the walls so nothing would distract her.",
+      "source": "https://en.wikipedia.org/wiki/Maya_Angelou"
+    },
+    {
+      "text": "The Bible is the most translated book in the world, available in over 700 languages.",
+      "source": "https://en.wikipedia.org/wiki/Bible"
+    },
+    {
+      "text": "F. Scott Fitzgerald's 'The Great Gatsby' sold poorly during his lifetime — only about 25,000 copies.",
+      "source": "https://en.wikipedia.org/wiki/F._Scott_Fitzgerald%27s"
+    },
+    {
+      "text": "Anne Frank began writing her diary on June 12, 1942, her 13th birthday.",
+      "month": 6,
+      "day": 12,
+      "source": "https://en.wikipedia.org/wiki/Anne_Frank"
+    },
+    {
+      "text": "Toni Morrison won the Nobel Prize in Literature in 1993, becoming the first African American woman to receive the honor.",
+      "month": 10,
+      "day": 7,
+      "source": "https://en.wikipedia.org/wiki/Toni_Morrison"
+    },
+    {
+      "text": "Aaron Sorkin is famous for writing dialogue-heavy scripts, often composing while walking and talking out loud.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Aaron_Sorkin"
+    },
+    {
+      "text": "The Moleskine notebook brand was revived in 1997, inspired by the legendary notebooks used by Hemingway, Picasso, and Bruce Chatwin.",
+      "source": "https://en.wikipedia.org/wiki/Moleskine_notebook_brand"
+    },
+    {
+      "text": "Edgar Allan Poe is credited with inventing the modern detective story with 'The Murders in the Rue Morgue' in 1841.",
+      "source": "https://en.wikipedia.org/wiki/Edgar_Allan_Poe"
+    },
+    {
+      "text": "A standard Hollywood screenplay is about 90 to 120 pages long, with one page roughly equaling one minute of screen time.",
+      "source": "https://en.wikipedia.org/wiki/A_standard_Hollywood_screenplay"
+    },
+    {
+      "text": "Jane Austen published her novels anonymously, credited only as 'By a Lady.'",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Jane_Austen"
+    },
+    {
+      "text": "NaNoWriMo was founded in 1999 by freelance writer Chris Baty with just 21 participants in the San Francisco Bay Area.",
+      "source": "https://en.wikipedia.org/wiki/NaNoWriMo"
+    },
+    {
+      "text": "The Nobel Prize in Literature has been awarded since 1901.",
+      "month": 12,
+      "day": 10,
+      "source": "https://en.wikipedia.org/wiki/Nobel_Prize_in_Literature"
+    },
+    {
+      "text": "Victor Hugo reportedly wrote 'The Hunchback of Notre-Dame' by locking away his clothes so he couldn't go outside.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Victor_Hugo_reportedly"
+    },
+    {
+      "text": "Self-publishing through Amazon Kindle Direct Publishing (KDP) allows authors to earn up to 70% royalties on ebook sales.",
+      "source": "https://en.wikipedia.org/wiki/Amazon_Kindle_Direct_Publishing"
+    },
+    {
+      "text": "Robert Frost's poem 'The Road Not Taken' is one of the most frequently misinterpreted poems in American literature.",
+      "source": "https://en.wikipedia.org/wiki/Robert_Frost%27s_poem_%27The_Road_Not_Taken"
+    },
+    {
+      "text": "The haiku is a traditional Japanese poetry form consisting of three lines with 5, 7, and 5 syllables respectively.",
+      "source": "https://en.wikipedia.org/wiki/haiku"
+    },
+    {
+      "text": "Ernest Hemingway was born on July 21, 1899, in Oak Park, Illinois.",
+      "month": 7,
+      "day": 21,
+      "source": "https://en.wikipedia.org/wiki/Ernest_Hemingway"
+    },
+    {
+      "text": "Gratitude journaling — writing down three things you're grateful for daily — has been shown in studies to improve mental well-being.",
+      "source": "https://en.wikipedia.org/wiki/Gratitude_journaling_%E2%80%94_writing_down_three_things_you%27re_grateful_for_daily_%E2%80%94"
+    },
+    {
+      "text": "The Booker Prize, one of the most prestigious literary awards in English, has been awarded since 1969.",
+      "source": "https://en.wikipedia.org/wiki/Booker_Prize%2C_one_of_the_most_prestigious_literary_awards_in_English"
+    },
+    {
+      "text": "Quentin Tarantino wrote 'Pulp Fiction' in longhand in Amsterdam cafés using red and black notebooks.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Quentin_Tarantino"
+    },
+    {
+      "text": "Emily Dickinson wrote nearly 1,800 poems in her lifetime, but only about 10 were published while she was alive.",
+      "source": "https://en.wikipedia.org/wiki/Emily_Dickinson"
+    },
+    {
+      "text": "The first typewriter to be commercially successful was the Remington No. 1, introduced in 1873.",
+      "source": "https://en.wikipedia.org/wiki/first_typewriter_to_be_commercially_successful"
+    },
+    {
+      "text": "The Hugo Award for Best Novel has been given annually since 1953 and is voted on by members of the World Science Fiction Convention.",
+      "source": "https://en.wikipedia.org/wiki/Hugo_Award_for_Best_Novel"
+    },
+    {
+      "text": "Roald Dahl wrote all his stories in a small hut at the bottom of his garden using only Dixon Ticonderoga pencils and yellow legal pads.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Roald_Dahl"
+    },
+    {
+      "text": "A query letter is a one-page pitch sent to literary agents to convince them to represent your manuscript.",
+      "source": "https://en.wikipedia.org/wiki/A_query_letter"
+    },
+    {
+      "text": "Walt Whitman self-published 'Leaves of Grass' in 1855, even setting some of the type himself.",
+      "source": "https://en.wikipedia.org/wiki/Walt_Whitman"
+    },
+    {
+      "text": "Stephen King was born on September 21, 1947, in Portland, Maine.",
+      "month": 9,
+      "day": 21,
+      "source": "https://en.wikipedia.org/wiki/Stephen_King"
+    },
+    {
+      "text": "The term 'writer's block' was coined by psychoanalyst Edmund Bergler in 1947.",
+      "source": "https://en.wikipedia.org/wiki/term_%27writer%27s_block"
+    },
+    {
+      "text": "Sylvia Plath's 'The Bell Jar' was first published under the pseudonym Victoria Lucas.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Sylvia_Plath%27s_%27The_Bell_Jar"
+    },
+    {
+      "text": "Scrivener is one of the most popular writing software tools, designed specifically for long-form writing projects like novels and screenplays.",
+      "source": "https://en.wikipedia.org/wiki/Scrivener"
+    },
+    {
+      "text": "Samuel Pepys kept a detailed diary from 1660 to 1669, written in shorthand, providing a vivid account of life in Restoration London.",
+      "source": "https://en.wikipedia.org/wiki/Samuel_Pepys"
+    },
+    {
+      "text": "Mark Twain was born Samuel Langhorne Clemens on November 30, 1835.",
+      "month": 11,
+      "day": 30,
+      "source": "https://en.wikipedia.org/wiki/Mark_Twain"
+    },
+    {
+      "text": "A sonnet is a 14-line poem, traditionally written in iambic pentameter, popularized by Petrarch and Shakespeare.",
+      "source": "https://en.wikipedia.org/wiki/A_sonnet"
+    },
+    {
+      "text": "The National Book Award has been given to American authors annually since 1950.",
+      "source": "https://en.wikipedia.org/wiki/National_Book_Award"
+    },
+    {
+      "text": "Fyodor Dostoevsky dictated 'The Gambler' in just 26 days to meet a publisher's deadline, with the help of stenographer Anna Grigoryevna Snitkina, whom he later married.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Fyodor_Dostoevsky"
+    },
+    {
+      "text": "Fountain pens were first patented in 1827, though reliable versions didn't appear until the 1880s.",
+      "source": "https://en.wikipedia.org/wiki/Fountain_pens"
+    },
+    {
+      "text": "The limerick is a five-line humorous poem with an AABBA rhyme scheme, popularized by Edward Lear.",
+      "source": "https://en.wikipedia.org/wiki/limerick"
+    },
+    {
+      "text": "J.K. Rowling's birthday is July 31, the same birthday she gave to Harry Potter.",
+      "month": 7,
+      "day": 31,
+      "source": "https://en.wikipedia.org/wiki/J.K._Rowling%27s_birthday"
+    },
+    {
+      "text": "The world record for most books written by a single author is held by L. Ron Hubbard, with 1,084 published works.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/world_record_for_most_books_written_by_a_single_author"
+    },
+    {
+      "text": "Blogging began in the late 1990s, with the term 'weblog' coined by Jorn Barger in 1997.",
+      "source": "https://en.wikipedia.org/wiki/Jorn_Barger"
+    },
+    {
+      "text": "Toni Morrison woke at 5 a.m. every day to write before going to her job as an editor at Random House.",
+      "source": "https://en.wikipedia.org/wiki/Toni_Morrison"
+    },
+    {
+      "text": "The Nebula Award for Best Novel is given by the Science Fiction and Fantasy Writers of America.",
+      "source": "https://en.wikipedia.org/wiki/Nebula_Award_for_Best_Novel"
+    },
+    {
+      "text": "Charles Dickens was born on February 7, 1812, in Portsmouth, England.",
+      "month": 2,
+      "day": 7,
+      "source": "https://en.wikipedia.org/wiki/Charles_Dickens"
+    },
+    {
+      "text": "Writing by hand activates different parts of the brain than typing and has been shown to improve memory and comprehension.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Writing_by_hand_activates_different_parts_of_the_brain_than_typing_and"
+    },
+    {
+      "text": "Agatha Christie disappeared for 11 days in 1926, sparking a massive manhunt — she was later found at a hotel under a different name.",
+      "source": "https://en.wikipedia.org/wiki/Agatha_Christie_disappeared_for_11_days_in_1926%2C_sparking_a_massive_manhunt_%E2%80%94_she"
+    },
+    {
+      "text": "Amazon KDP was launched in November 2007 and has since become the largest platform for self-published ebooks.",
+      "source": "https://en.wikipedia.org/wiki/Amazon_KDP"
+    },
+    {
+      "text": "Ray Bradbury wrote 'Fahrenheit 451' in nine days on a rented typewriter in the basement of the UCLA library.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Ray_Bradbury"
+    },
+    {
+      "text": "The average traditionally published novel is between 70,000 and 100,000 words.",
+      "source": "https://en.wikipedia.org/wiki/average_traditionally_published_novel"
+    },
+    {
+      "text": "Maya Angelou was born Marguerite Annie Johnson on April 4, 1928.",
+      "month": 4,
+      "day": 4,
+      "source": "https://en.wikipedia.org/wiki/Maya_Angelou"
+    },
+    {
+      "text": "The first Pulitzer Prizes were awarded on June 4, 1917, established by Joseph Pulitzer's will.",
+      "source": "https://en.wikipedia.org/wiki/first_Pulitzer_Prizes"
+    },
+    {
+      "text": "Jack Kerouac typed the first draft of 'On the Road' on a continuous 120-foot scroll of paper in just three weeks.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Jack_Kerouac"
+    },
+    {
+      "text": "A writing retreat is a dedicated period where writers remove themselves from daily life to focus intensely on their work.",
+      "source": "https://en.wikipedia.org/wiki/A_writing_retreat"
+    },
+    {
+      "text": "The Man Booker International Prize, created in 2005, recognizes a single book translated into English.",
+      "source": "https://en.wikipedia.org/wiki/Man_Booker_International_Prize"
+    },
+    {
+      "text": "Jane Austen was born on December 16, 1775, in Steventon, Hampshire, England.",
+      "month": 12,
+      "day": 16,
+      "source": "https://en.wikipedia.org/wiki/Jane_Austen"
+    },
+    {
+      "text": "George Orwell's '1984' was published on June 8, 1949.",
+      "month": 6,
+      "day": 8,
+      "source": "https://en.wikipedia.org/wiki/George_Orwell%27s_%271984"
+    },
+    {
+      "text": "The phrase 'Kill your darlings' — meaning cut beloved but unnecessary prose — is often attributed to William Faulkner but likely originated with Arthur Quiller-Couch.",
+      "source": "https://en.wikipedia.org/wiki/phrase_%27Kill_your_darlings%27_%E2%80%94_meaning_cut_beloved_but_unnecessary_prose_%E2%80%94"
+    },
+    {
+      "text": "'Water for Elephants' by Sara Gruen started as a NaNoWriMo project and became a New York Times bestseller and major film.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Water_for_Elephants%27_by_Sara_Gruen_started_as_a_NaNoWriMo_project_and"
+    },
+    {
+      "text": "Memoir writing differs from autobiography in that it focuses on a specific theme or period rather than the author's entire life.",
+      "source": "https://en.wikipedia.org/wiki/Journaling"
+    },
+    {
+      "text": "The most expensive book ever sold at auction is Leonardo da Vinci's 'Codex Leicester,' purchased by Bill Gates for $30.8 million in 1994.",
+      "source": "https://en.wikipedia.org/wiki/most_expensive_book_ever_sold_at_auction"
+    },
+    {
+      "text": "F. Scott Fitzgerald was born on September 24, 1896, in Saint Paul, Minnesota.",
+      "month": 9,
+      "day": 24,
+      "source": "https://en.wikipedia.org/wiki/F._Scott_Fitzgerald"
+    },
+    {
+      "text": "Anne Frank's diary has been published in over 70 languages and has sold more than 30 million copies worldwide.",
+      "source": "https://en.wikipedia.org/wiki/Anne_Frank%27s_diary"
+    },
+    {
+      "text": "Truman Capote claimed he could only write lying down, with a cigarette and a cup of coffee.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Truman_Capote"
+    },
+    {
+      "text": "Google Docs has become a popular free writing tool because of its real-time collaboration and cloud-saving features.",
+      "source": "https://en.wikipedia.org/wiki/Google_Docs"
+    },
+    {
+      "text": "The Brontë sisters — Charlotte, Emily, and Anne — initially published under the male pseudonyms Currer, Ellis, and Acton Bell.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Acton_Bell"
+    },
+    {
+      "text": "Playwriting dates back to ancient Greece, with Aeschylus, Sophocles, and Euripides among the earliest known playwrights.",
+      "source": "https://en.wikipedia.org/wiki/Journaling"
+    },
+    {
+      "text": "Edgar Allan Poe was born on January 19, 1809, in Boston, Massachusetts.",
+      "month": 1,
+      "day": 19,
+      "source": "https://en.wikipedia.org/wiki/Edgar_Allan_Poe"
+    },
+    {
+      "text": "The average reading speed for an adult is about 200-250 words per minute.",
+      "source": "https://en.wikipedia.org/wiki/average_reading_speed_for_an_adult"
+    },
+    {
+      "text": "Dan Brown's 'The Da Vinci Code' sold over 80 million copies worldwide and was translated into 44 languages.",
+      "source": "https://en.wikipedia.org/wiki/Dan_Brown%27s_%27The_Da_Vinci_Code%27_sold_over_80_million_copies_worldwide_and"
+    },
+    {
+      "text": "Ernest Hemingway won the Nobel Prize in Literature in 1954 for 'The Old Man and the Sea.'",
+      "source": "https://en.wikipedia.org/wiki/Ernest_Hemingway"
+    },
+    {
+      "text": "The practice of journaling has been linked to reduced stress, improved immune function, and better sleep.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/practice_of_journaling"
+    },
+    {
+      "text": "Mary Shelley wrote 'Frankenstein' when she was just 18 years old, after a ghost story challenge during a rainy summer in Switzerland.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Mary_Shelley"
+    },
+    {
+      "text": "The New York Times Best Seller list has been published weekly since 1931.",
+      "source": "https://en.wikipedia.org/wiki/New_York_Times_Best_Seller_list"
+    },
+    {
+      "text": "Shakespeare was born on approximately April 23, 1564, in Stratford-upon-Avon.",
+      "month": 4,
+      "day": 23,
+      "source": "https://en.wikipedia.org/wiki/Shakespeare"
+    },
+    {
+      "text": "A ghostwriter is a professional writer hired to write for someone else who is credited as the author.",
+      "source": "https://en.wikipedia.org/wiki/A_ghostwriter"
+    },
+    {
+      "text": "Anthony Trollope wrote for exactly three hours each morning before going to his day job at the Post Office, producing 47 novels.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Anthony_Trollope"
+    },
+    {
+      "text": "The shortest complete story ever written is often attributed to Hemingway: 'For sale: baby shoes, never worn.'",
+      "source": "https://en.wikipedia.org/wiki/shortest_complete_story_ever_written"
+    },
+    {
+      "text": "National Poetry Month is observed in April in the United States.",
+      "month": 4,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/National_Poetry_Month"
+    },
+    {
+      "text": "Journalism gets its name from the French word 'journal,' reflecting its origins as a daily record of events.",
+      "source": "https://en.wikipedia.org/wiki/Journaling"
+    },
+    {
+      "text": "Robert Frost was born on March 26, 1874, in San Francisco, California.",
+      "month": 3,
+      "day": 26,
+      "source": "https://en.wikipedia.org/wiki/Robert_Frost"
+    },
+    {
+      "text": "The Gutenberg Bible, printed around 1455, was the first major book printed using movable type in Europe.",
+      "source": "https://en.wikipedia.org/wiki/Gutenberg_Bible%2C_printed_around_1455"
+    },
+    {
+      "text": "Isaac Asimov published or edited more than 500 books during his lifetime, covering nearly every category of the Dewey Decimal System.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Isaac_Asimov"
+    },
+    {
+      "text": "Traditional publishing typically involves a literary agent who submits manuscripts to acquisitions editors at publishing houses.",
+      "source": "https://en.wikipedia.org/wiki/Journaling"
+    },
+    {
+      "text": "Emily Dickinson was born on December 10, 1830, in Amherst, Massachusetts.",
+      "month": 12,
+      "day": 10,
+      "source": "https://en.wikipedia.org/wiki/Emily_Dickinson"
+    },
+    {
+      "text": "The Oxford English Dictionary took over 70 years to complete its first edition, published in 1928.",
+      "source": "https://en.wikipedia.org/wiki/Oxford_English_Dictionary"
+    },
+    {
+      "text": "'The Diary of a Young Girl' by Anne Frank was first published on June 25, 1947.",
+      "month": 6,
+      "day": 25,
+      "source": "https://en.wikipedia.org/wiki/Diary_of_a_Young_Girl%27_by_Anne_Frank"
+    },
+    {
+      "text": "A pen name or pseudonym allows authors to write under a different identity — Mark Twain, George Orwell, and Lewis Carroll all used pen names.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Mark_Twain"
+    },
+    {
+      "text": "Hemingway's 'iceberg theory' of writing holds that the deeper meaning should be implicit, not stated outright.",
+      "source": "https://en.wikipedia.org/wiki/Journaling"
+    },
+    {
+      "text": "The average advance for a first-time novelist from a traditional publisher is between $5,000 and $15,000.",
+      "source": "https://en.wikipedia.org/wiki/average_advance_for_a_first-time_novelist_from_a_traditional_publisher"
+    },
+    {
+      "text": "Sylvia Plath was born on October 27, 1932, in Boston, Massachusetts.",
+      "month": 10,
+      "day": 27,
+      "source": "https://en.wikipedia.org/wiki/Sylvia_Plath"
+    },
+    {
+      "text": "NaNoWriMo has grown to include over 400,000 participants from around the world each November.",
+      "source": "https://en.wikipedia.org/wiki/NaNoWriMo"
+    },
+    {
+      "text": "Alexandre Dumas employed a team of ghostwriters and collaborators, most notably Auguste Maquet, who helped write 'The Three Musketeers.'",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Alexandre_Dumas"
+    },
+    {
+      "text": "The word 'novel' comes from the Italian 'novella,' meaning a new, short story.",
+      "source": "https://en.wikipedia.org/wiki/Journaling"
+    },
+    {
+      "text": "Walt Whitman was born on May 31, 1819, in West Hills, New York.",
+      "month": 5,
+      "day": 31,
+      "source": "https://en.wikipedia.org/wiki/Walt_Whitman"
+    },
+    {
+      "text": "Franz Kafka asked his friend Max Brod to burn all his manuscripts after his death, but Brod published them instead.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Franz_Kafka"
+    },
+    {
+      "text": "The Hero's Journey, outlined by Joseph Campbell, is one of the most widely used story structures in fiction and screenwriting.",
+      "source": "https://en.wikipedia.org/wiki/Hero%27s_Journey%2C_outlined_by_Joseph_Campbell"
+    },
+    {
+      "text": "A standard screenplay uses Courier 12-point font so that one page equals roughly one minute of screen time.",
+      "source": "https://en.wikipedia.org/wiki/Courier_12"
+    },
+    {
+      "text": "The Diary of Samuel Pepys is considered one of the most important primary sources for the English Restoration period.",
+      "source": "https://en.wikipedia.org/wiki/Diary_of_Samuel_Pepys"
+    },
+    {
+      "text": "Leo Tolstoy's wife Sophia hand-copied the manuscript of 'War and Peace' seven times.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Leo_Tolstoy%27s"
+    },
+    {
+      "text": "The Newbery Medal, awarded for outstanding children's literature, has been given since 1922.",
+      "source": "https://en.wikipedia.org/wiki/Newbery_Medal%2C_awarded_for_outstanding_children%27s_literature"
+    },
+    {
+      "text": "Agatha Christie was born on September 15, 1890, in Torquay, Devon, England.",
+      "month": 9,
+      "day": 15,
+      "source": "https://en.wikipedia.org/wiki/Agatha_Christie"
+    },
+    {
+      "text": "The world's oldest known literary work is the 'Epic of Gilgamesh,' dating to around 2100 BCE in ancient Mesopotamia.",
+      "source": "https://en.wikipedia.org/wiki/world%27s_oldest_known_literary_work"
+    },
+    {
+      "text": "Haruki Murakami runs 10 kilometers or swims 1,500 meters every day as part of his writing discipline.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Haruki_Murakami"
+    },
+    {
+      "text": "A writing prompt is a short scenario or question used to spark creativity and overcome writer's block.",
+      "source": "https://en.wikipedia.org/wiki/A_writing_prompt"
+    },
+    {
+      "text": "Barbara Cartland holds the Guinness World Record for most novels published in a single year — 23 books in 1983.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Barbara_Cartland"
+    },
+    {
+      "text": "The show-don't-tell principle encourages writers to convey emotions through actions and sensory details rather than direct statements.",
+      "source": "https://en.wikipedia.org/wiki/Journaling"
+    },
+    {
+      "text": "The Caldecott Medal has been awarded annually since 1938 for the most distinguished American picture book for children.",
+      "source": "https://en.wikipedia.org/wiki/Caldecott_Medal"
+    },
+    {
+      "text": "Virginia Woolf argued in 'A Room of One's Own' that a woman must have money and a private space to write fiction.",
+      "source": "https://en.wikipedia.org/wiki/Virginia_Woolf_argued_in_%27A_Room_of_One%27s_Own%27_that_a_woman_must"
+    },
+    {
+      "text": "The Dewey Decimal Classification system, used in libraries worldwide, was created in 1876 by Melvil Dewey.",
+      "source": "https://en.wikipedia.org/wiki/Dewey_Decimal_Classification_system%2C_used_in_libraries_worldwide"
+    },
+    {
+      "text": "Hunter S. Thompson used to retype entire novels by F. Scott Fitzgerald and Ernest Hemingway to learn the feel of great writing.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Hunter_S._Thompson"
+    },
+    {
+      "text": "Creative nonfiction blends literary techniques with factual reporting, a genre popularized by writers like Truman Capote and Joan Didion.",
+      "source": "https://en.wikipedia.org/wiki/Truman_Capote_and_Joan_Didion"
+    },
+    {
+      "text": "The most translated author in the world is Agatha Christie, followed by Jules Verne and William Shakespeare.",
+      "source": "https://en.wikipedia.org/wiki/most_translated_author_in_the_world"
+    },
+    {
+      "text": "James Patterson holds the record for the most #1 New York Times bestsellers by a single author, with over 100.",
+      "source": "https://en.wikipedia.org/wiki/James_Patterson"
+    },
+    {
+      "text": "R.L. Stine's 'Goosebumps' series has sold over 400 million copies, making it one of the best-selling book series in history.",
+      "source": "https://en.wikipedia.org/wiki/R.L._Stine%27s_%27Goosebumps%27_series"
+    },
+    {
+      "text": "Screenwriter William Goldman coined the famous Hollywood saying, 'Nobody knows anything.'",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Screenwriter_William_Goldman"
+    },
+    {
+      "text": "World Poetry Day is observed annually on March 21.",
+      "month": 3,
+      "day": 21,
+      "source": "https://en.wikipedia.org/wiki/World_Poetry_Day"
+    },
+    {
+      "text": "The three-act structure — setup, confrontation, and resolution — has been the foundation of storytelling since Aristotle's 'Poetics.'",
+      "source": "https://en.wikipedia.org/wiki/three-act_structure_%E2%80%94_setup%2C_confrontation%2C_and_resolution_%E2%80%94"
+    },
+    {
+      "text": "Maya Angelou published seven autobiographies, beginning with 'I Know Why the Caged Bird Sings' in 1969.",
+      "source": "https://en.wikipedia.org/wiki/Maya_Angelou"
+    },
+    {
+      "text": "A first draft is sometimes called a 'zero draft' or 'vomit draft' because the goal is simply to get words on the page.",
+      "source": "https://en.wikipedia.org/wiki/A_first_draft"
+    },
+    {
+      "text": "Leo Tolstoy was born on September 9, 1828, in Yasnaya Polyana, Russia.",
+      "month": 9,
+      "day": 9,
+      "source": "https://en.wikipedia.org/wiki/Leo_Tolstoy"
+    },
+    {
+      "text": "The practice of freewriting — writing continuously without editing — was popularized by Peter Elbow in the 1970s.",
+      "source": "https://en.wikipedia.org/wiki/practice_of_freewriting_%E2%80%94_writing_continuously_without_editing_%E2%80%94"
+    },
+    {
+      "text": "Marcel Proust spent the last three years of his life confined to a cork-lined bedroom where he wrote and revised 'In Search of Lost Time.'",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Marcel_Proust"
+    },
+    {
+      "text": "The average self-published author in the United States earns less than $1,000 per year from book sales.",
+      "source": "https://en.wikipedia.org/wiki/United_States"
+    },
+    {
+      "text": "Harper Lee published only one novel during her active career — 'To Kill a Mockingbird' in 1960 — before 'Go Set a Watchman' appeared in 2015.",
+      "source": "https://en.wikipedia.org/wiki/Harper_Lee"
+    },
+    {
+      "text": "The ISBN (International Standard Book Number) system was developed in the United Kingdom in 1966 and adopted internationally in 1970.",
+      "source": "https://en.wikipedia.org/wiki/ISBN_(International_Standard_Book_Number)_system"
+    },
+    {
+      "text": "Beatrix Potter self-published 'The Tale of Peter Rabbit' in 1901 after being rejected by several publishers.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Beatrix_Potter"
+    },
+    {
+      "text": "William Faulkner wrote 'As I Lay Dying' in six weeks while working night shifts at a power plant.",
+      "source": "https://en.wikipedia.org/wiki/William_Faulkner"
+    },
+    {
+      "text": "The world's largest library is the Library of Congress, holding over 170 million items.",
+      "source": "https://en.wikipedia.org/wiki/world%27s_largest_library"
+    },
+    {
+      "text": "Louisa May Alcott wrote 'Little Women' in just two and a half months, finishing in 1868.",
+      "source": "https://en.wikipedia.org/wiki/Louisa_May_Alcott"
+    },
+    {
+      "text": "J.R.R. Tolkien took 12 years to write 'The Lord of the Rings,' from 1937 to 1949.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/J.R.R._Tolkien"
+    },
+    {
+      "text": "The basic screenplay format includes scene headings (slug lines), action lines, character names, and dialogue.",
+      "source": "https://en.wikipedia.org/wiki/basic_screenplay_format"
+    },
+    {
+      "text": "George R.R. Martin is a famous 'gardener' writer, letting his stories grow organically rather than following strict outlines.",
+      "source": "https://en.wikipedia.org/wiki/George_R.R._Martin"
+    },
+    {
+      "text": "Oscar Wilde was born on October 16, 1854, in Dublin, Ireland.",
+      "month": 10,
+      "day": 16,
+      "source": "https://en.wikipedia.org/wiki/Oscar_Wilde"
+    },
+    {
+      "text": "A writer's residency provides dedicated time and space for authors, often at retreats like Yaddo, MacDowell, or Hedgebrook.",
+      "source": "https://en.wikipedia.org/wiki/Journaling"
+    },
+    {
+      "text": "Donna Tartt spent 10 years writing 'The Goldfinch,' which won the 2014 Pulitzer Prize for Fiction.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Donna_Tartt"
+    },
+    {
+      "text": "The publishing industry uses the term 'backlist' to refer to books published in a prior season that are still in print and selling.",
+      "source": "https://en.wikipedia.org/wiki/Journaling"
+    },
+    {
+      "text": "Charles Bukowski didn't publish his first novel until age 49, with 'Post Office' in 1971.",
+      "source": "https://en.wikipedia.org/wiki/Charles_Bukowski"
+    },
+    {
+      "text": "The villanelle is a 19-line poetic form with only two rhyme sounds, famously used in Dylan Thomas's 'Do Not Go Gentle into That Good Night.'",
+      "source": "https://en.wikipedia.org/wiki/villanelle"
+    },
+    {
+      "text": "Nora Roberts is one of the most prolific romance writers, having published over 225 novels.",
+      "source": "https://en.wikipedia.org/wiki/Nora_Roberts"
+    },
+    {
+      "text": "The world's first novel is widely considered to be 'The Tale of Genji' by Murasaki Shikibu, written around 1010 CE in Japan.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/world%27s_first_novel"
+    },
+    {
+      "text": "Mark Twain's 'Adventures of Huckleberry Finn' is often called the Great American Novel.",
+      "source": "https://en.wikipedia.org/wiki/Mark_Twain%27s_%27Adventures_of_Huckleberry_Finn"
+    },
+    {
+      "text": "Virginia Woolf was born on January 25, 1882, in London, England.",
+      "month": 1,
+      "day": 25,
+      "source": "https://en.wikipedia.org/wiki/Virginia_Woolf"
+    },
+    {
+      "text": "An unreliable narrator is a storytelling device where the narrator's account is not entirely trustworthy.",
+      "source": "https://en.wikipedia.org/wiki/An_unreliable_narrator"
+    },
+    {
+      "text": "John Steinbeck's dog ate the first draft of 'Of Mice and Men,' and Steinbeck described the manuscript as 'not bad.'",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/John_Steinbeck%27s"
+    },
+    {
+      "text": "The Hemingway App is a popular online writing tool that highlights complex sentences and suggests simpler alternatives.",
+      "source": "https://en.wikipedia.org/wiki/Hemingway_App"
+    },
+    {
+      "text": "A chapbook is a small collection of poetry, typically 20 to 40 pages, often used as a first publication for emerging poets.",
+      "source": "https://en.wikipedia.org/wiki/A_chapbook"
+    },
+    {
+      "text": "The 'Save the Cat' beat sheet, originally for screenwriting, is now widely used by novelists to structure their stories.",
+      "source": "https://en.wikipedia.org/wiki/%27Save_the_Cat%27_beat_sheet%2C_originally_for_screenwriting"
+    },
+    {
+      "text": "Diary writing has been practiced for centuries — Marcus Aurelius's 'Meditations' from the 2nd century CE is essentially a philosophical journal.",
+      "source": "https://en.wikipedia.org/wiki/Diary_writing"
+    },
+    {
+      "text": "Jorge Luis Borges continued to write and dictate stories after going completely blind in his mid-fifties.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Jorge_Luis_Borges"
+    },
+    {
+      "text": "The average published book in the United States sells fewer than 500 copies.",
+      "source": "https://en.wikipedia.org/wiki/United_States"
+    },
+    {
+      "text": "Writing longhand can produce 15 to 30 words per minute, while the average typing speed is 40 to 50 words per minute.",
+      "source": "https://en.wikipedia.org/wiki/Writing_longhand_can_produce_15_to_30_words_per_minute%2C_while_the_average_typing_speed"
+    },
+    {
+      "text": "World Book Day is celebrated on April 23 each year by UNESCO.",
+      "month": 4,
+      "day": 23,
+      "source": "https://en.wikipedia.org/wiki/World_Book_Day"
+    },
+    {
+      "text": "Aaron Sorkin wrote 'The Social Network' screenplay, which won him an Academy Award in 2011.",
+      "source": "https://en.wikipedia.org/wiki/Aaron_Sorkin"
+    },
+    {
+      "text": "The National Novel Writing Month was expanded to include Camp NaNoWriMo sessions in April and July.",
+      "source": "https://en.wikipedia.org/wiki/National_Novel_Writing_Month"
+    },
+    {
+      "text": "Romance novels make up a $1.4 billion industry and represent about 23% of the fiction market in the United States.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/United_States"
+    },
+    {
+      "text": "Jack London wrote at least 1,000 words every day, a discipline that helped him produce over 50 books.",
+      "source": "https://en.wikipedia.org/wiki/Jack_London"
+    },
+    {
+      "text": "The 'Snowflake Method' is a novel-planning technique that starts with a single sentence and expands outward into a full outline.",
+      "source": "https://en.wikipedia.org/wiki/%27Snowflake_Method"
+    },
+    {
+      "text": "Gabriel García Márquez sold his car to support his family while writing 'One Hundred Years of Solitude.'",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/One_Hundred_Years_of_Solitude"
+    },
+    {
+      "text": "A literary agent typically takes a 15% commission on domestic book sales and 20% on foreign rights.",
+      "source": "https://en.wikipedia.org/wiki/A_literary_agent_typically"
+    },
+    {
+      "text": "John Grisham was a full-time lawyer who woke at 5 a.m. to write 'A Time to Kill' over three years.",
+      "source": "https://en.wikipedia.org/wiki/John_Grisham"
+    },
+    {
+      "text": "The shortest poem in the English language is often said to be 'Lines on the Antiquity of Microbes' by Strickland Gillilan: 'Adam / Had 'em.'",
+      "source": "https://en.wikipedia.org/wiki/shortest_poem_in_the_English_language"
+    },
+    {
+      "text": "Herman Melville's 'Moby-Dick' was a commercial failure when published in 1851 and was largely forgotten until decades after his death.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Herman_Melville%27s_%27Moby-Dick"
+    },
+    {
+      "text": "Writing in second person — using 'you' as the protagonist — is rare but was famously used in Jay McInerney's 'Bright Lights, Big City.'",
+      "source": "https://en.wikipedia.org/wiki/Writing_in_second_person_%E2%80%94_using_%27you%27_as_the_protagonist_%E2%80%94"
+    },
+    {
+      "text": "Terry Pratchett wrote over 40 Discworld novels, often composing on any available surface including napkins.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Terry_Pratchett"
+    },
+    {
+      "text": "The concept of 'deep work,' as described by Cal Newport, is central to productive writing — extended periods of focused, distraction-free effort.",
+      "source": "https://en.wikipedia.org/wiki/concept_of_%27deep_work%2C%27_as_described_by_Cal_Newport"
+    },
+    {
+      "text": "Maya Angelou won three Grammy Awards for her spoken word albums.",
+      "source": "https://en.wikipedia.org/wiki/Maya_Angelou"
+    },
+    {
+      "text": "The Oxford comma (serial comma) is one of the most debated punctuation marks in the English language.",
+      "source": "https://en.wikipedia.org/wiki/Oxford_comma_(serial_comma)"
+    },
+    {
+      "text": "Kazuo Ishiguro won the Nobel Prize in Literature in 2017 for novels of 'great emotional force.'",
+      "source": "https://en.wikipedia.org/wiki/Kazuo_Ishiguro"
+    },
+    {
+      "text": "A logline is a one-sentence summary of a screenplay used to pitch the story to producers.",
+      "source": "https://en.wikipedia.org/wiki/A_logline"
+    },
+    {
+      "text": "Toni Morrison was born Chloe Ardelia Wofford on February 18, 1931, in Lorain, Ohio.",
+      "month": 2,
+      "day": 18,
+      "source": "https://en.wikipedia.org/wiki/Toni_Morrison"
+    },
+    {
+      "text": "Dr. Seuss's 'Green Eggs and Ham' uses only 50 different words, the result of a bet with his publisher.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Dr._Seuss%27s"
+    },
+    {
+      "text": "The 'rule of three' in writing suggests that ideas presented in groups of three are more satisfying and memorable.",
+      "source": "https://en.wikipedia.org/wiki/%27rule_of_three%27_in_writing_suggests_that_ideas_presented_in_groups_of_three"
+    },
+    {
+      "text": "Freelance journalism has grown rapidly with the rise of online media, though pay rates have generally declined.",
+      "source": "https://en.wikipedia.org/wiki/Freelance_journalism"
+    },
+    {
+      "text": "The first novel written on a typewriter is often said to be Mark Twain's 'The Adventures of Tom Sawyer' in 1876.",
+      "source": "https://en.wikipedia.org/wiki/first_novel_written_on_a_typewriter"
+    },
+    {
+      "text": "Colson Whitehead's 'The Underground Railroad' won both the Pulitzer Prize and the National Book Award.",
+      "source": "https://en.wikipedia.org/wiki/Colson_Whitehead%27s_%27The_Underground_Railroad"
+    },
+    {
+      "text": "In screenplay formatting, 'FADE IN:' is always the first text on page one and 'FADE OUT.' is the last.",
+      "source": "https://en.wikipedia.org/wiki/In_screenplay_formatting%2C_%27FADE_IN"
+    },
+    {
+      "text": "Harper Lee was born on April 28, 1926, in Monroeville, Alabama.",
+      "month": 4,
+      "day": 28,
+      "source": "https://en.wikipedia.org/wiki/Harper_Lee"
+    },
+    {
+      "text": "Daily journaling for just 15 to 20 minutes has been shown to reduce symptoms of anxiety and depression.",
+      "source": "https://en.wikipedia.org/wiki/Daily_journaling_for_just_15_to_20_minutes"
+    },
+    {
+      "text": "The word 'plagiarism' comes from the Latin 'plagiarius,' meaning kidnapper.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Journaling"
+    },
+    {
+      "text": "Margaret Atwood wrote 'The Handmaid's Tale' in West Berlin in 1984, inspired by the proximity of the Berlin Wall.",
+      "source": "https://en.wikipedia.org/wiki/Margaret_Atwood"
+    },
+    {
+      "text": "The average query letter to a literary agent should be about 250 to 400 words.",
+      "source": "https://en.wikipedia.org/wiki/Journaling"
+    },
+    {
+      "text": "William Shakespeare was baptized on April 26, 1564; his actual birth date is traditionally given as April 23.",
+      "source": "https://en.wikipedia.org/wiki/William_Shakespeare"
+    },
+    {
+      "text": "A narrative arc typically follows five stages: exposition, rising action, climax, falling action, and denouement.",
+      "source": "https://en.wikipedia.org/wiki/Journaling"
+    },
+    {
+      "text": "Stephen King's novel 'Carrie' was nearly thrown away before his wife Tabitha rescued the manuscript from the trash.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Stephen_King%27s_novel_%27Carrie"
+    },
+    {
+      "text": "The PEN/Faulkner Award for Fiction has been given annually since 1981 and is the largest peer-juried literary award in America.",
+      "source": "https://en.wikipedia.org/wiki/PEN%2FFaulkner_Award_for_Fiction"
+    },
+    {
+      "text": "Journaling pioneer Ira Progoff developed the 'Intensive Journal' method in the 1960s as a therapeutic self-development tool.",
+      "source": "https://en.wikipedia.org/wiki/Journaling_pioneer_Ira_Progoff"
+    },
+    {
+      "text": "The Lamy Safari and TWSBI Eco are among the most recommended fountain pens for writers who prefer writing by hand.",
+      "source": "https://en.wikipedia.org/wiki/Lamy_Safari_and_TWSBI_Eco"
+    },
+    {
+      "text": "George Orwell's real name was Eric Arthur Blair, and he chose his pen name partly from the River Orwell in England.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/George_Orwell%27s_real_name"
+    },
+    {
+      "text": "The 'inciting incident' is the event that sets a story's main conflict in motion and typically occurs in the first act.",
+      "source": "https://en.wikipedia.org/wiki/%27inciting_incident"
+    },
+    {
+      "text": "H.P. Lovecraft was a prolific letter writer, sending an estimated 100,000 letters during his lifetime.",
+      "source": "https://en.wikipedia.org/wiki/H.P._Lovecraft"
+    },
+    {
+      "text": "Don Quixote by Miguel de Cervantes, published in 1605, is often cited as the first modern European novel.",
+      "source": "https://en.wikipedia.org/wiki/Don_Quixote_by_Miguel_de_Cervantes%2C_published_in_1605"
+    },
+    {
+      "text": "A cliffhanger ending leaves a story unresolved, compelling the reader to continue — the term comes from Thomas Hardy's 1873 serial novel 'A Pair of Blue Eyes.'",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Thomas_Hardy%27s_1873"
+    },
+    {
+      "text": "The International Booker Prize (renamed in 2019) recognizes the best work of translated fiction published in the UK or Ireland.",
+      "source": "https://en.wikipedia.org/wiki/International_Booker_Prize"
+    },
+    {
+      "text": "Neil Gaiman writes his first drafts in fountain pen in notebooks, then types them up as a second draft.",
+      "source": "https://en.wikipedia.org/wiki/Neil_Gaiman"
+    },
+    {
+      "text": "Alice Walker won both the Pulitzer Prize and the National Book Award for 'The Color Purple' in 1983.",
+      "source": "https://en.wikipedia.org/wiki/Alice_Walker"
+    },
+    {
+      "text": "The flash fiction genre consists of very short stories, typically under 1,000 words, sometimes called 'sudden fiction' or 'micro fiction.'",
+      "source": "https://en.wikipedia.org/wiki/Journaling"
+    },
+    {
+      "text": "'The Fools in Town Are on Our Side' by Ross Thomas was one of the first novels produced using a word processor.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Fools_in_Town"
+    },
+    {
+      "text": "Ayn Rand took 12 years to write 'Atlas Shrugged,' which she considered her magnum opus.",
+      "source": "https://en.wikipedia.org/wiki/Ayn_Rand"
+    },
+    {
+      "text": "The concept of 'voice' in writing refers to the unique style and personality an author brings to their prose.",
+      "source": "https://en.wikipedia.org/wiki/Journaling"
+    },
+    {
+      "text": "The Oprah Book Club, launched in 1996, had an enormous impact on book sales — an 'Oprah's pick' often guaranteed bestseller status.",
+      "source": "https://en.wikipedia.org/wiki/Oprah_Book_Club%2C_launched_in_1996"
+    },
+    {
+      "text": "Herman Melville dedicated 'Moby-Dick' to Nathaniel Hawthorne, writing 'In Token of My Admiration for His Genius.'",
+      "source": "https://en.wikipedia.org/wiki/Herman_Melville"
+    },
+    {
+      "text": "Travel writing is one of the oldest literary genres, dating back to Herodotus in the 5th century BCE.",
+      "source": "https://en.wikipedia.org/wiki/Travel_writing"
+    },
+    {
+      "text": "Anne Rice wrote 'Interview with the Vampire' in just five weeks, partly as a way to cope with the death of her daughter.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Anne_Rice"
+    },
+    {
+      "text": "The MFA (Master of Fine Arts) in Creative Writing is the terminal degree for writers in academia.",
+      "source": "https://en.wikipedia.org/wiki/MFA_(Master_of_Fine_Arts)_in_Creative_Writing"
+    },
+    {
+      "text": "Charles Dickens popularized the serialized novel format in Victorian England, building suspense with weekly installments.",
+      "source": "https://en.wikipedia.org/wiki/Charles_Dickens"
+    },
+    {
+      "text": "The Pomodoro Technique — writing in 25-minute focused bursts with short breaks — is popular among writers to maintain productivity.",
+      "source": "https://en.wikipedia.org/wiki/Pomodoro_Technique_%E2%80%94_writing_in_25-minute_focused_bursts_with_short_breaks_%E2%80%94"
+    },
+    {
+      "text": "Paulo Coelho's 'The Alchemist' was originally written in Portuguese and initially sold only one copy in the first week.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Paulo_Coelho%27s_%27The_Alchemist"
+    },
+    {
+      "text": "The collective noun for a group of writers is sometimes humorously called a 'block' of writers.",
+      "source": "https://en.wikipedia.org/wiki/collective_noun_for_a_group_of_writers"
+    },
+    {
+      "text": "A palimpsest is a manuscript page that has been scraped clean and reused, reflecting the historical scarcity of writing materials.",
+      "source": "https://en.wikipedia.org/wiki/A_palimpsest"
+    },
+    {
+      "text": "Nora Ephron was a celebrated screenwriter known for 'When Harry Met Sally,' 'You've Got Mail,' and 'Sleepless in Seattle.'",
+      "source": "https://en.wikipedia.org/wiki/Nora_Ephron"
+    },
+    {
+      "text": "The 'Ernest Hemingway' writing style is characterized by short sentences, simple words, and minimal adjectives or adverbs.",
+      "source": "https://en.wikipedia.org/wiki/%27Ernest_Hemingway%27_writing_style"
+    },
+    {
+      "text": "On average, a traditionally published book takes 18 to 24 months from manuscript acceptance to bookstore shelves.",
+      "source": "https://en.wikipedia.org/wiki/On_average%2C_a_traditionally_published_book"
+    },
+    {
+      "text": "George Eliot was the pen name of Mary Ann Evans, who used a male name to ensure her work would be taken seriously.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/George_Eliot"
+    },
+    {
+      "text": "Kurt Vonnegut taught creative writing at the Iowa Writers' Workshop, one of the most prestigious MFA programs in the country.",
+      "source": "https://en.wikipedia.org/wiki/Kurt_Vonnegut"
+    },
+    {
+      "text": "The five-paragraph essay — introduction, three body paragraphs, and conclusion — is the most commonly taught writing format in American schools.",
+      "source": "https://en.wikipedia.org/wiki/five-paragraph_essay_%E2%80%94_introduction%2C_three_body_paragraphs%2C_and_conclusion_%E2%80%94"
+    },
+    {
+      "text": "Dorothy Parker was known for her razor-sharp wit and was a founding member of the Algonquin Round Table.",
+      "source": "https://en.wikipedia.org/wiki/Dorothy_Parker"
+    },
+    {
+      "text": "An editor's role varies: developmental editors shape the story, line editors polish the prose, and copy editors fix grammar and consistency.",
+      "source": "https://en.wikipedia.org/wiki/Journaling"
+    },
+    {
+      "text": "Grammarly, launched in 2009, has become one of the most widely used AI-powered writing assistance tools.",
+      "source": "https://en.wikipedia.org/wiki/Grammarly%2C_launched_in_2009"
+    },
+    {
+      "text": "The longest-running newspaper comic strip that tells a continuous story is 'Gasoline Alley,' started in 1918.",
+      "source": "https://en.wikipedia.org/wiki/longest-running_newspaper_comic_strip_that_tells_a_continuous_story"
+    },
+    {
+      "text": "T.S. Eliot worked as a bank clerk at Lloyd's Bank while writing 'The Waste Land,' one of the most important poems of the 20th century.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/T.S._Eliot"
+    },
+    {
+      "text": "Many famous authors had day jobs: William Carlos Williams was a doctor, Wallace Stevens was an insurance executive, and Franz Kafka worked at an insurance company.",
+      "source": "https://en.wikipedia.org/wiki/Many_famous_authors"
+    },
+    {
+      "text": "World Book and Copyright Day, observed on April 23, was proclaimed by UNESCO in 1995.",
+      "source": "https://en.wikipedia.org/wiki/World_Book_and_Copyright_Day%2C_observed_on_April_23"
+    },
+    {
+      "text": "A writer's notebook or 'commonplace book' is a place to collect quotes, observations, and ideas — a tradition dating back to the Renaissance.",
+      "source": "https://en.wikipedia.org/wiki/A_writer%27s_notebook_or_%27commonplace_book"
+    },
+    {
+      "text": "The Pulitzer Prize for Poetry has been awarded since 1922.",
+      "source": "https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Poetry"
+    },
+    {
+      "text": "Roald Dahl was born on September 13, 1916, in Llandaff, Cardiff, Wales.",
+      "month": 9,
+      "day": 13,
+      "source": "https://en.wikipedia.org/wiki/Roald_Dahl"
+    },
+    {
+      "text": "Ian Fleming wrote each of his 14 James Bond books during his annual two-month winter vacation at his Jamaica estate, Goldeneye.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Ian_Fleming"
+    },
+    {
+      "text": "Writing dialogue effectively requires each character to have a distinct voice that reflects their background and personality.",
+      "source": "https://en.wikipedia.org/wiki/Writing_dialogue_effectively_requires_each_character_to"
+    },
+    {
+      "text": "The concept of 'negative space' in writing means what's left unsaid can be as powerful as what appears on the page.",
+      "source": "https://en.wikipedia.org/wiki/concept_of_%27negative_space%27_in_writing_means_what%27s"
+    },
+    {
+      "text": "The Costa Book Awards (formerly the Whitbread Awards) have been given for literary excellence in the UK since 1971.",
+      "source": "https://en.wikipedia.org/wiki/Costa_Book_Awards_(formerly_the_Whitbread_Awards)"
+    },
+    {
+      "text": "Zora Neale Hurston's 'Their Eyes Were Watching God' was rediscovered in the 1970s thanks to Alice Walker's advocacy.",
+      "source": "https://en.wikipedia.org/wiki/Zora_Neale_Hurston%27s_%27Their_Eyes"
+    },
+    {
+      "text": "A book proposal for nonfiction typically includes a query, overview, author bio, market analysis, chapter outline, and sample chapters.",
+      "source": "https://en.wikipedia.org/wiki/A_book_proposal_for_nonfiction_typically"
+    },
+    {
+      "text": "Lewis Carroll's real name was Charles Lutwidge Dodgson, and he was a mathematics lecturer at Oxford University.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Lewis_Carroll%27s_real_name"
+    },
+    {
+      "text": "The 'Hero with a Thousand Faces' by Joseph Campbell inspired George Lucas to structure the original Star Wars trilogy.",
+      "source": "https://en.wikipedia.org/wiki/%27Hero_with_a_Thousand_Faces%27_by_Joseph_Campbell"
+    },
+    {
+      "text": "Journaling before bed, especially writing a to-do list, has been associated with falling asleep faster in university studies.",
+      "source": "https://en.wikipedia.org/wiki/Journaling_before_bed%2C_especially_writing_a_to-do_list"
+    },
+    {
+      "text": "The average word count of a Shakespearean play is about 22,000 words, with 'Hamlet' being the longest at approximately 30,557 words.",
+      "source": "https://en.wikipedia.org/wiki/average_word_count_of_a_Shakespearean_play"
+    },
+    {
+      "text": "The concept of 'show, don't tell' is often traced back to Anton Chekhov, who advised writers to let details speak for themselves.",
+      "source": "https://en.wikipedia.org/wiki/concept_of_%27show%2C_don%27t_tell"
+    },
+    {
+      "text": "The Nobel Prize in Literature for 2016 went to Bob Dylan, marking the first time a songwriter won the award.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Nobel_Prize_in_Literature_for_2016"
+    },
+    {
+      "text": "Cormac McCarthy didn't use quotation marks in his dialogue, a distinctive stylistic choice seen in 'The Road' and 'Blood Meridian.'",
+      "source": "https://en.wikipedia.org/wiki/Cormac_McCarthy_didn%27t_use_quotation"
+    },
+    {
+      "text": "A manuscript page in standard format uses 12-point Courier font, double-spaced, with one-inch margins, yielding about 250 words per page.",
+      "source": "https://en.wikipedia.org/wiki/Journaling"
+    },
+    {
+      "text": "John Keats wrote many of his greatest poems in a single year — 1819, including 'Ode to a Nightingale' and 'Ode on a Grecian Urn.'",
+      "source": "https://en.wikipedia.org/wiki/John_Keats"
+    },
+    {
+      "text": "Danielle Steel reportedly works 20 to 22 hours a day when writing and has published over 190 books.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Danielle_Steel_reportedly_works_20_to_22_hours_a_day_when_writing_and"
+    },
+    {
+      "text": "The 'cold open' technique begins a story in the middle of action, hooking the reader before providing context.",
+      "source": "https://en.wikipedia.org/wiki/Journaling"
+    },
+    {
+      "text": "Print-on-demand technology allows self-published authors to print books only when ordered, eliminating the need for large print runs.",
+      "source": "https://en.wikipedia.org/wiki/Journaling"
+    },
+    {
+      "text": "The sonnet form has two main variations: the Petrarchan (Italian) sonnet with an octave and sestet, and the Shakespearean (English) sonnet with three quatrains and a couplet.",
+      "source": "https://en.wikipedia.org/wiki/sonnet_form"
+    },
+    {
+      "text": "Scrivener was created by Keith Blount, who began developing it in 2004 because existing word processors didn't suit long-form writing.",
+      "source": "https://en.wikipedia.org/wiki/Scrivener"
+    },
+    {
+      "text": "Arthur Conan Doyle tried to kill off Sherlock Holmes in 'The Final Problem' (1893) but was forced by public demand to bring him back.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Arthur_Conan_Doyle_tried_to_kill_off_Sherlock_Holmes_in_%27The_Final_Problem%27_(1893)_but"
+    },
+    {
+      "text": "A sensitivity reader reviews manuscripts for potential biases or inaccurate portrayals of marginalized groups.",
+      "source": "https://en.wikipedia.org/wiki/Journaling"
+    },
+    {
+      "text": "The phrase 'It was a dark and stormy night' from Edward Bulwer-Lytton's 1830 novel is regarded as the quintessential example of overwrought prose.",
+      "source": "https://en.wikipedia.org/wiki/phrase_%27It"
+    },
+    {
+      "text": "Amazon's Kindle was released on November 19, 2007, and sold out in five and a half hours.",
+      "month": 11,
+      "day": 19,
+      "source": "https://en.wikipedia.org/wiki/Amazon%27s_Kindle"
+    },
+    {
+      "text": "Gabriel García Márquez was born on March 6, 1927, in Aracataca, Colombia.",
+      "month": 3,
+      "day": 6,
+      "source": "https://en.wikipedia.org/wiki/Gabriel_Garc%C3%ADa_M%C3%A1rquez"
+    },
+    {
+      "text": "The unreliable narrator technique was masterfully used by Vladimir Nabokov in 'Lolita' and Gillian Flynn in 'Gone Girl.'",
+      "source": "https://en.wikipedia.org/wiki/unreliable_narrator_technique"
+    },
+    {
+      "text": "Amanda Hocking became one of the first self-published millionaire authors, selling over 1.5 million ebooks by age 26.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Amanda_Hocking"
+    },
+    {
+      "text": "A writing group or critique circle provides feedback on drafts and helps writers improve through peer review.",
+      "source": "https://en.wikipedia.org/wiki/Journaling"
+    },
+    {
+      "text": "The concept of 'world-building' in fiction involves creating detailed settings with their own history, geography, and rules.",
+      "source": "https://en.wikipedia.org/wiki/Journaling"
+    },
+    {
+      "text": "E.B. White's 'The Elements of Style' (co-authored with William Strunk Jr.) remains one of the most influential writing guides ever published.",
+      "source": "https://en.wikipedia.org/wiki/E.B._White%27s"
+    },
+    {
+      "text": "The lyric essay blends poetry and nonfiction, using imagery and fragmentation rather than traditional narrative structure.",
+      "source": "https://en.wikipedia.org/wiki/Journaling"
+    },
+    {
+      "text": "Philip Roth wrote standing at a lectern, walking around it as he composed, and estimated he walked half a mile for every page.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Philip_Roth"
+    },
+    {
+      "text": "Fan fiction, where readers write stories using existing characters and worlds, has exploded online with platforms like Archive of Our Own (AO3).",
+      "source": "https://en.wikipedia.org/wiki/Fan_fiction%2C_where_readers_write_stories_using_existing_characters_and_worlds"
+    },
+    {
+      "text": "The blank verse form — unrhymed iambic pentameter — was used extensively by Shakespeare and John Milton in 'Paradise Lost.'",
+      "source": "https://en.wikipedia.org/wiki/blank_verse_form_%E2%80%94_unrhymed_iambic_pentameter_%E2%80%94"
+    },
+    {
+      "text": "A ghostwritten book still legally requires a contract specifying credit, payment, and copyright ownership.",
+      "source": "https://en.wikipedia.org/wiki/Journaling"
+    },
+    {
+      "text": "The pen name 'Richard Bachman' was used by Stephen King early in his career to publish additional novels without market saturation.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/pen_name_%27Richard_Bachman"
+    },
+    {
+      "text": "The Writer's Market, published annually since 1921, is one of the oldest guides for writers seeking publishers and agents.",
+      "source": "https://en.wikipedia.org/wiki/Writer%27s_Market%2C_published_annually_since_1921"
+    },
+    {
+      "text": "Flannery O'Connor wrote for two hours every morning without fail, producing some of the finest short stories in American literature.",
+      "source": "https://en.wikipedia.org/wiki/Flannery_O%27Connor"
+    },
+    {
+      "text": "The epistolary novel tells a story through letters, diary entries, or documents — examples include 'Dracula' by Bram Stoker and 'The Color Purple' by Alice Walker.",
+      "source": "https://en.wikipedia.org/wiki/epistolary_novel"
+    },
+    {
+      "text": "William Wordsworth and Samuel Taylor Coleridge published 'Lyrical Ballads' in 1798, launching the English Romantic poetry movement.",
+      "source": "https://en.wikipedia.org/wiki/William_Wordsworth_and_Samuel_Taylor_Coleridge"
+    },
+    {
+      "text": "James Joyce spent 17 years writing 'Finnegans Wake,' a novel known for its experimental stream-of-consciousness style.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/James_Joyce"
+    },
+    {
+      "text": "The concept of 'automatic writing' was used by the Surrealists to bypass the conscious mind and tap into the subconscious.",
+      "source": "https://en.wikipedia.org/wiki/concept_of_%27automatic_writing"
+    },
+    {
+      "text": "In screenwriting, a 'beat' is the smallest unit of dramatic action — a shift in behavior or intention that changes the dynamic of a scene.",
+      "source": "https://en.wikipedia.org/wiki/In_screenwriting%2C_a_%27beat"
+    },
+    {
+      "text": "Chimamanda Ngozi Adichie's TED talk 'The Danger of a Single Story' has been viewed over 30 million times and influenced writers worldwide.",
+      "source": "https://en.wikipedia.org/wiki/Chimamanda_Ngozi_Adichie%27s_TED_talk_%27The_Danger_of_a_Single_Story"
+    },
+    {
+      "text": "The fountain pen company Montblanc named its flagship pen the 'Meisterstück' (Masterpiece), first introduced in 1924.",
+      "source": "https://en.wikipedia.org/wiki/fountain_pen_company_Montblanc"
+    },
+    {
+      "text": "John Steinbeck won the Nobel Prize in Literature in 1962.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/John_Steinbeck"
+    },
+    {
+      "text": "A 'trunk novel' is a completed manuscript that an author decides not to publish, kept metaphorically in a trunk.",
+      "source": "https://en.wikipedia.org/wiki/A_%27trunk_novel"
+    },
+    {
+      "text": "The Fibonacci poem (or Fib) uses the Fibonacci sequence to determine the number of syllables per line: 1, 1, 2, 3, 5, 8, 13...",
+      "source": "https://en.wikipedia.org/wiki/Fibonacci"
+    },
+    {
+      "text": "Traditional publishers typically print hardcover editions first, followed by paperback editions 6 to 12 months later.",
+      "source": "https://en.wikipedia.org/wiki/Journaling"
+    },
+    {
+      "text": "Virginia Woolf wrote most of her novels in the morning hours at a standing desk.",
+      "source": "https://en.wikipedia.org/wiki/Virginia_Woolf"
+    },
+    {
+      "text": "The 'Chekhov's gun' principle states that every element in a story should be necessary — if a gun appears on the wall in Act 1, it must be fired by Act 3.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Act_1"
+    },
+    {
+      "text": "Wattpad, founded in 2006, became one of the largest online platforms for user-generated stories, with over 90 million users.",
+      "source": "https://en.wikipedia.org/wiki/Wattpad"
+    },
+    {
+      "text": "A monologue in playwriting is an extended speech by one character, while a soliloquy is a speech made when the character is alone on stage.",
+      "source": "https://en.wikipedia.org/wiki/A_monologue_in_playwriting"
+    },
+    {
+      "text": "Margaret Mitchell spent 10 years writing 'Gone with the Wind,' which won the Pulitzer Prize in 1937.",
+      "source": "https://en.wikipedia.org/wiki/Margaret_Mitchell"
+    },
+    {
+      "text": "Anais Nin kept diaries from age 11 until her death at 73, producing one of the most extensive personal journals in literary history.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Anais_Nin"
+    },
+    {
+      "text": "The 'rule of thumb' for dialogue tags is to use 'said' most of the time, as it becomes invisible to the reader.",
+      "source": "https://en.wikipedia.org/wiki/%27rule_of_thumb%27_for_dialogue_tags"
+    },
+    {
+      "text": "The BookTok community on TikTok has significantly influenced book sales since 2020, reviving older titles and boosting debut authors.",
+      "source": "https://en.wikipedia.org/wiki/BookTok_community_on_TikTok"
+    },
+    {
+      "text": "A book's 'spine out' display in bookstores means only the spine is visible, making title and author name design critical.",
+      "source": "https://en.wikipedia.org/wiki/A_book%27s_%27spine_out%27_display_in_bookstores_means_only_the_spine"
+    },
+    {
+      "text": "Hemingway reviewed the ending of 'A Farewell to Arms' 47 times before he was satisfied.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Hemingway_reviewed_the_ending_of_%27A_Farewell_to_Arms%27_47_times_before_he"
+    },
+    {
+      "text": "The concept of a 'character arc' describes how a character changes over the course of a story.",
+      "source": "https://en.wikipedia.org/wiki/Journaling"
+    },
+    {
+      "text": "Traditional Japanese calligraphy (shodo) is considered both a writing practice and an art form.",
+      "source": "https://en.wikipedia.org/wiki/Traditional_Japanese_calligraphy_(shodo)"
+    },
+    {
+      "text": "Screenplay spec scripts are written on speculation, without a buyer, in hopes of attracting interest from studios or producers.",
+      "source": "https://en.wikipedia.org/wiki/Screenplay_spec_scripts"
+    },
+    {
+      "text": "The Library of Alexandria in ancient Egypt was one of the largest and most significant libraries of the ancient world.",
+      "source": "https://en.wikipedia.org/wiki/Library_of_Alexandria_in_ancient_Egypt"
+    },
+    {
+      "text": "In 2007, NaNoWriMo participant Erin Morgenstern drafted what would become 'The Night Circus,' published in 2011 to critical acclaim.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Erin_Morgenstern"
+    },
+    {
+      "text": "The concept of 'purple prose' refers to writing that is overly elaborate or ornate, detracting from the narrative.",
+      "source": "https://en.wikipedia.org/wiki/concept_of_%27purple_prose%27_refers_to_writing_that"
+    },
+    {
+      "text": "A book advance is essentially a loan against future royalties — the author doesn't earn additional royalties until the advance 'earns out.'",
+      "source": "https://en.wikipedia.org/wiki/A_book_advance"
+    },
+    {
+      "text": "Ralph Waldo Emerson kept a journal for nearly 50 years, filling over 200 volumes that formed the basis for many of his essays.",
+      "source": "https://en.wikipedia.org/wiki/Ralph_Waldo_Emerson_kept_a_journal_for_nearly_50_years%2C_filling_over_200_volumes_that"
+    },
+    {
+      "text": "A 'meet cute' is a screenwriting term for the charming first encounter between romantic leads.",
+      "source": "https://en.wikipedia.org/wiki/A_%27meet_cute"
+    },
+    {
+      "text": "The Children's Literature Legacy Award (formerly the Wilder Award) honors an author or illustrator whose books have made a lasting contribution.",
+      "source": "https://en.wikipedia.org/wiki/Children%27s_Literature_Legacy_Award"
+    },
+    {
+      "text": "Shirley Jackson's 'The Lottery' caused the most mail The New Yorker had ever received for a story — most of it negative and outraged.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Shirley_Jackson%27s_%27The_Lottery%27_caused_the_most_mail_The_New_Yorker"
+    },
+    {
+      "text": "Stream of consciousness writing was pioneered by authors like Virginia Woolf, James Joyce, and William Faulkner.",
+      "source": "https://en.wikipedia.org/wiki/Stream_of_consciousness_writing"
+    },
+    {
+      "text": "A literary device is a technique used by writers to produce a special effect in their writing, such as metaphor, simile, or irony.",
+      "source": "https://en.wikipedia.org/wiki/A_literary_device"
+    },
+    {
+      "text": "The National Spelling Bee has been held annually since 1925 in the United States.",
+      "source": "https://en.wikipedia.org/wiki/National_Spelling_Bee"
+    },
+    {
+      "text": "Brandon Sanderson broke Kickstarter records in 2022 by raising $41.7 million for four secret novels.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Brandon_Sanderson"
+    },
+    {
+      "text": "The Oxford comma debate centers on whether to place a comma before 'and' in a list — style guides differ on the convention.",
+      "source": "https://en.wikipedia.org/wiki/Oxford"
+    },
+    {
+      "text": "A beta reader is someone who reads a manuscript before publication and provides feedback from a reader's perspective.",
+      "source": "https://en.wikipedia.org/wiki/A_beta_reader"
+    },
+    {
+      "text": "World Storytelling Day is celebrated on March 20 each year.",
+      "month": 3,
+      "day": 20,
+      "source": "https://en.wikipedia.org/wiki/World_Storytelling_Day"
+    },
+    {
+      "text": "Creative writing programs at universities became widespread after the Iowa Writers' Workshop was established in 1936.",
+      "source": "https://en.wikipedia.org/wiki/Creative_writing_programs_at_universities"
+    },
+    {
+      "text": "The ancient Sumerians invented writing around 3400 BCE using cuneiform on clay tablets.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/ancient_Sumerians"
+    },
+    {
+      "text": "A blurb is a short promotional description on a book's back cover, designed to entice potential readers.",
+      "source": "https://en.wikipedia.org/wiki/A_blurb"
+    },
+    {
+      "text": "Daphne du Maurier wrote 'Rebecca' in 1938, one of the most beloved gothic novels in English literature.",
+      "source": "https://en.wikipedia.org/wiki/Daphne_du_Maurier"
+    },
+    {
+      "text": "Proofreading is the final stage of editing, focused on catching typos, formatting errors, and minor grammatical mistakes.",
+      "source": "https://en.wikipedia.org/wiki/Proofreading"
+    },
+    {
+      "text": "The average paperback novel ranges from 200 to 400 pages.",
+      "source": "https://en.wikipedia.org/wiki/Journaling"
+    },
+    {
+      "text": "Ursula K. Le Guin spent over 50 years writing science fiction and fantasy and won multiple Hugo and Nebula Awards.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Ursula_K._Le_Guin"
+    },
+    {
+      "text": "Ray Bradbury was born on August 22, 1920, in Waukegan, Illinois.",
+      "month": 8,
+      "day": 22,
+      "source": "https://en.wikipedia.org/wiki/Ray_Bradbury"
+    },
+    {
+      "text": "The 'in medias res' technique drops the reader into the middle of the action, a device used since Homer's 'Iliad.'",
+      "source": "https://en.wikipedia.org/wiki/Journaling"
+    },
+    {
+      "text": "Post-it notes, introduced by 3M in 1980, became a favorite tool for writers organizing plot points and chapters.",
+      "source": "https://en.wikipedia.org/wiki/Post-it_notes"
+    },
+    {
+      "text": "An anthology is a collection of literary works chosen by a compiler, often themed around a genre, period, or subject.",
+      "source": "https://en.wikipedia.org/wiki/An_anthology"
+    },
+    {
+      "text": "The writing software Ulysses is popular among Mac users for its minimalist, distraction-free interface.",
+      "source": "https://en.wikipedia.org/wiki/writing_software_Ulysses"
+    },
+    {
+      "text": "Hilary Mantel's 'Wolf Hall' trilogy took her over 20 years to complete and won the Booker Prize twice.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Hilary_Mantel%27s_%27Wolf_Hall%27_trilogy_took_her_over_20_years_to_complete_and"
+    },
+    {
+      "text": "Flash nonfiction, also called the 'short short essay,' typically runs under 1,000 words and focuses on a single moment or idea.",
+      "source": "https://en.wikipedia.org/wiki/Flash_nonfiction%2C_also"
+    },
+    {
+      "text": "The semicolon has become a symbol of mental health awareness, representing a sentence the author could have ended but chose not to.",
+      "source": "https://en.wikipedia.org/wiki/semicolon"
+    },
+    {
+      "text": "Writing competitions like the Reedsy short story contest provide cash prizes and publication opportunities for emerging writers.",
+      "source": "https://en.wikipedia.org/wiki/Journaling"
+    },
+    {
+      "text": "The Caldecott and Newbery Medals are announced during the American Library Association's Midwinter Meeting each January.",
+      "source": "https://en.wikipedia.org/wiki/Caldecott_and_Newbery_Medals"
+    },
+    {
+      "text": "Arthur C. Clarke co-wrote the screenplay for '2001: A Space Odyssey' with director Stanley Kubrick.",
+      "source": "https://en.wikipedia.org/wiki/Arthur_C._Clarke"
+    },
+    {
+      "text": "Norman Mailer and Gore Vidal had one of the most famous literary feuds in American letters, spanning decades.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Norman_Mailer_and_Gore_Vidal"
+    },
+    {
+      "text": "A writing portfolio showcases an author's best work and is often required when applying for writing jobs, MFA programs, or grants.",
+      "source": "https://en.wikipedia.org/wiki/A_writing_portfolio_showcases_an_author%27s_best_work_and"
+    },
+    {
+      "text": "The phrase 'truth is stranger than fiction' is attributed to both Mark Twain and Lord Byron.",
+      "source": "https://en.wikipedia.org/wiki/phrase_%27truth"
+    },
+    {
+      "text": "Using active voice — 'The dog bit the man' vs. 'The man was bitten by the dog' — generally makes prose more engaging and direct.",
+      "source": "https://en.wikipedia.org/wiki/Using_active_voice_%E2%80%94_%27The_dog_bit_the_man%27_vs._%27The_man"
+    },
+    {
+      "text": "Louise Glück won the 2020 Nobel Prize in Literature, cited for 'her unmistakable poetic voice.'",
+      "source": "https://en.wikipedia.org/wiki/Louise_Gl%C3%BCck"
+    },
+    {
+      "text": "The 'MacGuffin' is a plot device that serves no purpose other than to drive the story forward — a concept famously explained by Alfred Hitchcock.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/%27MacGuffin"
+    },
+    {
+      "text": "A book tour traditionally involves an author traveling to bookstores across the country for readings and signings — now increasingly done virtually.",
+      "source": "https://en.wikipedia.org/wiki/Journaling"
+    },
+    {
+      "text": "The epistolary format has evolved in modern fiction to include texts, emails, and social media posts.",
+      "source": "https://en.wikipedia.org/wiki/epistolary_format"
+    },
+    {
+      "text": "NaNoWriMo's Young Writers Program allows students as young as kindergarten to set personalized writing goals.",
+      "source": "https://en.wikipedia.org/wiki/NaNoWriMo%27s_Young_Writers_Program_allows_students_as_young_as_kindergarten_to"
+    },
+    {
+      "text": "The Writer's Digest has been published since 1920, making it one of the oldest magazines dedicated to the craft of writing.",
+      "source": "https://en.wikipedia.org/wiki/Writer%27s_Digest"
+    },
+    {
+      "text": "The 'pathetic fallacy' is a literary device where nature mirrors the emotions of the characters — stormy weather during conflict, for example.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/%27pathetic_fallacy"
+    },
+    {
+      "text": "Octavia Butler was the first science fiction writer to receive a MacArthur Fellowship, in 1995.",
+      "source": "https://en.wikipedia.org/wiki/Octavia_Butler"
+    },
+    {
+      "text": "The average American adult reads about 12 books per year, according to Pew Research Center surveys.",
+      "source": "https://en.wikipedia.org/wiki/Pew_Research_Center"
+    },
+    {
+      "text": "Chuck Palahniuk wrote 'Fight Club' in stolen moments during his day job as a diesel mechanic.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Chuck_Palahniuk"
+    },
+    {
+      "text": "The term 'bestseller' was first used in the modern sense in 1889 by The Kansas City Star newspaper.",
+      "source": "https://en.wikipedia.org/wiki/term_%27bestseller"
+    },
+    {
+      "text": "A 'deuteragonist' is the second most important character in a story, after the protagonist.",
+      "source": "https://en.wikipedia.org/wiki/A_%27deuteragonist"
+    },
+    {
+      "text": "Langston Hughes was born on February 1, 1902, in Joplin, Missouri.",
+      "month": 2,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/Langston_Hughes"
+    },
+    {
+      "text": "The average romance novel is between 50,000 and 100,000 words, depending on the subgenre.",
+      "source": "https://en.wikipedia.org/wiki/average_romance_novel"
+    },
+    {
+      "text": "Typewriter artist Paul Smith created intricate works of art using only the keys on his typewriter despite having severe cerebral palsy.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Typewriter_artist_Paul_Smith"
+    },
+    {
+      "text": "A 'red herring' in fiction is a misleading clue designed to distract the reader from the true solution.",
+      "source": "https://en.wikipedia.org/wiki/A_%27red_herring%27_in_fiction"
+    },
+    {
+      "text": "The concept of 'death of the author,' coined by Roland Barthes in 1967, argues that the author's intentions should not determine a text's meaning.",
+      "source": "https://en.wikipedia.org/wiki/Roland_Barthes"
+    },
+    {
+      "text": "Enid Blyton wrote approximately 762 books during her career, averaging about 10,000 words a day.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Enid_Blyton"
+    },
+    {
+      "text": "World Read Aloud Day is celebrated on the first Wednesday of February each year.",
+      "source": "https://en.wikipedia.org/wiki/World_Read_Aloud_Day"
+    },
+    {
+      "text": "The sestina is a complex poetic form with six stanzas of six lines each, followed by a three-line envoi, using a rotating set of end words.",
+      "source": "https://en.wikipedia.org/wiki/sestina"
+    },
+    {
+      "text": "Zadie Smith was only 24 when her debut novel 'White Teeth' was published to critical acclaim in 2000.",
+      "source": "https://en.wikipedia.org/wiki/Zadie_Smith"
+    },
+    {
+      "text": "Oscar Wilde wrote 'The Importance of Being Earnest' in just three weeks.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Oscar_Wilde"
+    },
+    {
+      "text": "A 'deus ex machina' is when a seemingly unsolvable problem is suddenly resolved by an unexpected event — generally considered a flaw in writing.",
+      "source": "https://en.wikipedia.org/wiki/A_%27deus_ex_machina"
+    },
+    {
+      "text": "National Handwriting Day is celebrated on January 23 each year, the birthday of John Hancock.",
+      "month": 1,
+      "day": 23,
+      "source": "https://en.wikipedia.org/wiki/National_Handwriting_Day"
+    },
+    {
+      "text": "Manuscript literally means 'written by hand,' from the Latin 'manu scriptus.'",
+      "source": "https://en.wikipedia.org/wiki/Journaling"
+    },
+    {
+      "text": "The Bechdel Test, originally from a comic strip by Alison Bechdel, is now widely used to evaluate female representation in fiction and screenwriting.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Bechdel_Test%2C_originally_from_a_comic_strip_by_Alison_Bechdel"
+    },
+    {
+      "text": "A 'plot hole' is an inconsistency in a storyline that goes against the logic established earlier in the narrative.",
+      "source": "https://en.wikipedia.org/wiki/A_%27plot_hole"
+    },
+    {
+      "text": "Dostoyevsky suffered from epilepsy, and his seizure experiences influenced the characters in 'The Idiot' and other novels.",
+      "source": "https://en.wikipedia.org/wiki/Idiot%27_and"
+    },
+    {
+      "text": "The pen name 'Elena Ferrante' remains one of literature's greatest mysteries — the Italian novelist's true identity is still debated.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Elena_Ferrante"
+    },
+    {
+      "text": "Writing in present tense creates a sense of immediacy, while past tense provides a sense of reflection and distance.",
+      "source": "https://en.wikipedia.org/wiki/Writing_in"
+    },
+    {
+      "text": "The Strand Magazine serialized Arthur Conan Doyle's Sherlock Holmes stories from 1891 to 1927.",
+      "source": "https://en.wikipedia.org/wiki/Strand_Magazine"
+    },
+    {
+      "text": "Henry David Thoreau lived at Walden Pond for two years, two months, and two days, producing one of literature's greatest journals.",
+      "source": "https://en.wikipedia.org/wiki/Henry_David_Thoreau"
+    },
+    {
+      "text": "An acrostic poem spells out a word or phrase with the first letter of each line.",
+      "source": "https://en.wikipedia.org/wiki/Journaling"
+    },
+    {
+      "text": "Philip Pullman writes 1,000 words per day, three pages of his writing pad, calling it his 'minimum daily word count.'",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Philip_Pullman"
+    },
+    {
+      "text": "The 'Oxford Dictionaries Word of the Year' has been selected annually since 2004, reflecting language trends.",
+      "source": "https://en.wikipedia.org/wiki/%27Oxford_Dictionaries_Word_of_the_Year"
+    },
+    {
+      "text": "A denouement is the final resolution of a story's plot, after the climax and falling action.",
+      "source": "https://en.wikipedia.org/wiki/A_denouement"
+    },
+    {
+      "text": "Gloria Steinem co-founded Ms. Magazine in 1972, becoming one of the most influential voices in feminist journalism.",
+      "source": "https://en.wikipedia.org/wiki/Gloria_Steinem"
+    },
+    {
+      "text": "The longest English word without a repeating letter is 'uncopyrightable,' at 15 characters.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/longest_English_word_without_a_repeating_letter"
+    },
+    {
+      "text": "Jorge Luis Borges was born on August 24, 1899, in Buenos Aires, Argentina.",
+      "month": 8,
+      "day": 24,
+      "source": "https://en.wikipedia.org/wiki/Jorge_Luis_Borges"
+    },
+    {
+      "text": "A writing 'voice' develops over time and is influenced by the author's reading habits, life experience, and practice.",
+      "source": "https://en.wikipedia.org/wiki/A_writing_%27voice%27_develops_over_time_and"
+    },
+    {
+      "text": "The Amazon Associates program allows authors and bloggers to earn commissions by recommending books with affiliate links.",
+      "source": "https://en.wikipedia.org/wiki/Amazon_Associates"
+    },
+    {
+      "text": "W.B. Yeats won the Nobel Prize in Literature in 1923, the first Irishman to receive the honor.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/W.B._Yeats"
+    },
+    {
+      "text": "A rhetorical question is a question asked for effect rather than to elicit an answer, commonly used in persuasive writing.",
+      "source": "https://en.wikipedia.org/wiki/A_rhetorical_question"
+    },
+    {
+      "text": "The Golden Age of Detective Fiction, from roughly 1920 to 1940, was dominated by writers like Agatha Christie, Dorothy L. Sayers, and Ellery Queen.",
+      "source": "https://en.wikipedia.org/wiki/Golden_Age_of_Detective_Fiction%2C_from_roughly_1920_to_1940"
+    },
+    {
+      "text": "Audiobook sales have grown by over 25% annually since 2013, making narration an important consideration for authors.",
+      "source": "https://en.wikipedia.org/wiki/Audiobook_sales"
+    },
+    {
+      "text": "Roberto Bolaño worked as a dishwasher, campground security guard, and garbage collector before becoming one of Latin America's most acclaimed novelists.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Latin_America%27s"
+    }
+  ]
+}

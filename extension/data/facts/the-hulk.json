@@ -1,0 +1,1845 @@
+{
+  "hobby": "The Hulk",
+  "facts": [
+    {
+      "text": "The Hulk first appeared in The Incredible Hulk #1 in May 1962, created by Stan Lee and Jack Kirby for Marvel Comics.",
+      "source": "https://en.wikipedia.org/wiki/Hulk_first_appeared_in_The_Incredible_Hulk_%231_in_May_1962"
+    },
+    {
+      "text": "Stan Lee originally intended the Hulk to be gray, but printing limitations at the time made the color inconsistent, so Lee changed him to green starting with issue #2.",
+      "source": "https://en.wikipedia.org/wiki/Stan_Lee"
+    },
+    {
+      "text": "The Hulk's alter ego, Dr. Robert Bruce Banner, is a genius nuclear physicist who transforms into the Hulk after exposure to gamma radiation during a bomb test.",
+      "source": "https://en.wikipedia.org/wiki/Hulk%27s_alter_ego%2C_Dr._Robert_Bruce_Banner"
+    },
+    {
+      "text": "\"You wouldn't like me when I'm angry.\" — Bruce Banner's warning, first spoken by Bill Bixby in the 1978 TV series, became the Hulk's most iconic catchphrase.",
+      "source": "https://en.wikipedia.org/wiki/You_wouldn%27t_like_me_when_I%27m_angry"
+    },
+    {
+      "text": "Stan Lee has said he was inspired by a combination of Frankenstein's Monster and Dr. Jekyll and Mr. Hyde when creating the Hulk.",
+      "source": "https://en.wikipedia.org/wiki/Stan_Lee"
+    },
+    {
+      "text": "In the original comics, Bruce Banner was caught in the blast of a gamma bomb while saving teenager Rick Jones, who had wandered onto the test site on a dare.",
+      "source": "https://en.wikipedia.org/wiki/In_the_original_comics%2C_Bruce_Banner"
+    },
+    {
+      "text": "The Incredible Hulk's first comic series was canceled after only six issues in 1963 due to poor sales, but the character survived through guest appearances in other Marvel titles.",
+      "source": "https://en.wikipedia.org/wiki/Incredible_Hulk%27s_first_comic_series"
+    },
+    {
+      "text": "The Hulk was a founding member of the Avengers in Avengers #1 (September 1963), though he left the team by issue #2.",
+      "source": "https://en.wikipedia.org/wiki/Hulk"
+    },
+    {
+      "text": "Jack Kirby's original design for the Hulk drew on his experience seeing a woman lift a car off her trapped child, which inspired the idea of strength through extreme emotion.",
+      "source": "https://en.wikipedia.org/wiki/Jack_Kirby%27s"
+    },
+    {
+      "text": "The Hulk's strength has no defined upper limit in Marvel Comics — the angrier he gets, the stronger he becomes, theoretically without end.",
+      "source": "https://en.wikipedia.org/wiki/Hulk%27s_strength"
+    },
+    {
+      "text": "\"Hulk smash!\" — The Hulk's signature battle cry has become one of the most recognized phrases in all of comic book history.",
+      "source": "https://en.wikipedia.org/wiki/Hulk_smash"
+    },
+    {
+      "text": "Bruce Banner's name was accidentally changed to \"Bob Banner\" in early issues, leading Stan Lee to retcon his full name as Robert Bruce Banner to cover the mistake.",
+      "source": "https://en.wikipedia.org/wiki/Bob_Banner"
+    },
+    {
+      "text": "The Hulk has lifted a 150-billion-ton mountain range in Secret Wars #4 (1984), one of the greatest feats of strength in Marvel Comics history.",
+      "source": "https://en.wikipedia.org/wiki/Hulk"
+    },
+    {
+      "text": "Betty Ross, the daughter of General Thaddeus \"Thunderbolt\" Ross, has been Bruce Banner's primary love interest since the character's debut in 1962.",
+      "source": "https://en.wikipedia.org/wiki/Thunderbolt"
+    },
+    {
+      "text": "General Thaddeus \"Thunderbolt\" Ross has been the Hulk's most persistent military antagonist, obsessively hunting him for decades across Marvel Comics continuity.",
+      "source": "https://en.wikipedia.org/wiki/Thunderbolt"
+    },
+    {
+      "text": "The Leader, whose real name is Samuel Sterns, is a gamma-mutated supervillain with an oversized cranium and superintelligence, serving as the Hulk's intellectual opposite.",
+      "source": "https://en.wikipedia.org/wiki/Leader%2C_whose_real_name"
+    },
+    {
+      "text": "The Abomination, Emil Blonsky, was created in Tales to Astonish #90 (1967) and is one of the few beings whose base strength exceeds the Hulk's calm state.",
+      "source": "https://en.wikipedia.org/wiki/Abomination%2C_Emil_Blonsky"
+    },
+    {
+      "text": "Rick Jones, the teenager Bruce Banner saved from the gamma bomb, became his closest friend and sidekick, later becoming characters like A-Bomb and various other Marvel heroes.",
+      "source": "https://en.wikipedia.org/wiki/Rick_Jones%2C_the_teenager_Bruce_Banner_saved_from_the_gamma_bomb"
+    },
+    {
+      "text": "\"The madder Hulk gets, the stronger Hulk gets.\" — This defining characteristic, established in early comics, means there is effectively no ceiling to the Hulk's power.",
+      "source": "https://en.wikipedia.org/wiki/madder_Hulk_gets%2C_the_stronger_Hulk_gets"
+    },
+    {
+      "text": "The Hulk has had multiple distinct personas over the decades, including Savage Hulk, Gray Hulk (Joe Fixit), Professor Hulk, Green Scar, and the Devil Hulk.",
+      "source": "https://en.wikipedia.org/wiki/Hulk"
+    },
+    {
+      "text": "The Savage Hulk persona represents the childlike, rage-driven green giant most people think of — immensely powerful but with the emotional maturity of a young child.",
+      "source": "https://en.wikipedia.org/wiki/Savage_Hulk"
+    },
+    {
+      "text": "Joe Fixit is the Gray Hulk persona who emerged in the late 1980s under writer Peter David — a cunning, wisecracking enforcer who worked as a Las Vegas bouncer.",
+      "source": "https://en.wikipedia.org/wiki/Joe_Fixit"
+    },
+    {
+      "text": "Professor Hulk, also known as the Merged Hulk, combines Banner's intelligence with the Hulk's strength, first fully realized in Incredible Hulk #377 (1991) by Peter David.",
+      "source": "https://en.wikipedia.org/wiki/Professor_Hulk"
+    },
+    {
+      "text": "The Green Scar is the Hulk's gladiator persona from the Planet Hulk storyline, arguably the most skilled and strategically intelligent version of the Hulk.",
+      "source": "https://en.wikipedia.org/wiki/Green_Scar"
+    },
+    {
+      "text": "Peter David's 12-year run on The Incredible Hulk (1987–1998) is widely considered the definitive interpretation of the character, exploring Banner's dissociative identity disorder.",
+      "source": "https://en.wikipedia.org/wiki/Peter_David%27s_12-year_run_on_The_Incredible_Hulk_(1987%E2%80%931998)"
+    },
+    {
+      "text": "During Peter David's run, it was revealed that Bruce Banner suffered severe childhood abuse at the hands of his father Brian Banner, which contributed to his fractured psyche.",
+      "source": "https://en.wikipedia.org/wiki/During_Peter_David%27s_run%2C_it"
+    },
+    {
+      "text": "Brian Banner murdered Bruce's mother Rebecca Banner in front of young Bruce, a traumatic event that shaped his psychological fragmentation and the creation of his Hulk personas.",
+      "source": "https://en.wikipedia.org/wiki/Brian_Banner"
+    },
+    {
+      "text": "\"Banner, I know you're in there. I'll find you.\" — General Ross's relentless pursuit of the Hulk drove much of the character's early narrative tension.",
+      "source": "https://en.wikipedia.org/wiki/Banner%2C_I_know_you%27re_in_there._I%27ll_find_you"
+    },
+    {
+      "text": "The Hulk has been a member of numerous Marvel teams including the Avengers, the Defenders, the Fantastic Four, the Pantheon, and the Warbound.",
+      "source": "https://en.wikipedia.org/wiki/Hulk"
+    },
+    {
+      "text": "The Defenders, Marvel's \"non-team,\" featured the Hulk alongside Doctor Strange, Namor the Sub-Mariner, and the Silver Surfer as founding members.",
+      "source": "https://en.wikipedia.org/wiki/non-team"
+    },
+    {
+      "text": "In the Marvel Universe, the Hulk is classified as an Omega-level threat, capable of destroying entire planets when sufficiently enraged.",
+      "source": "https://en.wikipedia.org/wiki/In_the_Marvel_Universe%2C_the_Hulk"
+    },
+    {
+      "text": "The Hulk has fought virtually every major Marvel hero and villain, including Thor, Wolverine, the Thing, the Silver Surfer, Thanos, and even Superman in a Marvel/DC crossover.",
+      "source": "https://en.wikipedia.org/wiki/Hulk"
+    },
+    {
+      "text": "The Hulk vs. Wolverine rivalry began in The Incredible Hulk #181 (1974), which also served as Wolverine's first full appearance in Marvel Comics.",
+      "source": "https://en.wikipedia.org/wiki/Hulk_vs._Wolverine"
+    },
+    {
+      "text": "\"Hulk is the strongest one there is!\" — The Hulk's self-declaration has been a recurring theme, and Marvel has frequently confirmed him as one of the most powerful beings in their universe.",
+      "source": "https://en.wikipedia.org/wiki/Hulk_is_the_strongest_one_there_is"
+    },
+    {
+      "text": "The 1978 TV series The Incredible Hulk starred Bill Bixby as Dr. David Banner and Lou Ferrigno as the Hulk, running for five seasons on CBS.",
+      "source": "https://en.wikipedia.org/wiki/1978_TV_series_The_Incredible_Hulk"
+    },
+    {
+      "text": "In the 1978 TV series, Bruce Banner's first name was changed to David because CBS executive Kenneth Johnson felt \"Bruce\" sounded too alliterative and comic-bookish.",
+      "source": "https://en.wikipedia.org/wiki/Bruce"
+    },
+    {
+      "text": "Lou Ferrigno was a professional bodybuilder and two-time Mr. Universe winner before being cast as the Hulk in the 1978 television series.",
+      "source": "https://en.wikipedia.org/wiki/Lou_Ferrigno"
+    },
+    {
+      "text": "Lou Ferrigno wore green body paint and a wig each filming day for the 1978 TV series — the makeup process took approximately three hours.",
+      "source": "https://en.wikipedia.org/wiki/Lou_Ferrigno"
+    },
+    {
+      "text": "The 1978 TV series opening narration — \"Don't make me angry. You wouldn't like me when I'm angry\" — became embedded in popular culture far beyond the comic book audience.",
+      "source": "https://www.youtube.com/results?search_query=The%20Hulk%20Don%27t%20make%20me%20angry.%20You%20wouldn%27t%20like%20me%20when%20I%27m%20angry%20live%20performance"
+    },
+    {
+      "text": "Bill Bixby's portrayal of the lonely, wandering David Banner searching for a cure gave the 1978 TV series a melancholic tone inspired by The Fugitive.",
+      "source": "https://en.wikipedia.org/wiki/Bill_Bixby%27s_portrayal_of_the_lonely%2C_wandering_David_Banner_searching_for_a_cure"
+    },
+    {
+      "text": "The 1978 series' iconic \"lonely man\" piano theme, composed by Joe Harnell, played during Banner's departures and became one of television's most recognizable musical cues.",
+      "source": "https://www.youtube.com/results?search_query=The%20Hulk%20lonely%20man%20live%20performance"
+    },
+    {
+      "text": "The Incredible Hulk TV series ran from 1978 to 1982 and was followed by three TV movies: The Incredible Hulk Returns (1988), The Trial of the Incredible Hulk (1989), and The Death of the Incredible Hulk (1990).",
+      "source": "https://en.wikipedia.org/wiki/Incredible_Hulk_Returns"
+    },
+    {
+      "text": "In The Trial of the Incredible Hulk TV movie (1989), Rex Smith appeared as Daredevil, marking one of Marvel's earliest live-action crossover appearances.",
+      "source": "https://en.wikipedia.org/wiki/In_The_Trial_of_the_Incredible_Hulk_TV_movie_(1989)%2C_Rex_Smith"
+    },
+    {
+      "text": "\"Mr. McGee, don't make me angry.\" — David Banner's warning to reporter Jack McGee, played by Jack Colvin, who relentlessly pursued the Hulk throughout the 1978 TV series.",
+      "source": "https://en.wikipedia.org/wiki/Mr._McGee%2C_don%27t_make_me_angry"
+    },
+    {
+      "text": "The Incredible Hulk animated series (1982) featured the Hulk alongside She-Hulk and ran for one season of 13 episodes on NBC.",
+      "source": "https://en.wikipedia.org/wiki/Incredible_Hulk_animated_series_(1982)_featured_the_Hulk_alongside_She-Hulk_and"
+    },
+    {
+      "text": "The 1996 Incredible Hulk animated series ran for two seasons on UPN and featured Lou Ferrigno voicing the Hulk and Neal McDonough voicing Bruce Banner.",
+      "source": "https://en.wikipedia.org/wiki/1996_Incredible_Hulk_animated_series"
+    },
+    {
+      "text": "Hulk and the Agents of S.M.A.S.H. (2013–2015) was an animated series on Disney XD featuring the Hulk leading a team of gamma-powered heroes.",
+      "source": "https://en.wikipedia.org/wiki/Hulk_and_the_Agents_of_S.M.A.S.H._(2013%E2%80%932015)"
+    },
+    {
+      "text": "Ang Lee directed the 2003 film Hulk, starring Eric Bana as Bruce Banner, which took an art-house approach with split-screen panels mimicking comic book layouts.",
+      "source": "https://en.wikipedia.org/wiki/Ang_Lee_directed_the_2003_film_Hulk%2C_starring_Eric_Bana_as_Bruce_Banner%2C_which"
+    },
+    {
+      "text": "The 2003 Hulk film explored Bruce Banner's traumatic childhood and repressed memories, with Nick Nolte playing his father David Banner as the primary antagonist.",
+      "source": "https://en.wikipedia.org/wiki/2003_Hulk"
+    },
+    {
+      "text": "Ang Lee's 2003 Hulk was one of the first films to create a fully CGI main character for a live-action superhero film, paving the way for later digital characters.",
+      "source": "https://en.wikipedia.org/wiki/Ang_Lee%27s_2003_Hulk"
+    },
+    {
+      "text": "The 2003 Hulk film grossed $245 million worldwide against a $137 million budget, receiving mixed reviews for its psychological depth but slow pacing.",
+      "source": "https://en.wikipedia.org/wiki/2003_Hulk"
+    },
+    {
+      "text": "Jennifer Connelly played Betty Ross in Ang Lee's 2003 Hulk, while Sam Elliott portrayed General Thunderbolt Ross.",
+      "source": "https://en.wikipedia.org/wiki/Jennifer_Connelly"
+    },
+    {
+      "text": "The Incredible Hulk (2008) starred Edward Norton as Bruce Banner and was the second film in the Marvel Cinematic Universe, released just weeks after Iron Man.",
+      "source": "https://en.wikipedia.org/wiki/Incredible_Hulk"
+    },
+    {
+      "text": "Edward Norton co-wrote the screenplay for The Incredible Hulk (2008) under a pseudonym, though disputes over creative control led to his replacement in the MCU.",
+      "source": "https://en.wikipedia.org/wiki/Incredible_Hulk"
+    },
+    {
+      "text": "Liv Tyler played Betty Ross and Tim Roth played Emil Blonsky/Abomination in The Incredible Hulk (2008).",
+      "source": "https://en.wikipedia.org/wiki/Incredible_Hulk"
+    },
+    {
+      "text": "William Hurt portrayed General Thunderbolt Ross in The Incredible Hulk (2008) and reprised the role in Captain America: Civil War and other MCU films.",
+      "source": "https://en.wikipedia.org/wiki/Incredible_Hulk"
+    },
+    {
+      "text": "\"I got low. I didn't see an end, so I put a bullet in my mouth... and the other guy spit it out.\" — Bruce Banner's haunting confession in The Avengers (2012) about his suicide attempt.",
+      "source": "https://en.wikipedia.org/wiki/I_got_low._I_didn%27t_see_an_end%2C_so_I_put_a_bullet_in_my_mouth..._and_the_other_guy_spit_it_out"
+    },
+    {
+      "text": "The Incredible Hulk (2008) featured a post-credits scene with Tony Stark approaching General Ross in a bar, establishing the film's connection to the wider MCU.",
+      "source": "https://en.wikipedia.org/wiki/Incredible_Hulk"
+    },
+    {
+      "text": "The Incredible Hulk (2008) opened with Banner hiding in the favelas of Rocinha, Brazil, working at a bottling factory while searching for a cure — an homage to the TV series' fugitive setup.",
+      "source": "https://en.wikipedia.org/wiki/Incredible_Hulk"
+    },
+    {
+      "text": "Mark Ruffalo replaced Edward Norton as Bruce Banner starting with The Avengers (2012) and has since become the definitive MCU Hulk actor.",
+      "source": "https://en.wikipedia.org/wiki/Avengers"
+    },
+    {
+      "text": "Mark Ruffalo's Hulk in The Avengers (2012) was created using performance capture technology, with Ruffalo performing the Hulk's movements and facial expressions directly.",
+      "source": "https://en.wikipedia.org/wiki/Avengers"
+    },
+    {
+      "text": "\"That's my secret, Captain. I'm always angry.\" — Bruce Banner's revelation to Captain America in The Avengers (2012) before deliberately transforming into the Hulk during the Battle of New York.",
+      "source": "https://en.wikipedia.org/wiki/That%27s_my_secret%2C_Captain._I%27m_always_angry"
+    },
+    {
+      "text": "The Avengers (2012) featured the Hulk's famous scene of thrashing Loki back and forth like a rag doll, punctuated by the line \"Puny god\" — one of the film's biggest crowd-pleasers.",
+      "source": "https://en.wikipedia.org/wiki/Puny_god"
+    },
+    {
+      "text": "\"Puny god.\" — The Hulk's dismissive remark after smashing Loki repeatedly into the floor during The Avengers (2012), a scene that was largely improvised by the filmmakers.",
+      "source": "https://en.wikipedia.org/wiki/Puny_god"
+    },
+    {
+      "text": "In Avengers: Age of Ultron (2015), the Hulk's rampage through Johannesburg required Tony Stark to deploy the Hulkbuster armor, known as \"Veronica,\" for one of the MCU's most spectacular fight sequences.",
+      "source": "https://en.wikipedia.org/wiki/Veronica"
+    },
+    {
+      "text": "The Hulkbuster armor, designed by Tony Stark specifically to restrain the Hulk, first appeared in Iron Man #304 (1994) in the comics.",
+      "source": "https://en.wikipedia.org/wiki/Hulkbuster_armor%2C_designed_by_Tony_Stark_specifically_to_restrain_the_Hulk%2C_first"
+    },
+    {
+      "text": "\"Go to sleep, go to sleep, go to sleep.\" — Tony Stark's words to the Hulk while pummeling him with the Hulkbuster armor during their fight in Avengers: Age of Ultron (2015).",
+      "source": "https://en.wikipedia.org/wiki/Go_to_sleep%2C_go_to_sleep%2C_go_to_sleep"
+    },
+    {
+      "text": "In Avengers: Age of Ultron, Black Widow developed a \"lullaby\" technique to calm the Hulk and trigger his reversion to Banner, establishing a romantic subplot between Natasha and Bruce.",
+      "source": "https://en.wikipedia.org/wiki/lullaby"
+    },
+    {
+      "text": "The Hulk stole a Quinjet at the end of Avengers: Age of Ultron and disappeared, which set up his appearance in Thor: Ragnarok (2017) on the planet Sakaar.",
+      "source": "https://en.wikipedia.org/wiki/Thor:_Ragnarok"
+    },
+    {
+      "text": "In Thor: Ragnarok (2017), the Hulk had been in control for two years on Sakaar, working as the Grandmaster's champion gladiator — the longest Banner had ever been suppressed.",
+      "source": "https://en.wikipedia.org/wiki/In_Thor:_Ragnarok"
+    },
+    {
+      "text": "\"Hulk like raging fire. Thor like smoldering fire.\" — The Hulk's surprisingly philosophical comparison to Thor during their time on Sakaar in Thor: Ragnarok (2017).",
+      "source": "https://en.wikipedia.org/wiki/Hulk_like_raging_fire._Thor_like_smoldering_fire"
+    },
+    {
+      "text": "Thor: Ragnarok's gladiator arena storyline was directly inspired by the Planet Hulk comic book arc, with the Hulk fighting as the Grandmaster's undefeated champion.",
+      "source": "https://en.wikipedia.org/wiki/Thor:_Ragnarok%27s_gladiator_arena_storyline"
+    },
+    {
+      "text": "\"Yes! That's how it feels!\" — Thor's delighted reaction when the Hulk threw him around the arena, mirroring what the Hulk did to Loki in The Avengers.",
+      "source": "https://en.wikipedia.org/wiki/Yes%21_That%27s_how_it_feels"
+    },
+    {
+      "text": "\"He's a friend from work!\" — Thor's excited declaration upon seeing the Hulk enter the gladiator arena in Thor: Ragnarok, a line suggested by a young Make-A-Wish visitor to the set.",
+      "source": "https://en.wikipedia.org/wiki/He%27s_a_friend_from_work"
+    },
+    {
+      "text": "In Avengers: Infinity War (2018), the Hulk fought Thanos in the film's opening scene and was decisively beaten, after which the Hulk refused to come out for the rest of the film.",
+      "source": "https://en.wikipedia.org/wiki/In_Avengers:_Infinity_War"
+    },
+    {
+      "text": "\"NO!\" — The Hulk's refusal to emerge during Avengers: Infinity War was not because of fear but because he was tired of being used only as a weapon, as later confirmed by the Russo Brothers.",
+      "source": "https://en.wikipedia.org/wiki/NO"
+    },
+    {
+      "text": "In Avengers: Endgame (2019), Bruce Banner merged his intelligence with the Hulk's body to become Professor Hulk, or \"Smart Hulk,\" during the five-year time skip.",
+      "source": "https://en.wikipedia.org/wiki/Smart_Hulk"
+    },
+    {
+      "text": "Professor Hulk in Avengers: Endgame wore glasses, casual clothing, and took selfies with fans — a far cry from the raging monster audiences had known for decades.",
+      "source": "https://en.wikipedia.org/wiki/Professor_Hulk_in_Avengers:_Endgame_wore_glasses%2C_casual_clothing%2C_and"
+    },
+    {
+      "text": "\"I see this as an absolute win!\" — Professor Hulk's cheerful assessment in Avengers: Endgame became one of the most popular memes from the film.",
+      "source": "https://www.youtube.com/results?search_query=The%20Hulk%20I%20see%20this%20as%20an%20absolute%20win%21%20live%20performance"
+    },
+    {
+      "text": "In Avengers: Endgame, Professor Hulk wielded the Infinity Gauntlet to perform \"the Blip\" — snapping everyone who had been dusted by Thanos back to life, severely injuring his right arm in the process.",
+      "source": "https://en.wikipedia.org/wiki/Blip"
+    },
+    {
+      "text": "Bruce Banner's snap in Avengers: Endgame was possible because the stones emitted primarily gamma radiation, which Banner was uniquely equipped to absorb.",
+      "source": "https://en.wikipedia.org/wiki/Bruce_Banner%27s_snap_in_Avengers:_Endgame"
+    },
+    {
+      "text": "The Hulk's right arm was permanently damaged after using the Infinity Stones in Avengers: Endgame, one of the few lasting physical consequences for an MCU hero.",
+      "source": "https://en.wikipedia.org/wiki/Hulk%27s_right_arm"
+    },
+    {
+      "text": "Mark Ruffalo wore a motion capture suit with a head-mounted camera rig to perform as both Banner and the Hulk, allowing his facial performance to drive the CGI character.",
+      "source": "https://en.wikipedia.org/wiki/Mark_Ruffalo"
+    },
+    {
+      "text": "Industrial Light & Magic developed increasingly sophisticated facial capture technology across the MCU films, making each subsequent Hulk appearance more expressive and lifelike.",
+      "source": "https://en.wikipedia.org/wiki/Industrial_Light_%26_Magic"
+    },
+    {
+      "text": "\"Sun's getting real low.\" — The lullaby phrase Black Widow used to calm the Hulk, established in Age of Ultron and attempted again by Thor in Ragnarok with comical failure.",
+      "source": "https://en.wikipedia.org/wiki/Sun%27s_getting_real_low"
+    },
+    {
+      "text": "She-Hulk, Jennifer Walters, is Bruce Banner's cousin who gained her powers through a blood transfusion from Bruce, first appearing in Savage She-Hulk #1 (1980).",
+      "source": "https://en.wikipedia.org/wiki/She-Hulk%2C_Jennifer_Walters"
+    },
+    {
+      "text": "She-Hulk was created by Stan Lee and John Buscema partly because Marvel wanted to secure the trademark before the producers of the Hulk TV series could create a female version.",
+      "source": "https://en.wikipedia.org/wiki/She-Hulk"
+    },
+    {
+      "text": "Unlike the Hulk, She-Hulk initially retained her intelligence and personality when transformed, though she became taller, more muscular, and green-skinned.",
+      "source": "https://en.wikipedia.org/wiki/Unlike_the_Hulk"
+    },
+    {
+      "text": "She-Hulk is notable in comics for frequently breaking the fourth wall, directly addressing readers and acknowledging she is a fictional character, predating Deadpool's similar shtick.",
+      "source": "https://en.wikipedia.org/wiki/She-Hulk"
+    },
+    {
+      "text": "She-Hulk: Attorney at Law (2022) was a Disney+ series starring Tatiana Maslany as Jennifer Walters, blending legal comedy with superhero action in the MCU.",
+      "source": "https://en.wikipedia.org/wiki/Law"
+    },
+    {
+      "text": "Tatiana Maslany's She-Hulk was created using CGI and motion capture similar to Mark Ruffalo's Hulk, maintaining Maslany's facial performance on the digital character.",
+      "source": "https://en.wikipedia.org/wiki/Tatiana_Maslany%27s_She-Hulk"
+    },
+    {
+      "text": "In She-Hulk: Attorney at Law, Bruce Banner (Mark Ruffalo) appeared as Smart Hulk and trained Jennifer Walters in controlling her powers at a beachside lab in Mexico.",
+      "source": "https://en.wikipedia.org/wiki/In_She-Hulk:_Attorney_at_Law%2C_Bruce_Banner_(Mark_Ruffalo)"
+    },
+    {
+      "text": "The Planet Hulk storyline (2006–2007) by Greg Pak saw the Illuminati launch the Hulk into space, where he crash-landed on the planet Sakaar and became a gladiator, then king.",
+      "source": "https://en.wikipedia.org/wiki/Planet_Hulk_storyline_(2006%E2%80%932007)_by_Greg_Pak"
+    },
+    {
+      "text": "On Sakaar, the Hulk assembled the Warbound — a group of gladiator allies including Korg, Miek, No-Name the Brood, Hiroim, and Elloe Kaifi.",
+      "source": "https://en.wikipedia.org/wiki/On_Sakaar"
+    },
+    {
+      "text": "In Planet Hulk, the Hulk married Caiera the Oldstrong, a Shadow Person of Sakaar, who became pregnant with his children before a warp core explosion seemingly killed her.",
+      "source": "https://en.wikipedia.org/wiki/In_Planet_Hulk%2C_the_Hulk_married_Caiera_the_Oldstrong%2C_a_Shadow_Person_of_Sakaar%2C_who"
+    },
+    {
+      "text": "\"I didn't come here for a whisper. I want to hear you SCREAM.\" — The Hulk's demand to the crowd in the Sakaar arena during the Planet Hulk saga.",
+      "source": "https://en.wikipedia.org/wiki/I_didn%27t_come_here_for_a_whisper._I_want_to_hear_you_SCREAM"
+    },
+    {
+      "text": "World War Hulk (2007) by Greg Pak followed the Hulk's return to Earth seeking revenge on the Illuminati — Iron Man, Mr. Fantastic, Black Bolt, and Doctor Strange — for exiling him.",
+      "source": "https://en.wikipedia.org/wiki/World_War_Hulk"
+    },
+    {
+      "text": "In World War Hulk, the Green Scar defeated Black Bolt, Iron Man in Hulkbuster armor, Doctor Strange possessed by the demon Zom, and nearly the entire Marvel hero roster.",
+      "source": "https://en.wikipedia.org/wiki/In_World_War_Hulk"
+    },
+    {
+      "text": "World War Hulk ended when the Hulk chose to spare the Illuminati, only to be stopped by the Sentry in a fight that shook Manhattan and eventually reverted both combatants to human form.",
+      "source": "https://en.wikipedia.org/wiki/World_War_Hulk"
+    },
+    {
+      "text": "The Illuminati — Tony Stark, Reed Richards, Black Bolt, Doctor Strange, Namor, and Charles Xavier — made the controversial decision to exile the Hulk during the Planet Hulk saga.",
+      "source": "https://en.wikipedia.org/wiki/Illuminati"
+    },
+    {
+      "text": "Skaar, the son of the Hulk and Caiera, emerged from the ruins of Sakaar as a young warrior with both Hulk strength and his mother's Old Power abilities.",
+      "source": "https://en.wikipedia.org/wiki/Hulk_and_Caiera"
+    },
+    {
+      "text": "The Immortal Hulk (2018–2021) by Al Ewing and Joe Bennett is considered one of the greatest Hulk runs ever, reinventing the character as a horror comic protagonist.",
+      "source": "https://en.wikipedia.org/wiki/Immortal_Hulk_(2018%E2%80%932021)_by_Al_Ewing_and_Joe_Bennett"
+    },
+    {
+      "text": "In Immortal Hulk, it was revealed that gamma radiation is connected to a mystical force called the Green Door, which allows gamma mutates to return from death.",
+      "source": "https://en.wikipedia.org/wiki/In_Immortal_Hulk%2C_it"
+    },
+    {
+      "text": "The Devil Hulk persona, explored extensively in Immortal Hulk, is a protective personality that emerged as Bruce Banner's self-appointed guardian, manifesting as a frightening reptilian Hulk.",
+      "source": "https://en.wikipedia.org/wiki/Devil_Hulk_persona%2C_explored_extensively_in_Immortal_Hulk"
+    },
+    {
+      "text": "Immortal Hulk established that the Hulk literally cannot die permanently — every time Bruce Banner is killed, the Hulk resurrects him, typically emerging at night in a terrifying new form.",
+      "source": "https://en.wikipedia.org/wiki/Immortal_Hulk"
+    },
+    {
+      "text": "\"Is he man or monster... or is he both?\" — The tagline of The Incredible Hulk #1 (1962) posed a question that has driven the character's narrative for over sixty years.",
+      "source": "https://en.wikipedia.org/wiki/Is_he_man_or_monster..._or_is_he_both"
+    },
+    {
+      "text": "The One Below All, introduced in Immortal Hulk, is the dark counterpart to the One Above All (Marvel's God figure) and is connected to gamma radiation and the Green Door.",
+      "source": "https://en.wikipedia.org/wiki/One_Below_All"
+    },
+    {
+      "text": "Al Ewing's Immortal Hulk won the Eisner Award for Best Continuing Series in 2019, cementing it as a critical darling among modern Marvel comics.",
+      "source": "https://en.wikipedia.org/wiki/Al_Ewing%27s_Immortal_Hulk"
+    },
+    {
+      "text": "The Maestro is a future version of the Hulk from Peter David's \"Future Imperfect\" storyline (1992), ruling a post-apocalyptic world as a tyrannical dictator with Banner's genius and the Hulk's strength.",
+      "source": "https://en.wikipedia.org/wiki/Future_Imperfect"
+    },
+    {
+      "text": "In \"Future Imperfect,\" the Maestro was more powerful than the present-day Hulk because he had absorbed additional radiation from nuclear wars, but was also utterly insane and cruel.",
+      "source": "https://en.wikipedia.org/wiki/Future_Imperfect"
+    },
+    {
+      "text": "Red Hulk, secretly General Thunderbolt Ross, first appeared in Hulk #1 (2008) by Jeph Loeb and Ed McGuinness, shocking readers who had known Ross as the Hulk's antagonist for decades.",
+      "source": "https://en.wikipedia.org/wiki/Red_Hulk%2C_secretly_General_Thunderbolt_Ross%2C_first"
+    },
+    {
+      "text": "Unlike the green Hulk, the Red Hulk grows hotter rather than stronger as he gets angrier, and he does not revert to human form when calmed — he retains Ross's intelligence at all times.",
+      "source": "https://en.wikipedia.org/wiki/Unlike_the"
+    },
+    {
+      "text": "Red Hulk defeated Thor in their first encounter by absorbing the power of Mjolnir, a controversial moment that demonstrated his unique energy-absorbing abilities.",
+      "source": "https://en.wikipedia.org/wiki/Red_Hulk"
+    },
+    {
+      "text": "Red She-Hulk, Betty Ross transformed by gamma radiation and the Leader's technology, first appeared in Hulk #15 (2009), adding another layer of tragedy to the Banner-Ross relationship.",
+      "source": "https://en.wikipedia.org/wiki/Red_She-Hulk%2C_Betty_Ross_transformed_by_gamma_radiation_and_the_Leader%27s_technology%2C_first"
+    },
+    {
+      "text": "A-Bomb is the gamma-mutated form of Rick Jones, who gained Abomination-like powers and served on the gamma hero team Agents of S.M.A.S.H.",
+      "source": "https://en.wikipedia.org/wiki/A-Bomb"
+    },
+    {
+      "text": "The Hulk has been depicted with varying levels of intelligence across different eras, from barely verbal in his Savage form to genius-level as Professor Hulk and World Breaker Hulk.",
+      "source": "https://en.wikipedia.org/wiki/Hulk"
+    },
+    {
+      "text": "World Breaker Hulk, the most powerful known incarnation, emerged during World War Hulk and could destroy planets with the shockwaves from his footsteps alone.",
+      "source": "https://en.wikipedia.org/wiki/World_Breaker_Hulk"
+    },
+    {
+      "text": "\"Hulk is Hulk.\" — One of the Savage Hulk's most simple yet profound self-declarations, reflecting his childlike search for identity and acceptance.",
+      "source": "https://en.wikipedia.org/wiki/Hulk_is_Hulk"
+    },
+    {
+      "text": "The Hulk has been an Avenger, a Defender, a Horseman of Apocalypse, a gladiator king, a Las Vegas bouncer, a professor, and a horror monster across different comic eras.",
+      "source": "https://en.wikipedia.org/wiki/Hulk"
+    },
+    {
+      "text": "Doc Samson, Leonard Samson, is a gamma-powered psychiatrist who gained superhuman strength from controlled gamma exposure while treating Bruce Banner, becoming both ally and rival.",
+      "source": "https://en.wikipedia.org/wiki/Doc_Samson%2C_Leonard_Samson"
+    },
+    {
+      "text": "In the comics, Doc Samson's strength is proportional to the length of his hair, a reference to the biblical Samson — when his hair is cut, he loses his power.",
+      "source": "https://en.wikipedia.org/wiki/In_the_comics%2C_Doc_Samson%27s_strength"
+    },
+    {
+      "text": "The Hulk's skin has been depicted as green, gray, red, blue, and even orange across various storylines and alternate universe versions.",
+      "source": "https://en.wikipedia.org/wiki/Hulk%27s_skin"
+    },
+    {
+      "text": "The Hulk possesses a powerful healing factor that allows him to regenerate from almost any injury, including having his skin completely stripped away.",
+      "source": "https://en.wikipedia.org/wiki/Hulk"
+    },
+    {
+      "text": "The Hulk can see astral forms and ghosts, a unique ability tied to gamma radiation's connection to the mystical Green Door in Marvel lore.",
+      "source": "https://en.wikipedia.org/wiki/Hulk"
+    },
+    {
+      "text": "\"We have a Hulk.\" — Tony Stark's confident reply to Loki's threats in The Avengers (2012), later echoed by Loki himself to Thanos in Avengers: Infinity War (2018).",
+      "source": "https://en.wikipedia.org/wiki/We_have_a_Hulk"
+    },
+    {
+      "text": "The Hulk once held tectonic plates together during an earthquake in Marvel Comics, preventing a catastrophic event through sheer physical strength.",
+      "source": "https://en.wikipedia.org/wiki/Hulk"
+    },
+    {
+      "text": "In Tales to Astonish #93 (1967), the Silver Surfer fought the Hulk in one of Marvel's earliest epic-scale battles between two cosmically powerful beings.",
+      "source": "https://en.wikipedia.org/wiki/In_Tales_to_Astonish"
+    },
+    {
+      "text": "The Hulk's iconic purple pants have been a running joke in comics — writers and artists have explained them as specially made stretchy material that Banner wears prophylactically.",
+      "source": "https://en.wikipedia.org/wiki/Hulk%27s_iconic_purple_pants"
+    },
+    {
+      "text": "\"The angrier I get, the stronger I get! I'm the strongest one there is!\" — Bruce Banner acknowledging the paradox of his curse being the source of his ultimate power.",
+      "source": "https://en.wikipedia.org/wiki/angrier_I_get%2C_the_stronger_I_get%21_I%27m_the_strongest_one_there_is"
+    },
+    {
+      "text": "The Hulk has traveled to other dimensions, planets, and even the microverse, demonstrating his importance as a cosmic-level character beyond just Earth-bound adventures.",
+      "source": "https://en.wikipedia.org/wiki/Hulk"
+    },
+    {
+      "text": "Thunderbolt Ross was named after General Zachary Taylor, whose nickname was \"Old Rough and Ready,\" reflecting Ross's tough military persona.",
+      "source": "https://en.wikipedia.org/wiki/Old_Rough_and_Ready"
+    },
+    {
+      "text": "Herb Trimpe was the primary artist on The Incredible Hulk for nearly a decade (1968–1975) and is credited with co-creating Wolverine alongside Len Wein.",
+      "source": "https://en.wikipedia.org/wiki/Herb_Trimpe"
+    },
+    {
+      "text": "Todd McFarlane drew The Incredible Hulk #330–346 (1987–1988), bringing his dynamic, detailed art style to the book before moving to Spider-Man.",
+      "source": "https://en.wikipedia.org/wiki/Todd_McFarlane"
+    },
+    {
+      "text": "Dale Keown's art on Incredible Hulk in the early 1990s, paired with Peter David's writing, produced some of the most visually stunning Hulk stories ever created.",
+      "source": "https://en.wikipedia.org/wiki/Dale_Keown%27s"
+    },
+    {
+      "text": "Gary Frank was the artist on Incredible Hulk during the late Peter David run, drawing the iconic Professor Hulk era with a realistic, detailed style.",
+      "source": "https://en.wikipedia.org/wiki/Gary_Frank"
+    },
+    {
+      "text": "\"Don't make me hungry. You wouldn't like me when I'm hungry.\" — The Hulk's humorous misquote in The Avengers (2012), when Banner claimed his secret to staying calm was that he was \"always hungry\" (deleted scene reference used in the film's marketing).",
+      "source": "https://en.wikipedia.org/wiki/Don%27t_make_me_hungry._You_wouldn%27t_like_me_when_I%27m_hungry"
+    },
+    {
+      "text": "The Hulk's first appearance in The Incredible Hulk #1 (1962) is one of the most valuable comic books in existence, with high-grade copies selling for hundreds of thousands of dollars.",
+      "source": "https://en.wikipedia.org/wiki/Hulk%27s_first_appearance_in_The_Incredible_Hulk_%231_(1962)"
+    },
+    {
+      "text": "The Incredible Hulk #181 (1974), featuring Wolverine's first full appearance, is one of the most sought-after Bronze Age comics, regularly selling for over $30,000 in high grade.",
+      "source": "https://en.wikipedia.org/wiki/Incredible_Hulk_%23181_(1974)%2C_featuring_Wolverine%27s_first_full_appearance"
+    },
+    {
+      "text": "The Hulk has clapped his hands together to create powerful shockwaves known as a \"thunderclap,\" capable of leveling buildings and deafening opponents.",
+      "source": "https://en.wikipedia.org/wiki/thunderclap"
+    },
+    {
+      "text": "In Marvel Comics, the Hulk can breathe underwater by expanding his lungs to hold massive amounts of air and by creating air pockets with underwater thunderclaps.",
+      "source": "https://en.wikipedia.org/wiki/In_Marvel_Comics"
+    },
+    {
+      "text": "The Hulk can leap incredible distances — his jumps have been measured at several miles in a single bound, effectively allowing him to travel across continents by leaping.",
+      "source": "https://en.wikipedia.org/wiki/Hulk_can_leap_incredible_distances_%E2%80%94_his_jumps"
+    },
+    {
+      "text": "\"HULK SMASH PUNY BANNER!\" — Savage Hulk's expression of his contempt for his human alter ego, reflecting the internal war between the two identities.",
+      "source": "https://en.wikipedia.org/wiki/HULK_SMASH_PUNY_BANNER"
+    },
+    {
+      "text": "The Gray Hulk (Joe Fixit) emerged at night, was weaker than the Green Hulk but far more cunning, and worked as an enforcer at a Las Vegas casino in the late 1980s comics.",
+      "source": "https://en.wikipedia.org/wiki/Gray_Hulk_(Joe_Fixit)_emerged_at_night"
+    },
+    {
+      "text": "Joe Fixit wore tailored suits and was known for his sarcastic wit, gambling habits, and willingness to use underhanded tactics — a stark contrast to the mindless Savage Hulk.",
+      "source": "https://en.wikipedia.org/wiki/Joe_Fixit_wore_tailored_suits_and"
+    },
+    {
+      "text": "The Hulk once punched through the time barrier in Incredible Hulk #135 (1971), a feat that demonstrated his strength extending to the metaphysical.",
+      "source": "https://en.wikipedia.org/wiki/Hulk"
+    },
+    {
+      "text": "In \"The End\" (Incredible Hulk: The End, 2002), Peter David wrote a story set in a post-apocalyptic future where the Hulk is the last living being on Earth, unable to die.",
+      "source": "https://en.wikipedia.org/wiki/End"
+    },
+    {
+      "text": "\"Banner weak! Hulk strong! Why Banner always come back?\" — The Savage Hulk's frustrated confusion at being unable to permanently suppress Bruce Banner.",
+      "source": "https://en.wikipedia.org/wiki/Banner_weak%21_Hulk_strong%21_Why_Banner_always_come_back"
+    },
+    {
+      "text": "The Hulk fought the U.S. Army so frequently in early comics that the military became one of the defining antagonist forces in his stories, predating many supervillain conflicts.",
+      "source": "https://en.wikipedia.org/wiki/Hulk_fought_the_U.S._Army_so_frequently_in_early_comics_that_the_military"
+    },
+    {
+      "text": "Glenn Talbot, a military officer and rival for Betty Ross's affections, was a recurring antagonist and tragic figure in Hulk comics throughout the 1960s and 1970s.",
+      "source": "https://en.wikipedia.org/wiki/Glenn_Talbot%2C_a_military_officer_and_rival_for_Betty_Ross%27s_affections"
+    },
+    {
+      "text": "Betty Ross died of radiation poisoning in Incredible Hulk #466 (1998), a storyline that was later retconned when she was revealed to have been poisoned by the Abomination.",
+      "source": "https://en.wikipedia.org/wiki/Betty_Ross_died_of_radiation_poisoning_in_Incredible_Hulk_%23466_(1998)%2C_a_storyline_that"
+    },
+    {
+      "text": "Bruce Banner and Betty Ross have one of the most tragic love stories in comics — repeatedly separated by Banner's transformations, military interference, and cosmic events.",
+      "source": "https://en.wikipedia.org/wiki/Bruce_Banner_and_Betty_Ross"
+    },
+    {
+      "text": "\"Please, Bruce... come back to me.\" — Betty Ross's repeated plea to bring Banner back from the Hulk's rage has been a recurring emotional beat across comics and films.",
+      "source": "https://www.youtube.com/results?search_query=The%20Hulk%20Please%2C%20Bruce...%20come%20back%20to%20me.%20live%20performance"
+    },
+    {
+      "text": "The Hulk has battled the Thing from the Fantastic Four numerous times, with their rivalry being one of Marvel's most enduring and debated strength matchups.",
+      "source": "https://en.wikipedia.org/wiki/Hulk"
+    },
+    {
+      "text": "The Hulk vs. Thing rivalry dates back to Fantastic Four #12 (1963) and #25–26 (1964), with the Hulk generally winning due to his escalating strength.",
+      "source": "https://en.wikipedia.org/wiki/Hulk_vs._Thing"
+    },
+    {
+      "text": "\"It's clobberin' time!\" meets \"Hulk smash!\" — The Thing vs. Hulk matchups are among the most anticipated crossover brawls in Marvel Comics history.",
+      "source": "https://en.wikipedia.org/wiki/It%27s_clobberin%27_time"
+    },
+    {
+      "text": "The Hulk has fought Thor more times than perhaps any other Marvel hero, with their battles serving as benchmarks for raw power in the Marvel Universe.",
+      "source": "https://en.wikipedia.org/wiki/Hulk"
+    },
+    {
+      "text": "In Hulk: Gray (2003), Jeph Loeb and Tim Sale retold the Hulk's origin with a focus on his relationship with Betty Ross, using a moody, atmospheric art style.",
+      "source": "https://en.wikipedia.org/wiki/In_Hulk:_Gray"
+    },
+    {
+      "text": "The Hulk transformation sequences in the 1978 TV series — with ripping shirts, growing muscles, and Lou Ferrigno's roar — became the template for every subsequent adaptation.",
+      "source": "https://en.wikipedia.org/wiki/Hulk"
+    },
+    {
+      "text": "Lou Ferrigno continued to voice the Hulk in MCU films through The Avengers (2012) and Avengers: Age of Ultron (2015) before the voice was fully rendered from Mark Ruffalo's performance.",
+      "source": "https://en.wikipedia.org/wiki/Avengers"
+    },
+    {
+      "text": "The Incredible Hulk TV series (1978–1982) produced 82 episodes across five seasons, making it one of the most successful Marvel live-action adaptations before the MCU era.",
+      "source": "https://en.wikipedia.org/wiki/Incredible_Hulk_TV"
+    },
+    {
+      "text": "Kenneth Johnson, the showrunner of the 1978 TV series, deliberately avoided using traditional comic book villains, instead grounding the show in more realistic threats and situations.",
+      "source": "https://en.wikipedia.org/wiki/Kenneth_Johnson"
+    },
+    {
+      "text": "The 1978 TV series' David Banner was a research scientist investigating human strength under stress, whose self-experimentation with gamma radiation triggered his transformations.",
+      "source": "https://en.wikipedia.org/wiki/1978_TV_series%27_David_Banner"
+    },
+    {
+      "text": "In the 1978 TV series finale movie The Death of the Incredible Hulk (1990), David Banner fell from an airplane and died, with the Hulk reverting to Banner upon impact — though a planned resurrection film was never made due to Bill Bixby's death.",
+      "source": "https://en.wikipedia.org/wiki/Incredible_Hulk"
+    },
+    {
+      "text": "Bill Bixby passed away from prostate cancer in November 1993, ending any possibility of future Incredible Hulk TV movies and leaving the franchise dormant until the 2003 film.",
+      "source": "https://en.wikipedia.org/wiki/Bill_Bixby"
+    },
+    {
+      "text": "Lou Ferrigno has remained deeply connected to the Hulk character, appearing at conventions, voicing the Hulk in animated series and video games, and serving as an ambassador for the character.",
+      "source": "https://en.wikipedia.org/wiki/Lou_Ferrigno"
+    },
+    {
+      "text": "\"You know, I know a few things about rage.\" — Mark Ruffalo's Bruce Banner relating to Scarlet Witch's anger in Avengers: Age of Ultron (2015).",
+      "source": "https://en.wikipedia.org/wiki/You_know%2C_I_know_a_few_things_about_rage"
+    },
+    {
+      "text": "The Hulk's gamma radiation origin was a product of Cold War anxiety, reflecting 1960s fears about nuclear weapons and the uncontrollable forces unleashed by atomic science.",
+      "source": "https://en.wikipedia.org/wiki/Hulk%27s_gamma_radiation_origin"
+    },
+    {
+      "text": "In early comics, the Hulk could only transform at night, similar to a werewolf — this was later changed to an emotional trigger, specifically anger and stress.",
+      "source": "https://en.wikipedia.org/wiki/In_early_comics%2C_the_Hulk_could_only_transform_at_night%2C_similar_to_a_werewolf_%E2%80%94_this"
+    },
+    {
+      "text": "The Hulk was initially depicted as speaking in complete sentences with reasonable intelligence before evolving into the more familiar \"Hulk smash\" simplified speech patterns.",
+      "source": "https://en.wikipedia.org/wiki/Hulk_smash"
+    },
+    {
+      "text": "Tales to Astonish featured the Hulk as a backup story starting with issue #60 (1964), eventually becoming the character's primary book and later being renamed to The Incredible Hulk with issue #102.",
+      "source": "https://en.wikipedia.org/wiki/Tales_to_Astonish"
+    },
+    {
+      "text": "\"I'm not afraid of you, Banner. I'm afraid of what you'll unleash.\" — A sentiment expressed by various characters acknowledging that the Hulk is far more dangerous than any weapon.",
+      "source": "https://en.wikipedia.org/wiki/I%27m_not_afraid_of_you%2C_Banner._I%27m_afraid_of_what_you%27ll_unleash"
+    },
+    {
+      "text": "The Hulk once destroyed an asteroid twice the size of Earth with a single punch in Marvel Comics, demonstrating planet-busting levels of strength.",
+      "source": "https://en.wikipedia.org/wiki/Hulk"
+    },
+    {
+      "text": "In The Incredible Hulk #340 (1988), Todd McFarlane drew one of the most iconic Hulk covers ever — a close-up of Wolverine reflected in the Hulk's eye.",
+      "source": "https://en.wikipedia.org/wiki/In_The_Incredible_Hulk"
+    },
+    {
+      "text": "The Hulk's blood is green in some depictions, and a single drop of it contains enough gamma radiation to be hazardous, which is how She-Hulk gained her powers.",
+      "source": "https://en.wikipedia.org/wiki/Hulk%27s_blood"
+    },
+    {
+      "text": "In the comics, the Hulk can see and hear across the electromagnetic spectrum and can detect mystical energy, making him nearly impossible to ambush or deceive.",
+      "source": "https://en.wikipedia.org/wiki/In_the"
+    },
+    {
+      "text": "The Hulk has adapted to survive in the vacuum of space for extended periods, though he still needs to hold his breath and cannot survive indefinitely without air.",
+      "source": "https://en.wikipedia.org/wiki/Hulk"
+    },
+    {
+      "text": "\"You want to know my secret, Nick? You want to know how I stay calm?\" — Bruce Banner's loaded question to Nick Fury on the Helicarrier in The Avengers (2012), hinting he was always on the edge.",
+      "source": "https://en.wikipedia.org/wiki/You_want_to_know_my_secret%2C_Nick%3F_You_want_to_know_how_I_stay_calm"
+    },
+    {
+      "text": "The Hulk's foot has been described as capable of generating an earthquake registering 6.0 or higher on the Richter scale just by stomping the ground.",
+      "source": "https://en.wikipedia.org/wiki/Hulk%27s_foot"
+    },
+    {
+      "text": "Banner's genius-level intellect makes him one of the top five scientific minds in the Marvel Universe alongside Tony Stark, Reed Richards, Hank Pym, and T'Challa.",
+      "source": "https://en.wikipedia.org/wiki/Marvel_Universe"
+    },
+    {
+      "text": "In the Ultimate Marvel universe (Earth-1610), the Hulk was depicted as far more savage and dangerous, even engaging in cannibalism, presenting a grittier take on the character.",
+      "source": "https://en.wikipedia.org/wiki/In_the_Ultimate_Marvel_universe_(Earth-1610)%2C_the_Hulk"
+    },
+    {
+      "text": "Ultimate Hulk was created by writer Mark Millar and artist Bryan Hitch in The Ultimates (2002), with Banner deliberately recreating the Super Soldier Serum using gamma radiation.",
+      "source": "https://en.wikipedia.org/wiki/Ultimates"
+    },
+    {
+      "text": "\"Hulk will smash until nothing is left.\" — A declaration from the comics that underscores the Hulk's capacity for total destruction when fully unleashed.",
+      "source": "https://en.wikipedia.org/wiki/Hulk_will_smash_until_nothing_is_left"
+    },
+    {
+      "text": "In the Incredible Hulk animated series (1996–1997), the show explored the Gray Hulk and multiple personality angles that Peter David had developed in the comics.",
+      "source": "https://en.wikipedia.org/wiki/In_the_Incredible_Hulk"
+    },
+    {
+      "text": "The Hulk has appeared in numerous Marvel video games, including Marvel vs. Capcom, LEGO Marvel, Marvel's Avengers (2020), and his own dedicated titles like Hulk: Ultimate Destruction (2005).",
+      "source": "https://en.wikipedia.org/wiki/Capcom%2C_LEGO_Marvel%2C_Marvel%27s_Avengers"
+    },
+    {
+      "text": "Hulk: Ultimate Destruction (2005) for PS2 and Xbox is widely considered the best Hulk video game ever made, with its open-world destruction mechanics becoming a template for later superhero games.",
+      "source": "https://en.wikipedia.org/wiki/Hulk:_Ultimate_Destruction"
+    },
+    {
+      "text": "\"Banner is the cage. Hulk is what's inside.\" — A metaphor used in multiple comic runs to describe the relationship between the scientist and the monster.",
+      "source": "https://en.wikipedia.org/wiki/Banner_is_the_cage._Hulk_is_what%27s_inside"
+    },
+    {
+      "text": "The Hulk was originally created during the same era as the Fantastic Four, Spider-Man, and the X-Men, making him one of Marvel's foundational Silver Age characters.",
+      "source": "https://en.wikipedia.org/wiki/Hulk"
+    },
+    {
+      "text": "In Avengers #1 (1963), the Avengers formed specifically to combat the Hulk after Loki manipulated him into going on a rampage, making the Hulk the team's first threat and member simultaneously.",
+      "source": "https://en.wikipedia.org/wiki/In_Avengers_%231_(1963)%2C_the_Avengers"
+    },
+    {
+      "text": "The Hulk quit the Avengers in Avengers #2 (1963) after sensing the other members feared and distrusted him, setting a pattern of isolation that would define the character.",
+      "source": "https://en.wikipedia.org/wiki/Hulk"
+    },
+    {
+      "text": "\"Every time I lose control, people get hurt. Every time.\" — Bruce Banner expressing his constant guilt and fear of the Hulk's destructive potential in multiple adaptations.",
+      "source": "https://en.wikipedia.org/wiki/Every_time_I_lose_control%2C_people_get_hurt._Every_time"
+    },
+    {
+      "text": "The Hulk's relationship with the military-industrial complex serves as a metaphor for the government's desire to weaponize uncontrollable forces of nature.",
+      "source": "https://en.wikipedia.org/wiki/Hulk%27s"
+    },
+    {
+      "text": "In the 2003 Hulk film, the Hulk was depicted with the ability to grow larger as he got angrier, with the CGI character reaching heights of over 15 feet in some scenes.",
+      "source": "https://en.wikipedia.org/wiki/In_the_2003_Hulk_film%2C_the_Hulk"
+    },
+    {
+      "text": "Ang Lee portrayed the gamma-irradiated poodles — mutant dogs sent to attack Betty Ross — in his 2003 Hulk film, a scene that was widely criticized as unintentionally comedic.",
+      "source": "https://en.wikipedia.org/wiki/Ang_Lee"
+    },
+    {
+      "text": "The 2008 Incredible Hulk film featured a university campus battle sequence in Harlem that was more action-oriented than Ang Lee's contemplative 2003 approach, signaling the MCU's blockbuster direction.",
+      "source": "https://en.wikipedia.org/wiki/2008_Incredible_Hulk_film_featured_a_university_campus_battle_sequence_in_Harlem_that"
+    },
+    {
+      "text": "In The Incredible Hulk (2008), Bruce Banner communicates online with a mysterious scientist known as \"Mr. Blue,\" later revealed to be Samuel Sterns, who would become the Leader.",
+      "source": "https://en.wikipedia.org/wiki/Mr._Blue"
+    },
+    {
+      "text": "Tim Blake Nelson played Samuel Sterns in The Incredible Hulk (2008), and was shown being exposed to Banner's blood, setting up a Leader transformation that would not be realized until Captain America: Brave New World (2025).",
+      "source": "https://en.wikipedia.org/wiki/Incredible_Hulk"
+    },
+    {
+      "text": "\"I could choke the life out of you and never change a shade.\" — Bruce Banner's chilling threat to General Ross in The Incredible Hulk (2008), showing Banner could kill without the Hulk if pushed far enough.",
+      "source": "https://en.wikipedia.org/wiki/I_could_choke_the_life_out_of_you_and_never_change_a_shade"
+    },
+    {
+      "text": "The Hulk's CGI model in The Avengers (2012) was based on Mark Ruffalo's facial features, making the Hulk look like a green, muscular version of the actor for the first time.",
+      "source": "https://en.wikipedia.org/wiki/Avengers"
+    },
+    {
+      "text": "ILM used 30% more muscle mass on the Hulk's digital model for each subsequent MCU film, reflecting the character's growth in both power and screen presence.",
+      "source": "https://en.wikipedia.org/wiki/Hulk"
+    },
+    {
+      "text": "In Avengers: Age of Ultron (2015), the Hulk pilots a Quinjet into the upper atmosphere and disappears, refusing to endanger others by remaining on Earth.",
+      "source": "https://en.wikipedia.org/wiki/Ultron"
+    },
+    {
+      "text": "\"I've got eleven PhDs.\" — Bruce Banner reminding people of his intellectual credentials in conversation, contrasting with his monstrous alter ego.",
+      "source": "https://en.wikipedia.org/wiki/I%27ve_got_eleven_PhDs"
+    },
+    {
+      "text": "The Hulk was absent from Captain America: Civil War (2016) because the Russo Brothers felt including him would tip the balance too far in either direction.",
+      "source": "https://en.wikipedia.org/wiki/Captain_America:_Civil_War"
+    },
+    {
+      "text": "Thor: Ragnarok (2017) director Taika Waititi used the Hulk's two-year stint on Sakaar to develop the character's personality, giving him childlike speech and emotional development.",
+      "source": "https://en.wikipedia.org/wiki/Thor:_Ragnarok"
+    },
+    {
+      "text": "On Sakaar, the Hulk had his own luxury suite, groupies, and was treated as a celebrity champion — the first time he had ever been celebrated rather than hunted.",
+      "source": "https://en.wikipedia.org/wiki/On_Sakaar%2C_the_Hulk"
+    },
+    {
+      "text": "\"Hulk like fire. Thor like water.\" — The Hulk's attempt at describing his and Thor's complementary dynamic in Thor: Ragnarok (2017).",
+      "source": "https://en.wikipedia.org/wiki/Hulk_like_fire._Thor_like_water"
+    },
+    {
+      "text": "\"Friend?\" — The Hulk's simple question to Thor on Sakaar, revealing his deep-seated need for acceptance and companionship despite his violent nature.",
+      "source": "https://en.wikipedia.org/wiki/Friend"
+    },
+    {
+      "text": "The Hulk refused to emerge during Avengers: Infinity War (2018) after being beaten by Thanos, marking the first time in the MCU that the Hulk displayed what appeared to be fear or resistance.",
+      "source": "https://en.wikipedia.org/wiki/Avengers:_Infinity_War"
+    },
+    {
+      "text": "Bruce Banner had to fight in the Hulkbuster armor during the Battle of Wakanda in Avengers: Infinity War because the Hulk refused to come out, creating a comedic and dramatic reversal.",
+      "source": "https://en.wikipedia.org/wiki/Bruce_Banner"
+    },
+    {
+      "text": "\"Come on, Hulk, what are you doing to me? Come out!\" — Bruce Banner desperately pleading with his alter ego to emerge during Avengers: Infinity War (2018).",
+      "source": "https://en.wikipedia.org/wiki/Come_on%2C_Hulk%2C_what_are_you_doing_to_me%3F_Come_out"
+    },
+    {
+      "text": "The five-year time jump in Avengers: Endgame allowed Banner to develop Professor Hulk offscreen, merging his personas during 18 months in a gamma lab.",
+      "source": "https://en.wikipedia.org/wiki/Avengers:_Endgame"
+    },
+    {
+      "text": "\"For five years, I've been treating the Hulk like he's some kind of disease, something to get rid of. But then I started looking at him as the cure.\" — Professor Hulk in Avengers: Endgame.",
+      "source": "https://en.wikipedia.org/wiki/Professor_Hulk_in_Avengers:_Endgame"
+    },
+    {
+      "text": "Professor Hulk's diner scene in Avengers: Endgame, where he awkwardly takes selfies with children while Scott Lang looks on in confusion, was a comedic highlight of the film.",
+      "source": "https://en.wikipedia.org/wiki/Professor_Hulk%27s_diner_scene_in_Avengers:_Endgame%2C_where_he_awkwardly"
+    },
+    {
+      "text": "\"Dab!\" — Professor Hulk's playful instruction to kids wanting a photo in Avengers: Endgame, showcasing how different this version was from the raging monster audiences knew.",
+      "source": "https://en.wikipedia.org/wiki/Dab"
+    },
+    {
+      "text": "In Shang-Chi and the Legend of the Ten Rings (2021), Bruce Banner appeared in human form during the post-credits scene, having somehow separated from the Hulk again.",
+      "source": "https://en.wikipedia.org/wiki/Ten_Rings"
+    },
+    {
+      "text": "The Hulk's Marvel Comics enemies include the Abomination, the Leader, Absorbing Man, Bi-Beast, the U-Foes, Zzzax, Tyrannus, and the Wendigo.",
+      "source": "https://en.wikipedia.org/wiki/Hulk%27s_Marvel_Comics"
+    },
+    {
+      "text": "Zzzax is a creature composed of pure electrical energy that was created by an accident at a nuclear power plant and has fought the Hulk multiple times.",
+      "source": "https://en.wikipedia.org/wiki/Zzzax"
+    },
+    {
+      "text": "The U-Foes — Vector, Vapor, X-Ray, and Ironclad — attempted to recreate the Fantastic Four's cosmic ray origin but went wrong, blaming the Hulk for their twisted powers.",
+      "source": "https://en.wikipedia.org/wiki/U-Foes"
+    },
+    {
+      "text": "The Bi-Beast is a two-headed android originally created by an extinct race of Avian humanoids, possessing vast knowledge in its upper head and warfare skills in its lower.",
+      "source": "https://en.wikipedia.org/wiki/Bi-Beast"
+    },
+    {
+      "text": "The Wendigo is a supernatural creature from Canadian folklore that appears in Marvel Comics as a cannibal cursed with bestial transformation — its first battle with the Hulk appeared in Incredible Hulk #162 (1973).",
+      "source": "https://en.wikipedia.org/wiki/Wendigo"
+    },
+    {
+      "text": "The Hulk and Wolverine's first encounter, which also introduced the Wendigo, is considered one of the most significant Marvel Comics stories of the Bronze Age.",
+      "source": "https://en.wikipedia.org/wiki/Hulk_and_Wolverine%27s_first_encounter%2C_which_also"
+    },
+    {
+      "text": "\"Hulk not monster. Hulk just wants to be left alone.\" — The Savage Hulk's constant plea for solitude reflects the character's core tragedy: a being who wants peace but attracts violence.",
+      "source": "https://en.wikipedia.org/wiki/Hulk_not_monster._Hulk_just_wants_to_be_left_alone"
+    },
+    {
+      "text": "The Hulk has knocked out the cosmically powered Sentry in their legendary fight during World War Hulk, with the impact of their blows reverting both to human form.",
+      "source": "https://en.wikipedia.org/wiki/Hulk"
+    },
+    {
+      "text": "Robert Reynolds (the Sentry), considered Marvel's most powerful hero at his peak, fought the Hulk to a standstill in World War Hulk — one of the most debated fights in Marvel history.",
+      "source": "https://en.wikipedia.org/wiki/Robert_Reynolds"
+    },
+    {
+      "text": "In Incredible Hulk #300 (1984), Doctor Strange banished the Hulk to the Crossroads, an interdimensional nexus point, when the Hulk's mindless rampaging could no longer be contained on Earth.",
+      "source": "https://en.wikipedia.org/wiki/In_Incredible_Hulk"
+    },
+    {
+      "text": "The Crossroads dimension served as Banner's exile in the mid-1980s, with the Hulk traveling through different alien worlds in a cosmic odyssey.",
+      "source": "https://en.wikipedia.org/wiki/Crossroads"
+    },
+    {
+      "text": "\"You're not going to like what comes after.\" — Bruce Banner warning those who threaten him, a modern variation on his classic anger warning.",
+      "source": "https://en.wikipedia.org/wiki/You%27re_not_going_to_like_what_comes_after"
+    },
+    {
+      "text": "The Hulk once supported the weight of a star in the comic series, showcasing strength levels that rival cosmic entities.",
+      "source": "https://en.wikipedia.org/wiki/Hulk"
+    },
+    {
+      "text": "Amadeus Cho, a Korean-American teen genius, became the Totally Awesome Hulk in 2015 after absorbing the Hulk's gamma radiation, bringing youthful enthusiasm to the role.",
+      "source": "https://en.wikipedia.org/wiki/Amadeus_Cho%2C_a_Korean-American_teen_genius"
+    },
+    {
+      "text": "Amadeus Cho was the seventh-smartest person in the Marvel Universe, making his version of the Hulk uniquely capable of using brains and brawn simultaneously.",
+      "source": "https://en.wikipedia.org/wiki/Amadeus_Cho"
+    },
+    {
+      "text": "Greg Pak created Amadeus Cho and wrote both Planet Hulk and World War Hulk, becoming one of the most important Hulk writers of the 2000s.",
+      "source": "https://en.wikipedia.org/wiki/Greg_Pak"
+    },
+    {
+      "text": "In the comics, the Hulk has resisted telepathic control from powerful minds including Professor X, Emma Frost, and even cosmic entities, due to his multiple personalities acting as a natural defense.",
+      "source": "https://en.wikipedia.org/wiki/In_the_comics%2C_the_Hulk"
+    },
+    {
+      "text": "\"You break worlds. You don't bother to think about what you're breaking.\" — She-Hulk confronting the Hulk about the collateral damage his rampages cause.",
+      "source": "https://en.wikipedia.org/wiki/You_break_worlds._You_don%27t_bother_to_think_about_what_you%27re_breaking"
+    },
+    {
+      "text": "The Hulk has survived being at ground zero of nuclear explosions multiple times, absorbing the radiation and becoming even stronger.",
+      "source": "https://en.wikipedia.org/wiki/Hulk"
+    },
+    {
+      "text": "In Incredible Hulk #393 (1992), the Hulk attended a support group for people with AIDS, a groundbreaking issue for mainstream comics dealing with real-world health crises.",
+      "source": "https://en.wikipedia.org/wiki/In_Incredible_Hulk"
+    },
+    {
+      "text": "The Pantheon, a secret organization led by the immortal Agamemnon, employed the Hulk as an operative in Peter David's run, giving the character a more structured heroic role.",
+      "source": "https://en.wikipedia.org/wiki/Pantheon"
+    },
+    {
+      "text": "\"Do you want to know a secret? Sometimes I want to destroy everything I see. I want to smash the whole world.\" — A confession from Banner reflecting his darkest impulses.",
+      "source": "https://en.wikipedia.org/wiki/Sometimes_I"
+    },
+    {
+      "text": "Jarella, a queen from the sub-atomic world of K'ai, was one of the Hulk's most beloved love interests, and her death in Incredible Hulk #205 (1976) remains one of his most heartbreaking moments.",
+      "source": "https://en.wikipedia.org/wiki/Jarella%2C_a_queen_from_the_sub-atomic_world_of_K%27ai"
+    },
+    {
+      "text": "The Hulk once carried Jarella's body across dimensions to bury her on her homeworld, a poignant scene that revealed the depth of emotion beneath the monster's rage.",
+      "source": "https://en.wikipedia.org/wiki/Hulk"
+    },
+    {
+      "text": "In the 2003 Hulk film, the gamma-irradiated Absorbing Man abilities were given to David Banner (Nick Nolte), who could absorb the properties of any material he touched.",
+      "source": "https://en.wikipedia.org/wiki/In_the_2003_Hulk_film%2C_the_gamma-irradiated_Absorbing_Man_abilities"
+    },
+    {
+      "text": "The Incredible Hulk (2008) grossed $264 million worldwide, making it the lowest-grossing MCU film at the time, though it was still considered profitable.",
+      "source": "https://en.wikipedia.org/wiki/Incredible_Hulk"
+    },
+    {
+      "text": "Edward Norton's reputation for being difficult and wanting creative control was a significant factor in Marvel's decision to recast the role with Mark Ruffalo.",
+      "source": "https://en.wikipedia.org/wiki/Edward_Norton%27s_reputation_for_being_difficult_and_wanting_creative_control"
+    },
+    {
+      "text": "\"Let me put it this way: the kid is all grown up, and he's not afraid of you anymore.\" — Bruce Banner confronting his abusive father in Incredible Hulk #377 (1991).",
+      "source": "https://en.wikipedia.org/wiki/Let_me_put_it_this_way:_the_kid_is_all_grown_up%2C_and_he%27s_not_afraid_of_you_anymore"
+    },
+    {
+      "text": "The Hulk's childlike Savage persona has been interpreted by psychologists as representing Bruce Banner's inner child, frozen in a state of rage and fear from his abusive upbringing.",
+      "source": "https://en.wikipedia.org/wiki/Hulk%27s_childlike_Savage_persona"
+    },
+    {
+      "text": "The concept of Dissociative Identity Disorder (DID) became central to the Hulk's characterization under Peter David, with the various Hulk personas representing fragmented aspects of Banner's psyche.",
+      "source": "https://en.wikipedia.org/wiki/concept_of_Dissociative_Identity_Disorder_(DID)"
+    },
+    {
+      "text": "In the Immortal Hulk series, Bruce Banner is shot and killed in the first issue, only to resurrect at nightfall as the Devil Hulk — establishing the horror tone for the entire run.",
+      "source": "https://en.wikipedia.org/wiki/In_the_Immortal_Hulk_series%2C_Bruce_Banner"
+    },
+    {
+      "text": "The Devil Hulk in Immortal Hulk had reptilian features including a ridge-like brow and scaled skin, making him visually distinct from previous Hulk incarnations.",
+      "source": "https://en.wikipedia.org/wiki/Devil_Hulk_in_Immortal_Hulk"
+    },
+    {
+      "text": "\"I am not the Hulk you know.\" — The Devil Hulk's declaration in Immortal Hulk, announcing a fundamentally different and more terrifying version of the character.",
+      "source": "https://en.wikipedia.org/wiki/I_am_not_the_Hulk_you_know"
+    },
+    {
+      "text": "Immortal Hulk issue #13 featured a scene where the Hulk was dissected alive by Shadow Base scientists, only to regenerate in increasingly grotesque ways — embodying body horror.",
+      "source": "https://en.wikipedia.org/wiki/Immortal_Hulk_issue_%2313_featured_a_scene_where_the_Hulk"
+    },
+    {
+      "text": "Shadow Base, the secret government organization in Immortal Hulk, experimented on gamma mutates using horrifying methods under the command of General Fortean, a spiritual successor to Thunderbolt Ross.",
+      "source": "https://en.wikipedia.org/wiki/Shadow_Base"
+    },
+    {
+      "text": "The Hulk once punched through a dimension in the comics, tearing a hole in the fabric of reality with sheer physical force.",
+      "source": "https://en.wikipedia.org/wiki/Hulk"
+    },
+    {
+      "text": "\"You don't understand. I'm not locked in here with you. You're locked in here with me.\" — A sentiment echoed in Hulk stories where adversaries underestimate what they're facing.",
+      "source": "https://en.wikipedia.org/wiki/You_don%27t_understand._I%27m_not_locked_in_here_with_you._You%27re_locked_in_here_with_me"
+    },
+    {
+      "text": "In the comics, the Hulk has been a member of the Secret Avengers, New Avengers, and even briefly joined the Fantastic Four as a replacement for the Thing.",
+      "source": "https://en.wikipedia.org/wiki/In_the_comics%2C_the_Hulk"
+    },
+    {
+      "text": "The Indestructible Hulk (2012–2014) by Mark Waid took a fresh approach by having Bruce Banner work for S.H.I.E.L.D., using his genius for beneficial science while deploying the Hulk as a weapon.",
+      "source": "https://en.wikipedia.org/wiki/Indestructible_Hulk_(2012%E2%80%932014)_by_Mark_Waid"
+    },
+    {
+      "text": "\"Banner builds. Hulk destroys.\" — The premise of Mark Waid's Indestructible Hulk, which finally let Banner contribute to society with his intellect between Hulk incidents.",
+      "source": "https://en.wikipedia.org/wiki/Banner_builds._Hulk_destroys"
+    },
+    {
+      "text": "In the What If? comic series, alternative versions of the Hulk have included scenarios where Banner became a barbarian king, a mindless beast permanently, and even a version where Betty became the Hulk.",
+      "source": "https://en.wikipedia.org/wiki/In_the_What_If%3F_comic_series%2C_alternative_versions_of_the_Hulk"
+    },
+    {
+      "text": "The Hulk's gamma radiation has been established in Marvel lore as being connected to magic, death, and the Below-Place — a metaphysical realm at the bottom of reality.",
+      "source": "https://en.wikipedia.org/wiki/Hulk%27s_gamma_radiation"
+    },
+    {
+      "text": "In the comic Civil War II (2016), Hawkeye killed Bruce Banner with a special arrow after the Inhuman precog Ulysses predicted the Hulk would go on a devastating rampage.",
+      "source": "https://en.wikipedia.org/wiki/Civil_War_II"
+    },
+    {
+      "text": "Bruce Banner had given Hawkeye a special arrowhead designed to kill him if the Hulk ever became too great a threat, showing Banner's constant awareness of the danger he poses.",
+      "source": "https://en.wikipedia.org/wiki/Bruce_Banner"
+    },
+    {
+      "text": "\"I asked Clint to do it. If it ever came to it. I gave him the arrow.\" — Bruce Banner's contingency plan revealed posthumously in Civil War II.",
+      "source": "https://en.wikipedia.org/wiki/I_asked_Clint_to_do_it._If_it_ever_came_to_it._I_gave_him_the_arrow"
+    },
+    {
+      "text": "The Hulk's catchphrase \"Hulk smash\" has been referenced in films, television, music, and everyday language, making it one of the most universally recognized superhero phrases.",
+      "source": "https://www.youtube.com/results?search_query=The%20Hulk%20Hulk%20smash%20live%20performance"
+    },
+    {
+      "text": "In Marvel Comics, the Hulk once punched through the space-time continuum, something that even the most powerful cosmic beings have difficulty achieving.",
+      "source": "https://en.wikipedia.org/wiki/In_Marvel_Comics"
+    },
+    {
+      "text": "The Hulk has been featured on merchandise, clothing, lunchboxes, Halloween costumes, and toys continuously since the 1970s, making him one of Marvel's most commercially valuable characters.",
+      "source": "https://en.wikipedia.org/wiki/Hulk"
+    },
+    {
+      "text": "Hulk Hogan, the professional wrestler, partially derives his ring name from the Incredible Hulk — his managers reportedly told him to \"hulk up\" during matches.",
+      "source": "https://en.wikipedia.org/wiki/hulk_up"
+    },
+    {
+      "text": "\"Hulk want to be left alone!\" — Perhaps the Savage Hulk's most frequent demand, reflecting a Frankenstein's Monster-like desire for solitude amid a world that fears him.",
+      "source": "https://en.wikipedia.org/wiki/Hulk_want_to_be_left_alone"
+    },
+    {
+      "text": "The Hulk has been adapted into Broadway-style segments, theme park attractions (including the Incredible Hulk Coaster at Universal's Islands of Adventure), and live arena shows.",
+      "source": "https://en.wikipedia.org/wiki/Hulk"
+    },
+    {
+      "text": "The Incredible Hulk Coaster at Universal's Islands of Adventure in Orlando, Florida, launches riders from 0 to 40 mph in two seconds, simulating a gamma-radiation transformation.",
+      "source": "https://en.wikipedia.org/wiki/Incredible_Hulk_Coaster_at_Universal%27s_Islands_of"
+    },
+    {
+      "text": "In Marvel Comics, Bruce Banner invented a device called the Gammatron that could absorb and redirect gamma radiation, one of his many contributions alongside the gamma bomb.",
+      "source": "https://en.wikipedia.org/wiki/In_Marvel_Comics%2C_Bruce_Banner"
+    },
+    {
+      "text": "\"I don't think we should be focusing on Loki. That guy's brain is a bag full of cats.\" — Bruce Banner's memorable assessment of Loki's mental state in The Avengers (2012).",
+      "source": "https://www.youtube.com/results?search_query=The%20Hulk%20I%20don%27t%20think%20we%20should%20be%20focusing%20on%20Loki.%20That%20guy%27s%20brain%20is%20a%20bag%20full%20of%20cats.%20live%20performance"
+    },
+    {
+      "text": "The Hulk fought Fin Fang Foom, a massive dragon-like alien, in several classic comics encounters that showcased the Hulk's ability to fight opponents many times his size.",
+      "source": "https://en.wikipedia.org/wiki/Hulk"
+    },
+    {
+      "text": "Thunderbolt Ross was promoted to President of the United States in Marvel Comics, adding political power to his already formidable military authority as the Red Hulk.",
+      "source": "https://en.wikipedia.org/wiki/Thunderbolt_Ross"
+    },
+    {
+      "text": "The Hulk's gamma radiation has been used in Marvel lore to explain a wide variety of transformations, from the Abomination to the Leader to the Harpy (Betty Ross's temporary bird-like form).",
+      "source": "https://en.wikipedia.org/wiki/Hulk%27s_gamma_radiation"
+    },
+    {
+      "text": "In the 1980s, the Hulk was briefly intelligent and controlled by Dr. Strange's magic, serving on the Defenders as a more stable team member.",
+      "source": "https://en.wikipedia.org/wiki/In_the_1980s%2C_the_Hulk"
+    },
+    {
+      "text": "\"The Hulk is not a disease. He's the immune system.\" — A perspective on the Hulk as Bruce Banner's ultimate survival mechanism rather than a curse.",
+      "source": "https://en.wikipedia.org/wiki/Hulk_is_not_a_disease._He%27s_the_immune_system"
+    },
+    {
+      "text": "The Hulk has crossed over with DC Comics in several official publications, fighting Superman in Marvel vs. DC (1996) and teaming up with Batman in special crossover editions.",
+      "source": "https://en.wikipedia.org/wiki/DC"
+    },
+    {
+      "text": "In the Marvel vs. DC crossover, Superman defeated the Hulk in a controversial fan-voted outcome that remains debated among comic book fans to this day.",
+      "source": "https://en.wikipedia.org/wiki/In_the_Marvel_vs._DC"
+    },
+    {
+      "text": "The Hulk's relationship with Thor has evolved from pure rivalry to grudging friendship across decades of comics and was cemented as a buddy dynamic in Thor: Ragnarok.",
+      "source": "https://en.wikipedia.org/wiki/Hulk%27s_relationship_with_Thor"
+    },
+    {
+      "text": "\"Point Break\" — Tony Stark's nickname for Thor in The Avengers (2012) was referenced alongside the Hulk-Thor dynamic throughout the MCU.",
+      "source": "https://en.wikipedia.org/wiki/Point_Break"
+    },
+    {
+      "text": "The Revengers, the temporary team in Thor: Ragnarok, featured Thor, the Hulk, Valkyrie, and Korg — a ragtag group that became a fan-favorite ensemble.",
+      "source": "https://en.wikipedia.org/wiki/Revengers"
+    },
+    {
+      "text": "Korg, the Kronan gladiator voiced by Taika Waititi in Thor: Ragnarok, became a breakout character partly through his interactions with the Hulk on Sakaar.",
+      "source": "https://en.wikipedia.org/wiki/Korg%2C_the_Kronan_gladiator_voiced_by_Taika_Waititi_in_Thor:_Ragnarok"
+    },
+    {
+      "text": "\"Hey, big guy. The sun's getting real low.\" — Black Widow's lullaby used to calm the Hulk, a technique rooted in establishing trust and emotional connection.",
+      "source": "https://www.youtube.com/results?search_query=The%20Hulk%20Hey%2C%20big%20guy.%20The%20sun%27s%20getting%20real%20low.%20live%20performance"
+    },
+    {
+      "text": "In the comics, the Hulk once lifted Mjolnir in a non-canonical storyline, though canonically he has been deemed unworthy of lifting Thor's enchanted hammer.",
+      "source": "https://en.wikipedia.org/wiki/In_the"
+    },
+    {
+      "text": "The Hulk's adamantium resistance has been tested multiple times against Wolverine's claws, with the Hulk's healing factor and dense tissue making him nearly impervious to even the sharpest metal.",
+      "source": "https://en.wikipedia.org/wiki/Hulk%27s_adamantium_resistance"
+    },
+    {
+      "text": "\"Don't mention puny Banner to Hulk!\" — The Savage Hulk's contempt for his human form, treating Banner as a separate and inferior being.",
+      "source": "https://en.wikipedia.org/wiki/Don%27t_mention_puny_Banner_to_Hulk"
+    },
+    {
+      "text": "Incredible Hulk #181 introduced Wolverine as a Canadian government operative sent to neutralize both the Hulk and the Wendigo, creating one of comics' most famous debut issues.",
+      "source": "https://en.wikipedia.org/wiki/Incredible_Hulk_%23181"
+    },
+    {
+      "text": "The Hulk's battle with the Abomination in Tales to Astonish #91 (1967) established Emil Blonsky as someone who was permanently transformed, unlike Banner who could revert to human form.",
+      "source": "https://en.wikipedia.org/wiki/Hulk%27s"
+    },
+    {
+      "text": "The Abomination was once twice as strong as the Hulk's calm state but could not grow stronger through anger, meaning the Hulk always exceeded him in prolonged fights.",
+      "source": "https://en.wikipedia.org/wiki/Abomination"
+    },
+    {
+      "text": "Tim Roth's portrayal of Emil Blonsky in The Incredible Hulk (2008) depicted him as a career soldier addicted to the thrill of combat, willing to undergo gamma treatment to fight the Hulk.",
+      "source": "https://en.wikipedia.org/wiki/Incredible_Hulk"
+    },
+    {
+      "text": "Tim Roth reprised the role of Abomination in Shang-Chi and the Legend of the Ten Rings (2021) and She-Hulk: Attorney at Law (2022), showing a reformed Blonsky.",
+      "source": "https://en.wikipedia.org/wiki/Ten_Rings"
+    },
+    {
+      "text": "\"Is that all you've got?\" — Emil Blonsky's taunt to the Hulk before their first confrontation in The Incredible Hulk (2008), moments before being severely injured.",
+      "source": "https://en.wikipedia.org/wiki/Is_that_all_you%27ve_got"
+    },
+    {
+      "text": "The Leader, Samuel Sterns, developed extreme mental powers including telekinesis, telepathy, and genius-level intellect after being exposed to gamma radiation — becoming the Hulk's intellectual nemesis.",
+      "source": "https://en.wikipedia.org/wiki/Leader%2C_Samuel_Sterns"
+    },
+    {
+      "text": "In the comics, the Leader has used his genius to create humanoid constructs, giant robots, and elaborate schemes to conquer the world, always opposed by the Hulk.",
+      "source": "https://en.wikipedia.org/wiki/In_the_comics%2C_the_Leader"
+    },
+    {
+      "text": "The Hulk has been depicted in Japanese manga-inspired styles in some Marvel publications, reflecting his global pop culture reach beyond Western comics.",
+      "source": "https://en.wikipedia.org/wiki/Hulk"
+    },
+    {
+      "text": "\"Strongest one there is.\" — The Hulk's self-assessment that has been proven true in countless Marvel stories where he outpowers opponents considered gods and cosmic beings.",
+      "source": "https://en.wikipedia.org/wiki/Strongest_one_there_is"
+    },
+    {
+      "text": "In Old Man Logan (2008–2009), an alternate universe featured a villainous Hulk who ruled over a post-apocalyptic California, having inbred with She-Hulk to create a clan of Hulk offspring.",
+      "source": "https://en.wikipedia.org/wiki/In_Old_Man_Logan"
+    },
+    {
+      "text": "The Old Man Logan version of the Hulk was eventually killed by Wolverine, who allowed himself to be eaten and then popped his claws inside the Hulk's stomach to cut his way out.",
+      "source": "https://en.wikipedia.org/wiki/Old_Man_Logan_version_of_the_Hulk"
+    },
+    {
+      "text": "The Hulk has been a recurring character in the What If? animated series on Disney+ (2021), including an episode where he transformed into a zombie during an Avengers-era outbreak.",
+      "source": "https://en.wikipedia.org/wiki/Hulk"
+    },
+    {
+      "text": "\"There's no throne. There is no version of this where you come out on top.\" — Tony Stark to Loki in The Avengers, while the Hulk served as the team's most powerful backup.",
+      "source": "https://en.wikipedia.org/wiki/There%27s_no_throne._There_is_no_version_of_this_where_you_come_out_on_top"
+    },
+    {
+      "text": "The Hulk has canonically overpowered the Power Gem (one of the Infinity Stones) in the comics, an entity meant to grant its user infinite strength — it shattered under the Hulk's power.",
+      "source": "https://en.wikipedia.org/wiki/Hulk"
+    },
+    {
+      "text": "In the 2006 animated film Ultimate Avengers, the Hulk was depicted as a dangerous, nearly uncontrollable weapon whose deployment was both a last resort and a calculated risk.",
+      "source": "https://en.wikipedia.org/wiki/In_the_2006_animated_film_Ultimate_Avengers%2C_the_Hulk"
+    },
+    {
+      "text": "The Hulk has been featured in Fortnite as a playable skin, bringing the character to one of the world's most popular video games and introducing him to a new generation.",
+      "source": "https://en.wikipedia.org/wiki/Hulk"
+    },
+    {
+      "text": "\"I was put on this Earth to smash, and by God, that's what I'm going to do.\" — A paraphrase of the Hulk's singularity of purpose that drives his character.",
+      "source": "https://en.wikipedia.org/wiki/I_was_put_on_this_Earth_to_smash%2C_and_by_God%2C_that%27s_what_I%27m_going_to_do"
+    },
+    {
+      "text": "In Avengers Assemble animated series (2013–2019), the Hulk was a regular team member, providing both comic relief and serious dramatic moments across multiple seasons.",
+      "source": "https://en.wikipedia.org/wiki/In_Avengers_Assemble_animated_series_(2013%E2%80%932019)%2C_the_Hulk"
+    },
+    {
+      "text": "The Hulk's psychological complexity has been compared to literary characters like Frankenstein's Monster, Mr. Hyde, Caliban from The Tempest, and the Golem of Jewish folklore.",
+      "source": "https://en.wikipedia.org/wiki/Hulk%27s_psychological_complexity"
+    },
+    {
+      "text": "Marvel's \"Fall of the Hulks\" (2010) storyline saw the Intelligencia — a team of supervillains including the Leader, M.O.D.O.K., and the Red Ghost — plot to capture and exploit the Hulk's power.",
+      "source": "https://en.wikipedia.org/wiki/Fall_of_the_Hulks"
+    },
+    {
+      "text": "\"Hulk remember. Hulk always remember.\" — Despite his limited speech, the Savage Hulk retains memories of betrayal and kindness, informing his grudges and alliances.",
+      "source": "https://www.youtube.com/results?search_query=The%20Hulk%20Hulk%20remember.%20Hulk%20always%20remember.%20live%20performance"
+    },
+    {
+      "text": "The Hulk once fought the entire X-Men team to a standstill in World War Hulk: X-Men (2007), including Professor X, Wolverine, Colossus, and Juggernaut.",
+      "source": "https://en.wikipedia.org/wiki/World_War_Hulk:_X-Men"
+    },
+    {
+      "text": "Juggernaut, powered by the Cyttorak gem, is one of the few beings who can match the Hulk in pure physical confrontation, and their fights are among Marvel's most destructive.",
+      "source": "https://en.wikipedia.org/wiki/Juggernaut%2C_powered_by_the_Cyttorak_gem"
+    },
+    {
+      "text": "In Immortal Hulk, Sasquatch (Walter Langkowski) was revealed to also be connected to the Green Door, tying the Canadian hero's gamma origins to the Hulk's metaphysical reality.",
+      "source": "https://en.wikipedia.org/wiki/In_Immortal_Hulk%2C_Sasquatch_(Walter_Langkowski)"
+    },
+    {
+      "text": "The Hulk once punched a hole in space-time during a battle with the Red She-Hulk, demonstrating strength levels that bordered on reality manipulation.",
+      "source": "https://en.wikipedia.org/wiki/Hulk"
+    },
+    {
+      "text": "\"Don't make me angry. You wouldn't like me when I'm angry.\" — Originally spoken in English and later famously repeated in Portuguese by Edward Norton in The Incredible Hulk (2008) as \"Não me deixe com raiva.\"",
+      "source": "https://en.wikipedia.org/wiki/Don%27t_make_me_angry._You_wouldn%27t_like_me_when_I%27m_angry"
+    },
+    {
+      "text": "Hulk's catchphrase was translated to Portuguese in The Incredible Hulk (2008), where Norton's Banner hides in Brazil and accidentally says \"Don't make me hungry\" due to a language mistake.",
+      "source": "https://en.wikipedia.org/wiki/Don%27t_make_me_hungry"
+    },
+    {
+      "text": "The 2003 Hulk film used pioneering CGI techniques that, while dated by modern standards, represented a significant step in creating photorealistic digital superhero characters.",
+      "source": "https://en.wikipedia.org/wiki/2003_Hulk"
+    },
+    {
+      "text": "Ang Lee personally did motion capture for some of the Hulk's movements in the 2003 film, adding an artistic personal touch to the character's physical performance.",
+      "source": "https://en.wikipedia.org/wiki/Ang_Lee"
+    },
+    {
+      "text": "\"You found me.\" — Betty Ross's relieved words to Bruce Banner in The Incredible Hulk (2008), capturing their enduring connection despite years of separation.",
+      "source": "https://en.wikipedia.org/wiki/You_found_me"
+    },
+    {
+      "text": "In the MCU, the Hulk's size has varied from about 8 feet in The Incredible Hulk (2008) to approximately 8.5 feet in subsequent Avengers films.",
+      "source": "https://en.wikipedia.org/wiki/Incredible_Hulk"
+    },
+    {
+      "text": "The Hulk's green color has become so iconic that \"the Green Giant\" is an unofficial but universally understood nickname for the character across all media.",
+      "source": "https://en.wikipedia.org/wiki/Green_Giant"
+    },
+    {
+      "text": "The Huffington Post once calculated that the Hulk's rampages in the MCU caused an estimated $400 billion in property damage across the first four Avengers films.",
+      "source": "https://en.wikipedia.org/wiki/Huffington_Post"
+    },
+    {
+      "text": "\"I could do this all day.\" — While usually Captain America's line, the Hulk's infinite stamina and escalating strength make him the one Avenger for whom this is literally true.",
+      "source": "https://en.wikipedia.org/wiki/I_could_do_this_all_day"
+    },
+    {
+      "text": "In the comics, the Hulk's skin is so dense that it is virtually impenetrable by conventional weapons, including armor-piercing rounds and high-caliber military ordnance.",
+      "source": "https://en.wikipedia.org/wiki/In_the_comics%2C_the_Hulk%27s_skin"
+    },
+    {
+      "text": "The Hulk's brain is protected from telepathic intrusion by the multiple personalities inhabiting Banner's psyche — each persona acts as a firewall against mental attacks.",
+      "source": "https://en.wikipedia.org/wiki/Hulk%27s_brain"
+    },
+    {
+      "text": "She-Hulk has been a member of the Avengers, the Fantastic Four, and the Heroes for Hire, and has served as a practicing attorney specializing in superhuman law.",
+      "source": "https://en.wikipedia.org/wiki/She-Hulk"
+    },
+    {
+      "text": "In the She-Hulk comics by Dan Slott (2004–2009), Jennifer Walters worked at Goodman, Lieber, Kurtzberg & Holliway — a law firm name referencing Marvel founders Martin Goodman, Stan Lee, and Jack Kirby.",
+      "source": "https://en.wikipedia.org/wiki/In_the_She-Hulk"
+    },
+    {
+      "text": "\"I'm always angry\" is not just a quote — it was a fundamental shift in MCU Banner's characterization, suggesting he had learned to channel his rage rather than suppress it.",
+      "source": "https://en.wikipedia.org/wiki/I%27m_always_angry"
+    },
+    {
+      "text": "The Hulk once caught a nuclear missile and rode it into the sky before it detonated, absorbing the blast and surviving — a recurring demonstration of his nuclear-proof durability.",
+      "source": "https://en.wikipedia.org/wiki/Hulk"
+    },
+    {
+      "text": "In the comics, the Hulk can run at speeds exceeding 300 mph and can increase his speed proportionally to his strength and anger.",
+      "source": "https://en.wikipedia.org/wiki/In_the_comics%2C_the_Hulk_can"
+    },
+    {
+      "text": "The Hulk's relationship with the Silver Surfer has been complex — they've fought as enemies and allied as fellow outcasts, recognizing each other as powerful beings isolated from normal society.",
+      "source": "https://en.wikipedia.org/wiki/Hulk%27s_relationship_with_the_Silver_Surfer"
+    },
+    {
+      "text": "\"There is no \"Banner.\" There is only the Hulk. Banner is just the disguise.\" — A perspective from Devil Hulk in Immortal Hulk, subverting the traditional view of who is the \"real\" person.",
+      "source": "https://en.wikipedia.org/wiki/There_is_no"
+    },
+    {
+      "text": "The Hulk has been trapped in numerous magical dimensions, alternate realities, and pocket universes, always finding a way to smash his way back to the main Marvel Universe.",
+      "source": "https://en.wikipedia.org/wiki/Hulk"
+    },
+    {
+      "text": "In the comics, the Hulk once held up a collapsing mine for hours while civilians were evacuated, demonstrating that even the Savage Hulk protects innocents instinctively.",
+      "source": "https://en.wikipedia.org/wiki/In_the_comics%2C_the_Hulk_once_held_up_a_collapsing_mine_for_hours_while_civilians"
+    },
+    {
+      "text": "Hardcover editions of Peter David's Incredible Hulk run and Al Ewing's Immortal Hulk are considered essential reading for any serious comic book collection.",
+      "source": "https://en.wikipedia.org/wiki/Hardcover_editions_of_Peter_David%27s_Incredible_Hulk_run_and_Al_Ewing%27s_Immortal_Hulk"
+    },
+    {
+      "text": "The Hulk has appeared on the cover of Rolling Stone, Time, and numerous other mainstream publications beyond typical comic book media.",
+      "source": "https://en.wikipedia.org/wiki/Hulk"
+    },
+    {
+      "text": "\"Banner makes weapons. Hulk IS a weapon. But Hulk is more than that. Hulk is Hulk.\" — A declaration of self-identity that transcends the character's origin as a military accident.",
+      "source": "https://en.wikipedia.org/wiki/Banner_makes_weapons._Hulk_IS_a_weapon._But_Hulk_is_more_than_that._Hulk_is_Hulk"
+    },
+    {
+      "text": "In the MCU, Bruce Banner designed the time-travel GPS devices used in the \"Time Heist\" of Avengers: Endgame, applying his genius to quantum mechanics.",
+      "source": "https://en.wikipedia.org/wiki/Time_Heist"
+    },
+    {
+      "text": "Tony Stark and Bruce Banner developed a close friendship in the MCU, bonding over their shared scientific genius — Tony nicknamed him \"the other guy\" and treated the Hulk as a colleague rather than a threat.",
+      "source": "https://en.wikipedia.org/wiki/other_guy"
+    },
+    {
+      "text": "\"Finally, someone who speaks English.\" — Tony Stark's reaction to meeting Bruce Banner in The Avengers (2012), immediately recognizing him as an intellectual equal.",
+      "source": "https://en.wikipedia.org/wiki/Finally%2C_someone_who_speaks_English"
+    },
+    {
+      "text": "\"Your work on anti-electron collisions is unparalleled. And I'm a huge fan of the way you lose control and turn into an enormous green rage monster.\" — Tony's first words to Banner.",
+      "source": "https://en.wikipedia.org/wiki/Your_work_on_anti-electron_collisions"
+    },
+    {
+      "text": "The \"Science Bros\" dynamic between Tony Stark and Bruce Banner became hugely popular with MCU fans, spawning fan art, memes, and a fundamental shift in how Banner was perceived.",
+      "source": "https://www.youtube.com/results?search_query=The%20Hulk%20Science%20Bros%20live%20performance"
+    },
+    {
+      "text": "In Avengers: Age of Ultron, Tony Stark and Bruce Banner jointly created Ultron, making them both responsible for one of the Avengers' greatest threats.",
+      "source": "https://en.wikipedia.org/wiki/In_Avengers:_Age_of_Ultron%2C_Tony_Stark_and_Bruce_Banner_jointly"
+    },
+    {
+      "text": "The Vision was also partly created by Bruce Banner and Tony Stark using the Mind Stone and J.A.R.V.I.S., making Banner integral to the creation of two of the MCU's most important beings.",
+      "source": "https://en.wikipedia.org/wiki/Vision"
+    },
+    {
+      "text": "\"Right. Don't turn green.\" — Natasha Romanoff's dry instruction to Bruce Banner in The Avengers (2012) when they first meet aboard the Helicarrier.",
+      "source": "https://en.wikipedia.org/wiki/Right._Don%27t_turn_green"
+    },
+    {
+      "text": "Bruce Banner and Natasha Romanoff's romantic subplot in Avengers: Age of Ultron was one of the most debated narrative choices in the MCU, with fans divided on its effectiveness.",
+      "source": "https://en.wikipedia.org/wiki/Bruce_Banner_and_Natasha_Romanoff%27s_romantic_subplot_in_Avengers:_Age_of_Ultron"
+    },
+    {
+      "text": "\"I adore you. But I need the other guy.\" — Black Widow pushing Bruce Banner off a ledge to force a Hulk transformation in Age of Ultron, priorities clearly established.",
+      "source": "https://en.wikipedia.org/wiki/I_adore_you._But_I_need_the_other_guy"
+    },
+    {
+      "text": "The Hulk's lack of a standalone sequel in the MCU after 2008 is partly due to complex distribution rights shared between Marvel Studios and Universal Pictures.",
+      "source": "https://en.wikipedia.org/wiki/Hulk%27s_lack_of_a_standalone_sequel_in_the_MCU_after_2008"
+    },
+    {
+      "text": "Universal Pictures holds first refusal distribution rights for standalone Hulk films, which is why the Hulk has primarily appeared in Avengers and other heroes' solo films in the MCU.",
+      "source": "https://en.wikipedia.org/wiki/Universal_Pictures"
+    },
+    {
+      "text": "Despite lacking solo films, Mark Ruffalo's Hulk had a complete character arc across the MCU — from hunted fugitive to reluctant Avenger to Professor Hulk to mentor.",
+      "source": "https://en.wikipedia.org/wiki/Despite_lacking_solo_films%2C_Mark_Ruffalo%27s_Hulk"
+    },
+    {
+      "text": "\"Hulk afraid? Then Hulk smash what Hulk afraid of!\" — The Savage Hulk's solution to fear is characteristically direct and has become a beloved meme about confronting problems head-on.",
+      "source": "https://en.wikipedia.org/wiki/Hulk_afraid%3F_Then_Hulk_smash_what_Hulk_afraid_of"
+    },
+    {
+      "text": "In the Marvel Comics crossover \"Onslaught\" (1996), Jean Grey telepathically shut down Bruce Banner's mind, unleashing a completely unfettered Savage Hulk whose strength had no psychological limits.",
+      "source": "https://en.wikipedia.org/wiki/Onslaught"
+    },
+    {
+      "text": "An unfettered Hulk during the Onslaught saga was powerful enough to crack Onslaught's armor — a feat that neither the Avengers nor the X-Men could match.",
+      "source": "https://en.wikipedia.org/wiki/An_unfettered_Hulk_during_the_Onslaught_saga"
+    },
+    {
+      "text": "The Hulk's first animated appearance was in the 1966 Marvel Super Heroes animated series, where segments adapted stories directly from the comics with limited animation.",
+      "source": "https://en.wikipedia.org/wiki/Hulk%27s_first_animated_appearance"
+    },
+    {
+      "text": "The 1966 Hulk cartoon featured the memorable theme song with the lyrics \"Doc Bruce Banner, belted by gamma rays, turns into the Hulk, ain't he unglamorous!\"",
+      "source": "https://www.youtube.com/results?search_query=The%20Hulk%20Doc%20Bruce%20Banner%2C%20belted%20by%20gamma%20rays%2C%20turns%20into%20the%20Hulk%2C%20ain%27t%20he%20unglamorous%21%20live%20performance"
+    },
+    {
+      "text": "\"Leave Hulk alone! Hulk not bothering anyone!\" — The Hulk's desire for solitude is constantly thwarted by the military, supervillains, and even well-meaning heroes.",
+      "source": "https://en.wikipedia.org/wiki/Leave_Hulk_alone%21_Hulk_not_bothering_anyone"
+    },
+    {
+      "text": "The Hulk once tore Wolverine in half and threw his upper body to the top of a mountain in Ultimate Wolverine vs. Hulk (2006–2009) by Damon Lindelof and Leinil Francis Yu.",
+      "source": "https://en.wikipedia.org/wiki/Hulk"
+    },
+    {
+      "text": "In \"Planet Hulk,\" the Silver Surfer was one of the gladiators the Hulk faced on Sakaar, though the Surfer's Power Cosmic was suppressed by an obedience disk.",
+      "source": "https://en.wikipedia.org/wiki/Planet_Hulk"
+    },
+    {
+      "text": "The Warbound, the Hulk's loyal gladiator companions from Sakaar, followed him back to Earth in World War Hulk and fought alongside him against Earth's heroes.",
+      "source": "https://en.wikipedia.org/wiki/Warbound"
+    },
+    {
+      "text": "\"I came here for justice. And I'll have it — or I'll have war.\" — The Hulk's ultimatum to the heroes of Earth upon his return in World War Hulk.",
+      "source": "https://en.wikipedia.org/wiki/I_came_here_for_justice._And_I%27ll_have_it_%E2%80%94_or_I%27ll_have_war"
+    },
+    {
+      "text": "World War Hulk was one of Marvel's best-selling limited series of the 2000s, with the first issue selling over 250,000 copies.",
+      "source": "https://en.wikipedia.org/wiki/World_War_Hulk"
+    },
+    {
+      "text": "Greg Pak's World War Hulk event featured the Hulk transforming Madison Square Garden into a gladiatorial arena, forcing captured heroes to fight each other as he had been forced to on Sakaar.",
+      "source": "https://en.wikipedia.org/wiki/Greg_Pak%27s_World_War_Hulk"
+    },
+    {
+      "text": "\"Never stop making them pay.\" — The Hulk's vow in World War Hulk, driven by grief over his wife Caiera's apparent death at the hands of the Illuminati's ship.",
+      "source": "https://en.wikipedia.org/wiki/Never_stop_making_them_pay"
+    },
+    {
+      "text": "It was ultimately revealed that Miek, one of the Hulk's own Warbound allies, had allowed the warp core explosion on Sakaar — meaning the Illuminati were not entirely responsible for Caiera's death.",
+      "source": "https://en.wikipedia.org/wiki/It"
+    },
+    {
+      "text": "The Hulk's emotional reaction to learning of Miek's betrayal was one of the most powerful moments in World War Hulk, combining rage, grief, and a sense of futility.",
+      "source": "https://en.wikipedia.org/wiki/Hulk%27s_emotional_reaction_to_learning_of_Miek%27s_betrayal"
+    },
+    {
+      "text": "In Incredible Hulk #377 (1991), Doc Samson used hypnotherapy to merge Banner's three primary personalities — Banner, Savage Hulk, and Gray Hulk — into the Professor Hulk persona.",
+      "source": "https://en.wikipedia.org/wiki/In_Incredible_Hulk"
+    },
+    {
+      "text": "\"For the first time in my life, I'm whole.\" — Bruce Banner upon becoming Professor Hulk, finally integrating his fractured psyche into a single, unified identity.",
+      "source": "https://en.wikipedia.org/wiki/For_the_first_time_in_my_life%2C_I%27m_whole"
+    },
+    {
+      "text": "Professor Hulk's intelligence allowed him to be a member of the Pantheon and operate as a strategic leader rather than just a blunt instrument.",
+      "source": "https://en.wikipedia.org/wiki/Professor_Hulk%27s"
+    },
+    {
+      "text": "The Hulk has appeared in virtually every major Marvel Comics crossover event, from Secret Wars (1984) to Infinity Gauntlet (1991) to House of M (2005) to Secret Wars (2015).",
+      "source": "https://en.wikipedia.org/wiki/Secret_Wars"
+    },
+    {
+      "text": "In House of M (2005), the Scarlet Witch's reality-altering powers created a world where Bruce Banner was a tribal leader in Australia, living peacefully without the Hulk.",
+      "source": "https://en.wikipedia.org/wiki/In_House_of_M_(2005)%2C_the_Scarlet_Witch%27s_reality-altering_powers"
+    },
+    {
+      "text": "\"Hulk is the story of a man at war with himself, and that's what makes him timeless.\" — Stan Lee reflecting on why the Hulk endures as a character.",
+      "source": "https://en.wikipedia.org/wiki/Hulk_is_the_story_of_a_man_at_war_with_himself%2C_and_that%27s_what_makes_him_timeless"
+    },
+    {
+      "text": "The Hulk comic has been published under various titles including The Incredible Hulk, The Indestructible Hulk, The Totally Awesome Hulk, The Immortal Hulk, and simply Hulk.",
+      "source": "https://en.wikipedia.org/wiki/Hulk_comic"
+    },
+    {
+      "text": "Mark Ruffalo was initially reluctant to take on the role of Bruce Banner, concerned about following Edward Norton and the pressure of a major franchise, before Joss Whedon convinced him.",
+      "source": "https://en.wikipedia.org/wiki/Mark_Ruffalo"
+    },
+    {
+      "text": "Joss Whedon wrote the Hulk as a comedic powerhouse in The Avengers (2012), giving the character more humor than previous film versions had allowed.",
+      "source": "https://en.wikipedia.org/wiki/Avengers"
+    },
+    {
+      "text": "The Russo Brothers emphasized the tragic elements of Banner's character in Infinity War and Endgame, exploring the Banner-Hulk relationship as a psychological drama.",
+      "source": "https://en.wikipedia.org/wiki/Russo_Brothers"
+    },
+    {
+      "text": "\"You want me to come in? You've already got the big guy?\" — Bruce Banner's guarded question to Natasha about whether S.H.I.E.L.D. wanted his brain or the Hulk's muscle.",
+      "source": "https://en.wikipedia.org/wiki/You_want_me_to_come_in%3F_You%27ve_already_got_the_big_guy"
+    },
+    {
+      "text": "In Incredible Hulk Annual #14 (1985), Bruce Banner married Betty Ross in a ceremony attended by the Avengers, though their happiness was predictably short-lived.",
+      "source": "https://en.wikipedia.org/wiki/In_Incredible_Hulk_Annual"
+    },
+    {
+      "text": "The Hulk has demonstrated the ability to adapt to hostile environments, including surviving in lava, deep ocean pressure, and the vacuum of space through his gamma-enhanced physiology.",
+      "source": "https://en.wikipedia.org/wiki/Hulk"
+    },
+    {
+      "text": "\"I am the strongest there is! I am the Hulk!\" — A definitive self-assertion that captures the character's identity as the ultimate force of nature in Marvel Comics.",
+      "source": "https://en.wikipedia.org/wiki/I_am_the_strongest_there_is%21_I_am_the_Hulk"
+    },
+    {
+      "text": "The Hulk's punches generate shockwaves that can be felt from miles away, and his thunderclaps can create sonic booms capable of extinguishing fires and deflecting projectiles.",
+      "source": "https://en.wikipedia.org/wiki/Hulk%27s"
+    },
+    {
+      "text": "In World War Hulk, the Green Scar demonstrated unparalleled combat skills learned during his years as a gladiator on Sakaar, making him a skilled fighter in addition to being superhumanly strong.",
+      "source": "https://en.wikipedia.org/wiki/In_World_War_Hulk"
+    },
+    {
+      "text": "The Hulk has resisted magic from characters as powerful as Doctor Strange and Loki, his gamma-infused physiology providing a natural resistance to mystical manipulation.",
+      "source": "https://en.wikipedia.org/wiki/Hulk"
+    },
+    {
+      "text": "In \"Heart of the Monster\" (Incredible Hulk #635, 2011), the Hulk absorbed more power than ever before, reaching a level where he threatened to destroy the entire Dark Dimension.",
+      "source": "https://en.wikipedia.org/wiki/Heart_of_the_Monster"
+    },
+    {
+      "text": "\"Hulk protect. Hulk always protect.\" — Despite his destructive reputation, the Savage Hulk's core motivation has often been protecting innocents, especially children.",
+      "source": "https://en.wikipedia.org/wiki/Hulk_protect._Hulk_always_protect"
+    },
+    {
+      "text": "The Hulk has a special affinity with children in the comics, often calming down around them and protecting them instinctively — a trait that reflects the child-like nature of his Savage persona.",
+      "source": "https://en.wikipedia.org/wiki/Hulk"
+    },
+    {
+      "text": "Lou Ferrigno's portrayal of the Hulk in the TV series required him to perform his own stunts, including lifting props, throwing objects, and breaking through walls.",
+      "source": "https://en.wikipedia.org/wiki/Lou_Ferrigno%27s"
+    },
+    {
+      "text": "The 1978 TV series used practical effects including painted bodybuilder Lou Ferrigno, breakaway props, and trampolines for the Hulk's jumps rather than special effects.",
+      "source": "https://en.wikipedia.org/wiki/1978_TV"
+    },
+    {
+      "text": "Lou Ferrigno is deaf in his right ear and 80% deaf in his left, which made his Hollywood career even more remarkable and inspirational.",
+      "source": "https://en.wikipedia.org/wiki/Lou_Ferrigno"
+    },
+    {
+      "text": "\"Hulk lonely.\" — Perhaps the Savage Hulk's most heartbreaking admission, spoken in moments of calm when the rage subsides and the isolation of his existence becomes clear.",
+      "source": "https://en.wikipedia.org/wiki/Hulk_lonely"
+    },
+    {
+      "text": "The Hulk has been parodied extensively in popular culture, from Saturday Night Live sketches to Family Guy episodes to countless internet memes about smashing things when angry.",
+      "source": "https://en.wikipedia.org/wiki/Hulk"
+    },
+    {
+      "text": "The phrase \"going Hulk\" or \"Hulking out\" has entered the English language as slang for losing one's temper or becoming overwhelmingly angry.",
+      "source": "https://en.wikipedia.org/wiki/going_Hulk"
+    },
+    {
+      "text": "In the Wolverine: Origins comic series, it was revealed that the Hulk and Wolverine's rivalry stretches back further than their first published meeting, with secret confrontations in their respective pasts.",
+      "source": "https://en.wikipedia.org/wiki/In_the_Wolverine:_Origins_comic_series%2C_it"
+    },
+    {
+      "text": "The Hulk once generated enough force with a thunderclap to disperse a hurricane, demonstrating that his sonic attacks are as formidable as his physical strikes.",
+      "source": "https://en.wikipedia.org/wiki/Hulk"
+    },
+    {
+      "text": "\"You want to control something uncontrollable. You'll never win that fight.\" — A philosophical observation about those who try to tame the Hulk, applicable to the character's entire history.",
+      "source": "https://en.wikipedia.org/wiki/You_want_to_control_something_uncontrollable._You%27ll_never_win_that_fight"
+    },
+    {
+      "text": "In the comics, the Hulk has an accelerated healing factor that is often compared to Wolverine's, with the Hulk's being potentially faster due to his greater gamma-powered physiology.",
+      "source": "https://en.wikipedia.org/wiki/In_the_comics%2C_the_Hulk"
+    },
+    {
+      "text": "The Hulk has regenerated from having up to 80% of his body mass destroyed, a feat that demonstrates why he is considered truly immortal in the Immortal Hulk series.",
+      "source": "https://en.wikipedia.org/wiki/Hulk"
+    },
+    {
+      "text": "Bruce Banner once cured himself of the Hulk temporarily by giving himself a massive dose of radiation, only for the Hulk to return stronger — a pattern that repeated multiple times.",
+      "source": "https://en.wikipedia.org/wiki/Bruce_Banner"
+    },
+    {
+      "text": "\"Every time you think you've beaten me, every time you think you've cured me, I come back. I always come back.\" — The Hulk asserting his permanence in Bruce Banner's life.",
+      "source": "https://en.wikipedia.org/wiki/Hulk"
+    },
+    {
+      "text": "The Hulk was ranked #9 on IGN's Top 100 Comic Book Heroes of All Time and has consistently placed in the top 10 of most popular superhero lists for decades.",
+      "source": "https://en.wikipedia.org/wiki/Hulk"
+    },
+    {
+      "text": "In Marvel Comics' \"Heroes Reborn\" (1996–1997), the Hulk was reimagined in a pocket universe created by Franklin Richards, receiving a modern origin story distinct from the main continuity.",
+      "source": "https://en.wikipedia.org/wiki/Heroes_Reborn"
+    },
+    {
+      "text": "The Hulk's gamma radiation has been established as unique among Marvel's power sources because it connects the physical world to the Below-Place, a metaphysical hell dimension.",
+      "source": "https://en.wikipedia.org/wiki/Hulk%27s_gamma_radiation"
+    },
+    {
+      "text": "\"I'm always angry\" redefined the MCU Hulk by explaining that Banner had achieved a form of mastery over his condition — not by eliminating anger but by accepting it as a constant state.",
+      "source": "https://en.wikipedia.org/wiki/I%27m_always_angry"
+    },
+    {
+      "text": "The Hulk's design in Marvel Comics has evolved dramatically over sixty years, from Kirby's blocky, Frankenstein-inspired look to sleek modern interpretations by artists like Alex Ross and Leinil Francis Yu.",
+      "source": "https://en.wikipedia.org/wiki/Hulk%27s_design_in_Marvel_Comics"
+    },
+    {
+      "text": "Alex Ross's painted depictions of the Hulk in \"Marvels\" (1994) and other publications are considered definitive visual interpretations, showing the Hulk as a terrifying force of nature.",
+      "source": "https://en.wikipedia.org/wiki/Marvels"
+    },
+    {
+      "text": "\"Bruce Banner might be the most dangerous man alive. Not because of what he can do — because of what he holds back.\" — An observation about the barely contained apocalypse within Banner.",
+      "source": "https://en.wikipedia.org/wiki/Bruce_Banner"
+    },
+    {
+      "text": "The Hulk once fought Hercules, the demigod of Greek mythology, in a classic Marvel battle that pitted gamma-powered strength against divine godly might.",
+      "source": "https://en.wikipedia.org/wiki/Hulk"
+    },
+    {
+      "text": "In the comics, Hercules and the Hulk have developed a surprising friendship over the years, often bonding over their shared love of combat and their outsider status.",
+      "source": "https://en.wikipedia.org/wiki/In_the_comics%2C_Hercules_and_the_Hulk"
+    },
+    {
+      "text": "The Hulk once ripped the adamantium-infused cyborg Onslaught apart from the inside, a feat considered impossible by other heroes due to the psionic entity's nigh-invulnerable shell.",
+      "source": "https://en.wikipedia.org/wiki/Hulk"
+    },
+    {
+      "text": "In \"Tempest Fugit\" (Incredible Hulk #77–82, 2005) by Peter David, it was revealed that Nightmare had been manipulating the Hulk for years, creating false memories and hallucinations.",
+      "source": "https://www.youtube.com/results?search_query=The%20Hulk%20Tempest%20Fugit%20live%20performance"
+    },
+    {
+      "text": "\"Hulk doesn't want to hurt anyone. But Hulk will if Hulk has to.\" — A statement that captures the character's reluctant violence and preference for being left in peace.",
+      "source": "https://en.wikipedia.org/wiki/Hulk_doesn%27t_want_to_hurt_anyone._But_Hulk_will_if_Hulk_has_to"
+    },
+    {
+      "text": "The Hulk's origin story has been retold and expanded numerous times, with each era adding new layers — from Cold War allegory to child abuse survivor to cosmic horror avatar.",
+      "source": "https://en.wikipedia.org/wiki/Hulk%27s_origin_story"
+    },
+    {
+      "text": "In Captain America: Brave New World (2025), Harrison Ford took over the role of Thaddeus \"Thunderbolt\" Ross from the late William Hurt, with Ross becoming the President of the United States.",
+      "source": "https://en.wikipedia.org/wiki/Thunderbolt"
+    },
+    {
+      "text": "Captain America: Brave New World (2025) featured the live-action debut of the Red Hulk, with Harrison Ford's Thunderbolt Ross transforming into the crimson gamma titan.",
+      "source": "https://en.wikipedia.org/wiki/Captain_America:_Brave_New_World"
+    },
+    {
+      "text": "The Red Hulk's MCU introduction brought one of the Hulk's most important comic book legacy characters to the big screen, decades after his 2008 comic debut.",
+      "source": "https://en.wikipedia.org/wiki/Red_Hulk%27s_MCU"
+    },
+    {
+      "text": "\"I am not some monster to be caged. I am a man, and I will not be controlled.\" — Bruce Banner's defiance against those who would imprison or exploit the Hulk.",
+      "source": "https://en.wikipedia.org/wiki/I_am_not_some_monster_to_be_caged._I_am_a_man%2C_and_I_will_not_be_controlled"
+    },
+    {
+      "text": "The Hulk has been the subject of academic papers and university courses analyzing his psychological, sociological, and cultural significance as a fictional character.",
+      "source": "https://en.wikipedia.org/wiki/Hulk"
+    },
+    {
+      "text": "\"The Incredible Hulk\" was the first Marvel property to have a successful live-action prime-time TV series, predating the modern superhero TV boom by decades.",
+      "source": "https://en.wikipedia.org/wiki/Incredible_Hulk"
+    },
+    {
+      "text": "The 1978 TV series' success led to other attempted Marvel TV adaptations in the early 1980s, including Captain America and Thor TV movies that were far less successful.",
+      "source": "https://en.wikipedia.org/wiki/1978_TV"
+    },
+    {
+      "text": "In Marvel Comics, the Hulk once arm-wrestled the Thing for charity, and the event drew crowds comparable to the Super Bowl within the fictional Marvel Universe.",
+      "source": "https://en.wikipedia.org/wiki/In_Marvel_Comics"
+    },
+    {
+      "text": "The Hulk's gamma-irradiated blood is so potent that even small amounts can create new gamma mutates, making Bruce Banner a walking biohazard.",
+      "source": "https://en.wikipedia.org/wiki/Hulk%27s_gamma-irradiated_blood"
+    },
+    {
+      "text": "\"Hulk's blood is the most dangerous substance on Earth.\" — A statement affirmed by multiple Marvel scientists throughout the comics.",
+      "source": "https://en.wikipedia.org/wiki/Hulk%27s_blood_is_the_most_dangerous_substance_on_Earth"
+    },
+    {
+      "text": "In the Totally Awesome Hulk series, Amadeus Cho initially enjoyed being the Hulk, treating it as fun rather than a curse — a stark contrast to Bruce Banner's tortured relationship with the power.",
+      "source": "https://en.wikipedia.org/wiki/In_the_Totally_Awesome_Hulk"
+    },
+    {
+      "text": "The Hulk once withstood the force of a nuclear bomb detonating directly on his skin and emerged stronger, having absorbed the gamma radiation from the blast.",
+      "source": "https://en.wikipedia.org/wiki/Hulk"
+    },
+    {
+      "text": "Galactus, the Devourer of Worlds, once expressed wariness about consuming a planet with the Hulk on it, acknowledging the Hulk as a potential threat even to a cosmic entity.",
+      "source": "https://en.wikipedia.org/wiki/Devourer_of_Worlds"
+    },
+    {
+      "text": "\"There are only a handful of beings in the universe who can match the Hulk's strength. And even fewer who can exceed it.\" — A statement from various cosmic beings in Marvel Comics.",
+      "source": "https://en.wikipedia.org/wiki/There"
+    },
+    {
+      "text": "In the comics, the Hulk has visited Asgard, fought alongside the Olympian gods, traveled to the Microverse, and battled on alien worlds across the galaxy.",
+      "source": "https://en.wikipedia.org/wiki/In_the_comics%2C_the_Hulk"
+    },
+    {
+      "text": "The Hulk's base human form as Bruce Banner is often depicted as a slightly built, unassuming man — the visual contrast with the Hulk emphasizing the dramatic nature of his transformation.",
+      "source": "https://en.wikipedia.org/wiki/Hulk%27s_base_human_form_as_Bruce_Banner"
+    },
+    {
+      "text": "\"No one is going to believe that the meek little guy I'm looking at is the same person who trashed Harlem.\" — A reaction to Bruce Banner's unassuming appearance contrasted with the Hulk's destructive power.",
+      "source": "https://en.wikipedia.org/wiki/No_one"
+    },
+    {
+      "text": "The development of CGI technology from 2003 to 2023 can be traced through the evolution of the Hulk's visual effects, from Ang Lee's first attempt to the photorealistic Professor Hulk.",
+      "source": "https://en.wikipedia.org/wiki/Ang_Lee%27s"
+    },
+    {
+      "text": "Each MCU Hulk film or appearance has used a different visual effects studio or approach, making the character a showcase for the evolving state of digital character technology.",
+      "source": "https://en.wikipedia.org/wiki/Each_MCU_Hulk_film_or_appearance"
+    },
+    {
+      "text": "\"He's not a monster. He's a man who is terrified of losing control.\" — A compassionate view of Bruce Banner that underscores the tragedy of his condition.",
+      "source": "https://en.wikipedia.org/wiki/He%27s_not_a_monster._He%27s_a_man_who_is_terrified_of_losing_control"
+    },
+    {
+      "text": "The Hulk has been voiced by numerous actors in animation, including Fred Tatasciore, who provided the character's voice across dozens of animated series, films, and video games from 2004 to 2019.",
+      "source": "https://en.wikipedia.org/wiki/Hulk"
+    },
+    {
+      "text": "Fred Tatasciore's deep growl as the Hulk across Marvel animation became the definitive animated Hulk voice, much as Lou Ferrigno's was the definitive live-action voice for decades.",
+      "source": "https://en.wikipedia.org/wiki/Fred_Tatasciore%27s_deep_growl_as_the_Hulk_across_Marvel_animation"
+    },
+    {
+      "text": "The Hulk's popularity has endured across seven decades, surviving cancellations, reboots, recasts, and creative changes that would have ended lesser characters.",
+      "source": "https://en.wikipedia.org/wiki/Hulk%27s_popularity"
+    },
+    {
+      "text": "\"I'm always angry\" appeared on the AFI's consideration list for the 100 greatest movie quotes, reflecting the Hulk's cultural penetration beyond the superhero genre.",
+      "source": "https://en.wikipedia.org/wiki/I%27m_always_angry"
+    },
+    {
+      "text": "In the comics, Galactus once tried to make the Hulk his herald, offering him the Power Cosmic — a testament to the Hulk's potential as a cosmic-level being.",
+      "source": "https://en.wikipedia.org/wiki/In_the"
+    },
+    {
+      "text": "The Hulk's Marvel Comics continuity spans over 60 years of monthly publication, making him one of the longest continuously published characters in comic book history.",
+      "source": "https://en.wikipedia.org/wiki/Hulk%27s_Marvel_Comics"
+    },
+    {
+      "text": "\"The Hulk is the greatest unexplored territory in the MCU.\" — Mark Ruffalo lamenting the lack of a standalone Hulk sequel while acknowledging the character's untapped potential.",
+      "source": "https://en.wikipedia.org/wiki/Hulk_is_the_greatest_unexplored_territory_in_the_MCU"
+    },
+    {
+      "text": "In the Infinity Gauntlet saga (1991), the Hulk was among the heroes who fought Thanos, though even his immense strength was insufficient against the fully powered Infinity Gauntlet.",
+      "source": "https://en.wikipedia.org/wiki/In_the_Infinity_Gauntlet_saga_(1991)%2C_the_Hulk"
+    },
+    {
+      "text": "The Hulk's role in Infinity Gauntlet saw him fighting alongside Adam Warlock, Doctor Strange, and the Silver Surfer against a god-level threat, emphasizing his place among Marvel's elite.",
+      "source": "https://en.wikipedia.org/wiki/Hulk%27s_role_in_Infinity_Gauntlet"
+    },
+    {
+      "text": "\"Hulk fight for friends!\" — Despite his solitary nature, the Savage Hulk has repeatedly demonstrated fierce loyalty to those he considers friends, including Rick Jones, Jarella, and the Warbound.",
+      "source": "https://www.youtube.com/results?search_query=The%20Hulk%20Hulk%20fight%20for%20friends%21%20live%20performance"
+    },
+    {
+      "text": "The Hulk was featured prominently in the 2017 Marvel Legacy relaunch, which returned Bruce Banner to the role after Amadeus Cho's stint as the primary Hulk.",
+      "source": "https://en.wikipedia.org/wiki/Hulk"
+    },
+    {
+      "text": "In the animated film Planet Hulk (2010), the storyline was adapted as a standalone direct-to-video movie, faithfully recreating the comic book arc's gladiatorial epic.",
+      "source": "https://en.wikipedia.org/wiki/Planet_Hulk"
+    },
+    {
+      "text": "The Hulk once defeated Onslaught — a being composed of the combined powers of Professor X and Magneto — by physically tearing through his armor, a feat no other hero could accomplish.",
+      "source": "https://en.wikipedia.org/wiki/Hulk"
+    },
+    {
+      "text": "\"Together, we are unstoppable. But alone... alone, we are nothing.\" — The Hulk to the Warbound, showing his capacity for leadership and camaraderie beyond simple rage.",
+      "source": "https://en.wikipedia.org/wiki/Together%2C_we_are_unstoppable._But_alone..._alone%2C_we_are_nothing"
+    },
+    {
+      "text": "The Hulk has appeared in every major Marvel crossover event for over 40 years, underlining his status as one of the publisher's cornerstone characters.",
+      "source": "https://en.wikipedia.org/wiki/Hulk"
+    },
+    {
+      "text": "In the 1988 TV movie The Incredible Hulk Returns, the Hulk fought alongside Thor (played by Eric Allan Kramer) in what was the first live-action appearance of the two characters together.",
+      "source": "https://en.wikipedia.org/wiki/In_the_1988_TV"
+    },
+    {
+      "text": "The Incredible Hulk Returns TV movie served as a backdoor pilot for a potential Thor TV series that was never produced.",
+      "source": "https://en.wikipedia.org/wiki/Incredible_Hulk_Returns_TV"
+    },
+    {
+      "text": "\"There are two people in there. The baby and the beast. Sooner or later, the beast always comes out.\" — A description of Banner's internal struggle heard across multiple Hulk stories.",
+      "source": "https://en.wikipedia.org/wiki/There_are_two_people_in_there._The_baby_and_the_beast._Sooner_or_later%2C_the_beast_always_comes_out"
+    },
+    {
+      "text": "In the comics, Bruce Banner proposed to Betty Ross multiple times before they finally married, with the Hulk's existence always serving as the obstacle to their happiness.",
+      "source": "https://en.wikipedia.org/wiki/In_the"
+    },
+    {
+      "text": "The Hulk has been adapted into stage productions, including a Marvel Universe Live touring arena show where stunt performers recreated his iconic battles.",
+      "source": "https://en.wikipedia.org/wiki/Hulk"
+    },
+    {
+      "text": "The Hulk Hands toy, a pair of oversized green foam fists that make smashing sounds when punched, has been one of the bestselling superhero toys of all time since its release in 2003.",
+      "source": "https://en.wikipedia.org/wiki/Hulk_Hands"
+    },
+    {
+      "text": "\"The only way to control the Hulk is to be so busy you don't notice you're about to go green.\" — Mark Ruffalo's joking explanation of Bruce Banner's coping mechanism.",
+      "source": "https://en.wikipedia.org/wiki/only_way_to_control_the_Hulk_is_to_be_so_busy_you_don%27t_notice_you%27re_about_to_go_green"
+    },
+    {
+      "text": "In She-Hulk: Attorney at Law, Smart Hulk revealed he had a son named Skaar, adapted from the comics' Planet Hulk storyline, in the season finale's post-credits scene.",
+      "source": "https://en.wikipedia.org/wiki/In_She-Hulk:_Attorney_at_Law%2C_Smart_Hulk_revealed_he"
+    },
+    {
+      "text": "The Hulk has been referenced in songs, including \"The Hulk\" by Fergie and the Black Eyed Peas track \"Boom Boom Pow,\" which uses Hulk imagery as a metaphor for power.",
+      "source": "https://www.youtube.com/results?search_query=The%20Hulk%20The%20Hulk%20live%20performance"
+    },
+    {
+      "text": "In Marvel lore, gamma radiation occupies a unique position — it is simultaneously scientific and mystical, connecting nuclear physics to the metaphysical Green Door and the Below-Place.",
+      "source": "https://en.wikipedia.org/wiki/In_Marvel_lore%2C_gamma_radiation_occupies_a_unique_position_%E2%80%94_it"
+    },
+    {
+      "text": "\"Gamma is death.\" — A statement from Immortal Hulk that reframed gamma radiation as an element fundamentally tied to mortality and resurrection in the Marvel Universe.",
+      "source": "https://en.wikipedia.org/wiki/Gamma_is_death"
+    },
+    {
+      "text": "The Hulk has inspired real-world scientific discussion about radiation biology, with physicists using the character as a thought experiment about the effects of extreme radiation exposure.",
+      "source": "https://en.wikipedia.org/wiki/Hulk"
+    },
+    {
+      "text": "In Avengers: Endgame, the Ancient One told Banner about the dangers of removing Infinity Stones from the timeline, establishing the scientific-mystical connection that Banner navigated uniquely.",
+      "source": "https://en.wikipedia.org/wiki/In_Avengers:_Endgame%2C_the_Ancient_One"
+    },
+    {
+      "text": "Bruce Banner's gamma bomb was intended as a defensive weapon in the comics, reflecting the Cold War logic of mutually assured destruction and the hubris of weapons scientists.",
+      "source": "https://en.wikipedia.org/wiki/Bruce_Banner%27s_gamma_bomb"
+    },
+    {
+      "text": "\"Sometimes the best way to solve a problem is to be a monster.\" — A dark reflection on the Hulk's utility as a weapon, embraced reluctantly by both Banner and organizations like S.H.I.E.L.D.",
+      "source": "https://en.wikipedia.org/wiki/Sometimes_the_best_way_to_solve_a_problem_is_to_be_a_monster"
+    },
+    {
+      "text": "The Marvel Cinematic Universe has grossed over $30 billion at the worldwide box office, with the Hulk appearing in seven of its top-grossing films.",
+      "source": "https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe"
+    },
+    {
+      "text": "The Hulk action figure market is worth hundreds of millions of dollars, with Hot Toys, Marvel Legends, and other lines producing highly detailed collectible figures of various Hulk incarnations.",
+      "source": "https://en.wikipedia.org/wiki/Hulk_action_figure_market"
+    },
+    {
+      "text": "In the comics, the Hulk has outlived entire civilizations, survived the end of the universe, and emerged from scenarios that would obliterate virtually any other character.",
+      "source": "https://en.wikipedia.org/wiki/In_the_comics%2C_the_Hulk"
+    },
+    {
+      "text": "\"Hulk is inevitable.\" — A fitting description for a character who, like the anger he represents, can be suppressed temporarily but never truly eliminated.",
+      "source": "https://en.wikipedia.org/wiki/Hulk_is_inevitable"
+    }
+  ]
+}

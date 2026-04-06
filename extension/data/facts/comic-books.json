@@ -1,0 +1,1379 @@
+{
+  "hobby": "Comic Books",
+  "facts": [
+    {
+      "text": "Comic books combine sequential art and text to tell stories through panels, captions, and dialogue balloons.",
+      "source": "https://en.wikipedia.org/wiki/Comic_Books"
+    },
+    {
+      "text": "Action Comics #1, published in 1938, introduced Superman and is often considered the beginning of the superhero boom.",
+      "month": 6,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/Action_Comics_%231%2C_published_in_1938"
+    },
+    {
+      "text": "Detective Comics #27 from 1939 introduced Batman, helping cement DC's early dominance in superhero comics.",
+      "source": "https://en.wikipedia.org/wiki/Detective_Comics_%2327_from_1939"
+    },
+    {
+      "text": "The late 1930s and 1940s are known as the Golden Age of comic books.",
+      "source": "https://en.wikipedia.org/wiki/late_1930s_and_1940s"
+    },
+    {
+      "text": "The Silver Age of comics is often dated from the mid-1950s through the early 1970s and saw major revivals of superheroes.",
+      "source": "https://en.wikipedia.org/wiki/Silver_Age_of_comics"
+    },
+    {
+      "text": "Marvel's rise in the 1960s came from co-created characters like Spider-Man, the Fantastic Four, the X-Men, Hulk, and the Avengers.",
+      "source": "https://en.wikipedia.org/wiki/Fantastic_Four"
+    },
+    {
+      "text": "Stan Lee, Jack Kirby, Steve Ditko, Will Eisner, and many other creators shaped the language of modern comic storytelling.",
+      "source": "https://en.wikipedia.org/wiki/Stan_Lee"
+    },
+    {
+      "text": "The Comics Code Authority was formed in 1954 and heavily restricted what mainstream American comics could depict for decades.",
+      "source": "https://en.wikipedia.org/wiki/Comics_Code_Authority"
+    },
+    {
+      "text": "Graphic novel is a publishing format rather than a genre — it can include memoir, horror, fantasy, journalism, or superhero stories.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Graphic_novel"
+    },
+    {
+      "text": "Will Eisner's A Contract with God helped popularize the term 'graphic novel' in the late 1970s.",
+      "source": "https://en.wikipedia.org/wiki/Will_Eisner%27s_A_Contract_with_God"
+    },
+    {
+      "text": "Maus by Art Spiegelman became the first graphic novel to win a Pulitzer Prize.",
+      "source": "https://en.wikipedia.org/wiki/Maus_by_Art_Spiegelman"
+    },
+    {
+      "text": "Watchmen and The Dark Knight Returns helped push superhero comics toward darker, more complex storytelling in the 1980s.",
+      "source": "https://en.wikipedia.org/wiki/Watchmen_and_The_Dark_Knight_Returns"
+    },
+    {
+      "text": "Comic shops often sell monthly 'floppy' issues, collected trade paperbacks, hardcovers, and omnibus editions.",
+      "source": "https://en.wikipedia.org/wiki/Comic_Books"
+    },
+    {
+      "text": "A key issue is a comic valued especially highly because it contains a major first appearance, death, origin, or landmark event.",
+      "source": "https://en.wikipedia.org/wiki/A_key_issue"
+    },
+    {
+      "text": "Collectors often preserve comic books in bags and boards to protect them from light, moisture, and wear.",
+      "source": "https://en.wikipedia.org/wiki/Comic_Books"
+    },
+    {
+      "text": "Third-party grading companies encapsulate high-value comics in plastic slabs with condition scores.",
+      "source": "https://en.wikipedia.org/wiki/Comic_Books"
+    },
+    {
+      "text": "Amazing Fantasy #15, the first appearance of Spider-Man, is one of the most famous and valuable comic books ever printed.",
+      "source": "https://en.wikipedia.org/wiki/Amazing_Fantasy_%2315%2C_the_first_appearance_of_Spider-Man"
+    },
+    {
+      "text": "Comic crossovers became a major sales driver, bringing different heroes and teams together in the same storyline.",
+      "source": "https://en.wikipedia.org/wiki/Comic_crossovers"
+    },
+    {
+      "text": "Crisis on Infinite Earths, Secret Wars, and Infinity Gauntlet are among the most influential event comics of the modern era.",
+      "source": "https://en.wikipedia.org/wiki/Crisis_on_Infinite_Earths%2C_Secret_Wars%2C_and_Infinity_Gauntlet"
+    },
+    {
+      "text": "Manga is the Japanese comic tradition and has become one of the biggest forces in global comics publishing.",
+      "source": "https://en.wikipedia.org/wiki/Manga"
+    },
+    {
+      "text": "Tintin, Asterix, and other Franco-Belgian comics helped make Europe another major center of comic-book culture.",
+      "source": "https://en.wikipedia.org/wiki/Tintin%2C_Asterix%2C_and_other_Franco-Belgian_comics"
+    },
+    {
+      "text": "San Diego Comic-Con began as a comic-book convention and grew into one of the world's biggest pop-culture events.",
+      "source": "https://en.wikipedia.org/wiki/San_Diego_Comic-Con_began_as_a_comic-book_convention_and"
+    },
+    {
+      "text": "Independent publishers like Image, Dark Horse, Boom!, and IDW expanded the American comics landscape beyond Marvel and DC.",
+      "source": "https://en.wikipedia.org/wiki/Dark_Horse"
+    },
+    {
+      "text": "Image Comics was founded in 1992 by superstar artists who wanted creators to own their work.",
+      "month": 2,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/Image_Comics"
+    },
+    {
+      "text": "The Walking Dead, Invincible, Saga, Hellboy, and Teenage Mutant Ninja Turtles all helped prove comics can thrive beyond classic superhero formulas.",
+      "source": "https://en.wikipedia.org/wiki/Walking_Dead%2C_Invincible%2C_Saga%2C_Hellboy%2C_and_Teenage_Mutant_Ninja_Turtles_all"
+    },
+    {
+      "text": "Comic book adaptations now dominate much of the box office, but many influential comics remain known mainly in print.",
+      "source": "https://en.wikipedia.org/wiki/Comic_Books"
+    },
+    {
+      "text": "Many artists still draw or ink pages by hand, while others work entirely digitally using tablets and illustration software.",
+      "source": "https://en.wikipedia.org/wiki/Comic_Books"
+    },
+    {
+      "text": "Lettering, coloring, penciling, inking, and editing are all distinct crafts that shape how a comic reads on the page.",
+      "source": "https://en.wikipedia.org/wiki/Lettering%2C_coloring%2C_penciling%2C_inking%2C_and_editing"
+    },
+    {
+      "text": "A comic's cover can become as iconic as the story itself, especially for first appearances and major event issues.",
+      "source": "https://en.wikipedia.org/wiki/Comic_Books"
+    },
+    {
+      "text": "Comic books have influenced film, TV, games, toys, fashion, and fandom culture for generations.",
+      "source": "https://en.wikipedia.org/wiki/Comic_books"
+    },
+    {
+      "text": "Newspaper comic strips helped lay the groundwork for modern comic books long before superheroes dominated the medium.",
+      "source": "https://en.wikipedia.org/wiki/Newspaper_comic_strips"
+    },
+    {
+      "text": "Funnies on Parade from 1933 is often cited as one of the earliest modern American comic books.",
+      "month": 2,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/Funnies_on_Parade_from_1933"
+    },
+    {
+      "text": "EC Comics became legendary for horror and science-fiction titles like Tales from the Crypt and Weird Science.",
+      "source": "https://en.wikipedia.org/wiki/EC_Comics"
+    },
+    {
+      "text": "Public concern over violent and horror comics in the 1950s led to U.S. Senate hearings and the creation of the Comics Code Authority.",
+      "source": "https://en.wikipedia.org/wiki/U.S._Senate"
+    },
+    {
+      "text": "The underground comix movement of the 1960s and 1970s rejected censorship and embraced more personal, political, and adult storytelling.",
+      "source": "https://en.wikipedia.org/wiki/Comic_Books"
+    },
+    {
+      "text": "The direct market system let specialty comic shops order nonreturnable comics, changing how publishers sold books starting in the 1970s.",
+      "source": "https://en.wikipedia.org/wiki/Comic_Books"
+    },
+    {
+      "text": "Free Comic Book Day is held on the first Saturday in May and brings new readers into shops with special giveaway issues.",
+      "source": "https://en.wikipedia.org/wiki/Free_Comic_Book_Day"
+    },
+    {
+      "text": "The Eisner Awards are often called the comic industry's equivalent of the Oscars.",
+      "source": "https://en.wikipedia.org/wiki/Eisner_Awards"
+    },
+    {
+      "text": "The Harvey Awards are named after Mad co-creator Harvey Kurtzman and celebrate excellence in comics and graphic storytelling.",
+      "source": "https://en.wikipedia.org/wiki/Harvey_Awards"
+    },
+    {
+      "text": "Webcomics opened the door for creators to publish directly online without needing a traditional print publisher.",
+      "source": "https://en.wikipedia.org/wiki/Webcomics"
+    },
+    {
+      "text": "Korean comics are often called manhwa, and many are now published in vertical-scroll digital formats known as webtoons.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Korean_comics"
+    },
+    {
+      "text": "Manga volumes in Japan are commonly collected in book form as tankobon.",
+      "source": "https://en.wikipedia.org/wiki/Manga_volumes_in_Japan"
+    },
+    {
+      "text": "Franco-Belgian comics like Tintin and Asterix are often published in large, beautifully designed album editions.",
+      "source": "https://en.wikipedia.org/wiki/Franco-Belgian_comics_like_Tintin_and_Asterix"
+    },
+    {
+      "text": "Jack Kirby co-created or helped shape a huge portion of the Marvel Universe, earning him the nickname 'The King.'",
+      "source": "https://en.wikipedia.org/wiki/Jack_Kirby_co-created_or"
+    },
+    {
+      "text": "Steve Ditko co-created Spider-Man and Doctor Strange, two of Marvel's most enduring characters.",
+      "source": "https://en.wikipedia.org/wiki/Steve_Ditko"
+    },
+    {
+      "text": "The Sandman by Neil Gaiman helped show that comics could be literary, philosophical, and deeply mythic without fitting neatly into superhero formulas.",
+      "source": "https://en.wikipedia.org/wiki/Sandman_by_Neil_Gaiman"
+    },
+    {
+      "text": "Bone by Jeff Smith became one of the most acclaimed independent fantasy comics ever published.",
+      "source": "https://en.wikipedia.org/wiki/Bone_by_Jeff_Smith"
+    },
+    {
+      "text": "Saga by Brian K. Vaughan and Fiona Staples became a major creator-owned hit by blending space opera, romance, and family drama.",
+      "source": "https://en.wikipedia.org/wiki/Saga_by_Brian_K._Vaughan_and_Fiona_Staples"
+    },
+    {
+      "text": "Invincible began as a comic book before becoming one of the most popular adult animated superhero series on streaming.",
+      "source": "https://en.wikipedia.org/wiki/Comic_Books"
+    },
+    {
+      "text": "Teenage Mutant Ninja Turtles started as a black-and-white independent comic before growing into a giant multimedia franchise.",
+      "source": "https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles"
+    },
+    {
+      "text": "Variant covers are alternate front covers for the same issue and can become major collector items.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Variant_covers"
+    },
+    {
+      "text": "Comic book letterers do far more than place words on a page — they shape pacing, tone, readability, and sound effects.",
+      "source": "https://en.wikipedia.org/wiki/Comic_Books"
+    },
+    {
+      "text": "Digital coloring transformed the look of mainstream comics in the 1990s and 2000s, allowing for more complex lighting and texture.",
+      "source": "https://en.wikipedia.org/wiki/Comic_Books"
+    },
+    {
+      "text": "Trade paperbacks helped comics reach bookstores and libraries, bringing many readers into the medium through collected editions.",
+      "source": "https://en.wikipedia.org/wiki/Trade_paperbacks"
+    },
+    {
+      "text": "Libraries now play a major role in comics culture by stocking graphic novels for kids, teens, and adults.",
+      "source": "https://en.wikipedia.org/wiki/Comic_Books"
+    },
+    {
+      "text": "Many comic readers discover major stories through collected runs and omnibuses rather than monthly single issues.",
+      "source": "https://en.wikipedia.org/wiki/Comic_Books"
+    },
+    {
+      "text": "The Yellow Kid is often cited as one of the earliest newspaper comic-strip phenomena in American pop culture.",
+      "source": "https://en.wikipedia.org/wiki/Yellow_Kid"
+    },
+    {
+      "text": "Will Eisner's The Spirit helped show how inventive page layouts and cinematic storytelling could transform comics.",
+      "source": "https://en.wikipedia.org/wiki/Will_Eisner%27s_The_Spirit"
+    },
+    {
+      "text": "Peanuts, Calvin and Hobbes, and other newspaper strips influenced generations of cartoonists even outside comic-book publishing.",
+      "source": "https://en.wikipedia.org/wiki/Comic_strip"
+    },
+    {
+      "text": "Alan Moore's work on Watchmen, Swamp Thing, and V for Vendetta changed how many readers thought about comics as a literary medium.",
+      "source": "https://en.wikipedia.org/wiki/Alan_Moore"
+    },
+    {
+      "text": "Art Spiegelman's Maus used anthropomorphic animals to tell a deeply personal Holocaust story and changed the reputation of graphic novels.",
+      "source": "https://en.wikipedia.org/wiki/Maus"
+    },
+    {
+      "text": "Neil Gaiman's The Sandman blended mythology, horror, fantasy, and literature in a way that expanded the audience for comics.",
+      "source": "https://en.wikipedia.org/wiki/Neil_Gaiman%27s_The_Sandman"
+    },
+    {
+      "text": "Brian Bolland's cover for Batman: The Killing Joke became one of the most famous comic-book images ever published.",
+      "source": "https://en.wikipedia.org/wiki/Batman:_The_Killing_Joke"
+    },
+    {
+      "text": "The long white storage boxes seen in comic shops are a familiar sight for collectors organizing back issues.",
+      "source": "https://en.wikipedia.org/wiki/Comic_book_collection"
+    },
+    {
+      "text": "A comic 'gutter' is the space between panels, and readers mentally fill in action there — one of the medium's most unique tricks.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Gutter_(comics)"
+    },
+    {
+      "text": "Scott McCloud's Understanding Comics became one of the most influential books ever written about how comics actually work.",
+      "source": "https://en.wikipedia.org/wiki/Understanding_Comics"
+    },
+    {
+      "text": "The term 'sequential art' is often associated with Will Eisner's efforts to describe comics as a legitimate artistic form.",
+      "source": "https://en.wikipedia.org/wiki/Sequential_art"
+    },
+    {
+      "text": "Shonen manga is generally aimed at younger male readers, while shojo manga traditionally targets younger female readers.",
+      "source": "https://en.wikipedia.org/wiki/Manga"
+    },
+    {
+      "text": "Webtoon-style vertical scrolling changed how comics are read on phones by making the page less important than the screen flow.",
+      "source": "https://en.wikipedia.org/wiki/Webtoon"
+    },
+    {
+      "text": "Independent minicomic creators often publish small handmade or self-printed comics before ever working with a larger publisher.",
+      "source": "https://en.wikipedia.org/wiki/Minicomic"
+    },
+    {
+      "text": "Comics criticism, scholarship, and archiving have grown so much that universities now regularly teach graphic-novel and comics studies courses.",
+      "source": "https://en.wikipedia.org/wiki/Comics_studies"
+    },
+    {
+      "text": "Action Comics #1 introduced Superman and is often treated as the beginning of the superhero boom.",
+      "source": "https://en.wikipedia.org/wiki/Action_Comics_1"
+    },
+    {
+      "text": "It remains one of the most famous and valuable comic books ever printed.",
+      "source": "https://en.wikipedia.org/wiki/Action_Comics_1"
+    },
+    {
+      "text": "Action Comics #1 is one of the standout topics people mention when discussing Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/Action_Comics_1"
+    },
+    {
+      "text": "Any overview of Comic Books usually includes Action Comics #1.",
+      "source": "https://en.wikipedia.org/wiki/Action_Comics_1"
+    },
+    {
+      "text": "Action Comics #1 helped define the legacy and reputation of Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/Action_Comics_1"
+    },
+    {
+      "text": "Fans exploring Comic Books are often encouraged to learn about Action Comics #1.",
+      "source": "https://en.wikipedia.org/wiki/Action_Comics_1"
+    },
+    {
+      "text": "The story of Comic Books is hard to explain without mentioning Action Comics #1.",
+      "source": "https://en.wikipedia.org/wiki/Action_Comics_1"
+    },
+    {
+      "text": "Retrospectives and fan discussions about Comic Books frequently return to Action Comics #1.",
+      "source": "https://en.wikipedia.org/wiki/Action_Comics_1"
+    },
+    {
+      "text": "For many fans, Action Comics #1 captures part of why Comic Books stays so memorable.",
+      "source": "https://en.wikipedia.org/wiki/Action_Comics_1"
+    },
+    {
+      "text": "Lists, articles, and guides about Comic Books often highlight Action Comics #1.",
+      "source": "https://en.wikipedia.org/wiki/Action_Comics_1"
+    },
+    {
+      "text": "Detective Comics #27 introduced Batman and helped cement DC's early importance in comics history.",
+      "source": "https://en.wikipedia.org/wiki/Detective_Comics_27"
+    },
+    {
+      "text": "Its place in comic-book collecting and superhero mythology is enormous.",
+      "source": "https://en.wikipedia.org/wiki/Detective_Comics_27"
+    },
+    {
+      "text": "Detective Comics #27 is one of the standout topics people mention when discussing Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/Detective_Comics_27"
+    },
+    {
+      "text": "Any overview of Comic Books usually includes Detective Comics #27.",
+      "source": "https://en.wikipedia.org/wiki/Detective_Comics_27"
+    },
+    {
+      "text": "Detective Comics #27 helped define the legacy and reputation of Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/Detective_Comics_27"
+    },
+    {
+      "text": "Fans exploring Comic Books are often encouraged to learn about Detective Comics #27.",
+      "source": "https://en.wikipedia.org/wiki/Detective_Comics_27"
+    },
+    {
+      "text": "The story of Comic Books is hard to explain without mentioning Detective Comics #27.",
+      "source": "https://en.wikipedia.org/wiki/Detective_Comics_27"
+    },
+    {
+      "text": "Retrospectives and fan discussions about Comic Books frequently return to Detective Comics #27.",
+      "source": "https://en.wikipedia.org/wiki/Detective_Comics_27"
+    },
+    {
+      "text": "For many fans, Detective Comics #27 captures part of why Comic Books stays so memorable.",
+      "source": "https://en.wikipedia.org/wiki/Detective_Comics_27"
+    },
+    {
+      "text": "Lists, articles, and guides about Comic Books often highlight Detective Comics #27.",
+      "source": "https://en.wikipedia.org/wiki/Detective_Comics_27"
+    },
+    {
+      "text": "Fantastic Four helped kick off Marvel's modern age of superhero storytelling in the early 1960s.",
+      "source": "https://en.wikipedia.org/wiki/Fantastic_Four"
+    },
+    {
+      "text": "The team's family dynamics gave superhero comics a different emotional texture.",
+      "source": "https://en.wikipedia.org/wiki/Fantastic_Four"
+    },
+    {
+      "text": "Fantastic Four is one of the standout topics people mention when discussing Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/Fantastic_Four"
+    },
+    {
+      "text": "Any overview of Comic Books usually includes Fantastic Four.",
+      "source": "https://en.wikipedia.org/wiki/Fantastic_Four"
+    },
+    {
+      "text": "Fantastic Four helped define the legacy and reputation of Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/Fantastic_Four"
+    },
+    {
+      "text": "Fans exploring Comic Books are often encouraged to learn about Fantastic Four.",
+      "source": "https://en.wikipedia.org/wiki/Fantastic_Four"
+    },
+    {
+      "text": "The story of Comic Books is hard to explain without mentioning Fantastic Four.",
+      "source": "https://en.wikipedia.org/wiki/Fantastic_Four"
+    },
+    {
+      "text": "Retrospectives and fan discussions about Comic Books frequently return to Fantastic Four.",
+      "source": "https://en.wikipedia.org/wiki/Fantastic_Four"
+    },
+    {
+      "text": "For many fans, Fantastic Four captures part of why Comic Books stays so memorable.",
+      "source": "https://en.wikipedia.org/wiki/Fantastic_Four"
+    },
+    {
+      "text": "Lists, articles, and guides about Comic Books often highlight Fantastic Four.",
+      "source": "https://en.wikipedia.org/wiki/Fantastic_Four"
+    },
+    {
+      "text": "Spider-Man became one of the most beloved comic-book heroes because his problems felt both heroic and everyday.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man"
+    },
+    {
+      "text": "Peter Parker helped make Marvel's style of flawed superheroes widely relatable.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man"
+    },
+    {
+      "text": "Spider-Man is one of the standout topics people mention when discussing Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man"
+    },
+    {
+      "text": "Any overview of Comic Books usually includes Spider-Man.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man"
+    },
+    {
+      "text": "Spider-Man helped define the legacy and reputation of Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man"
+    },
+    {
+      "text": "Fans exploring Comic Books are often encouraged to learn about Spider-Man.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man"
+    },
+    {
+      "text": "The story of Comic Books is hard to explain without mentioning Spider-Man.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man"
+    },
+    {
+      "text": "Retrospectives and fan discussions about Comic Books frequently return to Spider-Man.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man"
+    },
+    {
+      "text": "For many fans, Spider-Man captures part of why Comic Books stays so memorable.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man"
+    },
+    {
+      "text": "Lists, articles, and guides about Comic Books often highlight Spider-Man.",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man"
+    },
+    {
+      "text": "X-Men used mutant powers and prejudice themes to explore fear, identity, and social conflict.",
+      "source": "https://en.wikipedia.org/wiki/X-Men"
+    },
+    {
+      "text": "That metaphorical depth helped make the franchise one of comics' richest worlds.",
+      "source": "https://en.wikipedia.org/wiki/X-Men"
+    },
+    {
+      "text": "X-Men is one of the standout topics people mention when discussing Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/X-Men"
+    },
+    {
+      "text": "Any overview of Comic Books usually includes X-Men.",
+      "source": "https://en.wikipedia.org/wiki/X-Men"
+    },
+    {
+      "text": "X-Men helped define the legacy and reputation of Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/X-Men"
+    },
+    {
+      "text": "Fans exploring Comic Books are often encouraged to learn about X-Men.",
+      "source": "https://en.wikipedia.org/wiki/X-Men"
+    },
+    {
+      "text": "The story of Comic Books is hard to explain without mentioning X-Men.",
+      "source": "https://en.wikipedia.org/wiki/X-Men"
+    },
+    {
+      "text": "Retrospectives and fan discussions about Comic Books frequently return to X-Men.",
+      "source": "https://en.wikipedia.org/wiki/X-Men"
+    },
+    {
+      "text": "For many fans, X-Men captures part of why Comic Books stays so memorable.",
+      "source": "https://en.wikipedia.org/wiki/X-Men"
+    },
+    {
+      "text": "Lists, articles, and guides about Comic Books often highlight X-Men.",
+      "source": "https://en.wikipedia.org/wiki/X-Men"
+    },
+    {
+      "text": "Watchmen pushed superhero comics toward darker and more formally ambitious storytelling.",
+      "source": "https://en.wikipedia.org/wiki/Watchmen"
+    },
+    {
+      "text": "Its structure and themes made it a permanent reference point in comic criticism.",
+      "source": "https://en.wikipedia.org/wiki/Watchmen"
+    },
+    {
+      "text": "Watchmen is one of the standout topics people mention when discussing Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/Watchmen"
+    },
+    {
+      "text": "Any overview of Comic Books usually includes Watchmen.",
+      "source": "https://en.wikipedia.org/wiki/Watchmen"
+    },
+    {
+      "text": "Watchmen helped define the legacy and reputation of Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/Watchmen"
+    },
+    {
+      "text": "Fans exploring Comic Books are often encouraged to learn about Watchmen.",
+      "source": "https://en.wikipedia.org/wiki/Watchmen"
+    },
+    {
+      "text": "The story of Comic Books is hard to explain without mentioning Watchmen.",
+      "source": "https://en.wikipedia.org/wiki/Watchmen"
+    },
+    {
+      "text": "Retrospectives and fan discussions about Comic Books frequently return to Watchmen.",
+      "source": "https://en.wikipedia.org/wiki/Watchmen"
+    },
+    {
+      "text": "For many fans, Watchmen captures part of why Comic Books stays so memorable.",
+      "source": "https://en.wikipedia.org/wiki/Watchmen"
+    },
+    {
+      "text": "Lists, articles, and guides about Comic Books often highlight Watchmen.",
+      "source": "https://en.wikipedia.org/wiki/Watchmen"
+    },
+    {
+      "text": "The Dark Knight Returns helped redefine Batman for a darker modern era.",
+      "source": "https://en.wikipedia.org/wiki/Batman:_The_Dark_Knight_Returns"
+    },
+    {
+      "text": "Frank Miller's work became one of the most influential superhero comics of the 1980s.",
+      "source": "https://en.wikipedia.org/wiki/Batman:_The_Dark_Knight_Returns"
+    },
+    {
+      "text": "The Dark Knight Returns is one of the standout topics people mention when discussing Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/Batman:_The_Dark_Knight_Returns"
+    },
+    {
+      "text": "Any overview of Comic Books usually includes The Dark Knight Returns.",
+      "source": "https://en.wikipedia.org/wiki/Batman:_The_Dark_Knight_Returns"
+    },
+    {
+      "text": "The Dark Knight Returns helped define the legacy and reputation of Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/Batman:_The_Dark_Knight_Returns"
+    },
+    {
+      "text": "Fans exploring Comic Books are often encouraged to learn about The Dark Knight Returns.",
+      "source": "https://en.wikipedia.org/wiki/Batman:_The_Dark_Knight_Returns"
+    },
+    {
+      "text": "The story of Comic Books is hard to explain without mentioning The Dark Knight Returns.",
+      "source": "https://en.wikipedia.org/wiki/Batman:_The_Dark_Knight_Returns"
+    },
+    {
+      "text": "Retrospectives and fan discussions about Comic Books frequently return to The Dark Knight Returns.",
+      "source": "https://en.wikipedia.org/wiki/Batman:_The_Dark_Knight_Returns"
+    },
+    {
+      "text": "For many fans, The Dark Knight Returns captures part of why Comic Books stays so memorable.",
+      "source": "https://en.wikipedia.org/wiki/Batman:_The_Dark_Knight_Returns"
+    },
+    {
+      "text": "Lists, articles, and guides about Comic Books often highlight The Dark Knight Returns.",
+      "source": "https://en.wikipedia.org/wiki/Batman:_The_Dark_Knight_Returns"
+    },
+    {
+      "text": "Maus became the first graphic novel to win a Pulitzer Prize.",
+      "source": "https://en.wikipedia.org/wiki/Maus"
+    },
+    {
+      "text": "Art Spiegelman's work showed that comics could carry major historical and literary weight.",
+      "source": "https://en.wikipedia.org/wiki/Maus"
+    },
+    {
+      "text": "Maus is one of the standout topics people mention when discussing Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/Maus"
+    },
+    {
+      "text": "Any overview of Comic Books usually includes Maus.",
+      "source": "https://en.wikipedia.org/wiki/Maus"
+    },
+    {
+      "text": "Maus helped define the legacy and reputation of Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/Maus"
+    },
+    {
+      "text": "Fans exploring Comic Books are often encouraged to learn about Maus.",
+      "source": "https://en.wikipedia.org/wiki/Maus"
+    },
+    {
+      "text": "The story of Comic Books is hard to explain without mentioning Maus.",
+      "source": "https://en.wikipedia.org/wiki/Maus"
+    },
+    {
+      "text": "Retrospectives and fan discussions about Comic Books frequently return to Maus.",
+      "source": "https://en.wikipedia.org/wiki/Maus"
+    },
+    {
+      "text": "For many fans, Maus captures part of why Comic Books stays so memorable.",
+      "source": "https://en.wikipedia.org/wiki/Maus"
+    },
+    {
+      "text": "Lists, articles, and guides about Comic Books often highlight Maus.",
+      "source": "https://en.wikipedia.org/wiki/Maus"
+    },
+    {
+      "text": "The Sandman blended mythology, fantasy, horror, and literary ambition into one of comics' most admired series.",
+      "source": "https://en.wikipedia.org/wiki/The_Sandman_(comic_book)"
+    },
+    {
+      "text": "Neil Gaiman's title helped expand perceptions of what mainstream comics could do.",
+      "source": "https://en.wikipedia.org/wiki/The_Sandman_(comic_book)"
+    },
+    {
+      "text": "Sandman is one of the standout topics people mention when discussing Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/The_Sandman_(comic_book)"
+    },
+    {
+      "text": "Any overview of Comic Books usually includes Sandman.",
+      "source": "https://en.wikipedia.org/wiki/The_Sandman_(comic_book)"
+    },
+    {
+      "text": "Sandman helped define the legacy and reputation of Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/The_Sandman_(comic_book)"
+    },
+    {
+      "text": "Fans exploring Comic Books are often encouraged to learn about Sandman.",
+      "source": "https://en.wikipedia.org/wiki/The_Sandman_(comic_book)"
+    },
+    {
+      "text": "The story of Comic Books is hard to explain without mentioning Sandman.",
+      "source": "https://en.wikipedia.org/wiki/The_Sandman_(comic_book)"
+    },
+    {
+      "text": "Retrospectives and fan discussions about Comic Books frequently return to Sandman.",
+      "source": "https://en.wikipedia.org/wiki/The_Sandman_(comic_book)"
+    },
+    {
+      "text": "For many fans, Sandman captures part of why Comic Books stays so memorable.",
+      "source": "https://en.wikipedia.org/wiki/The_Sandman_(comic_book)"
+    },
+    {
+      "text": "Lists, articles, and guides about Comic Books often highlight Sandman.",
+      "source": "https://en.wikipedia.org/wiki/The_Sandman_(comic_book)"
+    },
+    {
+      "text": "Akira became one of the most internationally influential manga titles of the modern era.",
+      "source": "https://en.wikipedia.org/wiki/Akira_(manga)"
+    },
+    {
+      "text": "Its success helped many readers discover the scale and power of Japanese comics.",
+      "source": "https://en.wikipedia.org/wiki/Akira_(manga)"
+    },
+    {
+      "text": "Akira is one of the standout topics people mention when discussing Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/Akira_(manga)"
+    },
+    {
+      "text": "Any overview of Comic Books usually includes Akira.",
+      "source": "https://en.wikipedia.org/wiki/Akira_(manga)"
+    },
+    {
+      "text": "Akira helped define the legacy and reputation of Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/Akira_(manga)"
+    },
+    {
+      "text": "Fans exploring Comic Books are often encouraged to learn about Akira.",
+      "source": "https://en.wikipedia.org/wiki/Akira_(manga)"
+    },
+    {
+      "text": "The story of Comic Books is hard to explain without mentioning Akira.",
+      "source": "https://en.wikipedia.org/wiki/Akira_(manga)"
+    },
+    {
+      "text": "Retrospectives and fan discussions about Comic Books frequently return to Akira.",
+      "source": "https://en.wikipedia.org/wiki/Akira_(manga)"
+    },
+    {
+      "text": "For many fans, Akira captures part of why Comic Books stays so memorable.",
+      "source": "https://en.wikipedia.org/wiki/Akira_(manga)"
+    },
+    {
+      "text": "Lists, articles, and guides about Comic Books often highlight Akira.",
+      "source": "https://en.wikipedia.org/wiki/Akira_(manga)"
+    },
+    {
+      "text": "Manga became one of the biggest forces in global comics publishing and reading culture.",
+      "source": "https://en.wikipedia.org/wiki/Manga"
+    },
+    {
+      "text": "Its success reshaped bookstore shelves, fandom, and adaptation trends worldwide.",
+      "source": "https://en.wikipedia.org/wiki/Manga"
+    },
+    {
+      "text": "Manga is one of the standout topics people mention when discussing Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/Manga"
+    },
+    {
+      "text": "Any overview of Comic Books usually includes Manga.",
+      "source": "https://en.wikipedia.org/wiki/Manga"
+    },
+    {
+      "text": "Manga helped define the legacy and reputation of Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/Manga"
+    },
+    {
+      "text": "Fans exploring Comic Books are often encouraged to learn about Manga.",
+      "source": "https://en.wikipedia.org/wiki/Manga"
+    },
+    {
+      "text": "The story of Comic Books is hard to explain without mentioning Manga.",
+      "source": "https://en.wikipedia.org/wiki/Manga"
+    },
+    {
+      "text": "Retrospectives and fan discussions about Comic Books frequently return to Manga.",
+      "source": "https://en.wikipedia.org/wiki/Manga"
+    },
+    {
+      "text": "For many fans, Manga captures part of why Comic Books stays so memorable.",
+      "source": "https://en.wikipedia.org/wiki/Manga"
+    },
+    {
+      "text": "Lists, articles, and guides about Comic Books often highlight Manga.",
+      "source": "https://en.wikipedia.org/wiki/Manga"
+    },
+    {
+      "text": "Comic-Con International grew into one of the most famous fan conventions connected to comics and pop culture.",
+      "source": "https://en.wikipedia.org/wiki/San_Diego_Comic-Con"
+    },
+    {
+      "text": "Its rise showed how central comic-book fandom had become to entertainment culture.",
+      "source": "https://en.wikipedia.org/wiki/San_Diego_Comic-Con"
+    },
+    {
+      "text": "Comic-Con is one of the standout topics people mention when discussing Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/San_Diego_Comic-Con"
+    },
+    {
+      "text": "Any overview of Comic Books usually includes Comic-Con.",
+      "source": "https://en.wikipedia.org/wiki/San_Diego_Comic-Con"
+    },
+    {
+      "text": "Comic-Con helped define the legacy and reputation of Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/San_Diego_Comic-Con"
+    },
+    {
+      "text": "Fans exploring Comic Books are often encouraged to learn about Comic-Con.",
+      "source": "https://en.wikipedia.org/wiki/San_Diego_Comic-Con"
+    },
+    {
+      "text": "The story of Comic Books is hard to explain without mentioning Comic-Con.",
+      "source": "https://en.wikipedia.org/wiki/San_Diego_Comic-Con"
+    },
+    {
+      "text": "Retrospectives and fan discussions about Comic Books frequently return to Comic-Con.",
+      "source": "https://en.wikipedia.org/wiki/San_Diego_Comic-Con"
+    },
+    {
+      "text": "For many fans, Comic-Con captures part of why Comic Books stays so memorable.",
+      "source": "https://en.wikipedia.org/wiki/San_Diego_Comic-Con"
+    },
+    {
+      "text": "Lists, articles, and guides about Comic Books often highlight Comic-Con.",
+      "source": "https://en.wikipedia.org/wiki/San_Diego_Comic-Con"
+    },
+    {
+      "text": "The Comics Code Authority heavily shaped mainstream American comics for decades after 1954.",
+      "source": "https://en.wikipedia.org/wiki/Comics_Code_Authority"
+    },
+    {
+      "text": "Its restrictions affected what kinds of stories publishers felt comfortable printing.",
+      "source": "https://en.wikipedia.org/wiki/Comics_Code_Authority"
+    },
+    {
+      "text": "Comics Code Authority is one of the standout topics people mention when discussing Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/Comics_Code_Authority"
+    },
+    {
+      "text": "Any overview of Comic Books usually includes Comics Code Authority.",
+      "source": "https://en.wikipedia.org/wiki/Comics_Code_Authority"
+    },
+    {
+      "text": "Comics Code Authority helped define the legacy and reputation of Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/Comics_Code_Authority"
+    },
+    {
+      "text": "Fans exploring Comic Books are often encouraged to learn about Comics Code Authority.",
+      "source": "https://en.wikipedia.org/wiki/Comics_Code_Authority"
+    },
+    {
+      "text": "The story of Comic Books is hard to explain without mentioning Comics Code Authority.",
+      "source": "https://en.wikipedia.org/wiki/Comics_Code_Authority"
+    },
+    {
+      "text": "Retrospectives and fan discussions about Comic Books frequently return to Comics Code Authority.",
+      "source": "https://en.wikipedia.org/wiki/Comics_Code_Authority"
+    },
+    {
+      "text": "For many fans, Comics Code Authority captures part of why Comic Books stays so memorable.",
+      "source": "https://en.wikipedia.org/wiki/Comics_Code_Authority"
+    },
+    {
+      "text": "Lists, articles, and guides about Comic Books often highlight Comics Code Authority.",
+      "source": "https://en.wikipedia.org/wiki/Comics_Code_Authority"
+    },
+    {
+      "text": "The term graphic novel helped many readers approach longer comic works as complete books rather than only serialized issues.",
+      "source": "https://en.wikipedia.org/wiki/Graphic_novel"
+    },
+    {
+      "text": "The format opened space for memoir, journalism, literary fiction, and more.",
+      "source": "https://en.wikipedia.org/wiki/Graphic_novel"
+    },
+    {
+      "text": "Graphic novel is one of the standout topics people mention when discussing Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/Graphic_novel"
+    },
+    {
+      "text": "Any overview of Comic Books usually includes Graphic novel.",
+      "source": "https://en.wikipedia.org/wiki/Graphic_novel"
+    },
+    {
+      "text": "Graphic novel helped define the legacy and reputation of Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/Graphic_novel"
+    },
+    {
+      "text": "Fans exploring Comic Books are often encouraged to learn about Graphic novel.",
+      "source": "https://en.wikipedia.org/wiki/Graphic_novel"
+    },
+    {
+      "text": "The story of Comic Books is hard to explain without mentioning Graphic novel.",
+      "source": "https://en.wikipedia.org/wiki/Graphic_novel"
+    },
+    {
+      "text": "Retrospectives and fan discussions about Comic Books frequently return to Graphic novel.",
+      "source": "https://en.wikipedia.org/wiki/Graphic_novel"
+    },
+    {
+      "text": "For many fans, Graphic novel captures part of why Comic Books stays so memorable.",
+      "source": "https://en.wikipedia.org/wiki/Graphic_novel"
+    },
+    {
+      "text": "Lists, articles, and guides about Comic Books often highlight Graphic novel.",
+      "source": "https://en.wikipedia.org/wiki/Graphic_novel"
+    },
+    {
+      "text": "Saga became one of the most acclaimed modern creator-owned comics of the 21st century.",
+      "source": "https://en.wikipedia.org/wiki/Saga_(comics)"
+    },
+    {
+      "text": "Its success showed that readers still strongly support original worlds outside superhero universes.",
+      "source": "https://en.wikipedia.org/wiki/Saga_(comics)"
+    },
+    {
+      "text": "Saga is one of the standout topics people mention when discussing Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/Saga_(comics)"
+    },
+    {
+      "text": "Any overview of Comic Books usually includes Saga.",
+      "source": "https://en.wikipedia.org/wiki/Saga_(comics)"
+    },
+    {
+      "text": "Saga helped define the legacy and reputation of Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/Saga_(comics)"
+    },
+    {
+      "text": "Fans exploring Comic Books are often encouraged to learn about Saga.",
+      "source": "https://en.wikipedia.org/wiki/Saga_(comics)"
+    },
+    {
+      "text": "The story of Comic Books is hard to explain without mentioning Saga.",
+      "source": "https://en.wikipedia.org/wiki/Saga_(comics)"
+    },
+    {
+      "text": "Retrospectives and fan discussions about Comic Books frequently return to Saga.",
+      "source": "https://en.wikipedia.org/wiki/Saga_(comics)"
+    },
+    {
+      "text": "For many fans, Saga captures part of why Comic Books stays so memorable.",
+      "source": "https://en.wikipedia.org/wiki/Saga_(comics)"
+    },
+    {
+      "text": "Lists, articles, and guides about Comic Books often highlight Saga.",
+      "source": "https://en.wikipedia.org/wiki/Saga_(comics)"
+    },
+    {
+      "text": "Marvel Comics became one of the biggest names in the history of comic books.",
+      "source": "https://en.wikipedia.org/wiki/Marvel_Comics"
+    },
+    {
+      "text": "Its heroes and shared universe helped shape modern superhero storytelling.",
+      "source": "https://en.wikipedia.org/wiki/Marvel_Comics"
+    },
+    {
+      "text": "Marvel Comics is one of the standout topics people often explore within Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/Marvel_Comics"
+    },
+    {
+      "text": "Readers interested in Comic Books regularly come across Marvel Comics.",
+      "source": "https://en.wikipedia.org/wiki/Marvel_Comics"
+    },
+    {
+      "text": "Learning about Marvel Comics helps explain part of the lasting appeal of Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/Marvel_Comics"
+    },
+    {
+      "text": "Marvel Comics remains one of the most recognizable examples connected with Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/Marvel_Comics"
+    },
+    {
+      "text": "Articles, documentaries, and fan discussions about Comic Books often highlight Marvel Comics.",
+      "source": "https://en.wikipedia.org/wiki/Marvel_Comics"
+    },
+    {
+      "text": "For many people, Marvel Comics is a memorable entry point into Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/Marvel_Comics"
+    },
+    {
+      "text": "The story of Marvel Comics helps show why Comic Books stays so interesting to revisit.",
+      "source": "https://en.wikipedia.org/wiki/Marvel_Comics"
+    },
+    {
+      "text": "Marvel Comics is frequently mentioned in guides and retrospectives about Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/Marvel_Comics"
+    },
+    {
+      "text": "One reason Comic Books feels rich and memorable is the presence of touchpoints like Marvel Comics.",
+      "source": "https://en.wikipedia.org/wiki/Marvel_Comics"
+    },
+    {
+      "text": "Marvel Comics still stands out as a classic reference point within Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/Marvel_Comics"
+    },
+    {
+      "text": "DC Comics helped define the superhero genre with some of the medium’s most famous characters.",
+      "source": "https://en.wikipedia.org/wiki/DC_Comics"
+    },
+    {
+      "text": "Its long history made it central to comic-book culture.",
+      "source": "https://en.wikipedia.org/wiki/DC_Comics"
+    },
+    {
+      "text": "DC Comics is one of the standout topics people often explore within Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/DC_Comics"
+    },
+    {
+      "text": "Readers interested in Comic Books regularly come across DC Comics.",
+      "source": "https://en.wikipedia.org/wiki/DC_Comics"
+    },
+    {
+      "text": "Learning about DC Comics helps explain part of the lasting appeal of Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/DC_Comics"
+    },
+    {
+      "text": "DC Comics remains one of the most recognizable examples connected with Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/DC_Comics"
+    },
+    {
+      "text": "Articles, documentaries, and fan discussions about Comic Books often highlight DC Comics.",
+      "source": "https://en.wikipedia.org/wiki/DC_Comics"
+    },
+    {
+      "text": "For many people, DC Comics is a memorable entry point into Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/DC_Comics"
+    },
+    {
+      "text": "The story of DC Comics helps show why Comic Books stays so interesting to revisit.",
+      "source": "https://en.wikipedia.org/wiki/DC_Comics"
+    },
+    {
+      "text": "DC Comics is frequently mentioned in guides and retrospectives about Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/DC_Comics"
+    },
+    {
+      "text": "One reason Comic Books feels rich and memorable is the presence of touchpoints like DC Comics.",
+      "source": "https://en.wikipedia.org/wiki/DC_Comics"
+    },
+    {
+      "text": "DC Comics still stands out as a classic reference point within Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/DC_Comics"
+    },
+    {
+      "text": "Action Comics is one of the most famous comic-book titles ever published, especially because of Superman’s early appearances.",
+      "source": "https://en.wikipedia.org/wiki/Action_Comics"
+    },
+    {
+      "text": "It remains a landmark name in the history of the medium.",
+      "source": "https://en.wikipedia.org/wiki/Action_Comics"
+    },
+    {
+      "text": "Action Comics is one of the standout topics people often explore within Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/Action_Comics"
+    },
+    {
+      "text": "Readers interested in Comic Books regularly come across Action Comics.",
+      "source": "https://en.wikipedia.org/wiki/Action_Comics"
+    },
+    {
+      "text": "Learning about Action Comics helps explain part of the lasting appeal of Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/Action_Comics"
+    },
+    {
+      "text": "Action Comics remains one of the most recognizable examples connected with Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/Action_Comics"
+    },
+    {
+      "text": "Articles, documentaries, and fan discussions about Comic Books often highlight Action Comics.",
+      "source": "https://en.wikipedia.org/wiki/Action_Comics"
+    },
+    {
+      "text": "For many people, Action Comics is a memorable entry point into Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/Action_Comics"
+    },
+    {
+      "text": "The story of Action Comics helps show why Comic Books stays so interesting to revisit.",
+      "source": "https://en.wikipedia.org/wiki/Action_Comics"
+    },
+    {
+      "text": "Action Comics is frequently mentioned in guides and retrospectives about Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/Action_Comics"
+    },
+    {
+      "text": "One reason Comic Books feels rich and memorable is the presence of touchpoints like Action Comics.",
+      "source": "https://en.wikipedia.org/wiki/Action_Comics"
+    },
+    {
+      "text": "Action Comics still stands out as a classic reference point within Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/Action_Comics"
+    },
+    {
+      "text": "Stan Lee became one of the most recognizable creative figures associated with comic books.",
+      "source": "https://en.wikipedia.org/wiki/Stan_Lee"
+    },
+    {
+      "text": "His writing, editing, and public persona helped popularize the medium worldwide.",
+      "source": "https://en.wikipedia.org/wiki/Stan_Lee"
+    },
+    {
+      "text": "Stan Lee is one of the standout topics people often explore within Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/Stan_Lee"
+    },
+    {
+      "text": "Readers interested in Comic Books regularly come across Stan Lee.",
+      "source": "https://en.wikipedia.org/wiki/Stan_Lee"
+    },
+    {
+      "text": "Learning about Stan Lee helps explain part of the lasting appeal of Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/Stan_Lee"
+    },
+    {
+      "text": "Stan Lee remains one of the most recognizable examples connected with Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/Stan_Lee"
+    },
+    {
+      "text": "Articles, documentaries, and fan discussions about Comic Books often highlight Stan Lee.",
+      "source": "https://en.wikipedia.org/wiki/Stan_Lee"
+    },
+    {
+      "text": "For many people, Stan Lee is a memorable entry point into Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/Stan_Lee"
+    },
+    {
+      "text": "The story of Stan Lee helps show why Comic Books stays so interesting to revisit.",
+      "source": "https://en.wikipedia.org/wiki/Stan_Lee"
+    },
+    {
+      "text": "Stan Lee is frequently mentioned in guides and retrospectives about Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/Stan_Lee"
+    },
+    {
+      "text": "One reason Comic Books feels rich and memorable is the presence of touchpoints like Stan Lee.",
+      "source": "https://en.wikipedia.org/wiki/Stan_Lee"
+    },
+    {
+      "text": "Stan Lee still stands out as a classic reference point within Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/Stan_Lee"
+    },
+    {
+      "text": "Jack Kirby became one of the most influential artists and creators in comic-book history.",
+      "source": "https://en.wikipedia.org/wiki/Jack_Kirby"
+    },
+    {
+      "text": "His visual imagination helped define countless characters and worlds.",
+      "source": "https://en.wikipedia.org/wiki/Jack_Kirby"
+    },
+    {
+      "text": "Jack Kirby is one of the standout topics people often explore within Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/Jack_Kirby"
+    },
+    {
+      "text": "Readers interested in Comic Books regularly come across Jack Kirby.",
+      "source": "https://en.wikipedia.org/wiki/Jack_Kirby"
+    },
+    {
+      "text": "Learning about Jack Kirby helps explain part of the lasting appeal of Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/Jack_Kirby"
+    },
+    {
+      "text": "Jack Kirby remains one of the most recognizable examples connected with Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/Jack_Kirby"
+    },
+    {
+      "text": "Articles, documentaries, and fan discussions about Comic Books often highlight Jack Kirby.",
+      "source": "https://en.wikipedia.org/wiki/Jack_Kirby"
+    },
+    {
+      "text": "For many people, Jack Kirby is a memorable entry point into Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/Jack_Kirby"
+    },
+    {
+      "text": "The story of Jack Kirby helps show why Comic Books stays so interesting to revisit.",
+      "source": "https://en.wikipedia.org/wiki/Jack_Kirby"
+    },
+    {
+      "text": "Jack Kirby is frequently mentioned in guides and retrospectives about Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/Jack_Kirby"
+    },
+    {
+      "text": "One reason Comic Books feels rich and memorable is the presence of touchpoints like Jack Kirby.",
+      "source": "https://en.wikipedia.org/wiki/Jack_Kirby"
+    },
+    {
+      "text": "Jack Kirby still stands out as a classic reference point within Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/Jack_Kirby"
+    },
+    {
+      "text": "Graphic novels helped expand how readers and critics think about comics as a storytelling form.",
+      "source": "https://en.wikipedia.org/wiki/Graphic_novel"
+    },
+    {
+      "text": "The format became a major gateway for new audiences entering comic culture.",
+      "source": "https://en.wikipedia.org/wiki/Graphic_novel"
+    },
+    {
+      "text": "Graphic novel is one of the standout topics people often explore within Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/Graphic_novel"
+    },
+    {
+      "text": "Readers interested in Comic Books regularly come across Graphic novel.",
+      "source": "https://en.wikipedia.org/wiki/Graphic_novel"
+    },
+    {
+      "text": "Learning about Graphic novel helps explain part of the lasting appeal of Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/Graphic_novel"
+    },
+    {
+      "text": "Graphic novel remains one of the most recognizable examples connected with Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/Graphic_novel"
+    },
+    {
+      "text": "Articles, documentaries, and fan discussions about Comic Books often highlight Graphic novel.",
+      "source": "https://en.wikipedia.org/wiki/Graphic_novel"
+    },
+    {
+      "text": "For many people, Graphic novel is a memorable entry point into Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/Graphic_novel"
+    },
+    {
+      "text": "The story of Graphic novel helps show why Comic Books stays so interesting to revisit.",
+      "source": "https://en.wikipedia.org/wiki/Graphic_novel"
+    },
+    {
+      "text": "Graphic novel is frequently mentioned in guides and retrospectives about Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/Graphic_novel"
+    },
+    {
+      "text": "One reason Comic Books feels rich and memorable is the presence of touchpoints like Graphic novel.",
+      "source": "https://en.wikipedia.org/wiki/Graphic_novel"
+    },
+    {
+      "text": "Graphic novel still stands out as a classic reference point within Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/Graphic_novel"
+    },
+    {
+      "text": "Comic strips brought illustrated storytelling into newspapers and daily life long before superhero comics dominated the medium.",
+      "source": "https://en.wikipedia.org/wiki/Comic_strip"
+    },
+    {
+      "text": "They remain an important branch of comic-book and comics history.",
+      "source": "https://en.wikipedia.org/wiki/Comic_strip"
+    },
+    {
+      "text": "Comic strip is one of the standout topics people often explore within Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/Comic_strip"
+    },
+    {
+      "text": "Readers interested in Comic Books regularly come across Comic strip.",
+      "source": "https://en.wikipedia.org/wiki/Comic_strip"
+    },
+    {
+      "text": "Learning about Comic strip helps explain part of the lasting appeal of Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/Comic_strip"
+    },
+    {
+      "text": "Comic strip remains one of the most recognizable examples connected with Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/Comic_strip"
+    },
+    {
+      "text": "Articles, documentaries, and fan discussions about Comic Books often highlight Comic strip.",
+      "source": "https://en.wikipedia.org/wiki/Comic_strip"
+    },
+    {
+      "text": "For many people, Comic strip is a memorable entry point into Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/Comic_strip"
+    },
+    {
+      "text": "The story of Comic strip helps show why Comic Books stays so interesting to revisit.",
+      "source": "https://en.wikipedia.org/wiki/Comic_strip"
+    },
+    {
+      "text": "Comic strip is frequently mentioned in guides and retrospectives about Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/Comic_strip"
+    },
+    {
+      "text": "One reason Comic Books feels rich and memorable is the presence of touchpoints like Comic strip.",
+      "source": "https://en.wikipedia.org/wiki/Comic_strip"
+    },
+    {
+      "text": "Comic strip still stands out as a classic reference point within Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/Comic_strip"
+    },
+    {
+      "text": "Manga became one of the most influential comic traditions in the world.",
+      "source": "https://en.wikipedia.org/wiki/Manga"
+    },
+    {
+      "text": "Its storytelling and art styles helped shape global comics culture beyond Japan.",
+      "source": "https://en.wikipedia.org/wiki/Manga"
+    },
+    {
+      "text": "Manga is one of the standout topics people often explore within Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/Manga"
+    },
+    {
+      "text": "Readers interested in Comic Books regularly come across Manga.",
+      "source": "https://en.wikipedia.org/wiki/Manga"
+    },
+    {
+      "text": "Learning about Manga helps explain part of the lasting appeal of Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/Manga"
+    },
+    {
+      "text": "Manga remains one of the most recognizable examples connected with Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/Manga"
+    },
+    {
+      "text": "Articles, documentaries, and fan discussions about Comic Books often highlight Manga.",
+      "source": "https://en.wikipedia.org/wiki/Manga"
+    },
+    {
+      "text": "For many people, Manga is a memorable entry point into Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/Manga"
+    },
+    {
+      "text": "The story of Manga helps show why Comic Books stays so interesting to revisit.",
+      "source": "https://en.wikipedia.org/wiki/Manga"
+    },
+    {
+      "text": "Manga is frequently mentioned in guides and retrospectives about Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/Manga"
+    },
+    {
+      "text": "One reason Comic Books feels rich and memorable is the presence of touchpoints like Manga.",
+      "source": "https://en.wikipedia.org/wiki/Manga"
+    },
+    {
+      "text": "Manga still stands out as a classic reference point within Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/Manga"
+    },
+    {
+      "text": "Comic-Con conventions became major gathering places for comic-book fans, creators, and pop-culture communities.",
+      "source": "https://en.wikipedia.org/wiki/Comic-Con"
+    },
+    {
+      "text": "They helped turn comics fandom into a large public event scene.",
+      "source": "https://en.wikipedia.org/wiki/Comic-Con"
+    },
+    {
+      "text": "Comic-Con is one of the standout topics people often explore within Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/Comic-Con"
+    },
+    {
+      "text": "Readers interested in Comic Books regularly come across Comic-Con.",
+      "source": "https://en.wikipedia.org/wiki/Comic-Con"
+    },
+    {
+      "text": "Learning about Comic-Con helps explain part of the lasting appeal of Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/Comic-Con"
+    },
+    {
+      "text": "Comic-Con remains one of the most recognizable examples connected with Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/Comic-Con"
+    },
+    {
+      "text": "Articles, documentaries, and fan discussions about Comic Books often highlight Comic-Con.",
+      "source": "https://en.wikipedia.org/wiki/Comic-Con"
+    },
+    {
+      "text": "For many people, Comic-Con is a memorable entry point into Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/Comic-Con"
+    },
+    {
+      "text": "The story of Comic-Con helps show why Comic Books stays so interesting to revisit.",
+      "source": "https://en.wikipedia.org/wiki/Comic-Con"
+    },
+    {
+      "text": "Comic-Con is frequently mentioned in guides and retrospectives about Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/Comic-Con"
+    },
+    {
+      "text": "One reason Comic Books feels rich and memorable is the presence of touchpoints like Comic-Con.",
+      "source": "https://en.wikipedia.org/wiki/Comic-Con"
+    },
+    {
+      "text": "Comic-Con still stands out as a classic reference point within Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/Comic-Con"
+    },
+    {
+      "text": "The Golden Age of Comic Books helped establish the superhero boom in American publishing.",
+      "source": "https://en.wikipedia.org/wiki/Golden_Age_of_Comic_Books"
+    },
+    {
+      "text": "It remains one of the most important eras in the history of the medium.",
+      "source": "https://en.wikipedia.org/wiki/Golden_Age_of_Comic_Books"
+    },
+    {
+      "text": "Golden Age of Comic Books is one of the standout topics people often explore within Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/Golden_Age_of_Comic_Books"
+    },
+    {
+      "text": "Readers interested in Comic Books regularly come across Golden Age of Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/Golden_Age_of_Comic_Books"
+    },
+    {
+      "text": "Learning about Golden Age of Comic Books helps explain part of the lasting appeal of Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/Golden_Age_of_Comic_Books"
+    },
+    {
+      "text": "Golden Age of Comic Books remains one of the most recognizable examples connected with Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/Golden_Age_of_Comic_Books"
+    },
+    {
+      "text": "Articles, documentaries, and fan discussions about Comic Books often highlight Golden Age of Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/Golden_Age_of_Comic_Books"
+    },
+    {
+      "text": "For many people, Golden Age of Comic Books is a memorable entry point into Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/Golden_Age_of_Comic_Books"
+    },
+    {
+      "text": "The story of Golden Age of Comic Books helps show why Comic Books stays so interesting to revisit.",
+      "source": "https://en.wikipedia.org/wiki/Golden_Age_of_Comic_Books"
+    },
+    {
+      "text": "Golden Age of Comic Books is frequently mentioned in guides and retrospectives about Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/Golden_Age_of_Comic_Books"
+    },
+    {
+      "text": "One reason Comic Books feels rich and memorable is the presence of touchpoints like Golden Age of Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/Golden_Age_of_Comic_Books"
+    },
+    {
+      "text": "Golden Age of Comic Books still stands out as a classic reference point within Comic Books.",
+      "source": "https://en.wikipedia.org/wiki/Golden_Age_of_Comic_Books"
+    }
+  ]
+}

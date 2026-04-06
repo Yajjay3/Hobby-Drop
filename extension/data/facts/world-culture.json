@@ -1,0 +1,1181 @@
+{
+  "hobby": "World Culture",
+  "facts": [
+    {
+      "text": "UNESCO's Intangible Cultural Heritage program helps protect living traditions such as festivals, crafts, music, and rituals.",
+      "source": "https://en.wikipedia.org/wiki/Intangible_Cultural_Heritage"
+    },
+    {
+      "text": "Lunar New Year is celebrated across many parts of East and Southeast Asia, with traditions centered on family, food, and renewal.",
+      "source": "https://en.wikipedia.org/wiki/Lunar_New_Year"
+    },
+    {
+      "text": "Diwali is widely known as the Festival of Lights and is celebrated by millions of people across India and the global Indian diaspora.",
+      "source": "https://en.wikipedia.org/wiki/Diwali"
+    },
+    {
+      "text": "Holi in India is famous for joyful gatherings and colorful powder thrown during the celebration of spring.",
+      "source": "https://en.wikipedia.org/wiki/Holi"
+    },
+    {
+      "text": "Ramadan is observed by Muslims worldwide as a month of fasting, reflection, prayer, and community.",
+      "source": "https://en.wikipedia.org/wiki/Ramadan"
+    },
+    {
+      "text": "Eid al-Fitr marks the end of Ramadan and is celebrated with prayers, family visits, and festive meals.",
+      "source": "https://en.wikipedia.org/wiki/Eid_al-Fitr"
+    },
+    {
+      "text": "Día de los Muertos, or Day of the Dead, honors loved ones who have died and is one of Mexico's most recognized cultural traditions.",
+      "source": "https://en.wikipedia.org/wiki/Day_of_the_Dead"
+    },
+    {
+      "text": "Nowruz, the Persian New Year, is celebrated around the spring equinox in Iran and many neighboring cultures.",
+      "source": "https://en.wikipedia.org/wiki/Nowruz"
+    },
+    {
+      "text": "Oktoberfest began in Munich in 1810 as a royal wedding celebration and grew into the world's most famous beer festival.",
+      "source": "https://en.wikipedia.org/wiki/Oktoberfest"
+    },
+    {
+      "text": "Rio de Janeiro's Carnival is one of the largest and most famous cultural festivals in the world.",
+      "source": "https://en.wikipedia.org/wiki/Rio_Carnival"
+    },
+    {
+      "text": "Hanami in Japan centers on appreciating the beauty of cherry blossoms each spring.",
+      "source": "https://en.wikipedia.org/wiki/Hanami"
+    },
+    {
+      "text": "The Japanese tea ceremony, often called chanoyu, emphasizes ritual, hospitality, and aesthetics.",
+      "source": "https://en.wikipedia.org/wiki/Japanese_tea_ceremony"
+    },
+    {
+      "text": "Sauna culture is so central to Finland that the country has more saunas than cars.",
+      "source": "https://en.wikipedia.org/wiki/Finnish_sauna"
+    },
+    {
+      "text": "Flamenco from Spain combines singing, guitar, dance, and rhythmic handclaps and is recognized by UNESCO.",
+      "source": "https://en.wikipedia.org/wiki/Flamenco"
+    },
+    {
+      "text": "Tango developed in the Río de la Plata region of Argentina and Uruguay and became one of the world's most famous partner dances.",
+      "source": "https://en.wikipedia.org/wiki/Tango"
+    },
+    {
+      "text": "Capoeira from Brazil blends martial arts, dance, music, and acrobatics into one cultural tradition.",
+      "source": "https://en.wikipedia.org/wiki/Capoeira"
+    },
+    {
+      "text": "Mariachi music is one of the best-known cultural traditions of Mexico and was added to UNESCO's heritage list.",
+      "source": "https://en.wikipedia.org/wiki/Mariachi"
+    },
+    {
+      "text": "Fado is a Portuguese music tradition known for expressive singing and themes of longing and fate.",
+      "source": "https://en.wikipedia.org/wiki/Fado"
+    },
+    {
+      "text": "Kintsugi in Japan is the art of repairing broken pottery with lacquer mixed with precious metal, embracing visible repair.",
+      "source": "https://en.wikipedia.org/wiki/Kintsugi"
+    },
+    {
+      "text": "Songkran in Thailand marks the traditional New Year and is famous for public water-splashing celebrations.",
+      "source": "https://en.wikipedia.org/wiki/Songkran_(Thailand)"
+    },
+    {
+      "text": "The haka is a traditional Māori ceremonial dance and chant from Aotearoa New Zealand.",
+      "source": "https://en.wikipedia.org/wiki/Haka"
+    },
+    {
+      "text": "Midsummer celebrations in Scandinavia revolve around long daylight hours, bonfires, flowers, and community gatherings.",
+      "source": "https://en.wikipedia.org/wiki/Midsummer"
+    },
+    {
+      "text": "The Highland games in Scotland feature traditional sports, piping, dancing, and clan heritage.",
+      "source": "https://en.wikipedia.org/wiki/Highland_games"
+    },
+    {
+      "text": "Venice Carnival became famous for its elaborate masks and costumes.",
+      "source": "https://en.wikipedia.org/wiki/Carnival_of_Venice"
+    },
+    {
+      "text": "San Fermín in Pamplona is globally known for the running of the bulls, but it also includes music, parades, and religious traditions.",
+      "source": "https://en.wikipedia.org/wiki/San_Ferm%C3%ADn"
+    },
+    {
+      "text": "Naadam in Mongolia celebrates wrestling, horse racing, and archery as the country's traditional 'Three Manly Games.'",
+      "source": "https://en.wikipedia.org/wiki/Naadam"
+    },
+    {
+      "text": "Inti Raymi in Peru honors the Inca sun god and remains a major cultural celebration in Cusco.",
+      "source": "https://en.wikipedia.org/wiki/Inti_Raymi"
+    },
+    {
+      "text": "Bastille Day on July 14 is France's national day and commemorates key events of the French Revolution.",
+      "source": "https://en.wikipedia.org/wiki/Bastille_Day"
+    },
+    {
+      "text": "Kwanzaa was created in 1966 as a celebration of African American culture and community.",
+      "source": "https://en.wikipedia.org/wiki/Kwanzaa"
+    },
+    {
+      "text": "The Chinese zodiac follows a repeating 12-year cycle in which each year is represented by an animal.",
+      "source": "https://en.wikipedia.org/wiki/Chinese_zodiac"
+    },
+    {
+      "text": "Lunar New Year is celebrated across many parts of East and Southeast Asia with family rituals, food, and renewal themes.",
+      "source": "https://en.wikipedia.org/wiki/Lunar_New_Year"
+    },
+    {
+      "text": "Its many regional traditions make it one of the most widely recognized seasonal celebrations in the world.",
+      "source": "https://en.wikipedia.org/wiki/Lunar_New_Year"
+    },
+    {
+      "text": "Lunar New Year is one of the standout traditions or topics associated with World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Lunar_New_Year"
+    },
+    {
+      "text": "Readers and travelers interested in World Culture often encounter Lunar New Year very quickly.",
+      "source": "https://en.wikipedia.org/wiki/Lunar_New_Year"
+    },
+    {
+      "text": "Learning about Lunar New Year helps explain part of the appeal and diversity of World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Lunar_New_Year"
+    },
+    {
+      "text": "For many people around the world, Lunar New Year is a memorable part of World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Lunar_New_Year"
+    },
+    {
+      "text": "Documentaries, articles, and travel guides about World Culture frequently highlight Lunar New Year.",
+      "source": "https://en.wikipedia.org/wiki/Lunar_New_Year"
+    },
+    {
+      "text": "The story of Lunar New Year connects directly to the broader traditions behind World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Lunar_New_Year"
+    },
+    {
+      "text": "Lunar New Year is frequently used to introduce newcomers to the richness of World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Lunar_New_Year"
+    },
+    {
+      "text": "Many people associate World Culture with cultural touchstones such as Lunar New Year.",
+      "source": "https://en.wikipedia.org/wiki/Lunar_New_Year"
+    },
+    {
+      "text": "One reason World Culture feels so vivid and memorable is the presence of traditions and foods such as Lunar New Year.",
+      "source": "https://en.wikipedia.org/wiki/Lunar_New_Year"
+    },
+    {
+      "text": "From heritage to everyday life, Lunar New Year plays a notable role in how World Culture is experienced and described.",
+      "source": "https://en.wikipedia.org/wiki/Lunar_New_Year"
+    },
+    {
+      "text": "Diwali is often called the Festival of Lights and is celebrated by millions of people in India and worldwide.",
+      "source": "https://en.wikipedia.org/wiki/Diwali"
+    },
+    {
+      "text": "Its lamps, sweets, gatherings, and rituals made it one of the best-known cultural festivals on Earth.",
+      "source": "https://en.wikipedia.org/wiki/Diwali"
+    },
+    {
+      "text": "Diwali is one of the standout traditions or topics associated with World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Diwali"
+    },
+    {
+      "text": "Readers and travelers interested in World Culture often encounter Diwali very quickly.",
+      "source": "https://en.wikipedia.org/wiki/Diwali"
+    },
+    {
+      "text": "Learning about Diwali helps explain part of the appeal and diversity of World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Diwali"
+    },
+    {
+      "text": "For many people around the world, Diwali is a memorable part of World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Diwali"
+    },
+    {
+      "text": "Documentaries, articles, and travel guides about World Culture frequently highlight Diwali.",
+      "source": "https://en.wikipedia.org/wiki/Diwali"
+    },
+    {
+      "text": "The story of Diwali connects directly to the broader traditions behind World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Diwali"
+    },
+    {
+      "text": "Diwali is frequently used to introduce newcomers to the richness of World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Diwali"
+    },
+    {
+      "text": "Many people associate World Culture with cultural touchstones such as Diwali.",
+      "source": "https://en.wikipedia.org/wiki/Diwali"
+    },
+    {
+      "text": "One reason World Culture feels so vivid and memorable is the presence of traditions and foods such as Diwali.",
+      "source": "https://en.wikipedia.org/wiki/Diwali"
+    },
+    {
+      "text": "From heritage to everyday life, Diwali plays a notable role in how World Culture is experienced and described.",
+      "source": "https://en.wikipedia.org/wiki/Diwali"
+    },
+    {
+      "text": "Día de los Muertos honors loved ones who have died and remains one of Mexico's most recognized cultural traditions.",
+      "source": "https://en.wikipedia.org/wiki/Day_of_the_Dead"
+    },
+    {
+      "text": "Its altars, marigolds, art, and processions became globally known symbols of remembrance.",
+      "source": "https://en.wikipedia.org/wiki/Day_of_the_Dead"
+    },
+    {
+      "text": "Day of the Dead is one of the standout traditions or topics associated with World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Day_of_the_Dead"
+    },
+    {
+      "text": "Readers and travelers interested in World Culture often encounter Day of the Dead very quickly.",
+      "source": "https://en.wikipedia.org/wiki/Day_of_the_Dead"
+    },
+    {
+      "text": "Learning about Day of the Dead helps explain part of the appeal and diversity of World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Day_of_the_Dead"
+    },
+    {
+      "text": "For many people around the world, Day of the Dead is a memorable part of World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Day_of_the_Dead"
+    },
+    {
+      "text": "Documentaries, articles, and travel guides about World Culture frequently highlight Day of the Dead.",
+      "source": "https://en.wikipedia.org/wiki/Day_of_the_Dead"
+    },
+    {
+      "text": "The story of Day of the Dead connects directly to the broader traditions behind World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Day_of_the_Dead"
+    },
+    {
+      "text": "Day of the Dead is frequently used to introduce newcomers to the richness of World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Day_of_the_Dead"
+    },
+    {
+      "text": "Many people associate World Culture with cultural touchstones such as Day of the Dead.",
+      "source": "https://en.wikipedia.org/wiki/Day_of_the_Dead"
+    },
+    {
+      "text": "One reason World Culture feels so vivid and memorable is the presence of traditions and foods such as Day of the Dead.",
+      "source": "https://en.wikipedia.org/wiki/Day_of_the_Dead"
+    },
+    {
+      "text": "From heritage to everyday life, Day of the Dead plays a notable role in how World Culture is experienced and described.",
+      "source": "https://en.wikipedia.org/wiki/Day_of_the_Dead"
+    },
+    {
+      "text": "Nowruz marks the Persian New Year and the arrival of spring across Iran and many neighboring cultures.",
+      "source": "https://en.wikipedia.org/wiki/Nowruz"
+    },
+    {
+      "text": "Its deep roots made it one of the longest-lasting seasonal celebrations in world culture.",
+      "source": "https://en.wikipedia.org/wiki/Nowruz"
+    },
+    {
+      "text": "Nowruz is one of the standout traditions or topics associated with World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Nowruz"
+    },
+    {
+      "text": "Readers and travelers interested in World Culture often encounter Nowruz very quickly.",
+      "source": "https://en.wikipedia.org/wiki/Nowruz"
+    },
+    {
+      "text": "Learning about Nowruz helps explain part of the appeal and diversity of World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Nowruz"
+    },
+    {
+      "text": "For many people around the world, Nowruz is a memorable part of World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Nowruz"
+    },
+    {
+      "text": "Documentaries, articles, and travel guides about World Culture frequently highlight Nowruz.",
+      "source": "https://en.wikipedia.org/wiki/Nowruz"
+    },
+    {
+      "text": "The story of Nowruz connects directly to the broader traditions behind World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Nowruz"
+    },
+    {
+      "text": "Nowruz is frequently used to introduce newcomers to the richness of World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Nowruz"
+    },
+    {
+      "text": "Many people associate World Culture with cultural touchstones such as Nowruz.",
+      "source": "https://en.wikipedia.org/wiki/Nowruz"
+    },
+    {
+      "text": "One reason World Culture feels so vivid and memorable is the presence of traditions and foods such as Nowruz.",
+      "source": "https://en.wikipedia.org/wiki/Nowruz"
+    },
+    {
+      "text": "From heritage to everyday life, Nowruz plays a notable role in how World Culture is experienced and described.",
+      "source": "https://en.wikipedia.org/wiki/Nowruz"
+    },
+    {
+      "text": "Oktoberfest in Munich grew from a royal wedding celebration into the world's best-known beer festival.",
+      "source": "https://en.wikipedia.org/wiki/Oktoberfest"
+    },
+    {
+      "text": "It now draws visitors from around the globe and became a symbol of Bavarian culture.",
+      "source": "https://en.wikipedia.org/wiki/Oktoberfest"
+    },
+    {
+      "text": "Oktoberfest is one of the standout traditions or topics associated with World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Oktoberfest"
+    },
+    {
+      "text": "Readers and travelers interested in World Culture often encounter Oktoberfest very quickly.",
+      "source": "https://en.wikipedia.org/wiki/Oktoberfest"
+    },
+    {
+      "text": "Learning about Oktoberfest helps explain part of the appeal and diversity of World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Oktoberfest"
+    },
+    {
+      "text": "For many people around the world, Oktoberfest is a memorable part of World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Oktoberfest"
+    },
+    {
+      "text": "Documentaries, articles, and travel guides about World Culture frequently highlight Oktoberfest.",
+      "source": "https://en.wikipedia.org/wiki/Oktoberfest"
+    },
+    {
+      "text": "The story of Oktoberfest connects directly to the broader traditions behind World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Oktoberfest"
+    },
+    {
+      "text": "Oktoberfest is frequently used to introduce newcomers to the richness of World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Oktoberfest"
+    },
+    {
+      "text": "Many people associate World Culture with cultural touchstones such as Oktoberfest.",
+      "source": "https://en.wikipedia.org/wiki/Oktoberfest"
+    },
+    {
+      "text": "One reason World Culture feels so vivid and memorable is the presence of traditions and foods such as Oktoberfest.",
+      "source": "https://en.wikipedia.org/wiki/Oktoberfest"
+    },
+    {
+      "text": "From heritage to everyday life, Oktoberfest plays a notable role in how World Culture is experienced and described.",
+      "source": "https://en.wikipedia.org/wiki/Oktoberfest"
+    },
+    {
+      "text": "Rio Carnival became one of the largest and most famous festivals in the world.",
+      "source": "https://en.wikipedia.org/wiki/Rio_Carnival"
+    },
+    {
+      "text": "Its samba parades and street celebrations helped make it a defining image of Brazilian culture.",
+      "source": "https://en.wikipedia.org/wiki/Rio_Carnival"
+    },
+    {
+      "text": "Rio Carnival is one of the standout traditions or topics associated with World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Rio_Carnival"
+    },
+    {
+      "text": "Readers and travelers interested in World Culture often encounter Rio Carnival very quickly.",
+      "source": "https://en.wikipedia.org/wiki/Rio_Carnival"
+    },
+    {
+      "text": "Learning about Rio Carnival helps explain part of the appeal and diversity of World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Rio_Carnival"
+    },
+    {
+      "text": "For many people around the world, Rio Carnival is a memorable part of World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Rio_Carnival"
+    },
+    {
+      "text": "Documentaries, articles, and travel guides about World Culture frequently highlight Rio Carnival.",
+      "source": "https://en.wikipedia.org/wiki/Rio_Carnival"
+    },
+    {
+      "text": "The story of Rio Carnival connects directly to the broader traditions behind World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Rio_Carnival"
+    },
+    {
+      "text": "Rio Carnival is frequently used to introduce newcomers to the richness of World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Rio_Carnival"
+    },
+    {
+      "text": "Many people associate World Culture with cultural touchstones such as Rio Carnival.",
+      "source": "https://en.wikipedia.org/wiki/Rio_Carnival"
+    },
+    {
+      "text": "One reason World Culture feels so vivid and memorable is the presence of traditions and foods such as Rio Carnival.",
+      "source": "https://en.wikipedia.org/wiki/Rio_Carnival"
+    },
+    {
+      "text": "From heritage to everyday life, Rio Carnival plays a notable role in how World Culture is experienced and described.",
+      "source": "https://en.wikipedia.org/wiki/Rio_Carnival"
+    },
+    {
+      "text": "The Japanese tea ceremony emphasizes ritual, hospitality, and attention to detail.",
+      "source": "https://en.wikipedia.org/wiki/Japanese_tea_ceremony"
+    },
+    {
+      "text": "It became one of the most admired examples of how everyday acts can become high cultural practice.",
+      "source": "https://en.wikipedia.org/wiki/Japanese_tea_ceremony"
+    },
+    {
+      "text": "Japanese tea ceremony is one of the standout traditions or topics associated with World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Japanese_tea_ceremony"
+    },
+    {
+      "text": "Readers and travelers interested in World Culture often encounter Japanese tea ceremony very quickly.",
+      "source": "https://en.wikipedia.org/wiki/Japanese_tea_ceremony"
+    },
+    {
+      "text": "Learning about Japanese tea ceremony helps explain part of the appeal and diversity of World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Japanese_tea_ceremony"
+    },
+    {
+      "text": "For many people around the world, Japanese tea ceremony is a memorable part of World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Japanese_tea_ceremony"
+    },
+    {
+      "text": "Documentaries, articles, and travel guides about World Culture frequently highlight Japanese tea ceremony.",
+      "source": "https://en.wikipedia.org/wiki/Japanese_tea_ceremony"
+    },
+    {
+      "text": "The story of Japanese tea ceremony connects directly to the broader traditions behind World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Japanese_tea_ceremony"
+    },
+    {
+      "text": "Japanese tea ceremony is frequently used to introduce newcomers to the richness of World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Japanese_tea_ceremony"
+    },
+    {
+      "text": "Many people associate World Culture with cultural touchstones such as Japanese tea ceremony.",
+      "source": "https://en.wikipedia.org/wiki/Japanese_tea_ceremony"
+    },
+    {
+      "text": "One reason World Culture feels so vivid and memorable is the presence of traditions and foods such as Japanese tea ceremony.",
+      "source": "https://en.wikipedia.org/wiki/Japanese_tea_ceremony"
+    },
+    {
+      "text": "From heritage to everyday life, Japanese tea ceremony plays a notable role in how World Culture is experienced and described.",
+      "source": "https://en.wikipedia.org/wiki/Japanese_tea_ceremony"
+    },
+    {
+      "text": "Flamenco from Spain combines singing, guitar, dance, and rhythmic performance.",
+      "source": "https://en.wikipedia.org/wiki/Flamenco"
+    },
+    {
+      "text": "It became one of the most famous artistic traditions associated with Spanish culture.",
+      "source": "https://en.wikipedia.org/wiki/Flamenco"
+    },
+    {
+      "text": "Flamenco is one of the standout traditions or topics associated with World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Flamenco"
+    },
+    {
+      "text": "Readers and travelers interested in World Culture often encounter Flamenco very quickly.",
+      "source": "https://en.wikipedia.org/wiki/Flamenco"
+    },
+    {
+      "text": "Learning about Flamenco helps explain part of the appeal and diversity of World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Flamenco"
+    },
+    {
+      "text": "For many people around the world, Flamenco is a memorable part of World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Flamenco"
+    },
+    {
+      "text": "Documentaries, articles, and travel guides about World Culture frequently highlight Flamenco.",
+      "source": "https://en.wikipedia.org/wiki/Flamenco"
+    },
+    {
+      "text": "The story of Flamenco connects directly to the broader traditions behind World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Flamenco"
+    },
+    {
+      "text": "Flamenco is frequently used to introduce newcomers to the richness of World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Flamenco"
+    },
+    {
+      "text": "Many people associate World Culture with cultural touchstones such as Flamenco.",
+      "source": "https://en.wikipedia.org/wiki/Flamenco"
+    },
+    {
+      "text": "One reason World Culture feels so vivid and memorable is the presence of traditions and foods such as Flamenco.",
+      "source": "https://en.wikipedia.org/wiki/Flamenco"
+    },
+    {
+      "text": "From heritage to everyday life, Flamenco plays a notable role in how World Culture is experienced and described.",
+      "source": "https://en.wikipedia.org/wiki/Flamenco"
+    },
+    {
+      "text": "Tango developed in Argentina and Uruguay and became one of the world's most famous partner dances.",
+      "source": "https://en.wikipedia.org/wiki/Tango"
+    },
+    {
+      "text": "Its music, movement, and style gave it a lasting place in international culture.",
+      "source": "https://en.wikipedia.org/wiki/Tango"
+    },
+    {
+      "text": "Tango is one of the standout traditions or topics associated with World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Tango"
+    },
+    {
+      "text": "Readers and travelers interested in World Culture often encounter Tango very quickly.",
+      "source": "https://en.wikipedia.org/wiki/Tango"
+    },
+    {
+      "text": "Learning about Tango helps explain part of the appeal and diversity of World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Tango"
+    },
+    {
+      "text": "For many people around the world, Tango is a memorable part of World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Tango"
+    },
+    {
+      "text": "Documentaries, articles, and travel guides about World Culture frequently highlight Tango.",
+      "source": "https://en.wikipedia.org/wiki/Tango"
+    },
+    {
+      "text": "The story of Tango connects directly to the broader traditions behind World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Tango"
+    },
+    {
+      "text": "Tango is frequently used to introduce newcomers to the richness of World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Tango"
+    },
+    {
+      "text": "Many people associate World Culture with cultural touchstones such as Tango.",
+      "source": "https://en.wikipedia.org/wiki/Tango"
+    },
+    {
+      "text": "One reason World Culture feels so vivid and memorable is the presence of traditions and foods such as Tango.",
+      "source": "https://en.wikipedia.org/wiki/Tango"
+    },
+    {
+      "text": "From heritage to everyday life, Tango plays a notable role in how World Culture is experienced and described.",
+      "source": "https://en.wikipedia.org/wiki/Tango"
+    },
+    {
+      "text": "The haka is a traditional Māori chant and dance from Aotearoa New Zealand.",
+      "source": "https://en.wikipedia.org/wiki/Haka"
+    },
+    {
+      "text": "It became globally familiar through ceremony, sport, and cultural performance.",
+      "source": "https://en.wikipedia.org/wiki/Haka"
+    },
+    {
+      "text": "Haka is one of the standout traditions or topics associated with World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Haka"
+    },
+    {
+      "text": "Readers and travelers interested in World Culture often encounter Haka very quickly.",
+      "source": "https://en.wikipedia.org/wiki/Haka"
+    },
+    {
+      "text": "Learning about Haka helps explain part of the appeal and diversity of World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Haka"
+    },
+    {
+      "text": "For many people around the world, Haka is a memorable part of World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Haka"
+    },
+    {
+      "text": "Documentaries, articles, and travel guides about World Culture frequently highlight Haka.",
+      "source": "https://en.wikipedia.org/wiki/Haka"
+    },
+    {
+      "text": "The story of Haka connects directly to the broader traditions behind World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Haka"
+    },
+    {
+      "text": "Haka is frequently used to introduce newcomers to the richness of World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Haka"
+    },
+    {
+      "text": "Many people associate World Culture with cultural touchstones such as Haka.",
+      "source": "https://en.wikipedia.org/wiki/Haka"
+    },
+    {
+      "text": "One reason World Culture feels so vivid and memorable is the presence of traditions and foods such as Haka.",
+      "source": "https://en.wikipedia.org/wiki/Haka"
+    },
+    {
+      "text": "From heritage to everyday life, Haka plays a notable role in how World Culture is experienced and described.",
+      "source": "https://en.wikipedia.org/wiki/Haka"
+    },
+    {
+      "text": "Holi is famous for colorful powders, music, and joyful spring celebrations across India and beyond.",
+      "source": "https://en.wikipedia.org/wiki/Holi"
+    },
+    {
+      "text": "It became one of the most visually recognizable festivals in world culture.",
+      "source": "https://en.wikipedia.org/wiki/Holi"
+    },
+    {
+      "text": "Holi is one of the best-known topics people encounter when exploring World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Holi"
+    },
+    {
+      "text": "Guides, articles, and documentaries about World Culture often highlight Holi.",
+      "source": "https://en.wikipedia.org/wiki/Holi"
+    },
+    {
+      "text": "Learning about Holi gives a deeper look at the range and history within World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Holi"
+    },
+    {
+      "text": "Holi shows how varied and memorable World Culture can be across different regions.",
+      "source": "https://en.wikipedia.org/wiki/Holi"
+    },
+    {
+      "text": "Many travelers and readers remember Holi as a standout part of World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Holi"
+    },
+    {
+      "text": "The story of Holi helps connect history, identity, and everyday life inside World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Holi"
+    },
+    {
+      "text": "Books and travel features on World Culture regularly return to Holi.",
+      "source": "https://en.wikipedia.org/wiki/Holi"
+    },
+    {
+      "text": "The popularity of Holi helped introduce many newcomers to World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Holi"
+    },
+    {
+      "text": "Holi remains a classic example used when people talk about World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Holi"
+    },
+    {
+      "text": "Discussions of World Culture often circle back to Holi because of its lasting influence and recognition.",
+      "source": "https://en.wikipedia.org/wiki/Holi"
+    },
+    {
+      "text": "Hanami in Japan centers on gathering to appreciate cherry blossoms each spring.",
+      "source": "https://en.wikipedia.org/wiki/Hanami"
+    },
+    {
+      "text": "The tradition shows how seasonal beauty can shape social life and cultural memory.",
+      "source": "https://en.wikipedia.org/wiki/Hanami"
+    },
+    {
+      "text": "Hanami is one of the best-known topics people encounter when exploring World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Hanami"
+    },
+    {
+      "text": "Guides, articles, and documentaries about World Culture often highlight Hanami.",
+      "source": "https://en.wikipedia.org/wiki/Hanami"
+    },
+    {
+      "text": "Learning about Hanami gives a deeper look at the range and history within World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Hanami"
+    },
+    {
+      "text": "Hanami shows how varied and memorable World Culture can be across different regions.",
+      "source": "https://en.wikipedia.org/wiki/Hanami"
+    },
+    {
+      "text": "Many travelers and readers remember Hanami as a standout part of World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Hanami"
+    },
+    {
+      "text": "The story of Hanami helps connect history, identity, and everyday life inside World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Hanami"
+    },
+    {
+      "text": "Books and travel features on World Culture regularly return to Hanami.",
+      "source": "https://en.wikipedia.org/wiki/Hanami"
+    },
+    {
+      "text": "The popularity of Hanami helped introduce many newcomers to World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Hanami"
+    },
+    {
+      "text": "Hanami remains a classic example used when people talk about World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Hanami"
+    },
+    {
+      "text": "Discussions of World Culture often circle back to Hanami because of its lasting influence and recognition.",
+      "source": "https://en.wikipedia.org/wiki/Hanami"
+    },
+    {
+      "text": "The Carnival of Venice became world-famous for elaborate masks and historical costume traditions.",
+      "source": "https://en.wikipedia.org/wiki/Carnival_of_Venice"
+    },
+    {
+      "text": "Its imagery remains one of the most recognizable symbols of festive European culture.",
+      "source": "https://en.wikipedia.org/wiki/Carnival_of_Venice"
+    },
+    {
+      "text": "Carnival of Venice is one of the best-known topics people encounter when exploring World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Carnival_of_Venice"
+    },
+    {
+      "text": "Guides, articles, and documentaries about World Culture often highlight Carnival of Venice.",
+      "source": "https://en.wikipedia.org/wiki/Carnival_of_Venice"
+    },
+    {
+      "text": "Learning about Carnival of Venice gives a deeper look at the range and history within World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Carnival_of_Venice"
+    },
+    {
+      "text": "Carnival of Venice shows how varied and memorable World Culture can be across different regions.",
+      "source": "https://en.wikipedia.org/wiki/Carnival_of_Venice"
+    },
+    {
+      "text": "Many travelers and readers remember Carnival of Venice as a standout part of World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Carnival_of_Venice"
+    },
+    {
+      "text": "The story of Carnival of Venice helps connect history, identity, and everyday life inside World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Carnival_of_Venice"
+    },
+    {
+      "text": "Books and travel features on World Culture regularly return to Carnival of Venice.",
+      "source": "https://en.wikipedia.org/wiki/Carnival_of_Venice"
+    },
+    {
+      "text": "The popularity of Carnival of Venice helped introduce many newcomers to World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Carnival_of_Venice"
+    },
+    {
+      "text": "Carnival of Venice remains a classic example used when people talk about World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Carnival_of_Venice"
+    },
+    {
+      "text": "Discussions of World Culture often circle back to Carnival of Venice because of its lasting influence and recognition.",
+      "source": "https://en.wikipedia.org/wiki/Carnival_of_Venice"
+    },
+    {
+      "text": "Midsummer celebrations across northern Europe highlight bonfires, flowers, dancing, and long daylight hours.",
+      "source": "https://en.wikipedia.org/wiki/Midsummer"
+    },
+    {
+      "text": "They remain a vivid example of seasonal tradition in world culture.",
+      "source": "https://en.wikipedia.org/wiki/Midsummer"
+    },
+    {
+      "text": "Midsummer is one of the best-known topics people encounter when exploring World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Midsummer"
+    },
+    {
+      "text": "Guides, articles, and documentaries about World Culture often highlight Midsummer.",
+      "source": "https://en.wikipedia.org/wiki/Midsummer"
+    },
+    {
+      "text": "Learning about Midsummer gives a deeper look at the range and history within World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Midsummer"
+    },
+    {
+      "text": "Midsummer shows how varied and memorable World Culture can be across different regions.",
+      "source": "https://en.wikipedia.org/wiki/Midsummer"
+    },
+    {
+      "text": "Many travelers and readers remember Midsummer as a standout part of World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Midsummer"
+    },
+    {
+      "text": "The story of Midsummer helps connect history, identity, and everyday life inside World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Midsummer"
+    },
+    {
+      "text": "Books and travel features on World Culture regularly return to Midsummer.",
+      "source": "https://en.wikipedia.org/wiki/Midsummer"
+    },
+    {
+      "text": "The popularity of Midsummer helped introduce many newcomers to World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Midsummer"
+    },
+    {
+      "text": "Midsummer remains a classic example used when people talk about World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Midsummer"
+    },
+    {
+      "text": "Discussions of World Culture often circle back to Midsummer because of its lasting influence and recognition.",
+      "source": "https://en.wikipedia.org/wiki/Midsummer"
+    },
+    {
+      "text": "San Fermín in Pamplona is globally known for the running of the bulls as well as music, parades, and religious tradition.",
+      "source": "https://en.wikipedia.org/wiki/San_Ferm%C3%ADn"
+    },
+    {
+      "text": "Its annual festivities became one of Spain's most recognized cultural events.",
+      "source": "https://en.wikipedia.org/wiki/San_Ferm%C3%ADn"
+    },
+    {
+      "text": "San Fermín is one of the best-known topics people encounter when exploring World Culture.",
+      "source": "https://en.wikipedia.org/wiki/San_Ferm%C3%ADn"
+    },
+    {
+      "text": "Guides, articles, and documentaries about World Culture often highlight San Fermín.",
+      "source": "https://en.wikipedia.org/wiki/San_Ferm%C3%ADn"
+    },
+    {
+      "text": "Learning about San Fermín gives a deeper look at the range and history within World Culture.",
+      "source": "https://en.wikipedia.org/wiki/San_Ferm%C3%ADn"
+    },
+    {
+      "text": "San Fermín shows how varied and memorable World Culture can be across different regions.",
+      "source": "https://en.wikipedia.org/wiki/San_Ferm%C3%ADn"
+    },
+    {
+      "text": "Many travelers and readers remember San Fermín as a standout part of World Culture.",
+      "source": "https://en.wikipedia.org/wiki/San_Ferm%C3%ADn"
+    },
+    {
+      "text": "The story of San Fermín helps connect history, identity, and everyday life inside World Culture.",
+      "source": "https://en.wikipedia.org/wiki/San_Ferm%C3%ADn"
+    },
+    {
+      "text": "Books and travel features on World Culture regularly return to San Fermín.",
+      "source": "https://en.wikipedia.org/wiki/San_Ferm%C3%ADn"
+    },
+    {
+      "text": "The popularity of San Fermín helped introduce many newcomers to World Culture.",
+      "source": "https://en.wikipedia.org/wiki/San_Ferm%C3%ADn"
+    },
+    {
+      "text": "San Fermín remains a classic example used when people talk about World Culture.",
+      "source": "https://en.wikipedia.org/wiki/San_Ferm%C3%ADn"
+    },
+    {
+      "text": "Discussions of World Culture often circle back to San Fermín because of its lasting influence and recognition.",
+      "source": "https://en.wikipedia.org/wiki/San_Ferm%C3%ADn"
+    },
+    {
+      "text": "Naadam in Mongolia celebrates wrestling, horse racing, and archery as traditional national sports.",
+      "source": "https://en.wikipedia.org/wiki/Naadam"
+    },
+    {
+      "text": "It remains one of the clearest expressions of Mongolian heritage and public celebration.",
+      "source": "https://en.wikipedia.org/wiki/Naadam"
+    },
+    {
+      "text": "Naadam is one of the best-known topics people encounter when exploring World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Naadam"
+    },
+    {
+      "text": "Guides, articles, and documentaries about World Culture often highlight Naadam.",
+      "source": "https://en.wikipedia.org/wiki/Naadam"
+    },
+    {
+      "text": "Learning about Naadam gives a deeper look at the range and history within World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Naadam"
+    },
+    {
+      "text": "Naadam shows how varied and memorable World Culture can be across different regions.",
+      "source": "https://en.wikipedia.org/wiki/Naadam"
+    },
+    {
+      "text": "Many travelers and readers remember Naadam as a standout part of World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Naadam"
+    },
+    {
+      "text": "The story of Naadam helps connect history, identity, and everyday life inside World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Naadam"
+    },
+    {
+      "text": "Books and travel features on World Culture regularly return to Naadam.",
+      "source": "https://en.wikipedia.org/wiki/Naadam"
+    },
+    {
+      "text": "The popularity of Naadam helped introduce many newcomers to World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Naadam"
+    },
+    {
+      "text": "Naadam remains a classic example used when people talk about World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Naadam"
+    },
+    {
+      "text": "Discussions of World Culture often circle back to Naadam because of its lasting influence and recognition.",
+      "source": "https://en.wikipedia.org/wiki/Naadam"
+    },
+    {
+      "text": "Kwanzaa was created in 1966 as a celebration of African American culture, community, and values.",
+      "source": "https://en.wikipedia.org/wiki/Kwanzaa"
+    },
+    {
+      "text": "Its candles, symbols, and shared principles made it a distinct modern cultural tradition.",
+      "source": "https://en.wikipedia.org/wiki/Kwanzaa"
+    },
+    {
+      "text": "Kwanzaa is one of the best-known topics people encounter when exploring World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Kwanzaa"
+    },
+    {
+      "text": "Guides, articles, and documentaries about World Culture often highlight Kwanzaa.",
+      "source": "https://en.wikipedia.org/wiki/Kwanzaa"
+    },
+    {
+      "text": "Learning about Kwanzaa gives a deeper look at the range and history within World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Kwanzaa"
+    },
+    {
+      "text": "Kwanzaa shows how varied and memorable World Culture can be across different regions.",
+      "source": "https://en.wikipedia.org/wiki/Kwanzaa"
+    },
+    {
+      "text": "Many travelers and readers remember Kwanzaa as a standout part of World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Kwanzaa"
+    },
+    {
+      "text": "The story of Kwanzaa helps connect history, identity, and everyday life inside World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Kwanzaa"
+    },
+    {
+      "text": "Books and travel features on World Culture regularly return to Kwanzaa.",
+      "source": "https://en.wikipedia.org/wiki/Kwanzaa"
+    },
+    {
+      "text": "The popularity of Kwanzaa helped introduce many newcomers to World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Kwanzaa"
+    },
+    {
+      "text": "Kwanzaa remains a classic example used when people talk about World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Kwanzaa"
+    },
+    {
+      "text": "Discussions of World Culture often circle back to Kwanzaa because of its lasting influence and recognition.",
+      "source": "https://en.wikipedia.org/wiki/Kwanzaa"
+    },
+    {
+      "text": "Batik is a wax-resist dyeing tradition associated especially with Indonesia and recognized by UNESCO.",
+      "source": "https://en.wikipedia.org/wiki/Batik"
+    },
+    {
+      "text": "Its patterns and textile artistry made it one of the world's best-known fabric traditions.",
+      "source": "https://en.wikipedia.org/wiki/Batik"
+    },
+    {
+      "text": "Batik is one of the best-known topics people encounter when exploring World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Batik"
+    },
+    {
+      "text": "Guides, articles, and documentaries about World Culture often highlight Batik.",
+      "source": "https://en.wikipedia.org/wiki/Batik"
+    },
+    {
+      "text": "Learning about Batik gives a deeper look at the range and history within World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Batik"
+    },
+    {
+      "text": "Batik shows how varied and memorable World Culture can be across different regions.",
+      "source": "https://en.wikipedia.org/wiki/Batik"
+    },
+    {
+      "text": "Many travelers and readers remember Batik as a standout part of World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Batik"
+    },
+    {
+      "text": "The story of Batik helps connect history, identity, and everyday life inside World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Batik"
+    },
+    {
+      "text": "Books and travel features on World Culture regularly return to Batik.",
+      "source": "https://en.wikipedia.org/wiki/Batik"
+    },
+    {
+      "text": "The popularity of Batik helped introduce many newcomers to World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Batik"
+    },
+    {
+      "text": "Batik remains a classic example used when people talk about World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Batik"
+    },
+    {
+      "text": "Discussions of World Culture often circle back to Batik because of its lasting influence and recognition.",
+      "source": "https://en.wikipedia.org/wiki/Batik"
+    },
+    {
+      "text": "Capoeira from Brazil blends martial arts, dance, music, and rhythm into one cultural practice.",
+      "source": "https://en.wikipedia.org/wiki/Capoeira"
+    },
+    {
+      "text": "Its movement and call-and-response performance style gave it a lasting global presence.",
+      "source": "https://en.wikipedia.org/wiki/Capoeira"
+    },
+    {
+      "text": "Capoeira is one of the best-known topics people encounter when exploring World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Capoeira"
+    },
+    {
+      "text": "Guides, articles, and documentaries about World Culture often highlight Capoeira.",
+      "source": "https://en.wikipedia.org/wiki/Capoeira"
+    },
+    {
+      "text": "Learning about Capoeira gives a deeper look at the range and history within World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Capoeira"
+    },
+    {
+      "text": "Capoeira shows how varied and memorable World Culture can be across different regions.",
+      "source": "https://en.wikipedia.org/wiki/Capoeira"
+    },
+    {
+      "text": "Many travelers and readers remember Capoeira as a standout part of World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Capoeira"
+    },
+    {
+      "text": "The story of Capoeira helps connect history, identity, and everyday life inside World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Capoeira"
+    },
+    {
+      "text": "Books and travel features on World Culture regularly return to Capoeira.",
+      "source": "https://en.wikipedia.org/wiki/Capoeira"
+    },
+    {
+      "text": "The popularity of Capoeira helped introduce many newcomers to World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Capoeira"
+    },
+    {
+      "text": "Capoeira remains a classic example used when people talk about World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Capoeira"
+    },
+    {
+      "text": "Discussions of World Culture often circle back to Capoeira because of its lasting influence and recognition.",
+      "source": "https://en.wikipedia.org/wiki/Capoeira"
+    },
+    {
+      "text": "Mariachi music became one of the best-known artistic traditions associated with Mexico.",
+      "source": "https://en.wikipedia.org/wiki/Mariachi"
+    },
+    {
+      "text": "Its instruments, clothing, and performance style made it instantly recognizable in world culture.",
+      "source": "https://en.wikipedia.org/wiki/Mariachi"
+    },
+    {
+      "text": "Mariachi is one of the best-known topics people encounter when exploring World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Mariachi"
+    },
+    {
+      "text": "Guides, articles, and documentaries about World Culture often highlight Mariachi.",
+      "source": "https://en.wikipedia.org/wiki/Mariachi"
+    },
+    {
+      "text": "Learning about Mariachi gives a deeper look at the range and history within World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Mariachi"
+    },
+    {
+      "text": "Mariachi shows how varied and memorable World Culture can be across different regions.",
+      "source": "https://en.wikipedia.org/wiki/Mariachi"
+    },
+    {
+      "text": "Many travelers and readers remember Mariachi as a standout part of World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Mariachi"
+    },
+    {
+      "text": "The story of Mariachi helps connect history, identity, and everyday life inside World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Mariachi"
+    },
+    {
+      "text": "Books and travel features on World Culture regularly return to Mariachi.",
+      "source": "https://en.wikipedia.org/wiki/Mariachi"
+    },
+    {
+      "text": "The popularity of Mariachi helped introduce many newcomers to World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Mariachi"
+    },
+    {
+      "text": "Mariachi remains a classic example used when people talk about World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Mariachi"
+    },
+    {
+      "text": "Discussions of World Culture often circle back to Mariachi because of its lasting influence and recognition.",
+      "source": "https://en.wikipedia.org/wiki/Mariachi"
+    },
+    {
+      "text": "Fado is a Portuguese music tradition known for emotional singing and themes of longing and fate.",
+      "source": "https://en.wikipedia.org/wiki/Fado"
+    },
+    {
+      "text": "Its mood and sound helped it become one of Portugal's strongest cultural signatures.",
+      "source": "https://en.wikipedia.org/wiki/Fado"
+    },
+    {
+      "text": "Fado is one of the best-known topics people encounter when exploring World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Fado"
+    },
+    {
+      "text": "Guides, articles, and documentaries about World Culture often highlight Fado.",
+      "source": "https://en.wikipedia.org/wiki/Fado"
+    },
+    {
+      "text": "Learning about Fado gives a deeper look at the range and history within World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Fado"
+    },
+    {
+      "text": "Fado shows how varied and memorable World Culture can be across different regions.",
+      "source": "https://en.wikipedia.org/wiki/Fado"
+    },
+    {
+      "text": "Many travelers and readers remember Fado as a standout part of World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Fado"
+    },
+    {
+      "text": "The story of Fado helps connect history, identity, and everyday life inside World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Fado"
+    },
+    {
+      "text": "Books and travel features on World Culture regularly return to Fado.",
+      "source": "https://en.wikipedia.org/wiki/Fado"
+    },
+    {
+      "text": "The popularity of Fado helped introduce many newcomers to World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Fado"
+    },
+    {
+      "text": "Fado remains a classic example used when people talk about World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Fado"
+    },
+    {
+      "text": "Discussions of World Culture often circle back to Fado because of its lasting influence and recognition.",
+      "source": "https://en.wikipedia.org/wiki/Fado"
+    },
+    {
+      "text": "Sauna culture is so central to Finland that it became one of the country's defining social traditions.",
+      "source": "https://en.wikipedia.org/wiki/Finnish_sauna"
+    },
+    {
+      "text": "The practice shows how everyday habits can become a meaningful part of national culture.",
+      "source": "https://en.wikipedia.org/wiki/Finnish_sauna"
+    },
+    {
+      "text": "Finnish sauna is one of the best-known topics people encounter when exploring World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Finnish_sauna"
+    },
+    {
+      "text": "Guides, articles, and documentaries about World Culture often highlight Finnish sauna.",
+      "source": "https://en.wikipedia.org/wiki/Finnish_sauna"
+    },
+    {
+      "text": "Learning about Finnish sauna gives a deeper look at the range and history within World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Finnish_sauna"
+    },
+    {
+      "text": "Finnish sauna shows how varied and memorable World Culture can be across different regions.",
+      "source": "https://en.wikipedia.org/wiki/Finnish_sauna"
+    },
+    {
+      "text": "Many travelers and readers remember Finnish sauna as a standout part of World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Finnish_sauna"
+    },
+    {
+      "text": "The story of Finnish sauna helps connect history, identity, and everyday life inside World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Finnish_sauna"
+    },
+    {
+      "text": "Books and travel features on World Culture regularly return to Finnish sauna.",
+      "source": "https://en.wikipedia.org/wiki/Finnish_sauna"
+    },
+    {
+      "text": "The popularity of Finnish sauna helped introduce many newcomers to World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Finnish_sauna"
+    },
+    {
+      "text": "Finnish sauna remains a classic example used when people talk about World Culture.",
+      "source": "https://en.wikipedia.org/wiki/Finnish_sauna"
+    },
+    {
+      "text": "Discussions of World Culture often circle back to Finnish sauna because of its lasting influence and recognition.",
+      "source": "https://en.wikipedia.org/wiki/Finnish_sauna"
+    }
+  ]
+}

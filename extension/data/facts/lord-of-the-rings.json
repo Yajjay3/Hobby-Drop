@@ -1,0 +1,1946 @@
+{
+  "hobby": "Lord of the Rings",
+  "facts": [
+    {
+      "text": "J.R.R. Tolkien's full name was John Ronald Reuel Tolkien, born in Bloemfontein, South Africa.",
+      "month": 1,
+      "day": 3,
+      "source": "https://en.wikipedia.org/wiki/J.R.R._Tolkien%27s_full_name"
+    },
+    {
+      "text": "Tolkien was born on January 3, 1892, and moved to England with his mother and brother when he was three years old.",
+      "source": "https://en.wikipedia.org/wiki/Tolkien"
+    },
+    {
+      "text": "After his father died in South Africa, Tolkien's mother Mabel raised him and his brother Hilary in the English countryside near Birmingham.",
+      "source": "https://en.wikipedia.org/wiki/South_Africa"
+    },
+    {
+      "text": "Tolkien's mother Mabel died in 1904 when he was just 12, and he and his brother were placed under the guardianship of a Catholic priest, Father Francis Morgan.",
+      "source": "https://en.wikipedia.org/wiki/Tolkien%27s_mother_Mabel_died_in_1904_when_he"
+    },
+    {
+      "text": "Tolkien attended King Edward's School in Birmingham, where he excelled in languages and developed a passion for Old English and medieval literature.",
+      "source": "https://en.wikipedia.org/wiki/Tolkien_attended_King_Edward%27s_School_in_Birmingham%2C_where_he_excelled_in_languages_and"
+    },
+    {
+      "text": "The rural hamlet of Sarehole, where Tolkien lived as a child, heavily inspired the peaceful, pastoral setting of the Shire.",
+      "source": "https://en.wikipedia.org/wiki/rural_hamlet_of_Sarehole%2C_where_Tolkien_lived_as_a_child%2C_heavily"
+    },
+    {
+      "text": "Tolkien won a scholarship to Exeter College, Oxford, where he studied Classics before switching to English Language and Literature.",
+      "source": "https://en.wikipedia.org/wiki/Tolkien"
+    },
+    {
+      "text": "At Oxford, Tolkien specialized in Old English, Middle English, and Germanic philology, which deeply influenced his fictional languages.",
+      "source": "https://en.wikipedia.org/wiki/At_Oxford"
+    },
+    {
+      "text": "Tolkien met his future wife Edith Bratt when they were both orphans living in the same Birmingham boarding house.",
+      "source": "https://en.wikipedia.org/wiki/Tolkien_met_his_future_wife_Edith_Bratt_when_they"
+    },
+    {
+      "text": "Tolkien's guardian Father Francis forbade him from contacting Edith until he turned 21, and Tolkien obeyed, writing to her on his 21st birthday.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Tolkien%27s_guardian_Father_Francis_forbade_him_from_contacting_Edith_until_he"
+    },
+    {
+      "text": "Tolkien married Edith Bratt on March 22, 1916, shortly before he was deployed to the Western Front in World War I.",
+      "month": 3,
+      "day": 22,
+      "source": "https://en.wikipedia.org/wiki/Tolkien_married_Edith_Bratt_on_March_22%2C_1916%2C_shortly_before_he"
+    },
+    {
+      "text": "Tolkien served as a second lieutenant in the Lancashire Fusiliers and fought in the Battle of the Somme in 1916.",
+      "source": "https://en.wikipedia.org/wiki/Lancashire_Fusiliers_and"
+    },
+    {
+      "text": "During WWI, Tolkien contracted trench fever at the Somme and was invalided back to England, which likely saved his life.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/During_WWI%2C_Tolkien_contracted_trench_fever_at_the_Somme_and"
+    },
+    {
+      "text": "Nearly all of Tolkien's close school friends from the T.C.B.S. (Tea Club, Barrovian Society) were killed in WWI, profoundly affecting his writing.",
+      "source": "https://en.wikipedia.org/wiki/Tea_Club"
+    },
+    {
+      "text": "The Dead Marshes in The Lord of the Rings were inspired by Tolkien's horrific experiences in the trenches of World War I.",
+      "source": "https://en.wikipedia.org/wiki/Dead_Marshes_in_The_Lord_of_the_Rings"
+    },
+    {
+      "text": "While recovering from trench fever, Tolkien began writing 'The Book of Lost Tales,' the earliest version of what would become The Silmarillion.",
+      "source": "https://en.wikipedia.org/wiki/Book_of_Lost_Tales"
+    },
+    {
+      "text": "After WWI, Tolkien worked on the Oxford English Dictionary, contributing to entries for words beginning with W, including 'walrus' and 'waistcoat.'",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/After_WWI"
+    },
+    {
+      "text": "Tolkien became a professor of English Language at the University of Leeds in 1920, at the young age of 28.",
+      "source": "https://en.wikipedia.org/wiki/Tolkien"
+    },
+    {
+      "text": "In 1925, Tolkien was elected Rawlinson and Bosworth Professor of Anglo-Saxon at Oxford, a position he held for 20 years.",
+      "source": "https://en.wikipedia.org/wiki/Tolkien"
+    },
+    {
+      "text": "Tolkien's landmark 1936 lecture 'Beowulf: The Monsters and the Critics' transformed how scholars studied the Old English epic poem.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Beowulf:_The_Monsters_and_the_Critics"
+    },
+    {
+      "text": "Tolkien and C.S. Lewis became close friends at Oxford and were founding members of the Inklings, an informal literary group.",
+      "source": "https://en.wikipedia.org/wiki/Tolkien_and_C.S._Lewis"
+    },
+    {
+      "text": "The Inklings met regularly at a pub called The Eagle and Child in Oxford, which fans still visit today as a literary pilgrimage site.",
+      "source": "https://en.wikipedia.org/wiki/Inklings"
+    },
+    {
+      "text": "Tolkien played a key role in C.S. Lewis's conversion to Christianity, though he was disappointed Lewis became an Anglican rather than a Catholic.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Tolkien_played_a_key_role_in_C.S._Lewis%27s_conversion_to_Christianity%2C_though_he"
+    },
+    {
+      "text": "Tolkien began inventing languages as a teenager, creating early forms of Elvish that would eventually evolve into Quenya and Sindarin.",
+      "source": "https://en.wikipedia.org/wiki/Quenya_and_Sindarin"
+    },
+    {
+      "text": "Tolkien once said he invented Middle-earth primarily to give his invented languages a world to exist in, not the other way around.",
+      "source": "https://en.wikipedia.org/wiki/Tolkien_once"
+    },
+    {
+      "text": "Quenya, one of Tolkien's Elvish languages, was inspired primarily by Finnish, which Tolkien first encountered while at school.",
+      "source": "https://en.wikipedia.org/wiki/Quenya%2C_one_of_Tolkien%27s_Elvish_languages"
+    },
+    {
+      "text": "Sindarin, the other major Elvish language, was modeled on Welsh phonology and grammar, reflecting Tolkien's love of the Welsh language.",
+      "source": "https://en.wikipedia.org/wiki/Sindarin%2C_the_other_major_Elvish_language"
+    },
+    {
+      "text": "Tolkien created over a dozen constructed languages for Middle-earth, including Khuzdul for Dwarves, Black Speech for Mordor, and Entish for the Ents.",
+      "source": "https://en.wikipedia.org/wiki/Tolkien"
+    },
+    {
+      "text": "The inscription on the One Ring — 'Ash nazg durbatulûk' — is written in the Black Speech of Mordor, a language Tolkien deliberately made harsh and ugly.",
+      "source": "https://en.wikipedia.org/wiki/inscription_on_the_One_Ring_%E2%80%94_%27Ash_nazg_durbatul%C3%BBk%27_%E2%80%94"
+    },
+    {
+      "text": "Tolkien was fluent in or could read Latin, Greek, Old English, Middle English, Finnish, Welsh, Gothic, Old Norse, and several other languages.",
+      "source": "https://en.wikipedia.org/wiki/Tolkien"
+    },
+    {
+      "text": "Tolkien created complete writing systems for his languages, including Tengwar (used by Elves) and Cirth (runic script used by Dwarves).",
+      "source": "https://en.wikipedia.org/wiki/Tolkien"
+    },
+    {
+      "text": "The phrase 'Elen síla lúmenn' omentielvo' ('A star shines on the hour of our meeting') is a common Quenya greeting in Middle-earth.",
+      "source": "https://en.wikipedia.org/wiki/phrase_%27Elen_s%C3%ADla_l%C3%BAmenn%27_omentielvo%27_(%27A_star_shines_on_the_hour_of_our_meeting%27)"
+    },
+    {
+      "text": "Tolkien wrote The Hobbit originally as a story for his children, not intending it for publication.",
+      "source": "https://en.wikipedia.org/wiki/Tolkien"
+    },
+    {
+      "text": "The famous opening line 'In a hole in the ground there lived a hobbit' was scribbled by Tolkien on a blank page while grading exam papers.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/famous_opening_line_%27In_a_hole_in_the_ground_there_lived_a_hobbit"
+    },
+    {
+      "text": "The Hobbit was first published on September 21, 1937, by George Allen & Unwin in London.",
+      "month": 9,
+      "day": 21,
+      "source": "https://en.wikipedia.org/wiki/Hobbit"
+    },
+    {
+      "text": "The Hobbit was an immediate success, and the publisher Stanley Unwin asked Tolkien for a sequel, which eventually became The Lord of the Rings.",
+      "source": "https://en.wikipedia.org/wiki/Hobbit"
+    },
+    {
+      "text": "Tolkien spent 12 years writing The Lord of the Rings, from 1937 to 1949, often doubting he would ever finish it.",
+      "source": "https://en.wikipedia.org/wiki/Tolkien"
+    },
+    {
+      "text": "The Lord of the Rings was originally written as a single novel, but the publisher split it into three volumes for economic reasons.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Lord_of_the_Rings"
+    },
+    {
+      "text": "The Fellowship of the Ring was published on July 29, 1954, by George Allen & Unwin.",
+      "month": 7,
+      "day": 29,
+      "source": "https://en.wikipedia.org/wiki/Fellowship_of_the_Ring"
+    },
+    {
+      "text": "The Two Towers was published on November 11, 1954, just a few months after The Fellowship of the Ring.",
+      "month": 11,
+      "day": 11,
+      "source": "https://en.wikipedia.org/wiki/Two_Towers"
+    },
+    {
+      "text": "The Return of the King was published on October 20, 1955, completing the trilogy.",
+      "month": 10,
+      "day": 20,
+      "source": "https://en.wikipedia.org/wiki/Return_of_the_King"
+    },
+    {
+      "text": "Tolkien disliked the title 'The Two Towers' and wanted to call the second volume 'The War of the Ring,' but his publisher overruled him.",
+      "source": "https://en.wikipedia.org/wiki/Two_Towers%27_and"
+    },
+    {
+      "text": "Tolkien originally planned to title the third volume 'The War of the Ring' but the publisher chose 'The Return of the King,' which Tolkien felt gave away too much of the plot.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/War_of_the_Ring"
+    },
+    {
+      "text": "The Lord of the Rings has been translated into over 40 languages and has sold more than 150 million copies worldwide.",
+      "source": "https://en.wikipedia.org/wiki/Lord_of_the_Rings"
+    },
+    {
+      "text": "An unauthorized paperback edition of The Lord of the Rings was published in the United States in the 1960s by Ace Books, sparking a copyright dispute.",
+      "source": "https://en.wikipedia.org/wiki/An_unauthorized_paperback_edition_of_The_Lord_of_the_Rings"
+    },
+    {
+      "text": "The Ace Books piracy controversy actually helped boost Tolkien's popularity in America, as fans rallied to buy the authorized edition.",
+      "source": "https://en.wikipedia.org/wiki/Ace_Books_piracy_controversy_actually"
+    },
+    {
+      "text": "The Silmarillion was published posthumously on September 15, 1977, edited by Tolkien's son Christopher.",
+      "month": 9,
+      "day": 15,
+      "source": "https://en.wikipedia.org/wiki/Silmarillion"
+    },
+    {
+      "text": "The Silmarillion covers thousands of years of Middle-earth history, from the creation of the world to the end of the First Age.",
+      "source": "https://en.wikipedia.org/wiki/Silmarillion"
+    },
+    {
+      "text": "Tolkien worked on The Silmarillion for most of his life, but never completed it to his satisfaction before his death.",
+      "source": "https://en.wikipedia.org/wiki/Silmarillion_for"
+    },
+    {
+      "text": "Christopher Tolkien spent decades editing and publishing his father's unfinished works, including the 12-volume History of Middle-earth series.",
+      "source": "https://en.wikipedia.org/wiki/Christopher_Tolkien"
+    },
+    {
+      "text": "Christopher Tolkien passed away on January 16, 2020, at the age of 95, having devoted his life to his father's literary legacy.",
+      "month": 1,
+      "day": 16,
+      "source": "https://en.wikipedia.org/wiki/Christopher_Tolkien"
+    },
+    {
+      "text": "Tolkien died on September 2, 1973, at the age of 81, in Bournemouth, England.",
+      "month": 9,
+      "day": 2,
+      "source": "https://en.wikipedia.org/wiki/September_2"
+    },
+    {
+      "text": "Tolkien and his wife Edith are buried together in Wolvercote Cemetery, Oxford, with the names Beren and Lúthien inscribed on their shared headstone.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Tolkien_and_his_wife_Edith"
+    },
+    {
+      "text": "The love story of Beren and Lúthien in The Silmarillion was inspired by Tolkien's own romance with his wife Edith.",
+      "source": "https://en.wikipedia.org/wiki/love_story_of_Beren_and_L%C3%BAthien_in_The_Silmarillion"
+    },
+    {
+      "text": "Tolkien saw Edith dancing in a woodland glade, which inspired the scene of Beren first seeing Lúthien dancing among the hemlocks.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Tolkien_saw_Edith_dancing_in_a_woodland_glade%2C_which"
+    },
+    {
+      "text": "Unfinished Tales, published in 1980, contains alternative versions and additional stories about Middle-earth that Tolkien left incomplete.",
+      "source": "https://en.wikipedia.org/wiki/Unfinished_Tales%2C_published_in_1980"
+    },
+    {
+      "text": "The Children of Húrin was published as a standalone novel in 2007, assembled by Christopher Tolkien from his father's manuscripts.",
+      "source": "https://en.wikipedia.org/wiki/Children_of_H%C3%BArin"
+    },
+    {
+      "text": "Beren and Lúthien was published as a standalone volume in 2017, and The Fall of Gondolin followed in 2018.",
+      "source": "https://en.wikipedia.org/wiki/Beren_and_L%C3%BAthien"
+    },
+    {
+      "text": "Frodo Baggins is the unlikely hero of The Lord of the Rings, a hobbit who volunteers to carry the One Ring to Mount Doom.",
+      "source": "https://en.wikipedia.org/wiki/Frodo_Baggins"
+    },
+    {
+      "text": "Tolkien considered Samwise Gamgee to be the true hero of The Lord of the Rings, not Frodo.",
+      "source": "https://en.wikipedia.org/wiki/Samwise_Gamgee_to"
+    },
+    {
+      "text": "Sam Gamgee was inspired by the common soldiers Tolkien served alongside in WWI — loyal, resilient, and often overlooked.",
+      "source": "https://en.wikipedia.org/wiki/Sam_Gamgee"
+    },
+    {
+      "text": "Gandalf is a Maia, one of the divine spirits sent to Middle-earth in the form of an old man to help resist Sauron.",
+      "source": "https://en.wikipedia.org/wiki/Gandalf"
+    },
+    {
+      "text": "Gandalf's original name in Valinor was Olórin, and he was considered the wisest of the Maiar sent to Middle-earth.",
+      "source": "https://en.wikipedia.org/wiki/Gandalf%27s_original_name_in_Valinor"
+    },
+    {
+      "text": "The name 'Gandalf' actually comes from the Old Norse poem Völuspá, where it means 'wand-elf.' Tolkien originally used it for a dwarf character.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Old_Norse"
+    },
+    {
+      "text": "Gandalf the Grey dies fighting the Balrog in the Mines of Moria and is resurrected as Gandalf the White, with enhanced powers.",
+      "source": "https://en.wikipedia.org/wiki/Gandalf_the_Grey_dies_fighting_the_Balrog_in_the_Mines_of_Moria_and"
+    },
+    {
+      "text": "Aragorn is the heir of Isildur and the rightful king of Gondor, who goes by the name Strider when the hobbits first meet him.",
+      "source": "https://en.wikipedia.org/wiki/Aragorn"
+    },
+    {
+      "text": "Aragorn is 87 years old during the events of The Lord of the Rings, due to the extended lifespan of the Dúnedain.",
+      "source": "https://en.wikipedia.org/wiki/Aragorn"
+    },
+    {
+      "text": "Aragorn carries the shards of Narsil, the sword that cut the One Ring from Sauron's hand, which is reforged as Andúril before the War of the Ring.",
+      "source": "https://en.wikipedia.org/wiki/One_Ring"
+    },
+    {
+      "text": "Legolas is an Elf of the Woodland Realm in Mirkwood and the son of King Thranduil, who appeared in The Hobbit.",
+      "source": "https://en.wikipedia.org/wiki/Legolas"
+    },
+    {
+      "text": "Gimli son of Glóin is the Dwarf representative in the Fellowship; his father Glóin was one of the 13 Dwarves in The Hobbit.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Gimli_son_of_Gl%C3%B3in"
+    },
+    {
+      "text": "The friendship between Legolas and Gimli is significant because Elves and Dwarves had been estranged for thousands of years in Middle-earth.",
+      "source": "https://en.wikipedia.org/wiki/friendship_between_Legolas_and_Gimli"
+    },
+    {
+      "text": "After the War of the Ring, Legolas and Gimli eventually sailed together to the Undying Lands, making Gimli the only Dwarf ever to do so.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/After_the_War_of_the_Ring"
+    },
+    {
+      "text": "Gollum, originally a Stoor hobbit named Sméagol, possessed the One Ring for nearly 500 years before Bilbo found it.",
+      "source": "https://en.wikipedia.org/wiki/Gollum%2C_originally_a_Stoor_hobbit"
+    },
+    {
+      "text": "Gollum's split personality — Sméagol vs. Gollum — represents the corrupting power of the One Ring on the mind.",
+      "source": "https://en.wikipedia.org/wiki/One_Ring_on_the"
+    },
+    {
+      "text": "Gollum plays a crucial role in destroying the One Ring, biting it from Frodo's finger and falling into the fires of Mount Doom.",
+      "source": "https://en.wikipedia.org/wiki/One_Ring"
+    },
+    {
+      "text": "Sauron was originally a Maia of the Vala Aulë the Smith before being corrupted by the Dark Lord Morgoth in the First Age.",
+      "source": "https://en.wikipedia.org/wiki/Sauron"
+    },
+    {
+      "text": "Sauron poured much of his own power and will into the One Ring, which is why destroying it also destroys him.",
+      "source": "https://en.wikipedia.org/wiki/Sauron_poured_much_of_his_own_power_and_will_into_the_One_Ring%2C_which"
+    },
+    {
+      "text": "The Eye of Sauron, a lidless eye wreathed in flame, is how Sauron manifests his will and searches for the Ring in the Third Age.",
+      "source": "https://en.wikipedia.org/wiki/Eye_of_Sauron%2C_a_lidless_eye_wreathed_in_flame"
+    },
+    {
+      "text": "Saruman the White was the leader of the Istari (wizards) and head of the White Council before his corruption and alliance with Sauron.",
+      "source": "https://en.wikipedia.org/wiki/Saruman_the_White"
+    },
+    {
+      "text": "Saruman's real downfall comes from his desire for the One Ring itself — he doesn't truly serve Sauron but hopes to supplant him.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/One_Ring"
+    },
+    {
+      "text": "Boromir, son of the Steward of Gondor, is tempted by the Ring and tries to take it from Frodo, but redeems himself by dying to protect Merry and Pippin.",
+      "source": "https://en.wikipedia.org/wiki/Boromir%2C_son_of_the_Steward_of_Gondor"
+    },
+    {
+      "text": "Éowyn, the shieldmaiden of Rohan, kills the Witch-king of Angmar at the Battle of the Pelennor Fields, fulfilling the prophecy that 'no man' could kill him.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Witch-king_of_Angmar_at_the_Battle_of_the"
+    },
+    {
+      "text": "Éowyn's famous declaration 'I am no man!' as she defeats the Witch-king is one of the most iconic moments in the trilogy.",
+      "source": "https://en.wikipedia.org/wiki/%C3%89owyn%27s_famous_declaration_%27I_am_no_man%21%27_as_she_defeats_the_Witch-king"
+    },
+    {
+      "text": "Faramir, Boromir's younger brother, is one of the few characters who resists the temptation of the Ring, showing the quality of his character.",
+      "source": "https://en.wikipedia.org/wiki/Faramir%2C_Boromir%27s_younger_brother"
+    },
+    {
+      "text": "Treebeard the Ent is described by Tolkien as the oldest living creature in Middle-earth.",
+      "source": "https://en.wikipedia.org/wiki/Treebeard_the_Ent"
+    },
+    {
+      "text": "The Ents' attack on Isengard — the 'Last March of the Ents' — is one of the most dramatic sequences in The Two Towers.",
+      "source": "https://en.wikipedia.org/wiki/Ents%27_attack_on_Isengard_%E2%80%94_the_%27Last_March_of_the_Ents%27_%E2%80%94"
+    },
+    {
+      "text": "Tolkien said the Ents were partly inspired by his frustration with Shakespeare's Macbeth, where Birnam Wood 'moves' only as camouflage for soldiers.",
+      "source": "https://en.wikipedia.org/wiki/Tolkien"
+    },
+    {
+      "text": "Tom Bombadil is one of Middle-earth's most enigmatic characters — the Ring has no power over him, and even Tolkien never clearly explained what he is.",
+      "source": "https://en.wikipedia.org/wiki/Tom_Bombadil"
+    },
+    {
+      "text": "Hobbits are typically between two and four feet tall, enjoy six meals a day, and live in comfortable underground homes called hobbit-holes.",
+      "source": "https://en.wikipedia.org/wiki/Hobbits"
+    },
+    {
+      "text": "The word 'hobbit' was entirely invented by Tolkien, and scholars have debated its etymology ever since.",
+      "source": "https://en.wikipedia.org/wiki/word_%27hobbit"
+    },
+    {
+      "text": "Hobbits have tough, leathery soles on their feet and generally go barefoot, even in cold weather.",
+      "source": "https://en.wikipedia.org/wiki/Hobbits"
+    },
+    {
+      "text": "The Shire's calendar has 12 months of 30 days each, plus special days, totaling 365 days — almost identical to our own.",
+      "source": "https://en.wikipedia.org/wiki/Shire%27s_calendar"
+    },
+    {
+      "text": "Bilbo and Frodo share the same birthday: September 22, known as Hobbit Day and celebrated by fans worldwide.",
+      "month": 9,
+      "day": 22,
+      "source": "https://en.wikipedia.org/wiki/Bilbo_and_Frodo"
+    },
+    {
+      "text": "Elves in Middle-earth are immortal, can only die from violence or grief, and are the fairest and wisest of all beings.",
+      "source": "https://en.wikipedia.org/wiki/Elves_in_Middle-earth"
+    },
+    {
+      "text": "There are multiple kindreds of Elves in Tolkien's legendarium, including the Noldor, Sindar, and Silvan Elves.",
+      "source": "https://en.wikipedia.org/wiki/There"
+    },
+    {
+      "text": "Elrond Half-elven is over 6,000 years old during The Lord of the Rings and was present at the Last Alliance where Sauron was first defeated.",
+      "source": "https://en.wikipedia.org/wiki/Elrond_Half-elven"
+    },
+    {
+      "text": "Galadriel is one of the oldest Elves in Middle-earth during the Third Age, having been born in Valinor during the Years of the Trees.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Galadriel"
+    },
+    {
+      "text": "Dwarves were created by the Vala Aulë, who was impatient for the coming of the Children of Ilúvatar and fashioned them in secret.",
+      "source": "https://en.wikipedia.org/wiki/Dwarves"
+    },
+    {
+      "text": "Dwarven women are said to make up only about a third of the Dwarf population, and they are rarely seen by outsiders, leading other races to joke that Dwarves spring from stone.",
+      "source": "https://en.wikipedia.org/wiki/Dwarven_women"
+    },
+    {
+      "text": "Orcs were originally Elves who were captured and corrupted by Morgoth in the earliest ages of Middle-earth, according to one of Tolkien's versions.",
+      "source": "https://en.wikipedia.org/wiki/Orcs"
+    },
+    {
+      "text": "Tolkien never settled on a single origin story for Orcs — he considered and rejected multiple explanations throughout his life.",
+      "source": "https://en.wikipedia.org/wiki/Lord_of_the_Rings"
+    },
+    {
+      "text": "The Uruk-hai were a stronger breed of Orc created by Saruman, capable of traveling in daylight without weakening.",
+      "source": "https://en.wikipedia.org/wiki/Uruk-hai"
+    },
+    {
+      "text": "The Nazgûl, or Ringwraiths, are nine Men who were given Rings of Power by Sauron and slowly corrupted into undead servants.",
+      "source": "https://en.wikipedia.org/wiki/Nazg%C3%BBl%2C_or_Ringwraiths"
+    },
+    {
+      "text": "The Witch-king of Angmar is the leader of the Nazgûl and wields a morgul-blade that nearly kills Frodo on Weathertop.",
+      "source": "https://en.wikipedia.org/wiki/Witch-king_of_Angmar"
+    },
+    {
+      "text": "Shelob, the giant spider who attacks Frodo in Cirith Ungol, is the last child of the primordial spider Ungoliant from The Silmarillion.",
+      "source": "https://en.wikipedia.org/wiki/Shelob%2C_the_giant_spider_who_attacks_Frodo_in_Cirith_Ungol"
+    },
+    {
+      "text": "Smaug the dragon in The Hobbit was voiced by Benedict Cumberbatch in Peter Jackson's film adaptation, using motion capture technology.",
+      "source": "https://en.wikipedia.org/wiki/Smaug_the_dragon_in_The_Hobbit"
+    },
+    {
+      "text": "The Balrog that Gandalf fights in Moria is a Maia corrupted by Morgoth — essentially the same order of being as Gandalf himself.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Balrog_that_Gandalf_fights_in_Moria"
+    },
+    {
+      "text": "The Shire is located in the northwest of Middle-earth and is modeled on the rural English Midlands that Tolkien loved.",
+      "source": "https://en.wikipedia.org/wiki/Shire"
+    },
+    {
+      "text": "Bag End, Bilbo and Frodo's home, takes its name from the real cul-de-sac where Tolkien's aunt lived in Worcestershire.",
+      "source": "https://en.wikipedia.org/wiki/Bag_End%2C_Bilbo_and_Frodo%27s_home"
+    },
+    {
+      "text": "Mordor, the land of shadow, is located in the southeast of Middle-earth and is surrounded by mountain ranges on three sides.",
+      "source": "https://en.wikipedia.org/wiki/Mordor%2C_the_land_of_shadow"
+    },
+    {
+      "text": "Mount Doom (Orodruin) is the only place where the One Ring can be destroyed because it was forged there by Sauron.",
+      "source": "https://en.wikipedia.org/wiki/Mount_Doom_(Orodruin)"
+    },
+    {
+      "text": "Rivendell (Imladris) is a hidden Elven valley ruled by Elrond, serving as one of the last refuges of the Elves in Middle-earth.",
+      "source": "https://en.wikipedia.org/wiki/Rivendell_(Imladris)"
+    },
+    {
+      "text": "Minas Tirith, the White City of Gondor, is built on seven levels carved into a mountainside, with the Citadel and White Tower at the top.",
+      "source": "https://en.wikipedia.org/wiki/Minas_Tirith%2C_the_White_City_of_Gondor"
+    },
+    {
+      "text": "Minas Tirith was originally called Minas Anor (Tower of the Sun), while its dark counterpart Minas Morgul was once Minas Ithil (Tower of the Moon).",
+      "source": "https://en.wikipedia.org/wiki/Minas_Tirith"
+    },
+    {
+      "text": "Rohan, the land of the horse-lords, was inspired by Anglo-Saxon England — the Rohirrim speak Old English in Tolkien's conceit.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Rohan%2C_the_land_of_the_horse-lords"
+    },
+    {
+      "text": "Edoras, the capital of Rohan, sits atop a hill and features the golden hall of Meduseld, home of the kings of Rohan.",
+      "source": "https://en.wikipedia.org/wiki/Edoras%2C_the_capital_of_Rohan%2C_sits_atop_a_hill_and"
+    },
+    {
+      "text": "Helm's Deep is a fortress built into the White Mountains of Rohan, site of one of the most famous battles in the trilogy.",
+      "source": "https://en.wikipedia.org/wiki/Helm%27s_Deep"
+    },
+    {
+      "text": "Lothlórien is the enchanted forest realm of Galadriel and Celeborn, where time seems to pass differently than in the outside world.",
+      "source": "https://en.wikipedia.org/wiki/Lothl%C3%B3rien"
+    },
+    {
+      "text": "Isengard is the fortress of Saruman, featuring the tower of Orthanc at its center, one of the most impregnable structures in Middle-earth.",
+      "source": "https://en.wikipedia.org/wiki/Isengard"
+    },
+    {
+      "text": "The Mines of Moria (Khazad-dûm) were once the greatest Dwarf kingdom in Middle-earth before a Balrog was awakened in its depths.",
+      "source": "https://en.wikipedia.org/wiki/Mines_of_Moria_(Khazad-d%C3%BBm)"
+    },
+    {
+      "text": "The Paths of the Dead run beneath the White Mountains, haunted by oath-breaking Men whom Aragorn summons to fulfill their ancient pledge.",
+      "source": "https://en.wikipedia.org/wiki/Paths_of_the_Dead"
+    },
+    {
+      "text": "Tolkien drew detailed maps of Middle-earth, and his son Christopher refined them for publication — they remain canonical references for the world's geography.",
+      "source": "https://en.wikipedia.org/wiki/Lord_of_the_Rings"
+    },
+    {
+      "text": "Middle-earth is not a separate planet; Tolkien described it as our own world in a fictional prehistoric era.",
+      "source": "https://en.wikipedia.org/wiki/Middle-earth"
+    },
+    {
+      "text": "The One Ring makes its wearer invisible (for mortals) but slowly corrupts them, amplifying their worst impulses and binding them to Sauron's will.",
+      "source": "https://en.wikipedia.org/wiki/One_Ring"
+    },
+    {
+      "text": "The inscription on the One Ring reads: 'One Ring to rule them all, One Ring to find them, One Ring to bring them all, and in the darkness bind them.'",
+      "source": "https://en.wikipedia.org/wiki/One_Ring"
+    },
+    {
+      "text": "The One Ring is virtually indestructible — it cannot be harmed by dragon fire, and only the volcanic fires of Mount Doom where it was forged can unmake it.",
+      "source": "https://en.wikipedia.org/wiki/One_Ring"
+    },
+    {
+      "text": "Sting is a short Elvish blade that glows blue when Orcs are nearby, found by Bilbo in a troll hoard and later given to Frodo.",
+      "source": "https://en.wikipedia.org/wiki/Sting"
+    },
+    {
+      "text": "Andúril, the 'Flame of the West,' is reforged from the shards of Narsil, the sword that Isildur used to cut the Ring from Sauron's hand.",
+      "source": "https://en.wikipedia.org/wiki/And%C3%BAril%2C_the_%27Flame_of_the_West"
+    },
+    {
+      "text": "Glamdring, Gandalf's sword, was forged in the First Age for the Elven king of Gondolin and also glows blue near Orcs.",
+      "source": "https://en.wikipedia.org/wiki/Glamdring%2C_Gandalf%27s_sword"
+    },
+    {
+      "text": "The three Elven Rings — Narya, Nenya, and Vilya — were never touched by Sauron and were used to preserve and protect the Elven realms.",
+      "source": "https://en.wikipedia.org/wiki/three_Elven_Rings_%E2%80%94_Narya%2C_Nenya%2C_and_Vilya_%E2%80%94"
+    },
+    {
+      "text": "Gandalf secretly bore Narya, the Ring of Fire, given to him by Círdan the Shipwright upon his arrival in Middle-earth.",
+      "source": "https://en.wikipedia.org/wiki/Ring_of_Fire"
+    },
+    {
+      "text": "Galadriel bore Nenya, the Ring of Water, which helped preserve the beauty and timelessness of Lothlórien.",
+      "source": "https://en.wikipedia.org/wiki/Galadriel_bore_Nenya%2C_the_Ring_of_Water%2C_which"
+    },
+    {
+      "text": "Elrond bore Vilya, the Ring of Air, the mightiest of the three Elven Rings, which helped sustain Rivendell.",
+      "source": "https://en.wikipedia.org/wiki/Elrond_bore_Vilya%2C_the_Ring_of_Air%2C_the_mightiest_of_the_three_Elven_Rings%2C_which"
+    },
+    {
+      "text": "The Palantíri are seven seeing-stones that allow their users to communicate across vast distances. Sauron and Saruman both used them.",
+      "source": "https://en.wikipedia.org/wiki/Palant%C3%ADri"
+    },
+    {
+      "text": "The Arkenstone, the great jewel of the Lonely Mountain, is central to the plot of The Hobbit and nearly causes a war between allies.",
+      "source": "https://en.wikipedia.org/wiki/Arkenstone%2C_the_great_jewel_of_the_Lonely_Mountain"
+    },
+    {
+      "text": "Mithril, the precious metal found only in the Mines of Moria, is lighter than silk and harder than steel. Frodo's mithril coat saves his life.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Mithril%2C_the_precious_metal_found_only_in_the_Mines_of_Moria"
+    },
+    {
+      "text": "Peter Jackson first attempted to get the rights to film The Lord of the Rings in the mid-1990s, initially planning it as two films.",
+      "source": "https://en.wikipedia.org/wiki/Peter_Jackson"
+    },
+    {
+      "text": "Miramax nearly produced The Lord of the Rings as a single film before the project moved to New Line Cinema, which agreed to three films.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Lord_of_the_Rings"
+    },
+    {
+      "text": "All three Lord of the Rings films were shot simultaneously in New Zealand over a 438-day principal photography schedule.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/All_three_Lord_of_the_Rings_films"
+    },
+    {
+      "text": "The Lord of the Rings trilogy had a combined budget of approximately $281 million and grossed nearly $3 billion worldwide at the box office.",
+      "source": "https://en.wikipedia.org/wiki/Lord_of_the_Rings_trilogy"
+    },
+    {
+      "text": "The Fellowship of the Ring premiered in London on December 10, 2001, and was released worldwide on December 19, 2001.",
+      "month": 12,
+      "day": 19,
+      "source": "https://en.wikipedia.org/wiki/Fellowship_of_the_Ring_premiered_in_London_on_December_10%2C_2001%2C_and"
+    },
+    {
+      "text": "The Two Towers was released on December 18, 2002, and grossed over $926 million worldwide.",
+      "month": 12,
+      "day": 18,
+      "source": "https://en.wikipedia.org/wiki/Two_Towers"
+    },
+    {
+      "text": "The Return of the King was released on December 17, 2003, and became one of the highest-grossing films of all time.",
+      "month": 12,
+      "day": 17,
+      "source": "https://en.wikipedia.org/wiki/Return_of_the_King"
+    },
+    {
+      "text": "The Return of the King won all 11 Academy Awards it was nominated for, tying the record held by Ben-Hur and Titanic.",
+      "month": 2,
+      "day": 29,
+      "source": "https://en.wikipedia.org/wiki/Return_of_the_King"
+    },
+    {
+      "text": "Across all three films, The Lord of the Rings trilogy won 17 Academy Awards out of 30 nominations.",
+      "source": "https://en.wikipedia.org/wiki/Across_all_three_films%2C_The_Lord_of_the_Rings_trilogy"
+    },
+    {
+      "text": "The Return of the King won the Academy Award for Best Picture, the first fantasy film ever to receive that honor.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Return_of_the_King"
+    },
+    {
+      "text": "WETA Workshop, co-founded by Richard Taylor, created over 48,000 pieces of armor, 10,000 arrows, and 2,000 weapons for the trilogy.",
+      "source": "https://en.wikipedia.org/wiki/WETA_Workshop%2C_co-founded_by_Richard_Taylor"
+    },
+    {
+      "text": "WETA Digital pioneered the MASSIVE software for the battle scenes, which allowed digital soldiers to 'think' independently and fight realistically.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/WETA_Digital"
+    },
+    {
+      "text": "Over 20,600 extras were used across the three films, many of them New Zealand military personnel.",
+      "source": "https://en.wikipedia.org/wiki/Over_20%2C600_extras"
+    },
+    {
+      "text": "The Hobbiton set in Matamata, New Zealand, was built a year before filming began so that the gardens would look naturally established.",
+      "source": "https://en.wikipedia.org/wiki/Hobbiton_set_in_Matamata%2C_New_Zealand"
+    },
+    {
+      "text": "Peter Jackson used forced perspective and camera tricks to make the hobbits appear small alongside taller characters like Gandalf.",
+      "source": "https://en.wikipedia.org/wiki/Peter_Jackson"
+    },
+    {
+      "text": "Elijah Wood (Frodo) and Sean Astin (Sam) were digitally shrunk or had scale doubles for shots where forced perspective didn't work.",
+      "source": "https://en.wikipedia.org/wiki/Elijah_Wood_(Frodo)_and_Sean_Astin_(Sam)"
+    },
+    {
+      "text": "Viggo Mortensen was cast as Aragorn after Stuart Townsend was let go on the first day of shooting — Mortensen's son convinced him to take the role.",
+      "source": "https://en.wikipedia.org/wiki/Viggo_Mortensen"
+    },
+    {
+      "text": "Viggo Mortensen did many of his own stunts and insisted on using a real steel sword rather than a lighter aluminum or rubber prop.",
+      "source": "https://en.wikipedia.org/wiki/Viggo_Mortensen"
+    },
+    {
+      "text": "During filming, Viggo Mortensen broke two toes kicking the Orc helmet in The Two Towers — his anguished scream in the scene was real.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Viggo_Mortensen"
+    },
+    {
+      "text": "Ian McKellen was the first actor cast as Gandalf and immersed himself in Tolkien's works during preparation for the role.",
+      "source": "https://en.wikipedia.org/wiki/Ian_McKellen"
+    },
+    {
+      "text": "Ian McKellen was nominated for the Academy Award for Best Supporting Actor for The Fellowship of the Ring.",
+      "source": "https://en.wikipedia.org/wiki/Ian_McKellen"
+    },
+    {
+      "text": "Sean Bean (Boromir) was afraid of helicopters and would hike to remote filming locations in full costume and armor rather than fly.",
+      "source": "https://en.wikipedia.org/wiki/Sean_Bean_(Boromir)"
+    },
+    {
+      "text": "Orlando Bloom broke a rib falling off a horse during filming but continued working with minimal complaint.",
+      "source": "https://en.wikipedia.org/wiki/Orlando_Bloom"
+    },
+    {
+      "text": "Orlando Bloom was only 22 when he was cast as Legolas, and the role launched his career as an international star.",
+      "source": "https://en.wikipedia.org/wiki/Orlando_Bloom"
+    },
+    {
+      "text": "John Rhys-Davies played both Gimli and provided the voice for Treebeard in the trilogy.",
+      "source": "https://en.wikipedia.org/wiki/John_Rhys-Davies"
+    },
+    {
+      "text": "John Rhys-Davies suffered severe allergic reactions to the prosthetic makeup used to transform him into Gimli throughout filming.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/John_Rhys-Davies"
+    },
+    {
+      "text": "Andy Serkis revolutionized motion-capture performance with his portrayal of Gollum, setting a new standard for digital characters in cinema.",
+      "source": "https://en.wikipedia.org/wiki/Andy_Serkis"
+    },
+    {
+      "text": "Andy Serkis spent hours studying drug addicts and people with obsessive behaviors to develop Gollum's mannerisms and speech.",
+      "source": "https://en.wikipedia.org/wiki/Andy_Serkis"
+    },
+    {
+      "text": "The scenes with Gollum were first acted out by Serkis on set with the other actors, then re-created digitally by WETA, preserving his performance.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/scenes_with_Gollum"
+    },
+    {
+      "text": "Cate Blanchett brought a regal, otherworldly quality to Galadriel, and her 'dark queen' scene when tempted by the Ring became iconic.",
+      "source": "https://en.wikipedia.org/wiki/Cate_Blanchett"
+    },
+    {
+      "text": "Liv Tyler played Arwen, expanding the character's role significantly from the books to create a stronger romantic storyline with Aragorn.",
+      "source": "https://en.wikipedia.org/wiki/Liv_Tyler"
+    },
+    {
+      "text": "Hugo Weaving played Elrond, bringing gravitas and world-weariness to the ancient Elf lord.",
+      "source": "https://en.wikipedia.org/wiki/Hugo_Weaving"
+    },
+    {
+      "text": "Christopher Lee (Saruman) was the only cast member to have actually met J.R.R. Tolkien and was a lifelong fan of the books.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Christopher_Lee_(Saruman)"
+    },
+    {
+      "text": "Christopher Lee read The Lord of the Rings once a year for decades and originally hoped to play Gandalf.",
+      "source": "https://en.wikipedia.org/wiki/Christopher_Lee"
+    },
+    {
+      "text": "Ian Holm played the older Bilbo Baggins in the trilogy; he had previously voiced Frodo in the 1981 BBC radio adaptation.",
+      "source": "https://en.wikipedia.org/wiki/Ian_Holm_played_the_older_Bilbo_Baggins_in_the_trilogy%3B_he"
+    },
+    {
+      "text": "Billy Boyd (Pippin) wrote and performed the haunting song 'The Edge of Night' that Pippin sings to Denethor in The Return of the King.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Billy_Boyd_(Pippin)"
+    },
+    {
+      "text": "Dominic Monaghan (Merry) and Billy Boyd (Pippin) became best friends during filming and their real-life chemistry infused their on-screen performances.",
+      "source": "https://en.wikipedia.org/wiki/Dominic_Monaghan_(Merry)_and_Billy_Boyd_(Pippin)"
+    },
+    {
+      "text": "Miranda Otto brought strength and vulnerability to her portrayal of Éowyn, particularly in the Battle of the Pelennor Fields.",
+      "source": "https://en.wikipedia.org/wiki/Miranda_Otto"
+    },
+    {
+      "text": "Bernard Hill played King Théoden of Rohan, delivering the rousing 'Ride now!' speech before the charge at Pelennor Fields.",
+      "source": "https://en.wikipedia.org/wiki/Bernard_Hill"
+    },
+    {
+      "text": "Karl Urban played Éomer, the nephew of King Théoden and one of Rohan's greatest warriors.",
+      "source": "https://en.wikipedia.org/wiki/Karl_Urban"
+    },
+    {
+      "text": "Brad Dourif portrayed Gríma Wormtongue, the treacherous advisor to King Théoden who secretly serves Saruman.",
+      "source": "https://en.wikipedia.org/wiki/Brad_Dourif"
+    },
+    {
+      "text": "David Wenham played Faramir, brother of Boromir, whose portrayal in the films was more conflicted than in the books, drawing debate among fans.",
+      "source": "https://en.wikipedia.org/wiki/David_Wenham_played_Faramir%2C_brother_of_Boromir%2C_whose_portrayal_in_the_films"
+    },
+    {
+      "text": "Howard Shore composed the music for all three Lord of the Rings films, creating one of the most celebrated film scores in history.",
+      "source": "https://en.wikipedia.org/wiki/Howard_Shore"
+    },
+    {
+      "text": "Howard Shore's score for the trilogy includes over 100 distinct leitmotifs — recurring musical themes associated with specific characters, locations, and cultures.",
+      "source": "https://en.wikipedia.org/wiki/Howard_Shore%27s_score_for_the_trilogy"
+    },
+    {
+      "text": "The London Philharmonic Orchestra and the New Zealand Symphony Orchestra performed the score, recording over 12 hours of music across all three films.",
+      "source": "https://en.wikipedia.org/wiki/London_Philharmonic_Orchestra_and_the_New_Zealand_Symphony_Orchestra"
+    },
+    {
+      "text": "Shore's score for The Fellowship of the Ring won the Academy Award for Best Original Score.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Shore%27s_score_for_The_Fellowship_of_the_Ring"
+    },
+    {
+      "text": "Shore's score for The Return of the King also won the Academy Award for Best Original Score.",
+      "source": "https://en.wikipedia.org/wiki/Shore%27s_score_for_The_Return_of_the_King_also"
+    },
+    {
+      "text": "Annie Lennox performed 'Into the West,' the end-credits song for The Return of the King, which won the Academy Award for Best Original Song.",
+      "source": "https://en.wikipedia.org/wiki/Annie_Lennox"
+    },
+    {
+      "text": "Enya performed two songs for the trilogy: 'May It Be' for The Fellowship of the Ring and 'Aníron' in Sindarin Elvish.",
+      "source": "https://en.wikipedia.org/wiki/Enya"
+    },
+    {
+      "text": "The 'Concerning Hobbits' theme from the Shire is one of Shore's most beloved and recognizable musical motifs.",
+      "source": "https://en.wikipedia.org/wiki/%27Concerning_Hobbits%27_theme_from_the_Shire"
+    },
+    {
+      "text": "The choral music in the Mines of Moria sequence uses Dwarvish lyrics created by Tolkien linguist David Salo.",
+      "source": "https://en.wikipedia.org/wiki/choral_music_in_the_Mines_of_Moria_sequence_uses_Dwarvish_lyrics"
+    },
+    {
+      "text": "The extended editions of the trilogy add approximately 2 hours of additional footage: 30 minutes to Fellowship, 44 to Two Towers, and 50 to Return of the King.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Two_Towers"
+    },
+    {
+      "text": "The extended edition of The Return of the King has a runtime of 4 hours and 11 minutes, making it one of the longest films released on home video.",
+      "source": "https://en.wikipedia.org/wiki/extended_edition_of_The_Return_of_the_King"
+    },
+    {
+      "text": "The extended editions include the Scouring of the Shire's partial representation through Saruman's death scene at Isengard.",
+      "source": "https://en.wikipedia.org/wiki/Scouring_of_the_Shire%27s"
+    },
+    {
+      "text": "The appendices and behind-the-scenes documentaries on the extended edition DVDs total over 26 hours of content.",
+      "source": "https://en.wikipedia.org/wiki/Lord_of_the_Rings"
+    },
+    {
+      "text": "Peter Jackson lost over 70 pounds during production by switching to a healthier diet, visibly changing in appearance between production diaries.",
+      "source": "https://en.wikipedia.org/wiki/Peter_Jackson"
+    },
+    {
+      "text": "Alan Lee and John Howe, the two most renowned Tolkien illustrators, served as chief conceptual designers for the films.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Alan_Lee_and_John_Howe"
+    },
+    {
+      "text": "The miniatures used for wide shots of locations like Minas Tirith and Helm's Deep were so large they were called 'bigatures' by the crew.",
+      "source": "https://en.wikipedia.org/wiki/miniatures_used_for_wide_shots_of_locations_like_Minas_Tirith_and_Helm%27s_Deep"
+    },
+    {
+      "text": "The Helm's Deep battle sequence in The Two Towers took four months of night shoots to complete.",
+      "source": "https://en.wikipedia.org/wiki/Helm%27s_Deep_battle_sequence_in_The_Two_Towers"
+    },
+    {
+      "text": "Over 1,800 pairs of hobbit feet prosthetics were used throughout the trilogy — they had to be replaced every day.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Over_1%2C800_pairs_of_hobbit_feet_prosthetics"
+    },
+    {
+      "text": "The four hobbit actors got matching Elvish tattoos of the number nine (for the nine members of the Fellowship) — John Rhys-Davies's stunt double got one in his place.",
+      "source": "https://en.wikipedia.org/wiki/John_Rhys-Davies%27s"
+    },
+    {
+      "text": "Peter Jackson makes cameo appearances in all three films, including eating a carrot in Bree in The Fellowship of the Ring.",
+      "source": "https://en.wikipedia.org/wiki/Peter_Jackson"
+    },
+    {
+      "text": "Weta Workshop created the Cave Troll, Balrog, and the massive Oliphaunts (Mûmakil) as a combination of practical models and CGI.",
+      "source": "https://en.wikipedia.org/wiki/Weta_Workshop"
+    },
+    {
+      "text": "The city of Minas Tirith was built as a massive 1:72 scale miniature that stood over 7 meters tall.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/city_of_Minas_Tirith"
+    },
+    {
+      "text": "The Dead Marshes scenes were filmed in a shallow pool built on a parking lot, with lights beneath the water to create the ghostly faces.",
+      "source": "https://en.wikipedia.org/wiki/Dead_Marshes_scenes"
+    },
+    {
+      "text": "The Battle of Pelennor Fields in The Return of the King involved 200,000 digital combatants, the largest digital battle in film at that time.",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Pelennor_Fields_in_The_Return"
+    },
+    {
+      "text": "The Hobbit: An Unexpected Journey was released on December 14, 2012, beginning Peter Jackson's second Middle-earth trilogy.",
+      "month": 12,
+      "day": 14,
+      "source": "https://en.wikipedia.org/wiki/Hobbit:_An_Unexpected_Journey"
+    },
+    {
+      "text": "The Hobbit: The Desolation of Smaug was released on December 13, 2013.",
+      "month": 12,
+      "day": 13,
+      "source": "https://en.wikipedia.org/wiki/Hobbit:_The_Desolation_of_Smaug"
+    },
+    {
+      "text": "The Hobbit: The Battle of the Five Armies was released on December 17, 2014, concluding the Hobbit trilogy.",
+      "month": 12,
+      "day": 17,
+      "source": "https://en.wikipedia.org/wiki/Hobbit:_The_Battle_of_the_Five_Armies"
+    },
+    {
+      "text": "The Hobbit was originally planned as two films directed by Guillermo del Toro, who departed after years of development delays.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Hobbit"
+    },
+    {
+      "text": "Peter Jackson took over directing The Hobbit with very little preparation time, which led to significant script and design changes during production.",
+      "source": "https://en.wikipedia.org/wiki/Peter_Jackson"
+    },
+    {
+      "text": "The Hobbit trilogy was the first major production to be filmed and released in 48 frames per second (HFR), double the standard 24fps.",
+      "source": "https://en.wikipedia.org/wiki/Hobbit_trilogy"
+    },
+    {
+      "text": "Martin Freeman was cast as the young Bilbo Baggins in The Hobbit trilogy, with Ian Holm reprising the older Bilbo in framing scenes.",
+      "source": "https://en.wikipedia.org/wiki/Martin_Freeman"
+    },
+    {
+      "text": "Benedict Cumberbatch provided both the voice and motion capture for Smaug the dragon and the Necromancer (Sauron) in The Hobbit films.",
+      "source": "https://en.wikipedia.org/wiki/Benedict_Cumberbatch"
+    },
+    {
+      "text": "Richard Armitage played Thorin Oakenshield, leader of the company of Dwarves seeking to reclaim the Lonely Mountain from Smaug.",
+      "source": "https://en.wikipedia.org/wiki/Richard_Armitage"
+    },
+    {
+      "text": "The Hobbit trilogy earned over $2.9 billion worldwide at the box office.",
+      "source": "https://en.wikipedia.org/wiki/Hobbit_trilogy"
+    },
+    {
+      "text": "Many of the original Lord of the Rings cast returned for cameos in The Hobbit trilogy, including Ian McKellen, Cate Blanchett, Hugo Weaving, and Orlando Bloom.",
+      "source": "https://en.wikipedia.org/wiki/Many_of_the"
+    },
+    {
+      "text": "Lee Pace played the Elvenking Thranduil (Legolas's father) in The Hobbit trilogy, bringing cold majesty to the role.",
+      "source": "https://en.wikipedia.org/wiki/Lee_Pace"
+    },
+    {
+      "text": "Evangeline Lilly played Tauriel, an original character created for The Hobbit films who does not appear in Tolkien's books.",
+      "source": "https://en.wikipedia.org/wiki/Evangeline_Lilly_played_Tauriel%2C_an_original_character"
+    },
+    {
+      "text": "Luke Evans played Bard the Bowman, the Lake-town hero who ultimately slays the dragon Smaug.",
+      "source": "https://en.wikipedia.org/wiki/Luke_Evans"
+    },
+    {
+      "text": "The Hobbit trilogy used more CGI than the Lord of the Rings trilogy, which some fans felt detracted from the handcrafted feel of the originals.",
+      "source": "https://en.wikipedia.org/wiki/Hobbit"
+    },
+    {
+      "text": "The Lord of the Rings: The Rings of Power premiered on Amazon Prime Video on September 2, 2022.",
+      "month": 9,
+      "day": 2,
+      "source": "https://en.wikipedia.org/wiki/Lord_of_the_Rings:_The_Rings_of"
+    },
+    {
+      "text": "Amazon acquired the television rights to The Lord of the Rings for a reported $250 million, with a total production budget for Season 1 estimated at $465 million.",
+      "source": "https://en.wikipedia.org/wiki/Amazon"
+    },
+    {
+      "text": "The Rings of Power is set during the Second Age of Middle-earth, thousands of years before the events of The Lord of the Rings.",
+      "source": "https://en.wikipedia.org/wiki/Rings_of_Power"
+    },
+    {
+      "text": "The Rings of Power covers the forging of the Rings of Power, the rise of Sauron, and the fall of the island kingdom of Númenor.",
+      "source": "https://en.wikipedia.org/wiki/Rings_of_Power"
+    },
+    {
+      "text": "Morfydd Clark stars as a younger version of Galadriel in The Rings of Power.",
+      "source": "https://en.wikipedia.org/wiki/Morfydd_Clark"
+    },
+    {
+      "text": "The Rings of Power was filmed primarily in New Zealand for its first season, then moved production to the United Kingdom for Season 2.",
+      "source": "https://en.wikipedia.org/wiki/Rings_of_Power"
+    },
+    {
+      "text": "Robert Aramayo plays Elrond in The Rings of Power, portraying the half-elven character in his younger years during the Second Age.",
+      "source": "https://en.wikipedia.org/wiki/Robert_Aramayo"
+    },
+    {
+      "text": "Charlie Vickers plays Halbrand/Sauron in The Rings of Power, revealing the Dark Lord's deceptive fair form.",
+      "source": "https://en.wikipedia.org/wiki/Charlie_Vickers"
+    },
+    {
+      "text": "The Rings of Power depicts the forging of the three Elven rings by Celebrimbor, played by Charles Edwards.",
+      "source": "https://en.wikipedia.org/wiki/Rings_of_Power"
+    },
+    {
+      "text": "The Harfoots in The Rings of Power are an ancestor group of the Hobbits, depicting their nomadic lifestyle long before the Shire was settled.",
+      "source": "https://en.wikipedia.org/wiki/Harfoots_in_The_Rings_of_Power"
+    },
+    {
+      "text": "J.D. Payne and Patrick McKay serve as showrunners for The Rings of Power.",
+      "source": "https://en.wikipedia.org/wiki/J.D._Payne_and_Patrick_McKay"
+    },
+    {
+      "text": "The Rings of Power condenses thousands of years of Second Age history into a shorter timeline for dramatic purposes.",
+      "source": "https://en.wikipedia.org/wiki/Rings_of_Power"
+    },
+    {
+      "text": "Before Peter Jackson's films, there was a 1978 animated Lord of the Rings film directed by Ralph Bakshi that covered Fellowship and part of Two Towers.",
+      "source": "https://en.wikipedia.org/wiki/Before_Peter_Jackson%27s_films%2C_there"
+    },
+    {
+      "text": "The Bakshi animated film was intended to be the first of two parts, but the second part was never made due to funding issues.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Bakshi_animated_film"
+    },
+    {
+      "text": "Rankin/Bass produced animated TV specials of The Hobbit (1977) and The Return of the King (1980), with voice actors including John Huston as Gandalf.",
+      "source": "https://en.wikipedia.org/wiki/Hobbit"
+    },
+    {
+      "text": "The Beatles reportedly wanted to make a Lord of the Rings film in the 1960s with Stanley Kubrick directing, but Tolkien vetoed it.",
+      "source": "https://en.wikipedia.org/wiki/The_Beatles"
+    },
+    {
+      "text": "A 1981 BBC Radio dramatization of The Lord of the Rings starred Ian Holm as Frodo and is considered one of the finest radio dramas ever produced.",
+      "source": "https://en.wikipedia.org/wiki/A_1981_BBC_Radio_dramatization_of_The_Lord_of_the_Rings_starred_Ian_Holm_as_Frodo_and"
+    },
+    {
+      "text": "The Lord of the Rings has inspired numerous video games, from early text adventures to the popular Shadow of Mordor and Shadow of War action games.",
+      "source": "https://en.wikipedia.org/wiki/Lord_of_the_Rings"
+    },
+    {
+      "text": "The Lord of the Rings Online, an MMORPG launched in 2007, allows players to explore a detailed recreation of Middle-earth and still maintains an active player base.",
+      "source": "https://en.wikipedia.org/wiki/Lord_of_the_Rings_Online%2C_an_MMORPG"
+    },
+    {
+      "text": "Led Zeppelin referenced The Lord of the Rings in several songs, including 'Ramble On' (which mentions Gollum and Mordor) and 'The Battle of Evermore.'",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Led_Zeppelin"
+    },
+    {
+      "text": "Tolkien's work essentially created the modern fantasy genre — concepts like Elves, Dwarves, and Orcs in most fantasy today owe a debt to his vision.",
+      "source": "https://en.wikipedia.org/wiki/Tolkien%27s_work_essentially"
+    },
+    {
+      "text": "Dungeons & Dragons, the seminal tabletop role-playing game, was heavily influenced by Tolkien's races, creatures, and world-building.",
+      "source": "https://en.wikipedia.org/wiki/Dungeons_%26_Dragons%2C_the_seminal_tabletop_role-playing_game"
+    },
+    {
+      "text": "Tolkien's influence extends to video games — franchises like The Elder Scrolls, Warcraft, and Final Fantasy all draw on tropes he popularized.",
+      "source": "https://en.wikipedia.org/wiki/Elder_Scrolls"
+    },
+    {
+      "text": "The word 'Elvish' entered common usage largely because of Tolkien, though he preferred the spelling 'Elven' for adjective forms.",
+      "source": "https://en.wikipedia.org/wiki/Elven%27_for"
+    },
+    {
+      "text": "Tolkien was a devout Catholic, and he described The Lord of the Rings as a 'fundamentally religious and Catholic work,' though it contains no overt religious allegory.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Tolkien"
+    },
+    {
+      "text": "Despite frequent comparisons, Tolkien denied that The Lord of the Rings was an allegory of World War II, insisting it was not about any specific real-world events.",
+      "source": "https://en.wikipedia.org/wiki/Despite_frequent_comparisons%2C_Tolkien_denied_that_The_Lord_of_the_Rings"
+    },
+    {
+      "text": "Tolkien despised allegory, writing in the foreword to the second edition: 'I cordially dislike allegory in all its manifestations.'",
+      "source": "https://en.wikipedia.org/wiki/Lord_of_the_Rings"
+    },
+    {
+      "text": "The Lord of the Rings was voted the greatest book of the 20th century in multiple reader polls, including a major BBC survey in 2003.",
+      "source": "https://en.wikipedia.org/wiki/Lord_of_the_Rings"
+    },
+    {
+      "text": "The Tolkien Society is a UK-based literary society founded in 1969 that hosts annual events including Tolkien Reading Day on March 25.",
+      "month": 3,
+      "day": 25,
+      "source": "https://en.wikipedia.org/wiki/Tolkien_Society"
+    },
+    {
+      "text": "March 25 was chosen as Tolkien Reading Day because it is the date on which the One Ring is destroyed and Sauron falls in the story.",
+      "source": "https://en.wikipedia.org/wiki/March_25"
+    },
+    {
+      "text": "In Middle-earth chronology, the destruction of the One Ring occurs on March 25, Third Age 3019 — a date Tolkien chose deliberately as the Feast of the Annunciation.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/In_Middle-earth"
+    },
+    {
+      "text": "New Zealand tourism surged after the Lord of the Rings films, with the country marketing itself as 'Home of Middle-earth.'",
+      "source": "https://en.wikipedia.org/wiki/New_Zealand"
+    },
+    {
+      "text": "Air New Zealand created Lord of the Rings-themed safety videos and painted aircraft with Middle-earth imagery for The Hobbit releases.",
+      "source": "https://en.wikipedia.org/wiki/Air_New_Zealand"
+    },
+    {
+      "text": "Hobbiton Movie Set in Matamata, New Zealand, is now a permanent tourist attraction, rebuilt in 2011 for The Hobbit films using permanent materials.",
+      "source": "https://en.wikipedia.org/wiki/Hobbiton_Movie_Set_in_Matamata%2C_New_Zealand"
+    },
+    {
+      "text": "Tourism New Zealand estimated that The Lord of the Rings films generated hundreds of millions in tourism revenue for the country.",
+      "source": "https://en.wikipedia.org/wiki/Tourism_New_Zealand"
+    },
+    {
+      "text": "The filming locations in New Zealand include Tongariro National Park (Mordor), Mount Sunday (Edoras), and Paradise near Queenstown (Lothlórien).",
+      "source": "https://en.wikipedia.org/wiki/New_Zealand"
+    },
+    {
+      "text": "Wellington, New Zealand, hosted the world premiere of The Return of the King, with an estimated 100,000 people lining the streets.",
+      "source": "https://en.wikipedia.org/wiki/New_Zealand"
+    },
+    {
+      "text": "Peter Jackson built his filmmaking empire in Wellington, including WETA Workshop and WETA Digital, now world-leading effects studios.",
+      "source": "https://en.wikipedia.org/wiki/Peter_Jackson"
+    },
+    {
+      "text": "WETA Workshop has gone on to work on major franchises including Avatar, King Kong, and The Chronicles of Narnia.",
+      "source": "https://en.wikipedia.org/wiki/WETA_Workshop"
+    },
+    {
+      "text": "The Lord of the Rings: The Musical premiered in Toronto in 2006 and later moved to London's West End, though it was commercially unsuccessful.",
+      "month": 3,
+      "day": 23,
+      "source": "https://en.wikipedia.org/wiki/Lord_of_the_Rings:_The_Musical"
+    },
+    {
+      "text": "A new stage adaptation of The Lord of the Rings has been in development, with different creative teams reimagining the story for theater.",
+      "source": "https://en.wikipedia.org/wiki/A_new_stage_adaptation_of_The_Lord_of_the_Rings"
+    },
+    {
+      "text": "Tolkien's estate, managed by his descendants, has been protective of adaptation rights and has disputed some uses of his intellectual property.",
+      "source": "https://en.wikipedia.org/wiki/Tolkien%27s_estate%2C_managed_by_his_descendants"
+    },
+    {
+      "text": "The Tolkien Estate sued New Line Cinema in 2008, alleging it had not received its fair share of profits from the Lord of the Rings films.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Tolkien_Estate_sued_New_Line_Cinema_in_2008%2C_alleging_it"
+    },
+    {
+      "text": "Tolkien Gateway and The One Wiki to Rule Them All (LOTR Fandom) are among the most comprehensive fan-maintained wikis about Middle-earth.",
+      "source": "https://en.wikipedia.org/wiki/Tolkien_Gateway_and_The_One_Wiki_to_Rule_Them_All_(LOTR_Fandom)"
+    },
+    {
+      "text": "The phrase 'Not all those who wander are lost' comes from a poem about Aragorn in The Fellowship of the Ring and has become one of the most quoted lines in literature.",
+      "source": "https://en.wikipedia.org/wiki/phrase_%27Not_all_those_who_wander"
+    },
+    {
+      "text": "Tolkien's poem 'All That Is Gold Does Not Glitter' is a reversal of the proverb 'All that glitters is not gold' and describes Aragorn.",
+      "source": "https://en.wikipedia.org/wiki/Tolkien%27s_poem_%27All_That"
+    },
+    {
+      "text": "The Eagles in Middle-earth are sentient beings led by Gwaihir the Windlord — Tolkien was aware critics would ask why they didn't just fly the Ring to Mordor.",
+      "source": "https://en.wikipedia.org/wiki/Eagles_in_Middle-earth"
+    },
+    {
+      "text": "Tolkien had a well-known rivalry with Walt Disney's animation style, which he despised. He refused to allow Disney to animate his works.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Tolkien"
+    },
+    {
+      "text": "The Lord of the Rings contains approximately 576,000 words, making it one of the longest novels in the English language.",
+      "source": "https://en.wikipedia.org/wiki/Lord_of_the_Rings"
+    },
+    {
+      "text": "Tolkien drew many illustrations for his books, including the original dust jacket for The Hobbit and detailed maps of the Shire and Middle-earth.",
+      "source": "https://en.wikipedia.org/wiki/Hobbit_and"
+    },
+    {
+      "text": "The Doors of Durin that guard the entrance to Moria bear the Elvish inscription 'Speak, friend, and enter,' a riddle that stumps Gandalf briefly.",
+      "source": "https://en.wikipedia.org/wiki/The_Doors_of_Durin"
+    },
+    {
+      "text": "The answer to the Doors of Durin riddle is simply the Elvish word for 'friend' — 'mellon' — a pun that Gandalf eventually realizes.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/answer_to_the_Doors_of_Durin_riddle"
+    },
+    {
+      "text": "Tolkien created a detailed calendar for Middle-earth, including exact dates for every major event in the War of the Ring.",
+      "source": "https://en.wikipedia.org/wiki/Tolkien"
+    },
+    {
+      "text": "The Prancing Pony in Bree, where Frodo first meets Strider, is one of the most beloved locations in the story.",
+      "source": "https://en.wikipedia.org/wiki/Prancing_Pony_in_Bree%2C_where_Frodo_first_meets_Strider"
+    },
+    {
+      "text": "Weathertop (Amon Sûl) is the ruined watchtower where Frodo is stabbed by the Witch-king — a pivotal early moment in the quest.",
+      "source": "https://en.wikipedia.org/wiki/Weathertop_(Amon_S%C3%BBl)"
+    },
+    {
+      "text": "The Black Gate of Mordor (Morannon) is where Aragorn leads a diversionary final battle to draw Sauron's attention from Frodo and Sam.",
+      "source": "https://en.wikipedia.org/wiki/Black_Gate_of_Mordor_(Morannon)"
+    },
+    {
+      "text": "The Dead Marshes that Frodo, Sam, and Gollum cross contain the faces of the dead from the ancient Battle of Dagorlad.",
+      "source": "https://en.wikipedia.org/wiki/Dead_Marshes"
+    },
+    {
+      "text": "Fangorn Forest is one of the oldest forests in Middle-earth and home to the Ents, tree-like shepherds who protect the woodlands.",
+      "source": "https://en.wikipedia.org/wiki/Fangorn_Forest"
+    },
+    {
+      "text": "The Glittering Caves behind Helm's Deep are described as breathtakingly beautiful — Gimli vows to bring Dwarves to explore them after the war.",
+      "source": "https://en.wikipedia.org/wiki/Glittering_Caves_behind_Helm%27s_Deep"
+    },
+    {
+      "text": "Osgiliath, the ancient capital of Gondor, lies in ruins between Minas Tirith and Minas Morgul, and is a key battleground during the War of the Ring.",
+      "source": "https://en.wikipedia.org/wiki/Minas_Tirith_and_Minas_Morgul"
+    },
+    {
+      "text": "The Grey Havens (Mithlond) is the Elven port on the western coast of Middle-earth from which the Elves (and eventually Frodo) sail to the Undying Lands.",
+      "source": "https://en.wikipedia.org/wiki/Grey_Havens_(Mithlond)"
+    },
+    {
+      "text": "In the final scene of The Return of the King, Frodo, Gandalf, Bilbo, Galadriel, and Elrond sail from the Grey Havens into the West.",
+      "source": "https://en.wikipedia.org/wiki/In_the"
+    },
+    {
+      "text": "Tolkien considered the ending — Frodo leaving the Shire — to be essential, showing that some wounds are too deep to heal in the mortal world.",
+      "source": "https://en.wikipedia.org/wiki/Lord_of_the_Rings"
+    },
+    {
+      "text": "The Scouring of the Shire, where the hobbits liberate their homeland from Saruman's occupation, was omitted from the films but is a crucial chapter in the book.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Scouring_of_the_Shire"
+    },
+    {
+      "text": "Tolkien said the Scouring of the Shire represented the industrialization and corruption of the English countryside he had witnessed in his lifetime.",
+      "source": "https://en.wikipedia.org/wiki/Tolkien"
+    },
+    {
+      "text": "Pipe-weed, smoked by Hobbits and eventually Gandalf, is essentially tobacco — Tolkien admitted it was an anachronism but kept it for the hobbits' comfort.",
+      "source": "https://en.wikipedia.org/wiki/Pipe-weed%2C_smoked_by_Hobbits_and_eventually_Gandalf"
+    },
+    {
+      "text": "Lembas bread, the Elvish waybread, is said to sustain travelers on long journeys — a single bite can fill a grown man for a day.",
+      "source": "https://en.wikipedia.org/wiki/Lembas_bread%2C_the_Elvish_waybread"
+    },
+    {
+      "text": "Second Breakfast, Elevenses, Luncheon, Afternoon Tea, Dinner, and Supper are all listed as separate hobbit meals in the films.",
+      "source": "https://en.wikipedia.org/wiki/Second_Breakfast%2C_Elevenses%2C_Luncheon%2C_Afternoon_Tea%2C_Dinner%2C_and_Supper"
+    },
+    {
+      "text": "The Council of Elrond chapter in The Fellowship of the Ring is one of the longest chapters in the book, covering extensive backstory and exposition.",
+      "source": "https://en.wikipedia.org/wiki/Council_of_Elrond_chapter_in_The_Fellowship_of_the_Ring"
+    },
+    {
+      "text": "Tolkien wrote over 300 letters during his lifetime, many of which provide insights into his creative process and thoughts on Middle-earth.",
+      "source": "https://en.wikipedia.org/wiki/Tolkien"
+    },
+    {
+      "text": "The Letters of J.R.R. Tolkien, published in 1981, is an essential companion to understanding the author's intentions and world-building.",
+      "source": "https://en.wikipedia.org/wiki/Letters_of_J.R.R._Tolkien%2C_published_in_1981"
+    },
+    {
+      "text": "Tolkien was influenced by the Kalevala, Finland's national epic, which inspired elements of the Elvish languages and The Silmarillion's creation myth.",
+      "source": "https://en.wikipedia.org/wiki/Tolkien"
+    },
+    {
+      "text": "The Ainulindalë, the creation myth of Middle-earth, describes the world being created through music — the Ainur singing a Great Music before Ilúvatar.",
+      "source": "https://en.wikipedia.org/wiki/Ainulindal%C3%AB%2C_the_creation_myth_of_Middle-earth%2C_describes_the_world_being"
+    },
+    {
+      "text": "Morgoth (originally Melkor) is the original Dark Lord of Middle-earth; Sauron was merely his greatest servant.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Morgoth_(originally_Melkor)"
+    },
+    {
+      "text": "The Valar are the equivalent of gods or archangels in Tolkien's cosmos, shaping the world (Arda) according to Ilúvatar's design.",
+      "source": "https://en.wikipedia.org/wiki/Valar"
+    },
+    {
+      "text": "Tolkien was appointed a Commander of the Order of the British Empire (CBE) by Queen Elizabeth II in 1972.",
+      "month": 3,
+      "day": 28,
+      "source": "https://en.wikipedia.org/wiki/Tolkien"
+    },
+    {
+      "text": "The New Zealand city of Wellington installed a giant Gollum sculpture atop its airport during The Hobbit premiere season.",
+      "source": "https://en.wikipedia.org/wiki/New_Zealand"
+    },
+    {
+      "text": "Tolkien's original manuscripts, drafts, and letters are held by the Bodleian Library in Oxford and Marquette University in Milwaukee.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Tolkien%27s_original_manuscripts%2C_drafts%2C_and_letters"
+    },
+    {
+      "text": "Marquette University purchased Tolkien's original Lord of the Rings and Hobbit manuscripts in the 1950s for a modest sum and now holds them as prized treasures.",
+      "source": "https://en.wikipedia.org/wiki/Marquette_University"
+    },
+    {
+      "text": "The Tolkien Professor, Corey Olsen, offers free online courses and podcasts devoted to studying Tolkien's works at a scholarly level.",
+      "source": "https://en.wikipedia.org/wiki/Tolkien_Professor"
+    },
+    {
+      "text": "Tolkien Reading Day is celebrated annually on March 25, encouraging fans worldwide to read their favorite passages from his works.",
+      "source": "https://en.wikipedia.org/wiki/Tolkien_Reading_Day"
+    },
+    {
+      "text": "The phrase 'Fly, you fools!' spoken by Gandalf on the Bridge of Khazad-dûm has been debated by fans — some interpret it as an instruction to use the Eagles.",
+      "source": "https://en.wikipedia.org/wiki/phrase_%27Fly%2C_you_fools%21%27_spoken_by_Gandalf_on_the_Bridge_of_Khazad-d%C3%BBm"
+    },
+    {
+      "text": "In Tolkien's original drafts, Aragorn was a hobbit called 'Trotter' who wore wooden shoes — the character evolved dramatically over years of rewriting.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/In_Tolkien%27s_original_drafts%2C_Aragorn"
+    },
+    {
+      "text": "Tolkien spent years revising The Lord of the Rings after the initial draft, sometimes rewriting entire sections to maintain internal consistency.",
+      "source": "https://en.wikipedia.org/wiki/Tolkien"
+    },
+    {
+      "text": "The Lord of the Rings has been adapted into board games including War of the Ring, which is considered one of the greatest strategy board games ever made.",
+      "source": "https://en.wikipedia.org/wiki/Lord_of_the_Rings"
+    },
+    {
+      "text": "The Battle of Helm's Deep in the film involved a scale model of the fortress that held 20,000 gallons of water for the drainage culvert explosion scene.",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Helm%27s_Deep_in_the"
+    },
+    {
+      "text": "Sala Baker played Sauron in his physical form in the opening prologue of The Fellowship of the Ring, wearing extremely heavy armor.",
+      "source": "https://en.wikipedia.org/wiki/Sala_Baker"
+    },
+    {
+      "text": "The sound design for the Lord of the Rings films won multiple awards — the Balrog's roar was created by dragging a cinder block across a wooden floor.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/sound_design_for_the_Lord_of_the_Rings_films"
+    },
+    {
+      "text": "The charge of the Rohirrim at Pelennor Fields is widely considered one of the greatest battle sequences in cinema history.",
+      "source": "https://en.wikipedia.org/wiki/charge_of_the_Rohirrim_at_Pelennor_Fields"
+    },
+    {
+      "text": "Peter Jackson filmed the Rohirrim charge using actual horses ridden by experienced riders from the New Zealand equestrian community.",
+      "source": "https://en.wikipedia.org/wiki/Peter_Jackson"
+    },
+    {
+      "text": "Viggo Mortensen bought the horse he rode in the films (Brego) after production wrapped, as well as a horse ridden by his stunt double.",
+      "source": "https://en.wikipedia.org/wiki/Viggo_Mortensen"
+    },
+    {
+      "text": "The Army of the Dead in The Return of the King was created using early green-screen compositing techniques combined with WETA Digital effects.",
+      "source": "https://en.wikipedia.org/wiki/Army_of_the_Dead_in_The_Return_of_the_King"
+    },
+    {
+      "text": "The special effects team at WETA created over 900 visual effects shots for The Return of the King alone.",
+      "source": "https://en.wikipedia.org/wiki/special_effects_team_at_WETA"
+    },
+    {
+      "text": "The Lord of the Rings: War in the North (2011) was a video game that explored stories concurrent with the main trilogy in the northern regions of Middle-earth.",
+      "source": "https://en.wikipedia.org/wiki/North"
+    },
+    {
+      "text": "Middle-earth: Shadow of Mordor (2014) introduced the innovative Nemesis System, where Orc enemies remember and adapt to the player's actions.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Mordor"
+    },
+    {
+      "text": "The Lord of the Rings Trading Card Game, produced by Decipher Inc., was released alongside the films and won multiple gaming awards.",
+      "source": "https://en.wikipedia.org/wiki/Lord_of_the_Rings_Trading_Card_Game%2C_produced_by_Decipher_Inc"
+    },
+    {
+      "text": "The Lord of the Rings has been translated into over 40 languages, including constructed languages like Esperanto.",
+      "source": "https://en.wikipedia.org/wiki/Lord_of_the_Rings"
+    },
+    {
+      "text": "In 2004, the New Zealand Post Office issued collectible Lord of the Rings stamps featuring scenes and characters from the trilogy.",
+      "source": "https://en.wikipedia.org/wiki/New_Zealand_Post_Office"
+    },
+    {
+      "text": "The Tolkien Society annual dinner, Oxonmoot, takes place in Oxford each September and attracts scholars and fans from around the world.",
+      "month": 9,
+      "day": 20,
+      "source": "https://en.wikipedia.org/wiki/Tolkien_Society_annual_dinner%2C_Oxonmoot"
+    },
+    {
+      "text": "Tolkien was a close friend and colleague of the philologist E.V. Gordon, with whom he co-edited an important edition of Sir Gawain and the Green Knight.",
+      "source": "https://en.wikipedia.org/wiki/Tolkien"
+    },
+    {
+      "text": "Tolkien's translation and commentary on Beowulf, completed during his lifetime but not published until 2014, shed new light on the Old English poem.",
+      "source": "https://en.wikipedia.org/wiki/Old_English"
+    },
+    {
+      "text": "Farmer Giles of Ham (1949) and Smith of Wootton Major (1967) are lesser-known Tolkien works that showcase his love of English folklore.",
+      "source": "https://en.wikipedia.org/wiki/Ham"
+    },
+    {
+      "text": "Tolkien's children — John, Michael, Christopher, and Priscilla — were the first audience for The Hobbit and early Lord of the Rings chapters, hearing them as bedtime stories.",
+      "source": "https://en.wikipedia.org/wiki/Tolkien%27s_children_%E2%80%94_John%2C_Michael%2C_Christopher%2C_and_Priscilla_%E2%80%94"
+    },
+    {
+      "text": "Tolkien wrote annual illustrated letters from Father Christmas to his children from 1920 to 1943, later published as Letters from Father Christmas.",
+      "source": "https://en.wikipedia.org/wiki/Tolkien"
+    },
+    {
+      "text": "Tolkien's academic work on the Ancrene Wisse, a medieval guide for anchoresses, was considered a major contribution to Middle English scholarship.",
+      "source": "https://en.wikipedia.org/wiki/Tolkien%27s_academic_work_on_the_Ancrene_Wisse%2C_a_medieval_guide_for_anchoresses"
+    },
+    {
+      "text": "The name 'Middle-earth' comes from the Old English 'middangeard,' the term used in Norse and Anglo-Saxon mythology for the human world.",
+      "source": "https://en.wikipedia.org/wiki/Old_English"
+    },
+    {
+      "text": "Tolkien drew inspiration from Norse mythology extensively — the names of the Dwarves in The Hobbit come directly from the Dvergatal in the Prose Edda.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Dwarves_in_The_Hobbit"
+    },
+    {
+      "text": "The Ring of Gyges in Plato's Republic, which grants invisibility, is a philosophical precursor to concepts explored through Tolkien's One Ring.",
+      "source": "https://en.wikipedia.org/wiki/Ring_of_Gyges_in_Plato%27s_Republic%2C_which_grants_invisibility"
+    },
+    {
+      "text": "Tolkien's influence on the fantasy genre is so profound that the term 'Tolkienesque' is used to describe high fantasy works with similar elements.",
+      "source": "https://en.wikipedia.org/wiki/Tolkien%27s_influence_on_the_fantasy_genre"
+    },
+    {
+      "text": "George R.R. Martin has cited Tolkien as his single greatest influence, though Martin deliberately subverted many Tolkien conventions in A Song of Ice and Fire.",
+      "source": "https://en.wikipedia.org/wiki/George_R.R._Martin"
+    },
+    {
+      "text": "Terry Pratchett's Discworld series often lovingly parodies Tolkien's tropes while paying homage to his world-building.",
+      "source": "https://en.wikipedia.org/wiki/Terry_Pratchett%27s_Discworld"
+    },
+    {
+      "text": "Ursula K. Le Guin praised Tolkien for legitimizing fantasy as a serious literary genre, crediting him with opening doors for later authors.",
+      "source": "https://en.wikipedia.org/wiki/Ursula_K._Le_Guin"
+    },
+    {
+      "text": "The Silmarils — three radiant jewels crafted by Fëanor containing the light of the Two Trees — drive the central conflict of The Silmarillion.",
+      "source": "https://en.wikipedia.org/wiki/Silmarils"
+    },
+    {
+      "text": "The War of the Jewels and the War of Wrath at the end of the First Age make the War of the Ring look small by comparison — entire continents were reshaped.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/War_of_the_Jewels_and_the_War"
+    },
+    {
+      "text": "Númenor, the great island kingdom of Men in the Second Age, was destroyed when its last king tried to assault the Undying Lands, echoing the Atlantis myth.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/N%C3%BAmenor%2C_the_great_island_kingdom_of_Men_in_the_Second_Age"
+    },
+    {
+      "text": "Tolkien used the name 'Atalantë' for the fall of Númenor, deliberately evoking Atlantis — he dreamed of a great wave destroying an island throughout his life.",
+      "source": "https://en.wikipedia.org/wiki/Lord_of_the_Rings"
+    },
+    {
+      "text": "The Dúnedain, Aragorn's people, are descendants of the Númenóreans who survived the island's downfall and founded the kingdoms of Arnor and Gondor.",
+      "source": "https://en.wikipedia.org/wiki/D%C3%BAnedain%2C_Aragorn%27s_people"
+    },
+    {
+      "text": "The White Tree of Gondor that stands in the court of Minas Tirith is a descendant of the Two Trees of Valinor, connecting Gondor to the divine.",
+      "source": "https://en.wikipedia.org/wiki/White_Tree_of_Gondor_that_stands_in_the_court_of_Minas_Tirith"
+    },
+    {
+      "text": "The Undying Lands (Valinor) are removed from the circles of the world after the fall of Númenor, accessible only by the Straight Road.",
+      "source": "https://en.wikipedia.org/wiki/Undying_Lands_(Valinor)"
+    },
+    {
+      "text": "Only Ring-bearers and certain chosen individuals are allowed to pass over the sea to the Undying Lands at the end of the Third Age.",
+      "source": "https://en.wikipedia.org/wiki/Only_Ring-bearers_and_certain_chosen_individuals"
+    },
+    {
+      "text": "Tolkien described five Istari (wizards) sent to Middle-earth: Gandalf, Saruman, Radagast, and two unnamed 'Blue Wizards' who went into the East.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Middle-earth:_Gandalf"
+    },
+    {
+      "text": "Radagast the Brown is fond of animals and birds and plays a larger role in The Hobbit films than in any of Tolkien's published works.",
+      "source": "https://en.wikipedia.org/wiki/Radagast_the_Brown"
+    },
+    {
+      "text": "The Witch-king's fortress of Minas Morgul was once the beautiful Gondorian city of Minas Ithil before it was captured by the Nazgûl.",
+      "source": "https://en.wikipedia.org/wiki/Witch-king%27s_fortress_of_Minas_Morgul"
+    },
+    {
+      "text": "Cirith Ungol, the pass guarded by Shelob, is a narrow path above Minas Morgul and the route Gollum leads Frodo and Sam through.",
+      "source": "https://en.wikipedia.org/wiki/Cirith_Ungol%2C_the_pass_guarded_by_Shelob"
+    },
+    {
+      "text": "The Argonath, the Pillars of the Kings, are giant statues of Isildur and Anárion guarding the River Anduin at the northern border of Gondor.",
+      "source": "https://en.wikipedia.org/wiki/Argonath%2C_the_Pillars_of_the_Kings"
+    },
+    {
+      "text": "The phial of Galadriel, containing the light of Eärendil's star, is the light that helps Frodo and Sam navigate Shelob's lair and the darkness of Mordor.",
+      "source": "https://en.wikipedia.org/wiki/phial_of_Galadriel%2C_containing_the_light_of_E%C3%A4rendil%27s_star"
+    },
+    {
+      "text": "Eärendil the Mariner is one of the greatest heroes of the First Age — he sails into the sky carrying a Silmaril, becoming the Morning Star (Venus).",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/E%C3%A4rendil_the_Mariner"
+    },
+    {
+      "text": "Tolkien's poem 'Eärendil was a mariner' in The Fellowship of the Ring was one of the first pieces of Middle-earth writing he ever composed.",
+      "source": "https://en.wikipedia.org/wiki/Tolkien%27s_poem_%27E%C3%A4rendil"
+    },
+    {
+      "text": "The Battle of Five Armies in The Hobbit involves Men, Elves, Dwarves, Eagles, and Orcs fighting at the foot of the Lonely Mountain.",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Five_Armies_in_The_Hobbit"
+    },
+    {
+      "text": "Thorin Oakenshield gets his name from using an oak branch as a shield in battle — he is a direct descendant of Durin, father of the Dwarves.",
+      "source": "https://en.wikipedia.org/wiki/Thorin_Oakenshield_gets_his_name_from_using_an_oak_branch_as_a_shield_in_battle_%E2%80%94_he"
+    },
+    {
+      "text": "Durin's Bane is the name given to the Balrog that destroyed the Dwarven kingdom of Khazad-dûm and is the same creature Gandalf fights.",
+      "source": "https://en.wikipedia.org/wiki/Durin%27s_Bane"
+    },
+    {
+      "text": "The Dark Tower of Barad-dûr in Mordor was built by Sauron using the power of the One Ring — when the Ring is destroyed, the tower collapses.",
+      "source": "https://en.wikipedia.org/wiki/Dark_Tower_of_Barad-d%C3%BBr_in_Mordor"
+    },
+    {
+      "text": "Isildur cut the One Ring from Sauron's hand at the end of the Second Age but refused to destroy it, leading to thousands of years of suffering.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/One_Ring"
+    },
+    {
+      "text": "The Ring abandoned Isildur in the River Anduin, where it remained hidden for nearly 2,500 years before Déagol found it.",
+      "source": "https://en.wikipedia.org/wiki/Ring"
+    },
+    {
+      "text": "Sméagol murdered his cousin Déagol to obtain the Ring, then retreated under the Misty Mountains where he became Gollum over 500 years of isolation.",
+      "source": "https://en.wikipedia.org/wiki/Misty_Mountains"
+    },
+    {
+      "text": "Bilbo finding the Ring in Gollum's cave was, as Gandalf explains, no accident — there is a deeper purpose guiding events in Middle-earth.",
+      "source": "https://en.wikipedia.org/wiki/Bilbo_finding_the_Ring_in_Gollum%27s_cave"
+    },
+    {
+      "text": "The riddle game between Bilbo and Gollum in The Hobbit is one of the most famous literary scenes in 20th-century fiction.",
+      "source": "https://en.wikipedia.org/wiki/riddle_game_between_Bilbo_and_Gollum_in_The_Hobbit"
+    },
+    {
+      "text": "Tolkien revised the riddle-game chapter of The Hobbit for the second edition to make Gollum more sinister and better align with The Lord of the Rings.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Hobbit_for_the"
+    },
+    {
+      "text": "The Riders of Rohan — the Rohirrim — are renowned cavalry warriors who ride to Gondor's aid at the Battle of the Pelennor Fields.",
+      "source": "https://en.wikipedia.org/wiki/Riders_of_Rohan_%E2%80%94_the_Rohirrim_%E2%80%94"
+    },
+    {
+      "text": "Théoden King's speech before the charge at Pelennor Fields ('Death! Death! Death!') is one of the most rousing moments in the book and film.",
+      "source": "https://en.wikipedia.org/wiki/Th%C3%A9oden_King%27s_speech_before_the_charge_at_Pelennor_Fields_(%27Death%21_Death%21_Death%21%27)"
+    },
+    {
+      "text": "The Horn of Helm Hammerhand echoes through Helm's Deep at dawn, heralding the arrival of Gandalf and the Rohirrim to break the siege.",
+      "source": "https://en.wikipedia.org/wiki/Horn_of_Helm_Hammerhand"
+    },
+    {
+      "text": "The Mouth of Sauron, Sauron's ambassador at the Black Gate, appears in the extended edition of The Return of the King but was cut from the theatrical version.",
+      "source": "https://en.wikipedia.org/wiki/Mouth_of_Sauron"
+    },
+    {
+      "text": "Shadowfax, the horse Gandalf rides, is the lord of all horses in Rohan and one of the Mearas — a horse breed of exceptional speed and intelligence.",
+      "source": "https://en.wikipedia.org/wiki/Shadowfax%2C_the_horse_Gandalf_rides"
+    },
+    {
+      "text": "Bill the Pony, who carries the Fellowship's supplies, was bought from the seedy Bill Ferny in Bree and finds his own way back to the Shire.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Bill_the_Pony%2C_who_carries_the_Fellowship%27s_supplies"
+    },
+    {
+      "text": "The Corsairs of Umbar are pirates descended from renegade Númenóreans who raid Gondor's coasts during the War of the Ring.",
+      "source": "https://en.wikipedia.org/wiki/Corsairs_of_Umbar"
+    },
+    {
+      "text": "Tolkien considered The Lord of the Rings to be a single continuous novel, not a trilogy, and the three-volume format was purely a publishing decision.",
+      "source": "https://en.wikipedia.org/wiki/Lord_of_the_Rings_to"
+    },
+    {
+      "text": "The appendices of The Return of the King contain extensive histories, timelines, language notes, and the tale of Aragorn and Arwen's love story.",
+      "source": "https://en.wikipedia.org/wiki/Return_of_the_King"
+    },
+    {
+      "text": "Arwen Undómiel chooses to give up her immortality to marry Aragorn, echoing the choice made by her ancestor Lúthien in the First Age.",
+      "source": "https://en.wikipedia.org/wiki/Arwen_Und%C3%B3miel_chooses_to"
+    },
+    {
+      "text": "Elrond's sons Elladan and Elrohir ride with the Grey Company to join Aragorn but appear only briefly in the books and are absent from the films.",
+      "source": "https://en.wikipedia.org/wiki/Elladan_and_Elrohir"
+    },
+    {
+      "text": "Glorfindel, a powerful Elf lord who rescues Frodo at the Ford of Bruinen in the book, was replaced by Arwen in Peter Jackson's film.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Glorfindel%2C_a_powerful_Elf_lord_who_rescues_Frodo_at_the_Ford_of_Bruinen_in_the_book"
+    },
+    {
+      "text": "The Ford of Bruinen (Loudwater) scene — where the river rises to sweep away the Nazgûl — was controlled by Elrond's ring, Vilya.",
+      "source": "https://en.wikipedia.org/wiki/Ford_of_Bruinen_(Loudwater)_scene_%E2%80%94_where_the_river_rises_to_sweep_away_the_Nazg%C3%BBl_%E2%80%94"
+    },
+    {
+      "text": "The Tower of Cirith Ungol is where the Orcs bring Frodo after Shelob's attack, and where Sam rescues him in one of the story's most heroic moments.",
+      "source": "https://en.wikipedia.org/wiki/Tower_of_Cirith_Ungol"
+    },
+    {
+      "text": "The Siege of Gondor and the Battle of the Pelennor Fields together form the climactic military action of The Return of the King.",
+      "source": "https://en.wikipedia.org/wiki/Siege_of_Gondor_and_the_Battle_of"
+    },
+    {
+      "text": "Denethor, Steward of Gondor, falls into despair and madness after looking into a Palantír that Sauron used to manipulate him.",
+      "source": "https://en.wikipedia.org/wiki/Steward_of_Gondor"
+    },
+    {
+      "text": "Pippin's service to Denethor in Gondor and Merry's service to Théoden in Rohan give both hobbits independent arcs in The Return of the King.",
+      "source": "https://en.wikipedia.org/wiki/Pippin%27s_service_to_Denethor_in_Gondor_and_Merry%27s_service_to_Th%C3%A9oden_in_Rohan"
+    },
+    {
+      "text": "Merry helps Éowyn defeat the Witch-king by stabbing the Nazgûl lord with a Barrow-blade, a weapon from the ancient kingdom of Arnor.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Lord_of_the_Rings"
+    },
+    {
+      "text": "The Barrow-wights, undead spirits in the Barrow-downs, are encountered by the hobbits early in their journey but were omitted from the films.",
+      "source": "https://en.wikipedia.org/wiki/Barrow-wights%2C_undead_spirits_in_the_Barrow-downs"
+    },
+    {
+      "text": "Old Man Willow, a malevolent tree in the Old Forest, tries to swallow the hobbits before Tom Bombadil rescues them — another scene cut from the films.",
+      "source": "https://en.wikipedia.org/wiki/Old_Man_Willow"
+    },
+    {
+      "text": "Tolkien's concept of 'eucatastrophe' — a sudden turn from disaster to joy — defines the climax of his stories and was central to his literary philosophy.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Lord_of_the_Rings"
+    },
+    {
+      "text": "The destruction of the One Ring is a eucatastrophe: Gollum inadvertently saves Middle-earth by seizing the Ring and falling into the fire.",
+      "source": "https://en.wikipedia.org/wiki/destruction_of_the_One_Ring"
+    },
+    {
+      "text": "Tolkien's essay 'On Fairy-Stories' (1947) is a major work of literary criticism explaining his philosophy of fantasy and sub-creation.",
+      "source": "https://en.wikipedia.org/wiki/On_Fairy-Stories"
+    },
+    {
+      "text": "In 'On Fairy-Stories,' Tolkien argues that fantasy fulfills deep human needs for recovery, escape, and consolation.",
+      "source": "https://en.wikipedia.org/wiki/On_Fairy-Stories"
+    },
+    {
+      "text": "Tolkien coined the term 'sub-creation' to describe the author's act of creating a secondary world with its own internal consistency.",
+      "source": "https://en.wikipedia.org/wiki/Lord_of_the_Rings"
+    },
+    {
+      "text": "The Black Riders' first appearance in the Shire, sniffing for the Ring, is one of the most chilling sequences in The Fellowship of the Ring.",
+      "source": "https://en.wikipedia.org/wiki/Black_Riders%27_first_appearance_in_the_Shire%2C_sniffing_for_the_Ring"
+    },
+    {
+      "text": "Fatty Bolger, a hobbit friend of Frodo, stays behind in the Shire during the quest and helps maintain the cover story for Frodo's departure.",
+      "source": "https://en.wikipedia.org/wiki/Fatty_Bolger"
+    },
+    {
+      "text": "The Old Took, Bilbo's great-grandfather, lived to the age of 130, which was the record for hobbit longevity until Bilbo surpassed it with the Ring's help.",
+      "source": "https://en.wikipedia.org/wiki/Old_Took%2C_Bilbo%27s_great-grandfather%2C_lived_to_the_age_of_130%2C_which"
+    },
+    {
+      "text": "Bilbo turns 111 ('eleventy-one') at the start of The Fellowship of the Ring, an age that even fellow hobbits find remarkable.",
+      "source": "https://en.wikipedia.org/wiki/Fellowship_of_the_Ring"
+    },
+    {
+      "text": "Gandalf's fireworks at Bilbo's birthday party are legendary throughout the Shire and provide a spectacular opening scene in the film.",
+      "source": "https://en.wikipedia.org/wiki/Gandalf%27s_fireworks_at_Bilbo%27s_birthday_party"
+    },
+    {
+      "text": "The Longbottom Leaf and Old Toby are pipe-weed varieties prized by hobbits — Saruman's habit of smoking it is evidence of his fixation on the Shire.",
+      "source": "https://en.wikipedia.org/wiki/Longbottom_Leaf_and_Old_Toby"
+    },
+    {
+      "text": "The name 'Samwise' means 'half-wise' or 'simple' in Old English, though Sam proves to be anything but simple.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Old_English"
+    },
+    {
+      "text": "Sam's speech on the stairs of Cirith Ungol about stories and heroes gives Frodo — and the reader — hope when things seem darkest.",
+      "source": "https://en.wikipedia.org/wiki/Cirith_Ungol"
+    },
+    {
+      "text": "Sam carries Frodo up Mount Doom when Frodo can no longer walk, declaring 'I can't carry it for you, but I can carry you!'",
+      "source": "https://en.wikipedia.org/wiki/Mount_Doom"
+    },
+    {
+      "text": "After the War of the Ring, Sam becomes Mayor of the Shire seven times and fathers 13 children with his wife Rosie Cotton.",
+      "source": "https://en.wikipedia.org/wiki/After_the_War_of_the_Ring%2C_Sam"
+    },
+    {
+      "text": "Sam is the last bearer of the One Ring in the story, having briefly worn it to rescue Frodo from the Orcs at Cirith Ungol.",
+      "source": "https://en.wikipedia.org/wiki/Sam"
+    },
+    {
+      "text": "Tolkien based the character of Saruman partly on corrupt politicians and industrialists who despoil the natural world for power.",
+      "source": "https://en.wikipedia.org/wiki/Lord_of_the_Rings"
+    },
+    {
+      "text": "Wormtongue ultimately kills Saruman in the Scouring of the Shire chapter — a detail absent from the theatrical film but partially shown in the extended cut.",
+      "source": "https://en.wikipedia.org/wiki/Saruman_in_the_Scouring_of_the_Shire"
+    },
+    {
+      "text": "The Entwives went missing long ago and the Ents have searched for them ever since — Tolkien confirmed they were likely destroyed.",
+      "source": "https://en.wikipedia.org/wiki/Entwives_went_missing_long_ago_and_the_Ents"
+    },
+    {
+      "text": "Treebeard's extremely slow, deliberate speech reflects the Ents' ancient nature — they never say anything unless it is worth taking a long time to say.",
+      "source": "https://en.wikipedia.org/wiki/Lord_of_the_Rings"
+    },
+    {
+      "text": "The breaking of the Fellowship at Amon Hen ends The Fellowship of the Ring and splits the story into parallel narratives.",
+      "source": "https://en.wikipedia.org/wiki/Fellowship_at_Amon_Hen"
+    },
+    {
+      "text": "Boromir's death scene, where he is pierced by multiple arrows defending Merry and Pippin, is one of the most emotional moments in the trilogy.",
+      "source": "https://en.wikipedia.org/wiki/Boromir%27s_death_scene%2C_where_he"
+    },
+    {
+      "text": "Aragorn's coronation as King Elessar marks the beginning of the Fourth Age and the reunification of the kingdoms of Arnor and Gondor.",
+      "source": "https://en.wikipedia.org/wiki/Aragorn%27s_coronation_as_King_Elessar"
+    },
+    {
+      "text": "At his coronation, Aragorn quotes Elendil's words: 'Et Eärello Endorenna utúlien. Sinome maruvan ar Hildinyar,' spoken in Quenya.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Lord_of_the_Rings"
+    },
+    {
+      "text": "Viggo Mortensen actually sang Aragorn's coronation song in Quenya during filming, learning the pronunciation from Tolkien linguist David Salo.",
+      "source": "https://en.wikipedia.org/wiki/Viggo_Mortensen"
+    },
+    {
+      "text": "David Salo, a linguist specializing in Tolkien's languages, was hired to translate dialogue into Elvish, Dwarvish, and other tongues for the films.",
+      "source": "https://en.wikipedia.org/wiki/David_Salo%2C_a_linguist_specializing_in_Tolkien%27s_languages"
+    },
+    {
+      "text": "The Paths of the Dead sequence in The Return of the King was filmed in the Putangirua Pinnacles, a dramatic geological formation in New Zealand.",
+      "source": "https://en.wikipedia.org/wiki/Paths_of_the_Dead_sequence_in_The_Return_of_the_King"
+    },
+    {
+      "text": "The volcanic landscape of Tongariro National Park in New Zealand served as the primary filming location for Mordor and Mount Doom.",
+      "source": "https://en.wikipedia.org/wiki/Tongariro_National_Park_in_New_Zealand"
+    },
+    {
+      "text": "Edoras was built on Mount Sunday in Canterbury, New Zealand, and the set was completely removed after filming to restore the landscape.",
+      "source": "https://en.wikipedia.org/wiki/Edoras"
+    },
+    {
+      "text": "Rivendell scenes were filmed at Kaitoke Regional Park near Wellington, which now has a sign marking it as 'Rivendell.'",
+      "source": "https://en.wikipedia.org/wiki/Rivendell_scenes"
+    },
+    {
+      "text": "The Lord of the Rings trilogy's success directly led to other ambitious fantasy adaptations, including the Harry Potter and Game of Thrones series.",
+      "source": "https://en.wikipedia.org/wiki/Lord_of_the_Rings"
+    },
+    {
+      "text": "Peter Jackson was awarded a knighthood in 2010 for his services to the New Zealand film industry.",
+      "month": 4,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/Peter_Jackson"
+    },
+    {
+      "text": "Fran Walsh and Philippa Boyens co-wrote the screenplays for the trilogy with Peter Jackson; Walsh and Jackson also produced the films together.",
+      "source": "https://en.wikipedia.org/wiki/Fran_Walsh_and_Philippa_Boyens"
+    },
+    {
+      "text": "Andrew Lesnie won the Academy Award for Best Cinematography for The Fellowship of the Ring, capturing New Zealand's stunning landscapes.",
+      "source": "https://en.wikipedia.org/wiki/Andrew_Lesnie"
+    },
+    {
+      "text": "The siege towers, catapults, and war machines used in the battle of Minas Tirith were based on historical medieval siege equipment.",
+      "source": "https://en.wikipedia.org/wiki/siege_towers%2C_catapults%2C_and_war_machines_used_in_the_battle_of_Minas_Tirith"
+    },
+    {
+      "text": "Grant Major won the Academy Award for Best Art Direction for The Return of the King.",
+      "source": "https://en.wikipedia.org/wiki/Grant_Major"
+    },
+    {
+      "text": "Ngila Dickson won the Academy Award for Best Costume Design for The Return of the King, having created thousands of individual costumes.",
+      "source": "https://en.wikipedia.org/wiki/Ngila_Dickson"
+    },
+    {
+      "text": "Over 19,000 costumes were created for the Lord of the Rings trilogy, including multiples in different scales for the height-doubled characters.",
+      "source": "https://en.wikipedia.org/wiki/Over_19%2C000_costumes"
+    },
+    {
+      "text": "Tolkien's Leaf by Niggle, a short allegorical story published in 1945, is thought to reflect his anxieties about never finishing The Silmarillion.",
+      "source": "https://en.wikipedia.org/wiki/Tolkien%27s_Leaf_by_Niggle%2C_a_short_allegorical_story_published_in_1945"
+    },
+    {
+      "text": "The name Mount Doom is a translation of the Sindarin name Orodruin, meaning 'Mountain of Blazing Fire.'",
+      "source": "https://en.wikipedia.org/wiki/name_Mount_Doom"
+    },
+    {
+      "text": "In Tolkien's world, the West is associated with the divine and the blessed, while the East is associated with shadow and evil — a deliberate mythological framework.",
+      "source": "https://en.wikipedia.org/wiki/In_Tolkien%27s_world%2C_the_West"
+    },
+    {
+      "text": "Tolkien despised industrialization and environmental destruction, themes that appear throughout his work in the contrast between natural and mechanized landscapes.",
+      "source": "https://en.wikipedia.org/wiki/Lord_of_the_Rings"
+    },
+    {
+      "text": "The relationship between Frodo and Sam has been analyzed by scholars as reflecting the officer-batman dynamic Tolkien observed between officers and their servants in WWI.",
+      "source": "https://en.wikipedia.org/wiki/relationship_between_Frodo_and_Sam"
+    },
+    {
+      "text": "The films' depiction of Gollum in The Two Towers was groundbreaking — it was the first time a fully CGI main character interacted convincingly with live actors in a dramatic film.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/films%27_depiction_of_Gollum_in_The_Two_Towers"
+    },
+    {
+      "text": "Gollum's 'Sméagol vs. Gollum' argument scene in The Two Towers is performed entirely by Andy Serkis arguing with himself, and is a masterclass in acting.",
+      "source": "https://en.wikipedia.org/wiki/Gollum%27s_%27Sm%C3%A9agol_vs._Gollum%27_argument_scene_in_The_Two_Towers"
+    },
+    {
+      "text": "The One Ring prop used in the films was actually multiple rings of different sizes — one was large enough to fit on a person's finger, while another was much bigger for close-up shots.",
+      "source": "https://en.wikipedia.org/wiki/One_Ring_prop_used_in_the_films"
+    },
+    {
+      "text": "Elijah Wood wore contact lenses throughout filming to make Frodo's eyes appear a brighter, more striking blue.",
+      "source": "https://en.wikipedia.org/wiki/Elijah_Wood"
+    },
+    {
+      "text": "The Hobbiton Green Dragon pub, seen in the films, was rebuilt as a real functioning pub and restaurant for tourists in Matamata, New Zealand.",
+      "source": "https://en.wikipedia.org/wiki/Hobbiton_Green_Dragon_pub%2C_seen_in_the_films"
+    },
+    {
+      "text": "Tolkien was nominated for the Nobel Prize in Literature in 1961 but did not win; the committee described his prose as not of the highest quality.",
+      "source": "https://en.wikipedia.org/wiki/Tolkien"
+    },
+    {
+      "text": "Despite academic snobbery about fantasy, Tolkien's works are now studied in universities worldwide as major contributions to 20th-century literature.",
+      "source": "https://en.wikipedia.org/wiki/Despite_academic_snobbery_about_fantasy%2C_Tolkien%27s_works"
+    },
+    {
+      "text": "A crater on the planet Mercury is named 'Tolkien' in honor of the author's contributions to literature.",
+      "source": "https://en.wikipedia.org/wiki/A_crater_on_the_planet_Mercury"
+    },
+    {
+      "text": "Asteroid 2675 is named 'Tolkien,' and several features on Saturn's moon Titan have been given names from Middle-earth.",
+      "source": "https://en.wikipedia.org/wiki/Asteroid_2675"
+    },
+    {
+      "text": "In 2008, The Times ranked Tolkien sixth in its list of 'The 50 greatest British writers since 1945.'",
+      "source": "https://en.wikipedia.org/wiki/Times"
+    },
+    {
+      "text": "The Lord of the Rings has been cited as the most influential work of fantasy fiction ever written by multiple literary surveys and polls.",
+      "source": "https://en.wikipedia.org/wiki/Lord_of_the_Rings"
+    },
+    {
+      "text": "Tolkien Society members celebrate Hobbit Day on September 22 each year with feasts, readings, and parties in hobbit-inspired fashion.",
+      "source": "https://en.wikipedia.org/wiki/Tolkien_Society"
+    },
+    {
+      "text": "The phrase 'One Ring to rule them all' has entered popular culture as a general expression for a single unifying solution or controlling force.",
+      "source": "https://en.wikipedia.org/wiki/phrase_%27One_Ring_to_rule_them_all"
+    },
+    {
+      "text": "The Tolkien Ensemble, a Danish musical group, has set all of Tolkien's songs and poems from The Lord of the Rings to music with Christopher Lee narrating.",
+      "source": "https://en.wikipedia.org/wiki/Tolkien_Ensemble%2C_a_Danish_musical_group"
+    },
+    {
+      "text": "The War of the Rohirrim, an animated feature film set in the Lord of the Rings universe, focuses on the legendary king Helm Hammerhand.",
+      "month": 12,
+      "day": 13,
+      "source": "https://en.wikipedia.org/wiki/War_of_the_Rohirrim%2C_an_animated_feature_film"
+    },
+    {
+      "text": "Tolkien initially envisioned The Lord of the Rings as a direct sequel to The Hobbit aimed at children, but the tone grew much darker and more epic as he wrote.",
+      "source": "https://en.wikipedia.org/wiki/Lord_of_the_Rings"
+    },
+    {
+      "text": "Tolkien struggled with writer's block multiple times during the 12-year composition of The Lord of the Rings, sometimes setting the work aside for months.",
+      "source": "https://en.wikipedia.org/wiki/Lord_of_the_Rings"
+    },
+    {
+      "text": "The chapter 'The Bridge of Khazad-dûm' was described by Tolkien as one of the most difficult to write because of the balance between action and emotion.",
+      "source": "https://en.wikipedia.org/wiki/chapter_%27The_Bridge_of_Khazad-d%C3%BBm"
+    },
+    {
+      "text": "In the original drafts, the character who became Aragorn was initially a wooden-shoed hobbit, showing how radically the story evolved during its long gestation.",
+      "source": "https://en.wikipedia.org/wiki/In_the_original_drafts%2C_the_character_who"
+    },
+    {
+      "text": "Tolkien's invented mythology filled multiple notebooks, sketch books, and loose papers — many still unpublished or held in archives.",
+      "source": "https://en.wikipedia.org/wiki/Tolkien%27s"
+    },
+    {
+      "text": "The two blue wizards, Alatar and Pallando, traveled east and their fate is unknown — Tolkien speculated they may have founded cults or failed in their mission.",
+      "source": "https://en.wikipedia.org/wiki/two_blue_wizards%2C_Alatar_and_Pallando%2C_traveled_east_and_their_fate"
+    },
+    {
+      "text": "Elven rope, given to Sam by Galadriel, is incredibly strong, lightweight, and can untie itself on command.",
+      "source": "https://en.wikipedia.org/wiki/Elven_rope%2C_given_to_Sam_by_Galadriel"
+    },
+    {
+      "text": "The Mirror of Galadriel shows possible past, present, and future events — it is not a crystal ball but a tool of wisdom and warning.",
+      "source": "https://en.wikipedia.org/wiki/Mirror_of_Galadriel_shows_possible_past%2C_present%2C_and_future_events_%E2%80%94_it"
+    },
+    {
+      "text": "The pass of Caradhras in the Misty Mountains, where the Fellowship is turned back by blizzards, is personified as a hostile mountain.",
+      "source": "https://en.wikipedia.org/wiki/pass_of_Caradhras_in_the_Misty_Mountains%2C_where_the_Fellowship"
+    },
+    {
+      "text": "The Watcher in the Water, the tentacled creature outside the Mines of Moria, is one of the many nameless terrors lurking in Middle-earth.",
+      "source": "https://en.wikipedia.org/wiki/Watcher_in_the_Water%2C_the_tentacled_creature_outside_the_Mines_of_Moria"
+    },
+    {
+      "text": "Tolkien estimated that the events of The Lord of the Rings took place about 6,000 years before the present day in his fictional chronology.",
+      "source": "https://en.wikipedia.org/wiki/Tolkien_estimated_that_the_events_of_The_Lord_of_the_Rings"
+    },
+    {
+      "text": "The Fall of Gil-galad, an Elvish lament sung by Sam, tells of the last High King of the Noldor who died fighting Sauron at the end of the Second Age.",
+      "source": "https://en.wikipedia.org/wiki/Fall_of_Gil-galad%2C_an_Elvish_lament_sung_by_Sam"
+    },
+    {
+      "text": "Cirdan the Shipwright, keeper of the Grey Havens, is among the oldest Elves in Middle-earth and entrusts the Ring of Fire to Gandalf.",
+      "source": "https://en.wikipedia.org/wiki/Cirdan_the_Shipwright%2C_keeper_of_the_Grey_Havens"
+    },
+    {
+      "text": "Gandalf was the last of the five Istari to arrive in Middle-earth, appearing as the most humble and unassuming of the wizards.",
+      "source": "https://en.wikipedia.org/wiki/Gandalf"
+    },
+    {
+      "text": "Tolkien Reading Day on March 25 is now observed by libraries, book clubs, and Tolkien societies around the globe.",
+      "source": "https://en.wikipedia.org/wiki/Tolkien_Reading_Day_on_March_25"
+    },
+    {
+      "text": "The Tolkien Estate approved the founding of the Tolkien Trust, a charity that funds educational and literary projects.",
+      "source": "https://en.wikipedia.org/wiki/Tolkien_Estate"
+    },
+    {
+      "text": "Peter Jackson's King Kong (2005) was a passion project made possible by the success and technical achievements of the Lord of the Rings trilogy.",
+      "source": "https://en.wikipedia.org/wiki/Peter_Jackson%27s_King_Kong"
+    },
+    {
+      "text": "The extended editions of the Lord of the Rings films are generally preferred by fans and are considered the definitive versions by many viewers.",
+      "source": "https://en.wikipedia.org/wiki/extended_editions_of_the_Lord_of_the_Rings_films"
+    },
+    {
+      "text": "Howard Shore's complete recordings for the Lord of the Rings trilogy have been released as a multi-disc box set totaling over 10 hours of music.",
+      "source": "https://en.wikipedia.org/wiki/Howard_Shore%27s_complete_recordings_for_the_Lord_of_the_Rings_trilogy"
+    },
+    {
+      "text": "The Lord of the Rings Symphony, a six-movement orchestral work compiled from Shore's film scores, has been performed by orchestras worldwide.",
+      "source": "https://en.wikipedia.org/wiki/Lord_of_the_Rings_Symphony"
+    },
+    {
+      "text": "Shore won three Academy Awards for his Lord of the Rings scores, plus a Grammy Award for Best Score Soundtrack Album.",
+      "source": "https://en.wikipedia.org/wiki/Shore"
+    },
+    {
+      "text": "The Elvish phrase 'A Elbereth Gilthoniel' is a hymn to Varda, the queen of the Valar and creator of the stars, sung by Elves throughout Middle-earth.",
+      "source": "https://en.wikipedia.org/wiki/Elvish_phrase_%27A_Elbereth_Gilthoniel"
+    },
+    {
+      "text": "Tolkien hand-drew calligraphic versions of the Ring inscription in Tengwar script, which were reproduced on the Ring props in the films.",
+      "source": "https://en.wikipedia.org/wiki/Tolkien_hand-drew_calligraphic_versions_of_the_Ring_inscription_in_Tengwar_script%2C_which"
+    },
+    {
+      "text": "The map of Middle-earth that appears in the books was drawn by Christopher Tolkien based on his father's sketches and notes.",
+      "source": "https://en.wikipedia.org/wiki/map_of_Middle-earth_that_appears_in_the_books"
+    },
+    {
+      "text": "Tolkien lectured on fairy tales, medieval literature, and language at Oxford for over 30 years, influencing generations of scholars.",
+      "source": "https://en.wikipedia.org/wiki/Oxford_for"
+    }
+  ]
+}

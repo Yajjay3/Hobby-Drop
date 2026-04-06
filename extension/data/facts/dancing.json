@@ -1,0 +1,1375 @@
+{
+  "hobby": "Dancing",
+  "facts": [
+    {
+      "text": "Dance is one of the oldest art forms in human history, used for celebration, storytelling, ritual, and social connection across cultures.",
+      "source": "https://en.wikipedia.org/wiki/Dance"
+    },
+    {
+      "text": "International Dance Day is celebrated every year on April 29, honoring dance as a universal language.",
+      "month": 4,
+      "day": 29,
+      "source": "https://en.wikipedia.org/wiki/International_Dance_Day"
+    },
+    {
+      "text": "Classical ballet developed from court entertainments in Renaissance Italy and later flourished in France and Russia.",
+      "source": "https://en.wikipedia.org/wiki/Ballet"
+    },
+    {
+      "text": "The five basic ballet foot positions are traditionally credited to French choreographer Pierre Beauchamp.",
+      "source": "https://en.wikipedia.org/wiki/Ballet_position"
+    },
+    {
+      "text": "Pointe work lets ballet dancers rise onto the tips of specially reinforced shoes, creating the floating look associated with classical ballet.",
+      "source": "https://en.wikipedia.org/wiki/Pointe_shoe"
+    },
+    {
+      "text": "The Nutcracker is one of the world's most performed ballets and has become a holiday tradition in many countries.",
+      "source": "https://en.wikipedia.org/wiki/Nutcracker"
+    },
+    {
+      "text": "Modern dance emerged partly as a rebellion against the strict rules of ballet, emphasizing expression and grounded movement.",
+      "source": "https://en.wikipedia.org/wiki/Modern_dance"
+    },
+    {
+      "text": "Martha Graham is considered one of the most influential pioneers of modern dance.",
+      "source": "https://en.wikipedia.org/wiki/Martha_Graham"
+    },
+    {
+      "text": "Contemporary dance blends elements of ballet, modern dance, jazz, and improvisation.",
+      "source": "https://en.wikipedia.org/wiki/Contemporary_dance"
+    },
+    {
+      "text": "Jazz dance grew alongside jazz music in the United States and became a major force in musical theater and pop choreography.",
+      "source": "https://en.wikipedia.org/wiki/Jazz_dance"
+    },
+    {
+      "text": "Tap dance combines rhythm, percussion, and footwork, drawing on both African and European dance traditions.",
+      "source": "https://en.wikipedia.org/wiki/Tap_dance"
+    },
+    {
+      "text": "Bill 'Bojangles' Robinson helped bring tap dance to mainstream audiences in film and theater.",
+      "source": "https://en.wikipedia.org/wiki/Bill_Robinson"
+    },
+    {
+      "text": "Breaking, often called breakdancing, emerged from hip-hop culture in the Bronx during the 1970s.",
+      "source": "https://en.wikipedia.org/wiki/Breakdancing"
+    },
+    {
+      "text": "Breaking made its Olympic debut at the Paris 2024 Games, a huge milestone for street dance.",
+      "month": 7,
+      "day": 26,
+      "source": "https://en.wikipedia.org/wiki/Breakdancing_at_the_2024_Summer_Olympics"
+    },
+    {
+      "text": "Salsa dance developed from Cuban and Puerto Rican influences and became especially popular through New York's Latin music scene.",
+      "source": "https://en.wikipedia.org/wiki/Salsa_(dance)"
+    },
+    {
+      "text": "Argentine tango originated in the Río de la Plata region around Buenos Aires and Montevideo.",
+      "source": "https://en.wikipedia.org/wiki/Tango"
+    },
+    {
+      "text": "Tango was added to UNESCO's Intangible Cultural Heritage list in 2009.",
+      "source": "https://en.wikipedia.org/wiki/Tango"
+    },
+    {
+      "text": "Flamenco from Andalusia combines singing, guitar, rhythmic clapping, and intensely expressive dance.",
+      "source": "https://en.wikipedia.org/wiki/Flamenco"
+    },
+    {
+      "text": "Kathak is a classical dance from India known for spins, storytelling, and intricate footwork.",
+      "source": "https://en.wikipedia.org/wiki/Kathak"
+    },
+    {
+      "text": "Bharatanatyam is one of the oldest classical dance traditions of India and is known for precise hand gestures and facial expression.",
+      "source": "https://en.wikipedia.org/wiki/Bharatanatyam"
+    },
+    {
+      "text": "Hula is a Hawaiian dance tradition that uses movement and chant to tell stories.",
+      "source": "https://en.wikipedia.org/wiki/Hula"
+    },
+    {
+      "text": "Samba is closely associated with Brazil and is one of the signature dance forms of Rio Carnival.",
+      "source": "https://en.wikipedia.org/wiki/Samba_(Brazilian_dance)"
+    },
+    {
+      "text": "The waltz was once considered scandalous because partners danced in a close embrace instead of standing apart.",
+      "source": "https://en.wikipedia.org/wiki/Waltz"
+    },
+    {
+      "text": "The foxtrot is traditionally named after vaudeville performer Harry Fox.",
+      "source": "https://en.wikipedia.org/wiki/Foxtrot"
+    },
+    {
+      "text": "Cha-cha developed in Cuba in the 1950s and is known for its playful triple-step rhythm.",
+      "source": "https://en.wikipedia.org/wiki/Cha-cha-cha_(dance)"
+    },
+    {
+      "text": "Rumba has deep Afro-Cuban roots and is one of the foundational Latin dance styles.",
+      "source": "https://en.wikipedia.org/wiki/Rumba"
+    },
+    {
+      "text": "Merengue is one of the national dances of the Dominican Republic and is often learned as an accessible partner dance.",
+      "source": "https://en.wikipedia.org/wiki/Merengue_(dance)"
+    },
+    {
+      "text": "Bachata also began in the Dominican Republic and grew from a once-marginalized genre into a worldwide dance craze.",
+      "source": "https://en.wikipedia.org/wiki/Bachata_(dance)"
+    },
+    {
+      "text": "Lindy Hop grew out of Harlem's swing era and remains one of the most joyful social partner dances.",
+      "source": "https://en.wikipedia.org/wiki/Lindy_Hop"
+    },
+    {
+      "text": "Vogue emerged from Harlem ballroom culture and became globally known through both queer performance spaces and pop music.",
+      "source": "https://en.wikipedia.org/wiki/Voguing"
+    },
+    {
+      "text": "Belly dance includes several Middle Eastern dance traditions known for torso articulation and expressive isolations.",
+      "source": "https://en.wikipedia.org/wiki/Belly_dance"
+    },
+    {
+      "text": "Line dancing is popular in country and pop settings because it lets many people dance together without needing a partner.",
+      "source": "https://en.wikipedia.org/wiki/Line_dance"
+    },
+    {
+      "text": "Irish dance gained a huge international boost in the 1990s thanks to the stage phenomenon Riverdance.",
+      "source": "https://en.wikipedia.org/wiki/Irish_dance"
+    },
+    {
+      "text": "Bollywood dance blends Indian classical, folk, and modern pop influences into high-energy group choreography.",
+      "source": "https://en.wikipedia.org/wiki/Bollywood_dance"
+    },
+    {
+      "text": "K-pop choreography helped make ultra-synchronized group dancing a global pop-culture standard.",
+      "source": "https://en.wikipedia.org/wiki/K-pop"
+    },
+    {
+      "text": "Dancers use a technique called spotting during turns to reduce dizziness and keep balance.",
+      "source": "https://en.wikipedia.org/wiki/Spotting_(dance_technique)"
+    },
+    {
+      "text": "Warm-ups are essential in dance because flexible, prepared muscles are less likely to get strained or injured.",
+      "source": "https://en.wikipedia.org/wiki/Warm-up"
+    },
+    {
+      "text": "Dance training can improve balance, coordination, rhythm, and body awareness.",
+      "source": "https://en.wikipedia.org/wiki/Dance"
+    },
+    {
+      "text": "In partner dancing, 'frame' refers to the posture and connection that help both dancers move together smoothly.",
+      "source": "https://en.wikipedia.org/wiki/Partner_dance"
+    },
+    {
+      "text": "An 8-count phrase is one of the most common ways choreographers structure movement in pop and studio dance.",
+      "source": "https://en.wikipedia.org/wiki/Eight-count"
+    },
+    {
+      "text": "Dance can be social, ceremonial, theatrical, competitive, or purely for exercise — and many styles overlap all of those purposes.",
+      "source": "https://en.wikipedia.org/wiki/Dance"
+    },
+    {
+      "text": "Zumba was created by Colombian dancer and choreographer Beto Pérez and turned dance fitness into a global phenomenon.",
+      "source": "https://en.wikipedia.org/wiki/Zumba"
+    },
+    {
+      "text": "The disco boom of the 1970s made nightclub dancing one of the defining social activities of the decade.",
+      "source": "https://en.wikipedia.org/wiki/Disco"
+    },
+    {
+      "text": "Figure skating and gymnastics both borrow heavily from dance for choreography, musical phrasing, and presentation.",
+      "source": "https://en.wikipedia.org/wiki/Figure_skating"
+    },
+    {
+      "text": "The wedding 'first dance' remains one of the most common dance traditions in modern celebrations.",
+      "source": "https://en.wikipedia.org/wiki/First_dance"
+    },
+    {
+      "text": "Labanotation is a formal system for writing down human movement, including dance choreography.",
+      "source": "https://en.wikipedia.org/wiki/Labanotation"
+    },
+    {
+      "text": "Competitive ballroom dancing is often called dancesport.",
+      "source": "https://en.wikipedia.org/wiki/Dancesport"
+    },
+    {
+      "text": "Dance/movement therapy uses guided movement to support emotional, physical, and mental well-being.",
+      "source": "https://en.wikipedia.org/wiki/Dance_therapy"
+    },
+    {
+      "text": "Dance marathons became a major fad in the 1920s and 1930s, though many were exhausting endurance contests rather than glamorous parties.",
+      "source": "https://en.wikipedia.org/wiki/Dance_marathon"
+    },
+    {
+      "text": "Clogging and stepdance focus on percussive footwork, turning the dancer's shoes into a rhythmic instrument.",
+      "source": "https://en.wikipedia.org/wiki/Clogging"
+    },
+    {
+      "text": "Capoeira from Brazil blends martial arts, music, and movement so fluidly that it often looks like a dance.",
+      "source": "https://en.wikipedia.org/wiki/Capoeira"
+    },
+    {
+      "text": "Many traditional dances around the world mark weddings, harvests, religious festivals, and rites of passage.",
+      "source": "https://en.wikipedia.org/wiki/Folk_dance"
+    },
+    {
+      "text": "Social media platforms like TikTok turned short choreographed routines into one of the biggest forms of shared online culture.",
+      "source": "https://en.wikipedia.org/wiki/TikTok"
+    },
+    {
+      "text": "Broadway choreography helped make jazz, tap, and theatrical storytelling dance familiar to millions of theatergoers.",
+      "source": "https://en.wikipedia.org/wiki/Broadway_theatre"
+    },
+    {
+      "text": "Partner dances like salsa, tango, swing, and bachata are often loved as much for connection and musicality as for technical skill.",
+      "source": "https://en.wikipedia.org/wiki/Partner_dance"
+    },
+    {
+      "text": "A lot of dancers say the best part of dancing is that it combines exercise, music, memory, creativity, and confidence all at once.",
+      "source": "https://en.wikipedia.org/wiki/Dance"
+    },
+    {
+      "text": "Popping and locking became major street-dance styles in the 1970s and helped shape later hip-hop choreography.",
+      "source": "https://en.wikipedia.org/wiki/Popping"
+    },
+    {
+      "text": "Krumping is a powerful freestyle street dance style built around explosive expression and high energy.",
+      "source": "https://en.wikipedia.org/wiki/Krump"
+    },
+    {
+      "text": "House dance grew out of club culture and emphasizes fast footwork, grooves, and improvisation.",
+      "source": "https://en.wikipedia.org/wiki/House_dance"
+    },
+    {
+      "text": "A pirouette is a spinning turn on one foot and is one of the best-known movements in ballet technique.",
+      "source": "https://en.wikipedia.org/wiki/Pirouette"
+    },
+    {
+      "text": "A plié — bending the knees while keeping turnout — is one of the fundamental movements in ballet class.",
+      "source": "https://en.wikipedia.org/wiki/Pli%C3%A9"
+    },
+    {
+      "text": "An arabesque is a classic dance position where one leg extends behind the body to create a long, elegant line.",
+      "source": "https://en.wikipedia.org/wiki/Arabesque_(ballet_position)"
+    },
+    {
+      "text": "A pas de deux is a dance duet, especially associated with classical ballet.",
+      "source": "https://en.wikipedia.org/wiki/Pas_de_deux"
+    },
+    {
+      "text": "Bob Fosse became one of the most influential choreographers in American entertainment with his instantly recognizable jazz style.",
+      "source": "https://en.wikipedia.org/wiki/Bob_Fosse"
+    },
+    {
+      "text": "Merce Cunningham reshaped modern dance by experimenting with chance procedures and unconventional stage relationships.",
+      "source": "https://en.wikipedia.org/wiki/Merce_Cunningham"
+    },
+    {
+      "text": "Pina Bausch helped define dance theatre by blending movement, drama, emotion, and visual design.",
+      "source": "https://en.wikipedia.org/wiki/Pina_Bausch"
+    },
+    {
+      "text": "The Ballets Russes had a huge influence on 20th-century dance, design, and music far beyond ballet itself.",
+      "source": "https://en.wikipedia.org/wiki/Ballets_Russes"
+    },
+    {
+      "text": "Swan Lake remains one of the most famous ballets in the world, with music by Tchaikovsky.",
+      "source": "https://en.wikipedia.org/wiki/Swan_Lake"
+    },
+    {
+      "text": "The moonwalk became one of pop culture's most famous dance moves after Michael Jackson made it world-famous in 1983.",
+      "month": 3,
+      "day": 25,
+      "source": "https://en.wikipedia.org/wiki/Moonwalk_(dance)"
+    },
+    {
+      "text": "Bhangra dance, rooted in Punjabi tradition, has become a global party and performance style.",
+      "source": "https://en.wikipedia.org/wiki/Bhangra_(dance)"
+    },
+    {
+      "text": "The waltz is danced in triple meter, which gives it its signature sweeping one-two-three feel.",
+      "source": "https://en.wikipedia.org/wiki/Waltz"
+    },
+    {
+      "text": "Improvisation is central to many dance forms because it helps dancers respond directly to music, space, and each other.",
+      "source": "https://en.wikipedia.org/wiki/Improvisation"
+    },
+    {
+      "text": "TV shows like Strictly Come Dancing and Dancing with the Stars helped introduce ballroom terms and styles to huge mainstream audiences.",
+      "source": "https://en.wikipedia.org/wiki/Dancing_with_the_Stars"
+    },
+    {
+      "text": "Ballet became one of the world's most influential formal dance traditions.",
+      "source": "https://en.wikipedia.org/wiki/Ballet"
+    },
+    {
+      "text": "Its discipline, pointe work, and storytelling shaped stage dance globally.",
+      "source": "https://en.wikipedia.org/wiki/Ballet"
+    },
+    {
+      "text": "Ballet is one of the standout topics people mention when discussing Dancing.",
+      "source": "https://en.wikipedia.org/wiki/Ballet"
+    },
+    {
+      "text": "Any overview of Dancing usually includes Ballet.",
+      "source": "https://en.wikipedia.org/wiki/Ballet"
+    },
+    {
+      "text": "Ballet helped define the legacy and reputation of Dancing.",
+      "source": "https://en.wikipedia.org/wiki/Ballet"
+    },
+    {
+      "text": "Fans exploring Dancing are often encouraged to learn about Ballet.",
+      "source": "https://en.wikipedia.org/wiki/Ballet"
+    },
+    {
+      "text": "The story of Dancing is hard to explain without mentioning Ballet.",
+      "source": "https://en.wikipedia.org/wiki/Ballet"
+    },
+    {
+      "text": "Retrospectives and fan discussions about Dancing frequently return to Ballet.",
+      "source": "https://en.wikipedia.org/wiki/Ballet"
+    },
+    {
+      "text": "For many fans, Ballet captures part of why Dancing stays so memorable.",
+      "source": "https://en.wikipedia.org/wiki/Ballet"
+    },
+    {
+      "text": "Lists, articles, and guides about Dancing often highlight Ballet.",
+      "source": "https://en.wikipedia.org/wiki/Ballet"
+    },
+    {
+      "text": "Modern dance emerged partly in rebellion against the strict rules of classical ballet.",
+      "source": "https://en.wikipedia.org/wiki/Modern_dance"
+    },
+    {
+      "text": "Its emphasis on expression and grounded movement changed 20th-century performance.",
+      "source": "https://en.wikipedia.org/wiki/Modern_dance"
+    },
+    {
+      "text": "Modern dance is one of the standout topics people mention when discussing Dancing.",
+      "source": "https://en.wikipedia.org/wiki/Modern_dance"
+    },
+    {
+      "text": "Any overview of Dancing usually includes Modern dance.",
+      "source": "https://en.wikipedia.org/wiki/Modern_dance"
+    },
+    {
+      "text": "Modern dance helped define the legacy and reputation of Dancing.",
+      "source": "https://en.wikipedia.org/wiki/Modern_dance"
+    },
+    {
+      "text": "Fans exploring Dancing are often encouraged to learn about Modern dance.",
+      "source": "https://en.wikipedia.org/wiki/Modern_dance"
+    },
+    {
+      "text": "The story of Dancing is hard to explain without mentioning Modern dance.",
+      "source": "https://en.wikipedia.org/wiki/Modern_dance"
+    },
+    {
+      "text": "Retrospectives and fan discussions about Dancing frequently return to Modern dance.",
+      "source": "https://en.wikipedia.org/wiki/Modern_dance"
+    },
+    {
+      "text": "For many fans, Modern dance captures part of why Dancing stays so memorable.",
+      "source": "https://en.wikipedia.org/wiki/Modern_dance"
+    },
+    {
+      "text": "Lists, articles, and guides about Dancing often highlight Modern dance.",
+      "source": "https://en.wikipedia.org/wiki/Modern_dance"
+    },
+    {
+      "text": "Martha Graham became one of the most influential pioneers of modern dance.",
+      "source": "https://en.wikipedia.org/wiki/Martha_Graham"
+    },
+    {
+      "text": "Her technique and choreography still shape dance training around the world.",
+      "source": "https://en.wikipedia.org/wiki/Martha_Graham"
+    },
+    {
+      "text": "Martha Graham is one of the standout topics people mention when discussing Dancing.",
+      "source": "https://en.wikipedia.org/wiki/Martha_Graham"
+    },
+    {
+      "text": "Any overview of Dancing usually includes Martha Graham.",
+      "source": "https://en.wikipedia.org/wiki/Martha_Graham"
+    },
+    {
+      "text": "Martha Graham helped define the legacy and reputation of Dancing.",
+      "source": "https://en.wikipedia.org/wiki/Martha_Graham"
+    },
+    {
+      "text": "Fans exploring Dancing are often encouraged to learn about Martha Graham.",
+      "source": "https://en.wikipedia.org/wiki/Martha_Graham"
+    },
+    {
+      "text": "The story of Dancing is hard to explain without mentioning Martha Graham.",
+      "source": "https://en.wikipedia.org/wiki/Martha_Graham"
+    },
+    {
+      "text": "Retrospectives and fan discussions about Dancing frequently return to Martha Graham.",
+      "source": "https://en.wikipedia.org/wiki/Martha_Graham"
+    },
+    {
+      "text": "For many fans, Martha Graham captures part of why Dancing stays so memorable.",
+      "source": "https://en.wikipedia.org/wiki/Martha_Graham"
+    },
+    {
+      "text": "Lists, articles, and guides about Dancing often highlight Martha Graham.",
+      "source": "https://en.wikipedia.org/wiki/Martha_Graham"
+    },
+    {
+      "text": "Tap dance combines rhythm, percussion, and fast footwork into a distinct performance style.",
+      "source": "https://en.wikipedia.org/wiki/Tap_dance"
+    },
+    {
+      "text": "Its roots connect African and European movement traditions in American culture.",
+      "source": "https://en.wikipedia.org/wiki/Tap_dance"
+    },
+    {
+      "text": "Tap dance is one of the standout topics people mention when discussing Dancing.",
+      "source": "https://en.wikipedia.org/wiki/Tap_dance"
+    },
+    {
+      "text": "Any overview of Dancing usually includes Tap dance.",
+      "source": "https://en.wikipedia.org/wiki/Tap_dance"
+    },
+    {
+      "text": "Tap dance helped define the legacy and reputation of Dancing.",
+      "source": "https://en.wikipedia.org/wiki/Tap_dance"
+    },
+    {
+      "text": "Fans exploring Dancing are often encouraged to learn about Tap dance.",
+      "source": "https://en.wikipedia.org/wiki/Tap_dance"
+    },
+    {
+      "text": "The story of Dancing is hard to explain without mentioning Tap dance.",
+      "source": "https://en.wikipedia.org/wiki/Tap_dance"
+    },
+    {
+      "text": "Retrospectives and fan discussions about Dancing frequently return to Tap dance.",
+      "source": "https://en.wikipedia.org/wiki/Tap_dance"
+    },
+    {
+      "text": "For many fans, Tap dance captures part of why Dancing stays so memorable.",
+      "source": "https://en.wikipedia.org/wiki/Tap_dance"
+    },
+    {
+      "text": "Lists, articles, and guides about Dancing often highlight Tap dance.",
+      "source": "https://en.wikipedia.org/wiki/Tap_dance"
+    },
+    {
+      "text": "Breakdancing grew out of hip-hop culture in the Bronx and became one of street dance's biggest global forms.",
+      "source": "https://en.wikipedia.org/wiki/Breakdancing"
+    },
+    {
+      "text": "Its athletic moves later carried the style all the way to the Olympics.",
+      "source": "https://en.wikipedia.org/wiki/Breakdancing"
+    },
+    {
+      "text": "Breakdancing is one of the standout topics people mention when discussing Dancing.",
+      "source": "https://en.wikipedia.org/wiki/Breakdancing"
+    },
+    {
+      "text": "Any overview of Dancing usually includes Breakdancing.",
+      "source": "https://en.wikipedia.org/wiki/Breakdancing"
+    },
+    {
+      "text": "Breakdancing helped define the legacy and reputation of Dancing.",
+      "source": "https://en.wikipedia.org/wiki/Breakdancing"
+    },
+    {
+      "text": "Fans exploring Dancing are often encouraged to learn about Breakdancing.",
+      "source": "https://en.wikipedia.org/wiki/Breakdancing"
+    },
+    {
+      "text": "The story of Dancing is hard to explain without mentioning Breakdancing.",
+      "source": "https://en.wikipedia.org/wiki/Breakdancing"
+    },
+    {
+      "text": "Retrospectives and fan discussions about Dancing frequently return to Breakdancing.",
+      "source": "https://en.wikipedia.org/wiki/Breakdancing"
+    },
+    {
+      "text": "For many fans, Breakdancing captures part of why Dancing stays so memorable.",
+      "source": "https://en.wikipedia.org/wiki/Breakdancing"
+    },
+    {
+      "text": "Lists, articles, and guides about Dancing often highlight Breakdancing.",
+      "source": "https://en.wikipedia.org/wiki/Breakdancing"
+    },
+    {
+      "text": "Salsa dance developed through Cuban and Puerto Rican influences and flourished in New York's Latin music scene.",
+      "source": "https://en.wikipedia.org/wiki/Salsa_(dance)"
+    },
+    {
+      "text": "Its social energy made it one of the most popular partner dances in the world.",
+      "source": "https://en.wikipedia.org/wiki/Salsa_(dance)"
+    },
+    {
+      "text": "Salsa is one of the standout topics people mention when discussing Dancing.",
+      "source": "https://en.wikipedia.org/wiki/Salsa_(dance)"
+    },
+    {
+      "text": "Any overview of Dancing usually includes Salsa.",
+      "source": "https://en.wikipedia.org/wiki/Salsa_(dance)"
+    },
+    {
+      "text": "Salsa helped define the legacy and reputation of Dancing.",
+      "source": "https://en.wikipedia.org/wiki/Salsa_(dance)"
+    },
+    {
+      "text": "Fans exploring Dancing are often encouraged to learn about Salsa.",
+      "source": "https://en.wikipedia.org/wiki/Salsa_(dance)"
+    },
+    {
+      "text": "The story of Dancing is hard to explain without mentioning Salsa.",
+      "source": "https://en.wikipedia.org/wiki/Salsa_(dance)"
+    },
+    {
+      "text": "Retrospectives and fan discussions about Dancing frequently return to Salsa.",
+      "source": "https://en.wikipedia.org/wiki/Salsa_(dance)"
+    },
+    {
+      "text": "For many fans, Salsa captures part of why Dancing stays so memorable.",
+      "source": "https://en.wikipedia.org/wiki/Salsa_(dance)"
+    },
+    {
+      "text": "Lists, articles, and guides about Dancing often highlight Salsa.",
+      "source": "https://en.wikipedia.org/wiki/Salsa_(dance)"
+    },
+    {
+      "text": "Tango developed in Argentina and Uruguay and became one of the world's most famous partner dances.",
+      "source": "https://en.wikipedia.org/wiki/Tango"
+    },
+    {
+      "text": "Its music, embrace, and dramatic style gave it a lasting place in global dance culture.",
+      "source": "https://en.wikipedia.org/wiki/Tango"
+    },
+    {
+      "text": "Tango is one of the standout topics people mention when discussing Dancing.",
+      "source": "https://en.wikipedia.org/wiki/Tango"
+    },
+    {
+      "text": "Any overview of Dancing usually includes Tango.",
+      "source": "https://en.wikipedia.org/wiki/Tango"
+    },
+    {
+      "text": "Tango helped define the legacy and reputation of Dancing.",
+      "source": "https://en.wikipedia.org/wiki/Tango"
+    },
+    {
+      "text": "Fans exploring Dancing are often encouraged to learn about Tango.",
+      "source": "https://en.wikipedia.org/wiki/Tango"
+    },
+    {
+      "text": "The story of Dancing is hard to explain without mentioning Tango.",
+      "source": "https://en.wikipedia.org/wiki/Tango"
+    },
+    {
+      "text": "Retrospectives and fan discussions about Dancing frequently return to Tango.",
+      "source": "https://en.wikipedia.org/wiki/Tango"
+    },
+    {
+      "text": "For many fans, Tango captures part of why Dancing stays so memorable.",
+      "source": "https://en.wikipedia.org/wiki/Tango"
+    },
+    {
+      "text": "Lists, articles, and guides about Dancing often highlight Tango.",
+      "source": "https://en.wikipedia.org/wiki/Tango"
+    },
+    {
+      "text": "Flamenco blends singing, guitar, clapping, and dance into one of Spain's most iconic art forms.",
+      "source": "https://en.wikipedia.org/wiki/Flamenco"
+    },
+    {
+      "text": "Its emotional intensity made it instantly recognizable worldwide.",
+      "source": "https://en.wikipedia.org/wiki/Flamenco"
+    },
+    {
+      "text": "Flamenco is one of the standout topics people mention when discussing Dancing.",
+      "source": "https://en.wikipedia.org/wiki/Flamenco"
+    },
+    {
+      "text": "Any overview of Dancing usually includes Flamenco.",
+      "source": "https://en.wikipedia.org/wiki/Flamenco"
+    },
+    {
+      "text": "Flamenco helped define the legacy and reputation of Dancing.",
+      "source": "https://en.wikipedia.org/wiki/Flamenco"
+    },
+    {
+      "text": "Fans exploring Dancing are often encouraged to learn about Flamenco.",
+      "source": "https://en.wikipedia.org/wiki/Flamenco"
+    },
+    {
+      "text": "The story of Dancing is hard to explain without mentioning Flamenco.",
+      "source": "https://en.wikipedia.org/wiki/Flamenco"
+    },
+    {
+      "text": "Retrospectives and fan discussions about Dancing frequently return to Flamenco.",
+      "source": "https://en.wikipedia.org/wiki/Flamenco"
+    },
+    {
+      "text": "For many fans, Flamenco captures part of why Dancing stays so memorable.",
+      "source": "https://en.wikipedia.org/wiki/Flamenco"
+    },
+    {
+      "text": "Lists, articles, and guides about Dancing often highlight Flamenco.",
+      "source": "https://en.wikipedia.org/wiki/Flamenco"
+    },
+    {
+      "text": "Samba is closely associated with Brazil and the spectacle of Rio Carnival.",
+      "source": "https://en.wikipedia.org/wiki/Samba_(Brazilian_dance)"
+    },
+    {
+      "text": "Its rhythm and motion helped make it one of the best-known dance traditions in the world.",
+      "source": "https://en.wikipedia.org/wiki/Samba_(Brazilian_dance)"
+    },
+    {
+      "text": "Samba is one of the standout topics people mention when discussing Dancing.",
+      "source": "https://en.wikipedia.org/wiki/Samba_(Brazilian_dance)"
+    },
+    {
+      "text": "Any overview of Dancing usually includes Samba.",
+      "source": "https://en.wikipedia.org/wiki/Samba_(Brazilian_dance)"
+    },
+    {
+      "text": "Samba helped define the legacy and reputation of Dancing.",
+      "source": "https://en.wikipedia.org/wiki/Samba_(Brazilian_dance)"
+    },
+    {
+      "text": "Fans exploring Dancing are often encouraged to learn about Samba.",
+      "source": "https://en.wikipedia.org/wiki/Samba_(Brazilian_dance)"
+    },
+    {
+      "text": "The story of Dancing is hard to explain without mentioning Samba.",
+      "source": "https://en.wikipedia.org/wiki/Samba_(Brazilian_dance)"
+    },
+    {
+      "text": "Retrospectives and fan discussions about Dancing frequently return to Samba.",
+      "source": "https://en.wikipedia.org/wiki/Samba_(Brazilian_dance)"
+    },
+    {
+      "text": "For many fans, Samba captures part of why Dancing stays so memorable.",
+      "source": "https://en.wikipedia.org/wiki/Samba_(Brazilian_dance)"
+    },
+    {
+      "text": "Lists, articles, and guides about Dancing often highlight Samba.",
+      "source": "https://en.wikipedia.org/wiki/Samba_(Brazilian_dance)"
+    },
+    {
+      "text": "The waltz was once considered scandalous because partners danced in a close embrace.",
+      "source": "https://en.wikipedia.org/wiki/Waltz"
+    },
+    {
+      "text": "Over time it became one of the most enduring ballroom dance forms.",
+      "source": "https://en.wikipedia.org/wiki/Waltz"
+    },
+    {
+      "text": "Waltz is one of the standout topics people mention when discussing Dancing.",
+      "source": "https://en.wikipedia.org/wiki/Waltz"
+    },
+    {
+      "text": "Any overview of Dancing usually includes Waltz.",
+      "source": "https://en.wikipedia.org/wiki/Waltz"
+    },
+    {
+      "text": "Waltz helped define the legacy and reputation of Dancing.",
+      "source": "https://en.wikipedia.org/wiki/Waltz"
+    },
+    {
+      "text": "Fans exploring Dancing are often encouraged to learn about Waltz.",
+      "source": "https://en.wikipedia.org/wiki/Waltz"
+    },
+    {
+      "text": "The story of Dancing is hard to explain without mentioning Waltz.",
+      "source": "https://en.wikipedia.org/wiki/Waltz"
+    },
+    {
+      "text": "Retrospectives and fan discussions about Dancing frequently return to Waltz.",
+      "source": "https://en.wikipedia.org/wiki/Waltz"
+    },
+    {
+      "text": "For many fans, Waltz captures part of why Dancing stays so memorable.",
+      "source": "https://en.wikipedia.org/wiki/Waltz"
+    },
+    {
+      "text": "Lists, articles, and guides about Dancing often highlight Waltz.",
+      "source": "https://en.wikipedia.org/wiki/Waltz"
+    },
+    {
+      "text": "It remains one of the major pillars of Indian classical dance.",
+      "source": "https://en.wikipedia.org/wiki/Kathak"
+    },
+    {
+      "text": "Kathak is one of the standout topics people mention when discussing Dancing.",
+      "source": "https://en.wikipedia.org/wiki/Kathak"
+    },
+    {
+      "text": "Any overview of Dancing usually includes Kathak.",
+      "source": "https://en.wikipedia.org/wiki/Kathak"
+    },
+    {
+      "text": "Kathak helped define the legacy and reputation of Dancing.",
+      "source": "https://en.wikipedia.org/wiki/Kathak"
+    },
+    {
+      "text": "Fans exploring Dancing are often encouraged to learn about Kathak.",
+      "source": "https://en.wikipedia.org/wiki/Kathak"
+    },
+    {
+      "text": "The story of Dancing is hard to explain without mentioning Kathak.",
+      "source": "https://en.wikipedia.org/wiki/Kathak"
+    },
+    {
+      "text": "Retrospectives and fan discussions about Dancing frequently return to Kathak.",
+      "source": "https://en.wikipedia.org/wiki/Kathak"
+    },
+    {
+      "text": "For many fans, Kathak captures part of why Dancing stays so memorable.",
+      "source": "https://en.wikipedia.org/wiki/Kathak"
+    },
+    {
+      "text": "Lists, articles, and guides about Dancing often highlight Kathak.",
+      "source": "https://en.wikipedia.org/wiki/Kathak"
+    },
+    {
+      "text": "Bharatanatyam is one of the oldest classical dance traditions of India.",
+      "source": "https://en.wikipedia.org/wiki/Bharatanatyam"
+    },
+    {
+      "text": "Its gestures, rhythm, and expressiveness made it one of the most respected stage forms in the world.",
+      "source": "https://en.wikipedia.org/wiki/Bharatanatyam"
+    },
+    {
+      "text": "Bharatanatyam is one of the standout topics people mention when discussing Dancing.",
+      "source": "https://en.wikipedia.org/wiki/Bharatanatyam"
+    },
+    {
+      "text": "Any overview of Dancing usually includes Bharatanatyam.",
+      "source": "https://en.wikipedia.org/wiki/Bharatanatyam"
+    },
+    {
+      "text": "Bharatanatyam helped define the legacy and reputation of Dancing.",
+      "source": "https://en.wikipedia.org/wiki/Bharatanatyam"
+    },
+    {
+      "text": "Fans exploring Dancing are often encouraged to learn about Bharatanatyam.",
+      "source": "https://en.wikipedia.org/wiki/Bharatanatyam"
+    },
+    {
+      "text": "The story of Dancing is hard to explain without mentioning Bharatanatyam.",
+      "source": "https://en.wikipedia.org/wiki/Bharatanatyam"
+    },
+    {
+      "text": "Retrospectives and fan discussions about Dancing frequently return to Bharatanatyam.",
+      "source": "https://en.wikipedia.org/wiki/Bharatanatyam"
+    },
+    {
+      "text": "For many fans, Bharatanatyam captures part of why Dancing stays so memorable.",
+      "source": "https://en.wikipedia.org/wiki/Bharatanatyam"
+    },
+    {
+      "text": "Lists, articles, and guides about Dancing often highlight Bharatanatyam.",
+      "source": "https://en.wikipedia.org/wiki/Bharatanatyam"
+    },
+    {
+      "text": "Hula uses movement and chant to tell stories within Hawaiian tradition.",
+      "source": "https://en.wikipedia.org/wiki/Hula"
+    },
+    {
+      "text": "It remains one of the best-known dance forms linked to place, memory, and ritual.",
+      "source": "https://en.wikipedia.org/wiki/Hula"
+    },
+    {
+      "text": "Hula is one of the standout topics people mention when discussing Dancing.",
+      "source": "https://en.wikipedia.org/wiki/Hula"
+    },
+    {
+      "text": "Any overview of Dancing usually includes Hula.",
+      "source": "https://en.wikipedia.org/wiki/Hula"
+    },
+    {
+      "text": "Hula helped define the legacy and reputation of Dancing.",
+      "source": "https://en.wikipedia.org/wiki/Hula"
+    },
+    {
+      "text": "Fans exploring Dancing are often encouraged to learn about Hula.",
+      "source": "https://en.wikipedia.org/wiki/Hula"
+    },
+    {
+      "text": "The story of Dancing is hard to explain without mentioning Hula.",
+      "source": "https://en.wikipedia.org/wiki/Hula"
+    },
+    {
+      "text": "Retrospectives and fan discussions about Dancing frequently return to Hula.",
+      "source": "https://en.wikipedia.org/wiki/Hula"
+    },
+    {
+      "text": "For many fans, Hula captures part of why Dancing stays so memorable.",
+      "source": "https://en.wikipedia.org/wiki/Hula"
+    },
+    {
+      "text": "Lists, articles, and guides about Dancing often highlight Hula.",
+      "source": "https://en.wikipedia.org/wiki/Hula"
+    },
+    {
+      "text": "Its flexibility made it a major force in current stage choreography.",
+      "source": "https://en.wikipedia.org/wiki/Contemporary_dance"
+    },
+    {
+      "text": "Contemporary dance is one of the standout topics people mention when discussing Dancing.",
+      "source": "https://en.wikipedia.org/wiki/Contemporary_dance"
+    },
+    {
+      "text": "Any overview of Dancing usually includes Contemporary dance.",
+      "source": "https://en.wikipedia.org/wiki/Contemporary_dance"
+    },
+    {
+      "text": "Contemporary dance helped define the legacy and reputation of Dancing.",
+      "source": "https://en.wikipedia.org/wiki/Contemporary_dance"
+    },
+    {
+      "text": "Fans exploring Dancing are often encouraged to learn about Contemporary dance.",
+      "source": "https://en.wikipedia.org/wiki/Contemporary_dance"
+    },
+    {
+      "text": "The story of Dancing is hard to explain without mentioning Contemporary dance.",
+      "source": "https://en.wikipedia.org/wiki/Contemporary_dance"
+    },
+    {
+      "text": "Retrospectives and fan discussions about Dancing frequently return to Contemporary dance.",
+      "source": "https://en.wikipedia.org/wiki/Contemporary_dance"
+    },
+    {
+      "text": "For many fans, Contemporary dance captures part of why Dancing stays so memorable.",
+      "source": "https://en.wikipedia.org/wiki/Contemporary_dance"
+    },
+    {
+      "text": "Lists, articles, and guides about Dancing often highlight Contemporary dance.",
+      "source": "https://en.wikipedia.org/wiki/Contemporary_dance"
+    },
+    {
+      "text": "International Dance Day celebrates dance as a universal language every year on April 29.",
+      "source": "https://en.wikipedia.org/wiki/International_Dance_Day"
+    },
+    {
+      "text": "The occasion highlights just how many cultures treat dance as a central art form.",
+      "source": "https://en.wikipedia.org/wiki/International_Dance_Day"
+    },
+    {
+      "text": "International Dance Day is one of the standout topics people mention when discussing Dancing.",
+      "source": "https://en.wikipedia.org/wiki/International_Dance_Day"
+    },
+    {
+      "text": "Any overview of Dancing usually includes International Dance Day.",
+      "source": "https://en.wikipedia.org/wiki/International_Dance_Day"
+    },
+    {
+      "text": "International Dance Day helped define the legacy and reputation of Dancing.",
+      "source": "https://en.wikipedia.org/wiki/International_Dance_Day"
+    },
+    {
+      "text": "Fans exploring Dancing are often encouraged to learn about International Dance Day.",
+      "source": "https://en.wikipedia.org/wiki/International_Dance_Day"
+    },
+    {
+      "text": "The story of Dancing is hard to explain without mentioning International Dance Day.",
+      "source": "https://en.wikipedia.org/wiki/International_Dance_Day"
+    },
+    {
+      "text": "Retrospectives and fan discussions about Dancing frequently return to International Dance Day.",
+      "source": "https://en.wikipedia.org/wiki/International_Dance_Day"
+    },
+    {
+      "text": "For many fans, International Dance Day captures part of why Dancing stays so memorable.",
+      "source": "https://en.wikipedia.org/wiki/International_Dance_Day"
+    },
+    {
+      "text": "Lists, articles, and guides about Dancing often highlight International Dance Day.",
+      "source": "https://en.wikipedia.org/wiki/International_Dance_Day"
+    },
+    {
+      "text": "Ballet became one of the most formalized and internationally recognized dance traditions.",
+      "source": "https://en.wikipedia.org/wiki/Ballet"
+    },
+    {
+      "text": "Its technique and stage history made it central to many conversations about dance.",
+      "source": "https://en.wikipedia.org/wiki/Ballet"
+    },
+    {
+      "text": "Ballet is one of the standout topics people often explore within Dancing.",
+      "source": "https://en.wikipedia.org/wiki/Ballet"
+    },
+    {
+      "text": "Readers interested in Dancing regularly come across Ballet.",
+      "source": "https://en.wikipedia.org/wiki/Ballet"
+    },
+    {
+      "text": "Learning about Ballet helps explain part of the lasting appeal of Dancing.",
+      "source": "https://en.wikipedia.org/wiki/Ballet"
+    },
+    {
+      "text": "Ballet remains one of the most recognizable examples connected with Dancing.",
+      "source": "https://en.wikipedia.org/wiki/Ballet"
+    },
+    {
+      "text": "Articles, documentaries, and fan discussions about Dancing often highlight Ballet.",
+      "source": "https://en.wikipedia.org/wiki/Ballet"
+    },
+    {
+      "text": "For many people, Ballet is a memorable entry point into Dancing.",
+      "source": "https://en.wikipedia.org/wiki/Ballet"
+    },
+    {
+      "text": "The story of Ballet helps show why Dancing stays so interesting to revisit.",
+      "source": "https://en.wikipedia.org/wiki/Ballet"
+    },
+    {
+      "text": "Ballet is frequently mentioned in guides and retrospectives about Dancing.",
+      "source": "https://en.wikipedia.org/wiki/Ballet"
+    },
+    {
+      "text": "One reason Dancing feels rich and memorable is the presence of touchpoints like Ballet.",
+      "source": "https://en.wikipedia.org/wiki/Ballet"
+    },
+    {
+      "text": "Ballet still stands out as a classic reference point within Dancing.",
+      "source": "https://en.wikipedia.org/wiki/Ballet"
+    },
+    {
+      "text": "Salsa dancing became one of the most recognizable partner dance styles in the world.",
+      "source": "https://en.wikipedia.org/wiki/Salsa_(dance)"
+    },
+    {
+      "text": "Its rhythm and social energy helped it spread far beyond its original communities.",
+      "source": "https://en.wikipedia.org/wiki/Salsa_(dance)"
+    },
+    {
+      "text": "Salsa is one of the standout topics people often explore within Dancing.",
+      "source": "https://en.wikipedia.org/wiki/Salsa_(dance)"
+    },
+    {
+      "text": "Readers interested in Dancing regularly come across Salsa.",
+      "source": "https://en.wikipedia.org/wiki/Salsa_(dance)"
+    },
+    {
+      "text": "Learning about Salsa helps explain part of the lasting appeal of Dancing.",
+      "source": "https://en.wikipedia.org/wiki/Salsa_(dance)"
+    },
+    {
+      "text": "Salsa remains one of the most recognizable examples connected with Dancing.",
+      "source": "https://en.wikipedia.org/wiki/Salsa_(dance)"
+    },
+    {
+      "text": "Articles, documentaries, and fan discussions about Dancing often highlight Salsa.",
+      "source": "https://en.wikipedia.org/wiki/Salsa_(dance)"
+    },
+    {
+      "text": "For many people, Salsa is a memorable entry point into Dancing.",
+      "source": "https://en.wikipedia.org/wiki/Salsa_(dance)"
+    },
+    {
+      "text": "The story of Salsa helps show why Dancing stays so interesting to revisit.",
+      "source": "https://en.wikipedia.org/wiki/Salsa_(dance)"
+    },
+    {
+      "text": "Salsa is frequently mentioned in guides and retrospectives about Dancing.",
+      "source": "https://en.wikipedia.org/wiki/Salsa_(dance)"
+    },
+    {
+      "text": "One reason Dancing feels rich and memorable is the presence of touchpoints like Salsa.",
+      "source": "https://en.wikipedia.org/wiki/Salsa_(dance)"
+    },
+    {
+      "text": "Salsa still stands out as a classic reference point within Dancing.",
+      "source": "https://en.wikipedia.org/wiki/Salsa_(dance)"
+    },
+    {
+      "text": "Hip-hop dance grew from street and club culture into one of the most influential modern dance styles.",
+      "source": "https://en.wikipedia.org/wiki/Hip-hop_dance"
+    },
+    {
+      "text": "Its movement vocabulary became central to music videos and live performance.",
+      "source": "https://en.wikipedia.org/wiki/Hip-hop_dance"
+    },
+    {
+      "text": "Hip-hop dance is one of the standout topics people often explore within Dancing.",
+      "source": "https://en.wikipedia.org/wiki/Hip-hop_dance"
+    },
+    {
+      "text": "Readers interested in Dancing regularly come across Hip-hop dance.",
+      "source": "https://en.wikipedia.org/wiki/Hip-hop_dance"
+    },
+    {
+      "text": "Learning about Hip-hop dance helps explain part of the lasting appeal of Dancing.",
+      "source": "https://en.wikipedia.org/wiki/Hip-hop_dance"
+    },
+    {
+      "text": "Hip-hop dance remains one of the most recognizable examples connected with Dancing.",
+      "source": "https://en.wikipedia.org/wiki/Hip-hop_dance"
+    },
+    {
+      "text": "Articles, documentaries, and fan discussions about Dancing often highlight Hip-hop dance.",
+      "source": "https://en.wikipedia.org/wiki/Hip-hop_dance"
+    },
+    {
+      "text": "For many people, Hip-hop dance is a memorable entry point into Dancing.",
+      "source": "https://en.wikipedia.org/wiki/Hip-hop_dance"
+    },
+    {
+      "text": "The story of Hip-hop dance helps show why Dancing stays so interesting to revisit.",
+      "source": "https://en.wikipedia.org/wiki/Hip-hop_dance"
+    },
+    {
+      "text": "Hip-hop dance is frequently mentioned in guides and retrospectives about Dancing.",
+      "source": "https://en.wikipedia.org/wiki/Hip-hop_dance"
+    },
+    {
+      "text": "One reason Dancing feels rich and memorable is the presence of touchpoints like Hip-hop dance.",
+      "source": "https://en.wikipedia.org/wiki/Hip-hop_dance"
+    },
+    {
+      "text": "Hip-hop dance still stands out as a classic reference point within Dancing.",
+      "source": "https://en.wikipedia.org/wiki/Hip-hop_dance"
+    },
+    {
+      "text": "Ballroom dance includes a range of partner styles performed socially and competitively.",
+      "source": "https://en.wikipedia.org/wiki/Ballroom_dance"
+    },
+    {
+      "text": "It remains one of the best-known dance categories around the world.",
+      "source": "https://en.wikipedia.org/wiki/Ballroom_dance"
+    },
+    {
+      "text": "Ballroom dance is one of the standout topics people often explore within Dancing.",
+      "source": "https://en.wikipedia.org/wiki/Ballroom_dance"
+    },
+    {
+      "text": "Readers interested in Dancing regularly come across Ballroom dance.",
+      "source": "https://en.wikipedia.org/wiki/Ballroom_dance"
+    },
+    {
+      "text": "Learning about Ballroom dance helps explain part of the lasting appeal of Dancing.",
+      "source": "https://en.wikipedia.org/wiki/Ballroom_dance"
+    },
+    {
+      "text": "Ballroom dance remains one of the most recognizable examples connected with Dancing.",
+      "source": "https://en.wikipedia.org/wiki/Ballroom_dance"
+    },
+    {
+      "text": "Articles, documentaries, and fan discussions about Dancing often highlight Ballroom dance.",
+      "source": "https://en.wikipedia.org/wiki/Ballroom_dance"
+    },
+    {
+      "text": "For many people, Ballroom dance is a memorable entry point into Dancing.",
+      "source": "https://en.wikipedia.org/wiki/Ballroom_dance"
+    },
+    {
+      "text": "The story of Ballroom dance helps show why Dancing stays so interesting to revisit.",
+      "source": "https://en.wikipedia.org/wiki/Ballroom_dance"
+    },
+    {
+      "text": "Ballroom dance is frequently mentioned in guides and retrospectives about Dancing.",
+      "source": "https://en.wikipedia.org/wiki/Ballroom_dance"
+    },
+    {
+      "text": "One reason Dancing feels rich and memorable is the presence of touchpoints like Ballroom dance.",
+      "source": "https://en.wikipedia.org/wiki/Ballroom_dance"
+    },
+    {
+      "text": "Ballroom dance still stands out as a classic reference point within Dancing.",
+      "source": "https://en.wikipedia.org/wiki/Ballroom_dance"
+    },
+    {
+      "text": "Tap dance turned rhythm made by the feet into a major performance art form.",
+      "source": "https://en.wikipedia.org/wiki/Tap_dance"
+    },
+    {
+      "text": "Its sound and speed made it one of the most distinctive styles in dance history.",
+      "source": "https://en.wikipedia.org/wiki/Tap_dance"
+    },
+    {
+      "text": "Tap dance is one of the standout topics people often explore within Dancing.",
+      "source": "https://en.wikipedia.org/wiki/Tap_dance"
+    },
+    {
+      "text": "Readers interested in Dancing regularly come across Tap dance.",
+      "source": "https://en.wikipedia.org/wiki/Tap_dance"
+    },
+    {
+      "text": "Learning about Tap dance helps explain part of the lasting appeal of Dancing.",
+      "source": "https://en.wikipedia.org/wiki/Tap_dance"
+    },
+    {
+      "text": "Tap dance remains one of the most recognizable examples connected with Dancing.",
+      "source": "https://en.wikipedia.org/wiki/Tap_dance"
+    },
+    {
+      "text": "Articles, documentaries, and fan discussions about Dancing often highlight Tap dance.",
+      "source": "https://en.wikipedia.org/wiki/Tap_dance"
+    },
+    {
+      "text": "For many people, Tap dance is a memorable entry point into Dancing.",
+      "source": "https://en.wikipedia.org/wiki/Tap_dance"
+    },
+    {
+      "text": "The story of Tap dance helps show why Dancing stays so interesting to revisit.",
+      "source": "https://en.wikipedia.org/wiki/Tap_dance"
+    },
+    {
+      "text": "Tap dance is frequently mentioned in guides and retrospectives about Dancing.",
+      "source": "https://en.wikipedia.org/wiki/Tap_dance"
+    },
+    {
+      "text": "One reason Dancing feels rich and memorable is the presence of touchpoints like Tap dance.",
+      "source": "https://en.wikipedia.org/wiki/Tap_dance"
+    },
+    {
+      "text": "Tap dance still stands out as a classic reference point within Dancing.",
+      "source": "https://en.wikipedia.org/wiki/Tap_dance"
+    },
+    {
+      "text": "Breakdancing, or breaking, became one of the most recognizable street dance forms in global culture.",
+      "source": "https://en.wikipedia.org/wiki/Breakdancing"
+    },
+    {
+      "text": "Its athletic moves helped make it a standout style in dance competition and pop culture.",
+      "source": "https://en.wikipedia.org/wiki/Breakdancing"
+    },
+    {
+      "text": "Breakdancing is one of the standout topics people often explore within Dancing.",
+      "source": "https://en.wikipedia.org/wiki/Breakdancing"
+    },
+    {
+      "text": "Readers interested in Dancing regularly come across Breakdancing.",
+      "source": "https://en.wikipedia.org/wiki/Breakdancing"
+    },
+    {
+      "text": "Learning about Breakdancing helps explain part of the lasting appeal of Dancing.",
+      "source": "https://en.wikipedia.org/wiki/Breakdancing"
+    },
+    {
+      "text": "Breakdancing remains one of the most recognizable examples connected with Dancing.",
+      "source": "https://en.wikipedia.org/wiki/Breakdancing"
+    },
+    {
+      "text": "Articles, documentaries, and fan discussions about Dancing often highlight Breakdancing.",
+      "source": "https://en.wikipedia.org/wiki/Breakdancing"
+    },
+    {
+      "text": "For many people, Breakdancing is a memorable entry point into Dancing.",
+      "source": "https://en.wikipedia.org/wiki/Breakdancing"
+    },
+    {
+      "text": "The story of Breakdancing helps show why Dancing stays so interesting to revisit.",
+      "source": "https://en.wikipedia.org/wiki/Breakdancing"
+    },
+    {
+      "text": "Breakdancing is frequently mentioned in guides and retrospectives about Dancing.",
+      "source": "https://en.wikipedia.org/wiki/Breakdancing"
+    },
+    {
+      "text": "One reason Dancing feels rich and memorable is the presence of touchpoints like Breakdancing.",
+      "source": "https://en.wikipedia.org/wiki/Breakdancing"
+    },
+    {
+      "text": "Breakdancing still stands out as a classic reference point within Dancing.",
+      "source": "https://en.wikipedia.org/wiki/Breakdancing"
+    },
+    {
+      "text": "Modern dance developed as a break from some of the rules of classical ballet.",
+      "source": "https://en.wikipedia.org/wiki/Modern_dance"
+    },
+    {
+      "text": "It helped open up new expressive possibilities in stage movement.",
+      "source": "https://en.wikipedia.org/wiki/Modern_dance"
+    },
+    {
+      "text": "Modern dance is one of the standout topics people often explore within Dancing.",
+      "source": "https://en.wikipedia.org/wiki/Modern_dance"
+    },
+    {
+      "text": "Readers interested in Dancing regularly come across Modern dance.",
+      "source": "https://en.wikipedia.org/wiki/Modern_dance"
+    },
+    {
+      "text": "Learning about Modern dance helps explain part of the lasting appeal of Dancing.",
+      "source": "https://en.wikipedia.org/wiki/Modern_dance"
+    },
+    {
+      "text": "Modern dance remains one of the most recognizable examples connected with Dancing.",
+      "source": "https://en.wikipedia.org/wiki/Modern_dance"
+    },
+    {
+      "text": "Articles, documentaries, and fan discussions about Dancing often highlight Modern dance.",
+      "source": "https://en.wikipedia.org/wiki/Modern_dance"
+    },
+    {
+      "text": "For many people, Modern dance is a memorable entry point into Dancing.",
+      "source": "https://en.wikipedia.org/wiki/Modern_dance"
+    },
+    {
+      "text": "The story of Modern dance helps show why Dancing stays so interesting to revisit.",
+      "source": "https://en.wikipedia.org/wiki/Modern_dance"
+    },
+    {
+      "text": "Modern dance is frequently mentioned in guides and retrospectives about Dancing.",
+      "source": "https://en.wikipedia.org/wiki/Modern_dance"
+    },
+    {
+      "text": "One reason Dancing feels rich and memorable is the presence of touchpoints like Modern dance.",
+      "source": "https://en.wikipedia.org/wiki/Modern_dance"
+    },
+    {
+      "text": "Modern dance still stands out as a classic reference point within Dancing.",
+      "source": "https://en.wikipedia.org/wiki/Modern_dance"
+    },
+    {
+      "text": "Tango became one of the most famous partner dances in the world.",
+      "source": "https://en.wikipedia.org/wiki/Tango"
+    },
+    {
+      "text": "Its close hold, dramatic style, and music gave it a powerful place in dance culture.",
+      "source": "https://en.wikipedia.org/wiki/Tango"
+    },
+    {
+      "text": "Tango is one of the standout topics people often explore within Dancing.",
+      "source": "https://en.wikipedia.org/wiki/Tango"
+    },
+    {
+      "text": "Readers interested in Dancing regularly come across Tango.",
+      "source": "https://en.wikipedia.org/wiki/Tango"
+    },
+    {
+      "text": "Learning about Tango helps explain part of the lasting appeal of Dancing.",
+      "source": "https://en.wikipedia.org/wiki/Tango"
+    },
+    {
+      "text": "Tango remains one of the most recognizable examples connected with Dancing.",
+      "source": "https://en.wikipedia.org/wiki/Tango"
+    },
+    {
+      "text": "Articles, documentaries, and fan discussions about Dancing often highlight Tango.",
+      "source": "https://en.wikipedia.org/wiki/Tango"
+    },
+    {
+      "text": "For many people, Tango is a memorable entry point into Dancing.",
+      "source": "https://en.wikipedia.org/wiki/Tango"
+    },
+    {
+      "text": "The story of Tango helps show why Dancing stays so interesting to revisit.",
+      "source": "https://en.wikipedia.org/wiki/Tango"
+    },
+    {
+      "text": "Tango is frequently mentioned in guides and retrospectives about Dancing.",
+      "source": "https://en.wikipedia.org/wiki/Tango"
+    },
+    {
+      "text": "One reason Dancing feels rich and memorable is the presence of touchpoints like Tango.",
+      "source": "https://en.wikipedia.org/wiki/Tango"
+    },
+    {
+      "text": "Tango still stands out as a classic reference point within Dancing.",
+      "source": "https://en.wikipedia.org/wiki/Tango"
+    },
+    {
+      "text": "The waltz became one of the classic partner dances associated with ballroom culture.",
+      "source": "https://en.wikipedia.org/wiki/Waltz"
+    },
+    {
+      "text": "Its turning motion made it especially memorable in both social and formal dance settings.",
+      "source": "https://en.wikipedia.org/wiki/Waltz"
+    },
+    {
+      "text": "Waltz is one of the standout topics people often explore within Dancing.",
+      "source": "https://en.wikipedia.org/wiki/Waltz"
+    },
+    {
+      "text": "Readers interested in Dancing regularly come across Waltz.",
+      "source": "https://en.wikipedia.org/wiki/Waltz"
+    },
+    {
+      "text": "Learning about Waltz helps explain part of the lasting appeal of Dancing.",
+      "source": "https://en.wikipedia.org/wiki/Waltz"
+    },
+    {
+      "text": "Waltz remains one of the most recognizable examples connected with Dancing.",
+      "source": "https://en.wikipedia.org/wiki/Waltz"
+    },
+    {
+      "text": "Articles, documentaries, and fan discussions about Dancing often highlight Waltz.",
+      "source": "https://en.wikipedia.org/wiki/Waltz"
+    },
+    {
+      "text": "For many people, Waltz is a memorable entry point into Dancing.",
+      "source": "https://en.wikipedia.org/wiki/Waltz"
+    },
+    {
+      "text": "The story of Waltz helps show why Dancing stays so interesting to revisit.",
+      "source": "https://en.wikipedia.org/wiki/Waltz"
+    },
+    {
+      "text": "Waltz is frequently mentioned in guides and retrospectives about Dancing.",
+      "source": "https://en.wikipedia.org/wiki/Waltz"
+    },
+    {
+      "text": "One reason Dancing feels rich and memorable is the presence of touchpoints like Waltz.",
+      "source": "https://en.wikipedia.org/wiki/Waltz"
+    },
+    {
+      "text": "Waltz still stands out as a classic reference point within Dancing.",
+      "source": "https://en.wikipedia.org/wiki/Waltz"
+    },
+    {
+      "text": "Choreography is the art of designing and arranging movement for dance performance.",
+      "source": "https://en.wikipedia.org/wiki/Choreography"
+    },
+    {
+      "text": "It helps turn dance ideas into repeatable works on stage or screen.",
+      "source": "https://en.wikipedia.org/wiki/Choreography"
+    },
+    {
+      "text": "Choreography is one of the standout topics people often explore within Dancing.",
+      "source": "https://en.wikipedia.org/wiki/Choreography"
+    },
+    {
+      "text": "Readers interested in Dancing regularly come across Choreography.",
+      "source": "https://en.wikipedia.org/wiki/Choreography"
+    },
+    {
+      "text": "Learning about Choreography helps explain part of the lasting appeal of Dancing.",
+      "source": "https://en.wikipedia.org/wiki/Choreography"
+    },
+    {
+      "text": "Choreography remains one of the most recognizable examples connected with Dancing.",
+      "source": "https://en.wikipedia.org/wiki/Choreography"
+    },
+    {
+      "text": "Articles, documentaries, and fan discussions about Dancing often highlight Choreography.",
+      "source": "https://en.wikipedia.org/wiki/Choreography"
+    },
+    {
+      "text": "For many people, Choreography is a memorable entry point into Dancing.",
+      "source": "https://en.wikipedia.org/wiki/Choreography"
+    },
+    {
+      "text": "The story of Choreography helps show why Dancing stays so interesting to revisit.",
+      "source": "https://en.wikipedia.org/wiki/Choreography"
+    },
+    {
+      "text": "Choreography is frequently mentioned in guides and retrospectives about Dancing.",
+      "source": "https://en.wikipedia.org/wiki/Choreography"
+    },
+    {
+      "text": "One reason Dancing feels rich and memorable is the presence of touchpoints like Choreography.",
+      "source": "https://en.wikipedia.org/wiki/Choreography"
+    },
+    {
+      "text": "Choreography still stands out as a classic reference point within Dancing.",
+      "source": "https://en.wikipedia.org/wiki/Choreography"
+    }
+  ]
+}

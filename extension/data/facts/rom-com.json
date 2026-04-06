@@ -1,0 +1,1705 @@
+{
+  "hobby": "Romantic Comedies",
+  "facts": [
+    {
+      "text": "When Harry Met Sally (1989) was written by Nora Ephron, who drew on her own romantic experiences to craft the screenplay.",
+      "source": "https://en.wikipedia.org/wiki/When_Harry_Met_Sally"
+    },
+    {
+      "text": "The famous deli scene in When Harry Met Sally was filmed at Katz's Delicatessen in New York City, which still has a sign marking the table where it was shot.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/famous_deli_scene_in_When_Harry_Met_Sally"
+    },
+    {
+      "text": "Pretty Woman was originally written as a dark drama called '3,000' about a drug-addicted sex worker, before being reworked into a romantic comedy.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Pretty_Woman"
+    },
+    {
+      "text": "Pretty Woman was released on March 23, 1990, and went on to gross over $463 million worldwide.",
+      "month": 3,
+      "day": 23,
+      "source": "https://en.wikipedia.org/wiki/Pretty_Woman"
+    },
+    {
+      "text": "Hugh Grant has said that the scene in Notting Hill where he climbs over the garden fence was one of the most physically demanding things he's done on film.",
+      "source": "https://en.wikipedia.org/wiki/Hugh_Grant"
+    },
+    {
+      "text": "The 'meet-cute' is one of the oldest rom-com tropes, describing the charming first encounter between two future love interests.",
+      "source": "https://en.wikipedia.org/wiki/%27meet-cute"
+    },
+    {
+      "text": "Friends debuted on NBC on September 22, 1994, and became one of the most beloved ensemble comedies in television history.",
+      "month": 9,
+      "day": 22,
+      "source": "https://en.wikipedia.org/wiki/Friends_debuted_on_NBC_on_September_22%2C_1994%2C_and"
+    },
+    {
+      "text": "Meg Ryan and Tom Hanks starred together in three romantic comedies: Joe Versus the Volcano (1990), Sleepless in Seattle (1993), and You've Got Mail (1998).",
+      "source": "https://en.wikipedia.org/wiki/Volcano"
+    },
+    {
+      "text": "Julia Roberts was paid $300,000 for Pretty Woman, but by her next rom-com she was commanding $7 million per film.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Julia_Roberts"
+    },
+    {
+      "text": "The Princess Bride (1987) was a box office disappointment on release but became one of the most quoted films of all time through home video.",
+      "source": "https://en.wikipedia.org/wiki/Princess_Bride"
+    },
+    {
+      "text": "Sandra Bullock was 45 years old when she starred in The Proposal (2009), proving rom-com leads don't have an expiration date.",
+      "source": "https://en.wikipedia.org/wiki/Proposal"
+    },
+    {
+      "text": "Nora Ephron directed only five films in her career, but three of them — Sleepless in Seattle, You've Got Mail, and Julie & Julia — became cultural touchstones.",
+      "source": "https://en.wikipedia.org/wiki/Nora_Ephron"
+    },
+    {
+      "text": "In Bridget Jones's Diary, Renée Zellweger gained about 20 pounds and learned a British accent to play the iconic character.",
+      "source": "https://en.wikipedia.org/wiki/In_Bridget_Jones%27s_Diary"
+    },
+    {
+      "text": "The fake dating trope, where two characters pretend to be a couple and then fall in love for real, has been a rom-com staple since at least the 1950s.",
+      "source": "https://en.wikipedia.org/wiki/Romantic_comedy"
+    },
+    {
+      "text": "My Big Fat Greek Wedding (2002) was made for just $5 million and grossed over $368 million worldwide, making it one of the most profitable films ever.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/My_Big_Fat_Greek_Wedding"
+    },
+    {
+      "text": "The TV show New Girl ran for seven seasons from 2011 to 2018, with Zooey Deschanel playing the quirky and lovable Jess Day.",
+      "source": "https://en.wikipedia.org/wiki/TV_show_New_Girl"
+    },
+    {
+      "text": "Richard Curtis wrote and directed Love Actually (2003), which featured an ensemble cast of 10 intertwined love stories set during Christmas.",
+      "source": "https://en.wikipedia.org/wiki/Love_Actually"
+    },
+    {
+      "text": "Crazy Rich Asians was released on August 15, 2018, becoming the first major Hollywood studio film with an all-Asian cast since The Joy Luck Club in 1993.",
+      "month": 8,
+      "day": 15,
+      "source": "https://en.wikipedia.org/wiki/Crazy_Rich_Asians"
+    },
+    {
+      "text": "Matthew McConaughey starred in a string of rom-coms in the early 2000s before his dramatic 'McConaissance' era began.",
+      "source": "https://en.wikipedia.org/wiki/Matthew_McConaughey"
+    },
+    {
+      "text": "The enemies-to-lovers trope — where two characters who can't stand each other gradually fall in love — can be traced back to Shakespeare's Much Ado About Nothing.",
+      "source": "https://en.wikipedia.org/wiki/Shakespeare%27s_Much_Ado_About_Nothing"
+    },
+    {
+      "text": "Annie Hall (1977) won four Academy Awards, including Best Picture, making it one of the few romantic comedies to achieve that honor.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Annie_Hall"
+    },
+    {
+      "text": "Roman Holiday (1953) starred Audrey Hepburn in her first major role, which won her the Academy Award for Best Actress.",
+      "month": 8,
+      "day": 27,
+      "source": "https://en.wikipedia.org/wiki/Roman_Holiday"
+    },
+    {
+      "text": "Drew Barrymore and Adam Sandler have co-starred in three rom-coms: The Wedding Singer (1998), 50 First Dates (2004), and Blended (2014).",
+      "source": "https://en.wikipedia.org/wiki/Wedding_Singer"
+    },
+    {
+      "text": "The Proposal (2009) features Sandra Bullock and Ryan Reynolds, who had such great chemistry that audiences demanded a sequel for years.",
+      "source": "https://en.wikipedia.org/wiki/Proposal"
+    },
+    {
+      "text": "Garry Marshall directed both Pretty Woman (1990) and Runaway Bride (1999), reuniting Julia Roberts and Richard Gere.",
+      "source": "https://en.wikipedia.org/wiki/Pretty_Woman"
+    },
+    {
+      "text": "In How I Met Your Mother, the show's creators planned the ending from the very first season, filming the kids' final reactions early on.",
+      "source": "https://en.wikipedia.org/wiki/In_How_I"
+    },
+    {
+      "text": "Sleepless in Seattle (1993) was inspired by An Affair to Remember (1957), and the older film plays a key role in the plot.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Seattle"
+    },
+    {
+      "text": "10 Things I Hate About You (1999) is a modern adaptation of Shakespeare's The Taming of the Shrew, set in a high school.",
+      "source": "https://en.wikipedia.org/wiki/Hate_About_You"
+    },
+    {
+      "text": "Kate Hudson became a rom-com icon after her breakout in Almost Famous (2000), followed by How to Lose a Guy in 10 Days (2003).",
+      "source": "https://en.wikipedia.org/wiki/Almost_Famous"
+    },
+    {
+      "text": "The airport chase scene, where one character runs through an airport to stop the other from leaving, became such a common trope that modern rom-coms often parody it.",
+      "source": "https://en.wikipedia.org/wiki/Romantic_comedy"
+    },
+    {
+      "text": "Schitt's Creek swept the Emmys in 2020, winning all seven comedy categories — a first in Emmy history.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Schitt%27s_Creek"
+    },
+    {
+      "text": "Rob Reiner directed both When Harry Met Sally (1989) and The Princess Bride (1987), two of the most beloved romantic films ever made.",
+      "source": "https://en.wikipedia.org/wiki/When_Harry_Met_Sally"
+    },
+    {
+      "text": "In Notting Hill (1999), the blue door of William Thacker's flat became so famous that tourists flocked to the real Notting Hill location to photograph it.",
+      "source": "https://en.wikipedia.org/wiki/In_Notting_Hill"
+    },
+    {
+      "text": "The term 'rom-com' first appeared in widespread use during the 1990s, though the genre dates back to the screwball comedies of the 1930s.",
+      "source": "https://en.wikipedia.org/wiki/term_%27rom-com%27_first"
+    },
+    {
+      "text": "Jennifer Aniston's rom-com career took off after Friends ended in 2004, with films like Along Came Polly, The Break-Up, and Just Go with It.",
+      "source": "https://en.wikipedia.org/wiki/Jennifer_Aniston%27s_rom-com_career"
+    },
+    {
+      "text": "Love Actually was released on November 14, 2003, and has since become one of the most popular Christmas films of all time.",
+      "month": 11,
+      "day": 14,
+      "source": "https://en.wikipedia.org/wiki/Love_Actually"
+    },
+    {
+      "text": "Nancy Meyers is known for her beautifully designed kitchens in films like Something's Gotta Give, It's Complicated, and The Intern.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Nancy_Meyers"
+    },
+    {
+      "text": "Ted Lasso, which premiered on Apple TV+ in 2020, won multiple Emmy Awards and is celebrated for its warmth and optimism.",
+      "source": "https://en.wikipedia.org/wiki/Ted_Lasso%2C_which_premiered_on_Apple_TV%2B_in_2020"
+    },
+    {
+      "text": "The makeover montage trope, where a character transforms their appearance, became iconic through films like She's All That (1999) and The Princess Diaries (2001).",
+      "source": "https://en.wikipedia.org/wiki/She%27s_All_That"
+    },
+    {
+      "text": "Reese Witherspoon produced and starred in several rom-coms, and her production company Hello Sunshine focuses on female-driven stories.",
+      "source": "https://en.wikipedia.org/wiki/Reese_Witherspoon_produced_and"
+    },
+    {
+      "text": "Hitch (2005) starred Will Smith as a dating consultant, marking one of the first major rom-coms with a Black male lead.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Hitch"
+    },
+    {
+      "text": "The Big Sick (2017) was based on the real-life courtship of Kumail Nanjiani and Emily V. Gordon, who co-wrote the screenplay together.",
+      "source": "https://en.wikipedia.org/wiki/Big_Sick"
+    },
+    {
+      "text": "Moonstruck (1987) won Cher the Academy Award for Best Actress, and the film's depiction of Italian-American family life became iconic.",
+      "source": "https://en.wikipedia.org/wiki/Moonstruck"
+    },
+    {
+      "text": "Four Weddings and a Funeral was released on May 13, 1994, and launched Hugh Grant to international stardom.",
+      "month": 5,
+      "day": 13,
+      "source": "https://en.wikipedia.org/wiki/Four_Weddings_and_a_Funeral"
+    },
+    {
+      "text": "The Bollywood film Dilwale Dulhania Le Jayenge (1995) ran continuously in a Mumbai theater for over 20 years, making it one of the longest-running films in cinema history.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Dilwale_Dulhania_Le_Jayenge"
+    },
+    {
+      "text": "Emily in Paris premiered on Netflix in 2020 and, despite polarizing reviews, became one of the platform's most-watched comedy series.",
+      "source": "https://en.wikipedia.org/wiki/Emily_in_Paris_premiered_on_Netflix_in_2020_and%2C_despite_polarizing_reviews"
+    },
+    {
+      "text": "In 13 Going on 30 (2004), Jennifer Garner's character does the 'Thriller' dance at a party, which became one of the film's most memorable scenes.",
+      "source": "https://en.wikipedia.org/wiki/In_13_Going_on_30"
+    },
+    {
+      "text": "You've Got Mail (1998) was one of the first films to feature the internet as a central plot device, with AOL Instant Messenger playing a key role.",
+      "source": "https://en.wikipedia.org/wiki/You%27ve_Got_Mail"
+    },
+    {
+      "text": "Sweet Home Alabama (2002) opened at number one at the box office, earning $35 million in its opening weekend.",
+      "source": "https://en.wikipedia.org/wiki/Sweet_Home_Alabama"
+    },
+    {
+      "text": "The K-drama Crash Landing on You (2019-2020) became a global sensation and is credited with helping spread the Korean Wave worldwide.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/K-drama_Crash_Landing_on_You_(2019-2020)"
+    },
+    {
+      "text": "Never Have I Ever, created by Mindy Kaling and Lang Fisher, ran for four seasons on Netflix and was praised for its representation of Indian-American culture.",
+      "source": "https://en.wikipedia.org/wiki/Never"
+    },
+    {
+      "text": "27 Dresses (2008) starred Katherine Heigl as a woman who had been a bridesmaid 27 times, wearing a different dress each time.",
+      "source": "https://en.wikipedia.org/wiki/Dresses"
+    },
+    {
+      "text": "The line 'I'll have what she's having' from When Harry Met Sally was delivered by Estelle Reiner, the real-life mother of director Rob Reiner.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/line_%27I%27ll"
+    },
+    {
+      "text": "Richard Curtis also created the Blackadder series and co-founded Comic Relief, showcasing his range beyond rom-coms.",
+      "source": "https://en.wikipedia.org/wiki/Richard_Curtis_also"
+    },
+    {
+      "text": "To All the Boys I've Loved Before was released on Netflix on August 17, 2018, and became one of the platform's most-viewed original films.",
+      "month": 8,
+      "day": 17,
+      "source": "https://en.wikipedia.org/wiki/To_All_the_Boys_I%27ve_Loved_Before"
+    },
+    {
+      "text": "Crazy Rich Asians was based on Kevin Kwan's best-selling 2013 novel of the same name.",
+      "source": "https://en.wikipedia.org/wiki/Crazy_Rich_Asians"
+    },
+    {
+      "text": "In The Princess Bride, Mandy Patinkin has said that his favorite line — 'Hello. My name is Inigo Montoya.' — is also the line fans quote to him most.",
+      "source": "https://en.wikipedia.org/wiki/In_The_Princess_Bride%2C_Mandy_Patinkin"
+    },
+    {
+      "text": "The French film Amélie (2001) became an international hit, grossing over $174 million and earning five Oscar nominations.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/French_film_Am%C3%A9lie_(2001)"
+    },
+    {
+      "text": "Set It Up (2018) is a Netflix original rom-com about two overworked assistants who scheme to set up their demanding bosses.",
+      "source": "https://en.wikipedia.org/wiki/Set_It_Up"
+    },
+    {
+      "text": "Jane the Virgin, which ran from 2014 to 2019, was a loving satirical homage to Latin American telenovelas.",
+      "source": "https://en.wikipedia.org/wiki/Jane_the_Virgin%2C_which_ran_from_2014_to_2019"
+    },
+    {
+      "text": "Tom Hanks said that filming the final scene atop the Empire State Building in Sleepless in Seattle was freezing cold and took multiple nights.",
+      "source": "https://en.wikipedia.org/wiki/Tom_Hanks"
+    },
+    {
+      "text": "The Wedding Singer (1998) is set in 1985 and features an extensive soundtrack of 1980s hits that helped make it a nostalgic favorite.",
+      "source": "https://en.wikipedia.org/wiki/Wedding_Singer"
+    },
+    {
+      "text": "Always Be My Maybe (2019) starred Ali Wong and Randall Park, and featured a memorable celebrity cameo by Keanu Reeves playing a parody of himself.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Always_Be_My_Maybe"
+    },
+    {
+      "text": "In Notting Hill, Julia Roberts played the 'most famous actress in the world,' a character loosely inspired by her own real-life fame.",
+      "source": "https://en.wikipedia.org/wiki/In_Notting_Hill"
+    },
+    {
+      "text": "Bridget Jones's Diary was released on April 13, 2001, and was based on Helen Fielding's bestselling novel, itself inspired by Jane Austen's Pride and Prejudice.",
+      "month": 4,
+      "day": 13,
+      "source": "https://en.wikipedia.org/wiki/Bridget_Jones%27s_Diary"
+    },
+    {
+      "text": "The Italian film Cinema Paradiso (1988) features one of cinema's most romantic endings, with a montage of censored kissing scenes.",
+      "source": "https://en.wikipedia.org/wiki/Cinema_Paradiso"
+    },
+    {
+      "text": "Sandra Bullock and Keanu Reeves had so much on-screen chemistry in Speed (1994) that fans campaigned for them to do a rom-com together for decades.",
+      "source": "https://en.wikipedia.org/wiki/Speed"
+    },
+    {
+      "text": "The 'manic pixie dream girl' trope was coined by critic Nathan Rabin in 2007, inspired by Kirsten Dunst's character in Elizabethtown.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/%27manic_pixie_dream_girl%27_trope"
+    },
+    {
+      "text": "My Big Fat Greek Wedding was written by and starred Nia Vardalos, who based the story on her own experiences growing up in a Greek family.",
+      "source": "https://en.wikipedia.org/wiki/My_Big_Fat_Greek_Wedding"
+    },
+    {
+      "text": "How to Lose a Guy in 10 Days (2003) was based on a short humor book of the same name by Michele Alexander and Jeannie Long.",
+      "source": "https://en.wikipedia.org/wiki/Days"
+    },
+    {
+      "text": "The rom-com genre experienced a decline in the late 2000s and early 2010s, with studios opting for franchise films instead.",
+      "source": "https://en.wikipedia.org/wiki/Romantic_comedy"
+    },
+    {
+      "text": "Hugh Grant has starred in more than a dozen romantic comedies, earning him the unofficial title of 'King of the Rom-Com.'",
+      "source": "https://en.wikipedia.org/wiki/Hugh_Grant"
+    },
+    {
+      "text": "Ticket to Paradise (2022) reunited Julia Roberts and George Clooney, and grossed over $321 million worldwide.",
+      "source": "https://en.wikipedia.org/wiki/Paradise"
+    },
+    {
+      "text": "The K-drama format typically runs for one season of 16-20 episodes, allowing for a complete romantic story arc without filler.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/K-drama"
+    },
+    {
+      "text": "Anyone But You (2023) starred Sydney Sweeney and Glen Powell and was based on Shakespeare's Much Ado About Nothing.",
+      "source": "https://en.wikipedia.org/wiki/Anyone_But_You"
+    },
+    {
+      "text": "In Pretty Woman, the famous jewelry box scene where Richard Gere snaps the necklace case on Julia Roberts's fingers was improvised.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/In_Pretty_Woman"
+    },
+    {
+      "text": "Nancy Meyers' films are known for depicting aspirational upper-middle-class lifestyles, and her set designs have influenced interior décor trends.",
+      "source": "https://en.wikipedia.org/wiki/Nancy_Meyers%27_films"
+    },
+    {
+      "text": "Schitt's Creek was created by father-and-son duo Eugene and Dan Levy, and premiered on CBC on January 13, 2015.",
+      "month": 1,
+      "day": 13,
+      "source": "https://en.wikipedia.org/wiki/Schitt%27s_Creek"
+    },
+    {
+      "text": "The screwball comedy It Happened One Night (1934) swept all five major Oscars — Picture, Director, Actor, Actress, and Screenplay.",
+      "source": "https://en.wikipedia.org/wiki/It_Happened_One_Night"
+    },
+    {
+      "text": "Reese Witherspoon's Legally Blonde (2001) combined rom-com elements with a feminist message about not underestimating women.",
+      "source": "https://en.wikipedia.org/wiki/Reese_Witherspoon%27s_Legally_Blonde"
+    },
+    {
+      "text": "The meet-cute in Sleepless in Seattle doesn't happen until the final moments of the film, making the audience wait the entire movie.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Sleepless_in_Seattle"
+    },
+    {
+      "text": "Love Actually's opening montage at Heathrow Airport used hidden cameras to film real reunions between travelers and loved ones.",
+      "source": "https://en.wikipedia.org/wiki/Love_Actually%27s"
+    },
+    {
+      "text": "Four Weddings and a Funeral was made on a modest budget of about $4.4 million and grossed over $245 million worldwide.",
+      "source": "https://en.wikipedia.org/wiki/Four_Weddings_and_a_Funeral"
+    },
+    {
+      "text": "The line 'As you wish' from The Princess Bride has become one of the most romantic and frequently quoted lines in film history.",
+      "source": "https://en.wikipedia.org/wiki/line_%27As_you_wish%27_from_The_Princess_Bride"
+    },
+    {
+      "text": "Bollywood produces hundreds of romantic films each year, far outpacing Hollywood in sheer volume of love stories.",
+      "source": "https://en.wikipedia.org/wiki/Hollywood_in"
+    },
+    {
+      "text": "Annie Hall was released on April 20, 1977, and is widely considered one of Woody Allen's finest filmmaking achievements.",
+      "month": 4,
+      "day": 20,
+      "source": "https://en.wikipedia.org/wiki/Annie_Hall"
+    },
+    {
+      "text": "Friends ended on May 6, 2004, with 52.5 million viewers tuning in — the most-watched entertainment broadcast of the decade.",
+      "month": 5,
+      "day": 6,
+      "source": "https://en.wikipedia.org/wiki/May_6"
+    },
+    {
+      "text": "The 'will they/won't they' dynamic, famously used for Ross and Rachel on Friends, has become a defining rom-com TV trope.",
+      "source": "https://en.wikipedia.org/wiki/%27will_they%2Fwon%27t_they%27_dynamic%2C_famously_used_for_Ross_and_Rachel_on_Friends"
+    },
+    {
+      "text": "Matthew McConaughey and Kate Hudson co-starred in both How to Lose a Guy in 10 Days (2003) and Fool's Gold (2008).",
+      "source": "https://en.wikipedia.org/wiki/Days"
+    },
+    {
+      "text": "In When Harry Met Sally, Billy Crystal improvised many of Harry's funniest lines, including several of the New Year's Eve party scenes.",
+      "source": "https://en.wikipedia.org/wiki/In_When_Harry"
+    },
+    {
+      "text": "The Proposal (2009) was shot in various Massachusetts locations, though the film is set in Sitka, Alaska.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Proposal"
+    },
+    {
+      "text": "Crazy Rich Asians director Jon M. Chu turned down a lucrative Netflix deal to ensure the film had a theatrical release.",
+      "source": "https://en.wikipedia.org/wiki/Crazy_Rich_Asians_director_Jon_M._Chu"
+    },
+    {
+      "text": "Dilwale Dulhania Le Jayenge star Shah Rukh Khan is often called the 'King of Bollywood' and has appeared in over 100 films.",
+      "source": "https://en.wikipedia.org/wiki/Dilwale_Dulhania_Le_Jayenge_star_Shah_Rukh_Khan"
+    },
+    {
+      "text": "10 Things I Hate About You featured Heath Ledger in one of his earliest roles, singing 'Can't Take My Eyes Off You' on the school bleachers.",
+      "source": "https://en.wikipedia.org/wiki/Things_I_Hate_About_You"
+    },
+    {
+      "text": "The concept of 'rom-com season' traditionally referred to the months of February through May, when studios released romantic films.",
+      "source": "https://en.wikipedia.org/wiki/Romantic_comedy"
+    },
+    {
+      "text": "Nora Ephron began her career as a journalist and essayist before transitioning to screenwriting and directing.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Nora_Ephron"
+    },
+    {
+      "text": "The Big Sick (2017) was produced by Judd Apatow and earned an Academy Award nomination for Best Original Screenplay.",
+      "source": "https://en.wikipedia.org/wiki/Big_Sick"
+    },
+    {
+      "text": "In 13 Going on 30, the 'Thriller' dance scene was not originally in the script; director Gary Winick added it during production.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/In_13_Going_on_30%2C_the_%27Thriller%27_dance_scene"
+    },
+    {
+      "text": "Clueless (1995), directed by Amy Heckerling, is a loose adaptation of Jane Austen's Emma set in a Beverly Hills high school.",
+      "source": "https://en.wikipedia.org/wiki/Clueless"
+    },
+    {
+      "text": "You've Got Mail was a remake of the 1940 film The Shop Around the Corner, starring Jimmy Stewart and Margaret Sullavan.",
+      "source": "https://en.wikipedia.org/wiki/You%27ve_Got_Mail"
+    },
+    {
+      "text": "Ted Lasso was originally created as a character for NBC Sports promotional videos before being developed into a full series.",
+      "source": "https://en.wikipedia.org/wiki/Ted_Lasso"
+    },
+    {
+      "text": "The rom-com resurgence of the late 2010s was largely fueled by streaming platforms like Netflix, which invested heavily in the genre.",
+      "source": "https://en.wikipedia.org/wiki/rom-com_resurgence_of_the_late_2010s"
+    },
+    {
+      "text": "Moonstruck (1987) was released on December 18 and became a holiday season favorite.",
+      "month": 12,
+      "day": 18,
+      "source": "https://en.wikipedia.org/wiki/Moonstruck"
+    },
+    {
+      "text": "Julia Roberts was reportedly not the first choice for Pretty Woman — the role was originally offered to several other actresses, including Molly Ringwald.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Julia_Roberts"
+    },
+    {
+      "text": "In Bridget Jones's Diary, Colin Firth plays Mark Darcy, a character directly based on Mr. Darcy from Pride and Prejudice — which Firth had already played in a 1995 BBC adaptation.",
+      "source": "https://en.wikipedia.org/wiki/In_Bridget_Jones%27s_Diary"
+    },
+    {
+      "text": "The French rom-com genre, sometimes called 'comédie romantique,' often takes a more philosophical approach to love than its Hollywood counterpart.",
+      "source": "https://en.wikipedia.org/wiki/French_rom-com_genre%2C_sometimes"
+    },
+    {
+      "text": "Garry Marshall also directed Valentine's Day (2010) and New Year's Eve (2011), both ensemble rom-coms tied to holidays.",
+      "source": "https://en.wikipedia.org/wiki/Valentine%27s_Day"
+    },
+    {
+      "text": "Sweet Home Alabama features the line 'So I can kiss you anytime I want,' which has been widely shared as one of the most romantic movie quotes.",
+      "source": "https://en.wikipedia.org/wiki/Sweet_Home_Alabama"
+    },
+    {
+      "text": "How I Met Your Mother premiered on September 19, 2005, and would run for nine seasons before its polarizing finale.",
+      "month": 9,
+      "day": 19,
+      "source": "https://en.wikipedia.org/wiki/How_I"
+    },
+    {
+      "text": "The fake relationship trope appeared in The Proposal, To All the Boys I've Loved Before, and countless other rom-coms.",
+      "source": "https://en.wikipedia.org/wiki/fake_relationship_trope"
+    },
+    {
+      "text": "27 Dresses was filmed in various locations around Rhode Island and New York.",
+      "source": "https://en.wikipedia.org/wiki/27_Dresses"
+    },
+    {
+      "text": "Hugh Grant's bumbling, self-deprecating persona in films like Notting Hill was so effective that it became nearly inseparable from his public image.",
+      "source": "https://en.wikipedia.org/wiki/Hugh_Grant%27s_bumbling%2C_self-deprecating_persona_in_films_like_Notting_Hill"
+    },
+    {
+      "text": "Set It Up was one of the first Netflix original rom-coms to receive strong critical praise, with a 92% Rotten Tomatoes score.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Set_It_Up"
+    },
+    {
+      "text": "In The Princess Bride, Cary Elwes (Westley) actually got knocked unconscious during a sword fighting scene when Christopher Guest accidentally hit him on the head.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/In_The_Princess_Bride"
+    },
+    {
+      "text": "The romantic comedy genre traces its roots to ancient Greek playwright Menander, who wrote comedies about young lovers overcoming obstacles.",
+      "source": "https://en.wikipedia.org/wiki/romantic_comedy_genre_traces_its_roots_to_ancient_Greek_playwright_Menander%2C_who"
+    },
+    {
+      "text": "Emily in Paris features prominent product placements and fashion partnerships, blurring the line between entertainment and advertising.",
+      "source": "https://en.wikipedia.org/wiki/Emily_in_Paris"
+    },
+    {
+      "text": "Drew Barrymore's performance in Never Been Kissed (1999) showed her transition from child star to rom-com leading lady.",
+      "source": "https://en.wikipedia.org/wiki/Never_Been_Kissed"
+    },
+    {
+      "text": "The Wedding Planner (2001) was released the same weekend as Jennifer Lopez's album 'J.Lo,' making her the first person to have both a number-one film and album simultaneously.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Wedding_Planner"
+    },
+    {
+      "text": "Notting Hill was released on May 28, 1999, and became the highest-grossing British film of that year.",
+      "month": 5,
+      "day": 28,
+      "source": "https://en.wikipedia.org/wiki/Notting_Hill"
+    },
+    {
+      "text": "The line 'I'm just a girl, standing in front of a boy, asking him to love her' from Notting Hill is one of the most quoted rom-com lines ever.",
+      "source": "https://en.wikipedia.org/wiki/Notting_Hill"
+    },
+    {
+      "text": "Korean drama Goblin (2016-2017) blended fantasy and romance, becoming one of the highest-rated K-dramas in cable television history.",
+      "source": "https://en.wikipedia.org/wiki/K-dramas_in"
+    },
+    {
+      "text": "Love Actually features a storyline where the British Prime Minister dances through 10 Downing Street to 'Jump' by the Pointer Sisters.",
+      "source": "https://en.wikipedia.org/wiki/Love_Actually"
+    },
+    {
+      "text": "Sleepless in Seattle was released on June 25, 1993, and earned over $227 million worldwide.",
+      "month": 6,
+      "day": 25,
+      "source": "https://en.wikipedia.org/wiki/Sleepless_in_Seattle"
+    },
+    {
+      "text": "Jennifer Aniston earned $1 million per episode of Friends during the final two seasons, a record-setting salary at the time.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Jennifer_Aniston"
+    },
+    {
+      "text": "The Italian romantic comedy Bread and Tulips (2000) won nine David di Donatello awards, Italy's equivalent of the Oscars.",
+      "source": "https://en.wikipedia.org/wiki/Tulips"
+    },
+    {
+      "text": "Pretty Woman was originally going to end with Edward leaving Vivian on the street, but test audiences overwhelmingly rejected the dark ending.",
+      "source": "https://en.wikipedia.org/wiki/Pretty_Woman"
+    },
+    {
+      "text": "New Girl's Nick and Jess first kiss in season 2 was ranked by multiple outlets as one of the best TV kisses of the 2010s.",
+      "source": "https://en.wikipedia.org/wiki/New_Girl%27s_Nick_and_Jess_first_kiss_in_season_2"
+    },
+    {
+      "text": "The Princess Bride was released on September 25, 1987, and initially only performed modestly at the box office.",
+      "month": 9,
+      "day": 25,
+      "source": "https://en.wikipedia.org/wiki/Princess_Bride"
+    },
+    {
+      "text": "Meg Ryan was considered Hollywood's 'Queen of Rom-Coms' throughout the 1990s.",
+      "source": "https://en.wikipedia.org/wiki/Meg_Ryan"
+    },
+    {
+      "text": "In My Big Fat Greek Wedding, the father uses Windex as a cure for everything, a running gag based on Nia Vardalos's real father's habits.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/In_My_Big_Fat_Greek_Wedding"
+    },
+    {
+      "text": "The Proposal was partly inspired by classic screwball comedies where strong-willed women and reluctant men are forced together.",
+      "source": "https://en.wikipedia.org/wiki/Proposal"
+    },
+    {
+      "text": "Anyone But You (2023) earned over $220 million worldwide on a $25 million budget, reviving hopes for the theatrical rom-com.",
+      "source": "https://en.wikipedia.org/wiki/Anyone_But_You"
+    },
+    {
+      "text": "The rom-com 'grand gesture' — a dramatic declaration of love, often in a public setting — has been a genre staple since at least the 1980s.",
+      "source": "https://en.wikipedia.org/wiki/rom-com_%27grand_gesture%27_%E2%80%94_a_dramatic_declaration_of_love%2C_often_in_a_public_setting_%E2%80%94"
+    },
+    {
+      "text": "Four Weddings and a Funeral also starred Andie MacDowell, Kristin Scott Thomas, and Rowan Atkinson as an amusingly inept priest.",
+      "source": "https://en.wikipedia.org/wiki/Four_Weddings_and_a_Funeral_also"
+    },
+    {
+      "text": "Schitt's Creek's David and Patrick wedding in the series finale became one of the most celebrated TV moments of 2020.",
+      "source": "https://en.wikipedia.org/wiki/Schitt%27s_Creek%27s_David_and_Patrick_wedding_in_the_series_finale"
+    },
+    {
+      "text": "Nancy Meyers' The Holiday (2006) popularized the concept of 'home exchange' vacations and became a perennial Christmas favorite.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Nancy_Meyers%27_The_Holiday"
+    },
+    {
+      "text": "Tom Hanks has said that Sleepless in Seattle was one of the trickiest films he ever made because he and Meg Ryan had almost no scenes together.",
+      "source": "https://en.wikipedia.org/wiki/Tom_Hanks"
+    },
+    {
+      "text": "The Bollywood film Kuch Kuch Hota Hai (1998) is considered one of the greatest Indian romantic comedies ever made.",
+      "source": "https://en.wikipedia.org/wiki/Kuch_Kuch_Hota_Hai"
+    },
+    {
+      "text": "Hitch (2005) was released on February 11, just before Valentine's Day, a strategic move that helped it open at number one.",
+      "month": 2,
+      "day": 11,
+      "source": "https://en.wikipedia.org/wiki/Hitch"
+    },
+    {
+      "text": "13 Going on 30 was released on April 23, 2004, and has since become a cult favorite rom-com.",
+      "month": 4,
+      "day": 23,
+      "source": "https://en.wikipedia.org/wiki/13_Going_on_30"
+    },
+    {
+      "text": "In Clueless, Alicia Silverstone's Cher Horowitz became a fashion icon, with her plaid skirt set and knee-high socks influencing 1990s trends.",
+      "source": "https://en.wikipedia.org/wiki/In_Clueless%2C_Alicia_Silverstone%27s_Cher_Horowitz"
+    },
+    {
+      "text": "Richard Curtis's rom-coms tend to feature ensemble casts and are often set during specific holidays or celebrations.",
+      "source": "https://en.wikipedia.org/wiki/Richard_Curtis%27s_rom-coms_tend_to_feature_ensemble_casts_and"
+    },
+    {
+      "text": "The Big Sick earned $56 million on a $5 million budget, proving that personal, diverse rom-com stories could succeed commercially.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Big_Sick"
+    },
+    {
+      "text": "Matthew McConaughey's rom-com era included The Wedding Planner (2001), How to Lose a Guy in 10 Days (2003), and Failure to Launch (2006).",
+      "source": "https://en.wikipedia.org/wiki/Wedding_Planner"
+    },
+    {
+      "text": "When Harry Met Sally sparked a cultural debate about whether men and women can truly be 'just friends.'",
+      "source": "https://en.wikipedia.org/wiki/When_Harry"
+    },
+    {
+      "text": "In Love Actually, the cards scene where Mark (Andrew Lincoln) silently declares his love to Juliet was filmed on a real London street.",
+      "source": "https://en.wikipedia.org/wiki/In_Love_Actually"
+    },
+    {
+      "text": "The K-drama My Love from the Star (2013-2014) was so popular in China that it reportedly caused a spike in fried chicken and beer sales.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/K-drama_My_Love_from_the_Star_(2013-2014)"
+    },
+    {
+      "text": "Jane the Virgin star Gina Rodriguez won a Golden Globe for her role, bringing wider attention to Latinx representation in rom-com TV.",
+      "source": "https://en.wikipedia.org/wiki/Jane_the_Virgin_star_Gina_Rodriguez"
+    },
+    {
+      "text": "The romcom 'love triangle' trope creates tension by introducing a third person who threatens the main couple's happiness.",
+      "source": "https://en.wikipedia.org/wiki/Romantic_comedy"
+    },
+    {
+      "text": "Legally Blonde was released on July 13, 2001, and Reese Witherspoon's portrayal of Elle Woods became a pop culture phenomenon.",
+      "month": 7,
+      "day": 13,
+      "source": "https://en.wikipedia.org/wiki/Legally_Blonde"
+    },
+    {
+      "text": "Nora Ephron's essays about her personal life, including her divorce from Carl Bernstein, directly informed her razor-sharp rom-com screenplays.",
+      "source": "https://en.wikipedia.org/wiki/Nora_Ephron%27s"
+    },
+    {
+      "text": "In the original ending of Pretty Woman, Vivian and her friend use Edward's money to go to Disneyland instead of a fairy tale romance.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/In_the"
+    },
+    {
+      "text": "The bookshop scene in Notting Hill where Julia Roberts's character browses the travel section was partially improvised.",
+      "source": "https://en.wikipedia.org/wiki/Notting_Hill"
+    },
+    {
+      "text": "The 'Hallmark movie' has become its own rom-com sub-genre, with the Hallmark Channel producing over 100 original romantic films per year.",
+      "source": "https://en.wikipedia.org/wiki/%27Hallmark_movie"
+    },
+    {
+      "text": "Always Be My Maybe's Keanu Reeves cameo was kept a closely guarded secret during production.",
+      "source": "https://en.wikipedia.org/wiki/Always_Be_My_Maybe%27s_Keanu_Reeves_cameo"
+    },
+    {
+      "text": "Sandra Bullock's Miss Congeniality (2000) blended rom-com elements with action-comedy, grossing over $212 million.",
+      "source": "https://en.wikipedia.org/wiki/Sandra_Bullock%27s_Miss_Congeniality"
+    },
+    {
+      "text": "The rom-com 'bet' trope — where someone makes a wager involving romance — appears in She's All That, How to Lose a Guy, and 10 Things I Hate About You.",
+      "source": "https://en.wikipedia.org/wiki/She%27s_All_That"
+    },
+    {
+      "text": "To All the Boys I've Loved Before launched Noah Centineo to heartthrob status practically overnight.",
+      "source": "https://en.wikipedia.org/wiki/To_All_the_Boys_I%27ve_Loved_Before"
+    },
+    {
+      "text": "Groundhog Day (1993), while primarily a comedy, has a rom-com structure at its core as Bill Murray's character learns to be a better person for love.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Groundhog_Day"
+    },
+    {
+      "text": "New Girl premiered on September 20, 2011, and Zooey Deschanel received a Golden Globe nomination for her role.",
+      "month": 9,
+      "day": 20,
+      "source": "https://en.wikipedia.org/wiki/New_Girl"
+    },
+    {
+      "text": "The line 'Nobody puts Baby in a corner' from Dirty Dancing (1987) is one of the most famous rom-com movie quotes.",
+      "source": "https://en.wikipedia.org/wiki/Dirty_Dancing"
+    },
+    {
+      "text": "In Crazy Rich Asians, the mahjong scene between Rachel and Eleanor was a pivotal dramatic moment that transformed a game into an emotional confrontation.",
+      "source": "https://en.wikipedia.org/wiki/In_Crazy_Rich_Asians%2C_the_mahjong_scene_between_Rachel_and_Eleanor"
+    },
+    {
+      "text": "Hugh Grant and Julia Roberts had such natural chemistry in Notting Hill that many assumed they were a real-life couple.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Hugh_Grant_and_Julia_Roberts"
+    },
+    {
+      "text": "The French film The Intouchables (2011), while more of a buddy comedy, features romantic subplots that helped it become France's second highest-grossing film ever.",
+      "source": "https://en.wikipedia.org/wiki/Intouchables"
+    },
+    {
+      "text": "Garry Marshall got his start directing TV shows like Happy Days and Laverne & Shirley before moving to romantic comedy films.",
+      "source": "https://en.wikipedia.org/wiki/Garry_Marshall"
+    },
+    {
+      "text": "Bridget Jones's Diary grossed over $281 million worldwide and spawned two sequels.",
+      "source": "https://en.wikipedia.org/wiki/Bridget_Jones%27s_Diary"
+    },
+    {
+      "text": "The rom-com 'mistaken identity' trope dates back to Shakespeare and has been used in films like While You Were Sleeping (1995).",
+      "source": "https://en.wikipedia.org/wiki/While_You_Were_Sleeping"
+    },
+    {
+      "text": "Kate Hudson received a Golden Globe nomination for her first rom-com lead in How to Lose a Guy in 10 Days (2003).",
+      "source": "https://en.wikipedia.org/wiki/Days"
+    },
+    {
+      "text": "While You Were Sleeping (1995) starred Sandra Bullock as a lonely transit worker who pretends to be the fiancée of a comatose stranger.",
+      "source": "https://en.wikipedia.org/wiki/While_You_Were_Sleeping"
+    },
+    {
+      "text": "Ted Lasso's rom-com sensibility — optimism, emotional growth, and the power of kindness — set it apart from other TV comedies.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Ted_Lasso%27s_rom-com_sensibility_%E2%80%94_optimism%2C_emotional_growth%2C_and_the_power_of_kindness_%E2%80%94"
+    },
+    {
+      "text": "In Annie Hall, Woody Allen broke the fourth wall by having characters speak directly to the camera, a technique that influenced many later rom-coms.",
+      "source": "https://en.wikipedia.org/wiki/In_Annie_Hall"
+    },
+    {
+      "text": "The Proposal earned over $317 million worldwide on a $40 million budget.",
+      "source": "https://en.wikipedia.org/wiki/Proposal"
+    },
+    {
+      "text": "K-drama Boys Over Flowers (2009) was one of the first Korean dramas to gain an international following and boosted the careers of its entire cast.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/K-drama_Boys_Over_Flowers"
+    },
+    {
+      "text": "10 Things I Hate About You was released on March 31, 1999.",
+      "month": 3,
+      "day": 31,
+      "source": "https://en.wikipedia.org/wiki/10_Things_I_Hate_About_You"
+    },
+    {
+      "text": "My Big Fat Greek Wedding held the record for the highest-grossing romantic comedy in North America until the 2010s.",
+      "source": "https://en.wikipedia.org/wiki/My_Big_Fat_Greek_Wedding"
+    },
+    {
+      "text": "The Rom-Com renaissance of the 2020s saw studios return to the genre after years of neglect, buoyed by streaming platform investments.",
+      "source": "https://en.wikipedia.org/wiki/Rom-Com_renaissance_of_the_2020s"
+    },
+    {
+      "text": "In Moonstruck, Cher's character falls for her fiancé's brother, played by Nicolas Cage, in a plot that celebrates messy, passionate love.",
+      "source": "https://en.wikipedia.org/wiki/In_Moonstruck"
+    },
+    {
+      "text": "Rob Reiner based When Harry Met Sally partly on his own experiences reentering the dating world after his divorce.",
+      "source": "https://en.wikipedia.org/wiki/Rob_Reiner_based_When_Harry"
+    },
+    {
+      "text": "The rom-com 'rain kiss' scene — where two characters share a passionate kiss in the rain — was popularized by films like Breakfast at Tiffany's and The Notebook.",
+      "source": "https://en.wikipedia.org/wiki/rom-com_%27rain_kiss%27_scene_%E2%80%94_where_two_characters_share_a_passionate_kiss_in_the_rain_%E2%80%94"
+    },
+    {
+      "text": "Emily in Paris became Netflix's most-watched comedy series in many countries when it debuted in 2020.",
+      "source": "https://en.wikipedia.org/wiki/Emily_in_Paris"
+    },
+    {
+      "text": "Drew Barrymore produced and starred in 50 First Dates (2004), which was filmed in Hawaii and grossed over $196 million.",
+      "source": "https://en.wikipedia.org/wiki/First_Dates"
+    },
+    {
+      "text": "When Harry Met Sally was released on July 21, 1989, and became a defining film of the genre.",
+      "month": 7,
+      "day": 21,
+      "source": "https://en.wikipedia.org/wiki/When_Harry_Met_Sally"
+    },
+    {
+      "text": "The 'slow clap' moment, often occurring after a public declaration of love, became a rom-com cliché by the early 2000s.",
+      "source": "https://en.wikipedia.org/wiki/%27slow_clap%27_moment%2C_often_occurring_after_a_public_declaration_of_love"
+    },
+    {
+      "text": "Sweet Home Alabama (2002) was the number-one film at the box office for three consecutive weeks.",
+      "source": "https://en.wikipedia.org/wiki/Sweet_Home_Alabama"
+    },
+    {
+      "text": "Never Have I Ever premiered on Netflix on April 27, 2020.",
+      "month": 4,
+      "day": 27,
+      "source": "https://en.wikipedia.org/wiki/Never"
+    },
+    {
+      "text": "In You've Got Mail, Tom Hanks' character quotes The Godfather, leading to a now-famous dialogue about how men view that film.",
+      "source": "https://en.wikipedia.org/wiki/In_You%27ve_Got_Mail"
+    },
+    {
+      "text": "Crazy Rich Asians earned over $238 million worldwide and received a sequel greenlight almost immediately.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Crazy_Rich_Asians"
+    },
+    {
+      "text": "The Princess Bride was adapted by William Goldman from his own 1973 novel of the same name.",
+      "source": "https://en.wikipedia.org/wiki/Princess_Bride"
+    },
+    {
+      "text": "Jennifer Aniston's rom-com Just Go with It (2011) grossed over $214 million worldwide despite middling reviews.",
+      "source": "https://en.wikipedia.org/wiki/It"
+    },
+    {
+      "text": "The Bollywood film Jab We Met (2007) revitalized Kareena Kapoor's career and is considered a modern Bollywood rom-com classic.",
+      "source": "https://en.wikipedia.org/wiki/Jab_We_Met"
+    },
+    {
+      "text": "In 27 Dresses, Katherine Heigl's character keeps all 27 bridesmaid dresses in her closet — a visual gag that opens the film.",
+      "source": "https://en.wikipedia.org/wiki/In_27_Dresses"
+    },
+    {
+      "text": "Nora Ephron's last feature film was Julie & Julia (2009), which earned Meryl Streep an Oscar nomination.",
+      "source": "https://en.wikipedia.org/wiki/Julia"
+    },
+    {
+      "text": "The rom-com 'makeover reveal' moment — where a transformed character descends a staircase — is directly borrowed from the Cinderella fairy tale.",
+      "source": "https://en.wikipedia.org/wiki/Romantic_comedy"
+    },
+    {
+      "text": "How I Met Your Mother's finale in 2014 divided fans, with many feeling the ending undermined the show's central romantic premise.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/How_I"
+    },
+    {
+      "text": "Four Weddings and a Funeral received two Academy Award nominations: Best Picture and Best Original Screenplay.",
+      "source": "https://en.wikipedia.org/wiki/Four_Weddings_and"
+    },
+    {
+      "text": "Clueless director Amy Heckerling spent months researching Beverly Hills teen culture to make the dialogue feel authentic.",
+      "source": "https://en.wikipedia.org/wiki/Clueless_director_Amy_Heckerling"
+    },
+    {
+      "text": "The Italian film La Dolce Vita (1960) influenced rom-com aesthetics for decades with its glamorous depiction of Roman nightlife.",
+      "source": "https://en.wikipedia.org/wiki/La_Dolce_Vita"
+    },
+    {
+      "text": "In Sleepless in Seattle, the character of Jonah was originally conceived as much less prominent, but Ross Malinger's audition expanded the role.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/In_Sleepless_in_Seattle%2C_the_character_of_Jonah"
+    },
+    {
+      "text": "Matthew McConaughey's Failure to Launch (2006) featured a subplot where his character literally cannot leave his parents' house.",
+      "source": "https://en.wikipedia.org/wiki/Launch"
+    },
+    {
+      "text": "Richard Curtis wrote the screenplay for Bridget Jones's Diary alongside Helen Fielding and Andrew Davies.",
+      "source": "https://en.wikipedia.org/wiki/Richard_Curtis"
+    },
+    {
+      "text": "The concept of 'shipping' — wanting two characters to get together — has its roots in rom-com fandom.",
+      "source": "https://en.wikipedia.org/wiki/concept_of_%27shipping%27_%E2%80%94_wanting_two_characters_to_get_together_%E2%80%94"
+    },
+    {
+      "text": "Love Actually featured an iconic opening sequence filmed at Heathrow Airport's arrivals gate showcasing real people reuniting.",
+      "source": "https://en.wikipedia.org/wiki/Love_Actually"
+    },
+    {
+      "text": "Sandra Bullock and Ryan Reynolds improvised several scenes in The Proposal, including the naked collision in the hallway.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Sandra_Bullock_and_Ryan_Reynolds"
+    },
+    {
+      "text": "The Wedding Singer featured a scene where Adam Sandler sings on an airplane, which was shot on a real 747 set.",
+      "source": "https://en.wikipedia.org/wiki/Wedding_Singer_featured_a_scene_where_Adam_Sandler_sings_on_an_airplane%2C_which"
+    },
+    {
+      "text": "Notting Hill's soundtrack, featuring songs like 'She' by Elvis Costello, became one of the best-selling rom-com soundtracks.",
+      "source": "https://en.wikipedia.org/wiki/Notting_Hill%27s_soundtrack%2C_featuring_songs_like_%27She%27_by_Elvis_Costello"
+    },
+    {
+      "text": "Mindy Kaling's The Mindy Project (2012-2017) blended rom-com tropes with sharp commentary on modern dating.",
+      "source": "https://en.wikipedia.org/wiki/Mindy_Kaling%27s_The_Mindy_Project"
+    },
+    {
+      "text": "The Princess Bride's line 'Inconceivable!' became one of the most quoted comedy catchphrases of the 1980s.",
+      "source": "https://en.wikipedia.org/wiki/Princess_Bride%27s_line_%27Inconceivable"
+    },
+    {
+      "text": "Ticket to Paradise was filmed in Queensland, Australia, though it's set in Bali, Indonesia.",
+      "source": "https://en.wikipedia.org/wiki/Ticket_to_Paradise"
+    },
+    {
+      "text": "In Hitch, Will Smith's dance moves during an allergic reaction scene were largely improvised.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/In_Hitch%2C_Will_Smith%27s_dance_moves_during_an_allergic_reaction_scene"
+    },
+    {
+      "text": "Roman Holiday featured Audrey Hepburn and Gregory Peck exploring Rome on a Vespa, creating an iconic image that still defines the city's romantic appeal.",
+      "source": "https://en.wikipedia.org/wiki/Roman_Holiday"
+    },
+    {
+      "text": "The 'second lead syndrome' in K-dramas refers to audiences falling for the character who doesn't end up with the protagonist.",
+      "source": "https://en.wikipedia.org/wiki/Romantic_comedy"
+    },
+    {
+      "text": "Schitt's Creek premiered with modest ratings but built its audience steadily to become one of the most acclaimed comedies of its era.",
+      "source": "https://en.wikipedia.org/wiki/Schitt%27s_Creek_premiered_with_modest_ratings_but"
+    },
+    {
+      "text": "Julia Roberts earned an Oscar nomination for Pretty Woman, cementing her status as Hollywood's leading lady.",
+      "source": "https://en.wikipedia.org/wiki/Julia_Roberts"
+    },
+    {
+      "text": "The 'rom-com montage' — a sequence set to pop music showing the couple's growing relationship — became codified in the 1980s.",
+      "source": "https://en.wikipedia.org/wiki/%27rom-com_montage%27_%E2%80%94_a_sequence"
+    },
+    {
+      "text": "Garry Marshall directed his sister Penny Marshall's first husband, Rob Reiner, early in his career on TV shows.",
+      "source": "https://en.wikipedia.org/wiki/Garry_Marshall"
+    },
+    {
+      "text": "The Apartment (1960), directed by Billy Wilder, won the Academy Award for Best Picture and is considered one of the greatest romantic comedies ever made.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Apartment"
+    },
+    {
+      "text": "Anyone But You was filmed in Sydney, Australia, and showcased several scenic Australian locations.",
+      "source": "https://en.wikipedia.org/wiki/Anyone_But_You"
+    },
+    {
+      "text": "In To All the Boys I've Loved Before, the contract between Lara Jean and Peter Kavinsky became one of the memorable props in modern rom-com history.",
+      "source": "https://en.wikipedia.org/wiki/In_To_All_the_Boys_I%27ve_Loved_Before%2C_the_contract_between_Lara_Jean_and_Peter_Kavinsky"
+    },
+    {
+      "text": "Drew Barrymore and Hugh Grant starred together in Music and Lyrics (2007), a rom-com about songwriting.",
+      "source": "https://en.wikipedia.org/wiki/Lyrics"
+    },
+    {
+      "text": "The Big Sick was released on July 14, 2017, and earned widespread critical acclaim.",
+      "month": 7,
+      "day": 14,
+      "source": "https://en.wikipedia.org/wiki/Big_Sick"
+    },
+    {
+      "text": "Meg Ryan's signature tousled blonde hairstyle in You've Got Mail became widely imitated in the late 1990s.",
+      "source": "https://en.wikipedia.org/wiki/Meg_Ryan%27s_signature_tousled_blonde_hairstyle_in_You%27ve_Got_Mail"
+    },
+    {
+      "text": "The Kissing Booth (2018) became one of Netflix's most-watched films and launched a trilogy.",
+      "source": "https://en.wikipedia.org/wiki/Kissing_Booth"
+    },
+    {
+      "text": "In Annie Hall, the famous lobster scene was partly improvised by Woody Allen and Diane Keaton.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/In_Annie_Hall%2C_the_famous_lobster_scene"
+    },
+    {
+      "text": "Reese Witherspoon and Vince Vaughn co-starred in Four Christmases (2008), a holiday rom-com about a couple visiting all four of their divorced parents.",
+      "source": "https://en.wikipedia.org/wiki/Four_Christmases"
+    },
+    {
+      "text": "The Bollywood film Queen (2014) subverted rom-com expectations by having the heroine find happiness independently after being left at the altar.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Queen"
+    },
+    {
+      "text": "Hugh Grant's arrest in 1995 actually boosted the box office of his rom-com Nine Months, which opened shortly after.",
+      "source": "https://en.wikipedia.org/wiki/Hugh_Grant%27s"
+    },
+    {
+      "text": "Nancy Meyers' first writing credit was on the 1980 film Private Benjamin, which earned her an Oscar nomination.",
+      "source": "https://en.wikipedia.org/wiki/Nancy_Meyers%27_first_writing_credit"
+    },
+    {
+      "text": "The 'best friend who gives advice' is one of the most reliable rom-com supporting character archetypes.",
+      "source": "https://en.wikipedia.org/wiki/%27best_friend_who_gives_advice"
+    },
+    {
+      "text": "In When Harry Met Sally, Sally's ordering habits at restaurants became a relatable running joke that many viewers identified with.",
+      "source": "https://en.wikipedia.org/wiki/In_When_Harry_Met_Sally%2C_Sally%27s_ordering_habits_at_restaurants"
+    },
+    {
+      "text": "About Time (2013), written and directed by Richard Curtis, combined rom-com elements with a time-travel premise.",
+      "source": "https://en.wikipedia.org/wiki/About_Time"
+    },
+    {
+      "text": "My Big Fat Greek Wedding 2 was released 14 years after the original, in 2016.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/My_Big_Fat_Greek_Wedding_2"
+    },
+    {
+      "text": "The rom-com 'wedding crasher' scenario became its own sub-genre, with Owen Wilson and Vince Vaughn leading the charge in Wedding Crashers (2005).",
+      "source": "https://en.wikipedia.org/wiki/Wedding_Crashers"
+    },
+    {
+      "text": "Jennifer Aniston's The Morning Show showcased her dramatic range, but audiences continued to associate her most with rom-com and comedy roles.",
+      "source": "https://en.wikipedia.org/wiki/Jennifer_Aniston%27s_The_Morning_Show"
+    },
+    {
+      "text": "Crazy Rich Asians' wedding scene was set to 'Can't Help Falling in Love' sung in Mandarin by Kina Grannis, creating a viral moment.",
+      "source": "https://en.wikipedia.org/wiki/Crazy_Rich_Asians%27_wedding_scene"
+    },
+    {
+      "text": "10 Things I Hate About You starred Julia Stiles, who later went on to appear in more dramatic roles in the Bourne franchise.",
+      "source": "https://en.wikipedia.org/wiki/10_Things_I_Hate_About_You"
+    },
+    {
+      "text": "The Princess Bride initially struggled at the box office, earning only $30.9 million domestically, but became one of the most beloved cult films of all time.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Princess_Bride"
+    },
+    {
+      "text": "In Notting Hill, the changing seasons montage as Hugh Grant walks through the market was filmed over the course of one year.",
+      "source": "https://en.wikipedia.org/wiki/In_Notting_Hill%2C_the_changing_seasons_montage_as_Hugh_Grant_walks_through_the_market"
+    },
+    {
+      "text": "The 'love letter' trope has appeared in rom-coms from Cyrano de Bergerac adaptations to To All the Boys I've Loved Before.",
+      "source": "https://en.wikipedia.org/wiki/%27love_letter%27_trope"
+    },
+    {
+      "text": "Kate Hudson and Matthew McConaughey's on-screen chemistry in How to Lose a Guy in 10 Days was aided by the fact that they are friends in real life.",
+      "source": "https://en.wikipedia.org/wiki/Kate_Hudson_and_Matthew_McConaughey%27s_on-screen_chemistry_in_How_to_Lose_a_Guy_in_10_Days"
+    },
+    {
+      "text": "Set It Up's positive reception convinced Netflix to invest more heavily in original romantic comedies.",
+      "source": "https://en.wikipedia.org/wiki/Set_It_Up%27s"
+    },
+    {
+      "text": "Moonstruck was released on December 18, 1987, and went on to gross $80 million domestically.",
+      "month": 12,
+      "day": 18,
+      "source": "https://en.wikipedia.org/wiki/Moonstruck"
+    },
+    {
+      "text": "Bridget Jones's Baby (2016) was the third film in the Bridget Jones franchise and introduced a love triangle with Patrick Dempsey.",
+      "source": "https://en.wikipedia.org/wiki/Bridget_Jones%27s_Baby"
+    },
+    {
+      "text": "The K-drama Descendants of the Sun (2016) was a pre-produced series, meaning it was fully filmed before airing — unusual for Korean television.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Sun"
+    },
+    {
+      "text": "Rob Reiner based Billy Crystal's character in When Harry Met Sally partly on himself and Meg Ryan's character partly on Nora Ephron.",
+      "source": "https://en.wikipedia.org/wiki/Rob_Reiner_based_Billy_Crystal%27s_character_in_When_Harry"
+    },
+    {
+      "text": "The line 'You complete me' from Jerry Maguire (1996) became one of the most parodied romantic declarations in pop culture.",
+      "source": "https://en.wikipedia.org/wiki/Jerry_Maguire"
+    },
+    {
+      "text": "Jane the Virgin used on-screen pop-up text to translate Spanish dialogues and provide humorous commentary throughout the series.",
+      "source": "https://en.wikipedia.org/wiki/Jane_the_Virgin"
+    },
+    {
+      "text": "Nancy Meyers directed Something's Gotta Give (2003), where Jack Nicholson and Diane Keaton proved that rom-coms could work with older leads.",
+      "source": "https://en.wikipedia.org/wiki/Something%27s_Gotta_Give"
+    },
+    {
+      "text": "In Pretty Woman, Julia Roberts's iconic red dress was designed by Marilyn Vance and became one of the most recognized costumes in film history.",
+      "source": "https://en.wikipedia.org/wiki/In_Pretty_Woman%2C_Julia_Roberts%27s_iconic_red_dress"
+    },
+    {
+      "text": "The first Bollywood film to be entirely shot in the United States was reportedly Kal Ho Naa Ho (2003), a romantic comedy-drama set in New York.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Kal_Ho_Naa_Ho"
+    },
+    {
+      "text": "Failure to Launch (2006) starred Matthew McConaughey and Sarah Jessica Parker and was Sarah Jessica Parker's first major role after Sex and the City ended.",
+      "source": "https://en.wikipedia.org/wiki/Launch"
+    },
+    {
+      "text": "Sleepless in Seattle used the Empire State Building as a romantic meeting point, echoing An Affair to Remember's use of the same landmark.",
+      "source": "https://en.wikipedia.org/wiki/Sleepless_in_Seattle"
+    },
+    {
+      "text": "The rom-com 'fish out of water' trope places a character in an unfamiliar setting, as seen in Crocodile Dundee, Coming to America, and Emily in Paris.",
+      "source": "https://en.wikipedia.org/wiki/Crocodile_Dundee"
+    },
+    {
+      "text": "You've Got Mail was released on December 18, 1998, and earned over $250 million worldwide.",
+      "month": 12,
+      "day": 18,
+      "source": "https://en.wikipedia.org/wiki/You%27ve_Got_Mail"
+    },
+    {
+      "text": "Hugh Grant acknowledged he nearly turned down the role in Four Weddings and a Funeral, worried about being typecast.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Hugh_Grant_acknowledged_he_nearly"
+    },
+    {
+      "text": "The rom-com soundtrack became big business in the 1990s, with albums from Pretty Woman, Sleepless in Seattle, and Notting Hill all going multi-platinum.",
+      "source": "https://en.wikipedia.org/wiki/rom-com_soundtrack"
+    },
+    {
+      "text": "In How to Lose a Guy in 10 Days, the 'love fern' became a running joke that fans of the film still reference.",
+      "source": "https://en.wikipedia.org/wiki/In_How_to_Lose_a_Guy_in_10_Days%2C_the_%27love_fern"
+    },
+    {
+      "text": "Ted Lasso won the Primetime Emmy Award for Outstanding Comedy Series in both 2021 and 2022.",
+      "source": "https://en.wikipedia.org/wiki/Ted_Lasso"
+    },
+    {
+      "text": "Sandra Bullock won the Razzie for Worst Actress on the same weekend she won the Oscar for Best Actress in 2010, appearing at both ceremonies.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Sandra_Bullock"
+    },
+    {
+      "text": "The rom-com 'childhood friends to lovers' trope appeared in 13 Going on 30, where Jenna and Matt had been best friends as children.",
+      "source": "https://en.wikipedia.org/wiki/rom-com_%27childhood_friends_to_lovers%27_trope"
+    },
+    {
+      "text": "Dirty Dancing (1987) was made for $6 million and grossed $218 million worldwide, becoming one of the most successful independent films of the 1980s.",
+      "source": "https://en.wikipedia.org/wiki/Dirty_Dancing"
+    },
+    {
+      "text": "Love Actually has been the subject of annual debate about whether it's genuinely romantic or deeply problematic.",
+      "source": "https://en.wikipedia.org/wiki/Love_Actually"
+    },
+    {
+      "text": "Richard Curtis announced his retirement from directing after About Time (2013), though he has continued to write.",
+      "source": "https://en.wikipedia.org/wiki/About_Time"
+    },
+    {
+      "text": "In Crazy Rich Asians, the closing credits mahjong game symbolized strategic social maneuvering, not just a card game.",
+      "source": "https://en.wikipedia.org/wiki/In_Crazy_Rich_Asians"
+    },
+    {
+      "text": "The Italian romantic comedy Perfetti Sconosciuti (Perfect Strangers, 2016) has been remade in over 20 countries, setting a record.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Italian_romantic_comedy_Perfetti_Sconosciuti_(Perfect_Strangers%2C_2016)"
+    },
+    {
+      "text": "Jennifer Aniston and Adam Sandler have co-starred in Just Go with It (2011) and Murder Mystery (2019), becoming a popular on-screen pair.",
+      "source": "https://en.wikipedia.org/wiki/It"
+    },
+    {
+      "text": "The 'opposites attract' trope is foundational to rom-coms, from The Odd Couple to Every romantic comedy where a free spirit meets a Type-A personality.",
+      "source": "https://en.wikipedia.org/wiki/%27opposites_attract%27_trope"
+    },
+    {
+      "text": "Sweet Home Alabama was filmed in Georgia and California, not Alabama.",
+      "source": "https://en.wikipedia.org/wiki/Sweet_Home_Alabama"
+    },
+    {
+      "text": "To All the Boys I've Loved Before spawned two sequels: P.S. I Still Love You (2020) and Always and Forever (2021).",
+      "source": "https://en.wikipedia.org/wiki/Still_Love_You"
+    },
+    {
+      "text": "Reese Witherspoon's Walk the Line (2005) was more of a biopic than a rom-com, but it showcased the romantic chemistry between her and Joaquin Phoenix.",
+      "source": "https://en.wikipedia.org/wiki/Line"
+    },
+    {
+      "text": "The 'Mamma Mia!' film franchise (2008, 2018) blended musical theater with rom-com elements, grossing over $1 billion combined.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Mamma_Mia"
+    },
+    {
+      "text": "Hitch was one of the top-grossing films of 2005, earning over $368 million worldwide.",
+      "source": "https://en.wikipedia.org/wiki/Hitch"
+    },
+    {
+      "text": "In Schitt's Creek, the Rose family's relationships evolved from dysfunctional to deeply loving over the course of the series.",
+      "source": "https://en.wikipedia.org/wiki/In_Schitt%27s_Creek"
+    },
+    {
+      "text": "The rom-com 'transformation' theme — where love makes someone a better person — is central to classics like Groundhog Day and As Good as It Gets.",
+      "source": "https://en.wikipedia.org/wiki/rom-com_%27transformation%27_theme_%E2%80%94_where_love_makes_someone_a_better_person_%E2%80%94"
+    },
+    {
+      "text": "Moonstruck was written by John Patrick Shanley, who won the Academy Award for Best Original Screenplay for the film.",
+      "source": "https://en.wikipedia.org/wiki/Moonstruck"
+    },
+    {
+      "text": "The Korean drama format's emphasis on slow-burn romance and emotional depth has influenced Western rom-com television writing.",
+      "source": "https://en.wikipedia.org/wiki/Korean_drama_format%27s_emphasis_on_slow-burn_romance_and_emotional_depth"
+    },
+    {
+      "text": "27 Dresses was released on January 18, 2008.",
+      "month": 1,
+      "day": 18,
+      "source": "https://en.wikipedia.org/wiki/27_Dresses"
+    },
+    {
+      "text": "Meg Ryan turned down the lead role in Sleepless in Seattle twice before finally accepting.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Meg_Ryan"
+    },
+    {
+      "text": "The rom-com 'big misunderstanding' trope, where a solvable problem creates conflict, has been criticized by modern audiences as contrived.",
+      "source": "https://en.wikipedia.org/wiki/rom-com_%27big_misunderstanding%27_trope%2C_where_a_solvable_problem_creates_conflict"
+    },
+    {
+      "text": "My Big Fat Greek Wedding was initially released in a limited run before word of mouth turned it into a massive hit.",
+      "source": "https://en.wikipedia.org/wiki/My_Big_Fat_Greek_Wedding"
+    },
+    {
+      "text": "Nancy Meyers' The Intern (2015) starred Robert De Niro and Anne Hathaway and addressed age differences in the modern workplace through a rom-com-adjacent lens.",
+      "source": "https://en.wikipedia.org/wiki/Nancy_Meyers%27_The_Intern"
+    },
+    {
+      "text": "In Four Weddings and a Funeral, Hugh Grant's character attends four weddings, at each one encountering the American woman he's falling for.",
+      "source": "https://en.wikipedia.org/wiki/In_Four_Weddings_and"
+    },
+    {
+      "text": "Pretty Woman's 'shopping on Rodeo Drive' scene has inspired tourist visits to Beverly Hills for decades.",
+      "source": "https://en.wikipedia.org/wiki/Pretty_Woman%27s_%27shopping_on_Rodeo_Drive%27_scene"
+    },
+    {
+      "text": "The 'prom scene' resolution, where everything comes together at a school dance, is a defining feature of teen rom-coms like She's All That and 10 Things I Hate About You.",
+      "source": "https://en.wikipedia.org/wiki/%27prom_scene%27_resolution%2C_where_everything_comes_together_at_a_school_dance"
+    },
+    {
+      "text": "Anyone But You's success at the box office in late 2023 was partly attributed to the real-life chemistry and social media presence of its leads.",
+      "source": "https://en.wikipedia.org/wiki/Anyone_But_You%27s_success_at_the_box_office_in_late_2023"
+    },
+    {
+      "text": "Nora Ephron once said the key to a great rom-com is that each half of the couple must be someone the audience would want to be with.",
+      "source": "https://en.wikipedia.org/wiki/Nora_Ephron_once"
+    },
+    {
+      "text": "In Love Actually, the storyline involving Colin traveling to America was the most criticized plot, yet many fans consider it the funniest.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/In_Love_Actually%2C_the_storyline_involving_Colin_traveling_to_America"
+    },
+    {
+      "text": "Tom Hanks received a $5 million salary for Sleepless in Seattle, which was considered moderate for a top star at the time.",
+      "source": "https://en.wikipedia.org/wiki/Tom_Hanks_received_a_%245_million_salary_for_Sleepless_in_Seattle%2C_which"
+    },
+    {
+      "text": "The Bollywood film Band Baaja Baaraat (2010) launched Ranveer Singh's career and is considered a modern romantic comedy classic in India.",
+      "source": "https://en.wikipedia.org/wiki/Band_Baaja_Baaraat"
+    },
+    {
+      "text": "Clueless was released on July 19, 1995, and launched Alicia Silverstone's career.",
+      "month": 7,
+      "day": 19,
+      "source": "https://en.wikipedia.org/wiki/Clueless"
+    },
+    {
+      "text": "The 'six degrees of separation' concept has been explored in several rom-coms, most notably in Valentine's Day (2010).",
+      "source": "https://en.wikipedia.org/wiki/Valentine%27s_Day"
+    },
+    {
+      "text": "In The Princess Bride, the word 'inconceivable' is said by Vizzini exactly six times throughout the film.",
+      "source": "https://en.wikipedia.org/wiki/In_The_Princess_Bride%2C_the_word_%27inconceivable"
+    },
+    {
+      "text": "Sex and the City (1998-2004) blended rom-com elements with frank discussions of female sexuality and friendship.",
+      "source": "https://en.wikipedia.org/wiki/Sex_and_the_City"
+    },
+    {
+      "text": "Julia Roberts was paid $20 million for My Best Friend's Wedding (1997), making her one of the highest-paid actresses in Hollywood.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/My_Best_Friend%27s_Wedding"
+    },
+    {
+      "text": "The 'wrong person at the altar' trope — where a character realizes they're marrying the wrong person — has been used in films from The Graduate to Runaway Bride.",
+      "source": "https://en.wikipedia.org/wiki/Graduate_to_Runaway_Bride"
+    },
+    {
+      "text": "Sandra Bullock's Two Weeks Notice (2002) paired her with Hugh Grant and earned over $199 million worldwide.",
+      "source": "https://en.wikipedia.org/wiki/Sandra_Bullock%27s_Two_Weeks_Notice"
+    },
+    {
+      "text": "Crazy Rich Asians was released during a period when Asian representation in Hollywood was heavily debated, making it culturally significant beyond its entertainment value.",
+      "source": "https://en.wikipedia.org/wiki/Crazy_Rich_Asians"
+    },
+    {
+      "text": "In The Big Sick, Kumail Nanjiani performs stand-up comedy — a reflection of his real career — while navigating his relationship with Emily.",
+      "source": "https://en.wikipedia.org/wiki/In_The_Big_Sick"
+    },
+    {
+      "text": "The 'holiday rom-com' sub-genre generates massive viewership every November and December, with networks like Hallmark and Lifetime producing dozens each year.",
+      "source": "https://en.wikipedia.org/wiki/November_and_December"
+    },
+    {
+      "text": "Kate Hudson's rom-com Bride Wars (2009) with Anne Hathaway explored female friendship and competition.",
+      "source": "https://en.wikipedia.org/wiki/Bride_Wars"
+    },
+    {
+      "text": "Matthew McConaughey's iconic 'alright, alright, alright' catchphrase originated from Dazed and Confused (1993), not a rom-com.",
+      "source": "https://en.wikipedia.org/wiki/Confused"
+    },
+    {
+      "text": "The Notebook (2004), while more of a romantic drama, popularized many rom-com tropes including the rain kiss and the love letter.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Notebook"
+    },
+    {
+      "text": "Garry Marshall's Pretty Woman was the third highest-grossing film of 1990, behind Home Alone and Ghost.",
+      "source": "https://en.wikipedia.org/wiki/Garry_Marshall%27s_Pretty_Woman"
+    },
+    {
+      "text": "In 10 Things I Hate About You, the poem Kat reads at the end was written by the screenwriters, not adapted from Shakespeare.",
+      "source": "https://en.wikipedia.org/wiki/In_10_Things_I_Hate_About_You%2C_the_poem_Kat_reads_at_the_end"
+    },
+    {
+      "text": "The K-drama What's Wrong with Secretary Kim (2018) was based on a popular web novel and became one of the most-watched rom-com K-dramas globally.",
+      "source": "https://en.wikipedia.org/wiki/Secretary_Kim"
+    },
+    {
+      "text": "Never Have I Ever's Devi Vishwakumar was one of the first Indian-American protagonists in a teen rom-com TV series.",
+      "source": "https://en.wikipedia.org/wiki/Never"
+    },
+    {
+      "text": "Richard Curtis's filmmaking style is characterized by multiple intercut storylines, British humor, and sentimental endings.",
+      "source": "https://en.wikipedia.org/wiki/Richard_Curtis%27s_filmmaking_style"
+    },
+    {
+      "text": "The 'workplace romance' trope has been central to rom-coms from His Girl Friday (1940) to Set It Up (2018).",
+      "source": "https://en.wikipedia.org/wiki/His_Girl_Friday"
+    },
+    {
+      "text": "Bridget Jones's Diary was released on April 13, 2001, in the United States.",
+      "month": 4,
+      "day": 13,
+      "source": "https://en.wikipedia.org/wiki/Bridget_Jones%27s_Diary"
+    },
+    {
+      "text": "In Sleepless in Seattle, the letters to the radio show were inspired by a real trend of people calling into talk shows for dating advice in the early 1990s.",
+      "source": "https://en.wikipedia.org/wiki/In_Sleepless_in_Seattle%2C_the_letters_to_the_radio_show"
+    },
+    {
+      "text": "Hugh Grant's dance to 'Jump' in Love Actually was entirely his own idea and was unrehearsed.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Hugh_Grant%27s_dance_to_%27Jump%27_in_Love_Actually"
+    },
+    {
+      "text": "The rom-com 'second chance romance' trope — where former lovers reconnect — drives films like Mamma Mia!, Ticket to Paradise, and It's Complicated.",
+      "source": "https://en.wikipedia.org/wiki/Mamma_Mia"
+    },
+    {
+      "text": "My Big Fat Greek Wedding was released on April 19, 2002.",
+      "month": 4,
+      "day": 19,
+      "source": "https://en.wikipedia.org/wiki/My_Big_Fat_Greek_Wedding"
+    },
+    {
+      "text": "Jennifer Aniston was offered the role of Rachel Green on Friends after the producers saw her audition for another show entirely.",
+      "source": "https://en.wikipedia.org/wiki/Jennifer_Aniston"
+    },
+    {
+      "text": "The fire escape scene in Pretty Woman, where Edward climbs up to Vivian with flowers, was inspired by fairy tale imagery.",
+      "source": "https://en.wikipedia.org/wiki/fire_escape_scene_in_Pretty_Woman%2C_where_Edward_climbs_up_to_Vivian_with_flowers"
+    },
+    {
+      "text": "Rob Reiner launched Castle Rock Entertainment, which produced When Harry Met Sally and many other landmark films.",
+      "source": "https://en.wikipedia.org/wiki/Rob_Reiner"
+    },
+    {
+      "text": "The Proposal (2009) was released on June 19 and became a summer comedy hit.",
+      "month": 6,
+      "day": 19,
+      "source": "https://en.wikipedia.org/wiki/Proposal"
+    },
+    {
+      "text": "The French romantic comedy Heartbreaker (L'Arnacœur, 2010) featured a memorable scene recreating the Dirty Dancing lift.",
+      "source": "https://en.wikipedia.org/wiki/French"
+    },
+    {
+      "text": "In Annie Hall, the lobsters that Alvy and Annie try to cook become a metaphor for their chaotic but endearing relationship.",
+      "source": "https://en.wikipedia.org/wiki/In_Annie_Hall"
+    },
+    {
+      "text": "Reese Witherspoon's production company Hello Sunshine helped bring Where the Crawdads Sing and other romantic stories to the screen.",
+      "source": "https://en.wikipedia.org/wiki/Reese_Witherspoon%27s_production_company_Hello_Sunshine"
+    },
+    {
+      "text": "The 'group of friends' ensemble rom-com, as seen in Friends, How I Met Your Mother, and New Girl, allows for multiple romantic storylines simultaneously.",
+      "source": "https://en.wikipedia.org/wiki/%27group_of_friends%27_ensemble_rom-com%2C_as_seen_in_Friends%2C_How_I"
+    },
+    {
+      "text": "Ticket to Paradise was George Clooney's return to the rom-com genre after O Brother, Where Art Thou? and One Fine Day.",
+      "source": "https://en.wikipedia.org/wiki/Ticket_to_Paradise"
+    },
+    {
+      "text": "The K-drama Itaewon Class (2020) blended entrepreneurial ambition with romance and became a worldwide Netflix hit.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/K-drama_Itaewon_Class"
+    },
+    {
+      "text": "In You've Got Mail, the Fox Books store that puts Kathleen Kelly's small shop out of business was inspired by the real-life rise of Barnes & Noble and Borders.",
+      "source": "https://en.wikipedia.org/wiki/In_You%27ve_Got_Mail"
+    },
+    {
+      "text": "Crazy Rich Asians' production designer Nelson Coates created lavish sets that became aspirational images shared widely on social media.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Crazy_Rich_Asians%27_production_designer_Nelson_Coates"
+    },
+    {
+      "text": "Drew Barrymore and Jimmy Fallon starred in Fever Pitch (2005), a rom-com set against the backdrop of the Boston Red Sox's historic 2004 season.",
+      "source": "https://en.wikipedia.org/wiki/Fever_Pitch"
+    },
+    {
+      "text": "The 'unrequited love' theme in rom-coms generates sympathy and suspense, as audiences root for the character to finally be noticed.",
+      "source": "https://en.wikipedia.org/wiki/Romantic_comedy"
+    },
+    {
+      "text": "Hugh Grant's role in Paddington 2 (2017) showed he could reinvent himself beyond rom-coms, playing a vain and villainous actor.",
+      "source": "https://en.wikipedia.org/wiki/Hugh_Grant%27s"
+    },
+    {
+      "text": "Notting Hill was written by Richard Curtis and was his follow-up to the massive success of Four Weddings and a Funeral.",
+      "source": "https://en.wikipedia.org/wiki/Notting_Hill"
+    },
+    {
+      "text": "The rom-com 'dance scene' — from Dirty Dancing to 13 Going on 30 — provides a physical expression of emotional connection.",
+      "source": "https://en.wikipedia.org/wiki/Dirty_Dancing_to_13_Going_on_30"
+    },
+    {
+      "text": "In Love Actually, Emma Thompson's crying scene after discovering her husband's affair was achieved in a single take.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/In_Love_Actually%2C_Emma_Thompson%27s_crying_scene_after_discovering_her_husband%27s_affair"
+    },
+    {
+      "text": "How to Lose a Guy in 10 Days was released on February 7, 2003, strategically placed before Valentine's Day.",
+      "month": 2,
+      "day": 7,
+      "source": "https://en.wikipedia.org/wiki/How_to_Lose_a_Guy_in_10_Days"
+    },
+    {
+      "text": "The first film generally considered a romantic comedy is It Happened One Night (1934), directed by Frank Capra.",
+      "source": "https://en.wikipedia.org/wiki/It_Happened_One_Night"
+    },
+    {
+      "text": "Nancy Meyers' Baby Boom (1987) starred Diane Keaton as a businesswoman whose life changes when she inherits a baby.",
+      "source": "https://en.wikipedia.org/wiki/Nancy_Meyers%27_Baby_Boom"
+    },
+    {
+      "text": "The 'small town charm' trope, where a city person discovers love in a rural setting, is a staple of Hallmark rom-coms and films like Sweet Home Alabama.",
+      "source": "https://en.wikipedia.org/wiki/%27small_town_charm%27_trope%2C_where_a_city_person_discovers_love_in_a_rural_setting"
+    },
+    {
+      "text": "In 13 Going on 30, Mark Ruffalo's understated performance as Matt was widely praised as the ideal rom-com love interest.",
+      "source": "https://en.wikipedia.org/wiki/In_13_Going_on_30%2C_Mark_Ruffalo%27s_understated_performance_as_Matt"
+    },
+    {
+      "text": "Friends' Central Perk coffee shop set has been recreated as pop-up experiences in cities around the world.",
+      "source": "https://en.wikipedia.org/wiki/Friends%27_Central_Perk_coffee_shop_set"
+    },
+    {
+      "text": "The Bollywood film Yeh Jawaani Hai Deewani (2013) grossed over $50 million worldwide and is one of the highest-grossing Bollywood rom-coms of all time.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Yeh_Jawaani_Hai_Deewani"
+    },
+    {
+      "text": "In Bridget Jones's Diary, the fight scene between Colin Firth and Hugh Grant on the street was choreographed to look intentionally clumsy and realistic.",
+      "source": "https://en.wikipedia.org/wiki/In_Bridget_Jones%27s_Diary%2C_the_fight_scene_between_Colin_Firth_and_Hugh_Grant_on_the_street"
+    },
+    {
+      "text": "Sandra Bullock's Speed 2: Cruise Control (1997) was a rare rom-com sequel miss, earning poor reviews despite the original's success.",
+      "source": "https://en.wikipedia.org/wiki/Sandra_Bullock%27s_Speed_2:_Cruise_Control"
+    },
+    {
+      "text": "The 'love at first sight' trope, while often critiqued as unrealistic, remains a beloved rom-com convention.",
+      "source": "https://en.wikipedia.org/wiki/Romantic_comedy"
+    },
+    {
+      "text": "Schitt's Creek won a total of nine Primetime Emmy Awards during its run.",
+      "source": "https://en.wikipedia.org/wiki/Schitt%27s_Creek"
+    },
+    {
+      "text": "The Princess Bride director Rob Reiner originally wanted Arnold Schwarzenegger to play Fezzik before casting André the Giant.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Princess_Bride"
+    },
+    {
+      "text": "In Set It Up, Glen Powell's performance caught industry attention and helped launch his later career as a leading man.",
+      "source": "https://en.wikipedia.org/wiki/In_Set_It_Up%2C_Glen_Powell%27s_performance_caught_industry_attention_and"
+    },
+    {
+      "text": "The Wedding Singer was released on February 13, 1998, the day before Valentine's Day.",
+      "month": 2,
+      "day": 13,
+      "source": "https://en.wikipedia.org/wiki/Wedding_Singer"
+    },
+    {
+      "text": "The rom-com 'quirky best friend' archetype provides comic relief and often serves as the protagonist's sounding board.",
+      "source": "https://en.wikipedia.org/wiki/Romantic_comedy"
+    },
+    {
+      "text": "In Moonstruck, Olympia Dukakis won the Academy Award for Best Supporting Actress for playing Cher's mother.",
+      "source": "https://en.wikipedia.org/wiki/In_Moonstruck%2C_Olympia_Dukakis"
+    },
+    {
+      "text": "Meg Ryan and Billy Crystal remained close friends for decades after filming When Harry Met Sally.",
+      "source": "https://en.wikipedia.org/wiki/Meg_Ryan_and_Billy_Crystal_remained_close_friends_for_decades_after_filming_When_Harry"
+    },
+    {
+      "text": "The K-drama format's use of cliffhangers at the end of each episode keeps viewers binge-watching romantic storylines.",
+      "source": "https://en.wikipedia.org/wiki/K-drama"
+    },
+    {
+      "text": "Tom Hanks' career spans both comedic and dramatic roles, but his rom-com work with Meg Ryan defined a generation's idea of cinematic romance.",
+      "source": "https://en.wikipedia.org/wiki/Tom_Hanks"
+    },
+    {
+      "text": "Legally Blonde 2: Red, White & Blonde (2003) took Elle Woods to Washington, D.C., but was less well-received than the original.",
+      "source": "https://en.wikipedia.org/wiki/Blonde"
+    },
+    {
+      "text": "The 'road trip romance' trope, where a couple falls in love while traveling, has been used from It Happened One Night to The Proposal.",
+      "source": "https://en.wikipedia.org/wiki/%27road_trip_romance%27_trope%2C_where_a_couple_falls_in_love_while_traveling"
+    },
+    {
+      "text": "Kate Winslet's performance in The Holiday (2006) earned her another wave of fans who primarily knew her from dramatic roles.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Holiday"
+    },
+    {
+      "text": "Jane the Virgin premiered on October 13, 2014, on The CW.",
+      "month": 10,
+      "day": 13,
+      "source": "https://en.wikipedia.org/wiki/Jane_the_Virgin"
+    },
+    {
+      "text": "In Pretty Woman, the opera scene where Vivian is moved to tears was Julia Roberts genuinely reacting to the music during filming.",
+      "source": "https://en.wikipedia.org/wiki/In_Pretty_Woman%2C_the_opera_scene_where_Vivian"
+    },
+    {
+      "text": "The 'enemies to lovers' trope's enduring appeal is often attributed to the tension and chemistry that conflict creates between characters.",
+      "source": "https://en.wikipedia.org/wiki/%27enemies_to_lovers%27_trope%27s_enduring_appeal"
+    },
+    {
+      "text": "Crazy Rich Asians' success led to the development of a sequel based on Kevin Kwan's second novel, China Rich Girlfriend.",
+      "source": "https://en.wikipedia.org/wiki/Crazy_Rich_Asians"
+    },
+    {
+      "text": "Richard Curtis has said that love is the most important thing in life, and that all his films are fundamentally about celebrating it.",
+      "source": "https://en.wikipedia.org/wiki/Richard_Curtis"
+    },
+    {
+      "text": "The rom-com 'last-minute confession' scene typically takes place at a wedding, airport, or other significant location.",
+      "source": "https://en.wikipedia.org/wiki/rom-com_%27last-minute_confession%27_scene_typically"
+    },
+    {
+      "text": "In When Harry Met Sally, Meg Ryan and Billy Crystal reportedly didn't get along well initially, which actually helped their on-screen dynamic of bickering friends.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/In_When_Harry"
+    },
+    {
+      "text": "Matthew McConaughey's 'McConaissance' began around 2011 with The Lincoln Lawyer, taking him from rom-com star to Oscar-winning dramatic actor.",
+      "source": "https://en.wikipedia.org/wiki/Matthew_McConaughey%27s"
+    },
+    {
+      "text": "Love Actually was released as both a romantic comedy film and, for many, an annual holiday viewing tradition.",
+      "source": "https://en.wikipedia.org/wiki/Love_Actually"
+    },
+    {
+      "text": "My Big Fat Greek Wedding inspired a short-lived CBS TV series called My Big Fat Greek Life (2003), which lasted only seven episodes.",
+      "source": "https://en.wikipedia.org/wiki/My_Big_Fat_Greek_Life"
+    },
+    {
+      "text": "The rom-com 'bet' in She's All That (1999) involves the popular guy wagering he can turn any girl into prom queen.",
+      "source": "https://en.wikipedia.org/wiki/She%27s_All_That"
+    },
+    {
+      "text": "Julia Roberts' famous laugh — big, unrestrained, and genuine — became one of her most marketable traits in rom-coms.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Julia_Roberts%27_famous_laugh_%E2%80%94_big%2C_unrestrained%2C_and_genuine_%E2%80%94"
+    },
+    {
+      "text": "The Bollywood industry's 'item number' — a flashy musical sequence — often serves as the romantic set piece in Indian rom-coms.",
+      "source": "https://en.wikipedia.org/wiki/Bollywood"
+    },
+    {
+      "text": "In Notting Hill, the scene where Hugh Grant pretends to be a journalist from Horse & Hound magazine was not originally in the script.",
+      "source": "https://en.wikipedia.org/wiki/In_Notting_Hill"
+    },
+    {
+      "text": "Always Be My Maybe was released on Netflix on May 31, 2019.",
+      "month": 5,
+      "day": 31,
+      "source": "https://en.wikipedia.org/wiki/Always_Be_My_Maybe"
+    },
+    {
+      "text": "The rom-com 'parent trap' scenario — where children scheme to get their parents together — inspired the film of the same name in both 1961 and 1998.",
+      "source": "https://en.wikipedia.org/wiki/rom-com_%27parent_trap%27_scenario_%E2%80%94_where_children_scheme_to_get_their_parents_together_%E2%80%94"
+    },
+    {
+      "text": "Sandra Bullock is one of the few actresses to have starred in both successful rom-coms and action films, from The Proposal to Gravity.",
+      "source": "https://en.wikipedia.org/wiki/Sandra_Bullock"
+    },
+    {
+      "text": "In Annie Hall, the split-screen therapy scene was revolutionary in showing how differently the two characters perceived their relationship.",
+      "source": "https://en.wikipedia.org/wiki/In_Annie_Hall%2C_the_split-screen_therapy_scene"
+    },
+    {
+      "text": "Meg Ryan directed her first rom-com, Ithaca (2015), shifting from in front of the camera to behind it.",
+      "source": "https://en.wikipedia.org/wiki/Ithaca"
+    },
+    {
+      "text": "The rom-com 'love triangle' in My Best Friend's Wedding (1997) was notable because Julia Roberts's character doesn't get the guy in the end.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/My_Best_Friend%27s_Wedding"
+    },
+    {
+      "text": "While You Were Sleeping was released on April 21, 1995, and became one of Sandra Bullock's most beloved early films.",
+      "month": 4,
+      "day": 21,
+      "source": "https://en.wikipedia.org/wiki/While_You"
+    },
+    {
+      "text": "The French rom-com Amélie inspired a wave of whimsical, visually stylized romantic films across Europe.",
+      "source": "https://en.wikipedia.org/wiki/French_rom-com_Am%C3%A9lie"
+    },
+    {
+      "text": "In Bridget Jones's Diary, the character's calorie-counting and diary entries resonated with audiences who saw themselves in her imperfect daily struggles.",
+      "source": "https://en.wikipedia.org/wiki/In_Bridget_Jones%27s_Diary"
+    },
+    {
+      "text": "The Ugly Truth (2009) starred Katherine Heigl and Gerard Butler in a rom-com about a TV producer forced to work with a chauvinistic commentator.",
+      "source": "https://en.wikipedia.org/wiki/Ugly_Truth"
+    },
+    {
+      "text": "Nora Ephron's Heartburn (1986) was a fictionalized account of her marriage to Carl Bernstein, starring Meryl Streep and Jack Nicholson.",
+      "source": "https://en.wikipedia.org/wiki/Nora_Ephron%27s_Heartburn"
+    },
+    {
+      "text": "The rom-com trope of 'the one that got away' — reconnecting with a former flame — drives films like High Fidelity and Long Shot.",
+      "source": "https://en.wikipedia.org/wiki/High_Fidelity_and_Long_Shot"
+    },
+    {
+      "text": "Long Shot (2019) starred Charlize Theron and Seth Rogen in an unlikely romantic pairing that was praised for its chemistry and humor.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Long_Shot"
+    },
+    {
+      "text": "The K-drama Something in the Rain (2018) tackled workplace romance and the social stigma of an older woman dating a younger man.",
+      "source": "https://en.wikipedia.org/wiki/Rain"
+    },
+    {
+      "text": "50 First Dates (2004) had a unique rom-com premise: Drew Barrymore's character has short-term memory loss and forgets Adam Sandler's character every day.",
+      "source": "https://en.wikipedia.org/wiki/First_Dates"
+    },
+    {
+      "text": "The rom-com 'holiday' sub-genre extends to every major holiday, from Valentine's Day films to Halloween-themed romances on streaming platforms.",
+      "source": "https://en.wikipedia.org/wiki/Valentine%27s_Day"
+    },
+    {
+      "text": "Trainwreck (2015, written by Amy Schumer) flipped the rom-com script by making the female lead the commitment-phobic character.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Amy_Schumer"
+    },
+    {
+      "text": "In Four Weddings and a Funeral, the funeral poem 'Stop all the clocks' by W.H. Auden experienced a massive surge in popularity after the film.",
+      "source": "https://en.wikipedia.org/wiki/In_Four_Weddings_and"
+    },
+    {
+      "text": "The Proposal's scene where Sandra Bullock and Ryan Reynolds dance to 'It Takes Two' around a bonfire was filmed multiple times due to laughter.",
+      "source": "https://en.wikipedia.org/wiki/Proposal%27s_scene_where_Sandra_Bullock_and_Ryan_Reynolds_dance_to_%27It"
+    },
+    {
+      "text": "Sleepless in Seattle's Jonah writing to a radio show to find his dad a wife was inspired by a real-life call to a talk radio program.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Sleepless_in_Seattle%27s_Jonah_writing_to_a_radio_show_to_find_his_dad_a_wife"
+    },
+    {
+      "text": "The rom-com 'bookstore meet-cute' trope has been used in Notting Hill, You've Got Mail, and countless Hallmark movies.",
+      "source": "https://en.wikipedia.org/wiki/rom-com_%27bookstore_meet-cute%27_trope"
+    },
+    {
+      "text": "Runaway Bride (1999) was the second pairing of Julia Roberts and Richard Gere, and grossed over $309 million worldwide.",
+      "source": "https://en.wikipedia.org/wiki/Runaway_Bride"
+    },
+    {
+      "text": "The K-drama Full House (2004) was one of the earliest Korean dramas to gain a significant pan-Asian following.",
+      "source": "https://en.wikipedia.org/wiki/K-drama_Full_House"
+    },
+    {
+      "text": "Romantic comedies often use seasonal changes as visual metaphors for the progression of a relationship.",
+      "source": "https://en.wikipedia.org/wiki/Romantic_comedy"
+    }
+  ]
+}

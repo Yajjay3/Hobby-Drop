@@ -1,0 +1,1869 @@
+{
+  "hobby": "Western Movies",
+  "facts": [
+    {
+      "text": "The Good, the Bad and the Ugly (1966) was filmed almost entirely in Spain, with the desert landscapes of Almería standing in for the American Southwest.",
+      "source": "https://en.wikipedia.org/wiki/Ugly"
+    },
+    {
+      "text": "Clint Eastwood's iconic Man with No Name character in the Dollars Trilogy was inspired by Akira Kurosawa's samurai film Yojimbo (1961).",
+      "source": "https://en.wikipedia.org/wiki/Yojimbo"
+    },
+    {
+      "text": "John Wayne appeared in over 170 films during his career, with the western genre making up the bulk of his legendary filmography.",
+      "source": "https://en.wikipedia.org/wiki/John_Wayne"
+    },
+    {
+      "text": "Sergio Leone essentially invented the spaghetti western subgenre, directing landmark films that redefined how westerns were made.",
+      "source": "https://en.wikipedia.org/wiki/Sergio_Leone_essentially"
+    },
+    {
+      "text": "Ennio Morricone composed over 500 film scores in his career, but is best remembered for his iconic spaghetti western soundtracks.",
+      "source": "https://en.wikipedia.org/wiki/Ennio_Morricone_composed_over_500_film_scores_in_his_career%2C_but"
+    },
+    {
+      "text": "The Searchers (1956), directed by John Ford and starring John Wayne, is widely considered one of the greatest westerns ever made.",
+      "source": "https://en.wikipedia.org/wiki/Searchers"
+    },
+    {
+      "text": "Shane (1953) ends with the famous line 'Shane, come back!' shouted by young Brandon deWilde as the mysterious gunfighter rides away.",
+      "source": "https://en.wikipedia.org/wiki/Shane"
+    },
+    {
+      "text": "High Noon (1952) unfolds in near real time, with the clock ticking toward the noon showdown forming the backbone of the film's tension.",
+      "source": "https://en.wikipedia.org/wiki/High_Noon"
+    },
+    {
+      "text": "Stagecoach (1939) was the film that transformed John Wayne from a B-movie actor into a major Hollywood star.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Stagecoach"
+    },
+    {
+      "text": "True Grit has been filmed twice — first in 1969 with John Wayne winning an Oscar, and again in 2010 by the Coen Brothers with Jeff Bridges.",
+      "source": "https://en.wikipedia.org/wiki/True_Grit"
+    },
+    {
+      "text": "Butch Cassidy and the Sundance Kid (1969) was one of the first buddy westerns, pairing Paul Newman and Robert Redford to enormous box office success.",
+      "source": "https://en.wikipedia.org/wiki/Sundance_Kid"
+    },
+    {
+      "text": "The Magnificent Seven (1960) was a western remake of Akira Kurosawa's Seven Samurai (1954), transplanting the story from feudal Japan to Mexico.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Magnificent_Seven"
+    },
+    {
+      "text": "A Fistful of Dollars (1964) was Clint Eastwood's first collaboration with Sergio Leone and launched the Dollars Trilogy.",
+      "source": "https://en.wikipedia.org/wiki/Dollars"
+    },
+    {
+      "text": "Unforgiven (1992) was Clint Eastwood's revisionist take on the western genre, winning four Academy Awards including Best Picture and Best Director.",
+      "source": "https://en.wikipedia.org/wiki/Unforgiven"
+    },
+    {
+      "text": "The Outlaw Josey Wales (1976) was directed by and starred Clint Eastwood as a Missouri farmer turned Confederate guerrilla seeking revenge.",
+      "source": "https://en.wikipedia.org/wiki/Outlaw_Josey_Wales"
+    },
+    {
+      "text": "Pale Rider (1985) features Eastwood as a mysterious preacher who helps gold miners stand up to a ruthless mining company.",
+      "source": "https://en.wikipedia.org/wiki/Pale_Rider"
+    },
+    {
+      "text": "No Country for Old Men (2007) won four Academy Awards, including Best Picture, blending western and thriller genres in a stark Texas landscape.",
+      "source": "https://en.wikipedia.org/wiki/Old_Men"
+    },
+    {
+      "text": "Django Unchained (2012) was Quentin Tarantino's tribute to spaghetti westerns, earning Jamie Foxx and Christoph Waltz widespread acclaim.",
+      "source": "https://en.wikipedia.org/wiki/Django_Unchained"
+    },
+    {
+      "text": "The Revenant (2015) finally won Leonardo DiCaprio his first Academy Award for Best Actor after multiple previous nominations.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Revenant"
+    },
+    {
+      "text": "Hell or High Water (2016) was a modern-day western set in West Texas, earning four Academy Award nominations including Best Picture.",
+      "source": "https://en.wikipedia.org/wiki/High_Water"
+    },
+    {
+      "text": "Tombstone (1993) features Val Kilmer's iconic portrayal of Doc Holliday, often cited as one of the best supporting performances in any western.",
+      "source": "https://en.wikipedia.org/wiki/Tombstone"
+    },
+    {
+      "text": "Yellowstone, created by Taylor Sheridan, premiered in 2018 and became the most-watched cable television series in the United States.",
+      "source": "https://en.wikipedia.org/wiki/Yellowstone"
+    },
+    {
+      "text": "Gunsmoke ran for 20 seasons from 1955 to 1975, making it one of the longest-running primetime live-action series in American TV history.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Gunsmoke"
+    },
+    {
+      "text": "Bonanza aired from 1959 to 1973 and was the first regularly scheduled TV program broadcast in color on NBC.",
+      "source": "https://en.wikipedia.org/wiki/Bonanza_aired_from_1959_to_1973_and"
+    },
+    {
+      "text": "Deadwood (2004–2006) was an HBO series set in the lawless South Dakota mining camp of the 1870s, known for its Shakespearean dialogue.",
+      "source": "https://en.wikipedia.org/wiki/Deadwood_(2004%E2%80%932006)"
+    },
+    {
+      "text": "Westworld (2016–2022) reimagined the western as a futuristic AI-driven theme park, blending sci-fi and western genres.",
+      "source": "https://en.wikipedia.org/wiki/Western_(genre)"
+    },
+    {
+      "text": "Longmire (2012–2017) was based on Craig Johnson's Walt Longmire mystery novels set in fictional Absaroka County, Wyoming.",
+      "source": "https://en.wikipedia.org/wiki/Longmire_(2012%E2%80%932017)"
+    },
+    {
+      "text": "John Ford directed more classic westerns than any other filmmaker, including Stagecoach, The Searchers, and The Man Who Shot Liberty Valance.",
+      "source": "https://en.wikipedia.org/wiki/John_Ford"
+    },
+    {
+      "text": "Sam Peckinpah earned the nickname 'Bloody Sam' for his graphic depictions of violence in westerns like The Wild Bunch (1969).",
+      "source": "https://en.wikipedia.org/wiki/Wild_Bunch"
+    },
+    {
+      "text": "Sergio Leone's Once Upon a Time in the West (1968) is considered by many critics to be the greatest spaghetti western ever made.",
+      "source": "https://en.wikipedia.org/wiki/West"
+    },
+    {
+      "text": "Howard Hawks directed Red River (1948) and Rio Bravo (1959), two of John Wayne's most celebrated westerns.",
+      "source": "https://en.wikipedia.org/wiki/Red_River"
+    },
+    {
+      "text": "Wyatt Earp was a real-life lawman best known for the Gunfight at the O.K. Corral in Tombstone, Arizona, in 1881.",
+      "source": "https://en.wikipedia.org/wiki/Wyatt_Earp"
+    },
+    {
+      "text": "Billy the Kid was allegedly killed by Sheriff Pat Garrett on July 14, 1881, at the age of 21, though some legends claim he survived.",
+      "source": "https://en.wikipedia.org/wiki/Billy_the_Kid"
+    },
+    {
+      "text": "Doc Holliday was a dentist turned gambler and gunfighter who became Wyatt Earp's closest ally at the O.K. Corral.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Doc_Holliday"
+    },
+    {
+      "text": "Jesse James was one of the most notorious outlaws in American history, leading a gang of bank and train robbers in the post-Civil War era.",
+      "source": "https://en.wikipedia.org/wiki/Jesse_James"
+    },
+    {
+      "text": "Geronimo was an Apache leader who fought against both Mexican and American expansion into Apache tribal lands for over 25 years.",
+      "source": "https://en.wikipedia.org/wiki/Geronimo"
+    },
+    {
+      "text": "Monument Valley, straddling the Arizona-Utah border, became the iconic western filming location thanks to John Ford's frequent use of it.",
+      "source": "https://en.wikipedia.org/wiki/Monument_Valley%2C_straddling_the_Arizona-Utah_border"
+    },
+    {
+      "text": "The town of Lone Pine, California, has served as a filming location for hundreds of westerns since the silent film era.",
+      "source": "https://en.wikipedia.org/wiki/town_of_Lone_Pine%2C_California"
+    },
+    {
+      "text": "Old Tucson Studios in Arizona was built for the 1939 film Arizona and has since been used in over 400 film and TV productions.",
+      "source": "https://en.wikipedia.org/wiki/Old_Tucson_Studios_in_Arizona"
+    },
+    {
+      "text": "Almería, Spain, became the go-to filming location for spaghetti westerns in the 1960s due to its arid, desert-like terrain.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Almer%C3%ADa%2C_Spain"
+    },
+    {
+      "text": "The western genre's iconic showdown — two gunslingers facing off on a dusty street — was largely popularized by High Noon (1952).",
+      "source": "https://en.wikipedia.org/wiki/High_Noon"
+    },
+    {
+      "text": "The 'white hat vs. black hat' trope in westerns originated from early silent films where heroes wore white and villains wore black.",
+      "source": "https://en.wikipedia.org/wiki/Western_(genre)"
+    },
+    {
+      "text": "Saloon brawls became a staple of the western genre, with breakaway furniture specially designed for stunt scenes.",
+      "source": "https://en.wikipedia.org/wiki/Saloon_brawls"
+    },
+    {
+      "text": "The tumbling tumbleweed, an iconic symbol of western films, is actually an invasive species originally from Russia.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/tumbling_tumbleweed%2C_an_iconic_symbol_of_western_films"
+    },
+    {
+      "text": "Dances with Wolves (1990) won seven Academy Awards, including Best Picture, and revitalized the western genre after years of decline.",
+      "source": "https://en.wikipedia.org/wiki/Wolves"
+    },
+    {
+      "text": "Cimarron (1931) was the first western to win the Academy Award for Best Picture.",
+      "source": "https://en.wikipedia.org/wiki/Cimarron"
+    },
+    {
+      "text": "Unforgiven (1992) and No Country for Old Men (2007) are the only westerns to win Best Picture at the Oscars since Dances with Wolves.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Unforgiven"
+    },
+    {
+      "text": "The Good, the Bad and the Ugly grossed over $25 million at the box office on a budget of just $1.2 million.",
+      "source": "https://en.wikipedia.org/wiki/Good"
+    },
+    {
+      "text": "Kevin Costner both directed and starred in Dances with Wolves, a risky move that paid off with massive critical and commercial success.",
+      "source": "https://en.wikipedia.org/wiki/Kevin_Costner_both_directed_and"
+    },
+    {
+      "text": "The Wild Bunch (1969) was highly controversial upon release for its graphic violence but is now considered a masterpiece of the genre.",
+      "source": "https://en.wikipedia.org/wiki/Wild_Bunch"
+    },
+    {
+      "text": "Once Upon a Time in the West features one of cinema's longest opening sequences — nearly 15 minutes with almost no dialogue.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Once_Upon_a_Time_in_the_West"
+    },
+    {
+      "text": "Blazing Saddles (1974), directed by Mel Brooks, is one of the most famous western comedies, satirizing racism and genre conventions.",
+      "source": "https://en.wikipedia.org/wiki/Blazing_Saddles"
+    },
+    {
+      "text": "The Dollars Trilogy — A Fistful of Dollars, For a Few Dollars More, and The Good, the Bad and the Ugly — made Clint Eastwood an international star.",
+      "source": "https://en.wikipedia.org/wiki/Dollars_Trilogy"
+    },
+    {
+      "text": "Lee Van Cleef went from bit parts in Hollywood to stardom in spaghetti westerns, becoming known as one of the great on-screen villains.",
+      "source": "https://en.wikipedia.org/wiki/Lee_Van_Cleef"
+    },
+    {
+      "text": "Eli Wallach's portrayal of Tuco in The Good, the Bad and the Ugly is considered one of the most memorable characters in western cinema.",
+      "source": "https://en.wikipedia.org/wiki/Eli_Wallach%27s_portrayal_of_Tuco_in_The_Good%2C_the_Bad_and_the_Ugly"
+    },
+    {
+      "text": "John Wayne won his only Academy Award for Best Actor for his role as Rooster Cogburn in True Grit (1969).",
+      "month": 4,
+      "day": 7,
+      "source": "https://en.wikipedia.org/wiki/True_Grit"
+    },
+    {
+      "text": "Gary Cooper won the Academy Award for Best Actor for High Noon at the 25th Academy Awards ceremony in 1953.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Gary_Cooper"
+    },
+    {
+      "text": "The spaghetti western got its name because these films were produced by Italian studios, despite being set in the American West.",
+      "source": "https://en.wikipedia.org/wiki/spaghetti_western_got_its_name_because_these_films"
+    },
+    {
+      "text": "Over 600 spaghetti westerns were made between 1964 and 1978, mostly shot in studios in Rome and on location in Spain.",
+      "source": "https://en.wikipedia.org/wiki/Over_600_spaghetti_westerns"
+    },
+    {
+      "text": "Ennio Morricone's score for The Good, the Bad and the Ugly, featuring the iconic 'wah wah wah' melody, is one of the most recognizable film scores ever composed.",
+      "source": "https://en.wikipedia.org/wiki/Ennio_Morricone%27s"
+    },
+    {
+      "text": "The ecstasy of gold sequence in The Good, the Bad and the Ugly — Tuco running through a cemetery — is one of cinema's greatest scenes set to music.",
+      "source": "https://en.wikipedia.org/wiki/Good"
+    },
+    {
+      "text": "Charles Bronson starred in Once Upon a Time in the West after Eastwood turned down the role of Harmonica.",
+      "source": "https://en.wikipedia.org/wiki/Charles_Bronson"
+    },
+    {
+      "text": "Henry Fonda played against type as the villain Frank in Once Upon a Time in the West, shocking audiences who knew him as a hero.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Henry_Fonda"
+    },
+    {
+      "text": "The Man Who Shot Liberty Valance (1962) explores the tension between myth and reality with the line 'When the legend becomes fact, print the legend.'",
+      "source": "https://en.wikipedia.org/wiki/Man_Who_Shot_Liberty_Valance"
+    },
+    {
+      "text": "My Darling Clementine (1946), directed by John Ford, tells a fictionalized version of the events leading to the Gunfight at the O.K. Corral.",
+      "source": "https://en.wikipedia.org/wiki/My_Darling_Clementine"
+    },
+    {
+      "text": "Red River (1948) features one of John Wayne's most complex performances as a tyrannical cattle drive boss.",
+      "source": "https://en.wikipedia.org/wiki/Red_River"
+    },
+    {
+      "text": "Rio Bravo (1959) was Howard Hawks' response to High Noon, which he felt portrayed a marshal as too weak and dependent on public help.",
+      "source": "https://en.wikipedia.org/wiki/Rio_Bravo"
+    },
+    {
+      "text": "Butch Cassidy and the Sundance Kid was the highest-grossing film of 1969, earning over $102 million domestically.",
+      "source": "https://en.wikipedia.org/wiki/Butch_Cassidy_and_the_Sundance_Kid"
+    },
+    {
+      "text": "The real Butch Cassidy (Robert LeRoy Parker) and the Sundance Kid (Harry Longabaugh) allegedly died in a shootout in Bolivia in 1908.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Butch_Cassidy"
+    },
+    {
+      "text": "Tombstone (1993) was originally to be directed by Kevin Jarre, who was fired during production and replaced by George P. Cosmatos.",
+      "source": "https://en.wikipedia.org/wiki/Tombstone"
+    },
+    {
+      "text": "Val Kilmer reportedly studied historical accounts of Doc Holliday extensively to prepare for his role in Tombstone.",
+      "source": "https://en.wikipedia.org/wiki/Val_Kilmer"
+    },
+    {
+      "text": "The line 'I'm your huckleberry' from Tombstone became one of the most quoted lines in modern western cinema.",
+      "source": "https://en.wikipedia.org/wiki/line_%27I%27m_your_huckleberry%27_from_Tombstone"
+    },
+    {
+      "text": "Wyatt Earp (1994), starring Kevin Costner, was released just six months after Tombstone and was far less successful at the box office.",
+      "source": "https://en.wikipedia.org/wiki/Wyatt_Earp"
+    },
+    {
+      "text": "3:10 to Yuma has been filmed twice — in 1957 with Glenn Ford and in 2007 with Russell Crowe and Christian Bale.",
+      "source": "https://en.wikipedia.org/wiki/3:10_to_Yuma"
+    },
+    {
+      "text": "Open Range (2003), directed by and starring Kevin Costner, was praised for one of the most realistic gunfight sequences in western film history.",
+      "source": "https://en.wikipedia.org/wiki/Open_Range"
+    },
+    {
+      "text": "Appaloosa (2008) starred Ed Harris and Viggo Mortensen as lawmen hired to tame a violent rancher played by Jeremy Irons.",
+      "source": "https://en.wikipedia.org/wiki/Appaloosa"
+    },
+    {
+      "text": "The Assassination of Jesse James by the Coward Robert Ford (2007) starred Brad Pitt and is known for its lyrical, contemplative style.",
+      "source": "https://en.wikipedia.org/wiki/Coward_Robert_Ford"
+    },
+    {
+      "text": "True Grit (2010) by the Coen Brothers earned ten Academy Award nominations but won none.",
+      "source": "https://en.wikipedia.org/wiki/True_Grit"
+    },
+    {
+      "text": "Jeff Bridges earned a Best Actor nomination for his role as Rooster Cogburn in the Coen Brothers' True Grit.",
+      "source": "https://en.wikipedia.org/wiki/Jeff_Bridges"
+    },
+    {
+      "text": "Hailee Steinfeld made her film debut in True Grit (2010) at age 14, earning a Best Supporting Actress nomination.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/True_Grit"
+    },
+    {
+      "text": "Django Unchained earned over $425 million worldwide, making it Quentin Tarantino's highest-grossing film at the time.",
+      "source": "https://en.wikipedia.org/wiki/Django_Unchained"
+    },
+    {
+      "text": "Christoph Waltz won his second Academy Award for Best Supporting Actor for Django Unchained, having previously won for Inglourious Basterds.",
+      "source": "https://en.wikipedia.org/wiki/Christoph_Waltz"
+    },
+    {
+      "text": "The Hateful Eight (2015) was Tarantino's second western, filmed in Ultra Panavision 70, a format not used since 1966.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Hateful_Eight"
+    },
+    {
+      "text": "The Revenant was filmed using only natural light, with cinematographer Emmanuel Lubezki winning his third consecutive Oscar for the film.",
+      "source": "https://en.wikipedia.org/wiki/Revenant"
+    },
+    {
+      "text": "The Revenant is based on the true story of frontiersman Hugh Glass, who was mauled by a grizzly bear and left for dead in 1823.",
+      "source": "https://en.wikipedia.org/wiki/Revenant"
+    },
+    {
+      "text": "Hell or High Water was written by Taylor Sheridan, who also wrote Sicario and Wind River, forming an unofficial frontier trilogy.",
+      "source": "https://en.wikipedia.org/wiki/Hell_or_High_Water"
+    },
+    {
+      "text": "Wind River (2017), directed by Taylor Sheridan, is set on the Wind River Indian Reservation in Wyoming and explores crimes against Native Americans.",
+      "source": "https://en.wikipedia.org/wiki/Wind_River"
+    },
+    {
+      "text": "Hostiles (2017) starred Christian Bale as a U.S. Army captain escorting a Cheyenne war chief and his family back to their homeland.",
+      "source": "https://en.wikipedia.org/wiki/Hostiles"
+    },
+    {
+      "text": "The Power of the Dog (2021), directed by Jane Campion, was a psychological western that earned twelve Academy Award nominations.",
+      "source": "https://en.wikipedia.org/wiki/Dog"
+    },
+    {
+      "text": "Jane Campion won the Academy Award for Best Director for The Power of the Dog, becoming only the third woman to win the award.",
+      "month": 3,
+      "day": 27,
+      "source": "https://en.wikipedia.org/wiki/Jane_Campion"
+    },
+    {
+      "text": "News of the World (2020) starred Tom Hanks as a traveling newsreader who agrees to escort an orphaned girl across Texas.",
+      "source": "https://en.wikipedia.org/wiki/World"
+    },
+    {
+      "text": "The Harder They Fall (2021) featured an entirely Black principal cast, drawing on real historical figures from the Old West.",
+      "source": "https://en.wikipedia.org/wiki/Harder_They_Fall"
+    },
+    {
+      "text": "Old Henry (2021) was a low-budget western that received strong critical praise for Tim Blake Nelson's lead performance.",
+      "source": "https://en.wikipedia.org/wiki/Old_Henry"
+    },
+    {
+      "text": "Bone Tomahawk (2015) blended horror and western genres, with Kurt Russell leading a rescue party into cannibal territory.",
+      "source": "https://en.wikipedia.org/wiki/Bone_Tomahawk"
+    },
+    {
+      "text": "Slow West (2015) was a stylish, offbeat western starring Michael Fassbender, set in 1870s Colorado.",
+      "source": "https://en.wikipedia.org/wiki/Slow_West"
+    },
+    {
+      "text": "The Sisters Brothers (2018), starring Joaquin Phoenix and John C. Reilly, was based on Patrick deWitt's acclaimed novel.",
+      "source": "https://en.wikipedia.org/wiki/Sisters_Brothers"
+    },
+    {
+      "text": "Yellowstone became a cultural phenomenon, spawning prequel series 1883 and 1923.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Yellowstone"
+    },
+    {
+      "text": "1883 follows the Dutton family's original journey from Tennessee to Montana, starring Sam Elliott, Tim McGraw, and Faith Hill.",
+      "source": "https://en.wikipedia.org/wiki/Tennessee_to_Montana"
+    },
+    {
+      "text": "1923 stars Harrison Ford and Helen Mirren as earlier generation Duttons facing Prohibition, drought, and the Great Depression.",
+      "source": "https://en.wikipedia.org/wiki/Harrison_Ford_and_Helen_Mirren"
+    },
+    {
+      "text": "Kevin Costner departed Yellowstone after Season 5 due to scheduling conflicts with his own western film project, Horizon.",
+      "source": "https://en.wikipedia.org/wiki/Kevin_Costner"
+    },
+    {
+      "text": "Deadwood won eight Primetime Emmy Awards during its three-season run and was followed by a 2019 TV movie.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Deadwood"
+    },
+    {
+      "text": "Ian McShane's portrayal of Al Swearengen in Deadwood is considered one of the greatest performances in television history.",
+      "source": "https://en.wikipedia.org/wiki/Ian_McShane%27s_portrayal_of_Al_Swearengen_in_Deadwood"
+    },
+    {
+      "text": "Westworld was based on Michael Crichton's 1973 film of the same name, in which robots in a western theme park malfunction.",
+      "source": "https://en.wikipedia.org/wiki/Westworld"
+    },
+    {
+      "text": "Gunsmoke holds the record for the most episodes of any prime-time live-action drama in American television history, with 635 episodes.",
+      "source": "https://en.wikipedia.org/wiki/Western_(genre)"
+    },
+    {
+      "text": "James Arness starred as Marshal Matt Dillon in Gunsmoke for all 20 seasons.",
+      "source": "https://en.wikipedia.org/wiki/James_Arness"
+    },
+    {
+      "text": "Bonanza made television history as one of the first shows to deal with social issues like racism and land rights within a western format.",
+      "source": "https://en.wikipedia.org/wiki/Western_(genre)"
+    },
+    {
+      "text": "The Lone Ranger radio show debuted in 1933 and spawned a TV series (1949–1957) and multiple films.",
+      "source": "https://en.wikipedia.org/wiki/Lone_Ranger"
+    },
+    {
+      "text": "Rawhide (1959–1965) starred a young Clint Eastwood as Rowdy Yates before he became a film star in spaghetti westerns.",
+      "source": "https://en.wikipedia.org/wiki/Rawhide_(1959%E2%80%931965)_starred_a_young_Clint_Eastwood_as_Rowdy_Yates_before_he"
+    },
+    {
+      "text": "The Rifleman (1958–1963) starred Chuck Connors as a widowed rancher in the New Mexico Territory known for his modified Winchester rifle.",
+      "source": "https://en.wikipedia.org/wiki/Rifleman_(1958%E2%80%931963)"
+    },
+    {
+      "text": "Have Gun – Will Travel (1957–1963) starred Richard Boone as Paladin, a refined gunfighter-for-hire based in San Francisco.",
+      "source": "https://en.wikipedia.org/wiki/Have_Gun_%E2%80%93_Will_Travel_(1957%E2%80%931963)"
+    },
+    {
+      "text": "Maverick (1957–1962) starred James Garner as a charming, wisecracking gambler, introducing humor into the TV western genre.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Maverick_(1957%E2%80%931962)"
+    },
+    {
+      "text": "The Virginian (1962–1971) was the first 90-minute western series on American television.",
+      "source": "https://en.wikipedia.org/wiki/Virginian_(1962%E2%80%931971)"
+    },
+    {
+      "text": "Hell on Wheels (2011–2016) followed the construction of the First Transcontinental Railroad in the aftermath of the Civil War.",
+      "source": "https://en.wikipedia.org/wiki/Hell_on_Wheels"
+    },
+    {
+      "text": "Justified (2010–2015) starred Timothy Olyphant as Deputy U.S. Marshal Raylan Givens, blending modern crime drama with western sensibilities.",
+      "source": "https://en.wikipedia.org/wiki/Justified_(2010%E2%80%932015)"
+    },
+    {
+      "text": "Godless (2017) was a Netflix limited series set in a 1880s mining town populated almost entirely by women.",
+      "source": "https://en.wikipedia.org/wiki/Godless"
+    },
+    {
+      "text": "The Son (2017–2019) starred Pierce Brosnan in an AMC series spanning 150 years of a Texas ranching family's history.",
+      "source": "https://en.wikipedia.org/wiki/Son_(2017%E2%80%932019)"
+    },
+    {
+      "text": "Walker, Texas Ranger (1993–2001) starred Chuck Norris and blended martial arts with traditional western lawman tropes.",
+      "source": "https://en.wikipedia.org/wiki/Walker%2C_Texas_Ranger_(1993%E2%80%932001)"
+    },
+    {
+      "text": "Sergio Leone directed only seven films in his career, but his westerns fundamentally changed the genre forever.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Sergio_Leone_directed_only_seven_films_in_his_career%2C_but_his_westerns_fundamentally"
+    },
+    {
+      "text": "Sergio Corbucci directed Django (1966), a spaghetti western so violent it was banned in several countries.",
+      "source": "https://en.wikipedia.org/wiki/Django"
+    },
+    {
+      "text": "The original Django (1966) inspired over 30 unofficial sequels and heavily influenced Quentin Tarantino's Django Unchained.",
+      "source": "https://en.wikipedia.org/wiki/Django"
+    },
+    {
+      "text": "Anthony Mann directed a series of acclaimed westerns with James Stewart in the 1950s, including Winchester '73, Bend of the River, and The Man from Laramie.",
+      "source": "https://en.wikipedia.org/wiki/Anthony_Mann"
+    },
+    {
+      "text": "Budd Boetticher directed a cycle of lean, taut westerns with Randolph Scott in the late 1950s known as the Ranown Cycle.",
+      "source": "https://en.wikipedia.org/wiki/Budd_Boetticher"
+    },
+    {
+      "text": "Clint Eastwood directed eleven westerns over his career, more than any other major actor-director of his generation.",
+      "source": "https://en.wikipedia.org/wiki/Clint_Eastwood"
+    },
+    {
+      "text": "Kevin Costner's Horizon: An American Saga was envisioned as a four-part epic exploring westward expansion over 15 years.",
+      "source": "https://en.wikipedia.org/wiki/Kevin_Costner%27s_Horizon:_An_American_Saga"
+    },
+    {
+      "text": "George Stevens' Shane is known for its breathtaking Grand Teton mountain backdrop filmed in Jackson Hole, Wyoming.",
+      "source": "https://en.wikipedia.org/wiki/George_Stevens%27_Shane"
+    },
+    {
+      "text": "Fred Zinnemann directed High Noon, which was also an allegory for the Hollywood blacklist during the McCarthy era.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Fred_Zinnemann_directed_High_Noon%2C_which"
+    },
+    {
+      "text": "John Sturges directed both The Magnificent Seven (1960) and Gunfight at the O.K. Corral (1957).",
+      "source": "https://en.wikipedia.org/wiki/Magnificent_Seven"
+    },
+    {
+      "text": "Quentin Tarantino's westerns are noted for blending revisionist history with exploitation film aesthetics and sharp dialogue.",
+      "source": "https://en.wikipedia.org/wiki/Quentin_Tarantino%27s_westerns"
+    },
+    {
+      "text": "The Coen Brothers directed both True Grit (2010) and No Country for Old Men (2007), two of the most acclaimed modern westerns.",
+      "source": "https://en.wikipedia.org/wiki/True_Grit"
+    },
+    {
+      "text": "Taylor Sheridan grew up on a ranch in Texas, which deeply influenced his western-themed writing and directing.",
+      "source": "https://en.wikipedia.org/wiki/Taylor_Sheridan"
+    },
+    {
+      "text": "Wild Bill Hickok was a real gunfighter and lawman who was shot dead while playing poker in Deadwood, South Dakota, in 1876.",
+      "source": "https://en.wikipedia.org/wiki/Wild_Bill_Hickok"
+    },
+    {
+      "text": "The hand Hickok was holding when he died — aces and eights — became known as the 'dead man's hand' in poker.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/hand_Hickok"
+    },
+    {
+      "text": "Calamity Jane was a frontierswoman known for her sharpshooting and her association with Wild Bill Hickok.",
+      "source": "https://en.wikipedia.org/wiki/Calamity_Jane"
+    },
+    {
+      "text": "Judge Roy Bean was a real-life eccentric justice of the peace in West Texas who called himself 'the Law West of the Pecos.'",
+      "source": "https://en.wikipedia.org/wiki/Judge_Roy_Bean"
+    },
+    {
+      "text": "Annie Oakley was a sharpshooter who starred in Buffalo Bill's Wild West show and could split a playing card edge-on from 30 paces.",
+      "source": "https://en.wikipedia.org/wiki/Annie_Oakley"
+    },
+    {
+      "text": "Buffalo Bill Cody's Wild West show toured the United States and Europe from 1883 to 1913, mythologizing the American frontier.",
+      "source": "https://en.wikipedia.org/wiki/Buffalo_Bill_Cody%27s_Wild_West"
+    },
+    {
+      "text": "Sitting Bull briefly toured with Buffalo Bill's Wild West show in 1885 before returning to the Standing Rock Reservation.",
+      "source": "https://en.wikipedia.org/wiki/Sitting_Bull"
+    },
+    {
+      "text": "The Gunfight at the O.K. Corral lasted only about 30 seconds but has been depicted in dozens of films and TV shows.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Gunfight_at_the_O.K._Corral_lasted_only_about_30_seconds_but"
+    },
+    {
+      "text": "Cochise was an Apache chief who led resistance against American and Mexican forces in the 1860s and was portrayed in the 1950 film Broken Arrow.",
+      "source": "https://en.wikipedia.org/wiki/Cochise"
+    },
+    {
+      "text": "Crazy Horse was an Oglala Lakota warrior who helped defeat Custer at the Battle of the Little Bighorn in 1876.",
+      "source": "https://en.wikipedia.org/wiki/Crazy_Horse"
+    },
+    {
+      "text": "Bat Masterson was a lawman, gambler, and journalist who served as sheriff of Ford County, Kansas, and later became a sports writer in New York.",
+      "source": "https://en.wikipedia.org/wiki/Bat_Masterson"
+    },
+    {
+      "text": "Butch Cassidy led the Wild Bunch gang, which carried out the longest string of successful bank and train robberies in American history.",
+      "source": "https://en.wikipedia.org/wiki/Butch_Cassidy"
+    },
+    {
+      "text": "The James-Younger Gang, led by Jesse and Frank James, robbed banks, stagecoaches, and trains across the Midwest in the 1860s and 1870s.",
+      "source": "https://en.wikipedia.org/wiki/James-Younger_Gang"
+    },
+    {
+      "text": "Jesse James was shot and killed by Robert Ford, a member of his own gang, on April 3, 1882, for a $10,000 reward.",
+      "month": 4,
+      "day": 3,
+      "source": "https://en.wikipedia.org/wiki/Jesse_James"
+    },
+    {
+      "text": "Pat Garrett wrote a book about killing Billy the Kid titled 'The Authentic Life of Billy the Kid' shortly after the shooting.",
+      "source": "https://en.wikipedia.org/wiki/Pat_Garrett"
+    },
+    {
+      "text": "Geronimo surrendered for the final time on September 4, 1886, making him the last major Native American leader to formally surrender to the U.S. military.",
+      "month": 9,
+      "day": 4,
+      "source": "https://en.wikipedia.org/wiki/September_4"
+    },
+    {
+      "text": "Bass Reeves was one of the first Black deputy U.S. marshals west of the Mississippi, arresting over 3,000 felons in his career.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Bass_Reeves"
+    },
+    {
+      "text": "The real Lone Ranger may have been inspired by Bass Reeves, though this connection is debated by historians.",
+      "source": "https://en.wikipedia.org/wiki/real_Lone_Ranger_may"
+    },
+    {
+      "text": "Monument Valley's iconic buttes — including the Mittens and Merrick Butte — have appeared in at least ten John Ford films.",
+      "source": "https://en.wikipedia.org/wiki/Monument_Valley%27s_iconic_buttes_%E2%80%94_including_the_Mittens_and_Merrick_Butte_%E2%80%94"
+    },
+    {
+      "text": "Durango, Mexico, became a popular filming location for westerns in the 1950s and 1960s, hosting productions starring John Wayne and others.",
+      "source": "https://en.wikipedia.org/wiki/Durango%2C_Mexico"
+    },
+    {
+      "text": "Cinecittà Studios in Rome was used for interior scenes in many spaghetti westerns during the 1960s.",
+      "source": "https://en.wikipedia.org/wiki/Cinecitt%C3%A0_Studios_in_Rome"
+    },
+    {
+      "text": "The Tabernas Desert in Almería, Spain, still has standing western film sets that are now tourist attractions.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Tabernas_Desert_in_Almer%C3%ADa%2C_Spain%2C_still"
+    },
+    {
+      "text": "Kanab, Utah, was nicknamed 'Little Hollywood' because so many westerns were filmed there from the 1920s through the 1970s.",
+      "source": "https://en.wikipedia.org/wiki/Kanab%2C_Utah"
+    },
+    {
+      "text": "Texas Ranch in the Tabernas Desert served as the set for The Good, the Bad and the Ugly and many other spaghetti westerns.",
+      "source": "https://en.wikipedia.org/wiki/Texas_Ranch_in_the_Tabernas_Desert_served_as_the"
+    },
+    {
+      "text": "Johnson Canyon in Alberta, Canada, was used as a filming location for Unforgiven (1992).",
+      "source": "https://en.wikipedia.org/wiki/Unforgiven"
+    },
+    {
+      "text": "The Sonoran Desert in Arizona provided the backdrop for numerous westerns including Tombstone and Arizona (1940).",
+      "source": "https://en.wikipedia.org/wiki/Arizona"
+    },
+    {
+      "text": "Moab, Utah, has served as a filming location for westerns since the 1940s, including Rio Grande (1950) and Westworld.",
+      "source": "https://en.wikipedia.org/wiki/Rio_Grande"
+    },
+    {
+      "text": "Paramount Ranch in the Santa Monica Mountains served as a western film set from the 1920s until it was destroyed by the Woolsey Fire in 2018.",
+      "source": "https://en.wikipedia.org/wiki/Paramount_Ranch_in_the_Santa_Monica_Mountains_served_as_a_western_film"
+    },
+    {
+      "text": "The classic western showdown at high noon was a narrative device that built tension by giving the audience a defined deadline.",
+      "source": "https://en.wikipedia.org/wiki/classic_western_showdown_at_high_noon"
+    },
+    {
+      "text": "The lone gunslinger archetype in westerns represents rugged individualism and the American ideal of self-reliance.",
+      "source": "https://en.wikipedia.org/wiki/Western_(genre)"
+    },
+    {
+      "text": "Western movies often feature the tension between civilization and wilderness, with the frontier serving as a boundary between order and chaos.",
+      "source": "https://en.wikipedia.org/wiki/Western_(genre)"
+    },
+    {
+      "text": "The 'cavalry to the rescue' trope originated in early westerns where the U.S. Cavalry arrives just in time to save settlers.",
+      "source": "https://en.wikipedia.org/wiki/U.S._Cavalry"
+    },
+    {
+      "text": "Revisionist westerns challenge traditional genre tropes by portraying Native Americans more sympathetically and questioning frontier mythology.",
+      "source": "https://en.wikipedia.org/wiki/Native_Americans"
+    },
+    {
+      "text": "The anti-hero became central to the western genre in the 1960s, replacing the clean-cut heroism of earlier films.",
+      "source": "https://en.wikipedia.org/wiki/anti-hero"
+    },
+    {
+      "text": "Western film villains often wear black clothing, a visual shorthand that dates back to the silent film era.",
+      "source": "https://en.wikipedia.org/wiki/Western_(genre)"
+    },
+    {
+      "text": "The quick-draw duel is largely a Hollywood invention — real gunfights in the Old West were usually messy and chaotic.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/quick-draw_duel"
+    },
+    {
+      "text": "Spurs, cowboy hats, and leather chaps became iconic western imagery largely because of their prominence in early Hollywood westerns.",
+      "source": "https://en.wikipedia.org/wiki/Spurs%2C_cowboy_hats%2C_and_leather_chaps"
+    },
+    {
+      "text": "The Winchester rifle is one of the most iconic weapons in western films, often called 'the gun that won the West.'",
+      "source": "https://en.wikipedia.org/wiki/Winchester_rifle"
+    },
+    {
+      "text": "The Colt Single Action Army revolver, also known as the Peacemaker, is the most recognizable handgun in western cinema.",
+      "source": "https://en.wikipedia.org/wiki/Colt_Single_Action_Army_revolver%2C_also_known_as_the_Peacemaker"
+    },
+    {
+      "text": "Horse stunts in early westerns were often dangerous, leading to the formation of the American Humane Association's film monitoring program.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Horse_stunts_in_early_westerns"
+    },
+    {
+      "text": "The phrase 'This town ain't big enough for the both of us' became a quintessential western cliché despite rarely appearing in actual films.",
+      "source": "https://en.wikipedia.org/wiki/phrase_%27This_town_ain%27t_big_enough_for_the_both_of_us"
+    },
+    {
+      "text": "Western film scores often feature whistling, harmonicas, and twangy guitars to evoke the loneliness of the frontier.",
+      "source": "https://en.wikipedia.org/wiki/Western_(genre)"
+    },
+    {
+      "text": "The poncho worn by Clint Eastwood's Man with No Name was purchased at a thrift store in Santa Monica before filming A Fistful of Dollars.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/poncho_worn_by_Clint_Eastwood%27s_Man_with_No_Name"
+    },
+    {
+      "text": "Dances with Wolves was one of the first major Hollywood films to feature extensive dialogue in the Lakota Sioux language.",
+      "source": "https://en.wikipedia.org/wiki/Dances_with_Wolves"
+    },
+    {
+      "text": "The Magnificent Seven (1960) featured an ensemble cast including Yul Brynner, Steve McQueen, Charles Bronson, and James Coburn.",
+      "source": "https://en.wikipedia.org/wiki/Magnificent_Seven"
+    },
+    {
+      "text": "Steve McQueen famously tried to upstage Yul Brynner in The Magnificent Seven by performing distracting bits of business during Brynner's scenes.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Steve_McQueen"
+    },
+    {
+      "text": "The Magnificent Seven was remade in 2016 with Denzel Washington, Chris Pratt, and Ethan Hawke.",
+      "source": "https://en.wikipedia.org/wiki/Magnificent_Seven"
+    },
+    {
+      "text": "For a Few Dollars More (1965) introduced Lee Van Cleef as a bounty hunter partnering with Eastwood's Man with No Name.",
+      "source": "https://en.wikipedia.org/wiki/Few_Dollars_More"
+    },
+    {
+      "text": "The Good, the Bad and the Ugly features a climactic three-way Mexican standoff in a circular cemetery, one of cinema's most iconic scenes.",
+      "source": "https://en.wikipedia.org/wiki/Good%2C_the_Bad_and_the_Ugly"
+    },
+    {
+      "text": "Ennio Morricone used gunshots, cracking whips, and electric guitars in his western scores, breaking from traditional orchestral film music.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Ennio_Morricone"
+    },
+    {
+      "text": "Morricone's score for Once Upon a Time in the West was composed before filming began, and Leone directed scenes to match the music.",
+      "source": "https://en.wikipedia.org/wiki/Morricone%27s_score_for_Once_Upon_a_Time_in_the_West"
+    },
+    {
+      "text": "The Dollars Trilogy was not originally intended as a trilogy — the three films share no continuous storyline.",
+      "source": "https://en.wikipedia.org/wiki/Dollars_Trilogy"
+    },
+    {
+      "text": "Clint Eastwood was paid $15,000 for A Fistful of Dollars, a modest sum that grew exponentially as the film became a worldwide hit.",
+      "source": "https://en.wikipedia.org/wiki/Clint_Eastwood"
+    },
+    {
+      "text": "A Fistful of Dollars was an unauthorized remake of Yojimbo, leading to a lawsuit by Kurosawa's production company that was settled out of court.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/A_Fistful_of_Dollars"
+    },
+    {
+      "text": "Sergio Leone wanted to cast Henry Fonda as the villain in A Fistful of Dollars, but Fonda was unavailable until Once Upon a Time in the West.",
+      "source": "https://en.wikipedia.org/wiki/Sergio_Leone_wanted_to_cast_Henry_Fonda_as_the_villain_in_A_Fistful_of_Dollars%2C_but_Fonda"
+    },
+    {
+      "text": "The climactic duel in The Good, the Bad and the Ugly lasts nearly five minutes, with most of that time spent on close-ups of the three men's eyes.",
+      "source": "https://en.wikipedia.org/wiki/Good"
+    },
+    {
+      "text": "Duck, You Sucker! (1971), also known as A Fistful of Dynamite, was Sergio Leone's last western.",
+      "source": "https://en.wikipedia.org/wiki/Duck%2C_You_Sucker"
+    },
+    {
+      "text": "John Wayne's real name was Marion Robert Morrison, which he changed early in his career.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/John_Wayne%27s_real_name"
+    },
+    {
+      "text": "John Wayne starred in his first major western, The Big Trail (1930), at just 23 years old, but the film flopped.",
+      "source": "https://en.wikipedia.org/wiki/Big_Trail"
+    },
+    {
+      "text": "John Ford gave Wayne his breakout role in Stagecoach after the actor spent nearly a decade in B-westerns.",
+      "source": "https://en.wikipedia.org/wiki/John_Ford_gave_Wayne_his_breakout_role_in_Stagecoach_after_the_actor"
+    },
+    {
+      "text": "The Shootist (1976) was John Wayne's final film, in which he played a dying gunfighter — Wayne himself was battling cancer at the time.",
+      "source": "https://en.wikipedia.org/wiki/Shootist"
+    },
+    {
+      "text": "John Wayne and director John Ford collaborated on over 20 films, forming one of Hollywood's most legendary partnerships.",
+      "source": "https://en.wikipedia.org/wiki/John_Wayne_and"
+    },
+    {
+      "text": "She Wore a Yellow Ribbon (1949) features some of John Ford's most stunning Technicolor photography of Monument Valley.",
+      "source": "https://en.wikipedia.org/wiki/Yellow_Ribbon"
+    },
+    {
+      "text": "The Horse Soldiers (1959) starred John Wayne and William Holden in a Civil War-era western based on a real Union cavalry raid.",
+      "source": "https://en.wikipedia.org/wiki/Horse_Soldiers"
+    },
+    {
+      "text": "El Dorado (1966) was essentially a reworking of Rio Bravo, with John Wayne again playing a lawman needing help from unlikely allies.",
+      "source": "https://en.wikipedia.org/wiki/El_Dorado"
+    },
+    {
+      "text": "John Wayne received his only Academy Award for True Grit, playing the one-eyed, hard-drinking Marshal Rooster Cogburn.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/John_Wayne"
+    },
+    {
+      "text": "Wayne's eyepatch in True Grit was worn on his left eye, and he performed many of his own stunts despite being 62 years old.",
+      "source": "https://en.wikipedia.org/wiki/Wayne%27s_eyepatch_in_True_Grit"
+    },
+    {
+      "text": "The Cowboys (1972) controversially featured John Wayne's character being killed on screen, a first for the actor.",
+      "source": "https://en.wikipedia.org/wiki/Cowboys"
+    },
+    {
+      "text": "Clint Eastwood served in the U.S. Army before becoming an actor, stationed at Fort Ord in California during the Korean War.",
+      "source": "https://en.wikipedia.org/wiki/Clint_Eastwood"
+    },
+    {
+      "text": "Eastwood got his start on the TV western Rawhide before traveling to Italy to make A Fistful of Dollars.",
+      "source": "https://en.wikipedia.org/wiki/Italy_to"
+    },
+    {
+      "text": "High Plains Drifter (1973) was Eastwood's first western as director, featuring a mysterious stranger who may be a ghost.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/High_Plains_Drifter"
+    },
+    {
+      "text": "The Outlaw Josey Wales featured Chief Dan George in a memorable role as a Cherokee elder, earning widespread praise.",
+      "source": "https://en.wikipedia.org/wiki/Outlaw_Josey_Wales"
+    },
+    {
+      "text": "Eastwood dedicated Unforgiven to directors Sergio Leone and Don Siegel, his two greatest mentors.",
+      "source": "https://en.wikipedia.org/wiki/Unforgiven_to"
+    },
+    {
+      "text": "Unforgiven was Eastwood's statement that violence has real consequences, countering the glamorized gunplay of earlier westerns.",
+      "source": "https://en.wikipedia.org/wiki/Unforgiven"
+    },
+    {
+      "text": "Eastwood kept the Unforgiven script by David Webb Peoples for nearly 20 years before deciding he was old enough to play the lead.",
+      "source": "https://en.wikipedia.org/wiki/David_Webb_Peoples_for"
+    },
+    {
+      "text": "Gene Hackman won the Academy Award for Best Supporting Actor for his role as the brutal Sheriff Little Bill Daggett in Unforgiven.",
+      "source": "https://en.wikipedia.org/wiki/Gene_Hackman"
+    },
+    {
+      "text": "Pale Rider was the first western in years to reach number one at the box office when it was released in 1985.",
+      "source": "https://en.wikipedia.org/wiki/Pale_Rider"
+    },
+    {
+      "text": "Two Mules for Sister Sara (1970) paired Eastwood with Shirley MacLaine in a comedic western set during the Franco-Mexican War.",
+      "source": "https://en.wikipedia.org/wiki/Sister_Sara"
+    },
+    {
+      "text": "Hang 'Em High (1968) was Eastwood's first American-made western after the Dollars Trilogy, set in the Oklahoma Territory.",
+      "source": "https://en.wikipedia.org/wiki/Em_High"
+    },
+    {
+      "text": "Joe Kidd (1972) was a lesser-known Eastwood western directed by John Sturges and set during the New Mexican land grant wars.",
+      "source": "https://en.wikipedia.org/wiki/Joe_Kidd"
+    },
+    {
+      "text": "Bronco Billy (1980) was Eastwood's affectionate comedy about a modern-day cowboy running a traveling Wild West show.",
+      "source": "https://en.wikipedia.org/wiki/Bronco_Billy"
+    },
+    {
+      "text": "Cry Macho (2021) was Eastwood's most recent film, making him the oldest director of a major studio release at 91.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Cry_Macho"
+    },
+    {
+      "text": "The Ox-Bow Incident (1943) was an early anti-lynching western that challenged the genre's usual moral simplicity.",
+      "source": "https://en.wikipedia.org/wiki/Ox-Bow_Incident"
+    },
+    {
+      "text": "Johnny Guitar (1954) starred Joan Crawford in a highly unusual western that has been interpreted as a McCarthy-era allegory.",
+      "source": "https://en.wikipedia.org/wiki/Johnny_Guitar"
+    },
+    {
+      "text": "The Treasure of the Sierra Madre (1948), directed by John Huston, is a western-adjacent film about gold prospectors driven mad by greed.",
+      "source": "https://en.wikipedia.org/wiki/Sierra_Madre"
+    },
+    {
+      "text": "Butch Cassidy's Hole-in-the-Wall hideout was a real remote valley in northern Wyoming used by outlaws as a refuge.",
+      "source": "https://en.wikipedia.org/wiki/Butch_Cassidy%27s_Hole-in-the-Wall_hideout"
+    },
+    {
+      "text": "The Sundance Kid got his nickname from the town of Sundance, Wyoming, where he was once jailed for horse theft.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Sundance_Kid_got_his_nickname_from_the_town_of_Sundance%2C_Wyoming%2C_where_he"
+    },
+    {
+      "text": "Butch Cassidy and the Sundance Kid features the famous cliff-jumping scene where Newman and Redford leap into a river to escape a posse.",
+      "source": "https://en.wikipedia.org/wiki/Butch_Cassidy_and_the_Sundance_Kid"
+    },
+    {
+      "text": "The bicycle scene in Butch Cassidy and the Sundance Kid, set to 'Raindrops Keep Fallin' on My Head,' won an Academy Award for Best Original Song.",
+      "source": "https://en.wikipedia.org/wiki/bicycle_scene_in_Butch_Cassidy_and_the_Sundance_Kid"
+    },
+    {
+      "text": "William Goldman wrote the screenplay for Butch Cassidy and the Sundance Kid, which sold for a then-record $400,000.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/William_Goldman"
+    },
+    {
+      "text": "Little Big Man (1970) starred Dustin Hoffman as a 121-year-old man recounting his life among the Cheyenne and at Custer's Last Stand.",
+      "source": "https://en.wikipedia.org/wiki/Little_Big_Man"
+    },
+    {
+      "text": "Jeremiah Johnson (1972) starred Robert Redford as a mountain man in the 1850s Rockies, filmed on location in Utah.",
+      "source": "https://en.wikipedia.org/wiki/Jeremiah_Johnson"
+    },
+    {
+      "text": "The Outlaw (1943), produced by Howard Hughes, was controversial for its emphasis on Jane Russell's physical appearance.",
+      "source": "https://en.wikipedia.org/wiki/Outlaw"
+    },
+    {
+      "text": "Cat Ballou (1965) won Lee Marvin the Academy Award for Best Actor for his dual role as a drunken gunfighter and his villainous twin.",
+      "source": "https://en.wikipedia.org/wiki/Cat_Ballou"
+    },
+    {
+      "text": "McCabe & Mrs. Miller (1971), directed by Robert Altman, deconstructed western myths with a bleak, rain-soaked Pacific Northwest setting.",
+      "source": "https://en.wikipedia.org/wiki/Mrs._Miller"
+    },
+    {
+      "text": "Pat Garrett and Billy the Kid (1973) was directed by Sam Peckinpah and featured Bob Dylan in an acting role and on the soundtrack.",
+      "source": "https://en.wikipedia.org/wiki/Kid"
+    },
+    {
+      "text": "The Ballad of Cable Hogue (1970) was Sam Peckinpah's most gentle western, a comedy-drama about a prospector finding water in the desert.",
+      "source": "https://en.wikipedia.org/wiki/Cable_Hogue"
+    },
+    {
+      "text": "Silverado (1985), directed by Lawrence Kasdan, was an ensemble western starring Kevin Kline, Scott Glenn, Danny Glover, and Kevin Costner.",
+      "source": "https://en.wikipedia.org/wiki/Silverado"
+    },
+    {
+      "text": "Young Guns (1988) featured the Brat Pack — Emilio Estevez, Kiefer Sutherland, Lou Diamond Phillips — reimagining Billy the Kid's story.",
+      "source": "https://en.wikipedia.org/wiki/Young_Guns"
+    },
+    {
+      "text": "Tombstone's famous line 'I'll be your huckleberry' was likely a period expression meaning 'I'm the right person for the job.'",
+      "source": "https://en.wikipedia.org/wiki/Tombstone%27s_famous_line_%27I%27ll_be_your_huckleberry"
+    },
+    {
+      "text": "Kurt Russell reportedly ghost-directed much of Tombstone after Kevin Jarre was removed as director.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Kurt_Russell_reportedly_ghost-directed_much_of_Tombstone_after_Kevin_Jarre"
+    },
+    {
+      "text": "Powers Boothe played the villain Curly Bill Brocius in Tombstone and was praised for his menacing performance.",
+      "source": "https://en.wikipedia.org/wiki/Powers_Boothe_played_the_villain_Curly_Bill_Brocius_in_Tombstone_and"
+    },
+    {
+      "text": "Sam Elliott played Virgil Earp in Tombstone, bringing his signature deep voice and mustache to the role.",
+      "source": "https://en.wikipedia.org/wiki/Sam_Elliott"
+    },
+    {
+      "text": "The Quick and the Dead (1995) starred Sharon Stone, Gene Hackman, Russell Crowe, and a young Leonardo DiCaprio in a stylish gunfight tournament western.",
+      "source": "https://en.wikipedia.org/wiki/Dead"
+    },
+    {
+      "text": "Legends of the Fall (1994) starred Brad Pitt in an epic western drama set in early 20th century Montana.",
+      "source": "https://en.wikipedia.org/wiki/Fall"
+    },
+    {
+      "text": "Maverick (1994) starred Mel Gibson, Jodie Foster, and James Garner in a fun, lighthearted western based on the 1950s TV show.",
+      "source": "https://en.wikipedia.org/wiki/Maverick"
+    },
+    {
+      "text": "City Slickers (1991) is a comedy western where Billy Crystal and friends go on a cattle drive led by Jack Palance's grizzled cowboy Curly.",
+      "source": "https://en.wikipedia.org/wiki/City_Slickers"
+    },
+    {
+      "text": "Jack Palance won the Best Supporting Actor Oscar for City Slickers and famously did one-armed push-ups on stage.",
+      "month": 3,
+      "day": 30,
+      "source": "https://en.wikipedia.org/wiki/Jack_Palance"
+    },
+    {
+      "text": "Lonesome Dove (1989) is a beloved TV miniseries based on Larry McMurtry's Pulitzer Prize-winning novel about a cattle drive from Texas to Montana.",
+      "source": "https://en.wikipedia.org/wiki/Lonesome_Dove"
+    },
+    {
+      "text": "Robert Duvall and Tommy Lee Jones starred in Lonesome Dove, delivering performances widely regarded as among the best in TV western history.",
+      "source": "https://en.wikipedia.org/wiki/Robert_Duvall_and_Tommy_Lee_Jones"
+    },
+    {
+      "text": "Broken Trail (2006) was an AMC miniseries starring Robert Duvall as a cowboy rescuing Chinese girls from forced labor.",
+      "source": "https://en.wikipedia.org/wiki/Broken_Trail"
+    },
+    {
+      "text": "Dead Man (1995), directed by Jim Jarmusch, is a surreal, black-and-white western starring Johnny Depp with a score by Neil Young.",
+      "source": "https://en.wikipedia.org/wiki/Dead_Man"
+    },
+    {
+      "text": "The Proposition (2005) is an Australian western set in the 1880s Outback, written by musician Nick Cave.",
+      "source": "https://en.wikipedia.org/wiki/Proposition"
+    },
+    {
+      "text": "Meek's Cutoff (2010), directed by Kelly Reichardt, is a minimalist western about settlers lost on the Oregon Trail.",
+      "source": "https://en.wikipedia.org/wiki/Meek%27s_Cutoff"
+    },
+    {
+      "text": "The Beguiled (1971 and 2017) is set during the Civil War at a Southern girls' school where an injured soldier disrupts the household.",
+      "source": "https://en.wikipedia.org/wiki/Beguiled_(1971_and_2017)"
+    },
+    {
+      "text": "Rango (2011) is an animated western comedy starring Johnny Depp as a chameleon who becomes the sheriff of a frontier town.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Rango"
+    },
+    {
+      "text": "No Country for Old Men is based on Cormac McCarthy's 2005 novel of the same name, set along the Texas-Mexico border.",
+      "source": "https://en.wikipedia.org/wiki/No_Country_for_Old_Men"
+    },
+    {
+      "text": "Javier Bardem's portrayal of Anton Chigurh in No Country for Old Men, with his cattle bolt weapon and bowl haircut, became instantly iconic.",
+      "source": "https://en.wikipedia.org/wiki/Javier_Bardem%27s"
+    },
+    {
+      "text": "Javier Bardem won the Academy Award for Best Supporting Actor for No Country for Old Men.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Javier_Bardem"
+    },
+    {
+      "text": "The Coen Brothers filmed No Country for Old Men in New Mexico and West Texas, capturing the spare, menacing landscape.",
+      "source": "https://en.wikipedia.org/wiki/Coen_Brothers"
+    },
+    {
+      "text": "Blood Meridian, another Cormac McCarthy western novel, has been called 'unfilmable' for decades due to its extreme violence.",
+      "source": "https://en.wikipedia.org/wiki/Blood_Meridian%2C_another_Cormac_McCarthy_western_novel"
+    },
+    {
+      "text": "All the Pretty Horses (2000), based on McCarthy's novel, starred Matt Damon in a coming-of-age western set in 1949 Texas and Mexico.",
+      "source": "https://en.wikipedia.org/wiki/Pretty_Horses"
+    },
+    {
+      "text": "The Ballad of Buster Scruggs (2018) by the Coen Brothers is a western anthology film consisting of six distinct short stories.",
+      "source": "https://en.wikipedia.org/wiki/Buster_Scruggs"
+    },
+    {
+      "text": "Django Unchained's script by Tarantino was 166 pages long, unusually lengthy for a Hollywood screenplay.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Django_Unchained%27s_script_by_Tarantino"
+    },
+    {
+      "text": "Leonardo DiCaprio cut his hand on broken glass during the filming of Django Unchained and continued acting, incorporating the real blood into the scene.",
+      "source": "https://en.wikipedia.org/wiki/Leonardo_DiCaprio"
+    },
+    {
+      "text": "Samuel L. Jackson's role as Stephen in Django Unchained was one of his most controversial, playing an enslaved man loyal to his enslaver.",
+      "source": "https://en.wikipedia.org/wiki/Samuel_L._Jackson%27s_role_as_Stephen_in_Django_Unchained"
+    },
+    {
+      "text": "Quentin Tarantino considers The Good, the Bad and the Ugly to be the greatest film ever made.",
+      "source": "https://en.wikipedia.org/wiki/Quentin_Tarantino"
+    },
+    {
+      "text": "The Hateful Eight was presented as a 70mm roadshow with an overture and intermission, echoing the epic films of the 1960s.",
+      "source": "https://en.wikipedia.org/wiki/Hateful_Eight"
+    },
+    {
+      "text": "The Revenant required a grueling 9-month shoot in remote locations in Canada and Argentina.",
+      "source": "https://en.wikipedia.org/wiki/Revenant"
+    },
+    {
+      "text": "Tom Hardy played the antagonist John Fitzgerald in The Revenant, earning a Best Supporting Actor nomination.",
+      "source": "https://en.wikipedia.org/wiki/Tom_Hardy"
+    },
+    {
+      "text": "Alejandro González Iñárritu won the Academy Award for Best Director for The Revenant, his second consecutive directing Oscar.",
+      "month": 2,
+      "day": 28,
+      "source": "https://en.wikipedia.org/wiki/Alejandro_Gonz%C3%A1lez_I%C3%B1%C3%A1rritu"
+    },
+    {
+      "text": "The bear attack scene in The Revenant took weeks to film and used a combination of CGI and practical effects.",
+      "source": "https://en.wikipedia.org/wiki/bear_attack_scene_in_The_Revenant"
+    },
+    {
+      "text": "Hell or High Water grossed $37.9 million domestically against a $12 million budget, becoming a sleeper hit.",
+      "source": "https://en.wikipedia.org/wiki/High_Water"
+    },
+    {
+      "text": "Ben Foster and Chris Pine played bank-robbing brothers in Hell or High Water, with Jeff Bridges as the pursuing Texas Ranger.",
+      "source": "https://en.wikipedia.org/wiki/Ben_Foster_and_Chris_Pine"
+    },
+    {
+      "text": "Jeff Bridges earned his seventh Academy Award nomination for Hell or High Water.",
+      "source": "https://en.wikipedia.org/wiki/Jeff_Bridges"
+    },
+    {
+      "text": "The Magnificent Seven (2016) was directed by Antoine Fuqua and marked the first time a Black actor led a western ensemble since the genre's golden age.",
+      "source": "https://en.wikipedia.org/wiki/Magnificent_Seven"
+    },
+    {
+      "text": "Denzel Washington became only the second Black actor to lead a major studio western since Sidney Poitier in Buck and the Preacher (1972).",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Preacher"
+    },
+    {
+      "text": "The western genre experienced its golden age in the 1940s and 1950s, when dozens of western films were released each year.",
+      "source": "https://en.wikipedia.org/wiki/Western_(genre)"
+    },
+    {
+      "text": "By the late 1960s, spaghetti westerns had largely displaced traditional Hollywood westerns in popularity.",
+      "source": "https://en.wikipedia.org/wiki/By_the_late_1960s%2C_spaghetti_westerns"
+    },
+    {
+      "text": "The western genre nearly died out in the 1980s before being revived by films like Silverado and Pale Rider.",
+      "source": "https://en.wikipedia.org/wiki/Silverado_and_Pale_Rider"
+    },
+    {
+      "text": "Dances with Wolves' Best Picture win in 1991 marked a major comeback for the western genre at the Academy Awards.",
+      "source": "https://en.wikipedia.org/wiki/Dances_with_Wolves%27_Best_Picture_win_in_1991"
+    },
+    {
+      "text": "The 2000s and 2010s saw a resurgence of westerns, often labeled 'neo-westerns,' blending modern settings with frontier themes.",
+      "source": "https://en.wikipedia.org/wiki/2000s_and_2010s"
+    },
+    {
+      "text": "The first western film ever made is generally considered to be The Great Train Robbery (1903), directed by Edwin S. Porter.",
+      "month": 12,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/Great_Train_Robbery"
+    },
+    {
+      "text": "The Great Train Robbery was only 12 minutes long but pioneered editing techniques and narrative storytelling in cinema.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Great_Train_Robbery"
+    },
+    {
+      "text": "Tom Mix was the biggest western star of the silent film era, appearing in 291 films between 1910 and 1935.",
+      "source": "https://en.wikipedia.org/wiki/Tom_Mix"
+    },
+    {
+      "text": "William S. Hart was one of the first major western film stars, known for bringing realism to the genre in the silent era.",
+      "source": "https://en.wikipedia.org/wiki/William_S._Hart"
+    },
+    {
+      "text": "Gene Autry was the original 'singing cowboy,' appearing in 93 feature films and owning the California Angels baseball team.",
+      "source": "https://en.wikipedia.org/wiki/Gene_Autry"
+    },
+    {
+      "text": "Roy Rogers, known as the 'King of the Cowboys,' appeared in over 100 films and was one of the most popular western stars of the 1940s and 1950s.",
+      "source": "https://en.wikipedia.org/wiki/Roy_Rogers%2C_known_as_the_%27King_of_the_Cowboys%2C%27_appeared_in_over_100_films_and"
+    },
+    {
+      "text": "Hopalong Cassidy, played by William Boyd, was one of the first TV western heroes, with his show airing from 1952 to 1954.",
+      "source": "https://en.wikipedia.org/wiki/Hopalong_Cassidy%2C_played_by_William_Boyd"
+    },
+    {
+      "text": "The Lone Ranger TV series, starring Clayton Moore, ran from 1949 to 1957 and popularized the silver bullet and mask imagery.",
+      "source": "https://en.wikipedia.org/wiki/Lone_Ranger_TV_series%2C_starring_Clayton_Moore"
+    },
+    {
+      "text": "Tonto, the Lone Ranger's companion, was played by Jay Silverheels, one of the first Native American actors to achieve mainstream fame.",
+      "source": "https://en.wikipedia.org/wiki/Tonto%2C_the_Lone_Ranger%27s_companion"
+    },
+    {
+      "text": "The Cisco Kid was one of the first TV characters to be shown in color, with the series airing 156 episodes from 1950 to 1956.",
+      "source": "https://en.wikipedia.org/wiki/Cisco_Kid"
+    },
+    {
+      "text": "Zorro is technically a western character — the masked swordsman first appeared in Johnston McCulley's 1919 story 'The Curse of Capistrano.'",
+      "source": "https://en.wikipedia.org/wiki/Zorro"
+    },
+    {
+      "text": "The western genre has been adapted globally, with 'curry westerns' in India, 'kimchi westerns' in Korea, and 'osterns' in Eastern Europe.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/western_genre"
+    },
+    {
+      "text": "Sukiyaki Western Django (2007) was a Japanese western directed by Takashi Miike, blending samurai and spaghetti western traditions.",
+      "source": "https://en.wikipedia.org/wiki/Sukiyaki_Western_Django"
+    },
+    {
+      "text": "El Topo (1970) by Alejandro Jodorowsky is a surrealist western that became one of the first midnight movies.",
+      "source": "https://en.wikipedia.org/wiki/El_Topo"
+    },
+    {
+      "text": "The Good, the Bad, the Weird (2008) is a South Korean western set in 1930s Manchuria, inspired by Leone's classic.",
+      "source": "https://en.wikipedia.org/wiki/Weird"
+    },
+    {
+      "text": "Australian westerns, sometimes called 'meat pie westerns,' include films like Quigley Down Under (1990) and The Proposition (2005).",
+      "source": "https://en.wikipedia.org/wiki/Quigley_Down_Under"
+    },
+    {
+      "text": "Quigley Down Under (1990) starred Tom Selleck as an American sharpshooter hired to work in the Australian Outback.",
+      "source": "https://en.wikipedia.org/wiki/Quigley_Down_Under"
+    },
+    {
+      "text": "The Dark Tower series by Stephen King blends western and fantasy genres, with a gunslinger as its central character.",
+      "source": "https://en.wikipedia.org/wiki/Dark_Tower"
+    },
+    {
+      "text": "Westworld (1973), the original film written and directed by Michael Crichton, was the first feature film to use digital image processing.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Westworld"
+    },
+    {
+      "text": "Back to the Future Part III (1990) is set in the Old West of 1885, making it a sci-fi western comedy.",
+      "source": "https://en.wikipedia.org/wiki/Future_Part_III"
+    },
+    {
+      "text": "Cowboys & Aliens (2011) blended the western and sci-fi genres, starring Daniel Craig and Harrison Ford.",
+      "source": "https://en.wikipedia.org/wiki/Aliens"
+    },
+    {
+      "text": "Wild Wild West (1999) starred Will Smith in a steampunk western that was a major box office disappointment.",
+      "source": "https://en.wikipedia.org/wiki/Wild_Wild_West"
+    },
+    {
+      "text": "The Valley of Gwangi (1969) combined westerns with dinosaurs, featuring Ray Harryhausen's stop-motion visual effects.",
+      "source": "https://en.wikipedia.org/wiki/Gwangi"
+    },
+    {
+      "text": "Firefly (2002–2003), created by Joss Whedon, was a space western TV series that developed an enormous cult following despite being cancelled after one season.",
+      "source": "https://en.wikipedia.org/wiki/Firefly_(2002%E2%80%932003)"
+    },
+    {
+      "text": "The Mandalorian (2019–present) has been described as a space western, drawing heavily from samurai and spaghetti western traditions.",
+      "source": "https://en.wikipedia.org/wiki/Mandalorian_(2019%E2%80%93present)"
+    },
+    {
+      "text": "Westworld's first season on HBO was the most-watched debut season in HBO history at the time of its premiere.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Westworld%27s_first_season_on_HBO"
+    },
+    {
+      "text": "Evan Rachel Wood and Thandiwe Newton received critical acclaim for their roles as sentient AI hosts in Westworld.",
+      "source": "https://en.wikipedia.org/wiki/Evan_Rachel_Wood_and_Thandiwe_Newton"
+    },
+    {
+      "text": "The western genre's decline in the 1970s coincided with the rise of the science fiction blockbuster, led by Star Wars (1977).",
+      "source": "https://en.wikipedia.org/wiki/Star_Wars"
+    },
+    {
+      "text": "George Lucas drew heavily from western and samurai films when creating Star Wars, particularly from John Ford and Akira Kurosawa.",
+      "source": "https://en.wikipedia.org/wiki/George_Lucas"
+    },
+    {
+      "text": "Many western tropes — the lone hero, the frontier town, the final showdown — were adapted directly into the sci-fi and superhero genres.",
+      "source": "https://en.wikipedia.org/wiki/Many_western_tropes_%E2%80%94_the_lone_hero%2C_the_frontier_town%2C_the_final_showdown_%E2%80%94"
+    },
+    {
+      "text": "The Dollars Trilogy was shot using Techniscope, a cheaper widescreen process that gave spaghetti westerns their distinctive grainy look.",
+      "source": "https://en.wikipedia.org/wiki/Dollars_Trilogy"
+    },
+    {
+      "text": "Sergio Leone pioneered the use of extreme close-ups of actors' eyes during standoff scenes, a technique widely imitated since.",
+      "source": "https://en.wikipedia.org/wiki/Sergio_Leone"
+    },
+    {
+      "text": "Leone's pacing, characterized by long, tension-building silences, was the opposite of the fast-paced American westerns of the era.",
+      "source": "https://en.wikipedia.org/wiki/Leone%27s_pacing%2C_characterized_by_long%2C_tension-building_silences"
+    },
+    {
+      "text": "Ennio Morricone and Sergio Leone were elementary school classmates in Rome before becoming collaborators.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Ennio_Morricone_and_Sergio_Leone"
+    },
+    {
+      "text": "Morricone received an honorary Academy Award in 2007 for his contributions to cinema before winning his first competitive Oscar for The Hateful Eight in 2016.",
+      "month": 2,
+      "day": 28,
+      "source": "https://en.wikipedia.org/wiki/Academy_Award_in_2007_for"
+    },
+    {
+      "text": "The score for The Hateful Eight was Ennio Morricone's first western score in over 40 years.",
+      "source": "https://en.wikipedia.org/wiki/score_for_The_Hateful_Eight"
+    },
+    {
+      "text": "Dimitri Tiomkin composed the scores for High Noon, Gunfight at the O.K. Corral, and Rio Bravo.",
+      "source": "https://en.wikipedia.org/wiki/Dimitri_Tiomkin"
+    },
+    {
+      "text": "The High Noon theme song 'Do Not Forsake Me, Oh My Darlin'' won the Academy Award for Best Original Song in 1953.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/High_Noon_theme_song_%27Do_Not_Forsake_Me%2C_Oh_My_Darlin"
+    },
+    {
+      "text": "Elmer Bernstein's score for The Magnificent Seven is one of the most recognized film scores in history and has been used in countless commercials.",
+      "source": "https://en.wikipedia.org/wiki/Elmer_Bernstein%27s_score_for_The_Magnificent_Seven"
+    },
+    {
+      "text": "Jerome Moross composed the sweeping score for The Big Country (1958), which became synonymous with the epic western landscape.",
+      "source": "https://en.wikipedia.org/wiki/Big_Country"
+    },
+    {
+      "text": "Hans Zimmer composed the scores for several modern westerns, including Spirit: Stallion of the Cimarron and The Lone Ranger (2013).",
+      "source": "https://en.wikipedia.org/wiki/Lone_Ranger"
+    },
+    {
+      "text": "Johnny Cash recorded several western-themed albums and appeared in western films and TV shows, including a guest role on Columbo.",
+      "source": "https://en.wikipedia.org/wiki/Johnny_Cash"
+    },
+    {
+      "text": "Marty Robbins' 'El Paso' (1959) is one of the most famous western-themed songs in country music history.",
+      "source": "https://en.wikipedia.org/wiki/El_Paso"
+    },
+    {
+      "text": "Ghosts of the Abyss director James Cameron originally planned to make a western before pivoting to Titanic.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Ghosts_of_the_Abyss"
+    },
+    {
+      "text": "Stagecoach (1939) established many western conventions: the diverse group of strangers, the Native American attack, and the hero's redemption.",
+      "source": "https://en.wikipedia.org/wiki/Stagecoach"
+    },
+    {
+      "text": "John Ford shot nine films in Monument Valley, including Stagecoach, She Wore a Yellow Ribbon, and The Searchers.",
+      "source": "https://en.wikipedia.org/wiki/John_Ford"
+    },
+    {
+      "text": "The Searchers features Ethan Edwards' famous doorway shot, framing John Wayne against the wilderness as a man who can never return to civilization.",
+      "source": "https://en.wikipedia.org/wiki/Searchers"
+    },
+    {
+      "text": "Martin Scorsese has cited The Searchers as a major influence on Taxi Driver (1976).",
+      "source": "https://en.wikipedia.org/wiki/Taxi_Driver"
+    },
+    {
+      "text": "Shane's final gunfight in the muddy saloon is considered one of the most perfectly staged action scenes in classic cinema.",
+      "source": "https://en.wikipedia.org/wiki/Shane%27s_final_gunfight_in_the_muddy_saloon"
+    },
+    {
+      "text": "Alan Ladd, who starred in Shane, stood only 5'6\" tall — camera angles and platform shoes were used to make him appear taller.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Alan_Ladd%2C_who_starred_in_Shane%2C_stood_only_5%276%22_tall_%E2%80%94_camera_angles_and_platform_shoes"
+    },
+    {
+      "text": "High Noon was filmed in just 28 days on a tight budget, contributing to its tense, stripped-down aesthetic.",
+      "source": "https://en.wikipedia.org/wiki/High_Noon"
+    },
+    {
+      "text": "Grace Kelly made one of her early major film appearances as the Quaker wife of Gary Cooper's marshal in High Noon.",
+      "source": "https://en.wikipedia.org/wiki/Grace_Kelly"
+    },
+    {
+      "text": "Stagecoach (1939) was nominated for seven Academy Awards and won two: Best Supporting Actor for Thomas Mitchell and Best Score.",
+      "source": "https://en.wikipedia.org/wiki/Stagecoach"
+    },
+    {
+      "text": "The Alamo (1960) was directed by and starred John Wayne as Davy Crockett, and was nominated for seven Academy Awards.",
+      "source": "https://en.wikipedia.org/wiki/Alamo"
+    },
+    {
+      "text": "How the West Was Won (1962) was filmed in three-panel Cinerama and featured an all-star cast including John Wayne, James Stewart, and Henry Fonda.",
+      "source": "https://en.wikipedia.org/wiki/West_Was_Won"
+    },
+    {
+      "text": "The Good, the Bad and the Ugly was actually the third film shot in the Dollars Trilogy but serves as a prequel set during the Civil War.",
+      "source": "https://en.wikipedia.org/wiki/Good%2C_the_Bad_and_the_Ugly"
+    },
+    {
+      "text": "Clint Eastwood was not Sergio Leone's first choice for A Fistful of Dollars — James Coburn and Charles Bronson both turned down the role.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Clint_Eastwood"
+    },
+    {
+      "text": "Lee Marvin starred in both Cat Ballou (1965) and Paint Your Wagon (1969), two of the rare western musicals.",
+      "source": "https://en.wikipedia.org/wiki/Cat_Ballou"
+    },
+    {
+      "text": "Paint Your Wagon (1969) featured Clint Eastwood singing, a rare and often-mocked departure from his tough-guy persona.",
+      "source": "https://en.wikipedia.org/wiki/Paint_Your_Wagon"
+    },
+    {
+      "text": "The Professionals (1966) starred Burt Lancaster and Lee Marvin on a mission to rescue a kidnapped woman from a Mexican bandit.",
+      "source": "https://en.wikipedia.org/wiki/Professionals"
+    },
+    {
+      "text": "Once Upon a Time in the West was a commercial failure in the United States upon release but became a massive hit in Europe.",
+      "source": "https://en.wikipedia.org/wiki/Once_Upon_a_Time_in_the_West"
+    },
+    {
+      "text": "The Wild Bunch (1969) was one of the first films to use slow-motion violence extensively, influencing action films for decades.",
+      "source": "https://en.wikipedia.org/wiki/Wild_Bunch"
+    },
+    {
+      "text": "Sam Peckinpah's use of multi-angle editing in The Wild Bunch's final shootout required over 3,600 individual edits.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Sam_Peckinpah%27s"
+    },
+    {
+      "text": "Bring Me the Head of Alfredo Garcia (1974) was Peckinpah's most personal film, set along the Texas-Mexico border.",
+      "source": "https://en.wikipedia.org/wiki/Alfredo_Garcia"
+    },
+    {
+      "text": "The Missouri Breaks (1976) paired Marlon Brando and Jack Nicholson in a quirky, revisionist western about horse thieves and a hired killer.",
+      "source": "https://en.wikipedia.org/wiki/Missouri_Breaks"
+    },
+    {
+      "text": "Heaven's Gate (1980), directed by Michael Cimino, was such a massive box office disaster that it effectively destroyed United Artists studio.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Heaven%27s_Gate"
+    },
+    {
+      "text": "Silverado (1985) was Kevin Costner's first significant western role, five years before Dances with Wolves.",
+      "source": "https://en.wikipedia.org/wiki/Silverado"
+    },
+    {
+      "text": "Young Guns II (1990) continued the Billy the Kid story and featured a Jon Bon Jovi soundtrack including 'Blaze of Glory.'",
+      "source": "https://en.wikipedia.org/wiki/Young_Guns_II"
+    },
+    {
+      "text": "Posse (1993), directed by Mario Van Peebles, highlighted the contributions of Black cowboys in the Old West.",
+      "source": "https://en.wikipedia.org/wiki/Posse"
+    },
+    {
+      "text": "One in four cowboys in the Old West was Black, but this fact was largely ignored by Hollywood until recent decades.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/One_in_four_cowboys_in_the_Old_West"
+    },
+    {
+      "text": "The Unforgiven (1960), directed by John Huston, starred Burt Lancaster and Audrey Hepburn in a western about racial prejudice — not to be confused with Eastwood's Unforgiven.",
+      "source": "https://en.wikipedia.org/wiki/Unforgiven"
+    },
+    {
+      "text": "Broken Arrow (1950) was one of the first major Hollywood westerns to portray Native Americans sympathetically.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Broken_Arrow"
+    },
+    {
+      "text": "Dances with Wolves ran 181 minutes in its theatrical cut and 236 minutes in its extended edition.",
+      "source": "https://en.wikipedia.org/wiki/Dances_with_Wolves"
+    },
+    {
+      "text": "Kevin Costner learned to ride bareback and speak Lakota for his role in Dances with Wolves.",
+      "source": "https://en.wikipedia.org/wiki/Kevin_Costner"
+    },
+    {
+      "text": "The Last of the Mohicans (1992), starring Daniel Day-Lewis, incorporated western elements despite being set in colonial-era New York.",
+      "source": "https://en.wikipedia.org/wiki/Mohicans"
+    },
+    {
+      "text": "Geronimo: An American Legend (1993), directed by Walter Hill, starred Wes Studi as the legendary Apache leader.",
+      "source": "https://en.wikipedia.org/wiki/Geronimo:_An_American_Legend"
+    },
+    {
+      "text": "Wes Studi became the first Native American actor to receive an Academy Honorary Award in 2019.",
+      "month": 10,
+      "day": 27,
+      "source": "https://en.wikipedia.org/wiki/Wes_Studi"
+    },
+    {
+      "text": "Dead Man's Walk (1996) and Comanche Moon (2008) were Lonesome Dove prequel miniseries based on Larry McMurtry's novels.",
+      "source": "https://en.wikipedia.org/wiki/Dead_Man%27s_Walk"
+    },
+    {
+      "text": "Into the West (2005) was a Steven Spielberg-produced miniseries following two families across 65 years of American westward expansion.",
+      "source": "https://en.wikipedia.org/wiki/West"
+    },
+    {
+      "text": "The Missing (2003), directed by Ron Howard, starred Cate Blanchett and Tommy Lee Jones in a story about rescuing a kidnapped girl in 1880s New Mexico.",
+      "source": "https://en.wikipedia.org/wiki/Missing"
+    },
+    {
+      "text": "Seraphim Falls (2006) starred Liam Neeson and Pierce Brosnan in a pursuit across the post-Civil War American West.",
+      "source": "https://en.wikipedia.org/wiki/Seraphim_Falls"
+    },
+    {
+      "text": "The Homesman (2014) starred Tommy Lee Jones and Hilary Swank in a bleak frontier story about transporting mentally ill women across the Nebraska Territory.",
+      "source": "https://en.wikipedia.org/wiki/Homesman"
+    },
+    {
+      "text": "Slow West won the Grand Jury Prize at the 2015 Sundance Film Festival.",
+      "source": "https://en.wikipedia.org/wiki/Slow_West"
+    },
+    {
+      "text": "The Keeping Room (2014) was a Civil War-era western told from the perspective of three women defending their home from rogue soldiers.",
+      "source": "https://en.wikipedia.org/wiki/Keeping_Room"
+    },
+    {
+      "text": "Hostiles (2017) was inspired by the manuscript of a story originally written by the late screenwriter Donald E. Stewart.",
+      "source": "https://en.wikipedia.org/wiki/Hostiles"
+    },
+    {
+      "text": "First Cow (2019), directed by Kelly Reichardt, is a quiet frontier drama about the friendship between a cook and a Chinese immigrant in 1820s Oregon.",
+      "source": "https://en.wikipedia.org/wiki/First_Cow"
+    },
+    {
+      "text": "The Kid (2019) reimagined the story of Billy the Kid with Ethan Hawke as Pat Garrett and Dane DeHaan as Billy.",
+      "source": "https://en.wikipedia.org/wiki/Kid"
+    },
+    {
+      "text": "News of the World earned four Academy Award nominations, including for cinematography and score.",
+      "source": "https://en.wikipedia.org/wiki/News_of_the_World"
+    },
+    {
+      "text": "The Power of the Dog starred Benedict Cumberbatch as a menacing Montana rancher whose cruelty hides a deep secret.",
+      "source": "https://en.wikipedia.org/wiki/Power_of_the_Dog"
+    },
+    {
+      "text": "Killers of the Flower Moon (2023), directed by Martin Scorsese, is based on the true story of murders of Osage Nation members in 1920s Oklahoma.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Flower_Moon"
+    },
+    {
+      "text": "Lily Gladstone became the first Native American actress nominated for the Academy Award for Best Actress for Killers of the Flower Moon.",
+      "month": 1,
+      "day": 23,
+      "source": "https://en.wikipedia.org/wiki/Lily_Gladstone"
+    },
+    {
+      "text": "Killers of the Flower Moon had a budget of approximately $200 million, making it one of the most expensive westerns ever produced.",
+      "source": "https://en.wikipedia.org/wiki/Killers_of_the_Flower_Moon"
+    },
+    {
+      "text": "Robert De Niro played William Hale in Killers of the Flower Moon, reuniting with Leonardo DiCaprio and Martin Scorsese.",
+      "source": "https://en.wikipedia.org/wiki/Robert_De_Niro"
+    },
+    {
+      "text": "Horizon: An American Saga – Chapter 1 (2024), directed by Kevin Costner, was a passion project the actor worked on for decades.",
+      "source": "https://en.wikipedia.org/wiki/Horizon:_An_American_Saga_%E2%80%93_Chapter_1_(2024)%2C_directed_by_Kevin_Costner"
+    },
+    {
+      "text": "John Wayne was awarded the Congressional Gold Medal in 1979, the highest civilian honor bestowed by Congress.",
+      "month": 5,
+      "day": 26,
+      "source": "https://en.wikipedia.org/wiki/John_Wayne"
+    },
+    {
+      "text": "The Alamo, the 1960 John Wayne film, cost $12 million to produce — one of the most expensive films made at that time.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Alamo"
+    },
+    {
+      "text": "Gary Cooper's restrained performance in High Noon was so convincing that many audience members believed the actor was genuinely afraid.",
+      "source": "https://en.wikipedia.org/wiki/Gary_Cooper%27s_restrained_performance_in_High_Noon"
+    },
+    {
+      "text": "Randolph Scott appeared in over 60 westerns during his career, becoming one of the genre's most reliable leading men.",
+      "source": "https://en.wikipedia.org/wiki/Randolph_Scott"
+    },
+    {
+      "text": "Jimmy Stewart starred in numerous westerns, including Winchester '73 (1950), The Man from Laramie (1955), and The Man Who Shot Liberty Valance (1962).",
+      "source": "https://en.wikipedia.org/wiki/Laramie"
+    },
+    {
+      "text": "Gregory Peck starred in several westerns, including The Gunfighter (1950), a film that influenced High Noon's real-time structure.",
+      "source": "https://en.wikipedia.org/wiki/Gunfighter"
+    },
+    {
+      "text": "Burt Lancaster brought intense physicality to westerns like Gunfight at the O.K. Corral (1957) and Valdez Is Coming (1971).",
+      "source": "https://en.wikipedia.org/wiki/O.K._Corral"
+    },
+    {
+      "text": "Kirk Douglas starred in westerns including Gunfight at the O.K. Corral and Lonely Are the Brave (1962).",
+      "source": "https://en.wikipedia.org/wiki/Brave"
+    },
+    {
+      "text": "Robert Mitchum starred in El Dorado (1966) opposite John Wayne and in the Australian western The Sundowners (1960).",
+      "source": "https://en.wikipedia.org/wiki/El_Dorado"
+    },
+    {
+      "text": "Yul Brynner shaved his head for The King and I and maintained the look for The Magnificent Seven, making it his signature.",
+      "source": "https://en.wikipedia.org/wiki/Yul_Brynner"
+    },
+    {
+      "text": "Charles Bronson was born Charles Dennis Buchinsky and grew up in a coal mining town in Pennsylvania before becoming a western icon.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Charles_Bronson"
+    },
+    {
+      "text": "James Coburn was known for his laconic cool in westerns like The Magnificent Seven and Pat Garrett and Billy the Kid.",
+      "source": "https://en.wikipedia.org/wiki/James_Coburn"
+    },
+    {
+      "text": "Steve McQueen's role as Vin in The Magnificent Seven established his reputation as the 'King of Cool.'",
+      "source": "https://en.wikipedia.org/wiki/Steve_McQueen%27s"
+    },
+    {
+      "text": "Robert Duvall has appeared in more western films and TV productions than almost any other living actor.",
+      "source": "https://en.wikipedia.org/wiki/Robert_Duvall"
+    },
+    {
+      "text": "Tommy Lee Jones has starred in numerous westerns and played multiple real-life western figures, including Woodrow Call in Lonesome Dove.",
+      "source": "https://en.wikipedia.org/wiki/Tommy_Lee_Jones"
+    },
+    {
+      "text": "Sam Elliott's distinctive voice and mustache have made him the quintessential modern western actor.",
+      "source": "https://en.wikipedia.org/wiki/Sam_Elliott%27s_distinctive_voice_and_mustache"
+    },
+    {
+      "text": "The western remains the only film genre to have an entire era of American history — the Old West — essentially defined by cinema rather than textbooks.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/western_remains_the_only_film_genre_to"
+    },
+    {
+      "text": "The term 'spaghetti western' was coined by Spanish journalist Alfonso Sánchez as a derogatory term that was later embraced by fans.",
+      "source": "https://en.wikipedia.org/wiki/term_%27spaghetti_western"
+    },
+    {
+      "text": "Django (1966) opens with the title character dragging a coffin through the mud, one of the genre's most memorable images.",
+      "source": "https://en.wikipedia.org/wiki/Django"
+    },
+    {
+      "text": "The Great Silence (1968), directed by Sergio Corbucci, is a snow-set spaghetti western with one of the bleakest endings in cinema history.",
+      "source": "https://en.wikipedia.org/wiki/Great_Silence"
+    },
+    {
+      "text": "Terence Hill and Bud Spencer starred in a series of popular spaghetti western comedies, including They Call Me Trinity (1970).",
+      "source": "https://en.wikipedia.org/wiki/They_Call_Me_Trinity"
+    },
+    {
+      "text": "Franco Nero, who played the original Django, made a cameo in Tarantino's Django Unchained.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Franco_Nero"
+    },
+    {
+      "text": "Sabata (1969) starred Lee Van Cleef as a sharpshooting bounty hunter in a lighter spaghetti western.",
+      "source": "https://en.wikipedia.org/wiki/Sabata"
+    },
+    {
+      "text": "The spaghetti western's influence extended to Hong Kong action cinema, with John Woo citing Leone as a major inspiration.",
+      "source": "https://en.wikipedia.org/wiki/Hong_Kong"
+    },
+    {
+      "text": "The Italian western composers — Morricone, Bruno Nicolai, Luis Bacalov — created a distinctive musical style that blended pop, classical, and folk elements.",
+      "source": "https://en.wikipedia.org/wiki/Italian_western_composers_%E2%80%94_Morricone%2C_Bruno_Nicolai%2C_Luis_Bacalov_%E2%80%94"
+    },
+    {
+      "text": "Luis Bacalov won the Academy Award for Best Original Score for Il Postino (1994), but his western scores for Django and others are equally celebrated.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Il_Postino"
+    },
+    {
+      "text": "Spaghetti westerns often featured dubbed dialogue because actors spoke their lines in different languages on set.",
+      "source": "https://en.wikipedia.org/wiki/Western_(genre)"
+    },
+    {
+      "text": "The western genre has inspired video games like Red Dead Redemption, which pays homage to films like The Good, the Bad and the Ugly and Unforgiven.",
+      "source": "https://en.wikipedia.org/wiki/western_genre"
+    },
+    {
+      "text": "Red Dead Redemption 2 (2018) is considered one of the greatest video games ever made, featuring a deeply detailed western open world.",
+      "source": "https://en.wikipedia.org/wiki/Red_Dead_Redemption_2_(2018)"
+    },
+    {
+      "text": "The Quick and the Dead (1995) was directed by Sam Raimi, who brought his kinetic visual style from the horror genre to a western setting.",
+      "source": "https://en.wikipedia.org/wiki/Dead"
+    },
+    {
+      "text": "Sharon Stone personally lobbied for Leonardo DiCaprio and Russell Crowe to be cast in The Quick and the Dead when the studio resisted.",
+      "source": "https://en.wikipedia.org/wiki/Sharon_Stone"
+    },
+    {
+      "text": "Tombstone's production was troubled by conflicts between director Kevin Jarre and the studio, leading to a chaotic shoot.",
+      "source": "https://en.wikipedia.org/wiki/Tombstone%27s_production"
+    },
+    {
+      "text": "Doc Holliday actually died of tuberculosis in a sanitarium in Glenwood Springs, Colorado, on November 8, 1887.",
+      "month": 11,
+      "day": 8,
+      "source": "https://en.wikipedia.org/wiki/Doc_Holliday"
+    },
+    {
+      "text": "Wyatt Earp lived until 1929, long enough to consult with early Hollywood filmmakers about westerns.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Wyatt_Earp"
+    },
+    {
+      "text": "Wyatt Earp befriended early western film stars Tom Mix and William S. Hart in his later years in Los Angeles.",
+      "source": "https://en.wikipedia.org/wiki/Wyatt_Earp"
+    },
+    {
+      "text": "The real Tombstone, Arizona, is now a tourist destination that reenacts the Gunfight at the O.K. Corral daily.",
+      "source": "https://en.wikipedia.org/wiki/real_Tombstone%2C_Arizona"
+    },
+    {
+      "text": "Billy the Kid's real name was likely Henry McCarty, though he also used the alias William H. Bonney.",
+      "source": "https://en.wikipedia.org/wiki/Billy_the_Kid%27s_real_name"
+    },
+    {
+      "text": "Billy the Kid killed his first man at age 18 and was shot dead by Pat Garrett at age 21, despite legends of a longer career.",
+      "month": 7,
+      "day": 14,
+      "source": "https://en.wikipedia.org/wiki/Billy_the_Kid_killed_his_first_man_at_age_18_and"
+    },
+    {
+      "text": "Pat Garrett was himself murdered in 1908 under mysterious circumstances that have never been fully solved.",
+      "month": 2,
+      "day": 29,
+      "source": "https://en.wikipedia.org/wiki/Pat_Garrett"
+    },
+    {
+      "text": "Geronimo's name became a battle cry used by American paratroopers in World War II when jumping from planes.",
+      "source": "https://en.wikipedia.org/wiki/Geronimo%27s_name"
+    },
+    {
+      "text": "Crazy Horse never allowed a photograph to be taken of him, and the famous Crazy Horse Memorial in South Dakota is based on descriptions.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Crazy_Horse"
+    },
+    {
+      "text": "The Battle of the Little Bighorn took place on June 25, 1876, and has been depicted in over 40 films.",
+      "month": 6,
+      "day": 25,
+      "source": "https://en.wikipedia.org/wiki/Battle_of_the_Little_Bighorn_took_place_on_June_25%2C_1876%2C_and"
+    },
+    {
+      "text": "Custer's Last Stand has been shown in films since They Died with Their Boots On (1941) starring Errol Flynn.",
+      "source": "https://en.wikipedia.org/wiki/Their_Boots_On"
+    },
+    {
+      "text": "The transcontinental railroad, completed on May 10, 1869, effectively ended the frontier era and transformed the western landscape forever.",
+      "month": 5,
+      "day": 10,
+      "source": "https://en.wikipedia.org/wiki/May_10"
+    },
+    {
+      "text": "The Lincoln County War, a conflict between rival cattle interests in New Mexico, made Billy the Kid famous.",
+      "source": "https://en.wikipedia.org/wiki/Lincoln_County_War"
+    },
+    {
+      "text": "Deadwood, South Dakota, was a real mining camp where Wild Bill Hickok was killed and where Calamity Jane lived.",
+      "source": "https://en.wikipedia.org/wiki/Deadwood%2C_South_Dakota"
+    },
+    {
+      "text": "Dodge City, Kansas, was one of the roughest frontier towns and the setting for several classic western films and TV shows.",
+      "source": "https://en.wikipedia.org/wiki/Dodge_City%2C_Kansas"
+    },
+    {
+      "text": "Abilene, Kansas, was the original cowtown, serving as the terminus of the Chisholm Trail and employing Wild Bill Hickok as marshal.",
+      "source": "https://en.wikipedia.org/wiki/Abilene%2C_Kansas"
+    },
+    {
+      "text": "The Chisholm Trail, used to drive cattle from Texas to Kansas railheads, is one of the most storied routes in western mythology.",
+      "source": "https://en.wikipedia.org/wiki/Chisholm_Trail%2C_used_to_drive_cattle_from_Texas_to_Kansas_railheads"
+    },
+    {
+      "text": "The Oregon Trail, spanning 2,170 miles from Missouri to Oregon, was traveled by over 400,000 settlers between 1840 and 1860.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Oregon_Trail%2C_spanning_2%2C170_miles_from_Missouri_to_Oregon"
+    },
+    {
+      "text": "Sergio Leone died on April 30, 1989, at the age of 60, before completing his planned film about the siege of Leningrad.",
+      "month": 4,
+      "day": 30,
+      "source": "https://en.wikipedia.org/wiki/Sergio_Leone"
+    },
+    {
+      "text": "Ennio Morricone passed away on July 6, 2020, at the age of 91, in Rome, Italy.",
+      "month": 7,
+      "day": 6,
+      "source": "https://en.wikipedia.org/wiki/Ennio_Morricone"
+    },
+    {
+      "text": "John Wayne died on June 11, 1979, at the age of 72, from stomach cancer.",
+      "month": 6,
+      "day": 11,
+      "source": "https://en.wikipedia.org/wiki/John_Wayne"
+    },
+    {
+      "text": "John Ford died on August 31, 1973, having won six Academy Awards — more than any director in history at that time.",
+      "month": 8,
+      "day": 31,
+      "source": "https://en.wikipedia.org/wiki/John_Ford_died_on_August_31%2C_1973%2C_having"
+    },
+    {
+      "text": "Sam Peckinpah died on December 28, 1984, at the age of 59.",
+      "month": 12,
+      "day": 28,
+      "source": "https://en.wikipedia.org/wiki/Sam_Peckinpah"
+    },
+    {
+      "text": "Clint Eastwood was born on May 31, 1930, in San Francisco, California.",
+      "month": 5,
+      "day": 31,
+      "source": "https://en.wikipedia.org/wiki/Clint_Eastwood"
+    },
+    {
+      "text": "The Academy Award for Best Picture has been won by a western film only three times: Cimarron, Dances with Wolves, and Unforgiven.",
+      "source": "https://en.wikipedia.org/wiki/Academy_Award_for_Best_Picture"
+    },
+    {
+      "text": "Unforgiven won Academy Awards for Best Picture, Best Director, Best Supporting Actor, and Best Film Editing.",
+      "month": 3,
+      "day": 29,
+      "source": "https://en.wikipedia.org/wiki/Unforgiven"
+    },
+    {
+      "text": "Dances with Wolves won seven Academy Awards at the 63rd ceremony, including Best Picture and Best Director.",
+      "month": 3,
+      "day": 25,
+      "source": "https://en.wikipedia.org/wiki/Dances_with_Wolves"
+    },
+    {
+      "text": "John Wayne was born Marion Robert Morrison on May 26, 1907, in Winterset, Iowa.",
+      "month": 5,
+      "day": 26,
+      "source": "https://en.wikipedia.org/wiki/John_Wayne"
+    },
+    {
+      "text": "Sergio Leone was born on January 3, 1929, in Rome, the son of silent film director Vincenzo Leone.",
+      "month": 1,
+      "day": 3,
+      "source": "https://en.wikipedia.org/wiki/Sergio_Leone"
+    },
+    {
+      "text": "Ennio Morricone was born on November 10, 1928, in Rome, Italy.",
+      "month": 11,
+      "day": 10,
+      "source": "https://en.wikipedia.org/wiki/Ennio_Morricone"
+    },
+    {
+      "text": "A Fistful of Dollars premiered in Italy on September 12, 1964.",
+      "month": 9,
+      "day": 12,
+      "source": "https://en.wikipedia.org/wiki/A_Fistful_of_Dollars"
+    },
+    {
+      "text": "The Good, the Bad and the Ugly premiered in Italy on December 23, 1966.",
+      "month": 12,
+      "day": 23,
+      "source": "https://en.wikipedia.org/wiki/Good"
+    },
+    {
+      "text": "Stagecoach premiered on February 2, 1939, in a landmark moment for the western genre.",
+      "month": 2,
+      "day": 2,
+      "source": "https://en.wikipedia.org/wiki/February_2"
+    },
+    {
+      "text": "High Noon premiered on July 24, 1952.",
+      "month": 7,
+      "day": 24,
+      "source": "https://en.wikipedia.org/wiki/High_Noon"
+    },
+    {
+      "text": "Shane premiered on April 23, 1953.",
+      "month": 4,
+      "day": 23,
+      "source": "https://en.wikipedia.org/wiki/April_23"
+    },
+    {
+      "text": "The Searchers premiered on May 26, 1956.",
+      "month": 5,
+      "day": 26,
+      "source": "https://en.wikipedia.org/wiki/Searchers"
+    }
+  ]
+}

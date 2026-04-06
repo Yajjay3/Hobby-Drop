@@ -1,0 +1,1674 @@
+{
+  "hobby": "Witches & Wizards",
+  "facts": [
+    {
+      "text": "Gandalf the Grey was originally sent to Middle-earth as one of five Istari, angelic beings tasked with guiding the free peoples against Sauron.",
+      "source": "https://en.wikipedia.org/wiki/Gandalf_the_Grey"
+    },
+    {
+      "text": "The Salem witch trials of 1692 resulted in the execution of 20 people, 19 by hanging and one by pressing with heavy stones.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Salem"
+    },
+    {
+      "text": "Harry Potter and the Sorcerer's Stone was released as a film on November 16, 2001, becoming the highest-grossing film of that year.",
+      "month": 11,
+      "day": 16,
+      "source": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Sorcerer%27s_Stone"
+    },
+    {
+      "text": "Circe, the enchantress from Greek mythology, was said to live on the island of Aeaea and could transform men into animals using potions and spells.",
+      "source": "https://en.wikipedia.org/wiki/Circe%2C_the_enchantress_from_Greek_mythology"
+    },
+    {
+      "text": "The Malleus Maleficarum, published in 1487, was a treatise on the prosecution of witches that became the handbook for witch hunters across Europe.",
+      "month": 12,
+      "day": 5,
+      "source": "https://en.wikipedia.org/wiki/Malleus_Maleficarum%2C_published_in_1487"
+    },
+    {
+      "text": "Houdini, born Erik Weisz in Budapest in 1874, became the most famous stage magician and escape artist of all time.",
+      "source": "https://en.wikipedia.org/wiki/Houdini%2C_born_Erik_Weisz_in_Budapest_in_1874"
+    },
+    {
+      "text": "Gerald Gardner, often called the 'Father of Wicca,' published 'Witchcraft Today' in 1954, bringing modern witchcraft into public awareness.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Gerald_Gardner%2C_often"
+    },
+    {
+      "text": "In Terry Pratchett's Discworld series, Rincewind is a wizard who can't actually perform magic and whose main talent is running away from danger.",
+      "source": "https://en.wikipedia.org/wiki/In_Terry_Pratchett%27s_Discworld_series%2C_Rincewind"
+    },
+    {
+      "text": "The Wizard of Oz (1939) was one of the first films to use Technicolor extensively, making the transition from sepia-toned Kansas to colorful Oz iconic.",
+      "source": "https://en.wikipedia.org/wiki/Oz"
+    },
+    {
+      "text": "Baba Yaga, a figure from Slavic folklore, lives in a hut that stands on chicken legs and flies through the air in a giant mortar.",
+      "source": "https://en.wikipedia.org/wiki/Baba_Yaga"
+    },
+    {
+      "text": "Tarot cards were originally created in the 15th century as playing cards in Italy before being associated with divination and the occult.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Tarot_cards"
+    },
+    {
+      "text": "The TV show Bewitched premiered on September 17, 1964, and ran for eight seasons, starring Elizabeth Montgomery as the nose-twitching witch Samantha Stephens.",
+      "month": 9,
+      "day": 17,
+      "source": "https://en.wikipedia.org/wiki/TV_show_Bewitched_premiered_on_September_17%2C_1964%2C_and"
+    },
+    {
+      "text": "In the Harry Potter universe, the Elder Wand is one of three Deathly Hallows and is considered the most powerful wand ever made.",
+      "source": "https://en.wikipedia.org/wiki/In_the_Harry_Potter_universe%2C_the_Elder_Wand"
+    },
+    {
+      "text": "Merlin, the legendary wizard of Arthurian legend, is said to have been born of a mortal woman and an incubus, giving him prophetic and magical powers.",
+      "source": "https://en.wikipedia.org/wiki/Merlin%2C_the_legendary_wizard_of_Arthurian_legend"
+    },
+    {
+      "text": "The Wiccan Rede, 'An it harm none, do what ye will,' is the central ethical guideline followed by many practitioners of Wicca.",
+      "source": "https://en.wikipedia.org/wiki/Wiccan_Rede%2C_%27An_it_harm_none%2C_do_what_ye_will"
+    },
+    {
+      "text": "Albus Dumbledore's full name in the Harry Potter series is Albus Percival Wulfric Brian Dumbledore.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Albus_Dumbledore%27s_full_name_in_the_Harry_Potter_series"
+    },
+    {
+      "text": "The 1996 film The Craft followed four teenage girls who form a coven and discover real witchcraft powers, becoming a cult classic.",
+      "source": "https://en.wikipedia.org/wiki/1996"
+    },
+    {
+      "text": "Morgan le Fay, from Arthurian legend, is depicted alternately as a healer, enchantress, and antagonist to King Arthur.",
+      "source": "https://en.wikipedia.org/wiki/Morgan_le_Fay%2C_from_Arthurian_legend"
+    },
+    {
+      "text": "David Copperfield made the Statue of Liberty disappear on live television in 1983, one of the most famous illusions ever performed.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/David_Copperfield"
+    },
+    {
+      "text": "In Dungeons & Dragons, wizards prepare spells from spellbooks, while sorcerers cast magic through innate power, reflecting different magical traditions.",
+      "source": "https://en.wikipedia.org/wiki/In_Dungeons"
+    },
+    {
+      "text": "The first person executed in the Salem witch trials was Bridget Bishop, hanged on June 10, 1692.",
+      "month": 6,
+      "day": 10,
+      "source": "https://en.wikipedia.org/wiki/first_person_executed_in_the_Salem_witch_trials"
+    },
+    {
+      "text": "Brandon Sanderson's First Law of Magic states: 'An author's ability to solve conflict with magic is directly proportional to how well the reader understands said magic.'",
+      "source": "https://en.wikipedia.org/wiki/Brandon_Sanderson%27s_First_Law_of_Magic"
+    },
+    {
+      "text": "Charmed premiered on October 7, 1998, following three sisters who are the most powerful good witches of all time, known as the Charmed Ones.",
+      "month": 10,
+      "day": 7,
+      "source": "https://en.wikipedia.org/wiki/Charmed_premiered_on_October_7%2C_1998%2C_following_three_sisters_who"
+    },
+    {
+      "text": "The Pendle witch trials of 1612 in Lancashire, England, are among the most famous witch trials in English history, resulting in ten executions.",
+      "source": "https://en.wikipedia.org/wiki/Pendle_witch_trials_of_1612_in_Lancashire%2C_England"
+    },
+    {
+      "text": "Sabrina the Teenage Witch, both the 1996 sitcom and 2018 Netflix reboot, were based on the Archie Comics character created in 1962.",
+      "source": "https://en.wikipedia.org/wiki/Sabrina_the_Teenage_Witch%2C_both_the_1996_sitcom_and_2018_Netflix_reboot"
+    },
+    {
+      "text": "In the Harry Potter series, there are three Unforgivable Curses: the Killing Curse (Avada Kedavra), the Cruciatus Curse (Crucio), and the Imperius Curse (Imperio).",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/In_the_Harry_Potter_series%2C_there"
+    },
+    {
+      "text": "Scotland executed more people for witchcraft per capita than any other country in Europe, with an estimated 3,837 people accused between 1563 and 1736.",
+      "source": "https://en.wikipedia.org/wiki/Witches_%26_Wizards"
+    },
+    {
+      "text": "The concept of a witch's familiar — an animal companion with supernatural powers — originated in English witch trial testimonies of the 16th and 17th centuries.",
+      "source": "https://en.wikipedia.org/wiki/Witches_%26_Wizards"
+    },
+    {
+      "text": "Penn & Teller have performed together since 1975, making them one of the longest-running magic acts in history.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Penn_%26_Teller"
+    },
+    {
+      "text": "Ged, the protagonist of Ursula K. Le Guin's Earthsea series, accidentally releases a shadow creature while studying at the wizard school on Roke Island.",
+      "source": "https://en.wikipedia.org/wiki/Ursula_K._Le_Guin%27s_Earthsea"
+    },
+    {
+      "text": "The word 'wizard' comes from the Middle English 'wys' meaning 'wise,' originally simply meaning a wise person.",
+      "source": "https://en.wikipedia.org/wiki/Middle_English"
+    },
+    {
+      "text": "Hocus Pocus, released on July 16, 1993, was a box office disappointment but became one of the most beloved Halloween films of all time.",
+      "month": 7,
+      "day": 16,
+      "source": "https://en.wikipedia.org/wiki/Hocus_Pocus"
+    },
+    {
+      "text": "In European folklore, witches were believed to fly on broomsticks, a belief possibly connected to hallucinogenic ointments applied to the body.",
+      "source": "https://en.wikipedia.org/wiki/In_European_folklore%2C_witches"
+    },
+    {
+      "text": "The BBC series Merlin ran from 2008 to 2012, reimagining the Arthurian legend with a young Merlin serving as Arthur's servant in Camelot.",
+      "source": "https://en.wikipedia.org/wiki/BBC_series_Merlin"
+    },
+    {
+      "text": "Wiccan sabbats include eight seasonal festivals forming the Wheel of the Year, including Samhain, Beltane, and the solstices.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Wheel_of_the_Year"
+    },
+    {
+      "text": "The Magicians, based on Lev Grossman's novels, premiered on Syfy in 2015, following students at Brakebills University for Magical Pedagogy.",
+      "source": "https://en.wikipedia.org/wiki/Magicians"
+    },
+    {
+      "text": "Giles Corey, accused during the Salem witch trials, was pressed to death with heavy stones when he refused to enter a plea, reportedly saying 'More weight.'",
+      "source": "https://en.wikipedia.org/wiki/Giles_Corey%2C_accused_during_the_Salem_witch_trials"
+    },
+    {
+      "text": "In Harry Potter, Hogwarts School of Witchcraft and Wizardry was founded around 990 AD by Godric Gryffindor, Helga Hufflepuff, Rowena Ravenclaw, and Salazar Slytherin.",
+      "source": "https://en.wikipedia.org/wiki/In_Harry_Potter%2C_Hogwarts_School_of_Witchcraft_and_Wizardry"
+    },
+    {
+      "text": "Medea, in Greek mythology, was a sorceress and granddaughter of the sun god Helios who helped Jason obtain the Golden Fleece.",
+      "source": "https://en.wikipedia.org/wiki/Medea%2C_in_Greek_mythology"
+    },
+    {
+      "text": "Doctor Strange made his first appearance in Marvel's Strange Tales #110 in July 1963 and became the Sorcerer Supreme of the Marvel Universe.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Doctor_Strange_made_his_first_appearance_in_Marvel%27s_Strange_Tales_%23110_in_July_1963_and"
+    },
+    {
+      "text": "The tradition of wearing witch costumes on Halloween dates back to the Celtic festival of Samhain, when people dressed in disguises to ward off ghosts.",
+      "source": "https://en.wikipedia.org/wiki/Witches_%26_Wizards"
+    },
+    {
+      "text": "Raistlin Majere from the Dragonlance series is one of fantasy literature's most complex wizard characters, trading his health for magical power.",
+      "source": "https://en.wikipedia.org/wiki/Raistlin_Majere_from_the_Dragonlance_series"
+    },
+    {
+      "text": "Crystal balls have been used for scrying — gazing to see visions — since at least the first century AD, with references in Roman literature.",
+      "source": "https://en.wikipedia.org/wiki/Crystal_balls"
+    },
+    {
+      "text": "The Witch of Endor, mentioned in the Bible's Book of Samuel, was consulted by King Saul to summon the spirit of the dead prophet Samuel.",
+      "source": "https://en.wikipedia.org/wiki/Witch_of_Endor%2C_mentioned_in_the_Bible%27s_Book_of_Samuel"
+    },
+    {
+      "text": "WandaVision, released in January 2021, explored Wanda Maximoff's reality-warping powers through the lens of classic American sitcoms.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/WandaVision"
+    },
+    {
+      "text": "In the Harry Potter universe, a Patronus is a protective magical guardian that takes the form of an animal reflecting the caster's personality.",
+      "source": "https://en.wikipedia.org/wiki/In_the_Harry_Potter_universe%2C_a_Patronus"
+    },
+    {
+      "text": "The cunning folk of medieval and early modern Europe were practitioners of folk magic who provided services like healing, fortune-telling, and removing curses.",
+      "source": "https://en.wikipedia.org/wiki/cunning_folk_of_medieval_and_early_modern_Europe"
+    },
+    {
+      "text": "Fantasia (1940) features Mickey Mouse as the Sorcerer's Apprentice, one of the most iconic scenes in animation history, set to Paul Dukas's music.",
+      "source": "https://en.wikipedia.org/wiki/Fantasia"
+    },
+    {
+      "text": "The last person executed for witchcraft in Europe was Anna Göldi in Switzerland in 1782.",
+      "type": "did-you-know",
+      "month": 6,
+      "day": 13,
+      "source": "https://en.wikipedia.org/wiki/last_person_executed_for_witchcraft_in_Europe"
+    },
+    {
+      "text": "Belgarath the Sorcerer, from David Eddings' Belgariad series, is a 7,000-year-old sorcerer who serves as mentor to the young hero Garion.",
+      "source": "https://en.wikipedia.org/wiki/Belgarath_the_Sorcerer%2C_from_David_Eddings%27_Belgariad_series"
+    },
+    {
+      "text": "In the Harry Potter series, the Marauder's Map was created by James Potter, Sirius Black, Remus Lupin, and Peter Pettigrew during their time at Hogwarts.",
+      "source": "https://en.wikipedia.org/wiki/In_the_Harry_Potter_series%2C_the_Marauder%27s_Map"
+    },
+    {
+      "text": "Once Upon a Time, premiering in 2011, reimagined fairy tale characters including Rumplestiltskin, the Evil Queen, and various witches in the town of Storybrooke.",
+      "source": "https://en.wikipedia.org/wiki/Once_Upon"
+    },
+    {
+      "text": "The Hammer of Witches (Malleus Maleficarum) argued that women were more susceptible to witchcraft due to their supposed moral weakness.",
+      "source": "https://en.wikipedia.org/wiki/Hammer_of_Witches_(Malleus_Maleficarum)_argued_that_women"
+    },
+    {
+      "text": "Criss Angel's Mindfreak TV series ran from 2005 to 2010, showcasing elaborate street magic and large-scale illusions in Las Vegas.",
+      "source": "https://en.wikipedia.org/wiki/Criss_Angel%27s_Mindfreak_TV_series"
+    },
+    {
+      "text": "Halloween, celebrated on October 31, has deep connections to witchcraft lore, originating from the Celtic festival of Samhain.",
+      "month": 10,
+      "day": 31,
+      "source": "https://en.wikipedia.org/wiki/Halloween%2C_celebrated_on_October_31"
+    },
+    {
+      "text": "In Wicca, the Book of Shadows is a personal journal where practitioners record spells, rituals, and magical experiences.",
+      "source": "https://en.wikipedia.org/wiki/In_Wicca%2C_the_Book_of_Shadows"
+    },
+    {
+      "text": "The Wonderful Wizard of Oz by L. Frank Baum, published in 1900, introduced the Wicked Witch of the West as one of literature's most enduring villains.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Wonderful_Wizard_of_Oz_by_L._Frank_Baum%2C_published_in_1900"
+    },
+    {
+      "text": "Practical Magic (1998), starring Sandra Bullock and Nicole Kidman, follows two witch sisters trying to break their family's curse.",
+      "source": "https://en.wikipedia.org/wiki/Practical_Magic"
+    },
+    {
+      "text": "Heinrich Kramer, author of the Malleus Maleficarum, was a Dominican friar whose work was initially condemned by the Catholic Church but later widely adopted.",
+      "source": "https://en.wikipedia.org/wiki/Heinrich_Kramer%2C_author_of_the_Malleus_Maleficarum"
+    },
+    {
+      "text": "In Harry Potter, the Sorting Hat was originally owned by Godric Gryffindor and was enchanted by all four Hogwarts founders to sort students into houses.",
+      "source": "https://en.wikipedia.org/wiki/In_Harry_Potter%2C_the_Sorting_Hat"
+    },
+    {
+      "text": "The Trier witch trials in Germany (1581–1593) were among the largest witch trials in European history, executing an estimated 368 people.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Trier_witch_trials_in_Germany_(1581%E2%80%931593)"
+    },
+    {
+      "text": "Dynamo (Steven Frayne), the British street magician, became famous for walking on water across the River Thames in 2011.",
+      "source": "https://en.wikipedia.org/wiki/Dynamo_(Steven_Frayne)%2C_the_British_street_magician"
+    },
+    {
+      "text": "In Slavic mythology, Baba Yaga sometimes helps heroes who approach her respectfully, making her an ambiguous figure rather than purely evil.",
+      "source": "https://en.wikipedia.org/wiki/In_Slavic"
+    },
+    {
+      "text": "The Harry Potter film franchise is one of the highest-grossing film series of all time, earning over $7.7 billion worldwide across eight films.",
+      "source": "https://en.wikipedia.org/wiki/Harry_Potter_film_franchise"
+    },
+    {
+      "text": "Buffy the Vampire Slayer featured Willow Rosenberg's journey from amateur witch to one of the most powerful magic users in television history.",
+      "source": "https://en.wikipedia.org/wiki/Buffy_the_Vampire_Slayer"
+    },
+    {
+      "text": "The concept of a magic wand appears across many cultures, from the caduceus of Hermes to the staff of Moses to modern fictional wands.",
+      "source": "https://en.wikipedia.org/wiki/Hermes_to_the"
+    },
+    {
+      "text": "Tituba, an enslaved woman in Salem, was one of the first three people accused during the Salem witch trials in 1692 and gave dramatic testimony about the devil.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Tituba%2C_an_enslaved_woman_in_Salem"
+    },
+    {
+      "text": "Elphaba, the Wicked Witch of the West in Gregory Maguire's novel Wicked (1995), was reimagined as a misunderstood hero fighting against oppression.",
+      "source": "https://en.wikipedia.org/wiki/Wicked"
+    },
+    {
+      "text": "The Harry Potter series introduced the concept of Horcruxes — objects containing fragments of a dark wizard's soul as a means to achieve immortality.",
+      "source": "https://en.wikipedia.org/wiki/Harry_Potter_series"
+    },
+    {
+      "text": "In medieval Europe, accused witches were sometimes subjected to the 'swimming test,' where they were thrown into water to see if they would float (guilty) or sink (innocent).",
+      "source": "https://en.wikipedia.org/wiki/In_medieval_Europe%2C_accused_witches"
+    },
+    {
+      "text": "I Dream of Jeannie premiered on September 18, 1965, featuring Barbara Eden as a 2,000-year-old genie discovered by an astronaut.",
+      "month": 9,
+      "day": 18,
+      "source": "https://en.wikipedia.org/wiki/I_Dream_of_Jeannie"
+    },
+    {
+      "text": "In the Harry Potter universe, Diagon Alley is the magical shopping street in London where witches and wizards buy wands, spellbooks, and supplies.",
+      "source": "https://en.wikipedia.org/wiki/In_the_Harry_Potter_universe%2C_Diagon_Alley"
+    },
+    {
+      "text": "The Würzburg witch trials (1626–1631) in Germany led to the execution of an estimated 900 people, including children and clergy.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Witches_%26_Wizards"
+    },
+    {
+      "text": "Astrology and witchcraft have been historically linked, with many accused witches charged with using astrological charts to predict the future.",
+      "source": "https://en.wikipedia.org/wiki/Astrology_and_witchcraft"
+    },
+    {
+      "text": "The musical Wicked opened on Broadway on October 30, 2003, and became one of the longest-running shows in Broadway history.",
+      "month": 10,
+      "day": 30,
+      "source": "https://en.wikipedia.org/wiki/musical_Wicked"
+    },
+    {
+      "text": "In Dungeons & Dragons, the warlock class gains magic through a pact with a powerful otherworldly being, unlike wizards who study magic academically.",
+      "source": "https://en.wikipedia.org/wiki/In_Dungeons"
+    },
+    {
+      "text": "The Brocken, the highest peak in Germany's Harz Mountains, is legendary as the gathering place for witches on Walpurgis Night (April 30).",
+      "source": "https://en.wikipedia.org/wiki/Brocken%2C_the_highest_peak_in_Germany%27s_Harz_Mountains"
+    },
+    {
+      "text": "Harry Potter author J.K. Rowling was rejected by 12 publishers before Bloomsbury accepted the first book in 1997.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Harry_Potter_author_J.K._Rowling"
+    },
+    {
+      "text": "In Terry Pratchett's Discworld, Granny Weatherwax is considered the most powerful witch on the Disc, relying on 'headology' rather than overt magic.",
+      "source": "https://en.wikipedia.org/wiki/In_Terry_Pratchett%27s_Discworld%2C_Granny_Weatherwax"
+    },
+    {
+      "text": "The witch's hat, now an iconic Halloween symbol, may have originated from the pointed caps worn by outcast groups in medieval Europe.",
+      "source": "https://en.wikipedia.org/wiki/witch%27s_hat%2C_now_an_iconic_Halloween_symbol%2C_may"
+    },
+    {
+      "text": "Maleficent, Disney's iconic witch villain from Sleeping Beauty (1959), was reimagined as a sympathetic character in the 2014 live-action film starring Angelina Jolie.",
+      "source": "https://en.wikipedia.org/wiki/Sleeping_Beauty"
+    },
+    {
+      "text": "The North Berwick witch trials of 1590 in Scotland involved over 70 people accused of using witchcraft to create storms to sink the ship of King James VI.",
+      "source": "https://en.wikipedia.org/wiki/North_Berwick"
+    },
+    {
+      "text": "In the Harry Potter series, Quidditch is played on broomsticks with four balls: one Quaffle, two Bludgers, and one Golden Snitch.",
+      "source": "https://en.wikipedia.org/wiki/In_the_Harry_Potter_series%2C_Quidditch"
+    },
+    {
+      "text": "Houdini spent the last years of his life debunking spiritualists and fake mediums, offering cash rewards to anyone who could demonstrate genuine supernatural powers.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Houdini"
+    },
+    {
+      "text": "The Fairy tale of Hansel and Gretel, published by the Brothers Grimm in 1812, features one of the most famous witches in children's literature.",
+      "source": "https://en.wikipedia.org/wiki/Fairy_tale_of_Hansel_and_Gretel%2C_published_by_the_Brothers_Grimm_in_1812"
+    },
+    {
+      "text": "Cotton Mather, a Puritan minister, played a significant role in the Salem witch trials by publishing works supporting the prosecution of accused witches.",
+      "source": "https://en.wikipedia.org/wiki/Cotton_Mather"
+    },
+    {
+      "text": "In Brandon Sanderson's Mistborn series, the magic system of Allomancy allows users to 'burn' ingested metals to gain specific powers.",
+      "source": "https://en.wikipedia.org/wiki/In_Brandon_Sanderson%27s_Mistborn"
+    },
+    {
+      "text": "The Bewitched TV series (1964-1972) was one of the first shows to feature a witch as a sympathetic main character rather than a villain.",
+      "source": "https://en.wikipedia.org/wiki/Bewitched_TV_series_(1964-1972)"
+    },
+    {
+      "text": "Modern Wicca recognizes both a God and Goddess, often associated with the Horned God and the Triple Goddess (Maiden, Mother, Crone).",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Modern_Wicca"
+    },
+    {
+      "text": "Doctor Strange in the Multiverse of Madness (2022) explored the concept of the Darkhold, a book of dark magic written by the demon Chthon.",
+      "source": "https://en.wikipedia.org/wiki/Madness"
+    },
+    {
+      "text": "In the Harry Potter universe, the Mirror of Erised shows the viewer their deepest desire, with its name being 'desire' spelled backwards.",
+      "source": "https://en.wikipedia.org/wiki/In_the_Harry_Potter"
+    },
+    {
+      "text": "The Lancashire witch trials of 1612 are documented in Thomas Potts' account 'The Wonderfull Discoverie of Witches in the Countie of Lancaster.'",
+      "source": "https://en.wikipedia.org/wiki/Lancashire_witch_trials_of_1612"
+    },
+    {
+      "text": "In Greek mythology, Hecate was the goddess of witchcraft, crossroads, and ghosts, often depicted holding torches and accompanied by dogs.",
+      "source": "https://en.wikipedia.org/wiki/In_Greek_mythology%2C_Hecate"
+    },
+    {
+      "text": "The Harry Potter Sorting Hat originally belonged to Godric Gryffindor and can pull the Sword of Gryffindor from itself for worthy students.",
+      "source": "https://en.wikipedia.org/wiki/Harry_Potter_Sorting_Hat"
+    },
+    {
+      "text": "Samhain, celebrated October 31-November 1, is one of the most important Wiccan sabbats, marking the Wiccan New Year and honoring the dead.",
+      "source": "https://en.wikipedia.org/wiki/Samhain%2C_celebrated_October_31-November_1"
+    },
+    {
+      "text": "The Witch (2015), directed by Robert Eggers, depicted a Puritan family in 1630s New England encountering genuine witchcraft in the wilderness.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Witch"
+    },
+    {
+      "text": "In the Lord of the Rings, Gandalf is actually a Maia, a spiritual being who existed before the creation of Middle-earth.",
+      "source": "https://en.wikipedia.org/wiki/In_the_Lord_of_the_Rings%2C_Gandalf"
+    },
+    {
+      "text": "Agnes Waterhouse was the first woman executed for witchcraft in England, hanged in Chelmsford in 1566.",
+      "source": "https://en.wikipedia.org/wiki/Agnes_Waterhouse"
+    },
+    {
+      "text": "The Harry Potter series mentions over 80 different spells, from the simple 'Lumos' (light) to the deadly 'Avada Kedavra' (killing curse).",
+      "source": "https://en.wikipedia.org/wiki/Harry_Potter"
+    },
+    {
+      "text": "In folk magic traditions, mandrake root was believed to have magical properties and was said to scream when pulled from the ground.",
+      "source": "https://en.wikipedia.org/wiki/In_folk_magic_traditions%2C_mandrake_root"
+    },
+    {
+      "text": "The Wicked movie adaptation, starring Cynthia Erivo and Ariana Grande, was released on November 22, 2024.",
+      "month": 11,
+      "day": 22,
+      "source": "https://en.wikipedia.org/wiki/Wicked_movie_adaptation%2C_starring_Cynthia_Erivo_and_Ariana_Grande"
+    },
+    {
+      "text": "David Copperfield's 'Death Saw' illusion, where he appears to be cut in half by a giant buzz saw, is one of the most replicated magic tricks in history.",
+      "source": "https://en.wikipedia.org/wiki/David_Copperfield%27s_%27Death"
+    },
+    {
+      "text": "In Harry Potter, Felix Felicis, also known as 'liquid luck,' is a potion that makes the drinker extraordinarily lucky for a period of time.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/In_Harry_Potter%2C_Felix_Felicis%2C_also_known_as_%27liquid_luck"
+    },
+    {
+      "text": "The concept of a witch's coven traditionally consisting of 13 members is a relatively modern idea, popularized in the 20th century.",
+      "source": "https://en.wikipedia.org/wiki/concept_of_a_witch%27s_coven_traditionally_consisting_of_13_members"
+    },
+    {
+      "text": "King James I of England (VI of Scotland) wrote 'Daemonologie' in 1597, a treatise endorsing the prosecution of witches.",
+      "source": "https://en.wikipedia.org/wiki/King_James_I_of_England_(VI_of_Scotland)"
+    },
+    {
+      "text": "In Ursula K. Le Guin's Earthsea, magic is based on knowing the true names of things, giving the wizard power over them.",
+      "source": "https://en.wikipedia.org/wiki/In_Ursula_K._Le_Guin%27s_Earthsea%2C_magic"
+    },
+    {
+      "text": "The TV series The Witcher, based on Andrzej Sapkowski's novels, features sorceresses like Yennefer of Vengerberg who draw power from chaos magic.",
+      "source": "https://en.wikipedia.org/wiki/TV_series_The_Witcher%2C_based_on_Andrzej_Sapkowski%27s_novels"
+    },
+    {
+      "text": "Potion-making in the Harry Potter universe is treated as a precise science, with the Half-Blood Prince's textbook containing improved recipes.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Potion-making_in_the_Harry_Potter_universe"
+    },
+    {
+      "text": "Alice Kyteler, an Irish noblewoman, was the first person condemned for witchcraft in Ireland in 1324, though she escaped before execution.",
+      "source": "https://en.wikipedia.org/wiki/Alice_Kyteler%2C_an_Irish_noblewoman"
+    },
+    {
+      "text": "In the Marvel Universe, Wanda Maximoff (the Scarlet Witch) can alter reality through chaos magic, making her one of the most powerful beings in the MCU.",
+      "source": "https://en.wikipedia.org/wiki/In_the_Marvel_Universe"
+    },
+    {
+      "text": "The broomstick as a witch's mode of transport may derive from pagan fertility rituals involving jumping or 'riding' brooms through fields.",
+      "source": "https://en.wikipedia.org/wiki/Witches_%26_Wizards"
+    },
+    {
+      "text": "Gandalf's famous line 'You shall not pass!' in The Fellowship of the Ring is actually 'You cannot pass' in the original book.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Gandalf%27s_famous_line_%27You_shall_not_pass%21%27_in_The_Fellowship_of_the_Ring"
+    },
+    {
+      "text": "Matthew Hopkins, the self-proclaimed 'Witchfinder General,' was responsible for the deaths of around 300 accused witches in England between 1644 and 1647.",
+      "source": "https://en.wikipedia.org/wiki/Matthew_Hopkins%2C_the_self-proclaimed_%27Witchfinder_General"
+    },
+    {
+      "text": "In the Harry Potter series, the Room of Requirement at Hogwarts appears only when a person has real need of it and always provides what is needed.",
+      "source": "https://en.wikipedia.org/wiki/In_the_Harry_Potter_series%2C_the_Room_of_Requirement_at_Hogwarts_appears_only_when_a_person"
+    },
+    {
+      "text": "Herbalism and folk healing were often practiced by 'wise women' in medieval Europe, knowledge that sometimes led to accusations of witchcraft.",
+      "source": "https://en.wikipedia.org/wiki/Herbalism_and_folk_healing"
+    },
+    {
+      "text": "The TV show Sabrina the Teenage Witch premiered on September 27, 1996, with Melissa Joan Hart in the title role.",
+      "month": 9,
+      "day": 27,
+      "source": "https://en.wikipedia.org/wiki/TV"
+    },
+    {
+      "text": "In Discworld, the Unseen University in Ankh-Morpork is the premier institution for wizardry, where wizards mostly try to avoid doing any actual magic.",
+      "source": "https://en.wikipedia.org/wiki/In_Discworld%2C_the_Unseen_University_in_Ankh-Morpork"
+    },
+    {
+      "text": "The Salem Witch Trials Memorial was dedicated on August 5, 1992, exactly 300 years after the trials, featuring 20 stone benches for each victim.",
+      "month": 8,
+      "day": 5,
+      "source": "https://en.wikipedia.org/wiki/Salem_Witch_Trials_Memorial"
+    },
+    {
+      "text": "Tarot decks consist of 78 cards: 22 Major Arcana cards representing life's spiritual lessons and 56 Minor Arcana cards reflecting daily trials.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Major_Arcana"
+    },
+    {
+      "text": "In the Arthurian legend, the Lady of the Lake is an enchantress who gives King Arthur the sword Excalibur and raises Lancelot.",
+      "source": "https://en.wikipedia.org/wiki/In_the_Arthurian_legend%2C_the_Lady_of_the_Lake"
+    },
+    {
+      "text": "The Harry Potter theme 'Hedwig's Theme,' composed by John Williams, is one of the most recognizable film scores of the 21st century.",
+      "source": "https://en.wikipedia.org/wiki/Harry_Potter_theme_%27Hedwig%27s_Theme%2C%27_composed_by_John_Williams"
+    },
+    {
+      "text": "Isobel Gowdie's confession in 1662 Scotland is one of the most detailed accounts of alleged witchcraft, describing shape-shifting and fairy encounters.",
+      "source": "https://en.wikipedia.org/wiki/Isobel_Gowdie%27s_confession_in_1662_Scotland"
+    },
+    {
+      "text": "In the Wiccan tradition, an athame is a ceremonial double-edged blade used to direct energy, never for physical cutting.",
+      "source": "https://en.wikipedia.org/wiki/In_the_Wiccan_tradition%2C_an_athame"
+    },
+    {
+      "text": "The Wonderful World of Disney produced the 1971 movie Bedknobs and Broomsticks, featuring Angela Lansbury as an apprentice witch during World War II.",
+      "source": "https://en.wikipedia.org/wiki/Wonderful_World_of_Disney"
+    },
+    {
+      "text": "Hermione Granger is described as the brightest witch of her age in the Harry Potter series, excelling at nearly every magical subject.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Hermione_Granger"
+    },
+    {
+      "text": "The Basque witch trials of 1609-1611, known as the Logroño trials, ultimately led to the Spanish Inquisition's relatively restrained approach to witchcraft.",
+      "source": "https://en.wikipedia.org/wiki/Basque"
+    },
+    {
+      "text": "In J.R.R. Tolkien's legendarium, Saruman the White was the head of the Istari order before his corruption by the desire for power.",
+      "source": "https://en.wikipedia.org/wiki/In_J.R.R._Tolkien%27s_legendarium%2C_Saruman_the_White"
+    },
+    {
+      "text": "The cauldron, a common symbol of witchcraft, was actually a standard household cooking vessel in medieval homes.",
+      "source": "https://en.wikipedia.org/wiki/cauldron%2C_a_common_symbol_of_witchcraft"
+    },
+    {
+      "text": "In the Harry Potter universe, Azkaban prison is guarded by Dementors, creatures that feed on human happiness and can consume a person's soul.",
+      "source": "https://en.wikipedia.org/wiki/In_the_Harry_Potter_universe%2C_Azkaban_prison"
+    },
+    {
+      "text": "The Essex witch trials of 1645 were the largest mass witch trial in English history, with over 100 people arrested and 36 executed.",
+      "source": "https://en.wikipedia.org/wiki/Essex_witch_trials_of_1645"
+    },
+    {
+      "text": "Penn & Teller's act is distinctive because Teller remains silent on stage while Penn does all the talking, a format they've maintained since the 1970s.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Penn_%26_Teller%27s_act"
+    },
+    {
+      "text": "In Greek mythology, Circe transformed Odysseus's men into pigs, but Odysseus resisted her magic with the herb moly, given to him by Hermes.",
+      "source": "https://en.wikipedia.org/wiki/In_Greek"
+    },
+    {
+      "text": "The Harry Potter films were primarily shot at Leavesden Studios in Hertfordshire, England, which is now the Warner Bros. Studio Tour London.",
+      "source": "https://en.wikipedia.org/wiki/Harry_Potter_films"
+    },
+    {
+      "text": "In European witch lore, the 'witch's mark' or 'devil's mark' was a supposed spot on a witch's body that was insensitive to pain.",
+      "source": "https://en.wikipedia.org/wiki/In_European_witch_lore%2C_the_%27witch%27s_mark%27_or_%27devil%27s_mark"
+    },
+    {
+      "text": "The Salem witch trials began in February 1692 when Betty Parris and Abigail Williams began having unexplained fits and accused local women of bewitching them.",
+      "month": 2,
+      "day": 29,
+      "source": "https://en.wikipedia.org/wiki/Salem"
+    },
+    {
+      "text": "In the Harry Potter universe, a Boggart takes the form of whatever the person facing it fears most, defeated by the Riddikulus spell and laughter.",
+      "source": "https://en.wikipedia.org/wiki/In_the_Harry_Potter_universe%2C_a_Boggart"
+    },
+    {
+      "text": "The concept of the 'witching hour' at midnight has roots in Catholic canon law, which prohibited activities between 3 and 4 AM.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/concept_of_the_%27witching_hour%27_at_midnight"
+    },
+    {
+      "text": "Strega Nona, the children's book by Tomie dePaola, features a grandmotherly witch in Calabria, Italy, whose magic pasta pot overflows.",
+      "source": "https://en.wikipedia.org/wiki/Strega_Nona%2C_the_children%27s_book_by_Tomie_dePaola"
+    },
+    {
+      "text": "In the Dragonlance series, the Towers of High Sorcery are institutions where mages must pass a dangerous test to practice magic legally.",
+      "source": "https://en.wikipedia.org/wiki/In_the_Dragonlance_series%2C_the_Towers_of_High_Sorcery"
+    },
+    {
+      "text": "Joan of Arc was burned at the stake on May 30, 1431, with charges that included witchcraft and heresy.",
+      "month": 5,
+      "day": 30,
+      "source": "https://en.wikipedia.org/wiki/Joan_of_Arc"
+    },
+    {
+      "text": "In Harry Potter, Ollivander's wand shop has been selling wands since 382 BC, using cores of phoenix feather, dragon heartstring, and unicorn hair.",
+      "source": "https://en.wikipedia.org/wiki/In_Harry_Potter%2C_Ollivander%27s_wand_shop"
+    },
+    {
+      "text": "The flying monkeys in The Wizard of Oz are among the most frightening movie creatures of classic Hollywood, terrifying generations of children.",
+      "source": "https://en.wikipedia.org/wiki/flying_monkeys_in_The_Wizard_of_Oz"
+    },
+    {
+      "text": "Aleister Crowley, the English occultist known as 'the wickedest man in the world,' founded the religion of Thelema and influenced modern occult practices.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Aleister_Crowley%2C_the_English_occultist_known_as_%27the_wickedest_man_in_the_world"
+    },
+    {
+      "text": "In the Wiccan Wheel of the Year, Beltane (May 1) celebrates the peak of spring and the union of the God and Goddess.",
+      "source": "https://en.wikipedia.org/wiki/In_the_Wiccan_Wheel_of_the_Year"
+    },
+    {
+      "text": "The Harry Potter series has been translated into over 80 languages, making it the most translated book series in history.",
+      "source": "https://en.wikipedia.org/wiki/Harry_Potter_series"
+    },
+    {
+      "text": "During the Bamberg witch trials (1626-1631), Prince-Bishop Gottfried Johann Georg II built a special 'witch prison' for the accused.",
+      "source": "https://en.wikipedia.org/wiki/During_the_Bamberg_witch_trials_(1626-1631)%2C_Prince-Bishop_Gottfried_Johann_Georg_II"
+    },
+    {
+      "text": "The TV series Once Upon a Time gave Rumplestiltskin (played by Robert Carlyle) both the Dark One's curse and the persona of Mr. Gold.",
+      "source": "https://en.wikipedia.org/wiki/TV_series_Once_Upon_a_Time"
+    },
+    {
+      "text": "In the Harry Potter universe, the Triwizard Tournament is a dangerous magical competition between three European wizarding schools.",
+      "source": "https://en.wikipedia.org/wiki/In_the_Harry_Potter_universe%2C_the_Triwizard_Tournament"
+    },
+    {
+      "text": "The traditional witch's black cat association comes from medieval beliefs that cats were witches' familiars or witches transformed into feline form.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/traditional_witch%27s_black_cat_association_comes_from_medieval_beliefs_that_cats"
+    },
+    {
+      "text": "Gandalf is known by many names across Middle-earth: Mithrandir to the Elves, Tharkûn to the Dwarves, and Olórin in Valinor.",
+      "source": "https://en.wikipedia.org/wiki/Gandalf"
+    },
+    {
+      "text": "The 'Burning Times' is a term used by some modern pagans to refer to the European witch-hunt era, though historians debate its scope and specifics.",
+      "source": "https://en.wikipedia.org/wiki/%27Burning_Times"
+    },
+    {
+      "text": "In the Harry Potter series, the Marauders' nicknames — Moony, Wormtail, Padfoot, and Prongs — referred to their animal forms or afflictions.",
+      "source": "https://en.wikipedia.org/wiki/In_the_Harry_Potter"
+    },
+    {
+      "text": "The Pendle witches of 1612 were largely from two rival families, the Demdikes and the Chattoxes, who accused each other of witchcraft.",
+      "source": "https://en.wikipedia.org/wiki/Pendle_witches_of_1612"
+    },
+    {
+      "text": "In Wicca, the five-pointed star or pentagram represents the five elements: earth, air, fire, water, and spirit.",
+      "source": "https://en.wikipedia.org/wiki/In_Wicca"
+    },
+    {
+      "text": "Harry Potter and the Philosopher's Stone was published on June 26, 1997, with an initial print run of only 500 copies.",
+      "month": 6,
+      "day": 26,
+      "source": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Philosopher%27s_Stone"
+    },
+    {
+      "text": "In fiction, the concept of a wizard's staff as a focus for magical power dates back to ancient mythology, including the staff of Moses.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Witches_%26_Wizards"
+    },
+    {
+      "text": "The Harry Potter universe includes a magical government called the Ministry of Magic, responsible for regulating the wizarding world in Britain.",
+      "source": "https://en.wikipedia.org/wiki/Harry_Potter_universe"
+    },
+    {
+      "text": "In the Earthsea series, the school for wizards on Roke Island teaches that magic requires balance — every action has a consequence.",
+      "source": "https://en.wikipedia.org/wiki/In_the_Earthsea"
+    },
+    {
+      "text": "Rebecca Nurse, one of the Salem witch trial victims, was a respected 71-year-old churchgoer, showing that no one was safe from accusation.",
+      "source": "https://en.wikipedia.org/wiki/Rebecca_Nurse%2C_one_of_the_Salem_witch_trial_victims"
+    },
+    {
+      "text": "The Magicians TV series ran for five seasons (2015-2020), blending elements of Harry Potter-style wizardry with darker, more adult themes.",
+      "source": "https://en.wikipedia.org/wiki/Magicians_TV_series"
+    },
+    {
+      "text": "In the Harry Potter series, Parseltongue — the ability to speak to snakes — is associated with Dark wizards, particularly Salazar Slytherin's line.",
+      "source": "https://en.wikipedia.org/wiki/In_the_Harry_Potter_series%2C_Parseltongue_%E2%80%94_the_ability_to_speak_to_snakes_%E2%80%94"
+    },
+    {
+      "text": "Walpurgis Night, celebrated on April 30 in parts of Europe, was believed to be a night when witches gathered on the Brocken mountain.",
+      "month": 4,
+      "day": 30,
+      "source": "https://en.wikipedia.org/wiki/Walpurgis_Night%2C_celebrated_on_April_30_in_parts_of_Europe"
+    },
+    {
+      "text": "The Sanderson Sisters from Hocus Pocus — Winifred, Sarah, and Mary — were inspired loosely by the Salem witch trial era.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Sanderson_Sisters_from_Hocus_Pocus_%E2%80%94_Winifred%2C_Sarah%2C_and_Mary_%E2%80%94"
+    },
+    {
+      "text": "In Greek mythology, Medea killed her own children to take revenge on Jason after he abandoned her for another woman.",
+      "source": "https://en.wikipedia.org/wiki/In_Greek"
+    },
+    {
+      "text": "Harry Potter's lightning bolt scar is the result of the failed Killing Curse cast by Voldemort when Harry was an infant.",
+      "source": "https://en.wikipedia.org/wiki/Harry_Potter%27s_lightning_bolt_scar"
+    },
+    {
+      "text": "The ducking stool, used to test accused witches in water, sometimes resulted in the drowning death of innocent people who sank.",
+      "source": "https://en.wikipedia.org/wiki/Witches_%26_Wizards"
+    },
+    {
+      "text": "In Brandon Sanderson's Stormlight Archive, Soulcasting is a form of magic that can transmute one substance into another.",
+      "source": "https://en.wikipedia.org/wiki/In_Brandon_Sanderson%27s_Stormlight_Archive%2C_Soulcasting"
+    },
+    {
+      "text": "The TV show Charmed featured the Power of Three, whereby the Halliwell sisters' combined magical abilities were exponentially stronger.",
+      "source": "https://en.wikipedia.org/wiki/TV"
+    },
+    {
+      "text": "The Salem Witch Trials ended in May 1693 when Governor William Phips ordered the release of all remaining accused witches.",
+      "month": 5,
+      "day": 9,
+      "source": "https://en.wikipedia.org/wiki/Salem_Witch_Trials"
+    },
+    {
+      "text": "Houdini died on October 31, 1926 — Halloween — from peritonitis caused by a ruptured appendix.",
+      "month": 10,
+      "day": 31,
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/October_31"
+    },
+    {
+      "text": "In the Harry Potter universe, House Elves are magical beings bound to serve wizarding families until freed by receiving clothing.",
+      "source": "https://en.wikipedia.org/wiki/In_the_Harry_Potter_universe%2C_House_Elves"
+    },
+    {
+      "text": "The fairy tale witch archetype — an old woman living alone in the forest — reflects medieval European anxieties about unmarried older women.",
+      "source": "https://en.wikipedia.org/wiki/Witches_%26_Wizards"
+    },
+    {
+      "text": "In Discworld, the Librarian of Unseen University is an orangutan who was transformed by a magical accident and refuses to be changed back.",
+      "source": "https://en.wikipedia.org/wiki/In_Discworld%2C_the_Librarian_of_Unseen_University"
+    },
+    {
+      "text": "Increase Mather's 'Cases of Conscience Concerning Evil Spirits' helped turn public opinion against the Salem witch trials in 1693.",
+      "source": "https://en.wikipedia.org/wiki/Increase_Mather%27s_%27Cases_of_Conscience_Concerning_Evil_Spirits"
+    },
+    {
+      "text": "In the Harry Potter series, Neville Longbottom was almost the Chosen One, as the prophecy could have referred to either him or Harry.",
+      "source": "https://en.wikipedia.org/wiki/In_the_Harry_Potter_series%2C_Neville_Longbottom"
+    },
+    {
+      "text": "The Ouija board, patented in 1891, became associated with contacting spirits and the occult despite being marketed originally as a parlor game.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Ouija_board%2C_patented_in_1891"
+    },
+    {
+      "text": "In Tolkien's works, the Nazgûl, or Ringwraiths, were nine kings of Men who were corrupted by Sauron's rings of power.",
+      "source": "https://en.wikipedia.org/wiki/In_Tolkien%27s_works%2C_the_Nazg%C3%BBl%2C_or_Ringwraiths"
+    },
+    {
+      "text": "Mother Shipton, a legendary English prophetess born in 1488, was said to have predicted the Great Fire of London and other events.",
+      "source": "https://en.wikipedia.org/wiki/Mother_Shipton%2C_a_legendary_English_prophetess_born_in_1488"
+    },
+    {
+      "text": "The Harry Potter universe features moving staircases at Hogwarts, which change position regularly, confusing students trying to navigate the castle.",
+      "source": "https://en.wikipedia.org/wiki/Harry_Potter_universe"
+    },
+    {
+      "text": "In the BBC's Merlin, the Great Dragon Kilgharrah (voiced by John Hurt) serves as Merlin's advisor and is chained beneath Camelot.",
+      "source": "https://en.wikipedia.org/wiki/In_the_BBC%27s_Merlin"
+    },
+    {
+      "text": "The Witchcraft Act of 1735 in Britain marked a shift from persecuting alleged witches to punishing people who pretended to practice witchcraft.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Witchcraft_Act_of_1735_in_Britain"
+    },
+    {
+      "text": "In the Harry Potter universe, there are 700 known fouls in Quidditch, all of which were committed during the 1473 World Cup.",
+      "source": "https://en.wikipedia.org/wiki/In_the_Harry_Potter_universe%2C_there"
+    },
+    {
+      "text": "The concept of a witch's sabbath — a nighttime gathering of witches — was largely a creation of witch trial prosecutors and medieval authorities.",
+      "source": "https://en.wikipedia.org/wiki/concept_of_a_witch%27s_sabbath_%E2%80%94_a_nighttime_gathering_of_witches_%E2%80%94"
+    },
+    {
+      "text": "Practical Magic was based on Alice Hoffman's 1995 novel of the same name, featuring the Owens family's hereditary magical abilities.",
+      "source": "https://en.wikipedia.org/wiki/Practical_Magic"
+    },
+    {
+      "text": "In Harry Potter, the Wolfsbane Potion allows werewolves to retain their human mind during transformation, though it doesn't prevent the physical change.",
+      "source": "https://en.wikipedia.org/wiki/In_Harry_Potter"
+    },
+    {
+      "text": "The German town of Lemgo earned the nickname 'Hexennest' (witch's nest) due to the intensity of its witch persecutions in the 17th century.",
+      "source": "https://en.wikipedia.org/wiki/German_town_of_Lemgo"
+    },
+    {
+      "text": "The Elder Wand in Harry Potter has passed through many owners including Dumbledore, Draco Malfoy, and ultimately Harry Potter himself.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Elder_Wand_in_Harry_Potter"
+    },
+    {
+      "text": "In modern paganism, a coven typically consists of a small group of practitioners who meet regularly for ritual and worship.",
+      "source": "https://en.wikipedia.org/wiki/Witches_%26_Wizards"
+    },
+    {
+      "text": "The Lord of the Rings film trilogy, directed by Peter Jackson, won 17 Academy Awards total, with Return of the King winning all 11 it was nominated for.",
+      "source": "https://en.wikipedia.org/wiki/Lord_of_the_Rings_film_trilogy%2C_directed_by_Peter_Jackson"
+    },
+    {
+      "text": "In the Harry Potter universe, Animagi are witches and wizards who can transform into animals at will; only seven were registered in the 20th century.",
+      "source": "https://en.wikipedia.org/wiki/In_the_Harry_Potter_universe%2C_Animagi"
+    },
+    {
+      "text": "Salem, Massachusetts, has embraced its witch trial history, becoming one of America's top Halloween tourist destinations.",
+      "source": "https://en.wikipedia.org/wiki/Salem%2C_Massachusetts"
+    },
+    {
+      "text": "In the Harry Potter series, Dobby the House Elf was freed when Harry tricked Lucius Malfoy into giving Dobby a sock.",
+      "source": "https://en.wikipedia.org/wiki/In_the_Harry_Potter_series%2C_Dobby_the_House_Elf"
+    },
+    {
+      "text": "The 'flying ointment' that witches allegedly used may have contained hallucinogenic compounds from plants like henbane, belladonna, and mandrake.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/%27flying_ointment%27_that_witches_allegedly_used_may"
+    },
+    {
+      "text": "In Dungeons & Dragons, a lich is a powerful wizard who has achieved immortality by binding their soul to a phylactery.",
+      "source": "https://en.wikipedia.org/wiki/In_Dungeons_%26_Dragons%2C_a_lich"
+    },
+    {
+      "text": "The Harry Potter series reveals that Severus Snape was working as a double agent for Dumbledore throughout the entire series.",
+      "source": "https://en.wikipedia.org/wiki/Harry_Potter_series_reveals_that_Severus_Snape"
+    },
+    {
+      "text": "Marie Laveau, the 'Voodoo Queen of New Orleans,' was a free woman of color who practiced a blend of Catholicism and Afro-Caribbean spiritual traditions in the 1800s.",
+      "source": "https://en.wikipedia.org/wiki/Marie_Laveau%2C_the_%27Voodoo_Queen_of_New_Orleans"
+    },
+    {
+      "text": "In the Harry Potter universe, the Knight Bus is a magical triple-decker bus providing emergency transport for stranded witches and wizards.",
+      "source": "https://en.wikipedia.org/wiki/In_the_Harry_Potter_universe%2C_the_Knight_Bus"
+    },
+    {
+      "text": "The Chelmsford witch trials of 1566 were the first major witch trials in England, setting a precedent for decades of persecution.",
+      "source": "https://en.wikipedia.org/wiki/Chelmsford_witch_trials_of_1566"
+    },
+    {
+      "text": "Gandalf returned from death as Gandalf the White after his battle with the Balrog, having been 'sent back' to complete his mission.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Gandalf_the_White"
+    },
+    {
+      "text": "In modern Wicca, the practice of 'drawing down the Moon' involves invoking the Goddess into a priestess during ritual.",
+      "source": "https://en.wikipedia.org/wiki/Witches_%26_Wizards"
+    },
+    {
+      "text": "The Harry Potter theme park, The Wizarding World of Harry Potter, opened at Universal Orlando on June 18, 2010.",
+      "month": 6,
+      "day": 18,
+      "source": "https://en.wikipedia.org/wiki/Harry_Potter_theme_park%2C_The_Wizarding_World_of_Harry_Potter"
+    },
+    {
+      "text": "Aradia, or the Gospel of the Witches, published by Charles Leland in 1899, claimed to document an Italian witch tradition worshipping the goddess Diana.",
+      "source": "https://en.wikipedia.org/wiki/Gospel_of_the_Witches"
+    },
+    {
+      "text": "In the Harry Potter universe, the Pensieve is a magical object used to review and store memories outside one's own mind.",
+      "source": "https://en.wikipedia.org/wiki/In_the_Harry_Potter_universe%2C_the_Pensieve"
+    },
+    {
+      "text": "The European witch-hunt period (roughly 1450-1750) resulted in an estimated 40,000 to 60,000 executions across the continent.",
+      "source": "https://en.wikipedia.org/wiki/European"
+    },
+    {
+      "text": "In The Wizard of Oz, Glinda the Good Witch tells Dorothy she always had the power to go home — she just had to learn it for herself.",
+      "source": "https://en.wikipedia.org/wiki/In_The_Wizard_of_Oz%2C_Glinda_the_Good_Witch_tells_Dorothy_she_always"
+    },
+    {
+      "text": "The Fulda witch trials in Germany (1603-1606) were notable for the accused being predominantly male, unlike most witch trials.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Fulda_witch_trials_in_Germany_(1603-1606)"
+    },
+    {
+      "text": "In Harry Potter, the Time-Turner used by Hermione in 'Prisoner of Azkaban' allows the user to travel back in time, one hour per turn.",
+      "source": "https://en.wikipedia.org/wiki/In_Harry_Potter"
+    },
+    {
+      "text": "Scott Cunningham's 'Wicca: A Guide for the Solitary Practitioner' (1988) made Wicca accessible to individuals outside of traditional covens.",
+      "source": "https://en.wikipedia.org/wiki/Solitary_Practitioner"
+    },
+    {
+      "text": "In the TV series WandaVision, the character Agatha Harkness (played by Kathryn Hahn) was revealed as a centuries-old witch manipulating Wanda's reality.",
+      "source": "https://en.wikipedia.org/wiki/In_the_TV_series_WandaVision%2C_the_character_Agatha_Harkness_(played_by_Kathryn_Hahn)"
+    },
+    {
+      "text": "The triquetra symbol, used in the Charmed TV series, is an ancient Celtic knot symbol that has been adopted by various pagan traditions.",
+      "source": "https://en.wikipedia.org/wiki/triquetra_symbol%2C_used_in_the_Charmed_TV_series"
+    },
+    {
+      "text": "In Harry Potter, the Mirror of Erised was used by Dumbledore to hide the Philosopher's Stone, protected so only someone who wanted to find it but not use it could retrieve it.",
+      "source": "https://en.wikipedia.org/wiki/In_Harry_Potter%2C_the_Mirror_of_Erised"
+    },
+    {
+      "text": "The Loudun possessions of 1634 in France led to the trial and execution of Father Urbain Grandier on accusations of witchcraft and dealing with the devil.",
+      "source": "https://en.wikipedia.org/wiki/Loudun"
+    },
+    {
+      "text": "In Wicca, the sabbat of Yule coincides with the winter solstice and celebrates the rebirth of the Sun God.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/In_Wicca"
+    },
+    {
+      "text": "The Harry Potter film 'Prisoner of Azkaban,' directed by Alfonso Cuarón, is widely considered the most artistically accomplished film in the series.",
+      "source": "https://en.wikipedia.org/wiki/Harry_Potter_film_%27Prisoner_of_Azkaban%2C%27_directed_by_Alfonso_Cuar%C3%B3n"
+    },
+    {
+      "text": "In European folklore, a witch's power was believed to be strongest during the dark of the moon and weakest during the full moon.",
+      "source": "https://en.wikipedia.org/wiki/In_European_folklore%2C_a_witch%27s_power"
+    },
+    {
+      "text": "Rincewind, the Discworld's most famous wizard, knows only one spell — the Octavo spell that lodged in his mind and scared all other spells away.",
+      "source": "https://en.wikipedia.org/wiki/Witches_%26_Wizards"
+    },
+    {
+      "text": "The phrase 'double, double, toil and trouble' comes from Shakespeare's Macbeth, where three witches brew a potion from bizarre ingredients.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Shakespeare%27s_Macbeth"
+    },
+    {
+      "text": "In the Harry Potter universe, Butterbeer is the most popular drink among Hogwarts students, available at the Three Broomsticks pub in Hogsmeade.",
+      "source": "https://en.wikipedia.org/wiki/In_the_Harry_Potter_universe%2C_Butterbeer"
+    },
+    {
+      "text": "The last witch trial in Scotland took place in 1727, when Janet Horne was executed for allegedly transforming her daughter into a pony.",
+      "source": "https://en.wikipedia.org/wiki/last_witch_trial_in_Scotland_took_place_in_1727%2C_when_Janet_Horne"
+    },
+    {
+      "text": "In the Marvel Universe, the Darkhold was created by the Elder God Chthon and contains powerful dark magic spells.",
+      "source": "https://en.wikipedia.org/wiki/In_the_Marvel_Universe%2C_the_Darkhold"
+    },
+    {
+      "text": "In the Harry Potter series, Dobby the House Elf died saving Harry and his friends from Malfoy Manor in Deathly Hallows.",
+      "source": "https://en.wikipedia.org/wiki/In_the_Harry_Potter"
+    },
+    {
+      "text": "The Salem Witch Trials Museum in Salem, Massachusetts, attracts over a million visitors annually.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Salem_Witch_Trials_Museum_in_Salem"
+    },
+    {
+      "text": "In the Belgariad series by David Eddings, sorcery works by using the Will and the Word — the sorcerer wills something and speaks a word to release the power.",
+      "source": "https://en.wikipedia.org/wiki/In_the_Belgariad"
+    },
+    {
+      "text": "The witch of fairy tales is often depicted with a hooked nose, warts, and a pointed hat — imagery codified in 19th-century European illustrations.",
+      "source": "https://en.wikipedia.org/wiki/witch_of_fairy_tales"
+    },
+    {
+      "text": "In Harry Potter, the invisibility cloak passed down to Harry was one of the Deathly Hallows, created by Death himself according to legend.",
+      "source": "https://en.wikipedia.org/wiki/In_Harry_Potter%2C_the_invisibility_cloak_passed_down_to_Harry"
+    },
+    {
+      "text": "The Bewitched movie (2005) starred Nicole Kidman and Will Ferrell in a meta-story about actors cast in a TV remake of the original series.",
+      "source": "https://en.wikipedia.org/wiki/Bewitched_movie_(2005)"
+    },
+    {
+      "text": "In the Harry Potter universe, the game of Wizard Chess is like regular chess except the pieces are alive and physically destroy each other.",
+      "source": "https://en.wikipedia.org/wiki/In_the_Harry_Potter_universe%2C_the_game_of_Wizard_Chess"
+    },
+    {
+      "text": "The test of weighing against a Bible was another method used to identify witches during the European witch trials.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/test_of_weighing_against_a_Bible"
+    },
+    {
+      "text": "In Arthurian legend, Nimue (also called Viviane) trapped Merlin in a cave or tree using his own magic, becoming the Lady of the Lake.",
+      "source": "https://en.wikipedia.org/wiki/In_Arthurian_legend%2C_Nimue_(also"
+    },
+    {
+      "text": "The Chilling Adventures of Sabrina on Netflix presented a darker version of the Archie Comics character, involving the Church of Night and Satan worship.",
+      "source": "https://en.wikipedia.org/wiki/Chilling_Adventures_of_Sabrina_on_Netflix"
+    },
+    {
+      "text": "In the Harry Potter universe, the Fidelius Charm hides a secret within a living person's soul, making the information impossible to discover otherwise.",
+      "source": "https://en.wikipedia.org/wiki/In_the_Harry_Potter"
+    },
+    {
+      "text": "The concept of 'sympathetic magic' — affecting a person through an object associated with them — appears in both historical witchcraft and modern fiction.",
+      "source": "https://en.wikipedia.org/wiki/Witches_%26_Wizards"
+    },
+    {
+      "text": "Hocus Pocus 2 was released on September 30, 2022, on Disney+, nearly 30 years after the original film.",
+      "month": 9,
+      "day": 30,
+      "source": "https://en.wikipedia.org/wiki/Hocus_Pocus_2"
+    },
+    {
+      "text": "In the Earthsea series, the Nameless Ones are ancient powers worshipped underground in the Tombs of Atuan.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/In_the_Earthsea_series%2C_the_Nameless_Ones"
+    },
+    {
+      "text": "In Harry Potter, a wand's allegiance can shift when its owner is disarmed or defeated, a crucial plot point in Deathly Hallows.",
+      "source": "https://en.wikipedia.org/wiki/In_Harry_Potter%2C_a_wand%27s_allegiance_can_shift_when_its_owner"
+    },
+    {
+      "text": "The Declaration of Rights of the Child (1989) has been invoked retroactively to condemn the execution of children during European witch trials.",
+      "source": "https://en.wikipedia.org/wiki/Child"
+    },
+    {
+      "text": "In Greek mythology, Pasiphaë, wife of King Minos of Crete, was a sorceress and the sister of Circe.",
+      "source": "https://en.wikipedia.org/wiki/In_Greek_mythology%2C_Pasipha%C3%AB%2C_wife_of_King_Minos_of_Crete"
+    },
+    {
+      "text": "The Harry Potter series features chocolate frogs that come with collectible wizard cards, similar to baseball cards in the Muggle world.",
+      "source": "https://en.wikipedia.org/wiki/Harry_Potter_series"
+    },
+    {
+      "text": "In Wicca, the athame, wand, chalice, and pentacle represent the four classical elements of air, fire, water, and earth respectively.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/In_Wicca"
+    },
+    {
+      "text": "Ann Putnam Jr., one of the primary accusers in the Salem witch trials, publicly apologized for her role in 1706, the only accuser to do so.",
+      "source": "https://en.wikipedia.org/wiki/Ann_Putnam_Jr"
+    },
+    {
+      "text": "In the Harry Potter universe, there are four main wizarding schools: Hogwarts (UK), Beauxbatons (France), Durmstrang (Northern Europe), and Ilvermorny (USA).",
+      "source": "https://en.wikipedia.org/wiki/In_the_Harry_Potter_universe%2C_there"
+    },
+    {
+      "text": "The crystal ball, a tool of divination, gained popularity during the Victorian era when interest in the occult and spiritualism surged.",
+      "source": "https://en.wikipedia.org/wiki/Witches_%26_Wizards"
+    },
+    {
+      "text": "In Terry Pratchett's Discworld, Nanny Ogg is a witch who has been married three times and has an enormous extended family.",
+      "source": "https://en.wikipedia.org/wiki/In_Terry_Pratchett%27s_Discworld%2C_Nanny_Ogg"
+    },
+    {
+      "text": "The concept of a 'hex' comes from the Pennsylvania Dutch word 'hex' meaning 'witch,' derived from the German 'Hexe.'",
+      "source": "https://en.wikipedia.org/wiki/Pennsylvania_Dutch"
+    },
+    {
+      "text": "In Harry Potter, Felix Felicis is so dangerous that it is banned from organized competitions, examinations, and elections.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/In_Harry_Potter%2C_Felix_Felicis"
+    },
+    {
+      "text": "The TV series Merlin (BBC) reimagined the relationship between Merlin and Arthur as that of a young servant and prince growing up together.",
+      "source": "https://en.wikipedia.org/wiki/TV"
+    },
+    {
+      "text": "During the Salem witch trials, spectral evidence — testimony that the accused's spirit appeared to the witness — was controversially allowed in court.",
+      "source": "https://en.wikipedia.org/wiki/During_the_Salem_witch_trials%2C_spectral_evidence_%E2%80%94_testimony_that_the_accused%27s_spirit"
+    },
+    {
+      "text": "In the Harry Potter universe, the Yule Ball is a formal dance held during the Triwizard Tournament, causing considerable teen romantic drama.",
+      "source": "https://en.wikipedia.org/wiki/In_the_Harry_Potter_universe%2C_the_Yule_Ball"
+    },
+    {
+      "text": "The Berwick witch trials of 1590 convinced King James VI of Scotland that witchcraft was a genuine threat, influencing his later policies as King of England.",
+      "source": "https://en.wikipedia.org/wiki/Berwick_witch_trials_of_1590_convinced_King_James_VI_of_Scotland_that_witchcraft"
+    },
+    {
+      "text": "In D&D, the wizard's spellbook is their most prized possession; without it, they cannot prepare most of their spells.",
+      "source": "https://en.wikipedia.org/wiki/In_D%26D%2C_the_wizard%27s_spellbook"
+    },
+    {
+      "text": "The first Harry Potter film had a budget of $125 million and grossed $974 million worldwide, launching the most successful film franchise of its era.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/first_Harry_Potter_film"
+    },
+    {
+      "text": "In folklore, iron was believed to repel witches, fairies, and other supernatural beings, leading to horseshoes being hung over doors for protection.",
+      "source": "https://en.wikipedia.org/wiki/In_folklore%2C_iron"
+    },
+    {
+      "text": "The Harry Potter universe includes magical creatures like Hippogriffs, Thestrals, and Phoenixes, many drawn from real mythology.",
+      "source": "https://en.wikipedia.org/wiki/Harry_Potter_universe"
+    },
+    {
+      "text": "In the Discworld series, the eight spells of the Octavo keep the Disc in its orbit on the backs of four elephants standing on the Great Turtle.",
+      "source": "https://en.wikipedia.org/wiki/In_the_Discworld"
+    },
+    {
+      "text": "The Salem Village (now Danvers, Massachusetts) was the actual site of the witch trials, not the town of Salem itself.",
+      "source": "https://en.wikipedia.org/wiki/Salem_Village_(now_Danvers%2C_Massachusetts)"
+    },
+    {
+      "text": "In Harry Potter, the Patronus Charm (Expecto Patronum) requires focusing on one's happiest memory to conjure a protective guardian.",
+      "source": "https://en.wikipedia.org/wiki/In_Harry_Potter"
+    },
+    {
+      "text": "The Book of Abramelin, a 15th-century grimoire, describes a complicated magical ritual lasting 18 months to contact one's Holy Guardian Angel.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Book_of_Abramelin"
+    },
+    {
+      "text": "In the musical Wicked, Elphaba's green skin is a result of her mother drinking a green elixir given to her by the Wizard.",
+      "source": "https://en.wikipedia.org/wiki/In_the_musical_Wicked%2C_Elphaba%27s_green_skin"
+    },
+    {
+      "text": "Martha Corey, executed during the Salem witch trials, was a church member whose accusation shocked the community because of her piety.",
+      "source": "https://en.wikipedia.org/wiki/Martha_Corey%2C_executed_during_the_Salem_witch_trials"
+    },
+    {
+      "text": "In the Harry Potter universe, a Howler is a magical letter that screams its message at the recipient before bursting into flames.",
+      "source": "https://en.wikipedia.org/wiki/In_the_Harry_Potter_universe%2C_a_Howler"
+    },
+    {
+      "text": "The word 'witch' comes from the Old English 'wicce' (feminine) or 'wicca' (masculine), meaning someone who practices sorcery.",
+      "source": "https://en.wikipedia.org/wiki/Old_English"
+    },
+    {
+      "text": "The TV show I Dream of Jeannie ran for five seasons (1965-1970) and 139 episodes, with Barbara Eden's genie outfit becoming iconic.",
+      "source": "https://en.wikipedia.org/wiki/TV_show_I_Dream_of_Jeannie"
+    },
+    {
+      "text": "In the Harry Potter series, Nearly Headless Nick (Sir Nicholas de Mimsy-Porpington) was beheaded with a blunt axe, leaving his head partially attached.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/In_the_Harry_Potter_series%2C_Nearly_Headless_Nick_(Sir_Nicholas_de_Mimsy-Porpington)"
+    },
+    {
+      "text": "In Wicca, Imbolc (February 1-2) celebrates the first signs of spring and is associated with the goddess Brigid.",
+      "source": "https://en.wikipedia.org/wiki/In_Wicca%2C_Imbolc_(February_1-2)_celebrates_the_first_signs_of_spring_and"
+    },
+    {
+      "text": "The 1922 Danish-Swedish film Häxan (The Witch) is one of the earliest films to explore historical witchcraft and was groundbreaking for its time.",
+      "source": "https://en.wikipedia.org/wiki/1922_Danish-Swedish_film_H%C3%A4xan_(The_Witch)"
+    },
+    {
+      "text": "In Harry Potter, the Whomping Willow was planted at Hogwarts to conceal the entrance to the Shrieking Shack, used by Remus Lupin during his werewolf transformations.",
+      "source": "https://en.wikipedia.org/wiki/In_Harry_Potter%2C_the_Whomping_Willow"
+    },
+    {
+      "text": "Monty Python and the Holy Grail features a famous witch trial scene parodying medieval logic: 'If she weighs the same as a duck, she's a witch!'",
+      "source": "https://en.wikipedia.org/wiki/Monty_Python_and_the_Holy_Grail"
+    },
+    {
+      "text": "In the D&D magic system, wizards, sorcerers, warlocks, bards, and druids all use different sources and methods of accessing magical power.",
+      "source": "https://en.wikipedia.org/wiki/In_the_D%26D"
+    },
+    {
+      "text": "Sarah Good, one of the first accused in Salem, was a homeless beggar whose social marginalization made her an easy target for accusations.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Sarah_Good%2C_one_of_the_first_accused_in_Salem"
+    },
+    {
+      "text": "In Harry Potter, Dumbledore's Army (DA) was a secret student organization that taught defensive magic when Umbridge banned practical spell instruction.",
+      "source": "https://en.wikipedia.org/wiki/In_Harry_Potter%2C_Dumbledore%27s_Army_(DA)"
+    },
+    {
+      "text": "The Basque country's witch tradition involved 'Akelarres' — gatherings in meadows where witches were said to meet and practice magic.",
+      "source": "https://en.wikipedia.org/wiki/Basque"
+    },
+    {
+      "text": "In the Harry Potter universe, a Metamorphmagus like Nymphadora Tonks can change their physical appearance at will without potions or spells.",
+      "source": "https://en.wikipedia.org/wiki/In_the_Harry_Potter"
+    },
+    {
+      "text": "The Museum of Witchcraft and Magic in Boscastle, Cornwall, holds the world's largest collection of witchcraft-related artifacts.",
+      "source": "https://en.wikipedia.org/wiki/Museum_of_Witchcraft_and_Magic_in_Boscastle"
+    },
+    {
+      "text": "In Brandon Sanderson's magic systems, the idea of 'hard magic' with clearly defined rules contrasts with 'soft magic' like Tolkien's more mysterious approach.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/In_Brandon_Sanderson%27s"
+    },
+    {
+      "text": "The Harry Potter series generated a multibillion-dollar franchise including films, theme parks, video games, a Broadway play, and a vast merchandise empire.",
+      "source": "https://en.wikipedia.org/wiki/Harry_Potter"
+    },
+    {
+      "text": "In European witch lore, the Devil's Book was a register that witches supposedly signed in blood to pledge their allegiance to Satan.",
+      "source": "https://en.wikipedia.org/wiki/In_European_witch_lore%2C_the_Devil%27s_Book"
+    },
+    {
+      "text": "The Wizard of Oz book series by L. Frank Baum includes 14 books, far more than the single famous film would suggest.",
+      "source": "https://en.wikipedia.org/wiki/Wizard_of_Oz_book_series_by_L._Frank_Baum"
+    },
+    {
+      "text": "In the Harry Potter universe, Nicolas Flamel was a real historical person who created the Philosopher's Stone and was 665 years old in the first book.",
+      "source": "https://en.wikipedia.org/wiki/In_the_Harry_Potter_universe%2C_Nicolas_Flamel"
+    },
+    {
+      "text": "The Witch Museum in Salem, Massachusetts, provides educational presentations about the 1692 witch trials and the evolution of witch perception.",
+      "month": 4,
+      "day": 22,
+      "source": "https://en.wikipedia.org/wiki/Witch_Museum_in_Salem"
+    },
+    {
+      "text": "In Harry Potter, the Forbidden Forest near Hogwarts is home to centaurs, Acromantulas, unicorns, and other dangerous magical creatures.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/In_Harry_Potter%2C_the_Forbidden_Forest_near_Hogwarts"
+    },
+    {
+      "text": "George Burroughs, a former Salem Village minister, was executed during the Salem witch trials despite reciting the Lord's Prayer perfectly on the gallows.",
+      "source": "https://en.wikipedia.org/wiki/George_Burroughs%2C_a_former_Salem_Village_minister"
+    },
+    {
+      "text": "In the Arthurian legend, Morgan le Fay studied magic at a nunnery and later used her powers both to oppose and sometimes aid King Arthur.",
+      "source": "https://en.wikipedia.org/wiki/In_the_Arthurian"
+    },
+    {
+      "text": "The Witch's Hammer (Malleus Maleficarum) went through 14 editions between 1487 and 1520, becoming a medieval bestseller.",
+      "source": "https://en.wikipedia.org/wiki/Witch%27s_Hammer"
+    },
+    {
+      "text": "In Harry Potter, Gilderoy Lockhart was a fraud who took credit for other witches' and wizards' achievements by erasing their memories.",
+      "source": "https://en.wikipedia.org/wiki/In_Harry_Potter%2C_Gilderoy_Lockhart"
+    },
+    {
+      "text": "Wiccan handfasting ceremonies, where couples' hands are bound together with cord, are the origin of the phrase 'tying the knot.'",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Wiccan_handfasting_ceremonies%2C_where_couples%27_hands"
+    },
+    {
+      "text": "The Harry Potter and the Cursed Child stage play opened in London's West End on July 30, 2016.",
+      "month": 7,
+      "day": 30,
+      "source": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Cursed_Child_stage_play"
+    },
+    {
+      "text": "In Irish mythology, the Morrigan is a shape-shifting goddess associated with war, fate, and death, often appearing as a crow on the battlefield.",
+      "source": "https://en.wikipedia.org/wiki/In_Irish_mythology%2C_the_Morrigan"
+    },
+    {
+      "text": "The concept of white magic vs. black magic reflects a modern dichotomy; historically, magic was viewed more as a spectrum.",
+      "source": "https://en.wikipedia.org/wiki/Witches_%26_Wizards"
+    },
+    {
+      "text": "In Harry Potter, the prophecy room in the Department of Mysteries contains recorded prophecies, including the one about Harry and Voldemort.",
+      "source": "https://en.wikipedia.org/wiki/In_Harry_Potter%2C_the_prophecy_room_in_the_Department_of_Mysteries"
+    },
+    {
+      "text": "The Pappenheimer family trial of 1600 in Bavaria is one of the most horrifying witch trial cases, involving torture and the execution of an entire family including children.",
+      "source": "https://en.wikipedia.org/wiki/Pappenheimer_family_trial_of_1600_in_Bavaria"
+    },
+    {
+      "text": "Dumbledore's Phoenix, Fawkes, has healing tears, can carry incredibly heavy loads, and is reborn from its own ashes.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Dumbledore%27s_Phoenix%2C_Fawkes"
+    },
+    {
+      "text": "In modern witchcraft, the 'cone of power' is a technique where practitioners raise energy in a circle and direct it toward a specific goal.",
+      "source": "https://en.wikipedia.org/wiki/In_modern_witchcraft%2C_the_%27cone_of_power"
+    },
+    {
+      "text": "The Witch of Agnesi, despite its name, is actually a mathematical curve studied by Maria Gaetana Agnesi in the 18th century, not related to witchcraft.",
+      "source": "https://en.wikipedia.org/wiki/Witch_of_Agnesi%2C_despite_its_name"
+    },
+    {
+      "text": "In the Harry Potter series, Severus Snape's first words to Harry — 'What would I get if I added powdered root of asphodel to an infusion of wormwood?' — may encode a hidden message of regret.",
+      "source": "https://en.wikipedia.org/wiki/In_the_Harry_Potter"
+    },
+    {
+      "text": "The Valais witch trials (1428-1447) in Switzerland are among the earliest large-scale witch trials in European history.",
+      "source": "https://en.wikipedia.org/wiki/Valais_witch_trials_(1428-1447)_in_Switzerland"
+    },
+    {
+      "text": "In Harry Potter, the Deathly Hallows symbol — a triangle, circle, and line — represents the Cloak of Invisibility, Resurrection Stone, and Elder Wand.",
+      "source": "https://en.wikipedia.org/wiki/In_Harry_Potter"
+    },
+    {
+      "text": "The tradition of bobbing for apples on Halloween has roots in divination practices associated with the Celtic festival of Samhain.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/tradition_of_bobbing_for_apples_on_Halloween"
+    },
+    {
+      "text": "In the Harry Potter series, Hogwarts has 142 staircases, some of which move, vanish, or lead to different places on different days.",
+      "source": "https://en.wikipedia.org/wiki/In_the_Harry_Potter_series%2C_Hogwarts"
+    },
+    {
+      "text": "The Islandmagee witch trial of 1711 was the last witch trial in Ireland, resulting in the conviction of eight women.",
+      "source": "https://en.wikipedia.org/wiki/Islandmagee_witch_trial_of_1711"
+    },
+    {
+      "text": "In the Harry Potter universe, Veritaserum is a powerful truth-telling potion that forces the drinker to answer any question truthfully.",
+      "source": "https://en.wikipedia.org/wiki/In_the_Harry_Potter_universe%2C_Veritaserum"
+    },
+    {
+      "text": "The Benevento walnut tree in Italian folklore was believed to be a gathering place for witches, leading to 'Liquore Strega' being named after them.",
+      "source": "https://en.wikipedia.org/wiki/Benevento_walnut_tree_in_Italian_folklore"
+    },
+    {
+      "text": "In J.K. Rowling's Wizarding World, the International Statute of Wizarding Secrecy was established in 1692, the same year as the Salem witch trials.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/In_J.K._Rowling%27s_Wizarding_World%2C_the_International_Statute_of_Wizarding_Secrecy"
+    },
+    {
+      "text": "Margaret Murray's 'The Witch-Cult in Western Europe' (1921) proposed that witchcraft was a surviving pre-Christian religion, a theory now largely discredited by historians.",
+      "source": "https://en.wikipedia.org/wiki/Western_Europe"
+    },
+    {
+      "text": "In the Harry Potter universe, there are 12 uses of dragon blood, discovered by Albus Dumbledore, including oven cleaner.",
+      "source": "https://en.wikipedia.org/wiki/In_the_Harry_Potter_universe%2C_there"
+    },
+    {
+      "text": "Black Phillip, the goat in the 2015 film The Witch, became a pop culture icon representing the devil's temptation.",
+      "source": "https://en.wikipedia.org/wiki/Black_Phillip%2C_the_goat_in_the_2015_film_The_Witch"
+    },
+    {
+      "text": "In Tolkien's works, Radagast the Brown was one of the five Istari wizards, primarily concerned with the well-being of animals and plants.",
+      "source": "https://en.wikipedia.org/wiki/In_Tolkien%27s_works%2C_Radagast_the_Brown"
+    },
+    {
+      "text": "The pointy witch hat may have its origins in the heretical pointed hats that the Spanish Inquisition forced condemned people to wear.",
+      "source": "https://en.wikipedia.org/wiki/pointy_witch_hat_may"
+    },
+    {
+      "text": "In Harry Potter, Snape's Patronus is a doe, matching Lily Potter's, revealing his lifelong love for Harry's mother.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/In_Harry_Potter%2C_Snape%27s_Patronus"
+    },
+    {
+      "text": "Martha Carrier, called 'the Queen of Hell' by Cotton Mather, was one of the accused witches executed during the Salem trials.",
+      "source": "https://en.wikipedia.org/wiki/Martha_Carrier%2C_called_%27the_Queen_of_Hell%27_by_Cotton_Mather"
+    },
+    {
+      "text": "In the Harry Potter universe, the Whomping Willow at Hogwarts attacks anything that gets too close, protecting the secret entrance beneath it.",
+      "source": "https://en.wikipedia.org/wiki/In_the_Harry_Potter"
+    },
+    {
+      "text": "The Macbeth witches' brew recipe includes 'eye of newt and toe of frog,' terms that actually refer to old names for herbs like mustard seed and buttercup.",
+      "source": "https://en.wikipedia.org/wiki/Macbeth_witches%27_brew_recipe"
+    },
+    {
+      "text": "In the TV series The Magicians, Fillory is a Narnia-like magical realm that turns out to be far darker than the characters expected.",
+      "source": "https://en.wikipedia.org/wiki/In_the_TV_series_The_Magicians%2C_Fillory"
+    },
+    {
+      "text": "The wand chooses the wizard in Harry Potter lore — Ollivander explains that wandlore is a complex and mysterious branch of magic.",
+      "source": "https://en.wikipedia.org/wiki/wand_chooses_the_wizard_in_Harry_Potter_lore_%E2%80%94_Ollivander_explains_that_wandlore"
+    },
+    {
+      "text": "Mabon, the Wiccan autumnal equinox celebration, honors the balance of light and dark and the second harvest.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Witches_%26_Wizards"
+    },
+    {
+      "text": "In the Harry Potter universe, the Taboo curse placed on Voldemort's name during Deathly Hallows allowed Death Eaters to locate anyone who spoke it.",
+      "source": "https://en.wikipedia.org/wiki/In_the_Harry_Potter"
+    },
+    {
+      "text": "The Pendle Heritage Centre in Lancashire, England, offers exhibits about the famous 1612 witch trial and walking tours of sites associated with the accused.",
+      "source": "https://en.wikipedia.org/wiki/Pendle_Heritage_Centre_in_Lancashire"
+    },
+    {
+      "text": "In the Narnia series by C.S. Lewis, the White Witch Jadis keeps Narnia in eternal winter, embodying the archetype of the evil enchantress.",
+      "source": "https://en.wikipedia.org/wiki/In_the_Narnia"
+    },
+    {
+      "text": "The Harry Potter films introduced Daniel Radcliffe, Emma Watson, and Rupert Grint to worldwide fame, all cast when they were around 11 years old.",
+      "source": "https://en.wikipedia.org/wiki/Harry_Potter_films"
+    },
+    {
+      "text": "The concept of the grimoire — a book of magic instructions — has roots in medieval texts combining astrology, alchemy, and angelic invocation.",
+      "source": "https://en.wikipedia.org/wiki/concept_of_the_grimoire_%E2%80%94_a_book_of_magic_instructions_%E2%80%94"
+    },
+    {
+      "text": "In the Harry Potter universe, Peeves the Poltergeist has haunted Hogwarts since 993 AD and is not technically a ghost but a spirit of chaos.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/In_the_Harry_Potter_universe%2C_Peeves_the_Poltergeist"
+    },
+    {
+      "text": "Sybil Leek, known as 'Britain's most famous witch,' published over 60 books on the occult and astrology in the 1960s and 1970s.",
+      "source": "https://en.wikipedia.org/wiki/Sybil_Leek"
+    },
+    {
+      "text": "In the Harry Potter series, the Resurrection Stone allows the holder to bring back shades of the dead, though they are not truly alive.",
+      "source": "https://en.wikipedia.org/wiki/In_the_Harry_Potter"
+    },
+    {
+      "text": "The Roald Dahl book The Witches (1983) portrays witches as ordinary-looking women who secretly despise and plot against children.",
+      "source": "https://en.wikipedia.org/wiki/Witches"
+    },
+    {
+      "text": "In Arthurian legend, Merlin was said to have created Stonehenge by magically transporting the giant stones from Ireland.",
+      "source": "https://en.wikipedia.org/wiki/In_Arthurian_legend%2C_Merlin"
+    },
+    {
+      "text": "The Witchcraft Suppression Acts in various countries gradually decriminalized witchcraft, with the last British law repealed in 1951.",
+      "month": 6,
+      "day": 22,
+      "source": "https://en.wikipedia.org/wiki/Witchcraft_Suppression_Acts_in"
+    },
+    {
+      "text": "In Harry Potter, the phrase 'I solemnly swear that I am up to no good' activates the Marauder's Map, and 'Mischief managed' deactivates it.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/In_Harry_Potter"
+    },
+    {
+      "text": "Raymond Buckland introduced Gardnerian Wicca to the United States in 1964 after being initiated by Gerald Gardner himself.",
+      "source": "https://en.wikipedia.org/wiki/Raymond_Buckland"
+    },
+    {
+      "text": "In the Harry Potter series, the Triwizard Cup in Goblet of Fire was secretly turned into a Portkey by Barty Crouch Jr., transporting Harry to Voldemort.",
+      "source": "https://en.wikipedia.org/wiki/In_the_Harry_Potter_series%2C_the_Triwizard_Cup_in_Goblet_of_Fire"
+    },
+    {
+      "text": "The association between witches and cauldrons comes from the practical reality that cauldrons were central to medieval cooking and herbal medicine.",
+      "source": "https://en.wikipedia.org/wiki/Witches_%26_Wizards"
+    },
+    {
+      "text": "In Greek mythology, Calypso was a nymph-sorceress who detained Odysseus on her island Ogygia for seven years.",
+      "source": "https://en.wikipedia.org/wiki/In_Greek_mythology%2C_Calypso"
+    },
+    {
+      "text": "The Harry Potter prequel film series Fantastic Beasts explores the wizarding world of the 1920s, featuring young Dumbledore and the dark wizard Grindelwald.",
+      "source": "https://en.wikipedia.org/wiki/Harry_Potter"
+    },
+    {
+      "text": "In German folklore, the Hexennacht (Witches' Night) on April 30 features bonfires to ward off evil spirits and witches.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/In_German_folklore%2C_the_Hexennacht_(Witches%27_Night)_on_April_30"
+    },
+    {
+      "text": "In Harry Potter, Hermione brewed Polyjuice Potion in a girls' bathroom at age 12, a feat normally beyond most adult witches and wizards.",
+      "source": "https://en.wikipedia.org/wiki/In_Harry_Potter"
+    },
+    {
+      "text": "The Connecticut witch trials (1647-1663) predated Salem by decades, with Alse Young being the first person executed for witchcraft in America on May 26, 1647.",
+      "month": 5,
+      "day": 26,
+      "source": "https://en.wikipedia.org/wiki/Connecticut"
+    },
+    {
+      "text": "In the Harry Potter universe, a Squib is a person born to magical parents who has no magical ability themselves, like Argus Filch.",
+      "source": "https://en.wikipedia.org/wiki/In_the_Harry_Potter_universe%2C_a_Squib"
+    },
+    {
+      "text": "In the Wiccan tradition, cakes and ale (or cakes and wine) are shared during ritual as a way to ground energy after magical work.",
+      "source": "https://en.wikipedia.org/wiki/In_the_Wiccan_tradition%2C_cakes_and_ale_(or_cakes_and_wine)"
+    },
+    {
+      "text": "The Harry Potter series was completed with 'Deathly Hallows,' published on July 21, 2007, selling 11 million copies in the first 24 hours.",
+      "month": 7,
+      "day": 21,
+      "source": "https://en.wikipedia.org/wiki/Harry_Potter_series"
+    },
+    {
+      "text": "In Slavic mythology, Koschei the Deathless is a male sorcerer who cannot be killed because his soul is hidden inside a needle, inside an egg, inside a duck.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/In_Slavic_mythology%2C_Koschei_the_Deathless"
+    },
+    {
+      "text": "The TV show Buffy the Vampire Slayer explored the addictive nature of dark magic through Willow's arc in seasons 5 and 6.",
+      "source": "https://en.wikipedia.org/wiki/TV"
+    },
+    {
+      "text": "In the Harry Potter universe, Floo Powder allows witches and wizards to travel between fireplaces connected to the Floo Network.",
+      "source": "https://en.wikipedia.org/wiki/In_the_Harry_Potter"
+    },
+    {
+      "text": "The famous 'Witch House' in Salem, Massachusetts, was the home of Judge Jonathan Corwin, who investigated witchcraft accusations in 1692.",
+      "source": "https://en.wikipedia.org/wiki/famous_%27Witch_House%27_in_Salem%2C_Massachusetts"
+    },
+    {
+      "text": "In Tolkien's world, the two Blue Wizards (Alatar and Pallando) went east and their fate is largely unknown.",
+      "source": "https://en.wikipedia.org/wiki/In_Tolkien%27s_world%2C_the_two_Blue_Wizards_(Alatar_and_Pallando)_went_east_and_their_fate"
+    },
+    {
+      "text": "The Gardnerian tradition of Wicca emphasizes initiation, degree systems, and working within a coven, distinguishing it from solitary practice.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Gardnerian"
+    },
+    {
+      "text": "In Harry Potter, Moaning Myrtle was killed by the Basilisk in a girls' bathroom and has haunted it ever since.",
+      "source": "https://en.wikipedia.org/wiki/In_Harry_Potter%2C_Moaning_Myrtle"
+    },
+    {
+      "text": "The witch persecution in Bamberg, Germany, became so extreme that even the Bishop's chancellor, Dr. Georg Haan, was executed.",
+      "source": "https://en.wikipedia.org/wiki/witch_persecution_in_Bamberg%2C_Germany"
+    },
+    {
+      "text": "In the Harry Potter series, Dumbledore's brother Aberforth runs the Hog's Head pub in Hogsmeade and was once prosecuted for performing inappropriate charms on a goat.",
+      "source": "https://en.wikipedia.org/wiki/In_the_Harry_Potter"
+    },
+    {
+      "text": "The number 13 is associated with witches' covens in popular culture, though historical covens varied widely in size.",
+      "source": "https://en.wikipedia.org/wiki/number_13"
+    },
+    {
+      "text": "Dorothy's ruby slippers in the 1939 Wizard of Oz film were actually silver shoes in L. Frank Baum's original book — changed to show off Technicolor.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Dorothy%27s_ruby_slippers_in_the_1939_Wizard_of_Oz_film"
+    },
+    {
+      "text": "In the Dragonlance series, the three moons of Krynn — Solinari, Lunitari, and Nuitari — correspond to the three orders of magic: White, Red, and Black.",
+      "source": "https://en.wikipedia.org/wiki/In_the_Dragonlance"
+    },
+    {
+      "text": "The Ossory witch trial of 1324 in Ireland centered on Dame Alice Kyteler, who was accused of practicing sorcery and poisoning her husbands.",
+      "source": "https://en.wikipedia.org/wiki/Ossory_witch_trial_of_1324_in_Ireland_centered_on_Dame_Alice_Kyteler%2C_who"
+    },
+    {
+      "text": "In Harry Potter, the Basilisk in the Chamber of Secrets is a giant serpent that can kill with its gaze and is controlled by Parseltongue speakers.",
+      "source": "https://en.wikipedia.org/wiki/In_Harry_Potter%2C_the_Basilisk_in_the_Chamber_of_Secrets"
+    },
+    {
+      "text": "Litha, the Wiccan midsummer celebration, occurs at the summer solstice and celebrates the peak of the Sun God's power.",
+      "source": "https://en.wikipedia.org/wiki/Sun_God%27s"
+    },
+    {
+      "text": "In the Harry Potter universe, Apparition (teleportation) requires a license and can go badly wrong, resulting in 'splinching' — leaving body parts behind.",
+      "source": "https://en.wikipedia.org/wiki/In_the_Harry_Potter"
+    },
+    {
+      "text": "J.R.R. Tolkien disliked the common image of a wizard as an old man in a pointy hat, yet his Gandalf became the very archetype of that image.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/J.R.R._Tolkien"
+    },
+    {
+      "text": "In Dungeons & Dragons 5th edition, there are over 500 spells available across all spellcasting classes.",
+      "source": "https://en.wikipedia.org/wiki/In_Dungeons_%26_Dragons_5th_edition%2C_there"
+    },
+    {
+      "text": "The Connecticut Witch Trial Memorial was erected in Windsor, Connecticut, honoring those executed for witchcraft before the Salem trials.",
+      "source": "https://en.wikipedia.org/wiki/Connecticut_Witch_Trial_Memorial"
+    },
+    {
+      "text": "In Harry Potter, Hagrid's pink umbrella conceals pieces of his broken wand, which was snapped when he was expelled from Hogwarts.",
+      "source": "https://en.wikipedia.org/wiki/In_Harry_Potter%2C_Hagrid%27s_pink_umbrella_conceals_pieces_of_his_broken_wand%2C_which"
+    },
+    {
+      "text": "The concept of a 'witch bottle' — a container filled with pins, urine, and other items — was used as counter-magic against curses in early modern England.",
+      "source": "https://en.wikipedia.org/wiki/concept_of_a_%27witch_bottle%27_%E2%80%94_a_container_filled_with_pins%2C_urine%2C_and_other_items_%E2%80%94"
+    },
+    {
+      "text": "In the Harry Potter universe, the Sorting Ceremony takes place on September 1 of each year, with first-year students sorted into one of four houses.",
+      "month": 9,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/In_the_Harry_Potter_universe%2C_the_Sorting_Ceremony"
+    },
+    {
+      "text": "Alexander Sanders, known as 'King of the Witches,' founded the Alexandrian tradition of Wicca in the 1960s.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Alexander_Sanders%2C_known_as_%27King_of_the_Witches"
+    },
+    {
+      "text": "In the Harry Potter series, Neville Longbottom ultimately destroys the last Horcrux — Nagini — with the Sword of Gryffindor.",
+      "source": "https://en.wikipedia.org/wiki/In_the_Harry_Potter"
+    },
+    {
+      "text": "The phrase 'bell, book, and candle' refers to a Catholic excommunication ritual that became associated with lifting curses and banishing evil.",
+      "source": "https://en.wikipedia.org/wiki/phrase_%27bell%2C_book%2C_and_candle%27_refers_to_a_Catholic_excommunication_ritual_that"
+    },
+    {
+      "text": "In folk tradition, rowan trees were believed to protect against witchcraft, with branches often placed above doorways.",
+      "source": "https://en.wikipedia.org/wiki/In_folk_tradition%2C_rowan_trees"
+    },
+    {
+      "text": "In Harry Potter, Voldemort created seven Horcruxes: Tom Riddle's diary, Marvolo Gaunt's ring, Slytherin's locket, Hufflepuff's cup, Ravenclaw's diadem, Nagini, and Harry Potter himself.",
+      "source": "https://en.wikipedia.org/wiki/In_Harry_Potter%2C_Voldemort"
+    },
+    {
+      "text": "The Zugarramurdi witch trials in Spain's Basque country in 1610 saw 11 people burned as witches.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Zugarramurdi_witch_trials_in_Spain%27s_Basque_country"
+    },
+    {
+      "text": "In the Harry Potter universe, house-elf magic is different from and in some ways more powerful than wizard magic.",
+      "source": "https://en.wikipedia.org/wiki/In_the_Harry_Potter_universe%2C_house-elf_magic"
+    },
+    {
+      "text": "The Wizard of Oz reveals that the 'great and powerful' Wizard is actually just a man behind a curtain, an enduring symbol of deception.",
+      "source": "https://en.wikipedia.org/wiki/Wizard_of_Oz_reveals_that_the_%27great_and_powerful%27_Wizard"
+    },
+    {
+      "text": "In modern pop culture, the image of the green-skinned witch originates from Margaret Hamilton's portrayal of the Wicked Witch in the 1939 Wizard of Oz.",
+      "source": "https://en.wikipedia.org/wiki/Margaret_Hamilton%27s"
+    },
+    {
+      "text": "In the Harry Potter universe, the Wolfsbane Potion was invented in the late 20th century by Damocles Belby, revolutionizing life for werewolves.",
+      "source": "https://en.wikipedia.org/wiki/In_the_Harry_Potter_universe%2C_the_Wolfsbane_Potion"
+    },
+    {
+      "text": "The first Salem witch trial arrest warrants were issued on February 29, 1692, for Sarah Good, Sarah Osborne, and Tituba.",
+      "month": 2,
+      "day": 29,
+      "source": "https://en.wikipedia.org/wiki/first_Salem_witch_trial_arrest_warrants"
+    },
+    {
+      "text": "In Harry Potter, the Fat Lady guards the entrance to Gryffindor Tower and demands a password before allowing entry.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/In_Harry_Potter"
+    },
+    {
+      "text": "Starhawk's 'The Spiral Dance' (1979) combined feminism with Wiccan spirituality and became one of the most influential books in modern witchcraft.",
+      "source": "https://en.wikipedia.org/wiki/Spiral_Dance"
+    },
+    {
+      "text": "In the Harry Potter series, there are seven books, one for each year Harry spends at Hogwarts.",
+      "source": "https://en.wikipedia.org/wiki/In_the_Harry_Potter_series%2C_there"
+    },
+    {
+      "text": "The European witch-hunt craze peaked in the 16th and 17th centuries, not during the medieval period as commonly believed.",
+      "source": "https://en.wikipedia.org/wiki/European"
+    },
+    {
+      "text": "In Harry Potter, the Whomping Willow was planted the same year Remus Lupin arrived at Hogwarts as a student, specifically to protect the passage to the Shrieking Shack.",
+      "source": "https://en.wikipedia.org/wiki/In_Harry_Potter%2C_the_Whomping_Willow"
+    },
+    {
+      "text": "The word 'glamour,' meaning an attractive appearance, originally meant a magical enchantment or spell in Scottish English.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Scottish_English"
+    },
+    {
+      "text": "In the Harry Potter universe, the Trace is a charm placed on underage witches and wizards that detects magic performed near them.",
+      "source": "https://en.wikipedia.org/wiki/In_the_Harry_Potter_universe%2C_the_Trace"
+    },
+    {
+      "text": "Lily Dale, New York, has been a community of spiritualists and mediums since 1879 and continues to host readings and psychic events today.",
+      "source": "https://en.wikipedia.org/wiki/Lily_Dale%2C_New_York"
+    },
+    {
+      "text": "In the Harry Potter series, Kreacher the house-elf initially despised Harry but became loyal after Harry showed him kindness and gave him Regulus Black's locket.",
+      "source": "https://en.wikipedia.org/wiki/In_the_Harry_Potter_series%2C_Kreacher_the_house-elf_initially_despised_Harry_but"
+    },
+    {
+      "text": "The Mandrake, featured in Harry Potter's Herbology classes, has a scream that can kill — baby Mandrakes only cause fainting.",
+      "source": "https://en.wikipedia.org/wiki/Mandrake%2C_featured_in_Harry_Potter%27s_Herbology_classes"
+    },
+    {
+      "text": "In the Lord of the Rings, the palantíri (seeing stones) are crystal balls created by the Elves that allow communication across great distances.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/In_the_Lord_of_the_Rings%2C_the_palant%C3%ADri_(seeing_stones)"
+    },
+    {
+      "text": "Arthur Miller's play The Crucible (1953) used the Salem witch trials as an allegory for McCarthyism and the Red Scare in 1950s America.",
+      "source": "https://en.wikipedia.org/wiki/Crucible"
+    },
+    {
+      "text": "In the Harry Potter universe, Owl Post is the primary wizarding mail service, using trained owls to deliver letters and packages.",
+      "source": "https://en.wikipedia.org/wiki/In_the_Harry_Potter_universe%2C_Owl_Post"
+    },
+    {
+      "text": "The witch of the Brothers Grimm fairy tale 'Rapunzel' is actually an enchantress named Dame Gothel.",
+      "source": "https://en.wikipedia.org/wiki/witch_of_the_Brothers_Grimm_fairy_tale_%27Rapunzel"
+    },
+    {
+      "text": "In Harry Potter, the Mirror of Erised inscription 'Erised stra ehru oyt ube cafru oyt on wohsi' reads backwards as 'I show not your face but your heart's desire.'",
+      "source": "https://en.wikipedia.org/wiki/In_Harry_Potter"
+    },
+    {
+      "text": "The Benandanti of the Friuli region in Italy were a fertility cult whose members claimed to fight witches in spirit form to protect crops.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Benandanti_of_the_Friuli_region_in_Italy"
+    }
+  ]
+}

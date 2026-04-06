@@ -1,0 +1,1669 @@
+{
+  "hobby": "Sea Creatures & Marine Life",
+  "facts": [
+    {
+      "text": "The blue whale is the largest animal ever known to have lived on Earth, reaching lengths of up to 100 feet and weighing as much as 200 tons.",
+      "source": "https://en.wikipedia.org/wiki/blue_whale"
+    },
+    {
+      "text": "Octopuses have three hearts — two pump blood to the gills, while the third pumps it to the rest of the body.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Octopuses"
+    },
+    {
+      "text": "Great white sharks can detect a single drop of blood in 25 gallons of water and can sense blood up to 3 miles away.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "The Great Barrier Reef off Australia is the largest living structure on Earth, visible from space and stretching over 1,400 miles.",
+      "source": "https://en.wikipedia.org/wiki/Great_Barrier_Reef_off_Australia"
+    },
+    {
+      "text": "Dolphins sleep with one eye open — literally. They rest one half of their brain at a time so they can continue to surface and breathe.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "The Mariana Trench is the deepest known point in the ocean, reaching a depth of about 36,000 feet (nearly 7 miles).",
+      "source": "https://en.wikipedia.org/wiki/Mariana_Trench"
+    },
+    {
+      "text": "Sea turtles have been around for more than 100 million years, making them older than most dinosaur species.",
+      "source": "https://en.wikipedia.org/wiki/Sea_turtles"
+    },
+    {
+      "text": "The box jellyfish is considered the most venomous marine animal in the world; its sting can cause cardiac arrest within minutes.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/box_jellyfish"
+    },
+    {
+      "text": "Lobsters can live for over 100 years and continue to grow throughout their entire lives, never showing signs of aging.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "Manta rays have the largest brain-to-body ratio of any cold-blooded fish and can recognize themselves in mirrors.",
+      "source": "https://en.wikipedia.org/wiki/Manta_rays"
+    },
+    {
+      "text": "The giant squid's eye is the size of a dinner plate — about 10 inches in diameter — the largest in the animal kingdom.",
+      "source": "https://en.wikipedia.org/wiki/giant_squid%27s_eye"
+    },
+    {
+      "text": "Clownfish and sea anemones have a mutualistic relationship: the clownfish gets protection while providing food scraps to the anemone.",
+      "source": "https://en.wikipedia.org/wiki/Clownfish_and_sea_anemones"
+    },
+    {
+      "text": "Humpback whale songs can travel thousands of miles through the ocean and each population has its own distinct song.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Humpback_whale_songs_can_travel_thousands_of_miles_through_the_ocean_and_each_population"
+    },
+    {
+      "text": "The blue-ringed octopus is one of the most venomous animals in the ocean, carrying enough venom to kill 26 adult humans within minutes.",
+      "source": "https://en.wikipedia.org/wiki/blue-ringed_octopus"
+    },
+    {
+      "text": "Coral reefs support approximately 25% of all marine species despite covering less than 1% of the ocean floor.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "Bottlenose dolphins can remember the signature whistles of other dolphins they lived with even after 20 years of separation.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "Hammerhead sharks have 360-degree vision in the vertical plane, allowing them to see above and below at all times.",
+      "source": "https://en.wikipedia.org/wiki/Hammerhead_sharks"
+    },
+    {
+      "text": "The leatherback sea turtle can dive to depths of over 4,000 feet, deeper than most marine mammals.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "Anglerfish use a bioluminescent lure attached to their heads to attract prey in the pitch-black deep sea.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "The Portuguese man o' war is not actually a jellyfish — it's a siphonophore, a colonial organism made of specialized individual animals.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Portuguese_man_o%27_war"
+    },
+    {
+      "text": "Horseshoe crab blood is blue due to copper-based hemocyanin and is used by pharmaceutical companies to test for bacterial contamination.",
+      "source": "https://en.wikipedia.org/wiki/Horseshoe_crab_blood"
+    },
+    {
+      "text": "Sperm whales can hold their breath for up to 90 minutes and dive to depths of over 7,000 feet.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "The mimic octopus can impersonate over 15 different species, including lionfish, flatfish, and sea snakes.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "Tiger sharks are known as the 'garbage cans of the sea' because they eat almost anything, including license plates and tires.",
+      "source": "https://en.wikipedia.org/wiki/Tiger_sharks"
+    },
+    {
+      "text": "Narwhals have a single long tusk that is actually a tooth — it can grow up to 10 feet long and contains millions of nerve endings.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Narwhals"
+    },
+    {
+      "text": "The immortal jellyfish (Turritopsis dohrnii) can revert to its juvenile polyp stage after reaching maturity, potentially living forever.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "Whale sharks are the largest fish in the sea, reaching lengths of 40 feet or more, yet they feed almost exclusively on plankton.",
+      "source": "https://en.wikipedia.org/wiki/Whale_sharks"
+    },
+    {
+      "text": "An octopus has about 500 million neurons, with roughly two-thirds of them located in its arms rather than its brain.",
+      "source": "https://en.wikipedia.org/wiki/An_octopus"
+    },
+    {
+      "text": "Sea otters hold hands while sleeping to prevent drifting apart — groups of otters floating together are called rafts.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "The sailfish is the fastest marine animal, capable of swimming at speeds up to 68 mph.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/sailfish"
+    },
+    {
+      "text": "Coral is not a plant — it's an animal. Each coral head is made up of thousands of tiny animals called polyps.",
+      "source": "https://en.wikipedia.org/wiki/Coral"
+    },
+    {
+      "text": "Bull sharks can survive in both salt and fresh water, and have been found as far up the Mississippi River as Illinois.",
+      "source": "https://en.wikipedia.org/wiki/Bull_sharks_can_survive_in_both_salt_and_fresh_water%2C_and"
+    },
+    {
+      "text": "Electric eels can generate up to 860 volts of electricity — enough to stun a horse.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "The colossal squid has rotating hooks on its tentacles and the largest beak of any squid species.",
+      "source": "https://en.wikipedia.org/wiki/colossal_squid"
+    },
+    {
+      "text": "Dolphins have been observed using sponges on their snouts to protect themselves while foraging on the ocean floor.",
+      "source": "https://en.wikipedia.org/wiki/Dolphins"
+    },
+    {
+      "text": "The ocean produces over 50% of the world's oxygen, primarily through phytoplankton photosynthesis.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "Mantis shrimp can punch with the force of a .22 caliber bullet and have the most complex eyes in the animal kingdom with 16 types of color receptors.",
+      "source": "https://en.wikipedia.org/wiki/Mantis_shrimp_can_punch_with_the_force_of_a_.22_caliber_bullet_and"
+    },
+    {
+      "text": "A group of jellyfish is called a 'smack,' and some species produce light through bioluminescence.",
+      "source": "https://en.wikipedia.org/wiki/A_group_of_jellyfish"
+    },
+    {
+      "text": "Greenland sharks can live for over 400 years, making them the longest-lived vertebrates on Earth.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "The parrotfish produces up to 200 pounds of sand per year by eating and digesting coral — much of Hawaii's white sand comes from parrotfish.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "Orcas (killer whales) are actually the largest member of the dolphin family, not whales.",
+      "source": "https://en.wikipedia.org/wiki/Orcas_(killer_whales)"
+    },
+    {
+      "text": "Seahorses are the only animals in which the male becomes pregnant and gives birth to live young.",
+      "source": "https://en.wikipedia.org/wiki/Seahorses"
+    },
+    {
+      "text": "The giant Pacific octopus can squeeze through any hole larger than its beak — the only hard part of its body.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "Starfish (sea stars) can regenerate lost arms, and some species can regrow an entire body from a single arm.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "Loggerhead sea turtles travel up to 9,000 miles on their migration routes between feeding and nesting grounds.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "The pistol shrimp can snap its claw so fast it creates a bubble that reaches temperatures nearly as hot as the surface of the sun.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "Sperm whales sleep vertically, bobbing at the surface in a position scientists call 'drift diving.'",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "The Sargasso Sea is the only sea in the world with no land borders — it's defined entirely by ocean currents.",
+      "source": "https://en.wikipedia.org/wiki/Sargasso_Sea"
+    },
+    {
+      "text": "Cuttlefish can change their skin color, pattern, and texture in less than a second for camouflage and communication.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "About 80% of ocean life remains undiscovered — scientists estimate there may be 1 to 2 million undiscovered species.",
+      "source": "https://en.wikipedia.org/wiki/About_80"
+    },
+    {
+      "text": "The cookie-cutter shark takes round, cookie-shaped bites out of larger animals, including whales and submarines.",
+      "source": "https://en.wikipedia.org/wiki/cookie-cutter_shark"
+    },
+    {
+      "text": "Dolphins can swim at speeds up to 20 mph and can leap as high as 20 feet out of the water.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "The vampire squid lives in the oxygen-minimum zone of the deep ocean and feeds on 'marine snow' — dead organic material.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "Sea cucumbers can eject their internal organs as a defense mechanism and regenerate them within a few weeks.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "Humpback whales create 'bubble nets' to corral fish — they blow bubbles in a circle and then lunge upward through the trapped prey.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "The ocean is home to the world's largest waterfall — the Denmark Strait cataract, an underwater waterfall 11,500 feet tall.",
+      "source": "https://en.wikipedia.org/wiki/ocean"
+    },
+    {
+      "text": "A blue whale's heart is about the size of a Volkswagen Beetle and beats only about 8–10 times per minute.",
+      "source": "https://en.wikipedia.org/wiki/A_blue_whale%27s_heart"
+    },
+    {
+      "text": "The hagfish can produce a bucketful of slime in less than a minute as a defense against predators.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "Eagle rays can leap completely out of the water and are known for their graceful, bird-like swimming.",
+      "source": "https://en.wikipedia.org/wiki/Eagle_rays_can_leap_completely_out_of_the_water_and"
+    },
+    {
+      "text": "Hermit crabs form 'vacancy chains' — when one finds a bigger shell, others line up by size to swap shells in sequence.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "The frilled shark has been called a 'living fossil' because its appearance has barely changed in 80 million years.",
+      "source": "https://en.wikipedia.org/wiki/frilled_shark"
+    },
+    {
+      "text": "Manatees, sometimes called sea cows, are more closely related to elephants than to any marine mammal.",
+      "source": "https://en.wikipedia.org/wiki/Manatees%2C_sometimes_called_sea_cows"
+    },
+    {
+      "text": "The deep-sea dragonfish produces red bioluminescent light, invisible to most deep-sea creatures, giving it a searchlight only it can see.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "Spinner dolphins can spin up to 7 times in a single leap out of the water.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "Whale sharks have about 3,000 tiny teeth, but they don't use them to eat — they filter-feed by swimming with their mouths open.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Whale_sharks"
+    },
+    {
+      "text": "The moray eel has a second set of jaws in its throat (pharyngeal jaws) that spring forward to pull prey into its esophagus.",
+      "source": "https://en.wikipedia.org/wiki/moray_eel"
+    },
+    {
+      "text": "Coral bleaching occurs when stressed corals expel the algae living in their tissues, turning white and risking death.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "Dolphins have names — each dolphin develops a unique signature whistle that other dolphins use to call them.",
+      "source": "https://en.wikipedia.org/wiki/Dolphins"
+    },
+    {
+      "text": "The leafy sea dragon, native to Australian waters, is so well camouflaged it looks exactly like floating seaweed.",
+      "source": "https://en.wikipedia.org/wiki/leafy_sea_dragon%2C_native_to_Australian_waters"
+    },
+    {
+      "text": "Giant isopods can grow up to 20 inches long and can survive years without eating in the deep sea.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "Stingrays are closely related to sharks — both have skeletons made of cartilage instead of bone.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Stingrays"
+    },
+    {
+      "text": "The Arctic lion's mane jellyfish is the longest known animal in the world, with tentacles that can reach over 120 feet.",
+      "source": "https://en.wikipedia.org/wiki/Arctic_lion%27s_mane_jellyfish"
+    },
+    {
+      "text": "Krill are tiny crustaceans that form the base of the Antarctic food web — their total biomass is estimated at 500 million tons.",
+      "source": "https://en.wikipedia.org/wiki/Krill"
+    },
+    {
+      "text": "Beluga whales are called 'canaries of the sea' because of their wide range of vocalizations including clicks, whistles, and chirps.",
+      "source": "https://en.wikipedia.org/wiki/Beluga_whales"
+    },
+    {
+      "text": "The coconut octopus carries coconut shell halves to use as portable shelter — one of the few examples of tool use in invertebrates.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "The Great White Shark can jump completely out of the water (breaching) — some leaps reach 10 feet in the air.",
+      "source": "https://en.wikipedia.org/wiki/Great_White_Shark"
+    },
+    {
+      "text": "Moon jellyfish are among the most common jellyfish species and can be found in every ocean on Earth.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Moon_jellyfish"
+    },
+    {
+      "text": "Male seahorses have a brood pouch where they carry up to 2,000 eggs until they hatch.",
+      "source": "https://en.wikipedia.org/wiki/Male_seahorses"
+    },
+    {
+      "text": "The blue whale can eat up to 4 tons of krill per day during feeding season.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "Hawksbill sea turtles eat sponges that are toxic to most other animals, making their flesh potentially poisonous.",
+      "source": "https://en.wikipedia.org/wiki/Hawksbill_sea_turtles_eat_sponges_that"
+    },
+    {
+      "text": "Some species of deep-sea fish produce their own light through bioluminescence — about 90% of deep-sea creatures are bioluminescent.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "The sunflower sea star has up to 24 arms and can move at the relatively quick speed of 40 inches per minute.",
+      "source": "https://en.wikipedia.org/wiki/sunflower_sea_star"
+    },
+    {
+      "text": "Orcas are one of the most widespread animals on the planet, found in every ocean from the Arctic to the Antarctic.",
+      "source": "https://en.wikipedia.org/wiki/Orcas"
+    },
+    {
+      "text": "The peacock mantis shrimp can see UV light, infrared, and polarized light — far beyond human visual capabilities.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "The ocean absorbs about 30% of the carbon dioxide produced by humans, making it a crucial carbon sink.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "Sea snakes have a special gland under their tongue that filters excess salt from their blood.",
+      "source": "https://en.wikipedia.org/wiki/Sea_snakes"
+    },
+    {
+      "text": "The Greenland shark's flesh is toxic and must be fermented for months before it is safe to eat — it becomes a traditional Icelandic dish called hákarl.",
+      "source": "https://en.wikipedia.org/wiki/Greenland_shark%27s_flesh"
+    },
+    {
+      "text": "Cleaner wrasse fish set up 'cleaning stations' on reefs where larger fish line up to have parasites removed.",
+      "source": "https://en.wikipedia.org/wiki/Cleaner_wrasse_fish_set_up_%27cleaning_stations%27_on_reefs_where_larger_fish_line_up_to"
+    },
+    {
+      "text": "The deep ocean is under tremendous pressure — at the bottom of the Mariana Trench, pressure is over 1,000 times atmospheric pressure at sea level.",
+      "source": "https://en.wikipedia.org/wiki/deep_ocean"
+    },
+    {
+      "text": "Sea lions can rotate their hind flippers forward, allowing them to walk on land, unlike true seals.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "An octopus can taste with its suckers — each one has chemoreceptors that allow it to taste whatever it touches.",
+      "source": "https://en.wikipedia.org/wiki/An_octopus_can_taste_with_its_suckers_%E2%80%94_each_one"
+    },
+    {
+      "text": "The basking shark is the second-largest fish in the world and filters up to 2,000 tons of water per hour through its gills.",
+      "source": "https://en.wikipedia.org/wiki/basking_shark"
+    },
+    {
+      "text": "Barnacles are crustaceans, not mollusks, and they are related to crabs and lobsters.",
+      "source": "https://en.wikipedia.org/wiki/Barnacles"
+    },
+    {
+      "text": "The dumbo octopus lives at extreme depths of up to 23,000 feet and uses ear-like fins to propel itself.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "Humpback whales migrate up to 16,000 miles round trip each year, one of the longest migrations of any mammal.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "The chambered nautilus has remained virtually unchanged for 500 million years and is considered a living fossil.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/chambered_nautilus"
+    },
+    {
+      "text": "Bottlenose dolphins have been observed teaching their young to use tools, passing the behavior from mother to calf.",
+      "source": "https://en.wikipedia.org/wiki/Bottlenose_dolphins"
+    },
+    {
+      "text": "The ocean covers about 71% of the Earth's surface but more than 80% of it remains unexplored.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "Pufferfish contain tetrodotoxin, a poison 1,200 times more lethal than cyanide, yet it's eaten as a delicacy (fugu) in Japan.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "Christmas Island's red crab migration sees over 50 million crabs moving from the forest to the coast to breed.",
+      "source": "https://en.wikipedia.org/wiki/Christmas_Island%27s"
+    },
+    {
+      "text": "A mother octopus can guard her eggs for months without eating, often dying shortly after the eggs hatch.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "The barreleye fish has a transparent head, allowing it to look upward through its skull to spot prey silhouetted against surface light.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/barreleye_fish"
+    },
+    {
+      "text": "Gray whales undertake the longest recorded migration of any mammal — up to 12,000 miles one way.",
+      "source": "https://en.wikipedia.org/wiki/Gray_whales_undertake_the_longest"
+    },
+    {
+      "text": "Electric rays can produce electric shocks of up to 220 volts, which they use to stun prey and defend themselves.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "The flamboyant cuttlefish is one of only three known venomous cephalopods and walks along the ocean floor on its arms.",
+      "source": "https://en.wikipedia.org/wiki/flamboyant_cuttlefish"
+    },
+    {
+      "text": "Coral reefs have existed for approximately 500 million years, though modern reef-building corals have been around for about 240 million years.",
+      "source": "https://en.wikipedia.org/wiki/Coral_reefs"
+    },
+    {
+      "text": "The ocean's average depth is about 12,100 feet — over 2 miles deep.",
+      "source": "https://en.wikipedia.org/wiki/ocean%27s_average_depth"
+    },
+    {
+      "text": "Sea sponges are among the simplest multicellular animals, with no organs, nervous system, or digestive system.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Sea_sponges"
+    },
+    {
+      "text": "Tiger sharks have specially serrated teeth that can cut through sea turtle shells, bones, and even metal.",
+      "source": "https://en.wikipedia.org/wiki/Tiger_sharks"
+    },
+    {
+      "text": "Comb jellies (ctenophores) move using rows of tiny hair-like cilia and produce some of the most brilliant displays of bioluminescence.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "River dolphins, found in the Amazon, Ganges, and Yangtze, are among the most endangered marine mammals.",
+      "source": "https://en.wikipedia.org/wiki/River_dolphins%2C_found_in_the_Amazon%2C_Ganges%2C_and_Yangtze"
+    },
+    {
+      "text": "The wandering albatross has the longest wingspan of any living bird at up to 12 feet and spends most of its life gliding over the ocean.",
+      "source": "https://en.wikipedia.org/wiki/wandering_albatross"
+    },
+    {
+      "text": "Hydrothermal vents can reach temperatures of 750°F (400°C), yet unique ecosystems thrive around them.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "The wobbegong shark is a master of camouflage, lying flat on the seabed and ambushing prey that swims too close.",
+      "source": "https://en.wikipedia.org/wiki/wobbegong_shark"
+    },
+    {
+      "text": "The blob fish, which lives at depths of 2,000-4,000 feet, looks perfectly normal underwater — it only appears blob-like on the surface due to decompression.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "Marine iguanas of the Galápagos Islands are the only lizards that forage in the sea, diving up to 65 feet to graze on algae.",
+      "source": "https://en.wikipedia.org/wiki/Marine_iguanas_of_the_Gal%C3%A1pagos_Islands"
+    },
+    {
+      "text": "Some jellyfish are so small they are practically invisible to the naked eye, while others have tentacles over 100 feet long.",
+      "source": "https://en.wikipedia.org/wiki/Some_jellyfish"
+    },
+    {
+      "text": "Dolphins can echolocate by sending out clicks that bounce off objects, allowing them to 'see' with sound even in murky water.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "Oysters can change their sex back and forth multiple times during their lives.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "The yeti crab, discovered in 2005 near hydrothermal vents, has hairy arms covered in bacteria that it may farm for food.",
+      "source": "https://en.wikipedia.org/wiki/yeti_crab"
+    },
+    {
+      "text": "Mako sharks are the fastest sharks in the ocean, capable of bursts up to 45 mph.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Mako_sharks"
+    },
+    {
+      "text": "Over 8 million metric tons of plastic enter the ocean every year, forming massive garbage patches in the Pacific and Atlantic.",
+      "source": "https://en.wikipedia.org/wiki/Over_8"
+    },
+    {
+      "text": "The archerfish can spit jets of water with pinpoint accuracy to knock insects off branches above the water.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "A blue whale's tongue alone can weigh as much as an elephant.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "Mangrove forests serve as critical nursery habitats for many marine species and protect coastlines from storms.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "The frogfish can swallow prey up to twice its own size in a strike that takes just 6 milliseconds.",
+      "source": "https://en.wikipedia.org/wiki/frogfish_can_swallow_prey_up_to_twice_its_own_size_in_a_strike_that"
+    },
+    {
+      "text": "Hammerhead sharks often swim in schools of over 100 during the day but hunt alone at night.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "The blanket octopus female can be up to 40,000 times heavier than the male — the most extreme sexual size difference in the animal kingdom.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "The sunlit zone (epipelagic zone) extends 200 meters deep and is where most marine life is found.",
+      "source": "https://en.wikipedia.org/wiki/sunlit_zone_(epipelagic_zone)_extends_200_meters_deep_and"
+    },
+    {
+      "text": "Walruses use their tusks to haul themselves out of the water and to establish dominance — tusks can grow up to 3 feet long.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "The Caribbean reef squid can communicate using rapidly changing body colors and patterns.",
+      "source": "https://en.wikipedia.org/wiki/Caribbean"
+    },
+    {
+      "text": "Cone snails are among the most venomous creatures in the ocean — their sting can be fatal to humans.",
+      "source": "https://en.wikipedia.org/wiki/Cone_snails"
+    },
+    {
+      "text": "A group of dolphins is called a 'pod' and can contain over 1,000 individuals in super-pods.",
+      "source": "https://en.wikipedia.org/wiki/A_group_of_dolphins"
+    },
+    {
+      "text": "The ocean contains about 20 million tons of gold dissolved in seawater, but it's too dilute to extract economically.",
+      "source": "https://en.wikipedia.org/wiki/ocean"
+    },
+    {
+      "text": "Bowhead whales can live over 200 years and have been found with 19th-century harpoon tips embedded in their blubber.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Bowhead_whales_can_live_over_200_years_and"
+    },
+    {
+      "text": "Sea urchins move using tube feet and can right themselves if flipped over using coordinated spine movements.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "The great hammerhead shark's wide-set eyes give it better visual range than most other sharks.",
+      "source": "https://en.wikipedia.org/wiki/great_hammerhead_shark%27s_wide-set_eyes"
+    },
+    {
+      "text": "Pilot whales live in tight-knit family groups led by a matriarch and follow her decisions on feeding and travel.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "The mimic octopus was only discovered in 1998 off the coast of Sulawesi, Indonesia.",
+      "source": "https://en.wikipedia.org/wiki/mimic_octopus"
+    },
+    {
+      "text": "Nurse sharks are one of the few shark species that can pump water over their gills while lying still on the ocean floor.",
+      "source": "https://en.wikipedia.org/wiki/Nurse_sharks"
+    },
+    {
+      "text": "The giant clam can weigh over 500 pounds and live for more than 100 years.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "Bottlenose dolphins surf waves for fun, and they've been observed body-surfing on waves created by boats.",
+      "source": "https://en.wikipedia.org/wiki/Bottlenose_dolphins_surf_waves_for_fun%2C_and_they%27ve_been_observed_body-surfing_on_waves"
+    },
+    {
+      "text": "The thresher shark uses its extremely long tail — which can be as long as its body — to whip and stun schools of fish.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "Kelp forests can grow up to 2 feet per day and provide habitat comparable in importance to tropical rainforests.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "Marine Protected Areas (MPAs) cover about 8% of the world's oceans, though scientists recommend at least 30%.",
+      "source": "https://en.wikipedia.org/wiki/Marine_Protected_Areas"
+    },
+    {
+      "text": "The vampire squid can turn itself inside out, exposing spines on its arms, as a defensive display.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "Whale sharks can live for an estimated 100-150 years based on growth rate studies.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "The common cuttlefish has W-shaped pupils that give it the ability to see in front of and behind itself simultaneously.",
+      "source": "https://en.wikipedia.org/wiki/common_cuttlefish"
+    },
+    {
+      "text": "Barnacle geese were once thought to grow from barnacles — medieval Europeans believed this because they never saw the birds' nesting grounds.",
+      "source": "https://en.wikipedia.org/wiki/Barnacle_geese"
+    },
+    {
+      "text": "Whale songs can be heard over 100 miles away and are thought to play a role in mating and navigation.",
+      "source": "https://en.wikipedia.org/wiki/Whale_songs_can_be_heard_over_100_miles_away_and"
+    },
+    {
+      "text": "Decorator crabs attach sponges, algae, and other organisms to their shells for camouflage.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "The goblin shark is sometimes called a 'living fossil' — its lineage dates back about 125 million years.",
+      "source": "https://en.wikipedia.org/wiki/goblin_shark"
+    },
+    {
+      "text": "Manta rays visit 'cleaning stations' on reefs where small fish remove parasites from their skin and gills.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "Octopuses can change color in just 200 milliseconds — faster than a human blink.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "The Great Pacific Garbage Patch is estimated to be twice the size of Texas and contains about 80,000 tons of plastic.",
+      "source": "https://en.wikipedia.org/wiki/Great_Pacific_Garbage_Patch"
+    },
+    {
+      "text": "Deep-sea anglerfish males permanently fuse to females, eventually sharing a circulatory system and becoming parasitic mates.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "Corals get most of their nutrients — and their vibrant colors — from symbiotic algae called zooxanthellae.",
+      "source": "https://en.wikipedia.org/wiki/Corals_get_most_of_their_nutrients_%E2%80%94_and_their_vibrant_colors_%E2%80%94_from_symbiotic_algae"
+    },
+    {
+      "text": "The spiny lobster migrates in single-file lines of up to 60 individuals across the ocean floor.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "Sea otters have the densest fur of any mammal — about 1 million hairs per square inch.",
+      "source": "https://en.wikipedia.org/wiki/Sea_otters"
+    },
+    {
+      "text": "The whale shark's mouth is about 5 feet wide, but its throat is only the size of a quarter.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/whale_shark%27s_mouth"
+    },
+    {
+      "text": "Dugongs are the sea cows of the Indo-Pacific and are the only strictly marine herbivorous mammal.",
+      "source": "https://en.wikipedia.org/wiki/Dugongs"
+    },
+    {
+      "text": "The boxer crab holds a small anemone in each claw and uses them like boxing gloves for defense.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "Blue whales produce the loudest sound of any animal — their calls can reach 188 decibels, louder than a jet engine.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "The longfin mako shark has been found at depths of up to 2,500 feet.",
+      "source": "https://en.wikipedia.org/wiki/longfin_mako_shark"
+    },
+    {
+      "text": "Crown-of-thorns starfish are devastating coral reefs in the Pacific; a single one can eat up to 10 square meters of coral per year.",
+      "source": "https://en.wikipedia.org/wiki/Crown-of-thorns_starfish"
+    },
+    {
+      "text": "Hammerhead sharks can sense electrical fields produced by prey buried in sand using ampullae of Lorenzini.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "The geoduck (pronounced 'gooey-duck') is a large burrowing clam that can live for over 160 years.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/geoduck_(pronounced_%27gooey-duck%27)"
+    },
+    {
+      "text": "Marine snow — a shower of organic detritus falling from upper waters — is the primary food source for deep-sea creatures.",
+      "source": "https://en.wikipedia.org/wiki/Marine_snow_%E2%80%94_a_shower_of_organic_detritus_falling_from_upper_waters_%E2%80%94"
+    },
+    {
+      "text": "Spinner dolphins get their name from their acrobatic spinning jumps, which may help remove parasites.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "The purple sea urchin population explosion has destroyed 95% of kelp forests along parts of the California coast.",
+      "source": "https://en.wikipedia.org/wiki/purple_sea_urchin_population_explosion"
+    },
+    {
+      "text": "A pod of orcas has been documented hunting blue whales — the largest predator ever hunting the largest prey.",
+      "source": "https://en.wikipedia.org/wiki/A_pod_of_orcas"
+    },
+    {
+      "text": "Cleaner shrimp will enter the mouths of moray eels to clean their teeth without being eaten.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "The ocean has an average temperature of about 39°F (3.9°C), making most of the deep ocean near freezing.",
+      "source": "https://en.wikipedia.org/wiki/ocean"
+    },
+    {
+      "text": "Napoleon wrasse (humphead wrasse) can live for over 30 years and grow to 6 feet long, and are endangered due to overfishing.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Napoleon_wrasse_(humphead_wrasse)_can_live_for_over_30_years_and_grow_to_6_feet_long%2C_and"
+    },
+    {
+      "text": "Sponges are the oldest multicellular animals on Earth, with fossil evidence dating back 600 million years.",
+      "source": "https://en.wikipedia.org/wiki/Sponges"
+    },
+    {
+      "text": "The flashlight fish has bioluminescent organs below its eyes that it uses to communicate and find prey.",
+      "source": "https://en.wikipedia.org/wiki/flashlight_fish"
+    },
+    {
+      "text": "Harp seals are born with white fur that helps them absorb heat from the sun and camouflage on ice.",
+      "source": "https://en.wikipedia.org/wiki/Harp_seals"
+    },
+    {
+      "text": "The vaquita is the world's most endangered marine mammal, with fewer than 10 individuals remaining in Mexico's Gulf of California.",
+      "source": "https://en.wikipedia.org/wiki/vaquita"
+    },
+    {
+      "text": "Blue-footed boobies are seabirds whose feet get their blue color from carotenoid pigments in the fish they eat.",
+      "source": "https://en.wikipedia.org/wiki/Blue-footed_boobies"
+    },
+    {
+      "text": "Atlantic horseshoe crabs have existed for over 450 million years, predating dinosaurs by at least 200 million years.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Atlantic_horseshoe_crabs"
+    },
+    {
+      "text": "Sea slugs called nudibranchs come in incredibly vibrant colors and patterns — over 3,000 species have been described.",
+      "source": "https://en.wikipedia.org/wiki/Sea_slugs"
+    },
+    {
+      "text": "The porbeagle shark is one of the few sharks known to play, tossing and chasing objects for fun.",
+      "source": "https://en.wikipedia.org/wiki/porbeagle_shark"
+    },
+    {
+      "text": "Seagrass meadows can absorb carbon 35 times faster than tropical rainforests, making them vital in the fight against climate change.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "The leopard seal is one of Antarctica's top predators, known to hunt penguins, fish, and even other seals.",
+      "source": "https://en.wikipedia.org/wiki/leopard_seal"
+    },
+    {
+      "text": "Barnacles have the longest penis relative to body size of any animal — up to 8 times their body length.",
+      "source": "https://en.wikipedia.org/wiki/Barnacles"
+    },
+    {
+      "text": "The nine-armed sea star genuinely has nine arms, unlike most sea stars which typically have five.",
+      "source": "https://en.wikipedia.org/wiki/nine-armed_sea_star_genuinely"
+    },
+    {
+      "text": "Coral reefs generate an estimated $375 billion per year in economic value through fishing, tourism, and coastal protection.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "The scalloped hammerhead shark was the first shark species to be listed under the U.S. Endangered Species Act.",
+      "source": "https://en.wikipedia.org/wiki/scalloped_hammerhead_shark"
+    },
+    {
+      "text": "Dolphins have been observed using dead pufferfish like a ball, gently biting them to seemingly get a mild narcotic effect.",
+      "source": "https://en.wikipedia.org/wiki/Dolphins"
+    },
+    {
+      "text": "The sunfish (Mola mola) is the heaviest known bony fish, weighing up to 5,000 pounds, and lays more eggs than any other vertebrate.",
+      "source": "https://en.wikipedia.org/wiki/sunfish_(Mola_mola)"
+    },
+    {
+      "text": "Japanese spider crabs have a leg span of up to 12 feet, making them the largest living arthropod.",
+      "source": "https://en.wikipedia.org/wiki/Japanese_spider_crabs"
+    },
+    {
+      "text": "Gray whales feed by rolling on their sides on the ocean floor and filtering sediment through their baleen.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "The blue dragon (Glaucus atlanticus) is a tiny sea slug that feeds on Portuguese man o' war and stores their stinging cells for its own defense.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/blue_dragon_(Glaucus_atlanticus)"
+    },
+    {
+      "text": "The Weddell seal can dive to 2,000 feet and hold its breath for over 80 minutes.",
+      "source": "https://en.wikipedia.org/wiki/Weddell"
+    },
+    {
+      "text": "Whale falls — dead whales that sink to the ocean floor — create entire ecosystems that can sustain life for decades.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "Great white sharks are warm-blooded, unlike most fish, which allows them to swim faster and in colder waters.",
+      "source": "https://en.wikipedia.org/wiki/Great_white_sharks"
+    },
+    {
+      "text": "Remora fish attach to sharks and whales using a modified dorsal fin that acts like a suction cup.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "The flying fish can glide through the air for distances of up to 650 feet using wing-like pectoral fins.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "Sea pens are colonial marine animals that look like old-fashioned quill pens standing upright on the ocean floor.",
+      "source": "https://en.wikipedia.org/wiki/Sea_pens"
+    },
+    {
+      "text": "The tongue-eating louse replaces a fish's tongue and then feeds on the fish's blood and mucus — one of nature's most bizarre parasites.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "Manatees have no natural predators but are frequently injured or killed by boat strikes.",
+      "source": "https://en.wikipedia.org/wiki/Manatees"
+    },
+    {
+      "text": "Whale sharks gather in large groups at certain locations — over 400 were once counted together at Mexico's Yucatan Peninsula.",
+      "source": "https://en.wikipedia.org/wiki/Whale_sharks_gather_in_large_groups_at_certain_locations_%E2%80%94_over_400"
+    },
+    {
+      "text": "The black swallower fish can consume prey over 10 times its own mass by extending its distensible stomach.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "Penguins drink salt water and have a special gland above their eyes that filters out the salt.",
+      "source": "https://en.wikipedia.org/wiki/Penguins_drink_salt_water_and"
+    },
+    {
+      "text": "The ocean's photic zone (where sunlight reaches) only extends to about 660 feet, yet the ocean averages over 12,000 feet deep.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "Female leatherback turtles return to the exact same beach where they were born to lay their eggs.",
+      "source": "https://en.wikipedia.org/wiki/Female_leatherback_turtles_return_to_the_exact_same_beach_where_they"
+    },
+    {
+      "text": "The coelacanth was thought to be extinct for 65 million years until a living specimen was caught off South Africa in 1938.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/coelacanth"
+    },
+    {
+      "text": "Gulper eels have enormous mouths that can open wide enough to swallow prey much larger than themselves.",
+      "source": "https://en.wikipedia.org/wiki/Gulper_eels"
+    },
+    {
+      "text": "Coral polyps are related to jellyfish and anemones — they all belong to the phylum Cnidaria.",
+      "source": "https://en.wikipedia.org/wiki/Coral_polyps"
+    },
+    {
+      "text": "The striped dolphin can leap up to 23 feet out of the water, higher than any other dolphin species.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "Lemon sharks return to their birthplace to give birth, showing natal philopatry similar to sea turtles.",
+      "source": "https://en.wikipedia.org/wiki/Lemon_sharks_return_to_their_birthplace_to"
+    },
+    {
+      "text": "Giant kelp is the fastest-growing organism on Earth, capable of growing up to 2 feet per day.",
+      "source": "https://en.wikipedia.org/wiki/Giant_kelp"
+    },
+    {
+      "text": "The giant oarfish is the longest bony fish in the world, reaching lengths of up to 36 feet, and may be the origin of sea serpent legends.",
+      "source": "https://en.wikipedia.org/wiki/giant_oarfish"
+    },
+    {
+      "text": "Sea cucumbers breathe through their anus, pulling water in and out to extract oxygen.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "Orcas have distinct cultures — different pods have different dialects, hunting techniques, and social structures.",
+      "source": "https://en.wikipedia.org/wiki/Orcas"
+    },
+    {
+      "text": "The heart of a shrimp is located in its head.",
+      "source": "https://en.wikipedia.org/wiki/heart_of_a_shrimp"
+    },
+    {
+      "text": "Sawfish use their saw-like snout (rostrum) to slash through schools of fish and detect electrical signals from prey.",
+      "source": "https://en.wikipedia.org/wiki/Sawfish_use_their"
+    },
+    {
+      "text": "Ocean acidification caused by CO2 absorption threatens shellfish and corals by making it harder to build calcium carbonate structures.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "The blue marlin can swim at speeds of up to 50 mph, making it one of the fastest fish in the ocean.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "Some sea slugs can photosynthesize after eating algae, incorporating the chloroplasts into their own cells.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "Humpback whales do not eat for most of the winter, living off fat reserves stored during the summer feeding season.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "The pistol shrimp's snapping claw creates a cavitation bubble that collapses with a flash of light (sonoluminescence).",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "Whale shark skin can be up to 4 inches thick — the thickest skin of any animal.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "Antarctic krill swarms can be so dense they turn the ocean surface red and are visible from space.",
+      "source": "https://en.wikipedia.org/wiki/Antarctic_krill_swarms_can_be_so_dense_they_turn_the_ocean_surface_red_and"
+    },
+    {
+      "text": "Ghost crabs can run up to 10 mph on the beach and make growling sounds by grinding the teeth inside their stomachs.",
+      "source": "https://en.wikipedia.org/wiki/Ghost_crabs_can"
+    },
+    {
+      "text": "The dugong was likely the inspiration for ancient legends of mermaids spotted by sailors.",
+      "source": "https://en.wikipedia.org/wiki/dugong"
+    },
+    {
+      "text": "The loneliest whale in the world, known as '52 Blue,' sings at a frequency of 52 Hz — too high for other whale species to hear.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "Staghorn coral is one of the fastest-growing coral species and plays a crucial role in reef building.",
+      "source": "https://en.wikipedia.org/wiki/Staghorn_coral"
+    },
+    {
+      "text": "The harbor porpoise can hear sounds at frequencies up to 150 kHz, far beyond human hearing.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "Squid have three hearts — two branchial hearts and one systemic heart — and blue copper-based blood.",
+      "source": "https://en.wikipedia.org/wiki/Squid"
+    },
+    {
+      "text": "Male narwhals joust with their tusks, but the tusk may also serve as a sensory organ detecting water salinity and temperature.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "Cormorants are diving seabirds that can reach depths of 145 feet and swim underwater using their feet for propulsion.",
+      "source": "https://en.wikipedia.org/wiki/Cormorants"
+    },
+    {
+      "text": "The Humboldt squid is known as the 'red devil' because of its aggressive behavior and ability to flash red and white.",
+      "source": "https://en.wikipedia.org/wiki/Humboldt_squid"
+    },
+    {
+      "text": "Plastic pollution kills over 100,000 marine mammals and 1 million seabirds every year.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "Blue crabs can regenerate lost claws, which is why crab fisheries often practice 'declawing' and releasing.",
+      "source": "https://en.wikipedia.org/wiki/Blue_crabs_can_regenerate_lost_claws%2C_which"
+    },
+    {
+      "text": "The leopard torpedo ray delivers electric shocks of up to 45 volts to stun its prey.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "Dolphins have been trained by the U.S. Navy to detect underwater mines and protect harbors since the 1960s.",
+      "source": "https://en.wikipedia.org/wiki/Dolphins"
+    },
+    {
+      "text": "Giant tube worms near hydrothermal vents can grow up to 8 feet long and have no mouth, stomach, or eyes.",
+      "source": "https://en.wikipedia.org/wiki/Giant_tube_worms_near_hydrothermal_vents_can_grow_up_to_8_feet_long_and"
+    },
+    {
+      "text": "The Commerson's dolphin, also called the panda dolphin, has striking black-and-white markings.",
+      "source": "https://en.wikipedia.org/wiki/Commerson%27s_dolphin%2C_also_called_the_panda_dolphin"
+    },
+    {
+      "text": "The red handfish walks along the ocean floor using its modified pectoral fins and is critically endangered in Tasmania.",
+      "source": "https://en.wikipedia.org/wiki/red_handfish_walks_along_the_ocean_floor_using_its_modified_pectoral_fins_and"
+    },
+    {
+      "text": "Right whales got their name because whalers considered them the 'right' whale to hunt — they floated when killed and swam slowly.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "Flatworms on coral reefs engage in 'penis fencing' — both hermaphroditic partners try to inseminate the other.",
+      "source": "https://en.wikipedia.org/wiki/Flatworms_on"
+    },
+    {
+      "text": "The giant manta ray has a wingspan of up to 29 feet and is filter-feeder that eats only plankton.",
+      "source": "https://en.wikipedia.org/wiki/giant_manta_ray"
+    },
+    {
+      "text": "Ocean currents transport heat around the globe — the Gulf Stream carries warm water from the Gulf of Mexico to Northwest Europe.",
+      "source": "https://en.wikipedia.org/wiki/Gulf_Stream"
+    },
+    {
+      "text": "The Irukandji jellyfish is only about 1 centimeter across but its sting can cause brain hemorrhages.",
+      "source": "https://en.wikipedia.org/wiki/Irukandji_jellyfish"
+    },
+    {
+      "text": "Tuna can retract their fins into grooves on their body to reduce drag, allowing them to swim up to 43 mph.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "Swordfish can heat their eyes and brain using a special heating organ, giving them sharper vision when hunting in deep, cold water.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "The flamboyant cuttlefish is one of the only cephalopods whose flesh is toxic to eat.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/flamboyant_cuttlefish"
+    },
+    {
+      "text": "Oyster reefs filter massive amounts of water — a single oyster can filter up to 50 gallons per day.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "The Greenland shark is the slowest shark, cruising at about 0.76 mph, yet it successfully hunts seals.",
+      "source": "https://en.wikipedia.org/wiki/Greenland_shark"
+    },
+    {
+      "text": "Whale sharks have unique spot patterns, like human fingerprints, that scientists use to identify individuals.",
+      "source": "https://en.wikipedia.org/wiki/Whale_sharks"
+    },
+    {
+      "text": "Sea anemones can live for over 80 years and reproduce both sexually and asexually.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "The sand tiger shark is the only shark known to gulp air at the surface and hold it in its stomach for buoyancy.",
+      "source": "https://en.wikipedia.org/wiki/sand_tiger_shark"
+    },
+    {
+      "text": "Lanternfish are the most abundant fish in the deep sea and a major component of the deep scattering layer.",
+      "source": "https://en.wikipedia.org/wiki/Lanternfish"
+    },
+    {
+      "text": "The Steller sea lion is the largest of all sea lion species, with males weighing up to 2,500 pounds.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Steller_sea_lion"
+    },
+    {
+      "text": "Coral spawning is a synchronized event where entire reef colonies release eggs and sperm on the same night.",
+      "source": "https://en.wikipedia.org/wiki/Coral_spawning"
+    },
+    {
+      "text": "The sandbar shark has one of the longest gestation periods of any shark — up to 12 months.",
+      "source": "https://en.wikipedia.org/wiki/sandbar_shark"
+    },
+    {
+      "text": "Orcas have been observed teaching hunting techniques specific to their region, like wave-washing seals off ice floes.",
+      "source": "https://en.wikipedia.org/wiki/Orcas"
+    },
+    {
+      "text": "The deep-sea hatchetfish has tubular eyes pointing upward to detect the silhouettes of prey above.",
+      "source": "https://en.wikipedia.org/wiki/deep-sea_hatchetfish"
+    },
+    {
+      "text": "Upwelling zones where cold, nutrient-rich water rises to the surface are among the most productive marine ecosystems.",
+      "source": "https://en.wikipedia.org/wiki/Upwelling_zones_where_cold%2C_nutrient-rich_water_rises_to_the_surface"
+    },
+    {
+      "text": "The female blanket octopus is immune to Portuguese man o' war stings and rips off their tentacles to use as weapons.",
+      "source": "https://en.wikipedia.org/wiki/female_blanket_octopus"
+    },
+    {
+      "text": "Seahorses have no teeth or stomach — food passes through them so quickly they must eat almost constantly.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Seahorses"
+    },
+    {
+      "text": "The hammerhead worm is not a marine animal, but the hammerhead shark's head shape is called a 'cephalofoil.'",
+      "source": "https://en.wikipedia.org/wiki/hammerhead_worm"
+    },
+    {
+      "text": "Beaked whales are the deepest-diving mammals — Cuvier's beaked whale holds the record at 9,816 feet.",
+      "source": "https://en.wikipedia.org/wiki/Beaked_whales"
+    },
+    {
+      "text": "Abalone shells are made of a material 3,000 times more fracture-resistant than the mineral it's made of.",
+      "source": "https://en.wikipedia.org/wiki/Abalone_shells"
+    },
+    {
+      "text": "The sixgill shark has six gill slits instead of the typical five found in most shark species.",
+      "source": "https://en.wikipedia.org/wiki/sixgill_shark"
+    },
+    {
+      "text": "Sea snakes are the most venomous snakes in the world, but they are generally docile and rarely bite humans.",
+      "source": "https://en.wikipedia.org/wiki/Sea_snakes"
+    },
+    {
+      "text": "Green sea turtles are named for the green color of their fat, not their shells.",
+      "source": "https://en.wikipedia.org/wiki/Green_sea_turtles"
+    },
+    {
+      "text": "Each year, about 100 million sharks are killed by humans, primarily for their fins.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Each_year%2C_about_100_million_sharks"
+    },
+    {
+      "text": "Rough-toothed dolphins are among the few dolphin species that cooperatively hunt with each other and even with other species.",
+      "source": "https://en.wikipedia.org/wiki/Rough-toothed_dolphins"
+    },
+    {
+      "text": "The stoplight loosejaw is a deep-sea fish that can produce red light invisible to its prey.",
+      "source": "https://en.wikipedia.org/wiki/stoplight_loosejaw"
+    },
+    {
+      "text": "The elkhorn coral is one of the most important reef-building species in the Caribbean but is now critically endangered.",
+      "source": "https://en.wikipedia.org/wiki/elkhorn_coral"
+    },
+    {
+      "text": "Spiny dogfish sharks travel in packs and are one of the most common shark species in the world.",
+      "source": "https://en.wikipedia.org/wiki/Spiny_dogfish_sharks_travel_in_packs_and"
+    },
+    {
+      "text": "The sea wasp box jellyfish has enough venom to kill 60 adult humans.",
+      "source": "https://en.wikipedia.org/wiki/sea_wasp_box_jellyfish"
+    },
+    {
+      "text": "A blue whale calf drinks about 100 gallons of its mother's milk per day and gains about 200 pounds daily.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "The Scotoplanes (sea pig) is a deep-sea sea cucumber that walks on the ocean floor on tube feet and inhales mud.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Scotoplanes_(sea_pig)"
+    },
+    {
+      "text": "Brittle stars can drop an arm when threatened and regenerate it, similar to lizards dropping their tails.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "The wrasse fish can change sex — many species start as female and become male as they grow larger.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "The bumphead parrotfish sleeps in a cocoon of its own mucus to mask its scent from predators.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "Narwhals live year-round in the Arctic and can dive to depths of over 5,000 feet.",
+      "source": "https://en.wikipedia.org/wiki/Arctic_and"
+    },
+    {
+      "text": "Feather stars (crinoids) look like plants but are actually animals that can swim by waving their feathery arms.",
+      "source": "https://en.wikipedia.org/wiki/Feather_stars_(crinoids)_look_like_plants_but"
+    },
+    {
+      "text": "The shortfin mako shark must keep swimming to breathe — it cannot pump water over its gills while stationary.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "The whitetip reef shark is one of the few sharks that can rest motionless on the ocean floor while still breathing.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/whitetip_reef_shark"
+    },
+    {
+      "text": "Fiddler crabs wave their oversized claw to attract mates and intimidate rivals — if they lose it, the other claw grows large instead.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "Sound travels about 4.3 times faster in water than in air, which is why whale calls can travel so far.",
+      "source": "https://en.wikipedia.org/wiki/Sound_travels_about_4.3_times_faster_in_water_than_in_air%2C_which"
+    },
+    {
+      "text": "Tripod fish stand on three elongated fins on the deep-sea floor, facing into the current to catch drifting food.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "The Pinto abalone was the first marine invertebrate listed under Canada's Species at Risk Act.",
+      "source": "https://en.wikipedia.org/wiki/Pinto_abalone"
+    },
+    {
+      "text": "Olive ridley sea turtles nest in mass synchronized events called 'arribadas,' where thousands come ashore at once.",
+      "source": "https://en.wikipedia.org/wiki/Olive_ridley_sea_turtles_nest_in_mass_synchronized_events"
+    },
+    {
+      "text": "The wolffish has natural antifreeze in its blood, allowing it to survive in near-freezing Arctic waters.",
+      "source": "https://en.wikipedia.org/wiki/wolffish"
+    },
+    {
+      "text": "The ocean makes up 99% of the living space on Earth when you include its depth.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "Seabirds like albatrosses can fly for years without touching land, sleeping on the wing over the open ocean.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "Reef sharks patrol territories and follow regular routes, returning to the same resting spots daily.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "The flamboyant cuttlefish 'walks' along the seabed using its lower arms like legs.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "Coconut crabs are the largest land-living arthropod, with a leg span of up to 3 feet, and they can crack coconuts.",
+      "source": "https://en.wikipedia.org/wiki/Coconut_crabs"
+    },
+    {
+      "text": "The ocean has a 'twilight zone' between 660 and 3,300 feet deep where light fades and bizarre creatures thrive.",
+      "source": "https://en.wikipedia.org/wiki/ocean"
+    },
+    {
+      "text": "Rockfish can live for over 200 years — the rougheye rockfish holds the record at 205 years.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "The stonefish is the most venomous fish in the world and can look exactly like a rock on the ocean floor.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/stonefish"
+    },
+    {
+      "text": "A single whale poop event can release a nutrient plume that fertilizes phytoplankton growth across a wide area.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "Porcupine pufferfish inflate to nearly twice their normal size and erect sharp spines as a defense.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "The megamouth shark was only discovered in 1976 and fewer than 100 specimens have ever been observed.",
+      "source": "https://en.wikipedia.org/wiki/megamouth_shark"
+    },
+    {
+      "text": "Anemonefish (clownfish) are all born male but the dominant fish in a group can change sex to become female.",
+      "source": "https://en.wikipedia.org/wiki/Anemonefish_(clownfish)"
+    },
+    {
+      "text": "The Southern Ocean around Antarctica contains the most nutrient-rich waters on Earth.",
+      "source": "https://en.wikipedia.org/wiki/Southern_Ocean_around_Antarctica"
+    },
+    {
+      "text": "Triggerfish can lock their dorsal spine upright, making them nearly impossible to pull out of the crevices where they hide.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "The North Atlantic right whale is one of the most endangered large whales, with fewer than 350 individuals remaining.",
+      "source": "https://en.wikipedia.org/wiki/North_Atlantic_right_whale"
+    },
+    {
+      "text": "Whale watching generates over $2 billion annually worldwide and supports coastal economies.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "Sea spiders (pycnogonids) have such small bodies that their organs extend into their legs.",
+      "source": "https://en.wikipedia.org/wiki/Sea_spiders_(pycnogonids)"
+    },
+    {
+      "text": "The epaulette shark can walk on land using its fins and survive without oxygen for up to 3 hours.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "Deep-sea corals in cold waters grow incredibly slowly — some colonies may be over 4,000 years old.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "month": 6,
+      "day": 8,
+      "text": "World Oceans Day is celebrated on June 8 each year to raise awareness about the importance of protecting our oceans.",
+      "source": "https://en.wikipedia.org/wiki/World_Oceans_Day"
+    },
+    {
+      "month": 7,
+      "day": 14,
+      "text": "Shark Awareness Day on July 14 highlights the importance of shark conservation and dispels common myths about these apex predators.",
+      "source": "https://en.wikipedia.org/wiki/Shark_Awareness_Day"
+    },
+    {
+      "month": 6,
+      "day": 16,
+      "text": "World Sea Turtle Day on June 16 honors the birthday of Dr. Archie Carr, the 'father of sea turtle biology,' and promotes turtle conservation.",
+      "source": "https://en.wikipedia.org/wiki/World_Sea_Turtle_Day"
+    },
+    {
+      "month": 5,
+      "day": 22,
+      "text": "World Biodiversity Day on May 22 includes a focus on marine biodiversity — the oceans house an estimated 2.2 million species.",
+      "source": "https://en.wikipedia.org/wiki/World_Biodiversity_Day_on_May_22"
+    },
+    {
+      "month": 3,
+      "day": 3,
+      "text": "World Wildlife Day on March 3 celebrates marine life, with the 2019 theme being 'Life Below Water.'",
+      "source": "https://en.wikipedia.org/wiki/World_Wildlife_Day"
+    },
+    {
+      "month": 10,
+      "day": 4,
+      "text": "World Animal Day on October 4 recognizes all animals including marine life, and promotes ocean conservation efforts.",
+      "source": "https://en.wikipedia.org/wiki/World_Animal_Day"
+    },
+    {
+      "month": 2,
+      "day": 19,
+      "text": "World Whale Day is celebrated on the third Sunday of February (approx. Feb 19) and originated in Maui, Hawaii in 1980 to honor humpback whales.",
+      "source": "https://en.wikipedia.org/wiki/World_Whale_Day"
+    },
+    {
+      "month": 4,
+      "day": 25,
+      "text": "World Penguin Day on April 25 coincides with the annual northward migration of Adélie penguins in Antarctica.",
+      "source": "https://en.wikipedia.org/wiki/World_Penguin_Day"
+    },
+    {
+      "month": 11,
+      "day": 1,
+      "text": "World Vegan Day on November 1 highlights the impact of fishing industries on marine ecosystems and oceanic dead zones.",
+      "source": "https://en.wikipedia.org/wiki/World_Vegan_Day"
+    },
+    {
+      "month": 1,
+      "day": 5,
+      "text": "On January 5, 1933, construction began on the Golden Gate Bridge, which spans one of the most important marine habitats on the U.S. Pacific coast.",
+      "source": "https://en.wikipedia.org/wiki/Golden_Gate_Bridge"
+    },
+    {
+      "month": 3,
+      "day": 23,
+      "text": "World Meteorological Day on March 23 acknowledges the role of oceans in weather patterns and the global climate system.",
+      "source": "https://en.wikipedia.org/wiki/World_Meteorological_Day"
+    },
+    {
+      "month": 7,
+      "day": 1,
+      "text": "The first Shark Week on Discovery Channel premiered on July 17, 1988, and became the longest-running cable TV programming event.",
+      "source": "https://en.wikipedia.org/wiki/first_Shark_Week_on_Discovery_Channel_premiered_on_July_17%2C_1988%2C_and"
+    },
+    {
+      "month": 5,
+      "day": 23,
+      "text": "World Turtle Day on May 23 raises awareness about sea turtles and their habitats worldwide.",
+      "source": "https://en.wikipedia.org/wiki/World_Turtle_Day"
+    },
+    {
+      "month": 8,
+      "day": 1,
+      "text": "August marks the peak season for coral spawning on the Great Barrier Reef, a mass reproduction event triggered by water temperature and moonlight.",
+      "source": "https://en.wikipedia.org/wiki/August"
+    },
+    {
+      "month": 4,
+      "day": 22,
+      "text": "Earth Day on April 22 often features campaigns to reduce ocean plastic pollution and protect marine ecosystems.",
+      "source": "https://en.wikipedia.org/wiki/Earth_Day_on_April_22_often"
+    },
+    {
+      "month": 10,
+      "day": 14,
+      "text": "On October 14, 1977, the Marine Mammal Commission reported that many whale species were in danger of extinction, leading to strengthened protections.",
+      "source": "https://en.wikipedia.org/wiki/Marine_Mammal_Commission_reported_that_many_whale_species"
+    },
+    {
+      "month": 6,
+      "day": 5,
+      "text": "World Environment Day on June 5 has frequently focused on ocean pollution, with the 2018 theme being 'Beat Plastic Pollution.'",
+      "source": "https://en.wikipedia.org/wiki/World_Environment_Day_on_June_5"
+    },
+    {
+      "month": 9,
+      "day": 17,
+      "text": "The Monterey Bay National Marine Sanctuary was designated on September 18, 1992, protecting one of the most diverse marine ecosystems in the U.S.",
+      "source": "https://en.wikipedia.org/wiki/Monterey_Bay_National_Marine_Sanctuary"
+    },
+    {
+      "month": 1,
+      "day": 23,
+      "text": "On January 23, 1960, Jacques Piccard and Don Walsh descended to the bottom of the Mariana Trench in the bathyscaphe Trieste, reaching 35,814 feet.",
+      "source": "https://en.wikipedia.org/wiki/Jacques_Piccard_and_Don_Walsh"
+    },
+    {
+      "month": 12,
+      "day": 5,
+      "text": "On December 5, 1872, the HMS Challenger departed on the first major oceanographic expedition, a 4-year voyage that discovered over 4,000 new species.",
+      "source": "https://en.wikipedia.org/wiki/On_December_5"
+    },
+    {
+      "month": 8,
+      "day": 12,
+      "text": "World Elephant Day on August 12 links to marine conservation — manatees and dugongs share a common ancestor with elephants.",
+      "source": "https://en.wikipedia.org/wiki/World_Elephant_Day"
+    },
+    {
+      "month": 7,
+      "day": 25,
+      "text": "On July 25, 2021, the first Kunming-Montreal Global Biodiversity Framework session began, targeting 30% ocean protection by 2030.",
+      "source": "https://en.wikipedia.org/wiki/Kunming-Montreal_Global_Biodiversity_Framework"
+    },
+    {
+      "month": 3,
+      "day": 14,
+      "text": "On March 14, 2013, CITES voted to protect five shark species under international trade regulations for the first time.",
+      "source": "https://en.wikipedia.org/wiki/On_March_14"
+    },
+    {
+      "month": 11,
+      "day": 16,
+      "text": "On November 16, 1972, the Marine Protection, Research, and Sanctuaries Act was signed into law, establishing the U.S. system of marine sanctuaries.",
+      "source": "https://en.wikipedia.org/wiki/Marine_Protection%2C_Research%2C_and_Sanctuaries_Act"
+    },
+    {
+      "month": 2,
+      "day": 2,
+      "text": "World Wetlands Day on February 2 highlights coastal wetlands that serve as critical nursery habitats for many marine species.",
+      "source": "https://en.wikipedia.org/wiki/World_Wetlands_Day"
+    },
+    {
+      "month": 9,
+      "day": 22,
+      "text": "World Rivers Day on the last Sunday of September (approx. Sep 22) highlights how river health directly impacts marine ecosystems downstream.",
+      "source": "https://en.wikipedia.org/wiki/World_Rivers_Day_on_the"
+    },
+    {
+      "month": 12,
+      "day": 14,
+      "text": "The International Whaling Commission's moratorium on commercial whaling took effect on December 14, 1986, saving countless whale lives.",
+      "source": "https://en.wikipedia.org/wiki/International_Whaling_Commission%27s_moratorium_on_commercial_whaling"
+    },
+    {
+      "month": 6,
+      "day": 21,
+      "text": "The summer solstice (June 21) marks the longest day of the year in the Northern Hemisphere, when ocean surface temperatures begin to peak, driving marine activity.",
+      "source": "https://en.wikipedia.org/wiki/summer_solstice_(June_21)"
+    },
+    {
+      "month": 4,
+      "day": 16,
+      "text": "On April 16, 2010, the Deepwater Horizon oil rig explosion led to the largest marine oil spill in history, releasing 4.9 million barrels of oil into the Gulf of Mexico.",
+      "source": "https://en.wikipedia.org/wiki/Deepwater_Horizon"
+    },
+    {
+      "month": 10,
+      "day": 8,
+      "text": "International Octopus Day on October 8 celebrates octopuses — the date was chosen because they have 8 arms.",
+      "source": "https://en.wikipedia.org/wiki/International_Octopus_Day_on_October_8_celebrates_octopuses_%E2%80%94_the_date"
+    },
+    {
+      "text": "Deep-sea fish often have huge eyes relative to their body size to capture as much light as possible.",
+      "source": "https://en.wikipedia.org/wiki/Deep-sea_fish_often"
+    },
+    {
+      "text": "The chambered nautilus uses jet propulsion to move, squirting water through a siphon.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "Manatees eat up to 10-15% of their body weight in aquatic plants every day.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "The tasseled wobbegong shark's fringed beard-like lobes help it blend into the reef.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "Harlequin shrimp feed exclusively on sea stars, flipping them over and eating their tube feet.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "Some deep-sea squid can detach their arms, which continue to glow and wiggle to distract predators.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "The world's largest known colony of breeding fish was discovered in Antarctica's Weddell Sea — about 60 million icefish nests.",
+      "source": "https://en.wikipedia.org/wiki/world%27s_largest_known_colony_of_breeding_fish"
+    },
+    {
+      "text": "Crown jellyfish can glow with bioluminescence when disturbed, creating a stunning underwater light show.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "Dolphins exhale and inhale very rapidly — a single breath exchange takes only about 0.3 seconds.",
+      "source": "https://en.wikipedia.org/wiki/Dolphins_exhale_and_inhale_very_rapidly_%E2%80%94_a_single_breath_exchange"
+    },
+    {
+      "text": "Eels in the Sargasso Sea all return to the same spawning grounds thousands of miles from where they live as adults.",
+      "source": "https://en.wikipedia.org/wiki/Eels_in_the_Sargasso_Sea"
+    },
+    {
+      "text": "The scallop has up to 200 tiny eyes lining its shell, each with a mirror-like structure similar to a telescope.",
+      "source": "https://en.wikipedia.org/wiki/scallop"
+    },
+    {
+      "text": "Blue whales can consume 40 million krill in a single day during peak feeding.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "The Dumbo octopus was named after Disney's Dumbo because of its ear-like fins.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Dumbo_octopus"
+    },
+    {
+      "text": "Horseshoe crab blood is worth about $60,000 per gallon due to its use in pharmaceutical safety testing.",
+      "source": "https://en.wikipedia.org/wiki/Horseshoe_crab_blood"
+    },
+    {
+      "text": "The ocean floor has mountain ranges taller than anything on land — the Mid-Atlantic Ridge stretches 40,000 miles.",
+      "source": "https://en.wikipedia.org/wiki/ocean_floor"
+    },
+    {
+      "text": "A sea turtle's sex is determined by the temperature of the sand where the egg incubates — warmer nests produce more females.",
+      "source": "https://en.wikipedia.org/wiki/A_sea_turtle%27s_sex"
+    },
+    {
+      "text": "The deep-sea gulper eel's jaw can unhinge to swallow prey much larger than its own head.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "Spinner sharks leap from the water while spinning rapidly along their longitudinal axis to catch schooling fish.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "The Mediterranean monk seal is the world's most endangered seal species, with fewer than 700 remaining.",
+      "source": "https://en.wikipedia.org/wiki/Mediterranean_monk_seal"
+    },
+    {
+      "text": "Sea otters wrap themselves in kelp while sleeping to prevent drifting away in the current.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "The blue tang (Dory from 'Finding Nemo') can adjust its shade of blue from light to dark depending on its mood.",
+      "source": "https://en.wikipedia.org/wiki/Finding_Nemo"
+    },
+    {
+      "text": "Giant clams can produce pearls, though they are not as lustrous as oyster pearls.",
+      "source": "https://en.wikipedia.org/wiki/Giant_clams_can_produce_pearls%2C_though_they"
+    },
+    {
+      "text": "The bramble shark has thorn-like denticles covering its body, making it feel like a briar patch.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/bramble_shark"
+    },
+    {
+      "text": "Pilot fish swim alongside sharks not for protection but because they feed on parasites and leftovers from the shark's meals.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "The Mariana snailfish is the deepest-living fish ever recorded, found at 26,831 feet in the Mariana Trench.",
+      "source": "https://en.wikipedia.org/wiki/Mariana_snailfish"
+    },
+    {
+      "text": "Ghost sharks (chimaeras) split from other sharks on the evolutionary tree over 400 million years ago.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "Sea snakes can absorb up to 33% of their oxygen needs directly through their skin while swimming.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "The Greenland shark eats polar bears and reindeer that fall through ice — remains have been found in their stomachs.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Greenland_shark_eats_polar_bears_and_reindeer_that_fall_through_ice_%E2%80%94_remains"
+    },
+    {
+      "text": "Tidal pools are miniature ecosystems that host sea stars, anemones, crabs, and small fish in coastal rock formations.",
+      "source": "https://en.wikipedia.org/wiki/Tidal_pools"
+    },
+    {
+      "text": "The wobbegong shark's name comes from an Australian Aboriginal word meaning 'shaggy beard.'",
+      "source": "https://en.wikipedia.org/wiki/Australian_Aboriginal"
+    },
+    {
+      "text": "Beluga whales can turn their heads side to side because, unlike most whales, their neck vertebrae are not fused.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "Sea butterflies (pteropods) are tiny sea snails that 'fly' through the water using wing-like extensions of their foot.",
+      "source": "https://en.wikipedia.org/wiki/Sea_butterflies_(pteropods)"
+    },
+    {
+      "text": "The shortfin mako shark can leap up to 30 feet out of the water when hooked by fishermen.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "Coral reef fish are more colorful than deep-sea fish because color serves for communication and camouflage in well-lit waters.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Coral_reef_fish"
+    },
+    {
+      "text": "A single female sunfish can produce up to 300 million eggs at once — more than any other known vertebrate.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "The sperm whale's head contains a huge reservoir of waxy oil called spermaceti, which may help regulate buoyancy.",
+      "source": "https://en.wikipedia.org/wiki/sperm_whale%27s_head"
+    },
+    {
+      "text": "Limpets have teeth made of the strongest biological material ever discovered — stronger than spider silk.",
+      "source": "https://en.wikipedia.org/wiki/Limpets"
+    },
+    {
+      "text": "Marine heatwaves are becoming more frequent and intense, devastating kelp forests and coral reefs globally.",
+      "source": "https://en.wikipedia.org/wiki/Marine_heatwaves"
+    },
+    {
+      "text": "The weedy sea dragon is the marine emblem of the state of Victoria, Australia.",
+      "source": "https://en.wikipedia.org/wiki/weedy_sea_dragon"
+    },
+    {
+      "text": "The Antarctic icefish is the only known vertebrate that lacks red blood cells and hemoglobin — its blood is translucent.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Antarctic_icefish"
+    },
+    {
+      "text": "Manta rays are individually identified by their unique belly spot patterns, like fingerprints.",
+      "source": "https://en.wikipedia.org/wiki/Manta_rays"
+    },
+    {
+      "text": "Remoras can attach to the hulls of ships, and ancient Romans believed they could slow down warships.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "The ocean contains 97% of all water on Earth, and less than 5% of it has been explored by humans.",
+      "source": "https://en.wikipedia.org/wiki/ocean"
+    },
+    {
+      "text": "Fangtooth fish have the largest teeth relative to body size of any fish in the ocean.",
+      "source": "https://en.wikipedia.org/wiki/Fangtooth_fish"
+    },
+    {
+      "text": "Spinner dolphins spin in the air to communicate — each spin style may convey different information to the pod.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    },
+    {
+      "text": "The longhorn cowfish has small horns protruding from its head and can secrete a toxin when stressed.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/longhorn_cowfish"
+    },
+    {
+      "text": "Deep-sea sponges made of glass (silica) have fiber-optic properties that scientists are studying for technology applications.",
+      "source": "https://en.wikipedia.org/wiki/Deep-sea_sponges_made_of_glass_(silica)"
+    },
+    {
+      "text": "Orcas are apex predators with no natural predators — they even hunt great white sharks for their nutrient-rich livers.",
+      "source": "https://en.wikipedia.org/wiki/Orcas"
+    },
+    {
+      "text": "Garden eels live in colonies on sandy ocean floors, swaying in the current to catch passing plankton.",
+      "source": "https://en.wikipedia.org/wiki/Sea_Creatures_%26_Marine_Life"
+    }
+  ]
+}

@@ -1,0 +1,1692 @@
+{
+  "hobby": "Fashion & Style",
+  "facts": [
+    {
+      "text": "Coco Chanel introduced the little black dress in 1926, and Vogue called it 'Chanel's Ford' — meaning it was as universal as the Model T car.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Coco_Chanel"
+    },
+    {
+      "text": "The Met Gala, fashion's biggest night, has been held on the first Monday in May since 2005, though the event dates back to 1948.",
+      "month": 5,
+      "day": 5,
+      "source": "https://en.wikipedia.org/wiki/Met_Gala%2C_fashion%27s_biggest_night"
+    },
+    {
+      "text": "Nike's Air Jordan 1 was banned by the NBA in 1985 for violating the league's uniform policy, and Nike paid the $5,000 fine per game, turning it into a marketing goldmine.",
+      "source": "https://en.wikipedia.org/wiki/Nike%27s_Air_Jordan_1"
+    },
+    {
+      "text": "Vogue magazine was first published in 1892 as a weekly society gazette in New York before becoming the fashion bible it is today.",
+      "month": 12,
+      "day": 17,
+      "source": "https://en.wikipedia.org/wiki/Vogue_magazine"
+    },
+    {
+      "text": "The Hermès Birkin bag was inspired by a chance meeting between actress Jane Birkin and Hermès CEO Jean-Louis Dumas on a flight in 1984.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Herm%C3%A8s_Birkin_bag"
+    },
+    {
+      "text": "London Fashion Week was established in 1984 and is held biannually in February and September at venues across the city.",
+      "source": "https://en.wikipedia.org/wiki/London_Fashion_Week"
+    },
+    {
+      "text": "Naomi Campbell was the first Black model to appear on the cover of French Vogue in August 1988 and the first to grace the cover of Time magazine's fashion issue.",
+      "source": "https://en.wikipedia.org/wiki/Naomi_Campbell"
+    },
+    {
+      "text": "The trench coat was originally designed for British military officers during World War I by Burberry, using waterproof gabardine fabric Thomas Burberry had patented in 1879.",
+      "source": "https://en.wikipedia.org/wiki/trench_coat"
+    },
+    {
+      "text": "Virgil Abloh founded Off-White in 2012 and became the first African-American artistic director of Louis Vuitton's menswear collection in 2018.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Virgil_Abloh"
+    },
+    {
+      "text": "Levi Strauss and Jacob Davis patented the first riveted blue jeans on May 20, 1873, originally designed as durable workwear for miners.",
+      "month": 5,
+      "day": 20,
+      "source": "https://en.wikipedia.org/wiki/Levi_Strauss_and_Jacob_Davis"
+    },
+    {
+      "text": "Anna Wintour became editor-in-chief of American Vogue in 1988 and is known for her signature bob haircut and dark sunglasses.",
+      "source": "https://en.wikipedia.org/wiki/Anna_Wintour"
+    },
+    {
+      "text": "The fashion industry produces about 10% of global carbon emissions — more than international flights and maritime shipping combined.",
+      "source": "https://en.wikipedia.org/wiki/Fashion_%26_Style"
+    },
+    {
+      "text": "Supreme was founded in 1994 as a small skate shop on Lafayette Street in New York City and became a billion-dollar streetwear empire.",
+      "source": "https://en.wikipedia.org/wiki/Supreme"
+    },
+    {
+      "text": "Christian Dior's 'New Look' debuted on February 12, 1947, featuring cinched waists and full skirts that revolutionized post-war fashion.",
+      "month": 2,
+      "day": 12,
+      "source": "https://en.wikipedia.org/wiki/Christian_Dior%27s"
+    },
+    {
+      "text": "Converse Chuck Taylor All Stars were first produced in 1917 and are the best-selling basketball shoe of all time with over 800 million pairs sold.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Converse_Chuck_Taylor_All_Stars"
+    },
+    {
+      "text": "Kate Moss was discovered at age 14 at JFK Airport in New York in 1988 and went on to define the 'heroin chic' aesthetic of the 1990s.",
+      "source": "https://en.wikipedia.org/wiki/Kate_Moss"
+    },
+    {
+      "text": "The average American throws away about 81 pounds of clothing per year, contributing to roughly 11.3 million tons of textile waste in U.S. landfills annually.",
+      "source": "https://en.wikipedia.org/wiki/Fashion_%26_Style"
+    },
+    {
+      "text": "Paris Fashion Week is the oldest of the Big Four fashion weeks, with roots going back to 1945, though designer showcases in Paris date to the 1800s.",
+      "source": "https://en.wikipedia.org/wiki/Paris_Fashion_Week"
+    },
+    {
+      "text": "Alexander McQueen's Spring 1999 show featured model Shalom Harlow being spray-painted by two robotic arms on a rotating platform — one of fashion's most iconic runway moments.",
+      "source": "https://en.wikipedia.org/wiki/Alexander_McQueen%27s_Spring_1999"
+    },
+    {
+      "text": "Ray-Ban Aviators were originally developed in 1936 for U.S. military pilots to protect their eyes at high altitudes.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Ray-Ban_Aviators"
+    },
+    {
+      "text": "Gucci was founded in Florence, Italy, in 1921 by Guccio Gucci, who was inspired by the elegant luggage he saw while working at the Savoy Hotel in London.",
+      "month": 1,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/Gucci"
+    },
+    {
+      "text": "The global sneaker resale market was valued at over $10 billion in 2025, with platforms like StockX and GOAT leading the secondary market.",
+      "source": "https://en.wikipedia.org/wiki/global_sneaker_resale_market"
+    },
+    {
+      "text": "Project Runway premiered on Bravo in 2004 and has run for over 20 seasons, making it one of the longest-running fashion competition shows.",
+      "source": "https://en.wikipedia.org/wiki/Project_Runway_premiered_on_Bravo_in_2004_and"
+    },
+    {
+      "text": "Stella McCartney has been a pioneer of sustainable luxury fashion since launching her label in 2001, never using leather or fur in her designs.",
+      "source": "https://en.wikipedia.org/wiki/Stella_McCartney"
+    },
+    {
+      "text": "The 1920s flapper dress symbolized women's liberation — its dropped waist and shorter hemline allowed freedom of movement for dancing the Charleston.",
+      "source": "https://en.wikipedia.org/wiki/Fashion_%26_Style"
+    },
+    {
+      "text": "Cindy Crawford's iconic Pepsi commercial debuted during the 1992 Super Bowl and became one of the most memorable ads in history.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Cindy_Crawford%27s_iconic_Pepsi_commercial_debuted_during_the_1992_Super_Bowl_and"
+    },
+    {
+      "text": "Milan Fashion Week began in 1958 and is known as the epicenter of Italian luxury fashion, showcasing houses like Prada, Versace, and Armani.",
+      "source": "https://en.wikipedia.org/wiki/Milan_Fashion_Week_began_in_1958_and"
+    },
+    {
+      "text": "The Birkin bag has appreciated in value by an average of 14% annually, outperforming both the S&P 500 and gold as an investment.",
+      "source": "https://en.wikipedia.org/wiki/Birkin_bag"
+    },
+    {
+      "text": "Vivienne Westwood is credited with bringing punk fashion into the mainstream in the 1970s through her boutique on London's King's Road.",
+      "source": "https://en.wikipedia.org/wiki/Vivienne_Westwood"
+    },
+    {
+      "text": "The white T-shirt became a fashion staple after Marlon Brando wore one in A Streetcar Named Desire (1951) and James Dean in Rebel Without a Cause (1955).",
+      "source": "https://en.wikipedia.org/wiki/Streetcar_Named_Desire"
+    },
+    {
+      "text": "New York Fashion Week was founded in 1943 by Eleanor Lambert as 'Press Week' to draw attention away from French fashion during World War II.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/New_York_Fashion_Week"
+    },
+    {
+      "text": "Gianni Versace was tragically murdered on the steps of his Miami Beach mansion on July 15, 1997, and his sister Donatella took over the fashion empire.",
+      "month": 7,
+      "day": 15,
+      "source": "https://en.wikipedia.org/wiki/Gianni_Versace"
+    },
+    {
+      "text": "The corset dominated women's fashion for over 400 years, from the 16th century through the early 1900s, sometimes reducing waists to as small as 13 inches.",
+      "source": "https://en.wikipedia.org/wiki/Fashion_%26_Style"
+    },
+    {
+      "text": "StockX, the 'stock market of things' for sneakers, processed over $1.8 billion in sales within its first few years of operation.",
+      "source": "https://en.wikipedia.org/wiki/Fashion_%26_Style"
+    },
+    {
+      "text": "Harper's Bazaar, founded in 1867, is the oldest continuously published fashion magazine in the United States.",
+      "month": 11,
+      "day": 2,
+      "source": "https://en.wikipedia.org/wiki/Harper%27s_Bazaar"
+    },
+    {
+      "text": "Ralph Lauren started his fashion empire in 1967 by designing wide neckties, which he sold to Bloomingdale's under the Polo label.",
+      "source": "https://en.wikipedia.org/wiki/Ralph_Lauren"
+    },
+    {
+      "text": "The 'Big Four' fashion weeks — New York, London, Milan, and Paris — collectively show over 400 collections each season.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Big_Four"
+    },
+    {
+      "text": "Tyra Banks became the first African-American woman to appear on the covers of GQ and the Sports Illustrated Swimsuit Issue.",
+      "source": "https://en.wikipedia.org/wiki/Tyra_Banks"
+    },
+    {
+      "text": "Fast fashion brands can take a design from the runway to store shelves in as little as two weeks, compared to the traditional six-month fashion cycle.",
+      "source": "https://en.wikipedia.org/wiki/Fashion_%26_Style"
+    },
+    {
+      "text": "Yves Saint Laurent introduced the women's tuxedo suit, 'Le Smoking,' in 1966, challenging gender norms and redefining power dressing.",
+      "source": "https://en.wikipedia.org/wiki/Yves_Saint_Laurent"
+    },
+    {
+      "text": "The Devil Wears Prada (2006) was inspired by Lauren Weisberger's experience working as Anna Wintour's assistant at Vogue.",
+      "source": "https://en.wikipedia.org/wiki/Devil_Wears_Prada"
+    },
+    {
+      "text": "Balenciaga was founded by Cristóbal Balenciaga in 1919 in San Sebastián, Spain, and he was referred to by Christian Dior as 'the master of us all.'",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Balenciaga"
+    },
+    {
+      "text": "The Nike Swoosh logo was designed by graphic design student Carolyn Davidson in 1971 for just $35.",
+      "source": "https://en.wikipedia.org/wiki/Nike_Swoosh_logo"
+    },
+    {
+      "text": "Gigi Hadid made her New York Fashion Week debut in 2014 walking for Desigual and has since walked for nearly every major fashion house.",
+      "source": "https://en.wikipedia.org/wiki/Gigi_Hadid_made_her_New_York_Fashion_Week_debut_in_2014_walking_for_Desigual_and"
+    },
+    {
+      "text": "Victorian fashion dictated that women wear up to 37 pounds of clothing, including multiple petticoats, corsets, and bustles.",
+      "source": "https://en.wikipedia.org/wiki/Fashion_%26_Style"
+    },
+    {
+      "text": "The Louis Vuitton monogram canvas was created in 1896 by Georges Vuitton, son of founder Louis, as an anti-counterfeiting measure.",
+      "source": "https://en.wikipedia.org/wiki/Louis_Vuitton_monogram_canvas"
+    },
+    {
+      "text": "Coco Chanel was born Gabrielle Bonheur Chanel on August 19, 1883, in Saumur, France.",
+      "month": 8,
+      "day": 19,
+      "source": "https://en.wikipedia.org/wiki/Coco_Chanel"
+    },
+    {
+      "text": "Calvin Klein's provocative 1980 jeans ad featuring a 15-year-old Brooke Shields with the line 'Nothing comes between me and my Calvins' was banned by some TV stations.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Calvin_Klein%27s"
+    },
+    {
+      "text": "The sneaker collaboration between Travis Scott and Nike for the Air Jordan 1 'Cactus Jack' became one of the most sought-after releases in sneaker history.",
+      "source": "https://en.wikipedia.org/wiki/sneaker_collaboration_between_Travis_Scott_and_Nike_for_the_Air_Jordan_1_%27Cactus_Jack"
+    },
+    {
+      "text": "80s power dressing was defined by broad-shouldered blazers, bold colors, and statement accessories, popularized by shows like Dynasty and designers like Thierry Mugler.",
+      "source": "https://en.wikipedia.org/wiki/80s_power_dressing"
+    },
+    {
+      "text": "The Rolex Submariner, introduced in 1953, was the first wristwatch waterproof to 100 meters and became an icon of luxury and adventure.",
+      "source": "https://en.wikipedia.org/wiki/Rolex_Submariner"
+    },
+    {
+      "text": "Thrifting and secondhand fashion grew 25 times faster than the broader retail market between 2019 and 2024.",
+      "source": "https://en.wikipedia.org/wiki/Thrifting_and_secondhand_fashion"
+    },
+    {
+      "text": "Prada was founded in 1913 by Mario Prada as a leather goods shop in Milan's Galleria Vittorio Emanuele II.",
+      "month": 1,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/Prada"
+    },
+    {
+      "text": "Cara Delevingne's thick eyebrows challenged the thin-brow beauty standard and helped launch the 'bold brow' trend in the 2010s.",
+      "source": "https://en.wikipedia.org/wiki/Cara_Delevingne%27s_thick_eyebrows_challenged_the_thin-brow_beauty_standard_and"
+    },
+    {
+      "text": "The Met Gala's 2019 theme was 'Camp: Notes on Fashion,' inspired by Susan Sontag's 1964 essay, and featured some of the most extravagant looks in the event's history.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Met_Gala%27s_2019_theme"
+    },
+    {
+      "text": "Versace's iconic Medusa logo was chosen by Gianni Versace because Medusa made people fall in love with her, and there was no turning back.",
+      "source": "https://en.wikipedia.org/wiki/Versace%27s_iconic_Medusa_logo"
+    },
+    {
+      "text": "The 1990s grunge fashion movement, led by bands like Nirvana and Pearl Jam, made flannel shirts, ripped jeans, and combat boots runway-worthy.",
+      "source": "https://en.wikipedia.org/wiki/Nirvana_(band)"
+    },
+    {
+      "text": "Tom Ford revived Gucci in the mid-1990s, transforming it from a near-bankrupt brand into a $4.3 billion powerhouse.",
+      "source": "https://en.wikipedia.org/wiki/Tom_Ford"
+    },
+    {
+      "text": "The Louis Vuitton Speedy bag, originally created in 1930, was made smaller at the request of Audrey Hepburn, resulting in the now-classic Speedy 25.",
+      "source": "https://en.wikipedia.org/wiki/Louis_Vuitton_Speedy_bag%2C_originally"
+    },
+    {
+      "text": "GQ magazine was founded in 1931 as Apparel Arts, a trade publication, before being renamed Gentlemen's Quarterly in 1958.",
+      "source": "https://en.wikipedia.org/wiki/GQ_magazine"
+    },
+    {
+      "text": "Alexander McQueen's 'Skull Scarf,' introduced around 2003, became one of the most copied accessories in fashion history.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Alexander_McQueen%27s_%27Skull_Scarf"
+    },
+    {
+      "text": "Adidas Yeezy sneakers, designed in collaboration with Kanye West, generated over $1.7 billion in revenue for Adidas in 2022 before the partnership ended.",
+      "source": "https://en.wikipedia.org/wiki/Adidas_Yeezy"
+    },
+    {
+      "text": "The 1960s mod fashion movement, centered in London, was characterized by miniskirts, geometric prints, and go-go boots, championed by designer Mary Quant.",
+      "source": "https://en.wikipedia.org/wiki/1960s_mod_fashion_movement"
+    },
+    {
+      "text": "Christian Louboutin's signature red-soled shoes were inspired when he painted red nail polish on a shoe prototype in 1993.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Christian_Louboutin%27s_signature_red-soled_shoes"
+    },
+    {
+      "text": "The Kelly bag by Hermès was renamed after Grace Kelly was photographed using it to shield her pregnant belly from paparazzi in 1956.",
+      "source": "https://en.wikipedia.org/wiki/Kelly_bag_by_Herm%C3%A8s"
+    },
+    {
+      "text": "Fashion week 'front row' culture became a celebrity spectacle in the early 2000s, with brands paying stars up to $100,000 to attend shows.",
+      "source": "https://en.wikipedia.org/wiki/Fashion_week_%27front_row%27_culture"
+    },
+    {
+      "text": "Heidi Klum hosted Project Runway from its premiere in 2004 through Season 16 in 2017, coining the catchphrase 'In fashion, one day you're in, and the next day you're out.'",
+      "source": "https://en.wikipedia.org/wiki/Heidi_Klum"
+    },
+    {
+      "text": "The Y2K fashion revival brought back low-rise jeans, butterfly clips, tiny sunglasses, and velour tracksuits in the early 2020s.",
+      "source": "https://en.wikipedia.org/wiki/Y2K"
+    },
+    {
+      "text": "Bella Hadid's red Roberto Cavalli dress at the 2016 Cannes Film Festival became one of the most talked-about red carpet looks of the decade.",
+      "source": "https://en.wikipedia.org/wiki/Bella_Hadid%27s_red_Roberto_Cavalli_dress_at_the_2016_Cannes_Film_Festival"
+    },
+    {
+      "text": "Chanel No. 5, introduced in 1921, was the first perfume to use synthetic aldehydes and remains one of the best-selling fragrances of all time.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Chanel_No._5"
+    },
+    {
+      "text": "The Cartier Tank watch was designed in 1917 by Louis Cartier, inspired by the angular shape of World War I Renault tanks.",
+      "source": "https://en.wikipedia.org/wiki/Cartier_Tank_watch"
+    },
+    {
+      "text": "Supreme's red box logo was inspired by the work of conceptual artist Barbara Kruger, leading to an ongoing debate about artistic appropriation.",
+      "source": "https://en.wikipedia.org/wiki/Supreme%27s_red_box_logo"
+    },
+    {
+      "text": "The first fashion magazine, Le Mercure Galant, was published in France in 1672.",
+      "source": "https://en.wikipedia.org/wiki/first_fashion_magazine%2C_Le_Mercure_Galant"
+    },
+    {
+      "text": "Disco fashion in the 1970s was defined by sequins, platform shoes, halter tops, and wrap dresses, with Diane von Furstenberg's wrap dress becoming iconic.",
+      "source": "https://en.wikipedia.org/wiki/Disco_fashion_in_the_1970s"
+    },
+    {
+      "text": "Christian Dior was born on January 21, 1905, in Granville, Normandy, France.",
+      "month": 1,
+      "day": 21,
+      "source": "https://en.wikipedia.org/wiki/Christian_Dior"
+    },
+    {
+      "text": "The global fashion industry is worth over $1.7 trillion, making it one of the largest consumer industries in the world.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/global_fashion_industry"
+    },
+    {
+      "text": "Virgil Abloh passed away on November 28, 2021, from cardiac angiosarcoma, leaving an indelible mark on fashion and design.",
+      "month": 11,
+      "day": 28,
+      "source": "https://en.wikipedia.org/wiki/Virgil_Abloh"
+    },
+    {
+      "text": "Cosmopolitan magazine, though now known for fashion and lifestyle, was originally a family magazine first published in 1886.",
+      "source": "https://en.wikipedia.org/wiki/Cosmopolitan_magazine%2C_though_now_known_for_fashion_and_lifestyle"
+    },
+    {
+      "text": "Nike's 'Just Do It' slogan, introduced in 1988, was inspired by the last words of convicted murderer Gary Gilmore: 'Let's do it.'",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Nike%27s_%27Just_Do_It%27_slogan"
+    },
+    {
+      "text": "The Burberry plaid pattern, known as the Haymarket Check, was introduced as a lining for trench coats in the 1920s.",
+      "source": "https://en.wikipedia.org/wiki/Burberry_plaid_pattern%2C_known_as_the_Haymarket_Check"
+    },
+    {
+      "text": "André Leon Talley served as editor-at-large of Vogue and was one of the most influential Black figures in fashion history.",
+      "source": "https://en.wikipedia.org/wiki/Andr%C3%A9_Leon_Talley_served_as_editor-at-large_of_Vogue_and"
+    },
+    {
+      "text": "The first New York Fashion Week held at Bryant Park was in 1993, organized by the Council of Fashion Designers of America (CFDA).",
+      "source": "https://en.wikipedia.org/wiki/first_New_York_Fashion_Week_held_at_Bryant_Park"
+    },
+    {
+      "text": "Karl Lagerfeld served as creative director of Chanel for 36 years, from 1983 until his death in 2019.",
+      "month": 2,
+      "day": 19,
+      "source": "https://en.wikipedia.org/wiki/Karl_Lagerfeld"
+    },
+    {
+      "text": "Sneaker culture traces its mainstream roots to Run-DMC's 1986 hit 'My Adidas,' which led to the first hip-hop endorsement deal with a sportswear brand.",
+      "source": "https://en.wikipedia.org/wiki/Sneaker_culture_traces_its_mainstream_roots_to"
+    },
+    {
+      "text": "The Oscars red carpet was first rolled out in 1961 at the 33rd Academy Awards, and red carpet fashion coverage has since become a cultural event of its own.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Oscars_red_carpet"
+    },
+    {
+      "text": "Dior's 'New Look' used up to 20 yards of fabric per dress at a time when textiles were still rationed post-WWII, causing controversy.",
+      "source": "https://en.wikipedia.org/wiki/Dior%27s_%27New_Look%27_used_up_to_20_yards_of_fabric_per_dress_at_a_time_when_textiles"
+    },
+    {
+      "text": "W Magazine was launched in 1972 as a biweekly supplement to Women's Wear Daily (WWD) before becoming an independent publication.",
+      "source": "https://en.wikipedia.org/wiki/W_Magazine"
+    },
+    {
+      "text": "The world's most expensive pair of sneakers ever sold are the Nike Air Yeezy 1 prototypes worn by Kanye West at the 2008 Grammys, which sold for $1.8 million in 2021.",
+      "source": "https://en.wikipedia.org/wiki/world%27s_most_expensive_pair_of_sneakers_ever_sold"
+    },
+    {
+      "text": "Stella McCartney was appointed as an Officer of the Order of the British Empire (OBE) in 2013 for her services to fashion.",
+      "source": "https://en.wikipedia.org/wiki/Stella_McCartney"
+    },
+    {
+      "text": "The 'heroin chic' aesthetic of the 1990s, featuring gaunt models and dark under-eye circles, sparked widespread controversy about eating disorders in the fashion industry.",
+      "source": "https://en.wikipedia.org/wiki/Fashion_%26_Style"
+    },
+    {
+      "text": "Louis Vuitton was born on August 4, 1821, in Anchay, France, and walked 292 miles to Paris at age 13 to apprentice as a trunk maker.",
+      "month": 8,
+      "day": 4,
+      "source": "https://en.wikipedia.org/wiki/Louis_Vuitton"
+    },
+    {
+      "text": "The little black dress is so essential to fashion that it's simply referred to as the 'LBD' and is considered a wardrobe must-have across cultures.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/little_black_dress"
+    },
+    {
+      "text": "Emily in Paris debuted on Netflix in 2020 and, despite mixed reviews, significantly boosted interest in French fashion and Parisian style.",
+      "source": "https://en.wikipedia.org/wiki/Emily_in_Paris"
+    },
+    {
+      "text": "The Levi's 501 jean has been in continuous production since 1890 and remains the best-selling jean style in the company's history.",
+      "source": "https://en.wikipedia.org/wiki/Levi%27s_501_jean"
+    },
+    {
+      "text": "Donatella Versace has led the Versace fashion house since 1997 and is known for her bold, glamorous aesthetic and platinum blonde hair.",
+      "source": "https://en.wikipedia.org/wiki/Donatella_Versace"
+    },
+    {
+      "text": "The miniskirt was popularized in the 1960s by British designer Mary Quant, who named it after the Mini Cooper car because both were 'fun and accessible.'",
+      "source": "https://en.wikipedia.org/wiki/miniskirt"
+    },
+    {
+      "text": "Luxury conglomerate LVMH (Louis Vuitton Moët Hennessy) owns over 75 prestigious brands, including Dior, Fendi, Givenchy, and Tiffany & Co.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Louis_Vuitton"
+    },
+    {
+      "text": "The Air Jordan line has generated over $5 billion in annual revenue for Nike, despite Michael Jordan retiring from basketball in 2003.",
+      "source": "https://en.wikipedia.org/wiki/Air_Jordan_line"
+    },
+    {
+      "text": "The 1947 Dior Bar suit, with its rounded shoulders, nipped waist, and padded hips, defined the 'New Look' silhouette.",
+      "source": "https://en.wikipedia.org/wiki/1947_Dior_Bar"
+    },
+    {
+      "text": "Givenchy dressed Audrey Hepburn for decades, creating her iconic looks in Breakfast at Tiffany's (1961), including the famous black dress and pearl necklace.",
+      "source": "https://en.wikipedia.org/wiki/Tiffany%27s"
+    },
+    {
+      "text": "The sustainable fashion movement gained major traction after the Rana Plaza factory collapse in Bangladesh on April 24, 2013, which killed 1,134 garment workers.",
+      "month": 4,
+      "day": 24,
+      "source": "https://en.wikipedia.org/wiki/Rana_Plaza"
+    },
+    {
+      "text": "Vogue's September issue is the most important issue of the year, traditionally the thickest and most advertising-heavy, marking the start of the fall fashion season.",
+      "source": "https://en.wikipedia.org/wiki/Vogue%27s_September_issue"
+    },
+    {
+      "text": "Ralph Lauren's real name is Ralph Lifshitz — he legally changed it as a teenager.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Ralph_Lauren%27s_real_name"
+    },
+    {
+      "text": "The 2023 Met Gala honoring Karl Lagerfeld featured celebrities wearing looks inspired by the late designer's signature aesthetic of black suits and fingerless gloves.",
+      "source": "https://en.wikipedia.org/wiki/2023"
+    },
+    {
+      "text": "Vivienne Westwood was made a Dame Commander of the Order of the British Empire in 2006 for her services to fashion.",
+      "month": 6,
+      "day": 2,
+      "source": "https://en.wikipedia.org/wiki/Vivienne_Westwood"
+    },
+    {
+      "text": "In the 1980s, Japanese designers like Rei Kawakubo (Comme des Garçons) and Yohji Yamamoto shocked Paris with deconstructed, avant-garde fashion.",
+      "source": "https://en.wikipedia.org/wiki/In_the"
+    },
+    {
+      "text": "The fashion industry uses about 93 billion cubic meters of water annually — enough to fill 37 million Olympic swimming pools.",
+      "source": "https://en.wikipedia.org/wiki/Fashion_%26_Style"
+    },
+    {
+      "text": "Prada's nylon backpack, introduced in 1984, redefined luxury by making industrial material high fashion, and it remains an iconic accessory.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Prada%27s_nylon_backpack"
+    },
+    {
+      "text": "The first Victoria's Secret Fashion Show was held in 1995 at the Plaza Hotel in New York City.",
+      "source": "https://en.wikipedia.org/wiki/first_Victoria%27s_Secret_Fashion_Show"
+    },
+    {
+      "text": "Tom Ford launched his own brand in 2005 after leaving Gucci, establishing himself as a powerhouse in both fashion and film.",
+      "source": "https://en.wikipedia.org/wiki/Tom_Ford"
+    },
+    {
+      "text": "The 'Birkin' effect means that Hermès intentionally limits production to maintain exclusivity, with waiting lists that can stretch for years.",
+      "source": "https://en.wikipedia.org/wiki/Fashion_%26_Style"
+    },
+    {
+      "text": "Elle magazine was founded in France in 1945 and now publishes in over 40 countries, making it the world's largest fashion magazine.",
+      "month": 11,
+      "day": 21,
+      "source": "https://en.wikipedia.org/wiki/Elle_magazine"
+    },
+    {
+      "text": "Streetwear culture blurred the lines between skateboarding, hip-hop, and high fashion starting in the 1990s, creating a new fashion paradigm.",
+      "source": "https://en.wikipedia.org/wiki/Fashion_%26_Style"
+    },
+    {
+      "text": "Manolo Blahnik's shoes became a cultural phenomenon through their frequent appearances on Sex and the City, where Carrie Bradshaw called them her 'great loves.'",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Manolo_Blahnik%27s_shoes"
+    },
+    {
+      "text": "The Fashion Institute of Technology (FIT) in New York City was founded in 1944 and has produced designers like Calvin Klein and Michael Kors.",
+      "source": "https://en.wikipedia.org/wiki/Fashion_Institute_of_Technology_(FIT)_in_New_York_City"
+    },
+    {
+      "text": "Coco Chanel famously said, 'Before you leave the house, look in the mirror and take one thing off.'",
+      "source": "https://en.wikipedia.org/wiki/Coco_Chanel_famously"
+    },
+    {
+      "text": "The world's first fashion show is believed to have been held by Charles Frederick Worth in Paris in the 1860s, using live models instead of mannequins.",
+      "source": "https://en.wikipedia.org/wiki/world%27s_first_fashion_show"
+    },
+    {
+      "text": "Gianni Versace was born on December 2, 1946, in Reggio Calabria, Italy.",
+      "month": 12,
+      "day": 2,
+      "source": "https://en.wikipedia.org/wiki/Gianni_Versace"
+    },
+    {
+      "text": "The drop culture phenomenon, where brands release limited quantities at surprise intervals, was pioneered by Supreme in the early 2000s.",
+      "source": "https://en.wikipedia.org/wiki/drop_culture_phenomenon%2C_where_brands_release_limited_quantities_at_surprise_intervals"
+    },
+    {
+      "text": "Princess Diana's 'revenge dress' — the off-shoulder black Christina Stambolian dress she wore in 1994 — remains one of the most iconic fashion moments in history.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Princess_Diana%27s"
+    },
+    {
+      "text": "Gucci's interlocking GG logo was created in the 1960s and is one of the most recognizable logos in fashion history.",
+      "source": "https://en.wikipedia.org/wiki/Gucci%27s_interlocking_GG_logo"
+    },
+    {
+      "text": "The fashion industry is the second-largest polluter in the world after the oil industry, according to several environmental studies.",
+      "source": "https://en.wikipedia.org/wiki/fashion_industry"
+    },
+    {
+      "text": "Balenciaga's creative director Demna Gvasalia brought ironic luxury to the forefront with items like the $2,145 'trash bag' and the $1,790 'destroyed' sneaker.",
+      "source": "https://en.wikipedia.org/wiki/Demna_Gvasalia"
+    },
+    {
+      "text": "The Chanel 2.55 bag, named after its February 1955 creation date, was revolutionary for featuring a chain strap that freed women's hands.",
+      "month": 2,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/Chanel_2.55_bag%2C_named_after_its_February_1955_creation_date"
+    },
+    {
+      "text": "Converse was originally a rubber shoe company founded in 1908, and the Chuck Taylor All Star didn't appear until 1917.",
+      "source": "https://en.wikipedia.org/wiki/Converse"
+    },
+    {
+      "text": "Alexander McQueen was born Lee Alexander McQueen on March 17, 1969, in Lewisham, London.",
+      "month": 3,
+      "day": 17,
+      "source": "https://en.wikipedia.org/wiki/Alexander_McQueen"
+    },
+    {
+      "text": "GOAT (Greatest Of All Time) started in 2015 as a sneaker authentication and resale platform and has expanded to include luxury apparel and accessories.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Greatest_Of_All_Time"
+    },
+    {
+      "text": "The wrap dress, designed by Diane von Furstenberg in 1974, sold over five million units in its first two years.",
+      "source": "https://en.wikipedia.org/wiki/Furstenberg"
+    },
+    {
+      "text": "André Leon Talley's 2003 documentary 'The September Issue' gave audiences a behind-the-scenes look at the production of Vogue's most important publication.",
+      "source": "https://en.wikipedia.org/wiki/Andr%C3%A9_Leon_Talley%27s_2003_documentary_%27The_September_Issue"
+    },
+    {
+      "text": "Sneaker collaborations between luxury houses and sportswear brands — like Dior x Nike Air Jordan — can sell for over $10,000 on the resale market.",
+      "source": "https://en.wikipedia.org/wiki/Nike_Air_Jordan"
+    },
+    {
+      "text": "Yves Saint Laurent was the first designer to use Black models in a fashion show, casting them in his 1966 collection.",
+      "source": "https://en.wikipedia.org/wiki/Yves_Saint_Laurent"
+    },
+    {
+      "text": "The Rolex Daytona 'Paul Newman,' originally priced around $200, sold at auction for $17.8 million in 2017, making it one of the most expensive watches ever sold.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Rolex_Daytona"
+    },
+    {
+      "text": "H&M, Zara, and Shein are considered the three largest fast fashion retailers in the world, with Shein overtaking them in online sales.",
+      "source": "https://en.wikipedia.org/wiki/H%26M%2C_Zara%2C_and_Shein"
+    },
+    {
+      "text": "The power suit of the 1980s was championed by designers like Giorgio Armani, whose relaxed-yet-structured blazers became a uniform for working women.",
+      "source": "https://en.wikipedia.org/wiki/power_suit_of_the_1980s"
+    },
+    {
+      "text": "Valentino Garavani is known for his signature 'Valentino Red' — a specific shade of red he discovered during a trip to Barcelona's opera house.",
+      "source": "https://en.wikipedia.org/wiki/Valentino_Garavani"
+    },
+    {
+      "text": "The Council of Fashion Designers of America (CFDA) was founded in 1962 and is responsible for organizing New York Fashion Week.",
+      "source": "https://en.wikipedia.org/wiki/Council_of_Fashion_Designers_of_America_(CFDA)"
+    },
+    {
+      "text": "Vivienne Westwood was born on April 8, 1941, in Glossop, Derbyshire, England.",
+      "month": 4,
+      "day": 8,
+      "source": "https://en.wikipedia.org/wiki/Vivienne_Westwood"
+    },
+    {
+      "text": "The concept of 'haute couture' is legally protected in France — only houses that meet strict criteria set by the Chambre Syndicale can use the term.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/concept_of_%27haute_couture"
+    },
+    {
+      "text": "Off-White's signature industrial belt became a streetwear icon of the 2010s, often retailing for over $200 despite being made of nylon.",
+      "source": "https://en.wikipedia.org/wiki/Off-White%27s_signature_industrial_belt"
+    },
+    {
+      "text": "The fashion documentary 'The True Cost' (2015) exposed the environmental and human costs of fast fashion, particularly in developing countries.",
+      "source": "https://en.wikipedia.org/wiki/True_Cost"
+    },
+    {
+      "text": "Coco Chanel introduced costume jewelry as a fashion accessory in the 1920s, making it acceptable for wealthy women to wear faux gems.",
+      "source": "https://en.wikipedia.org/wiki/Coco_Chanel"
+    },
+    {
+      "text": "Björk's swan dress, worn to the 2001 Oscars and designed by Marjan Pejoski, became one of the most controversial and memed red carpet looks of all time.",
+      "source": "https://en.wikipedia.org/wiki/Bj%C3%B6rk%27s_swan_dress%2C_worn_to_the_2001_Oscars_and_designed_by_Marjan_Pejoski"
+    },
+    {
+      "text": "Calvin Klein was born on November 19, 1942, in the Bronx, New York.",
+      "month": 11,
+      "day": 19,
+      "source": "https://en.wikipedia.org/wiki/Calvin_Klein"
+    },
+    {
+      "text": "The average garment is worn only seven times before being discarded, according to studies on consumer fashion habits.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/average_garment"
+    },
+    {
+      "text": "Jimmy Choo co-founded his eponymous shoe brand in 1996 with Vogue accessories editor Tamara Mellon.",
+      "source": "https://en.wikipedia.org/wiki/Jimmy_Choo"
+    },
+    {
+      "text": "The Savile Row tailoring district in London has been the center of bespoke menswear since the early 19th century.",
+      "source": "https://en.wikipedia.org/wiki/Savile_Row_tailoring_district_in_London"
+    },
+    {
+      "text": "Pharrell Williams became creative director of Louis Vuitton's menswear in 2023, succeeding the late Virgil Abloh.",
+      "source": "https://en.wikipedia.org/wiki/Pharrell_Williams"
+    },
+    {
+      "text": "The original Air Jordan 1 'Chicago' colorway is one of the most iconic sneakers ever made, repeatedly re-released to massive demand.",
+      "source": "https://en.wikipedia.org/wiki/original_Air_Jordan_1_%27Chicago%27_colorway"
+    },
+    {
+      "text": "Marc Jacobs' grunge collection for Perry Ellis in 1992 was critically panned and got him fired, but it's now considered one of the most influential collections ever shown.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Marc_Jacobs%27_grunge_collection_for_Perry_Ellis_in_1992"
+    },
+    {
+      "text": "The flapper era of the 1920s saw hemlines rise above the knee for the first time in Western fashion history.",
+      "source": "https://en.wikipedia.org/wiki/flapper_era_of_the_1920s"
+    },
+    {
+      "text": "Hermès scarves have been produced since 1937, with each silk scarf taking approximately 18 months to create from design to finished product.",
+      "source": "https://en.wikipedia.org/wiki/Herm%C3%A8s_scarves"
+    },
+    {
+      "text": "The fashion industry employs approximately 75 million people worldwide, with the majority in developing countries.",
+      "source": "https://en.wikipedia.org/wiki/Fashion_%26_Style"
+    },
+    {
+      "text": "Miuccia Prada took over the family business in 1978 and transformed Prada from a luggage maker into one of the world's most influential fashion houses.",
+      "source": "https://en.wikipedia.org/wiki/Miuccia_Prada"
+    },
+    {
+      "text": "America's Next Top Model, created by Tyra Banks, premiered in 2003 and ran for 24 cycles, inspiring versions in over 40 countries.",
+      "source": "https://en.wikipedia.org/wiki/America%27s_Next_Top_Model"
+    },
+    {
+      "text": "Cristóbal Balenciaga was born on January 21, 1895, in Getaria, Spain, and opened his first boutique at age 15.",
+      "month": 1,
+      "day": 21,
+      "source": "https://en.wikipedia.org/wiki/Crist%C3%B3bal_Balenciaga"
+    },
+    {
+      "text": "The punk fashion movement of the 1970s featured safety pins, ripped clothing, leather jackets, and DIY aesthetics as a rebellion against mainstream culture.",
+      "source": "https://en.wikipedia.org/wiki/Fashion_%26_Style"
+    },
+    {
+      "text": "A single cotton T-shirt requires about 2,700 liters of water to produce — enough for one person to drink for 2.5 years.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Fashion_%26_Style"
+    },
+    {
+      "text": "The Chanel suit, introduced in the 1950s, featured a collarless jacket and A-line skirt in tweed that became a symbol of modern femininity.",
+      "source": "https://en.wikipedia.org/wiki/Chanel_suit"
+    },
+    {
+      "text": "Giorgio Armani dressed more Oscar winners and nominees than any other designer, earning him the nickname 'Hollywood's favorite designer.'",
+      "source": "https://en.wikipedia.org/wiki/Giorgio_Armani"
+    },
+    {
+      "text": "The fashion 'see now, buy now' model, where collections are available immediately after being shown on the runway, gained momentum around 2016.",
+      "source": "https://en.wikipedia.org/wiki/fashion_%27see_now%2C_buy_now%27_model%2C_where_collections"
+    },
+    {
+      "text": "Vera Wang worked at Vogue for 16 years before becoming one of the most famous bridal wear designers in the world.",
+      "source": "https://en.wikipedia.org/wiki/Vera_Wang"
+    },
+    {
+      "text": "The world's first department store, Le Bon Marché, opened in Paris in 1838 and revolutionized how people shopped for fashion.",
+      "source": "https://en.wikipedia.org/wiki/world%27s_first_department_store%2C_Le_Bon_March%C3%A9"
+    },
+    {
+      "text": "Yves Saint Laurent was born on August 1, 1936, in Oran, French Algeria.",
+      "month": 8,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/Yves_Saint_Laurent"
+    },
+    {
+      "text": "Nike's collaboration with Off-White on 'The Ten' collection in 2017 is considered one of the most influential sneaker collaborations in history.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Nike%27s_collaboration_with_Off-White_on_%27The_Ten%27_collection_in_2017"
+    },
+    {
+      "text": "The bustle, popular in the 1870s-1880s, was an undergarment designed to expand the fullness of the back of a woman's skirt.",
+      "source": "https://en.wikipedia.org/wiki/bustle%2C_popular_in_the_1870s-1880s"
+    },
+    {
+      "text": "Vogue's first cover (1892) featured a debutante with a daisy border, and the magazine has since published over 1,500 issues.",
+      "source": "https://en.wikipedia.org/wiki/Vogue%27s_first_cover_(1892)_featured_a_debutante_with_a_daisy_border%2C_and_the_magazine"
+    },
+    {
+      "text": "The fashion industry produces about 92 million tons of textile waste per year, much of which ends up in landfills or incinerators.",
+      "source": "https://en.wikipedia.org/wiki/Fashion_%26_Style"
+    },
+    {
+      "text": "Lady Gaga's meat dress, designed by Franc Fernandez for the 2010 MTV Video Music Awards, is now preserved in the Rock and Roll Hall of Fame.",
+      "source": "https://en.wikipedia.org/wiki/Rock_and_Roll_Hall_of_Fame"
+    },
+    {
+      "text": "Gabrielle 'Coco' Chanel is the only fashion designer listed on Time magazine's 100 Most Influential People of the 20th Century.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Gabrielle_%27Coco%27_Chanel"
+    },
+    {
+      "text": "The stiletto heel was popularized in the 1950s by designers Roger Vivier and Salvatore Ferragamo, transforming women's footwear forever.",
+      "source": "https://en.wikipedia.org/wiki/stiletto_heel"
+    },
+    {
+      "text": "Gucci's bamboo-handled bag, introduced in 1947, was created during post-war material shortages when traditional materials were scarce.",
+      "source": "https://en.wikipedia.org/wiki/Gucci%27s_bamboo-handled_bag"
+    },
+    {
+      "text": "Issey Miyake pioneered the use of technology in fashion, developing his famous pleating technique called 'Pleats Please' in the 1990s.",
+      "source": "https://en.wikipedia.org/wiki/Issey_Miyake"
+    },
+    {
+      "text": "The CFDA Fashion Awards, often called the 'Oscars of Fashion,' have been held annually since 1981.",
+      "source": "https://en.wikipedia.org/wiki/CFDA_Fashion_Awards%2C_often_called_the_%27Oscars_of_Fashion"
+    },
+    {
+      "text": "Rihanna's yellow Guo Pei gown at the 2015 Met Gala, with its massive train and fur trim, became one of the most iconic Met Gala looks of all time.",
+      "source": "https://en.wikipedia.org/wiki/Rihanna%27s_yellow_Guo_Pei_gown_at_the_2015_Met_Gala%2C_with_its_massive_train_and_fur_trim"
+    },
+    {
+      "text": "Tom Ford was born on August 27, 1961, in Austin, Texas.",
+      "month": 8,
+      "day": 27,
+      "source": "https://en.wikipedia.org/wiki/Tom_Ford"
+    },
+    {
+      "text": "The zipper wasn't widely used in fashion until the 1930s — before that, buttons and hooks were the standard closures.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/zipper_wasn%27t_widely_used_in_fashion_until_the_1930s_%E2%80%94_before_that%2C_buttons_and_hooks"
+    },
+    {
+      "text": "Comme des Garçons, founded by Rei Kawakubo in Tokyo in 1969, means 'like boys' in French.",
+      "source": "https://en.wikipedia.org/wiki/Comme_des_Gar%C3%A7ons"
+    },
+    {
+      "text": "The fashion influencer economy grew into a multi-billion-dollar industry in the 2020s, with top influencers earning millions per sponsored post.",
+      "source": "https://en.wikipedia.org/wiki/fashion_influencer_economy"
+    },
+    {
+      "text": "Versace's 2000 Grammy Awards dress worn by Jennifer Lopez — the plunging green jungle-print gown — is credited with inspiring the creation of Google Images.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Versace%27s_2000_Grammy_Awards"
+    },
+    {
+      "text": "Thom Browne revolutionized menswear in the 2000s with his shrunken-suit aesthetic, featuring cropped trousers and tight-fitting jackets.",
+      "source": "https://en.wikipedia.org/wiki/Thom_Browne"
+    },
+    {
+      "text": "The bikini was introduced by French designer Louis Réard on July 5, 1946, and named after the Bikini Atoll nuclear test site.",
+      "month": 7,
+      "day": 5,
+      "source": "https://en.wikipedia.org/wiki/bikini"
+    },
+    {
+      "text": "Zara's parent company Inditex can design, produce, and deliver a new garment to stores worldwide in as little as 15 days.",
+      "source": "https://en.wikipedia.org/wiki/Fashion_%26_Style"
+    },
+    {
+      "text": "The bandana was first used as a fashion accessory in the American West in the 1800s and has since been adopted by countercultural movements worldwide.",
+      "source": "https://en.wikipedia.org/wiki/bandana"
+    },
+    {
+      "text": "Diana Vreeland served as editor-in-chief of Vogue from 1963 to 1971 and was known for her extravagant personality and avant-garde editorial vision.",
+      "source": "https://en.wikipedia.org/wiki/Diana_Vreeland_served_as_editor-in-chief_of_Vogue_from_1963_to_1971_and"
+    },
+    {
+      "text": "The fashion industry uses an estimated 1.5 trillion liters of water annually for dyeing textiles alone.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Fashion_%26_Style"
+    },
+    {
+      "text": "Rick Owens is known for his dark, avant-garde aesthetic and has been called 'the Lord of Darkness' in fashion.",
+      "source": "https://en.wikipedia.org/wiki/Rick_Owens"
+    },
+    {
+      "text": "The sewing machine, patented by Elias Howe in 1846, revolutionized the fashion industry by making mass production of clothing possible.",
+      "source": "https://en.wikipedia.org/wiki/Elias_Howe"
+    },
+    {
+      "text": "Dior's J'adore perfume, launched in 1999, became one of the top-selling fragrances in the world and has been associated with Charlize Theron's golden advertising campaigns.",
+      "source": "https://en.wikipedia.org/wiki/Dior%27s_J%27adore_perfume%2C_launched_in_1999"
+    },
+    {
+      "text": "The platform shoe dates back to ancient Greece but became a major fashion trend in the 1970s disco era and again in the 1990s.",
+      "source": "https://en.wikipedia.org/wiki/platform_shoe_dates_back_to_ancient_Greece_but"
+    },
+    {
+      "text": "Vogue Italia's 'Black Issue' in July 2008, featuring only Black models, sold out and became the best-selling issue in the magazine's history.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Vogue_Italia%27s_%27Black_Issue%27_in_July_2008%2C_featuring_only_Black_models%2C_sold_out_and"
+    },
+    {
+      "text": "Ann Wintour hosts the Met Gala as chair of the Metropolitan Museum of Art's Costume Institute, a role she has held since 1995.",
+      "source": "https://en.wikipedia.org/wiki/Ann_Wintour_hosts_the"
+    },
+    {
+      "text": "Alexander McQueen's skull motif became his signature and helped popularize skull imagery in mainstream fashion accessories.",
+      "source": "https://en.wikipedia.org/wiki/Alexander_McQueen%27s_skull_motif"
+    },
+    {
+      "text": "The bloomer, a loose-fitting trouser worn under a skirt, was introduced in the 1850s by women's rights activist Amelia Bloomer.",
+      "source": "https://en.wikipedia.org/wiki/bloomer%2C_a_loose-fitting_trouser_worn_under_a_skirt"
+    },
+    {
+      "text": "Lagerfeld's first collection for Chanel in 1983 featured sharp-shouldered power suits that marked a modern reinvention of Coco Chanel's codes.",
+      "source": "https://en.wikipedia.org/wiki/Lagerfeld%27s_first_collection_for_Chanel_in_1983_featured_sharp-shouldered_power_suits_that"
+    },
+    {
+      "text": "Fashion Nova, founded in 2006, became one of the fastest-growing fashion brands by leveraging Instagram and celebrity partnerships, particularly with Cardi B.",
+      "source": "https://en.wikipedia.org/wiki/Fashion_Nova"
+    },
+    {
+      "text": "Ralph Lauren was born on October 14, 1939, in the Bronx, New York.",
+      "month": 10,
+      "day": 14,
+      "source": "https://en.wikipedia.org/wiki/Ralph_Lauren"
+    },
+    {
+      "text": "The concept of 'athleisure' — wearing athletic clothing as casual everyday wear — became a dominant fashion trend in the 2010s, led by brands like Lululemon.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/concept_of_%27athleisure%27_%E2%80%94_wearing_athletic_clothing_as_casual_everyday_wear_%E2%80%94"
+    },
+    {
+      "text": "Dolce & Gabbana was founded in 1985 by Domenico Dolce and Stefano Gabbana, who met while working at an Atelier in Milan.",
+      "source": "https://en.wikipedia.org/wiki/Dolce_%26_Gabbana"
+    },
+    {
+      "text": "The bowler hat was originally designed in 1849 by London hat-makers Thomas and William Bowler for gamekeepers on the Earl of Leicester's estate.",
+      "source": "https://en.wikipedia.org/wiki/bowler_hat"
+    },
+    {
+      "text": "Elsa Schiaparelli was a rival of Coco Chanel in the 1930s and is known for her surrealist-inspired designs, collaborating with Salvador Dalí.",
+      "source": "https://en.wikipedia.org/wiki/Elsa_Schiaparelli"
+    },
+    {
+      "text": "The global luxury fashion market surpassed $350 billion in value in 2024, with China and the United States as the two largest markets.",
+      "source": "https://en.wikipedia.org/wiki/China_and_the_United_States"
+    },
+    {
+      "text": "Naomi Campbell was born on May 22, 1970, in Streatham, London.",
+      "month": 5,
+      "day": 22,
+      "source": "https://en.wikipedia.org/wiki/Naomi_Campbell"
+    },
+    {
+      "text": "The average fashion show lasts only about 10-15 minutes, despite months of planning and millions of dollars in production costs.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Fashion_%26_Style"
+    },
+    {
+      "text": "Dapper Dan, a Harlem couturier, was famous in the 1980s for creating custom luxury streetwear using logos from Gucci, Louis Vuitton, and Fendi without authorization.",
+      "source": "https://en.wikipedia.org/wiki/Dapper_Dan%2C_a_Harlem_couturier"
+    },
+    {
+      "text": "The fashion industry's carbon footprint is projected to increase by more than 50% by 2030 if current trends continue.",
+      "source": "https://en.wikipedia.org/wiki/fashion_industry%27s_carbon_footprint"
+    },
+    {
+      "text": "Hubert de Givenchy and Audrey Hepburn's professional relationship lasted over 40 years, and he designed her wardrobe both on and off screen.",
+      "source": "https://en.wikipedia.org/wiki/Givenchy_and_Audrey_Hepburn%27s"
+    },
+    {
+      "text": "Ray-Ban Wayfarers became a cultural icon after being worn by James Dean, Bob Dylan, and the cast of The Breakfast Club.",
+      "source": "https://en.wikipedia.org/wiki/Ray-Ban_Wayfarers"
+    },
+    {
+      "text": "The concept of 'prêt-à-porter' (ready-to-wear) was popularized in the 1960s as an alternative to haute couture, making designer fashion accessible to a wider audience.",
+      "source": "https://en.wikipedia.org/wiki/concept_of_%27pr%C3%AAt-%C3%A0-porter%27_(ready-to-wear)"
+    },
+    {
+      "text": "Michael Kors started designing clothes at age 5, redesigning his mother's wedding dress.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Michael_Kors"
+    },
+    {
+      "text": "The Chanel No. 5 bottle design, with its clean lines and minimalist aesthetic, was inspired by the modernist art movements of the 1920s.",
+      "source": "https://en.wikipedia.org/wiki/Chanel_No._5_bottle_design%2C_with_its_clean_lines_and_minimalist_aesthetic"
+    },
+    {
+      "text": "Fashion's 'Golden Triangle' in Paris — the area between Avenue Montaigne, Avenue George V, and Rue François 1er — houses the flagship stores of the world's top fashion brands.",
+      "source": "https://en.wikipedia.org/wiki/Golden_Triangle%27_in_Paris"
+    },
+    {
+      "text": "The first London Fashion Week in February 1984 was held in a car park on the fringes of the city's fashion district.",
+      "source": "https://en.wikipedia.org/wiki/first_London_Fashion_Week_in_February_1984"
+    },
+    {
+      "text": "Balmain, founded in 1945 by Pierre Balmain, was revitalized by creative director Olivier Rousteing, who became the youngest creative director of a major fashion house at age 25.",
+      "source": "https://en.wikipedia.org/wiki/Balmain"
+    },
+    {
+      "text": "Supermodel Linda Evangelista famously said in 1990, 'We don't wake up for less than $10,000 a day.'",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Supermodel_Linda_Evangelista_famously"
+    },
+    {
+      "text": "The trench coat's name comes from the trenches of World War I, where British soldiers wore the weatherproof garment.",
+      "source": "https://en.wikipedia.org/wiki/World_War_I"
+    },
+    {
+      "text": "Fast fashion giant Shein was valued at approximately $66 billion in 2023, making it one of the most valuable private companies in the fashion industry.",
+      "source": "https://en.wikipedia.org/wiki/Fast_fashion_giant_Shein"
+    },
+    {
+      "text": "The Christian Louboutin red sole is trademarked in the United States and the European Union, protecting it from imitation.",
+      "source": "https://en.wikipedia.org/wiki/Christian_Louboutin_red_sole"
+    },
+    {
+      "text": "Dolce & Gabbana's 'Sicilian' aesthetic draws on Italian heritage with lace, religious imagery, and theatrical designs.",
+      "source": "https://en.wikipedia.org/wiki/Fashion_%26_Style"
+    },
+    {
+      "text": "Mary Quant was born on February 11, 1930, in Blackheath, London.",
+      "month": 2,
+      "day": 11,
+      "source": "https://en.wikipedia.org/wiki/Mary_Quant"
+    },
+    {
+      "text": "Haute couture garments can take between 100 and 700 hours of hand-sewing to complete.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Fashion_%26_Style"
+    },
+    {
+      "text": "André Courrèges and Pierre Cardin were among the first designers to incorporate futuristic, space-age aesthetics into fashion in the 1960s.",
+      "source": "https://en.wikipedia.org/wiki/Andr%C3%A9_Courr%C3%A8ges_and_Pierre_Cardin"
+    },
+    {
+      "text": "The turtleneck became a symbol of intellectualism and counterculture in the 1950s and 1960s, worn by beatniks, artists, and civil rights leaders.",
+      "source": "https://en.wikipedia.org/wiki/turtleneck"
+    },
+    {
+      "text": "Victoria Beckham transitioned from pop star to respected fashion designer, launching her eponymous label in 2008.",
+      "source": "https://en.wikipedia.org/wiki/Victoria_Beckham"
+    },
+    {
+      "text": "Polyester, invented in 1941, became the dominant fabric in fast fashion because it's cheap, durable, and versatile — but it takes over 200 years to decompose.",
+      "source": "https://en.wikipedia.org/wiki/Polyester"
+    },
+    {
+      "text": "The fedora was originally a women's hat, named after the title character in an 1882 play by Victorien Sardou.",
+      "source": "https://en.wikipedia.org/wiki/fedora"
+    },
+    {
+      "text": "Anna Wintour was born on November 3, 1949, in Hampstead, London.",
+      "month": 11,
+      "day": 3,
+      "source": "https://en.wikipedia.org/wiki/Anna_Wintour"
+    },
+    {
+      "text": "Sneaker bots — automated software used to buy limited-edition sneakers faster than humans — became a major issue in sneaker culture starting around 2014.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Fashion_%26_Style"
+    },
+    {
+      "text": "Givenchy was founded by Hubert de Givenchy in 1952, and his first collection introduced the concept of 'separates' — mix-and-match luxury pieces.",
+      "source": "https://en.wikipedia.org/wiki/Givenchy"
+    },
+    {
+      "text": "The codpiece was a prominent fashion accessory for men in the 15th and 16th centuries, designed to accentuate the groin area.",
+      "source": "https://en.wikipedia.org/wiki/codpiece"
+    },
+    {
+      "text": "Maison Margiela, founded in 1988 by Belgian designer Martin Margiela, is known for its anonymous, deconstructionist approach — Margiela himself almost never gives interviews or appears in public.",
+      "source": "https://en.wikipedia.org/wiki/Maison_Margiela"
+    },
+    {
+      "text": "Coach, founded in 1941 in a Manhattan loft, was originally a family-run workshop handcrafting leather goods.",
+      "source": "https://en.wikipedia.org/wiki/Coach"
+    },
+    {
+      "text": "The 2018 Met Gala theme 'Heavenly Bodies: Fashion and the Catholic Imagination' became the museum's most visited exhibition ever.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/2018"
+    },
+    {
+      "text": "Jean Paul Gaultier designed Madonna's iconic cone bra for her 1990 Blond Ambition World Tour.",
+      "source": "https://en.wikipedia.org/wiki/Jean_Paul_Gaultier"
+    },
+    {
+      "text": "The fashion show format of models walking a runway in sequence was established in the early 20th century, replacing earlier salon-style presentations.",
+      "source": "https://en.wikipedia.org/wiki/fashion_show_format_of_models_walking_a_runway_in_sequence"
+    },
+    {
+      "text": "Tissueweight cashmere, originally produced in the mountains of Inner Mongolia, can cost over $1,000 per garment due to the rareness of the fiber.",
+      "source": "https://en.wikipedia.org/wiki/Inner_Mongolia"
+    },
+    {
+      "text": "Hedi Slimane redefined menswear at Dior Homme in the early 2000s with his ultra-slim silhouettes, inspiring an entire generation of skinny suits and jeans.",
+      "source": "https://en.wikipedia.org/wiki/Hedi_Slimane"
+    },
+    {
+      "text": "The Panama hat is actually from Ecuador, not Panama — it got its name because workers building the Panama Canal wore them.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Panama_hat"
+    },
+    {
+      "text": "Burberry was founded by Thomas Burberry in 1856 in Basingstoke, Hampshire, England.",
+      "month": 1,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/Burberry"
+    },
+    {
+      "text": "Cardi B wore a custom Thom Browne gown to the 2023 Met Gala that reportedly took 10,000 hours to create.",
+      "source": "https://en.wikipedia.org/wiki/Cardi_B_wore_a_custom_Thom_Browne_gown_to_the_2023"
+    },
+    {
+      "text": "The French Chambre Syndicale de la Haute Couture has regulated haute couture since 1868, setting rules about handwork, ateliers, and presentations.",
+      "source": "https://en.wikipedia.org/wiki/French_Chambre_Syndicale_de_la_Haute_Couture"
+    },
+    {
+      "text": "Swatch watches, introduced in 1983, were designed to make Swiss watches affordable and turned timepieces into fashion accessories.",
+      "source": "https://en.wikipedia.org/wiki/Swatch_watches"
+    },
+    {
+      "text": "The beret became a fashion staple after being popularized by French women in the 1920s and later by figures like Che Guevara and the Black Panthers.",
+      "source": "https://en.wikipedia.org/wiki/beret"
+    },
+    {
+      "text": "Levi Strauss was born on February 26, 1829, in Buttenheim, Bavaria, Germany.",
+      "month": 2,
+      "day": 26,
+      "source": "https://en.wikipedia.org/wiki/Levi_Strauss"
+    },
+    {
+      "text": "Salvatore Ferragamo invented the wedge heel in 1936 using cork when sanctions against Italy limited access to steel for shoe construction.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Salvatore_Ferragamo"
+    },
+    {
+      "text": "The fashion cycle traditionally had two seasons (Spring/Summer and Fall/Winter), but many brands now produce up to 52 'micro-seasons' per year.",
+      "source": "https://en.wikipedia.org/wiki/fashion_cycle_traditionally"
+    },
+    {
+      "text": "The Chinese luxury fashion market grew to be the second largest in the world, with Gen Z consumers driving much of the growth.",
+      "source": "https://en.wikipedia.org/wiki/Chinese_luxury_fashion_market"
+    },
+    {
+      "text": "John Galliano was creative director at Dior from 1996 to 2011, known for his theatrical, story-driven runway shows and exquisite craftsmanship.",
+      "source": "https://en.wikipedia.org/wiki/John_Galliano"
+    },
+    {
+      "text": "The first color photograph in Vogue appeared in the July 1, 1932, issue, taken by Edward Steichen.",
+      "source": "https://en.wikipedia.org/wiki/first_color_photograph_in_Vogue"
+    },
+    {
+      "text": "The catsuit, originally designed for equestrian women in the 19th century, became a fashion statement in the 1960s and has been worn by everyone from Emma Peel to Beyoncé.",
+      "source": "https://en.wikipedia.org/wiki/catsuit%2C_originally_designed_for_equestrian_women_in_the_19th_century"
+    },
+    {
+      "text": "Karl Lagerfeld was born on September 10, 1933, in Hamburg, Germany.",
+      "month": 9,
+      "day": 10,
+      "source": "https://en.wikipedia.org/wiki/Karl_Lagerfeld"
+    },
+    {
+      "text": "Oscar de la Renta was the first non-French designer to head a Paris haute couture house when he joined Balmain in 1993.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Oscar_de_la_Renta"
+    },
+    {
+      "text": "The concept of a 'capsule wardrobe' — a minimal collection of versatile, timeless pieces — was popularized by Susie Faux in the 1970s and later by Donna Karan.",
+      "source": "https://en.wikipedia.org/wiki/concept_of_a_%27capsule_wardrobe%27_%E2%80%94_a_minimal_collection_of_versatile%2C_timeless_pieces_%E2%80%94"
+    },
+    {
+      "text": "Fashion magazines started using photography instead of illustrations in the 1930s, fundamentally changing how fashion was communicated.",
+      "source": "https://en.wikipedia.org/wiki/Fashion_%26_Style"
+    },
+    {
+      "text": "Tiffany & Co. was founded by Charles Lewis Tiffany in 1837 in New York City, and the 'Tiffany Blue' box has become one of the most recognizable brand elements in luxury.",
+      "source": "https://en.wikipedia.org/wiki/Tiffany_%26_Co"
+    },
+    {
+      "text": "The fashion house Fendi was founded in Rome in 1925 and is famous for its fur craftsmanship and the Baguette bag.",
+      "source": "https://en.wikipedia.org/wiki/fashion_house_Fendi"
+    },
+    {
+      "text": "Naomi Campbell is known for both her runway dominance and her legendary temper — she once threw a phone at her housekeeper.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Naomi_Campbell"
+    },
+    {
+      "text": "The 'capsule collection' concept, where a limited-edition line is released within a larger brand, became a key marketing strategy in the 2000s.",
+      "source": "https://en.wikipedia.org/wiki/%27capsule_collection%27_concept%2C_where_a_limited-edition_line"
+    },
+    {
+      "text": "The saddle shoe, originally designed for outdoor activities in the 1900s, became a fashion staple in the 1950s and was later revived by Prada.",
+      "source": "https://en.wikipedia.org/wiki/saddle_shoe%2C_originally_designed_for_outdoor_activities_in_the_1900s"
+    },
+    {
+      "text": "Lanvin, founded in 1889 by Jeanne Lanvin, is the oldest continuously operating French fashion house.",
+      "source": "https://en.wikipedia.org/wiki/Lanvin"
+    },
+    {
+      "text": "Guccio Gucci was born on March 26, 1881, in Florence, Italy.",
+      "month": 3,
+      "day": 26,
+      "source": "https://en.wikipedia.org/wiki/Guccio_Gucci"
+    },
+    {
+      "text": "The New York Fashion Week schedule typically runs for about 7-9 days in February and September.",
+      "source": "https://en.wikipedia.org/wiki/New_York_Fashion_Week"
+    },
+    {
+      "text": "The concept of 'normcore' — intentionally dressing in plain, unfashionable clothing — emerged as an anti-fashion trend around 2014.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Fashion_%26_Style"
+    },
+    {
+      "text": "Alexander McQueen's final collection, shown posthumously in March 2010, was one of the most emotionally charged fashion shows ever held.",
+      "source": "https://en.wikipedia.org/wiki/Alexander_McQueen%27s_final_collection%2C_shown_posthumously_in_March_2010"
+    },
+    {
+      "text": "The Ugg boot originated in Australia and was popularized in the U.S. by surfers in the 1970s before becoming a global fashion phenomenon in the early 2000s.",
+      "source": "https://en.wikipedia.org/wiki/Ugg_boot_originated_in_Australia_and"
+    },
+    {
+      "text": "Per the Guinness World Records, the most expensive dress ever made was a diamond-encrusted wedding dress worth $12 million by Renee Strauss.",
+      "source": "https://en.wikipedia.org/wiki/Per_the_Guinness_World_Records%2C_the_most_expensive_dress_ever_made"
+    },
+    {
+      "text": "Isabel Marant popularized the 'effortless Parisian chic' aesthetic with her bohemian-inspired designs and signature wedge sneakers.",
+      "source": "https://en.wikipedia.org/wiki/Isabel_Marant"
+    },
+    {
+      "text": "Circular fashion, which focuses on designing products with their next use in mind, gained momentum as a response to fashion waste.",
+      "source": "https://en.wikipedia.org/wiki/Fashion_%26_Style"
+    },
+    {
+      "text": "Rei Kawakubo was born on October 11, 1942, in Tokyo, Japan.",
+      "month": 10,
+      "day": 11,
+      "source": "https://en.wikipedia.org/wiki/Rei_Kawakubo"
+    },
+    {
+      "text": "The leopard print has been a fashion staple since the 1940s, when Christian Dior first used it in haute couture, though it was popular as far back as ancient Egypt.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/leopard_print"
+    },
+    {
+      "text": "The Met Gala's ticket price reached $75,000 per person and $350,000 per table by the 2020s, making it one of the most exclusive events in the world.",
+      "source": "https://en.wikipedia.org/wiki/The"
+    },
+    {
+      "text": "Pierre Cardin was one of the first designers to license his name, eventually putting it on over 800 products from pens to sardines.",
+      "source": "https://en.wikipedia.org/wiki/Pierre_Cardin"
+    },
+    {
+      "text": "The Chelsea boot was originally designed for Queen Victoria in 1851 and was later adopted by the Beatles and the mod subculture.",
+      "source": "https://en.wikipedia.org/wiki/Chelsea_boot"
+    },
+    {
+      "text": "Louis Vuitton trunks were originally flat-topped (rather than rounded) so they could be stacked — a design innovation that helped build the brand.",
+      "source": "https://en.wikipedia.org/wiki/Louis_Vuitton_trunks"
+    },
+    {
+      "text": "Chanel's tweed fabric is produced exclusively at the Linton Tweeds mill in Carlisle, England, which has supplied the fashion house since the 1920s.",
+      "source": "https://en.wikipedia.org/wiki/Chanel%27s_tweed_fabric"
+    },
+    {
+      "text": "The first fashion blog, 'The Sartorialist' by Scott Schuman, launched in 2005 and helped legitimize street style as its own fashion category.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/first_fashion_blog%2C_%27The_Sartorialist%27_by_Scott_Schuman%2C_launched_in_2005_and"
+    },
+    {
+      "text": "Valentino retired from fashion in 2008 after his final haute couture show in Paris, ending a career that spanned nearly 50 years.",
+      "source": "https://en.wikipedia.org/wiki/Fashion_%26_Style"
+    },
+    {
+      "text": "Synthetic fabrics like polyester, nylon, and acrylic make up about 65% of all textiles produced globally.",
+      "source": "https://en.wikipedia.org/wiki/Fashion_%26_Style"
+    },
+    {
+      "text": "The biker jacket, first designed by Irving Schott in 1928 (the Perfecto), became an icon of rebellion after Marlon Brando wore one in The Wild One (1953).",
+      "source": "https://en.wikipedia.org/wiki/Wild_One"
+    },
+    {
+      "text": "Hermès's annual revenue exceeded $14 billion in 2023, driven largely by its leather goods and accessories divisions.",
+      "source": "https://en.wikipedia.org/wiki/Fashion_%26_Style"
+    },
+    {
+      "text": "Anna Wintour's signature sunglasses are by Chanel — she once said she wears them so people can't see who she's looking at during fashion shows.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Anna_Wintour%27s_signature_sunglasses"
+    },
+    {
+      "text": "Fashion rental services like Rent the Runway, founded in 2009, popularized the idea that fashion could be accessed rather than owned.",
+      "source": "https://en.wikipedia.org/wiki/Fashion_rental_services_like_Rent_the_Runway"
+    },
+    {
+      "text": "The fashion documentary 'McQueen' (2018) chronicled Alexander McQueen's rise from London's East End to the pinnacle of fashion before his death in 2010.",
+      "source": "https://en.wikipedia.org/wiki/McQueen"
+    },
+    {
+      "text": "The hobble skirt, popular around 1910, was so narrow at the hem that women could barely walk, sparking public debate about fashion and freedom.",
+      "source": "https://en.wikipedia.org/wiki/hobble_skirt%2C_popular_around_1910"
+    },
+    {
+      "text": "The Nike Dunk, originally a basketball shoe from 1985, evolved into one of the most popular lifestyle sneakers, particularly through its 'SB' (Skateboarding) line.",
+      "source": "https://en.wikipedia.org/wiki/Nike_Dunk"
+    },
+    {
+      "text": "The 2022 Met Gala theme was 'In America: An Anthology of Fashion,' and the dress code was 'Gilded Glamour' in honor of the Gilded Age.",
+      "source": "https://en.wikipedia.org/wiki/2022"
+    },
+    {
+      "text": "Haute couture requires a minimum of 15 full-time staff and at least 20 skilled artisans (petites mains) working in the atelier.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Fashion_%26_Style"
+    },
+    {
+      "text": "Kate Moss's 'nothing tastes as good as skinny feels' quote in 2009 sparked intense backlash and reignited debates about body image in fashion.",
+      "source": "https://en.wikipedia.org/wiki/Kate_Moss%27s"
+    },
+    {
+      "text": "The fashion industry is increasingly using AI for trend forecasting, virtual try-ons, and even designing garments.",
+      "source": "https://en.wikipedia.org/wiki/fashion_industry"
+    },
+    {
+      "text": "Yves Saint Laurent's 'Mondrian' collection (1965) featured shift dresses inspired by the geometric paintings of Piet Mondrian.",
+      "source": "https://en.wikipedia.org/wiki/Yves_Saint_Laurent%27s_%27Mondrian%27_collection_(1965)_featured_shift_dresses"
+    },
+    {
+      "text": "The kaftan, originally from the Ottoman Empire, became a bohemian fashion staple in the 1960s and 70s.",
+      "source": "https://en.wikipedia.org/wiki/kaftan%2C_originally_from_the_Ottoman_Empire"
+    },
+    {
+      "text": "Virgil Abloh was born on September 30, 1980, in Rockford, Illinois.",
+      "month": 9,
+      "day": 30,
+      "source": "https://en.wikipedia.org/wiki/Virgil_Abloh"
+    },
+    {
+      "text": "The most expensive handbag ever sold at auction is a Hermès Himalaya Birkin with diamond hardware, which went for over $500,000.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/most_expensive_handbag_ever_sold_at_auction"
+    },
+    {
+      "text": "Fashion photographer Helmut Newton was known for his provocative, high-contrast black-and-white images that blurred the line between art and fashion.",
+      "source": "https://en.wikipedia.org/wiki/Fashion_photographer_Helmut_Newton"
+    },
+    {
+      "text": "The invention of the cotton gin by Eli Whitney in 1793 revolutionized the textile industry and made cotton clothing widely affordable.",
+      "source": "https://en.wikipedia.org/wiki/Eli_Whitney"
+    },
+    {
+      "text": "Diesel's 'For Successful Living' advertising campaigns of the 1990s were among the most provocative and ironic in fashion history.",
+      "source": "https://en.wikipedia.org/wiki/Diesel%27s_%27For_Successful_Living%27_advertising_campaigns_of_the_1990s"
+    },
+    {
+      "text": "The Adidas Superstar, introduced in 1969 as a basketball shoe, became a hip-hop icon after Run-DMC adopted it without laces in the 1980s.",
+      "source": "https://en.wikipedia.org/wiki/Adidas_Superstar"
+    },
+    {
+      "text": "Marc Jacobs became the creative director of Louis Vuitton in 1997 and served until 2014, transforming the luggage house into a fashion powerhouse.",
+      "source": "https://en.wikipedia.org/wiki/Marc_Jacobs"
+    },
+    {
+      "text": "Coco Chanel closed her fashion house during World War II and reopened in 1954 at age 71, staging a comeback that many initially criticized but ultimately cemented her legacy.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Coco_Chanel"
+    },
+    {
+      "text": "The jelly shoe, made from PVC plastic, was invented in the early 1980s and became a symbol of affordable, playful fashion.",
+      "source": "https://en.wikipedia.org/wiki/jelly_shoe%2C_made_from_PVC_plastic"
+    },
+    {
+      "text": "Paris Fashion Week typically runs for about nine days in late September/early October and late February/early March.",
+      "source": "https://en.wikipedia.org/wiki/Paris_Fashion_Week"
+    },
+    {
+      "text": "The Cartier Love bracelet, designed in 1969, requires a special screwdriver to put on and take off, symbolizing an unbreakable bond.",
+      "source": "https://en.wikipedia.org/wiki/Cartier_Love"
+    },
+    {
+      "text": "The fashion industry's reliance on social media marketing exploded in the 2010s, with Instagram becoming the primary platform for fashion discovery.",
+      "source": "https://en.wikipedia.org/wiki/Fashion_%26_Style"
+    },
+    {
+      "text": "Zac Posen was designing dresses for his classmates at age 16 and showed his first collection at age 21.",
+      "source": "https://en.wikipedia.org/wiki/Zac_Posen"
+    },
+    {
+      "text": "Twiggy, born Lesley Lawson, became the face of 1960s fashion at age 16, known for her androgynous figure, short hair, and painted lower lashes.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Twiggy%2C_born_Lesley_Lawson"
+    },
+    {
+      "text": "The espadrille, a rope-soled shoe originating from the Pyrenees region, has been worn since at least the 14th century.",
+      "source": "https://en.wikipedia.org/wiki/espadrille%2C_a_rope-soled_shoe_originating_from_the_Pyrenees_region"
+    },
+    {
+      "text": "The fashion term 'prêt-à-porter' literally means 'ready to wear' in French, distinguishing mass-produced clothing from one-of-a-kind haute couture.",
+      "source": "https://en.wikipedia.org/wiki/Fashion_%26_Style"
+    },
+    {
+      "text": "Maison Margiela's 'Tabi' boot, featuring a split toe inspired by Japanese tabi socks, has been a cult fashion item since 1988.",
+      "source": "https://en.wikipedia.org/wiki/Maison_Margiela%27s_%27Tabi%27_boot%2C_featuring_a_split_toe"
+    },
+    {
+      "text": "Diane von Furstenberg was born on December 31, 1946, in Brussels, Belgium.",
+      "month": 12,
+      "day": 31,
+      "source": "https://en.wikipedia.org/wiki/Diane_von_Furstenberg"
+    },
+    {
+      "text": "The global secondhand apparel market is expected to reach $350 billion by 2027, driven by sustainability concerns and platforms like Depop, Poshmark, and ThredUp.",
+      "source": "https://en.wikipedia.org/wiki/global_secondhand_apparel_market"
+    },
+    {
+      "text": "Grace Kelly's wedding dress, designed by Helen Rose of MGM Studios in 1956, used 25 yards of silk taffeta, 100 yards of silk net, and antique rose-point lace.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Grace_Kelly%27s"
+    },
+    {
+      "text": "The pearl necklace has been a fashion staple since ancient Rome and was modernized by Coco Chanel, who layered multiple strands for a casual-elegant look.",
+      "source": "https://en.wikipedia.org/wiki/pearl_necklace"
+    },
+    {
+      "text": "Fashion weeks generate an estimated $600 million in economic activity for New York City alone each season.",
+      "source": "https://en.wikipedia.org/wiki/New_York_City"
+    },
+    {
+      "text": "The Birkenstock sandal, created in 1774, went from unfashionable 'hippie shoe' to high fashion after collaborations with designers like Rick Owens and Valentino.",
+      "source": "https://en.wikipedia.org/wiki/Birkenstock_sandal"
+    },
+    {
+      "text": "Thierry Mugler's fall 1995 couture show, featuring insect-inspired designs and cyborg-like costumes, is considered one of the most spectacular fashion shows ever held.",
+      "source": "https://en.wikipedia.org/wiki/Thierry_Mugler%27s"
+    },
+    {
+      "text": "New Balance sneakers became a luxury fashion item in the 2020s through collaborations with designers like Joe Freshgoods and Aimé Leon Dore.",
+      "source": "https://en.wikipedia.org/wiki/New_Balance_sneakers"
+    },
+    {
+      "text": "The fashion term 'décolletage' — exposed neckline and cleavage — comes from the French verb 'décolleter,' meaning 'to reveal the neck.'",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Fashion_%26_Style"
+    },
+    {
+      "text": "Donna Karan's '7 Easy Pieces' collection in 1985 introduced a practical approach to women's workwear that could be mixed and matched.",
+      "source": "https://en.wikipedia.org/wiki/Donna_Karan%27s_%277_Easy_Pieces%27_collection_in_1985"
+    },
+    {
+      "text": "The paisley pattern, originally from Persia, became associated with Western fashion after shawls featuring the design were imported to Europe in the 18th century.",
+      "source": "https://en.wikipedia.org/wiki/paisley_pattern%2C_originally_from_Persia"
+    },
+    {
+      "text": "Vivienne Westwood passed away on December 29, 2022, at the age of 81, leaving behind a legacy of punk, activism, and boundary-pushing fashion.",
+      "month": 12,
+      "day": 29,
+      "source": "https://en.wikipedia.org/wiki/Vivienne_Westwood"
+    },
+    {
+      "text": "The first successful commercial synthetic dye, mauveine, was discovered accidentally by William Henry Perkin in 1856 and transformed the fashion color palette.",
+      "source": "https://en.wikipedia.org/wiki/first_successful_commercial_synthetic_dye%2C_mauveine"
+    },
+    {
+      "text": "Jacquemus, founded by Simon Porte Jacquemus in 2009 at age 19, became known for its tiny 'Le Chiquito' bag that went viral on social media.",
+      "source": "https://en.wikipedia.org/wiki/Jacquemus"
+    },
+    {
+      "text": "The average American buys approximately 68 garments per year, a figure that has doubled since the 1990s.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/average_American_buys_approximately_68_garments_per_year%2C_a_figure_that"
+    },
+    {
+      "text": "The Met Gala was first organized by publicist Eleanor Lambert in 1948 as a midnight supper fundraiser for the Costume Institute.",
+      "source": "https://en.wikipedia.org/wiki/Met_Gala"
+    },
+    {
+      "text": "The trench coat's design features — D-rings, storm flaps, and epaulettes — all had practical military origins before becoming fashion details.",
+      "source": "https://en.wikipedia.org/wiki/trench_coat%27s_design"
+    },
+    {
+      "text": "Carhartt, founded in 1889 as workwear, was adopted by hip-hop culture in the 1990s and later spawned its own fashion-forward line, Carhartt WIP.",
+      "source": "https://en.wikipedia.org/wiki/Carhartt"
+    },
+    {
+      "text": "The clutch bag, a small handheld purse without a strap, became a popular fashion accessory in the 1920s-1930s.",
+      "source": "https://en.wikipedia.org/wiki/clutch_bag%2C_a_small_handheld_purse_without_a_strap"
+    },
+    {
+      "text": "The idea of seasonal fashion collections dates back to Charles Frederick Worth in the mid-1800s, who is considered the father of haute couture.",
+      "source": "https://en.wikipedia.org/wiki/Charles_Frederick_Worth_in_the"
+    },
+    {
+      "text": "Versace's Medusa head logo was chosen from Greek mythology — Gianni said he was drawn to Medusa because she symbolized the power of beauty.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Versace%27s_Medusa_head_logo"
+    },
+    {
+      "text": "Balenciaga Triple S sneakers, launched in 2017, helped launch the 'ugly shoe' trend in luxury fashion.",
+      "source": "https://en.wikipedia.org/wiki/Balenciaga_Triple_S_sneakers%2C_launched_in_2017"
+    },
+    {
+      "text": "The silk road, active from about 130 BC to 1453 AD, was the primary conduit for silk and textile trade between Asia and Europe, shaping fashion history for centuries.",
+      "source": "https://en.wikipedia.org/wiki/silk_road%2C_active_from_about_130_BC_to_1453_AD"
+    },
+    {
+      "text": "Marchesa, known for red carpet gowns, was founded in 2004 by Georgina Chapman and Keren Craig, named after socialite Marchesa Luisa Casati.",
+      "source": "https://en.wikipedia.org/wiki/Marchesa%2C_known_for_red_carpet_gowns"
+    },
+    {
+      "text": "The go-go boot, introduced by André Courrèges in 1964, became a symbol of the swinging sixties and women's liberation.",
+      "source": "https://en.wikipedia.org/wiki/go-go_boot"
+    },
+    {
+      "text": "Gabrielle Chanel died on January 10, 1971, at the Ritz Paris hotel, where she had lived for more than 30 years.",
+      "month": 1,
+      "day": 10,
+      "source": "https://en.wikipedia.org/wiki/Gabrielle_Chanel_died_on_January_10%2C_1971%2C_at_the_Ritz_Paris_hotel%2C_where_she"
+    },
+    {
+      "text": "Over 60% of fashion brands failed to disclose information about their supply chains in 2023, according to the Fashion Transparency Index.",
+      "source": "https://en.wikipedia.org/wiki/Over_60"
+    },
+    {
+      "text": "Phoebe Philo's minimalist tenure at Céline (2008-2018) defined a generation of understated luxury and inspired the 'quiet luxury' trend.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Phoebe_Philo%27s"
+    },
+    {
+      "text": "The pearl has been called 'the queen of gems' and was so valued in ancient Rome that Julius Caesar passed a law limiting pearl-wearing to the ruling classes.",
+      "source": "https://en.wikipedia.org/wiki/pearl"
+    },
+    {
+      "text": "Tommy Hilfiger became a major figure in the intersection of fashion and hip-hop in the 1990s, dressing artists like Aaliyah, TLC, and Snoop Dogg.",
+      "source": "https://en.wikipedia.org/wiki/Tommy_Hilfiger"
+    },
+    {
+      "text": "The largest fashion collection ever shown on a runway was by Chanel's Karl Lagerfeld, whose spring 2015 show featured a fake protest march with 79 looks.",
+      "source": "https://en.wikipedia.org/wiki/largest_fashion_collection_ever_shown_on_a_runway"
+    },
+    {
+      "text": "Dolce & Gabbana's Alta Moda (high fashion) shows are invitation-only events held in iconic locations like Capri, Venice, and the Valley of the Temples in Sicily.",
+      "source": "https://en.wikipedia.org/wiki/Dolce_%26_Gabbana%27s_Alta_Moda_(high_fashion)_shows"
+    },
+    {
+      "text": "Kim Kardashian's 2021 Met Gala Balenciaga full-body covering by Demna sparked massive debate about the nature of fashion and celebrity.",
+      "source": "https://en.wikipedia.org/wiki/Kim_Kardashian%27s_2021"
+    },
+    {
+      "text": "Charles Frederick Worth, born on October 13, 1825, is widely considered the 'father of haute couture.'",
+      "month": 10,
+      "day": 13,
+      "source": "https://en.wikipedia.org/wiki/Charles_Frederick_Worth%2C_born_on_October_13%2C_1825"
+    },
+    {
+      "text": "The average pair of jeans travels about 20,000 miles during the manufacturing process — from cotton farm to dye house to factory to store.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Fashion_%26_Style"
+    },
+    {
+      "text": "Mugler's Alien perfume bottle was inspired by a precious stone and has become one of the most recognizable fragrance vessels in the world.",
+      "source": "https://en.wikipedia.org/wiki/Mugler%27s_Alien_perfume_bottle"
+    },
+    {
+      "text": "A/W and S/S stand for Autumn/Winter and Spring/Summer, the two primary seasons around which the fashion calendar is organized.",
+      "source": "https://en.wikipedia.org/wiki/W_and_S"
+    },
+    {
+      "text": "The first fashion show live-streamed on the internet was Alexander McQueen's Spring 2010 show, 'Plato's Atlantis.'",
+      "source": "https://en.wikipedia.org/wiki/first_fashion_show_live-streamed_on_the_internet"
+    },
+    {
+      "text": "The durag, originally used to maintain hairstyles, became a fashion accessory in its own right after appearing on runways and in hip-hop culture.",
+      "source": "https://en.wikipedia.org/wiki/durag%2C_originally_used_to_maintain_hairstyles"
+    },
+    {
+      "text": "Rick Owens was born on November 18, 1962, in Porterville, California.",
+      "month": 11,
+      "day": 18,
+      "source": "https://en.wikipedia.org/wiki/Rick_Owens"
+    },
+    {
+      "text": "Fashion houses like Dior and Chanel destroy unsold merchandise to maintain brand exclusivity, though this practice has faced increasing scrutiny.",
+      "source": "https://en.wikipedia.org/wiki/Dior_and_Chanel"
+    },
+    {
+      "text": "Batik, a technique of wax-resist dyeing on fabric, originated in Indonesia and has influenced fashion designers worldwide.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Batik%2C_a_technique_of_wax-resist_dyeing_on_fabric%2C_originated_in_Indonesia_and"
+    },
+    {
+      "text": "The sari, worn for over 5,000 years in South Asia, is one of the oldest and most continuously worn garments in fashion history.",
+      "source": "https://en.wikipedia.org/wiki/sari%2C_worn_for_over_5%2C000_years_in_South_Asia"
+    },
+    {
+      "text": "Raf Simons' tenure at Calvin Klein (2016-2018) was critically acclaimed but commercially unsuccessful, highlighting the tension between art and commerce in fashion.",
+      "source": "https://en.wikipedia.org/wiki/Raf_Simons%27_tenure_at_Calvin_Klein_(2016-2018)"
+    },
+    {
+      "text": "The fashion industry's size inclusivity movement gained significant momentum in the 2020s, with more brands offering extended size ranges.",
+      "source": "https://en.wikipedia.org/wiki/Fashion_%26_Style"
+    },
+    {
+      "text": "The Adidas Stan Smith, originally named the Adidas Robert Haillet in 1965, was renamed in 1978 and became one of the best-selling sneakers of all time.",
+      "source": "https://en.wikipedia.org/wiki/Adidas_Stan_Smith%2C_originally_named_the_Adidas_Robert_Haillet_in_1965"
+    },
+    {
+      "text": "Salvatore Ferragamo invented the cage heel and the invisible sandal using nylon fishing line, earning him patents and the nickname 'shoemaker of dreams.'",
+      "source": "https://en.wikipedia.org/wiki/Salvatore_Ferragamo"
+    },
+    {
+      "text": "Hubert de Givenchy was born on February 21, 1927, in Beauvais, France.",
+      "month": 2,
+      "day": 21,
+      "source": "https://en.wikipedia.org/wiki/Hubert_de_Givenchy"
+    },
+    {
+      "text": "The 'investment piece' concept — buying fewer, higher-quality items that last longer — has become central to the anti-fast-fashion movement.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/%27investment_piece%27_concept_%E2%80%94_buying_fewer%2C_higher-quality_items_that_last_longer_%E2%80%94"
+    },
+    {
+      "text": "The color Valentino Red has its own Pantone code (number 19-1663 TPX) and is the brand's most recognizable signature.",
+      "source": "https://en.wikipedia.org/wiki/color_Valentino_Red"
+    },
+    {
+      "text": "Fashion illustration was the primary way to communicate designs before photography took over in the 1930s, with artists like René Gruau creating iconic images for Dior.",
+      "source": "https://en.wikipedia.org/wiki/Fashion_illustration"
+    },
+    {
+      "text": "The poncho, originating from indigenous South American cultures, became a bohemian fashion staple in the 1960s and has periodically returned to the runway.",
+      "source": "https://en.wikipedia.org/wiki/poncho%2C_originating_from_indigenous_South_American_cultures"
+    },
+    {
+      "text": "Vera Wang was a competitive figure skater before becoming a fashion journalist at Vogue and eventually a world-renowned bridal designer.",
+      "source": "https://en.wikipedia.org/wiki/Vera_Wang"
+    },
+    {
+      "text": "The global counterfeit fashion market is estimated at over $500 billion annually, with luxury handbags being among the most frequently faked items.",
+      "source": "https://en.wikipedia.org/wiki/global_counterfeit_fashion_market"
+    },
+    {
+      "text": "Elsa Schiaparelli's 'Lobster Dress' (1937), created in collaboration with Salvador Dalí, is one of the most famous examples of surrealism in fashion.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Lobster_Dress"
+    },
+    {
+      "text": "The necktie evolved from Croatian mercenaries' neck scarves worn during the Thirty Years' War in the 17th century — the French called them 'cravates.'",
+      "source": "https://en.wikipedia.org/wiki/Thirty_Years%27_War_in_the"
+    },
+    {
+      "text": "Fashion month, encompassing all four major fashion weeks, lasts approximately one month from early September to early October each fall season.",
+      "source": "https://en.wikipedia.org/wiki/September_to"
+    },
+    {
+      "text": "Brandon Maxwell, Lady Gaga's stylist-turned-designer, launched his own label in 2015 and became creative director of Walmart's fashion brands in 2023.",
+      "source": "https://en.wikipedia.org/wiki/Brandon_Maxwell%2C_Lady_Gaga%27s_stylist-turned-designer%2C_launched_his_own_label_in_2015_and"
+    },
+    {
+      "text": "The kilt, traditionally associated with Scottish culture, has appeared in high fashion collections from Jean Paul Gaultier, Vivienne Westwood, and Thom Browne.",
+      "source": "https://en.wikipedia.org/wiki/kilt%2C_traditionally_associated_with_Scottish_culture"
+    },
+    {
+      "text": "Miuccia Prada holds a PhD in political science from the University of Milan and was a member of Italy's Communist Party before entering fashion.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Miuccia_Prada_holds_a_PhD_in_political_science_from_the_University_of_Milan_and"
+    },
+    {
+      "text": "The first ready-to-wear collection shown during Paris Haute Couture Week was by Yves Saint Laurent in 1966, democratizing fashion.",
+      "source": "https://en.wikipedia.org/wiki/first_ready-to-wear_collection_shown_during_Paris_Haute_Couture_Week"
+    },
+    {
+      "text": "Cartier, founded in Paris in 1847, is known as 'the jeweler of kings and the king of jewelers,' a title given by King Edward VII.",
+      "source": "https://en.wikipedia.org/wiki/Cartier"
+    },
+    {
+      "text": "The crop top dates back to South Asian fashion traditions thousands of years old, though it entered Western mainstream fashion in the 1940s.",
+      "source": "https://en.wikipedia.org/wiki/South_Asian"
+    },
+    {
+      "text": "Fashion designer Halston defined 1970s American glamour with his minimalist, fluid designs worn by Bianca Jagger, Liza Minnelli, and Jackie Kennedy.",
+      "source": "https://en.wikipedia.org/wiki/Bianca_Jagger"
+    },
+    {
+      "text": "Anna Sui opened her first boutique in 1992 in New York's SoHo neighborhood, known for her rock-and-roll-inspired designs.",
+      "source": "https://en.wikipedia.org/wiki/Anna_Sui"
+    },
+    {
+      "text": "The most-liked Instagram fashion post of all time has garnered hundreds of millions of interactions, demonstrating social media's dominance in fashion marketing.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/most-liked_Instagram_fashion_post_of_all_time"
+    },
+    {
+      "text": "Pierre Cardin was born on July 2, 1922, in San Biagio di Callalta, Italy.",
+      "month": 7,
+      "day": 2,
+      "source": "https://en.wikipedia.org/wiki/Pierre_Cardin"
+    },
+    {
+      "text": "The first synthetic fabric, nylon, was introduced by DuPont in 1938 and revolutionized the hosiery industry almost overnight.",
+      "source": "https://en.wikipedia.org/wiki/first_synthetic_fabric%2C_nylon"
+    },
+    {
+      "text": "Demna Gvasalia's appointment as creative director of Balenciaga in 2015 marked a new era of ironic, meme-driven luxury fashion.",
+      "source": "https://en.wikipedia.org/wiki/Demna_Gvasalia%27s_appointment_as_creative_director_of_Balenciaga_in_2015"
+    },
+    {
+      "text": "The bucket hat, originally designed for Irish fishermen, became a streetwear staple in the 1990s hip-hop scene and returned in the 2020s.",
+      "source": "https://en.wikipedia.org/wiki/bucket_hat%2C_originally_designed_for_Irish_fishermen"
+    },
+    {
+      "text": "Jil Sander, known as the 'Queen of Less,' pioneered minimalist fashion in the 1970s with clean lines and luxurious fabrics.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Jil_Sander"
+    },
+    {
+      "text": "Fashion photographer Richard Avedon transformed the medium by capturing models in motion on the streets of Paris rather than in static studio poses.",
+      "source": "https://en.wikipedia.org/wiki/Richard_Avedon"
+    },
+    {
+      "text": "The peplum silhouette — a short overskirt or ruffle at the waist — dates back to ancient Greek peplos garments and resurges periodically in contemporary fashion.",
+      "source": "https://en.wikipedia.org/wiki/Fashion_%26_Style"
+    },
+    {
+      "text": "Jonathan Anderson became creative director of both his own brand JW Anderson and Spanish house Loewe, making him one of fashion's busiest designers.",
+      "source": "https://en.wikipedia.org/wiki/Jonathan_Anderson"
+    },
+    {
+      "text": "The 'quiet luxury' trend of 2023, featuring logo-free, understated clothing from brands like Loro Piana and Brunello Cucinelli, was fueled by the show Succession.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Loro_Piana_and_Brunello_Cucinelli"
+    },
+    {
+      "text": "Miu Miu, Prada's sister brand founded in 1993, is named after Miuccia Prada's nickname and targets a younger, edgier audience.",
+      "source": "https://en.wikipedia.org/wiki/Miu_Miu%2C_Prada%27s_sister_brand"
+    },
+    {
+      "text": "The world's oldest known leather shoe, dating back over 5,500 years, was discovered in a cave in Armenia in 2008.",
+      "source": "https://en.wikipedia.org/wiki/world%27s_oldest_known_leather_shoe%2C_dating_back_over_5%2C500_years"
+    }
+  ]
+}

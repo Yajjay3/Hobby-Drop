@@ -1,0 +1,1805 @@
+{
+  "hobby": "Gardening",
+  "facts": [
+    {
+      "text": "Roses are one of the oldest cultivated flowers, with fossil evidence suggesting they existed over 35 million years ago.",
+      "source": "https://en.wikipedia.org/wiki/Roses"
+    },
+    {
+      "text": "Tomatoes were once considered poisonous in Europe because they belong to the nightshade family.",
+      "source": "https://en.wikipedia.org/wiki/Tomatoes"
+    },
+    {
+      "text": "Basil is one of the easiest herbs to grow and thrives in warm, sunny conditions with well-drained soil.",
+      "source": "https://en.wikipedia.org/wiki/Basil"
+    },
+    {
+      "text": "The USDA Plant Hardiness Zone Map divides North America into 13 zones based on average annual minimum winter temperatures.",
+      "source": "https://en.wikipedia.org/wiki/USDA_Plant_Hardiness_Zone_Map"
+    },
+    {
+      "text": "Clay soil holds moisture well but drains poorly, making it ideal for plants like asters, bee balm, and black-eyed Susans.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Composting can reduce household waste by up to 30% while creating nutrient-rich fertilizer for your garden.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "A sharp pair of bypass pruners is considered the single most essential hand tool for any gardener.",
+      "source": "https://en.wikipedia.org/wiki/A_sharp_pair_of_bypass_pruners"
+    },
+    {
+      "text": "Ladybugs are one of the most beneficial garden insects, with a single ladybug capable of eating up to 5,000 aphids in its lifetime.",
+      "source": "https://en.wikipedia.org/wiki/Ladybugs"
+    },
+    {
+      "text": "The Gardens of Versailles cover about 2,000 acres and took over 40 years to complete under the direction of landscape architect André Le Nôtre.",
+      "source": "https://en.wikipedia.org/wiki/Gardens_of_Versailles_cover_about_2%2C000_acres_and"
+    },
+    {
+      "text": "Raised bed gardening allows you to control soil quality and drainage, making it easier to grow plants in areas with poor native soil.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Sunflowers are heliotropic when young, meaning they follow the sun across the sky from east to west each day.",
+      "source": "https://en.wikipedia.org/wiki/Sunflowers"
+    },
+    {
+      "text": "Peppers and tomatoes are both members of the Solanaceae family, commonly called the nightshade family.",
+      "source": "https://en.wikipedia.org/wiki/Peppers_and_tomatoes"
+    },
+    {
+      "text": "Mint is an extremely vigorous grower and should be planted in containers to prevent it from taking over your garden.",
+      "source": "https://en.wikipedia.org/wiki/Mint"
+    },
+    {
+      "text": "USDA Zone 10 covers areas like southern Florida and coastal Southern California, where tropical plants thrive year-round.",
+      "source": "https://en.wikipedia.org/wiki/USDA_Zone_10"
+    },
+    {
+      "text": "Sandy soil drains quickly and warms up fast in spring, but it struggles to retain nutrients and moisture.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Vermicomposting uses red wiggler worms to break down kitchen scraps into rich, dark compost called worm castings.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "A garden hoe is one of the oldest farming tools, dating back thousands of years and still essential for weeding.",
+      "source": "https://en.wikipedia.org/wiki/A_garden_hoe"
+    },
+    {
+      "text": "Companion planting marigolds near tomatoes can help repel nematodes and whiteflies naturally.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Kew Gardens in London houses over 50,000 living plants and has been a UNESCO World Heritage Site since 2003.",
+      "source": "https://en.wikipedia.org/wiki/Kew_Gardens_in_London_houses_over_50%2C000_living_plants_and"
+    },
+    {
+      "text": "Container gardening is ideal for small spaces like balconies and patios, allowing anyone to grow herbs, flowers, and even vegetables.",
+      "source": "https://en.wikipedia.org/wiki/Container_gardening"
+    },
+    {
+      "text": "Tulips were once so valuable in the Netherlands during the 1630s that single bulbs sold for more than the price of a house.",
+      "source": "https://en.wikipedia.org/wiki/Tulips"
+    },
+    {
+      "text": "Cucumbers are 95% water, making them one of the most hydrating vegetables you can grow in your garden.",
+      "source": "https://en.wikipedia.org/wiki/Cucumbers"
+    },
+    {
+      "text": "Rosemary is a Mediterranean herb that prefers dry, well-drained soil and can tolerate drought once established.",
+      "source": "https://en.wikipedia.org/wiki/Rosemary"
+    },
+    {
+      "text": "Zone 5, covering much of the upper Midwest and New England, has minimum winter temperatures of -20°F to -10°F.",
+      "source": "https://en.wikipedia.org/wiki/Zone_5%2C_covering_much_of_the_upper_Midwest_and_New_England"
+    },
+    {
+      "text": "Loam soil is considered the ideal garden soil because it contains a balanced mixture of sand, silt, and clay.",
+      "source": "https://en.wikipedia.org/wiki/Loam_soil"
+    },
+    {
+      "text": "Hot composting reaches temperatures of 130-160°F, which kills most weed seeds and pathogens in the pile.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Garden rakes come in two main types: bow rakes for moving soil and leaf rakes for gathering lightweight debris.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Neem oil is an organic pesticide derived from the neem tree that controls over 200 species of insects.",
+      "source": "https://en.wikipedia.org/wiki/Neem_oil"
+    },
+    {
+      "text": "Butchart Gardens in British Columbia, Canada, was created in a former limestone quarry and attracts over a million visitors annually.",
+      "source": "https://en.wikipedia.org/wiki/Butchart_Gardens_in_British_Columbia%2C_Canada"
+    },
+    {
+      "text": "Square foot gardening divides raised beds into one-foot squares, each planted with a specific number of plants based on their size.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Lavender is drought-tolerant once established and attracts pollinators like bees and butterflies to the garden.",
+      "source": "https://en.wikipedia.org/wiki/Lavender"
+    },
+    {
+      "text": "Squash plants produce separate male and female flowers on the same vine, and bees are essential for pollination.",
+      "source": "https://en.wikipedia.org/wiki/Squash_plants_produce_separate_male_and_female_flowers_on_the_same_vine%2C_and_bees"
+    },
+    {
+      "text": "Thyme is a low-growing herb that makes an excellent ground cover and releases a pleasant fragrance when stepped on.",
+      "source": "https://en.wikipedia.org/wiki/Thyme"
+    },
+    {
+      "text": "USDA Zone 7 covers much of the mid-Atlantic and parts of the Pacific Northwest, with winter lows of 0°F to 10°F.",
+      "source": "https://en.wikipedia.org/wiki/USDA_Zone_7"
+    },
+    {
+      "text": "Peat soil is acidic and moisture-retentive, making it suitable for acid-loving plants like blueberries and azaleas.",
+      "source": "https://en.wikipedia.org/wiki/Peat_soil"
+    },
+    {
+      "text": "Compost tea is made by steeping finished compost in water and can be used as a liquid fertilizer or foliar spray.",
+      "source": "https://en.wikipedia.org/wiki/Compost_tea"
+    },
+    {
+      "text": "A wheelbarrow is indispensable for moving heavy loads of soil, compost, mulch, and garden debris.",
+      "source": "https://en.wikipedia.org/wiki/A_wheelbarrow"
+    },
+    {
+      "text": "Diatomaceous earth is a non-toxic powder made from fossilized algae that kills soft-bodied insects by dehydrating them.",
+      "source": "https://en.wikipedia.org/wiki/Diatomaceous_earth"
+    },
+    {
+      "text": "Keukenhof in the Netherlands plants approximately 7 million flower bulbs each year and is known as the Garden of Europe.",
+      "source": "https://en.wikipedia.org/wiki/Keukenhof_in_the_Netherlands_plants_approximately_7_million_flower_bulbs_each_year_and"
+    },
+    {
+      "text": "Hydroponics is a method of growing plants without soil, using nutrient-rich water solutions instead.",
+      "source": "https://en.wikipedia.org/wiki/Hydroponics"
+    },
+    {
+      "text": "Orchids are one of the largest families of flowering plants, with over 25,000 species found on every continent except Antarctica.",
+      "source": "https://en.wikipedia.org/wiki/Orchids"
+    },
+    {
+      "text": "Zucchini is one of the most prolific garden vegetables; a single plant can produce 6 to 10 pounds of fruit per season.",
+      "source": "https://en.wikipedia.org/wiki/Zucchini"
+    },
+    {
+      "text": "Cilantro bolts quickly in hot weather, so it's best planted in cool seasons or in partial shade during summer.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Zone 3 gardens experience winter temperatures as low as -40°F, limiting plant choices to extremely cold-hardy species.",
+      "source": "https://en.wikipedia.org/wiki/Zone_3"
+    },
+    {
+      "text": "Adding organic matter like compost to clay soil improves its drainage and makes it easier for plant roots to penetrate.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "A three-bin composting system allows you to have compost at different stages of decomposition at all times.",
+      "source": "https://en.wikipedia.org/wiki/A_three-bin_composting_system_allows_you_to"
+    },
+    {
+      "text": "Long-handled loppers provide the leverage needed to cut branches up to 2 inches in diameter.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Planting garlic near roses can help deter aphids and Japanese beetles without chemical pesticides.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "The Hanging Gardens of Babylon are one of the Seven Wonders of the Ancient World, though their exact location remains debated.",
+      "source": "https://en.wikipedia.org/wiki/Hanging_Gardens_of_Babylon"
+    },
+    {
+      "text": "Vertical gardening uses trellises, wall planters, and stacked containers to maximize growing space in small areas.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Daisies belong to the Asteraceae family, one of the largest plant families with over 32,000 known species.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Carrots come in many colors besides orange, including purple, red, yellow, and white varieties.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Parsley is a biennial herb that produces leaves in its first year and flowers and seeds in its second year.",
+      "source": "https://en.wikipedia.org/wiki/Parsley"
+    },
+    {
+      "text": "Zone 9 covers much of the Gulf Coast and parts of Arizona, where gardeners can grow citrus trees and tropical plants.",
+      "source": "https://en.wikipedia.org/wiki/Zone_9"
+    },
+    {
+      "text": "Adding sand to clay soil without enough organic matter can actually create a concrete-like mixture that's worse than the original clay.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Bokashi composting is an anaerobic fermentation method that can process meat and dairy scraps that traditional composting cannot.",
+      "source": "https://en.wikipedia.org/wiki/Bokashi_composting"
+    },
+    {
+      "text": "A soil knife, or hori-hori, is a versatile Japanese gardening tool used for digging, cutting, weeding, and transplanting.",
+      "source": "https://en.wikipedia.org/wiki/A_soil_knife%2C_or_hori-hori"
+    },
+    {
+      "text": "Beneficial insects like green lacewings prey on aphids, mealybugs, and other common garden pests.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "The Royal Botanic Garden Edinburgh was founded in 1670 and is one of the oldest scientific gardens in the world.",
+      "source": "https://en.wikipedia.org/wiki/Royal_Botanic_Garden_Edinburgh"
+    },
+    {
+      "text": "Straw bale gardening involves conditioning bales with water and fertilizer, then planting directly into the decomposing straw.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Pothos is one of the most forgiving houseplants, tolerating low light, irregular watering, and a variety of soil conditions.",
+      "source": "https://en.wikipedia.org/wiki/Pothos"
+    },
+    {
+      "text": "Beans and peas are nitrogen-fixing plants that convert atmospheric nitrogen into a form usable by other plants.",
+      "source": "https://en.wikipedia.org/wiki/Beans_and_peas"
+    },
+    {
+      "text": "Sage is a perennial herb that develops woody stems over time and can live for many years in the right conditions.",
+      "source": "https://en.wikipedia.org/wiki/Sage"
+    },
+    {
+      "text": "Microclimates within your yard can vary by a full zone or more, allowing you to grow plants not typically suited to your area.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Gypsum can be added to sodic soils to improve structure by replacing sodium ions with calcium ions on clay particles.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Carbon-to-nitrogen ratio in composting should ideally be about 30:1 for efficient decomposition.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "A garden fork is better than a shovel for turning compost and loosening compacted soil without disrupting soil structure.",
+      "source": "https://en.wikipedia.org/wiki/A_garden_fork"
+    },
+    {
+      "text": "Praying mantises are generalist predators in the garden that eat both beneficial and pest insects.",
+      "source": "https://en.wikipedia.org/wiki/Praying_mantises"
+    },
+    {
+      "text": "Giverny, Claude Monet's garden in France, was the inspiration for many of his famous water lily paintings.",
+      "source": "https://en.wikipedia.org/wiki/Giverny%2C_Claude_Monet%27s_garden_in_France"
+    },
+    {
+      "text": "Aquaponics combines hydroponics with fish farming, using fish waste as natural fertilizer for the plants.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Snake plants (Sansevieria) are among the best air-purifying houseplants and can survive in very low light conditions.",
+      "source": "https://en.wikipedia.org/wiki/Snake_plants_(Sansevieria)"
+    },
+    {
+      "text": "Lettuce prefers cool weather and can bolt and become bitter when temperatures consistently exceed 75°F.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Chives are one of the hardiest herbs, returning year after year in zones 3 through 9 with minimal care.",
+      "source": "https://en.wikipedia.org/wiki/Chives"
+    },
+    {
+      "text": "Zone 6 has minimum winter temperatures of -10°F to 0°F and supports a wide variety of perennials and fruit trees.",
+      "source": "https://en.wikipedia.org/wiki/Zone_6"
+    },
+    {
+      "text": "Perlite is a volcanic glass that is added to potting soil to improve drainage and aeration for container plants.",
+      "source": "https://en.wikipedia.org/wiki/Perlite"
+    },
+    {
+      "text": "Grass clippings left on the lawn after mowing return nitrogen and other nutrients back to the soil naturally.",
+      "source": "https://en.wikipedia.org/wiki/Grass_clippings"
+    },
+    {
+      "text": "A broadfork is a manual tool used to aerate soil deeply without turning it over, preserving soil structure and microorganisms.",
+      "source": "https://en.wikipedia.org/wiki/A_broadfork"
+    },
+    {
+      "text": "Floating row covers protect plants from frost and insects while allowing light, air, and water to reach the plants.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Sissinghurst Castle Garden in England is famous for its white garden, designed by Vita Sackville-West in the 1930s.",
+      "source": "https://en.wikipedia.org/wiki/Sissinghurst_Castle_Garden_in_England"
+    },
+    {
+      "text": "Lasagna gardening, or sheet mulching, layers organic materials directly on the ground to create a no-dig garden bed.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Fiddle leaf figs need bright, indirect light and are sensitive to drafts, overwatering, and being moved frequently.",
+      "source": "https://en.wikipedia.org/wiki/Fiddle_leaf_figs_need_bright%2C_indirect_light_and"
+    },
+    {
+      "text": "Strawberries can be grown in hanging baskets, towers, or traditional garden beds and produce fruit within the first year.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Dill attracts beneficial insects like parasitic wasps and hoverflies that prey on aphids and caterpillars.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Zone 8 covers the Pacific Northwest coast and much of the Southeast, with winter lows of 10°F to 20°F.",
+      "source": "https://en.wikipedia.org/wiki/Zone_8"
+    },
+    {
+      "text": "Vermiculite retains moisture in soil mixes and is often used alongside perlite for seed-starting mixes.",
+      "source": "https://en.wikipedia.org/wiki/Vermiculite_retains_moisture_in_soil_mixes_and"
+    },
+    {
+      "text": "Mushroom compost, a byproduct of mushroom farming, is rich in nutrients but can be too alkaline for acid-loving plants.",
+      "source": "https://en.wikipedia.org/wiki/Mushroom_compost%2C_a_byproduct_of_mushroom_farming"
+    },
+    {
+      "text": "Oscillating hoes, also called stirrup hoes, cut weeds just below the soil surface on both the push and pull stroke.",
+      "source": "https://en.wikipedia.org/wiki/Oscillating_hoes%2C_also"
+    },
+    {
+      "text": "Bacillus thuringiensis (Bt) is a naturally occurring bacterium used as a biological pesticide against caterpillars and mosquitoes.",
+      "source": "https://en.wikipedia.org/wiki/Bacillus_thuringiensis_(Bt)"
+    },
+    {
+      "text": "The Alhambra gardens in Granada, Spain, feature intricate Islamic-style water features and geometric plantings dating to the 13th century.",
+      "source": "https://en.wikipedia.org/wiki/Alhambra_gardens_in_Granada%2C_Spain%2C_feature_intricate_Islamic-style_water"
+    },
+    {
+      "text": "Keyhole gardens are circular raised beds with a composting basket in the center, popular in arid climates for water efficiency.",
+      "source": "https://en.wikipedia.org/wiki/Keyhole_gardens"
+    },
+    {
+      "text": "Succulents store water in their leaves, stems, or roots, making them extremely drought-tolerant and low-maintenance houseplants.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Garlic is typically planted in the fall, overwinters in the ground, and is harvested the following summer.",
+      "source": "https://en.wikipedia.org/wiki/Garlic"
+    },
+    {
+      "text": "Lemon balm is a vigorous self-seeder in the mint family that can become invasive if not regularly deadheaded.",
+      "source": "https://en.wikipedia.org/wiki/Lemon_balm"
+    },
+    {
+      "text": "The first USDA Plant Hardiness Zone Map was published in 1960 and has been updated several times since.",
+      "source": "https://en.wikipedia.org/wiki/first_USDA_Plant_Hardiness_Zone_Map"
+    },
+    {
+      "text": "Cover crops like clover, rye, and vetch protect soil from erosion and add nutrients when tilled under in spring.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Cold composting is as simple as piling organic materials and letting them decompose naturally over 6 to 24 months.",
+      "source": "https://en.wikipedia.org/wiki/Cold_composting"
+    },
+    {
+      "text": "A dibber is a pointed tool used to make holes in soil for planting seeds, seedlings, and bulbs.",
+      "source": "https://en.wikipedia.org/wiki/A_dibber"
+    },
+    {
+      "text": "Copper tape and barriers can deter slugs and snails from reaching plants without using chemical baits.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "The Montreal Botanical Garden is one of the largest in the world, covering 190 acres with 22,000 plant species.",
+      "source": "https://en.wikipedia.org/wiki/Montreal_Botanical_Garden"
+    },
+    {
+      "text": "Wicking beds use a water reservoir below the soil that delivers moisture upward through capillary action, reducing watering frequency.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Spider plants are easy-to-grow houseplants that produce baby plants on long runners, making propagation simple.",
+      "source": "https://en.wikipedia.org/wiki/Spider_plants"
+    },
+    {
+      "text": "Sweet potatoes need a long, warm growing season of at least 90 to 170 days and thrive in loose, sandy soil.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Bay laurel is a slow-growing evergreen tree whose leaves are used in cooking and can be grown in containers.",
+      "source": "https://en.wikipedia.org/wiki/Bay_laurel"
+    },
+    {
+      "text": "Zone 4 gardens experience winter temperatures of -30°F to -20°F and can grow hardy perennials like hostas and daylilies.",
+      "source": "https://en.wikipedia.org/wiki/Zone_4"
+    },
+    {
+      "text": "Biochar is a charcoal-like substance added to soil that improves water retention, nutrient holding, and microbial activity.",
+      "source": "https://en.wikipedia.org/wiki/Biochar"
+    },
+    {
+      "text": "Leaf mold, made from decomposed leaves, is an excellent soil conditioner that improves moisture retention.",
+      "source": "https://en.wikipedia.org/wiki/Leaf_mold%2C_made_from_decomposed_leaves"
+    },
+    {
+      "text": "A Warren hoe has a pointed, triangular blade ideal for making furrows and planting rows in the garden.",
+      "source": "https://en.wikipedia.org/wiki/A_Warren_hoe"
+    },
+    {
+      "text": "Introducing parasitic wasps to your garden can control whitefly, aphid, and caterpillar populations without harming other insects.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "The Desert Botanical Garden in Phoenix, Arizona, showcases over 50,000 desert plants including cacti from around the world.",
+      "source": "https://en.wikipedia.org/wiki/Desert_Botanical_Garden_in_Phoenix"
+    },
+    {
+      "text": "Hügelkultur is a permaculture technique that creates raised beds from buried logs and branches, which decompose and retain moisture.",
+      "source": "https://en.wikipedia.org/wiki/H%C3%BCgelkultur"
+    },
+    {
+      "text": "Peace lilies are popular indoor plants that can bloom in low light and help remove toxins from indoor air.",
+      "source": "https://en.wikipedia.org/wiki/Peace_lilies"
+    },
+    {
+      "text": "Beets are a cool-season root vegetable that can be planted in early spring or late summer for a fall harvest.",
+      "source": "https://en.wikipedia.org/wiki/Beets"
+    },
+    {
+      "text": "Oregano is a perennial herb in warm climates and an annual in cold zones, preferring full sun and lean soil.",
+      "source": "https://en.wikipedia.org/wiki/Oregano"
+    },
+    {
+      "text": "Zone 11 has no frost and covers tropical areas like Hawaii and Key West, where exotic fruits and flowers flourish.",
+      "source": "https://en.wikipedia.org/wiki/Zone_11"
+    },
+    {
+      "text": "Sulfur can be added to alkaline soil to lower pH, making nutrients more available to acid-loving plants.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Trench composting involves burying kitchen scraps directly in garden trenches, where they decompose in place over several months.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "A hand trowel is one of the most frequently used garden tools, essential for digging small holes and transplanting seedlings.",
+      "source": "https://en.wikipedia.org/wiki/A_hand_trowel"
+    },
+    {
+      "text": "Beer traps are a simple, non-toxic method for attracting and drowning slugs in the garden.",
+      "source": "https://en.wikipedia.org/wiki/Beer_traps"
+    },
+    {
+      "text": "Longwood Gardens in Pennsylvania features 1,077 acres of gardens, meadows, and woodlands with spectacular fountain displays.",
+      "source": "https://en.wikipedia.org/wiki/Longwood_Gardens_in_Pennsylvania"
+    },
+    {
+      "text": "Espalier is an ancient technique of training trees to grow flat against a wall or trellis, saving space and improving fruit production.",
+      "source": "https://en.wikipedia.org/wiki/Espalier"
+    },
+    {
+      "text": "Aloe vera is a succulent houseplant known for its medicinal gel and needs bright light with infrequent watering.",
+      "source": "https://en.wikipedia.org/wiki/Aloe_vera"
+    },
+    {
+      "text": "Pumpkins need a lot of space, with vines spreading 10 to 20 feet, and require a long growing season of 75 to 100 days.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Tarragon comes in French and Russian varieties; French tarragon has superior flavor but cannot be grown from seed.",
+      "source": "https://en.wikipedia.org/wiki/Tarragon_comes_in_French_and_Russian_varieties%3B_French_tarragon"
+    },
+    {
+      "text": "The heat island effect in cities can shift the local USDA zone by one or even two zones warmer than surrounding areas.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Lime is added to acidic soil to raise the pH, making nutrients like phosphorus and calcium more available to plants.",
+      "source": "https://en.wikipedia.org/wiki/Lime"
+    },
+    {
+      "text": "Worm bins can be kept indoors and process food scraps year-round, producing compost and liquid fertilizer.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Anvil pruners crush stems between a blade and a flat surface and are best used for dead or woody branches.",
+      "source": "https://en.wikipedia.org/wiki/Anvil_pruners_crush_stems_between_a_blade_and_a_flat_surface_and"
+    },
+    {
+      "text": "Chrysanthemums contain pyrethrin, a natural insecticide, and can help repel ants, roaches, and ticks from the garden.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "The Garden of Cosmic Speculation in Scotland features mathematical and scientific concepts reflected in its landscape design.",
+      "source": "https://en.wikipedia.org/wiki/Garden_of_Cosmic_Speculation_in_Scotland"
+    },
+    {
+      "text": "French intensive gardening uses deeply dug, richly amended beds to grow plants very closely together for maximum yield.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "ZZ plants (Zamioculcas zamiifolia) tolerate neglect, low light, and infrequent watering, making them ideal for beginners.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Radishes are one of the fastest-growing vegetables, ready to harvest in as few as 25 days from planting.",
+      "source": "https://en.wikipedia.org/wiki/Radishes"
+    },
+    {
+      "text": "Fennel can inhibit the growth of nearby plants, so it is often planted on its own or at the edges of the garden.",
+      "source": "https://en.wikipedia.org/wiki/Fennel_can_inhibit_the_growth_of_nearby_plants%2C_so_it"
+    },
+    {
+      "text": "The AHS Plant Heat Zone Map measures heat tolerance using the number of days above 86°F per year.",
+      "source": "https://en.wikipedia.org/wiki/AHS_Plant_Heat_Zone_Map"
+    },
+    {
+      "text": "Green sand, derived from marine sediment, is an organic amendment that adds potassium, iron, and trace minerals to soil.",
+      "source": "https://en.wikipedia.org/wiki/Green_sand%2C_derived_from_marine_sediment"
+    },
+    {
+      "text": "Compost activators containing nitrogen can speed up the decomposition of carbon-heavy materials like dried leaves and straw.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "A soil pH meter is an inexpensive tool that helps gardeners quickly determine whether their soil is acidic, neutral, or alkaline.",
+      "source": "https://en.wikipedia.org/wiki/A_soil_pH_meter"
+    },
+    {
+      "text": "Releasing beneficial nematodes into the soil can control grub, flea, and fungus gnat larvae organically.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "The Boboli Gardens in Florence, Italy, are one of the earliest examples of Italian Renaissance garden design, dating to the 16th century.",
+      "source": "https://en.wikipedia.org/wiki/Boboli_Gardens_in_Florence%2C_Italy"
+    },
+    {
+      "text": "Succession planting involves sowing seeds at regular intervals to ensure a continuous harvest throughout the growing season.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Rubber plants (Ficus elastica) are low-maintenance houseplants that can grow into impressive indoor trees with proper care.",
+      "source": "https://en.wikipedia.org/wiki/Rubber_plants_(Ficus_elastica)"
+    },
+    {
+      "text": "Eggplant needs warm soil to germinate and should not be transplanted outdoors until night temperatures stay above 55°F.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Borage is an herb with edible blue flowers that attracts bees and is considered an excellent companion plant for tomatoes and strawberries.",
+      "source": "https://en.wikipedia.org/wiki/Borage"
+    },
+    {
+      "text": "Maritime climates like the Pacific Northwest have mild winters and cool summers, supporting unique plant palettes.",
+      "source": "https://en.wikipedia.org/wiki/Maritime_climates_like_the_Pacific_Northwest"
+    },
+    {
+      "text": "Wood ash from untreated wood can be added to garden soil to raise pH and supply potassium and calcium.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "A simple compost pile needs just four ingredients: greens (nitrogen), browns (carbon), water, and air.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Soaker hoses deliver water directly to the base of plants, reducing water waste from evaporation and runoff by up to 70%.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Crop rotation prevents the buildup of soil-borne diseases and pests by changing what is planted in each area each year.",
+      "source": "https://en.wikipedia.org/wiki/Crop_rotation_prevents_the_buildup_of_soil-borne_diseases_and_pests_by_changing_what"
+    },
+    {
+      "text": "The Jardin Majorelle in Marrakech, Morocco, features cobalt blue buildings surrounded by exotic plants from five continents.",
+      "source": "https://en.wikipedia.org/wiki/Jardin_Majorelle_in_Marrakech%2C_Morocco"
+    },
+    {
+      "text": "Biointensive gardening focuses on maximizing yield from a small area while maintaining soil fertility through composting and close spacing.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Chinese evergreens (Aglaonema) are colorful, low-light houseplants that tolerate neglect and poor air quality.",
+      "source": "https://en.wikipedia.org/wiki/Chinese_evergreens_(Aglaonema)"
+    },
+    {
+      "text": "Kale is one of the hardiest greens, surviving temperatures down to 10°F and actually becoming sweeter after a frost.",
+      "source": "https://en.wikipedia.org/wiki/Kale"
+    },
+    {
+      "text": "Chamomile is known as the 'plant doctor' because it seems to help ailing plants recover when planted nearby.",
+      "source": "https://en.wikipedia.org/wiki/Chamomile"
+    },
+    {
+      "text": "Aspect and elevation within a garden create microclimates that can be exploited to grow a wider range of plants.",
+      "source": "https://en.wikipedia.org/wiki/Aspect_and"
+    },
+    {
+      "text": "Bone meal is an organic fertilizer high in phosphorus that promotes strong root development and flowering.",
+      "source": "https://en.wikipedia.org/wiki/Bone_meal"
+    },
+    {
+      "text": "Grasscycling — leaving clippings on the lawn — can provide up to 25% of a lawn's annual fertilizer needs.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "A garden kneeler with handles doubles as a seat and reduces knee and back strain during planting tasks.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Insecticidal soap made from potassium salts of fatty acids is effective against soft-bodied insects like aphids and spider mites.",
+      "source": "https://en.wikipedia.org/wiki/Insecticidal_soap_made_from_potassium_salts_of_fatty_acids"
+    },
+    {
+      "text": "The Butchart Gardens in British Columbia bloom continuously from March through October with seasonal floral displays.",
+      "source": "https://en.wikipedia.org/wiki/Butchart_Gardens_in_British_Columbia"
+    },
+    {
+      "text": "No-till gardening preserves soil structure and microbial communities by avoiding digging or turning the soil.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Boston ferns are popular hanging houseplants that thrive in humid environments with indirect light.",
+      "source": "https://en.wikipedia.org/wiki/Boston_ferns"
+    },
+    {
+      "text": "Watermelons need 70 to 90 days of warm weather and plenty of space, as their vines can spread 15 to 20 feet.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Lemongrass is a tropical herb used in Asian cooking that also acts as a natural mosquito repellent in the garden.",
+      "source": "https://en.wikipedia.org/wiki/Lemongrass"
+    },
+    {
+      "text": "Rain gardens are shallow depressions planted with native species that capture and filter stormwater runoff.",
+      "source": "https://en.wikipedia.org/wiki/Rain_gardens"
+    },
+    {
+      "text": "Blood meal is a high-nitrogen organic fertilizer that promotes leafy green growth and can also deter deer from the garden.",
+      "source": "https://en.wikipedia.org/wiki/Blood_meal"
+    },
+    {
+      "text": "The ideal compost moisture level is like a wrung-out sponge — damp but not dripping.",
+      "source": "https://en.wikipedia.org/wiki/ideal_compost_moisture_level"
+    },
+    {
+      "text": "A quality garden hose should be at least 5/8 inch in diameter for adequate water flow to most garden tasks.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Trap crops like nasturtiums lure aphids away from more valuable plants, acting as sacrificial decoys.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "The Singapore Botanic Gardens became Singapore's first UNESCO World Heritage Site in 2015.",
+      "source": "https://en.wikipedia.org/wiki/Singapore_Botanic_Gardens"
+    },
+    {
+      "text": "Permaculture garden design works with natural ecosystems to create self-sustaining, productive landscapes.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Philodendrons are versatile houseplants available in climbing and non-climbing varieties that thrive in medium to bright indirect light.",
+      "source": "https://en.wikipedia.org/wiki/Philodendrons"
+    },
+    {
+      "text": "Brussels sprouts need a long growing season of 80 to 100 days and taste best after being touched by frost.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Lovage is a tall, perennial herb with a celery-like flavor that can grow up to 6 feet tall.",
+      "source": "https://en.wikipedia.org/wiki/Lovage"
+    },
+    {
+      "text": "South-facing slopes receive the most sun in the Northern Hemisphere, making them the warmest microclimates in a yard.",
+      "source": "https://en.wikipedia.org/wiki/Northern_Hemisphere"
+    },
+    {
+      "text": "Fish emulsion is a fast-acting organic fertilizer that provides nitrogen, phosphorus, and trace minerals to plants.",
+      "source": "https://en.wikipedia.org/wiki/Fish_emulsion"
+    },
+    {
+      "text": "Turning a compost pile every few weeks introduces oxygen that accelerates the breakdown of organic materials.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Drip irrigation delivers water slowly and directly to plant roots, reducing water usage by 30 to 50% compared to sprinklers.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Interplanting fast-growing crops like lettuce between slow-growing ones like broccoli maximizes garden space.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "The Huntington Botanical Gardens in California house one of the world's largest collections of cacti and succulents.",
+      "source": "https://en.wikipedia.org/wiki/Huntington_Botanical_Gardens_in_California"
+    },
+    {
+      "text": "Food forests mimic natural woodland ecosystems with layers of canopy trees, understory trees, shrubs, herbs, and ground covers.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Monstera deliciosa, the Swiss cheese plant, has become one of the most popular houseplants due to its dramatic fenestrated leaves.",
+      "source": "https://en.wikipedia.org/wiki/Monstera_deliciosa%2C_the_Swiss_cheese_plant"
+    },
+    {
+      "text": "Asparagus is a perennial vegetable that can produce harvests for 15 to 20 years once established.",
+      "source": "https://en.wikipedia.org/wiki/Asparagus"
+    },
+    {
+      "text": "Marjoram is closely related to oregano but has a sweeter, milder flavor and is less cold-hardy.",
+      "source": "https://en.wikipedia.org/wiki/Marjoram"
+    },
+    {
+      "text": "The first day of frost in fall and the last frost date in spring define the length of the local growing season.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Kelp meal is a slow-release organic fertilizer that provides over 60 trace minerals and natural growth hormones to plants.",
+      "source": "https://en.wikipedia.org/wiki/Kelp_meal"
+    },
+    {
+      "text": "A well-managed compost bin can convert kitchen and yard waste into usable compost in as little as 3 to 4 weeks.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Mulching around plants with 2 to 4 inches of organic material suppresses weeds, retains moisture, and regulates soil temperature.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Beneficial ground beetles are nocturnal predators that eat slugs, snails, cutworms, and other garden pests.",
+      "source": "https://en.wikipedia.org/wiki/Beneficial_ground_beetles"
+    },
+    {
+      "text": "The Palace of Versailles gardens feature 400 sculptures, 1,400 fountains, and 200,000 trees across the grounds.",
+      "source": "https://en.wikipedia.org/wiki/Palace_of_Versailles"
+    },
+    {
+      "text": "Companion planting basil with tomatoes is believed to improve tomato flavor and repel flies and mosquitoes.",
+      "source": "https://en.wikipedia.org/wiki/Companion_planting_basil_with_tomatoes"
+    },
+    {
+      "text": "Jade plants are popular succulents that can live for decades and are considered symbols of good luck.",
+      "source": "https://en.wikipedia.org/wiki/Jade_plants"
+    },
+    {
+      "text": "Corn is a wind-pollinated crop that should be planted in blocks of at least four rows rather than single long rows.",
+      "source": "https://en.wikipedia.org/wiki/Corn"
+    },
+    {
+      "text": "Stevia is a natural sweetener herb that can be grown in the garden and is 200 to 300 times sweeter than sugar.",
+      "source": "https://en.wikipedia.org/wiki/Stevia"
+    },
+    {
+      "text": "Frost pockets form in low-lying areas where cold air settles, making them several degrees colder than surrounding elevations.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Epsom salt (magnesium sulfate) can be used as a soil amendment to correct magnesium deficiency in plants.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "The carbon-rich 'brown' materials for composting include dried leaves, straw, cardboard, and wood chips.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "A rain gauge helps gardeners determine how much supplemental watering their garden needs each week.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Milky spore disease is a biological control that kills Japanese beetle grubs in lawns without harming other organisms.",
+      "source": "https://en.wikipedia.org/wiki/Milky_spore_disease"
+    },
+    {
+      "text": "The Château de Villandry in France is famous for its ornamental vegetable gardens arranged in geometric patterns.",
+      "source": "https://en.wikipedia.org/wiki/Ch%C3%A2teau_de_Villandry_in_France"
+    },
+    {
+      "text": "Biodynamic gardening follows a planting calendar based on lunar and planetary cycles and emphasizes holistic farm health.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Calathea plants are prized houseplants known for their colorful, patterned leaves that fold up at night.",
+      "source": "https://en.wikipedia.org/wiki/Calathea_plants"
+    },
+    {
+      "text": "Onions are classified by day length: short-day varieties for southern regions and long-day varieties for northern areas.",
+      "source": "https://en.wikipedia.org/wiki/Onions"
+    },
+    {
+      "text": "Bee balm (Monarda) is a native perennial that attracts hummingbirds, bees, and butterflies with its showy flowers.",
+      "source": "https://en.wikipedia.org/wiki/Bee_balm_(Monarda)"
+    },
+    {
+      "text": "Wind protection from hedges or fences can extend the growing season by raising local temperatures and reducing wind chill damage.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Cottonseed meal is an organic fertilizer that is mildly acidic, making it beneficial for acid-loving plants like azaleas and blueberries.",
+      "source": "https://en.wikipedia.org/wiki/Cottonseed_meal"
+    },
+    {
+      "text": "The nitrogen-rich 'green' materials for composting include fresh grass clippings, fruit scraps, vegetable peels, and coffee grounds.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Self-watering planters have built-in reservoirs that provide consistent moisture to plants through capillary action.",
+      "source": "https://en.wikipedia.org/wiki/Self-watering_planters"
+    },
+    {
+      "text": "Attracting solitary bees by providing nesting sites like bee hotels can significantly increase pollination in home gardens.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Monet's garden at Giverny includes a water garden with Japanese bridges and the famous water lily pond.",
+      "source": "https://en.wikipedia.org/wiki/Monet%27s_garden_at_Giverny"
+    },
+    {
+      "text": "The Three Sisters planting technique, used by Indigenous peoples, grows corn, beans, and squash together in a symbiotic arrangement.",
+      "source": "https://en.wikipedia.org/wiki/Three_Sisters"
+    },
+    {
+      "text": "English ivy is a vigorous climber that can become invasive outdoors but is a useful trailing houseplant indoors.",
+      "source": "https://en.wikipedia.org/wiki/English_ivy"
+    },
+    {
+      "text": "Potatoes can be grown in bags, barrels, or stacked tires, making them suitable for small-space gardening.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Sorrel is a perennial herb with a tangy, lemony flavor that is one of the first greens available in spring.",
+      "source": "https://en.wikipedia.org/wiki/Sorrel"
+    },
+    {
+      "text": "Trees planted on the south and west sides of a home can reduce summer cooling costs by up to 25%.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Rock phosphate is a natural, slow-release source of phosphorus that becomes more available in acidic soils.",
+      "source": "https://en.wikipedia.org/wiki/Rock_phosphate"
+    },
+    {
+      "text": "Compost should smell earthy, not foul; a bad smell usually indicates too much nitrogen or insufficient aeration.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Raised beds should be no wider than 4 feet so you can reach the center from either side without stepping on the soil.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Hover flies, which look like small bees, are important pollinators whose larvae eat large numbers of aphids.",
+      "source": "https://en.wikipedia.org/wiki/Hover_flies%2C_which_look_like_small_bees"
+    },
+    {
+      "text": "The Ryoan-ji Temple in Kyoto, Japan, features one of the most famous zen rock gardens, containing 15 carefully placed stones.",
+      "source": "https://en.wikipedia.org/wiki/Ryoan-ji_Temple_in_Kyoto%2C_Japan"
+    },
+    {
+      "text": "Companion planting nasturtiums near cucumbers can repel cucumber beetles and other pests.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Cast iron plants (Aspidistra elatior) earned their name because they can survive extreme neglect and very low light.",
+      "source": "https://en.wikipedia.org/wiki/Cast_iron_plants_(Aspidistra_elatior)"
+    },
+    {
+      "text": "Celery requires consistently moist soil and a long growing season of about 130 to 140 days from seed to harvest.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Lavender prefers alkaline soil and can suffer root rot in heavy, wet clay soils without proper drainage.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "The length of daylight hours, or photoperiod, influences when many plants flower, go dormant, or set fruit.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Alfalfa meal is an organic amendment that provides nitrogen, phosphorus, and triacontanol, a natural growth stimulant.",
+      "source": "https://en.wikipedia.org/wiki/Alfalfa_meal"
+    },
+    {
+      "text": "Adding coffee grounds directly to garden soil can improve drainage and attract earthworms that aerate the soil.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Timer-controlled drip irrigation systems ensure consistent watering even when gardeners are away from home.",
+      "source": "https://en.wikipedia.org/wiki/Timer-controlled_drip_irrigation_systems_ensure_consistent_watering_even_when_gardeners"
+    },
+    {
+      "text": "Lacewing larvae, sometimes called aphid lions, are voracious predators that can eat 200 aphids per week.",
+      "source": "https://en.wikipedia.org/wiki/Lacewing_larvae%2C_sometimes_called_aphid_lions"
+    },
+    {
+      "text": "The Powerscourt Gardens in Ireland are among the finest examples of an Italianate garden in the British Isles.",
+      "source": "https://en.wikipedia.org/wiki/Powerscourt_Gardens_in_Ireland"
+    },
+    {
+      "text": "Double-digging involves loosening soil to a depth of 24 inches, improving root penetration and drainage in compacted areas.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Pothos (Epipremnum aureum) can grow in water alone, making it an extremely easy plant to propagate and share.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Turnips are a fast-maturing root vegetable that can go from seed to harvest in just 30 to 60 days.",
+      "source": "https://en.wikipedia.org/wiki/Turnips"
+    },
+    {
+      "text": "Winter savory is a perennial herb while summer savory is an annual; both have a peppery flavor used in bean dishes.",
+      "source": "https://en.wikipedia.org/wiki/Winter_savory"
+    },
+    {
+      "text": "Zone 2 is one of the coldest zones in the USDA map, with winter lows of -50°F to -40°F, found in northern Canada and Alaska.",
+      "source": "https://en.wikipedia.org/wiki/Zone_2"
+    },
+    {
+      "text": "Greensand is a mineral-rich soil amendment mined from ancient ocean beds that provides potassium and iron.",
+      "source": "https://en.wikipedia.org/wiki/Greensand"
+    },
+    {
+      "text": "Finished compost should be dark, crumbly, and have an earthy smell with no recognizable food scraps remaining.",
+      "source": "https://en.wikipedia.org/wiki/Finished_compost_should_be_dark%2C_crumbly%2C_and"
+    },
+    {
+      "text": "Landscape fabric placed under mulch can suppress weeds but may restrict water and air movement if used improperly.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Trichogramma wasps are tiny parasitoids that lay their eggs inside pest insect eggs, preventing them from hatching.",
+      "source": "https://en.wikipedia.org/wiki/Trichogramma_wasps"
+    },
+    {
+      "text": "The Brooklyn Botanic Garden in New York features a Japanese Hill-and-Pond Garden created in 1914.",
+      "source": "https://en.wikipedia.org/wiki/Brooklyn_Botanic_Garden_in_New_York"
+    },
+    {
+      "text": "Polyculture planting — growing multiple crop species together — can reduce pest problems and increase overall yields.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Dracaena marginata (dragon tree) is a striking houseplant with long, narrow leaves edged in red or pink.",
+      "source": "https://en.wikipedia.org/wiki/Dracaena_marginata_(dragon_tree)"
+    },
+    {
+      "text": "Swiss chard is a colorful, heat-tolerant green that can be harvested continuously by picking outer leaves first.",
+      "source": "https://en.wikipedia.org/wiki/Swiss_chard"
+    },
+    {
+      "text": "Catnip is easy to grow and repels mosquitoes, but will attract neighborhood cats to your garden.",
+      "source": "https://en.wikipedia.org/wiki/Catnip"
+    },
+    {
+      "text": "Frost blankets and cold frames extend the growing season by protecting plants from light freezes in spring and fall.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Worm castings contain beneficial microorganisms that help suppress soil-borne diseases and improve plant health.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "The oldest known garden plan is a map of an Egyptian garden from around 1400 BC, found in a tomb in Thebes.",
+      "source": "https://en.wikipedia.org/wiki/oldest_known_garden_plan"
+    },
+    {
+      "text": "A soil test from your local cooperative extension office can reveal pH, nutrient levels, and amendment recommendations for your garden.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Assassin bugs are beneficial predators that feed on caterpillars, beetles, and other pest insects in the garden.",
+      "source": "https://en.wikipedia.org/wiki/Assassin_bugs"
+    },
+    {
+      "text": "The Generalife gardens of the Alhambra in Granada were designed as a retreat for the Moorish kings.",
+      "source": "https://en.wikipedia.org/wiki/Generalife_gardens_of_the_Alhambra_in_Granada"
+    },
+    {
+      "text": "Window boxes are a form of container gardening that add color and plants to homes without yard space.",
+      "source": "https://en.wikipedia.org/wiki/Window_boxes"
+    },
+    {
+      "text": "Croton plants have brilliantly colored leaves in red, orange, and yellow but need bright light to maintain their color.",
+      "source": "https://en.wikipedia.org/wiki/Croton_plants"
+    },
+    {
+      "text": "Pole beans can grow 6 to 10 feet tall and produce more beans per square foot than bush bean varieties.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Angelica is a dramatic biennial herb that can reach 6 feet tall and has been used in herbal medicine for centuries.",
+      "source": "https://en.wikipedia.org/wiki/Angelica"
+    },
+    {
+      "text": "Zone 12 and 13 are the warmest USDA zones, found only in tropical regions like Puerto Rico and Hawaii.",
+      "source": "https://en.wikipedia.org/wiki/Zone_12_and_13"
+    },
+    {
+      "text": "Humus is the dark, stable form of decomposed organic matter that gives healthy soil its rich color and water-holding capacity.",
+      "source": "https://en.wikipedia.org/wiki/Humus"
+    },
+    {
+      "text": "Tumbler composters are enclosed bins that can be rotated to mix compost easily, speeding up the decomposition process.",
+      "source": "https://en.wikipedia.org/wiki/Tumbler_composters"
+    },
+    {
+      "text": "A garden auger attachment for a drill makes quick work of planting dozens of bulbs in fall.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Planting flowering herbs like dill, fennel, and cilantro attracts beneficial insects that help control garden pests.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "The National Garden of Athens is a public park established in 1838 that covers 38 acres in the heart of the city.",
+      "source": "https://en.wikipedia.org/wiki/National_Garden_of_Athens"
+    },
+    {
+      "text": "Mittleider gardening uses custom soil-less growing mixes in narrow raised beds with precise fertilizer formulas.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Norfolk Island pines are popular indoor conifers often used as tabletop Christmas trees in tropical and subtropical climates.",
+      "source": "https://en.wikipedia.org/wiki/Norfolk_Island_pines"
+    },
+    {
+      "text": "Kohlrabi is an unusual brassica vegetable that forms a swollen stem above ground and tastes like a mild, sweet turnip.",
+      "source": "https://en.wikipedia.org/wiki/Kohlrabi"
+    },
+    {
+      "text": "Tansy was historically used as a companion plant to repel ants, flies, and beetles from the garden.",
+      "source": "https://en.wikipedia.org/wiki/Tansy"
+    },
+    {
+      "text": "Spring-blooming bulbs like tulips, daffodils, and crocuses must be planted in fall to receive the cold period they need to bloom.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Mycorrhizal fungi form symbiotic relationships with plant roots, extending their reach for water and nutrients by up to 700 times.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Fall leaves collected and shredded make excellent free mulch and compost material for the garden.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Ollas are unglazed clay pots buried in the soil that slowly release water to plant roots, an ancient irrigation method from North Africa.",
+      "source": "https://en.wikipedia.org/wiki/Ollas"
+    },
+    {
+      "text": "Damsel bugs are generalist predators that feed on aphids, small caterpillars, leafhoppers, and thrips.",
+      "source": "https://en.wikipedia.org/wiki/Damsel_bugs"
+    },
+    {
+      "text": "The Villa d'Este gardens near Rome, Italy, are famous for their terraced hillside and hundreds of Renaissance-era fountains.",
+      "source": "https://en.wikipedia.org/wiki/Villa_d%27Este_gardens_near_Rome%2C_Italy"
+    },
+    {
+      "text": "Back-to-Eden gardening covers the ground with a thick layer of wood chips that mimic a forest floor.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Air plants (Tillandsia) absorb water and nutrients through their leaves and don't need soil to grow.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Artichokes are actually large thistle buds that are harvested before they bloom and can be perennial in mild climates.",
+      "source": "https://en.wikipedia.org/wiki/Artichokes"
+    },
+    {
+      "text": "Horseradish is a vigorous perennial root that can become invasive and is best grown in a contained area.",
+      "source": "https://en.wikipedia.org/wiki/Horseradish"
+    },
+    {
+      "text": "The Royal Horticultural Society's Chelsea Flower Show has been held annually since 1913 and is the world's most prestigious garden show.",
+      "source": "https://en.wikipedia.org/wiki/Royal_Horticultural_Society%27s_Chelsea_Flower_Show"
+    },
+    {
+      "text": "Silt soil has fine particles and good fertility but can become compacted easily and may drain poorly without amendments.",
+      "source": "https://en.wikipedia.org/wiki/Silt_soil"
+    },
+    {
+      "text": "Mushroom compost is an excellent mulch and soil conditioner but should be used sparingly due to its high salt content.",
+      "source": "https://en.wikipedia.org/wiki/Mushroom_compost"
+    },
+    {
+      "text": "A compost thermometer helps monitor internal pile temperatures to ensure efficient hot composting.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Soldier beetles are beneficial garden insects that eat aphids and also serve as pollinators for flowers.",
+      "source": "https://en.wikipedia.org/wiki/Soldier_beetles"
+    },
+    {
+      "text": "The Jardin des Plantes in Paris was originally established in 1626 as a royal medicinal herb garden.",
+      "source": "https://en.wikipedia.org/wiki/Jardin_des_Plantes_in_Paris"
+    },
+    {
+      "text": "Biodegradable seed-starting pots made from peat or cow manure can be planted directly in the ground to reduce transplant shock.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Dumb cane (Dieffenbachia) is a popular houseplant with large, patterned leaves but is toxic if ingested by pets or children.",
+      "source": "https://en.wikipedia.org/wiki/Dumb_cane_(Dieffenbachia)"
+    },
+    {
+      "text": "Okra is a heat-loving vegetable that thrives in temperatures above 85°F and is a staple of Southern cooking.",
+      "source": "https://en.wikipedia.org/wiki/Okra"
+    },
+    {
+      "text": "Hyssop is a semi-evergreen herb with blue-violet flower spikes that attract bees and butterflies throughout summer.",
+      "source": "https://en.wikipedia.org/wiki/Hyssop"
+    },
+    {
+      "text": "Wind tunnels formed between buildings can dry out plants quickly and may require more frequent watering and wind-tolerant species.",
+      "source": "https://en.wikipedia.org/wiki/Wind_tunnels"
+    },
+    {
+      "text": "Composting leaves separately creates leaf mold, which is primarily a soil conditioner rather than a fertilizer.",
+      "source": "https://en.wikipedia.org/wiki/Composting_leaves_separately_creates_leaf_mold%2C_which"
+    },
+    {
+      "text": "Victory gardens during World War II produced an estimated 40% of the fresh vegetables consumed in the United States.",
+      "source": "https://en.wikipedia.org/wiki/World_War_II"
+    },
+    {
+      "text": "A stirrup hoe is one of the most efficient tools for quickly weeding between rows of plants in a vegetable garden.",
+      "source": "https://en.wikipedia.org/wiki/A_stirrup_hoe"
+    },
+    {
+      "text": "Robber flies are predatory insects that catch and eat other flying insects, including many common garden pests.",
+      "source": "https://en.wikipedia.org/wiki/Robber_flies"
+    },
+    {
+      "text": "The Nong Nooch Tropical Garden in Thailand covers 500 acres and features themed gardens representing different countries.",
+      "source": "https://en.wikipedia.org/wiki/Nong_Nooch_Tropical_Garden_in_Thailand_covers_500_acres_and"
+    },
+    {
+      "text": "Chinampas are floating garden beds used by the Aztecs, created by layering vegetation on shallow lake beds.",
+      "source": "https://en.wikipedia.org/wiki/Chinampas"
+    },
+    {
+      "text": "Schefflera (umbrella plant) is a tropical houseplant that can grow into a small indoor tree with glossy, compound leaves.",
+      "source": "https://en.wikipedia.org/wiki/Schefflera_(umbrella_plant)"
+    },
+    {
+      "text": "Parsnips require a long growing season and taste sweetest after being left in the ground through fall frosts.",
+      "source": "https://en.wikipedia.org/wiki/Parsnips_require_a_long_growing_season_and_taste_sweetest_after_being"
+    },
+    {
+      "text": "Yarrow is a drought-tolerant perennial herb whose flowers attract beneficial insects like ladybugs and hoverflies.",
+      "source": "https://en.wikipedia.org/wiki/Yarrow"
+    },
+    {
+      "text": "Heat-loving vegetables like tomatoes, peppers, and eggplant should not be transplanted outdoors until soil temperatures reach at least 60°F.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Azomite is a mineral-rich rock dust that provides over 70 trace minerals and elements to garden soil.",
+      "source": "https://en.wikipedia.org/wiki/Azomite"
+    },
+    {
+      "text": "Anaerobic composting occurs in sealed containers without air and produces compost through a fermentation process.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "A quality pair of gardening gloves protects hands from thorns, blisters, and soil-borne pathogens while working.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Syrphid flies, also called flower flies, look like tiny wasps but are harmless pollinators whose larvae consume aphids.",
+      "source": "https://en.wikipedia.org/wiki/Syrphid_flies%2C_also_called_flower_flies%2C_look_like_tiny_wasps_but"
+    },
+    {
+      "text": "The Claude Monet Foundation maintains Giverny's gardens exactly as the artist designed them, attracting 500,000 visitors annually.",
+      "source": "https://en.wikipedia.org/wiki/Claude_Monet_Foundation"
+    },
+    {
+      "text": "Ruth Stout pioneered the deep mulch gardening method in the 1950s, covering her entire garden with a thick layer of spoiled hay.",
+      "source": "https://en.wikipedia.org/wiki/Ruth_Stout"
+    },
+    {
+      "text": "Pilea peperomioides, the Chinese money plant, became a viral sensation due to its cute, round coin-shaped leaves.",
+      "source": "https://en.wikipedia.org/wiki/Pilea_peperomioides%2C_the_Chinese_money_plant"
+    },
+    {
+      "text": "Rhubarb is a perennial vegetable grown for its tart stalks; its leaves are toxic due to high oxalic acid content.",
+      "source": "https://en.wikipedia.org/wiki/Rhubarb"
+    },
+    {
+      "text": "Chervil is a delicate herb with an anise-like flavor that grows best in partial shade and cool weather.",
+      "source": "https://en.wikipedia.org/wiki/Chervil"
+    },
+    {
+      "text": "A south-facing wall can act as a thermal mass in the garden, absorbing heat during the day and radiating it at night.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Rock dust or glacial rock dust is a slow-release mineral amendment that replenishes trace elements depleted from soil.",
+      "source": "https://en.wikipedia.org/wiki/Rock_dust_or_glacial_rock_dust"
+    },
+    {
+      "text": "The Berkeley hot composting method can produce finished compost in as little as 18 days using frequent turning and precise ratios.",
+      "source": "https://en.wikipedia.org/wiki/Berkeley"
+    },
+    {
+      "text": "A wheel hoe allows gardeners to cultivate and weed between rows quickly while standing, reducing back strain.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Mason bees are solitary, non-aggressive bees that are more efficient pollinators per bee than honeybees.",
+      "source": "https://en.wikipedia.org/wiki/Mason_bees"
+    },
+    {
+      "text": "The Suzhou classical gardens in China are UNESCO World Heritage Sites representing the pinnacle of Chinese garden design.",
+      "source": "https://en.wikipedia.org/wiki/Suzhou_classical_gardens_in_China"
+    },
+    {
+      "text": "Edible landscaping replaces ornamental plants with food-producing ones, combining beauty with practicality.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "String of pearls (Senecio rowleyanus) is a trailing succulent with bead-like leaves that looks stunning in hanging baskets.",
+      "source": "https://en.wikipedia.org/wiki/String_of_pearls_(Senecio_rowleyanus)"
+    },
+    {
+      "text": "Tomatillos are related to tomatoes and need at least two plants for cross-pollination to produce fruit.",
+      "source": "https://en.wikipedia.org/wiki/Tomatillos"
+    },
+    {
+      "text": "Caraway is a biennial herb whose seeds are widely used in European baking and whose roots are also edible.",
+      "source": "https://en.wikipedia.org/wiki/Caraway"
+    },
+    {
+      "text": "The concept of hardiness zones was developed by the Arnold Arboretum of Harvard University in the 1920s.",
+      "source": "https://en.wikipedia.org/wiki/concept_of_hardiness_zones"
+    },
+    {
+      "text": "Soil organic matter should ideally comprise 3% to 5% of garden soil for optimal plant growth and microbial activity.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Static composting bins use passive aeration through ventilation holes, requiring less labor but taking longer to produce compost.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "A mattock combines an axe blade and an adze for breaking up hard soil, cutting roots, and removing rocks from garden beds.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Minute pirate bugs are tiny predators that attack thrips, spider mites, aphids, and insect eggs in the garden.",
+      "source": "https://en.wikipedia.org/wiki/Minute_pirate_bugs"
+    },
+    {
+      "text": "Stourhead in Wiltshire, England, is considered one of the finest examples of an 18th-century English landscape garden.",
+      "source": "https://en.wikipedia.org/wiki/Stourhead_in_Wiltshire%2C_England"
+    },
+    {
+      "text": "Spiral herb gardens plant herbs in a corkscrew shape that creates multiple microclimates for different water and sun needs.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "The parlor palm (Chamaedorea elegans) is one of the few palms that thrives in low indoor light conditions.",
+      "source": "https://en.wikipedia.org/wiki/parlor_palm_(Chamaedorea_elegans)"
+    },
+    {
+      "text": "Turnip greens are more nutritious than the roots themselves and are popular in Southern cuisine.",
+      "source": "https://en.wikipedia.org/wiki/Turnip_greens"
+    },
+    {
+      "text": "Elderberries are easy-to-grow shrubs that produce berries used in syrups, wines, and immune-boosting preparations.",
+      "source": "https://en.wikipedia.org/wiki/Elderberries"
+    },
+    {
+      "text": "A garden journal tracking planting dates, varieties, weather, and yields helps gardeners improve results year after year.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Coir (coconut fiber) is a sustainable alternative to peat moss for seed starting and soil amendment.",
+      "source": "https://en.wikipedia.org/wiki/Coir_(coconut_fiber)"
+    },
+    {
+      "text": "In-vessel composting systems are enclosed and can process large volumes of organic waste rapidly in controlled conditions.",
+      "source": "https://en.wikipedia.org/wiki/In-vessel_composting_systems"
+    },
+    {
+      "text": "A bulb planter makes quick, uniform holes for planting spring and fall bulbs at the proper depth.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Big-eyed bugs are generalist predators that eat aphids, caterpillar eggs, mites, and whiteflies.",
+      "source": "https://en.wikipedia.org/wiki/Big-eyed_bugs"
+    },
+    {
+      "text": "The Rikugien Garden in Tokyo is a classic Edo-period strolling garden featuring seasonal displays of wisteria and autumn foliage.",
+      "source": "https://en.wikipedia.org/wiki/Rikugien_Garden_in_Tokyo"
+    },
+    {
+      "text": "Forest gardening arranges edible plants in layers that mimic a natural forest, from tall canopy trees to ground covers.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Rubber tree plants can grow up to 10 feet indoors and are one of the best indoor trees for beginners.",
+      "source": "https://en.wikipedia.org/wiki/Rubber_tree_plants_can_grow_up_to_10_feet_indoors_and"
+    },
+    {
+      "text": "Celeriac is a knobby root vegetable related to celery that has a nutty, celery-like flavor and stores well through winter.",
+      "source": "https://en.wikipedia.org/wiki/Celeriac"
+    },
+    {
+      "text": "Savory is known as the bean herb in Germany because it pairs perfectly with all types of beans.",
+      "source": "https://en.wikipedia.org/wiki/Savory"
+    },
+    {
+      "text": "The first known vegetable garden in North America was planted by European colonists in Jamestown, Virginia in 1607.",
+      "source": "https://en.wikipedia.org/wiki/first_known_vegetable_garden_in_North_America"
+    },
+    {
+      "text": "Hugelkultur beds can retain enough moisture to eliminate the need for irrigation after the first year.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Adding too much nitrogen fertilizer causes excessive leafy growth at the expense of flowers and fruit production.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Dibbles with depth markings help ensure seeds and bulbs are planted at the correct depth for optimal germination.",
+      "source": "https://en.wikipedia.org/wiki/Dibbles_with_depth_markings_help_ensure_seeds_and_bulbs"
+    },
+    {
+      "text": "Tachinid flies parasitize caterpillars, beetles, and stink bugs, making them valuable biological pest control agents.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Bodnant Garden in Wales is famous for its laburnum arch, a 180-foot tunnel of golden hanging flowers in late spring.",
+      "source": "https://en.wikipedia.org/wiki/Bodnant_Garden_in_Wales"
+    },
+    {
+      "text": "Mandala gardens are circular designs inspired by sacred geometry that promote biodiversity and efficient space use.",
+      "source": "https://en.wikipedia.org/wiki/Mandala_gardens"
+    },
+    {
+      "text": "Hoya plants, known as wax plants, produce fragrant, star-shaped flower clusters and thrive as trailing or climbing houseplants.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Kohlrabi can go from seed to harvest in just 45 to 60 days, making it a great fast-growing cool-season crop.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "The honeybee visits between 50 and 1,000 flowers per foraging trip and is essential for pollinating many food crops.",
+      "source": "https://en.wikipedia.org/wiki/honeybee_visits_between_50_and_1%2C000_flowers_per_foraging_trip_and"
+    },
+    {
+      "text": "Hardening off seedlings by gradually exposing them to outdoor conditions over 7 to 10 days prevents transplant shock.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Vermiculite is a mineral that is heated until it expands, creating a lightweight additive that retains moisture in potting mixes.",
+      "source": "https://en.wikipedia.org/wiki/Vermiculite"
+    },
+    {
+      "text": "A compost sieve or screen separates finished compost from larger, undecomposed materials that need more time.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Rove beetles are active hunters in the garden that eat root maggots, aphids, and other soil-dwelling pests.",
+      "source": "https://en.wikipedia.org/wiki/Rove_beetles"
+    },
+    {
+      "text": "The Isola Bella gardens on Lake Maggiore in Italy feature 10 terraces rising 120 feet above the lake in a baroque style.",
+      "source": "https://en.wikipedia.org/wiki/Isola_Bella"
+    },
+    {
+      "text": "Keyhole gardening originated in Africa as a water-efficient technique for growing vegetables in hot, dry climates.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Sago palms are not true palms but cycads, and are extremely toxic to pets if any part of the plant is ingested.",
+      "source": "https://en.wikipedia.org/wiki/Sago_palms"
+    },
+    {
+      "text": "Salsify is an heirloom root vegetable sometimes called the oyster plant because of its mild oyster-like flavor when cooked.",
+      "source": "https://en.wikipedia.org/wiki/Salsify"
+    },
+    {
+      "text": "Cutting gardens are planted specifically to provide flowers for indoor bouquets without depleting landscape displays.",
+      "source": "https://en.wikipedia.org/wiki/Cutting_gardens"
+    },
+    {
+      "text": "Gertrude Jekyll was a pioneering English garden designer who created over 400 gardens and popularized the herbaceous border.",
+      "source": "https://en.wikipedia.org/wiki/Gertrude_Jekyll"
+    },
+    {
+      "text": "Capability Brown, known as England's greatest gardener, designed over 170 landscape gardens in the 18th century.",
+      "source": "https://en.wikipedia.org/wiki/Capability_Brown"
+    },
+    {
+      "text": "The oldest known cultivated garden in the world may be the garden at Pasargadae in Iran, dating to around 500 BC.",
+      "source": "https://en.wikipedia.org/wiki/Pasargadae_in_Iran"
+    },
+    {
+      "text": "Luther Burbank developed over 800 plant varieties during his career, including the Shasta daisy and the Burbank potato.",
+      "source": "https://en.wikipedia.org/wiki/Luther_Burbank"
+    },
+    {
+      "text": "pH stands for 'potential of hydrogen' and is measured on a scale of 0 to 14, with 7 being neutral.",
+      "source": "https://en.wikipedia.org/wiki/pH_stands_for_%27potential_of_hydrogen%27_and"
+    },
+    {
+      "text": "Most garden vegetables grow best in slightly acidic soil with a pH between 6.0 and 7.0.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Blueberries require very acidic soil with a pH of 4.5 to 5.5, much lower than most garden plants.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Butterflies prefer flat-topped flowers like zinnias, lantana, and coneflowers where they can easily land and feed.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Hummingbirds are attracted to red and tubular flowers like salvia, trumpet vine, and fuchsia.",
+      "source": "https://en.wikipedia.org/wiki/Hummingbirds"
+    },
+    {
+      "text": "The monarch butterfly depends on milkweed plants as the sole food source for its caterpillars.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Native plants typically require less water, fertilizer, and pest control than non-native ornamental species.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Xeriscaping is a landscaping approach that reduces or eliminates the need for supplemental water from irrigation.",
+      "source": "https://en.wikipedia.org/wiki/Xeriscaping"
+    },
+    {
+      "text": "A rain barrel connected to a downspout can collect 1,300 gallons of water from just 1 inch of rain on a 2,000 square foot roof.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Overwatering is the number one killer of houseplants, causing root rot and fungal diseases.",
+      "source": "https://en.wikipedia.org/wiki/Overwatering"
+    },
+    {
+      "text": "The best time to water outdoor plants is early morning, which reduces evaporation and allows foliage to dry before nightfall.",
+      "source": "https://en.wikipedia.org/wiki/best_time_to_water_outdoor_plants"
+    },
+    {
+      "text": "Deep, infrequent watering encourages roots to grow deeper into the soil, making plants more drought-resistant.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Greywater from sinks and showers can be safely used to irrigate ornamental gardens if biodegradable soaps are used.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Lawn grass typically needs about 1 inch of water per week, whether from rainfall or irrigation.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Dethatching removes the layer of dead grass and roots that builds up between the soil surface and living grass blades.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Aerating a lawn by pulling small plugs of soil improves water infiltration, reduces compaction, and promotes healthier grass.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Cool-season grasses like fescue and bluegrass grow best in temperatures of 60°F to 75°F and go dormant in summer heat.",
+      "source": "https://en.wikipedia.org/wiki/F_to_75"
+    },
+    {
+      "text": "Warm-season grasses like Bermuda, zoysia, and St. Augustine thrive in temperatures of 80°F to 95°F.",
+      "source": "https://en.wikipedia.org/wiki/St._Augustine"
+    },
+    {
+      "text": "Mowing at the highest recommended setting for your grass type shades the soil, reduces water loss, and discourages weeds.",
+      "source": "https://en.wikipedia.org/wiki/Mowing_at_the"
+    },
+    {
+      "text": "Clover was once a standard component of lawn seed mixes because it fixes nitrogen and stays green during drought.",
+      "source": "https://en.wikipedia.org/wiki/Clover"
+    },
+    {
+      "text": "Seed starting indoors under grow lights gives gardeners a 6 to 8 week head start on the growing season.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Bottom watering seed trays promotes stronger root growth as roots grow downward toward the water source.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Damping off is a fungal disease that kills seedlings at the soil line, often caused by overwatering and poor air circulation.",
+      "source": "https://en.wikipedia.org/wiki/Damping_off"
+    },
+    {
+      "text": "Stratification is the process of exposing seeds to cold, moist conditions to break dormancy, mimicking a natural winter.",
+      "source": "https://en.wikipedia.org/wiki/Stratification"
+    },
+    {
+      "text": "Scarification involves nicking or sanding hard seed coats to allow water to penetrate and trigger germination.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Some seeds, like lettuce and chamomile, need light to germinate and should be pressed onto the soil surface rather than buried.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Stem cuttings placed in water or moist soil can generate new roots and grow into clones of the parent plant.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Division is the simplest propagation method for perennials, involving splitting an established plant into two or more sections.",
+      "source": "https://en.wikipedia.org/wiki/Division"
+    },
+    {
+      "text": "Layering encourages roots to form on a stem still attached to the parent plant, then severing it once rooted.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Grafting joins the top portion (scion) of one plant to the rootstock of another, combining the best traits of both.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Hardwood cuttings taken from dormant deciduous shrubs in late fall can be rooted in sand over winter.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "The Fibonacci spiral appears frequently in plant growth patterns, including sunflower seed heads and pine cones.",
+      "source": "https://en.wikipedia.org/wiki/Fibonacci"
+    },
+    {
+      "text": "Photosynthesis converts carbon dioxide and water into glucose and oxygen using energy from sunlight in plant leaves.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Plants absorb most of their nutrients through root hairs, tiny extensions of root cells that increase surface area.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Nitrogen promotes leafy green growth, phosphorus supports roots and flowers, and potassium enhances overall plant vigor.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Secondary macronutrients calcium, magnesium, and sulfur are needed in smaller amounts but are still essential for plant health.",
+      "source": "https://en.wikipedia.org/wiki/Secondary_macronutrients_calcium%2C_magnesium%2C_and_sulfur"
+    },
+    {
+      "text": "Iron deficiency in plants causes chlorosis, yellowing between leaf veins while the veins remain green.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Deadheading spent flowers redirects a plant's energy from seed production back into producing more blooms.",
+      "source": "https://en.wikipedia.org/wiki/Deadheading"
+    },
+    {
+      "text": "Pinching the growing tips of herbs like basil encourages bushier growth and prevents premature flowering.",
+      "source": "https://en.wikipedia.org/wiki/Pinching_the"
+    },
+    {
+      "text": "Hardening off transplants involves gradually increasing their exposure to outdoor conditions over 7 to 14 days.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Determinate tomatoes grow to a set size and produce all fruit at once, while indeterminate varieties produce continuously until frost.",
+      "source": "https://en.wikipedia.org/wiki/Determinate_tomatoes_grow_to_a"
+    },
+    {
+      "text": "Heirloom seeds come from open-pollinated varieties that have been passed down for at least 50 years.",
+      "source": "https://en.wikipedia.org/wiki/Heirloom_seeds_come_from_open-pollinated_varieties_that"
+    },
+    {
+      "text": "Hybrid seeds (F1) are the first generation cross between two parent varieties, bred for specific desirable traits.",
+      "source": "https://en.wikipedia.org/wiki/Hybrid_seeds_(F1)"
+    },
+    {
+      "text": "Saving seeds from open-pollinated plants lets gardeners preserve favorite varieties and adapt plants to local conditions over time.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "The world's largest flower, Rafflesia arnoldii, can measure over 3 feet across and smells like rotting flesh to attract pollinators.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Bamboo is the fastest-growing plant in the world, with some species growing up to 35 inches per day.",
+      "source": "https://en.wikipedia.org/wiki/Bamboo"
+    },
+    {
+      "text": "The corpse flower (Amorphophallus titanum) blooms rarely, sometimes waiting 7 to 10 years between flowers that last only 24 to 48 hours.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Japanese maples are prized ornamental trees that come in hundreds of cultivars with varied leaf shapes and colors.",
+      "source": "https://en.wikipedia.org/wiki/Japanese_maples"
+    },
+    {
+      "text": "Crepe myrtles bloom for up to 100 days, earning them the nickname 'the lilac of the South.'",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Boxwood shrubs have been used in formal gardens for over 2,000 years, prized for their dense, shapeable growth.",
+      "source": "https://en.wikipedia.org/wiki/Boxwood_shrubs"
+    },
+    {
+      "text": "Dogwood trees are among the first flowering trees in spring and provide important berries for migrating birds in fall.",
+      "source": "https://en.wikipedia.org/wiki/Dogwood_trees"
+    },
+    {
+      "text": "Fruit trees like apples and pears require a certain number of 'chill hours' below 45°F to produce fruit.",
+      "source": "https://en.wikipedia.org/wiki/F_to"
+    },
+    {
+      "text": "Dwarf fruit tree varieties can produce full-sized fruit in containers or small yards with as little as 6 feet of space.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Espaliered fruit trees trained flat against walls were common in medieval monastery gardens.",
+      "source": "https://en.wikipedia.org/wiki/Espaliered_fruit_trees_trained_flat_against_walls"
+    },
+    {
+      "text": "Grapes have been cultivated for wine, juice, and fresh eating for over 8,000 years.",
+      "source": "https://en.wikipedia.org/wiki/Grapes"
+    },
+    {
+      "text": "The oldest living tree in the world is a bristlecone pine named Methuselah, estimated to be over 4,800 years old.",
+      "source": "https://en.wikipedia.org/wiki/oldest_living_tree_in_the_world"
+    },
+    {
+      "text": "Bonsai is the Japanese art of growing miniature trees in containers, with some specimens over 800 years old.",
+      "source": "https://en.wikipedia.org/wiki/Bonsai"
+    },
+    {
+      "text": "Topiary, the art of shaping plants into ornamental forms, dates back to Roman gardens in the first century AD.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Peonies can live for over 100 years and are often passed down through generations of gardening families.",
+      "source": "https://en.wikipedia.org/wiki/Peonies_can_live_for_over_100_years_and"
+    },
+    {
+      "text": "Gladiolus bulbs should be dug up in fall in cold climates and stored indoors to replant in spring.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Dahlias come in an astonishing range of sizes, from 2-inch pompons to 12-inch dinner plate varieties.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Iris rhizomes should be planted with their tops exposed at the soil surface; burying them too deep prevents blooming.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Wisteria can take 3 to 5 years to bloom after planting and may need root pruning to encourage flowering.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Sweet peas are annual climbing flowers that prefer cool weather and should be planted as early in spring as the soil can be worked.",
+      "source": "https://en.wikipedia.org/wiki/Sweet_peas"
+    },
+    {
+      "text": "Zinnias are one of the easiest annual flowers to grow from seed and attract butterflies with their bright colors.",
+      "source": "https://en.wikipedia.org/wiki/Zinnias"
+    },
+    {
+      "text": "Marigolds release chemicals from their roots that repel root-knot nematodes in the soil.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Cosmos flowers thrive in poor soil and actually produce more blooms when not fertilized.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Morning glories are fast-growing annual vines that can climb 10 to 15 feet and reseed themselves prolifically.",
+      "source": "https://en.wikipedia.org/wiki/Morning_glories"
+    },
+    {
+      "text": "The garden pea was the plant Gregor Mendel used to discover the basic laws of genetics in the 1860s.",
+      "source": "https://en.wikipedia.org/wiki/garden_pea"
+    },
+    {
+      "text": "Thomas Jefferson meticulously documented his gardening experiments at Monticello, growing over 300 vegetable varieties.",
+      "source": "https://en.wikipedia.org/wiki/Thomas_Jefferson"
+    },
+    {
+      "text": "Victory gardens were revived by home gardeners during the COVID-19 pandemic as interest in growing food surged.",
+      "source": "https://en.wikipedia.org/wiki/Victory_gardens"
+    },
+    {
+      "text": "The word 'garden' comes from the Old English 'geard,' meaning an enclosed yard or piece of ground.",
+      "source": "https://en.wikipedia.org/wiki/Old_English"
+    },
+    {
+      "text": "The Wardian case, invented in 1829, was a sealed glass container that allowed plants to be transported on long sea voyages.",
+      "source": "https://en.wikipedia.org/wiki/Wardian_case"
+    },
+    {
+      "text": "The Dust Bowl of the 1930s demonstrated the devastating consequences of poor soil management and led to modern soil conservation practices.",
+      "source": "https://en.wikipedia.org/wiki/Dust_Bowl_of_the"
+    },
+    {
+      "text": "Community gardens provide shared growing space and have been shown to improve nutrition, mental health, and neighborhood connections.",
+      "source": "https://en.wikipedia.org/wiki/Community_gardens_provide_shared_growing_space_and"
+    },
+    {
+      "text": "School gardens are increasingly used as outdoor classrooms to teach children about science, nutrition, and environmental stewardship.",
+      "source": "https://en.wikipedia.org/wiki/School_gardens"
+    },
+    {
+      "text": "Guerrilla gardening is the practice of cultivating plants on neglected or abandoned land without formal permission.",
+      "source": "https://en.wikipedia.org/wiki/Guerrilla_gardening"
+    },
+    {
+      "text": "The Slow Food movement, founded in Italy in 1986, promotes local food gardens and traditional agricultural practices.",
+      "source": "https://en.wikipedia.org/wiki/Slow_Food_movement"
+    },
+    {
+      "text": "Rooftop gardens in cities reduce the urban heat island effect, manage stormwater, and provide habitat for pollinators.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Green walls or living walls use vertical panels of plants to improve air quality and aesthetics on building facades.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "The average American lawn uses about 10,000 gallons of water per year beyond what rainfall provides.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Replacing traditional lawn with native groundcovers, moss, or clover reduces water, fertilizer, and mowing needs.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Moon gardening follows lunar phases, with planting above-ground crops during waxing moons and root crops during waning moons.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Succession sowing radishes every two weeks ensures a continuous supply of this quick-growing root vegetable.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Winter sowing involves planting seeds in mini greenhouses made from recycled containers and leaving them outdoors to germinate naturally.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Garden row covers made of spun polyester protect crops from frost and can extend the season by 4 to 6 weeks.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Cold frames are simple unheated structures with transparent tops that capture solar warmth to grow plants in cool weather.",
+      "source": "https://en.wikipedia.org/wiki/Cold_frames"
+    },
+    {
+      "text": "Hot beds are cold frames heated from below by decomposing manure, used since the 17th century to start plants early.",
+      "source": "https://en.wikipedia.org/wiki/Hot_beds"
+    },
+    {
+      "text": "Season extension techniques can allow gardeners in northern climates to harvest fresh greens even in December and January.",
+      "source": "https://en.wikipedia.org/wiki/December_and_January"
+    },
+    {
+      "text": "Garlic scapes, the curly flower stalks of hardneck garlic, are a delicious culinary byproduct harvested in early summer.",
+      "source": "https://en.wikipedia.org/wiki/Garlic_scapes%2C_the_curly_flower_stalks_of_hardneck_garlic"
+    },
+    {
+      "text": "Edible flowers like nasturtiums, pansies, and violets add color and flavor to salads and desserts.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Microgreens are nutrient-dense seedlings harvested 7 to 14 days after germination and can be grown indoors year-round.",
+      "source": "https://en.wikipedia.org/wiki/Microgreens"
+    },
+    {
+      "text": "Sprouting seeds in jars requires no soil or light and produces nutritious sprouts in just 3 to 5 days.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    },
+    {
+      "text": "Growing your own food can save hundreds of dollars per year and ensures access to the freshest produce possible.",
+      "source": "https://en.wikipedia.org/wiki/Gardening"
+    }
+  ]
+}

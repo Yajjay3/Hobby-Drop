@@ -1,0 +1,1666 @@
+{
+  "hobby": "Music Theory",
+  "facts": [
+    {
+      "text": "A major scale follows the pattern of whole and half steps: W-W-H-W-W-W-H.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "The natural minor scale follows the pattern W-H-W-W-H-W-W.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "A chromatic scale contains all twelve pitches within an octave, each a half step apart.",
+      "source": "https://en.wikipedia.org/wiki/A_chromatic_scale"
+    },
+    {
+      "text": "The pentatonic scale uses only five notes and is found in music traditions all over the world.",
+      "source": "https://en.wikipedia.org/wiki/pentatonic_scale_uses_only_five_notes_and"
+    },
+    {
+      "text": "The major pentatonic scale removes the 4th and 7th degrees of the major scale.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "The minor pentatonic scale is the basis of most blues and rock guitar solos.",
+      "source": "https://en.wikipedia.org/wiki/minor_pentatonic_scale"
+    },
+    {
+      "text": "The blues scale adds a 'blue note' (flat 5th) to the minor pentatonic scale, giving it six notes.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "The whole tone scale has six notes, each separated by a whole step, creating a dreamy, ambiguous sound.",
+      "source": "https://en.wikipedia.org/wiki/whole_tone_scale"
+    },
+    {
+      "text": "There are seven modes of the major scale: Ionian, Dorian, Phrygian, Lydian, Mixolydian, Aeolian, and Locrian.",
+      "source": "https://en.wikipedia.org/wiki/There"
+    },
+    {
+      "text": "The Dorian mode is a minor scale with a raised 6th degree, commonly used in jazz and funk.",
+      "source": "https://en.wikipedia.org/wiki/Dorian_mode"
+    },
+    {
+      "text": "The Mixolydian mode is a major scale with a lowered 7th, widely used in rock, blues, and folk.",
+      "source": "https://en.wikipedia.org/wiki/Mixolydian_mode"
+    },
+    {
+      "text": "The Phrygian mode has a distinctive flamenco-like sound due to its lowered 2nd degree.",
+      "source": "https://en.wikipedia.org/wiki/Phrygian_mode"
+    },
+    {
+      "text": "The Lydian mode raises the 4th degree of the major scale, giving it a bright, floating quality.",
+      "source": "https://en.wikipedia.org/wiki/Lydian"
+    },
+    {
+      "text": "The Locrian mode is the only mode with a diminished tonic triad, making it the least stable.",
+      "source": "https://en.wikipedia.org/wiki/Locrian_mode"
+    },
+    {
+      "text": "The Aeolian mode is identical to the natural minor scale.",
+      "source": "https://en.wikipedia.org/wiki/Aeolian_mode"
+    },
+    {
+      "text": "The harmonic minor scale raises the 7th degree of the natural minor, creating a leading tone.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "The melodic minor scale raises both the 6th and 7th degrees when ascending in classical practice.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "In jazz, the melodic minor scale is played the same way ascending and descending.",
+      "source": "https://en.wikipedia.org/wiki/In_jazz%2C_the_melodic_minor_scale"
+    },
+    {
+      "text": "A triad is a three-note chord built by stacking two thirds.",
+      "source": "https://en.wikipedia.org/wiki/A_triad"
+    },
+    {
+      "text": "The four types of triads are major, minor, augmented, and diminished.",
+      "source": "https://en.wikipedia.org/wiki/four_types_of_triads"
+    },
+    {
+      "text": "A major triad consists of a root, major third, and perfect fifth.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "A minor triad consists of a root, minor third, and perfect fifth.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "An augmented triad has a root, major third, and augmented fifth.",
+      "source": "https://en.wikipedia.org/wiki/An_augmented_triad"
+    },
+    {
+      "text": "A diminished triad has a root, minor third, and diminished fifth.",
+      "source": "https://en.wikipedia.org/wiki/A_diminished_triad"
+    },
+    {
+      "text": "A dominant 7th chord adds a minor 7th interval on top of a major triad.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "A major 7th chord adds a major 7th interval on top of a major triad, common in jazz and R&B.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "A minor 7th chord adds a minor 7th to a minor triad.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "A half-diminished 7th chord is a diminished triad with a minor 7th, also called minor 7 flat 5.",
+      "source": "https://en.wikipedia.org/wiki/A_half-diminished_7th_chord"
+    },
+    {
+      "text": "Extended chords like 9ths, 11ths, and 13ths add color beyond basic 7th chords.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "A dominant 9th chord adds the 9th to a dominant 7th chord.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "An 11th chord includes the root, 3rd, 5th, 7th, 9th, and 11th, though some notes are often omitted.",
+      "source": "https://en.wikipedia.org/wiki/An_11th_chord"
+    },
+    {
+      "text": "A 13th chord theoretically contains all seven notes of the scale stacked in thirds.",
+      "source": "https://en.wikipedia.org/wiki/A_13th_chord_theoretically"
+    },
+    {
+      "text": "In practice, 13th chords omit certain notes — commonly the 11th and sometimes the 5th.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "A suspended chord replaces the 3rd with either a 2nd (sus2) or 4th (sus4).",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "Sus chords create tension that wants to resolve back to a major or minor chord.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "Power chords contain only the root and fifth, making them neither major nor minor.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "An interval is the distance in pitch between two notes.",
+      "source": "https://en.wikipedia.org/wiki/An_interval"
+    },
+    {
+      "text": "A half step (semitone) is the smallest interval in Western music.",
+      "source": "https://en.wikipedia.org/wiki/A_half_step_(semitone)"
+    },
+    {
+      "text": "A whole step equals two half steps, such as from C to D.",
+      "source": "https://en.wikipedia.org/wiki/C_to_D"
+    },
+    {
+      "text": "A perfect fifth spans seven half steps and is one of the most consonant intervals.",
+      "source": "https://en.wikipedia.org/wiki/A_perfect_fifth_spans_seven_half_steps_and"
+    },
+    {
+      "text": "An octave is the interval between one pitch and the next pitch with double or half its frequency.",
+      "source": "https://en.wikipedia.org/wiki/An_octave"
+    },
+    {
+      "text": "A major third spans four half steps, while a minor third spans three.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "Intervals can be melodic (notes in sequence) or harmonic (notes played simultaneously).",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "Inverting an interval means moving the lower note up an octave; a 5th inverts to a 4th.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "Compound intervals are larger than an octave, like a 9th (octave plus a 2nd).",
+      "source": "https://en.wikipedia.org/wiki/Compound_intervals"
+    },
+    {
+      "text": "The perfect intervals are the unison, fourth, fifth, and octave.",
+      "source": "https://en.wikipedia.org/wiki/perfect_intervals"
+    },
+    {
+      "text": "A key signature tells the performer which notes are sharp or flat throughout a piece.",
+      "source": "https://en.wikipedia.org/wiki/A_key_signature_tells_the_performer_which_notes"
+    },
+    {
+      "text": "The key of C major has no sharps or flats.",
+      "source": "https://en.wikipedia.org/wiki/key_of_C_major"
+    },
+    {
+      "text": "Sharp key signatures add sharps in this order: F, C, G, D, A, E, B.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "Flat key signatures add flats in this order: B, E, A, D, G, C, F — the reverse of sharps.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "Every major key has a relative minor that shares the same key signature.",
+      "source": "https://en.wikipedia.org/wiki/Every_major_key"
+    },
+    {
+      "text": "The relative minor is found a minor third below the major key's tonic.",
+      "source": "https://en.wikipedia.org/wiki/relative_minor"
+    },
+    {
+      "text": "Enharmonic keys sound identical but are spelled differently, like F# major and Gb major.",
+      "source": "https://en.wikipedia.org/wiki/Enharmonic_keys_sound_identical_but"
+    },
+    {
+      "text": "4/4 time is the most common time signature in Western music, also called 'common time.'",
+      "source": "https://en.wikipedia.org/wiki/4%2F4_time"
+    },
+    {
+      "text": "3/4 time is the time signature of waltzes, giving a strong ONE-two-three feel.",
+      "source": "https://en.wikipedia.org/wiki/3%2F4_time"
+    },
+    {
+      "text": "6/8 time is a compound meter that groups beats in two sets of three eighth notes.",
+      "source": "https://en.wikipedia.org/wiki/6%2F8_time"
+    },
+    {
+      "text": "Cut time (2/2) is often used in marches and fast orchestral pieces.",
+      "source": "https://en.wikipedia.org/wiki/Cut_time_(2%2F2)"
+    },
+    {
+      "text": "7/8 time is common in Balkan folk music and progressive rock.",
+      "source": "https://en.wikipedia.org/wiki/7%2F8_time"
+    },
+    {
+      "text": "Simple meters divide beats into two equal parts; compound meters divide beats into three.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "Syncopation places emphasis on normally weak beats or off-beats, creating rhythmic surprise.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "A polyrhythm occurs when two or more conflicting rhythmic patterns are played simultaneously.",
+      "source": "https://en.wikipedia.org/wiki/A_polyrhythm_occurs_when_two_or_more_conflicting_rhythmic_patterns"
+    },
+    {
+      "text": "The 3-against-2 polyrhythm is one of the most common, found in African drumming and jazz.",
+      "source": "https://en.wikipedia.org/wiki/3-against-2_polyrhythm"
+    },
+    {
+      "text": "Swing rhythm lengthens the first of each pair of eighth notes, giving jazz its characteristic groove.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "A hemiola is a rhythmic device where two bars of triple meter sound like three bars of duple.",
+      "source": "https://en.wikipedia.org/wiki/A_hemiola"
+    },
+    {
+      "text": "A dotted note extends its duration by half its original value.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "A tie connects two notes of the same pitch, combining them into a single sustained note.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "Harmony is the simultaneous combination of notes to produce chords and chord progressions.",
+      "source": "https://en.wikipedia.org/wiki/Harmony"
+    },
+    {
+      "text": "Consonant harmonies sound stable; dissonant harmonies create tension that seeks resolution.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "Tertian harmony is built from stacking thirds and is the basis of most Western music.",
+      "source": "https://en.wikipedia.org/wiki/Tertian_harmony"
+    },
+    {
+      "text": "Quartal harmony stacks fourths instead of thirds, creating an open, modern sound used in jazz.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "Voice leading is the art of smoothly connecting one chord to the next, minimizing large jumps.",
+      "source": "https://en.wikipedia.org/wiki/Voice_leading"
+    },
+    {
+      "text": "In four-part harmony, the four voices are soprano, alto, tenor, and bass.",
+      "source": "https://en.wikipedia.org/wiki/In_four-part_harmony%2C_the_four_voices"
+    },
+    {
+      "text": "Chord inversions rearrange the notes so the root is not the lowest note.",
+      "source": "https://en.wikipedia.org/wiki/Chord_inversions_rearrange_the_notes_so_the_root"
+    },
+    {
+      "text": "A first inversion chord has the third as the lowest note; second inversion has the fifth.",
+      "source": "https://en.wikipedia.org/wiki/A_first_inversion_chord"
+    },
+    {
+      "text": "Roman numeral analysis labels chords by their scale degree: I, ii, iii, IV, V, vi, vii°.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "Upper-case Roman numerals indicate major chords; lower-case indicate minor chords.",
+      "source": "https://en.wikipedia.org/wiki/Upper-case_Roman"
+    },
+    {
+      "text": "A melody is a sequence of single notes perceived as a unified musical idea.",
+      "source": "https://en.wikipedia.org/wiki/A_melody"
+    },
+    {
+      "text": "Melodies typically move by step (conjunct motion) with occasional leaps (disjunct motion).",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "Antecedent and consequent phrases form a 'question and answer' structure in melody.",
+      "source": "https://en.wikipedia.org/wiki/Antecedent_and"
+    },
+    {
+      "text": "A sequence is a melodic pattern repeated at a higher or lower pitch level.",
+      "source": "https://en.wikipedia.org/wiki/A_sequence"
+    },
+    {
+      "text": "Motifs are short melodic fragments that serve as building blocks for larger compositions.",
+      "source": "https://en.wikipedia.org/wiki/Motifs"
+    },
+    {
+      "text": "Contour describes the overall shape of a melody — whether it rises, falls, or stays level.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "Counterpoint is the art of combining two or more independent melodic lines simultaneously.",
+      "source": "https://en.wikipedia.org/wiki/Counterpoint"
+    },
+    {
+      "text": "Species counterpoint is a teaching method that introduces contrapuntal rules in five stages.",
+      "source": "https://en.wikipedia.org/wiki/Species_counterpoint"
+    },
+    {
+      "text": "A canon is a contrapuntal form where a melody is imitated by one or more voices at fixed intervals.",
+      "source": "https://en.wikipedia.org/wiki/A_canon"
+    },
+    {
+      "text": "A fugue is a complex contrapuntal composition built on a subject introduced across multiple voices.",
+      "source": "https://en.wikipedia.org/wiki/A_fugue"
+    },
+    {
+      "text": "Contrary motion occurs when two voices move in opposite directions.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "Parallel fifths and octaves are generally avoided in classical counterpoint and harmony.",
+      "source": "https://en.wikipedia.org/wiki/Parallel_fifths_and_octaves"
+    },
+    {
+      "text": "Verse-chorus form is the dominant structure in pop and rock music.",
+      "source": "https://en.wikipedia.org/wiki/Verse-chorus_form"
+    },
+    {
+      "text": "The 12-bar blues is a chord progression using I, IV, and V chords over 12 measures.",
+      "source": "https://en.wikipedia.org/wiki/12-bar_blues"
+    },
+    {
+      "text": "Sonata form has three main sections: exposition, development, and recapitulation.",
+      "source": "https://en.wikipedia.org/wiki/Sonata_form"
+    },
+    {
+      "text": "Rondo form features a recurring main theme alternating with contrasting episodes (ABACA).",
+      "source": "https://en.wikipedia.org/wiki/Rondo_form"
+    },
+    {
+      "text": "Binary form (AB) has two contrasting sections and was common in Baroque dance suites.",
+      "source": "https://en.wikipedia.org/wiki/Binary_form_(AB)"
+    },
+    {
+      "text": "Ternary form (ABA) presents a theme, a contrasting section, and a return of the original theme.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "Through-composed form has no repeating sections — each part uses new music.",
+      "source": "https://en.wikipedia.org/wiki/Through-composed_form"
+    },
+    {
+      "text": "Strophic form repeats the same music for each verse, like in many hymns and folk songs.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "A coda is a concluding passage added to the end of a piece to bring it to a satisfying close.",
+      "source": "https://en.wikipedia.org/wiki/A_coda"
+    },
+    {
+      "text": "AABA form (32-bar form) was standard for Tin Pan Alley songs and early jazz standards.",
+      "source": "https://en.wikipedia.org/wiki/AABA_form_(32-bar_form)"
+    },
+    {
+      "text": "Theme and variations form presents a melody and then alters it in successive sections.",
+      "source": "https://en.wikipedia.org/wiki/Theme_and"
+    },
+    {
+      "text": "The treble clef is also called the G clef because it wraps around the line representing G.",
+      "source": "https://en.wikipedia.org/wiki/treble_clef"
+    },
+    {
+      "text": "The bass clef is also known as the F clef because its two dots surround the line for F.",
+      "source": "https://en.wikipedia.org/wiki/bass_clef"
+    },
+    {
+      "text": "The alto clef (C clef) is primarily used by violas and centers middle C on the third line.",
+      "source": "https://en.wikipedia.org/wiki/alto_clef_(C_clef)"
+    },
+    {
+      "text": "The sharp symbol raises a note by one half step; the flat symbol lowers it by one half step.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "A natural sign cancels a preceding sharp or flat within a measure.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "Ledger lines extend the staff to notate pitches above or below the five standard lines.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "Equal temperament divides the octave into 12 equal half steps so every key sounds equally in tune.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "Just intonation tunes intervals to simple whole-number frequency ratios, like 3:2 for a perfect fifth.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "Pythagorean tuning is based entirely on stacking perfect fifths (3:2 ratio).",
+      "source": "https://en.wikipedia.org/wiki/Pythagorean_tuning"
+    },
+    {
+      "text": "Meantone temperament was popular during the Renaissance, producing sweeter thirds at the expense of some fifths.",
+      "source": "https://en.wikipedia.org/wiki/Meantone_temperament"
+    },
+    {
+      "text": "A440 means the A above middle C vibrates at 440 Hz — the modern standard tuning pitch.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "Ear training is the practice of learning to identify pitches, intervals, chords, and rhythms by ear.",
+      "source": "https://en.wikipedia.org/wiki/Ear_training"
+    },
+    {
+      "text": "Relative pitch is the ability to identify intervals and notes in relation to a reference pitch.",
+      "source": "https://en.wikipedia.org/wiki/Relative_pitch"
+    },
+    {
+      "text": "Solfège (do, re, mi, fa, sol, la, ti) is widely used for ear training and sight-singing.",
+      "source": "https://en.wikipedia.org/wiki/Solf%C3%A8ge_(do%2C_re%2C_mi%2C_fa%2C_sol%2C_la%2C_ti)"
+    },
+    {
+      "text": "Fixed-do solfège always assigns 'do' to C; movable-do assigns 'do' to the tonic of any key.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "Transposition means moving a piece of music up or down in pitch by a consistent interval.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "When transposing for a Bb instrument, you write music a whole step higher than concert pitch.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "Modulation is the process of changing from one key to another within a piece.",
+      "source": "https://en.wikipedia.org/wiki/Modulation"
+    },
+    {
+      "text": "A pivot chord modulation uses a chord common to both keys to smoothly transition.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "Direct modulation changes key without any transitional chords.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "Modulating to a closely related key sounds smooth; modulating to a distant key is dramatic.",
+      "source": "https://en.wikipedia.org/wiki/Modulating_to_a_closely_related_key_sounds_smooth%3B_modulating_to_a_distant_key"
+    },
+    {
+      "text": "A cadence is a harmonic formula that ends a phrase, section, or piece of music.",
+      "source": "https://en.wikipedia.org/wiki/A_cadence"
+    },
+    {
+      "text": "An authentic cadence (V-I) is the strongest and most final-sounding cadence.",
+      "source": "https://en.wikipedia.org/wiki/An_authentic_cadence_(V-I)"
+    },
+    {
+      "text": "A perfect authentic cadence has both chords in root position with the tonic in the soprano.",
+      "source": "https://en.wikipedia.org/wiki/A_perfect_authentic_cadence"
+    },
+    {
+      "text": "A half cadence ends on the V chord and sounds incomplete, like a musical comma.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "A deceptive cadence replaces the expected I chord with vi, surprising the listener.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "The circle of fifths is a diagram showing the relationships among all 12 chromatic pitches.",
+      "source": "https://en.wikipedia.org/wiki/circle_of_fifths"
+    },
+    {
+      "text": "Moving clockwise around the circle of fifths, each key adds one sharp.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "Moving counterclockwise, each key adds one flat.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "Dynamics in music range from pianissimo (very soft) to fortissimo (very loud).",
+      "source": "https://en.wikipedia.org/wiki/Dynamics_in"
+    },
+    {
+      "text": "Crescendo means gradually getting louder; diminuendo means gradually getting softer.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "Sforzando (sfz) indicates a sudden, strong accent on a single note or chord.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "Mezzo-forte (mf) means moderately loud and is roughly the default dynamic level.",
+      "source": "https://en.wikipedia.org/wiki/Mezzo-forte_(mf)_means_moderately_loud_and"
+    },
+    {
+      "text": "Tempo is the speed at which music is performed, measured in beats per minute (BPM).",
+      "source": "https://en.wikipedia.org/wiki/Tempo"
+    },
+    {
+      "text": "Allegro indicates a fast, lively tempo, usually around 120-156 BPM.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "Adagio means a slow, relaxed tempo, typically around 66-76 BPM.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "Presto is a very fast tempo, around 168-200 BPM.",
+      "source": "https://en.wikipedia.org/wiki/Presto"
+    },
+    {
+      "text": "Rubato is the practice of slightly speeding up and slowing down for expressive effect.",
+      "source": "https://en.wikipedia.org/wiki/Rubato"
+    },
+    {
+      "text": "Accelerando means gradually increasing the tempo; ritardando means gradually slowing down.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "Staccato means notes are played short and detached, indicated by a dot above or below the note.",
+      "source": "https://en.wikipedia.org/wiki/Staccato_means_notes"
+    },
+    {
+      "text": "Legato means notes are played smoothly and connected, often indicated by a slur.",
+      "source": "https://en.wikipedia.org/wiki/Legato_means_notes"
+    },
+    {
+      "text": "Tenuto means to hold a note for its full value, sometimes with slight emphasis.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "A fermata tells the performer to hold a note longer than its written value.",
+      "source": "https://en.wikipedia.org/wiki/A_fermata"
+    },
+    {
+      "text": "A trill rapidly alternates between a note and the note above it.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "A glissando is a slide between two notes, passing through all pitches in between.",
+      "source": "https://en.wikipedia.org/wiki/A_glissando"
+    },
+    {
+      "text": "Pizzicato instructs a string player to pluck the strings instead of bowing.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "Orchestration is the art of assigning musical parts to different instruments.",
+      "source": "https://en.wikipedia.org/wiki/Orchestration"
+    },
+    {
+      "text": "Doubling means giving the same melody to two or more instruments, thickening the sound.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "Brass instruments can produce powerful, projecting tones suitable for climactic passages.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "Woodwinds offer a wide variety of timbres, from the warmth of a clarinet to the brightness of a flute.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "Most pop songs use only three to four chords from the same key.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "Blues music is typically based on dominant 7th chords, which give it its characteristic sound.",
+      "source": "https://en.wikipedia.org/wiki/Blues_music"
+    },
+    {
+      "text": "The ii-V-I progression is the most fundamental chord movement in jazz harmony.",
+      "source": "https://en.wikipedia.org/wiki/ii-V-I_progression"
+    },
+    {
+      "text": "Jazz musicians often add extensions (9ths, 11ths, 13ths) and alterations to basic chords.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "Modal interchange (borrowed chords) uses chords from a parallel key to add color.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "The overtone series is a naturally occurring sequence of frequencies above any fundamental pitch.",
+      "source": "https://en.wikipedia.org/wiki/overtone_series"
+    },
+    {
+      "text": "The first overtone of any note is exactly one octave higher.",
+      "source": "https://en.wikipedia.org/wiki/first_overtone_of_any_note"
+    },
+    {
+      "text": "A chord progression establishes tonality by creating tension and resolution.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "The V chord (dominant) creates the strongest pull toward the tonic.",
+      "source": "https://en.wikipedia.org/wiki/V"
+    },
+    {
+      "text": "Secondary dominants temporarily tonicize a non-tonic chord.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "A pedal point is a sustained bass note over which harmonies change above it.",
+      "source": "https://en.wikipedia.org/wiki/A_pedal_point"
+    },
+    {
+      "text": "An ostinato is a repeating musical pattern that persists throughout a passage.",
+      "source": "https://en.wikipedia.org/wiki/An_ostinato"
+    },
+    {
+      "text": "A passing tone is a non-chord tone that moves stepwise between two chord tones.",
+      "source": "https://en.wikipedia.org/wiki/A_passing_tone"
+    },
+    {
+      "text": "A neighbor tone moves one step away from a chord tone and returns.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "An appoggiatura is approached by leap and resolved by step, creating expressive dissonance.",
+      "source": "https://en.wikipedia.org/wiki/An_appoggiatura"
+    },
+    {
+      "text": "A suspension holds a note from a previous chord into the next, then resolves downward.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "Figured bass was a Baroque-era notation system using numbers below bass notes to indicate chords.",
+      "source": "https://en.wikipedia.org/wiki/Figured_bass"
+    },
+    {
+      "text": "An anacrusis (pickup) is one or more notes before the first full measure of music.",
+      "source": "https://en.wikipedia.org/wiki/An_anacrusis_(pickup)"
+    },
+    {
+      "text": "The Neapolitan chord is a major triad built on the lowered second degree, usually in first inversion.",
+      "source": "https://en.wikipedia.org/wiki/Neapolitan_chord"
+    },
+    {
+      "text": "Augmented sixth chords (Italian, French, German) are chromatic chords that resolve to the dominant.",
+      "source": "https://en.wikipedia.org/wiki/Augmented_sixth_chords_(Italian%2C_French%2C_German)"
+    },
+    {
+      "text": "Chromaticism introduces notes outside the prevailing key for color or modulation.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "Atonality is music that lacks a tonal center, pioneered by Schoenberg.",
+      "source": "https://en.wikipedia.org/wiki/Atonality"
+    },
+    {
+      "text": "Serialism extends the twelve-tone method to organize rhythm, dynamics, and other elements.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "Polytonality uses two or more keys simultaneously.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "A tone row in twelve-tone music arranges all 12 chromatic notes in a specific order.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "A tone row can be used in four forms: original, retrograde, inversion, and retrograde inversion.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "Minimalism uses repetitive patterns with gradual changes, as in works by Steve Reich and Philip Glass.",
+      "source": "https://en.wikipedia.org/wiki/Steve_Reich_and_Philip_Glass"
+    },
+    {
+      "text": "Phase shifting has two identical patterns gradually going out of sync.",
+      "source": "https://en.wikipedia.org/wiki/Phase_shifting"
+    },
+    {
+      "text": "The harmonic rhythm of a piece refers to how frequently its chords change.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "Slow harmonic rhythm (chords changing every few bars) is common in rock and folk.",
+      "source": "https://en.wikipedia.org/wiki/Slow_harmonic_rhythm_(chords_changing_every_few_bars)"
+    },
+    {
+      "text": "Fast harmonic rhythm (chords changing every beat) is common in bebop jazz.",
+      "source": "https://en.wikipedia.org/wiki/Fast_harmonic_rhythm_(chords_changing_every_beat)"
+    },
+    {
+      "text": "The tonic (first degree) is the 'home base' of a key, providing rest and stability.",
+      "source": "https://en.wikipedia.org/wiki/tonic_(first_degree)"
+    },
+    {
+      "text": "The dominant (fifth degree) creates the strongest pull toward the tonic.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "The leading tone is one half step below the tonic, pulling strongly upward.",
+      "source": "https://en.wikipedia.org/wiki/leading_tone"
+    },
+    {
+      "text": "The supertonic (second degree) often serves a predominant function as part of a ii chord.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "A ground bass is a repeating bass line over which upper parts are freely varied.",
+      "source": "https://en.wikipedia.org/wiki/A_ground_bass"
+    },
+    {
+      "text": "Chord voicing refers to how the notes of a chord are distributed across registers.",
+      "source": "https://en.wikipedia.org/wiki/Chord_voicing_refers_to_how_the_notes_of_a_chord"
+    },
+    {
+      "text": "Close voicing keeps chord notes within one octave; open voicing spreads them wider.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "Drop-2 voicings move the second-highest note down an octave and are common on guitar.",
+      "source": "https://en.wikipedia.org/wiki/Drop-2_voicings_move_the_second-highest_note_down_an_octave_and"
+    },
+    {
+      "text": "Rootless voicings omit the root, relying on the bass to provide it, common in jazz piano.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "The bebop dominant scale adds a natural 7th to the Mixolydian scale.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "The altered scale (7th mode of melodic minor) is used over altered dominant chords in jazz.",
+      "source": "https://en.wikipedia.org/wiki/altered_scale_(7th_mode_of_melodic_minor)"
+    },
+    {
+      "text": "A vamp is a repeating chord progression or riff, often used as an intro or outro.",
+      "source": "https://en.wikipedia.org/wiki/A_vamp"
+    },
+    {
+      "text": "Call and response is a structure where a phrase by one part is answered by another.",
+      "source": "https://en.wikipedia.org/wiki/Call_and_response"
+    },
+    {
+      "text": "A grace note is a small, quick ornamental note played just before a main note.",
+      "source": "https://en.wikipedia.org/wiki/A_grace_note"
+    },
+    {
+      "text": "A mordent rapidly alternates a note with the note directly above or below it.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "A cadenza is a virtuoso passage near the end of a concerto movement.",
+      "source": "https://en.wikipedia.org/wiki/A_cadenza"
+    },
+    {
+      "text": "A reharmonization replaces the original chords of a melody with different chords.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "Phrase rhythm studies how melodic phrases interact with the underlying meter.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "Hypermeter groups measures into larger metric units, like four-bar phrases as a single unit.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "Metric modulation changes tempo by redefining which note value gets the beat.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "Additive rhythm builds patterns by combining groups of 2s and 3s.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "Graphic notation uses visual symbols rather than traditional notes.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "Tablature indicates fingering positions rather than pitches, common for guitar.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "The concept of consonance and dissonance has shifted greatly through music history.",
+      "source": "https://en.wikipedia.org/wiki/concept_of_consonance_and_dissonance"
+    },
+    {
+      "text": "A drone is a sustained bass note or chord held throughout a passage.",
+      "source": "https://en.wikipedia.org/wiki/A_drone"
+    },
+    {
+      "text": "Chord substitution replaces a chord with a harmonically related one for variety.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "A passing chord is inserted between two chords for smooth voice leading.",
+      "source": "https://en.wikipedia.org/wiki/A_passing_chord"
+    },
+    {
+      "text": "Chromatic mediants are chords a third apart that share one note, creating colorful shifts.",
+      "source": "https://en.wikipedia.org/wiki/Chromatic_mediants"
+    },
+    {
+      "text": "Cross-rhythm occurs when the rhythmic pattern of one part conflicts with another.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "Polymeters occur when two different time signatures are played simultaneously.",
+      "source": "https://en.wikipedia.org/wiki/Polymeters_occur_when_two_different_time_signatures"
+    },
+    {
+      "text": "Cents measure intervals — there are 100 cents per half step and 1200 per octave.",
+      "source": "https://en.wikipedia.org/wiki/Cents_measure_intervals_%E2%80%94_there"
+    },
+    {
+      "text": "Just intonation produces purer thirds than equal temperament, but limits key changes.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "The great staff (grand staff) combines treble and bass clefs for piano notation.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "Middle C sits on a ledger line between the treble and bass staves.",
+      "source": "https://en.wikipedia.org/wiki/Middle_C"
+    },
+    {
+      "text": "Enharmonic equivalence means two notes sound the same but are spelled differently (C# and Db).",
+      "source": "https://en.wikipedia.org/wiki/Enharmonic_equivalence_means_two_notes_sound_the_same_but"
+    },
+    {
+      "text": "The French horn is in F — its written C sounds as concert F.",
+      "source": "https://en.wikipedia.org/wiki/French_horn"
+    },
+    {
+      "text": "An augmented interval is one half step wider than a perfect or major interval.",
+      "source": "https://en.wikipedia.org/wiki/An_augmented_interval"
+    },
+    {
+      "text": "A diminished interval is one half step narrower than a perfect or minor interval.",
+      "source": "https://en.wikipedia.org/wiki/A_diminished_interval"
+    },
+    {
+      "text": "An added-tone chord includes a note outside the normal tertian stack, like Cadd9.",
+      "source": "https://en.wikipedia.org/wiki/An_added-tone_chord"
+    },
+    {
+      "text": "Slash chords indicate a bass note different from the root, like C/E.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "Arpeggiation plays the notes of a chord one at a time rather than simultaneously.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "Functional harmony categorizes every chord as tonic, predominant, or dominant.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "Non-functional harmony uses chords for color rather than resolution, common in film scoring.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "Impressionist harmony often uses whole-tone and pentatonic scales to avoid traditional resolution.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "The octatonic (diminished) scale alternates whole and half steps.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "Chord-scale theory matches each chord with a specific scale for improvisation.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "Lead sheets show only the melody and chord symbols, leaving accompaniment to the performer.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "A turnaround is a short progression at the end of a section that leads back to the beginning.",
+      "source": "https://en.wikipedia.org/wiki/A_turnaround"
+    },
+    {
+      "text": "Guide tones (the 3rd and 7th of each chord) most clearly define a chord's quality.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "Sight-reading is performing music at first sight without prior practice.",
+      "source": "https://en.wikipedia.org/wiki/Sight-reading"
+    },
+    {
+      "text": "The Kodály method uses singing-based instruction with hand signs for musical literacy.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "A minor second (one half step) is the most dissonant interval in tonal music.",
+      "source": "https://en.wikipedia.org/wiki/A_minor_second_(one_half_step)"
+    },
+    {
+      "text": "The cadential 6/4 chord resolves to V, creating a strong cadence.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "Part writing rules include avoiding parallel octaves, fifths, and voice crossing.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "A musical phrase typically spans 4 or 8 measures in Western music.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "Phrase extension delays the expected cadence for dramatic effect.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "A pitch class refers to all octave duplications of a single note.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "Figured bass numbers like 6/3 indicate a first inversion triad.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "Da capo (D.C.) means go back to the beginning of the piece.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "Tempo giusto means playing at the speed implied by the music's character.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "Largo means broadly, typically around 40-60 BPM.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "Moderato indicates a moderate speed, typically around 108-120 BPM.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "Vivace means lively and fast, generally between Allegro and Presto.",
+      "source": "https://en.wikipedia.org/wiki/Allegro_and_Presto"
+    },
+    {
+      "text": "Timbre, or tone color, is what makes a violin sound different from a flute on the same note.",
+      "source": "https://en.wikipedia.org/wiki/Timbre%2C_or_tone_color"
+    },
+    {
+      "text": "Attack, decay, sustain, and release (ADSR) describe the amplitude envelope of a sound.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "Invertible counterpoint means two melodic lines can switch positions — either can be on top.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "A stretto in a fugue brings in subject entries earlier than expected, increasing intensity.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "The exposition of a fugue presents the subject in all voices at least once.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "Spectral music analyzes overtone content and uses that data to create harmony.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "Formants are resonant frequencies in the vocal tract that define vowel sounds.",
+      "source": "https://en.wikipedia.org/wiki/Formants"
+    },
+    {
+      "text": "The Ionian mode is identical to the major scale.",
+      "source": "https://en.wikipedia.org/wiki/Ionian_mode"
+    },
+    {
+      "text": "A retardation is like a suspension but resolves upward instead of downward.",
+      "source": "https://en.wikipedia.org/wiki/A_retardation"
+    },
+    {
+      "text": "An escape tone is a non-chord tone approached by step and left by leap.",
+      "source": "https://en.wikipedia.org/wiki/An_escape_tone"
+    },
+    {
+      "text": "Oblique motion occurs when one voice holds a note while the other moves.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "A bridge in popular music provides contrast before the final chorus.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "The I-vi-ii-V turnaround is one of the most common in jazz.",
+      "source": "https://en.wikipedia.org/wiki/I-vi-ii-V_turnaround"
+    },
+    {
+      "text": "Integer notation represents pitch classes as numbers 0-11, where C=0, C#=1, D=2, and so on.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "Tuplets divide a beat into an irregular number of parts, such as triplets dividing one beat into three.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "V/V (five of five) is the most common secondary dominant.",
+      "source": "https://en.wikipedia.org/wiki/V%2FV_(five_of_five)"
+    },
+    {
+      "text": "Common-tone modulation holds one or more shared notes between the old and new keys.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "Fortepiano (fp) means to play a note loudly and immediately drop to soft.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "Tremolo is the rapid repetition of a single note or alternation between two notes.",
+      "source": "https://en.wikipedia.org/wiki/Tremolo"
+    },
+    {
+      "text": "A marcato is a stronger accent than a regular accent, indicated by a caret symbol.",
+      "source": "https://en.wikipedia.org/wiki/A_marcato"
+    },
+    {
+      "text": "Parallel harmony moves all voices in the same direction by the same interval.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "Double sharps and double flats raise or lower notes by a whole step.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "The 'Andalusian cadence' (i-bVII-bVI-V) is a descending progression heard in flamenco and pop.",
+      "source": "https://en.wikipedia.org/wiki/%27Andalusian_cadence%27_(i-bVII-bVI-V)"
+    },
+    {
+      "text": "Upper structure triads place a simple triad over a bass tritone to create altered dominant sounds.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "Slash notation in jazz charts shows rhythm slashes for free comping.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "Playing 'outside' in jazz means using notes that clash with the harmony for tension.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "Approach tones in jazz are chromatic or diatonic notes that lead into a chord tone.",
+      "source": "https://en.wikipedia.org/wiki/Approach_tones_in_jazz"
+    },
+    {
+      "text": "The CAGED system organizes the guitar fretboard into five interlocking chord shapes.",
+      "source": "https://en.wikipedia.org/wiki/CAGED"
+    },
+    {
+      "text": "A tritone substitution replaces a dominant chord with another a tritone away.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "The tritone was historically called 'diabolus in musica' — the devil in music.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/tritone"
+    },
+    {
+      "text": "A diminished 7th chord stacks three minor thirds, dividing the octave into four equal parts.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "Power chords are a staple of punk and rock guitar because of their raw, overdriven sound.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Power_chords"
+    },
+    {
+      "text": "There are 15 major key signatures, but only 12 unique-sounding ones because three pairs are enharmonic.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/There"
+    },
+    {
+      "text": "5/4 time is an odd meter famously used in Dave Brubeck's 'Take Five.'",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/5%2F4_time"
+    },
+    {
+      "text": "Syncopation is a defining feature of jazz, funk, reggae, and Latin music.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Syncopation"
+    },
+    {
+      "text": "The I-IV-V-I progression is the foundation of countless songs in Western music.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/I-IV-V-I_progression"
+    },
+    {
+      "text": "The vi-IV-I-V progression is one of the most popular chord progressions in modern pop.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/vi-IV-I-V_progression"
+    },
+    {
+      "text": "Beethoven's Fifth Symphony is built almost entirely from a four-note motif.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Beethoven%27s_Fifth_Symphony"
+    },
+    {
+      "text": "'Row, Row, Row Your Boat' is a well-known example of a simple canon (a round).",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Row%2C_Row%2C_Row_Your_Boat"
+    },
+    {
+      "text": "Bach's 'Well-Tempered Clavier' contains 48 preludes and fugues, two in every major and minor key.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Bach%27s_%27Well-Tempered_Clavier"
+    },
+    {
+      "text": "The 12-bar blues form is the backbone of blues, early rock and roll, and many jazz standards.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/12-bar_blues_form"
+    },
+    {
+      "text": "Modern Western notation evolved from neumes used in medieval Gregorian chant.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Modern_Western"
+    },
+    {
+      "text": "Guido of Arezzo introduced solmization syllables (ut, re, mi, fa, sol, la) for sight-singing.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Guido_of_Arezzo"
+    },
+    {
+      "text": "Time signatures were not standardized until the 14th century.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Time_signatures"
+    },
+    {
+      "text": "Before equal temperament, some keys sounded more in tune than others, limiting key choices.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "The Pythagorean comma is the small discrepancy because 12 perfect fifths don't equal 7 octaves.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Pythagorean_comma"
+    },
+    {
+      "text": "In the Baroque era, tuning pitch varied widely and could be as low as A=392 Hz.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/In_the_Baroque"
+    },
+    {
+      "text": "Only about 1 in 10,000 people are estimated to have true perfect pitch.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Only_about_1_in_10%2C000_people"
+    },
+    {
+      "text": "The plagal cadence (IV-I) is sometimes called the 'Amen cadence' because of its use in hymns.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/plagal_cadence_(IV-I)"
+    },
+    {
+      "text": "The Picardy third ends a minor-key piece on a major tonic chord.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Picardy"
+    },
+    {
+      "text": "Adjacent keys on the circle of fifths share six of seven notes.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "The instrument called a 'piano' was originally named 'pianoforte' because it could play soft and loud.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/instrument_called_a_%27piano"
+    },
+    {
+      "text": "Beethoven was one of the first major composers to include metronome markings in his scores.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Beethoven"
+    },
+    {
+      "text": "Rimsky-Korsakov's orchestration textbook, published posthumously in 1912, remains widely used.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "Strings are considered the backbone of the orchestra because of their blend and dynamic range.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Strings"
+    },
+    {
+      "text": "Pythagoras is credited with discovering that musical intervals can be expressed as ratios.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Pythagoras"
+    },
+    {
+      "text": "Boethius wrote 'De Institutione Musica' around 500 AD, shaping theory education for centuries.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Boethius"
+    },
+    {
+      "text": "Hugo Riemann developed functional harmony, categorizing chords as tonic, dominant, or subdominant.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Hugo_Riemann"
+    },
+    {
+      "text": "Heinrich Schenker proposed that all tonal music reduces to a fundamental background structure.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Heinrich_Schenker"
+    },
+    {
+      "text": "Allen Forte created set theory for music, a mathematical approach to analyzing atonal works.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Allen_Forte"
+    },
+    {
+      "text": "The Nashville Number System uses numbers instead of chord names, making transposition easy.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Nashville_Number_System"
+    },
+    {
+      "text": "The I-V-vi-IV progression is so common in pop it has been called the 'four-chord song.'",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/I-V-vi-IV_progression"
+    },
+    {
+      "text": "The bVII chord (like Bb in C major) is borrowed from the parallel minor and is common in rock.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/bVII_chord_(like_Bb_in_C_major)"
+    },
+    {
+      "text": "Helmholtz's 'On the Sensations of Tone' (1863) was a pioneering work in musical acoustics.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Helmholtz%27s_%27On_the_Sensations_of_Tone%27_(1863)"
+    },
+    {
+      "text": "The Alberti bass is a broken chord pattern common in Classical piano, named after Domenico Alberti.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Alberti_bass"
+    },
+    {
+      "text": "Basso continuo was the Baroque practice of improvising harmony from figured bass.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Basso_continuo"
+    },
+    {
+      "text": "The 'Tristan chord' from Wagner's opera is one of the most analyzed chords in music history.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/%27Tristan_chord%27_from_Wagner%27s_opera"
+    },
+    {
+      "text": "Microtonality uses intervals smaller than a half step, common in some Middle Eastern traditions.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Middle_Eastern"
+    },
+    {
+      "text": "Henry Cowell pioneered tone clusters, playing the piano with fists and forearms.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Henry_Cowell"
+    },
+    {
+      "text": "The flat-VII to I progression (like Bb to C) is a hallmark of classic rock.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/flat-VII_to_I_progression_(like_Bb_to_C)"
+    },
+    {
+      "text": "Planing moves a chord shape in parallel motion, a technique famously used by Debussy.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "Coltrane changes use major-third key movements instead of the usual fifth-based motion.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "Call and response has roots in African musical traditions and is central to blues and gospel.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Call_and_response"
+    },
+    {
+      "text": "Rachmaninoff could reportedly span a 13th on the piano, influencing his chord voicings.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "Ornaments were extensively used in Baroque music and were often improvised.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Ornaments"
+    },
+    {
+      "text": "Neo-Riemannian theory analyzes chord relationships through geometric transformations.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "Negative harmony, popularized by Jacob Collier, mirrors intervals to create new progressions.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Jacob_Collier"
+    },
+    {
+      "text": "Bartók often used Fibonacci numbers and the golden ratio for structural proportions.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "Indian raga theory classifies modes by ascending/descending patterns and characteristic phrases.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "Maqam is the system of melodic modes in Arabic and Turkish music with microtonal intervals.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Maqam"
+    },
+    {
+      "text": "Gamelan music from Indonesia uses non-Western tuning systems called slendro and pelog.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Gamelan_music_from_Indonesia_uses_non-Western_tuning_systems"
+    },
+    {
+      "text": "A fake book is a collection of jazz lead sheets, originally circulated illegally.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/A_fake_book"
+    },
+    {
+      "text": "The Real Book was compiled in the 1970s at Berklee and became the most used fake book.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Real_Book"
+    },
+    {
+      "text": "The 'rhythm changes' progression is based on Gershwin's 'I Got Rhythm.'",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/%27rhythm_changes%27_progression"
+    },
+    {
+      "text": "Charlie Parker's 'Ornithology' uses the chord changes from 'How High the Moon.'",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Charlie_Parker%27s"
+    },
+    {
+      "text": "Pentatonic scales work over many chord types because they avoid dissonant half steps.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "In medieval music, thirds were considered dissonant — only octaves, fifths, and fourths were consonant.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/In_medieval_music%2C_thirds"
+    },
+    {
+      "text": "Transposing instruments exist because early brass instruments could only play in certain keys.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "Barbershop quartet singing naturally gravitates toward just intonation.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "Film composers like John Williams frequently use chromatic mediant relations for drama.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/John_Williams"
+    },
+    {
+      "text": "A leitmotif is a recurring theme tied to a character or idea, perfected by Wagner.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/A_leitmotif"
+    },
+    {
+      "text": "The Lydian Chromatic Concept considers the Lydian mode as the most fundamental scale.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Lydian_Chromatic_Concept"
+    },
+    {
+      "text": "Audiation — hearing music internally while reading notation — was coined by Edwin Gordon.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Audiation_%E2%80%94_hearing_music_internally_while_reading_notation_%E2%80%94"
+    },
+    {
+      "text": "Quartal voicings became a signature of McCoy Tyner's jazz piano style.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Quartal_voicings"
+    },
+    {
+      "text": "Pachelbel's Canon in D uses a repeating eight-chord progression recognized worldwide.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Pachelbel%27s_Canon_in_D"
+    },
+    {
+      "text": "La Folia is one of the oldest European chord progressions, dating to the late 15th century.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/La_Folia"
+    },
+    {
+      "text": "Bach harmonized over 370 chorales, which remain the gold standard for part-writing study.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "Tchaikovsky used pppppp (six p's) in his Sixth Symphony — one of the softest markings ever.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Sixth_Symphony"
+    },
+    {
+      "text": "Verdi advocated for A=432 Hz, and some musicians still prefer this lower tuning.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "Guido of Arezzo developed the basis of modern staff notation in the 11th century.",
+      "month": 1,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/Guido_of_Arezzo"
+    },
+    {
+      "text": "Bach's 'Well-Tempered Clavier' Book I was composed in 1722, showcasing all 24 keys.",
+      "month": 1,
+      "day": 22,
+      "source": "https://en.wikipedia.org/wiki/Bach%27s_%27Well-Tempered_Clavier%27_Book_I"
+    },
+    {
+      "text": "Mozart was born on January 27, 1756, and composed masterfully in nearly every genre.",
+      "month": 1,
+      "day": 27,
+      "source": "https://en.wikipedia.org/wiki/Mozart"
+    },
+    {
+      "text": "Palestrina was born on February 2, 1525; his works are still studied as counterpoint models.",
+      "month": 2,
+      "day": 2,
+      "source": "https://en.wikipedia.org/wiki/Palestrina"
+    },
+    {
+      "text": "Well temperament was in use in Bach's era, making all keys playable yet each unique.",
+      "month": 2,
+      "day": 15,
+      "source": "https://en.wikipedia.org/wiki/Well_temperament"
+    },
+    {
+      "text": "Schoenberg's 'Harmonielehre' was published in 1911, a foundational modern harmony textbook.",
+      "month": 3,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/Schoenberg%27s_%27Harmonielehre"
+    },
+    {
+      "text": "Hector Berlioz wrote one of the first major treatises on orchestration in 1844.",
+      "month": 3,
+      "day": 10,
+      "source": "https://en.wikipedia.org/wiki/Hector_Berlioz"
+    },
+    {
+      "text": "Arnold Schoenberg developed the twelve-tone technique around 1921, treating all 12 notes as equal.",
+      "month": 3,
+      "day": 23,
+      "source": "https://en.wikipedia.org/wiki/Arnold_Schoenberg"
+    },
+    {
+      "text": "J.S. Bach was born on March 31, 1685, widely regarded as the greatest master of counterpoint.",
+      "month": 3,
+      "day": 31,
+      "source": "https://en.wikipedia.org/wiki/J.S._Bach"
+    },
+    {
+      "text": "Giuseppe Tartini discovered combination tones in 1714, calling them the 'third sound.'",
+      "month": 4,
+      "day": 8,
+      "source": "https://en.wikipedia.org/wiki/Giuseppe_Tartini"
+    },
+    {
+      "text": "The first printed music book using movable type was published in 1501 by Ottaviano Petrucci.",
+      "month": 5,
+      "day": 15,
+      "source": "https://en.wikipedia.org/wiki/first_printed_music_book_using_movable_type"
+    },
+    {
+      "text": "Concert pitch A was standardized at 440 Hz at a 1939 international conference.",
+      "month": 5,
+      "day": 11,
+      "source": "https://en.wikipedia.org/wiki/Concert_pitch_A"
+    },
+    {
+      "text": "Stravinsky's 'Rite of Spring' premiere on May 29, 1913, caused a riot due to its radical rhythms.",
+      "month": 5,
+      "day": 29,
+      "source": "https://en.wikipedia.org/wiki/Rite_of_Spring"
+    },
+    {
+      "text": "The 'Ars Nova' treatise by Philippe de Vitry (c. 1322) introduced rhythmic innovations to notation.",
+      "month": 6,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/%27Ars_Nova%27_treatise_by_Philippe_de_Vitry_(c._1322)"
+    },
+    {
+      "text": "Wagner's 'Tristan und Isolde' (1865) pushed chromaticism to extremes, blurring tonality.",
+      "month": 6,
+      "day": 10,
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "Stravinsky was born on June 17, 1882; his works revolutionized rhythm in 20th-century music.",
+      "month": 6,
+      "day": 17,
+      "source": "https://en.wikipedia.org/wiki/Stravinsky"
+    },
+    {
+      "text": "Johann Joseph Fux's 'Gradus ad Parnassum' (1725) codified the rules of species counterpoint.",
+      "month": 7,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/Johann_Joseph_Fux%27s"
+    },
+    {
+      "text": "The Tonnetz diagram for mapping pitch relationships was formalized in the 19th century.",
+      "month": 7,
+      "day": 20,
+      "source": "https://en.wikipedia.org/wiki/Tonnetz_diagram_for_mapping_pitch_relationships"
+    },
+    {
+      "text": "MIDI was introduced in August 1983, allowing electronic instruments to communicate digitally.",
+      "month": 8,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/MIDI"
+    },
+    {
+      "text": "Claude Debussy was born on August 22, 1862, and pioneered impressionist harmony.",
+      "month": 8,
+      "day": 22,
+      "source": "https://en.wikipedia.org/wiki/Claude_Debussy"
+    },
+    {
+      "text": "John Cage premiered '4′33″' on August 29, 1952, a piece consisting entirely of silence.",
+      "month": 8,
+      "day": 29,
+      "source": "https://en.wikipedia.org/wiki/John_Cage"
+    },
+    {
+      "text": "George Russell's 'Lydian Chromatic Concept' (1953) was a landmark in jazz theory.",
+      "month": 9,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/Lydian_Chromatic_Concept"
+    },
+    {
+      "text": "Schoenberg was born on September 13, 1874, and revolutionized music with the twelve-tone method.",
+      "month": 9,
+      "day": 13,
+      "source": "https://en.wikipedia.org/wiki/Schoenberg"
+    },
+    {
+      "text": "Jean-Philippe Rameau published his 'Treatise on Harmony' in 1722, founding modern harmonic theory.",
+      "month": 10,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/Jean-Philippe_Rameau"
+    },
+    {
+      "text": "David Lewin published 'Generalized Musical Intervals and Transformations' in 1987.",
+      "month": 10,
+      "day": 15,
+      "source": "https://en.wikipedia.org/wiki/David_Lewin"
+    },
+    {
+      "text": "Wagner published 'Opera and Drama' in 1851, outlining his Gesamtkunstwerk concept.",
+      "month": 11,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/Opera_and_Drama"
+    },
+    {
+      "text": "The Werckmeister temperaments, published in 1691, were among the most used well temperaments.",
+      "month": 11,
+      "day": 15,
+      "source": "https://en.wikipedia.org/wiki/Werckmeister_temperaments%2C_published_in_1691"
+    },
+    {
+      "text": "Andreas Werckmeister was born on November 30, 1645; his tunings helped pave the way for Bach.",
+      "month": 11,
+      "day": 30,
+      "source": "https://en.wikipedia.org/wiki/Andreas_Werckmeister"
+    },
+    {
+      "text": "The metronome was patented by Johann Maelzel in 1815.",
+      "month": 12,
+      "day": 5,
+      "source": "https://en.wikipedia.org/wiki/metronome"
+    },
+    {
+      "text": "Olivier Messiaen was born on December 10, 1908; he developed modes of limited transposition.",
+      "month": 12,
+      "day": 10,
+      "source": "https://en.wikipedia.org/wiki/Olivier_Messiaen"
+    },
+    {
+      "text": "Beethoven was born on December 17, 1770, bridging the Classical and Romantic eras.",
+      "month": 12,
+      "day": 17,
+      "source": "https://en.wikipedia.org/wiki/Beethoven"
+    },
+    {
+      "text": "The Mannheim School, active in the mid-1700s, pioneered orchestral crescendos and dynamic contrasts.",
+      "month": 4,
+      "day": 20,
+      "source": "https://en.wikipedia.org/wiki/Mannheim_School"
+    },
+    {
+      "text": "Zarlino published 'Le Istitutioni Harmoniche' in 1558, establishing the theoretical basis for triadic harmony.",
+      "month": 2,
+      "day": 22,
+      "source": "https://en.wikipedia.org/wiki/Le_Istitutioni_Harmoniche"
+    },
+    {
+      "text": "Musica Enchiriadis, written around 895 AD, contains the earliest known examples of written polyphony.",
+      "month": 9,
+      "day": 25,
+      "source": "https://en.wikipedia.org/wiki/Musica_Enchiriadis%2C_written_around_895_AD"
+    },
+    {
+      "text": "The Conservatoire de Paris was founded on August 3, 1795, and became a major center for theory education.",
+      "month": 8,
+      "day": 3,
+      "source": "https://en.wikipedia.org/wiki/Conservatoire_de_Paris"
+    },
+    {
+      "text": "A contrafact in jazz is a new melody composed over the chord changes of an existing standard.",
+      "source": "https://en.wikipedia.org/wiki/A_contrafact_in_jazz"
+    },
+    {
+      "text": "A score written in concert pitch shows all instruments as they actually sound.",
+      "source": "https://en.wikipedia.org/wiki/Music_Theory"
+    },
+    {
+      "text": "The diminished scale starting with a half step is often used over diminished 7th chords in jazz.",
+      "source": "https://en.wikipedia.org/wiki/diminished_scale_starting_with_a_half_step"
+    }
+  ]
+}

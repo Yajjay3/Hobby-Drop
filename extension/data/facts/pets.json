@@ -1,0 +1,1565 @@
+{
+  "hobby": "Pets & Animals",
+  "facts": [
+    {
+      "text": "A dog's nose print is unique, much like a human fingerprint, and can be used to identify individual dogs.",
+      "source": "https://en.wikipedia.org/wiki/A_dog%27s_nose_print"
+    },
+    {
+      "text": "Cats spend approximately 70% of their lives sleeping, averaging around 13 to 16 hours of sleep per day.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "Goldfish can live for over 40 years with proper care, far exceeding the common misconception that they only survive a few months.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "Dogs can understand up to 250 words and gestures, putting their mental abilities on par with a two-year-old child.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "A group of cats is called a clowder, while a group of kittens is called a kindle.",
+      "source": "https://en.wikipedia.org/wiki/A_group_of_cats"
+    },
+    {
+      "text": "The Basenji is the only dog breed that doesn't bark; instead, it produces a unique yodel-like sound called a baroo.",
+      "source": "https://en.wikipedia.org/wiki/Basenji"
+    },
+    {
+      "text": "Rabbits can be litter-trained just like cats, making them surprisingly tidy household companions.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "A cat's purr vibrates at a frequency between 25 and 150 Hz, which has been shown to promote bone density and healing.",
+      "source": "https://en.wikipedia.org/wiki/A_cat%27s_purr_vibrates_at_a_frequency_between_25_and_150_Hz%2C_which"
+    },
+    {
+      "text": "The United States has the highest pet ownership rate in the world, with approximately 67% of households owning at least one pet.",
+      "source": "https://en.wikipedia.org/wiki/United_States"
+    },
+    {
+      "text": "Dogs have three eyelids: an upper lid, a lower lid, and a third lid called a nictitating membrane that helps keep their eyes moist.",
+      "source": "https://en.wikipedia.org/wiki/Dogs"
+    },
+    {
+      "text": "The world's oldest known pet cat was found in a 9,500-year-old grave on the island of Cyprus, predating Egyptian cat worship by thousands of years.",
+      "source": "https://en.wikipedia.org/wiki/world%27s_oldest_known_pet_cat"
+    },
+    {
+      "text": "Guinea pigs are social animals that can die of loneliness, which is why Switzerland has a law requiring owners to keep at least two together.",
+      "source": "https://en.wikipedia.org/wiki/Guinea_pigs"
+    },
+    {
+      "text": "A dog's sense of smell is at least 10,000 times more acute than a human's, allowing them to detect diseases like cancer and diabetes.",
+      "source": "https://en.wikipedia.org/wiki/A_dog%27s_sense_of_smell"
+    },
+    {
+      "text": "The average American pet owner spends over $1,500 per year on their dog and over $1,000 per year on their cat.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "Hamsters can run up to 8 miles per night on their exercise wheels, driven by their natural instinct to forage over large distances.",
+      "source": "https://en.wikipedia.org/wiki/Hamsters_can"
+    },
+    {
+      "text": "Cats have over 20 different vocalizations, including meows, purrs, chirps, and trills, each conveying different meanings.",
+      "source": "https://en.wikipedia.org/wiki/Cats"
+    },
+    {
+      "text": "The Labrador Retriever has been the most popular dog breed in America for over 30 consecutive years according to AKC registrations.",
+      "source": "https://en.wikipedia.org/wiki/Labrador_Retriever"
+    },
+    {
+      "text": "Pet fish can recognize their owners' faces and will often swim to the front of the tank when they see a familiar person.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "A dog's wet nose helps it absorb scent chemicals from the air, enhancing its already extraordinary sense of smell.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "The pet food industry in the United States generates over $50 billion in annual revenue, making it larger than many countries' GDPs.",
+      "source": "https://en.wikipedia.org/wiki/United_States"
+    },
+    {
+      "text": "Parrots can live for 50 to 80 years or more, meaning adopting one is essentially a lifetime commitment.",
+      "source": "https://en.wikipedia.org/wiki/Parrots_can_live_for_50_to_80_years_or_more%2C_meaning_adopting_one"
+    },
+    {
+      "text": "Dalmatian puppies are born completely white and develop their iconic spots as they grow older over the first few weeks of life.",
+      "source": "https://en.wikipedia.org/wiki/Dalmatian_puppies"
+    },
+    {
+      "text": "Cats can rotate their ears 180 degrees, thanks to 32 muscles that control their ear movements compared to just 6 in humans.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "The Westminster Kennel Club Dog Show, first held in 1877, is the second-longest continuously held sporting event in the United States after the Kentucky Derby.",
+      "source": "https://en.wikipedia.org/wiki/Westminster_Kennel_Club_Dog_Show%2C_first_held_in_1877"
+    },
+    {
+      "text": "Bearded dragons are one of the most popular reptile pets because they are docile, enjoy being handled, and can recognize their owners.",
+      "source": "https://en.wikipedia.org/wiki/Bearded_dragons"
+    },
+    {
+      "text": "Dogs curl up in a ball when they sleep to protect their vital organs, a behavior inherited from their wild ancestors.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "The average cat can jump up to six times its body length in a single bound, thanks to powerful muscles in its hind legs.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "Pet insurance in the United States has grown into a $3 billion industry, with millions of pets now covered by health plans.",
+      "source": "https://en.wikipedia.org/wiki/Pet_insurance_in_the_United_States"
+    },
+    {
+      "text": "Hermit crabs are social creatures that live in colonies of 100 or more in the wild and prefer to have company in captivity.",
+      "source": "https://en.wikipedia.org/wiki/Hermit_crabs"
+    },
+    {
+      "text": "A greyhound can reach speeds of up to 45 miles per hour, making it the fastest dog breed in the world.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "Cats' whiskers are roughly as wide as their body, helping them gauge whether they can fit through tight spaces.",
+      "source": "https://en.wikipedia.org/wiki/Cats%27_whiskers"
+    },
+    {
+      "text": "The first pet GPS tracker was introduced in the early 2000s and has since evolved to include activity monitoring, health tracking, and geofencing.",
+      "source": "https://en.wikipedia.org/wiki/first_pet_GPS_tracker"
+    },
+    {
+      "text": "Betta fish, also known as Siamese fighting fish, can recognize their owners and may even perform tricks for food.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "Dogs' ears have at least 18 muscles, which allow them to move and tilt their ears independently to better pinpoint the source of sounds.",
+      "source": "https://en.wikipedia.org/wiki/Dogs%27_ears"
+    },
+    {
+      "text": "The ancient Egyptians mourned the death of a family cat by shaving off their eyebrows as a sign of grief.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "Approximately 6.3 million companion animals enter U.S. animal shelters every year, with roughly half being dogs and half being cats.",
+      "source": "https://en.wikipedia.org/wiki/Approximately_6"
+    },
+    {
+      "text": "Rabbits' teeth never stop growing, which is why they need a constant supply of hay and chew toys to keep them worn down.",
+      "source": "https://en.wikipedia.org/wiki/Rabbits%27_teeth_never_stop_growing%2C_which"
+    },
+    {
+      "text": "The Norwegian Forest Cat has a waterproof double coat that was naturally adapted to survive harsh Scandinavian winters.",
+      "source": "https://en.wikipedia.org/wiki/Norwegian_Forest_Cat"
+    },
+    {
+      "text": "Service dogs can be trained to detect seizures up to 45 minutes before they occur, giving their owners critical time to prepare.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "Cockatoos are known for their ability to dance to music with a genuine sense of rhythm, not just mimicking movements.",
+      "source": "https://en.wikipedia.org/wiki/Cockatoos"
+    },
+    {
+      "text": "The average dog park in the United States covers about 2.25 acres, with cities like Portland and Boise boasting the most per capita.",
+      "source": "https://en.wikipedia.org/wiki/United_States"
+    },
+    {
+      "text": "Cats have a specialized collarbone that allows them to always land on their feet when falling from heights, known as the righting reflex.",
+      "source": "https://en.wikipedia.org/wiki/Cats"
+    },
+    {
+      "text": "The pet grooming industry in the United States is valued at over $14 billion and continues to grow each year.",
+      "source": "https://en.wikipedia.org/wiki/pet_grooming_industry_in_the_United_States"
+    },
+    {
+      "text": "Turtles can breathe through their butts—a process called cloacal respiration—which helps them absorb oxygen underwater during hibernation.",
+      "source": "https://en.wikipedia.org/wiki/Turtles_can_breathe_through_their_butts%E2%80%94a_process"
+    },
+    {
+      "text": "Dogs' noses can detect heat from a distance, which is why they can find living creatures even in complete darkness.",
+      "source": "https://en.wikipedia.org/wiki/Dogs%27_noses_can_detect_heat_from_a_distance%2C_which"
+    },
+    {
+      "text": "The first cat video posted to YouTube dates to 2005, and cat content has since become one of the most-viewed categories on the platform.",
+      "source": "https://en.wikipedia.org/wiki/first_cat_video_posted_to_YouTube_dates_to_2005%2C_and_cat_content"
+    },
+    {
+      "text": "Automatic pet feeders with cameras and app controls allow owners to feed their pets on schedule even when they're away from home.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "Chinchillas have the densest fur of any land mammal, with about 20,000 hairs per square centimeter, and should never get wet because their fur can develop fungus.",
+      "source": "https://en.wikipedia.org/wiki/Chinchillas"
+    },
+    {
+      "text": "The Pembroke Welsh Corgi became internationally famous as the favorite breed of Queen Elizabeth II, who owned more than 30 during her lifetime.",
+      "source": "https://en.wikipedia.org/wiki/Pembroke_Welsh_Corgi"
+    },
+    {
+      "text": "Therapy dogs are used in hospitals, schools, and disaster areas to reduce stress, anxiety, and blood pressure in the people they visit.",
+      "source": "https://en.wikipedia.org/wiki/Therapy_dogs"
+    },
+    {
+      "text": "Axolotls, the smiling Mexican salamanders, can regenerate lost limbs, parts of their heart, and even portions of their brain.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "Dogs have a sense of time and can tell the difference between one hour and five hours, which is why they anticipate their owner's return.",
+      "source": "https://en.wikipedia.org/wiki/Dogs"
+    },
+    {
+      "text": "The Maine Coon is the largest domesticated cat breed, with some males weighing over 25 pounds and measuring over 40 inches long.",
+      "source": "https://en.wikipedia.org/wiki/Maine_Coon"
+    },
+    {
+      "text": "The ASPCA was founded in 1866 and was the first humane society established in North America.",
+      "source": "https://en.wikipedia.org/wiki/ASPCA"
+    },
+    {
+      "text": "Pet rats are highly intelligent and can be trained to respond to their names, navigate mazes, and even play fetch.",
+      "source": "https://en.wikipedia.org/wiki/Pet_rats"
+    },
+    {
+      "text": "A Bloodhound's sense of smell is so accurate that its tracking results can be used as evidence in a court of law.",
+      "source": "https://en.wikipedia.org/wiki/A_Bloodhound%27s_sense_of_smell"
+    },
+    {
+      "text": "There are more pet cats than pet dogs in the United States, with approximately 94 million cats compared to 90 million dogs.",
+      "source": "https://en.wikipedia.org/wiki/There"
+    },
+    {
+      "text": "Leopard geckos are popular beginner reptile pets because they are gentle, easy to care for, and come in over 100 different color morphs.",
+      "source": "https://en.wikipedia.org/wiki/Leopard_geckos"
+    },
+    {
+      "text": "Dogs wag their tails to the right when they're happy and to the left when they're frightened, reflecting different brain hemisphere activation.",
+      "source": "https://en.wikipedia.org/wiki/Dogs_wag_their_tails_to_the_right_when_they%27re_happy_and_to_the"
+    },
+    {
+      "text": "The first cat café opened in Taipei, Taiwan, in 1998, and the concept has since spread to cities worldwide including hundreds in Japan.",
+      "source": "https://en.wikipedia.org/wiki/first_cat_caf%C3%A9"
+    },
+    {
+      "text": "Microchipping pets has led to a significant increase in reunification rates, with microchipped dogs being returned to owners about 52% of the time versus 22% for non-chipped dogs.",
+      "source": "https://en.wikipedia.org/wiki/Microchipping_pets"
+    },
+    {
+      "text": "African grey parrots are considered the most intelligent bird species, capable of learning over 1,000 words and understanding concepts like shape, color, and number.",
+      "source": "https://en.wikipedia.org/wiki/African_grey_parrots"
+    },
+    {
+      "text": "The Shiba Inu became one of the most popular dog breeds largely due to the Doge meme that went viral on the internet.",
+      "source": "https://en.wikipedia.org/wiki/Shiba_Inu"
+    },
+    {
+      "text": "Horses can sleep both lying down and standing up, and they only need about 2 to 3 hours of sleep per day.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "Pet adoption rates increased by over 30% during the COVID-19 pandemic as people sought companionship during lockdowns.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "A cat's tongue has tiny hook-shaped structures called papillae that act like a built-in comb, making it an incredibly efficient grooming tool.",
+      "source": "https://en.wikipedia.org/wiki/A_cat%27s_tongue"
+    },
+    {
+      "text": "Border Collies are widely regarded as the most intelligent dog breed and can learn a new command in under 5 repetitions.",
+      "source": "https://en.wikipedia.org/wiki/Border_Collies"
+    },
+    {
+      "text": "The pet toy industry generates over $8 billion annually in the United States, with interactive and puzzle toys being the fastest-growing segment.",
+      "source": "https://en.wikipedia.org/wiki/United_States"
+    },
+    {
+      "text": "Ferrets have been domesticated for over 2,500 years and were originally used for hunting rabbits before becoming popular household pets.",
+      "source": "https://en.wikipedia.org/wiki/Ferrets"
+    },
+    {
+      "text": "Dogs dream just like humans do, and puppies and senior dogs tend to dream more frequently than middle-aged dogs.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "A cat named Félicette became the first and only cat to travel to space when France launched her on a suborbital flight in 1963.",
+      "source": "https://en.wikipedia.org/wiki/A_cat_named_F%C3%A9licette"
+    },
+    {
+      "text": "The average cost of a routine veterinary visit for a dog in the U.S. ranges from $50 to $250, depending on the services provided.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "Budgerigars (budgies) are the third most popular pet in the world after dogs and cats, prized for their ability to mimic human speech.",
+      "source": "https://en.wikipedia.org/wiki/Budgerigars_(budgies)"
+    },
+    {
+      "text": "German Shepherds are the most commonly used breed for police and military work due to their intelligence, strength, and trainability.",
+      "source": "https://en.wikipedia.org/wiki/German_Shepherds"
+    },
+    {
+      "text": "Cats can make over 100 different sounds, while dogs can only make about 10 distinct vocalizations.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "The pet wellness industry, including supplements, organic food, and CBD products, has grown into a multi-billion-dollar market.",
+      "source": "https://en.wikipedia.org/wiki/pet_wellness_industry%2C_including_supplements%2C_organic_food%2C_and_CBD_products"
+    },
+    {
+      "text": "Sugar gliders are social marsupials that bond deeply with their owners and can glide through the air for distances of over 150 feet.",
+      "source": "https://en.wikipedia.org/wiki/Sugar_gliders"
+    },
+    {
+      "text": "A Newfoundland dog named Rigel reportedly survived the sinking of the Titanic and helped guide a lifeboat to rescue by barking through the night.",
+      "source": "https://en.wikipedia.org/wiki/A_Newfoundland_dog_named_Rigel_reportedly_survived_the_sinking_of_the_Titanic_and"
+    },
+    {
+      "text": "Cats' kidneys are so efficient that they can rehydrate by drinking seawater, although this is not recommended for pet cats.",
+      "source": "https://en.wikipedia.org/wiki/Cats%27_kidneys"
+    },
+    {
+      "text": "The AKC currently recognizes over 200 dog breeds, with new breeds being added every few years after meeting strict criteria.",
+      "source": "https://en.wikipedia.org/wiki/AKC"
+    },
+    {
+      "text": "Hedgehogs are lactose intolerant and should never be fed milk, despite the popular image of hedgehogs drinking saucers of milk.",
+      "source": "https://en.wikipedia.org/wiki/Hedgehogs"
+    },
+    {
+      "text": "Dogs can be trained to detect peanut allergies in food, providing a life-saving service for children with severe allergies.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "Indoor cats live an average of 12 to 18 years, while outdoor cats typically live only 2 to 5 years due to increased hazards.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "The global pet care market is valued at over $320 billion and is projected to continue growing as pet ownership increases worldwide.",
+      "source": "https://en.wikipedia.org/wiki/global_pet_care_market"
+    },
+    {
+      "text": "Ball pythons are one of the most popular pet snakes because of their docile temperament and manageable size of 3 to 5 feet.",
+      "source": "https://en.wikipedia.org/wiki/Ball_pythons"
+    },
+    {
+      "text": "The Akita breed became world-famous through Hachiko, a dog who waited at a Tokyo train station every day for nine years after his owner's death.",
+      "source": "https://en.wikipedia.org/wiki/Akita_breed"
+    },
+    {
+      "text": "Cats have a specialized organ called the Jacobson's organ in the roof of their mouth that allows them to taste scents in the air.",
+      "source": "https://en.wikipedia.org/wiki/Cats"
+    },
+    {
+      "text": "The pet sitting and dog walking industry has grown rapidly, with apps like Rover and Wag connecting millions of pet owners with care providers.",
+      "source": "https://en.wikipedia.org/wiki/pet_sitting_and_dog_walking_industry"
+    },
+    {
+      "text": "Tortoises can live for over 150 years, making them one of the longest-lived pets one can own.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "Puppies are born deaf and blind, with their eyes and ear canals opening at about 10 to 14 days old.",
+      "source": "https://en.wikipedia.org/wiki/Puppies"
+    },
+    {
+      "text": "The Russian Blue cat is known for its striking green eyes and dense, plush blue-gray coat that shimmers with silver-tipped fur.",
+      "source": "https://en.wikipedia.org/wiki/Russian_Blue_cat"
+    },
+    {
+      "text": "Approximately 3.2 million shelter animals are adopted each year in the United States, with adoption awareness campaigns helping to increase this number.",
+      "source": "https://en.wikipedia.org/wiki/Approximately_3.2_million_shelter_animals"
+    },
+    {
+      "text": "Miniature pigs, also called teacup pigs, often grow much larger than expected, reaching 100 to 200 pounds despite breeders' claims.",
+      "source": "https://en.wikipedia.org/wiki/Miniature_pigs%2C_also"
+    },
+    {
+      "text": "Dogs can smell human emotions—they can detect fear, sadness, and happiness through chemical changes in our body odor.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "The Scottish Fold cat is known for its distinctive folded ears, caused by a natural genetic mutation affecting cartilage throughout the body.",
+      "source": "https://en.wikipedia.org/wiki/Scottish_Fold_cat"
+    },
+    {
+      "text": "Pet-friendly workplaces have been shown to reduce employee stress by up to 11% and increase job satisfaction significantly.",
+      "source": "https://en.wikipedia.org/wiki/Pet-friendly_workplaces"
+    },
+    {
+      "text": "Clownfish can change their sex—all clownfish are born male, and the dominant male in a group will become female if the existing female dies.",
+      "source": "https://en.wikipedia.org/wiki/Clownfish_can_change_their_sex%E2%80%94all_clownfish"
+    },
+    {
+      "text": "The world's smallest dog breed, the Chihuahua, has the largest brain relative to body size of any dog breed.",
+      "source": "https://en.wikipedia.org/wiki/world%27s_smallest_dog_breed%2C_the_Chihuahua"
+    },
+    {
+      "text": "Grumpy Cat, whose real name was Tardar Sauce, became one of the most famous internet cats and earned millions of dollars from merchandise and endorsements.",
+      "source": "https://en.wikipedia.org/wiki/Grumpy_Cat%2C_whose_real_name"
+    },
+    {
+      "text": "Smart pet doors that use microchip recognition allow only registered pets to enter and exit, keeping strays and wildlife out.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "Chameleons' eyes can move independently of each other, giving them a nearly 360-degree field of vision to spot predators and prey.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "The Poodle is one of the most intelligent dog breeds and originally served as a water retriever, which is why it has a curly, water-resistant coat.",
+      "source": "https://en.wikipedia.org/wiki/Poodle"
+    },
+    {
+      "text": "A cat's heart beats about twice as fast as a human heart, at approximately 110 to 140 beats per minute.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "The pet cremation and burial industry in the U.S. has grown significantly, with pet cemeteries and memorial services becoming increasingly common.",
+      "source": "https://en.wikipedia.org/wiki/pet_cremation_and_burial_industry_in_the_U.S"
+    },
+    {
+      "text": "Gerbils are banned as pets in California and Hawaii because escaped gerbils could establish wild colonies that threaten native ecosystems.",
+      "source": "https://en.wikipedia.org/wiki/Gerbils"
+    },
+    {
+      "text": "The St. Bernard breed was used by monks in the Swiss Alps to rescue travelers, with one dog named Barry reportedly saving over 40 lives.",
+      "source": "https://en.wikipedia.org/wiki/St._Bernard_breed"
+    },
+    {
+      "text": "Cats have retractable claws that stay sharp because they are protected when not in use, unlike dogs whose claws wear down from walking.",
+      "source": "https://en.wikipedia.org/wiki/Cats"
+    },
+    {
+      "text": "The first animal shelter in America was the Women's SPCA of Pennsylvania, founded in 1869 to protect animals from cruelty.",
+      "source": "https://en.wikipedia.org/wiki/first_animal_shelter_in_America"
+    },
+    {
+      "text": "Corn snakes are popular beginner pet snakes because they are non-venomous, easy to handle, and come in a wide variety of colors and patterns.",
+      "source": "https://en.wikipedia.org/wiki/Corn_snakes"
+    },
+    {
+      "text": "Dogs' paw pads contain special sweat glands that help regulate their body temperature, as dogs can only sweat through their paws.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "Lil Bub, an internet-famous cat born with several genetic mutations, helped raise over $700,000 for animals in need through her celebrity status.",
+      "source": "https://en.wikipedia.org/wiki/Lil_Bub%2C_an_internet-famous_cat_born_with_several_genetic_mutations"
+    },
+    {
+      "text": "GPS collars for pets can track location in real time, set safe zone boundaries, and alert owners if their pet leaves a designated area.",
+      "source": "https://en.wikipedia.org/wiki/GPS_collars_for_pets_can_track_location_in_real_time"
+    },
+    {
+      "text": "Tarantulas can live up to 30 years in captivity, with female tarantulas significantly outliving males who typically live only 5 to 10 years.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "The Golden Retriever was originally bred in Scotland in the mid-19th century by crossing a Yellow Retriever with the now-extinct Tweed Water Spaniel.",
+      "source": "https://en.wikipedia.org/wiki/Golden_Retriever"
+    },
+    {
+      "text": "Cats can drink from a faucet or fountain more readily than from a bowl because flowing water instinctively seems fresher and safer to them.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "About 25% of dogs in the U.S. are estimated to be obese, leading to increased risk of diabetes, joint problems, and shortened lifespans.",
+      "source": "https://en.wikipedia.org/wiki/About_25%25_of_dogs_in_the_U.S"
+    },
+    {
+      "text": "Pet rabbits can be taught to respond to their name, come when called, and even navigate obstacle courses.",
+      "source": "https://en.wikipedia.org/wiki/Pet_rabbits_can_be_taught_to_respond_to_their_name%2C_come_when"
+    },
+    {
+      "text": "Sled dogs like Huskies and Malamutes can run up to 100 miles per day and can metabolize fat for energy without the lactic acid buildup humans experience.",
+      "source": "https://en.wikipedia.org/wiki/Sled_dogs_like_Huskies_and_Malamutes_can"
+    },
+    {
+      "text": "The Sphynx cat is not actually hairless—it has a fine layer of peach-fuzz-like hair and requires regular baths to remove oil buildup on its skin.",
+      "source": "https://en.wikipedia.org/wiki/Sphynx_cat"
+    },
+    {
+      "text": "The U.S. pet pharmacy market is worth over $10 billion, with online pet pharmacies growing rapidly as owners seek more affordable medications.",
+      "source": "https://en.wikipedia.org/wiki/U.S._pet_pharmacy_market"
+    },
+    {
+      "text": "Emperor scorpions are one of the most popular pet scorpions because they are relatively docile and their venom is mild compared to other species.",
+      "source": "https://en.wikipedia.org/wiki/Emperor_scorpions"
+    },
+    {
+      "text": "Dogs tilt their heads when listening to better locate the source of a sound and to see past their muzzle for a clearer view.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "Keyboard Cat, one of the earliest viral cat videos, has been viewed hundreds of millions of times across various platforms since its upload.",
+      "source": "https://en.wikipedia.org/wiki/Keyboard_Cat%2C_one_of_the_earliest_viral_cat_videos"
+    },
+    {
+      "text": "Automatic litter boxes that self-clean after each use have become increasingly popular, using sensors and raking mechanisms to keep the box tidy.",
+      "source": "https://en.wikipedia.org/wiki/Automatic_litter_boxes_that_self-clean_after_each_use"
+    },
+    {
+      "text": "Red-eared slider turtles are the most popular pet turtle in the world but can live for 20 to 30 years and grow up to 12 inches.",
+      "source": "https://en.wikipedia.org/wiki/Red-eared_slider_turtles"
+    },
+    {
+      "text": "The Cavalier King Charles Spaniel was bred to be a lap dog for British royalty and remains one of the most affectionate companion breeds.",
+      "source": "https://en.wikipedia.org/wiki/Cavalier_King_Charles_Spaniel"
+    },
+    {
+      "text": "A cat's field of view spans about 200 degrees, compared to a human's 180 degrees, giving them superior peripheral vision.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "No-kill animal shelters have become increasingly common in the U.S., with the goal of saving at least 90% of the animals that enter their facilities.",
+      "source": "https://en.wikipedia.org/wiki/No-kill_animal_shelters"
+    },
+    {
+      "text": "Fancy mice come in over 40 recognized varieties based on coat color, pattern, and type, and they can be trained to navigate complex mazes.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "The Kangal, a Turkish livestock guardian dog, has one of the strongest bite forces of any dog breed, measuring over 740 PSI.",
+      "source": "https://en.wikipedia.org/wiki/Kangal%2C_a_Turkish_livestock_guardian_dog"
+    },
+    {
+      "text": "Cats groom themselves for approximately 30 to 50% of their waking hours, using their barbed tongues to remove dirt, distribute oils, and regulate temperature.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "The U.S. has more than 1,000 off-leash dog parks, with Portland, Oregon, being one of the cities with the most per capita.",
+      "source": "https://en.wikipedia.org/wiki/U.S"
+    },
+    {
+      "text": "Crested geckos were thought to be extinct until they were rediscovered in 1994 and have since become one of the most popular pet reptiles.",
+      "source": "https://en.wikipedia.org/wiki/Crested_geckos"
+    },
+    {
+      "text": "Dogs can be trained to detect COVID-19 with an accuracy rate of up to 96%, rivaling many laboratory tests.",
+      "source": "https://en.wikipedia.org/wiki/COVID-19_with"
+    },
+    {
+      "text": "The Bengal cat is a hybrid breed created by crossing a domestic cat with an Asian leopard cat, giving it a distinctive wild-looking spotted coat.",
+      "source": "https://en.wikipedia.org/wiki/Bengal_cat"
+    },
+    {
+      "text": "Pet food recalls occur regularly, with the FDA maintaining a database of recalled products to help owners keep their pets safe.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "Hermit crabs need to find progressively larger shells as they grow, and they will sometimes form swap chains where multiple crabs exchange shells simultaneously.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "The Bernese Mountain Dog was originally used as a farm dog in the Swiss Alps for herding cattle, pulling carts, and guarding property.",
+      "source": "https://en.wikipedia.org/wiki/Bernese_Mountain_Dog"
+    },
+    {
+      "text": "Cats can sense earthquakes up to 15 minutes before they strike, likely due to their sensitivity to subtle vibrations in the ground.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "The average American spends over $100 per year on pet toys alone, with the market being driven by interactive and enrichment products.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "Fire-bellied toads are popular beginner amphibian pets known for their bright green and orange coloring that warns predators of their mildly toxic skin secretions.",
+      "source": "https://en.wikipedia.org/wiki/Fire-bellied_toads"
+    },
+    {
+      "text": "The Dogo Argentino was bred in Argentina specifically for big-game hunting, including wild boar and puma.",
+      "source": "https://en.wikipedia.org/wiki/Dogo_Argentino"
+    },
+    {
+      "text": "Dogs have about 1,700 taste buds compared to a human's approximately 9,000, which is why they rely more on smell than taste when evaluating food.",
+      "source": "https://en.wikipedia.org/wiki/Dogs"
+    },
+    {
+      "text": "The first known pet influencer on Instagram was a Pomeranian named Boo, who had over 16 million followers and was dubbed the world's cutest dog.",
+      "source": "https://en.wikipedia.org/wiki/first_known_pet_influencer_on_Instagram"
+    },
+    {
+      "text": "Pet cameras with treat dispensers allow owners to interact with their pets remotely, tossing treats and speaking to them through a smartphone app.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "Koi fish can live for over 200 years, with one famous koi named Hanako reportedly living to 226 years old in Japan.",
+      "source": "https://en.wikipedia.org/wiki/Koi_fish_can_live_for_over_200_years%2C_with_one_famous_koi"
+    },
+    {
+      "text": "The Great Dane holds the record for the tallest dog breed, with the tallest Great Dane ever recorded standing at 44 inches at the shoulder.",
+      "source": "https://en.wikipedia.org/wiki/Great_Dane"
+    },
+    {
+      "text": "Cats have an extra organ that allows them to taste scents, which is why they sometimes open their mouths in a grimace called the Flehmen response.",
+      "source": "https://en.wikipedia.org/wiki/Cats"
+    },
+    {
+      "text": "The average cost of pet insurance in the U.S. is about $50 per month for dogs and $28 per month for cats.",
+      "source": "https://en.wikipedia.org/wiki/average_cost_of_pet_insurance_in_the_U.S"
+    },
+    {
+      "text": "Degus are small rodents from Chile that are highly social, can learn their names, and have been used in research on diabetes and Alzheimer's disease.",
+      "source": "https://en.wikipedia.org/wiki/Degus"
+    },
+    {
+      "text": "The Australian Shepherd was actually developed in the western United States, not Australia, primarily as a herding dog for ranchers.",
+      "source": "https://en.wikipedia.org/wiki/Australian_Shepherd"
+    },
+    {
+      "text": "A cat named Creme Puff held the Guinness World Record for the oldest cat ever, living to 38 years and 3 days.",
+      "source": "https://en.wikipedia.org/wiki/A_cat"
+    },
+    {
+      "text": "Animal shelters estimate that approximately 920,000 shelter animals are euthanized each year in the U.S., a number that has been declining steadily.",
+      "source": "https://en.wikipedia.org/wiki/Animal_shelters_estimate_that_approximately_920%2C000_shelter_animals"
+    },
+    {
+      "text": "Blue-tongued skinks are gentle pet reptiles known for their characteristic blue tongue, which they display as a defense mechanism against predators.",
+      "source": "https://en.wikipedia.org/wiki/Blue-tongued_skinks"
+    },
+    {
+      "text": "Dogs instinctively align themselves with the Earth's magnetic field when they poop, preferring a north-south orientation.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "Nyan Cat, a pixel-art animation of a cat with a Pop-Tart body flying through space, became one of the most iconic internet memes of the 2010s.",
+      "source": "https://en.wikipedia.org/wiki/Nyan_Cat%2C_a_pixel-art_animation_of_a_cat_with_a_Pop-Tart_body_flying_through_space"
+    },
+    {
+      "text": "Smart water fountains for pets filter and circulate water continuously, encouraging cats and dogs to drink more and stay properly hydrated.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "Mantis shrimp are kept by some exotic pet enthusiasts in saltwater aquariums, but they can punch through glass with their powerful claws.",
+      "source": "https://en.wikipedia.org/wiki/Mantis_shrimp"
+    },
+    {
+      "text": "The Siberian Husky has a thick double coat that insulates it in temperatures as low as minus 75 degrees Fahrenheit.",
+      "source": "https://en.wikipedia.org/wiki/Siberian_Husky"
+    },
+    {
+      "text": "Cats don't meow at other adult cats—they developed meowing primarily as a way to communicate with humans.",
+      "source": "https://en.wikipedia.org/wiki/Cats_don%27t_meow_at_other_adult_cats%E2%80%94they"
+    },
+    {
+      "text": "The pet travel industry has exploded, with pet-friendly hotels, airlines, and travel accessories becoming increasingly mainstream.",
+      "source": "https://en.wikipedia.org/wiki/pet_travel_industry"
+    },
+    {
+      "text": "Pygmy goats have become popular pets due to their playful personalities, small size, and ability to be house-trained.",
+      "source": "https://en.wikipedia.org/wiki/Pygmy_goats"
+    },
+    {
+      "text": "Balto, a Siberian Husky, became a national hero for leading a sled team through a blizzard to deliver diphtheria antitoxin to Nome, Alaska, in 1925.",
+      "source": "https://en.wikipedia.org/wiki/Balto%2C_a_Siberian_Husky"
+    },
+    {
+      "text": "Cats have scent glands on their cheeks, chin, forehead, and paws, which they use to mark their territory by rubbing against objects and people.",
+      "source": "https://en.wikipedia.org/wiki/Cats"
+    },
+    {
+      "text": "There are over 29,000 veterinary practices in the United States, and the field has one of the highest student debt-to-income ratios of any profession.",
+      "source": "https://en.wikipedia.org/wiki/There"
+    },
+    {
+      "text": "African dwarf frogs are fully aquatic and are popular low-maintenance pets that can live for up to 20 years in a well-maintained tank.",
+      "source": "https://en.wikipedia.org/wiki/African_dwarf_frogs"
+    },
+    {
+      "text": "The Weimaraner, known as the Grey Ghost, was originally bred for hunting large game like boar, bear, and deer for German nobility.",
+      "source": "https://en.wikipedia.org/wiki/Weimaraner%2C_known_as_the_Grey_Ghost"
+    },
+    {
+      "text": "Cats prefer to eat at ground level and tend to avoid eating from deep, narrow bowls because it causes whisker fatigue—discomfort from their sensitive whiskers touching the sides.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "The emotional support animal industry has grown significantly, though regulations have tightened to distinguish ESAs from trained service animals.",
+      "source": "https://en.wikipedia.org/wiki/emotional_support_animal_industry"
+    },
+    {
+      "text": "Hedgehogs can run several miles per night and make surprisingly good pets for people in most states, though they are illegal in some.",
+      "source": "https://en.wikipedia.org/wiki/Hedgehogs_can"
+    },
+    {
+      "text": "The Vizsla is often called a Velcro dog because of its tendency to attach itself to its owner and follow them everywhere.",
+      "source": "https://en.wikipedia.org/wiki/Vizsla"
+    },
+    {
+      "text": "A dog named Laika became the first animal to orbit the Earth when the Soviet Union launched her into space aboard Sputnik 2 in 1957.",
+      "source": "https://en.wikipedia.org/wiki/A_dog_named_Laika"
+    },
+    {
+      "text": "Cats have a reflective layer behind their retinas called the tapetum lucidum, which amplifies light and allows them to see in near-total darkness.",
+      "source": "https://en.wikipedia.org/wiki/Cats"
+    },
+    {
+      "text": "The most popular pet names in America include Bella, Max, Luna, and Charlie, with trends often following popular culture.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "Axolotls are critically endangered in the wild, surviving only in a few canals near Mexico City, but they thrive in captivity as popular exotic pets.",
+      "source": "https://en.wikipedia.org/wiki/Axolotls"
+    },
+    {
+      "text": "Dogs shake their bodies to remove water because it generates centripetal force of 10 to 70 times the force of gravity.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "The Ragdoll cat gets its name from its tendency to go limp and relaxed when picked up, like a cloth ragdoll.",
+      "source": "https://en.wikipedia.org/wiki/Ragdoll"
+    },
+    {
+      "text": "Approximately 23% of dogs and 24% of cats in the U.S. are adopted from animal shelters, with the number increasing each year.",
+      "source": "https://en.wikipedia.org/wiki/Approximately_23%25_of_dogs_and_24%25_of_cats_in_the_U.S"
+    },
+    {
+      "text": "Pet subscription boxes like BarkBox and Meowbox deliver curated toys, treats, and accessories monthly and have become a billion-dollar market segment.",
+      "source": "https://en.wikipedia.org/wiki/BarkBox_and_Meowbox"
+    },
+    {
+      "text": "The Rhodesian Ridgeback was originally bred in southern Africa to track lions, earning it the nickname Lion Dog.",
+      "source": "https://en.wikipedia.org/wiki/Rhodesian_Ridgeback"
+    },
+    {
+      "text": "A cat's hearing is extremely acute—they can hear sounds at frequencies up to 64,000 Hz, compared to a human's upper limit of about 20,000 Hz.",
+      "source": "https://en.wikipedia.org/wiki/A_cat%27s_hearing"
+    },
+    {
+      "text": "Veterinary telemedicine has grown rapidly, allowing pet owners to consult with veterinarians remotely through video calls for non-emergency health concerns.",
+      "source": "https://en.wikipedia.org/wiki/Veterinary_telemedicine"
+    },
+    {
+      "text": "Fennec foxes, the smallest of all fox species, are kept as exotic pets in some states and are known for their enormous ears and playful behavior.",
+      "source": "https://en.wikipedia.org/wiki/Fennec_foxes%2C_the_smallest_of_all_fox_species"
+    },
+    {
+      "text": "The Shih Tzu breed dates back over 1,000 years and was originally bred as a companion dog for Chinese royalty.",
+      "source": "https://en.wikipedia.org/wiki/Shih_Tzu_breed_dates_back_over_1%2C000_years_and"
+    },
+    {
+      "text": "Dogs have been shown to reduce their owners' blood pressure, cholesterol levels, and risk of heart disease, according to multiple medical studies.",
+      "source": "https://en.wikipedia.org/wiki/Dogs"
+    },
+    {
+      "text": "Self-cleaning litter boxes use sensors to detect when a cat has used the box and automatically rake waste into a sealed compartment.",
+      "source": "https://en.wikipedia.org/wiki/Self-cleaning_litter_boxes_use_sensors_to_detect_when_a_cat"
+    },
+    {
+      "text": "Hermit crabs can live for over 30 years in captivity with proper care, including appropriate humidity, temperature, and shell options.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "The Xoloitzcuintli, or Mexican Hairless Dog, is one of the oldest dog breeds, dating back over 3,000 years to the Aztec civilization.",
+      "source": "https://en.wikipedia.org/wiki/Xoloitzcuintli%2C_or_Mexican_Hairless_Dog"
+    },
+    {
+      "text": "Cats can run at speeds of up to 30 miles per hour in short bursts, making them faster than the fastest human sprinters.",
+      "source": "https://en.wikipedia.org/wiki/Cats_can"
+    },
+    {
+      "text": "The foster-to-adopt model at animal shelters has significantly improved adoption rates by allowing potential owners to trial pet ownership before committing.",
+      "source": "https://en.wikipedia.org/wiki/foster-to-adopt_model_at_animal_shelters"
+    },
+    {
+      "text": "Pacman frogs, named for their large mouths and round bodies, are popular pet amphibians that will eat almost anything that fits in their mouths.",
+      "source": "https://en.wikipedia.org/wiki/Pacman_frogs%2C_named_for_their_large_mouths_and_round_bodies"
+    },
+    {
+      "text": "The Bichon Frise was a favorite companion of French royalty and its hypoallergenic coat makes it popular among allergy sufferers.",
+      "source": "https://en.wikipedia.org/wiki/Bichon_Frise"
+    },
+    {
+      "text": "A dog's normal body temperature ranges from 101 to 102.5 degrees Fahrenheit, slightly higher than a human's normal temperature.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "Pet influencers on social media can earn thousands of dollars per sponsored post, with top pet accounts commanding fees comparable to human influencers.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "Savannah cats are a hybrid breed created by crossing a domestic cat with an African serval, producing a large, exotic-looking companion.",
+      "source": "https://en.wikipedia.org/wiki/Savannah_cats"
+    },
+    {
+      "text": "The concept of doggy daycare has grown enormously, with facilities offering socialization, exercise, and enrichment activities while owners are at work.",
+      "source": "https://en.wikipedia.org/wiki/concept_of_doggy_daycare"
+    },
+    {
+      "text": "Capybaras, the world's largest rodents, are kept as pets in some states and are known for their calm, social temperament.",
+      "source": "https://en.wikipedia.org/wiki/Capybaras%2C_the_world%27s_largest_rodents"
+    },
+    {
+      "text": "The Pomeranian was originally a much larger sled-pulling breed before being bred down to its current toy size starting in the 18th century.",
+      "source": "https://en.wikipedia.org/wiki/Pomeranian"
+    },
+    {
+      "text": "Cats have an incredibly fast reflex time of about 20 milliseconds, which is nearly twice as fast as a snake's strike.",
+      "source": "https://en.wikipedia.org/wiki/Cats"
+    },
+    {
+      "text": "The raw pet food diet movement has grown substantially, though veterinary organizations express concern about bacterial contamination and nutritional imbalances.",
+      "source": "https://en.wikipedia.org/wiki/raw_pet_food_diet_movement"
+    },
+    {
+      "text": "Leopard tortoises are popular pet tortoises that can live over 100 years and are named for their attractive spotted shell patterns.",
+      "source": "https://en.wikipedia.org/wiki/Leopard_tortoises"
+    },
+    {
+      "text": "The Cocker Spaniel was the most popular breed in the United States for many years and gained further fame from Disney's Lady and the Tramp.",
+      "source": "https://en.wikipedia.org/wiki/Cocker_Spaniel"
+    },
+    {
+      "text": "Dogs can detect changes in barometric pressure and static electricity before storms, which is why some dogs become anxious before bad weather.",
+      "source": "https://en.wikipedia.org/wiki/Dogs_can_detect_changes_in_barometric_pressure_and_static_electricity_before_storms%2C_which"
+    },
+    {
+      "text": "Cat cafés in Japan often require reservations and have strict rules about handling cats to ensure the animals' welfare and comfort.",
+      "source": "https://en.wikipedia.org/wiki/Cat_caf%C3%A9s_in_Japan_often_require_reservations_and"
+    },
+    {
+      "text": "Wearable fitness trackers designed for pets can monitor activity levels, sleep patterns, calories burned, and even detect changes in health.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "Chinchillas take dust baths instead of water baths, rolling in fine volcanic dust to absorb oils and maintain their incredibly dense fur.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "The Chow Chow has a blue-black tongue, one of only two dog breeds with this distinctive trait—the other being the Shar-Pei.",
+      "source": "https://en.wikipedia.org/wiki/Chow_Chow"
+    },
+    {
+      "text": "A cat named Oscar, who lived in a nursing home, would curl up beside patients shortly before they passed, correctly predicting over 100 deaths.",
+      "source": "https://en.wikipedia.org/wiki/A_cat"
+    },
+    {
+      "text": "The average lifespan of a pet hamster is about 2 to 3 years, making them one of the shorter-lived common household pets.",
+      "source": "https://en.wikipedia.org/wiki/average_lifespan_of_a_pet_hamster"
+    },
+    {
+      "text": "Corgis were originally bred as cattle herding dogs and would nip at the heels of cattle to drive them, relying on their low stature to avoid kicks.",
+      "source": "https://en.wikipedia.org/wiki/Corgis"
+    },
+    {
+      "text": "Pet DNA testing kits have become increasingly popular, allowing owners to discover their mixed-breed dog's genetic heritage and potential health risks.",
+      "source": "https://en.wikipedia.org/wiki/Pet_DNA_testing_kits"
+    },
+    {
+      "text": "Green iguanas can grow up to 6 feet long and require large enclosures, UVB lighting, and a strict herbivorous diet to stay healthy.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "The Maltese breed has been a companion dog for at least 2,000 years, with references appearing in ancient Greek and Roman literature.",
+      "source": "https://en.wikipedia.org/wiki/Maltese_breed"
+    },
+    {
+      "text": "Dogs have a special part of their brain dedicated to processing human faces, which is why they can read our facial expressions so well.",
+      "source": "https://en.wikipedia.org/wiki/Dogs"
+    },
+    {
+      "text": "Approximately 78% of pet owners consider their pets to be family members, according to surveys conducted by the American Pet Products Association.",
+      "source": "https://en.wikipedia.org/wiki/Approximately_78"
+    },
+    {
+      "text": "Poison dart frogs are sometimes kept as pets in bioactive terrariums, but they are only toxic in the wild due to their diet of specific insects.",
+      "source": "https://en.wikipedia.org/wiki/Poison_dart_frogs"
+    },
+    {
+      "text": "The Rottweiler was originally used to herd livestock and pull carts of butchered meat to market in the German town of Rottweil.",
+      "source": "https://en.wikipedia.org/wiki/Rottweiler"
+    },
+    {
+      "text": "Cats knead with their paws as a comforting behavior leftover from kittenhood, when they kneaded their mother's belly to stimulate milk flow.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "The pet supplement market, including vitamins, probiotics, and joint supplements, is valued at over $2 billion in the United States.",
+      "source": "https://en.wikipedia.org/wiki/pet_supplement_market%2C_including_vitamins%2C_probiotics%2C_and_joint_supplements"
+    },
+    {
+      "text": "Wallabies are exotic pets that require large outdoor spaces and specialized diets but can form strong bonds with their owners.",
+      "source": "https://en.wikipedia.org/wiki/Wallabies"
+    },
+    {
+      "text": "The Samoyed, originally bred by the Samoyedic people of Siberia, has a perpetual smile caused by the upturned corners of its mouth.",
+      "source": "https://en.wikipedia.org/wiki/Samoyed%2C_originally_bred_by_the_Samoyedic_people_of_Siberia"
+    },
+    {
+      "text": "Therapy animals are used in courtrooms to provide comfort to witnesses, particularly children, during stressful legal proceedings.",
+      "source": "https://en.wikipedia.org/wiki/Therapy_animals"
+    },
+    {
+      "text": "Smart pet collars can monitor a pet's vital signs, including heart rate and respiratory rate, and send alerts to the owner's phone if anomalies are detected.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "Octopuses are kept by advanced aquarium hobbyists but are notorious escape artists that can squeeze through any opening their beak can fit through.",
+      "source": "https://en.wikipedia.org/wiki/Octopuses"
+    },
+    {
+      "text": "The Doberman Pinscher was created by a German tax collector named Karl Friedrich Louis Dobermann who wanted a loyal protection dog.",
+      "source": "https://en.wikipedia.org/wiki/Doberman_Pinscher"
+    },
+    {
+      "text": "Cats spend roughly 10% of their waking hours grooming, which helps them regulate body temperature and stimulate blood circulation.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "The pet adoption movement has been bolstered by social media, with countless pets finding forever homes through viral posts and dedicated adoption pages.",
+      "source": "https://en.wikipedia.org/wiki/pet_adoption_movement"
+    },
+    {
+      "text": "Dwarf hamsters are more social than Syrian hamsters and can often be kept in same-sex pairs without significant conflict.",
+      "source": "https://en.wikipedia.org/wiki/Dwarf_hamsters"
+    },
+    {
+      "text": "The Yorkshire Terrier was originally bred in 19th-century England to catch rats in clothing mills before becoming a fashionable companion dog.",
+      "source": "https://en.wikipedia.org/wiki/Yorkshire_Terrier"
+    },
+    {
+      "text": "Dogs can see in shades of blue and yellow but cannot distinguish between red and green, similar to red-green colorblind humans.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "Pet food recalls are monitored by the FDA, which requires manufacturers to report any contamination or mislabeling within 24 hours of discovery.",
+      "source": "https://en.wikipedia.org/wiki/Pet_food_recalls"
+    },
+    {
+      "text": "Blue poison dart frogs in captivity lose their toxicity entirely because their poison comes from specific ants and mites they eat in the wild.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "The Alaskan Malamute is one of the oldest Arctic sled dog breeds and was used by the Mahlemut Inuit people for hauling heavy loads.",
+      "source": "https://en.wikipedia.org/wiki/Alaskan_Malamute"
+    },
+    {
+      "text": "Cats produce a protein called Fel d 1 in their saliva and skin, which is the primary allergen responsible for cat allergies in humans.",
+      "source": "https://en.wikipedia.org/wiki/Cats_produce_a_protein_called_Fel_d_1_in_their_saliva_and_skin%2C_which"
+    },
+    {
+      "text": "Mobile pet grooming services have surged in popularity, with fully equipped vans bringing the grooming salon directly to the pet owner's doorstep.",
+      "source": "https://en.wikipedia.org/wiki/Mobile_pet_grooming_services"
+    },
+    {
+      "text": "Piranhas are kept as exotic aquarium fish but are surprisingly timid in captivity and rarely show aggression toward their owners.",
+      "source": "https://en.wikipedia.org/wiki/Piranhas"
+    },
+    {
+      "text": "The Boxer got its name from its tendency to stand on its hind legs and bat at opponents with its front paws during play.",
+      "source": "https://en.wikipedia.org/wiki/Boxer"
+    },
+    {
+      "text": "A dog named Sergeant Stubby served in World War I and became the most decorated war dog in U.S. history.",
+      "source": "https://en.wikipedia.org/wiki/A_dog_named_Sergeant_Stubby_served_in_World_War_I_and"
+    },
+    {
+      "text": "Cats land on their feet using a combination of inner ear balance, flexible spine rotation, and low terminal velocity due to their small body mass.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "The American Kennel Club was founded in 1884 and serves as the largest purebred dog registry in the United States.",
+      "source": "https://en.wikipedia.org/wiki/American_Kennel_Club"
+    },
+    {
+      "text": "Ferrets sleep for 14 to 18 hours per day and are most active at dawn and dusk, making them crepuscular animals.",
+      "source": "https://en.wikipedia.org/wiki/Ferrets_sleep_for_14_to_18_hours_per_day_and"
+    },
+    {
+      "text": "The Bulldog has become so overbred for its flat face that many Bulldogs require cesarean delivery because puppies' heads are too large for natural birth.",
+      "source": "https://en.wikipedia.org/wiki/Bulldog"
+    },
+    {
+      "text": "Dog parks began appearing in the 1990s and have since become standard amenities in most American cities, with dedicated areas for small and large dogs.",
+      "source": "https://en.wikipedia.org/wiki/Dog_parks_began_appearing_in_the_1990s_and"
+    },
+    {
+      "text": "Aquarium fishkeeping is the second most popular hobby in the world after photography, with millions of enthusiasts maintaining freshwater and saltwater tanks.",
+      "source": "https://en.wikipedia.org/wiki/Aquarium_fishkeeping"
+    },
+    {
+      "text": "The Abyssinian cat is one of the oldest known cat breeds, believed to have originated in ancient Egypt based on artifacts depicting similar cats.",
+      "source": "https://en.wikipedia.org/wiki/Abyssinian_cat"
+    },
+    {
+      "text": "Pet obesity has become a significant veterinary concern, with an estimated 60% of cats and 56% of dogs in the U.S. being overweight or obese.",
+      "source": "https://en.wikipedia.org/wiki/Pet_obesity"
+    },
+    {
+      "text": "The Papillon dog breed is named for its butterfly-shaped ears—papillon is French for butterfly.",
+      "source": "https://en.wikipedia.org/wiki/Papillon_dog_breed"
+    },
+    {
+      "text": "Dogs have been domesticated for at least 15,000 years, making them the first animal species ever domesticated by humans.",
+      "source": "https://en.wikipedia.org/wiki/Dogs"
+    },
+    {
+      "text": "Cat shelters increasingly use free-roaming room designs instead of cages, which reduces stress and increases adoption rates.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "Robotic pet companions like Sony's Aibo have been developed for people who cannot own live pets due to allergies, housing restrictions, or health limitations.",
+      "source": "https://en.wikipedia.org/wiki/Robotic_pet_companions_like_Sony%27s_Aibo"
+    },
+    {
+      "text": "Veiled chameleons are popular pet reptiles that change color primarily to communicate mood and regulate temperature rather than for camouflage.",
+      "source": "https://en.wikipedia.org/wiki/Veiled_chameleons"
+    },
+    {
+      "text": "The Irish Wolfhound is the tallest dog breed when measured on its hind legs, with some individuals standing over 7 feet tall.",
+      "source": "https://en.wikipedia.org/wiki/Irish_Wolfhound"
+    },
+    {
+      "text": "Cats have barbed tongues that can strip meat from bone, with the tiny hook-like structures called papillae serving as a natural detangling tool.",
+      "source": "https://en.wikipedia.org/wiki/Cats"
+    },
+    {
+      "text": "Electric invisible fences for dogs use a collar receiver and a buried wire perimeter to train dogs to stay within designated boundaries.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "Hedgehogs will anoint themselves by spreading foamy saliva on their quills when they encounter new scents, a behavior called self-anointing.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "The Cane Corso is an Italian mastiff breed that was historically used for guarding property, hunting wild boar, and even fighting in Roman gladiatorial games.",
+      "source": "https://en.wikipedia.org/wiki/Cane_Corso"
+    },
+    {
+      "text": "Pet psychics and animal communicators have become a growing niche industry, with some practitioners charging hundreds of dollars per session.",
+      "source": "https://en.wikipedia.org/wiki/Pet_psychics_and_animal_communicators"
+    },
+    {
+      "text": "Cockatiels can learn to whistle entire songs and are one of the most popular pet bird species in the world after budgies.",
+      "source": "https://en.wikipedia.org/wiki/Cockatiels_can_learn_to_whistle_entire_songs_and"
+    },
+    {
+      "text": "The Pit Bull is not actually a specific breed but a term used to describe several breeds including the American Pit Bull Terrier and American Staffordshire Terrier.",
+      "source": "https://en.wikipedia.org/wiki/Pit_Bull"
+    },
+    {
+      "text": "Dogs' sense of hearing is four times more sensitive than humans', allowing them to detect sounds at frequencies up to 65,000 Hz.",
+      "source": "https://en.wikipedia.org/wiki/Dogs%27_sense_of_hearing"
+    },
+    {
+      "text": "Cat trees and climbing walls have become increasingly elaborate, with some custom installations costing thousands of dollars and covering entire walls.",
+      "source": "https://en.wikipedia.org/wiki/Cat_trees_and_climbing_walls"
+    },
+    {
+      "text": "The market for organic and natural pet food has tripled in the past decade as owners increasingly seek high-quality, human-grade ingredients for their pets.",
+      "source": "https://en.wikipedia.org/wiki/market_for_organic_and_natural_pet_food"
+    },
+    {
+      "text": "Corn snakes are excellent escape artists and can squeeze through remarkably small gaps, making a secure enclosure essential for owners.",
+      "source": "https://en.wikipedia.org/wiki/Corn_snakes"
+    },
+    {
+      "text": "The Shiba Inu is the most popular companion dog breed in Japan and was originally bred for hunting small game in mountainous terrain.",
+      "source": "https://en.wikipedia.org/wiki/Shiba_Inu"
+    },
+    {
+      "text": "Cats have 230 bones in their body, compared to 206 in humans, with the extra bones mostly in their spine and tail providing extreme flexibility.",
+      "source": "https://en.wikipedia.org/wiki/Cats"
+    },
+    {
+      "text": "The TNR (Trap-Neuter-Return) method has become the most humane and effective approach for managing feral cat colonies in communities.",
+      "source": "https://en.wikipedia.org/wiki/TNR_(Trap-Neuter-Return)_method"
+    },
+    {
+      "text": "Tarantulas molt their exoskeleton regularly as they grow, and the molting process can take several hours during which they are extremely vulnerable.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "The Labradoodle was originally bred in Australia in 1988 as a hypoallergenic guide dog by crossing a Labrador Retriever with a Standard Poodle.",
+      "source": "https://en.wikipedia.org/wiki/Labradoodle"
+    },
+    {
+      "text": "Dogs can be left-pawed or right-pawed, just like humans are left-handed or right-handed, with some dogs showing a clear paw preference.",
+      "source": "https://en.wikipedia.org/wiki/Dogs_can_be_left-pawed_or_right-pawed%2C_just_like_humans"
+    },
+    {
+      "text": "Pet owners who walk their dogs regularly get an average of 30 minutes more exercise per day than non-dog owners.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "The Japanese Bobtail cat has a short, bunny-like tail and is considered a symbol of good luck in Japan, inspiring the Maneki-neko figurine.",
+      "source": "https://en.wikipedia.org/wiki/Japanese_Bobtail_cat"
+    },
+    {
+      "text": "Emotional support animals and therapy animals serve different legal roles—ESAs provide comfort through companionship while therapy animals are trained for structured interventions.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "Seahorses are among the most difficult marine fish to keep in a home aquarium, requiring specialized slow-flow tanks and live food.",
+      "source": "https://en.wikipedia.org/wiki/Seahorses"
+    },
+    {
+      "text": "The Tibetan Mastiff is one of the most expensive dog breeds, with one puppy selling for nearly $2 million in China.",
+      "source": "https://en.wikipedia.org/wiki/Tibetan_Mastiff"
+    },
+    {
+      "text": "Cats hate the smell of citrus, which is why orange and lemon peels are often recommended as natural cat repellents for gardens.",
+      "source": "https://en.wikipedia.org/wiki/Cats_hate_the_smell_of_citrus%2C_which"
+    },
+    {
+      "text": "The ASPCA estimates that it costs approximately $1,391 per year to own a medium-sized dog and $1,149 per year to own a cat.",
+      "source": "https://en.wikipedia.org/wiki/ASPCA"
+    },
+    {
+      "text": "Glass frogs, named for their transparent bellies that reveal their internal organs, are becoming increasingly popular among experienced amphibian keepers.",
+      "source": "https://en.wikipedia.org/wiki/Glass_frogs%2C_named_for_their_transparent_bellies_that_reveal_their_internal_organs"
+    },
+    {
+      "text": "The Havanese is the national dog of Cuba and is the only dog breed native to the island.",
+      "source": "https://en.wikipedia.org/wiki/Havanese"
+    },
+    {
+      "text": "Dogs yawn contagiously—seeing their owner yawn makes dogs yawn, a sign of empathy that strengthens the human-animal bond.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "Indoor cat enrichment, including puzzle feeders, window perches, and interactive toys, has become a major focus of modern pet care.",
+      "source": "https://en.wikipedia.org/wiki/Indoor_cat_enrichment%2C_including_puzzle_feeders%2C_window_perches%2C_and_interactive_toys"
+    },
+    {
+      "text": "Approximately 44% of all households in the United States have a dog, making dogs the most common household pet.",
+      "source": "https://en.wikipedia.org/wiki/Approximately_44%25_of_all_households_in_the_United_States"
+    },
+    {
+      "text": "Monitor lizards, particularly the Savannah monitor, are popular among experienced reptile keepers but can grow to 5 feet and require spacious enclosures.",
+      "source": "https://en.wikipedia.org/wiki/Monitor_lizards%2C_particularly_the_Savannah_monitor"
+    },
+    {
+      "text": "The French Bulldog has surged in popularity to become one of the top three most registered breeds in the U.S. and UK.",
+      "source": "https://en.wikipedia.org/wiki/French_Bulldog"
+    },
+    {
+      "text": "A cat's brain is 90% similar to a human brain, sharing identical regions for processing emotions.",
+      "source": "https://en.wikipedia.org/wiki/A_cat%27s_brain"
+    },
+    {
+      "text": "Spay and neuter programs have significantly reduced pet overpopulation, with some cities achieving save rates above 90% in their shelters.",
+      "source": "https://en.wikipedia.org/wiki/Spay_and_neuter_programs"
+    },
+    {
+      "text": "Dart frogs are tiny—some species are less than half an inch long—but they are among the most vividly colored creatures on the planet.",
+      "source": "https://en.wikipedia.org/wiki/Dart_frogs"
+    },
+    {
+      "text": "The Brittany Spaniel is one of the most versatile hunting dogs and has won more dual championships (field and show) than any other breed.",
+      "source": "https://en.wikipedia.org/wiki/Brittany_Spaniel"
+    },
+    {
+      "text": "Dogs lick their owners as a sign of affection, but licking also releases pleasurable endorphins that calm and comfort the dog.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "Cat subscription services now deliver monthly boxes of themed toys, treats, and accessories tailored to a cat's age and activity level.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "The pet tech industry is projected to reach $20 billion globally, driven by innovations in wearables, automated feeders, and health monitoring devices.",
+      "source": "https://en.wikipedia.org/wiki/pet_tech_industry"
+    },
+    {
+      "text": "Giant African land snails can grow up to 8 inches long and are among the largest terrestrial gastropods kept as pets.",
+      "source": "https://en.wikipedia.org/wiki/Giant_African_land_snails_can_grow_up_to_8_inches_long_and"
+    },
+    {
+      "text": "The Bloodhound can follow trails that are over 300 hours old, making it the gold standard for scent-tracking dogs used in search and rescue.",
+      "source": "https://en.wikipedia.org/wiki/Bloodhound_can_follow_trails_that"
+    },
+    {
+      "text": "Cats have a third eyelid called the nictitating membrane that protects their eyes and keeps them moist while still allowing some visibility.",
+      "source": "https://en.wikipedia.org/wiki/Cats"
+    },
+    {
+      "text": "Approximately 3.1 million dogs and 3.2 million cats enter U.S. animal shelters each year, according to the ASPCA.",
+      "source": "https://en.wikipedia.org/wiki/Approximately_3"
+    },
+    {
+      "text": "Uromastyx lizards, or spiny-tailed lizards, are herbivorous desert reptiles that make calm, low-maintenance pets for reptile enthusiasts.",
+      "source": "https://en.wikipedia.org/wiki/Uromastyx_lizards%2C_or_spiny-tailed_lizards"
+    },
+    {
+      "text": "The Jack Russell Terrier was bred by Reverend John Russell in England specifically for fox hunting in the 19th century.",
+      "source": "https://en.wikipedia.org/wiki/Jack_Russell_Terrier"
+    },
+    {
+      "text": "Dogs dream about their owners—research suggests that dogs likely dream about familiar activities and the people they interact with most.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "The cat litter industry is worth over $6 billion globally, with clumping, crystal, and biodegradable options dominating the market.",
+      "source": "https://en.wikipedia.org/wiki/cat_litter_industry"
+    },
+    {
+      "text": "Micro-chipping is now mandatory for dogs in several countries including the UK, where all dogs must be chipped by 8 weeks of age.",
+      "source": "https://en.wikipedia.org/wiki/Micro-chipping"
+    },
+    {
+      "text": "The White's tree frog, also known as the dumpy tree frog, is one of the most beginner-friendly pet frogs due to its hardiness and docile nature.",
+      "source": "https://en.wikipedia.org/wiki/White%27s_tree_frog%2C_also_known_as_the_dumpy_tree_frog"
+    },
+    {
+      "text": "The Portuguese Water Dog gained fame as the breed chosen by the Obama family during their time in the White House.",
+      "source": "https://en.wikipedia.org/wiki/Portuguese_Water_Dog"
+    },
+    {
+      "text": "Cats are obligate carnivores, meaning they require nutrients like taurine that are found only in animal tissue to survive.",
+      "source": "https://en.wikipedia.org/wiki/Cats"
+    },
+    {
+      "text": "Pet-friendly rental housing has become a major issue, with some states and cities passing laws to protect tenants' rights to keep pets.",
+      "source": "https://en.wikipedia.org/wiki/Pet-friendly_rental_housing"
+    },
+    {
+      "text": "Sugar gliders require a specialized diet of fruits, vegetables, and protein, and can become severely malnourished on an incorrect diet.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "The English Bulldog's popularity has led to significant health concerns due to brachycephalic syndrome, including breathing difficulties and overheating.",
+      "source": "https://en.wikipedia.org/wiki/English_Bulldog%27s_popularity"
+    },
+    {
+      "text": "Research shows that children who grow up with pets tend to have stronger immune systems and are less likely to develop allergies and asthma.",
+      "source": "https://en.wikipedia.org/wiki/Research_shows_that_children_who_grow_up_with_pets_tend_to"
+    },
+    {
+      "text": "Pet fountains encourage cats and dogs to drink more water by providing a continuous flow, which many animals prefer over stagnant water in bowls.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "The Burmese python, which can grow over 20 feet long, has become an invasive species in the Florida Everglades after being released by pet owners.",
+      "source": "https://en.wikipedia.org/wiki/Burmese_python%2C_which_can_grow_over_20_feet_long"
+    },
+    {
+      "text": "The Australian Cattle Dog holds the record for the longest-lived dog, with one named Bluey living to 29 years and 5 months.",
+      "source": "https://en.wikipedia.org/wiki/Australian_Cattle_Dog_holds_the_record_for_the_longest-lived_dog%2C_with_one"
+    },
+    {
+      "text": "Cats slow-blink at their owners as a sign of trust and affection, and you can slow-blink back to communicate the same.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "The average veterinary school graduate in the U.S. carries over $180,000 in student loan debt, despite relatively modest starting salaries.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "Snapping turtles are occasionally kept as exotic pets but can deliver a bite force of over 200 pounds and are not recommended for beginners.",
+      "source": "https://en.wikipedia.org/wiki/Snapping_turtles"
+    },
+    {
+      "text": "The Brussels Griffon was originally bred to hunt rats in Belgian stables before becoming a popular companion dog.",
+      "source": "https://en.wikipedia.org/wiki/Brussels_Griffon"
+    },
+    {
+      "text": "Service dogs perform over 30 types of tasks including opening doors, turning on lights, retrieving dropped items, and alerting to medical emergencies.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "Cat behaviorists and consultants have become increasingly common, helping owners address issues like litter box avoidance, aggression, and destructive scratching.",
+      "source": "https://en.wikipedia.org/wiki/Cat_behaviorists_and_consultants"
+    },
+    {
+      "text": "The annual cost of owning a horse averages between $3,000 and $10,000, covering feed, veterinary care, farrier visits, and boarding.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "Baby sulcata tortoises, which fit in the palm of your hand, can grow to over 100 pounds as adults and live for over 70 years.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "The Saluki is considered one of the oldest dog breeds, with evidence of Saluki-like dogs in ancient Sumerian carvings dating back 7,000 years.",
+      "source": "https://en.wikipedia.org/wiki/Saluki"
+    },
+    {
+      "text": "Dogs can recognize other dogs from their barks, distinguishing between familiar and unfamiliar dogs based on vocal characteristics alone.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "The U.S. has over 12,000 pet stores, though the market has shifted substantially toward online retailers and specialty boutiques.",
+      "source": "https://en.wikipedia.org/wiki/U.S"
+    },
+    {
+      "text": "Red-footed tortoises from South America are popular pet tortoises due to their manageable size, attractive coloring, and relatively easy care requirements.",
+      "source": "https://en.wikipedia.org/wiki/Red-footed_tortoises_from_South_America"
+    },
+    {
+      "text": "The Flat-Coated Retriever is known as the Peter Pan of dogs because of its puppy-like enthusiasm and playfulness that persists well into adulthood.",
+      "source": "https://en.wikipedia.org/wiki/Flat-Coated_Retriever"
+    },
+    {
+      "text": "Cats have individual preferences for paw use, with studies showing about 40% are right-pawed, 20% are left-pawed, and 40% are ambidextrous.",
+      "source": "https://en.wikipedia.org/wiki/Cats"
+    },
+    {
+      "text": "Pet-friendly offices have become a significant job perk, with companies like Google and Amazon allowing employees to bring dogs to work.",
+      "source": "https://en.wikipedia.org/wiki/Pet-friendly_offices"
+    },
+    {
+      "text": "Mexican red-knee tarantulas are one of the most recognizable tarantula species due to their colorful leg markings and are popular among arachnid enthusiasts.",
+      "source": "https://en.wikipedia.org/wiki/Mexican_red-knee_tarantulas"
+    },
+    {
+      "text": "The English Springer Spaniel has the most sensitive nose of any domestic dog breed and is extensively used for detection work by law enforcement.",
+      "source": "https://en.wikipedia.org/wiki/English_Springer_Spaniel"
+    },
+    {
+      "text": "Cats can live on a strictly indoor diet and lifestyle, and indoor cats tend to be healthier and live significantly longer than outdoor cats.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "The first pet insurance policy was written in Sweden in 1890, and the industry didn't gain traction in the U.S. until the 1980s.",
+      "source": "https://en.wikipedia.org/wiki/first_pet_insurance_policy"
+    },
+    {
+      "text": "Dumbo rats, named for their large round ears, are a variety of fancy rat known for being particularly calm and affectionate.",
+      "source": "https://en.wikipedia.org/wiki/Dumbo_rats%2C_named_for_their_large_round_ears"
+    },
+    {
+      "text": "The Basenji is often called the barkless dog of Africa, and some researchers believe it may be the breed most closely related to ancient dogs.",
+      "source": "https://en.wikipedia.org/wiki/Basenji"
+    },
+    {
+      "text": "Studies show that talking to your pets in a high-pitched voice—similar to baby talk—actually helps dogs pay attention and strengthens your bond with them.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "Automatic ball launchers like iFetch allow dogs to play fetch independently, providing mental and physical stimulation even when their owners are busy.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "The Flemish Giant rabbit can weigh over 20 pounds and stretch over 4 feet long, making it the largest domestic rabbit breed.",
+      "source": "https://en.wikipedia.org/wiki/Flemish_Giant"
+    },
+    {
+      "text": "The Italian Greyhound is a miniature version of the Greyhound that was a favorite lap dog among European nobility for centuries.",
+      "source": "https://en.wikipedia.org/wiki/Italian_Greyhound"
+    },
+    {
+      "text": "Dogs are one of the few animals that can read human pointing gestures instinctively, a skill that even chimpanzees struggle to master.",
+      "source": "https://en.wikipedia.org/wiki/Dogs"
+    },
+    {
+      "text": "The grain-free pet food trend has raised concerns after the FDA reported a potential link between grain-free diets and dilated cardiomyopathy in dogs.",
+      "source": "https://en.wikipedia.org/wiki/grain-free_pet_food_trend"
+    },
+    {
+      "text": "Sulcata tortoises, also called African spurred tortoises, are the third-largest tortoise species and the most commonly kept large tortoise as a pet.",
+      "source": "https://en.wikipedia.org/wiki/Sulcata_tortoises%2C_also_called_African_spurred_tortoises"
+    },
+    {
+      "text": "The Nova Scotia Duck Tolling Retriever lures ducks within gunshot range by playing along the shoreline, a hunting technique called tolling.",
+      "source": "https://en.wikipedia.org/wiki/Nova_Scotia_Duck_Tolling_Retriever"
+    },
+    {
+      "text": "Cats can see ultraviolet light, giving them a visual world that is literally invisible to humans.",
+      "source": "https://en.wikipedia.org/wiki/Cats_can_see_ultraviolet_light%2C_giving_them_a_visual_world_that"
+    },
+    {
+      "text": "Virtual pet adoption events became popular during the pandemic, allowing shelters to show available animals via live video calls.",
+      "source": "https://en.wikipedia.org/wiki/Virtual_pet_adoption_events"
+    },
+    {
+      "text": "Argentine black and white tegus are large, intelligent lizards that can be house-trained and will seek out their owners for attention.",
+      "source": "https://en.wikipedia.org/wiki/Argentine_black_and_white_tegus"
+    },
+    {
+      "text": "The Cavalier King Charles Spaniel is particularly popular as a therapy dog because of its exceptionally gentle and empathetic temperament.",
+      "source": "https://en.wikipedia.org/wiki/Cavalier_King_Charles_Spaniel"
+    },
+    {
+      "text": "A group of pugs is called a grumble, making it one of the most charming collective nouns in the animal kingdom.",
+      "source": "https://en.wikipedia.org/wiki/A_group_of_pugs"
+    },
+    {
+      "text": "Pet waste removal services have become a thriving niche business, with some companies serving hundreds of clients and generating six-figure revenues.",
+      "source": "https://en.wikipedia.org/wiki/Pet_waste_removal_services"
+    },
+    {
+      "text": "Panther chameleons from Madagascar display some of the most dramatic color changes of any chameleon species and are popular among reptile enthusiasts.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "The Whippet can accelerate faster than any other dog breed, reaching top speed in just a few strides.",
+      "source": "https://en.wikipedia.org/wiki/Whippet"
+    },
+    {
+      "text": "Cats who live in multi-cat households establish complex social hierarchies and communicate through subtle body language cues invisible to most owners.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "The average American household with pets spends over $1,300 per year at pet stores and veterinary clinics combined.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "Ball pythons are called ball pythons because they curl into a tight ball when they feel threatened, tucking their head inside their coils.",
+      "source": "https://en.wikipedia.org/wiki/Ball_pythons"
+    },
+    {
+      "text": "The Border Terrier was bred to have legs long enough to keep up with horses on foxhunts but a body small enough to flush foxes from their dens.",
+      "source": "https://en.wikipedia.org/wiki/Border_Terrier"
+    },
+    {
+      "text": "Dogs can be trained as diabetic alert dogs, detecting drops in blood sugar by smelling chemical changes in their owner's sweat.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "Freeze-dried and dehydrated pet foods have become a premium market segment, offering the convenience of kibble with nutrition closer to raw diets.",
+      "source": "https://en.wikipedia.org/wiki/Freeze-dried_and_dehydrated_pet_foods"
+    },
+    {
+      "text": "Day geckos from Madagascar are strikingly colorful and are one of the few gecko species that are diurnal, meaning they are active during the day.",
+      "source": "https://en.wikipedia.org/wiki/Day_geckos_from_Madagascar"
+    },
+    {
+      "text": "The Great Pyrenees was originally bred to guard livestock on the steep slopes of the Pyrenees Mountains between France and Spain.",
+      "source": "https://en.wikipedia.org/wiki/Great_Pyrenees"
+    },
+    {
+      "text": "Cats' tails contain nearly 10% of all the bones in their body and serve as a crucial counterbalance during high-speed turns and jumps.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "Pet adoption fees typically range from $50 to $300 and usually include spaying or neutering, vaccinations, and microchipping.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "Fancy goldfish varieties like Orandas, Ryukins, and Ranchus have been selectively bred for centuries in Asia and bear little resemblance to common goldfish.",
+      "source": "https://en.wikipedia.org/wiki/Fancy_goldfish_varieties_like_Orandas%2C_Ryukins%2C_and_Ranchus"
+    },
+    {
+      "text": "The Pharaoh Hound is one of the few dog breeds that blushes—its ears and nose turn rosy pink when it is happy or excited.",
+      "source": "https://en.wikipedia.org/wiki/Pharaoh_Hound"
+    },
+    {
+      "text": "Dogs are social sleepers and prefer to sleep next to their owners or other dogs, a behavior rooted in their pack-animal ancestry.",
+      "source": "https://en.wikipedia.org/wiki/Dogs"
+    },
+    {
+      "text": "The concept of pet wellness plans, which cover routine preventive care for a monthly fee, has grown as an alternative to traditional pet insurance.",
+      "source": "https://en.wikipedia.org/wiki/concept_of_pet_wellness_plans%2C_which_cover_routine_preventive_care_for_a_monthly_fee"
+    },
+    {
+      "text": "Gargoyle geckos and crested geckos are called eyelash geckos due to the small crests above their eyes that resemble eyelashes.",
+      "source": "https://en.wikipedia.org/wiki/Gargoyle_geckos_and_crested_geckos"
+    },
+    {
+      "text": "The Airedale Terrier is the largest of all terrier breeds and was used as a messenger and sentry dog during World War I.",
+      "source": "https://en.wikipedia.org/wiki/Airedale_Terrier"
+    },
+    {
+      "text": "Cats' purring may serve a self-healing function, as the vibration frequencies can promote tissue regeneration and reduce inflammation.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "The pet industry has seen rapid growth in personalized products, from custom pet portraits to DNA-based food recommendations.",
+      "source": "https://en.wikipedia.org/wiki/pet_industry"
+    },
+    {
+      "text": "Cuttlefish kept in home aquariums can change their color and texture in milliseconds and are considered among the most intelligent invertebrates.",
+      "source": "https://en.wikipedia.org/wiki/Cuttlefish_kept_in_home_aquariums_can_change_their_color_and_texture_in_milliseconds_and"
+    },
+    {
+      "text": "The Standard Poodle was the original breed, with Miniature and Toy varieties developed later as companions rather than working water dogs.",
+      "source": "https://en.wikipedia.org/wiki/Standard_Poodle"
+    },
+    {
+      "text": "Dogs have a sense of fairness and will refuse treats if they see another dog getting a better reward for the same task.",
+      "source": "https://en.wikipedia.org/wiki/Dogs"
+    },
+    {
+      "text": "Indoor cat walls with shelves, tunnels, and perches have become popular home modifications, sometimes called catification.",
+      "source": "https://en.wikipedia.org/wiki/Indoor_cat_walls_with_shelves%2C_tunnels%2C_and_perches"
+    },
+    {
+      "text": "About 10% of pet cats and dogs in the United States are now covered by pet insurance, up from just 1% a decade ago.",
+      "source": "https://en.wikipedia.org/wiki/About_10%25_of_pet_cats_and_dogs_in_the_United_States"
+    },
+    {
+      "text": "Hissing cockroaches from Madagascar are kept as pets by exotic animal enthusiasts and are one of the few cockroach species that make noise.",
+      "source": "https://en.wikipedia.org/wiki/Hissing_cockroaches_from_Madagascar"
+    },
+    {
+      "text": "The Belgian Malinois has largely replaced the German Shepherd as the preferred breed for military and police K-9 units due to its agility and drive.",
+      "source": "https://en.wikipedia.org/wiki/Belgian_Malinois"
+    },
+    {
+      "text": "Cats cannot taste sweetness because they lack the gene for the sweet taste receptor, making them indifferent to sugary foods.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "The U.S. has over 3,500 animal shelters and rescue organizations, with many relying heavily on volunteers and donations to operate.",
+      "source": "https://en.wikipedia.org/wiki/U.S"
+    },
+    {
+      "text": "Leopard geckos can detach their tails when threatened and later regrow them, though the replacement tail is usually shorter and has a different appearance.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "The Keeshond was the mascot of Dutch patriots during the 18th-century political uprising and remains the national dog of the Netherlands.",
+      "source": "https://en.wikipedia.org/wiki/Keeshond"
+    },
+    {
+      "text": "Walking your dog provides mental health benefits for both the dog and the owner, including reduced anxiety, depression, and feelings of loneliness.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "Pet camera technology now includes features like AI-powered bark detection, two-way audio, and the ability to dispense treats remotely.",
+      "source": "https://en.wikipedia.org/wiki/Pet_camera_technology_now"
+    },
+    {
+      "text": "African sideneck turtles are popular pet turtles that cannot fully retract into their shells and instead tuck their heads sideways under the rim.",
+      "source": "https://en.wikipedia.org/wiki/African_sideneck_turtles"
+    },
+    {
+      "text": "The Dandie Dinmont Terrier is the only dog breed named after a fictional character, from Sir Walter Scott's novel Guy Mannering.",
+      "source": "https://en.wikipedia.org/wiki/Dandie_Dinmont_Terrier"
+    },
+    {
+      "text": "Cats can detect illness in other animals and humans, often becoming unusually clingy or attentive when someone in the household is sick.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "The average dog knows about 165 words, with super-smart breeds capable of learning over 250 words and simple sentences.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "Aquaponics systems that combine fish keeping with plant growing have gained popularity among hobbyists as a sustainable way to garden and maintain fish.",
+      "source": "https://en.wikipedia.org/wiki/Aquaponics_systems_that_combine_fish_keeping_with_plant_growing"
+    },
+    {
+      "text": "The Soft Coated Wheaten Terrier gets progressively lighter in color as it matures, starting with a warm red puppy coat that fades to wheaten gold.",
+      "source": "https://en.wikipedia.org/wiki/Soft_Coated_Wheaten_Terrier"
+    },
+    {
+      "text": "Pet therapy programs in hospitals have been shown to reduce pain perception, lower anxiety, and decrease the need for pain medication in patients.",
+      "source": "https://en.wikipedia.org/wiki/Pet_therapy_programs_in_hospitals"
+    },
+    {
+      "text": "Ball python morphs—genetic color and pattern variations—number in the thousands, with rare morphs costing thousands of dollars each.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "The Schipperke, a small Belgian breed, was originally bred to guard canal boats and catch rats.",
+      "source": "https://en.wikipedia.org/wiki/Schipperke%2C_a_small_Belgian_breed"
+    },
+    {
+      "text": "Cats prefer to be petted on their cheeks and chin rather than their belly, as belly exposure is a sign of trust rather than an invitation to touch.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    },
+    {
+      "text": "The pet funeral industry generates over $100 million annually in the United States, offering services including memorials, cremation urns, and burial plots.",
+      "source": "https://en.wikipedia.org/wiki/United_States"
+    },
+    {
+      "text": "The Akita Inu was designated a Japanese national monument in 1931, and the breed is considered a symbol of good health, long life, and happiness.",
+      "source": "https://en.wikipedia.org/wiki/Akita_Inu"
+    },
+    {
+      "text": "Dogs can smell separately with each nostril, allowing them to determine the direction a scent trail is heading.",
+      "source": "https://en.wikipedia.org/wiki/Pets_%26_Animals"
+    }
+  ]
+}

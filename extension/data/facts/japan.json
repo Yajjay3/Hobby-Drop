@@ -1,0 +1,1022 @@
+{
+  "hobby": "Japan",
+  "facts": [
+    {
+      "text": "Japan is an island nation in East Asia made up of four main islands: Honshu, Hokkaido, Kyushu, and Shikoku.",
+      "source": "https://en.wikipedia.org/wiki/Japan"
+    },
+    {
+      "text": "Tokyo is Japan's capital and one of the largest metropolitan areas in the world.",
+      "source": "https://en.wikipedia.org/wiki/Tokyo"
+    },
+    {
+      "text": "Mount Fuji is Japan's most famous mountain and an enduring national symbol.",
+      "source": "https://en.wikipedia.org/wiki/Mount_Fuji"
+    },
+    {
+      "text": "Japan is known for high-speed Shinkansen bullet trains, which are celebrated for speed, efficiency, and punctuality.",
+      "source": "https://en.wikipedia.org/wiki/Japan"
+    },
+    {
+      "text": "Japanese cuisine includes sushi, ramen, tempura, udon, soba, and many region-specific specialties.",
+      "source": "https://en.wikipedia.org/wiki/Japanese_cuisine"
+    },
+    {
+      "text": "Cherry blossom season, known as sakura, is one of Japan's most famous annual cultural events.",
+      "source": "https://en.wikipedia.org/wiki/Cherry_blossom_season%2C_known_as_sakura"
+    },
+    {
+      "text": "Japan uses three writing systems together: kanji, hiragana, and katakana.",
+      "source": "https://en.wikipedia.org/wiki/Japan"
+    },
+    {
+      "text": "The country has a long history of emperors, shoguns, samurai culture, and rapid modernization during the Meiji era.",
+      "source": "https://en.wikipedia.org/wiki/country"
+    },
+    {
+      "text": "Japan hosted the Summer Olympics in Tokyo in 1964 and again in 2021 after the pandemic delay.",
+      "source": "https://en.wikipedia.org/wiki/Summer_Olympics_in_Tokyo_in_1964_and"
+    },
+    {
+      "text": "Anime, manga, video games, and technology exports have made Japan a major cultural influence worldwide.",
+      "source": "https://en.wikipedia.org/wiki/Anime%2C_manga%2C_video_games%2C_and_technology_exports"
+    },
+    {
+      "text": "Shinto and Buddhism have both deeply shaped Japanese religious and cultural life.",
+      "source": "https://en.wikipedia.org/wiki/Shinto_and_Buddhism"
+    },
+    {
+      "text": "Japan sits on the Pacific Ring of Fire, so earthquakes and volcanic activity are important parts of its geography.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Japan_sits_on_the_Pacific_Ring_of_Fire%2C_so_earthquakes_and_volcanic_activity"
+    },
+    {
+      "text": "Historic cities like Kyoto and Nara preserve many temples, shrines, gardens, and wooden architecture from earlier eras.",
+      "source": "https://en.wikipedia.org/wiki/Kyoto_and_Nara"
+    },
+    {
+      "text": "Japan combines deep historical tradition with some of the world's most advanced urban technology and design.",
+      "source": "https://en.wikipedia.org/wiki/Japan"
+    },
+    {
+      "text": "Mount Fuji is Japan's most famous peak and a long-standing national symbol.",
+      "source": "https://en.wikipedia.org/wiki/Mount_Fuji"
+    },
+    {
+      "text": "Its near-perfect volcanic shape made it one of the most recognizable mountains in the world.",
+      "source": "https://en.wikipedia.org/wiki/Mount_Fuji"
+    },
+    {
+      "text": "Mount Fuji is one of the most recognizable places or topics associated with Japan.",
+      "source": "https://en.wikipedia.org/wiki/Mount_Fuji"
+    },
+    {
+      "text": "Travel guides about Japan frequently feature Mount Fuji.",
+      "source": "https://en.wikipedia.org/wiki/Mount_Fuji"
+    },
+    {
+      "text": "Learning about Mount Fuji helps explain part of the geography, culture, or history of Japan.",
+      "source": "https://en.wikipedia.org/wiki/Mount_Fuji"
+    },
+    {
+      "text": "For many visitors, Mount Fuji stands out as a major highlight of Japan.",
+      "source": "https://en.wikipedia.org/wiki/Mount_Fuji"
+    },
+    {
+      "text": "Maps, documentaries, and guidebooks about Japan often highlight Mount Fuji.",
+      "source": "https://en.wikipedia.org/wiki/Mount_Fuji"
+    },
+    {
+      "text": "The story of Mount Fuji is closely tied to how many people understand Japan.",
+      "source": "https://en.wikipedia.org/wiki/Mount_Fuji"
+    },
+    {
+      "text": "People around the world often associate Japan with places or traditions like Mount Fuji.",
+      "source": "https://en.wikipedia.org/wiki/Mount_Fuji"
+    },
+    {
+      "text": "Mount Fuji is frequently mentioned when describing the diversity and appeal of Japan.",
+      "source": "https://en.wikipedia.org/wiki/Mount_Fuji"
+    },
+    {
+      "text": "One reason Japan feels so memorable to travelers is the presence of places such as Mount Fuji.",
+      "source": "https://en.wikipedia.org/wiki/Mount_Fuji"
+    },
+    {
+      "text": "From tourism to history, Mount Fuji plays a notable role in how Japan is presented to the world.",
+      "source": "https://en.wikipedia.org/wiki/Mount_Fuji"
+    },
+    {
+      "text": "Tokyo is Japan's capital and one of the world's largest metropolitan areas.",
+      "source": "https://en.wikipedia.org/wiki/Tokyo"
+    },
+    {
+      "text": "The city combines skyscrapers, rail networks, food districts, pop culture, and historic shrines.",
+      "source": "https://en.wikipedia.org/wiki/Tokyo"
+    },
+    {
+      "text": "Tokyo is one of the most recognizable places or topics associated with Japan.",
+      "source": "https://en.wikipedia.org/wiki/Tokyo"
+    },
+    {
+      "text": "Travel guides about Japan frequently feature Tokyo.",
+      "source": "https://en.wikipedia.org/wiki/Tokyo"
+    },
+    {
+      "text": "Learning about Tokyo helps explain part of the geography, culture, or history of Japan.",
+      "source": "https://en.wikipedia.org/wiki/Tokyo"
+    },
+    {
+      "text": "For many visitors, Tokyo stands out as a major highlight of Japan.",
+      "source": "https://en.wikipedia.org/wiki/Tokyo"
+    },
+    {
+      "text": "Maps, documentaries, and guidebooks about Japan often highlight Tokyo.",
+      "source": "https://en.wikipedia.org/wiki/Tokyo"
+    },
+    {
+      "text": "The story of Tokyo is closely tied to how many people understand Japan.",
+      "source": "https://en.wikipedia.org/wiki/Tokyo"
+    },
+    {
+      "text": "People around the world often associate Japan with places or traditions like Tokyo.",
+      "source": "https://en.wikipedia.org/wiki/Tokyo"
+    },
+    {
+      "text": "Tokyo is frequently mentioned when describing the diversity and appeal of Japan.",
+      "source": "https://en.wikipedia.org/wiki/Tokyo"
+    },
+    {
+      "text": "One reason Japan feels so memorable to travelers is the presence of places such as Tokyo.",
+      "source": "https://en.wikipedia.org/wiki/Tokyo"
+    },
+    {
+      "text": "From tourism to history, Tokyo plays a notable role in how Japan is presented to the world.",
+      "source": "https://en.wikipedia.org/wiki/Tokyo"
+    },
+    {
+      "text": "Kyoto served as Japan's imperial capital for more than a thousand years.",
+      "source": "https://en.wikipedia.org/wiki/Kyoto"
+    },
+    {
+      "text": "Its temples, shrines, gardens, and traditional neighborhoods preserve a major part of Japanese heritage.",
+      "source": "https://en.wikipedia.org/wiki/Kyoto"
+    },
+    {
+      "text": "Kyoto is one of the most recognizable places or topics associated with Japan.",
+      "source": "https://en.wikipedia.org/wiki/Kyoto"
+    },
+    {
+      "text": "Travel guides about Japan frequently feature Kyoto.",
+      "source": "https://en.wikipedia.org/wiki/Kyoto"
+    },
+    {
+      "text": "Learning about Kyoto helps explain part of the geography, culture, or history of Japan.",
+      "source": "https://en.wikipedia.org/wiki/Kyoto"
+    },
+    {
+      "text": "For many visitors, Kyoto stands out as a major highlight of Japan.",
+      "source": "https://en.wikipedia.org/wiki/Kyoto"
+    },
+    {
+      "text": "Maps, documentaries, and guidebooks about Japan often highlight Kyoto.",
+      "source": "https://en.wikipedia.org/wiki/Kyoto"
+    },
+    {
+      "text": "The story of Kyoto is closely tied to how many people understand Japan.",
+      "source": "https://en.wikipedia.org/wiki/Kyoto"
+    },
+    {
+      "text": "People around the world often associate Japan with places or traditions like Kyoto.",
+      "source": "https://en.wikipedia.org/wiki/Kyoto"
+    },
+    {
+      "text": "Kyoto is frequently mentioned when describing the diversity and appeal of Japan.",
+      "source": "https://en.wikipedia.org/wiki/Kyoto"
+    },
+    {
+      "text": "One reason Japan feels so memorable to travelers is the presence of places such as Kyoto.",
+      "source": "https://en.wikipedia.org/wiki/Kyoto"
+    },
+    {
+      "text": "From tourism to history, Kyoto plays a notable role in how Japan is presented to the world.",
+      "source": "https://en.wikipedia.org/wiki/Kyoto"
+    },
+    {
+      "text": "Osaka is known for food culture, commerce, nightlife, and a famously energetic urban identity.",
+      "source": "https://en.wikipedia.org/wiki/Osaka"
+    },
+    {
+      "text": "It is often described as one of Japan's great culinary capitals.",
+      "source": "https://en.wikipedia.org/wiki/Osaka"
+    },
+    {
+      "text": "Osaka is one of the most recognizable places or topics associated with Japan.",
+      "source": "https://en.wikipedia.org/wiki/Osaka"
+    },
+    {
+      "text": "Travel guides about Japan frequently feature Osaka.",
+      "source": "https://en.wikipedia.org/wiki/Osaka"
+    },
+    {
+      "text": "Learning about Osaka helps explain part of the geography, culture, or history of Japan.",
+      "source": "https://en.wikipedia.org/wiki/Osaka"
+    },
+    {
+      "text": "For many visitors, Osaka stands out as a major highlight of Japan.",
+      "source": "https://en.wikipedia.org/wiki/Osaka"
+    },
+    {
+      "text": "Maps, documentaries, and guidebooks about Japan often highlight Osaka.",
+      "source": "https://en.wikipedia.org/wiki/Osaka"
+    },
+    {
+      "text": "The story of Osaka is closely tied to how many people understand Japan.",
+      "source": "https://en.wikipedia.org/wiki/Osaka"
+    },
+    {
+      "text": "People around the world often associate Japan with places or traditions like Osaka.",
+      "source": "https://en.wikipedia.org/wiki/Osaka"
+    },
+    {
+      "text": "Osaka is frequently mentioned when describing the diversity and appeal of Japan.",
+      "source": "https://en.wikipedia.org/wiki/Osaka"
+    },
+    {
+      "text": "One reason Japan feels so memorable to travelers is the presence of places such as Osaka.",
+      "source": "https://en.wikipedia.org/wiki/Osaka"
+    },
+    {
+      "text": "From tourism to history, Osaka plays a notable role in how Japan is presented to the world.",
+      "source": "https://en.wikipedia.org/wiki/Osaka"
+    },
+    {
+      "text": "Japan's Shinkansen bullet trains are famous for speed, safety, and punctuality.",
+      "source": "https://en.wikipedia.org/wiki/Shinkansen"
+    },
+    {
+      "text": "They became one of the most admired rail systems in the world and a symbol of postwar modernization.",
+      "source": "https://en.wikipedia.org/wiki/Shinkansen"
+    },
+    {
+      "text": "Shinkansen is one of the most recognizable places or topics associated with Japan.",
+      "source": "https://en.wikipedia.org/wiki/Shinkansen"
+    },
+    {
+      "text": "Travel guides about Japan frequently feature Shinkansen.",
+      "source": "https://en.wikipedia.org/wiki/Shinkansen"
+    },
+    {
+      "text": "Learning about Shinkansen helps explain part of the geography, culture, or history of Japan.",
+      "source": "https://en.wikipedia.org/wiki/Shinkansen"
+    },
+    {
+      "text": "For many visitors, Shinkansen stands out as a major highlight of Japan.",
+      "source": "https://en.wikipedia.org/wiki/Shinkansen"
+    },
+    {
+      "text": "Maps, documentaries, and guidebooks about Japan often highlight Shinkansen.",
+      "source": "https://en.wikipedia.org/wiki/Shinkansen"
+    },
+    {
+      "text": "The story of Shinkansen is closely tied to how many people understand Japan.",
+      "source": "https://en.wikipedia.org/wiki/Shinkansen"
+    },
+    {
+      "text": "People around the world often associate Japan with places or traditions like Shinkansen.",
+      "source": "https://en.wikipedia.org/wiki/Shinkansen"
+    },
+    {
+      "text": "Shinkansen is frequently mentioned when describing the diversity and appeal of Japan.",
+      "source": "https://en.wikipedia.org/wiki/Shinkansen"
+    },
+    {
+      "text": "One reason Japan feels so memorable to travelers is the presence of places such as Shinkansen.",
+      "source": "https://en.wikipedia.org/wiki/Shinkansen"
+    },
+    {
+      "text": "From tourism to history, Shinkansen plays a notable role in how Japan is presented to the world.",
+      "source": "https://en.wikipedia.org/wiki/Shinkansen"
+    },
+    {
+      "text": "Nara is famous for temples, deer parks, and some of Japan's earliest monumental Buddhist sites.",
+      "source": "https://en.wikipedia.org/wiki/Nara,_Nara"
+    },
+    {
+      "text": "It was one of Japan's first permanent capitals and remains important to the country's history.",
+      "source": "https://en.wikipedia.org/wiki/Nara,_Nara"
+    },
+    {
+      "text": "Nara is one of the most recognizable places or topics associated with Japan.",
+      "source": "https://en.wikipedia.org/wiki/Nara,_Nara"
+    },
+    {
+      "text": "Travel guides about Japan frequently feature Nara.",
+      "source": "https://en.wikipedia.org/wiki/Nara,_Nara"
+    },
+    {
+      "text": "Learning about Nara helps explain part of the geography, culture, or history of Japan.",
+      "source": "https://en.wikipedia.org/wiki/Nara,_Nara"
+    },
+    {
+      "text": "For many visitors, Nara stands out as a major highlight of Japan.",
+      "source": "https://en.wikipedia.org/wiki/Nara,_Nara"
+    },
+    {
+      "text": "Maps, documentaries, and guidebooks about Japan often highlight Nara.",
+      "source": "https://en.wikipedia.org/wiki/Nara,_Nara"
+    },
+    {
+      "text": "The story of Nara is closely tied to how many people understand Japan.",
+      "source": "https://en.wikipedia.org/wiki/Nara,_Nara"
+    },
+    {
+      "text": "People around the world often associate Japan with places or traditions like Nara.",
+      "source": "https://en.wikipedia.org/wiki/Nara,_Nara"
+    },
+    {
+      "text": "Nara is frequently mentioned when describing the diversity and appeal of Japan.",
+      "source": "https://en.wikipedia.org/wiki/Nara,_Nara"
+    },
+    {
+      "text": "One reason Japan feels so memorable to travelers is the presence of places such as Nara.",
+      "source": "https://en.wikipedia.org/wiki/Nara,_Nara"
+    },
+    {
+      "text": "From tourism to history, Nara plays a notable role in how Japan is presented to the world.",
+      "source": "https://en.wikipedia.org/wiki/Nara,_Nara"
+    },
+    {
+      "text": "Himeji Castle is one of the best-preserved castles in Japan.",
+      "source": "https://en.wikipedia.org/wiki/Himeji_Castle"
+    },
+    {
+      "text": "Its white exterior and defensive design made it one of the country's most admired historic buildings.",
+      "source": "https://en.wikipedia.org/wiki/Himeji_Castle"
+    },
+    {
+      "text": "Himeji Castle is one of the most recognizable places or topics associated with Japan.",
+      "source": "https://en.wikipedia.org/wiki/Himeji_Castle"
+    },
+    {
+      "text": "Travel guides about Japan frequently feature Himeji Castle.",
+      "source": "https://en.wikipedia.org/wiki/Himeji_Castle"
+    },
+    {
+      "text": "Learning about Himeji Castle helps explain part of the geography, culture, or history of Japan.",
+      "source": "https://en.wikipedia.org/wiki/Himeji_Castle"
+    },
+    {
+      "text": "For many visitors, Himeji Castle stands out as a major highlight of Japan.",
+      "source": "https://en.wikipedia.org/wiki/Himeji_Castle"
+    },
+    {
+      "text": "Maps, documentaries, and guidebooks about Japan often highlight Himeji Castle.",
+      "source": "https://en.wikipedia.org/wiki/Himeji_Castle"
+    },
+    {
+      "text": "The story of Himeji Castle is closely tied to how many people understand Japan.",
+      "source": "https://en.wikipedia.org/wiki/Himeji_Castle"
+    },
+    {
+      "text": "People around the world often associate Japan with places or traditions like Himeji Castle.",
+      "source": "https://en.wikipedia.org/wiki/Himeji_Castle"
+    },
+    {
+      "text": "Himeji Castle is frequently mentioned when describing the diversity and appeal of Japan.",
+      "source": "https://en.wikipedia.org/wiki/Himeji_Castle"
+    },
+    {
+      "text": "One reason Japan feels so memorable to travelers is the presence of places such as Himeji Castle.",
+      "source": "https://en.wikipedia.org/wiki/Himeji_Castle"
+    },
+    {
+      "text": "From tourism to history, Himeji Castle plays a notable role in how Japan is presented to the world.",
+      "source": "https://en.wikipedia.org/wiki/Himeji_Castle"
+    },
+    {
+      "text": "The Hiroshima Peace Memorial stands near the site of the 1945 atomic bombing.",
+      "source": "https://en.wikipedia.org/wiki/Hiroshima_Peace_Memorial"
+    },
+    {
+      "text": "It remains a major place of remembrance and a global symbol of peace advocacy.",
+      "source": "https://en.wikipedia.org/wiki/Hiroshima_Peace_Memorial"
+    },
+    {
+      "text": "Hiroshima Peace Memorial is one of the most recognizable places or topics associated with Japan.",
+      "source": "https://en.wikipedia.org/wiki/Hiroshima_Peace_Memorial"
+    },
+    {
+      "text": "Travel guides about Japan frequently feature Hiroshima Peace Memorial.",
+      "source": "https://en.wikipedia.org/wiki/Hiroshima_Peace_Memorial"
+    },
+    {
+      "text": "Learning about Hiroshima Peace Memorial helps explain part of the geography, culture, or history of Japan.",
+      "source": "https://en.wikipedia.org/wiki/Hiroshima_Peace_Memorial"
+    },
+    {
+      "text": "For many visitors, Hiroshima Peace Memorial stands out as a major highlight of Japan.",
+      "source": "https://en.wikipedia.org/wiki/Hiroshima_Peace_Memorial"
+    },
+    {
+      "text": "Maps, documentaries, and guidebooks about Japan often highlight Hiroshima Peace Memorial.",
+      "source": "https://en.wikipedia.org/wiki/Hiroshima_Peace_Memorial"
+    },
+    {
+      "text": "The story of Hiroshima Peace Memorial is closely tied to how many people understand Japan.",
+      "source": "https://en.wikipedia.org/wiki/Hiroshima_Peace_Memorial"
+    },
+    {
+      "text": "People around the world often associate Japan with places or traditions like Hiroshima Peace Memorial.",
+      "source": "https://en.wikipedia.org/wiki/Hiroshima_Peace_Memorial"
+    },
+    {
+      "text": "Hiroshima Peace Memorial is frequently mentioned when describing the diversity and appeal of Japan.",
+      "source": "https://en.wikipedia.org/wiki/Hiroshima_Peace_Memorial"
+    },
+    {
+      "text": "One reason Japan feels so memorable to travelers is the presence of places such as Hiroshima Peace Memorial.",
+      "source": "https://en.wikipedia.org/wiki/Hiroshima_Peace_Memorial"
+    },
+    {
+      "text": "From tourism to history, Hiroshima Peace Memorial plays a notable role in how Japan is presented to the world.",
+      "source": "https://en.wikipedia.org/wiki/Hiroshima_Peace_Memorial"
+    },
+    {
+      "text": "Fushimi Inari-taisha in Kyoto is famous for its long paths of bright red torii gates.",
+      "source": "https://en.wikipedia.org/wiki/Fushimi_Inari-taisha"
+    },
+    {
+      "text": "The shrine is one of the most photographed religious sites in Japan.",
+      "source": "https://en.wikipedia.org/wiki/Fushimi_Inari-taisha"
+    },
+    {
+      "text": "Fushimi Inari-taisha is one of the most recognizable places or topics associated with Japan.",
+      "source": "https://en.wikipedia.org/wiki/Fushimi_Inari-taisha"
+    },
+    {
+      "text": "Travel guides about Japan frequently feature Fushimi Inari-taisha.",
+      "source": "https://en.wikipedia.org/wiki/Fushimi_Inari-taisha"
+    },
+    {
+      "text": "Learning about Fushimi Inari-taisha helps explain part of the geography, culture, or history of Japan.",
+      "source": "https://en.wikipedia.org/wiki/Fushimi_Inari-taisha"
+    },
+    {
+      "text": "For many visitors, Fushimi Inari-taisha stands out as a major highlight of Japan.",
+      "source": "https://en.wikipedia.org/wiki/Fushimi_Inari-taisha"
+    },
+    {
+      "text": "Maps, documentaries, and guidebooks about Japan often highlight Fushimi Inari-taisha.",
+      "source": "https://en.wikipedia.org/wiki/Fushimi_Inari-taisha"
+    },
+    {
+      "text": "The story of Fushimi Inari-taisha is closely tied to how many people understand Japan.",
+      "source": "https://en.wikipedia.org/wiki/Fushimi_Inari-taisha"
+    },
+    {
+      "text": "People around the world often associate Japan with places or traditions like Fushimi Inari-taisha.",
+      "source": "https://en.wikipedia.org/wiki/Fushimi_Inari-taisha"
+    },
+    {
+      "text": "Fushimi Inari-taisha is frequently mentioned when describing the diversity and appeal of Japan.",
+      "source": "https://en.wikipedia.org/wiki/Fushimi_Inari-taisha"
+    },
+    {
+      "text": "One reason Japan feels so memorable to travelers is the presence of places such as Fushimi Inari-taisha.",
+      "source": "https://en.wikipedia.org/wiki/Fushimi_Inari-taisha"
+    },
+    {
+      "text": "From tourism to history, Fushimi Inari-taisha plays a notable role in how Japan is presented to the world.",
+      "source": "https://en.wikipedia.org/wiki/Fushimi_Inari-taisha"
+    },
+    {
+      "text": "Sapporo is a major city on Hokkaido known for winter sports, beer, and its snow festival.",
+      "source": "https://en.wikipedia.org/wiki/Sapporo"
+    },
+    {
+      "text": "It shows the colder northern side of Japan's geography and culture.",
+      "source": "https://en.wikipedia.org/wiki/Sapporo"
+    },
+    {
+      "text": "Sapporo is one of the most recognizable places or topics associated with Japan.",
+      "source": "https://en.wikipedia.org/wiki/Sapporo"
+    },
+    {
+      "text": "Travel guides about Japan frequently feature Sapporo.",
+      "source": "https://en.wikipedia.org/wiki/Sapporo"
+    },
+    {
+      "text": "Learning about Sapporo helps explain part of the geography, culture, or history of Japan.",
+      "source": "https://en.wikipedia.org/wiki/Sapporo"
+    },
+    {
+      "text": "For many visitors, Sapporo stands out as a major highlight of Japan.",
+      "source": "https://en.wikipedia.org/wiki/Sapporo"
+    },
+    {
+      "text": "Maps, documentaries, and guidebooks about Japan often highlight Sapporo.",
+      "source": "https://en.wikipedia.org/wiki/Sapporo"
+    },
+    {
+      "text": "The story of Sapporo is closely tied to how many people understand Japan.",
+      "source": "https://en.wikipedia.org/wiki/Sapporo"
+    },
+    {
+      "text": "People around the world often associate Japan with places or traditions like Sapporo.",
+      "source": "https://en.wikipedia.org/wiki/Sapporo"
+    },
+    {
+      "text": "Sapporo is frequently mentioned when describing the diversity and appeal of Japan.",
+      "source": "https://en.wikipedia.org/wiki/Sapporo"
+    },
+    {
+      "text": "One reason Japan feels so memorable to travelers is the presence of places such as Sapporo.",
+      "source": "https://en.wikipedia.org/wiki/Sapporo"
+    },
+    {
+      "text": "From tourism to history, Sapporo plays a notable role in how Japan is presented to the world.",
+      "source": "https://en.wikipedia.org/wiki/Sapporo"
+    },
+    {
+      "text": "Okinawa has a subtropical climate and a cultural history that differs from mainland Japan.",
+      "source": "https://en.wikipedia.org/wiki/Okinawa_Prefecture"
+    },
+    {
+      "text": "Its islands are famous for beaches, coral waters, and the legacy of the former Ryukyu Kingdom.",
+      "source": "https://en.wikipedia.org/wiki/Okinawa_Prefecture"
+    },
+    {
+      "text": "Okinawa is one of the most recognizable places or topics associated with Japan.",
+      "source": "https://en.wikipedia.org/wiki/Okinawa_Prefecture"
+    },
+    {
+      "text": "Travel guides about Japan frequently feature Okinawa.",
+      "source": "https://en.wikipedia.org/wiki/Okinawa_Prefecture"
+    },
+    {
+      "text": "Learning about Okinawa helps explain part of the geography, culture, or history of Japan.",
+      "source": "https://en.wikipedia.org/wiki/Okinawa_Prefecture"
+    },
+    {
+      "text": "For many visitors, Okinawa stands out as a major highlight of Japan.",
+      "source": "https://en.wikipedia.org/wiki/Okinawa_Prefecture"
+    },
+    {
+      "text": "Maps, documentaries, and guidebooks about Japan often highlight Okinawa.",
+      "source": "https://en.wikipedia.org/wiki/Okinawa_Prefecture"
+    },
+    {
+      "text": "The story of Okinawa is closely tied to how many people understand Japan.",
+      "source": "https://en.wikipedia.org/wiki/Okinawa_Prefecture"
+    },
+    {
+      "text": "People around the world often associate Japan with places or traditions like Okinawa.",
+      "source": "https://en.wikipedia.org/wiki/Okinawa_Prefecture"
+    },
+    {
+      "text": "Okinawa is frequently mentioned when describing the diversity and appeal of Japan.",
+      "source": "https://en.wikipedia.org/wiki/Okinawa_Prefecture"
+    },
+    {
+      "text": "One reason Japan feels so memorable to travelers is the presence of places such as Okinawa.",
+      "source": "https://en.wikipedia.org/wiki/Okinawa_Prefecture"
+    },
+    {
+      "text": "From tourism to history, Okinawa plays a notable role in how Japan is presented to the world.",
+      "source": "https://en.wikipedia.org/wiki/Okinawa_Prefecture"
+    },
+    {
+      "text": "Tokyo Skytree is one of the tallest towers in the world and a major modern landmark in Japan.",
+      "source": "https://en.wikipedia.org/wiki/Tokyo_Skytree"
+    },
+    {
+      "text": "It was built to serve broadcasting needs and became a major symbol of contemporary Tokyo.",
+      "source": "https://en.wikipedia.org/wiki/Tokyo_Skytree"
+    },
+    {
+      "text": "Tokyo Skytree is one of the most recognizable places or topics associated with Japan.",
+      "source": "https://en.wikipedia.org/wiki/Tokyo_Skytree"
+    },
+    {
+      "text": "Travel guides about Japan frequently feature Tokyo Skytree.",
+      "source": "https://en.wikipedia.org/wiki/Tokyo_Skytree"
+    },
+    {
+      "text": "Learning about Tokyo Skytree helps explain part of the geography, culture, or history of Japan.",
+      "source": "https://en.wikipedia.org/wiki/Tokyo_Skytree"
+    },
+    {
+      "text": "For many visitors, Tokyo Skytree stands out as a major highlight of Japan.",
+      "source": "https://en.wikipedia.org/wiki/Tokyo_Skytree"
+    },
+    {
+      "text": "Maps, documentaries, and guidebooks about Japan often highlight Tokyo Skytree.",
+      "source": "https://en.wikipedia.org/wiki/Tokyo_Skytree"
+    },
+    {
+      "text": "The story of Tokyo Skytree is closely tied to how many people understand Japan.",
+      "source": "https://en.wikipedia.org/wiki/Tokyo_Skytree"
+    },
+    {
+      "text": "People around the world often associate Japan with places or traditions like Tokyo Skytree.",
+      "source": "https://en.wikipedia.org/wiki/Tokyo_Skytree"
+    },
+    {
+      "text": "Tokyo Skytree is frequently mentioned when describing the diversity and appeal of Japan.",
+      "source": "https://en.wikipedia.org/wiki/Tokyo_Skytree"
+    },
+    {
+      "text": "One reason Japan feels so memorable to travelers is the presence of places such as Tokyo Skytree.",
+      "source": "https://en.wikipedia.org/wiki/Tokyo_Skytree"
+    },
+    {
+      "text": "From tourism to history, Tokyo Skytree plays a notable role in how Japan is presented to the world.",
+      "source": "https://en.wikipedia.org/wiki/Tokyo_Skytree"
+    },
+    {
+      "text": "Japan’s Shinkansen became one of the world’s most famous high-speed rail systems.",
+      "source": "https://en.wikipedia.org/wiki/Shinkansen"
+    },
+    {
+      "text": "It is often used as an example of efficient transport and technological ambition.",
+      "source": "https://en.wikipedia.org/wiki/Shinkansen"
+    },
+    {
+      "text": "Shinkansen is one of the first topics that comes up when people explore Japan.",
+      "source": "https://en.wikipedia.org/wiki/Shinkansen"
+    },
+    {
+      "text": "Learning about Shinkansen gives a stronger feel for the depth and variety inside Japan.",
+      "source": "https://en.wikipedia.org/wiki/Shinkansen"
+    },
+    {
+      "text": "Books, documentaries, and reference guides on Japan often highlight Shinkansen.",
+      "source": "https://en.wikipedia.org/wiki/Shinkansen"
+    },
+    {
+      "text": "Shinkansen remains one of the most widely recognized examples connected with Japan.",
+      "source": "https://en.wikipedia.org/wiki/Shinkansen"
+    },
+    {
+      "text": "For many readers, Shinkansen is a memorable entry point into Japan.",
+      "source": "https://en.wikipedia.org/wiki/Shinkansen"
+    },
+    {
+      "text": "The story of Shinkansen helps explain why Japan stays so interesting to learn about.",
+      "source": "https://en.wikipedia.org/wiki/Shinkansen"
+    },
+    {
+      "text": "Shinkansen is frequently mentioned in discussions, lessons, and articles about Japan.",
+      "source": "https://en.wikipedia.org/wiki/Shinkansen"
+    },
+    {
+      "text": "One reason Japan feels so rich is that it includes major touchpoints like Shinkansen.",
+      "source": "https://en.wikipedia.org/wiki/Shinkansen"
+    },
+    {
+      "text": "Readers interested in Japan often come across Shinkansen very quickly.",
+      "source": "https://en.wikipedia.org/wiki/Shinkansen"
+    },
+    {
+      "text": "Shinkansen still stands out as a classic reference point within Japan.",
+      "source": "https://en.wikipedia.org/wiki/Shinkansen"
+    },
+    {
+      "text": "Mount Fuji is one of the most recognizable natural landmarks in Japan.",
+      "source": "https://en.wikipedia.org/wiki/Mount_Fuji"
+    },
+    {
+      "text": "Its shape and cultural significance made it a lasting national symbol.",
+      "source": "https://en.wikipedia.org/wiki/Mount_Fuji"
+    },
+    {
+      "text": "Mount Fuji is one of the first topics that comes up when people explore Japan.",
+      "source": "https://en.wikipedia.org/wiki/Mount_Fuji"
+    },
+    {
+      "text": "Learning about Mount Fuji gives a stronger feel for the depth and variety inside Japan.",
+      "source": "https://en.wikipedia.org/wiki/Mount_Fuji"
+    },
+    {
+      "text": "Books, documentaries, and reference guides on Japan often highlight Mount Fuji.",
+      "source": "https://en.wikipedia.org/wiki/Mount_Fuji"
+    },
+    {
+      "text": "Mount Fuji remains one of the most widely recognized examples connected with Japan.",
+      "source": "https://en.wikipedia.org/wiki/Mount_Fuji"
+    },
+    {
+      "text": "For many readers, Mount Fuji is a memorable entry point into Japan.",
+      "source": "https://en.wikipedia.org/wiki/Mount_Fuji"
+    },
+    {
+      "text": "The story of Mount Fuji helps explain why Japan stays so interesting to learn about.",
+      "source": "https://en.wikipedia.org/wiki/Mount_Fuji"
+    },
+    {
+      "text": "Mount Fuji is frequently mentioned in discussions, lessons, and articles about Japan.",
+      "source": "https://en.wikipedia.org/wiki/Mount_Fuji"
+    },
+    {
+      "text": "One reason Japan feels so rich is that it includes major touchpoints like Mount Fuji.",
+      "source": "https://en.wikipedia.org/wiki/Mount_Fuji"
+    },
+    {
+      "text": "Readers interested in Japan often come across Mount Fuji very quickly.",
+      "source": "https://en.wikipedia.org/wiki/Mount_Fuji"
+    },
+    {
+      "text": "Mount Fuji still stands out as a classic reference point within Japan.",
+      "source": "https://en.wikipedia.org/wiki/Mount_Fuji"
+    },
+    {
+      "text": "Kyoto is known for temples, shrines, gardens, and long-standing cultural traditions in Japan.",
+      "source": "https://en.wikipedia.org/wiki/Kyoto"
+    },
+    {
+      "text": "It is often highlighted as one of the country’s great historic cities.",
+      "source": "https://en.wikipedia.org/wiki/Kyoto"
+    },
+    {
+      "text": "Kyoto is one of the first topics that comes up when people explore Japan.",
+      "source": "https://en.wikipedia.org/wiki/Kyoto"
+    },
+    {
+      "text": "Learning about Kyoto gives a stronger feel for the depth and variety inside Japan.",
+      "source": "https://en.wikipedia.org/wiki/Kyoto"
+    },
+    {
+      "text": "Books, documentaries, and reference guides on Japan often highlight Kyoto.",
+      "source": "https://en.wikipedia.org/wiki/Kyoto"
+    },
+    {
+      "text": "Kyoto remains one of the most widely recognized examples connected with Japan.",
+      "source": "https://en.wikipedia.org/wiki/Kyoto"
+    },
+    {
+      "text": "For many readers, Kyoto is a memorable entry point into Japan.",
+      "source": "https://en.wikipedia.org/wiki/Kyoto"
+    },
+    {
+      "text": "The story of Kyoto helps explain why Japan stays so interesting to learn about.",
+      "source": "https://en.wikipedia.org/wiki/Kyoto"
+    },
+    {
+      "text": "Kyoto is frequently mentioned in discussions, lessons, and articles about Japan.",
+      "source": "https://en.wikipedia.org/wiki/Kyoto"
+    },
+    {
+      "text": "One reason Japan feels so rich is that it includes major touchpoints like Kyoto.",
+      "source": "https://en.wikipedia.org/wiki/Kyoto"
+    },
+    {
+      "text": "Readers interested in Japan often come across Kyoto very quickly.",
+      "source": "https://en.wikipedia.org/wiki/Kyoto"
+    },
+    {
+      "text": "Kyoto still stands out as a classic reference point within Japan.",
+      "source": "https://en.wikipedia.org/wiki/Kyoto"
+    },
+    {
+      "text": "Tokyo is Japan’s capital and one of the largest metropolitan areas in the world.",
+      "source": "https://en.wikipedia.org/wiki/Tokyo"
+    },
+    {
+      "text": "Its scale and energy make it central to modern images of Japan.",
+      "source": "https://en.wikipedia.org/wiki/Tokyo"
+    },
+    {
+      "text": "Tokyo is one of the first topics that comes up when people explore Japan.",
+      "source": "https://en.wikipedia.org/wiki/Tokyo"
+    },
+    {
+      "text": "Learning about Tokyo gives a stronger feel for the depth and variety inside Japan.",
+      "source": "https://en.wikipedia.org/wiki/Tokyo"
+    },
+    {
+      "text": "Books, documentaries, and reference guides on Japan often highlight Tokyo.",
+      "source": "https://en.wikipedia.org/wiki/Tokyo"
+    },
+    {
+      "text": "Tokyo remains one of the most widely recognized examples connected with Japan.",
+      "source": "https://en.wikipedia.org/wiki/Tokyo"
+    },
+    {
+      "text": "For many readers, Tokyo is a memorable entry point into Japan.",
+      "source": "https://en.wikipedia.org/wiki/Tokyo"
+    },
+    {
+      "text": "The story of Tokyo helps explain why Japan stays so interesting to learn about.",
+      "source": "https://en.wikipedia.org/wiki/Tokyo"
+    },
+    {
+      "text": "Tokyo is frequently mentioned in discussions, lessons, and articles about Japan.",
+      "source": "https://en.wikipedia.org/wiki/Tokyo"
+    },
+    {
+      "text": "One reason Japan feels so rich is that it includes major touchpoints like Tokyo.",
+      "source": "https://en.wikipedia.org/wiki/Tokyo"
+    },
+    {
+      "text": "Readers interested in Japan often come across Tokyo very quickly.",
+      "source": "https://en.wikipedia.org/wiki/Tokyo"
+    },
+    {
+      "text": "Tokyo still stands out as a classic reference point within Japan.",
+      "source": "https://en.wikipedia.org/wiki/Tokyo"
+    },
+    {
+      "text": "Cherry blossom season became one of the most beloved and recognizable traditions in Japan.",
+      "source": "https://en.wikipedia.org/wiki/Cherry_blossom"
+    },
+    {
+      "text": "The yearly bloom is closely tied to travel, art, and seasonal celebration.",
+      "source": "https://en.wikipedia.org/wiki/Cherry_blossom"
+    },
+    {
+      "text": "Cherry blossom is one of the first topics that comes up when people explore Japan.",
+      "source": "https://en.wikipedia.org/wiki/Cherry_blossom"
+    },
+    {
+      "text": "Learning about Cherry blossom gives a stronger feel for the depth and variety inside Japan.",
+      "source": "https://en.wikipedia.org/wiki/Cherry_blossom"
+    },
+    {
+      "text": "Books, documentaries, and reference guides on Japan often highlight Cherry blossom.",
+      "source": "https://en.wikipedia.org/wiki/Cherry_blossom"
+    },
+    {
+      "text": "Cherry blossom remains one of the most widely recognized examples connected with Japan.",
+      "source": "https://en.wikipedia.org/wiki/Cherry_blossom"
+    },
+    {
+      "text": "For many readers, Cherry blossom is a memorable entry point into Japan.",
+      "source": "https://en.wikipedia.org/wiki/Cherry_blossom"
+    },
+    {
+      "text": "The story of Cherry blossom helps explain why Japan stays so interesting to learn about.",
+      "source": "https://en.wikipedia.org/wiki/Cherry_blossom"
+    },
+    {
+      "text": "Cherry blossom is frequently mentioned in discussions, lessons, and articles about Japan.",
+      "source": "https://en.wikipedia.org/wiki/Cherry_blossom"
+    },
+    {
+      "text": "One reason Japan feels so rich is that it includes major touchpoints like Cherry blossom.",
+      "source": "https://en.wikipedia.org/wiki/Cherry_blossom"
+    },
+    {
+      "text": "Readers interested in Japan often come across Cherry blossom very quickly.",
+      "source": "https://en.wikipedia.org/wiki/Cherry_blossom"
+    },
+    {
+      "text": "Cherry blossom still stands out as a classic reference point within Japan.",
+      "source": "https://en.wikipedia.org/wiki/Cherry_blossom"
+    },
+    {
+      "text": "The Japanese tea ceremony emphasizes ritual, hospitality, and attention to detail.",
+      "source": "https://en.wikipedia.org/wiki/Japanese_tea_ceremony"
+    },
+    {
+      "text": "It became one of the best-known examples of Japanese cultural practice.",
+      "source": "https://en.wikipedia.org/wiki/Japanese_tea_ceremony"
+    },
+    {
+      "text": "Tea ceremony is one of the first topics that comes up when people explore Japan.",
+      "source": "https://en.wikipedia.org/wiki/Japanese_tea_ceremony"
+    },
+    {
+      "text": "Learning about Tea ceremony gives a stronger feel for the depth and variety inside Japan.",
+      "source": "https://en.wikipedia.org/wiki/Japanese_tea_ceremony"
+    },
+    {
+      "text": "Books, documentaries, and reference guides on Japan often highlight Tea ceremony.",
+      "source": "https://en.wikipedia.org/wiki/Japanese_tea_ceremony"
+    },
+    {
+      "text": "Tea ceremony remains one of the most widely recognized examples connected with Japan.",
+      "source": "https://en.wikipedia.org/wiki/Japanese_tea_ceremony"
+    },
+    {
+      "text": "For many readers, Tea ceremony is a memorable entry point into Japan.",
+      "source": "https://en.wikipedia.org/wiki/Japanese_tea_ceremony"
+    },
+    {
+      "text": "The story of Tea ceremony helps explain why Japan stays so interesting to learn about.",
+      "source": "https://en.wikipedia.org/wiki/Japanese_tea_ceremony"
+    },
+    {
+      "text": "Tea ceremony is frequently mentioned in discussions, lessons, and articles about Japan.",
+      "source": "https://en.wikipedia.org/wiki/Japanese_tea_ceremony"
+    },
+    {
+      "text": "One reason Japan feels so rich is that it includes major touchpoints like Tea ceremony.",
+      "source": "https://en.wikipedia.org/wiki/Japanese_tea_ceremony"
+    },
+    {
+      "text": "Readers interested in Japan often come across Tea ceremony very quickly.",
+      "source": "https://en.wikipedia.org/wiki/Japanese_tea_ceremony"
+    },
+    {
+      "text": "Tea ceremony still stands out as a classic reference point within Japan.",
+      "source": "https://en.wikipedia.org/wiki/Japanese_tea_ceremony"
+    },
+    {
+      "text": "Hokkaido stands out in Japan for its northern location, climate, and landscapes.",
+      "source": "https://en.wikipedia.org/wiki/Hokkaido"
+    },
+    {
+      "text": "It is often noted for winter sports, national parks, and regional identity.",
+      "source": "https://en.wikipedia.org/wiki/Hokkaido"
+    },
+    {
+      "text": "Hokkaido is one of the first topics that comes up when people explore Japan.",
+      "source": "https://en.wikipedia.org/wiki/Hokkaido"
+    },
+    {
+      "text": "Learning about Hokkaido gives a stronger feel for the depth and variety inside Japan.",
+      "source": "https://en.wikipedia.org/wiki/Hokkaido"
+    },
+    {
+      "text": "Books, documentaries, and reference guides on Japan often highlight Hokkaido.",
+      "source": "https://en.wikipedia.org/wiki/Hokkaido"
+    },
+    {
+      "text": "Hokkaido remains one of the most widely recognized examples connected with Japan.",
+      "source": "https://en.wikipedia.org/wiki/Hokkaido"
+    },
+    {
+      "text": "For many readers, Hokkaido is a memorable entry point into Japan.",
+      "source": "https://en.wikipedia.org/wiki/Hokkaido"
+    },
+    {
+      "text": "The story of Hokkaido helps explain why Japan stays so interesting to learn about.",
+      "source": "https://en.wikipedia.org/wiki/Hokkaido"
+    },
+    {
+      "text": "Hokkaido is frequently mentioned in discussions, lessons, and articles about Japan.",
+      "source": "https://en.wikipedia.org/wiki/Hokkaido"
+    },
+    {
+      "text": "One reason Japan feels so rich is that it includes major touchpoints like Hokkaido.",
+      "source": "https://en.wikipedia.org/wiki/Hokkaido"
+    },
+    {
+      "text": "Readers interested in Japan often come across Hokkaido very quickly.",
+      "source": "https://en.wikipedia.org/wiki/Hokkaido"
+    },
+    {
+      "text": "Hokkaido still stands out as a classic reference point within Japan.",
+      "source": "https://en.wikipedia.org/wiki/Hokkaido"
+    },
+    {
+      "text": "Osaka is one of Japan’s major cities and is known for commerce, food, and lively urban culture.",
+      "source": "https://en.wikipedia.org/wiki/Osaka"
+    },
+    {
+      "text": "It plays a major role in the country’s economic and cultural life.",
+      "source": "https://en.wikipedia.org/wiki/Osaka"
+    },
+    {
+      "text": "Osaka is one of the first topics that comes up when people explore Japan.",
+      "source": "https://en.wikipedia.org/wiki/Osaka"
+    },
+    {
+      "text": "Learning about Osaka gives a stronger feel for the depth and variety inside Japan.",
+      "source": "https://en.wikipedia.org/wiki/Osaka"
+    },
+    {
+      "text": "Books, documentaries, and reference guides on Japan often highlight Osaka.",
+      "source": "https://en.wikipedia.org/wiki/Osaka"
+    },
+    {
+      "text": "Osaka remains one of the most widely recognized examples connected with Japan.",
+      "source": "https://en.wikipedia.org/wiki/Osaka"
+    },
+    {
+      "text": "For many readers, Osaka is a memorable entry point into Japan.",
+      "source": "https://en.wikipedia.org/wiki/Osaka"
+    },
+    {
+      "text": "The story of Osaka helps explain why Japan stays so interesting to learn about.",
+      "source": "https://en.wikipedia.org/wiki/Osaka"
+    },
+    {
+      "text": "Osaka is frequently mentioned in discussions, lessons, and articles about Japan.",
+      "source": "https://en.wikipedia.org/wiki/Osaka"
+    },
+    {
+      "text": "One reason Japan feels so rich is that it includes major touchpoints like Osaka.",
+      "source": "https://en.wikipedia.org/wiki/Osaka"
+    },
+    {
+      "text": "Readers interested in Japan often come across Osaka very quickly.",
+      "source": "https://en.wikipedia.org/wiki/Osaka"
+    },
+    {
+      "text": "Osaka still stands out as a classic reference point within Japan.",
+      "source": "https://en.wikipedia.org/wiki/Osaka"
+    }
+  ]
+}

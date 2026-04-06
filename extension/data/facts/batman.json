@@ -1,0 +1,2001 @@
+{
+  "hobby": "Batman",
+  "facts": [
+    {
+      "text": "Batman first appeared in Detective Comics #27 in May 1939, created by artist Bob Kane and writer Bill Finger, though Finger went uncredited for decades.",
+      "source": "https://en.wikipedia.org/wiki/Batman_first_appeared_in_Detective_Comics_%2327_in_May_1939"
+    },
+    {
+      "text": "\"I'm Batman.\" — This simple declaration, first uttered by Michael Keaton in Tim Burton's 1989 film, became the character's most iconic catchphrase across all media.",
+      "source": "https://en.wikipedia.org/wiki/I%27m_Batman"
+    },
+    {
+      "text": "Bruce Wayne's origin story involves witnessing the murder of his parents, Thomas and Martha Wayne, in a dark alley called Crime Alley after leaving a movie theater.",
+      "source": "https://en.wikipedia.org/wiki/Bruce_Wayne%27s"
+    },
+    {
+      "text": "Bill Finger contributed Batman's iconic costume, the name Bruce Wayne, Gotham City, and most of the character's mythology, yet wasn't officially credited as co-creator until 2015.",
+      "source": "https://en.wikipedia.org/wiki/Bill_Finger"
+    },
+    {
+      "text": "The name Bruce Wayne was inspired by Robert the Bruce, the Scottish king, and Mad Anthony Wayne, a Revolutionary War general.",
+      "source": "https://en.wikipedia.org/wiki/name_Bruce_Wayne"
+    },
+    {
+      "text": "Gotham City was originally just another name for New York City, but over the decades it evolved into its own fictional metropolis with a distinct Gothic personality.",
+      "source": "https://en.wikipedia.org/wiki/Gotham_City"
+    },
+    {
+      "text": "\"Why do we fall, Bruce? So we can learn to pick ourselves up.\" — Thomas Wayne's words to young Bruce became a central theme of Christopher Nolan's Dark Knight Trilogy.",
+      "source": "https://en.wikipedia.org/wiki/Why_do_we_fall%2C_Bruce%3F_So_we_can_learn_to_pick_ourselves_up"
+    },
+    {
+      "text": "Batman's first comic appearance showed him as a darker, more violent vigilante who sometimes carried a gun and was willing to let criminals die.",
+      "source": "https://en.wikipedia.org/wiki/Batman"
+    },
+    {
+      "text": "The Batcave, Batman's iconic underground headquarters, was first introduced in the 1943 Batman film serial and later adopted into the comics.",
+      "source": "https://en.wikipedia.org/wiki/Batcave%2C_Batman%27s_iconic_underground_headquarters"
+    },
+    {
+      "text": "Alfred Pennyworth, the Wayne family butler, was not part of Batman's original stories — he was added to the comics in 1943 in Batman #16.",
+      "source": "https://en.wikipedia.org/wiki/Alfred_Pennyworth%2C_the_Wayne_family_butler"
+    },
+    {
+      "text": "Robin, Batman's first sidekick, was introduced in Detective Comics #38 in April 1940, just eleven months after Batman's debut, and nearly doubled comic sales.",
+      "source": "https://en.wikipedia.org/wiki/Robin%2C_Batman%27s_first_sidekick"
+    },
+    {
+      "text": "Dick Grayson, the first Robin, was a circus acrobat whose parents were murdered by a mob boss named Tony Zucco.",
+      "source": "https://en.wikipedia.org/wiki/Dick_Grayson%2C_the_first_Robin"
+    },
+    {
+      "text": "\"It's not who I am underneath, but what I do that defines me.\" — Batman's line to Rachel Dawes in Batman Begins (2005) encapsulates his philosophy of action over identity.",
+      "source": "https://en.wikipedia.org/wiki/It%27s_not_who_I_am_underneath%2C_but_what_I_do_that_defines_me"
+    },
+    {
+      "text": "The Joker made his debut in Batman #1 in the spring of 1940, originally intended as a one-off villain who would be killed in his first appearance.",
+      "source": "https://en.wikipedia.org/wiki/Joker"
+    },
+    {
+      "text": "The Joker's appearance was inspired by the character Gwynplaine from the 1928 silent film The Man Who Laughs, based on a Victor Hugo novel.",
+      "source": "https://en.wikipedia.org/wiki/Joker%27s_appearance"
+    },
+    {
+      "text": "Catwoman, originally called \"The Cat,\" first appeared in Batman #1 in 1940 as a jewel thief, making her one of Batman's oldest adversaries and love interests.",
+      "source": "https://en.wikipedia.org/wiki/Cat"
+    },
+    {
+      "text": "The Penguin first appeared in Detective Comics #58 in December 1941, created by Bob Kane and Bill Finger as a gentleman criminal inspired by the mascot for Kool cigarettes.",
+      "source": "https://en.wikipedia.org/wiki/Penguin_first_appeared_in_Detective_Comics_%2358_in_December_1941"
+    },
+    {
+      "text": "The Riddler, created by Bill Finger and Dick Sprang, first appeared in Detective Comics #140 in October 1948, driven by a compulsion to leave clues at his crime scenes.",
+      "source": "https://en.wikipedia.org/wiki/Riddler"
+    },
+    {
+      "text": "\"You either die a hero or you live long enough to see yourself become the villain.\" — Harvey Dent's prophetic line in The Dark Knight (2008) became one of the most quoted movie lines of the 21st century.",
+      "source": "https://en.wikipedia.org/wiki/You_either_die_a_hero_or_you_live_long_enough_to_see_yourself_become_the_villain"
+    },
+    {
+      "text": "Two-Face, formerly Gotham's District Attorney Harvey Dent, first appeared in Detective Comics #66 in August 1942, his dual personality symbolized by his scarred coin.",
+      "source": "https://en.wikipedia.org/wiki/Two-Face%2C_formerly_Gotham%27s_District_Attorney_Harvey_Dent%2C_first"
+    },
+    {
+      "text": "Bane first appeared in Batman: Vengeance of Bane #1 in January 1993 and is best known for breaking Batman's back in the Knightfall storyline.",
+      "source": "https://en.wikipedia.org/wiki/Bane_first_appeared_in_Batman:_Vengeance_of_Bane_%231_in_January_1993_and"
+    },
+    {
+      "text": "Scarecrow, Dr. Jonathan Crane, first appeared in World's Finest Comics #3 in 1941, using fear toxins to exploit his victims' deepest phobias.",
+      "source": "https://en.wikipedia.org/wiki/Scarecrow%2C_Dr._Jonathan_Crane%2C_first"
+    },
+    {
+      "text": "Ra's al Ghul, whose name means \"The Demon's Head\" in Arabic, was created by Dennis O'Neil and Neal Adams and first appeared in Batman #232 in June 1971.",
+      "source": "https://www.youtube.com/results?search_query=Batman%20The%20Demon%27s%20Head%20live%20performance"
+    },
+    {
+      "text": "\"If you make yourself more than just a man, if you devote yourself to an ideal, you become something else entirely.\" — Ra's al Ghul's teaching to Bruce Wayne in Batman Begins captures the legend of Batman.",
+      "source": "https://en.wikipedia.org/wiki/Bruce_Wayne_in_Batman_Begins"
+    },
+    {
+      "text": "Poison Ivy, Dr. Pamela Isley, first appeared in Batman #181 in June 1966, created by Robert Kanigher and Sheldon Moldoff as an eco-terrorist with plant-controlling powers.",
+      "source": "https://en.wikipedia.org/wiki/Poison_Ivy%2C_Dr._Pamela_Isley%2C_first_appeared_in_Batman_%23181_in_June_1966"
+    },
+    {
+      "text": "Mr. Freeze was originally a joke villain called Mr. Zero who first appeared in Batman #121 in 1959, but was reinvented as a tragic figure in Batman: The Animated Series.",
+      "source": "https://en.wikipedia.org/wiki/Mr._Freeze"
+    },
+    {
+      "text": "Harley Quinn was created by Paul Dini and Bruce Timm for Batman: The Animated Series in 1992 before being incorporated into DC Comics canon.",
+      "source": "https://en.wikipedia.org/wiki/Harley_Quinn"
+    },
+    {
+      "text": "\"Do I really look like a guy with a plan?\" — Heath Ledger's Joker in The Dark Knight delivers this line while ironically executing one of the most elaborate criminal plans in cinema history.",
+      "source": "https://en.wikipedia.org/wiki/Do_I_really_look_like_a_guy_with_a_plan"
+    },
+    {
+      "text": "The 1966 Batman television series starring Adam West premiered on ABC on January 12, 1966, and became an instant pop culture phenomenon.",
+      "source": "https://en.wikipedia.org/wiki/1966_Batman"
+    },
+    {
+      "text": "Adam West's Batman was known for its campy humor, colorful villains, tilted camera angles during villain scenes, and the famous \"BIFF! POW! ZAP!\" onscreen fight graphics.",
+      "source": "https://en.wikipedia.org/wiki/BIFF%21_POW%21_ZAP"
+    },
+    {
+      "text": "The 1966 series featured a Batmobile built from a 1955 Lincoln Futura concept car, customized by legendary car designer George Barris for just one dollar.",
+      "source": "https://en.wikipedia.org/wiki/1966_series_featured_a_Batmobile"
+    },
+    {
+      "text": "Cesar Romero played the Joker in the 1966 series and famously refused to shave his mustache, so white makeup was simply applied over it.",
+      "source": "https://en.wikipedia.org/wiki/Cesar_Romero"
+    },
+    {
+      "text": "Burgess Meredith's portrayal of the Penguin in the 1966 Batman series, complete with his signature \"waugh waugh waugh\" laugh, became definitive for the character.",
+      "source": "https://en.wikipedia.org/wiki/waugh_waugh_waugh"
+    },
+    {
+      "text": "Julie Newmar originated the role of Catwoman in the 1966 Batman TV series, bringing a seductive, feline grace that set the standard for all future portrayals.",
+      "source": "https://en.wikipedia.org/wiki/Julie_Newmar"
+    },
+    {
+      "text": "Eartha Kitt replaced Julie Newmar as Catwoman in the third and final season of the 1966 Batman series, becoming the first Black actress to play the role.",
+      "source": "https://en.wikipedia.org/wiki/Eartha_Kitt"
+    },
+    {
+      "text": "Frank Gorshin's manic portrayal of the Riddler in the 1966 series earned him an Emmy nomination and transformed the character from a minor villain into an A-list rogue.",
+      "source": "https://en.wikipedia.org/wiki/Frank_Gorshin%27s_manic_portrayal_of_the_Riddler_in_the_1966_series"
+    },
+    {
+      "text": "\"Some days you just can't get rid of a bomb.\" — Adam West's Batman delivers this absurd line in the 1966 Batman movie while running along a pier with a comically oversized bomb.",
+      "source": "https://en.wikipedia.org/wiki/Some_days_you_just_can%27t_get_rid_of_a_bomb"
+    },
+    {
+      "text": "Tim Burton's Batman (1989) was a groundbreaking blockbuster that earned over $411 million worldwide and redefined the superhero genre for a new generation.",
+      "source": "https://en.wikipedia.org/wiki/Tim_Burton%27s_Batman"
+    },
+    {
+      "text": "Michael Keaton's casting as Batman in 1989 caused massive fan backlash with 50,000 protest letters sent to Warner Bros., but his performance silenced critics upon the film's release.",
+      "source": "https://en.wikipedia.org/wiki/Michael_Keaton%27s"
+    },
+    {
+      "text": "Jack Nicholson's portrayal of the Joker in Batman (1989) earned him a reported $60–90 million after his unprecedented deal included a percentage of merchandising profits.",
+      "source": "https://en.wikipedia.org/wiki/Batman"
+    },
+    {
+      "text": "\"Have you ever danced with the devil in the pale moonlight?\" — Jack Nicholson's Joker asks this haunting question in Batman (1989), a line he says to all his victims.",
+      "source": "https://en.wikipedia.org/wiki/Have_you_ever_danced_with_the_devil_in_the_pale_moonlight"
+    },
+    {
+      "text": "Tim Burton's Batman (1989) featured a Batmobile designed by conceptual illustrator Julian Caldow, a sleek jet-turbine-powered vehicle that became one of the most iconic car designs in film history.",
+      "source": "https://en.wikipedia.org/wiki/Tim_Burton%27s_Batman"
+    },
+    {
+      "text": "Danny Elfman composed the legendary score for Batman (1989), creating a Gothic, operatic theme that is still synonymous with the character decades later.",
+      "source": "https://en.wikipedia.org/wiki/Batman"
+    },
+    {
+      "text": "Prince provided two original songs for Batman (1989), \"Batdance\" and \"Partyman,\" both of which became hit singles.",
+      "source": "https://www.youtube.com/results?search_query=Batman%20Batdance%20live%20performance"
+    },
+    {
+      "text": "Batman Returns (1992), Tim Burton's sequel, featured Danny DeVito as a grotesque, sewer-dwelling Penguin and Michelle Pfeiffer as a whip-cracking Catwoman.",
+      "source": "https://en.wikipedia.org/wiki/Batman_Returns"
+    },
+    {
+      "text": "\"I am Catwoman. Hear me roar.\" — Michelle Pfeiffer's Catwoman in Batman Returns (1992) delivers this empowering declaration that defined her confident, rebellious version of the character.",
+      "source": "https://en.wikipedia.org/wiki/I_am_Catwoman._Hear_me_roar"
+    },
+    {
+      "text": "Michelle Pfeiffer's Catwoman costume in Batman Returns required her to be vacuum-sealed into the suit, and she could only wear it for short periods between takes.",
+      "source": "https://en.wikipedia.org/wiki/Michelle_Pfeiffer%27s_Catwoman"
+    },
+    {
+      "text": "Batman Returns was considered too dark for a family audience, and McDonald's withdrew its Happy Meal tie-in promotion, leading Warner Bros. to take a lighter direction for the next film.",
+      "source": "https://en.wikipedia.org/wiki/Batman_Returns"
+    },
+    {
+      "text": "Joel Schumacher replaced Tim Burton as director for Batman Forever (1995), bringing a more colorful, neon-drenched visual style to Gotham City.",
+      "source": "https://en.wikipedia.org/wiki/Batman_Forever"
+    },
+    {
+      "text": "Val Kilmer took over the role of Batman in Batman Forever (1995), opposite Jim Carrey's Riddler and Tommy Lee Jones' Two-Face.",
+      "source": "https://en.wikipedia.org/wiki/Batman_Forever"
+    },
+    {
+      "text": "Jim Carrey's hyperactive portrayal of the Riddler in Batman Forever was inspired by Frank Gorshin's performance in the 1966 series and drew on Carrey's own rubber-faced comedy style.",
+      "source": "https://en.wikipedia.org/wiki/Jim_Carrey%27s_hyperactive_portrayal_of_the_Riddler_in_Batman_Forever"
+    },
+    {
+      "text": "Batman Forever (1995) featured a Batmobile with a bioluminescent design that glowed under blacklight and had fins that resembled a bat's wings.",
+      "source": "https://en.wikipedia.org/wiki/Batman_Forever"
+    },
+    {
+      "text": "Nicole Kidman played love interest Dr. Chase Meridian in Batman Forever, a criminal psychologist who becomes infatuated with both Batman and Bruce Wayne.",
+      "source": "https://en.wikipedia.org/wiki/Nicole_Kidman"
+    },
+    {
+      "text": "Batman & Robin (1997), directed by Joel Schumacher, is widely considered one of the worst superhero films ever made and nearly killed the Batman film franchise.",
+      "source": "https://en.wikipedia.org/wiki/Robin"
+    },
+    {
+      "text": "George Clooney played Batman in Batman & Robin (1997) and has repeatedly apologized for the film, once saying he destroyed the franchise.",
+      "source": "https://en.wikipedia.org/wiki/Robin"
+    },
+    {
+      "text": "Arnold Schwarzenegger's Mr. Freeze in Batman & Robin delivered relentless ice-related puns like \"Ice to meet you,\" \"What killed the dinosaurs? The Ice Age!\" and \"Let's kick some ice!\"",
+      "source": "https://en.wikipedia.org/wiki/Ice_to_meet_you"
+    },
+    {
+      "text": "\"What killed the dinosaurs? The Ice Age!\" — Arnold Schwarzenegger's Mr. Freeze in Batman & Robin (1997) delivers one of cinema's most infamously cheesy one-liners.",
+      "source": "https://en.wikipedia.org/wiki/What_killed_the_dinosaurs%3F_The_Ice_Age"
+    },
+    {
+      "text": "The infamous Bat-nipples on the Batman & Robin suit became a symbol of everything wrong with the Schumacher era and a lasting pop culture joke.",
+      "source": "https://en.wikipedia.org/wiki/infamous_Bat-nipples_on_the_Batman_%26_Robin_suit"
+    },
+    {
+      "text": "Uma Thurman played Poison Ivy in Batman & Robin (1997), while Alicia Silverstone portrayed Batgirl, who was reimagined as Alfred's niece rather than Commissioner Gordon's daughter.",
+      "source": "https://en.wikipedia.org/wiki/Robin"
+    },
+    {
+      "text": "After the failure of Batman & Robin, Warner Bros. spent eight years developing various Batman projects, including a Batman vs. Superman film and Darren Aronofsky's Batman: Year One adaptation, before Christopher Nolan's pitch was accepted.",
+      "source": "https://en.wikipedia.org/wiki/After_the_failure_of_Batman_%26_Robin%2C_Warner_Bros"
+    },
+    {
+      "text": "Christopher Nolan's Batman Begins (2005) rebooted the franchise with a grounded, realistic take on the character's origin, casting Christian Bale as Bruce Wayne.",
+      "source": "https://en.wikipedia.org/wiki/Christopher_Nolan%27s_Batman_Begins"
+    },
+    {
+      "text": "Christian Bale beat out several actors for the role of Batman in Batman Begins, including Jake Gyllenhaal, Joshua Jackson, and Cillian Murphy, who was cast as Scarecrow instead.",
+      "source": "https://en.wikipedia.org/wiki/Christian_Bale"
+    },
+    {
+      "text": "Batman Begins explored Bruce Wayne's training with the League of Shadows and Ra's al Ghul, played by Liam Neeson, giving the character's origin more depth than any previous film.",
+      "source": "https://en.wikipedia.org/wiki/Batman_Begins"
+    },
+    {
+      "text": "\"It's not who I am underneath, but what I do that defines me.\" — Christian Bale's Batman in Batman Begins defines the character's philosophy, separating the man from the mask.",
+      "source": "https://en.wikipedia.org/wiki/It%27s_not_who_I_am_underneath%2C_but_what_I_do_that_defines_me"
+    },
+    {
+      "text": "The Tumbler, the military-grade Batmobile in Nolan's trilogy, was a fully functional vehicle built by production designer Nathan Crowley from scratch in Nolan's garage.",
+      "source": "https://en.wikipedia.org/wiki/Tumbler%2C_the_military-grade_Batmobile_in_Nolan%27s_trilogy"
+    },
+    {
+      "text": "Cillian Murphy's portrayal of Scarecrow in Batman Begins was praised for its creepy intensity, and he became the only villain to appear in all three films of Nolan's trilogy.",
+      "source": "https://en.wikipedia.org/wiki/Cillian_Murphy%27s_portrayal_of_Scarecrow_in_Batman_Begins"
+    },
+    {
+      "text": "The Dark Knight (2008) is widely considered one of the greatest superhero films ever made, earning over $1 billion worldwide and redefining the genre's potential.",
+      "source": "https://en.wikipedia.org/wiki/Dark_Knight"
+    },
+    {
+      "text": "Heath Ledger's portrayal of the Joker in The Dark Knight earned him a posthumous Academy Award for Best Supporting Actor, making him the first actor to win an Oscar for a superhero film role.",
+      "source": "https://en.wikipedia.org/wiki/Heath_Ledger%27s_portrayal_of_the_Joker_in_The_Dark_Knight"
+    },
+    {
+      "text": "Heath Ledger locked himself in a hotel room for six weeks to develop the Joker's voice, mannerisms, and psychology, keeping a diary of disturbing thoughts and images in character.",
+      "source": "https://en.wikipedia.org/wiki/Heath_Ledger"
+    },
+    {
+      "text": "\"Why so serious?\" — Heath Ledger's Joker in The Dark Knight asks this chilling question while telling contradictory stories about the origin of his facial scars.",
+      "source": "https://en.wikipedia.org/wiki/Why_so_serious"
+    },
+    {
+      "text": "\"Introduce a little anarchy, upset the established order, and everything becomes chaos. I'm an agent of chaos.\" — The Joker's philosophy in The Dark Knight distills his worldview into a terrifying mission statement.",
+      "source": "https://en.wikipedia.org/wiki/Introduce_a_little_anarchy%2C_upset_the_established_order%2C_and_everything"
+    },
+    {
+      "text": "Aaron Eckhart played Harvey Dent/Two-Face in The Dark Knight, portraying Gotham's white knight whose fall from grace mirrors the Joker's desire to corrupt the city's best.",
+      "source": "https://en.wikipedia.org/wiki/Aaron_Eckhart"
+    },
+    {
+      "text": "The Dark Knight's pencil-disappearing trick performed by Heath Ledger's Joker was filmed in a single take and became one of the film's most talked-about moments.",
+      "source": "https://en.wikipedia.org/wiki/Dark_Knight%27s_pencil-disappearing_trick"
+    },
+    {
+      "text": "\"You thought we could be decent men in an indecent time. But you were wrong. The world is cruel.\" — Harvey Dent's bitter transformation in The Dark Knight shows how Gotham's hero became its villain.",
+      "source": "https://en.wikipedia.org/wiki/You_thought_we_could_be_decent_men_in_an_indecent_time._But_you_were_wrong._The_world_is_cruel"
+    },
+    {
+      "text": "The Dark Knight was filmed extensively in Chicago and was one of the first major Hollywood features to use IMAX cameras for principal photography.",
+      "source": "https://en.wikipedia.org/wiki/Dark_Knight"
+    },
+    {
+      "text": "Hans Zimmer and James Newton Howard composed the score for The Dark Knight, creating a minimalist, tension-building soundtrack that used a single sustained note to represent the Joker.",
+      "source": "https://en.wikipedia.org/wiki/Hans_Zimmer_and_James_Newton_Howard"
+    },
+    {
+      "text": "The Dark Knight Rises (2012) concluded Nolan's trilogy, featuring Tom Hardy as Bane, Anne Hathaway as Selina Kyle, and Joseph Gordon-Levitt as John Blake.",
+      "source": "https://en.wikipedia.org/wiki/Dark_Knight_Rises"
+    },
+    {
+      "text": "\"When Gotham is ashes, you have my permission to die.\" — Tom Hardy's Bane in The Dark Knight Rises delivers this menacing line to a broken Bruce Wayne in the pit prison.",
+      "source": "https://en.wikipedia.org/wiki/When_Gotham_is_ashes%2C_you_have_my_permission_to_die"
+    },
+    {
+      "text": "Tom Hardy's Bane voice in The Dark Knight Rises was initially so muffled that it had to be re-recorded and enhanced after early IMAX preview screenings drew audience complaints.",
+      "source": "https://en.wikipedia.org/wiki/Tom_Hardy%27s_Bane_voice_in_The_Dark_Knight_Rises"
+    },
+    {
+      "text": "Anne Hathaway's portrayal of Selina Kyle in The Dark Knight Rises was praised for bringing a modern, resourceful take to Catwoman without ever using the name in the film.",
+      "source": "https://en.wikipedia.org/wiki/Anne_Hathaway%27s_portrayal_of_Selina_Kyle_in_The_Dark_Knight_Rises"
+    },
+    {
+      "text": "The Dark Knight Rises featured the destruction of a real football stadium — Heinz Field (now Acrisure Stadium) in Pittsburgh was used for the explosive sequence.",
+      "source": "https://en.wikipedia.org/wiki/Dark_Knight_Rises"
+    },
+    {
+      "text": "\"A hero can be anyone, even a man doing something as simple and reassuring as putting a coat around a young boy's shoulders to let him know the world hadn't ended.\" — Batman's final lesson in The Dark Knight Rises reveals Gordon that Batman was Bruce Wayne.",
+      "source": "https://en.wikipedia.org/wiki/Dark_Knight_Rises"
+    },
+    {
+      "text": "Nolan's Dark Knight Trilogy collectively grossed over $2.4 billion worldwide and fundamentally changed how Hollywood approached superhero filmmaking.",
+      "source": "https://en.wikipedia.org/wiki/Nolan%27s_Dark_Knight_Trilogy"
+    },
+    {
+      "text": "Ben Affleck was cast as Batman in Batman v Superman: Dawn of Justice (2016), sparking massive fan controversy that echoed the backlash Michael Keaton faced in 1989.",
+      "source": "https://en.wikipedia.org/wiki/Justice"
+    },
+    {
+      "text": "Ben Affleck's Batman in the DCEU was older, more brutal, and willing to brand criminals, drawing inspiration from Frank Miller's The Dark Knight Returns.",
+      "source": "https://en.wikipedia.org/wiki/Ben_Affleck%27s_Batman_in_the_DCEU"
+    },
+    {
+      "text": "\"Tell me, do you bleed? You will.\" — Ben Affleck's Batman in Batman v Superman delivers this threat to Superman during their first hostile encounter.",
+      "source": "https://en.wikipedia.org/wiki/Tell_me%2C_do_you_bleed%3F_You_will"
+    },
+    {
+      "text": "Batman v Superman: Dawn of Justice (2016) featured the first live-action meeting of Batman and Superman, directed by Zack Snyder.",
+      "source": "https://en.wikipedia.org/wiki/Justice"
+    },
+    {
+      "text": "The \"Martha\" scene in Batman v Superman, where Batman stops fighting Superman upon learning their mothers share the name Martha, became one of the most debated moments in superhero cinema.",
+      "source": "https://en.wikipedia.org/wiki/Martha"
+    },
+    {
+      "text": "Gal Gadot's Wonder Woman made her cinematic debut alongside Affleck's Batman in Batman v Superman, forming the foundation of the DCEU's Justice League.",
+      "source": "https://en.wikipedia.org/wiki/Gal_Gadot%27s_Wonder_Woman"
+    },
+    {
+      "text": "Jeremy Irons played Alfred Pennyworth in the DCEU, portraying a more hands-on, tech-savvy version of the character who helped build Batman's gadgets and vehicles.",
+      "source": "https://en.wikipedia.org/wiki/Jeremy_Irons"
+    },
+    {
+      "text": "Ben Affleck's Batmobile in Batman v Superman was one of the most heavily armed versions, featuring mounted machine guns and a grappling system that could tow other vehicles.",
+      "source": "https://en.wikipedia.org/wiki/Ben_Affleck%27s_Batmobile_in_Batman_v_Superman"
+    },
+    {
+      "text": "Justice League (2017) united Batman with Superman, Wonder Woman, Aquaman, The Flash, and Cyborg, though the film went through extensive reshoots after Zack Snyder's departure.",
+      "source": "https://en.wikipedia.org/wiki/Justice_League"
+    },
+    {
+      "text": "Zack Snyder's Justice League (2021), the four-hour director's cut released on HBO Max, was the result of the unprecedented #ReleaseTheSnyderCut fan campaign.",
+      "source": "https://en.wikipedia.org/wiki/Zack_Snyder%27s_Justice_League"
+    },
+    {
+      "text": "The Batman (2022), directed by Matt Reeves, starred Robert Pattinson as a younger, more detective-focused Batman in only his second year of crime-fighting.",
+      "source": "https://en.wikipedia.org/wiki/Batman"
+    },
+    {
+      "text": "Robert Pattinson's casting as Batman in The Batman (2022) initially sparked fan backlash, but his brooding, grunge-inspired performance was widely praised upon release.",
+      "source": "https://en.wikipedia.org/wiki/Batman"
+    },
+    {
+      "text": "\"I'm vengeance.\" — Robert Pattinson's Batman growls this declaration in The Batman (2022), establishing his early, rage-driven approach to fighting crime in Gotham.",
+      "source": "https://en.wikipedia.org/wiki/I%27m_vengeance"
+    },
+    {
+      "text": "The Batman (2022) leaned heavily into the detective noir genre, with Riddler reimagined as a Zodiac Killer-inspired serial murderer played by Paul Dano.",
+      "source": "https://en.wikipedia.org/wiki/Batman"
+    },
+    {
+      "text": "Colin Farrell was virtually unrecognizable as the Penguin in The Batman (2022), buried under extensive prosthetic makeup that took over three hours to apply daily.",
+      "source": "https://en.wikipedia.org/wiki/Batman"
+    },
+    {
+      "text": "Zoë Kravitz portrayed Selina Kyle/Catwoman in The Batman (2022), bringing a streetwise vulnerability to the character as she searched for her missing friend.",
+      "source": "https://en.wikipedia.org/wiki/Batman"
+    },
+    {
+      "text": "Jeffrey Wright played Commissioner Gordon in The Batman (2022), becoming the first Black actor to portray the character in a live-action theatrical film.",
+      "source": "https://en.wikipedia.org/wiki/Batman"
+    },
+    {
+      "text": "The Batman (2022) featured a Batmobile that was essentially a modified muscle car with a massive rear-mounted jet engine, designed to look like something Bruce Wayne built himself.",
+      "source": "https://en.wikipedia.org/wiki/Batman"
+    },
+    {
+      "text": "Michael Giacchino composed the score for The Batman (2022), creating a haunting four-note main theme that echoed funeral marches and Nirvana's \"Something in the Way.\"",
+      "source": "https://en.wikipedia.org/wiki/Nirvana_(band)"
+    },
+    {
+      "text": "Andy Serkis played Alfred Pennyworth in The Batman (2022), portraying the character as a former military intelligence officer with a more grizzled, battle-worn presence.",
+      "source": "https://en.wikipedia.org/wiki/Batman"
+    },
+    {
+      "text": "Colin Farrell's Penguin performance in The Batman earned him a spinoff HBO series, The Penguin (2024), which further explored Oz Cobb's rise in Gotham's criminal underworld.",
+      "source": "https://en.wikipedia.org/wiki/Penguin"
+    },
+    {
+      "text": "Batman: The Animated Series (1992–1995) is widely regarded as one of the greatest animated shows ever made and redefined Batman for an entire generation.",
+      "source": "https://en.wikipedia.org/wiki/Batman:_The_Animated_Series_(1992%E2%80%931995)"
+    },
+    {
+      "text": "Batman: The Animated Series was created by Bruce Timm and Eric Radomski, featuring a distinctive Art Deco visual style called \"Dark Deco\" that used black paper backgrounds.",
+      "source": "https://en.wikipedia.org/wiki/Dark_Deco"
+    },
+    {
+      "text": "Kevin Conroy voiced Batman in The Animated Series and continued voicing the character across numerous animated shows, films, and video games for over 30 years until his death in 2022.",
+      "source": "https://en.wikipedia.org/wiki/Kevin_Conroy"
+    },
+    {
+      "text": "Mark Hamill, famous for playing Luke Skywalker, became equally iconic as the voice of the Joker in Batman: The Animated Series, creating a maniacal laugh that defined the character.",
+      "source": "https://en.wikipedia.org/wiki/Mark_Hamill%2C_famous_for_playing_Luke_Skywalker"
+    },
+    {
+      "text": "\"I am vengeance. I am the night. I am Batman!\" — Kevin Conroy's Batman delivers this legendary line in Batman: The Animated Series, considered the definitive vocal performance of the character.",
+      "source": "https://en.wikipedia.org/wiki/I_am_vengeance._I_am_the_night._I_am_Batman"
+    },
+    {
+      "text": "The Batman: The Animated Series episode \"Heart of Ice\" reimagined Mr. Freeze as a tragic villain trying to save his terminally ill wife, Nora, winning an Emmy Award for Outstanding Writing.",
+      "source": "https://en.wikipedia.org/wiki/Heart_of_Ice"
+    },
+    {
+      "text": "\"Think of it, Batman. To never again walk on a summer's day with a hot wind in your face and a warm hand to hold. Oh yes, I'd kill for that.\" — Mr. Freeze's emotional monologue in \"Heart of Ice\" transformed a joke villain into one of Batman's most sympathetic foes.",
+      "source": "https://www.youtube.com/results?search_query=Batman%20%E2%80%94%20Mr.%20Freeze%27s%20emotional%20monologue%20in%20live%20performance"
+    },
+    {
+      "text": "Harley Quinn was introduced in the Batman: The Animated Series episode \"Joker's Favor\" in 1992, originally intended as a one-off henchwoman but becoming so popular she became a DC mainstay.",
+      "source": "https://www.youtube.com/results?search_query=Batman%20Joker%27s%20Favor%20live%20performance"
+    },
+    {
+      "text": "\"Don't you want to rev up your Harley? Vroom vroom!\" — Harley Quinn's playful line to the Joker in The Animated Series captured her tragic devotion to a man who constantly abused her.",
+      "source": "https://en.wikipedia.org/wiki/Don%27t_you_want_to_rev_up_your_Harley%3F_Vroom_vroom"
+    },
+    {
+      "text": "Batman: The Animated Series introduced the tragic backstory of Harvey Dent becoming Two-Face across a powerful two-part episode that explored his psychological breakdown.",
+      "source": "https://en.wikipedia.org/wiki/Batman:_The_Animated_Series"
+    },
+    {
+      "text": "The Animated Series' version of Clayface, voiced by Ron Perlman, was a washed-up actor named Matt Hagen who was transformed by a chemical compound.",
+      "source": "https://en.wikipedia.org/wiki/Animated_Series%27_version_of_Clayface%2C_voiced_by_Ron_Perlman"
+    },
+    {
+      "text": "Batman: Mask of the Phantasm (1993), the theatrical film spinoff of The Animated Series, is considered one of the best Batman films ever made despite its underwhelming box office performance.",
+      "source": "https://en.wikipedia.org/wiki/Phantasm"
+    },
+    {
+      "text": "Gotham (2014–2019), the Fox TV series, explored the origin stories of Batman's villains and Jim Gordon's rise through the Gotham City Police Department before Bruce Wayne became Batman.",
+      "source": "https://en.wikipedia.org/wiki/Fox_TV"
+    },
+    {
+      "text": "Ben McKenzie played a young James Gordon in Gotham, while David Mazouz portrayed the teenage Bruce Wayne growing into the man who would become Batman.",
+      "source": "https://en.wikipedia.org/wiki/Ben_McKenzie"
+    },
+    {
+      "text": "Robin Lord Taylor's portrayal of Oswald Cobblepot in Gotham was praised for showing the Penguin's gradual transformation from a bullied underling to a cunning crime lord.",
+      "source": "https://en.wikipedia.org/wiki/Robin_Lord_Taylor%27s_portrayal_of_Oswald_Cobblepot_in_Gotham"
+    },
+    {
+      "text": "Gotham featured origin stories for nearly every major Batman villain, including the Riddler (Cory Michael Smith), Catwoman (Camren Bicondova), and a proto-Joker figure (Cameron Monaghan).",
+      "source": "https://en.wikipedia.org/wiki/Cory_Michael_Smith"
+    },
+    {
+      "text": "Batman: Arkham Asylum (2009), developed by Rocksteady Studios, revolutionized superhero video games with its innovative \"FreeFlow\" combat system and atmospheric Metroidvania-style design.",
+      "source": "https://www.youtube.com/results?search_query=Batman%20FreeFlow%20live%20performance"
+    },
+    {
+      "text": "The Arkham series featured Kevin Conroy and Mark Hamill reprising their iconic roles as Batman and the Joker from The Animated Series, bringing beloved vocal performances to gaming.",
+      "source": "https://en.wikipedia.org/wiki/Arkham"
+    },
+    {
+      "text": "\"Did you know that I've always hated you?\" — The Joker's final words to Batman in Arkham City, delivered with Mark Hamill's haunting voice, provided a shockingly intimate ending to their rivalry.",
+      "source": "https://en.wikipedia.org/wiki/Did_you_know_that_I%27ve_always_hated_you"
+    },
+    {
+      "text": "Batman: Arkham City (2011) expanded the gameplay to an open-world section of Gotham, where Hugo Strange had walled off part of the city to create a massive prison.",
+      "source": "https://en.wikipedia.org/wiki/Batman:_Arkham_City"
+    },
+    {
+      "text": "Batman: Arkham Knight (2015) introduced the Batmobile as a drivable vehicle for the first time in the Arkham series and featured the mysterious Arkham Knight as its primary antagonist.",
+      "source": "https://en.wikipedia.org/wiki/Batman:_Arkham_Knight"
+    },
+    {
+      "text": "The Arkham Knight was revealed to be Jason Todd, the second Robin, who had been tortured by the Joker and believed Batman had abandoned him.",
+      "source": "https://en.wikipedia.org/wiki/Arkham_Knight"
+    },
+    {
+      "text": "Batman: Arkham Origins (2013), a prequel developed by WB Games Montréal, depicted Batman's early career and his first encounters with villains like Bane and the Joker.",
+      "source": "https://en.wikipedia.org/wiki/Batman:_Arkham_Origins"
+    },
+    {
+      "text": "The Arkham series collectively sold over 30 million copies worldwide, establishing Batman as one of the most successful franchises in video game history.",
+      "source": "https://en.wikipedia.org/wiki/Arkham"
+    },
+    {
+      "text": "Frank Miller's The Dark Knight Returns (1986) depicted an aging, 55-year-old Bruce Wayne coming out of retirement in a dystopian future Gotham, and it fundamentally redefined Batman for the modern era.",
+      "source": "https://en.wikipedia.org/wiki/Frank_Miller%27s_The_Dark_Knight_Returns"
+    },
+    {
+      "text": "\"This isn't a mud hole. It's an operating table. And I'm the surgeon.\" — Batman's internal monologue while brutalizing a mutant gang leader in The Dark Knight Returns showcases Miller's unflinching brutality.",
+      "source": "https://en.wikipedia.org/wiki/This_isn%27t_a_mud_hole._It%27s_an_operating_table._And_I%27m_the_surgeon"
+    },
+    {
+      "text": "The Dark Knight Returns featured Batman fighting Superman in one of comics' most iconic battles, with Batman wearing powered armor and using a Kryptonite arrow to level the playing field.",
+      "source": "https://en.wikipedia.org/wiki/Dark_Knight_Returns"
+    },
+    {
+      "text": "Frank Miller's Batman: Year One (1987) told the story of Bruce Wayne's first year as Batman alongside Jim Gordon's arrival in Gotham, and it became the definitive origin retelling.",
+      "source": "https://en.wikipedia.org/wiki/Frank_Miller%27s_Batman:_Year_One"
+    },
+    {
+      "text": "Alan Moore's The Killing Joke (1988) presented one possible origin of the Joker as a failed comedian who had \"one bad day,\" and controversially depicted the shooting and paralysis of Barbara Gordon.",
+      "source": "https://en.wikipedia.org/wiki/one_bad_day"
+    },
+    {
+      "text": "\"All it takes is one bad day to reduce the sanest man alive to lunacy. That's how far the world is from where I am. Just one bad day.\" — The Joker's thesis in The Killing Joke argues that madness is just one tragic moment away for anyone.",
+      "source": "https://en.wikipedia.org/wiki/All_it_takes"
+    },
+    {
+      "text": "The Killing Joke's depiction of Barbara Gordon being shot by the Joker led to her transformation into Oracle, a wheelchair-using information broker who became one of DC's most important heroes.",
+      "source": "https://en.wikipedia.org/wiki/Killing_Joke%27s"
+    },
+    {
+      "text": "Batman: A Death in the Family (1988) let readers vote by phone on whether Jason Todd, the second Robin, should live or die — fans voted for his death by a slim margin of 5,343 to 5,271.",
+      "source": "https://en.wikipedia.org/wiki/Family"
+    },
+    {
+      "text": "Knightfall (1993–1994) was the epic storyline where Bane broke Batman's back, forcing Bruce Wayne to pass the cowl to Jean-Paul Valley (Azrael), who proved too violent for the role.",
+      "source": "https://en.wikipedia.org/wiki/Knightfall_(1993%E2%80%931994)"
+    },
+    {
+      "text": "Batman: Hush (2002–2003), by Jeph Loeb and Jim Lee, introduced the villain Hush (Thomas Elliot) and featured stunning art that became some of the best-selling Batman comics of the era.",
+      "source": "https://en.wikipedia.org/wiki/Batman:_Hush_(2002%E2%80%932003)%2C_by_Jeph_Loeb_and_Jim_Lee"
+    },
+    {
+      "text": "Batman: The Court of Owls (2011–2012) by Scott Snyder and Greg Capullo introduced a secret society that had controlled Gotham for centuries, proving even Batman didn't know everything about his city.",
+      "source": "https://en.wikipedia.org/wiki/Batman:_The_Court_of_Owls_(2011%E2%80%932012)_by_Scott_Snyder_and_Greg_Capullo"
+    },
+    {
+      "text": "\"Beware the Court of Owls, that watches all the time, ruling Gotham from a shadowed perch, behind granite and lime.\" — This nursery rhyme from Scott Snyder's Court of Owls arc reveals Gotham's darkest secret society.",
+      "source": "https://en.wikipedia.org/wiki/Beware_the_Court_of_Owls"
+    },
+    {
+      "text": "Batman: The Long Halloween (1996–1997) by Jeph Loeb and Tim Sale told a year-long murder mystery that was a major influence on Christopher Nolan's The Dark Knight.",
+      "source": "https://en.wikipedia.org/wiki/Batman:_The_Long_Halloween_(1996%E2%80%931997)_by_Jeph_Loeb_and_Tim_Sale"
+    },
+    {
+      "text": "No Man's Land (1999) was a year-long Batman storyline where Gotham City was devastated by an earthquake and abandoned by the U.S. government, becoming a lawless wasteland.",
+      "source": "https://en.wikipedia.org/wiki/No_Man%27s_Land"
+    },
+    {
+      "text": "Grant Morrison's run on Batman (2006–2013) introduced Damian Wayne, Bruce's biological son with Talia al Ghul, as the new Robin — a violent, arrogant child trained by the League of Assassins.",
+      "source": "https://en.wikipedia.org/wiki/Grant_Morrison%27s_run_on_Batman_(2006%E2%80%932013)"
+    },
+    {
+      "text": "Batman: Under the Red Hood (2005) revealed that Jason Todd had been resurrected and had become the Red Hood, a violent anti-hero who challenged Batman's no-kill rule.",
+      "source": "https://en.wikipedia.org/wiki/Red_Hood"
+    },
+    {
+      "text": "\"I'm not talking about killing Penguin or Scarecrow or Dent. I'm talking about HIM. Just him.\" — Jason Todd's desperate plea to Batman in Under the Red Hood forces the Dark Knight to confront why he won't kill the Joker.",
+      "source": "https://en.wikipedia.org/wiki/I%27m_not_talking_about_killing_Penguin_or_Scarecrow_or_Dent._I%27m_talking_about_HIM._Just_him"
+    },
+    {
+      "text": "The Batmobile has undergone dozens of redesigns since its first comic appearance in 1941, evolving from a simple red sedan to the high-tech vehicles seen in modern media.",
+      "source": "https://en.wikipedia.org/wiki/Batmobile"
+    },
+    {
+      "text": "The 1966 Batmobile from the Adam West series was a modified Lincoln Futura concept car and sold at auction in 2013 for $4.62 million.",
+      "source": "https://en.wikipedia.org/wiki/1966_Batmobile_from_the_Adam_West_series"
+    },
+    {
+      "text": "The Tumbler from Nolan's Dark Knight Trilogy was so well-engineered that several fully functional versions were built, capable of driving at speeds over 100 mph.",
+      "source": "https://en.wikipedia.org/wiki/Tumbler_from_Nolan%27s_Dark_Knight_Trilogy"
+    },
+    {
+      "text": "Batman's utility belt was introduced in Detective Comics #29 in 1939, just two issues after his debut, and has contained everything from Batarangs to shark repellent spray.",
+      "source": "https://en.wikipedia.org/wiki/Batman%27s_utility_belt"
+    },
+    {
+      "text": "The Batarang, Batman's signature throwing weapon modeled after a boomerang, first appeared in Detective Comics #31 in 1939 and has been a staple of his arsenal ever since.",
+      "source": "https://en.wikipedia.org/wiki/Batarang%2C_Batman%27s_signature_throwing_weapon_modeled_after_a_boomerang%2C_first"
+    },
+    {
+      "text": "Batman's cape has served multiple purposes across media — as a glider, as a shield, as a tool for intimidation, and in Nolan's films, as a \"memory cloth\" that stiffens with an electric current.",
+      "source": "https://www.youtube.com/results?search_query=Batman%20memory%20cloth%20live%20performance"
+    },
+    {
+      "text": "The Bat-Signal, the spotlight projecting a bat silhouette onto Gotham's clouds, first appeared in Detective Comics #60 in 1942 as Commissioner Gordon's method of summoning Batman.",
+      "source": "https://en.wikipedia.org/wiki/Bat-Signal%2C_the_spotlight_projecting_a_bat_silhouette_onto_Gotham%27s_clouds%2C_first"
+    },
+    {
+      "text": "Batman is often called \"The World's Greatest Detective,\" a title that reflects his intellectual prowess and forensic skills as much as his physical capabilities.",
+      "source": "https://en.wikipedia.org/wiki/World%27s_Greatest_Detective"
+    },
+    {
+      "text": "Despite having no superpowers, Batman is a founding member of the Justice League and has contingency plans to defeat every other member if they ever go rogue.",
+      "source": "https://en.wikipedia.org/wiki/Despite_having_no_superpowers%2C_Batman"
+    },
+    {
+      "text": "Batman's contingency plans to defeat the Justice League were stolen and used against the team in the Tower of Babel storyline (2000) by Ra's al Ghul.",
+      "source": "https://en.wikipedia.org/wiki/Batman%27s_contingency_plans_to_defeat_the_Justice_League"
+    },
+    {
+      "text": "\"I want you to remember, Clark, in all the years to come, in your most private moments, I want you to remember my hand at your throat.\" — Batman's chilling words to Superman in The Dark Knight Returns.",
+      "source": "https://en.wikipedia.org/wiki/Superman_in_The_Dark_Knight_Returns"
+    },
+    {
+      "text": "Wayne Manor, Batman's ancestral home, sits atop the Batcave and serves as Bruce Wayne's cover as a billionaire playboy philanthropist.",
+      "source": "https://en.wikipedia.org/wiki/Wayne_Manor"
+    },
+    {
+      "text": "Bruce Wayne's public persona as a shallow billionaire playboy is itself a mask — a deliberate performance designed to divert suspicion from his identity as Batman.",
+      "source": "https://en.wikipedia.org/wiki/Bruce_Wayne%27s_public_persona_as_a_shallow_billionaire_playboy"
+    },
+    {
+      "text": "\"The training is nothing. The will is everything. The will to act.\" — Ra's al Ghul's lesson to Bruce Wayne in Batman Begins emphasizes that Batman's greatest power is his determination.",
+      "source": "https://en.wikipedia.org/wiki/training_is_nothing._The_will_is_everything._The_will_to_act"
+    },
+    {
+      "text": "Thomas and Martha Wayne have been portrayed differently across media — sometimes as purely noble, sometimes with darker secrets, as in The Batman (2022) where Thomas was connected to underworld figures.",
+      "source": "https://en.wikipedia.org/wiki/Batman"
+    },
+    {
+      "text": "The Wayne family fortune comes from Wayne Enterprises, a multinational conglomerate that provides Bruce Wayne with the resources to fund his crime-fighting operation.",
+      "source": "https://en.wikipedia.org/wiki/Wayne"
+    },
+    {
+      "text": "Lucius Fox, first introduced in Batman #307 (1979), is Wayne Enterprises' CEO and Batman's technology supplier, memorably played by Morgan Freeman in Nolan's trilogy.",
+      "source": "https://en.wikipedia.org/wiki/Lucius_Fox%2C_first"
+    },
+    {
+      "text": "\"Let me get this straight: you think that your client, one of the wealthiest, most powerful men in the world, is secretly a vigilante who spends his nights beating criminals to a pulp with his bare hands? And your plan is to blackmail this person?\" — Lucius Fox's devastating shutdown in The Dark Knight.",
+      "source": "https://en.wikipedia.org/wiki/Lucius_Fox%27s"
+    },
+    {
+      "text": "Commissioner James Gordon is Batman's most trusted ally within the GCPD, maintaining the Bat-Signal and providing intel despite technically operating outside the law.",
+      "source": "https://en.wikipedia.org/wiki/Commissioner_James_Gordon"
+    },
+    {
+      "text": "\"He's the hero Gotham deserves, but not the one it needs right now. So we'll hunt him. Because he can take it.\" — Commissioner Gordon's eulogy for Batman at the end of The Dark Knight.",
+      "source": "https://en.wikipedia.org/wiki/He%27s_the"
+    },
+    {
+      "text": "Pat Hingle played Commissioner Gordon in all four Batman films from 1989 to 1997, while Gary Oldman redefined the character in Nolan's trilogy.",
+      "source": "https://en.wikipedia.org/wiki/Pat_Hingle"
+    },
+    {
+      "text": "Gary Oldman's Jim Gordon in the Dark Knight Trilogy was a more grounded, everyman version of the character, portraying a cop struggling to maintain integrity in a corrupt city.",
+      "source": "https://en.wikipedia.org/wiki/Gary_Oldman%27s_Jim_Gordon_in_the_Dark_Knight_Trilogy"
+    },
+    {
+      "text": "Barbara Gordon, Commissioner Gordon's daughter, became Batgirl in Detective Comics #359 (1967) and later Oracle after being paralyzed by the Joker in The Killing Joke.",
+      "source": "https://en.wikipedia.org/wiki/Barbara_Gordon%2C_Commissioner_Gordon%27s_daughter"
+    },
+    {
+      "text": "Dick Grayson eventually outgrew the Robin identity and became Nightwing, establishing himself as a hero in the city of Blüdhaven while maintaining close ties to Batman.",
+      "source": "https://en.wikipedia.org/wiki/Dick_Grayson_eventually_outgrew_the_Robin_identity_and"
+    },
+    {
+      "text": "Jason Todd was the second Robin, initially popular until a bratty characterization made readers dislike him so much they voted to have the Joker kill him.",
+      "source": "https://en.wikipedia.org/wiki/Jason_Todd"
+    },
+    {
+      "text": "Tim Drake, the third Robin, was notable for being the one who deduced Batman and Nightwing's identities through detective work, proving he belonged in the Bat-family.",
+      "source": "https://en.wikipedia.org/wiki/Tim_Drake%2C_the_third_Robin"
+    },
+    {
+      "text": "Damian Wayne, the son of Bruce Wayne and Talia al Ghul, became the fifth Robin and was a violent, arrogant boy who had to learn his father's code against killing.",
+      "source": "https://en.wikipedia.org/wiki/Damian_Wayne%2C_the_son_of_Bruce_Wayne_and_Talia_al_Ghul"
+    },
+    {
+      "text": "Alfred Pennyworth is far more than a butler — he's Bruce Wayne's surrogate father, field medic, counselor, and the one person who consistently challenges Batman's obsessive behavior.",
+      "source": "https://en.wikipedia.org/wiki/Alfred_Pennyworth"
+    },
+    {
+      "text": "\"Why do we fall, sir? So that we can learn to pick ourselves up.\" — Alfred's variation of Thomas Wayne's words in Batman Begins reminds Bruce of his father's wisdom.",
+      "source": "https://en.wikipedia.org/wiki/Why_do_we_fall%2C_sir%3F_So_that_we_can_learn_to_pick_ourselves_up"
+    },
+    {
+      "text": "Michael Caine's portrayal of Alfred in the Dark Knight Trilogy won audiences' hearts, particularly his tearful confession about burning Rachel Dawes' letter in The Dark Knight Rises.",
+      "source": "https://en.wikipedia.org/wiki/Michael_Caine%27s_portrayal_of_Alfred_in_the_Dark_Knight_Trilogy"
+    },
+    {
+      "text": "\"I won't bury you. I've buried enough members of the Wayne family.\" — Michael Caine's Alfred in The Dark Knight Rises, threatening to leave Bruce if he continues his death wish.",
+      "source": "https://en.wikipedia.org/wiki/I_won%27t_bury_you._I%27ve_buried_enough_members_of_the_Wayne_family"
+    },
+    {
+      "text": "Arkham Asylum, Gotham's infamous psychiatric hospital for the criminally insane, houses nearly all of Batman's rogues gallery and was first mentioned by name in Batman #258 (1974).",
+      "source": "https://en.wikipedia.org/wiki/Arkham_Asylum"
+    },
+    {
+      "text": "Grant Morrison's graphic novel Arkham Asylum: A Serious House on Serious Earth (1989) depicted the asylum as a nightmarish hellscape with painted art by Dave McKean.",
+      "source": "https://en.wikipedia.org/wiki/Serious_Earth"
+    },
+    {
+      "text": "Batman has been published continuously for over 85 years, making him one of the longest-running characters in comic book history alongside Superman and Wonder Woman.",
+      "source": "https://en.wikipedia.org/wiki/Batman"
+    },
+    {
+      "text": "Bob Kane initially envisioned Batman as a blond-haired hero in a red costume with a domino mask and rigid wings, but Bill Finger suggested the dark cowl, cape, and color scheme.",
+      "source": "https://en.wikipedia.org/wiki/Bob_Kane"
+    },
+    {
+      "text": "The Batman comics shifted dramatically in tone in the 1950s, introducing sci-fi elements like Bat-Mite and alien encounters before returning to darker stories in the 1970s under Dennis O'Neil and Neal Adams.",
+      "source": "https://en.wikipedia.org/wiki/Batman"
+    },
+    {
+      "text": "Dennis O'Neil and Neal Adams revitalized Batman in the early 1970s, restoring his dark, brooding personality and introducing Ra's al Ghul and Talia al Ghul.",
+      "source": "https://en.wikipedia.org/wiki/Dennis_O%27Neil_and_Neal_Adams"
+    },
+    {
+      "text": "The dynamic between Batman and Superman has been a core element of DC Comics — Batman represents humanity's peak potential while Superman represents alien-born idealism.",
+      "source": "https://en.wikipedia.org/wiki/dynamic_between_Batman_and_Superman"
+    },
+    {
+      "text": "\"You're not brave. Men are brave.\" — Batman's taunt to Superman in Batman v Superman echoes Frank Miller's depiction of their rivalry in The Dark Knight Returns.",
+      "source": "https://en.wikipedia.org/wiki/You%27re_not_brave._Men_are_brave"
+    },
+    {
+      "text": "Batman's no-killing rule is one of his defining characteristics, established firmly in the post-Golden Age comics though he killed freely in his earliest 1939–1940 appearances.",
+      "source": "https://en.wikipedia.org/wiki/Batman%27s_no-killing_rule"
+    },
+    {
+      "text": "\"If you kill a killer, the number of killers in the world remains the same.\" — This philosophical argument is often used to explain Batman's refusal to cross the line and take a life.",
+      "source": "https://en.wikipedia.org/wiki/If_you_kill_a_killer%2C_the_number_of_killers_in_the_world_remains_the_same"
+    },
+    {
+      "text": "Batman's rogues gallery is widely considered the greatest in all of comics, with villains who serve as dark mirrors of different aspects of Batman's own psychology.",
+      "source": "https://en.wikipedia.org/wiki/Batman%27s_rogues_gallery"
+    },
+    {
+      "text": "The Joker represents chaos to Batman's order; Two-Face represents duality to Batman's divided identity; Scarecrow represents fear, the weapon Batman himself uses against criminals.",
+      "source": "https://en.wikipedia.org/wiki/Joker"
+    },
+    {
+      "text": "Catwoman's relationship with Batman is one of comics' longest-running romances — they have married in alternate timelines and she has been depicted as both villain and anti-hero.",
+      "source": "https://en.wikipedia.org/wiki/Catwoman%27s_relationship_with_Batman"
+    },
+    {
+      "text": "\"You don't owe these people any more. You've given them everything.\" — Selina Kyle to Batman in The Dark Knight Rises, urging him to abandon Gotham and live for himself.",
+      "source": "https://www.youtube.com/results?search_query=Batman%20You%20don%27t%20owe%20these%20people%20any%20more.%20You%27ve%20given%20them%20everything.%20live%20performance"
+    },
+    {
+      "text": "In the comics, Batman and Catwoman finally married in Batman #50 (2018) — or rather, Catwoman left him at the altar, devastating fans after months of buildup.",
+      "source": "https://en.wikipedia.org/wiki/In_the"
+    },
+    {
+      "text": "The Lazarus Pits, used by Ra's al Ghul to maintain his immortality for over 600 years, are natural chemical pools that can heal injuries and resurrect the dead but cause temporary madness.",
+      "source": "https://en.wikipedia.org/wiki/Lazarus_Pits%2C_used_by_Ra%27s_al_Ghul_to_maintain_his_immortality_for_over_600_years"
+    },
+    {
+      "text": "Talia al Ghul, Ra's al Ghul's daughter, has alternated between ally and enemy of Batman, and is the mother of Damian Wayne.",
+      "source": "https://en.wikipedia.org/wiki/Talia_al_Ghul%2C_Ra%27s_al_Ghul%27s_daughter"
+    },
+    {
+      "text": "\"You yourself fought the decadence of Gotham for years with your fists. I am simply fighting it on a scale equal to the task.\" — Ra's al Ghul justifying his plan to destroy Gotham in Batman Begins.",
+      "source": "https://en.wikipedia.org/wiki/Gotham_for"
+    },
+    {
+      "text": "Batman's IQ is estimated in comics lore to be well over 190, making him one of the most intelligent humans in the DC Universe alongside Lex Luthor and Mr. Terrific.",
+      "source": "https://en.wikipedia.org/wiki/Batman%27s_IQ"
+    },
+    {
+      "text": "Bruce Wayne has trained in over 127 martial arts disciplines according to various comic storylines, mastering virtually every known form of hand-to-hand combat.",
+      "source": "https://en.wikipedia.org/wiki/Bruce_Wayne"
+    },
+    {
+      "text": "Batman typically operates from approximately 8 PM to 5 AM, sleeping only four to five hours per night according to most comic depictions of his grueling schedule.",
+      "source": "https://en.wikipedia.org/wiki/PM_to_5_AM"
+    },
+    {
+      "text": "The phrase \"I am the night\" has become one of Batman's most associated lines, representing his transformation from a man into a symbol of fear for Gotham's criminals.",
+      "source": "https://en.wikipedia.org/wiki/I_am_the_night"
+    },
+    {
+      "text": "Batman Year One's depiction of Bruce Wayne's first night out as a vigilante — getting stabbed, shot, and nearly killed — showed how the bat persona was born from desperation, not planning.",
+      "source": "https://en.wikipedia.org/wiki/Batman_Year_One%27s"
+    },
+    {
+      "text": "\"Yes, Father. I shall become a bat.\" — Bruce Wayne's pivotal declaration in Batman: Year One as a bat crashes through his window, giving him the symbol he needs.",
+      "source": "https://en.wikipedia.org/wiki/Yes%2C_Father._I_shall_become_a_bat"
+    },
+    {
+      "text": "Hugo Strange, one of Batman's first recurring villains (debuting in 1940), was the first enemy to deduce Batman's secret identity, predating even the Joker and Catwoman.",
+      "source": "https://en.wikipedia.org/wiki/Hugo_Strange%2C_one_of_Batman%27s_first_recurring_villains_(debuting_in_1940)"
+    },
+    {
+      "text": "Clayface, a shape-shifting villain, has had multiple incarnations in DC Comics, with the most famous being Basil Karlo and Matt Hagen, both failed actors transformed by chemicals.",
+      "source": "https://en.wikipedia.org/wiki/Clayface%2C_a_shape-shifting_villain"
+    },
+    {
+      "text": "The Ventriloquist, Arnold Wesker, is a meek man controlled by his violent puppet Scarface — a unique villain who embodies the duality themes central to Batman's rogues gallery.",
+      "source": "https://en.wikipedia.org/wiki/Ventriloquist%2C_Arnold_Wesker"
+    },
+    {
+      "text": "Calendar Man, Julian Day, commits crimes themed around holidays and dates, and was reimagined as a terrifying Hannibal Lecter-style figure in Batman: The Long Halloween.",
+      "source": "https://en.wikipedia.org/wiki/Calendar_Man%2C_Julian_Day%2C_commits_crimes_themed_around_holidays_and_dates%2C_and"
+    },
+    {
+      "text": "Killer Croc, born Waylon Jones, suffers from a genetic condition that gives him reptilian skin and superhuman strength, making him one of Batman's most physically imposing foes.",
+      "source": "https://en.wikipedia.org/wiki/Killer_Croc"
+    },
+    {
+      "text": "Man-Bat, Dr. Kirk Langstrom, is Batman's dark mirror — a scientist who transforms into a literal human-bat hybrid, representing the monstrous extreme of what Batman embodies symbolically.",
+      "source": "https://en.wikipedia.org/wiki/Man-Bat%2C_Dr._Kirk_Langstrom"
+    },
+    {
+      "text": "The League of Assassins, led by Ra's al Ghul, is one of the oldest and most dangerous organizations in the DC Universe, with Batman being one of the few to be invited to join.",
+      "source": "https://en.wikipedia.org/wiki/League_of_Assassins%2C_led_by_Ra%27s_al_Ghul"
+    },
+    {
+      "text": "\"Death does not wait for you to be ready. Death is not considerate, or fair.\" — Ra's al Ghul's teaching in Batman Begins reflects the harsh philosophy Batman adopted from his training.",
+      "source": "https://en.wikipedia.org/wiki/Death_does_not_wait_for_you_to_be_ready._Death_is_not_considerate%2C_or_fair"
+    },
+    {
+      "text": "Batman: The Animated Series spawned an entire DC Animated Universe (DCAU) including Superman: The Animated Series, Justice League, and Batman Beyond.",
+      "source": "https://en.wikipedia.org/wiki/Batman:_The_Animated_Series"
+    },
+    {
+      "text": "Batman Beyond (1999–2001) was set in a futuristic Gotham where an elderly Bruce Wayne mentored teenager Terry McGinnis as a new Batman, continuing the legacy.",
+      "source": "https://en.wikipedia.org/wiki/Batman_Beyond_(1999%E2%80%932001)"
+    },
+    {
+      "text": "\"You want to know something? I didn't count on being happy.\" — The elderly Bruce Wayne in the Batman Beyond episode \"Epilogue,\" reflecting on a lifetime of sacrifice.",
+      "source": "https://en.wikipedia.org/wiki/You_want_to_know_something%3F_I_didn%27t_count_on_being_happy"
+    },
+    {
+      "text": "The Batcomputer, Batman's central information hub in the Batcave, has been depicted as everything from a room-sized mainframe to an advanced AI system depending on the era.",
+      "source": "https://en.wikipedia.org/wiki/Batcomputer%2C_Batman%27s_central_information_hub_in_the_Batcave"
+    },
+    {
+      "text": "Batman's vehicles extend far beyond the Batmobile — he has also used the Batwing (aircraft), Batboat, Batcycle, and even a Bat-submarine in various adaptations.",
+      "source": "https://en.wikipedia.org/wiki/Batman%27s_vehicles_extend_far_beyond_the_Batmobile_%E2%80%94_he"
+    },
+    {
+      "text": "The Batwing, Batman's personal aircraft, has appeared in nearly every major Batman film since 1989, usually for dramatic aerial combat sequences.",
+      "source": "https://en.wikipedia.org/wiki/Batwing%2C_Batman%27s_personal_aircraft"
+    },
+    {
+      "text": "In Burton's Batman (1989), the Batwing was designed to silhouette against the moon in the shape of the Batman logo — one of the most iconic shots in superhero cinema.",
+      "source": "https://en.wikipedia.org/wiki/In_Burton%27s_Batman"
+    },
+    {
+      "text": "Batman's grappling gun, which allows him to ascend buildings and swing between rooftops, became a standard part of his equipment starting in the late 1980s comics.",
+      "source": "https://en.wikipedia.org/wiki/Batman%27s_grappling_gun%2C_which_allows_him_to_ascend_buildings_and_swing_between_rooftops"
+    },
+    {
+      "text": "The Batman comics have featured numerous crossovers with other characters, including Superman, Spawn, Judge Dredd, and even Elmer Fudd in a memorable 2017 one-shot.",
+      "source": "https://en.wikipedia.org/wiki/Batman_comics"
+    },
+    {
+      "text": "Batman: Earth One by Geoff Johns and Gary Frank reimagined Batman's origin in a series of graphic novels where Bruce was less prepared and made more mistakes as a fledgling vigilante.",
+      "source": "https://en.wikipedia.org/wiki/Batman:_Earth_One"
+    },
+    {
+      "text": "\"I wear a mask. And that mask is not to hide who I am, but to create what I am.\" — Batman's reflection in the comics on the importance of the cowl as a symbol rather than a disguise.",
+      "source": "https://en.wikipedia.org/wiki/I_wear_a_mask._And_that_mask_is_not_to_hide_who_I_am%2C_but_to_create_what_I_am"
+    },
+    {
+      "text": "The Joker has had multiple origin stories across comics, with The Killing Joke suggesting he was a failed comedian while other versions keep his past deliberately ambiguous.",
+      "source": "https://en.wikipedia.org/wiki/Joker"
+    },
+    {
+      "text": "\"If I'm going to have a past, I prefer it to be multiple choice.\" — The Joker's famous line from The Killing Joke about his own unreliable memory of his origins.",
+      "source": "https://www.youtube.com/results?search_query=Batman%20If%20I%27m%20going%20to%20have%20a%20past%2C%20I%20prefer%20it%20to%20be%20multiple%20choice.%20live%20performance"
+    },
+    {
+      "text": "Joker's relationship with Harley Quinn evolved from a one-sided, abusive dynamic in The Animated Series to more nuanced depictions in modern comics where Harley gained independence.",
+      "source": "https://en.wikipedia.org/wiki/Harley_Quinn"
+    },
+    {
+      "text": "The Joker War (2020) was a major storyline where the Joker stole Bruce Wayne's fortune and used it to fund a citywide assault on Gotham.",
+      "source": "https://en.wikipedia.org/wiki/Joker_War"
+    },
+    {
+      "text": "Batman: Three Jokers (2020) by Geoff Johns and Jason Fabok explored the idea that there have always been three different Jokers — the Criminal, the Clown, and the Comedian.",
+      "source": "https://en.wikipedia.org/wiki/Batman:_Three_Jokers"
+    },
+    {
+      "text": "Jared Leto played the Joker in Suicide Squad (2016), sporting a modern gangster look with tattoos and grills that divided fans and critics.",
+      "source": "https://en.wikipedia.org/wiki/Suicide_Squad"
+    },
+    {
+      "text": "Joaquin Phoenix starred in Joker (2019), an origin story depicting Arthur Fleck's descent into madness, earning Phoenix the Academy Award for Best Actor.",
+      "source": "https://en.wikipedia.org/wiki/Joker"
+    },
+    {
+      "text": "\"I used to think that my life was a tragedy. But now I realize, it's a comedy.\" — Joaquin Phoenix's Arthur Fleck in Joker (2019) delivers this line as he fully embraces his transformation.",
+      "source": "https://en.wikipedia.org/wiki/I_used_to_think_that_my_life_was_a_tragedy._But_now_I_realize%2C_it%27s_a_comedy"
+    },
+    {
+      "text": "Mark Hamill voiced the Joker across Batman: The Animated Series, the Arkham video game series, and multiple animated films, creating what many consider the definitive version of the character.",
+      "source": "https://en.wikipedia.org/wiki/Mark_Hamill"
+    },
+    {
+      "text": "\"It's funny. This whole time I've been worrying about this big scary bat, and now I realize he's just a man in a suit. And I... I'm the real monster.\" — A paraphrase of the existential fear Batman inspires.",
+      "source": "https://en.wikipedia.org/wiki/And_I..._I%27m_the"
+    },
+    {
+      "text": "Jack Nicholson reportedly felt insulted when he wasn't consulted about Heath Ledger's casting as the Joker, having considered the role to be definitively his.",
+      "source": "https://en.wikipedia.org/wiki/Jack_Nicholson"
+    },
+    {
+      "text": "Batman: White Knight (2017) by Sean Murphy presented an alternate reality where the Joker was cured and became a sane, heroic figure who exposed Batman as the real menace to Gotham.",
+      "source": "https://en.wikipedia.org/wiki/Batman:_White_Knight"
+    },
+    {
+      "text": "The Batman Who Laughs, introduced in Dark Nights: Metal (2017), is a nightmarish version of Batman from the Dark Multiverse who was infected by a Joker toxin and became a Batman-Joker hybrid.",
+      "source": "https://en.wikipedia.org/wiki/Dark_Nights:_Metal"
+    },
+    {
+      "text": "Batman: Year Two (1987) introduced the Reaper, a violent vigilante who predated Batman in Gotham, forcing Bruce Wayne to confront whether his methods were different enough from a killer's.",
+      "source": "https://en.wikipedia.org/wiki/Batman:_Year_Two"
+    },
+    {
+      "text": "Batman: Ego (2000) by Darwyn Cooke depicted an internal dialogue between Bruce Wayne and his Batman persona, exploring the psychological toll of maintaining two identities.",
+      "source": "https://en.wikipedia.org/wiki/Batman:_Ego"
+    },
+    {
+      "text": "The Flying Graysons — Dick Grayson's family trapeze act — were murdered by mobster Tony Zucco, mirroring Bruce Wayne's orphaning and providing the emotional foundation for Batman taking Dick in as his ward.",
+      "source": "https://en.wikipedia.org/wiki/Flying_Graysons_%E2%80%94_Dick_Grayson%27s_family_trapeze_act_%E2%80%94"
+    },
+    {
+      "text": "Batman's relationship with his various Robins represents his struggle between being a lone warrior and accepting that he needs a family.",
+      "source": "https://en.wikipedia.org/wiki/Batman"
+    },
+    {
+      "text": "Stephanie Brown became the fourth Robin (and first female Robin) briefly before being fired by Batman; she later became the third Batgirl.",
+      "source": "https://en.wikipedia.org/wiki/Stephanie_Brown"
+    },
+    {
+      "text": "Cassandra Cain, the daughter of assassins David Cain and Lady Shiva, became Batgirl in 1999 and was unique as a hero who could barely speak but was the world's greatest martial artist.",
+      "source": "https://en.wikipedia.org/wiki/Cassandra_Cain%2C_the_daughter_of_assassins_David_Cain_and_Lady_Shiva"
+    },
+    {
+      "text": "Kate Kane, Batwoman, was introduced in 2006 as Bruce Wayne's cousin and one of DC Comics' most prominent LGBTQ+ characters.",
+      "source": "https://en.wikipedia.org/wiki/Kate_Kane%2C_Batwoman"
+    },
+    {
+      "text": "The Birds of Prey, originally featuring Oracle (Barbara Gordon), Black Canary, and Huntress, represented a female-led extension of Batman's crime-fighting network.",
+      "source": "https://en.wikipedia.org/wiki/Birds_of_Prey"
+    },
+    {
+      "text": "Ace the Bat-Hound, a German Shepherd who fought crime alongside Batman, first appeared in Batman #92 (1955) and has been revived in various modern adaptations.",
+      "source": "https://en.wikipedia.org/wiki/Ace_the_Bat-Hound%2C_a_German_Shepherd_who_fought_crime_alongside_Batman%2C_first"
+    },
+    {
+      "text": "\"Criminals are a superstitious and cowardly lot.\" — Bruce Wayne's observation in his origin story explains why he chose the bat as his symbol: to strike terror into the hearts of criminals.",
+      "source": "https://en.wikipedia.org/wiki/Criminals_are_a_superstitious_and_cowardly_lot"
+    },
+    {
+      "text": "Batman's cowl has evolved from a simple cloth mask to a high-tech helmet with night vision, communication systems, and in some versions, a white-out lens system to hide his eyes.",
+      "source": "https://en.wikipedia.org/wiki/Batman%27s_cowl"
+    },
+    {
+      "text": "The Batman suit in the comics is typically made of a lightweight Kevlar weave or Nomex fiber, designed to be bulletproof while allowing maximum mobility.",
+      "source": "https://en.wikipedia.org/wiki/Batman_suit_in_the_comics"
+    },
+    {
+      "text": "In Christopher Nolan's trilogy, Wayne Enterprises' Applied Sciences division served as the source for most of Batman's equipment, giving his technology a realistic military origin.",
+      "source": "https://en.wikipedia.org/wiki/In_Christopher_Nolan%27s"
+    },
+    {
+      "text": "Batman: Endgame (2014) featured a seemingly immortal Joker who used a modified version of the Dionesium compound from the Lazarus Pits, suggesting the Joker had been alive for centuries.",
+      "source": "https://en.wikipedia.org/wiki/Batman:_Endgame"
+    },
+    {
+      "text": "Scott Snyder's Batman run (2011–2016) is considered one of the greatest in the character's history, introducing the Court of Owls, revamping the Joker, and exploring what it means to be Batman.",
+      "source": "https://en.wikipedia.org/wiki/Scott_Snyder%27s_Batman_run_(2011%E2%80%932016)"
+    },
+    {
+      "text": "\"This city... it doesn't want to be saved. That's what makes it worth saving.\" — Batman's assessment of Gotham from the comics captures his inexhaustible commitment to an impossible mission.",
+      "source": "https://en.wikipedia.org/wiki/This_city..._it_doesn%27t_want_to_be_saved._That%27s_what_makes_it_worth_saving"
+    },
+    {
+      "text": "Batman: Zero Year (2013–2014) by Scott Snyder retold Batman's origin for the New 52 era, featuring a colorful, almost post-apocalyptic Gotham overrun by the Riddler.",
+      "source": "https://en.wikipedia.org/wiki/Batman:_Zero_Year"
+    },
+    {
+      "text": "Detective Comics, the series where Batman debuted, gave DC Comics its name — the \"DC\" literally stands for Detective Comics.",
+      "source": "https://en.wikipedia.org/wiki/DC"
+    },
+    {
+      "text": "Batman #1 (1940) is one of the most valuable comic books ever published, with high-grade copies selling for over $2 million at auction.",
+      "source": "https://en.wikipedia.org/wiki/Batman_%231_(1940)"
+    },
+    {
+      "text": "Detective Comics #27, Batman's first appearance, sold for a record $1.5 million in 2010 and has since been estimated to be worth even more for mint-condition copies.",
+      "source": "https://en.wikipedia.org/wiki/Detective_Comics"
+    },
+    {
+      "text": "Batman is one of the few superheroes to appear on a United States postage stamp, featured in the USPS's 2006 DC Comics Super Heroes stamp series.",
+      "source": "https://en.wikipedia.org/wiki/Batman"
+    },
+    {
+      "text": "The Batman franchise has generated over $27 billion in total revenue across films, merchandise, comics, and licensing, making it one of the most profitable entertainment properties ever.",
+      "source": "https://en.wikipedia.org/wiki/Batman_franchise"
+    },
+    {
+      "text": "Batman has been adapted into more live-action and animated films than any other DC character, with over 15 theatrical and direct-to-video releases.",
+      "source": "https://en.wikipedia.org/wiki/Batman"
+    },
+    {
+      "text": "\"I have one power. I never give up.\" — Batman's self-assessment in the comics explains how a man without superpowers stands alongside gods.",
+      "source": "https://en.wikipedia.org/wiki/I_have_one_power._I_never_give_up"
+    },
+    {
+      "text": "The Batman TV series' fight scenes in 1966 were choreographed as broad, comedic brawls with Dutch angle camera work and animated impact words — a style that parodied and celebrated the comics.",
+      "source": "https://en.wikipedia.org/wiki/Batman_TV_series%27_fight_scenes_in_1966"
+    },
+    {
+      "text": "Burt Ward, who played Robin in the 1966 series, was only 19 years old when the show premiered and performed many of his own stunts.",
+      "source": "https://en.wikipedia.org/wiki/Burt_Ward%2C_who_played_Robin_in_the_1966_series"
+    },
+    {
+      "text": "The 1966 Batman series ran for 120 episodes across three seasons and featured a rotating roster of guest villain actors including Vincent Price, Milton Berle, and Shelley Winters.",
+      "source": "https://en.wikipedia.org/wiki/1966_Batman_series"
+    },
+    {
+      "text": "Lee Meriwether replaced Julie Newmar as Catwoman in the 1966 Batman theatrical film because Newmar had a scheduling conflict with another project.",
+      "source": "https://en.wikipedia.org/wiki/Lee_Meriwether"
+    },
+    {
+      "text": "The 1966 Batman movie featured an absurd plot involving a dehydrating machine that turned the United Nations Security Council into colored dust, perfectly capturing the show's campy spirit.",
+      "source": "https://en.wikipedia.org/wiki/1966_Batman_movie_featured_an_absurd_plot_involving_a_dehydrating_machine_that"
+    },
+    {
+      "text": "\"To the Batmobile!\" — Robin's enthusiastic cry in the 1966 series became one of the show's most quotable catchphrases, always followed by the heroes sliding down the Batpoles.",
+      "source": "https://en.wikipedia.org/wiki/To_the_Batmobile"
+    },
+    {
+      "text": "Batman (1989) was the first film to earn $100 million in its first ten days of release, a record-shattering achievement at the time.",
+      "source": "https://en.wikipedia.org/wiki/Batman"
+    },
+    {
+      "text": "Kim Basinger played Vicki Vale in Batman (1989), a photojournalist who discovered Batman's identity and became his love interest.",
+      "source": "https://en.wikipedia.org/wiki/Batman"
+    },
+    {
+      "text": "Billy Dee Williams played Harvey Dent in Batman (1989) with the intention of playing Two-Face in a sequel, but was replaced by Tommy Lee Jones in Batman Forever.",
+      "source": "https://en.wikipedia.org/wiki/Batman"
+    },
+    {
+      "text": "Tim Burton's vision for Gotham City in Batman (1989) was a nightmarish urban landscape designed by production designer Anton Furst, who won an Academy Award for his work.",
+      "source": "https://en.wikipedia.org/wiki/Batman"
+    },
+    {
+      "text": "\"I now do what other people only dream. I make art until someone dies.\" — Jack Nicholson's Joker in Batman (1989) revels in his creative destruction, treating murder as performance art.",
+      "source": "https://en.wikipedia.org/wiki/I_now_do_what_other_people_only_dream._I_make_art_until_someone_dies"
+    },
+    {
+      "text": "Sean Young was originally cast as Vicki Vale in Batman (1989) but broke her collarbone during a horse-riding stunt and was replaced by Kim Basinger.",
+      "source": "https://en.wikipedia.org/wiki/Batman"
+    },
+    {
+      "text": "Michael Keaton brought a quiet, introspective quality to Bruce Wayne that was the opposite of the extroverted playboy from the comics, and it worked brilliantly.",
+      "source": "https://en.wikipedia.org/wiki/Michael_Keaton_brought_a_quiet%2C_introspective_quality_to_Bruce_Wayne_that"
+    },
+    {
+      "text": "Danny DeVito's Penguin in Batman Returns was raised in the sewers by penguins after being abandoned by his parents, a dark fairy-tale origin that characterized Burton's Gothic sensibility.",
+      "source": "https://en.wikipedia.org/wiki/Danny_DeVito%27s_Penguin_in_Batman_Returns"
+    },
+    {
+      "text": "\"I could live with you in your castle forever, or we could try to find a way to settle this. We might even kill each other.\" — Catwoman's proposition to Batman in Batman Returns.",
+      "source": "https://en.wikipedia.org/wiki/Batman_in_Batman_Returns"
+    },
+    {
+      "text": "Christopher Walken played corrupt businessman Max Shreck in Batman Returns, named after the star of the silent horror film Nosferatu.",
+      "source": "https://en.wikipedia.org/wiki/Christopher_Walken_played_corrupt_businessman_Max_Shreck_in_Batman_Returns"
+    },
+    {
+      "text": "Batman Returns opened in June 1992 and earned $266 million worldwide, but parental complaints about its dark tone led Warner Bros. to mandate a more family-friendly approach going forward.",
+      "source": "https://en.wikipedia.org/wiki/Batman_Returns"
+    },
+    {
+      "text": "Val Kilmer reportedly clashed with Joel Schumacher on the set of Batman Forever, and Schumacher later said Kilmer was difficult to work with.",
+      "source": "https://en.wikipedia.org/wiki/Val_Kilmer_reportedly_clashed_with_Joel_Schumacher_on_the"
+    },
+    {
+      "text": "Batman Forever (1995) grossed $336 million worldwide, making it the highest-grossing Batman film at the time and seemingly vindicating Warner Bros.' lighter approach.",
+      "source": "https://en.wikipedia.org/wiki/Batman_Forever"
+    },
+    {
+      "text": "Chris O'Donnell played Robin/Dick Grayson in both Batman Forever and Batman & Robin, portraying the character as a young adult seeking revenge for his family's death.",
+      "source": "https://en.wikipedia.org/wiki/Chris_O%27Donnell"
+    },
+    {
+      "text": "Drew Barrymore was originally offered the role of Sugar in Batman Forever before it went to Drew Barrymore's friend, actress Debi Mazar, though the role ultimately went to Drew Barrymore.",
+      "source": "https://en.wikipedia.org/wiki/Drew_Barrymore"
+    },
+    {
+      "text": "Batman & Robin (1997) grossed just $238 million worldwide on a $125 million budget, making it a financial disappointment that ended the original film series.",
+      "source": "https://en.wikipedia.org/wiki/Robin"
+    },
+    {
+      "text": "\"This is why Superman works alone.\" — George Clooney's Batman in Batman & Robin delivers this meta-joke that inadvertently summed up the film's problems.",
+      "source": "https://en.wikipedia.org/wiki/This_is_why_Superman_works_alone"
+    },
+    {
+      "text": "Joel Schumacher publicly apologized for Batman & Robin, saying he wanted to make a toyetic film that would sell merchandise, and acknowledged the backlash from fans.",
+      "source": "https://en.wikipedia.org/wiki/Joel_Schumacher"
+    },
+    {
+      "text": "Christian Bale lost significant weight for The Machinist (2004) and then gained over 100 pounds of muscle in six months to play Batman in Batman Begins.",
+      "source": "https://en.wikipedia.org/wiki/Machinist"
+    },
+    {
+      "text": "Liam Neeson's dual role as Henri Ducard/Ra's al Ghul in Batman Begins featured a twist where the real Ra's had been hiding as Bruce's mentor all along.",
+      "source": "https://en.wikipedia.org/wiki/Liam_Neeson%27s"
+    },
+    {
+      "text": "Katie Holmes played Rachel Dawes in Batman Begins, a character created specifically for the film, before being replaced by Maggie Gyllenhaal in The Dark Knight.",
+      "source": "https://en.wikipedia.org/wiki/Katie_Holmes_played_Rachel_Dawes_in_Batman_Begins%2C_a_character"
+    },
+    {
+      "text": "Batman Begins grossed $373 million worldwide — modest by modern standards but enough to prove that a serious, grounded take on Batman could succeed.",
+      "source": "https://en.wikipedia.org/wiki/Batman_Begins"
+    },
+    {
+      "text": "The Dark Knight's opening bank robbery sequence, performed by the Joker disguised as a clown, was inspired by the heist film Heat (1995) and set the tone for the entire film.",
+      "source": "https://en.wikipedia.org/wiki/Heat"
+    },
+    {
+      "text": "\"Wanna know how I got these scars?\" — The Joker's repeated but contradictory question in The Dark Knight keeps his true origin ambiguous, making him all the more terrifying.",
+      "source": "https://en.wikipedia.org/wiki/Wanna_know_how_I_got_these_scars"
+    },
+    {
+      "text": "Heath Ledger's Joker in The Dark Knight appeared with slightly smudged, peeling clown makeup rather than chemically bleached skin, grounding the character in a more realistic world.",
+      "source": "https://en.wikipedia.org/wiki/Heath_Ledger%27s_Joker_in_The_Dark_Knight"
+    },
+    {
+      "text": "The ferry scene in The Dark Knight, where two boats must decide whether to blow up the other, serves as the film's moral climax — proving the Joker wrong about humanity's nature.",
+      "source": "https://en.wikipedia.org/wiki/Dark_Knight"
+    },
+    {
+      "text": "The Dark Knight held the record for the highest-grossing opening weekend at the time with $158.4 million, a record that stood until Harry Potter and the Half-Blood Prince.",
+      "source": "https://en.wikipedia.org/wiki/Dark_Knight"
+    },
+    {
+      "text": "The Dark Knight was filmed in part using IMAX cameras that weighed over 50 pounds, with Christopher Nolan operating the equipment himself for certain shots.",
+      "source": "https://en.wikipedia.org/wiki/Dark_Knight"
+    },
+    {
+      "text": "\"Madness, as you know, is like gravity. All it takes is a little push.\" — The Joker's final message to Batman in The Dark Knight, claiming responsibility for Harvey Dent's transformation.",
+      "source": "https://en.wikipedia.org/wiki/Madness%2C_as_you_know%2C_is_like_gravity._All_it_takes_is_a_little_push"
+    },
+    {
+      "text": "The Dark Knight Rises opened on July 20, 2012, and tragically, a mass shooting occurred at a midnight screening in Aurora, Colorado, killing 12 people and injuring 70 others.",
+      "source": "https://en.wikipedia.org/wiki/Dark_Knight_Rises"
+    },
+    {
+      "text": "Tom Hardy wore a mask covering three-quarters of his face as Bane in The Dark Knight Rises, forcing him to convey emotion almost entirely through his eyes and voice.",
+      "source": "https://en.wikipedia.org/wiki/Tom_Hardy"
+    },
+    {
+      "text": "The Dark Knight Rises was the first Batman film to gross over $1 billion worldwide, earning $1.08 billion during its theatrical run.",
+      "source": "https://en.wikipedia.org/wiki/Dark_Knight_Rises"
+    },
+    {
+      "text": "Marion Cotillard played Miranda Tate in The Dark Knight Rises, whose reveal as Talia al Ghul was one of the film's major twists.",
+      "source": "https://en.wikipedia.org/wiki/Marion_Cotillard"
+    },
+    {
+      "text": "\"Peace has cost you your strength. Victory has defeated you.\" — Bane's assessment of Batman in The Dark Knight Rises before breaking his back, echoing the Knightfall comic storyline.",
+      "source": "https://en.wikipedia.org/wiki/Peace_has_cost_you_your_strength._Victory_has_defeated_you"
+    },
+    {
+      "text": "Joseph Gordon-Levitt's character John Blake in The Dark Knight Rises was revealed to have the legal first name Robin, hinting he would succeed Bruce Wayne as Gotham's protector.",
+      "source": "https://en.wikipedia.org/wiki/Joseph_Gordon-Levitt%27s_character_John_Blake_in_The_Dark_Knight_Rises"
+    },
+    {
+      "text": "The Dark Knight Rises filmed in locations including Pittsburgh, New York, Newark, London, and India, creating a globe-spanning scope for Gotham's final battle.",
+      "source": "https://en.wikipedia.org/wiki/Dark_Knight_Rises"
+    },
+    {
+      "text": "Batman v Superman: Dawn of Justice (2016) grossed $873 million worldwide but received mixed reviews, with critics praising Affleck's Batman while questioning the film's tone and pacing.",
+      "source": "https://en.wikipedia.org/wiki/Justice"
+    },
+    {
+      "text": "The Knightmare sequence in Batman v Superman depicted a dystopian future where Superman had become a dictator and Batman led a resistance, teasing Darkseid's influence.",
+      "source": "https://en.wikipedia.org/wiki/Knightmare_sequence_in_Batman_v_Superman_depicted_a_dystopian_future_where_Superman"
+    },
+    {
+      "text": "\"Men are still good. We fight, we kill, we betray one another, but we can rebuild. We can do better. We will.\" — Bruce Wayne's closing monologue in Batman v Superman.",
+      "source": "https://en.wikipedia.org/wiki/Men"
+    },
+    {
+      "text": "The Batman (2022) grossed $770 million worldwide and was praised for its noir atmosphere, with critics comparing it to films like Se7en, Zodiac, and Chinatown.",
+      "source": "https://en.wikipedia.org/wiki/Batman"
+    },
+    {
+      "text": "Robert Pattinson described his version of Batman as a \"freak\" who was only two years into his vigilante career and hadn't yet developed the billionaire playboy persona.",
+      "source": "https://en.wikipedia.org/wiki/freak"
+    },
+    {
+      "text": "The Batman (2022) ran for nearly three hours (2 hours 56 minutes), making it the longest solo Batman film in theatrical history.",
+      "source": "https://en.wikipedia.org/wiki/Batman"
+    },
+    {
+      "text": "Paul Dano's Riddler in The Batman was inspired by the Zodiac Killer and modern online extremism, wearing a military surplus mask and leaving ciphers for Batman to solve.",
+      "source": "https://en.wikipedia.org/wiki/Paul_Dano%27s_Riddler_in_The_Batman"
+    },
+    {
+      "text": "\"No more lies\" was the Riddler's catchphrase in The Batman (2022), spray-painted at crime scenes as he targeted Gotham's corrupt elite.",
+      "source": "https://en.wikipedia.org/wiki/No_more_lies"
+    },
+    {
+      "text": "The Batman (2022) featured Nirvana's \"Something in the Way\" prominently on its soundtrack, a song that Matt Reeves said directly inspired his vision of Bruce Wayne as a reclusive outsider.",
+      "source": "https://en.wikipedia.org/wiki/Nirvana_(band)"
+    },
+    {
+      "text": "John Turturro played crime boss Carmine Falcone in The Batman (2022), portraying Gotham's most powerful gangster with quiet menace.",
+      "source": "https://en.wikipedia.org/wiki/Batman"
+    },
+    {
+      "text": "Batman: The Animated Series was the first show to air on the Fox Kids programming block specifically aimed at an older audience, with stories that didn't talk down to children.",
+      "source": "https://en.wikipedia.org/wiki/Batman:_The_Animated_Series"
+    },
+    {
+      "text": "The Animated Series episode \"Almost Got 'Im\" featured Batman's villains playing poker and swapping stories about their closest calls with Batman, ending with a classic twist.",
+      "source": "https://en.wikipedia.org/wiki/Almost_Got_%27Im"
+    },
+    {
+      "text": "\"I've looked into the abyss, and the abyss looked back, and it flinched.\" — A variation of this quote is frequently attributed to Batman, reflecting his ability to intimidate even the darkest forces.",
+      "source": "https://en.wikipedia.org/wiki/I%27ve_looked_into_the_abyss%2C_and_the_abyss_looked_back%2C_and_it_flinched"
+    },
+    {
+      "text": "Batman: The Animated Series won four Emmy Awards during its run, including Outstanding Animated Program for the episode \"Robin's Reckoning.\"",
+      "source": "https://en.wikipedia.org/wiki/Robin%27s_Reckoning"
+    },
+    {
+      "text": "The Animated Series introduced the concept of Harley Quinn's real name being Dr. Harleen Quinzel, a psychiatrist at Arkham Asylum who fell in love with the Joker.",
+      "source": "https://en.wikipedia.org/wiki/Animated_Series"
+    },
+    {
+      "text": "Batman: Mask of the Phantasm (1993) explored Bruce Wayne's near-abandonment of the Batman persona after falling in love with Andrea Beaumont.",
+      "source": "https://en.wikipedia.org/wiki/Phantasm"
+    },
+    {
+      "text": "\"I didn't count on being happy.\" — Bruce Wayne's confession to his parents' grave in Mask of the Phantasm about finding love, one of the most emotionally raw moments in Batman history.",
+      "source": "https://www.youtube.com/results?search_query=Batman%20I%20didn%27t%20count%20on%20being%20happy.%20live%20performance"
+    },
+    {
+      "text": "Batman Beyond introduced the villain Inque, a shape-shifting assassin made of living ink, as well as the sinister Blight, Derek Powers transformed into a radioactive being.",
+      "source": "https://en.wikipedia.org/wiki/Batman_Beyond"
+    },
+    {
+      "text": "Terry McGinnis from Batman Beyond was later revealed to have been genetically engineered by Amanda Waller to be Bruce Wayne's biological son, ensuring Batman's legacy continued.",
+      "source": "https://en.wikipedia.org/wiki/Terry_McGinnis_from_Batman_Beyond"
+    },
+    {
+      "text": "The animated film Batman: Under the Red Hood (2010) is widely considered one of the best DC animated movies, featuring Jensen Ackles as Jason Todd/Red Hood.",
+      "source": "https://en.wikipedia.org/wiki/Red_Hood"
+    },
+    {
+      "text": "Batman: The Brave and the Bold (2008–2011) returned to a lighter, Silver Age-inspired tone, teaming Batman with different DC heroes each episode.",
+      "source": "https://en.wikipedia.org/wiki/Batman:_The_Brave_and_the_Bold"
+    },
+    {
+      "text": "\"Does it come in black?\" — Bruce Wayne's pragmatic question about the Tumbler in Batman Begins became a beloved callback repeated throughout Nolan's trilogy.",
+      "source": "https://en.wikipedia.org/wiki/Does_it_come_in_black"
+    },
+    {
+      "text": "The Gotham TV series ran for five seasons totaling 100 episodes, ending with David Mazouz's Bruce Wayne finally donning the Batman cowl in the series finale.",
+      "source": "https://en.wikipedia.org/wiki/Gotham_TV_series"
+    },
+    {
+      "text": "Cameron Monaghan played twin brothers Jerome and Jeremiah Valeska in Gotham, serving as proto-Joker figures without using the Joker name due to licensing restrictions.",
+      "source": "https://en.wikipedia.org/wiki/Cameron_Monaghan"
+    },
+    {
+      "text": "Gotham's version of the Penguin, played by Robin Lord Taylor, started as Fish Mooney's umbrella boy and rose through Gotham's underworld with Machiavellian cunning.",
+      "source": "https://en.wikipedia.org/wiki/Robin_Lord_Taylor"
+    },
+    {
+      "text": "Cory Michael Smith's Edward Nygma in Gotham gradually evolved from a shy forensic scientist at the GCPD into the cackling Riddler over several seasons.",
+      "source": "https://en.wikipedia.org/wiki/Cory_Michael_Smith%27s_Edward_Nygma_in_Gotham"
+    },
+    {
+      "text": "Batman: Arkham Asylum was originally conceived as a rhythm-based game before Rocksteady developed the revolutionary FreeFlow combat system that would define the series.",
+      "source": "https://en.wikipedia.org/wiki/Batman:_Arkham_Asylum"
+    },
+    {
+      "text": "The Riddler challenges in the Arkham games became famous for their difficulty, with over 400 collectible trophies and puzzles scattered across Arkham City.",
+      "source": "https://en.wikipedia.org/wiki/Riddler_challenges_in_the_Arkham_games"
+    },
+    {
+      "text": "Batman: Arkham City's shocking ending, where the Joker dies from the Titan disease after Batman was about to cure him, is one of gaming's most memorable villain deaths.",
+      "source": "https://en.wikipedia.org/wiki/Batman:_Arkham_City%27s"
+    },
+    {
+      "text": "\"Do you want to know something funny? Even after everything you've done, I would have saved you.\" — Batman's tragic final words to the dying Joker in Arkham City.",
+      "source": "https://en.wikipedia.org/wiki/Do_you_want_to_know_something_funny%3F_Even_after_everything_you%27ve_done%2C_I_would_have_saved_you"
+    },
+    {
+      "text": "The Arkham Knight's identity as Jason Todd in Batman: Arkham Knight was widely predicted by fans before release, though the game's execution of the story was still praised.",
+      "source": "https://en.wikipedia.org/wiki/Arkham_Knight%27s_identity_as_Jason_Todd_in_Batman:_Arkham_Knight"
+    },
+    {
+      "text": "Batman: Arkham Knight featured a fully drivable Batmobile for the first time in the series, though the extensive tank battle sequences drew criticism from some players.",
+      "source": "https://en.wikipedia.org/wiki/Batman:_Arkham_Knight"
+    },
+    {
+      "text": "Mark Hamill has said that every time he records the Joker, he does so with the understanding that it might be the last time, giving each performance an added emotional weight.",
+      "source": "https://en.wikipedia.org/wiki/Mark_Hamill"
+    },
+    {
+      "text": "The Arkham Asylum video game's atmosphere was heavily inspired by the Grant Morrison/Dave McKean graphic novel of the same name, creating a claustrophobic, horror-tinged experience.",
+      "source": "https://en.wikipedia.org/wiki/Arkham_Asylum_video_game%27s_atmosphere"
+    },
+    {
+      "text": "Batman: The Telltale Series (2016) offered a unique twist where Thomas Wayne was revealed to have been a corrupt figure, challenging Bruce's foundational beliefs about his family.",
+      "source": "https://en.wikipedia.org/wiki/Batman:_The_Telltale_Series"
+    },
+    {
+      "text": "Gotham Knights (2022) was a video game set after Batman's apparent death, featuring Nightwing, Batgirl, Robin, and Red Hood protecting Gotham in his absence.",
+      "source": "https://en.wikipedia.org/wiki/Gotham_Knights"
+    },
+    {
+      "text": "Suicide Squad: Kill the Justice League (2024) by Rocksteady controversially depicted the death of Batman in the opening hours, set in the same universe as the Arkham games.",
+      "source": "https://en.wikipedia.org/wiki/Justice_League"
+    },
+    {
+      "text": "Batman's training included studying under masters around the world — martial arts in Asia, detective work in Europe, escapology, chemistry, forensics, and theatrical techniques.",
+      "source": "https://en.wikipedia.org/wiki/Batman"
+    },
+    {
+      "text": "In many comic versions, Batman trained with the legendary martial artist Lady Shiva, considered the deadliest fighter in the DC Universe.",
+      "source": "https://en.wikipedia.org/wiki/Lady_Shiva"
+    },
+    {
+      "text": "\"The night is darkest just before the dawn. And I promise you, the dawn is coming.\" — Harvey Dent's hopeful words in The Dark Knight, spoken before his tragic fall.",
+      "source": "https://en.wikipedia.org/wiki/night_is_darkest_just_before_the_dawn._And_I_promise_you%2C_the_dawn_is_coming"
+    },
+    {
+      "text": "Batman's intellect is portrayed as equal to his physical abilities — he is a master forensic scientist, chemist, engineer, computer expert, and tactical genius.",
+      "source": "https://en.wikipedia.org/wiki/Batman%27s_intellect"
+    },
+    {
+      "text": "Wayne Tower, the headquarters of Wayne Enterprises, has been depicted as Gotham's tallest building in most versions, symbolizing the Wayne family's central role in the city.",
+      "source": "https://en.wikipedia.org/wiki/Wayne_Tower%2C_the_headquarters_of_Wayne_Enterprises"
+    },
+    {
+      "text": "The Batcave has traditionally been accessed through a grandfather clock in Wayne Manor, with the hands set to 10:48 — the time Thomas and Martha Wayne were murdered.",
+      "source": "https://en.wikipedia.org/wiki/Batcave"
+    },
+    {
+      "text": "Batman keeps a giant penny and a mechanical T-Rex as trophies in the Batcave, souvenirs from early adventures with the Penny Plunderer and an encounter on Dinosaur Island.",
+      "source": "https://en.wikipedia.org/wiki/Penny_Plunderer_and"
+    },
+    {
+      "text": "\"In my dream, the world had suffered a terrible disaster. A black haze shut out the sun, and the darkness was alive with the moans and screams of wounded people.\" — Batman's haunting opening narration in The Dark Knight Returns.",
+      "source": "https://en.wikipedia.org/wiki/In_my_dream%2C_the_world"
+    },
+    {
+      "text": "Frank Miller's The Dark Knight Returns inspired nearly every dark, gritty interpretation of Batman that followed, from Tim Burton's films to Zack Snyder's DCEU version.",
+      "source": "https://en.wikipedia.org/wiki/Frank_Miller%27s_The_Dark_Knight_Returns"
+    },
+    {
+      "text": "In The Dark Knight Returns, Superman is sent by the U.S. government to stop Batman, leading to a brutal fight where an aging Batman uses a powered exosuit and Kryptonite.",
+      "source": "https://en.wikipedia.org/wiki/In_The_Dark_Knight_Returns%2C_Superman"
+    },
+    {
+      "text": "The Dark Knight Returns' ending, where Batman fakes his own death to train a new army of Bat-soldiers, influenced The Dark Knight Rises' conclusion.",
+      "source": "https://en.wikipedia.org/wiki/Dark_Knight_Returns"
+    },
+    {
+      "text": "Batman: Hush featured nearly every major villain and ally in Batman's world across a 12-issue arc, with Jim Lee's detailed artwork making it a bestseller.",
+      "source": "https://en.wikipedia.org/wiki/Batman:_Hush"
+    },
+    {
+      "text": "Thomas Elliot, the villain Hush, was Bruce Wayne's childhood friend who grew up envious of Bruce's wealth and orphan status, eventually wrapping his face in bandages.",
+      "source": "https://en.wikipedia.org/wiki/Thomas_Elliot%2C_the_villain_Hush"
+    },
+    {
+      "text": "The Court of Owls used genetically enhanced assassins called Talons, reanimated corpses programmed to kill, as their enforcers throughout Gotham's history.",
+      "source": "https://en.wikipedia.org/wiki/Court_of_Owls_used_genetically_enhanced_assassins"
+    },
+    {
+      "text": "Scott Snyder's Court of Owls storyline trapped Batman in an underground labyrinth for a week, breaking him physically and mentally in a sequence that used disorienting page layouts.",
+      "source": "https://en.wikipedia.org/wiki/Scott_Snyder%27s_Court_of_Owls"
+    },
+    {
+      "text": "Batman: The Long Halloween followed Batman, Jim Gordon, and Harvey Dent's alliance to bring down Gotham's mob families, only for Dent to become the very thing they fought against.",
+      "source": "https://en.wikipedia.org/wiki/Batman:_The_Long_Halloween"
+    },
+    {
+      "text": "\"I believe in Harvey Dent.\" — This campaign slogan from The Dark Knight and The Long Halloween represented Gotham's hope for a lawful savior, making his transformation into Two-Face all the more tragic.",
+      "source": "https://en.wikipedia.org/wiki/I_believe_in_Harvey_Dent"
+    },
+    {
+      "text": "The Tower of Babel storyline revealed Batman had created contingency plans code-named after card games — each designed to neutralize a Justice League member if they went rogue.",
+      "source": "https://en.wikipedia.org/wiki/Tower_of_Babel_storyline_revealed_Batman"
+    },
+    {
+      "text": "In Tower of Babel, Batman's plan to defeat Superman involved a Kryptonite bullet, while his plan for Wonder Woman trapped her in a virtual reality combat loop she could never win.",
+      "source": "https://en.wikipedia.org/wiki/In_Tower_of_Babel"
+    },
+    {
+      "text": "\"I'm whatever Gotham needs me to be.\" — Batman's flexible self-definition shows that the character sees himself as a tool for justice rather than a fixed identity.",
+      "source": "https://en.wikipedia.org/wiki/I%27m_whatever_Gotham_needs_me_to_be"
+    },
+    {
+      "text": "The Death of Batman storyline in Final Crisis (2008) by Grant Morrison saw Batman apparently killed by Darkseid's Omega Beams, though he was actually sent back in time.",
+      "source": "https://en.wikipedia.org/wiki/Final_Crisis"
+    },
+    {
+      "text": "Dick Grayson served as Batman during Bruce Wayne's absence after Final Crisis, proving himself a worthy successor while maintaining a lighter, more acrobatic fighting style.",
+      "source": "https://en.wikipedia.org/wiki/Dick_Grayson"
+    },
+    {
+      "text": "\"The first truth of Batman: it had to be one of us. Someone with the resources, the training, the commitment to fight an impossible war.\" — Grant Morrison's meditation on Batman's necessity.",
+      "source": "https://en.wikipedia.org/wiki/first_truth_of_Batman:_it"
+    },
+    {
+      "text": "Batman: Detective Comics #1000, published in March 2019, celebrated 80 years of Batman with stories from a who's who of comics creators and became one of the bestselling comics of the decade.",
+      "source": "https://en.wikipedia.org/wiki/Batman:_Detective_Comics"
+    },
+    {
+      "text": "Batman: Damned (2018) was DC's first title under the Black Label imprint, notable for briefly showing Bruce Wayne fully nude before DC censored subsequent printings.",
+      "source": "https://en.wikipedia.org/wiki/Batman:_Damned"
+    },
+    {
+      "text": "Tom King's Batman run (2016–2019) focused on Batman's emotional vulnerability, particularly his relationship with Catwoman and the mental health toll of his mission.",
+      "source": "https://en.wikipedia.org/wiki/Tom_King%27s_Batman"
+    },
+    {
+      "text": "\"I'm not afraid. I'm angry.\" — Batman's correction to those who assume fear drives him, revealing that his true motivation is righteous fury at injustice.",
+      "source": "https://en.wikipedia.org/wiki/I%27m_not_afraid._I%27m_angry"
+    },
+    {
+      "text": "Batman: War of Jokes and Riddles (2017) by Tom King depicted a full-scale war between the Joker and the Riddler for control of Gotham, with Batman caught in the middle.",
+      "source": "https://en.wikipedia.org/wiki/Riddles"
+    },
+    {
+      "text": "The Batsuit has incorporated various special features across adaptations, including a sonar vision mode in The Dark Knight and Detective Mode in the Arkham games.",
+      "source": "https://en.wikipedia.org/wiki/Batsuit"
+    },
+    {
+      "text": "Batman's sonar device in The Dark Knight, which used cell phones to map all of Gotham, raised ethical questions about surveillance that Lucius Fox objected to — a prescient commentary on government surveillance.",
+      "source": "https://en.wikipedia.org/wiki/Dark_Knight"
+    },
+    {
+      "text": "\"Beautiful, isn't it? Thousands of people will die, but they'll die knowing that my creatures have put the world on notice.\" — Poison Ivy's eco-terrorism philosophy reflects a villain who believes she's saving the planet.",
+      "source": "https://en.wikipedia.org/wiki/Thousands_of"
+    },
+    {
+      "text": "Mr. Freeze's reimagined backstory from Batman: The Animated Series — a desperate husband trying to save his dying wife — was so popular it was adopted into the comics permanently.",
+      "source": "https://en.wikipedia.org/wiki/Mr._Freeze%27s"
+    },
+    {
+      "text": "\"Vengeance blackens the soul, Bruce. I've always feared that you would become that which you fought against.\" — Alfred's warning to Bruce Wayne captures the butler's constant concern.",
+      "source": "https://en.wikipedia.org/wiki/Bruce._I%27ve"
+    },
+    {
+      "text": "The Joker's relationship with Batman is often described as codependent — the Joker believes Batman completes him, while Batman recognizes the Joker is a problem only he can contain.",
+      "source": "https://en.wikipedia.org/wiki/Joker%27s_relationship_with_Batman"
+    },
+    {
+      "text": "\"I think you and I are destined to do this forever.\" — The Joker's unsettling observation to Batman in The Dark Knight, suggesting their conflict is eternal.",
+      "source": "https://en.wikipedia.org/wiki/I_think_you_and_I_are_destined_to_do_this_forever"
+    },
+    {
+      "text": "In some comic storylines, the Joker has been depicted as sane — his madness is a choice, making him fundamentally different from Batman's other mentally ill villains.",
+      "source": "https://en.wikipedia.org/wiki/In_some_comic_storylines%2C_the_Joker"
+    },
+    {
+      "text": "Harley Quinn's emancipation from the Joker has been one of DC Comics' most significant character arcs, with her evolving from villain to anti-hero to full hero in her own right.",
+      "source": "https://en.wikipedia.org/wiki/Harley_Quinn%27s_emancipation_from_the_Joker"
+    },
+    {
+      "text": "The Penguin's portrayal has ranged from a laughable gimmick villain with trick umbrellas to a sophisticated crime lord who operates as Gotham's most influential underworld figure.",
+      "source": "https://en.wikipedia.org/wiki/Penguin%27s_portrayal"
+    },
+    {
+      "text": "\"Every villain is the hero of their own story.\" — This principle defines Batman's rogues gallery, where most antagonists believe they're justified in their actions.",
+      "source": "https://en.wikipedia.org/wiki/Every_villain_is_the_hero_of_their_own_story"
+    },
+    {
+      "text": "Bane's Venom drug, which gives him superhuman strength, has appeared throughout DC Comics as a dangerous performance-enhancing substance that other characters have also used.",
+      "source": "https://en.wikipedia.org/wiki/Bane%27s_Venom_drug%2C_which_gives_him_superhuman_strength"
+    },
+    {
+      "text": "The Scarecrow's fear toxin has been depicted as everything from a simple hallucinogen to a reality-warping chemical that forces victims to literally live their worst nightmares.",
+      "source": "https://en.wikipedia.org/wiki/Scarecrow%27s_fear_toxin"
+    },
+    {
+      "text": "In Batman Begins, Scarecrow's fear toxin was dispersed through Gotham's water supply and activated by a stolen microwave emitter, threatening to drive the entire city insane.",
+      "source": "https://en.wikipedia.org/wiki/In_Batman_Begins%2C_Scarecrow%27s_fear_toxin"
+    },
+    {
+      "text": "\"Would you like to see my mask?\" — Cillian Murphy's Scarecrow in Batman Begins, right before dousing an enemy with fear toxin, perfectly encapsulated the villain's creepy menace.",
+      "source": "https://en.wikipedia.org/wiki/Would_you_like_to_see_my_mask"
+    },
+    {
+      "text": "Two-Face's coin, originally a double-headed silver dollar scarred on one side, determines his every decision — a device that represents his inability to choose between good and evil.",
+      "source": "https://en.wikipedia.org/wiki/Batman"
+    },
+    {
+      "text": "Harvey Dent's transformation into Two-Face has been reimagined many times, but always involves a traumatic event — usually acid to the face — that shatters his psyche into two warring personalities.",
+      "source": "https://en.wikipedia.org/wiki/Harvey_Dent%27s_transformation_into_Two-Face"
+    },
+    {
+      "text": "\"You see, madness, as you know, is like gravity. All it takes is a little push!\" — The Joker in The Dark Knight claims credit for Harvey Dent's descent into Two-Face.",
+      "source": "https://en.wikipedia.org/wiki/You_see%2C_madness%2C_as_you_know%2C_is_like_gravity._All_it_takes_is_a_little_push"
+    },
+    {
+      "text": "Riddler has evolved from a campier villain in the Silver Age to a serious, dangerous antagonist in modern comics, particularly in Scott Snyder's Zero Year and Paul Dano's film portrayal.",
+      "source": "https://en.wikipedia.org/wiki/Riddler"
+    },
+    {
+      "text": "The Mad Hatter, Jervis Tetch, is a Batman villain obsessed with Lewis Carroll's Alice in Wonderland who uses mind-control technology hidden in hats.",
+      "source": "https://en.wikipedia.org/wiki/Mad_Hatter%2C_Jervis_Tetch"
+    },
+    {
+      "text": "Clayface's ability to mimic any person makes him one of Batman's most versatile threats, and in James Tynion IV's Detective Comics run, he was even rehabilitated as a Bat-family ally.",
+      "source": "https://en.wikipedia.org/wiki/James_Tynion_IV%27s_Detective_Comics"
+    },
+    {
+      "text": "Victor Zsasz, a serial killer who carves a tally mark into his skin for each victim, is one of Batman's most disturbing villains due to his complete lack of theatrical gimmicks.",
+      "source": "https://en.wikipedia.org/wiki/Victor_Zsasz%2C_a_serial_killer_who_carves_a_tally_mark_into_his_skin_for_each_victim"
+    },
+    {
+      "text": "\"Welcome to a world without rules.\" — The Joker's invitation in various adaptations, presenting himself as the liberating force of pure anarchy against Batman's imposed order.",
+      "source": "https://en.wikipedia.org/wiki/Welcome_to_a_world_without_rules"
+    },
+    {
+      "text": "Batman has faced supernatural threats despite being a street-level hero, including vampires in the Red Rain trilogy and the demon Etrigan.",
+      "source": "https://en.wikipedia.org/wiki/Batman"
+    },
+    {
+      "text": "In the Elseworlds story Batman: Red Rain (1991), Batman became a vampire to defeat Dracula, creating one of the most visually striking alternate versions of the character.",
+      "source": "https://en.wikipedia.org/wiki/Batman:_Red_Rain"
+    },
+    {
+      "text": "Batman has traveled through time on multiple occasions in the comics, including being sent to prehistoric times by Darkseid's Omega Beams in Grant Morrison's The Return of Bruce Wayne.",
+      "source": "https://en.wikipedia.org/wiki/Batman"
+    },
+    {
+      "text": "The Batman of Zur-En-Arrh, originally a Silver Age alien Batman, was reimagined by Grant Morrison as a backup personality Bruce Wayne created in case his main psyche was ever compromised.",
+      "source": "https://en.wikipedia.org/wiki/Batman_of_Zur-En-Arrh%2C_originally_a_Silver_Age_alien_Batman"
+    },
+    {
+      "text": "\"You want order in Gotham? Batman must take off his mask and turn himself in. Every day he doesn't, people will die.\" — The Joker's ultimatum in The Dark Knight forces Gotham to question whether Batman causes more harm than good.",
+      "source": "https://en.wikipedia.org/wiki/Joker%27s"
+    },
+    {
+      "text": "Batman: Cataclysm (1998) and its follow-up No Man's Land depicted Gotham being struck by a 7.6 magnitude earthquake and declared a no man's land by the federal government.",
+      "source": "https://en.wikipedia.org/wiki/Batman:_Cataclysm"
+    },
+    {
+      "text": "In No Man's Land, various villains carved out territories across the devastated Gotham — the Penguin ran a trading post, Two-Face held court as a judge, and even the GCPD claimed their own zone.",
+      "source": "https://en.wikipedia.org/wiki/In_No_Man%27s_Land"
+    },
+    {
+      "text": "Batman: Under the Hood revealed that Jason Todd was resurrected via the Lazarus Pit by Talia al Ghul, who took pity on the fallen Robin and restored him to life.",
+      "source": "https://en.wikipedia.org/wiki/Batman:_Under_the_Hood_revealed_that_Jason_Todd"
+    },
+    {
+      "text": "Jason Todd's Red Hood identity was taken from the Joker's original criminal alias, making his choice of name a deliberate provocation aimed at both Batman and his killer.",
+      "source": "https://en.wikipedia.org/wiki/Jason_Todd%27s_Red_Hood_identity"
+    },
+    {
+      "text": "\"Ignoring what he's done in the past. Blindly, stupidly disregarding the entire graveyards he's filled, the thousands who have suffered, the friends he's crippled. I thought... I thought I'd be the last person you'd ever let him hurt.\" — Jason Todd to Batman about the Joker.",
+      "source": "https://en.wikipedia.org/wiki/Jason_Todd_to_Batman"
+    },
+    {
+      "text": "Batman Incorporated (2010) was Grant Morrison's concept of Bruce Wayne publicly funding a global network of Batmen, extending his vigilante brand worldwide.",
+      "source": "https://en.wikipedia.org/wiki/Batman_Incorporated"
+    },
+    {
+      "text": "Batman and Superman's friendship, despite their vastly different worldviews, has been one of DC's most enduring relationships, explored in World's Finest Comics since the 1940s.",
+      "source": "https://en.wikipedia.org/wiki/Batman_and_Superman%27s_friendship%2C_despite_their_vastly_different_worldviews"
+    },
+    {
+      "text": "\"Clark, you have to understand — I've known Bruce Wayne since we were kids. No one knows better than me how much he's sacrificed.\" — Superman defending Batman's methods to the Justice League.",
+      "source": "https://en.wikipedia.org/wiki/Clark%2C_you"
+    },
+    {
+      "text": "Batman has trained virtually every member of the Bat-family, instilling his detective methods, martial arts skills, and moral code — though each protégé has interpreted the code differently.",
+      "source": "https://en.wikipedia.org/wiki/Batman"
+    },
+    {
+      "text": "The Bat-family has grown to include dozens of members: Batman, Robin (multiple versions), Batgirl, Nightwing, Red Hood, Red Robin, Batwoman, Signal, Spoiler, Orphan, and others.",
+      "source": "https://en.wikipedia.org/wiki/Bat-family"
+    },
+    {
+      "text": "Gotham's GCPD has been depicted as everything from hopelessly corrupt to heroically undermanned, with Commissioner Gordon often being the only officer Batman can fully trust.",
+      "source": "https://en.wikipedia.org/wiki/Gotham%27s_GCPD"
+    },
+    {
+      "text": "Harvey Bullock, a gruff, slovenly detective in the GCPD, has alternated between being an antagonist suspicious of Batman and a grudging ally who recognizes the vigilante's value.",
+      "source": "https://en.wikipedia.org/wiki/Harvey_Bullock%2C_a_gruff%2C_slovenly_detective_in_the_GCPD"
+    },
+    {
+      "text": "Renee Montoya, a GCPD detective created for Batman: The Animated Series, went on to become the new Question in the comics and eventually replaced Jim Gordon as Commissioner.",
+      "source": "https://en.wikipedia.org/wiki/Renee_Montoya%2C_a_GCPD_detective"
+    },
+    {
+      "text": "\"Your anger gives you great power. But if you let it, it will destroy you.\" — Henri Ducard/Ra's al Ghul to Bruce Wayne in Batman Begins, a lesson Batman struggles with throughout his career.",
+      "source": "https://en.wikipedia.org/wiki/Your_anger_gives_you_great_power._But_if_you_let_it%2C_it_will_destroy_you"
+    },
+    {
+      "text": "Batman's relationship with the police has always been complicated — while Commissioner Gordon uses the Bat-Signal, many officers resent working with a vigilante who operates above the law.",
+      "source": "https://en.wikipedia.org/wiki/Batman%27s_relationship_with_the_police"
+    },
+    {
+      "text": "The Batcave has been depicted as containing a crime lab, a supercomputer, a gym, a vehicle bay, a trophy room, a medical bay, and even a dinosaur and giant penny.",
+      "source": "https://en.wikipedia.org/wiki/Batcave"
+    },
+    {
+      "text": "In the comics, the Batcave sits beneath Wayne Manor and connects to a vast network of natural limestone caves, with multiple hidden entrances throughout Gotham.",
+      "source": "https://en.wikipedia.org/wiki/In_the"
+    },
+    {
+      "text": "Batman's paranoia is one of his defining traits — he keeps files on every superhero and villain, prepares for every contingency, and trusts almost no one completely.",
+      "source": "https://en.wikipedia.org/wiki/Batman%27s_paranoia"
+    },
+    {
+      "text": "\"The world only makes sense if you force it to.\" — Batman's declaration to Superman in The Dark Knight Returns, revealing a fundamental difference in how the two heroes view justice.",
+      "source": "https://en.wikipedia.org/wiki/world_only_makes_sense_if_you_force_it_to"
+    },
+    {
+      "text": "Bruce Wayne has been romantically linked with numerous women in the comics, including Catwoman, Talia al Ghul, Silver St. Cloud, Jezebel Jet, and Vicki Vale.",
+      "source": "https://en.wikipedia.org/wiki/Bruce_Wayne"
+    },
+    {
+      "text": "Silver St. Cloud, a socialite who deduced Batman's identity in the 1970s, is considered by many fans to be Bruce Wayne's greatest love interest from the comics.",
+      "source": "https://en.wikipedia.org/wiki/Silver_St._Cloud%2C_a_socialite_who_deduced_Batman%27s_identity_in_the_1970s"
+    },
+    {
+      "text": "Batman's physical regimen in the comics is superhuman in discipline — he maintains peak human conditioning through constant training, a strict diet, and minimal sleep.",
+      "source": "https://en.wikipedia.org/wiki/Batman%27s_physical_regimen_in_the_comics"
+    },
+    {
+      "text": "In the Justice League animated series, Batman's contingency plan for himself was the Justice League — recognizing that if he ever went rogue, his teammates would stop him.",
+      "source": "https://en.wikipedia.org/wiki/In_the_Justice_League_animated_series%2C_Batman%27s_contingency_plan_for_himself"
+    },
+    {
+      "text": "Batman: The Dark Knight Returns inspired the look and tone of Ben Affleck's older, bulkier Batman in Batman v Superman, including the iconic armored suit used to fight Superman.",
+      "source": "https://en.wikipedia.org/wiki/Batman:_The_Dark_Knight_Returns"
+    },
+    {
+      "text": "\"You don't get heaven or hell. Do you know the only reward you get for being Batman? You get to be Batman.\" — Neil Gaiman's poetic assessment of the character's lonely existence.",
+      "source": "https://en.wikipedia.org/wiki/Neil_Gaiman%27s"
+    },
+    {
+      "text": "The Batmobile in Joel Schumacher's films had a more fantastical, elongated design with glowing accents, reflecting the films' shift toward a more toy-friendly aesthetic.",
+      "source": "https://en.wikipedia.org/wiki/Batmobile_in_Joel_Schumacher%27s_films"
+    },
+    {
+      "text": "Every live-action Batsuit has evolved technologically — from the stiff rubber suits of 1989 to the flexible, tactical armor of The Batman (2022) that Pattinson could actually move in.",
+      "source": "https://en.wikipedia.org/wiki/Batman"
+    },
+    {
+      "text": "The Batman TV series (2004–2008), not to be confused with the 2022 film, was an animated show that offered fresh takes on Batman's villains with a unique anime-influenced art style.",
+      "source": "https://en.wikipedia.org/wiki/Batman_TV_series_(2004%E2%80%932008)%2C_not_to_be_confused_with_the_2022_film"
+    },
+    {
+      "text": "Batman: Soul of the Dragon (2021) was an animated film that reimagined Batman's martial arts training as a 1970s kung fu adventure alongside Richard Dragon, Lady Shiva, and Ben Turner.",
+      "source": "https://en.wikipedia.org/wiki/Dragon"
+    },
+    {
+      "text": "Batman: Caped Crusader (2024) was a Prime Video animated series produced by Bruce Timm, returning to the noir roots of The Animated Series with a 1940s-set reimagining.",
+      "source": "https://en.wikipedia.org/wiki/Batman:_Caped_Crusader"
+    },
+    {
+      "text": "Lego Batman has become a phenomenon of his own, with Will Arnett voicing a hilariously narcissistic version of the character in The Lego Batman Movie (2017).",
+      "source": "https://en.wikipedia.org/wiki/Lego_Batman_Movie"
+    },
+    {
+      "text": "\"Iron Man sucks.\" — Lego Batman's fourth-wall-breaking jab at Marvel's Tony Stark in The Lego Batman Movie, acknowledging the real-world rivalry between the two billionaire heroes.",
+      "source": "https://en.wikipedia.org/wiki/Iron_Man_sucks"
+    },
+    {
+      "text": "The Lego Batman Movie (2017) was praised for being both a loving parody and a genuine exploration of Batman's fear of family and emotional connection.",
+      "source": "https://en.wikipedia.org/wiki/Lego_Batman_Movie"
+    },
+    {
+      "text": "Batman has appeared in numerous video games outside the Arkham series, including Injustice: Gods Among Us, Mortal Kombat vs. DC Universe, and various LEGO titles.",
+      "source": "https://en.wikipedia.org/wiki/Batman"
+    },
+    {
+      "text": "The Injustice video game series and its tie-in comic depicted an alternate universe where Superman became a tyrant and Batman led an insurgency against him.",
+      "source": "https://en.wikipedia.org/wiki/Injustice"
+    },
+    {
+      "text": "Batman's portrayal in Injustice showed him as the moral center of the DC Universe, the one hero unwilling to compromise his principles even when his best friend became a dictator.",
+      "source": "https://en.wikipedia.org/wiki/DC_Universe"
+    },
+    {
+      "text": "Batman: Gotham by Gaslight (1989) was the first official Elseworlds story, reimagining Batman in Victorian-era Gotham hunting Jack the Ripper.",
+      "source": "https://en.wikipedia.org/wiki/Gaslight"
+    },
+    {
+      "text": "\"I've worked so hard to gain their respect, they sometimes forget I'm flesh and blood.\" — Batman's reflection on the double-edged sword of being feared by criminals who forget he's human.",
+      "source": "https://en.wikipedia.org/wiki/I%27ve_worked_so_hard_to_gain_their_respect%2C_they_sometimes_forget_I%27m_flesh_and_blood"
+    },
+    {
+      "text": "Batman: The Killing Joke was adapted into an animated film in 2016 with Kevin Conroy and Mark Hamill, though it was controversial for adding an original Batgirl subplot.",
+      "source": "https://en.wikipedia.org/wiki/Batman:_The_Killing_Joke"
+    },
+    {
+      "text": "The Joker's toxin, commonly called Joker Venom or Smilex, kills victims while leaving a rictus grin on their faces — one of the most horrifying weapons in comic book history.",
+      "source": "https://en.wikipedia.org/wiki/Joker%27s_toxin%2C_commonly"
+    },
+    {
+      "text": "Batman is one of the few comic book characters who has maintained continuous publication since his debut, never going out of print for more than 85 years.",
+      "source": "https://en.wikipedia.org/wiki/Batman"
+    },
+    {
+      "text": "\"There is a difference between you and me. We both looked into the abyss, but when it looked back at us, you blinked.\" — Batman to an adversary, asserting his unshakeable resolve.",
+      "source": "https://en.wikipedia.org/wiki/There"
+    },
+    {
+      "text": "The Batman franchise has inspired numerous real-world technologies, including the military's interest in grappling devices, gliding wing suits, and less-lethal weapons.",
+      "source": "https://en.wikipedia.org/wiki/Batman_franchise"
+    },
+    {
+      "text": "Gotham City has been depicted in various locations — Chicago, Pittsburgh, Detroit, New York, and London have all served as filming locations for Gotham across different productions.",
+      "source": "https://en.wikipedia.org/wiki/Gotham_City"
+    },
+    {
+      "text": "Batman's moral code extends beyond not killing — he also refuses to use guns, a principle rooted in the fact that a gun was used to murder his parents.",
+      "source": "https://en.wikipedia.org/wiki/Batman"
+    },
+    {
+      "text": "\"A gun is a liar's weapon.\" — Batman's dismissal of firearms in The Dark Knight Returns, connecting his rejection of guns to his desire for honest, direct justice.",
+      "source": "https://en.wikipedia.org/wiki/A_gun_is_a_liar%27s_weapon"
+    },
+    {
+      "text": "The 2022 film's depiction of the Riddler as a social media-fueled terrorist reflected contemporary anxieties about online radicalization and audience-driven violence.",
+      "source": "https://en.wikipedia.org/wiki/2022"
+    },
+    {
+      "text": "Batman's detective skills are so renowned within the DC Universe that even Superman defers to his investigative abilities during complex Justice League cases.",
+      "source": "https://en.wikipedia.org/wiki/Batman%27s_detective_skills"
+    },
+    {
+      "text": "\"When you eliminate the impossible, whatever remains, however improbable, must be the truth.\" — Batman frequently channels Sherlock Holmes' deductive methods in his crime-solving.",
+      "source": "https://en.wikipedia.org/wiki/When_you_eliminate_the_impossible%2C_whatever_remains%2C_however_improbable%2C_must_be_the_truth"
+    },
+    {
+      "text": "The Batcave's location has shifted across media — sometimes beneath Wayne Manor, sometimes beneath Wayne Tower downtown, and in The Batman (2022), beneath an abandoned train terminal.",
+      "source": "https://en.wikipedia.org/wiki/Batman"
+    },
+    {
+      "text": "Batman: The Adventures Continue (2020) was a comic series that served as a sequel to Batman: The Animated Series, created by Alan Burnett and Paul Dini.",
+      "source": "https://en.wikipedia.org/wiki/Batman:_The_Adventures_Continue"
+    },
+    {
+      "text": "Michael Keaton returned to play Batman in The Flash (2023), reprising the role 31 years after Batman Returns in what was one of the film's most anticipated elements.",
+      "source": "https://en.wikipedia.org/wiki/Flash"
+    },
+    {
+      "text": "Kevin Conroy's death in November 2022 was mourned by the entire Batman community; he had given voice to the character for 30 years across more Batman projects than any other actor.",
+      "source": "https://en.wikipedia.org/wiki/Kevin_Conroy%27s_death_in_November_2022"
+    },
+    {
+      "text": "\"People think it's an obsession. A compulsion. As if there were an irresistible impulse to act. It's never been like that. I chose this life.\" — Batman in Identity Crisis, asserting his agency.",
+      "source": "https://en.wikipedia.org/wiki/People_think_it%27s_an_obsession._A_compulsion._As_if_there"
+    },
+    {
+      "text": "Batman: Ego and Other Tails collected Darwyn Cooke's Batman stories, with the title story exploring Batman's psyche as Bruce Wayne contemplates giving up the cowl after accidentally causing a death.",
+      "source": "https://en.wikipedia.org/wiki/Batman:_Ego_and_Other_Tails"
+    },
+    {
+      "text": "The Gotham City Sirens comic series (2009–2011) teamed Catwoman, Harley Quinn, and Poison Ivy as an unlikely trio navigating Gotham's criminal underworld.",
+      "source": "https://en.wikipedia.org/wiki/Gotham_City_Sirens"
+    },
+    {
+      "text": "\"I am the reason the criminals breathe easier when the sun rises.\" — Batman's acknowledgment that his power comes from the night, and that daylight is the criminals' reprieve.",
+      "source": "https://en.wikipedia.org/wiki/I_am_the_reason_the_criminals_breathe_easier_when_the_sun_rises"
+    },
+    {
+      "text": "Batman: Black Mirror (2011) by Scott Snyder featured Dick Grayson as Batman dealing with Commissioner Gordon's psychopathic son James Jr., and is considered one of the best Batman stories ever.",
+      "source": "https://en.wikipedia.org/wiki/Batman:_Black_Mirror"
+    },
+    {
+      "text": "The Batman mythos has inspired academic study, with university courses analyzing the character's psychology, philosophy of justice, ethics of vigilantism, and cultural significance.",
+      "source": "https://en.wikipedia.org/wiki/Batman_mythos"
+    },
+    {
+      "text": "Batman has been featured in every major DC crossover event, from Crisis on Infinite Earths to Infinite Crisis to Dark Nights: Metal, consistently serving as a pivotal character.",
+      "source": "https://en.wikipedia.org/wiki/Batman"
+    },
+    {
+      "text": "Dark Nights: Metal (2017) introduced the Dark Multiverse, a nightmare dimension containing twisted versions of Batman, including the Batman Who Laughs and the Red Death.",
+      "source": "https://en.wikipedia.org/wiki/Dark_Nights:_Metal"
+    },
+    {
+      "text": "The Red Death was a Dark Multiverse Batman who merged with the Flash to gain superspeed, while the Murder Machine was a Batman whose Alfred-based AI turned homicidal.",
+      "source": "https://en.wikipedia.org/wiki/Red_Death"
+    },
+    {
+      "text": "\"Sometimes the truth isn't good enough. Sometimes people deserve more. Sometimes people deserve to have their faith rewarded.\" — Batman justifying his decision to take the blame for Harvey Dent's crimes in The Dark Knight.",
+      "source": "https://en.wikipedia.org/wiki/Sometimes_the"
+    },
+    {
+      "text": "Batman has been parodied in countless media, including South Park, Robot Chicken, Family Guy, and The Venture Bros., each finding humor in the character's brooding intensity.",
+      "source": "https://en.wikipedia.org/wiki/Batman"
+    },
+    {
+      "text": "Darkwing Duck, the Disney animated series, was partly inspired by Batman, featuring a masked vigilante who fights crime in a duck-themed version of Gotham.",
+      "source": "https://en.wikipedia.org/wiki/Darkwing_Duck%2C_the_Disney_animated_series"
+    },
+    {
+      "text": "\"I'm not locked in here with you. You're locked in here with me.\" — While originally a Rorschach line from Watchmen, this sentiment perfectly captures Batman's confidence when surrounded by enemies.",
+      "source": "https://en.wikipedia.org/wiki/I%27m_not_locked_in_here_with_you._You%27re_locked_in_here_with_me"
+    },
+    {
+      "text": "Batman: A Lonely Place of Dying (1989) introduced Tim Drake as the new Robin, a character who proactively sought out Batman and argued that the Dark Knight needed a partner.",
+      "source": "https://en.wikipedia.org/wiki/Dying"
+    },
+    {
+      "text": "Tim Drake deduced Batman's identity by connecting Dick Grayson's acrobatic style to Robin's moves, making him the first Robin to earn his place through pure detective work.",
+      "source": "https://en.wikipedia.org/wiki/Tim_Drake"
+    },
+    {
+      "text": "Stephanie Brown, the daughter of the villain Cluemaster, became Spoiler before briefly serving as Robin and eventually taking on the Batgirl mantle.",
+      "source": "https://en.wikipedia.org/wiki/Stephanie_Brown%2C_the_daughter_of_the_villain_Cluemaster"
+    },
+    {
+      "text": "Duke Thomas, also known as the Signal, was introduced in Scott Snyder's Batman run as Gotham's first daytime superhero, expanding the Bat-family's operational hours.",
+      "source": "https://en.wikipedia.org/wiki/Duke_Thomas%2C_also_known_as_the_Signal"
+    },
+    {
+      "text": "\"You can never escape me. Bullets don't harm me. Nothing harms me. But I know pain. I know pain. Sometimes I share it. With someone like you.\" — Batman threatening a criminal in Batman: The Animated Series.",
+      "source": "https://en.wikipedia.org/wiki/But_I"
+    },
+    {
+      "text": "The Batcomputer has been depicted in some versions as having a direct link to every security camera, satellite, and database in Gotham, making Batman the city's most powerful surveillance entity.",
+      "source": "https://en.wikipedia.org/wiki/Batcomputer"
+    },
+    {
+      "text": "Batman: Gates of Gotham (2011) by Scott Snyder explored the Wayne family's role in actually building Gotham City in the 19th century alongside the Cobblepot and Elliot families.",
+      "source": "https://en.wikipedia.org/wiki/Gotham"
+    },
+    {
+      "text": "\"It's a big world. Let me show you.\" — Batman to Carrie Kelley in The Dark Knight Returns, recruiting his new Robin to help save a city that had lost hope.",
+      "source": "https://en.wikipedia.org/wiki/It%27s_a_big_world._Let_me_show_you"
+    },
+    {
+      "text": "Carrie Kelley, the Robin in The Dark Knight Returns, was significant as the first female Robin, predating Stephanie Brown's brief stint by over 15 years.",
+      "source": "https://en.wikipedia.org/wiki/Carrie_Kelley%2C_the_Robin_in_The_Dark_Knight_Returns"
+    },
+    {
+      "text": "The Joker's many portrayals across media have varied dramatically — from Cesar Romero's playful prankster to Heath Ledger's anarchist philosopher to Joaquin Phoenix's mentally ill loner.",
+      "source": "https://en.wikipedia.org/wiki/Joker%27s_many_portrayals_across_media"
+    },
+    {
+      "text": "\"Ever dance with the devil in the pale moonlight?\" — Jack Nicholson's Joker in Batman (1989) made this line iconic, though its meaning was never fully explained within the film.",
+      "source": "https://en.wikipedia.org/wiki/Ever_dance_with_the_devil_in_the_pale_moonlight"
+    },
+    {
+      "text": "The character of Batman has generated more peer-reviewed academic papers than any other comic book superhero, analyzing topics from psychology to political philosophy.",
+      "source": "https://en.wikipedia.org/wiki/character_of_Batman"
+    },
+    {
+      "text": "Batman's influence on the superhero genre is incalculable — he proved that a hero didn't need powers to be compelling, paving the way for characters like Iron Man, Green Arrow, and the Punisher.",
+      "source": "https://en.wikipedia.org/wiki/Batman%27s_influence_on_the_superhero_genre"
+    },
+    {
+      "text": "\"I made a promise on the grave of my parents that I would rid this city of the evil that took their lives.\" — Batman's fundamental oath, the bedrock upon which every version of the character is built.",
+      "source": "https://en.wikipedia.org/wiki/I_made_a_promise_on_the_grave_of_my_parents_that_I_would_rid_this_city_of_the_evil_that"
+    },
+    {
+      "text": "Batman: Earth-Two, the Golden Age version, eventually married Catwoman and had a daughter, Helena Wayne, who became the Huntress.",
+      "source": "https://en.wikipedia.org/wiki/Batman:_Earth-Two%2C_the_Golden_Age_version%2C_eventually_married_Catwoman_and"
+    },
+    {
+      "text": "The Batman: Knightquest saga that followed Knightfall showed Jean-Paul Valley (Azrael) as a progressively more violent and unhinged Batman, proving that the cowl requires Bruce Wayne's discipline.",
+      "source": "https://en.wikipedia.org/wiki/Batman:_Knightquest"
+    },
+    {
+      "text": "Batman: Prodigal (1995) featured Dick Grayson temporarily becoming Batman after Jean-Paul Valley was defeated, showing the first successful succession of the Batman identity.",
+      "source": "https://en.wikipedia.org/wiki/Batman:_Prodigal"
+    },
+    {
+      "text": "\"There's nothing wrong with you that I can't fix with my hands.\" — Batman's menacing promise to a criminal captures his preference for direct, physical confrontation over weapons.",
+      "source": "https://en.wikipedia.org/wiki/There%27s_nothing_wrong_with_you_that_I_can%27t_fix_with_my_hands"
+    },
+    {
+      "text": "The Batman/Teenage Mutant Ninja Turtles crossover comics unexpectedly became fan favorites, blending Gotham's dark streets with the Turtles' sewer-dwelling adventures.",
+      "source": "https://en.wikipedia.org/wiki/Batman%2FTeenage_Mutant_Ninja_Turtles_crossover_comics_unexpectedly"
+    },
+    {
+      "text": "Batman: Hush Returns and Batman: Heart of Hush expanded on the original Hush storyline, with Heart of Hush by Paul Dini being particularly praised for its emotional depth.",
+      "source": "https://en.wikipedia.org/wiki/Batman:_Hush_Returns_and_Batman:_Heart_of_Hush"
+    },
+    {
+      "text": "\"That mask — it's not to hide who I am. It's to create what I am.\" — Batman explaining that the cowl transforms him from a man into something more, a creature of the night.",
+      "source": "https://en.wikipedia.org/wiki/That_mask_%E2%80%94_it%27s_not_to_hide_who_I_am._It%27s_to_create_what_I_am"
+    },
+    {
+      "text": "The 1943 Batman serial starring Lewis Wilson was the first live-action portrayal of Batman, introducing concepts like the Batcave and Alfred's thin appearance that were later adopted by the comics.",
+      "source": "https://en.wikipedia.org/wiki/1943_Batman_serial_starring_Lewis_Wilson"
+    },
+    {
+      "text": "Robert Lowery played Batman in the 1949 serial Batman and Robin, becoming the second actor to play the character on screen.",
+      "source": "https://en.wikipedia.org/wiki/Robert_Lowery"
+    },
+    {
+      "text": "Batman's fear of bats, established in many modern origin stories, became the very weapon he turned against criminals — transforming his deepest terror into his greatest strength.",
+      "source": "https://en.wikipedia.org/wiki/Batman%27s_fear_of_bats%2C_established_in_many_modern_origin_stories"
+    },
+    {
+      "text": "\"Why bats, Master Wayne?\" \"Bats frighten me. It's time my enemies shared my dread.\" — Alfred and Bruce Wayne in Batman Begins, explaining the origin of Batman's symbol.",
+      "source": "https://en.wikipedia.org/wiki/Why_bats%2C_Master_Wayne"
+    },
+    {
+      "text": "The Bat-family operates out of multiple headquarters in modern comics, including the Batcave, the Clock Tower (Oracle's base), and various safe houses hidden throughout Gotham.",
+      "source": "https://en.wikipedia.org/wiki/Bat-family"
+    },
+    {
+      "text": "Batman's influence extends to real-world crimefighting — the character has inspired community watch programs, anti-bullying campaigns, and charity organizations worldwide.",
+      "source": "https://en.wikipedia.org/wiki/Batman%27s_influence_extends_to_real-world_crimefighting_%E2%80%94_the_character"
+    },
+    {
+      "text": "\"It doesn't matter who we are. What matters is our plan.\" — Bane's philosophical declaration in The Dark Knight Rises, spoken to a man aboard a plane before a spectacular aerial hijacking.",
+      "source": "https://en.wikipedia.org/wiki/It_doesn%27t_matter_who_we_are._What_matters_is_our_plan"
+    },
+    {
+      "text": "The aerial sequence opening The Dark Knight Rises, where Bane hijacks a CIA plane mid-flight, was performed practically with real stunt performers and IMAX cameras.",
+      "source": "https://en.wikipedia.org/wiki/Dark_Knight_Rises"
+    },
+    {
+      "text": "Batman: Shadow of the Bat was a companion series that ran from 1992 to 2000, featuring stories that explored the darker corners of Gotham alongside the main Batman title.",
+      "source": "https://en.wikipedia.org/wiki/Batman:_Shadow_of_the_Bat"
+    },
+    {
+      "text": "\"If I have to have a past, then I prefer it to be multiple choice.\" — The Joker in The Killing Joke, embracing ambiguity about his origin in a way that has defined the character ever since.",
+      "source": "https://en.wikipedia.org/wiki/If_I_have_to_have_a_past%2C_then_I_prefer_it_to_be_multiple_choice"
+    },
+    {
+      "text": "Batman's cape has been shown to contain 50 pounds of weighted fabric in some comic versions, allowing him to use it as a weapon for stunning opponents.",
+      "source": "https://en.wikipedia.org/wiki/Batman%27s_cape"
+    },
+    {
+      "text": "The Batsuit's cowl traditionally contains communications equipment, a voice modulator, detective vision lenses, and recording devices.",
+      "source": "https://en.wikipedia.org/wiki/Batsuit%27s_cowl_traditionally"
+    },
+    {
+      "text": "Adam West's Batman famously carried Bat-Shark-Repellent Spray in the 1966 film, one of many absurd gadgets from the utility belt that has been referenced and parodied for decades.",
+      "source": "https://en.wikipedia.org/wiki/Adam_West%27s_Batman"
+    },
+    {
+      "text": "\"Holy [everything], Batman!\" — Burt Ward's Robin made this exclamation format so famous in the 1966 series that it became permanently associated with the character and the show's campy tone.",
+      "source": "https://en.wikipedia.org/wiki/Holy_%5Beverything%5D%2C_Batman"
+    },
+    {
+      "text": "Batman and the Outsiders (1983) was a team comic where Batman left the Justice League to form his own squad of lesser-known heroes, including Black Lightning, Katana, and Metamorpho.",
+      "source": "https://en.wikipedia.org/wiki/Outsiders"
+    },
+    {
+      "text": "Batman has consistently been ranked as the most popular superhero in multiple polls worldwide, frequently surpassing Superman, Spider-Man, and other major characters.",
+      "source": "https://en.wikipedia.org/wiki/Batman"
+    },
+    {
+      "text": "\"You have nothing, nothing to threaten me with. Nothing to do with all your strength.\" — The Joker to Batman in The Dark Knight, recognizing that Batman's refusal to kill is simultaneously his strength and his limitation.",
+      "source": "https://en.wikipedia.org/wiki/You_have_nothing%2C_nothing_to_threaten_me_with._Nothing_to_do_with_all_your_strength"
+    },
+    {
+      "text": "Batman: Haunted Knight collected three Jeph Loeb/Tim Sale Halloween specials — Fears, Madness, and Ghosts — each retelling classic stories through a Batman lens.",
+      "source": "https://en.wikipedia.org/wiki/Batman:_Haunted_Knight"
+    },
+    {
+      "text": "The Joker has been killed and resurrected multiple times in DC Comics, making him nearly as persistent and unkillable as Batman himself.",
+      "source": "https://en.wikipedia.org/wiki/Joker"
+    },
+    {
+      "text": "Batman: Legends of the Dark Knight (1989–2007) was an anthology series featuring standalone Batman stories by different creative teams, allowing for experimental and diverse interpretations.",
+      "source": "https://en.wikipedia.org/wiki/Batman:_Legends_of_the_Dark_Knight_(1989%E2%80%932007)"
+    },
+    {
+      "text": "\"I respect the mind's power over the body. It's why I do what I do.\" — Batman on the mental discipline required to push the human body beyond its assumed limits every single night.",
+      "source": "https://en.wikipedia.org/wiki/I_respect_the_mind%27s_power_over_the_body._It%27s_why_I_do_what_I_do"
+    }
+  ]
+}

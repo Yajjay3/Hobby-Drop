@@ -1,0 +1,342 @@
+#!/usr/bin/env python3
+"""Add ~270 new facts to tennis.json to bring total above 400."""
+import json
+
+path = 'extension/data/facts/tennis.json'
+with open(path) as f:
+    data = json.load(f)
+
+existing_texts = {fact['text'] for fact in data['facts']}
+
+extra = [
+    # ── Evolution of the Game ──
+    {"text": "The original rules of lawn tennis were codified by Major Walter Clopton Wingfield in 1874 under the name 'Sphairistike.'", "type": "did-you-know"},
+    {"text": "Before the Open Era began in 1968, Grand Slam tournaments were restricted to amateur players only."},
+    {"text": "The tiebreak was first used at a Grand Slam during the 1970 US Open after being introduced by James Van Alen."},
+    {"text": "Until 1975, seedings at Wimbledon were partly based on a player's perceived ability on grass rather than purely on rankings."},
+    {"text": "The service let rule — replaying a serve that clips the net — was experimentally abolished by some ATP events in 2020.", "type": "did-you-know"},
+    {"text": "In 1970 the tiebreak was played at 8-all; it wasn't until 1979 that the current 6-all format became standard at most events."},
+    {"text": "Shot clocks were introduced on the ATP Tour in 2018 to enforce the 25-second time limit between points."},
+    {"text": "Coaching from the stands was banned in Grand Slams until 2022, when off-court coaching was officially trialed and then adopted."},
+    {"text": "The 'no-let' rule on serves was tested in select professional events and NextGen ATP Finals, eliminating serve lets."},
+    {"text": "Electronic line calling replaced all human line judges at the Australian Open starting in 2021."},
+    {"text": "The ATP introduced a best-of-three-set format for all events except Grand Slams starting in 2009."},
+    {"text": "Before 1971, women's Grand Slam finals were best of three sets; they have remained so since the Open Era began."},
+    {"text": "Until 2019, the final set at Wimbledon had no tiebreak; a final-set tiebreak at 12-all was introduced that year."},
+    {"text": "The French Open was the last Grand Slam to adopt a final-set tiebreak, introducing a super tiebreak at 6-all in the fifth set in 2022."},
+    {"text": "Self-officiating was standard in early tennis; the umpire's chair on a raised platform wasn't introduced until the late 1800s."},
+    {"text": "Real tennis — the medieval ancestor of modern lawn tennis — is still played on enclosed asymmetrical courts today.", "type": "did-you-know"},
+
+    # ── Equipment Evolution ──
+    {"text": "Wooden tennis rackets dominated the sport until the late 1970s; the last Wimbledon singles title won with a wood racket was by Yannick Noah in 1983 at Roland Garros."},
+    {"text": "Howard Head introduced the first oversized aluminum racket, the Prince Classic, in 1976, revolutionizing the game for recreational players."},
+    {"text": "Graphite composite rackets appeared in the early 1980s and offered a combination of lightness and stiffness that wood and metal could not match."},
+    {"text": "Modern professional rackets typically have a head size of 95-100 square inches, compared to 65 square inches for classic wood frames."},
+    {"text": "Natural gut strings, made from cow intestine (serosa), are still used by many top professionals for their feel and power."},
+    {"text": "Polyester strings became popular in the late 1990s because they allow players to swing harder while maintaining control through heavy topspin."},
+    {"text": "Rafael Nadal's extreme RPM (revolutions per minute) on his forehand was enabled partly by the use of polyester strings.", "type": "did-you-know"},
+    {"text": "Hybrid stringing — using one type of string for the mains and another for the crosses — became common in the 2000s for blending power and control."},
+    {"text": "Tennis balls are pressurized with approximately 14 psi of internal gas, which slowly leaks, causing balls to lose bounce."},
+    {"text": "Wilson has been the official ball supplier for the US Open since 1979 and for the Australian Open since 2006."},
+    {"text": "Dunlop supplies the balls for the Australian Open, while Babolat supplies for the French Open and Slazenger for Wimbledon."},
+    {"text": "The felt on a tennis ball is composed of a wool-nylon blend that affects aerodynamics, durability, and bounce."},
+    {"text": "Early tennis shoes were simple plimsolls; modern shoes feature herringbone patterns for clay and flat soles for hard courts."},
+    {"text": "Dampeners (or vibration absorbers) placed in the string bed reduce racket vibration but have no measurable effect on ball performance.", "type": "did-you-know"},
+    {"text": "The Wilson T2000 steel racket, famously used by Jimmy Connors, was one of the first non-wood rackets to win Grand Slams."},
+
+    # ── Court Surfaces ──
+    {"text": "Grass courts produce the fastest, lowest bounce of any surface, favoring serve-and-volley players with flat strokes."},
+    {"text": "Clay courts at Roland Garros use crushed brick (terre battue), which slows the ball, produces a high bounce, and favors baseline players."},
+    {"text": "The US Open switched from clay (Har-Tru) to hard courts (DecoTurf) in 1978, dramatically changing the style of play at Flushing Meadows."},
+    {"text": "The Australian Open was played on grass until 1988, when it moved to Rebound Ace hard courts; it switched to Plexicushion in 2008."},
+    {"text": "Indoor carpet courts were once common on the ATP Tour but were phased out entirely by 2009."},
+    {"text": "Green clay (Har-Tru) is popular in the United States and plays faster than the red clay used in Europe and South America."},
+    {"text": "Grass courts require between 6 months and a year to prepare and are made from perennial ryegrass cut to 8mm at Wimbledon."},
+    {"text": "The altitude of courts matters: at high-altitude venues like Bogotá, the thinner air makes the ball fly faster and bounce higher.", "type": "did-you-know"},
+    {"text": "Blue clay was controversially introduced at the 2012 Madrid Open by Ion Tiriac but was abandoned after one year due to player complaints."},
+    {"text": "The lines on clay courts are made of metal tape embedded in the surface, whereas hard court and grass lines are painted."},
+    {"text": "Hard courts account for the majority of professional events because they offer a neutral, consistent bounce and lower maintenance."},
+
+    # ── Tournament History: Grand Slams ──
+    {"text": "The first Wimbledon Championship in 1877 featured only men's singles, with Spencer Gore winning the inaugural title.", "month": 7, "day": 9},
+    {"text": "The French Open (originally Championnats de France) was first held in 1891 but was only open to French nationals until 1925."},
+    {"text": "The US National Championship began in 1881 at the Newport Casino in Rhode Island before moving to Forest Hills and then Flushing Meadows."},
+    {"text": "The Australian Open was first held in 1905 and was played in different cities across Australia and New Zealand until settling permanently in Melbourne in 1972."},
+    {"text": "The Australian Open moved from January grass courts at Kooyong to the new Melbourne Park hard courts in 1988."},
+    {"text": "The US Open was the first Grand Slam to offer equal prize money to men and women, starting in 1973."},
+    {"text": "Wimbledon was the last Grand Slam to offer equal prize money, finally doing so in 2007."},
+    {"text": "The purple and green colors of Wimbledon were introduced in 1909 and have remained the tournament's signature ever since.", "type": "did-you-know"},
+    {"text": "The Australian Open men's final is traditionally held on the last Sunday of January.", "month": 1, "day": 26},
+    {"text": "The French Open men's final is traditionally held on the second Sunday of June.", "month": 6, "day": 8},
+    {"text": "The Wimbledon men's final is traditionally held on the second Sunday of July.", "month": 7, "day": 14},
+    {"text": "The US Open men's final is traditionally held on the second Sunday of September.", "month": 9, "day": 8},
+    {"text": "The 'Challenge Round' system — where the reigning champion only had to play the final — was abolished at Wimbledon in 1922."},
+
+    # ── Tournament History: Other ──
+    {"text": "The Davis Cup was created by Dwight Davis in 1900 and is the oldest international team competition in tennis.", "type": "did-you-know"},
+    {"text": "The Billie Jean King Cup (formerly the Fed Cup) began in 1963 as the Federation Cup and was renamed in 2020 in honor of Billie Jean King."},
+    {"text": "The ATP Finals (originally the Masters Grand Prix) have been held in cities including Tokyo, New York, Shanghai, London, and Turin."},
+    {"text": "The WTA Finals were first held in 1972 and have rotated among cities like Los Angeles, Singapore, Shenzhen, and Fort Worth."},
+    {"text": "The Monte-Carlo Masters has been held at the Monte-Carlo Country Club since 1897 and features stunning cliffside red clay courts."},
+    {"text": "The Italian Open (Internazionali d'Italia) was first held in 1930 and is one of the most prestigious clay-court events."},
+    {"text": "The Cincinnati Masters, officially the Western & Southern Open, has been held every year since 1899, making it one of the oldest events."},
+    {"text": "The Queen's Club Championships in London serve as Wimbledon's traditional warm-up grass-court event for men."},
+
+    # ── Player Bios: All-Time Legends ──
+    {"text": "Roger Federer won 20 Grand Slam singles titles, held the world number 1 ranking for a total of 310 weeks, and was known for his graceful playing style."},
+    {"text": "Rafael Nadal's career win-loss record on clay courts is approximately 92%, the most dominant surface record in tennis history."},
+    {"text": "Novak Djokovic has won 7 Australian Open titles — more than any other player in history — earning the nickname 'King of Melbourne.'"},
+    {"text": "Pete Sampras won 7 consecutive year-end number 1 rankings from 1993 to 1998, a record that still stands."},
+    {"text": "Andre Agassi famously went from flamboyant rebel to elder statesman, completing the career Grand Slam at the 1999 French Open."},
+    {"text": "Bjorn Borg's rivalry with John McEnroe in the late 1970s and early 1980s is considered one of the greatest in sports history."},
+    {"text": "Jimmy Connors won 109 career singles titles, more than any other male player in the Open Era."},
+    {"text": "Ivan Lendl was the first player to use rigorous physical fitness training as a cornerstone of his preparation, changing the sport.", "type": "did-you-know"},
+    {"text": "Boris Becker won 6 Grand Slam titles and was known for his diving volleys and aggressive serve-and-volley style."},
+    {"text": "Stefan Edberg won 6 Grand Slam titles and is regarded as one of the finest serve-and-volley players ever."},
+    {"text": "Mats Wilander won 7 Grand Slam titles, including three in 1988, and was known for his versatility on all surfaces."},
+    {"text": "Guillermo Vilas won the 1977 French Open and US Open and was one of the first South American players to dominate the tour."},
+    {"text": "Ilie Nastase was the first ATP number 1 player in 1973 and was famous for both his talent and fiery temperament."},
+    {"text": "Manuel Orantes stunned the tennis world by beating Jimmy Connors in the 1975 US Open final after a remarkable comeback."},
+    {"text": "Ken Rosewall won 8 Grand Slam singles titles across the amateur and Open eras and was known for his precise backhand."},
+    {"text": "Pancho Gonzales was one of the most dominant players of the 1950s and 1960s, excelling as a professional in an era without Grand Slams open to pros."},
+    {"text": "Steffi Graf won 22 Grand Slam singles titles and spent a record 377 weeks at number 1, more than any player in history."},
+    {"text": "Martina Navratilova won 167 singles titles — the most in WTA history — and dominated Wimbledon with 9 singles titles.", "type": "did-you-know"},
+    {"text": "Chris Evert won at least one Grand Slam title for 13 consecutive years (1974-1986) and had a career winning percentage of 90%."},
+    {"text": "Billie Jean King won 12 Grand Slam singles titles and was a pioneer for gender equality and LGBTQ+ rights in sports."},
+    {"text": "Margaret Court won 24 Grand Slam singles titles (11 in the Open Era), though many came against smaller fields before 1968."},
+    {"text": "Monica Seles won 9 Grand Slam titles before age 20 and was the youngest French Open champion at 16 in 1990."},
+    {"text": "Arantxa Sanchez Vicario won 4 Grand Slam singles titles and was known as the 'Barcelona Bumblebee' for her relentless court coverage."},
+    {"text": "Evonne Goolagong Cawley won 7 Grand Slam singles titles and was the first Indigenous Australian to become a sports star."},
+    {"text": "Virginia Wade won the Wimbledon singles title in 1977 during the tournament's centenary year in front of Queen Elizabeth II.", "month": 7, "day": 1},
+    {"text": "Tracy Austin became the youngest US Open women's champion at age 16 in 1979 before injuries cut short her career."},
+    {"text": "Gabriela Sabatini won the 1990 US Open and was one of the most popular players of her era."},
+
+    # ── Player Bios: Current Era ──
+    {"text": "Jannik Sinner reached world number 1 in June 2024 at age 22, becoming the first Italian man to hold the top ranking.", "type": "did-you-know"},
+    {"text": "Carlos Alcaraz won the 2024 French Open and Wimbledon back to back, completing a Roland Garros-Wimbledon double at age 21."},
+    {"text": "Daniil Medvedev reached four Grand Slam finals and is known for his cerebral game and unconventional playing style."},
+    {"text": "Andrey Rublev has won multiple Masters 1000 titles and is recognized for his powerful forehand and emotional intensity."},
+    {"text": "Alexander Zverev has won the ATP Finals twice (2018, 2021) and the Olympic gold medal in Tokyo 2021."},
+    {"text": "Casper Ruud has reached three Grand Slam finals and is the highest-ranked Norwegian tennis player in history."},
+    {"text": "Stefanos Tsitsipas became the first Greek player to win an ATP Masters 1000 title and has reached the French Open final."},
+    {"text": "Holger Rune won the 2022 Paris Masters at age 19, defeating several top-10 players en route to the title.", "type": "did-you-know"},
+    {"text": "Felix Auger-Aliassime has represented the new wave of Canadian tennis talent alongside Denis Shapovalov."},
+    {"text": "Hubert Hurkacz has won multiple ATP 1000 titles and is the top-ranked Polish men's player of the Open Era."},
+    {"text": "Ben Shelton's explosive serve and athleticism have made him one of the most exciting young Americans in tennis."},
+    {"text": "Iga Swiatek has won five Grand Slam titles, including four French Opens, dominating on clay with relentless topspin forehand."},
+    {"text": "Aryna Sabalenka won three consecutive Grand Slam titles (Australian Open 2023, 2024, and US Open 2024)."},
+    {"text": "Coco Gauff won the 2023 US Open at age 19, becoming the youngest American Grand Slam champion since Serena Williams.", "month": 9, "day": 9},
+    {"text": "Elena Rybakina's powerful serve, averaging over 110 mph, makes her one of the most dangerous servers in women's tennis."},
+    {"text": "Jessica Pegula has established herself as a consistent top-10 player and a leading figure in American women's tennis."},
+    {"text": "Ons Jabeur became the first Arab and North African woman to reach a Grand Slam final at Wimbledon 2022."},
+    {"text": "Barbora Krejcikova won the 2021 French Open singles and doubles in the same year — a rare double achievement."},
+    {"text": "Marketa Vondrousova won Wimbledon 2023 as an unseeded player, the first unseeded women's champion in the Open Era.", "type": "did-you-know"},
+    {"text": "Beatriz Haddad Maia has become the highest-ranked Brazilian player in WTA history."},
+    {"text": "Jack Draper has emerged as Britain's top men's prospect, combining a big left-handed serve with powerful groundstrokes."},
+
+    # ── Famous Stadiums ──
+    {"text": "Centre Court at Wimbledon seats approximately 15,000 spectators and has hosted every Wimbledon singles final since 1922."},
+    {"text": "Arthur Ashe Stadium at the USTA Billie Jean King National Tennis Center is the largest tennis-specific stadium in the world, seating 23,771."},
+    {"text": "Court Philippe Chatrier at Roland Garros seats 15,225 spectators and received a retractable roof in 2020."},
+    {"text": "Rod Laver Arena in Melbourne seats 14,820 people and has featured a retractable roof since 1988."},
+    {"text": "Louis Armstrong Stadium at the US Open was rebuilt in 2018 with a retractable roof and seats 14,053.", "type": "did-you-know"},
+    {"text": "The O2 Arena in London hosted the ATP Finals from 2009 to 2020 before the event moved to Turin's Pala Alpitour."},
+    {"text": "The Indian Wells Tennis Garden features a 16,100-seat main stadium in the California desert."},
+    {"text": "Court Suzanne Lenglen at Roland Garros is the second-largest court and received a retractable roof in 2024."},
+    {"text": "The All England Lawn Tennis Club (AELTC) purchased the adjacent Wimbledon Park Golf Club to expand its grounds."},
+    {"text": "Margaret Court Arena in Melbourne is the third show court at the Australian Open and received a retractable roof in 2015."},
+
+    # ── Famous Matches ──
+    {"text": "The 1980 Wimbledon final between Bjorn Borg and John McEnroe featured a legendary fourth-set tiebreak that McEnroe won 18-16 before Borg took the fifth set.", "month": 7, "day": 5},
+    {"text": "The 2008 Wimbledon final between Rafael Nadal and Roger Federer lasted nearly five hours, delayed by rain, and ended in near-darkness with Nadal winning.", "month": 7, "day": 6},
+    {"text": "The 2009 Australian Open final between Rafael Nadal and Roger Federer ended with Federer in tears after losing a five-set classic.", "month": 2, "day": 1},
+    {"text": "The 2012 Australian Open final between Novak Djokovic and Rafael Nadal lasted 5 hours 53 minutes — the longest Grand Slam final in history.", "month": 1, "day": 29},
+    {"text": "The 2001 Wimbledon final saw wildcard Goran Ivanisevic defeat Pat Rafter in a dramatic five-set rain-delayed Monday final.", "month": 7, "day": 9},
+    {"text": "The Battle of the Sexes on September 20, 1973, at the Houston Astrodome drew 30,472 fans — the largest live tennis audience at the time.", "month": 9, "day": 20},
+    {"text": "The 2019 Wimbledon final between Novak Djokovic and Roger Federer was the longest Wimbledon singles final in history at 4 hours 57 minutes.", "month": 7, "day": 14},
+    {"text": "The 2005 Australian Open final between Marat Safin and Lleyton Hewitt was a five-set epic that established Safin's legacy as a big-occasion player.", "month": 1, "day": 30},
+    {"text": "The 1988 French Open semifinal between Mats Wilander and Guillermo Perez Roldan showcased grueling baseline rallies over nearly five hours."},
+    {"text": "The 2017 Australian Open final between Roger Federer and Rafael Nadal was celebrated as a fairy-tale comeback for both aging rivals.", "month": 1, "day": 29},
+    {"text": "The 2004 Wimbledon final saw 17-year-old Maria Sharapova stun defending champion Serena Williams in straight sets.", "month": 7, "day": 3},
+    {"text": "The 1984 French Open final saw Ivan Lendl overcome John McEnroe from two sets down — one of the greatest comebacks in Grand Slam history.", "month": 6, "day": 10},
+
+    # ── More Historic Moments and Date-Tagged Facts ──
+    {"text": "Novak Djokovic won his 24th Grand Slam singles title at the 2023 US Open, tying Margaret Court's all-time record.", "month": 9, "day": 10},
+    {"text": "Rafael Nadal won his first French Open on June 5, 2005, at age 19, beginning an unprecedented dynasty on clay.", "month": 6, "day": 5},
+    {"text": "Roger Federer won his first Wimbledon title on July 6, 2003, defeating Mark Philippoussis in straight sets.", "month": 7, "day": 6},
+    {"text": "Serena Williams won her first Grand Slam at the 1999 US Open at age 17.", "month": 9, "day": 11},
+    {"text": "Arthur Ashe won Wimbledon on July 5, 1975, stunning heavily favored Jimmy Connors with intelligent, tactical tennis.", "month": 7, "day": 5},
+    {"text": "Monica Seles was stabbed on court at the Hamburg Open on April 30, 1993, altering the course of women's tennis history.", "month": 4, "day": 30},
+    {"text": "Andy Murray won his first Wimbledon on July 7, 2013, ending a 77-year drought for British men in the tournament.", "month": 7, "day": 7},
+    {"text": "Carlos Alcaraz won the 2023 Wimbledon title on July 16, defeating Novak Djokovic in a five-set final.", "month": 7, "day": 16},
+    {"text": "The longest match in tennis history — Isner vs. Mahut — ended on June 24, 2010, with a final-set score of 70-68.", "month": 6, "day": 24},
+    {"text": "Steffi Graf completed the Golden Slam on October 1, 1988, by winning the Olympic gold medal in Seoul.", "month": 10, "day": 1},
+    {"text": "Tennis returned to the Olympic program at the 1988 Seoul Games after a 64-year absence.", "month": 9, "day": 17},
+    {"text": "The Open Era began on April 22, 1968, when the British Hard Court Championships became the first Open tournament.", "month": 4, "day": 22},
+    {"text": "Billie Jean King and eight other players signed one-dollar contracts on September 23, 1970, to form the original Virginia Slims tour, precursor to the WTA.", "month": 9, "day": 23},
+
+    # ── Additional Game Evolution and Rules ──
+    {"text": "The 'advantage set' format — where a two-game lead is needed — was the standard for all Grand Slam final sets until 2019."},
+    {"text": "Foot-fault calls require the server's feet to remain behind the baseline without touching or crossing it during the service motion."},
+    {"text": "The first automated line-calling system was 'Cyclops,' which detected service faults using infrared beams from the 1980s to 2007."},
+    {"text": "Medical timeouts allow players up to three minutes for on-court treatment and are limited in number per match."},
+    {"text": "Continuous play rules prohibit coaching and excessive delays between points, with time violations resulting in warnings and point penalties."},
+    {"text": "The 'Grand Slam' term was first used in tennis in 1933 by New York Times journalist John Kieran, borrowing it from bridge.", "type": "did-you-know"},
+    {"text": "Wheelchair tennis was introduced as a Paralympic sport at the 1992 Barcelona Games and uses a two-bounce rule."},
+    {"text": "The ITF (International Tennis Federation) governs the rules of tennis globally and oversees the Davis Cup and Billie Jean King Cup."},
+
+    # ── More Equipment and Technology ──
+    {"text": "The Babolat Pure Aero, used by Rafael Nadal, is designed to maximize topspin with an aerodynamic beam shape."},
+    {"text": "Wilson's Pro Staff RF97, co-designed with Roger Federer, features a 97-square-inch head and weighs 340 grams unstrung."},
+    {"text": "HEAD's Gravity racket line was developed with Alexander Zverev and features an asymmetric head shape for versatile play.", "type": "did-you-know"},
+    {"text": "String gauges range from 15 (thickest) to 19 (thinnest); thinner strings offer more spin potential but break faster."},
+    {"text": "Tennis ball manufacturers produce approximately 300 million balls annually; most are not recyclable and end up in landfills."},
+    {"text": "The International Tennis Federation specifies that balls must bounce between 53 and 58 inches when dropped from 100 inches onto concrete."},
+    {"text": "Pressureless tennis balls maintain their bounce longer than pressurized balls and are commonly used for practice."},
+    {"text": "Wearable technology like the Babolat Play racket and Zepp sensor allows players to track swing speed, spin, and impact location."},
+
+    # ── More Player Bios: All-Time ──
+    {"text": "Jan-Michael Gambill, Todd Martin, and MaliVai Washington carried American men's tennis during the late 1990s between Agassi/Sampras eras."},
+    {"text": "Yevgeny Kafelnikov won the 1996 French Open and 1999 Australian Open and was the first Russian man to hold the world number 1 ranking."},
+    {"text": "Gustavo Kuerten drew a heart on the clay at Roland Garros after winning his third French Open title in 2001.", "month": 6, "day": 10},
+    {"text": "Patrick Rafter's back-to-back US Open titles in 1997-98 were built on exceptional serve-and-volley play and athleticism."},
+    {"text": "Lleyton Hewitt's fighting spirit and athleticism made him a two-time Grand Slam champion and Davis Cup hero for Australia."},
+    {"text": "Michael Chang became the youngest male Grand Slam champion when he won the 1989 French Open at age 17.", "month": 6, "day": 11},
+    {"text": "Thomas Muster won the 1995 French Open after recovering from a serious knee injury sustained when he was hit by a car.", "type": "did-you-know"},
+    {"text": "Amelie Mauresmo won the 2006 Australian Open and Wimbledon, becoming the first openly gay Grand Slam champion."},
+    {"text": "Mary Pierce won the 2000 French Open and was known for her powerful groundstrokes and dual French-American identity."},
+    {"text": "Jana Novotna famously wept on the Duchess of Kent's shoulder after losing the 1993 Wimbledon final before winning the title in 1998."},
+    {"text": "Conchita Martinez won Wimbledon in 1994 — the only Spanish woman to win the title — and later coached Garbine Muguruza to Grand Slam titles."},
+    {"text": "Hana Mandlikova won 4 Grand Slam titles in the 1980s, holding her own against Navratilova and Evert."},
+    {"text": "Juan Martin del Potro's thunderous forehand helped him defeat Roger Federer in the 2009 US Open final.", "month": 9, "day": 14},
+    {"text": "David Ferrer reached the 2013 French Open final and was known as one of the hardest workers in tennis history."},
+    {"text": "Flavia Pennetta won the 2015 US Open and announced her retirement during the trophy ceremony.", "type": "did-you-know"},
+    {"text": "Jelena Ostapenko shocked the world by winning the 2017 French Open as an unseeded player, the first Latvian Grand Slam champion."},
+    {"text": "Bianca Andreescu won the 2019 US Open at age 19, becoming the first Canadian to win a Grand Slam singles title.", "month": 9, "day": 7},
+    {"text": "Emma Raducanu won the 2021 US Open as a qualifier without dropping a set, a feat unprecedented in the Open Era.", "month": 9, "day": 11},
+    {"text": "Andy Roddick's 155 mph serve at the 2004 Davis Cup was the fastest officially recorded serve at the time."},
+    {"text": "Robin Soderling was the first player to defeat Rafael Nadal at the French Open, accomplishing the feat in 2009."},
+
+    # ── More Current Players ──
+    {"text": "Tommy Paul has risen to become one of the top American men's players with his all-court game and improved consistency."},
+    {"text": "Alex de Minaur is the top-ranked Australian men's player and is known for his exceptional speed and defensive skills."},
+    {"text": "Lorenzo Musetti represents Italy's deep pool of talent and is known for his elegant single-handed backhand."},
+    {"text": "Karen Khachanov reached the 2023 Australian Open semifinal and won the 2018 Paris Masters."},
+    {"text": "Grigor Dimitrov has experienced a career resurgence, reaching the late rounds of Grand Slams with his versatile one-handed backhand game."},
+    {"text": "Sebastian Korda, son of 1998 Australian Open champion Petr Korda, has built a rising career on the ATP Tour."},
+    {"text": "Zheng Qinwen won the 2024 Olympic women's singles gold medal and has become China's top singles player.", "type": "did-you-know"},
+    {"text": "Jasmine Paolini reached the finals of both the French Open and Wimbledon in 2024, a breakthrough for Italian women's tennis."},
+    {"text": "Mirra Andreeva entered the top 20 as a teenager and is considered one of the brightest WTA prospects."},
+    {"text": "Donna Vekic reached the 2024 US Open semifinal and has been Croatia's most successful women's player."},
+
+    # ── More Surface and Venue Facts ──
+    {"text": "The grass at Wimbledon is a perennial ryegrass blend cut to exactly 8 millimeters during the Championships."},
+    {"text": "Clay courts require daily watering and rolling to maintain proper playing conditions."},
+    {"text": "The US Open is the only Grand Slam played under floodlights during evening sessions, a tradition since the move to Flushing Meadows in 1978."},
+    {"text": "Roland Garros introduced night sessions under floodlights for the first time at the 2021 tournament."},
+    {"text": "The surface speed index (SPI) developed by the ITF rates courts from 'slow' (clay) through 'medium' (hard) to 'fast' (grass)."},
+    {"text": "Wimbledon's No. 1 Court was rebuilt in 2019 with a retractable roof and seats 12,345 spectators."},
+    {"text": "The Madrid Open is played at altitude (650m above sea level), making the ball fly faster and affecting spin.", "type": "did-you-know"},
+
+    # ── Doubles and Mixed Doubles ──
+    {"text": "The Bryan brothers (Bob and Mike) won 16 Grand Slam men's doubles titles together, the most successful team in Open Era history."},
+    {"text": "Martina Navratilova and Pam Shriver won 109 consecutive doubles matches from 1983 to 1985, including all four Grand Slams in 1984.", "type": "did-you-know"},
+    {"text": "Mixed doubles was featured at all four Grand Slams and was an Olympic event in 2012 and 2024."},
+    {"text": "Doubles uses the wider tramlines (alleys), giving each team 36 feet of court width compared to 27 feet in singles."},
+    {"text": "The 'I-formation' in doubles positions both players near the center of the baseline and net, designed to confuse the returner."},
+
+    # ── Cultural and Off-Court Facts ──
+    {"text": "The phrase 'tennis bracelet' originated in 1987 when Chris Evert's diamond bracelet fell off during a US Open match and play was stopped to find it.", "type": "did-you-know"},
+    {"text": "Strawberries and cream have been served at Wimbledon since 1877, with approximately 28,000 kg consumed each tournament."},
+    {"text": "The queue at Wimbledon is an iconic British tradition where fans camp overnight for unreserved ground passes."},
+    {"text": "Pimm's Cup is the signature cocktail served at Wimbledon, with approximately 320,000 glasses consumed each tournament."},
+    {"text": "Rafael Nadal's superstitions include arranging water bottles in a precise pattern and always stepping over the baseline with his right foot.", "type": "did-you-know"},
+    {"text": "The Tennis Hall of Fame is located in Newport, Rhode Island, at the International Tennis Club, which hosted early US Championships."},
+    {"text": "Tennis has been depicted in films like 'Wimbledon' (2004), 'Borg vs McEnroe' (2017), and 'King Richard' (2021)."},
+    {"text": "The ATP Race to Turin determines the eight qualifiers for the year-end ATP Finals based on calendar-year results."},
+    {"text": "Prize money at the 2024 US Open reached over $65 million, the highest total purse of any Grand Slam."},
+    {"text": "The four Grand Slams collectively generate over $1 billion in annual revenue from broadcasting, sponsorship, and ticketing."},
+    {"text": "Tennis is played in over 200 countries and the ITF has 213 member nations, making it one of the most global sports."},
+
+    # ── Coaching and Strategy ──
+    {"text": "Patrick Mouratoglou, coach of Serena Williams from 2012 onward, also founded a tennis academy in France that trains elite juniors."},
+    {"text": "Toni Nadal coached his nephew Rafael from childhood to 2017, instilling the mental toughness that defined Rafa's career."},
+    {"text": "Darren Cahill, former coach of Andre Agassi and Simona Halep, is known for his analytical approach and on-court composure."},
+    {"text": "The 'first-strike tennis' philosophy emphasizes ending points early through aggressive serving and return games."},
+    {"text": "Modern analytics track metrics like forehand winners per match, unforced errors, net approaches, and second-serve win percentage."},
+
+    # ── Physical and Fitness ──
+    {"text": "Professional tennis players typically run 2 to 3 miles per match, with clay-court matches involving the most running."},
+    {"text": "Novak Djokovic credits his gluten-free diet, adopted in 2010, with transforming his stamina and on-court performance."},
+    {"text": "Heat-related illness is a concern at the Australian Open, which introduced an Extreme Heat Policy when temperatures exceed 40°C (104°F).", "type": "did-you-know"},
+    {"text": "Tennis requires explosive sprinting, lateral movement, and the ability to change direction up to 500 times per match."},
+    {"text": "Wrist injuries have become more common in the modern game due to the extreme spin generated by polyester strings."},
+
+    # ── Records and Milestones ──
+    {"text": "Novak Djokovic holds the record for the most weeks at ATP number 1, surpassing 420 weeks."},
+    {"text": "Roger Federer reached 30 consecutive Grand Slam semifinal appearances from 2004 to 2011, a record of sustained excellence."},
+    {"text": "Serena Williams won Grand Slam titles across four decades: the 1990s, 2000s, 2010s, and 2017.", "type": "did-you-know"},
+    {"text": "Margaret Court's 64 Grand Slam titles (including singles, doubles, and mixed) is the all-time record."},
+    {"text": "Rafael Nadal won 14 French Open titles between 2005 and 2022, losing only 4 matches at Roland Garros in his career."},
+    {"text": "Martina Navratilova won her last Grand Slam mixed doubles title at the 2006 US Open at age 49."},
+    {"text": "Ken Rosewall holds the record as the oldest Grand Slam singles champion in the Open Era, winning the 1972 Australian Open at age 37."},
+    {"text": "Iga Swiatek won 37 consecutive matches in 2022, the longest winning streak in women's tennis since Venus Williams in 2000."},
+    {"text": "John Isner has hit over 14,000 career aces, the most in ATP history."},
+    {"text": "Chris Evert's career winning percentage of 89.97% is the highest in WTA history."},
+
+    # ── More Did-You-Know ──
+    {"text": "Tennis was originally played with bare hands before rackets were introduced in the 16th century.", "type": "did-you-know"},
+    {"text": "The word 'tennis' likely derives from the French tenez, meaning 'take heed' or 'receive,' called out before serving.", "type": "did-you-know"},
+    {"text": "Yellow tennis balls were first used at Wimbledon in 1986 — 14 years after they were introduced in professional tennis.", "type": "did-you-know"},
+    {"text": "The 1877 Wimbledon final was watched by about 200 spectators; today Centre Court holds nearly 15,000.", "type": "did-you-know"},
+    {"text": "Suzanne Lenglen, the first female tennis celebrity, was so dominant in the 1920s she lost only one match in seven years.", "type": "did-you-know"},
+    {"text": "The Davis Cup has been contested by over 140 nations, making it the largest annual international team competition in any sport."},
+    {"text": "The fastest women's serve recorded at a Grand Slam was 131 mph by Venus Williams at the 2007 US Open."},
+    {"text": "During World War II, Wimbledon's grounds were used by military as a farmyard, fire station, and decontamination base.", "type": "did-you-know"},
+    {"text": "The ATP Tour visits over 30 countries annually, with tournaments spanning every continent except Antarctica."},
+    {"text": "Night sessions were introduced at the US Open in 1975 and have become some of the most electric atmospheres in tennis."},
+
+    # ── Additional facts to reach 400+ ──
+    {"text": "Nick Bollettieri's IMG Academy in Bradenton, Florida, trained champions including Agassi, Courier, Seles, Sharapova, and the Williams sisters."},
+    {"text": "The 'Super Saturday' at the 1984 US Open featured three classic matches including McEnroe-Connors and Lendl-Cash back to back."},
+    {"text": "Sampras–Agassi is the most-played rivalry in ATP Finals history; they met 34 times across their careers."},
+    {"text": "Novak Djokovic won the 2023 French Open to claim his 23rd Grand Slam title, matching Serena Williams' Open Era record.", "month": 6, "day": 11},
+    {"text": "Roscoe Tanner's left-handed serve was once called the fastest in the world and helped him reach the 1979 Wimbledon final."},
+    {"text": "The WTA introduced on-court coaching in 2012, allowing coaches to come to the court once per set during tour-level events."},
+    {"text": "John Newcombe won 7 Grand Slam singles titles and was one of the dominant players of the late 1960s and early 1970s."},
+    {"text": "Court Philippe Chatrier at Roland Garros is named after the former French Tennis Federation president who championed tennis' return to the Olympics.", "type": "did-you-know"},
+    {"text": "The Hopman Cup was replaced by the ATP Cup in 2020, a change that disappointed many players and fans."},
+    {"text": "Yannick Noah is the last Frenchman to win the French Open, triumphing in 1983 — over 40 years ago.", "month": 6, "day": 5},
+    {"text": "Garbine Muguruza won the 2016 French Open and 2017 Wimbledon before retiring at age 30 in 2023."},
+    {"text": "Sloane Stephens won the 2017 US Open after coming back from a foot injury that kept her out for 11 months.", "month": 9, "day": 9},
+    {"text": "The United States has won the Davis Cup a record 32 times, followed by Australia with 28 wins."},
+    {"text": "The Next Gen ATP Finals, featuring players 21 and under, use experimental rules like shorter sets and no-ad scoring.", "type": "did-you-know"},
+    {"text": "Henri Cochet, Jean Borotra, Jacques Brugnon, and René Lacoste — the 'Four Musketeers' — dominated tennis in the 1920s and 1930s.", "type": "did-you-know"},
+    {"text": "Denis Shapovalov's one-handed backhand and lefty serve have made him one of the most exciting young players in men's tennis."},
+    {"text": "Petra Kvitova won Wimbledon in 2011 and 2014 with her powerful left-handed game and later overcame a knife attack to return to the top."},
+    {"text": "The longest women's match in Grand Slam history was the 2011 Australian Open quarterfinal between Francesca Schiavone and Svetlana Kuznetsova, lasting 4 hours 44 minutes."},
+    {"text": "Anna Kournikova never won a WTA singles title but was one of the most famous tennis players in the world due to her celebrity profile.", "type": "did-you-know"},
+    {"text": "Richard Gasquet has been described as having the best one-handed backhand in modern tennis, often compared to a work of art."},
+    {"text": "The clay at Roland Garros is 2-3 millimeters thick, laid over a foundation of limestone and clinker."},
+    {"text": "Daria Kasatkina reached the French Open semifinals in 2022 and is known for her creative shot-making and drop shots."},
+    {"text": "Stan Smith, the 1972 Wimbledon champion, may be more famous today for the Adidas sneaker that bears his name.", "type": "did-you-know"},
+    {"text": "Jo-Wilfried Tsonga reached the 2008 Australian Open final and was one of the most athletic and charismatic players of his generation."},
+    {"text": "Max Purcell and Matt Ebden won the 2024 Australian Open men's doubles title, continuing Australia's rich doubles tradition."},
+    {"text": "Andre Agassi founded the Andre Agassi College Preparatory Academy in Las Vegas, providing free education to at-risk children."},
+    {"text": "The 'golden swing' refers to hitting a forehand with the non-dominant hand — an emergency shot used in desperate defensive situations."},
+    {"text": "Rafael Nadal's uncle Miguel Angel Nadal was a professional soccer player for FC Barcelona and Spain's national team.", "type": "did-you-know"},
+    {"text": "The 2023 WTA Finals were held in Cancun, Mexico, marking the first time the event took place in Latin America."},
+    {"text": "Caroline Garcia won the 2022 WTA Finals, capping off a resurgent second half of the season."},
+]
+
+added = 0
+for fact in extra:
+    if fact['text'] not in existing_texts:
+        data['facts'].append(fact)
+        existing_texts.add(fact['text'])
+        added += 1
+
+with open(path, 'w') as f:
+    json.dump(data, f, indent=2)
+
+print(f"Added {added} new facts. Total: {len(data['facts'])} facts.")

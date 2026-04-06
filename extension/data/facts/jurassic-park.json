@@ -1,0 +1,1721 @@
+{
+  "hobby": "Jurassic Park",
+  "facts": [
+    {
+      "text": "Michael Crichton's 1990 novel \"Jurassic Park\" was inspired by his long-standing interest in dinosaurs and his fascination with the emerging science of genetic engineering.",
+      "source": "https://en.wikipedia.org/wiki/Jurassic_Park"
+    },
+    {
+      "text": "Steven Spielberg acquired the film rights to Crichton's novel before it was even published, paying $1.5 million plus a percentage of the gross.",
+      "source": "https://en.wikipedia.org/wiki/Steven_Spielberg_acquired_the_film_rights_to_Crichton%27s_novel_before_it"
+    },
+    {
+      "text": "\"Life, uh, finds a way.\" — Ian Malcolm's iconic line from the first film became one of the most quoted movie phrases of all time and a widespread internet meme.",
+      "source": "https://en.wikipedia.org/wiki/Life%2C_uh%2C_finds_a_way"
+    },
+    {
+      "text": "Jurassic Park (1993) was the highest-grossing film ever made at the time of its release, earning over $914 million worldwide and surpassing Spielberg's own E.T. the Extra-Terrestrial.",
+      "source": "https://en.wikipedia.org/wiki/Jurassic_Park"
+    },
+    {
+      "text": "Stan Winston Studio built full-scale animatronic dinosaurs for the film, including a T. rex that weighed approximately 13,000 pounds and stood 20 feet tall.",
+      "source": "https://en.wikipedia.org/wiki/Stan_Winston_Studio"
+    },
+    {
+      "text": "The groundbreaking CGI dinosaurs in Jurassic Park were created by Industrial Light & Magic, and there are only about 15 minutes of actual dinosaur footage in the entire film — 6 minutes of CGI and 9 minutes of animatronics.",
+      "source": "https://en.wikipedia.org/wiki/groundbreaking_CGI_dinosaurs_in_Jurassic_Park"
+    },
+    {
+      "text": "\"Clever girl.\" — Robert Muldoon's last words before being ambushed by a Velociraptor became one of the franchise's most beloved and frequently quoted lines.",
+      "source": "https://en.wikipedia.org/wiki/Clever_girl"
+    },
+    {
+      "text": "Sam Neill was cast as Dr. Alan Grant after Harrison Ford, William Hurt, and Richard Dreyfuss were all considered for the role.",
+      "source": "https://en.wikipedia.org/wiki/Sam_Neill"
+    },
+    {
+      "text": "Jeff Goldblum's portrayal of chaos theorist Dr. Ian Malcolm was so popular that his role was significantly expanded for the sequel, The Lost World: Jurassic Park.",
+      "source": "https://en.wikipedia.org/wiki/Jeff_Goldblum%27s_portrayal_of_chaos_theorist_Dr._Ian_Malcolm"
+    },
+    {
+      "text": "Laura Dern's Dr. Ellie Sattler was one of the first major female action-science characters in a blockbuster film, breaking stereotypes at the time.",
+      "source": "https://en.wikipedia.org/wiki/Laura_Dern%27s_Dr._Ellie_Sattler"
+    },
+    {
+      "text": "The velociraptors depicted in Jurassic Park are actually much larger than real Velociraptor mongoliensis, which were roughly the size of a turkey. The film's raptors more closely resemble Deinonychus or Utahraptor.",
+      "source": "https://en.wikipedia.org/wiki/velociraptors_depicted_in_Jurassic_Park"
+    },
+    {
+      "text": "\"God creates dinosaurs. God destroys dinosaurs. God creates man. Man destroys God. Man creates dinosaurs.\" — Ian Malcolm's sardonic summary of the park's hubris captured the film's central theme perfectly.",
+      "source": "https://en.wikipedia.org/wiki/God._Man"
+    },
+    {
+      "text": "John Williams composed the iconic Jurassic Park theme, which is widely regarded as one of the greatest film scores ever written and can evoke immediate recognition with just a few notes.",
+      "source": "https://en.wikipedia.org/wiki/John_Williams_composed_the_iconic_Jurassic_Park_theme%2C_which"
+    },
+    {
+      "text": "The famous water-ripple effect in the T. rex attack scene was achieved by placing a guitar string beneath the dashboard of the Ford Explorer and plucking it to create vibrations in the water cup.",
+      "source": "https://en.wikipedia.org/wiki/famous_water-ripple_effect_in_the_T._rex_attack_scene"
+    },
+    {
+      "text": "Michael Crichton also wrote the screenplay for the film alongside David Koepp, though the movie differs significantly from the novel in several key ways.",
+      "source": "https://en.wikipedia.org/wiki/Michael_Crichton_also"
+    },
+    {
+      "text": "In Crichton's novel, John Hammond is a ruthless businessman who is killed by compys, whereas in the film, Richard Attenborough portrayed him as a kindly, grandfatherly figure who survives.",
+      "source": "https://en.wikipedia.org/wiki/In_Crichton%27s_novel%2C_John_Hammond"
+    },
+    {
+      "text": "\"Welcome to Jurassic Park.\" — John Hammond's grand introduction as the Brachiosaurus comes into view remains one of cinema's most awe-inspiring moments.",
+      "source": "https://en.wikipedia.org/wiki/Welcome_to_Jurassic_Park"
+    },
+    {
+      "text": "The roar of the T. rex was created by combining the sounds of a baby elephant, a tiger, and an alligator, layered and manipulated by sound designer Gary Rydstrom.",
+      "source": "https://en.wikipedia.org/wiki/roar_of_the_T._rex"
+    },
+    {
+      "text": "Spielberg was so confident in the film's success that he began pre-production on Schindler's List simultaneously, leaving post-production of Jurassic Park to George Lucas.",
+      "source": "https://en.wikipedia.org/wiki/Spielberg"
+    },
+    {
+      "text": "Ariana Richards, who played Lex Murphy, won the role after delivering a scream so impressive that it woke Spielberg's wife in another room during auditions.",
+      "source": "https://en.wikipedia.org/wiki/Ariana_Richards%2C_who_played_Lex_Murphy"
+    },
+    {
+      "text": "\"Hold on to your butts.\" — Samuel L. Jackson's Ray Arnold delivered this tension-cutting line just before attempting to reboot the park's systems, and it became a fan-favorite catchphrase.",
+      "source": "https://en.wikipedia.org/wiki/Hold_on_to_your_butts"
+    },
+    {
+      "text": "The Dilophosaurus in the film was given a fictional neck frill and venom-spitting ability. There is no fossil evidence that the real Dilophosaurus had either of these features.",
+      "source": "https://en.wikipedia.org/wiki/Dilophosaurus_in_the_film"
+    },
+    {
+      "text": "Joseph Mazzello, who played Tim Murphy, was originally rejected for a role in Hook by Spielberg, who told him he'd find something else for him — that something turned out to be Jurassic Park.",
+      "source": "https://en.wikipedia.org/wiki/Joseph_Mazzello%2C_who_played_Tim_Murphy"
+    },
+    {
+      "text": "The animatronic T. rex would sometimes malfunction during rainy scenes because the foam rubber skin absorbed water, causing it to shake and move unpredictably, terrifying the cast and crew.",
+      "source": "https://en.wikipedia.org/wiki/Jurassic_Park"
+    },
+    {
+      "text": "Jurassic Park won three Academy Awards: Best Sound Editing, Best Sound Mixing, and Best Visual Effects.",
+      "source": "https://en.wikipedia.org/wiki/Jurassic_Park"
+    },
+    {
+      "text": "\"Dinosaurs eat man. Woman inherits the earth.\" — Ellie Sattler's witty completion of Malcolm's chain of logic became an iconic feminist moment in 1990s cinema.",
+      "source": "https://en.wikipedia.org/wiki/Dinosaurs_eat_man._Woman_inherits_the_earth"
+    },
+    {
+      "text": "The Brachiosaurus scene where the characters first see dinosaurs was one of the first fully CGI shots audiences ever saw of a photorealistic living creature in a film, and many viewers were moved to tears.",
+      "source": "https://en.wikipedia.org/wiki/Brachiosaurus_scene_where_the_characters_first_see_dinosaurs"
+    },
+    {
+      "text": "Phil Tippett, a stop-motion animator, was originally hired to animate the dinosaurs using go-motion techniques, but the switch to CGI made his role obsolete. Spielberg famously told him he was extinct, which inspired the line in the film.",
+      "source": "https://en.wikipedia.org/wiki/Phil_Tippett%2C_a_stop-motion_animator"
+    },
+    {
+      "text": "The kitchen scene with the raptors stalking the children took 21 days to shoot and is considered one of the most suspenseful sequences in film history.",
+      "source": "https://en.wikipedia.org/wiki/kitchen_scene_with_the_raptors_stalking_the_children_took_21_days_to_shoot_and"
+    },
+    {
+      "text": "\"Spared no expense.\" — John Hammond's repeated catchphrase became ironic given all the obvious cost-cutting that led to the park's catastrophic failure.",
+      "source": "https://en.wikipedia.org/wiki/Spared_no_expense"
+    },
+    {
+      "text": "The Gallimimus stampede sequence was one of the first scenes where CGI characters interacted with live-action actors running alongside them in broad daylight.",
+      "source": "https://en.wikipedia.org/wiki/Gallimimus_stampede_sequence"
+    },
+    {
+      "text": "Filming took place primarily on the Hawaiian island of Kauai, but Hurricane Iniki struck during production in September 1992, forcing the cast and crew to shelter in a hotel ballroom.",
+      "source": "https://en.wikipedia.org/wiki/Filming"
+    },
+    {
+      "text": "The hurricane that hit during filming actually helped production — some of the storm damage footage was incorporated into the film's tropical storm sequences.",
+      "source": "https://en.wikipedia.org/wiki/hurricane_that_hit_during_filming_actually"
+    },
+    {
+      "text": "Wayne Knight's portrayal of the treacherous Dennis Nedry was based on descriptions in the novel, though his death scene was toned down significantly from Crichton's more graphic version.",
+      "source": "https://en.wikipedia.org/wiki/Wayne_Knight%27s_portrayal_of_the_treacherous_Dennis_Nedry"
+    },
+    {
+      "text": "\"Ah ah ah, you didn't say the magic word!\" — Dennis Nedry's computer security taunt became a widely referenced pop culture gag and was used to mock inadequate security systems.",
+      "source": "https://www.youtube.com/results?search_query=Jurassic%20Park%20Ah%20ah%20ah%2C%20you%20didn%27t%20say%20the%20magic%20word%21%20live%20performance"
+    },
+    {
+      "text": "The real Tyrannosaurus rex had vision based on movement detection according to the film, but paleontologists believe T. rex actually had excellent binocular vision, possibly better than modern eagles.",
+      "source": "https://en.wikipedia.org/wiki/real_Tyrannosaurus_rex"
+    },
+    {
+      "text": "Bob Peck's game warden Robert Muldoon was given significantly less screen time than in the novel, where he was one of the more prominent characters and survived.",
+      "source": "https://en.wikipedia.org/wiki/Bob_Peck%27s_game_warden_Robert_Muldoon"
+    },
+    {
+      "text": "BD Wong appeared as Dr. Henry Wu for only a brief scene in the first film but became a recurring antagonist throughout the Jurassic World trilogy.",
+      "source": "https://en.wikipedia.org/wiki/BD_Wong_appeared_as_Dr._Henry_Wu_for_only_a_brief_scene_in_the_first_film_but"
+    },
+    {
+      "text": "The amber-encased mosquito that provided dinosaur DNA in the film is scientifically implausible — DNA degrades after roughly 1.5 million years, making 65-million-year-old extraction impossible with current understanding.",
+      "source": "https://en.wikipedia.org/wiki/amber-encased_mosquito_that_provided_dinosaur_DNA_in_the_film"
+    },
+    {
+      "text": "\"Your scientists were so preoccupied with whether they could, they didn't stop to think if they should.\" — Ian Malcolm's philosophical warning became a widely applied cautionary quote about technological ethics and scientific hubris.",
+      "source": "https://en.wikipedia.org/wiki/Your_scientists"
+    },
+    {
+      "text": "The Lost World: Jurassic Park (1997) was based loosely on Crichton's sequel novel, which he wrote partly at Spielberg's request after the first film's massive success.",
+      "source": "https://en.wikipedia.org/wiki/Lost_World:_Jurassic_Park"
+    },
+    {
+      "text": "The Lost World featured a T. rex rampaging through San Diego, an extended sequence that was Spielberg's homage to classic monster movies like King Kong and Godzilla.",
+      "source": "https://en.wikipedia.org/wiki/Lost_World_featured_a_T._rex_rampaging_through_San_Diego%2C_an_extended_sequence_that"
+    },
+    {
+      "text": "Julianne Moore joined the cast of The Lost World as Dr. Sarah Harding, a behavioral paleontologist and Ian Malcolm's girlfriend.",
+      "source": "https://en.wikipedia.org/wiki/Julianne_Moore"
+    },
+    {
+      "text": "Vince Vaughn played Nick Van Owen, a video documentarian and environmental activist, in The Lost World.",
+      "source": "https://en.wikipedia.org/wiki/Vince_Vaughn"
+    },
+    {
+      "text": "Pete Postlethwaite portrayed the great white hunter Roland Tembo in The Lost World, a character widely considered one of the franchise's most compelling antagonists.",
+      "source": "https://en.wikipedia.org/wiki/Pete_Postlethwaite"
+    },
+    {
+      "text": "\"Don't go into the long grass!\" — Ajay's desperate warning in The Lost World before raptors ambushed the InGen team became a memorable and often-quoted line.",
+      "source": "https://www.youtube.com/results?search_query=Jurassic%20Park%20Don%27t%20go%20into%20the%20long%20grass%21%20live%20performance"
+    },
+    {
+      "text": "The Lost World grossed over $618 million worldwide, making it a commercial success though it received more mixed critical reception than the original.",
+      "source": "https://en.wikipedia.org/wiki/Lost_World"
+    },
+    {
+      "text": "The gymnast scene in The Lost World, where Kelly Malcolm uses uneven bar skills to kick a raptor, is frequently cited as one of the most polarizing moments in the franchise.",
+      "source": "https://en.wikipedia.org/wiki/Lost_World"
+    },
+    {
+      "text": "Spielberg intentionally made The Lost World darker in tone than the original, influenced by the more violent and cynical nature of Crichton's sequel novel.",
+      "source": "https://en.wikipedia.org/wiki/Lost_World"
+    },
+    {
+      "text": "The compound scene in The Lost World where raptors hunt the team through an abandoned village was filmed on a purpose-built set and is considered one of the franchise's best action sequences.",
+      "source": "https://en.wikipedia.org/wiki/Lost_World"
+    },
+    {
+      "text": "Jurassic Park III (2001) was the first film in the franchise not directed by Spielberg. Joe Johnston took over directorial duties, with Spielberg serving as executive producer.",
+      "source": "https://en.wikipedia.org/wiki/Jurassic_Park_III"
+    },
+    {
+      "text": "\"Alan!\" — The talking Velociraptor in Alan Grant's dream sequence on the plane in Jurassic Park III became an unexpected internet meme years after the film's release.",
+      "source": "https://en.wikipedia.org/wiki/Alan"
+    },
+    {
+      "text": "Jurassic Park III introduced the Spinosaurus as the main dinosaur antagonist, which controversially defeated a T. rex in combat early in the film, upsetting many fans.",
+      "source": "https://en.wikipedia.org/wiki/Jurassic_Park_III"
+    },
+    {
+      "text": "The Spinosaurus was chosen as the villain of Jurassic Park III because paleontological evidence suggested it was even larger than T. rex, measuring up to 50 feet in length.",
+      "source": "https://en.wikipedia.org/wiki/Spinosaurus"
+    },
+    {
+      "text": "Tea Leoni and William H. Macy played the divorced couple Paul and Amanda Kirby who trick Alan Grant into returning to a dinosaur-inhabited island.",
+      "source": "https://en.wikipedia.org/wiki/Tea_Leoni_and_William_H._Macy"
+    },
+    {
+      "text": "The Pteranodon aviary sequence in Jurassic Park III was originally planned for the first film but was cut for budget reasons and finally realized in the third installment.",
+      "source": "https://en.wikipedia.org/wiki/Pteranodon_aviary_sequence_in_Jurassic_Park_III"
+    },
+    {
+      "text": "Sam Neill returned as Alan Grant for Jurassic Park III but was reportedly unhappy with the script, which went through numerous rewrites even during filming.",
+      "source": "https://en.wikipedia.org/wiki/Sam_Neill_returned_as_Alan_Grant_for_Jurassic_Park_III_but"
+    },
+    {
+      "text": "\"That is one big pile of dinosaur.\" — Ian Malcolm staring at a Triceratops dung heap in the original film provided one of its most unexpectedly humorous moments.",
+      "source": "https://en.wikipedia.org/wiki/That_is_one_big_pile_of_dinosaur"
+    },
+    {
+      "text": "Jurassic Park III introduced the concept of raptor intelligence being even greater than previously shown, with the animals capable of setting traps and communicating with sophisticated vocalizations.",
+      "source": "https://en.wikipedia.org/wiki/Jurassic_Park_III"
+    },
+    {
+      "text": "The 3D-printed raptor resonating chamber used by Alan Grant at the end of Jurassic Park III was based on actual paleontological theories about how Parasaurolophus may have vocalized through its crest.",
+      "source": "https://en.wikipedia.org/wiki/Alan_Grant_at_the"
+    },
+    {
+      "text": "Jurassic Park III grossed approximately $368 million worldwide, making it the lowest-earning film in the original trilogy.",
+      "source": "https://en.wikipedia.org/wiki/Jurassic_Park_III"
+    },
+    {
+      "text": "Michael Crichton passed away in 2008, and subsequent films in the franchise were developed without his direct involvement, though his estate remained connected to the projects.",
+      "source": "https://en.wikipedia.org/wiki/Michael_Crichton_passed_away_in_2008%2C_and_subsequent_films_in_the_franchise"
+    },
+    {
+      "text": "Jurassic World (2015) was set 22 years after the original film and depicted the park as a fully operational luxury resort, fulfilling John Hammond's original vision.",
+      "source": "https://en.wikipedia.org/wiki/Jurassic_World"
+    },
+    {
+      "text": "Chris Pratt was cast as Owen Grady, a former Navy veteran and Velociraptor trainer, after his star-making turn in Guardians of the Galaxy.",
+      "source": "https://en.wikipedia.org/wiki/Chris_Pratt"
+    },
+    {
+      "text": "Bryce Dallas Howard played Claire Dearing, the park's operations manager, in a role that evolved from corporate executive to action heroine across the Jurassic World trilogy.",
+      "source": "https://en.wikipedia.org/wiki/Bryce_Dallas_Howard"
+    },
+    {
+      "text": "\"You just went and made a new dinosaur? Probably not a good idea.\" — Owen Grady's understated reaction to learning about the Indominus rex captured the audience's exact thoughts.",
+      "source": "https://en.wikipedia.org/wiki/You_just_went_and_made_a_new_dinosaur%3F_Probably_not_a_good_idea"
+    },
+    {
+      "text": "The Indominus rex was a hybrid dinosaur created for Jurassic World, genetically engineered from T. rex, Velociraptor, cuttlefish, and tree frog DNA, among other species.",
+      "source": "https://en.wikipedia.org/wiki/Indominus_rex"
+    },
+    {
+      "text": "Jurassic World shattered box office records upon release, earning $524 million in its opening weekend worldwide and becoming the first film to ever gross over $500 million in a single weekend.",
+      "source": "https://en.wikipedia.org/wiki/Jurassic_World"
+    },
+    {
+      "text": "Jurassic World ultimately grossed over $1.67 billion worldwide, making it the third-highest-grossing film of all time at the time of its release.",
+      "source": "https://en.wikipedia.org/wiki/Jurassic_World"
+    },
+    {
+      "text": "The Mosasaurus feeding scene in Jurassic World, where the massive marine reptile leaps from the water to eat a shark, became one of the most talked-about moments in the franchise.",
+      "source": "https://en.wikipedia.org/wiki/Mosasaurus"
+    },
+    {
+      "text": "Director Colin Trevorrow was a relatively unknown filmmaker when he was hired to direct Jurassic World, having previously directed only the indie film Safety Not Guaranteed.",
+      "source": "https://en.wikipedia.org/wiki/Director_Colin_Trevorrow"
+    },
+    {
+      "text": "Bryce Dallas Howard famously ran from dinosaurs in high heels throughout Jurassic World, which became both a meme and a point of debate about practicality versus character choice.",
+      "source": "https://en.wikipedia.org/wiki/Bryce_Dallas_Howard_famously"
+    },
+    {
+      "text": "\"The park is open.\" — The marketing tagline for Jurassic World perfectly encapsulated the film's premise of finally seeing Hammond's dream realized, only for it to go terribly wrong.",
+      "source": "https://en.wikipedia.org/wiki/park_is_open"
+    },
+    {
+      "text": "Jurassic World featured a trained pack of four velociraptors named Blue, Charlie, Delta, and Echo, with Blue becoming a breakout character who would appear in all three Jurassic World films.",
+      "source": "https://en.wikipedia.org/wiki/Jurassic_World_featured_a_trained_pack_of_four_velociraptors"
+    },
+    {
+      "text": "The climactic battle in Jurassic World between the Indominus rex, T. rex, Blue the Velociraptor, and the Mosasaurus was designed as a monster-movie throwdown that had audiences cheering in theaters.",
+      "source": "https://en.wikipedia.org/wiki/Jurassic_World"
+    },
+    {
+      "text": "Jake Johnson and Lauren Lapkus provided comic relief as control room operators Lowery and Vivian in Jurassic World, and Johnson's character wore a vintage Jurassic Park T-shirt as an Easter egg.",
+      "source": "https://en.wikipedia.org/wiki/Jake_Johnson_and_Lauren_Lapkus"
+    },
+    {
+      "text": "Irrfan Khan played Simon Masrani, the billionaire owner of Jurassic World and successor to John Hammond's vision, who perished in a helicopter crash while trying to stop the Indominus rex.",
+      "source": "https://en.wikipedia.org/wiki/Irrfan_Khan"
+    },
+    {
+      "text": "Vincent D'Onofrio played Vic Hoskins, the head of InGen's security division who wanted to weaponize raptors for military use, representing the franchise's recurring theme of corporate greed and military exploitation.",
+      "source": "https://en.wikipedia.org/wiki/Vincent_D%27Onofrio"
+    },
+    {
+      "text": "The original Jurassic Park visitor center set was recreated as an overgrown ruin in Jurassic World, and the scene where the characters discover it is filled with nostalgic callbacks to the 1993 film.",
+      "source": "https://en.wikipedia.org/wiki/original_Jurassic_Park_visitor_center_set"
+    },
+    {
+      "text": "\"Do you remember the first time you saw a dinosaur? First time you see them, it's like a miracle.\" — Claire Dearing's speech in Jurassic World deliberately echoed the wonder of the original film.",
+      "source": "https://en.wikipedia.org/wiki/Do_you_remember_the_first_time_you_saw_a_dinosaur%3F_First_time_you_see_them%2C_it%27s_like_a_miracle"
+    },
+    {
+      "text": "Jurassic World: Fallen Kingdom (2018) was directed by J.A. Bayona, the Spanish filmmaker known for The Orphanage and A Monster Calls, bringing a more gothic horror sensibility to the franchise.",
+      "source": "https://en.wikipedia.org/wiki/Jurassic_World:_Fallen_Kingdom"
+    },
+    {
+      "text": "Fallen Kingdom introduced the concept of dinosaurs being auctioned off to the highest bidder on the black market, raising themes about animal rights and genetic ethics.",
+      "source": "https://en.wikipedia.org/wiki/Fallen_Kingdom"
+    },
+    {
+      "text": "The Indoraptor in Fallen Kingdom was a smaller, more agile hybrid dinosaur designed as a weaponized predator, and its stalking scenes in the Lockwood Manor were influenced by classic horror films.",
+      "source": "https://en.wikipedia.org/wiki/Indoraptor_in_Fallen_Kingdom"
+    },
+    {
+      "text": "\"Do you remember the first time you saw a dinosaur? You don't really believe it. It's like a miracle.\" — Owen Grady echoed the franchise's core sense of wonder even amid Fallen Kingdom's darker tone.",
+      "source": "https://en.wikipedia.org/wiki/Do_you_remember_the_first_time_you_saw_a_dinosaur%3F_You_don%27t_really_believe_it._It%27s_like_a_miracle"
+    },
+    {
+      "text": "James Cromwell joined the franchise in Fallen Kingdom as Benjamin Lockwood, Hammond's former partner, adding backstory about the origins of the cloning technology.",
+      "source": "https://en.wikipedia.org/wiki/James_Cromwell"
+    },
+    {
+      "text": "Fallen Kingdom revealed that Lockwood's granddaughter Maisie was actually a human clone, created using the same technology that produced the dinosaurs, adding a new ethical dimension to the series.",
+      "source": "https://en.wikipedia.org/wiki/Fallen_Kingdom_revealed_that_Lockwood%27s_granddaughter_Maisie"
+    },
+    {
+      "text": "The opening sequence of Fallen Kingdom, set during a stormy night with a team retrieving Indominus rex DNA from the lagoon, is widely considered one of the franchise's most effective horror set pieces.",
+      "source": "https://en.wikipedia.org/wiki/opening_sequence_of_Fallen_Kingdom"
+    },
+    {
+      "text": "Fallen Kingdom's climax featured the volcanic destruction of Isla Nublar, permanently destroying the iconic island setting of the franchise in a sequence that cost over $20 million to produce.",
+      "source": "https://en.wikipedia.org/wiki/Fallen_Kingdom%27s"
+    },
+    {
+      "text": "Justice Smith and Daniella Pineda joined the cast of Fallen Kingdom as Franklin Webb, a systems analyst, and Zia Rodriguez, a paleo-veterinarian.",
+      "source": "https://en.wikipedia.org/wiki/Justice_Smith_and_Daniella_Pineda"
+    },
+    {
+      "text": "Fallen Kingdom grossed over $1.3 billion worldwide, proving the franchise's continued commercial viability despite mixed critical reception.",
+      "source": "https://en.wikipedia.org/wiki/Fallen_Kingdom"
+    },
+    {
+      "text": "\"Welcome to Jurassic World.\" — The tagline for Fallen Kingdom's second half ironically applied to the entire planet, as the film ended with dinosaurs released into the wild across the globe.",
+      "source": "https://en.wikipedia.org/wiki/Welcome_to_Jurassic_World"
+    },
+    {
+      "text": "Jurassic World Dominion (2022) brought together the original trio of Sam Neill, Laura Dern, and Jeff Goldblum alongside the Jurassic World cast for the franchise's culminating chapter.",
+      "source": "https://en.wikipedia.org/wiki/Jurassic_World_Dominion"
+    },
+    {
+      "text": "Dominion was set in a world where dinosaurs now coexisted with humans globally, exploring the ecological and societal consequences of the events of Fallen Kingdom.",
+      "source": "https://en.wikipedia.org/wiki/Dominion"
+    },
+    {
+      "text": "DeWanda Wise joined the cast of Dominion as Kayla Watts, a cargo pilot and former Air Force veteran who became one of the film's standout new characters.",
+      "source": "https://en.wikipedia.org/wiki/DeWanda_Wise"
+    },
+    {
+      "text": "The giant locust plot in Dominion, where Biosyn uses modified prehistoric locusts that threaten global food supplies, was a divisive story choice that drew mixed reactions from fans and critics.",
+      "source": "https://en.wikipedia.org/wiki/Jurassic_Park"
+    },
+    {
+      "text": "\"Jurassic World: Dominion\" featured the Giganotosaurus as its primary dinosaur antagonist, a massive theropod that paleontologists believe may have rivaled or exceeded T. rex in size.",
+      "source": "https://en.wikipedia.org/wiki/Jurassic_World:_Dominion"
+    },
+    {
+      "text": "Campbell Scott played Lewis Dodgson in Dominion, taking over the role from Cameron Thor who originated it in the first film. Dodgson is the InGen rival who hired Nedry to steal embryos.",
+      "source": "https://en.wikipedia.org/wiki/Campbell_Scott"
+    },
+    {
+      "text": "The Barbasol can containing stolen dinosaur embryos from the first film was referenced and continued as a plot thread through Dominion, finally bringing Dodgson's scheme full circle.",
+      "source": "https://en.wikipedia.org/wiki/Barbasol_can_containing_stolen_dinosaur_embryos_from_the_first_film"
+    },
+    {
+      "text": "\"Life finds a way.\" — Ian Malcolm's signature phrase was repeated and echoed throughout the franchise, evolving from a warning about chaos theory into a hopeful message about coexistence in Dominion.",
+      "source": "https://en.wikipedia.org/wiki/Life_finds_a_way"
+    },
+    {
+      "text": "Dominion featured more species of dinosaurs than any previous film in the franchise, showcasing over 27 different species throughout its runtime.",
+      "source": "https://en.wikipedia.org/wiki/Jurassic_Park"
+    },
+    {
+      "text": "The extended edition of Dominion included a five-minute prologue set 65 million years ago that depicted dinosaurs in their natural prehistoric habitat before the asteroid impact.",
+      "source": "https://en.wikipedia.org/wiki/extended_edition_of_Dominion_included_a_five-minute_prologue"
+    },
+    {
+      "text": "Dominion was partly filmed in Malta, where a black-market dinosaur exchange scene was staged through the ancient streets, giving the franchise an international espionage thriller feel.",
+      "source": "https://en.wikipedia.org/wiki/Dominion"
+    },
+    {
+      "text": "The Therizinosaurus in Dominion, a dinosaur with massive claws originally used for herbivorous feeding, was depicted as a blind but deadly predator in one of the film's most tense sequences.",
+      "source": "https://en.wikipedia.org/wiki/Therizinosaurus_in_Dominion"
+    },
+    {
+      "text": "Sam Neill was 74 years old during filming of Dominion, making him the oldest lead actor in the franchise's history.",
+      "source": "https://en.wikipedia.org/wiki/Sam_Neill"
+    },
+    {
+      "text": "Dominion grossed over $1 billion worldwide, making all three Jurassic World films billion-dollar earners and the franchise one of the most financially successful in cinema history.",
+      "source": "https://en.wikipedia.org/wiki/Jurassic_World"
+    },
+    {
+      "text": "\"Don't you see the danger, John, inherent in what you're doing here? Genetic power is the most awesome force the planet's ever seen, but you wield it like a kid that's found his dad's gun.\" — Ian Malcolm's chilling analogy in the original film remains one of cinema's great cautionary speeches.",
+      "source": "https://en.wikipedia.org/wiki/Don%27t_you_see_the_danger%2C_John%2C_inherent_in_what_you%27re_doing_here%3F_Genetic_power"
+    },
+    {
+      "text": "The entire Jurassic franchise has grossed over $6 billion worldwide across all six films, making it one of the highest-grossing film franchises in history.",
+      "source": "https://en.wikipedia.org/wiki/entire_Jurassic_franchise"
+    },
+    {
+      "text": "Stan Winston, who created the animatronic dinosaurs for the first three films, passed away in 2008. His studio, renamed Legacy Effects, continued the work on the Jurassic World trilogy.",
+      "source": "https://en.wikipedia.org/wiki/Stan_Winston%2C_who"
+    },
+    {
+      "text": "The full-size animatronic T. rex head built for the original film required hydraulic mechanisms operated by multiple puppeteers and could generate forces strong enough to injure crew members.",
+      "source": "https://en.wikipedia.org/wiki/full-size_animatronic_T._rex_head"
+    },
+    {
+      "text": "Dennis Muren, the ILM visual effects supervisor on Jurassic Park, had already won eight Academy Awards before working on the film and considered the dinosaur CGI to be one of the most challenging projects of his career.",
+      "source": "https://en.wikipedia.org/wiki/Dennis_Muren%2C_the_ILM_visual_effects_supervisor_on_Jurassic_Park"
+    },
+    {
+      "text": "\"Objects in mirror are closer than they appear\" — The side mirror shot of the T. rex chasing the Jeep is one of the most iconic images in cinema history and was created using a combination of CGI and practical effects.",
+      "source": "https://en.wikipedia.org/wiki/Objects_in_mirror_are_closer_than_they_appear"
+    },
+    {
+      "text": "Paleontologist Jack Horner served as the scientific advisor for all four of the original Jurassic Park and Jurassic World films, helping to ensure some degree of scientific accuracy in the dinosaur depictions.",
+      "source": "https://en.wikipedia.org/wiki/Paleontologist_Jack_Horner"
+    },
+    {
+      "text": "Horner's theory that T. rex was primarily a scavenger rather than an active predator was controversial among paleontologists and was never directly incorporated into the films, which depicted T. rex as a supreme hunter.",
+      "source": "https://en.wikipedia.org/wiki/Horner%27s_theory_that_T._rex"
+    },
+    {
+      "text": "The Velociraptor sound effects in the original film were created by recording the hissing of angry geese, the breathing of horses, and dolphin screams, then layering and manipulating them.",
+      "source": "https://en.wikipedia.org/wiki/Velociraptor_sound_effects_in_the_original_film"
+    },
+    {
+      "text": "The sick Triceratops scene in Jurassic Park was originally much longer and included a subplot about the dinosaurs eating poisonous West Indian Lilac berries that explained their illness.",
+      "source": "https://en.wikipedia.org/wiki/sick_Triceratops_scene_in_Jurassic_Park"
+    },
+    {
+      "text": "\"I really hate that man.\" — Ellie Sattler's quiet comment about Hammond's cavalier attitude toward safety was one of Laura Dern's improvised moments that made it into the final cut.",
+      "source": "https://en.wikipedia.org/wiki/I_really_hate_that_man"
+    },
+    {
+      "text": "The Dilophosaurus that killed Nedry was depicted as roughly half its actual size in the film. The real Dilophosaurus was about 20 feet long, making it one of the larger Early Jurassic predators.",
+      "source": "https://en.wikipedia.org/wiki/Dilophosaurus_that_killed_Nedry"
+    },
+    {
+      "text": "Richard Attenborough came out of a 15-year acting hiatus to play John Hammond, a role he took because his grandchildren were dinosaur fans and he couldn't resist the part.",
+      "source": "https://en.wikipedia.org/wiki/Richard_Attenborough_came_out_of_a_15-year_acting_hiatus_to_play_John_Hammond%2C_a_role_he"
+    },
+    {
+      "text": "The Mr. DNA animated sequence, which explained the cloning process in the film, was created by Bob Kurtz and served as a clever exposition device that Spielberg felt was more entertaining than a straight lecture.",
+      "source": "https://en.wikipedia.org/wiki/Mr._DNA_animated_sequence%2C_which_explained_the_cloning_process_in_the_film"
+    },
+    {
+      "text": "Steven Spielberg insisted on using a combination of CGI and practical effects rather than going fully digital, a decision that is widely credited with making the dinosaurs look more realistic and timeless.",
+      "source": "https://en.wikipedia.org/wiki/Steven_Spielberg"
+    },
+    {
+      "text": "\"What've they got in there, King Kong?\" — Ian Malcolm's quip upon seeing the massive electrified fences of Jurassic Park cleverly foreshadowed Universal's other major monster franchise.",
+      "source": "https://en.wikipedia.org/wiki/What%27ve_they_got_in_there%2C_King_Kong"
+    },
+    {
+      "text": "The original Jurassic Park novel is significantly darker and more violent than the film, with Ian Malcolm dying at the end — though Crichton retconned his death for the sequel novel.",
+      "source": "https://en.wikipedia.org/wiki/original_Jurassic_Park_novel"
+    },
+    {
+      "text": "In Crichton's novel, the young hacker Lex is the younger sibling and Tim is the older one who is the computer expert. Spielberg switched their ages and gave Lex the computer skills for the film.",
+      "source": "https://en.wikipedia.org/wiki/In_Crichton%27s_novel%2C_the_young_hacker_Lex"
+    },
+    {
+      "text": "The T. rex paddock attack scene took three weeks to film and frequently ran overnight because the animatronic performed better in controlled nighttime conditions.",
+      "source": "https://en.wikipedia.org/wiki/T._rex_paddock_attack_scene"
+    },
+    {
+      "text": "Dean Cundey, the cinematographer of Jurassic Park, used strategic lighting to enhance both the CGI and practical effects, creating a seamless visual experience that audiences couldn't distinguish.",
+      "source": "https://en.wikipedia.org/wiki/Dean_Cundey"
+    },
+    {
+      "text": "\"God help us, we're in the hands of engineers.\" — Ian Malcolm's sardonic observation about the park staff's overconfidence in technology was quintessential Goldblum delivery.",
+      "source": "https://en.wikipedia.org/wiki/God_help_us%2C_we%27re_in_the_hands_of_engineers"
+    },
+    {
+      "text": "The famous scene where Grant and Sattler discover the Brachiosaurus was filmed using a full-scale animatronic head and neck that extended over 16 feet, combined with CGI for the full-body shots.",
+      "source": "https://en.wikipedia.org/wiki/famous_scene_where_Grant_and_Sattler_discover_the_Brachiosaurus"
+    },
+    {
+      "text": "Jurassic Park was one of the first major films to use DTS digital surround sound in theaters, significantly enhancing the immersive audio experience for audiences.",
+      "source": "https://en.wikipedia.org/wiki/Jurassic_Park"
+    },
+    {
+      "text": "Michael Crichton drew on chaos theory and the work of mathematician Benoit Mandelbrot when creating the character of Ian Malcolm, structuring the novel's chapters as iterations in a mathematical set.",
+      "source": "https://en.wikipedia.org/wiki/Michael_Crichton"
+    },
+    {
+      "text": "The Jurassic Park novel features a section where Grant and the children navigate a river and encounter the T. rex swimming — a scene that finally appeared in a modified form in Jurassic World: Dominion.",
+      "source": "https://en.wikipedia.org/wiki/Jurassic_Park_novel"
+    },
+    {
+      "text": "\"After careful consideration, I've decided not to endorse your park.\" — Alan Grant's deadpan verdict after surviving the horrors of Jurassic Park is one of the great understatements in film history.",
+      "source": "https://en.wikipedia.org/wiki/After_careful_consideration%2C_I%27ve_decided_not_to_endorse_your_park"
+    },
+    {
+      "text": "The jeep chase scene with the T. rex was one of the first sequences completed with CGI and was so realistic that Spielberg reportedly said it convinced him the technology had arrived.",
+      "source": "https://en.wikipedia.org/wiki/jeep_chase_scene_with_the_T._rex"
+    },
+    {
+      "text": "John Hammond's cane, topped with a mosquito preserved in amber, was a custom prop that represented the foundation of the entire cloning technology that made the park possible.",
+      "source": "https://en.wikipedia.org/wiki/John_Hammond%27s_cane%2C_topped_with_a_mosquito_preserved_in_amber"
+    },
+    {
+      "text": "Universal Studios built Jurassic Park-themed rides and attractions at their theme parks, including the Jurassic World VelociCoaster at Islands of Adventure, which opened in 2021 and is consistently ranked among the world's best roller coasters.",
+      "source": "https://en.wikipedia.org/wiki/Universal_Studios"
+    },
+    {
+      "text": "The original Jurassic Park ride at Universal Studios Hollywood opened in 1996 and was eventually reimagined as Jurassic World — The Ride in 2019.",
+      "source": "https://en.wikipedia.org/wiki/original_Jurassic_Park_ride_at_Universal_Studios_Hollywood"
+    },
+    {
+      "text": "\"We're gonna make a fortune with this place.\" — John Hammond's optimistic declaration was laden with dramatic irony, as the audience already knew his dream was about to become a nightmare.",
+      "source": "https://en.wikipedia.org/wiki/We%27re_gonna_make_a_fortune_with_this_place"
+    },
+    {
+      "text": "The Compysognathus, or \"compy,\" appeared in both The Lost World and Jurassic Park III, and in the novels is the first dinosaur to injure a human, attacking a small girl on a Costa Rican beach.",
+      "source": "https://en.wikipedia.org/wiki/compy"
+    },
+    {
+      "text": "The opening scene of The Lost World novel, where a girl is attacked by compys on a beach, was actually adapted from the beginning of Crichton's first novel and was used as the opening for The Lost World film.",
+      "source": "https://en.wikipedia.org/wiki/opening_scene_of_The_Lost_World_novel%2C_where_a_girl"
+    },
+    {
+      "text": "Real Tyrannosaurus rex likely had feathers or proto-feathers, at least in juvenile form, according to discoveries made after the original film, though the franchise chose to maintain the scaly appearance for visual consistency.",
+      "source": "https://en.wikipedia.org/wiki/Real_Tyrannosaurus_rex_likely"
+    },
+    {
+      "text": "Paleontologists discovered a new dinosaur species named Dracorex hogwartsia in 2006, but the Jurassic franchise has also inspired real paleontological interest and research funding worldwide.",
+      "source": "https://en.wikipedia.org/wiki/Paleontologists"
+    },
+    {
+      "text": "\"Remind me to thank John for a lovely weekend.\" — Ian Malcolm's sarcastic quip while injured and being transported to safety perfectly captured his character's dry humor under duress.",
+      "source": "https://en.wikipedia.org/wiki/Remind_me_to_thank_John_for_a_lovely_weekend"
+    },
+    {
+      "text": "The Spinosaurus sail in Jurassic Park III was depicted as rigid and intimidating, but modern paleontological evidence suggests the real Spinosaurus may have had a more flexible, rounded sail and spent much of its time in water.",
+      "source": "https://en.wikipedia.org/wiki/Spinosaurus_sail_in_Jurassic_Park_III"
+    },
+    {
+      "text": "The mosquito preserved in amber that forms the basis of the cloning science was a real scientific concept — researchers have found insect-filled amber dating back millions of years, though extracting viable DNA has proven impossible.",
+      "source": "https://en.wikipedia.org/wiki/mosquito_preserved_in_amber_that_forms_the_basis_of_the_cloning_science"
+    },
+    {
+      "text": "Jurassic Park was released on June 11, 1993, and within its first weekend earned $47 million domestically, setting a new record for opening weekends at the time.",
+      "source": "https://en.wikipedia.org/wiki/Jurassic_Park"
+    },
+    {
+      "text": "The film's marketing campaign was revolutionary, with the Jurassic Park logo — the fossil-style T. rex skeleton in a red circle — becoming one of the most recognizable movie logos ever created.",
+      "source": "https://en.wikipedia.org/wiki/film%27s_marketing_campaign"
+    },
+    {
+      "text": "\"We clocked the T. rex at 32 miles an hour.\" — Muldoon's factual assessment in the film turned out to be fairly close to modern estimates of T. rex top speed, calculated between 12-25 mph.",
+      "source": "https://en.wikipedia.org/wiki/We_clocked_the_T._rex_at_32_miles_an_hour"
+    },
+    {
+      "text": "Chip Kidd designed the original Jurassic Park book cover featuring a minimal T. rex skeleton silhouette, which was adapted into the film's iconic logo and has remained virtually unchanged across the franchise.",
+      "source": "https://en.wikipedia.org/wiki/Chip_Kidd"
+    },
+    {
+      "text": "The amber mines shown in the film's animated sequence are loosely based on real Dominican Republic amber deposits, which have yielded millions of years-old insects preserved in fossilized tree resin.",
+      "source": "https://en.wikipedia.org/wiki/amber_mines_shown_in_the_film%27s_animated_sequence"
+    },
+    {
+      "text": "Jeff Goldblum's unbuttoned shirt scene while recovering from his injury became an unexpected sex symbol moment and was later immortalized as a massive statue on London's South Bank for the film's 25th anniversary.",
+      "source": "https://en.wikipedia.org/wiki/Jeff_Goldblum%27s_unbuttoned_shirt_scene_while_recovering_from_his_injury"
+    },
+    {
+      "text": "\"Anybody hear that? It's a, um... It's an impact tremor, that's what it is. I'm fairly alarmed here.\" — Ian Malcolm sensing the approaching T. rex showcased Goldblum's unique comedic timing amid genuine terror.",
+      "source": "https://www.youtube.com/results?search_query=Jurassic%20Park%20Anybody%20hear%20that%3F%20It%27s%20a%2C%20um...%20It%27s%20an%20impact%20tremor%2C%20that%27s%20what%20it%20is.%20I%27m%20fairly%20alarmed%20here.%20live%20performance"
+    },
+    {
+      "text": "The Tyrannosaurus rex in the franchise is often called \"Rexy\" by fans, though this name is never used in any of the films. It originated from the Jurassic Park video game and fan community.",
+      "source": "https://en.wikipedia.org/wiki/Rexy"
+    },
+    {
+      "text": "Crichton originally envisioned Jurassic Park as a screenplay, not a novel, but couldn't get the story to work in that format and decided to write it as a book first.",
+      "source": "https://en.wikipedia.org/wiki/Jurassic_Park"
+    },
+    {
+      "text": "The helicopter approach to Isla Nublar in the original film, accompanied by John Williams' soaring theme, is frequently cited as one of the greatest character-introduction sequences in cinema.",
+      "source": "https://en.wikipedia.org/wiki/Isla_Nublar_in_the"
+    },
+    {
+      "text": "Real fossil evidence suggests that some dinosaurs, including certain raptors, were covered in feathers, a fact acknowledged in Jurassic Park III where the raptors were given quill-like structures on their heads.",
+      "source": "https://en.wikipedia.org/wiki/Real_fossil_evidence_suggests_that_some_dinosaurs%2C_including_certain_raptors"
+    },
+    {
+      "text": "\"When you gotta go, you gotta go.\" — Ian Malcolm's quip about the lawyer Donald Gennaro's bathroom break during the T. rex attack added dark humor to one of cinema's most terrifying moments.",
+      "source": "https://en.wikipedia.org/wiki/When_you_gotta_go%2C_you_gotta_go"
+    },
+    {
+      "text": "Gennaro's death on the toilet in the film is very different from the novel, where the character survives the entire story. Spielberg combined Gennaro with the novel's character Ed Regis for the film.",
+      "source": "https://en.wikipedia.org/wiki/Gennaro%27s_death_on_the_toilet_in_the_film"
+    },
+    {
+      "text": "The sound of the electric fence powering up and Tim being shocked was created by combining the hum of real electrical transformers with artificially generated buzzing sounds.",
+      "source": "https://en.wikipedia.org/wiki/sound_of_the_electric_fence_powering_up_and_Tim_being_shocked"
+    },
+    {
+      "text": "Laura Dern was only 26 years old when she played Dr. Ellie Sattler, though the character was portrayed as a more established paleobotanist.",
+      "source": "https://en.wikipedia.org/wiki/Laura_Dern"
+    },
+    {
+      "text": "Sam Neill developed a genuine fear during filming because the animatronic dinosaurs were unpredictable, and his startled reactions in several scenes were reportedly real.",
+      "source": "https://en.wikipedia.org/wiki/Sam_Neill"
+    },
+    {
+      "text": "\"They should all be destroyed.\" — Ian Malcolm's grim conclusion in the original novel reflected a much darker philosophical stance than the films generally adopted.",
+      "source": "https://en.wikipedia.org/wiki/They_should_all_be_destroyed"
+    },
+    {
+      "text": "The Triceratops in Jurassic Park was a full-scale animatronic that required a team of technicians hidden inside and beneath the model to operate its breathing, blinking, and movements.",
+      "source": "https://en.wikipedia.org/wiki/Triceratops_in_Jurassic_Park"
+    },
+    {
+      "text": "Spielberg originally wanted to use stop-motion animation for the dinosaurs, similar to the techniques used in the original King Kong, before being convinced to use CGI by ILM animator Steve Williams.",
+      "source": "https://en.wikipedia.org/wiki/King_Kong"
+    },
+    {
+      "text": "The famous gate sequence where the massive wooden doors open to reveal Jurassic Park was filmed at the entrance to a real botanical garden in Hawaii.",
+      "source": "https://en.wikipedia.org/wiki/famous_gate_sequence_where_the_massive_wooden_doors_open_to_reveal_Jurassic_Park"
+    },
+    {
+      "text": "\"That's chaos theory.\" — Ian Malcolm's water drop demonstration on Ellie Sattler's hand was improvised by Goldblum and became one of the film's most subtly memorable scenes.",
+      "source": "https://www.youtube.com/results?search_query=Jurassic%20Park%20That%27s%20chaos%20theory.%20live%20performance"
+    },
+    {
+      "text": "The original script had a different ending where Grant used the park's incomplete security system to trap the raptors. The T. rex saving the heroes in the final scene was a late revision by Spielberg.",
+      "source": "https://en.wikipedia.org/wiki/original_script"
+    },
+    {
+      "text": "John Williams recorded the Jurassic Park score with the John Williams Orchestra at Sony Pictures Studios in Culver City, California, giving the film its timeless orchestral grandeur.",
+      "source": "https://en.wikipedia.org/wiki/John_Williams"
+    },
+    {
+      "text": "Isla Nublar, the fictional island where Jurassic Park is located, is placed 120 miles west of Costa Rica in the Pacific Ocean, and Isla Sorna (Site B) is nearby in the same chain.",
+      "source": "https://en.wikipedia.org/wiki/Isla_Nublar%2C_the_fictional_island_where_Jurassic_Park"
+    },
+    {
+      "text": "\"Life breaks free. Life expands to new territories. Painfully, perhaps even dangerously. But life finds a way.\" — The full version of Malcolm's famous quote in the novel is more elaborate and philosophical than the abbreviated film version.",
+      "source": "https://en.wikipedia.org/wiki/Jurassic_Park"
+    },
+    {
+      "text": "The Jurassic Park franchise was one of the first to extensively use digital intermediate (DI) processing, which allowed filmmakers to color-correct and enhance individual frames of film.",
+      "source": "https://en.wikipedia.org/wiki/Jurassic_Park_franchise"
+    },
+    {
+      "text": "The real Brachiosaurus lived during the Late Jurassic period, approximately 154 to 150 million years ago, and could reach heights of over 40 feet with its neck extended.",
+      "source": "https://en.wikipedia.org/wiki/Late_Jurassic"
+    },
+    {
+      "text": "Stan Winston personally sculpted many of the dinosaur maquettes used as reference models for both the animatronics and the CGI models, ensuring visual consistency between the two methods.",
+      "source": "https://en.wikipedia.org/wiki/Stan_Winston"
+    },
+    {
+      "text": "The baby raptor hatching scene was achieved using a combination of a Stan Winston animatronic for the close-up shots and a real emu egg that was carefully modified for the cracking effect.",
+      "source": "https://en.wikipedia.org/wiki/baby_raptor_hatching_scene"
+    },
+    {
+      "text": "\"It's a UNIX system! I know this!\" — Lex Murphy's famous line while navigating the park's computer system actually referenced a real 3D file navigation program called File System Navigator developed by Silicon Graphics.",
+      "source": "https://en.wikipedia.org/wiki/It%27s_a_UNIX_system%21_I_know_this"
+    },
+    {
+      "text": "Jim Carrey, Robin Williams, and Tim Curry were all considered for the role of Ian Malcolm before Jeff Goldblum was cast and made the character his own.",
+      "source": "https://en.wikipedia.org/wiki/Jim_Carrey%2C_Robin_Williams%2C_and_Tim_Curry"
+    },
+    {
+      "text": "The Jurassic Park novel contains far more scientific exposition than the film, with Crichton dedicating entire chapters to explaining genetic engineering, chaos theory, and complex systems.",
+      "source": "https://en.wikipedia.org/wiki/Jurassic_Park_novel"
+    },
+    {
+      "text": "The Parasaurolophus, a hadrosaur with a distinctive curved head crest, appears in multiple films in the franchise and is one of the most frequently shown herbivorous dinosaurs.",
+      "source": "https://en.wikipedia.org/wiki/Parasaurolophus"
+    },
+    {
+      "text": "\"God creates dinosaurs, God kills dinosaurs, God creates man, man kills God, man brings back dinosaurs.\" — Ian Malcolm's recitation in the novel was slightly modified for the film to create the memorable back-and-forth with Ellie Sattler.",
+      "source": "https://en.wikipedia.org/wiki/Ian_Malcolm%27s"
+    },
+    {
+      "text": "The Jurassic Park shoot on Kauai took place at several locations including the Olokele Valley, Allerton Garden, and the Na Pali Coast, which provided the lush tropical backdrop.",
+      "source": "https://en.wikipedia.org/wiki/Jurassic_Park_shoot_on_Kauai"
+    },
+    {
+      "text": "Richards and Mazzello (Lex and Tim) were both injured during the flooding car scene with the T. rex — Richards was cut by breakaway glass and Mazzello was bruised by a falling prop.",
+      "source": "https://en.wikipedia.org/wiki/Richards_and_Mazzello_(Lex_and_Tim)"
+    },
+    {
+      "text": "Spielberg operated the animatronic Raptor himself during rehearsals, personally choreographing the kitchen confrontation scene beat by beat.",
+      "source": "https://en.wikipedia.org/wiki/Jurassic_Park"
+    },
+    {
+      "text": "The Lost World: Jurassic Park was released on May 23, 1997, and broke the opening weekend record with $72.1 million, a record it held for several months.",
+      "source": "https://en.wikipedia.org/wiki/Lost_World:_Jurassic_Park"
+    },
+    {
+      "text": "\"Oooh, ahhh, that's how it always starts. Then later there's running and screaming.\" — Ian Malcolm's meta-commentary in The Lost World perfectly described the formula not just for the franchise but for monster movies in general.",
+      "source": "https://en.wikipedia.org/wiki/Oooh%2C_ahhh%2C_that%27s_how_it_always_starts._Then_later_there%27s_running_and_screaming"
+    },
+    {
+      "text": "Peter Stormare's brief role in The Lost World as Dieter Stark, who is killed by Compys, became memorable for its brutal and drawn-out death sequence.",
+      "source": "https://en.wikipedia.org/wiki/Peter_Stormare%27s_brief_role_in_The_Lost_World_as_Dieter_Stark%2C_who"
+    },
+    {
+      "text": "The trailer-over-the-cliff sequence in The Lost World, where a cracking glass pane separates Sarah Harding from a deadly fall, is one of Spielberg's most Hitchcockian suspense set pieces.",
+      "source": "https://en.wikipedia.org/wiki/Lost_World"
+    },
+    {
+      "text": "The Lost World featured a baby T. rex that was captured by the InGen team, its cries drawing the wrathful adult T. rex parents to the team's camp in a devastating attack.",
+      "source": "https://en.wikipedia.org/wiki/Lost_World_featured_a_baby_T._rex_that"
+    },
+    {
+      "text": "\"Mommy's very angry.\" — Ian Malcolm's observation as the adult T. rex demolished the trailer to rescue its baby was classic understated Goldblum comedy.",
+      "source": "https://www.youtube.com/results?search_query=Jurassic%20Park%20Mommy%27s%20very%20angry.%20live%20performance"
+    },
+    {
+      "text": "The San Diego sequence in The Lost World was partly inspired by the original novel's ending, where dinosaurs escape to the Costa Rican mainland, and paid homage to classic Japanese kaiju films.",
+      "source": "https://en.wikipedia.org/wiki/San_Diego_sequence_in_The_Lost_World"
+    },
+    {
+      "text": "A deleted scene from The Lost World showed Roland Tembo in a bar fight, establishing his tough character before his expedition to Isla Sorna, but it was cut for pacing.",
+      "source": "https://en.wikipedia.org/wiki/Lost_World"
+    },
+    {
+      "text": "The stegosaurus herd scene in The Lost World was one of the most complex visual effects sequences in the film, requiring dozens of CGI animals to interact with live-action actors.",
+      "source": "https://en.wikipedia.org/wiki/stegosaurus_herd_scene_in_The_Lost_World"
+    },
+    {
+      "text": "Michael Crichton's sequel novel, The Lost World, is the only sequel he ever wrote in his career, and he did so partly because of Spielberg's enthusiasm for continuing the story.",
+      "source": "https://en.wikipedia.org/wiki/Michael_Crichton%27s_sequel_novel%2C_The_Lost_World"
+    },
+    {
+      "text": "\"Taking dinosaurs off this island is the worst idea in the long, sad history of bad ideas. And I'm gonna be there when you learn that.\" — Ian Malcolm's warning in The Lost World proved prophetic within the film's runtime.",
+      "source": "https://en.wikipedia.org/wiki/Taking_dinosaurs_off_this_island"
+    },
+    {
+      "text": "Jurassic Park III had the shortest production schedule of the original trilogy, and the script was still being rewritten during filming, leading to a noticeably less polished narrative.",
+      "source": "https://en.wikipedia.org/wiki/Jurassic_Park_III"
+    },
+    {
+      "text": "The satellite phone ringtone inside the Spinosaurus became a running gag and source of terror in Jurassic Park III, as the dinosaur stalked the characters after eating someone who was carrying the phone.",
+      "source": "https://en.wikipedia.org/wiki/satellite_phone_ringtone_inside_the_Spinosaurus"
+    },
+    {
+      "text": "Alessandro Nivola played Billy Brennan, Alan Grant's ambitious young protégé in Jurassic Park III, whose theft of raptor eggs drives much of the film's conflict.",
+      "source": "https://en.wikipedia.org/wiki/Alessandro_Nivola"
+    },
+    {
+      "text": "Michael Jeter played Udesky, one of the mercenaries hired by the Kirbys, whose death at the hands of raptors — used as bait to lure the humans — demonstrated the raptors' tactical intelligence.",
+      "source": "https://en.wikipedia.org/wiki/Michael_Jeter"
+    },
+    {
+      "text": "\"Some of the worst things imaginable have been done with the best intentions.\" — Alan Grant's reflection in Jurassic Park III echoed Ian Malcolm's warnings from the original film about the dangers of good intentions combined with genetic power.",
+      "source": "https://en.wikipedia.org/wiki/Some_of_the_worst_things_imaginable_have_been_done_with_the_best_intentions"
+    },
+    {
+      "text": "The Pteranodon cage scene in Jurassic Park III was one of the first times the franchise explored aerial dinosaur threats, setting the stage for even more flying reptile action in the Jurassic World films.",
+      "source": "https://en.wikipedia.org/wiki/Pteranodon_cage_scene_in_Jurassic_Park_III"
+    },
+    {
+      "text": "Trevor Morgan played Erik Kirby, the stranded boy whom the rescue mission in Jurassic Park III sought to find, and his survival skills on the island were inspired by Robinson Crusoe-style adventure stories.",
+      "source": "https://en.wikipedia.org/wiki/Trevor_Morgan"
+    },
+    {
+      "text": "The ending of Jurassic Park III, where the military arrives to rescue the characters, was considered abrupt by many critics and fans, partly because the film had the shortest runtime of any entry at 92 minutes.",
+      "source": "https://en.wikipedia.org/wiki/ending_of_Jurassic_Park_III%2C_where_the_military_arrives_to_rescue_the_characters"
+    },
+    {
+      "text": "John Williams did not return to compose the score for Jurassic Park III; Don Davis took over, though Williams' original themes were incorporated into the new score.",
+      "source": "https://en.wikipedia.org/wiki/John_Williams_did_not_return_to_compose_the_score_for_Jurassic_Park_III%3B_Don_Davis"
+    },
+    {
+      "text": "Between Jurassic Park III (2001) and Jurassic World (2015), there was a 14-year gap — the longest between any two films in the franchise.",
+      "source": "https://en.wikipedia.org/wiki/Between_Jurassic_Park_III"
+    },
+    {
+      "text": "Colin Trevorrow and Derek Connolly wrote the screenplay for Jurassic World, crafting a story that served as both a sequel and a soft reboot of the franchise.",
+      "source": "https://en.wikipedia.org/wiki/Colin_Trevorrow_and_Derek_Connolly"
+    },
+    {
+      "text": "\"The key to a happy life is to accept you are never actually in control.\" — Simon Masrani's philosophy in Jurassic World reflected a more accepting version of Ian Malcolm's chaos theory warnings.",
+      "source": "https://en.wikipedia.org/wiki/key_to_a_happy_life_is_to_accept_you_are_never_actually_in_control"
+    },
+    {
+      "text": "The Mosasaurus in Jurassic World was depicted as being approximately 55-60 feet long, which is close to the upper estimates for the real animal, though some artistic liberties were taken with its size.",
+      "source": "https://en.wikipedia.org/wiki/Mosasaurus_in_Jurassic_World"
+    },
+    {
+      "text": "Jurassic World's Indominus rex could camouflage itself like a cuttlefish, regulate its body temperature to avoid thermal detection, and communicate with raptors — all abilities spliced from various donor species.",
+      "source": "https://en.wikipedia.org/wiki/Jurassic_World%27s_Indominus"
+    },
+    {
+      "text": "The old Jurassic Park visitor center rediscovery scene in Jurassic World included the night-vision goggles from the first film, the original mural, and the \"When Dinosaurs Ruled the Earth\" banner.",
+      "source": "https://www.youtube.com/results?search_query=Jurassic%20Park%20When%20Dinosaurs%20Ruled%20the%20Earth%20live%20performance"
+    },
+    {
+      "text": "Ty Simpkins and Nick Robinson played Gray and Zach Mitchell, Claire's nephews who serve as the young protagonists of Jurassic World, mirroring Tim and Lex's roles in the original film.",
+      "source": "https://en.wikipedia.org/wiki/Ty_Simpkins_and_Nick_Robinson"
+    },
+    {
+      "text": "\"Monster is a relative term. To a canary, a cat is a monster. We're just used to being the cat.\" — Dr. Henry Wu's cold rationalization in Jurassic World revealed his evolution from a minor character to a calculating villain.",
+      "source": "https://en.wikipedia.org/wiki/Monster_is_a_relative_term._To_a_canary%2C_a_cat_is_a_monster._We%27re_just_used_to_being_the_cat"
+    },
+    {
+      "text": "The gyrosphere attraction in Jurassic World was inspired by real hamster-ball-style vehicles and zorbing experiences, designed to give park visitors an up-close dinosaur encounter.",
+      "source": "https://en.wikipedia.org/wiki/gyrosphere_attraction_in_Jurassic_World"
+    },
+    {
+      "text": "Jimmy Fallon made a cameo in Jurassic World as the pre-recorded safety video host for the gyrosphere ride, adding a tongue-in-cheek modern touch to the park experience.",
+      "source": "https://en.wikipedia.org/wiki/Jimmy_Fallon"
+    },
+    {
+      "text": "The final battle sequence in Jurassic World, where the original T. rex is lured out by Claire using a flare — calling back to the first film — took months of visual effects work to complete.",
+      "source": "https://en.wikipedia.org/wiki/final_battle_sequence_in_Jurassic_World%2C_where_the_original_T._rex"
+    },
+    {
+      "text": "Omar Sy played Barry Sembène, Owen Grady's colleague and fellow raptor trainer, in Jurassic World and reprised the role in Dominion.",
+      "source": "https://en.wikipedia.org/wiki/Omar_Sy"
+    },
+    {
+      "text": "Blue the Velociraptor was named for the blue stripe running along her body and became the franchise's most popular non-T. rex dinosaur character.",
+      "source": "https://en.wikipedia.org/wiki/Blue_the_Velociraptor"
+    },
+    {
+      "text": "\"You made a genetic hybrid, raised it in captivity. She is seeing all of this for the first time. She does not even know what she is.\" — Owen Grady's empathetic understanding of the Indominus rex highlighted the film's themes about nature versus nurture.",
+      "source": "https://en.wikipedia.org/wiki/You_made_a_genetic_hybrid%2C_raised_it_in_captivity._She"
+    },
+    {
+      "text": "Jurassic World was the fourth film to earn over $1 billion worldwide in history at the time, joining Avatar, Titanic, and The Avengers.",
+      "source": "https://en.wikipedia.org/wiki/Jurassic_World"
+    },
+    {
+      "text": "The Apatosaurus death scene in Jurassic World, where Owen and Claire comfort a dying dinosaur attacked by the Indominus rex, was achieved with a full-size animatronic head and generated unexpected emotional resonance.",
+      "source": "https://en.wikipedia.org/wiki/Apatosaurus"
+    },
+    {
+      "text": "Colin Trevorrow personally lobbied to have a statue of John Hammond displayed in the Jurassic World visitor center, wanting to honor the original film's legacy within the story.",
+      "source": "https://en.wikipedia.org/wiki/Colin_Trevorrow_personally_lobbied_to"
+    },
+    {
+      "text": "The Dimorphodon attack on the park visitors in Jurassic World was one of the largest-scale action sequences in the franchise, featuring hundreds of extras and extensive CGI aerial effects.",
+      "source": "https://en.wikipedia.org/wiki/Dimorphodon_attack_on_the_park_visitors_in_Jurassic_World"
+    },
+    {
+      "text": "BD Wong's Dr. Henry Wu escaped the destruction of Jurassic World at the end of the film, taking hybrid dinosaur embryos with him, setting up his role as an antagonist in the sequels.",
+      "source": "https://en.wikipedia.org/wiki/BD_Wong%27s_Dr._Henry_Wu"
+    },
+    {
+      "text": "\"These animals are thinking: 'I gotta eat. I gotta hunt. I gotta...' You can relate to at least one of those things.\" — Owen Grady's simplification of dinosaur behavior in Jurassic World got laughs while making a point about respecting predators.",
+      "source": "https://en.wikipedia.org/wiki/These_animals"
+    },
+    {
+      "text": "J.A. Bayona's direction of Fallen Kingdom brought influences from gothic horror, including a scene where the Indoraptor's claw reaches toward a sleeping child that directly references Nosferatu.",
+      "source": "https://en.wikipedia.org/wiki/J.A._Bayona%27s"
+    },
+    {
+      "text": "The opening of Fallen Kingdom with the submarine team entering the Mosasaurus lagoon was filmed in near-total darkness to maximize the tension of the unseen predator lurking below.",
+      "source": "https://en.wikipedia.org/wiki/opening_of_Fallen_Kingdom_with_the_submarine_team_entering_the_Mosasaurus_lagoon"
+    },
+    {
+      "text": "Rafe Spall played Eli Mills, Lockwood's treacherous aide who orchestrated the dinosaur auction in Fallen Kingdom, embodying the franchise's recurring theme of human greed being more dangerous than any dinosaur.",
+      "source": "https://en.wikipedia.org/wiki/Rafe_Spall"
+    },
+    {
+      "text": "Ted Levine played Ken Wheatley, the mercenary leader in Fallen Kingdom, whose hubris in collecting teeth from live dinosaurs as trophies led to his gruesome death at the jaws of the Indoraptor.",
+      "source": "https://en.wikipedia.org/wiki/Ted_Levine"
+    },
+    {
+      "text": "\"Do you remember the first time you saw a dinosaur? First time you see them, it's like a miracle. You read about them in books, you see the bones in museums, but you don't really believe it.\" — Claire's voiceover in Fallen Kingdom served as both nostalgia and a call to action for saving the animals.",
+      "source": "https://en.wikipedia.org/wiki/Do_you_remember_the_first_time_you"
+    },
+    {
+      "text": "The Brachiosaurus left behind on the dock as the volcano erupts in Fallen Kingdom, calling out as it's consumed by the pyroclastic flow, was designed as a deliberate emotional gut-punch referencing the first dinosaur seen in the original film.",
+      "source": "https://en.wikipedia.org/wiki/Brachiosaurus"
+    },
+    {
+      "text": "Isabella Sermon debuted as Maisie Lockwood in Fallen Kingdom and became central to the Jurassic World trilogy's conclusion, with her status as a human clone raising questions about the boundaries of genetic science.",
+      "source": "https://en.wikipedia.org/wiki/Isabella_Sermon_debuted_as_Maisie_Lockwood_in_Fallen_Kingdom_and"
+    },
+    {
+      "text": "The Lockwood Manor auction sequence featured bidders purchasing dinosaurs for tens of millions of dollars, with the Indoraptor prototype being pushed as a military asset worth over $40 million.",
+      "source": "https://en.wikipedia.org/wiki/Lockwood_Manor"
+    },
+    {
+      "text": "Fallen Kingdom's Stiggy, a Stygimoloch used as a battering ram by Owen to escape his cell, became a fan-favorite dinosaur despite limited screen time, praised for providing comic relief in a dark film.",
+      "source": "https://en.wikipedia.org/wiki/Fallen_Kingdom%27s_Stiggy%2C_a_Stygimoloch_used_as_a_battering_ram_by_Owen_to_escape_his_cell"
+    },
+    {
+      "text": "\"These creatures were here before us. And if we're not careful, they're going to be here after.\" — Ian Malcolm's testimony before Congress in Fallen Kingdom framed the philosophical debate of the entire franchise.",
+      "source": "https://en.wikipedia.org/wiki/These_creatures_were_here_before_us._And_if_we%27re_not_careful%2C_they%27re_going_to_be_here_after"
+    },
+    {
+      "text": "The decision to have Maisie release the captive dinosaurs into the wild at the end of Fallen Kingdom was controversial, as it radically changed the franchise's status quo by introducing dinosaurs to the modern world permanently.",
+      "source": "https://en.wikipedia.org/wiki/decision_to"
+    },
+    {
+      "text": "Geraldine Chaplin played the Lockwood housekeeper Iris in Fallen Kingdom, and her scenes with young Maisie added emotional weight to the film's exploration of cloning and family.",
+      "source": "https://en.wikipedia.org/wiki/Geraldine_Chaplin"
+    },
+    {
+      "text": "Jurassic World Dominion was the longest film in the franchise at 146 minutes, with the extended edition running even longer at 166 minutes.",
+      "source": "https://en.wikipedia.org/wiki/Jurassic_World_Dominion"
+    },
+    {
+      "text": "Dominion was partially filmed during the COVID-19 pandemic, with Universal reportedly spending approximately $5 million on safety protocols to keep cast and crew healthy during production.",
+      "source": "https://en.wikipedia.org/wiki/Dominion"
+    },
+    {
+      "text": "Filming for Dominion took place at Pinewood Studios in England, as well as on location in Malta, British Columbia, and various other international locations.",
+      "source": "https://en.wikipedia.org/wiki/Filming_for_Dominion"
+    },
+    {
+      "text": "\"Why do we keep building these things?\" — Kayla Watts' exasperated question about engineered dinosaurs in Dominion voiced what many audience members had been thinking for six films.",
+      "source": "https://en.wikipedia.org/wiki/Why_do_we_keep_building_these_things"
+    },
+    {
+      "text": "Mamoudou Athie played Ramsay Cole, a Biosyn employee who becomes an ally to the heroes in Dominion, helping expose his company's ecological crimes.",
+      "source": "https://en.wikipedia.org/wiki/Mamoudou_Athie_played_Ramsay_Cole%2C_a_Biosyn_employee_who"
+    },
+    {
+      "text": "Scott Haze played Rainn Delacourt, one of the dinosaur black-market traders in Dominion, continuing the franchise's theme of human exploitation as the real villain.",
+      "source": "https://en.wikipedia.org/wiki/Scott_Haze"
+    },
+    {
+      "text": "The Pyroraptor chase scene on an ice-covered lake in Dominion was one of the franchise's most visually striking sequences, showcasing dinosaurs in an environment rarely associated with the creatures.",
+      "source": "https://en.wikipedia.org/wiki/Pyroraptor_chase_scene_on_an_ice-covered_lake_in_Dominion"
+    },
+    {
+      "text": "Dichen Lachman played Soyona Santos, a black-market dinosaur broker in Dominion who operated out of Malta, adding an international crime thriller element to the franchise.",
+      "source": "https://en.wikipedia.org/wiki/Dichen_Lachman"
+    },
+    {
+      "text": "\"You made a promise to a dying man. You said you'd let them live in peace.\" — Owen's reminder to Claire about their responsibility to the dinosaurs defined the moral core of the Jurassic World trilogy.",
+      "source": "https://en.wikipedia.org/wiki/You_made_a_promise_to_a_dying_man._You_said_you%27d_let_them_live_in_peace"
+    },
+    {
+      "text": "The Biosyn Valley sanctuary in Dominion was inspired by real-world wildlife preserves and Crichton's original concept of an isolated location where genetically created animals could live freely.",
+      "source": "https://en.wikipedia.org/wiki/Biosyn_Valley_sanctuary_in_Dominion"
+    },
+    {
+      "text": "Jeff Goldblum had his largest role since The Lost World in Dominion, with Ian Malcolm serving as an insider at Biosyn who helps expose their corrupt genetics program.",
+      "source": "https://en.wikipedia.org/wiki/Jeff_Goldblum"
+    },
+    {
+      "text": "The T. rex and Giganotosaurus face-off in Dominion deliberately echoed the T. rex versus Spinosaurus fight from Jurassic Park III, but this time allowed the T. rex a more satisfying outcome with help from the Therizinosaurus.",
+      "source": "https://en.wikipedia.org/wiki/T"
+    },
+    {
+      "text": "Laura Dern and Sam Neill's characters shared a romantic moment in Dominion that closed a 29-year arc left open since the original film, where their relationship was implied but never resolved.",
+      "source": "https://en.wikipedia.org/wiki/Laura_Dern_and_Sam_Neill%27s"
+    },
+    {
+      "text": "\"If there's one thing the history of evolution has taught us, it's that life will not be contained. Life breaks free, it expands to new territories and crashes through barriers.\" — Ian Malcolm's novel monologue encapsulated the franchise's entire thesis.",
+      "source": "https://en.wikipedia.org/wiki/If_there%27s_one_thing_the_history_of_evolution"
+    },
+    {
+      "text": "The Atrociraptors in Dominion were trained to attack specific targets using a laser pointer system, adding a weaponized-dinosaur element that expanded on the military themes hinted at in previous films.",
+      "source": "https://en.wikipedia.org/wiki/Atrociraptors_in_Dominion"
+    },
+    {
+      "text": "The motorcycle-and-Atrociraptor chase through Malta's streets in Dominion was one of the franchise's most elaborate action sequences, blending practical stunts with CGI dinosaurs.",
+      "source": "https://en.wikipedia.org/wiki/motorcycle-and-Atrociraptor_chase_through_Malta%27s_streets_in_Dominion"
+    },
+    {
+      "text": "Dominion's ending, with humans and dinosaurs learning to coexist, intentionally left the franchise's future open-ended while providing a thematic conclusion to Crichton's original vision.",
+      "source": "https://en.wikipedia.org/wiki/Dominion%27s_ending%2C_with_humans_and_dinosaurs_learning_to_coexist%2C_intentionally"
+    },
+    {
+      "text": "The Dreadnoughtus in Dominion was one of the largest dinosaurs ever depicted in the franchise, based on a real titanosaur whose fossils were discovered in Argentina in 2005.",
+      "source": "https://en.wikipedia.org/wiki/Dreadnoughtus_in_Dominion"
+    },
+    {
+      "text": "\"Life on Earth has existed for hundreds of millions of years, and dinosaurs were a huge part of that history. We can't pretend they never existed.\" — Alan Grant's perspective in Dominion reflected the franchise's evolved stance on coexistence.",
+      "source": "https://en.wikipedia.org/wiki/Life_on_Earth"
+    },
+    {
+      "text": "John Williams' Jurassic Park theme has been performed by orchestras worldwide and is a staple of film music concert programs, universally recognized from just its opening notes.",
+      "source": "https://en.wikipedia.org/wiki/John_Williams%27_Jurassic_Park_theme"
+    },
+    {
+      "text": "The theme park connections between the Jurassic franchise and Universal Studios are extensive, with dedicated Jurassic areas in Orlando, Hollywood, Japan, Singapore, and Beijing parks.",
+      "source": "https://en.wikipedia.org/wiki/theme_park_connections_between_the_Jurassic_franchise_and_Universal_Studios"
+    },
+    {
+      "text": "The Jurassic World VelociCoaster at Universal's Islands of Adventure reaches speeds of 70 mph and features multiple inversions, making it one of the most thrilling themed roller coasters ever built.",
+      "source": "https://en.wikipedia.org/wiki/Jurassic_World_VelociCoaster_at_Universal%27s_Islands_of"
+    },
+    {
+      "text": "Over 100 different Jurassic Park and Jurassic World video games have been produced across multiple platforms, from early Sega Genesis titles to the complex park-management simulator Jurassic World Evolution.",
+      "source": "https://en.wikipedia.org/wiki/Over_100_different_Jurassic_Park_and_Jurassic_World_video_games"
+    },
+    {
+      "text": "Jurassic World Evolution, developed by Frontier Developments, allowed players to build and manage their own Jurassic World parks and was a commercial and critical success upon its 2018 release.",
+      "source": "https://en.wikipedia.org/wiki/Jurassic_World_Evolution"
+    },
+    {
+      "text": "Jurassic World Evolution 2 expanded on the original game with new gameplay mechanics, more dinosaur species, and a campaign mode tied to the events of Fallen Kingdom and Dominion.",
+      "source": "https://en.wikipedia.org/wiki/Jurassic_World_Evolution_2"
+    },
+    {
+      "text": "The LEGO Jurassic World video game retold the stories of all four films existing at the time with characteristic LEGO humor and became one of the best-selling LEGO games.",
+      "source": "https://en.wikipedia.org/wiki/LEGO_Jurassic_World"
+    },
+    {
+      "text": "\"We have a T. rex!\" — Claire Dearing's battle cry near the climax of Jurassic World as she decided to release the original T. rex to fight the Indominus rex became an iconic rallying moment.",
+      "source": "https://en.wikipedia.org/wiki/We_have_a_T._rex"
+    },
+    {
+      "text": "Jurassic Park merchandise has generated billions of dollars in revenue, with dinosaur toys, clothing, and collectibles remaining consistently popular across multiple generations of fans.",
+      "source": "https://en.wikipedia.org/wiki/Jurassic_Park_merchandise"
+    },
+    {
+      "text": "The Kenner Jurassic Park toy line released in 1993 included action figures, dinosaurs, and vehicles, and original mint-condition figures now sell for hundreds of dollars to collectors.",
+      "source": "https://en.wikipedia.org/wiki/Kenner_Jurassic_Park_toy_line"
+    },
+    {
+      "text": "Mattel took over the Jurassic toy license for Jurassic World, producing an extensive line of figures including the popular Hammond Collection aimed at adult collectors.",
+      "source": "https://en.wikipedia.org/wiki/Mattel"
+    },
+    {
+      "text": "The Tyrannosaurus rex in the franchise is consistently depicted with pronated hands (palms facing down), which is anatomically incorrect — real theropod dinosaurs held their hands with palms facing inward, like clapping.",
+      "source": "https://en.wikipedia.org/wiki/Tyrannosaurus_rex_in_the_franchise"
+    },
+    {
+      "text": "\"Dinosaurs and man, two species separated by 65 million years of evolution, have just been suddenly thrown back into the mix together. How can we possibly have the slightest idea what to expect?\" — Alan Grant's question in the first film established the fundamental uncertainty that drives every entry.",
+      "source": "https://en.wikipedia.org/wiki/Dinosaurs_and_man%2C_two_species_separated_by_65_million_years_of_evolution"
+    },
+    {
+      "text": "The Jurassic franchise popularized the idea of feathered dinosaurs in popular culture, though ironically it was initially resistant to depicting them with feathers despite growing scientific evidence.",
+      "source": "https://en.wikipedia.org/wiki/Jurassic"
+    },
+    {
+      "text": "A real dinosaur species, Timimus hermani, was already named before the films, but Jurassic Park's popularity led to increased public interest in dinosaur naming and taxonomy.",
+      "source": "https://en.wikipedia.org/wiki/A_real_dinosaur_species%2C_Timimus_hermani"
+    },
+    {
+      "text": "The amber-topped cane carried by John Hammond in the film was auctioned off for over $100,000 at a Hollywood memorabilia sale.",
+      "source": "https://en.wikipedia.org/wiki/amber-topped_cane_carried_by_John_Hammond_in_the_film"
+    },
+    {
+      "text": "Jurassic Park inspired an entire generation of paleontologists — enrollment in paleontology programs at major universities notably increased in the years following the film's release.",
+      "source": "https://en.wikipedia.org/wiki/Jurassic_Park"
+    },
+    {
+      "text": "\"I bring scientists, you bring a rock star.\" — John Hammond's description of Ian Malcolm in the novel highlighted the tension between serious researchers and Malcolm's celebrity-intellectual persona.",
+      "source": "https://www.youtube.com/results?search_query=Jurassic%20Park%20I%20bring%20scientists%2C%20you%20bring%20a%20rock%20star.%20live%20performance"
+    },
+    {
+      "text": "The practical effects team at Stan Winston Studios worked for over a year building the animatronic dinosaurs, with the T. rex alone requiring about 3,000 pounds of clay for the initial sculpt.",
+      "source": "https://en.wikipedia.org/wiki/Stan_Winston_Studios"
+    },
+    {
+      "text": "The CGI rendered by ILM for the original Jurassic Park was done on Silicon Graphics workstations that had less computing power than a modern smartphone, making the results even more remarkable.",
+      "source": "https://en.wikipedia.org/wiki/CGI_rendered_by_ILM_for_the_original_Jurassic_Park"
+    },
+    {
+      "text": "Gary Rydstrom won two Academy Awards for Jurassic Park's sound design — one for Sound Effects Editing and one for Best Sound — and the film's audio work remains a benchmark for the industry.",
+      "source": "https://en.wikipedia.org/wiki/Gary_Rydstrom"
+    },
+    {
+      "text": "The T. rex footstep sounds in the original film were created by recording the impact of cut sequoia tree sections being dropped onto different surfaces.",
+      "source": "https://en.wikipedia.org/wiki/T._rex_footstep_sounds_in_the_original_film"
+    },
+    {
+      "text": "\"They're moving in herds. They do move in herds.\" — Alan Grant's wonder at seeing living dinosaurs for the first time is Sam Neill's favorite moment in the film, capturing the awe of discovery.",
+      "source": "https://www.youtube.com/results?search_query=Jurassic%20Park%20They%27re%20moving%20in%20herds.%20They%20do%20move%20in%20herds.%20live%20performance"
+    },
+    {
+      "text": "Jurassic Park was re-released in 3D in April 2013 for its 20th anniversary, grossing an additional $45 million domestically and proving the film's enduring appeal to new audiences.",
+      "source": "https://en.wikipedia.org/wiki/Jurassic_Park"
+    },
+    {
+      "text": "The novel Jurassic Park includes a scene where a Tyrannosaurus rex chases the characters down a river, which did not appear in the first film but elements were used in later sequels.",
+      "source": "https://en.wikipedia.org/wiki/novel_Jurassic_Park"
+    },
+    {
+      "text": "Crichton drew inspiration from real-world biotechnology companies and genetic engineering controversies of the late 1980s when developing the cautionary themes of Jurassic Park.",
+      "source": "https://en.wikipedia.org/wiki/Jurassic_Park"
+    },
+    {
+      "text": "The InGen corporation in the franchise is headquartered in Palo Alto, California, mirroring real Silicon Valley biotech companies and their often-controversial pursuit of scientific breakthroughs.",
+      "source": "https://en.wikipedia.org/wiki/InGen_corporation_in_the_franchise"
+    },
+    {
+      "text": "\"What you call discovery, I call the rape of the natural world.\" — Ian Malcolm's harsh condemnation of InGen's actions in The Lost World novel was toned down for the film but retained its philosophical impact.",
+      "source": "https://www.youtube.com/results?search_query=Jurassic%20Park%20What%20you%20call%20discovery%2C%20I%20call%20the%20rape%20of%20the%20natural%20world.%20live%20performance"
+    },
+    {
+      "text": "Jack Horner proposed the \"Chickenosaurus\" project, attempting to reverse-engineer a dinosaur from a chicken by activating dormant dinosaur genes — directly inspired by concepts in Jurassic Park.",
+      "source": "https://en.wikipedia.org/wiki/Chickenosaurus"
+    },
+    {
+      "text": "The Velociraptor intelligence tests depicted in the film, including opening doors, were based on Horner's suggestions that dromaeosaurids were among the most intelligent dinosaur families.",
+      "source": "https://en.wikipedia.org/wiki/Velociraptor_intelligence_tests_depicted_in_the_film%2C_including_opening_doors"
+    },
+    {
+      "text": "The real Velociraptor was discovered in Mongolia and was only about 6 feet long and 1.5 feet tall, covered in feathers, and roughly the size of a large turkey.",
+      "source": "https://en.wikipedia.org/wiki/real_Velociraptor"
+    },
+    {
+      "text": "Deinonychus antirrhopus, the actual dinosaur resembling the film's raptors in size, was originally classified in a broader family by paleontologist John Ostrom, whose work influenced Crichton's novel.",
+      "source": "https://en.wikipedia.org/wiki/Deinonychus_antirrhopus%2C_the_actual_dinosaur_resembling_the_film%27s_raptors_in_size"
+    },
+    {
+      "text": "\"Jurassic Park will reopen, but this time it will all be under control.\" — This sentiment echoed by various characters across the franchise is always proven wrong, reinforcing the series' core message about hubris.",
+      "source": "https://en.wikipedia.org/wiki/Jurassic_Park_will_reopen%2C_but_this_time_it_will_all_be_under_control"
+    },
+    {
+      "text": "The Carnotaurus in Fallen Kingdom and Dominion was distinguished by its small arms, bull-like horns, and surprising speed, closely matching paleontological understanding of the real animal.",
+      "source": "https://en.wikipedia.org/wiki/Carnotaurus_in_Fallen_Kingdom_and_Dominion"
+    },
+    {
+      "text": "The Ankylosaurus appeared in multiple Jurassic franchise films, its iconic club tail and armored body making it one of the most visually distinctive herbivorous dinosaurs featured.",
+      "source": "https://en.wikipedia.org/wiki/Ankylosaurus"
+    },
+    {
+      "text": "In Crichton's novel, the Procompsognathus is the species that first appears, attacking a Costa Rican infant, whereas the film opens with a worker being killed by a Velociraptor during a transfer.",
+      "source": "https://en.wikipedia.org/wiki/In_Crichton%27s_novel%2C_the_Procompsognathus"
+    },
+    {
+      "text": "\"You bred raptors?\" — Alan Grant's horrified question to John Hammond when he learns what's on the island is a masterclass in building dread through a simple line of dialogue.",
+      "source": "https://en.wikipedia.org/wiki/You_bred_raptors"
+    },
+    {
+      "text": "The Jurassic Park franchise has spawned numerous academic papers analyzing its themes of bioethics, corporate responsibility, chaos theory, and the philosophy of science.",
+      "source": "https://en.wikipedia.org/wiki/Jurassic_Park_franchise"
+    },
+    {
+      "text": "Nedry's Barbasol-can embryo smuggling device was a real practical prop that the production team designed with a custom refrigerated interior and countdown timer.",
+      "source": "https://en.wikipedia.org/wiki/Nedry%27s_Barbasol-can_embryo_smuggling_device"
+    },
+    {
+      "text": "The toxic Dilophosaurus scene with Nedry was rated by several polls as one of the most memorable death scenes in film history, combining horror, dark comedy, and poetic justice.",
+      "source": "https://en.wikipedia.org/wiki/toxic_Dilophosaurus_scene_with_Nedry"
+    },
+    {
+      "text": "\"We spared no expense\" became an ironic running joke among fans, who noted that Hammond apparently cheapened out on critical safety systems and staffing while splurging on luxury amenities.",
+      "source": "https://en.wikipedia.org/wiki/We_spared_no_expense"
+    },
+    {
+      "text": "The Gallimimus, whose name means \"chicken mimic,\" is depicted in a stampede scene that was one of the most technically challenging sequences in the original film.",
+      "source": "https://en.wikipedia.org/wiki/chicken_mimic"
+    },
+    {
+      "text": "Jurassic Park's T. rex chase scene was parodied and referenced in hundreds of films, TV shows, commercials, and internet videos in the decades following its release.",
+      "source": "https://en.wikipedia.org/wiki/Jurassic_Park%27s_T._rex_chase_scene"
+    },
+    {
+      "text": "The Baryonyx appeared in Fallen Kingdom during the bunker sequence where it stalked Owen and Claire through a darkened tunnel filled with volcanic gases, creating a horror-movie atmosphere.",
+      "source": "https://en.wikipedia.org/wiki/Baryonyx"
+    },
+    {
+      "text": "\"Must go faster, must go faster!\" — Ian Malcolm's frantic urging during the T. rex chase was partly improvised by Jeff Goldblum and was later echoed in Independence Day, another film featuring Goldblum.",
+      "source": "https://en.wikipedia.org/wiki/Must_go_faster%2C_must_go_faster"
+    },
+    {
+      "text": "Colin Trevorrow originally planned for Jurassic World to feature a fully trained dinosaur army before scaling back to the raptor-training concept, which he felt was more grounded.",
+      "source": "https://en.wikipedia.org/wiki/Colin_Trevorrow"
+    },
+    {
+      "text": "The Indominus rex was designed by ILM artists to have the massive skull of a T. rex, the long arms of a raptor, the armor-like scales of an Abelisaur, and unique camouflage abilities.",
+      "source": "https://en.wikipedia.org/wiki/Indominus_rex"
+    },
+    {
+      "text": "Bryce Dallas Howard performed many of her own stunts in the Jurassic World trilogy, including running, climbing, and several falls, while famously maintaining her character's high heels in the first film.",
+      "source": "https://en.wikipedia.org/wiki/Bryce_Dallas_Howard"
+    },
+    {
+      "text": "The Jurassic Park score by John Williams was ranked number 15 on the American Film Institute's list of the 25 Greatest American Film Scores.",
+      "source": "https://en.wikipedia.org/wiki/Jurassic_Park_score_by_John_Williams"
+    },
+    {
+      "text": "\"Genetic power is the most awesome force the planet's ever seen, but you wield it like a kid that's found his dad's gun.\" — Ian Malcolm's metaphor remains one of the most powerful cautionary statements in science fiction cinema.",
+      "source": "https://en.wikipedia.org/wiki/Genetic_power"
+    },
+    {
+      "text": "The Stegosaurus, with its distinctive back plates and spiked tail (called a thagomizer), first appeared in The Lost World and became one of the franchise's most popular herbivores.",
+      "source": "https://en.wikipedia.org/wiki/Stegosaurus"
+    },
+    {
+      "text": "The term \"thagomizer\" for the Stegosaurus' tail spikes was actually coined by cartoonist Gary Larson in The Far Side and later adopted by paleontologists as the informal scientific term.",
+      "source": "https://en.wikipedia.org/wiki/thagomizer"
+    },
+    {
+      "text": "Jurassic Park was one of the first films to be released on DVD format in 2000, and its home video releases have consistently been among the best-selling catalog titles.",
+      "source": "https://en.wikipedia.org/wiki/Jurassic_Park"
+    },
+    {
+      "text": "The franchise's filming locations in Hawaii include Kualoa Ranch on Oahu, which has become a major tourist attraction partly because of its association with Jurassic Park.",
+      "source": "https://en.wikipedia.org/wiki/franchise%27s_filming_locations_in_Hawaii_include_Kualoa_Ranch_on_Oahu%2C_which"
+    },
+    {
+      "text": "\"You never had control. That's the illusion.\" — Ellie Sattler's rebuke to Hammond in the original film struck at the heart of the franchise's themes about humans overestimating their mastery over nature.",
+      "source": "https://en.wikipedia.org/wiki/You_never_had_control._That%27s_the_illusion"
+    },
+    {
+      "text": "The Sinoceratops in Fallen Kingdom was the first Chinese dinosaur to appear in the franchise and was a nod to the growing importance of the Chinese box office to Hollywood franchises.",
+      "source": "https://en.wikipedia.org/wiki/Sinoceratops_in_Fallen_Kingdom"
+    },
+    {
+      "text": "The Jurassic franchise has consistently featured strong female characters, from Ellie Sattler's pioneering scientist to Claire Dearing's transformation into a dinosaur rights activist.",
+      "source": "https://en.wikipedia.org/wiki/Jurassic_franchise"
+    },
+    {
+      "text": "Michael Giacchino composed the score for Jurassic World, incorporating John Williams' original themes while adding new compositions that reflected the modern park setting.",
+      "source": "https://en.wikipedia.org/wiki/Michael_Giacchino"
+    },
+    {
+      "text": "The name \"Jurassic Park\" is technically misleading, as many of the featured dinosaurs, including T. rex, Triceratops, and Velociraptor, actually lived during the Cretaceous period, not the Jurassic.",
+      "source": "https://en.wikipedia.org/wiki/Jurassic_Park"
+    },
+    {
+      "text": "\"What's so great about discovery? It's a violent, penetrative act that scars what it explores.\" — Ian Malcolm's philosophical objection in the novel was more extreme than anything in the films but encapsulated Crichton's cautionary worldview.",
+      "source": "https://www.youtube.com/results?search_query=Jurassic%20Park%20What%27s%20so%20great%20about%20discovery%3F%20It%27s%20a%20violent%2C%20penetrative%20act%20that%20scars%20what%20it%20explores.%20live%20performance"
+    },
+    {
+      "text": "The Allosaurus appeared in Fallen Kingdom and Battle at Big Rock (a short film set between Fallen Kingdom and Dominion), depicted as a large, aggressive theropod with distinctive eye ridges.",
+      "source": "https://en.wikipedia.org/wiki/Allosaurus"
+    },
+    {
+      "text": "Battle at Big Rock (2019), directed by Colin Trevorrow, was an eight-minute short film that premiered on FX and YouTube, depicting a family's campsite encounter with dinosaurs in the post-Fallen Kingdom world.",
+      "source": "https://en.wikipedia.org/wiki/Big_Rock"
+    },
+    {
+      "text": "The Nasutoceratops in Battle at Big Rock was one of the more unusual ceratopsians featured in the franchise, recognizable by its large, curved horns and rounded nose.",
+      "source": "https://en.wikipedia.org/wiki/Nasutoceratops_in_Battle_at_Big_Rock"
+    },
+    {
+      "text": "Chris Pratt trained with animal behaviorists to learn realistic animal-training gestures for his portrayal of Owen Grady's interactions with the raptors in Jurassic World.",
+      "source": "https://en.wikipedia.org/wiki/Chris_Pratt"
+    },
+    {
+      "text": "\"They're lethal at eight months, and I do mean lethal. I've hunted most things that can hunt you, but the way these things move...\" — Muldoon's sobering assessment of the raptors in the first film established their terrifying reputation.",
+      "source": "https://en.wikipedia.org/wiki/Jurassic_Park"
+    },
+    {
+      "text": "The Pachycephalosaurus, known for its thick domed skull, appeared briefly in The Lost World during the InGen roundup sequence, head-butting a vehicle in a moment of surprising force.",
+      "source": "https://en.wikipedia.org/wiki/Pachycephalosaurus%2C_known_for_its_thick_domed_skull"
+    },
+    {
+      "text": "Jurassic World: Camp Cretaceous, an animated Netflix series that ran from 2020 to 2022, expanded the franchise to younger audiences with a story about teenagers trapped on Isla Nublar during the events of Jurassic World.",
+      "source": "https://en.wikipedia.org/wiki/Jurassic_World:_Camp_Cretaceous%2C_an_animated_Netflix_series_that"
+    },
+    {
+      "text": "Camp Cretaceous ran for five seasons and introduced new hybrid dinosaurs, including the Scorpios rex, while connecting its storyline to both the Jurassic World films and the wider franchise lore.",
+      "source": "https://en.wikipedia.org/wiki/Camp_Cretaceous_ran_for_five_seasons_and"
+    },
+    {
+      "text": "Jurassic World: Chaos Theory, a sequel series to Camp Cretaceous, premiered on Netflix in 2024 and followed the teenage characters into adulthood as they dealt with dinosaurs in the modern world.",
+      "source": "https://en.wikipedia.org/wiki/Jurassic_World:_Chaos_Theory"
+    },
+    {
+      "text": "\"Run!\" — Alan Grant's single-word command when the T. rex breaks free may be the most effectively deployed monosyllabic line in blockbuster cinema history.",
+      "source": "https://en.wikipedia.org/wiki/Run"
+    },
+    {
+      "text": "ILM created the first photorealistic CGI skin for the dinosaurs in Jurassic Park by studying the skin textures of elephants, rhinos, and crocodiles and digitally mapping those patterns onto 3D models.",
+      "source": "https://en.wikipedia.org/wiki/ILM"
+    },
+    {
+      "text": "The Pteranodon, a flying reptile with a wingspan of up to 23 feet, became increasingly prominent across the franchise, representing the aerial threat that dinosaurs could pose.",
+      "source": "https://en.wikipedia.org/wiki/Pteranodon%2C_a_flying_reptile_with_a_wingspan_of_up_to_23_feet"
+    },
+    {
+      "text": "Real Pteranodons were not actually dinosaurs but pterosaurs — a separate group of flying reptiles that lived alongside dinosaurs. The franchise sometimes blurs this distinction.",
+      "source": "https://en.wikipedia.org/wiki/Real_Pteranodons"
+    },
+    {
+      "text": "The Mosasaurus was also not technically a dinosaur but a marine reptile related to modern monitor lizards and snakes, though the franchise grouped it with the dinosaurs for entertainment purposes.",
+      "source": "https://en.wikipedia.org/wiki/Mosasaurus"
+    },
+    {
+      "text": "\"Ian, freeze!\" — Ellie Sattler shouting at Ian Malcolm to stay still during the T. rex encounter was one of several moments that reinforced the film's tension through simple human reactions.",
+      "source": "https://en.wikipedia.org/wiki/Ian%2C_freeze"
+    },
+    {
+      "text": "The original Jurassic Park was shot on 35mm film using Panavision cameras, while later installments transitioned to digital cinematography, reflecting the industry's broader technological evolution.",
+      "source": "https://en.wikipedia.org/wiki/original_Jurassic_Park"
+    },
+    {
+      "text": "The franchise's consistent themes about the ethics of genetic engineering have become increasingly relevant as real-world CRISPR technology and gene editing have advanced since the first film's release.",
+      "source": "https://en.wikipedia.org/wiki/franchise%27s_consistent_themes_about_the_ethics_of_genetic_engineering"
+    },
+    {
+      "text": "Steven Spielberg considered Jurassic Park to be one of his most technically challenging productions, as it required innovations that had never been attempted in filmmaking before.",
+      "source": "https://en.wikipedia.org/wiki/Steven_Spielberg"
+    },
+    {
+      "text": "The Corythosaurus, a crested hadrosaur, appeared in Jurassic Park III during the riverboat sequence and was recognizable by its distinctive rounded head crest.",
+      "source": "https://en.wikipedia.org/wiki/Corythosaurus%2C_a_crested_hadrosaur"
+    },
+    {
+      "text": "\"It could have been worse, John. A lot worse.\" — Ian Malcolm's grim assessment of the park's failure in the novel preceded his apparent death, which Crichton reversed for the sequel.",
+      "source": "https://en.wikipedia.org/wiki/It_could_have_been_worse%2C_John._A_lot_worse"
+    },
+    {
+      "text": "The Quetzalcoatlus, one of the largest known flying animals with a wingspan of up to 36 feet, appeared in Jurassic World Dominion during the aerial sequences.",
+      "source": "https://en.wikipedia.org/wiki/Quetzalcoatlus"
+    },
+    {
+      "text": "Stan Winston won four Academy Awards during his career, with his work on Jurassic Park considered among his greatest achievements alongside Aliens, Terminator 2, and Predator.",
+      "source": "https://en.wikipedia.org/wiki/Stan_Winston"
+    },
+    {
+      "text": "The raptor claw that Alan Grant uses to terrify a dismissive child at the dig site in the opening of Jurassic Park was a real fossil replica that Sam Neill kept after filming.",
+      "source": "https://en.wikipedia.org/wiki/Alan_Grant"
+    },
+    {
+      "text": "\"Try to show a little respect.\" — Alan Grant's admonishment to the rude child at the dig site set up the character's initial reluctance toward children that evolved throughout the film.",
+      "source": "https://en.wikipedia.org/wiki/Try_to_show_a_little_respect"
+    },
+    {
+      "text": "The egg-hatching laboratory scene in Jurassic Park featured Henry Wu explaining the all-female dinosaur population, foreshadowing the sex-changing amphibian DNA plot point that would prove Malcolm's chaos theory correct.",
+      "source": "https://en.wikipedia.org/wiki/Jurassic_Park"
+    },
+    {
+      "text": "The frog DNA used to fill gaps in the dinosaur genome was specifically identified as coming from West African Reed Frogs, which can spontaneously change sex in single-sex environments.",
+      "source": "https://en.wikipedia.org/wiki/frog_DNA_used_to_fill_gaps_in_the_dinosaur_genome"
+    },
+    {
+      "text": "The original ending of Crichton's novel had the Costa Rican government napalming Isla Nublar to destroy all evidence of the dinosaurs, a far more definitive conclusion than the film's ambiguous finale.",
+      "source": "https://en.wikipedia.org/wiki/original_ending_of_Crichton%27s_novel"
+    },
+    {
+      "text": "Jurassic Park was one of the first films to have an official website, launched in 1993 when the World Wide Web was still in its infancy, making it a pioneer in online film marketing.",
+      "source": "https://en.wikipedia.org/wiki/Jurassic_Park"
+    },
+    {
+      "text": "\"What do you call a blind dinosaur? Do-you-think-he-saurus.\" — Tim's terrible joke in the original film was a genuine groan-inducing pun that became beloved because of its placement during a terrifying sequence.",
+      "source": "https://en.wikipedia.org/wiki/What_do_you_call_a_blind_dinosaur%3F_Do-you-think-he-saurus"
+    },
+    {
+      "text": "The helicopter landing at the dig site in Montana, where Grant and Sattler work, was filmed at Red Rock Canyon near Los Angeles rather than an actual paleontological dig.",
+      "source": "https://en.wikipedia.org/wiki/helicopter_landing_at_the_dig_site_in_Montana%2C_where_Grant_and_Sattler_work"
+    },
+    {
+      "text": "The concept of using flea circus blood-sucker extraction to get dinosaur DNA from mosquitoes was visualized in the Mr. DNA sequence and was Crichton's clever way of making the science seem plausible.",
+      "source": "https://en.wikipedia.org/wiki/Mr._DNA"
+    },
+    {
+      "text": "The Jurassic Park franchise has been referenced in over 200 other films and TV shows, making it one of the most culturally referenced movie series in entertainment history.",
+      "source": "https://en.wikipedia.org/wiki/Jurassic_Park_franchise"
+    },
+    {
+      "text": "The Ceratosaurus appeared briefly in Jurassic Park III, encountering the characters near a river but leaving after apparently being deterred by the smell of Spinosaurus dung.",
+      "source": "https://en.wikipedia.org/wiki/Ceratosaurus"
+    },
+    {
+      "text": "\"Quiet, all of you! They're approaching the tyrannosaur paddock.\" — Muldoon's tense radio call during the initial tour helped build the excruciating suspense before the T. rex breakout.",
+      "source": "https://en.wikipedia.org/wiki/Quiet%2C_all_of_you%21_They%27re_approaching_the_tyrannosaur_paddock"
+    },
+    {
+      "text": "The Jurassic franchise established the pop culture image of the Velociraptor as a human-sized, super-intelligent pack hunter, an image that persists despite being paleontologically inaccurate.",
+      "source": "https://en.wikipedia.org/wiki/Jurassic"
+    },
+    {
+      "text": "The scene where the T. rex eats the goat during the power failure was one of the most meticulously planned sequences in the film, combining animatronic and CGI in a single continuous shot.",
+      "source": "https://en.wikipedia.org/wiki/scene_where_the_T._rex_eats_the_goat_during_the_power_failure"
+    },
+    {
+      "text": "Universal Pictures initially wanted the T. rex sequence to be set during the day, but Spielberg insisted on a nighttime setting for the rain-soaked attack, which proved far more cinematic and terrifying.",
+      "source": "https://en.wikipedia.org/wiki/Universal_Pictures_initially_wanted_the_T._rex_sequence_to_be"
+    },
+    {
+      "text": "The T. rex animatronic was nicknamed \"The Queen\" by the Stan Winston crew due to her massive size and the reverence with which they treated the complex mechanical creation.",
+      "source": "https://en.wikipedia.org/wiki/Queen"
+    },
+    {
+      "text": "\"It's chopstick time!\" was a phrase Wayne Knight would say to lighten the mood on set, though none of his comedic improvisations as Nedry made it into the final cut.",
+      "source": "https://en.wikipedia.org/wiki/It%27s_chopstick_time"
+    },
+    {
+      "text": "The Edmontosaurus, a large hadrosaur, appeared in the background of several franchise films as part of herbivorous dinosaur herds, though it never received a featured role.",
+      "source": "https://en.wikipedia.org/wiki/Edmontosaurus%2C_a_large_hadrosaur"
+    },
+    {
+      "text": "The Jurassic franchise has inspired multiple museum exhibitions worldwide, including traveling shows featuring full-scale animatronic dinosaurs modeled after those in the films.",
+      "source": "https://en.wikipedia.org/wiki/Jurassic_franchise"
+    },
+    {
+      "text": "Steven Spielberg reportedly earned over $250 million in personal profits from the original Jurassic Park, making it one of the most lucrative directorial projects in cinema history.",
+      "source": "https://en.wikipedia.org/wiki/Steven_Spielberg_reportedly"
+    },
+    {
+      "text": "\"I'm always on the lookout for a future ex-Mrs. Malcolm.\" — Ian Malcolm's flirtatious quip to Ellie Sattler in the original film was classic Goldblum charm and hinted at the character's complicated love life.",
+      "source": "https://en.wikipedia.org/wiki/I%27m_always_on_the_lookout_for_a_future_ex-Mrs._Malcolm"
+    },
+    {
+      "text": "The Pachyrhinosaurus appeared in the Jurassic World franchise as part of the expanded roster of dinosaur species, recognizable by its large nasal boss rather than a typical horn.",
+      "source": "https://en.wikipedia.org/wiki/Pachyrhinosaurus"
+    },
+    {
+      "text": "The Dilophosaurus was significantly downsized in the film compared to the real animal — the actual Dilophosaurus was about 20 feet long and was one of the largest predators of the Early Jurassic.",
+      "source": "https://en.wikipedia.org/wiki/Dilophosaurus"
+    },
+    {
+      "text": "Crichton's original novel sold over 20 million copies worldwide and was translated into more than 30 languages, becoming one of the best-selling science fiction novels of all time.",
+      "source": "https://en.wikipedia.org/wiki/Crichton%27s_original_novel_sold_over_20_million_copies_worldwide_and"
+    },
+    {
+      "text": "\"Hammond, after some consideration, I've decided not to endorse your park.\" — Alan Grant's formal rejection was the epitome of British-tinged understatement delivered by a New Zealander.",
+      "source": "https://en.wikipedia.org/wiki/Hammond%2C_after_some_consideration%2C_I%27ve_decided_not_to_endorse_your_park"
+    },
+    {
+      "text": "The franchise's depiction of dinosaur intelligence, particularly raptors opening doors and setting traps, helped shift public perception of dinosaurs from slow, dim-witted reptiles to agile, clever animals.",
+      "source": "https://en.wikipedia.org/wiki/Jurassic_Park"
+    },
+    {
+      "text": "The Giganotosaurus in Dominion was based on fossils found in Argentina in 1993 — the same year the original Jurassic Park was released — making it a fitting addition to the franchise's finale.",
+      "source": "https://en.wikipedia.org/wiki/Giganotosaurus_in_Dominion"
+    },
+    {
+      "text": "The real Giganotosaurus carolinii may have been slightly larger than T. rex in body length but had a smaller brain and less powerful bite force, facts the film did not fully explore.",
+      "source": "https://en.wikipedia.org/wiki/real_Giganotosaurus_carolinii_may"
+    },
+    {
+      "text": "\"We have learned more in the past year from genetics than in a hundred years of digging up bones.\" — Dr. Wu's confident assertion in the first film underscored the tension between traditional paleontology and genetic engineering.",
+      "source": "https://en.wikipedia.org/wiki/We_have_learned_more_in_the_past_year_from_genetics_than_in_a_hundred_years_of_digging_up_bones"
+    },
+    {
+      "text": "The Moros intrepidus, one of the smallest tyrannosaurs, appeared briefly in Dominion, showcasing the franchise's interest in depicting a wider range of dinosaur diversity.",
+      "source": "https://en.wikipedia.org/wiki/Moros_intrepidus%2C_one_of_the_smallest_tyrannosaurs"
+    },
+    {
+      "text": "Jurassic Park's depiction of DNA extraction from amber-preserved mosquitoes was actually explored by real scientists, who attempted but failed to recover any usable DNA from ancient amber specimens.",
+      "source": "https://en.wikipedia.org/wiki/Jurassic_Park%27s_depiction_of_DNA_extraction_from_amber-preserved_mosquitoes"
+    },
+    {
+      "text": "The franchise made the Velociraptor one of the most recognizable dinosaurs in the world, despite the fact that it was relatively obscure before the novel and film brought it to public attention.",
+      "source": "https://en.wikipedia.org/wiki/Jurassic_Park"
+    },
+    {
+      "text": "\"Don't worry, I'm not going to make the same mistakes again.\" — This refrain, repeated by various characters across the franchise, has been consistently proven wrong, serving as the series' dark running joke.",
+      "source": "https://en.wikipedia.org/wiki/Don%27t_worry%2C_I%27m_not_going_to_make_the_same_mistakes_again"
+    },
+    {
+      "text": "The Jurassic World trilogy grossed a combined total of nearly $4 billion worldwide, making it one of the most commercially successful film trilogies in cinema history.",
+      "source": "https://en.wikipedia.org/wiki/Jurassic_World"
+    },
+    {
+      "text": "Mark Hamill voiced Solomon in the animated series Jurassic World: Camp Cretaceous, bringing Star Wars pedigree to the Jurassic franchise.",
+      "source": "https://en.wikipedia.org/wiki/Mark_Hamill"
+    },
+    {
+      "text": "The Nothosaurus, a marine reptile that was neither a true dinosaur nor closely related to them, appeared in Dominion's underground water cave sequence as a new aquatic threat.",
+      "source": "https://en.wikipedia.org/wiki/Nothosaurus%2C_a_marine_reptile_that"
+    },
+    {
+      "text": "Filming at Kualoa Ranch in Hawaii has become so associated with Jurassic Park that the ranch offers dedicated \"Jurassic Adventure Tours\" as one of its most popular attractions.",
+      "source": "https://www.youtube.com/results?search_query=Jurassic%20Park%20Jurassic%20Adventure%20Tours%20live%20performance"
+    },
+    {
+      "text": "The original Jurassic Park novel features a more extensive exploration of chaos theory, with Ian Malcolm delivering lengthy monologues about complex systems, attractors, and the inevitability of catastrophic failure.",
+      "source": "https://en.wikipedia.org/wiki/original_Jurassic_Park_novel"
+    },
+    {
+      "text": "\"Creation is an act of sheer will. Next time it'll be flawless.\" — John Hammond's stubborn optimism in the face of catastrophic failure revealed his deeply flawed but sympathetic character.",
+      "source": "https://en.wikipedia.org/wiki/Creation_is_an_act_of_sheer_will._Next_time_it%27ll_be_flawless"
+    },
+    {
+      "text": "The Iguanodon, one of the first dinosaurs ever discovered and named, appeared in the background of Jurassic World Dominion as part of the expanded dinosaur roster.",
+      "source": "https://en.wikipedia.org/wiki/Iguanodon%2C_one_of_the_first_dinosaurs_ever"
+    },
+    {
+      "text": "The Dimetrodon, often mistakenly called a dinosaur, is actually a synapsid more closely related to mammals. It has not appeared in the Jurassic franchise, which has largely stuck to actual dinosaurs and pterosaurs.",
+      "source": "https://en.wikipedia.org/wiki/Dimetrodon%2C_often_mistakenly_called_a_dinosaur"
+    },
+    {
+      "text": "Colin Trevorrow described the overarching theme of the Jurassic World trilogy as being about the \"de-extinction\" movement and the real-world ethical debates surrounding bringing back extinct species.",
+      "source": "https://en.wikipedia.org/wiki/de-extinction"
+    },
+    {
+      "text": "The scene in Jurassic World where Claire walks past a holographic display of a dilophosaurus was a subtle callback to the first film and demonstrated how the park had commercialized even its most dangerous animals.",
+      "source": "https://en.wikipedia.org/wiki/Jurassic_World"
+    },
+    {
+      "text": "\"Jurassic Park\" was released in the same year as \"Schindler's List,\" making 1993 one of the most remarkable years in Spielberg's career, with his two biggest films representing opposite ends of the entertainment spectrum.",
+      "source": "https://en.wikipedia.org/wiki/Jurassic_Park"
+    },
+    {
+      "text": "The Jurassic Park franchise helped establish the modern summer blockbuster formula of combining state-of-the-art visual effects with a compelling adventure narrative accessible to all ages.",
+      "source": "https://en.wikipedia.org/wiki/Jurassic_Park_franchise"
+    },
+    {
+      "text": "Dean Cundey's cinematography in the original Jurassic Park used careful lighting to blend practical and digital effects so seamlessly that many shots remain impossible to distinguish three decades later.",
+      "source": "https://en.wikipedia.org/wiki/Dean_Cundey%27s"
+    },
+    {
+      "text": "\"Where does he think he's going?\" — Ellie Sattler's disbelief when the lawyer Gennaro abandoned the children to hide in the restroom was both comedic and pointed social commentary.",
+      "source": "https://www.youtube.com/results?search_query=Jurassic%20Park%20Where%20does%20he%20think%20he%27s%20going%3F%20live%20performance"
+    },
+    {
+      "text": "The franchise has maintained a PG-13 rating across all six films, carefully balancing dinosaur-attack intensity with family-friendly entertainment.",
+      "source": "https://en.wikipedia.org/wiki/franchise"
+    },
+    {
+      "text": "In total, the Jurassic franchise has won three Academy Awards (all for the original film) and has been nominated for several additional technical awards across the series.",
+      "source": "https://en.wikipedia.org/wiki/In_total%2C_the_Jurassic_franchise"
+    },
+    {
+      "text": "The Lystrosaurus, a synapsid from the Permian-Triassic period, appeared briefly in Dominion's prologue sequence, representing a pre-dinosaur era animal.",
+      "source": "https://en.wikipedia.org/wiki/Lystrosaurus%2C_a_synapsid_from_the_Permian-Triassic_period"
+    },
+    {
+      "text": "\"We can discuss sexism in survival situations when I get back.\" — Ellie Sattler's determination to restart the power systems herself rather than let a man do it was a defining character moment.",
+      "source": "https://en.wikipedia.org/wiki/We_can_discuss_sexism_in_survival_situations_when_I_get_back"
+    },
+    {
+      "text": "The franchise has expanded into virtual reality experiences, with \"Jurassic World VR Expedition\" allowing participants to ride alongside dinosaurs in an immersive technological experience.",
+      "source": "https://en.wikipedia.org/wiki/Jurassic_World_VR_Expedition"
+    },
+    {
+      "text": "Stan Winston's team built a full animatronic Stegosaurus for The Lost World that could move its tail, blink, and breathe, weighing several hundred pounds and requiring multiple operators.",
+      "source": "https://en.wikipedia.org/wiki/Stan_Winston%27s_team"
+    },
+    {
+      "text": "Richard Attenborough won the Academy Award for Best Director for Gandhi in 1983 and brought that gravitas to his portrayal of John Hammond, elevating what could have been a simple villain or fool into a complex, sympathetic character.",
+      "source": "https://en.wikipedia.org/wiki/Richard_Attenborough"
+    },
+    {
+      "text": "\"You're implying that a group composed entirely of female animals will... breed?\" — Alan Grant's incredulity at Ian Malcolm's prediction in the first film set up one of the franchise's most important plot revelations.",
+      "source": "https://en.wikipedia.org/wiki/You%27re_implying_that_a_group_composed_entirely_of_female_animals_will..._breed"
+    },
+    {
+      "text": "The wild dinosaur eggs found by Grant and the children confirmed Malcolm's chaos theory prediction that the dinosaurs were breeding despite the lysine contingency and all-female population controls.",
+      "source": "https://en.wikipedia.org/wiki/Grant_and_the"
+    },
+    {
+      "text": "The lysine contingency — engineering the dinosaurs to be unable to produce the amino acid lysine — was a safety measure that proved ineffective, as the dinosaurs compensated by consuming lysine-rich foods.",
+      "source": "https://en.wikipedia.org/wiki/Jurassic_Park"
+    },
+    {
+      "text": "Crichton's background in medicine (he attended Harvard Medical School and was a postdoctoral fellow at the Salk Institute) gave his technical writing in both Jurassic Park novels an unusual degree of biochemical detail.",
+      "source": "https://en.wikipedia.org/wiki/Crichton%27s_background_in_medicine_(he_attended_Harvard_Medical_School_and"
+    },
+    {
+      "text": "\"What'd I touch?\" — Tim accidentally shocking himself on the electric fence as it rebooted was one of the film's genuine scare-comedy moments.",
+      "source": "https://en.wikipedia.org/wiki/What%27d_I_touch"
+    },
+    {
+      "text": "The reboot of the park's security systems sequence, where Ellie Sattler must navigate the maintenance tunnels with raptors stalking nearby, is one of the franchise's best examples of parallel-action suspense editing.",
+      "source": "https://en.wikipedia.org/wiki/Ellie_Sattler"
+    },
+    {
+      "text": "Samuel L. Jackson's role as Ray Arnold was his first in a Spielberg film, and his chain-smoking, world-weary engineer became a fan favorite despite limited screen time.",
+      "source": "https://en.wikipedia.org/wiki/Samuel_L._Jackson%27s_role_as_Ray_Arnold"
+    },
+    {
+      "text": "Ray Arnold's arm, found by Ellie in the maintenance shed, was the only indication of his death on-screen, and Stan Winston's team created a realistic prosthetic arm prop for the startling moment.",
+      "source": "https://en.wikipedia.org/wiki/Ray_Arnold%27s_arm%2C_found_by_Ellie_in_the_maintenance_shed"
+    },
+    {
+      "text": "The franchise has inspired real-world scientific projects, including de-extinction efforts focused on species like the woolly mammoth, which directly echo the themes Crichton explored.",
+      "source": "https://en.wikipedia.org/wiki/franchise"
+    },
+    {
+      "text": "\"What do they got in there, King Kong?\" — Ian Malcolm's joke was an intentional wink from Universal Pictures, which also owns the King Kong franchise.",
+      "source": "https://en.wikipedia.org/wiki/What_do_they_got_in_there%2C_King_Kong"
+    },
+    {
+      "text": "The Allosaurus in Battle at Big Rock was identified by its three-fingered hands and distinctive brow horns, distinguishing it from the similarly sized but anatomically different Carnotaurus.",
+      "source": "https://en.wikipedia.org/wiki/Allosaurus_in_Battle_at_Big_Rock"
+    },
+    {
+      "text": "The name \"Indominus rex\" translates roughly to \"fierce or untamable king,\" reflecting the hybrid dinosaur's engineered aggression and uncontrollable nature.",
+      "source": "https://en.wikipedia.org/wiki/Indominus_rex"
+    },
+    {
+      "text": "\"That doesn't look very scary. More like a six-foot turkey.\" — The dismissive boy at the dig site in the original film unknowingly described what real Velociraptors actually looked like more accurately than the film depicted them.",
+      "source": "https://en.wikipedia.org/wiki/That_doesn%27t_look_very_scary._More_like_a_six-foot_turkey"
+    },
+    {
+      "text": "The franchise's JP motorpool included iconic vehicles: the original electric Ford Explorers, the Jeep Wranglers with the red and yellow livery, and the Mercedes-Benz fleet of Jurassic World.",
+      "source": "https://en.wikipedia.org/wiki/Ford_Explorers"
+    },
+    {
+      "text": "The 1992 Jeep Wrangler Sahara used in the original film, painted in the distinctive Jurassic Park livery, has been reproduced by fans worldwide and is one of the most recognizable movie vehicles ever.",
+      "source": "https://en.wikipedia.org/wiki/1992_Jeep_Wrangler_Sahara"
+    },
+    {
+      "text": "Original screen-used props from the Jurassic Park franchise regularly sell for tens of thousands of dollars at auction, with the original Jurassic Park gate sign selling for over $100,000.",
+      "source": "https://en.wikipedia.org/wiki/Jurassic_Park"
+    },
+    {
+      "text": "\"People are dying. Please.\" — John Hammond's quiet plea when the situation became critical in the first film showed Attenborough's ability to convey vulnerability beneath Hammond's grandiose persona.",
+      "source": "https://en.wikipedia.org/wiki/People_are_dying._Please"
+    },
+    {
+      "text": "The Jurassic franchise's approach to creating dinosaur sounds entirely from modern animal vocalizations — rather than synthesizing them — is considered one of the great creative achievements in film sound design.",
+      "source": "https://en.wikipedia.org/wiki/Jurassic"
+    },
+    {
+      "text": "The raptor bark sound was created by recording baby penguin calls and slowing them down, combined with dolphin squeals and walrus bellows.",
+      "source": "https://en.wikipedia.org/wiki/raptor_bark_sound"
+    },
+    {
+      "text": "The iconic Jurassic Park gate, with its massive wooden doors and torches, was built as a full-scale practical set on Kauai and became one of the most photographed filming locations.",
+      "source": "https://en.wikipedia.org/wiki/iconic_Jurassic_Park_gate%2C_with_its_massive_wooden_doors_and_torches"
+    },
+    {
+      "text": "The franchise has generated over $10 billion in total revenue when combining box office earnings, home media, merchandise, theme park attractions, and video game sales.",
+      "source": "https://en.wikipedia.org/wiki/franchise"
+    },
+    {
+      "text": "\"If The Pirates of the Caribbean breaks down, the pirates don't eat the tourists.\" — Ian Malcolm's analogy comparing Jurassic Park to a theme park ride was one of the film's most prescient lines.",
+      "source": "https://en.wikipedia.org/wiki/If_The_Pirates_of_the_Caribbean_breaks_down%2C_the_pirates_don%27t_eat_the_tourists"
+    },
+    {
+      "text": "The Jurassic franchise is the only major film series to span three decades (1993-2022) while maintaining a continuous narrative thread connecting the original characters to the latest installments.",
+      "source": "https://en.wikipedia.org/wiki/Jurassic_franchise"
+    },
+    {
+      "text": "New Jurassic World films have been announced, with the franchise continuing under Universal Pictures' stewardship and exploring new directions for the coexistence of humans and dinosaurs.",
+      "source": "https://en.wikipedia.org/wiki/New_Jurassic_World_films"
+    },
+    {
+      "text": "The Oviraptor, whose name unfortunately means \"egg thief\" based on a misinterpreted fossil find, has not been prominently featured in the films but represents a common paleontological misconception that mirrors the franchise's own embellishments of dinosaur behavior.",
+      "source": "https://en.wikipedia.org/wiki/egg_thief"
+    },
+    {
+      "text": "\"Alan, this species of veriforman has been extinct since the Cretaceous period.\" — Ellie Sattler's paleobotanical discovery during the park tour hinted at the deeper genetic manipulations happening behind the scenes.",
+      "source": "https://www.youtube.com/results?search_query=Jurassic%20Park%20Alan%2C%20this%20species%20of%20veriforman%20has%20been%20extinct%20since%20the%20Cretaceous%20period.%20live%20performance"
+    },
+    {
+      "text": "The night-vision goggles used by Tim in the first film's T. rex attack sequence were real military-surplus goggles modified by the props department, and the POV shots through them added a unique visual layer to the scene.",
+      "source": "https://en.wikipedia.org/wiki/night-vision_goggles_used_by_Tim_in_the_first_film%27s_T._rex_attack_sequence"
+    },
+    {
+      "text": "Spielberg directed the actors to genuinely react to the animatronic dinosaurs rather than merely acting frightened, resulting in more authentic performances because the robots were genuinely startling.",
+      "source": "https://en.wikipedia.org/wiki/Jurassic_Park"
+    },
+    {
+      "text": "The scene where Dr. Grant teaches the Velociraptor claw lesson at the dig site was filmed in a single take, with Sam Neill improvising some of his dialogue about the raptor's killing technique.",
+      "source": "https://en.wikipedia.org/wiki/scene_where_Dr._Grant_teaches_the_Velociraptor_claw_lesson_at_the_dig_site"
+    },
+    {
+      "text": "\"You have a T. rex?\" \"We have a T. rex.\" — The brief exchange between Owen and Claire in Jurassic World before releasing the original Rex to fight the Indominus rex became an instantly quotable moment.",
+      "source": "https://en.wikipedia.org/wiki/You_have_a_T._rex"
+    },
+    {
+      "text": "The Jurassic franchise holds the distinction of being one of the few in which every single film has grossed over $350 million worldwide, demonstrating remarkable consistency at the box office.",
+      "source": "https://en.wikipedia.org/wiki/Jurassic"
+    },
+    {
+      "text": "The concept art for the Indominus rex went through over 50 different design iterations before the creative team settled on the final look that appeared in Jurassic World.",
+      "source": "https://en.wikipedia.org/wiki/Jurassic_World"
+    },
+    {
+      "text": "Jurassic Park's influence on visual effects is so significant that ILM considers it a turning point equal to the original Star Wars in terms of advancing what was possible in cinema.",
+      "source": "https://en.wikipedia.org/wiki/Jurassic_Park%27s_influence_on_visual_effects"
+    },
+    {
+      "text": "\"Instinct that we can program is what makes them so dangerous. We program their behavior, but we can't predict the other side of the code.\" — Owen Grady's insight about the raptors in Jurassic World acknowledged both science and chaos theory.",
+      "source": "https://en.wikipedia.org/wiki/Instinct_that_we_can_program"
+    },
+    {
+      "text": "The Blue Velociraptor in the Jurassic World trilogy was performed through a combination of motion capture, CGI, and animatronic puppetry, with her emotional range expanding across each film.",
+      "source": "https://en.wikipedia.org/wiki/Blue_Velociraptor_in_the_Jurassic_World_trilogy"
+    },
+    {
+      "text": "Baby Blue's appearance in Dominion, shown in flashback being raised by Owen, was designed to mirror the bond between a person and a pet, making the raptor more sympathetic to audiences.",
+      "source": "https://en.wikipedia.org/wiki/Baby_Blue%27s_appearance_in_Dominion%2C_shown_in_flashback_being_raised_by_Owen"
+    },
+    {
+      "text": "The franchise's consistent message that nature cannot be controlled has resonated across generations, with each film exploring a different facet of humanity's failed attempts to master the natural world.",
+      "source": "https://en.wikipedia.org/wiki/franchise%27s_consistent_message_that_nature_cannot_be_controlled"
+    },
+    {
+      "text": "\"Your velociraptors... you said you need a new word.\" \"How about 'alive'?\" — Hammond and Wu's exchange about the raptors' unexpected behavior in the novel highlighted the gap between genetic engineering and actual biology.",
+      "source": "https://en.wikipedia.org/wiki/Your_velociraptors..._you_said_you_need_a_new_word"
+    },
+    {
+      "text": "The Jurassic Park franchise was the first to demonstrate that CGI could create believable living creatures in a live-action film, paving the way for modern blockbusters from Lord of the Rings to the Marvel Cinematic Universe.",
+      "source": "https://en.wikipedia.org/wiki/Jurassic_Park_franchise"
+    },
+    {
+      "text": "The Microceratus, one of the smallest ceratopsian dinosaurs, appeared on the Jurassic World map but was never prominently shown on screen, representing the park's extensive but underexplored roster of species.",
+      "source": "https://en.wikipedia.org/wiki/Microceratus%2C_one_of_the_smallest_ceratopsian_dinosaurs"
+    },
+    {
+      "text": "The legacy of Jurassic Park extends beyond entertainment — it fundamentally changed how the public thinks about dinosaurs, genetics, theme park safety, and the ethical boundaries of science.",
+      "source": "https://en.wikipedia.org/wiki/legacy_of_Jurassic_Park_extends_beyond_entertainment_%E2%80%94_it_fundamentally"
+    },
+    {
+      "text": "\"Life finds a way\" has transcended its origins as a movie quote to become a widely used phrase in science communication, biology classrooms, and environmental activism worldwide.",
+      "source": "https://en.wikipedia.org/wiki/Life_finds_a_way"
+    }
+  ]
+}

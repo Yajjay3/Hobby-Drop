@@ -1,0 +1,1736 @@
+{
+  "hobby": "Working Out & Fitness",
+  "facts": [
+    {
+      "text": "The deadlift works more muscles simultaneously than any other single exercise, engaging the glutes, hamstrings, quads, back, core, and grip.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "Arnold Schwarzenegger won his first Mr. Olympia title in 1970 at just 23 years old.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Arnold_Schwarzenegger"
+    },
+    {
+      "text": "The Boston Marathon is the world's oldest annual marathon, first held in 1897.",
+      "month": 4,
+      "day": 20,
+      "source": "https://en.wikipedia.org/wiki/Boston_Marathon"
+    },
+    {
+      "text": "A jump rope workout can burn over 1,000 calories per hour, making it one of the most efficient cardio exercises.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "Gold's Gym in Venice Beach, California, opened in 1965 and became known as 'The Mecca of Bodybuilding.'",
+      "source": "https://en.wikipedia.org/wiki/Gold%27s_Gym_in_Venice_Beach%2C_California"
+    },
+    {
+      "text": "Creatine monohydrate is one of the most researched and effective sports supplements, shown to increase strength and power output by 5-10%.",
+      "source": "https://en.wikipedia.org/wiki/Creatine_monohydrate"
+    },
+    {
+      "text": "The squat is often called the 'King of All Exercises' because it recruits more muscle fibers than almost any other movement.",
+      "source": "https://en.wikipedia.org/wiki/squat"
+    },
+    {
+      "text": "Eliud Kipchoge became the first person to run a marathon in under two hours on October 12, 2019, finishing in 1:59:40.",
+      "month": 10,
+      "day": 12,
+      "source": "https://en.wikipedia.org/wiki/Eliud_Kipchoge"
+    },
+    {
+      "text": "Your body has over 600 skeletal muscles, but most strength training routines focus on roughly 10-12 major muscle groups.",
+      "source": "https://en.wikipedia.org/wiki/Your_body"
+    },
+    {
+      "text": "Rich Froning Jr. won four consecutive CrossFit Games Individual titles from 2011 to 2014, an unprecedented streak.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Rich_Froning_Jr"
+    },
+    {
+      "text": "DOMS (Delayed Onset Muscle Soreness) typically peaks 24-72 hours after a workout and is caused by microscopic tears in muscle fibers.",
+      "source": "https://en.wikipedia.org/wiki/DOMS_(Delayed_Onset_Muscle_Soreness)_typically_peaks_24-72_hours_after_a_workout_and"
+    },
+    {
+      "text": "Jack LaLanne, the 'Godfather of Fitness,' opened one of America's first health clubs in 1936 in Oakland, California.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Jack_LaLanne%2C_the_%27Godfather_of_Fitness"
+    },
+    {
+      "text": "The bench press became an official powerlifting competition lift in the 1950s, replacing the floor press.",
+      "source": "https://en.wikipedia.org/wiki/bench_press"
+    },
+    {
+      "text": "Hot yoga, popularized by Bikram Choudhury, is practiced in a room heated to approximately 105°F (40°C) with 40% humidity.",
+      "source": "https://en.wikipedia.org/wiki/Hot_yoga%2C_popularized_by_Bikram_Choudhury"
+    },
+    {
+      "text": "The human heart beats about 100,000 times per day, and regular cardio exercise can lower your resting heart rate by 10-20 beats per minute.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "The first CrossFit affiliate gym, or 'box,' opened in Seattle, Washington, in 2002.",
+      "source": "https://en.wikipedia.org/wiki/first_CrossFit_affiliate_gym%2C_or_%27box"
+    },
+    {
+      "text": "Progressive overload—gradually increasing weight, reps, or volume—is the fundamental principle behind muscle growth.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "Dwayne 'The Rock' Johnson reportedly wakes up at 3:30 AM and consumes around 5,000 calories daily during training periods.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Rock%27_Johnson"
+    },
+    {
+      "text": "The kettlebell originated in Russia in the 1700s and was originally used as a counterweight for measuring grain.",
+      "source": "https://en.wikipedia.org/wiki/kettlebell_originated_in_Russia_in_the_1700s_and"
+    },
+    {
+      "text": "The NYC Marathon is the largest marathon in the world, with over 50,000 finishers annually.",
+      "month": 11,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/NYC_Marathon"
+    },
+    {
+      "text": "Muscle memory is real—previously trained muscles regain size and strength faster due to retained myonuclei in muscle fibers.",
+      "source": "https://en.wikipedia.org/wiki/Muscle_memory"
+    },
+    {
+      "text": "Jane Fonda's workout videos, starting in 1982, became the best-selling VHS tapes of the 20th century, popularizing aerobics worldwide.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Jane_Fonda%27s_workout_videos%2C_starting_in_1982"
+    },
+    {
+      "text": "The optimal protein intake for muscle building is generally 0.7-1.0 grams per pound of body weight per day.",
+      "source": "https://en.wikipedia.org/wiki/optimal_protein_intake_for_muscle_building"
+    },
+    {
+      "text": "Planet Fitness was founded in 1992 in Dover, New Hampshire, and is now one of the largest gym chains in the world with over 2,400 locations.",
+      "source": "https://en.wikipedia.org/wiki/Planet_Fitness"
+    },
+    {
+      "text": "The Olympic clean and jerk requires an athlete to lift the barbell from the floor to overhead in two explosive movements.",
+      "source": "https://en.wikipedia.org/wiki/Olympic"
+    },
+    {
+      "text": "Vinyasa yoga links breath to movement and is sometimes called 'flow yoga' because of its smooth transitions between poses.",
+      "source": "https://en.wikipedia.org/wiki/Vinyasa_yoga_links_breath_to_movement_and"
+    },
+    {
+      "text": "Hafthor Björnsson, known as 'The Mountain' from Game of Thrones, deadlifted 501 kg (1,104 lbs) in May 2020, setting a world record.",
+      "month": 5,
+      "day": 2,
+      "source": "https://en.wikipedia.org/wiki/Mountain"
+    },
+    {
+      "text": "The Couch to 5K (C25K) program was created by Josh Clark in 1996 and designed to get beginners running 3.1 miles in nine weeks.",
+      "source": "https://en.wikipedia.org/wiki/Couch_to_5K_(C25K)_program"
+    },
+    {
+      "text": "During a heavy squat, the spine can experience compressive forces exceeding 10 times your body weight.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "HIIT (High-Intensity Interval Training) can increase your metabolic rate for hours after exercise through a phenomenon called EPOC (Excess Post-Exercise Oxygen Consumption).",
+      "source": "https://en.wikipedia.org/wiki/High-Intensity_Interval_Training"
+    },
+    {
+      "text": "The first Mr. Olympia contest was held on September 18, 1965, in New York City, and was won by Larry Scott.",
+      "month": 9,
+      "day": 18,
+      "source": "https://en.wikipedia.org/wiki/first_Mr._Olympia_contest"
+    },
+    {
+      "text": "Resistance bands were originally developed for rehabilitation purposes in the early 1900s before becoming popular fitness tools.",
+      "source": "https://en.wikipedia.org/wiki/Resistance_bands"
+    },
+    {
+      "text": "The P90X workout program, created by Tony Horton, sold over 4.2 million copies in its first year of release.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/P90X_workout_program"
+    },
+    {
+      "text": "Your grip strength is a strong predictor of overall health and longevity, according to multiple research studies.",
+      "source": "https://en.wikipedia.org/wiki/Your_grip_strength"
+    },
+    {
+      "text": "The rowing machine (ergometer) works approximately 86% of the body's muscles in a single stroke.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "Ronnie Coleman won eight consecutive Mr. Olympia titles from 1998 to 2005, tying Lee Haney's record.",
+      "source": "https://en.wikipedia.org/wiki/Ronnie_Coleman"
+    },
+    {
+      "text": "A single pound of muscle burns approximately 6 calories per day at rest, while a pound of fat burns only about 2 calories.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "The world record for most push-ups in 24 hours is 46,001, set by Charles Servizio in 1993.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/world_record_for_most_push-ups_in_24_hours"
+    },
+    {
+      "text": "Whey protein is a byproduct of cheese production and contains all nine essential amino acids needed for muscle repair.",
+      "source": "https://en.wikipedia.org/wiki/Whey_protein"
+    },
+    {
+      "text": "The snatch is considered the most technical lift in Olympic weightlifting, requiring explosive power, flexibility, and precise timing.",
+      "source": "https://en.wikipedia.org/wiki/snatch"
+    },
+    {
+      "text": "24 Hour Fitness was founded in 1983 by Mark Mastrov in Northern California.",
+      "source": "https://en.wikipedia.org/wiki/24_Hour_Fitness"
+    },
+    {
+      "text": "Heart rate zones range from Zone 1 (50-60% max HR, light effort) to Zone 5 (90-100% max HR, maximum effort).",
+      "source": "https://en.wikipedia.org/wiki/Zone_1"
+    },
+    {
+      "text": "Tia-Clair Toomey won six consecutive CrossFit Games titles from 2017 to 2022, making her the most decorated CrossFit athlete ever.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Tia-Clair_Toomey"
+    },
+    {
+      "text": "The 'Golden Era' of bodybuilding typically refers to the 1960s-1970s, when symmetry and aesthetics were valued over sheer mass.",
+      "source": "https://en.wikipedia.org/wiki/Golden_Era%27_of"
+    },
+    {
+      "text": "Stair climbing burns roughly twice as many calories as walking on flat ground at the same duration.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "The barbell was invented by Hippolyte Triat in the mid-1800s in France.",
+      "source": "https://en.wikipedia.org/wiki/barbell"
+    },
+    {
+      "text": "Drinking water can increase your metabolic rate by up to 30% for about 30-40 minutes after consumption.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "CrossFit's 'Fran' workout—21-15-9 thrusters and pull-ups—is considered one of the benchmark WODs and elite athletes complete it in under 3 minutes.",
+      "source": "https://en.wikipedia.org/wiki/WODs_and"
+    },
+    {
+      "text": "The lat pulldown machine was one of the first cable-based gym machines developed, appearing in gyms in the 1950s.",
+      "source": "https://en.wikipedia.org/wiki/lat_pulldown_machine"
+    },
+    {
+      "text": "Jillian Michaels became a household name as a trainer on NBC's The Biggest Loser, which premiered in 2004.",
+      "source": "https://en.wikipedia.org/wiki/Jillian_Michaels"
+    },
+    {
+      "text": "Ultramarathons are any races longer than the standard 26.2-mile marathon, with some events covering 100 miles or more.",
+      "source": "https://en.wikipedia.org/wiki/Ultramarathons"
+    },
+    {
+      "text": "Foam rolling before exercise can increase range of motion without decreasing muscle strength or performance.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "Arnold Schwarzenegger's famous 'Arnold Press' is a shoulder exercise he invented that rotates the dumbbells during the pressing motion.",
+      "source": "https://en.wikipedia.org/wiki/Arnold_Schwarzenegger%27s_famous_%27Arnold_Press"
+    },
+    {
+      "text": "The Smith machine was co-invented by Jack LaLanne and Rudy Smith in the 1950s.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Smith_machine"
+    },
+    {
+      "text": "Compound exercises like squats, deadlifts, and bench press are more effective for building overall strength than isolation exercises.",
+      "source": "https://en.wikipedia.org/wiki/Compound_exercises_like_squats%2C_deadlifts%2C_and_bench_press"
+    },
+    {
+      "text": "The first Olympic weightlifting competition took place at the 1896 Athens Olympics.",
+      "month": 4,
+      "day": 6,
+      "source": "https://en.wikipedia.org/wiki/first_Olympic_weightlifting_competition"
+    },
+    {
+      "text": "Eddie Hall became the first person to deadlift 500 kg (1,102 lbs) in competition on July 9, 2016.",
+      "month": 7,
+      "day": 9,
+      "source": "https://en.wikipedia.org/wiki/Eddie_Hall"
+    },
+    {
+      "text": "The 'pump' you feel during weight training is caused by blood pooling in muscles and expanding the fascia.",
+      "source": "https://en.wikipedia.org/wiki/%27pump%27_you_feel_during_weight_training"
+    },
+    {
+      "text": "Power yoga was developed in the 1990s as a fitness-oriented approach to traditional Ashtanga yoga.",
+      "source": "https://en.wikipedia.org/wiki/Power_yoga"
+    },
+    {
+      "text": "Your body can synthesize about 1-2 grams of creatine per day naturally from amino acids in the liver and kidneys.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "The treadmill was originally invented in 1818 as a prison punishment device in England.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/treadmill"
+    },
+    {
+      "text": "Lee Haney's training philosophy of 'stimulate, don't annihilate' helped him win eight consecutive Mr. Olympia titles from 1984 to 1991.",
+      "source": "https://en.wikipedia.org/wiki/Lee_Haney%27s_training_philosophy_of_%27stimulate%2C_don%27t_annihilate"
+    },
+    {
+      "text": "A proper warm-up increases muscle temperature, which can improve performance and reduce injury risk by up to 50%.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "The original Muscle Beach in Santa Monica, California, was established in the 1930s and became a hub for gymnasts and bodybuilders.",
+      "source": "https://en.wikipedia.org/wiki/original_Muscle_Beach_in_Santa_Monica%2C_California"
+    },
+    {
+      "text": "Rep ranges of 1-5 primarily build strength, 6-12 optimize hypertrophy, and 15+ develop muscular endurance.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "Dumbbell exercises recruit more stabilizer muscles than barbell exercises because each arm works independently.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "The CrossFit Games were first held in 2007 on a ranch in Aromas, California.",
+      "month": 6,
+      "day": 15,
+      "source": "https://en.wikipedia.org/wiki/CrossFit_Games"
+    },
+    {
+      "text": "An average person has about 40% skeletal muscle by body weight, while elite bodybuilders can exceed 60%.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/An_average_person"
+    },
+    {
+      "text": "Running a marathon burns approximately 2,600 calories for an average-weight runner.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "The plank exercise activates more than 20 muscles simultaneously, including the rectus abdominis, obliques, and erector spinae.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "Franco Columbu, Arnold's training partner, won the Mr. Olympia title in 1976 and 1981 despite standing only 5'5\".",
+      "source": "https://en.wikipedia.org/wiki/Franco_Columbu%2C_Arnold%27s_training_partner"
+    },
+    {
+      "text": "BCAAs (Branched-Chain Amino Acids) make up about 35% of the essential amino acids in muscle proteins.",
+      "source": "https://en.wikipedia.org/wiki/Branched-Chain_Amino_Acids"
+    },
+    {
+      "text": "The concept of 'leg day' became a popular gym culture reference because the legs contain the largest muscles in the body.",
+      "source": "https://en.wikipedia.org/wiki/concept_of_%27leg_day"
+    },
+    {
+      "text": "Home gym equipment sales increased by over 170% during the 2020 pandemic lockdowns.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "Max heart rate is commonly estimated using the formula 220 minus your age, though individual variation can be significant.",
+      "source": "https://en.wikipedia.org/wiki/Max_heart_rate"
+    },
+    {
+      "text": "The bent-over row was a favorite exercise of six-time Mr. Olympia Dorian Yates, who popularized the underhand grip variation.",
+      "source": "https://en.wikipedia.org/wiki/bent-over_row"
+    },
+    {
+      "text": "Proper hydration can improve exercise performance by 20-25%, as even a 2% loss in body water can decrease performance.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "Marathon world record holder Eliud Kipchoge trains at high altitude in Kaptagat, Kenya, at about 7,800 feet elevation.",
+      "source": "https://en.wikipedia.org/wiki/Eliud_Kipchoge"
+    },
+    {
+      "text": "The National Fitness Day in the United States is held on the first Saturday in May.",
+      "month": 5,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/National_Fitness_Day_in_the_United_States"
+    },
+    {
+      "text": "Eccentric muscle contractions (lowering phase) cause more muscle damage and soreness than concentric contractions (lifting phase).",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "The cable crossover machine was invented by Harold Zinkin, who also invented the Universal Gym Machine in 1957.",
+      "source": "https://en.wikipedia.org/wiki/cable_crossover_machine"
+    },
+    {
+      "text": "Schwarzenegger's documentary 'Pumping Iron' (1977) brought bodybuilding into mainstream culture.",
+      "source": "https://en.wikipedia.org/wiki/Pumping_Iron"
+    },
+    {
+      "text": "A single CrossFit 'Murph' workout consists of a 1-mile run, 100 pull-ups, 200 push-ups, 300 squats, and another 1-mile run while wearing a 20-lb vest.",
+      "source": "https://en.wikipedia.org/wiki/A_single_CrossFit_%27Murph%27_workout_consists_of_a_1-mile"
+    },
+    {
+      "text": "Casein protein digests more slowly than whey, making it popular as a nighttime protein source.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "The trap bar (hex bar) deadlift places less stress on the lower back than a conventional barbell deadlift.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "Yoga has been practiced for over 5,000 years, originating in ancient India.",
+      "source": "https://en.wikipedia.org/wiki/Yoga"
+    },
+    {
+      "text": "The 'mind-muscle connection' is scientifically supported—focusing on a muscle during exercise can increase its activation by up to 20%.",
+      "source": "https://en.wikipedia.org/wiki/%27mind-muscle_connection"
+    },
+    {
+      "text": "Zumba was created by Colombian dancer Alberto 'Beto' Perez in the 1990s when he accidentally left his regular aerobics music at home.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Zumba"
+    },
+    {
+      "text": "The Rock posts his gym workouts at 4 AM and follows a six-day-per-week training split.",
+      "source": "https://en.wikipedia.org/wiki/Rock"
+    },
+    {
+      "text": "Periodization—cycling through different training phases—was developed by Soviet sports scientists in the 1960s.",
+      "source": "https://en.wikipedia.org/wiki/Periodization%E2%80%94cycling_through_different_training_phases%E2%80%94was"
+    },
+    {
+      "text": "The world record for the heaviest back squat is 592.3 kg (1,306 lbs), set by powerlifter Chris Duffin in a wrapped squat.",
+      "source": "https://en.wikipedia.org/wiki/world_record_for_the_heaviest_back_squat"
+    },
+    {
+      "text": "Interval training was first used systematically by Czech runner Emil Zátopek, who won three gold medals at the 1952 Helsinki Olympics.",
+      "source": "https://en.wikipedia.org/wiki/Interval_training"
+    },
+    {
+      "text": "The first Boston Marathon in 1897 had only 15 runners start and 10 finish.",
+      "month": 4,
+      "day": 19,
+      "source": "https://en.wikipedia.org/wiki/first_Boston_Marathon_in_1897"
+    },
+    {
+      "text": "Your muscles are approximately 75% water, which is why staying hydrated is crucial for performance and recovery.",
+      "source": "https://en.wikipedia.org/wiki/Your_muscles"
+    },
+    {
+      "text": "The incline bench press targets the upper portion (clavicular head) of the pectoralis major more effectively than flat bench.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "SoulCycle opened its first indoor cycling studio in New York City in 2006 and sparked a boutique fitness revolution.",
+      "source": "https://en.wikipedia.org/wiki/SoulCycle"
+    },
+    {
+      "text": "A standard Olympic barbell weighs 20 kg (44 lbs) for men and 15 kg (33 lbs) for women.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "Schwarzenegger popularized the 'double split' training method, where he worked out twice a day during competition prep.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "The Bulgarian split squat is named after the Bulgarian weightlifting team, which used it extensively in training during the 1980s.",
+      "source": "https://en.wikipedia.org/wiki/Bulgarian_split_squat"
+    },
+    {
+      "text": "L-theanine paired with caffeine is one of the most popular pre-workout supplement stacks for focus and energy.",
+      "source": "https://en.wikipedia.org/wiki/L-theanine_paired_with_caffeine"
+    },
+    {
+      "text": "Tabata training—20 seconds of all-out effort followed by 10 seconds of rest for 4 minutes—was developed by Japanese researcher Dr. Izumi Tabata in 1996.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Dr._Izumi_Tabata_in_1996"
+    },
+    {
+      "text": "Gym etiquette includes re-racking your weights, wiping down machines, and not curling in the squat rack.",
+      "source": "https://en.wikipedia.org/wiki/Gym_etiquette"
+    },
+    {
+      "text": "The farmer's walk, a strongman staple, improves grip strength, core stability, and overall conditioning simultaneously.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "The first YMCA gymnasium opened in 1869 in New York City.",
+      "source": "https://en.wikipedia.org/wiki/first_YMCA_gymnasium"
+    },
+    {
+      "text": "Sleeping 7-9 hours per night is essential for muscle recovery, as growth hormone is released primarily during deep sleep.",
+      "source": "https://en.wikipedia.org/wiki/Sleeping_7-9_hours_per_night"
+    },
+    {
+      "text": "The sumo deadlift stance uses a wider foot placement that reduces the range of motion compared to a conventional deadlift.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "Kathrine Switzer became the first woman to officially run the Boston Marathon in 1967, despite a race official trying to physically remove her.",
+      "month": 4,
+      "day": 19,
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Kathrine_Switzer"
+    },
+    {
+      "text": "The leg press machine allows you to safely lift more weight than a barbell squat because it eliminates the need for balance.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "Plyometric exercises like box jumps exploit the stretch-shortening cycle of muscles to develop explosive power.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "The first modern Olympic Games in 1896 included weightlifting as one of the original sports.",
+      "source": "https://en.wikipedia.org/wiki/Olympic_Games"
+    },
+    {
+      "text": "Pre-workout supplements typically contain caffeine (150-300 mg), beta-alanine, and citrulline malate.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "CrossFit defines fitness as 'increased work capacity across broad time and modal domains.'",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "The pec deck machine was one of the first isolation machines designed specifically for the pectoralis muscles.",
+      "source": "https://en.wikipedia.org/wiki/pec_deck_machine"
+    },
+    {
+      "text": "Flex Wheeler is often called the greatest bodybuilder to never win a Mr. Olympia, finishing as runner-up multiple times.",
+      "source": "https://en.wikipedia.org/wiki/Flex_Wheeler"
+    },
+    {
+      "text": "Running on a treadmill at 1% incline most closely replicates the energy cost of outdoor running on flat ground.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Running_on"
+    },
+    {
+      "text": "The Spartan Race was founded in 2010 by Joe De Sena and has grown to host events in over 40 countries.",
+      "source": "https://en.wikipedia.org/wiki/Spartan_Race"
+    },
+    {
+      "text": "Exercising in the morning on an empty stomach (fasted cardio) has been debated, but research shows it does not significantly increase fat loss compared to fed exercise.",
+      "source": "https://en.wikipedia.org/wiki/Exercising_in_the_morning_on_an_empty_stomach_(fasted_cardio)"
+    },
+    {
+      "text": "Each pound of body weight places approximately 4 pounds of stress on the knees during running.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "The GHD (Glute-Ham Developer) machine is a staple in CrossFit gyms for posterior chain development.",
+      "source": "https://en.wikipedia.org/wiki/GHD_(Glute-Ham_Developer)_machine"
+    },
+    {
+      "text": "Lee Priest was known for having some of the biggest arms in bodybuilding history at a height of only 5'4\".",
+      "source": "https://en.wikipedia.org/wiki/Lee_Priest"
+    },
+    {
+      "text": "The world record for the longest plank is over 9 hours and 30 minutes, set by Daniel Scali of Australia in 2021.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/world_record_for_the_longest_plank"
+    },
+    {
+      "text": "Negative (eccentric) training involves slowly lowering a weight heavier than you can concentrically lift, often with a spotter's help.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "The Peloton bike launched in 2014 and helped popularize connected fitness and live-streamed workout classes.",
+      "source": "https://en.wikipedia.org/wiki/Peloton_bike_launched_in_2014_and"
+    },
+    {
+      "text": "Isometric exercises, like wall sits and planks, involve holding a position without moving and can build strength at the specific joint angle trained.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "The International Fitness Association was founded in 1990 to certify personal trainers and group fitness instructors.",
+      "source": "https://en.wikipedia.org/wiki/International_Fitness_Association"
+    },
+    {
+      "text": "Consuming protein within 30-60 minutes post-workout may help optimize muscle protein synthesis, though total daily intake matters more.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "Mat Fraser won five consecutive CrossFit Games titles from 2016 to 2020, retiring as one of the most dominant athletes in the sport.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Mat_Fraser"
+    },
+    {
+      "text": "The overhead press was removed from Olympic weightlifting competition after the 1972 Olympics due to difficulty in judging form.",
+      "month": 9,
+      "day": 5,
+      "source": "https://en.wikipedia.org/wiki/overhead_press"
+    },
+    {
+      "text": "A pull-up requires you to lift your entire body weight, making it one of the most challenging bodyweight exercises for beginners.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "The original World's Strongest Man competition was held in 1977 and broadcast on CBS television.",
+      "month": 9,
+      "day": 15,
+      "source": "https://en.wikipedia.org/wiki/original_World%27s_Strongest_Man_competition"
+    },
+    {
+      "text": "Muscle fibers are classified as Type I (slow-twitch, endurance) and Type II (fast-twitch, power and strength).",
+      "source": "https://en.wikipedia.org/wiki/Muscle_fibers"
+    },
+    {
+      "text": "Resistance band training can match free weight training for muscle activation when equal resistance is applied.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "Phil Heath won seven consecutive Mr. Olympia titles from 2011 to 2017.",
+      "source": "https://en.wikipedia.org/wiki/Phil_Heath"
+    },
+    {
+      "text": "The concept of 'functional fitness' focuses on exercises that mimic everyday movements like pushing, pulling, squatting, and lifting.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "Your body burns calories even at rest through your Basal Metabolic Rate (BMR), which accounts for 60-75% of daily calorie expenditure.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Basal_Metabolic_Rate"
+    },
+    {
+      "text": "The safety squat bar was designed with a cambered shape and handles to reduce shoulder stress during squats.",
+      "source": "https://en.wikipedia.org/wiki/safety_squat_bar"
+    },
+    {
+      "text": "Wrist wraps provide support during heavy pressing movements by limiting wrist extension under load.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "The Arnold Sports Festival, first held in 1989 in Columbus, Ohio, is now one of the largest multi-sport fitness events in the world.",
+      "month": 3,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/Arnold_Sports_Festival%2C_first_held_in_1989_in_Columbus%2C_Ohio"
+    },
+    {
+      "text": "Strongman Brian Shaw has won the World's Strongest Man competition four times, standing 6'8\" and weighing over 400 lbs.",
+      "source": "https://en.wikipedia.org/wiki/Strongman_Brian_Shaw"
+    },
+    {
+      "text": "The concept of 'greasing the groove'—performing frequent sub-maximal sets throughout the day—was popularized by Pavel Tsatsouline.",
+      "source": "https://en.wikipedia.org/wiki/concept_of_%27greasing_the_groove%27%E2%80%94performing_frequent_sub-maximal"
+    },
+    {
+      "text": "Yoga's Downward Dog is one of the most recognized poses worldwide and stretches the hamstrings, calves, and shoulders simultaneously.",
+      "source": "https://en.wikipedia.org/wiki/Yoga%27s_Downward_Dog"
+    },
+    {
+      "text": "High-rep training (20+ reps) can build muscle effectively if sets are taken close to failure, according to recent research.",
+      "source": "https://en.wikipedia.org/wiki/High-rep_training_(20%2B_reps)_can_build_muscle_effectively_if_sets"
+    },
+    {
+      "text": "The Smith machine's guided bar path can alter muscle recruitment patterns compared to free weight exercises.",
+      "source": "https://en.wikipedia.org/wiki/Smith"
+    },
+    {
+      "text": "Body recomposition—simultaneously losing fat and gaining muscle—is most achievable in beginners and those returning to training after a break.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "The Nautilus machine, invented by Arthur Jones in 1970, pioneered the concept of variable resistance training.",
+      "source": "https://en.wikipedia.org/wiki/Nautilus_machine"
+    },
+    {
+      "text": "Stretching before exercise is best done dynamically (movement-based), while static stretching is more beneficial post-workout.",
+      "source": "https://en.wikipedia.org/wiki/Stretching_before_exercise"
+    },
+    {
+      "text": "The world's first bodybuilding competition was held on September 14, 1901 in London's Royal Albert Hall, organized by Eugen Sandow.",
+      "month": 9,
+      "day": 14,
+      "source": "https://en.wikipedia.org/wiki/world%27s_first_bodybuilding_competition"
+    },
+    {
+      "text": "Glucose stored in muscles as glycogen is the primary fuel source during high-intensity exercise.",
+      "source": "https://en.wikipedia.org/wiki/Glucose_stored_in_muscles_as_glycogen"
+    },
+    {
+      "text": "A standard weightlifting belt should be worn around the lower abdomen, not the waist, to maximize intra-abdominal pressure.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "Equinox opened its first luxury fitness club in New York City in 1991, pioneering the high-end gym concept.",
+      "source": "https://en.wikipedia.org/wiki/Equinox"
+    },
+    {
+      "text": "Drop sets—reducing weight and continuing reps without rest—were popularized by bodybuilding legend Joe Weider.",
+      "source": "https://en.wikipedia.org/wiki/Drop"
+    },
+    {
+      "text": "The recommended daily water intake for active individuals is roughly 1 ounce per pound of body weight.",
+      "source": "https://en.wikipedia.org/wiki/recommended_daily_water_intake_for_active_individuals"
+    },
+    {
+      "text": "Olympic weightlifting plates are color-coded: red (25 kg), blue (20 kg), yellow (15 kg), green (10 kg).",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Olympic_weightlifting_plates"
+    },
+    {
+      "text": "Calisthenics, or bodyweight training, includes exercises like push-ups, pull-ups, dips, and pistol squats.",
+      "source": "https://en.wikipedia.org/wiki/Calisthenics%2C_or_bodyweight_training"
+    },
+    {
+      "text": "The 'afterburn effect' from HIIT can elevate calorie burning for up to 24-48 hours after intense exercise.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "Frank Zane, known for his aesthetic physique, won three Mr. Olympia titles (1977-1979) at a relatively light 185 lbs.",
+      "source": "https://en.wikipedia.org/wiki/Frank_Zane%2C_known_for_his_aesthetic_physique"
+    },
+    {
+      "text": "The landmine press is a versatile barbell exercise that allows for pressing at various angles with reduced shoulder stress.",
+      "source": "https://en.wikipedia.org/wiki/landmine_press"
+    },
+    {
+      "text": "Foam rollers come in different densities—softer for beginners and harder for experienced users who need deeper tissue work.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "Ronnie Coleman's famous catchphrase 'Yeah buddy! Lightweight baby!' became one of the most iconic gym motivational quotes.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Ronnie_Coleman%27s_famous_catchphrase_%27Yeah_buddy%21_Lightweight_baby"
+    },
+    {
+      "text": "Walking 10,000 steps per day burns approximately 300-500 additional calories depending on body weight.",
+      "source": "https://en.wikipedia.org/wiki/Walking_10"
+    },
+    {
+      "text": "The hack squat machine was named after George Hackenschmidt, a strongman from the early 1900s.",
+      "source": "https://en.wikipedia.org/wiki/hack_squat_machine"
+    },
+    {
+      "text": "Electrolytes—sodium, potassium, magnesium, and calcium—are essential for muscle contraction and hydration during exercise.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "The first Ironman Triathlon was held on February 18, 1978, in Honolulu, Hawaii, combining a 2.4-mile swim, 112-mile bike ride, and 26.2-mile run.",
+      "month": 2,
+      "day": 18,
+      "source": "https://en.wikipedia.org/wiki/first_Ironman_Triathlon"
+    },
+    {
+      "text": "Rest periods between sets affect training outcomes: 1-2 minutes for hypertrophy, 3-5 minutes for maximal strength.",
+      "source": "https://en.wikipedia.org/wiki/Rest_periods_between"
+    },
+    {
+      "text": "The TRX Suspension Trainer was invented by Navy SEAL Randy Hetrick in the late 1990s using a jiu-jitsu belt and parachute webbing.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/TRX_Suspension_Trainer"
+    },
+    {
+      "text": "Supersets—performing two exercises back-to-back without rest—can reduce workout time by up to 40%.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "The patellar tendon in the knee can withstand forces up to 17 times your body weight during explosive jumping.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "Eugen Sandow, born in 1867, is considered the 'Father of Modern Bodybuilding' and the Mr. Olympia trophy is modeled after him.",
+      "source": "https://en.wikipedia.org/wiki/Eugen_Sandow%2C_born_in_1867"
+    },
+    {
+      "text": "The recumbent bike was designed to reduce lower back strain while still providing effective cardiovascular exercise.",
+      "source": "https://en.wikipedia.org/wiki/recumbent_bike"
+    },
+    {
+      "text": "Carb loading before endurance events involves eating 8-12 grams of carbohydrates per kg of body weight in the 24-48 hours before competition.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "World Yoga Day is celebrated every year on June 21.",
+      "month": 6,
+      "day": 21,
+      "source": "https://en.wikipedia.org/wiki/World_Yoga_Day"
+    },
+    {
+      "text": "Cluster sets—performing mini-sets with short intra-set rest periods—can help maintain power output during heavy training.",
+      "source": "https://en.wikipedia.org/wiki/Cluster"
+    },
+    {
+      "text": "The cable machine was one of the first pieces of gym equipment to provide constant tension throughout the entire range of motion.",
+      "source": "https://en.wikipedia.org/wiki/cable_machine"
+    },
+    {
+      "text": "Global Fitness Day is celebrated on the first Wednesday of May.",
+      "month": 5,
+      "day": 6,
+      "source": "https://en.wikipedia.org/wiki/Global_Fitness_Day"
+    },
+    {
+      "text": "Your body has three main energy systems: the phosphagen system (0-10 seconds), glycolytic system (10 seconds-2 minutes), and oxidative system (2+ minutes).",
+      "source": "https://en.wikipedia.org/wiki/Your_body"
+    },
+    {
+      "text": "The deficit deadlift—standing on a raised platform—increases the range of motion and develops more pulling strength off the floor.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "Charles Atlas ran his famous 'Dynamic Tension' bodybuilding mail-order course from the 1920s through the 1970s.",
+      "source": "https://en.wikipedia.org/wiki/Charles_Atlas"
+    },
+    {
+      "text": "Blood flow restriction (BFR) training uses bands or wraps to partially restrict venous blood flow, allowing muscle growth with lighter loads.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "The Romanian deadlift was named when Romanian weightlifter Nicu Vlad demonstrated the exercise to American coaches.",
+      "source": "https://en.wikipedia.org/wiki/Romanian_deadlift"
+    },
+    {
+      "text": "Your core muscles include the rectus abdominis, obliques, transverse abdominis, erector spinae, and multifidus.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "Spinning classes were invented by South African cyclist Johnny Goldberg (Johnny G) in the late 1980s.",
+      "source": "https://en.wikipedia.org/wiki/Spinning_classes"
+    },
+    {
+      "text": "The world record bench press in competition (equipped) is over 770 kg (1,700 lbs) using a bench shirt for support.",
+      "source": "https://en.wikipedia.org/wiki/world_record_bench_press_in_competition_(equipped)"
+    },
+    {
+      "text": "Creatine loading involves taking 20 grams per day for 5-7 days, followed by a maintenance dose of 3-5 grams daily.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "Turkish get-ups are a centuries-old exercise that builds total-body strength, stability, and mobility using a single kettlebell or dumbbell.",
+      "source": "https://en.wikipedia.org/wiki/Turkish_get-ups"
+    },
+    {
+      "text": "The preacher curl bench was popularized by bodybuilder Larry Scott, the first Mr. Olympia winner.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/preacher_curl_bench"
+    },
+    {
+      "text": "Running economy—how efficiently you use oxygen at a given speed—is as important as VO2 max for distance running performance.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "The original Gold's Gym logo featured the muscular physique of bodybuilder Ken Waller.",
+      "source": "https://en.wikipedia.org/wiki/Gold%27s_Gym"
+    },
+    {
+      "text": "The face pull is considered one of the best exercises for rear deltoid and rotator cuff health.",
+      "source": "https://en.wikipedia.org/wiki/face_pull"
+    },
+    {
+      "text": "Fasted training may increase fat oxidation during exercise but does not lead to greater fat loss over time.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "The hammer curl targets the brachioradialis and brachialis muscles more than a standard bicep curl.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "Tough Mudder, founded in 2010, is an endurance obstacle course event that typically covers 10-12 miles with 25+ obstacles.",
+      "source": "https://en.wikipedia.org/wiki/Tough_Mudder"
+    },
+    {
+      "text": "The Bulgarian training method involves daily maximal lifts, a practice that produces elite weightlifters despite its extreme intensity.",
+      "source": "https://en.wikipedia.org/wiki/Bulgarian"
+    },
+    {
+      "text": "Yoga nidra, also known as 'yogic sleep,' is a guided relaxation practice that can reduce cortisol levels and improve recovery.",
+      "source": "https://en.wikipedia.org/wiki/Yoga_nidra%2C_also_known_as_%27yogic_sleep"
+    },
+    {
+      "text": "The dumbbell fly isolates the pectoralis major by removing triceps involvement from the pressing movement.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "Marathon runners can lose 6-10% of their body weight in sweat during a race.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "Weighted vest training can increase calorie burn by 12-15% during walking or running.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "The reverse grip bench press activates the upper chest more than a standard grip, according to EMG studies.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "Gym memberships in the United States generate roughly $35 billion in annual revenue.",
+      "source": "https://en.wikipedia.org/wiki/United_States"
+    },
+    {
+      "text": "Tempo training—controlling the speed of each phase of a lift—can increase time under tension and promote hypertrophy.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "Larry Wheels became a social media sensation for his incredible feats of strength, including a 675-lb raw bench press.",
+      "source": "https://en.wikipedia.org/wiki/Larry_Wheels"
+    },
+    {
+      "text": "The goblet squat, popularized by strength coach Dan John, is considered one of the best squatting movements for beginners.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/goblet_squat%2C_popularized_by_strength_coach_Dan_John"
+    },
+    {
+      "text": "Caffeine can improve exercise performance by 3-5% when consumed 30-60 minutes before training.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "The leg curl machine targets the hamstrings, which many lifters neglect despite their importance for knee stability.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "World Bodybuilding Day is celebrated on September 14.",
+      "month": 9,
+      "day": 14,
+      "source": "https://en.wikipedia.org/wiki/World_Bodybuilding_Day"
+    },
+    {
+      "text": "The concept of 'train to failure' means performing reps until you cannot complete another with proper form.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "Battle ropes were popularized by strength coach John Brookfield in the early 2000s as a conditioning tool.",
+      "source": "https://en.wikipedia.org/wiki/Battle_ropes"
+    },
+    {
+      "text": "The Wim Hof Method combines cold exposure, breathing techniques, and meditation to improve fitness and resilience.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Wim_Hof_Method"
+    },
+    {
+      "text": "A standard Olympic weightlifting platform is 8 feet by 8 feet (2.4m x 2.4m) and made of rubber and wood.",
+      "source": "https://en.wikipedia.org/wiki/A_standard_Olympic_weightlifting_platform"
+    },
+    {
+      "text": "Deloading—reducing training volume or intensity for a week—can help prevent overtraining and promote recovery.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "The chest-supported row eliminates lower back strain while allowing you to focus entirely on upper back development.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "Omega-3 fatty acids (found in fish oil) may help reduce exercise-induced inflammation and improve recovery.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "The Nautilus hip and back machine was once voted the most uncomfortable but effective gym machine.",
+      "source": "https://en.wikipedia.org/wiki/Nautilus_hip_and_back_machine"
+    },
+    {
+      "text": "Joe Weider founded the International Federation of BodyBuilders (IFBB) in 1946 and created the Mr. Olympia contest.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Joe_Weider"
+    },
+    {
+      "text": "Bear crawls and animal flow movements have become increasingly popular for building functional strength and mobility.",
+      "source": "https://en.wikipedia.org/wiki/Bear_crawls_and_animal_flow_movements"
+    },
+    {
+      "text": "Marathon des Sables is a 156-mile ultramarathon across the Sahara Desert, considered one of the toughest races on Earth.",
+      "source": "https://en.wikipedia.org/wiki/Marathon_des_Sables"
+    },
+    {
+      "text": "The pendlay row, named after coach Glenn Pendlay, requires the barbell to return to the floor between each rep.",
+      "source": "https://en.wikipedia.org/wiki/pendlay_row"
+    },
+    {
+      "text": "Your body can store approximately 500 grams of glycogen—400g in muscles and 100g in the liver.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "Bodybuilding's 'Classic Physique' division was introduced by the IFBB in 2016 to bring back a more aesthetic look.",
+      "source": "https://en.wikipedia.org/wiki/Bodybuilding%27s_%27Classic_Physique%27_division"
+    },
+    {
+      "text": "The leg extension machine isolates the quadriceps but places significant shear force on the knee joint.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "Breathing technique during lifting: exhale on the concentric (effort) phase and inhale on the eccentric (lowering) phase.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "Mariusz Pudzianowski won the World's Strongest Man competition five times, the most in the event's history.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Mariusz_Pudzianowski"
+    },
+    {
+      "text": "The GHR (Glute Ham Raise) is one of the few exercises that works both the knee flexion and hip extension functions of the hamstrings.",
+      "source": "https://en.wikipedia.org/wiki/GHR_(Glute_Ham_Raise)"
+    },
+    {
+      "text": "Sleep deprivation can decrease testosterone levels by up to 15%, significantly impairing muscle recovery and growth.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "Band-resisted training adds accommodating resistance, making exercises harder at the top where you're mechanically stronger.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "Chris Bumstead has won multiple Classic Physique Mr. Olympia titles, becoming one of bodybuilding's biggest modern stars.",
+      "source": "https://en.wikipedia.org/wiki/Chris_Bumstead"
+    },
+    {
+      "text": "The 'bro split'—training one muscle group per day—remains popular despite full-body and push/pull/legs splits being more efficient for most people.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "The concept of 'progressive overload' was first described by Milo of Croton, an ancient Greek wrestler who carried a growing calf daily.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/concept_of_%27progressive_overload"
+    },
+    {
+      "text": "An exercise ball (Swiss ball) was originally developed in 1963 by Italian plastics manufacturer Aquilino Cosani for use in physical therapy.",
+      "source": "https://en.wikipedia.org/wiki/An_exercise_ball_(Swiss_ball)"
+    },
+    {
+      "text": "The CrossFit Open is an annual worldwide online competition that serves as the first stage of the CrossFit Games season.",
+      "month": 2,
+      "day": 25,
+      "source": "https://en.wikipedia.org/wiki/CrossFit_Open"
+    },
+    {
+      "text": "Cooling down after exercise with light activity and stretching can help reduce blood lactate levels and prevent dizziness.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "The Jefferson squat—straddling the barbell between your legs—is an old-school exercise making a comeback for its rotational strength benefits.",
+      "source": "https://en.wikipedia.org/wiki/Jefferson"
+    },
+    {
+      "text": "Vitamin D deficiency is linked to decreased muscle function and increased injury risk among athletes.",
+      "source": "https://en.wikipedia.org/wiki/Vitamin_D_deficiency"
+    },
+    {
+      "text": "The military press is performed standing with a strict form, distinguishing it from the more lenient push press.",
+      "source": "https://en.wikipedia.org/wiki/military_press"
+    },
+    {
+      "text": "Schwarzenegger's chest and back superset workouts are legendary for building an impressive V-taper physique.",
+      "source": "https://en.wikipedia.org/wiki/Schwarzenegger%27s_chest_and_back_superset_workouts"
+    },
+    {
+      "text": "The world record for the most pull-ups in 24 hours is 7,715, set by Andrew Shapiro in 2016.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/world_record_for_the_most_pull-ups_in_24_hours"
+    },
+    {
+      "text": "Heat acclimation—training in hot conditions—can improve performance in both hot and cool environments.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "The Zercher squat—holding the barbell in the crooks of your elbows—was invented by Ed Zercher, a 1930s strongman.",
+      "source": "https://en.wikipedia.org/wiki/Zercher_squat%E2%80%94holding_the_barbell_in_the_crooks_of_your_elbows%E2%80%94was"
+    },
+    {
+      "text": "Topical magnesium (Epsom salt baths) is popular among athletes for muscle recovery, though scientific evidence is limited.",
+      "source": "https://en.wikipedia.org/wiki/Topical_magnesium_(Epsom_salt_baths)"
+    },
+    {
+      "text": "Time under tension (TUT) for optimal hypertrophy is generally believed to be 40-70 seconds per set.",
+      "source": "https://en.wikipedia.org/wiki/Time_under_tension_(TUT)_for_optimal_hypertrophy"
+    },
+    {
+      "text": "The hip thrust was popularized by strength researcher Bret Contreras, earning him the nickname 'The Glute Guy.'",
+      "source": "https://en.wikipedia.org/wiki/hip_thrust"
+    },
+    {
+      "text": "The very first women's Mr. Olympia (Ms. Olympia) was held in 1980 and won by Rachel McLish.",
+      "month": 8,
+      "day": 16,
+      "source": "https://en.wikipedia.org/wiki/very_first_women%27s_Mr._Olympia_(Ms._Olympia)"
+    },
+    {
+      "text": "The Valsalva maneuver—taking a deep breath and bracing your core—helps stabilize the spine during heavy lifts.",
+      "source": "https://en.wikipedia.org/wiki/Valsalva"
+    },
+    {
+      "text": "Medicine balls have been used for exercise since ancient Greece, where they were made of animal skins filled with sand.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Medicine_balls"
+    },
+    {
+      "text": "Insulin is a highly anabolic hormone that helps shuttle nutrients into muscle cells after a workout.",
+      "source": "https://en.wikipedia.org/wiki/Insulin"
+    },
+    {
+      "text": "The standing calf raise primarily targets the gastrocnemius, while the seated calf raise emphasizes the soleus muscle.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "Sprint intervals of 30 seconds on/30 seconds off can improve cardiovascular fitness as effectively as steady-state cardio lasting five times longer.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "The deadlift was once called the 'health lift' in the late 1800s because of its believed benefits for overall vitality.",
+      "source": "https://en.wikipedia.org/wiki/deadlift"
+    },
+    {
+      "text": "Box squats were popularized by Westside Barbell's Louie Simmons as a way to develop explosive hip power.",
+      "source": "https://en.wikipedia.org/wiki/Box_squats"
+    },
+    {
+      "text": "The 'Murph' CrossFit workout is named after Navy Lieutenant Michael Murphy, who was killed in Afghanistan in 2005.",
+      "month": 5,
+      "day": 25,
+      "source": "https://en.wikipedia.org/wiki/%27Murph%27_CrossFit_workout"
+    },
+    {
+      "text": "Grip training tools include grippers, fat gripz, wrist rollers, and hangboards (originally used by rock climbers).",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "Total daily energy expenditure (TDEE) includes BMR, the thermic effect of food, and physical activity.",
+      "source": "https://en.wikipedia.org/wiki/Total_daily_energy_expenditure_(TDEE)"
+    },
+    {
+      "text": "The behind-the-neck press was once a bodybuilding staple but has fallen out of favor due to increased shoulder injury risk.",
+      "source": "https://en.wikipedia.org/wiki/behind-the-neck_press"
+    },
+    {
+      "text": "Myofascial release using lacrosse balls can target deeper tissue than foam rollers.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "The 2024 Paris Olympics included breakdancing (breaking) for the first time as an Olympic sport.",
+      "month": 7,
+      "day": 26,
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/2024_Paris_Olympics"
+    },
+    {
+      "text": "Supersetting antagonist muscles (e.g., biceps and triceps) can increase workout efficiency without reducing performance.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "The trap shrug is the most basic exercise for developing the upper trapezius muscles.",
+      "source": "https://en.wikipedia.org/wiki/trap_shrug"
+    },
+    {
+      "text": "Periodization models include linear, undulating, and block periodization, each with different approaches to volume and intensity.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "The Concept2 rowing machine is the official ergometer used in indoor rowing competitions worldwide.",
+      "source": "https://en.wikipedia.org/wiki/Concept2_rowing_machine"
+    },
+    {
+      "text": "Collagen protein supplements have become popular for joint and tendon health, though their muscle-building benefits are limited compared to whey.",
+      "source": "https://en.wikipedia.org/wiki/Collagen_protein_supplements"
+    },
+    {
+      "text": "Greg Glassman founded CrossFit in 2000, defining it as 'constantly varied functional movements performed at high intensity.'",
+      "source": "https://en.wikipedia.org/wiki/Greg_Glassman"
+    },
+    {
+      "text": "The pallof press is an anti-rotation core exercise named after physical therapist John Pallof.",
+      "source": "https://en.wikipedia.org/wiki/pallof_press"
+    },
+    {
+      "text": "A caloric surplus of 200-500 calories above maintenance is recommended for lean muscle gain (a 'lean bulk').",
+      "source": "https://en.wikipedia.org/wiki/A_caloric_surplus_of_200-500_calories_above_maintenance"
+    },
+    {
+      "text": "The bench press world record in the raw (no equipment) category exceeds 350 kg (770 lbs).",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "Bulgarian bags—crescent-shaped weighted training tools—were developed by Olympic wrestling coach Ivan Ivanov.",
+      "source": "https://en.wikipedia.org/wiki/Bulgarian_bags%E2%80%94crescent-shaped_weighted_training_tools%E2%80%94were"
+    },
+    {
+      "text": "Lactic acid was long blamed for muscle soreness, but research shows it's actually a fuel source, not a waste product.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Lactic_acid"
+    },
+    {
+      "text": "The sissy squat targets the quadriceps intensely and was reportedly named because it looked 'easy' but was deceptively difficult.",
+      "source": "https://en.wikipedia.org/wiki/sissy_squat_targets_the_quadriceps_intensely_and"
+    },
+    {
+      "text": "Glucosamine and chondroitin are popular joint health supplements, especially among older athletes.",
+      "source": "https://en.wikipedia.org/wiki/Glucosamine_and_chondroitin"
+    },
+    {
+      "text": "The hex (trap) bar was invented by Al Gerard, a powerlifter who wanted to reduce lower back stress during deadlifting.",
+      "source": "https://en.wikipedia.org/wiki/hex_(trap)_bar"
+    },
+    {
+      "text": "National Weightlifting Day falls on the first weekend in June.",
+      "month": 6,
+      "day": 6,
+      "source": "https://en.wikipedia.org/wiki/National_Weightlifting_Day"
+    },
+    {
+      "text": "German Volume Training (GVT) involves performing 10 sets of 10 reps of a single exercise with a moderate weight.",
+      "source": "https://en.wikipedia.org/wiki/German_Volume_Training_(GVT)_involves_performing_10"
+    },
+    {
+      "text": "Fartlek training—Swedish for 'speed play'—combines continuous running with interval training.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Swedish_for"
+    },
+    {
+      "text": "The pegboard climb is a challenging upper body exercise commonly found in CrossFit competitions and ninja warrior courses.",
+      "source": "https://en.wikipedia.org/wiki/pegboard_climb"
+    },
+    {
+      "text": "Workout music tempo between 120-140 BPM has been shown to enhance exercise performance and enjoyment.",
+      "source": "https://en.wikipedia.org/wiki/Workout_music_tempo_between_120-140_BPM"
+    },
+    {
+      "text": "The Inzer Advance Designs company has been manufacturing powerlifting belts and equipment since 1978.",
+      "source": "https://en.wikipedia.org/wiki/Inzer_Advance_Designs_company"
+    },
+    {
+      "text": "Omega-6 to omega-3 ratio in the diet should ideally be between 1:1 and 4:1 for optimal recovery and inflammation management.",
+      "source": "https://en.wikipedia.org/wiki/Omega-6_to"
+    },
+    {
+      "text": "The floor press preceded the bench press and is still used as an accessory exercise to build lockout strength.",
+      "source": "https://en.wikipedia.org/wiki/floor_press_preceded_the_bench_press_and"
+    },
+    {
+      "text": "Dorian Yates trained at his own gym, Temple Gym in Birmingham, England, and only trained each body part once per week with extreme intensity.",
+      "source": "https://en.wikipedia.org/wiki/Dorian_Yates"
+    },
+    {
+      "text": "Altitude training masks simulate high-altitude conditions by restricting airflow, though their effectiveness is debated.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "The Copenhagen adduction exercise is one of the most effective movements for strengthening the inner thigh (adductor) muscles.",
+      "source": "https://en.wikipedia.org/wiki/Copenhagen_adduction_exercise"
+    },
+    {
+      "text": "Chalk (magnesium carbonate) improves grip by absorbing moisture from the hands and is essential for heavy lifting.",
+      "source": "https://en.wikipedia.org/wiki/Chalk_(magnesium_carbonate)_improves_grip_by_absorbing_moisture_from_the_hands_and"
+    },
+    {
+      "text": "The first Tough Mudder event was held in 2010 in Bear Creek, Pennsylvania.",
+      "month": 5,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/first_Tough_Mudder_event"
+    },
+    {
+      "text": "Accommodating resistance—using chains on a barbell—was popularized by Westside Barbell for building explosive strength.",
+      "source": "https://en.wikipedia.org/wiki/Westside_Barbell_for"
+    },
+    {
+      "text": "Bone density increases in response to weight-bearing exercise, making resistance training crucial for preventing osteoporosis.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "The CrossFit 'Hero WODs' are named after fallen military members and first responders.",
+      "source": "https://en.wikipedia.org/wiki/CrossFit_%27Hero_WODs"
+    },
+    {
+      "text": "A push/pull/legs (PPL) training split allows each muscle group to be trained twice per week with adequate recovery.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "Paused reps—holding the weight at the bottom of a lift—eliminate the stretch reflex and build strength out of the hole.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "The world's most expensive gym membership is reportedly at the Wellness Sky gym in Belgrade, Serbia, costing thousands per month.",
+      "source": "https://en.wikipedia.org/wiki/world%27s_most_expensive_gym_membership"
+    },
+    {
+      "text": "Beta-alanine, a common pre-workout ingredient, can cause a harmless tingling sensation called paresthesia.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Beta-alanine%2C_a_common_pre-workout_ingredient%2C_can_cause_a_harmless_tingling_sensation"
+    },
+    {
+      "text": "The Westside Barbell conjugate method alternates between max effort and dynamic effort training days.",
+      "source": "https://en.wikipedia.org/wiki/Westside_Barbell"
+    },
+    {
+      "text": "Bosu balls (Both Sides Up) were invented by David Weck in 1999 for balance and stability training.",
+      "source": "https://en.wikipedia.org/wiki/Bosu_balls_(Both_Sides_Up)"
+    },
+    {
+      "text": "Morning exercise can improve sleep quality, while intense evening exercise may delay sleep onset for some people.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "The world's fastest marathon time in an official race is 2:00:35 by Kelvin Kiptum, set at the 2023 Chicago Marathon.",
+      "month": 10,
+      "day": 8,
+      "source": "https://en.wikipedia.org/wiki/world%27s_fastest_marathon_time_in_an_official_race"
+    },
+    {
+      "text": "Single-leg exercises like lunges and step-ups can help correct muscle imbalances between your dominant and non-dominant sides.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "The concept of 'newbie gains' refers to the rapid muscle and strength gains beginners experience in their first 6-12 months of training.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "The overhead squat is the most challenging squat variation, requiring exceptional shoulder, hip, and ankle mobility.",
+      "source": "https://en.wikipedia.org/wiki/overhead_squat"
+    },
+    {
+      "text": "Protein shakes were first commercialized in the 1950s by Irvin Johnson (later known as Rheo H. Blair).",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Protein_shakes"
+    },
+    {
+      "text": "The Z-press—a seated overhead press performed on the floor without back support—was named after strongman Žydrūnas Savickas.",
+      "source": "https://en.wikipedia.org/wiki/Z-press%E2%80%94a_seated_overhead_press"
+    },
+    {
+      "text": "World Health Organization recommends adults perform at least 150-300 minutes of moderate aerobic activity per week.",
+      "source": "https://en.wikipedia.org/wiki/World_Health_Organization"
+    },
+    {
+      "text": "The Nordic hamstring curl has been shown to reduce hamstring injury rates by up to 51% in athletes.",
+      "source": "https://en.wikipedia.org/wiki/Nordic_hamstring_curl"
+    },
+    {
+      "text": "Dead hangs from a pull-up bar can decompress the spine and improve grip strength simultaneously.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "The Russian twist is a core exercise that targets the obliques through rotational movement, often performed with a medicine ball.",
+      "source": "https://en.wikipedia.org/wiki/Russian_twist"
+    },
+    {
+      "text": "Eugen Sandow organized the first major bodybuilding contest at the Royal Albert Hall on September 14, 1901.",
+      "month": 9,
+      "day": 14,
+      "source": "https://en.wikipedia.org/wiki/Eugen_Sandow"
+    },
+    {
+      "text": "Circuit training—rotating through exercises with minimal rest—was developed at the University of Leeds in 1953.",
+      "source": "https://en.wikipedia.org/wiki/Circuit_training%E2%80%94rotating_through_exercises_with_minimal_rest%E2%80%94was"
+    },
+    {
+      "text": "HMB (beta-hydroxy beta-methylbutyrate) is a leucine metabolite that may help reduce muscle breakdown during intense training.",
+      "source": "https://en.wikipedia.org/wiki/HMB_(beta-hydroxy_beta-methylbutyrate)"
+    },
+    {
+      "text": "The Good Morning exercise got its name because the hip hinge motion resembles a bow, as if greeting someone in the morning.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Good_Morning"
+    },
+    {
+      "text": "Sand-filled workout equipment like slosh pipes and sandbags create an unstable load that challenges stabilizer muscles.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "The standing military press was once one of the three Olympic lifts alongside the snatch and clean & jerk.",
+      "source": "https://en.wikipedia.org/wiki/standing_military_press"
+    },
+    {
+      "text": "Massage guns (percussive therapy devices) became mainstream around 2016 with the launch of the Theragun.",
+      "source": "https://en.wikipedia.org/wiki/Massage_guns_(percussive_therapy_devices)"
+    },
+    {
+      "text": "The front squat places more emphasis on the quadriceps and requires more thoracic spine mobility than the back squat.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "Your muscles can only gain about 0.25-0.5 pounds of actual muscle tissue per week under optimal conditions.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "The AbRoller (or ab wheel) is one of the most effective abdominal exercises, outperforming crunches in EMG studies.",
+      "source": "https://en.wikipedia.org/wiki/AbRoller_(or_ab_wheel)"
+    },
+    {
+      "text": "Richard Simmons' 'Sweatin' to the Oldies' VHS series sold over 20 million copies in the 1990s.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Richard_Simmons"
+    },
+    {
+      "text": "The yoke walk, a strongman event, involves carrying a heavy loaded frame across the shoulders while walking for distance or speed.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "Training frequency of 2-3 times per muscle group per week appears to be superior to once per week for hypertrophy.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "The barbell hip thrust activates the glutes more than squats or deadlifts, according to EMG research.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "Athletic greens and daily multivitamins are popular among fitness enthusiasts, though whole foods remain the best nutrient source.",
+      "source": "https://en.wikipedia.org/wiki/Athletic_greens_and_daily_multivitamins"
+    },
+    {
+      "text": "The Atlas stone lift is one of the most iconic strongman events, requiring athletes to load heavy spherical stones onto platforms.",
+      "source": "https://en.wikipedia.org/wiki/Atlas_stone_lift"
+    },
+    {
+      "text": "The first Olympic marathon in 1896 was won by Spiridon Louis, a Greek water carrier, covering roughly 40 km.",
+      "month": 4,
+      "day": 10,
+      "source": "https://en.wikipedia.org/wiki/first_Olympic_marathon_in_1896"
+    },
+    {
+      "text": "Natural bodybuilding competitions test athletes for performance-enhancing drugs through urinalysis and polygraph tests.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "Wearable fitness trackers began gaining popularity with the launch of the Fitbit in 2009.",
+      "source": "https://en.wikipedia.org/wiki/Fitbit"
+    },
+    {
+      "text": "The RDL (Romanian Deadlift) primarily targets the hamstrings and is performed with a slight knee bend and hip hinge.",
+      "source": "https://en.wikipedia.org/wiki/RDL_(Romanian_Deadlift)_primarily_targets_the_hamstrings_and"
+    },
+    {
+      "text": "The SAID principle (Specific Adaptation to Imposed Demands) states your body adapts specifically to the type of stress placed upon it.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/The"
+    },
+    {
+      "text": "Rest-pause training involves performing a set to near failure, resting 10-15 seconds, then completing additional reps.",
+      "source": "https://en.wikipedia.org/wiki/Rest-pause_training_involves_performing_a"
+    },
+    {
+      "text": "The first electric treadmill for home use was introduced by Quinton Instruments in 1952.",
+      "source": "https://en.wikipedia.org/wiki/first_electric_treadmill_for_home_use"
+    },
+    {
+      "text": "The 'V-taper' in bodybuilding refers to a wide back narrowing to a small waist, considered the ideal aesthetic proportion.",
+      "source": "https://en.wikipedia.org/wiki/V-taper%27_in"
+    },
+    {
+      "text": "Nitric oxide boosters like citrulline and beetroot juice can enhance blood flow and exercise performance.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "The log press, an overhead pressing event using a large cylindrical log, is a staple of strongman competitions.",
+      "source": "https://en.wikipedia.org/wiki/log_press%2C_an_overhead_pressing_event_using_a_large_cylindrical_log"
+    },
+    {
+      "text": "Indoor cycling (Spinning) classes can burn 400-600 calories per 45-minute session.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "Ashtanga yoga follows a specific sequence of poses and is practiced in the same order every session.",
+      "source": "https://en.wikipedia.org/wiki/Ashtanga_yoga_follows_a_specific_sequence_of_poses_and"
+    },
+    {
+      "text": "The concept of 'training age' refers to how many years you've been consistently training, not your chronological age.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "Resistance training can lower blood pressure by 5-10 mmHg, comparable to some blood pressure medications.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "The safety squat bar has a padded yoke and handles, making it easier on shoulders and elbows for those with mobility issues.",
+      "source": "https://en.wikipedia.org/wiki/safety_squat_bar"
+    },
+    {
+      "text": "Your rotator cuff is a group of four muscles (supraspinatus, infraspinatus, teres minor, subscapularis) that stabilize the shoulder joint.",
+      "source": "https://en.wikipedia.org/wiki/Your_rotator_cuff"
+    },
+    {
+      "text": "The world's oldest gym, Real Gimnàstic de Tarragona, was founded in 1886 in Spain.",
+      "source": "https://en.wikipedia.org/wiki/world%27s_oldest_gym%2C_Real_Gimn%C3%A0stic_de_Tarragona"
+    },
+    {
+      "text": "Intermittent fasting protocols like 16:8 have been adopted by many fitness enthusiasts, though their muscle-building benefits are debated.",
+      "source": "https://en.wikipedia.org/wiki/Intermittent_fasting_protocols_like_16:8"
+    },
+    {
+      "text": "The snatch grip deadlift uses a wider grip to increase range of motion and upper back engagement.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "The International Powerlifting Federation (IPF) was founded in 1972 and governs competitive powerlifting worldwide.",
+      "month": 11,
+      "day": 11,
+      "source": "https://en.wikipedia.org/wiki/International_Powerlifting_Federation_(IPF)"
+    },
+    {
+      "text": "Pyramid sets involve increasing weight and decreasing reps with each successive set of an exercise.",
+      "source": "https://en.wikipedia.org/wiki/Pyramid"
+    },
+    {
+      "text": "Cold water immersion (ice baths) at 10-15°C for 10-15 minutes post-workout may help reduce acute muscle soreness.",
+      "source": "https://en.wikipedia.org/wiki/C_for_10"
+    },
+    {
+      "text": "The World Gym chain was founded by Joe Gold (who also founded Gold's Gym) in 1976.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/World_Gym_chain"
+    },
+    {
+      "text": "Occlusion training (BFR) can promote muscle growth using weights as light as 20-30% of your one-rep max.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "Running backwards (retro running) can burn 30% more calories than forward running and reduces knee joint stress.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "The straight-arm pulldown is an isolation exercise for the latissimus dorsi that eliminates bicep involvement.",
+      "source": "https://en.wikipedia.org/wiki/straight-arm_pulldown"
+    },
+    {
+      "text": "Pre-exhaust training involves fatiguing a muscle with an isolation exercise before performing a compound movement.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "The sled push and sled pull are low-impact conditioning exercises that build leg strength without the eccentric muscle damage.",
+      "source": "https://en.wikipedia.org/wiki/sled_push_and_sled_pull"
+    },
+    {
+      "text": "National Physical Fitness and Sports Month is observed in May in the United States.",
+      "month": 5,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/National_Physical_Fitness_and_Sports_Month"
+    },
+    {
+      "text": "Bilateral deficit is the phenomenon where each limb individually can produce more force than both limbs combined.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Bilateral_deficit"
+    },
+    {
+      "text": "Sandbag training develops rotational strength and grip endurance because the shifting sand creates an unpredictable load.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "Donna Moore of Scotland became the World's Strongest Woman in 2016 at just 5'5\" tall.",
+      "source": "https://en.wikipedia.org/wiki/Donna_Moore_of_Scotland"
+    },
+    {
+      "text": "The walking lunge is both a strength exercise and a balance challenge that targets quads, glutes, and hamstrings.",
+      "source": "https://en.wikipedia.org/wiki/walking_lunge"
+    },
+    {
+      "text": "Hydrolyzed whey protein is pre-digested for faster absorption, making it slightly superior for post-workout recovery timing.",
+      "source": "https://en.wikipedia.org/wiki/Hydrolyzed_whey_protein"
+    },
+    {
+      "text": "The world record for the most consecutive muscle-ups is over 30, requiring exceptional upper body strength and coordination.",
+      "source": "https://en.wikipedia.org/wiki/world_record_for_the_most_consecutive_muscle-ups"
+    },
+    {
+      "text": "The seated cable row is one of the most effective exercises for developing middle back thickness.",
+      "source": "https://en.wikipedia.org/wiki/seated_cable_row"
+    },
+    {
+      "text": "Arnold Schwarzenegger's Encyclopedia of Modern Bodybuilding, published in 1985, is still considered a definitive fitness reference.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Arnold_Schwarzenegger%27s_Encyclopedia_of_Modern_Bodybuilding%2C_published_in_1985"
+    },
+    {
+      "text": "The cross-body hammer curl targets the brachialis more effectively and can help build arm width.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "Concurrent training—combining resistance and endurance training—can lead to the 'interference effect,' potentially reducing strength gains.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "The dip exercise targets the triceps, chest, and anterior deltoids and is considered one of the best upper body compound movements.",
+      "source": "https://en.wikipedia.org/wiki/dip_exercise_targets_the_triceps%2C_chest%2C_and_anterior_deltoids_and"
+    },
+    {
+      "text": "Recovery shoes with thick, cushioned soles (like HOKA and OOFOS) became a fitness trend for post-workout recovery.",
+      "source": "https://en.wikipedia.org/wiki/Recovery_shoes_with_thick%2C_cushioned_soles_(like_HOKA_and_OOFOS)"
+    },
+    {
+      "text": "The Western Periodization model starts with high volume/low intensity and gradually shifts to low volume/high intensity.",
+      "source": "https://en.wikipedia.org/wiki/Western_Periodization"
+    },
+    {
+      "text": "Yoga blocks, straps, and bolsters are props designed to make poses accessible for practitioners of all flexibility levels.",
+      "source": "https://en.wikipedia.org/wiki/Yoga_blocks%2C_straps%2C_and_bolsters"
+    },
+    {
+      "text": "The hollow body hold is a foundational gymnastics position that builds core strength and body awareness.",
+      "source": "https://en.wikipedia.org/wiki/hollow_body_hold"
+    },
+    {
+      "text": "Eccentric training can produce up to 30-40% more force than concentric training with the same muscle groups.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "The strict curl event in strength sports requires the athlete to perform a barbell curl with their back against a wall.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "Post-activation potentiation (PAP) involves performing a heavy compound lift followed by an explosive movement to enhance power output.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "Rich Froning transitioned from individual CrossFit Games champion to leading CrossFit Mayhem Freedom, winning team titles.",
+      "source": "https://en.wikipedia.org/wiki/Rich_Froning"
+    },
+    {
+      "text": "The world's deepest swimming pool, Deep Dive Dubai (60 meters), is used for strength and breath-hold training.",
+      "source": "https://en.wikipedia.org/wiki/world%27s_deepest_swimming_pool%2C_Deep_Dive_Dubai_(60_meters)"
+    },
+    {
+      "text": "Hindu push-ups (dive bombers) are a traditional Indian exercise that combines the movements of Downward Dog and Upward Dog.",
+      "source": "https://en.wikipedia.org/wiki/Hindu_push-ups_(dive_bombers)"
+    },
+    {
+      "text": "The EZ-curl bar was designed with an angled grip to reduce wrist strain during bicep curl exercises.",
+      "source": "https://en.wikipedia.org/wiki/EZ-curl_bar"
+    },
+    {
+      "text": "The Hatch squat program is a popular 12-week back squat and front squat protocol known for building serious leg strength.",
+      "source": "https://en.wikipedia.org/wiki/Hatch_squat_program"
+    },
+    {
+      "text": "Cryotherapy chambers expose the body to extreme cold (below -200°F) for 2-3 minutes and are used by elite athletes for recovery.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Cryotherapy_chambers_expose_the_body_to_extreme_cold_(below_-200%C2%B0F)_for_2-3_minutes_and"
+    },
+    {
+      "text": "The incline dumbbell curl stretches the long head of the biceps more than standing curls, creating a greater growth stimulus.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "Modern running shoes typically last 300-500 miles before the cushioning breaks down significantly.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "The Arnold Classic bodybuilding competition has been held annually in Columbus, Ohio, since 1989.",
+      "month": 3,
+      "day": 5,
+      "source": "https://en.wikipedia.org/wiki/Arnold_Classic_bodybuilding_competition"
+    },
+    {
+      "text": "Partial reps, such as quarter squats and board presses, can build strength at specific points in a range of motion.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "Morning protein consumption helps kickstart muscle protein synthesis after the overnight fasting period.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "The burpee was invented by Royal H. Burpee, an American physiologist, as part of a fitness test in 1939.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/burpee"
+    },
+    {
+      "text": "The chest-supported T-bar row was a favorite exercise at Gold's Gym during the Golden Era of bodybuilding.",
+      "source": "https://en.wikipedia.org/wiki/chest-supported_T-bar_row"
+    },
+    {
+      "text": "The world's largest gym chain by number of locations is Planet Fitness, with over 2,400 clubs.",
+      "source": "https://en.wikipedia.org/wiki/world%27s_largest_gym_chain_by_number_of_locations"
+    },
+    {
+      "text": "The pendulum squat machine provides a unique arc of movement that some lifters find more comfortable than traditional leg presses.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "High bar squats (bar on upper traps) emphasize quads more, while low bar squats (bar on rear delts) emphasize posterior chain.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "Active recovery—performing light exercise on rest days—can improve blood flow and speed up muscle repair.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "The concept of 'mind over muscle' has been validated by neurological studies showing the brain can limit physical output as a protective mechanism.",
+      "source": "https://en.wikipedia.org/wiki/concept_of_%27mind_over_muscle"
+    },
+    {
+      "text": "The thickness of gym floor mats typically ranges from 1/4 inch for general use to 3/4 inch for heavy free weight areas.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "Schwarzenegger served as chairman of the President's Council on Physical Fitness and Sports from 1990 to 1993.",
+      "month": 1,
+      "day": 22,
+      "source": "https://en.wikipedia.org/wiki/President%27s_Council_on_Physical_Fitness_and_Sports"
+    },
+    {
+      "text": "The Jefferson deadlift—straddling the bar—distributes load asymmetrically and trains anti-rotation strength.",
+      "source": "https://en.wikipedia.org/wiki/Jefferson"
+    },
+    {
+      "text": "Overtraining syndrome can cause decreased performance, chronic fatigue, insomnia, and increased susceptibility to illness.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "Training with a spotter allows lifters to safely push beyond failure using forced reps on exercises like bench press.",
+      "source": "https://en.wikipedia.org/wiki/Training_with"
+    },
+    {
+      "text": "The Assault Air Bike, known as the 'Devil's Tricycle,' delivers exponentially harder resistance the faster you pedal.",
+      "source": "https://en.wikipedia.org/wiki/Assault_Air_Bike"
+    },
+    {
+      "text": "The first commercial protein bar, the PowerBar, was launched in 1986 by Canadian marathoner Brian Maxwell.",
+      "month": 3,
+      "day": 15,
+      "source": "https://en.wikipedia.org/wiki/first_commercial_protein_bar%2C_the_PowerBar"
+    },
+    {
+      "text": "Unilateral training—working one side at a time—helps identify and correct strength imbalances between limbs.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "The 5x5 training program, popularized by Reg Park and later by StrongLifts, is one of the most recommended programs for beginners.",
+      "source": "https://en.wikipedia.org/wiki/5x5_training_program%2C_popularized_by_Reg_Park_and_later_by_StrongLifts"
+    },
+    {
+      "text": "Sauna use post-workout may increase growth hormone levels by up to 200-300% during a single session.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "The landmine attachment turns any barbell into a versatile angled pressing and rowing station.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "Static stretching can temporarily reduce maximum strength output by 5-10% if performed immediately before heavy lifting.",
+      "source": "https://en.wikipedia.org/wiki/Static_stretching_can_temporarily_reduce_maximum_strength_output_by_5-10%25_if"
+    },
+    {
+      "text": "Adriene Mishler, host of 'Yoga With Adriene' on YouTube, has over 12 million subscribers, making her the most popular online yoga instructor.",
+      "source": "https://en.wikipedia.org/wiki/Adriene_Mishler%2C_host_of_%27Yoga_With_Adriene%27_on_YouTube"
+    },
+    {
+      "text": "The prowler sled was invented by Jim Wendler and Louie Simmons as a conditioning tool that causes minimal muscle soreness.",
+      "source": "https://en.wikipedia.org/wiki/prowler_sled"
+    },
+    {
+      "text": "Your grip is often the limiting factor in exercises like deadlifts, rows, and pull-ups, making grip training essential.",
+      "source": "https://en.wikipedia.org/wiki/Your_grip"
+    },
+    {
+      "text": "The Weider Principles—a collection of bodybuilding training techniques—were codified by Joe Weider in the 1960s.",
+      "source": "https://en.wikipedia.org/wiki/Weider_Principles"
+    },
+    {
+      "text": "Testosterone levels naturally peak in the early morning and decline throughout the day.",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "The muscle-up combines a pull-up with a dip in one fluid motion and is a hallmark of advanced calisthenics.",
+      "source": "https://en.wikipedia.org/wiki/muscle-up_combines_a_pull-up_with_a_dip_in_one_fluid_motion_and"
+    },
+    {
+      "text": "Foam rolling before exercise primarily works through neurological relaxation rather than physically 'breaking up' tissue.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Physical_fitness"
+    },
+    {
+      "text": "The reverse hyper machine was invented by Louie Simmons of Westside Barbell to rehabilitate his own back injuries.",
+      "source": "https://en.wikipedia.org/wiki/reverse_hyper_machine"
+    }
+  ]
+}

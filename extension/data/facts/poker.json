@@ -1,0 +1,1718 @@
+{
+  "hobby": "Poker",
+  "facts": [
+    {
+      "text": "A royal flush (A-K-Q-J-10 of the same suit) is the highest-ranking hand in Texas Hold'em and occurs roughly once every 649,740 hands.",
+      "source": "https://en.wikipedia.org/wiki/A_royal_flush_(A-K-Q-J-10_of_the_same_suit)"
+    },
+    {
+      "text": "The World Series of Poker (WSOP) is held annually in Las Vegas and is the most prestigious poker tournament series in the world.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/World_Series_of_Poker_(WSOP)"
+    },
+    {
+      "text": "Chris Moneymaker won the 2003 WSOP Main Event after qualifying through a $39 online satellite on PokerStars.",
+      "month": 5,
+      "day": 24,
+      "source": "https://en.wikipedia.org/wiki/Chris_Moneymaker"
+    },
+    {
+      "text": "In Texas Hold'em, each player receives two hole cards face down, and five community cards are dealt face up on the board.",
+      "source": "https://en.wikipedia.org/wiki/In_Texas_Hold%27em%2C_each_player_receives_two_hole_cards_face_down%2C_and_five_community_cards"
+    },
+    {
+      "text": "Phil Hellmuth holds the record for the most WSOP bracelets, having won 17 over his career.",
+      "source": "https://en.wikipedia.org/wiki/Phil_Hellmuth_holds_the_record_for_the_most_WSOP_bracelets%2C_having"
+    },
+    {
+      "text": "The 'dead man's hand'—aces and eights—is named after the hand Wild Bill Hickok was allegedly holding when he was shot dead in 1876.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/%27dead_man%27s_hand%27%E2%80%94aces_and_eights%E2%80%94is"
+    },
+    {
+      "text": "Pot odds compare the current size of the pot to the cost of a contemplated call, helping players decide whether a call is mathematically profitable.",
+      "source": "https://en.wikipedia.org/wiki/Poker"
+    },
+    {
+      "text": "Omaha Hold'em requires players to use exactly two of their four hole cards combined with exactly three of the five community cards.",
+      "source": "https://en.wikipedia.org/wiki/Omaha_Hold%27em"
+    },
+    {
+      "text": "The hole-card camera, invented by Henry Orenstein in the late 1990s, revolutionized televised poker by allowing viewers to see players' hidden cards.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/hole-card_camera"
+    },
+    {
+      "text": "Doyle Brunson won back-to-back WSOP Main Events in 1976 and 1977, both times with a final hand of 10-2.",
+      "source": "https://en.wikipedia.org/wiki/Doyle_Brunson"
+    },
+    {
+      "text": "In No-Limit Texas Hold'em, a player can bet any amount up to and including all of their chips at any time.",
+      "source": "https://en.wikipedia.org/wiki/In_No-Limit_Texas_Hold%27em"
+    },
+    {
+      "text": "The term 'bluff' in poker refers to betting or raising with a hand that is not believed to be the best, hoping opponents will fold superior hands.",
+      "source": "https://en.wikipedia.org/wiki/term_%27bluff%27_in_poker_refers_to_betting_or_raising_with_a_hand_that"
+    },
+    {
+      "text": "PokerStars is the world's largest online poker site, having dealt its 200 billionth hand in 2019.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/PokerStars"
+    },
+    {
+      "text": "Phil Ivey is widely considered one of the greatest poker players of all time, with 10 WSOP bracelets and millions in tournament earnings.",
+      "source": "https://en.wikipedia.org/wiki/Phil_Ivey"
+    },
+    {
+      "text": "The small blind is typically half the size of the big blind, and both are forced bets posted before any cards are dealt.",
+      "source": "https://en.wikipedia.org/wiki/small_blind"
+    },
+    {
+      "text": "Black Friday in online poker refers to April 15, 2011, when the U.S. Department of Justice shut down PokerStars, Full Tilt Poker, and Absolute Poker.",
+      "month": 4,
+      "day": 15,
+      "source": "https://en.wikipedia.org/wiki/Black_Friday_in"
+    },
+    {
+      "text": "GTO (Game Theory Optimal) play is a strategy where a player makes decisions that cannot be exploited, regardless of what the opponent does.",
+      "source": "https://en.wikipedia.org/wiki/GTO_(Game_Theory_Optimal)_play"
+    },
+    {
+      "text": "Seven-Card Stud was the most popular form of poker in American casinos before Texas Hold'em overtook it in the early 2000s.",
+      "source": "https://en.wikipedia.org/wiki/Seven-Card_Stud"
+    },
+    {
+      "text": "The World Poker Tour (WPT) debuted on the Travel Channel in 2003 and helped popularize televised poker.",
+      "month": 3,
+      "day": 30,
+      "source": "https://en.wikipedia.org/wiki/World_Poker_Tour_(WPT)_debuted_on_the_Travel_Channel_in_2003_and"
+    },
+    {
+      "text": "Daniel Negreanu, known as 'Kid Poker,' has won six WSOP bracelets and two WPT titles, accumulating over $42 million in live tournament earnings.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Daniel_Negreanu%2C_known_as_%27Kid_Poker"
+    },
+    {
+      "text": "A 'tell' in poker is a change in a player's behavior or demeanor that gives clues about the strength of their hand.",
+      "source": "https://en.wikipedia.org/wiki/A_%27tell%27_in_poker"
+    },
+    {
+      "text": "Poker originated in the early 19th century in New Orleans, likely evolving from the French game 'poque' and the German game 'pochen.'",
+      "source": "https://en.wikipedia.org/wiki/New_Orleans"
+    },
+    {
+      "text": "In tournament poker, players buy in for a fixed amount and receive a set number of chips; play continues until one player has all the chips.",
+      "source": "https://en.wikipedia.org/wiki/In_tournament_poker%2C_players_buy_in_for_a_fixed_amount_and_receive_a"
+    },
+    {
+      "text": "The 'Moneymaker Effect' refers to the massive poker boom that followed Chris Moneymaker's 2003 WSOP Main Event victory, which proved an amateur could win.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Moneymaker_Effect"
+    },
+    {
+      "text": "Position is one of the most important concepts in poker—players who act later in a betting round have more information and a strategic advantage.",
+      "source": "https://en.wikipedia.org/wiki/Position"
+    },
+    {
+      "text": "Razz is a form of stud poker where the lowest hand wins, with the best possible hand being A-2-3-4-5.",
+      "source": "https://en.wikipedia.org/wiki/Razz"
+    },
+    {
+      "text": "The rake is the commission taken by a casino or cardroom for hosting a poker game, typically a small percentage of each pot.",
+      "source": "https://en.wikipedia.org/wiki/rake"
+    },
+    {
+      "text": "Vanessa Selbst is one of the most successful female poker players in history, with three WSOP bracelets and over $11 million in career tournament earnings.",
+      "source": "https://en.wikipedia.org/wiki/Vanessa_Selbst"
+    },
+    {
+      "text": "Implied odds extend pot odds by estimating how much more money a player can win on future streets if they hit their draw.",
+      "source": "https://en.wikipedia.org/wiki/Poker"
+    },
+    {
+      "text": "The first WSOP Main Event was held in 1970 at Binion's Horseshoe casino in Las Vegas, with Johnny Moss voted the winner by his peers.",
+      "month": 5,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/first_WSOP_Main_Event"
+    },
+    {
+      "text": "HORSE is a mixed poker game that rotates through five variants: Hold'em, Omaha Hi-Lo, Razz, Seven-Card Stud, and Seven-Card Stud Eight-or-Better.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/HORSE"
+    },
+    {
+      "text": "In Texas Hold'em, the three community cards dealt after the first round of betting are called the 'flop.'",
+      "source": "https://en.wikipedia.org/wiki/In_Texas_Hold%27em%2C_the_three_community_cards_dealt_after_the_first_round_of_betting"
+    },
+    {
+      "text": "Phil Hellmuth is known as the 'Poker Brat' for his animated reactions and frequent outbursts at the table.",
+      "source": "https://en.wikipedia.org/wiki/Phil_Hellmuth"
+    },
+    {
+      "text": "Poker was played on Mississippi riverboats in the 1800s, where professional gamblers would travel up and down the river seeking games.",
+      "source": "https://en.wikipedia.org/wiki/Poker"
+    },
+    {
+      "text": "Short Deck Hold'em (also called Six Plus Hold'em) removes all cards below six from the deck, creating a faster-paced game with more action.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Short_Deck_Hold%27em_(also"
+    },
+    {
+      "text": "The probability of being dealt pocket aces (AA) in Texas Hold'em is approximately 1 in 221, or about 0.45%.",
+      "source": "https://en.wikipedia.org/wiki/probability_of_being_dealt_pocket_aces_(AA)_in_Texas_Hold%27em"
+    },
+    {
+      "text": "Bryn Kenney held the record for the most all-time live tournament earnings at over $56 million before being surpassed.",
+      "source": "https://en.wikipedia.org/wiki/Bryn_Kenney"
+    },
+    {
+      "text": "A continuation bet (c-bet) is a bet made on the flop by the player who was the pre-flop aggressor, regardless of whether the flop improved their hand.",
+      "source": "https://en.wikipedia.org/wiki/A_continuation_bet_(c-bet)"
+    },
+    {
+      "text": "High Stakes Poker was a popular cash game television show that aired on the Game Show Network from 2006 to 2011.",
+      "source": "https://en.wikipedia.org/wiki/High_Stakes_Poker"
+    },
+    {
+      "text": "Stu Ungar won the WSOP Main Event three times (1980, 1981, and 1997) and is considered one of the greatest natural card players ever.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Stu_Ungar"
+    },
+    {
+      "text": "Expected value (EV) in poker is a mathematical calculation that represents the average amount a player expects to win or lose on a decision over the long run.",
+      "source": "https://en.wikipedia.org/wiki/Expected_value_(EV)_in_poker"
+    },
+    {
+      "text": "In Pot-Limit Omaha (PLO), the maximum bet a player can make is the size of the current pot.",
+      "source": "https://en.wikipedia.org/wiki/In_Pot-Limit_Omaha_(PLO)%2C_the_maximum_bet_a_player_can_make"
+    },
+    {
+      "text": "The 'button' or 'dealer button' rotates clockwise around the table, indicating which player is the nominal dealer for that hand.",
+      "source": "https://en.wikipedia.org/wiki/Poker"
+    },
+    {
+      "text": "Chris Moneymaker's WSOP Main Event win in 2003 turned a $39 satellite buy-in into a $2.5 million first prize.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Chris_Moneymaker%27s_WSOP_Main_Event_win"
+    },
+    {
+      "text": "Poker After Dark was an NBC television show that featured high-stakes cash games and sit-and-go tournaments with top professional players.",
+      "source": "https://en.wikipedia.org/wiki/Poker_After_Dark"
+    },
+    {
+      "text": "The 'nuts' in poker refers to the best possible hand given the community cards on the board.",
+      "source": "https://en.wikipedia.org/wiki/Poker"
+    },
+    {
+      "text": "Early poker was played with a 20-card deck (A-K-Q-J-10) among four players, with each receiving five cards.",
+      "source": "https://en.wikipedia.org/wiki/Early_poker"
+    },
+    {
+      "text": "Justin Bonomo, known as 'ZeeJustin,' has accumulated over $57 million in live tournament earnings throughout his career.",
+      "source": "https://en.wikipedia.org/wiki/Justin_Bonomo%2C_known_as_%27ZeeJustin"
+    },
+    {
+      "text": "A 'bad beat' occurs when a player with a strong hand loses to an opponent who had a statistically unlikely draw.",
+      "source": "https://en.wikipedia.org/wiki/A_%27bad_beat%27_occurs_when_a_player_with_a_strong_hand_loses_to_an_opponent_who"
+    },
+    {
+      "text": "Mike Caro's 'Book of Tells' is one of the most influential poker books ever written, cataloging physical behaviors that reveal hand strength.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Mike_Caro%27s_%27Book_of_Tells"
+    },
+    {
+      "text": "In tournament poker, blinds and antes increase at regular intervals to force action and prevent overly conservative play.",
+      "source": "https://en.wikipedia.org/wiki/Poker"
+    },
+    {
+      "text": "The Bellagio poker room in Las Vegas is one of the most famous cardrooms in the world, hosting high-stakes cash games.",
+      "source": "https://en.wikipedia.org/wiki/Bellagio_poker_room_in_Las_Vegas"
+    },
+    {
+      "text": "Exploitative play in poker involves adjusting strategy to take advantage of specific weaknesses in opponents' games, as opposed to playing GTO.",
+      "source": "https://en.wikipedia.org/wiki/Poker"
+    },
+    {
+      "text": "Poker was officially recognized by the International Mind Sports Association in 2010.",
+      "month": 4,
+      "day": 15,
+      "source": "https://en.wikipedia.org/wiki/Poker"
+    },
+    {
+      "text": "A 'satellite' tournament is a lower buy-in event where the prize is entry into a larger, more expensive tournament.",
+      "source": "https://en.wikipedia.org/wiki/A_%27satellite%27_tournament"
+    },
+    {
+      "text": "The 52-card deck became standard for poker around the 1830s, replacing the original 20-card deck and allowing for more players and hand combinations.",
+      "source": "https://en.wikipedia.org/wiki/52-card_deck"
+    },
+    {
+      "text": "Chinese Poker is a variant where four players each receive 13 cards and must arrange them into three separate hands: front, middle, and back.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Chinese_Poker"
+    },
+    {
+      "text": "In a cash game, players can typically buy in for any amount between the table minimum and maximum, and chips represent real money.",
+      "source": "https://en.wikipedia.org/wiki/Poker"
+    },
+    {
+      "text": "The 'river' is the fifth and final community card dealt in Texas Hold'em and Omaha, named because riverboat gamblers would deal it by the river.",
+      "source": "https://en.wikipedia.org/wiki/%27river"
+    },
+    {
+      "text": "Tom Dwan, known as 'durrrr,' became famous for playing the highest online poker stakes and his aggressive style.",
+      "source": "https://en.wikipedia.org/wiki/Tom_Dwan%2C_known_as_%27durrrr"
+    },
+    {
+      "text": "Pot odds are expressed as a ratio—if the pot is $100 and you must call $20, your pot odds are 5:1.",
+      "source": "https://en.wikipedia.org/wiki/Pot_odds"
+    },
+    {
+      "text": "The Commerce Casino in Los Angeles has one of the largest poker rooms in the world, with over 200 tables.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Commerce_Casino_in_Los_Angeles"
+    },
+    {
+      "text": "A 'check-raise' is a deceptive play where a player first checks, then raises after an opponent bets.",
+      "source": "https://en.wikipedia.org/wiki/A_%27check-raise"
+    },
+    {
+      "text": "The WSOP Main Event buy-in has been $10,000 since 1972, making it one of the most expensive and prestigious poker tournaments.",
+      "source": "https://en.wikipedia.org/wiki/WSOP_Main_Event_buy-in"
+    },
+    {
+      "text": "Poker hand rankings from highest to lowest are: royal flush, straight flush, four of a kind, full house, flush, straight, three of a kind, two pair, one pair, high card.",
+      "source": "https://en.wikipedia.org/wiki/Poker_hand_rankings_from_highest_to_lowest"
+    },
+    {
+      "text": "Johnny Chan won back-to-back WSOP Main Events in 1987 and 1988, earning the nickname 'Orient Express.'",
+      "month": 5,
+      "day": 16,
+      "source": "https://en.wikipedia.org/wiki/Johnny_Chan"
+    },
+    {
+      "text": "In poker, 'tilt' refers to a state of emotional frustration that causes a player to make suboptimal decisions.",
+      "source": "https://en.wikipedia.org/wiki/Poker"
+    },
+    {
+      "text": "GGPoker has become one of the largest online poker platforms, hosting the WSOP Online bracelet events since 2020.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/GGPoker"
+    },
+    {
+      "text": "The 'turn' is the fourth community card dealt in Texas Hold'em and Omaha, coming after the flop.",
+      "source": "https://en.wikipedia.org/wiki/%27turn"
+    },
+    {
+      "text": "Wild West saloons were notorious for poker games, and disputes over hands sometimes ended in gunfights.",
+      "source": "https://en.wikipedia.org/wiki/Wild_West_saloons"
+    },
+    {
+      "text": "A 'value bet' is made when a player believes they have the best hand and bets an amount designed to be called by a weaker hand.",
+      "source": "https://en.wikipedia.org/wiki/A_%27value_bet"
+    },
+    {
+      "text": "Fedor Holz retired from poker at age 23 after winning over $32 million in live tournaments, then later returned to the game.",
+      "source": "https://en.wikipedia.org/wiki/Fedor_Holz"
+    },
+    {
+      "text": "The 'Cadillac of Poker' is a nickname for No-Limit Texas Hold'em, coined by Doyle Brunson in his book 'Super/System.'",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/%27Cadillac_of_Poker"
+    },
+    {
+      "text": "In heads-up poker, only two players compete, and the small blind is on the button and acts first pre-flop but last on subsequent streets.",
+      "source": "https://en.wikipedia.org/wiki/In_heads-up_poker%2C_only_two_players_compete%2C_and_the_small_blind"
+    },
+    {
+      "text": "Nevada legalized poker and other forms of gambling in 1931, paving the way for Las Vegas to become the poker capital of the world.",
+      "month": 3,
+      "day": 19,
+      "source": "https://en.wikipedia.org/wiki/Las_Vegas_to"
+    },
+    {
+      "text": "A 'semi-bluff' is a bet or raise with a hand that is not currently the best but has the potential to improve on future streets.",
+      "source": "https://en.wikipedia.org/wiki/A_%27semi-bluff"
+    },
+    {
+      "text": "The WSOP introduced online bracelet events in 2015, allowing players to compete for official bracelets from their computers.",
+      "source": "https://en.wikipedia.org/wiki/WSOP"
+    },
+    {
+      "text": "Pocket kings (KK) are the second-best starting hand in Texas Hold'em, behind only pocket aces (AA).",
+      "source": "https://en.wikipedia.org/wiki/Pocket_kings_(KK)"
+    },
+    {
+      "text": "Doyle Brunson's 'Super/System,' published in 1978, was the first major poker strategy book and is often called the 'Bible of Poker.'",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Doyle_Brunson%27s_%27Super%2FSystem%2C%27_published_in_1978"
+    },
+    {
+      "text": "A 'float play' is calling a bet on one street with the intention of bluffing on a later street when the opponent shows weakness.",
+      "source": "https://en.wikipedia.org/wiki/A_%27float_play"
+    },
+    {
+      "text": "The 2006 WSOP Main Event attracted a record 8,773 entries, the largest poker tournament field at the time.",
+      "month": 7,
+      "day": 28,
+      "source": "https://en.wikipedia.org/wiki/2006_WSOP_Main_Event"
+    },
+    {
+      "text": "In Seven-Card Stud, there are no community cards—each player receives seven cards (three face down and four face up) and makes the best five-card hand.",
+      "source": "https://en.wikipedia.org/wiki/In_Seven-Card_Stud%2C_there"
+    },
+    {
+      "text": "Erik Seidel has won nine WSOP bracelets and appeared at numerous WPT final tables over a career spanning four decades.",
+      "source": "https://en.wikipedia.org/wiki/Erik_Seidel"
+    },
+    {
+      "text": "Phil Ivey's nickname is 'The Tiger Woods of Poker' for his dominance across multiple poker variants.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Phil_Ivey%27s_nickname"
+    },
+    {
+      "text": "In poker, 'range' refers to the complete set of hands a player could have in a given situation, based on their actions.",
+      "source": "https://en.wikipedia.org/wiki/In_poker%2C_%27range%27_refers_to_the_complete_set_of_hands_a_player_could"
+    },
+    {
+      "text": "The Poker Hall of Fame, established in 1979, honors the game's most influential players and contributors.",
+      "source": "https://en.wikipedia.org/wiki/Poker_Hall_of_Fame"
+    },
+    {
+      "text": "A 'donk bet' is a bet made by a player out of position who was not the aggressor on the previous street, often considered unorthodox.",
+      "source": "https://en.wikipedia.org/wiki/A_%27donk_bet"
+    },
+    {
+      "text": "The 2003 WSOP Main Event had 839 entries, up from 631 the year before, largely due to the growing popularity of online poker.",
+      "month": 5,
+      "day": 19,
+      "source": "https://en.wikipedia.org/wiki/2003_WSOP_Main_Event"
+    },
+    {
+      "text": "Pocket aces (AA) are statistically the best starting hand in Texas Hold'em, winning approximately 85% of the time heads-up pre-flop.",
+      "source": "https://en.wikipedia.org/wiki/Pocket_aces_(AA)"
+    },
+    {
+      "text": "Online poker first appeared in the late 1990s, with Planet Poker dealing the first real-money online hand on January 1, 1998.",
+      "month": 1,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/Online_poker_first"
+    },
+    {
+      "text": "A 'squeeze play' is a pre-flop re-raise made after an initial raise and one or more callers, designed to pick up the pot without a fight.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/A_%27squeeze_play"
+    },
+    {
+      "text": "The 'poker face' is the ability to maintain a neutral expression to prevent opponents from reading one's emotions or hand strength.",
+      "source": "https://en.wikipedia.org/wiki/%27poker_face"
+    },
+    {
+      "text": "Las Vegas's 'Poker Row' on the Strip features poker rooms at the Bellagio, Aria, Wynn, and Venetian.",
+      "source": "https://en.wikipedia.org/wiki/Las_Vegas%27s_%27Poker_Row%27_on_the_Strip"
+    },
+    {
+      "text": "A 'cooler' in poker is a situation where a strong hand loses to an even stronger hand, and neither player could realistically fold.",
+      "source": "https://en.wikipedia.org/wiki/A_%27cooler%27_in_poker"
+    },
+    {
+      "text": "Jamie Gold won the 2006 WSOP Main Event, taking home a record $12 million first prize.",
+      "month": 8,
+      "day": 10,
+      "source": "https://en.wikipedia.org/wiki/Jamie_Gold"
+    },
+    {
+      "text": "In poker, 'fold equity' is the probability that an opponent will fold to a bet or raise, giving value to an aggressive action.",
+      "source": "https://en.wikipedia.org/wiki/In_poker%2C_%27fold_equity"
+    },
+    {
+      "text": "Antonio Esfandiari won the $1 million buy-in Big One for One Drop tournament in 2012, earning $18.3 million—the largest single tournament prize in poker history at the time.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Antonio_Esfandiari"
+    },
+    {
+      "text": "The 'dealer's choice' format allows the player in the dealer position to select which poker variant will be played for that hand or round.",
+      "source": "https://en.wikipedia.org/wiki/Poker"
+    },
+    {
+      "text": "Ace-King suited is considered one of the strongest starting hands in Texas Hold'em, nicknamed 'Big Slick.'",
+      "source": "https://en.wikipedia.org/wiki/Ace-King_suited"
+    },
+    {
+      "text": "Scotty Nguyen won the 1998 WSOP Main Event, famously saying 'You call, it's gonna be all over, baby' on the final hand.",
+      "month": 5,
+      "day": 14,
+      "source": "https://en.wikipedia.org/wiki/Scotty_Nguyen"
+    },
+    {
+      "text": "A 'three-bet' (3-bet) is the third bet in a sequence—the big blind is the first bet, a raise is the second, and a re-raise is the third.",
+      "source": "https://en.wikipedia.org/wiki/A_%27three-bet%27_(3-bet)"
+    },
+    {
+      "text": "Daniel Negreanu's ability to read opponents and put them on specific hands has earned him the reputation as one of the best hand readers in poker.",
+      "source": "https://en.wikipedia.org/wiki/Daniel_Negreanu%27s_ability_to_read_opponents_and_put_them_on_specific_hands"
+    },
+    {
+      "text": "In poker, 'ICM' (Independent Chip Model) is a mathematical model used to calculate a player's equity in a tournament based on their chip stack.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/In_poker%2C_%27ICM%27_(Independent_Chip_Model)"
+    },
+    {
+      "text": "The 'bubble' in a poker tournament is the point just before the remaining players reach the money, creating maximum pressure.",
+      "source": "https://en.wikipedia.org/wiki/%27bubble%27_in_a_poker_tournament"
+    },
+    {
+      "text": "Patrik Antonius is a Finnish poker professional known for playing the highest-stakes cash games both live and online.",
+      "source": "https://en.wikipedia.org/wiki/Patrik_Antonius"
+    },
+    {
+      "text": "A 'limp' in poker means calling the big blind pre-flop rather than raising, often considered a passive play.",
+      "source": "https://en.wikipedia.org/wiki/Poker"
+    },
+    {
+      "text": "The WSOP Player of the Year award has been given annually since 2004, recognizing consistent performance across multiple WSOP events.",
+      "source": "https://en.wikipedia.org/wiki/WSOP_Player_of_the_Year_award"
+    },
+    {
+      "text": "The odds of hitting a flush draw (four cards to a flush) on the turn are approximately 19.1%, or about 4.2:1 against.",
+      "source": "https://en.wikipedia.org/wiki/odds_of_hitting_a_flush_draw_(four_cards_to_a_flush)_on_the_turn"
+    },
+    {
+      "text": "Gus Hansen, the 'Great Dane,' is known for his ultra-aggressive style and won three WPT titles.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Gus_Hansen%2C_the_%27Great_Dane"
+    },
+    {
+      "text": "A 'straddle' is an optional blind bet made before the cards are dealt, typically double the big blind, that gives the straddler last action pre-flop.",
+      "source": "https://en.wikipedia.org/wiki/A_%27straddle"
+    },
+    {
+      "text": "The Commerce Casino's poker room operates 24 hours a day, 7 days a week, offering games at every stake level.",
+      "source": "https://en.wikipedia.org/wiki/Commerce_Casino%27s"
+    },
+    {
+      "text": "In draw poker, players can discard and replace cards from their hand to try to improve it.",
+      "source": "https://en.wikipedia.org/wiki/Poker"
+    },
+    {
+      "text": "Phil Hellmuth won his first WSOP Main Event bracelet in 1989 at age 24, the youngest champion at the time.",
+      "month": 5,
+      "day": 17,
+      "source": "https://en.wikipedia.org/wiki/Phil_Hellmuth"
+    },
+    {
+      "text": "A 'nit' in poker slang refers to an extremely tight player who only plays premium hands.",
+      "source": "https://en.wikipedia.org/wiki/Poker"
+    },
+    {
+      "text": "The WSOP Circuit is a series of regional tournament events held across the United States, offering gold rings instead of bracelets.",
+      "source": "https://en.wikipedia.org/wiki/WSOP_Circuit"
+    },
+    {
+      "text": "Poker solvers are computer programs that calculate GTO strategies for specific poker situations, revolutionizing how top players study the game.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Poker_solvers"
+    },
+    {
+      "text": "In Omaha Hi-Lo, the pot is split between the best high hand and the best qualifying low hand (eight or lower).",
+      "source": "https://en.wikipedia.org/wiki/In_Omaha_Hi-Lo%2C_the_pot"
+    },
+    {
+      "text": "Barry Greenstein, known as the 'Robin Hood of Poker,' donates his tournament winnings to charity.",
+      "source": "https://en.wikipedia.org/wiki/Barry_Greenstein"
+    },
+    {
+      "text": "A 'gutshot' (or inside straight draw) has only four outs to complete a straight, with roughly an 8.5% chance of hitting on the next card.",
+      "source": "https://en.wikipedia.org/wiki/A_%27gutshot%27_(or_inside_straight_draw)"
+    },
+    {
+      "text": "The WSOP moved from Binion's Horseshoe to the Rio All-Suite Hotel and Casino in 2005.",
+      "month": 6,
+      "day": 2,
+      "source": "https://en.wikipedia.org/wiki/WSOP"
+    },
+    {
+      "text": "In poker, 'running it twice' means dealing the remaining community cards two separate times and splitting the pot based on both outcomes.",
+      "source": "https://en.wikipedia.org/wiki/Poker"
+    },
+    {
+      "text": "Jennifer Harman is one of the most accomplished female cash game players, known for competing in the biggest games at the Bellagio.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Jennifer_Harman"
+    },
+    {
+      "text": "A 'snap call' is an immediate call made without hesitation, usually indicating a very strong hand.",
+      "source": "https://en.wikipedia.org/wiki/A_%27snap_call"
+    },
+    {
+      "text": "The 'one-chip rule' in live poker states that placing a single chip in the pot without announcing a raise is considered a call.",
+      "source": "https://en.wikipedia.org/wiki/Poker"
+    },
+    {
+      "text": "The probability of flopping a set (three of a kind) when holding a pocket pair is approximately 11.8%, or about 7.5:1 against.",
+      "source": "https://en.wikipedia.org/wiki/probability_of_flopping_a_set_(three_of_a_kind)_when_holding_a_pocket_pair"
+    },
+    {
+      "text": "Isai Scheinberg founded PokerStars in 2001, which grew to become the dominant force in online poker.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Isai_Scheinberg"
+    },
+    {
+      "text": "A 'stop-and-go' play involves calling a bet on one street and then leading out with a bet on the next street.",
+      "source": "https://en.wikipedia.org/wiki/Poker"
+    },
+    {
+      "text": "Mixed games, which rotate through multiple poker variants, are popular among skilled players who want to test their versatility.",
+      "source": "https://en.wikipedia.org/wiki/Mixed_games%2C_which_rotate_through_multiple_poker_variants"
+    },
+    {
+      "text": "The 'ante' is a forced bet that every player at the table must post before a hand begins, most common in stud games and late tournament stages.",
+      "source": "https://en.wikipedia.org/wiki/%27ante"
+    },
+    {
+      "text": "Peter Eastgate became the youngest WSOP Main Event champion in 2008 at age 22, before that record was broken by Joe Cada in 2009.",
+      "month": 11,
+      "day": 11,
+      "source": "https://en.wikipedia.org/wiki/Peter_Eastgate"
+    },
+    {
+      "text": "In poker, 'blockers' are cards in a player's hand that reduce the likelihood of an opponent holding certain combinations.",
+      "source": "https://en.wikipedia.org/wiki/In_poker%2C_%27blockers"
+    },
+    {
+      "text": "Annette Obrestad won the 2007 World Series of Poker Europe Main Event at age 18, becoming the youngest bracelet winner.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Annette_Obrestad"
+    },
+    {
+      "text": "A 'min-raise' is the smallest legal raise in a hand, equal to the size of the previous bet or raise.",
+      "source": "https://en.wikipedia.org/wiki/A_%27min-raise"
+    },
+    {
+      "text": "The Venetian poker room in Las Vegas hosts the popular Deep Stack Extravaganza series every summer.",
+      "source": "https://en.wikipedia.org/wiki/Venetian"
+    },
+    {
+      "text": "Open-ended straight draws have eight outs to complete the straight, giving approximately a 31.5% chance of hitting by the river.",
+      "source": "https://en.wikipedia.org/wiki/Open-ended_straight_draws"
+    },
+    {
+      "text": "Joe Hachem won the 2005 WSOP Main Event, becoming the first Australian to claim poker's most coveted title.",
+      "month": 7,
+      "day": 16,
+      "source": "https://en.wikipedia.org/wiki/Joe_Hachem"
+    },
+    {
+      "text": "Limit Hold'em restricts the size of bets and raises to predetermined amounts, unlike No-Limit where players can bet any amount.",
+      "source": "https://en.wikipedia.org/wiki/Limit_Hold%27em"
+    },
+    {
+      "text": "The 'Moneymaker Effect' led to a tripling of the 2004 WSOP Main Event field to 2,576 players from 839 the year before.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Moneymaker_Effect"
+    },
+    {
+      "text": "A 'tank' in poker refers to taking a long time to make a decision, often indicating a close or difficult situation.",
+      "source": "https://en.wikipedia.org/wiki/Poker"
+    },
+    {
+      "text": "Poker rooms in casinos typically offer both cash games and tournaments, each with different rules and strategies.",
+      "source": "https://en.wikipedia.org/wiki/Poker"
+    },
+    {
+      "text": "In Texas Hold'em, suited connectors (like 7♠8♠) can make both straights and flushes, giving them versatility.",
+      "source": "https://en.wikipedia.org/wiki/In_Texas_Hold%27em"
+    },
+    {
+      "text": "Greg Raymer won the 2004 WSOP Main Event, earning $5 million and famously wearing his signature fossil-shaped card protector.",
+      "month": 5,
+      "day": 28,
+      "source": "https://en.wikipedia.org/wiki/Greg_Raymer"
+    },
+    {
+      "text": "A 'rainbow' flop in Texas Hold'em means all three community cards are of different suits, eliminating flush draw possibilities on the flop.",
+      "source": "https://en.wikipedia.org/wiki/A_%27rainbow%27_flop_in_Texas_Hold%27em_means_all_three_community_cards"
+    },
+    {
+      "text": "Stu Ungar's tragic story—a brilliant player who struggled with addiction—is one of the most compelling narratives in poker history.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Stu_Ungar%27s"
+    },
+    {
+      "text": "Table stakes is the rule in most modern poker games that a player can only bet the chips they have on the table at the start of a hand.",
+      "source": "https://en.wikipedia.org/wiki/Table_stakes"
+    },
+    {
+      "text": "The 'gap concept' states that a player needs a stronger hand to call a raise than to make a raise themselves.",
+      "source": "https://en.wikipedia.org/wiki/Poker"
+    },
+    {
+      "text": "In poker, 'dead money' refers to money in the pot contributed by players who have already folded.",
+      "source": "https://en.wikipedia.org/wiki/In_poker%2C_%27dead_money%27_refers_to_money_in_the_pot_contributed_by_players_who"
+    },
+    {
+      "text": "Robert Varkonyi's surprise victory in the 2002 WSOP Main Event featured him bluffing Phil Hellmuth off a hand with a stone-cold bluff.",
+      "month": 5,
+      "day": 22,
+      "source": "https://en.wikipedia.org/wiki/Robert_Varkonyi%27s"
+    },
+    {
+      "text": "A 'smooth call' (or flat call) is calling a bet with a strong hand instead of raising, often to disguise the hand's strength.",
+      "source": "https://en.wikipedia.org/wiki/A_%27smooth_call%27_(or_flat_call)"
+    },
+    {
+      "text": "The Aria poker room in Las Vegas is known for hosting some of the biggest high-stakes cash games in the world.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Aria_poker_room_in_Las_Vegas"
+    },
+    {
+      "text": "In tournament poker, the 'chip leader' is the player with the most chips at any given point in the event.",
+      "source": "https://en.wikipedia.org/wiki/In_tournament_poker%2C_the_%27chip_leader"
+    },
+    {
+      "text": "Mike McDermott, played by Matt Damon in the 1998 film 'Rounders,' helped bring poker into mainstream pop culture.",
+      "source": "https://en.wikipedia.org/wiki/Mike_McDermott%2C_played_by_Matt_Damon_in_the_1998_film_%27Rounders"
+    },
+    {
+      "text": "A 'double belly buster' is two inside straight draws that together give eight outs, the same as an open-ended straight draw.",
+      "source": "https://en.wikipedia.org/wiki/A_%27double_belly_buster"
+    },
+    {
+      "text": "The 2005 WSOP Main Event set a record with 5,619 entries, more than doubling the previous year's field.",
+      "month": 7,
+      "day": 7,
+      "source": "https://en.wikipedia.org/wiki/2005_WSOP_Main_Event"
+    },
+    {
+      "text": "In poker, 'equity' refers to a player's share of the pot based on the probability of winning the hand.",
+      "source": "https://en.wikipedia.org/wiki/Poker"
+    },
+    {
+      "text": "Sam Farha, known for his unlit cigarette at the table, finished second to Chris Moneymaker in the 2003 WSOP Main Event.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Sam_Farha"
+    },
+    {
+      "text": "A 'brick' is a community card that appears to help no one and is unlikely to change the dynamics of the hand.",
+      "source": "https://en.wikipedia.org/wiki/A_%27brick"
+    },
+    {
+      "text": "The World Poker Tour introduced the concept of fixed camera angles and a final table format that made poker entertaining on television.",
+      "source": "https://en.wikipedia.org/wiki/World_Poker_Tour"
+    },
+    {
+      "text": "Pocket jacks (JJ) are often called 'hooks' and are considered one of the trickiest starting hands to play in Hold'em.",
+      "source": "https://en.wikipedia.org/wiki/Pocket_jacks_(JJ)"
+    },
+    {
+      "text": "The Unlawful Internet Gambling Enforcement Act (UIGEA) was signed into law on October 13, 2006, restricting online gambling transactions in the U.S.",
+      "month": 10,
+      "day": 13,
+      "source": "https://en.wikipedia.org/wiki/Unlawful_Internet_Gambling_Enforcement_Act_(UIGEA)"
+    },
+    {
+      "text": "A 'wet' board in poker has many connected and suited cards, creating numerous draw possibilities.",
+      "source": "https://en.wikipedia.org/wiki/A_%27wet%27_board_in_poker"
+    },
+    {
+      "text": "Viktor 'Isildur1' Blom burst onto the online poker scene in 2009, playing nosebleed stakes and winning millions against top pros.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Isildur1%27_Blom"
+    },
+    {
+      "text": "The 'early position' at a poker table refers to the seats immediately to the left of the big blind, which act first post-flop.",
+      "source": "https://en.wikipedia.org/wiki/%27early_position%27_at_a_poker_table_refers_to_the_seats_immediately_to_the"
+    },
+    {
+      "text": "Deuce-to-seven (2-7) triple draw lowball is a draw poker variant where the goal is to make the lowest possible hand without straights or flushes.",
+      "source": "https://en.wikipedia.org/wiki/Deuce-to-seven_(2-7)_triple_draw_lowball"
+    },
+    {
+      "text": "In poker, a 'family pot' is a hand where all or nearly all players at the table see the flop.",
+      "source": "https://en.wikipedia.org/wiki/In_poker%2C_a_%27family_pot"
+    },
+    {
+      "text": "Chris Ferguson, known as 'Jesus' for his long hair and beard, won the 2000 WSOP Main Event.",
+      "month": 5,
+      "day": 18,
+      "source": "https://en.wikipedia.org/wiki/Chris_Ferguson%2C_known_as_%27Jesus%27_for_his_long_hair_and_beard"
+    },
+    {
+      "text": "A 'dry' board has few connected or suited cards, making it unlikely that draws are present.",
+      "source": "https://en.wikipedia.org/wiki/A_%27dry%27_board"
+    },
+    {
+      "text": "The PokerStars Caribbean Adventure (PCA) in the Bahamas is one of the most popular live poker stops outside of Las Vegas.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/PokerStars_Caribbean_Adventure_(PCA)_in_the_Bahamas"
+    },
+    {
+      "text": "In poker, 'range merging' is betting a strong hand at a size typically used for bluffs, making it harder for opponents to read.",
+      "source": "https://en.wikipedia.org/wiki/In_poker%2C_%27range_merging"
+    },
+    {
+      "text": "T.J. Cloutier is one of the most prolific tournament players ever, with six WSOP bracelets and over 100 major tournament wins.",
+      "source": "https://en.wikipedia.org/wiki/T.J._Cloutier"
+    },
+    {
+      "text": "The odds of being dealt any specific hand in Texas Hold'em (like A♠K♠) are 1 in 1,326.",
+      "source": "https://en.wikipedia.org/wiki/odds_of_being_dealt_any_specific_hand_in_Texas_Hold%27em_(like_A%E2%99%A0K%E2%99%A0)"
+    },
+    {
+      "text": "The first World Series of Poker Europe (WSOPE) was held in London in September 2007.",
+      "month": 9,
+      "day": 6,
+      "source": "https://en.wikipedia.org/wiki/first_World_Series_of_Poker_Europe_(WSOPE)"
+    },
+    {
+      "text": "A 'set' is three of a kind made with a pocket pair and one matching board card, while 'trips' uses one hole card and two board cards.",
+      "source": "https://en.wikipedia.org/wiki/A_%27set"
+    },
+    {
+      "text": "John Juanda has won five WSOP bracelets and is known for his consistent results across multiple poker disciplines.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/John_Juanda"
+    },
+    {
+      "text": "In poker, 'barreling' refers to making continuation bets on multiple streets—a 'double barrel' is c-betting the flop and turn.",
+      "source": "https://en.wikipedia.org/wiki/Poker"
+    },
+    {
+      "text": "The Horseshoe Casino in downtown Las Vegas was the original home of the World Series of Poker from 1970 to 2004.",
+      "source": "https://en.wikipedia.org/wiki/Horseshoe_Casino_in_downtown_Las_Vegas"
+    },
+    {
+      "text": "A 'chop' occurs when two or more players agree to divide the remaining prize money, usually near the end of a tournament.",
+      "source": "https://en.wikipedia.org/wiki/Poker"
+    },
+    {
+      "text": "Joe Cada became the youngest WSOP Main Event champion at age 21 in 2009.",
+      "month": 11,
+      "day": 10,
+      "source": "https://en.wikipedia.org/wiki/Joe_Cada"
+    },
+    {
+      "text": "In poker, 'reverse implied odds' account for money a player may lose on future streets if they hit their draw but still lose.",
+      "source": "https://en.wikipedia.org/wiki/Poker"
+    },
+    {
+      "text": "The term 'all-in' means committing all remaining chips to the pot, a defining moment in no-limit poker.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Poker"
+    },
+    {
+      "text": "Poker etiquette includes not discussing the hand while it's in play, acting in turn, and not slow-rolling (deliberately delaying when revealing a winning hand).",
+      "source": "https://en.wikipedia.org/wiki/Poker_etiquette"
+    },
+    {
+      "text": "The Wynn poker room is known for its high-end atmosphere and regularly spreads mid-to-high-stakes cash games.",
+      "source": "https://en.wikipedia.org/wiki/Wynn_poker_room"
+    },
+    {
+      "text": "In poker, 'over-cards' are cards in a player's hand that are higher than any card on the board.",
+      "source": "https://en.wikipedia.org/wiki/In_poker%2C_%27over-cards"
+    },
+    {
+      "text": "The 2004 WSOP Main Event was won by Greg Raymer, a patent attorney who qualified online.",
+      "month": 5,
+      "day": 25,
+      "source": "https://en.wikipedia.org/wiki/2004_WSOP_Main_Event"
+    },
+    {
+      "text": "A 'shove' is poker slang for going all-in, often used in short-stacked tournament situations.",
+      "source": "https://en.wikipedia.org/wiki/A_%27shove"
+    },
+    {
+      "text": "Phil Galfond, founder of the online poker site Run It Once, is considered one of the greatest PLO players ever.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Phil_Galfond%2C_founder_of_the_online_poker_site_Run_It_Once"
+    },
+    {
+      "text": "In poker, a 'probe bet' is a bet made by an in-position player after the out-of-position player checks, typically when the pre-flop aggressor checks.",
+      "source": "https://en.wikipedia.org/wiki/In_poker%2C_a_%27probe_bet"
+    },
+    {
+      "text": "Ace-Queen is sometimes called 'Big Chick' or 'Little Slick' and is considered a tricky hand to play against pre-flop raises.",
+      "source": "https://en.wikipedia.org/wiki/Ace-Queen"
+    },
+    {
+      "text": "The 'standard raise' in No-Limit Hold'em is typically 2.5 to 3 times the big blind pre-flop.",
+      "source": "https://en.wikipedia.org/wiki/%27standard_raise%27_in_No-Limit_Hold%27em"
+    },
+    {
+      "text": "Robert Turner invented HORSE, the mixed game format that became one of the most respected events at the WSOP.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Robert_Turner"
+    },
+    {
+      "text": "In poker, a 'calling station' is a player who calls bets too frequently and rarely folds, making them difficult to bluff.",
+      "source": "https://en.wikipedia.org/wiki/In_poker%2C_a_%27calling_station"
+    },
+    {
+      "text": "The 'cutoff' is the seat immediately to the right of the dealer button and is considered a strong position for stealing blinds.",
+      "source": "https://en.wikipedia.org/wiki/%27cutoff"
+    },
+    {
+      "text": "A 'four-bet' (4-bet) pre-flop is typically a very strong play, usually representing premium hands like AA, KK, QQ, or AK.",
+      "source": "https://en.wikipedia.org/wiki/A_%27four-bet%27_(4-bet)_pre-flop"
+    },
+    {
+      "text": "The Poker Players Alliance (PPA) was a lobbying group that advocated for the legalization and regulation of online poker in the U.S.",
+      "source": "https://en.wikipedia.org/wiki/Poker_Players_Alliance_(PPA)"
+    },
+    {
+      "text": "In poker, 'polarized' ranges contain very strong hands and bluffs, with few medium-strength hands.",
+      "source": "https://en.wikipedia.org/wiki/Poker"
+    },
+    {
+      "text": "Ted Forrest once won a famous bet by losing over 40 pounds in two months while competing at the WSOP.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Ted_Forrest_once"
+    },
+    {
+      "text": "Pocket queens (QQ) are known as 'ladies' and are the third-best starting hand in Texas Hold'em.",
+      "source": "https://en.wikipedia.org/wiki/Pocket_queens_(QQ)"
+    },
+    {
+      "text": "The 'hijack' seat is two positions to the right of the button and offers late-position advantages with slightly more risk.",
+      "source": "https://en.wikipedia.org/wiki/%27hijack%27_seat"
+    },
+    {
+      "text": "In poker, a 'bounty' tournament awards a cash prize to players for eliminating opponents.",
+      "source": "https://en.wikipedia.org/wiki/Poker"
+    },
+    {
+      "text": "Huck Seed won the 1996 WSOP Main Event, defeating Dr. Bruce Van Horn heads-up.",
+      "month": 5,
+      "day": 15,
+      "source": "https://en.wikipedia.org/wiki/Huck_Seed"
+    },
+    {
+      "text": "A 'deep stack' game features stacks of 200 or more big blinds, allowing for more complex post-flop play.",
+      "source": "https://en.wikipedia.org/wiki/A_%27deep_stack%27_game"
+    },
+    {
+      "text": "Matt Damon and Ben Affleck are both avid poker players, with Affleck winning a California State Poker Championship.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Matt_Damon_and_Ben_Affleck"
+    },
+    {
+      "text": "In poker, 'multi-tabling' refers to playing multiple tables simultaneously online, a practice that can increase hourly winrate.",
+      "source": "https://en.wikipedia.org/wiki/Poker"
+    },
+    {
+      "text": "The 'fold to 3-bet' statistic measures how often a player folds after raising and facing a re-raise pre-flop.",
+      "source": "https://en.wikipedia.org/wiki/Poker"
+    },
+    {
+      "text": "A 'string bet' is an illegal move in live poker where a player doesn't put in the full amount of a raise in one motion.",
+      "source": "https://en.wikipedia.org/wiki/A_%27string_bet"
+    },
+    {
+      "text": "The European Poker Tour (EPT) was founded in 2004 and has held events in cities across Europe, including Monte Carlo, Barcelona, and Prague.",
+      "source": "https://en.wikipedia.org/wiki/European_Poker_Tour_(EPT)"
+    },
+    {
+      "text": "In poker, 'board texture' refers to how the community cards interact with each other—whether they're connected, suited, or paired.",
+      "source": "https://en.wikipedia.org/wiki/Poker"
+    },
+    {
+      "text": "Amarillo Slim won the 1972 WSOP Main Event and became the first poker player to appear on The Tonight Show with Johnny Carson.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Amarillo_Slim"
+    },
+    {
+      "text": "A 'chop the blinds' agreement allows the small and big blind to take back their bets if all other players fold pre-flop in a cash game.",
+      "source": "https://en.wikipedia.org/wiki/Poker"
+    },
+    {
+      "text": "In poker, 'balance' means mixing different hands into the same action (e.g., raising with both strong hands and bluffs) to avoid being predictable.",
+      "source": "https://en.wikipedia.org/wiki/Poker"
+    },
+    {
+      "text": "The odds of two players both being dealt pocket aces in a full ring Hold'em game are approximately 1 in 270,725.",
+      "source": "https://en.wikipedia.org/wiki/odds_of_two_players_both_being_dealt_pocket_aces_in_a_full_ring_Hold%27em_game"
+    },
+    {
+      "text": "The Triton Poker Series features some of the highest buy-in events in the world, attracting the wealthiest players.",
+      "source": "https://en.wikipedia.org/wiki/Triton_Poker_Series"
+    },
+    {
+      "text": "In poker, 'leveling' or 'level thinking' refers to thinking about what your opponent thinks you have, and what they think you think they have.",
+      "source": "https://en.wikipedia.org/wiki/Poker"
+    },
+    {
+      "text": "Doyle Brunson's famous 'Super/System' originally sold for $100 in 1978, a premium price that reflected the value of the strategy within.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Doyle_Brunson%27s"
+    },
+    {
+      "text": "A 'multiway pot' involves three or more players, requiring adjustments to strategy compared to heads-up play.",
+      "source": "https://en.wikipedia.org/wiki/Poker"
+    },
+    {
+      "text": "The 'under the gun' (UTG) position is the first player to act pre-flop, sitting immediately to the left of the big blind.",
+      "source": "https://en.wikipedia.org/wiki/%27under_the_gun%27_(UTG)_position"
+    },
+    {
+      "text": "In poker, 'protection' is betting a strong but vulnerable hand to prevent opponents from seeing cheap cards that could beat it.",
+      "source": "https://en.wikipedia.org/wiki/In_poker%2C_%27protection"
+    },
+    {
+      "text": "Martin Jacobson won the 2014 WSOP Main Event November Nine, taking home $10 million.",
+      "month": 11,
+      "day": 11,
+      "source": "https://en.wikipedia.org/wiki/Martin_Jacobson"
+    },
+    {
+      "text": "A 'blocker bet' is a small bet made to prevent an opponent from making a larger bet, controlling the pot size.",
+      "source": "https://en.wikipedia.org/wiki/A_%27blocker_bet"
+    },
+    {
+      "text": "Poker is played in over 100 countries worldwide and every inhabited continent.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Poker"
+    },
+    {
+      "text": "In poker, 'isolating' means raising to narrow the field and play heads-up against a weaker player.",
+      "source": "https://en.wikipedia.org/wiki/Poker"
+    },
+    {
+      "text": "The 'Rule of 2 and 4' is a quick method for estimating hand equity: multiply outs by 4 on the flop or by 2 on the turn.",
+      "source": "https://en.wikipedia.org/wiki/%27Rule_of_2_and_4"
+    },
+    {
+      "text": "Full Tilt Poker was one of the largest online poker sites until its collapse following Black Friday in 2011.",
+      "source": "https://en.wikipedia.org/wiki/Full_Tilt_Poker"
+    },
+    {
+      "text": "Scotty Nguyen won the 1998 WSOP $10,000 Limit Hold'em Championship and the Main Event in the same year, an extremely rare accomplishment.",
+      "month": 6,
+      "day": 14,
+      "source": "https://en.wikipedia.org/wiki/Scotty_Nguyen"
+    },
+    {
+      "text": "In poker, 'opening range' is the set of hands with which a player will make the first voluntary action (raise or limp).",
+      "source": "https://en.wikipedia.org/wiki/In_poker%2C_%27opening_range"
+    },
+    {
+      "text": "The 'November Nine' format was used by the WSOP Main Event from 2008 to 2016, pausing the final table until November.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/%27November_Nine%27_format"
+    },
+    {
+      "text": "A 'muck' is the pile of discarded cards, and 'mucking' means folding your hand without showing it.",
+      "source": "https://en.wikipedia.org/wiki/A_%27muck"
+    },
+    {
+      "text": "In Stud poker, Third Street is when each player has three cards (two down, one up) and betting begins.",
+      "source": "https://en.wikipedia.org/wiki/In_Stud_poker%2C_Third_Street"
+    },
+    {
+      "text": "The 'coffeehousing' rule prohibits verbal misdirection or deceptive talk during a poker hand in many cardrooms.",
+      "source": "https://en.wikipedia.org/wiki/Poker"
+    },
+    {
+      "text": "Jack Binion and his father Benny Binion created the World Series of Poker to attract high-stakes gamblers to their casino.",
+      "month": 5,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/Jack_Binion_and_his_father_Benny_Binion"
+    },
+    {
+      "text": "A 'freeroll' in poker can mean a tournament with no entry fee, or a situation where a player can win but cannot lose.",
+      "source": "https://en.wikipedia.org/wiki/Poker"
+    },
+    {
+      "text": "Doug Polk used an aggressive heads-up strategy to win over $1.2 million from Daniel Negreanu in their 2020-2021 heads-up challenge.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Doug_Polk"
+    },
+    {
+      "text": "In poker, a 'Sit & Go' (SNG) is a tournament that begins as soon as enough players register, typically with one or a few tables.",
+      "source": "https://en.wikipedia.org/wiki/In_poker%2C_a_%27Sit_%26_Go%27_(SNG)"
+    },
+    {
+      "text": "The 'pot-committed' concept means a player has invested so much of their stack that folding is no longer mathematically correct.",
+      "source": "https://en.wikipedia.org/wiki/%27pot-committed%27_concept_means_a_player"
+    },
+    {
+      "text": "A 'rebuy' tournament allows players who lose their chips during a set period to buy back in for another stack.",
+      "source": "https://en.wikipedia.org/wiki/A_%27rebuy%27_tournament_allows_players_who_lose_their_chips_during_a"
+    },
+    {
+      "text": "The WSOP Europe moved from London to Rozvadov, Czech Republic, in 2017.",
+      "month": 10,
+      "day": 19,
+      "source": "https://en.wikipedia.org/wiki/WSOP_Europe"
+    },
+    {
+      "text": "In poker, 'hand history' refers to the record of all actions taken during a hand, widely used for review and analysis in online play.",
+      "source": "https://en.wikipedia.org/wiki/Poker"
+    },
+    {
+      "text": "The WSOP bracelet is one of the most coveted awards in competitive gaming, made of gold and precious stones.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/WSOP_bracelet"
+    },
+    {
+      "text": "A 'turbo' tournament has faster blind levels than standard events, requiring more aggressive play and push-fold strategy.",
+      "source": "https://en.wikipedia.org/wiki/A_%27turbo%27_tournament"
+    },
+    {
+      "text": "In poker, 'stack-to-pot ratio' (SPR) helps determine optimal post-flop strategy based on the effective stack relative to the pot.",
+      "source": "https://en.wikipedia.org/wiki/Poker"
+    },
+    {
+      "text": "Brunson, Chip Reese, and other legends regularly played in the 'Big Game' at the Bellagio, one of poker's most famous cash games.",
+      "source": "https://en.wikipedia.org/wiki/Chip_Reese"
+    },
+    {
+      "text": "Jonathan Duhamel won the 2010 WSOP Main Event as the first Canadian champion, earning $8.9 million.",
+      "month": 11,
+      "day": 8,
+      "source": "https://en.wikipedia.org/wiki/Jonathan_Duhamel"
+    },
+    {
+      "text": "In poker, 'overbetting' means betting more than the current pot size, a strategy used to maximize fold equity or value.",
+      "source": "https://en.wikipedia.org/wiki/Poker"
+    },
+    {
+      "text": "The hole-card camera technology was first used on the UK's Late Night Poker show before being adopted in the United States.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/hole-card_camera_technology"
+    },
+    {
+      "text": "A 'freezeout' tournament is the most traditional format—once a player loses all chips, they are eliminated with no rebuy option.",
+      "source": "https://en.wikipedia.org/wiki/A_%27freezeout%27_tournament"
+    },
+    {
+      "text": "In poker, 'relative hand strength' evaluates a hand based on the board texture and opponents' likely ranges, not just absolute rankings.",
+      "source": "https://en.wikipedia.org/wiki/Poker"
+    },
+    {
+      "text": "Chip Reese won the inaugural $50,000 H.O.R.S.E. event at the 2006 WSOP, which was named in his honor after his death.",
+      "source": "https://en.wikipedia.org/wiki/Chip_Reese"
+    },
+    {
+      "text": "The largest online poker tournament in history had over 253,000 entries on PokerStars in 2020.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/largest_online_poker_tournament_in_history"
+    },
+    {
+      "text": "A 'read' in poker is a judgment about an opponent's likely holding based on their betting patterns, timing, and physical behavior.",
+      "source": "https://en.wikipedia.org/wiki/A_%27read%27_in_poker"
+    },
+    {
+      "text": "In poker, 'metagame' refers to the strategies and adjustments players make based on history and table dynamics beyond the current hand.",
+      "source": "https://en.wikipedia.org/wiki/Poker"
+    },
+    {
+      "text": "The Bicycle Casino (The Bike) in Bell Gardens, California, is one of the oldest and largest card rooms in the United States.",
+      "source": "https://en.wikipedia.org/wiki/Bicycle_Casino_(The_Bike)_in_Bell_Gardens%2C_California"
+    },
+    {
+      "text": "Jerry Yang won the 2007 WSOP Main Event, earning $8.25 million from a field of 6,358 players.",
+      "month": 7,
+      "day": 17,
+      "source": "https://en.wikipedia.org/wiki/Jerry_Yang"
+    },
+    {
+      "text": "In poker, 'deepstack' tournaments start with 200+ big blinds, allowing for more nuanced multi-street play.",
+      "source": "https://en.wikipedia.org/wiki/Poker"
+    },
+    {
+      "text": "Vanessa Rousso reached the WSOP Main Event final table and competed on The Amazing Race, bringing poker visibility to mainstream TV.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Vanessa_Rousso"
+    },
+    {
+      "text": "A 'walk' occurs when all players fold to the big blind pre-flop, giving the big blind the pot uncontested.",
+      "source": "https://en.wikipedia.org/wiki/Poker"
+    },
+    {
+      "text": "In poker solvers, 'node locking' allows a player to fix an opponent's strategy to find the best counter-strategy.",
+      "source": "https://en.wikipedia.org/wiki/Poker"
+    },
+    {
+      "text": "The 'poker economy' refers to the flow of money through the ecosystem—from recreational players to professionals and the house rake.",
+      "source": "https://en.wikipedia.org/wiki/Poker"
+    },
+    {
+      "text": "The first televised poker tournament on ESPN was the WSOP Main Event in 1973.",
+      "source": "https://en.wikipedia.org/wiki/first_televised_poker_tournament_on_ESPN"
+    },
+    {
+      "text": "In poker, 'variance' describes the natural ups and downs of results due to luck, even when a player makes optimal decisions.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Poker"
+    },
+    {
+      "text": "A 'limper' enters the pot by just calling the big blind without raising, and 'over-limping' means limping behind other limpers.",
+      "source": "https://en.wikipedia.org/wiki/Poker"
+    },
+    {
+      "text": "In No-Limit Hold'em, position-aware players typically open-raise from late position with a wider range than from early position.",
+      "source": "https://en.wikipedia.org/wiki/In_No-Limit_Hold%27em"
+    },
+    {
+      "text": "The 'poker calculator' is software that computes the probability of each player winning based on known cards.",
+      "source": "https://en.wikipedia.org/wiki/%27poker_calculator"
+    },
+    {
+      "text": "Peter Eastgate's victory in the 2008 WSOP Main Event earned him $9.15 million, the second-largest Main Event prize at the time.",
+      "month": 11,
+      "day": 10,
+      "source": "https://en.wikipedia.org/wiki/Peter_Eastgate%27s_victory_in_the_2008_WSOP_Main_Event"
+    },
+    {
+      "text": "A 'donkey' or 'fish' is poker slang for a weak or inexperienced player.",
+      "source": "https://en.wikipedia.org/wiki/A_%27donkey%27_or_%27fish"
+    },
+    {
+      "text": "In 2023, Daniel Weinman won the WSOP Main Event's $10 million first prize from a field of 10,043 entries.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Daniel_Weinman"
+    },
+    {
+      "text": "In poker, 'slow playing' (or trapping) means playing a strong hand passively to disguise its strength and induce bluffs.",
+      "source": "https://en.wikipedia.org/wiki/Poker"
+    },
+    {
+      "text": "The 'gap concept' by David Sklansky states you need a better hand to call a raise than to make one, due to fold equity.",
+      "source": "https://en.wikipedia.org/wiki/David_Sklansky"
+    },
+    {
+      "text": "In five-card draw poker, players receive five cards and can exchange up to three (or four with an ace) for new ones.",
+      "source": "https://en.wikipedia.org/wiki/Poker"
+    },
+    {
+      "text": "The 2019 WSOP Main Event champion Hossein Ensan won $10 million from a record 8,569-entry field.",
+      "month": 7,
+      "day": 16,
+      "source": "https://en.wikipedia.org/wiki/2019_WSOP_Main_Event_champion_Hossein_Ensan"
+    },
+    {
+      "text": "A 'time bank' in tournament poker gives players a set amount of extra time for difficult decisions.",
+      "source": "https://en.wikipedia.org/wiki/A_%27time_bank%27_in_tournament_poker_gives_players_a"
+    },
+    {
+      "text": "Women in Poker Hall of Fame was established to honor the contributions of women to the game of poker.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Women_in_Poker_Hall_of_Fame"
+    },
+    {
+      "text": "In poker, 'hand combinatorics' (or combos) counts the number of ways a specific hand can be made—for instance, there are 6 combos of any pocket pair.",
+      "source": "https://en.wikipedia.org/wiki/Poker"
+    },
+    {
+      "text": "The 'kicker' is the side card used to break ties between hands of the same rank; a higher kicker wins.",
+      "source": "https://en.wikipedia.org/wiki/%27kicker"
+    },
+    {
+      "text": "Poker tracking software like PokerTracker and Hold'em Manager collects and analyzes hand data to reveal patterns and leaks.",
+      "source": "https://en.wikipedia.org/wiki/PokerTracker_and_Hold%27em_Manager"
+    },
+    {
+      "text": "Brunson, Amarillo Slim, and Sailor Roberts drove across Texas together in the 1960s, playing in high-stakes games and hustling.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Amarillo_Slim"
+    },
+    {
+      "text": "A 'one-outer' is the situation where a player needs one specific card to win—the most extreme form of a bad beat.",
+      "source": "https://en.wikipedia.org/wiki/A_%27one-outer"
+    },
+    {
+      "text": "In pot-limit poker, the maximum raise is the total amount currently in the pot plus the amount needed to call.",
+      "source": "https://en.wikipedia.org/wiki/In_pot-limit_poker%2C_the_maximum_raise"
+    },
+    {
+      "text": "The 'action' in poker refers to whose turn it is to act, or generally to the betting activity at a table.",
+      "source": "https://en.wikipedia.org/wiki/%27action%27_in_poker_refers_to_whose_turn_it"
+    },
+    {
+      "text": "Qui Nguyen won the 2016 WSOP Main Event, the last year the November Nine format was used.",
+      "month": 11,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/Qui_Nguyen"
+    },
+    {
+      "text": "In poker, 'table image' is the perception other players have of your style based on how you've played recent hands.",
+      "source": "https://en.wikipedia.org/wiki/In_poker%2C_%27table_image"
+    },
+    {
+      "text": "Poker chips were introduced in the mid-1800s to replace gold nuggets, coins, and other valuables used for wagering.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Poker_chips"
+    },
+    {
+      "text": "A 'post oak bluff' is a small, understated bet designed to look like a value bet but is actually a bluff.",
+      "source": "https://en.wikipedia.org/wiki/A_%27post_oak_bluff"
+    },
+    {
+      "text": "In poker, 'effective stacks' refers to the smaller of two players' stacks in a heads-up situation, as that's the most either can win.",
+      "source": "https://en.wikipedia.org/wiki/Poker"
+    },
+    {
+      "text": "The WSOP introduced a dedicated Poker Hall of Fame ceremony during the series, honoring new inductees each year.",
+      "source": "https://en.wikipedia.org/wiki/WSOP"
+    },
+    {
+      "text": "Jonathan Little is a poker coach, author, and two-time WPT champion who has built one of the largest poker training platforms.",
+      "source": "https://en.wikipedia.org/wiki/Jonathan_Little"
+    },
+    {
+      "text": "In poker, a 'bomb pot' is a unique hand where every player puts in a set amount and the flop is dealt immediately with no pre-flop action.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/In_poker%2C_a_%27bomb_pot"
+    },
+    {
+      "text": "The probability of completing a flush draw from flop to river (two cards to come) is approximately 35%.",
+      "source": "https://en.wikipedia.org/wiki/probability_of_completing_a_flush_draw_from_flop_to_river_(two_cards_to_come)"
+    },
+    {
+      "text": "A 'run good' or 'hot streak' in poker is a period of favorable results, which may be due to variance rather than skill.",
+      "source": "https://en.wikipedia.org/wiki/A_%27run_good%27_or_%27hot_streak%27_in_poker"
+    },
+    {
+      "text": "Wild Bill Hickok was shot and killed while playing poker at Nuttal & Mann's Saloon in Deadwood, South Dakota, on August 2, 1876.",
+      "month": 8,
+      "day": 2,
+      "source": "https://en.wikipedia.org/wiki/Wild_Bill_Hickok"
+    },
+    {
+      "text": "In poker, 'hand for hand' play occurs near the bubble, where each table must complete one hand before the next one is dealt.",
+      "source": "https://en.wikipedia.org/wiki/Poker"
+    },
+    {
+      "text": "Los Angeles County has the largest concentration of poker card rooms in the world.",
+      "source": "https://en.wikipedia.org/wiki/Los_Angeles_County"
+    },
+    {
+      "text": "David 'Devilfish' Ulliott was a colorful British poker player who won a WSOP bracelet and a WPT title before his death in 2015.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/David_%27Devilfish%27_Ulliott"
+    },
+    {
+      "text": "A 'satellite' into the WSOP Main Event typically costs between $100 and $1,500, compared to the $10,000 direct buy-in.",
+      "source": "https://en.wikipedia.org/wiki/WSOP_Main_Event"
+    },
+    {
+      "text": "In poker, 'aggression factor' (AF) is a statistical measure that compares a player's aggressive actions (bets and raises) to passive ones (calls).",
+      "source": "https://en.wikipedia.org/wiki/In_poker%2C_%27aggression_factor%27_(AF)"
+    },
+    {
+      "text": "The 'Big One for One Drop' is a high-stakes charity poker tournament with buy-ins of $1 million, with a portion going to the One Drop Foundation.",
+      "source": "https://en.wikipedia.org/wiki/%27Big_One_for_One_Drop"
+    },
+    {
+      "text": "Online poker revenue worldwide exceeds $5 billion annually.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Poker"
+    },
+    {
+      "text": "In poker, a 'lag' (loose-aggressive) player enters many pots with a wide range and plays them aggressively.",
+      "source": "https://en.wikipedia.org/wiki/Poker"
+    },
+    {
+      "text": "The 'Fundamental Theorem of Poker,' coined by David Sklansky, states that every time you play differently from how you would if you could see opponents' cards, they gain.",
+      "source": "https://en.wikipedia.org/wiki/Fundamental_Theorem_of_Poker"
+    },
+    {
+      "text": "A 'short stack' in tournament poker is a stack small enough that the player's options are limited primarily to shoving or folding.",
+      "source": "https://en.wikipedia.org/wiki/A_%27short_stack%27_in_tournament_poker"
+    },
+    {
+      "text": "The WSOP Asia-Pacific series was held in Melbourne, Australia, from 2013 to 2014 before being discontinued.",
+      "source": "https://en.wikipedia.org/wiki/WSOP_Asia-Pacific_series"
+    },
+    {
+      "text": "In poker, 'tanking' for too long is considered poor etiquette and some tournaments use shot clocks to address this.",
+      "source": "https://en.wikipedia.org/wiki/In_poker%2C_%27tanking%27_for_too_long"
+    },
+    {
+      "text": "Andy Beal, a billionaire banker, took on 'The Corporation'—a group of top poker pros—in a series of legendary heads-up games at the Bellagio.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Andy_Beal%2C_a_billionaire_banker"
+    },
+    {
+      "text": "The 'color up' process in tournaments involves exchanging smaller denomination chips for larger ones as blinds increase.",
+      "source": "https://en.wikipedia.org/wiki/Poker"
+    },
+    {
+      "text": "In poker, 'counterfeit' happens when a community card duplicates one of a player's pair cards, reducing their hand's value.",
+      "source": "https://en.wikipedia.org/wiki/Poker"
+    },
+    {
+      "text": "A 'monster' hand in poker is an exceptionally strong hand, such as a full house, four of a kind, or straight flush.",
+      "source": "https://en.wikipedia.org/wiki/A_%27monster%27_hand_in_poker"
+    },
+    {
+      "text": "Pius Heinz won the 2011 WSOP Main Event as the first German champion.",
+      "month": 11,
+      "day": 8,
+      "source": "https://en.wikipedia.org/wiki/Pius_Heinz"
+    },
+    {
+      "text": "In poker, 'c-betting frequency' is one of the most tracked statistics in player analysis, as it reveals how often a player follows up with a bet after raising pre-flop.",
+      "source": "https://en.wikipedia.org/wiki/In_poker%2C_%27c-betting_frequency"
+    },
+    {
+      "text": "Johnny Moss won the first three WSOP Main Events (1970, 1971, and 1974), although the 1970 event was decided by vote rather than play.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Johnny_Moss"
+    },
+    {
+      "text": "A 'flip' in poker describes an all-in situation where both players have roughly 50/50 equity, like AK vs QQ.",
+      "source": "https://en.wikipedia.org/wiki/A_%27flip%27_in_poker_describes_an_all-in_situation_where_both_players"
+    },
+    {
+      "text": "In poker, 'bet sizing' is a critical skill—different situations call for different fractions of the pot.",
+      "source": "https://en.wikipedia.org/wiki/In_poker%2C_%27bet_sizing"
+    },
+    {
+      "text": "The World Poker Tour Champions Club includes notable winners like Gus Hansen, Carlos Mortensen, and Antonio Esfandiari.",
+      "source": "https://en.wikipedia.org/wiki/World_Poker_Tour_Champions_Club"
+    },
+    {
+      "text": "Nevada, New Jersey, Pennsylvania, and Michigan are among the states that have legalized regulated online poker.",
+      "source": "https://en.wikipedia.org/wiki/Nevada%2C_New_Jersey%2C_Pennsylvania%2C_and_Michigan"
+    },
+    {
+      "text": "In poker, 'backdoor' draws require hitting on both the turn and river to complete, giving them low probability but occasional strategic value.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Poker"
+    },
+    {
+      "text": "A 'shootout' tournament requires a player to win their table before advancing to the next round.",
+      "source": "https://en.wikipedia.org/wiki/Poker"
+    },
+    {
+      "text": "In poker, 'ranges vs. hands' thinking means analyzing what an opponent could have (range) rather than trying to guess the exact hand.",
+      "source": "https://en.wikipedia.org/wiki/In_poker%2C_%27ranges_vs._hands%27_thinking_means_analyzing_what_an_opponent_could"
+    },
+    {
+      "text": "The Super High Roller Bowl is an invitation-only tournament with buy-ins of $300,000 or more.",
+      "source": "https://en.wikipedia.org/wiki/Super_High_Roller_Bowl"
+    },
+    {
+      "text": "Ryan Riess won the 2013 WSOP Main Event at age 23, earning $8.36 million.",
+      "month": 11,
+      "day": 5,
+      "source": "https://en.wikipedia.org/wiki/Ryan_Riess"
+    },
+    {
+      "text": "In poker, 'equity realization' describes how much of a hand's theoretical equity a player can actually capture based on position and skill.",
+      "source": "https://en.wikipedia.org/wiki/Poker"
+    },
+    {
+      "text": "Poker apps on smartphones have made it possible to play poker anytime and anywhere, contributing to the game's global growth.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Poker_apps_on_smartphones"
+    },
+    {
+      "text": "A 'hero call' is calling a large bet with a marginal hand based on a strong read that the opponent is bluffing.",
+      "source": "https://en.wikipedia.org/wiki/A_%27hero_call"
+    },
+    {
+      "text": "In poker, 'hand-reading' is the process of narrowing down an opponent's range based on their pre-flop and post-flop actions.",
+      "source": "https://en.wikipedia.org/wiki/In_poker%2C_%27hand-reading"
+    },
+    {
+      "text": "The 'big blind ante' format, which replaced individual antes, speeds up tournament play by having the big blind post the ante for the entire table.",
+      "source": "https://en.wikipedia.org/wiki/Poker"
+    },
+    {
+      "text": "Greg Merson won the 2012 WSOP Main Event and also earned the Player of the Year award.",
+      "month": 10,
+      "day": 30,
+      "source": "https://en.wikipedia.org/wiki/Greg_Merson"
+    },
+    {
+      "text": "In poker, 'adjusting to opponents' is a core skill—tight players require loose play to exploit, and vice versa.",
+      "source": "https://en.wikipedia.org/wiki/In_poker%2C_%27adjusting_to_opponents"
+    },
+    {
+      "text": "Poker Night in America is a popular cash game show featuring both professional and celebrity players.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Poker_Night_in_America"
+    },
+    {
+      "text": "A 'card dead' stretch in poker is a prolonged period of receiving poor starting hands.",
+      "source": "https://en.wikipedia.org/wiki/A_%27card_dead%27_stretch_in_poker"
+    },
+    {
+      "text": "In poker, 'showdown value' describes a hand that is strong enough to win at showdown but not strong enough to bet for value.",
+      "source": "https://en.wikipedia.org/wiki/In_poker%2C_%27showdown_value%27_describes_a_hand_that"
+    },
+    {
+      "text": "The WSOP Paradise series launched in the Bahamas, adding a Caribbean stop to the WSOP circuit.",
+      "source": "https://en.wikipedia.org/wiki/WSOP_Paradise_series"
+    },
+    {
+      "text": "Phil Hellmuth has finished in the money at the WSOP Main Event more than a dozen times, a testament to his tournament longevity.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Phil_Hellmuth"
+    },
+    {
+      "text": "A 'cash out' or 'leave the table' in a cash game can happen at any time, as chips are directly convertible to money.",
+      "source": "https://en.wikipedia.org/wiki/A_%27cash_out%27_or_%27leave_the_table%27_in_a_cash_game_can_happen_at_any_time%2C_as_chips"
+    },
+    {
+      "text": "In poker, 'mental game' skills like emotional control, focus, and handling adversity are just as important as technical strategy.",
+      "source": "https://en.wikipedia.org/wiki/In_poker%2C_%27mental_game%27_skills_like_emotional_control%2C_focus%2C_and_handling_adversity"
+    },
+    {
+      "text": "The first legal online poker hand in the United States was dealt in Nevada on April 30, 2013.",
+      "month": 4,
+      "day": 30,
+      "source": "https://en.wikipedia.org/wiki/first_legal_online_poker_hand_in_the_United_States"
+    },
+    {
+      "text": "A 'nitroll' is the frowned-upon act of slow-rolling with the absolute nuts, considered extremely poor etiquette.",
+      "source": "https://en.wikipedia.org/wiki/A_%27nitroll"
+    },
+    {
+      "text": "In poker, the 'small ball' strategy, popularized by Daniel Negreanu, involves playing many pots with small bets and minimal risk.",
+      "source": "https://en.wikipedia.org/wiki/Daniel_Negreanu"
+    },
+    {
+      "text": "Phil Ivey won his 10th WSOP bracelet in 2014, putting him third on the all-time list behind Phil Hellmuth and Johnny Chan.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Phil_Ivey"
+    },
+    {
+      "text": "A 'rock' is a very tight, conservative player who only enters pots with premium hands.",
+      "source": "https://en.wikipedia.org/wiki/A_%27rock"
+    },
+    {
+      "text": "In poker, 'ICM pressure' at a final table can force players to fold hands they would normally play.",
+      "source": "https://en.wikipedia.org/wiki/Poker"
+    },
+    {
+      "text": "The 'poker triangle' represents the three pillars of the game: mathematics, psychology, and discipline.",
+      "source": "https://en.wikipedia.org/wiki/Poker"
+    },
+    {
+      "text": "Scott Blumstein won the 2017 WSOP Main Event, earning $8.15 million.",
+      "month": 7,
+      "day": 22,
+      "source": "https://en.wikipedia.org/wiki/Scott_Blumstein"
+    },
+    {
+      "text": "In poker, 'run it once' versus 'run it twice' affects variance but not expected value—it's purely a risk management choice.",
+      "source": "https://en.wikipedia.org/wiki/Poker"
+    },
+    {
+      "text": "The Super High Roller events at major poker festivals regularly feature pots exceeding $1 million.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Super_High_Roller"
+    },
+    {
+      "text": "A 'seat draw' in tournament poker randomly assigns players to specific table positions at the start of the event.",
+      "source": "https://en.wikipedia.org/wiki/Poker"
+    },
+    {
+      "text": "In poker, 'game selection' is the practice of choosing tables and games where you have the biggest edge over opponents.",
+      "source": "https://en.wikipedia.org/wiki/In_poker%2C_%27game_selection"
+    },
+    {
+      "text": "The WSOP Circuit ring is a prestigious award for winning a WSOP Circuit event, a tier below the coveted gold bracelet.",
+      "source": "https://en.wikipedia.org/wiki/WSOP_Circuit_ring"
+    },
+    {
+      "text": "John Cynn won the longest WSOP Main Event heads-up battle in 2018, lasting nearly 10 hours and 199 hands.",
+      "month": 7,
+      "day": 15,
+      "source": "https://en.wikipedia.org/wiki/John_Cynn"
+    },
+    {
+      "text": "In poker, a 'maniac' is a hyper-aggressive player who raises and re-raises with a very wide range of hands.",
+      "source": "https://en.wikipedia.org/wiki/In_poker%2C_a_%27maniac"
+    },
+    {
+      "text": "The poker community has embraced charity events, with major charity tournaments raising millions for various causes.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/poker_community"
+    },
+    {
+      "text": "A 'scare card' is a community card that could reasonably complete a strong draw or improve an opponent's hand.",
+      "source": "https://en.wikipedia.org/wiki/A_%27scare_card"
+    },
+    {
+      "text": "In poker, 'blind defense' refers to the strategy of playing hands from the big blind to avoid losing too much to steals and raises.",
+      "source": "https://en.wikipedia.org/wiki/Poker"
+    },
+    {
+      "text": "Hevad 'Rain' Khan gained internet fame at the 2007 WSOP Main Event for his energetic celebrations at the table.",
+      "source": "https://en.wikipedia.org/wiki/Rain%27_Khan"
+    },
+    {
+      "text": "Chris Moneymaker's WSOP victory is often credited as the single most important event in poker history for growing the game's popularity.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Chris_Moneymaker%27s_WSOP_victory"
+    },
+    {
+      "text": "In poker, 'hand equity' can change dramatically with each community card—a concept known as 'equity shift.'",
+      "source": "https://en.wikipedia.org/wiki/Poker"
+    },
+    {
+      "text": "The 'final table' in a tournament refers to the last remaining table, typically the final 9 or 10 players.",
+      "source": "https://en.wikipedia.org/wiki/Poker"
+    },
+    {
+      "text": "A 'calling range' is the set of hands with which a player will call rather than fold or raise.",
+      "source": "https://en.wikipedia.org/wiki/A_%27calling_range"
+    },
+    {
+      "text": "The WSOP officially moved to Paris Las Vegas and Horseshoe Las Vegas (formerly Bally's) starting in 2022.",
+      "month": 5,
+      "day": 31,
+      "source": "https://en.wikipedia.org/wiki/WSOP"
+    },
+    {
+      "text": "In Chinese Poker, players earn royalty bonuses for premium hands like a straight flush in the back or trips in the front.",
+      "source": "https://en.wikipedia.org/wiki/In_Chinese_Poker"
+    },
+    {
+      "text": "Professional poker players often hire coaches and participate in study groups to continually improve their game.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Poker"
+    },
+    {
+      "text": "A 'heads-up display' (HUD) overlays real-time statistics on online poker tables, showing opponent tendencies based on hand histories.",
+      "source": "https://en.wikipedia.org/wiki/Poker"
+    },
+    {
+      "text": "In poker, 'table dynamics' encompass the collective mood, aggression level, and playing styles at a specific table.",
+      "source": "https://en.wikipedia.org/wiki/Poker"
+    },
+    {
+      "text": "Bobby Baldwin won the 1978 WSOP Main Event and later became president of the Bellagio casino.",
+      "source": "https://en.wikipedia.org/wiki/Bobby_Baldwin"
+    },
+    {
+      "text": "The minimum number of players for a poker game is two (heads-up), while a full ring cash game typically seats 9 or 10.",
+      "source": "https://en.wikipedia.org/wiki/minimum_number_of_players_for_a_poker_game"
+    },
+    {
+      "text": "In poker, 'check behind' refers to checking when in position after the out-of-position player has already checked.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Poker"
+    },
+    {
+      "text": "Poker's classification as a game of skill rather than pure chance has been upheld by multiple court rulings around the world.",
+      "source": "https://en.wikipedia.org/wiki/Poker%27s_classification_as_a_game_of_skill_rather_than_pure_chance"
+    },
+    {
+      "text": "A 'freezeout' format ensures every player starts with the same number of chips and there are no rebuys or add-ons.",
+      "source": "https://en.wikipedia.org/wiki/A_%27freezeout%27_format_ensures_every_player_starts_with_the_same_number_of_chips_and_there"
+    },
+    {
+      "text": "Espen Jorstad from Norway won the 2022 WSOP Main Event, earning $10 million.",
+      "month": 7,
+      "day": 16,
+      "source": "https://en.wikipedia.org/wiki/Espen_Jorstad_from_Norway"
+    },
+    {
+      "text": "A 'wheel' in poker is the lowest possible straight: A-2-3-4-5, also called a 'bicycle.'",
+      "source": "https://en.wikipedia.org/wiki/A_%27wheel%27_in_poker"
+    },
+    {
+      "text": "In Omaha, a player must use exactly two hole cards, unlike Hold'em where any combination of hole and board cards can be used.",
+      "source": "https://en.wikipedia.org/wiki/In_Omaha"
+    },
+    {
+      "text": "The 'Poker Boom' of 2003-2006 saw online poker revenue grow from $82 million to over $2.4 billion annually.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/%27Poker_Boom%27_of_2003-2006"
+    },
+    {
+      "text": "A 'ring game' is another term for a cash game, where chips represent real money and players can join or leave at any time.",
+      "source": "https://en.wikipedia.org/wiki/A_%27ring_game"
+    },
+    {
+      "text": "Dan Harrington's 'Harrington on Hold'em' book series is considered essential reading for tournament poker strategy.",
+      "source": "https://en.wikipedia.org/wiki/Dan_Harrington%27s_%27Harrington_on_Hold%27em%27_book_series"
+    },
+    {
+      "text": "In poker, 'pot geometry' describes how the pot grows across streets and how to plan bet sizes accordingly.",
+      "source": "https://en.wikipedia.org/wiki/Poker"
+    },
+    {
+      "text": "The 'Aussie Millions' held at Crown Melbourne is one of the Southern Hemisphere's most prestigious poker festivals.",
+      "month": 1,
+      "day": 22,
+      "source": "https://en.wikipedia.org/wiki/%27Aussie_Millions%27_held_at_Crown_Melbourne"
+    },
+    {
+      "text": "A 'cold call' is calling a raise (or re-raise) without having previously put money in the pot on that betting round.",
+      "source": "https://en.wikipedia.org/wiki/A_%27cold_call"
+    },
+    {
+      "text": "Online poker sites use random number generators (RNGs) certified by independent agencies to ensure fair card dealing.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Poker"
+    },
+    {
+      "text": "In poker, 'three-betting light' means re-raising pre-flop with a hand that is not premium, often as a bluff or semi-bluff.",
+      "source": "https://en.wikipedia.org/wiki/In_poker%2C_%27three-betting_light%27_means_re-raising_pre-flop_with_a_hand_that"
+    },
+    {
+      "text": "The 'Dead Man's Hand' legend says Wild Bill Hickok held black aces and eights when Jack McCall shot him from behind.",
+      "source": "https://en.wikipedia.org/wiki/%27Dead_Man%27s_Hand%27_legend"
+    },
+    {
+      "text": "A 'button straddle' is a variation where the player on the dealer button posts a blind raise, gaining last action pre-flop.",
+      "source": "https://en.wikipedia.org/wiki/A_%27button_straddle"
+    },
+    {
+      "text": "Poker has more possible game states than chess, making it one of the most complex strategic games ever studied.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Poker"
+    },
+    {
+      "text": "In 2017, the AI program Libratus defeated four top professional players in a 20-day heads-up No-Limit Hold'em challenge.",
+      "month": 1,
+      "day": 30,
+      "source": "https://en.wikipedia.org/wiki/No-Limit_Hold%27em"
+    },
+    {
+      "text": "A 'wrap' in Omaha is a straight draw with more outs than a standard open-ended straight draw, sometimes having up to 20 outs.",
+      "source": "https://en.wikipedia.org/wiki/A_%27wrap%27_in_Omaha"
+    },
+    {
+      "text": "Poker bankroll management suggests having at least 20-30 buy-ins for cash games and 50-100 buy-ins for tournament play.",
+      "source": "https://en.wikipedia.org/wiki/Poker"
+    },
+    {
+      "text": "The 'Broadway' cards in poker are the five highest-ranking cards: Ace, King, Queen, Jack, and Ten.",
+      "source": "https://en.wikipedia.org/wiki/%27Broadway%27_cards_in_poker"
+    },
+    {
+      "text": "Pluribus, an AI developed by Carnegie Mellon and Facebook, defeated elite professionals in six-player No-Limit Hold'em in 2019.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Pluribus%2C_an_AI"
+    },
+    {
+      "text": "In poker, 'nosebleed stakes' refer to the highest-limit games available, online or live, often with blinds of $200/$400 or higher.",
+      "source": "https://en.wikipedia.org/wiki/Poker"
+    },
+    {
+      "text": "A 'final table bubble' is the elimination spot just before the final table forms, often with significant pay jumps.",
+      "source": "https://en.wikipedia.org/wiki/A_%27final_table_bubble"
+    },
+    {
+      "text": "The WSOP added Europe and Asia-Pacific series to expand the brand globally beyond its Las Vegas origins.",
+      "source": "https://en.wikipedia.org/wiki/WSOP"
+    },
+    {
+      "text": "In poker, 'card removal effects' (blockers) influence strategy—holding the A♠ when the board has three spades makes opponent flushes less likely.",
+      "source": "https://en.wikipedia.org/wiki/Poker"
+    },
+    {
+      "text": "Maria Ho is one of the most successful female tournament players, with over $4 million in career earnings and multiple deep WSOP Main Event runs.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Maria_Ho"
+    }
+  ]
+}

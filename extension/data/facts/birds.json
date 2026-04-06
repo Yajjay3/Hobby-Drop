@@ -1,0 +1,1907 @@
+{
+  "hobby": "Birds",
+  "facts": [
+    {
+      "text": "Budgerigars (budgies) are the most popular pet bird in the world, originating from Australia where they still fly in enormous wild flocks.",
+      "source": "https://en.wikipedia.org/wiki/Budgerigars_(budgies)"
+    },
+    {
+      "text": "Cockatiels are the smallest members of the cockatoo family and are native to the arid regions of inland Australia.",
+      "source": "https://en.wikipedia.org/wiki/Cockatiels"
+    },
+    {
+      "text": "African Grey parrots are widely considered the most intelligent of all parrot species, with cognitive abilities comparable to a 4-to-6-year-old child.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/African_Grey_parrots"
+    },
+    {
+      "text": "Macaws are the largest parrots in the world, with the Hyacinth Macaw reaching up to 40 inches (100 cm) from head to tail.",
+      "source": "https://en.wikipedia.org/wiki/Macaws"
+    },
+    {
+      "text": "Canaries were originally greenish-brown in their wild form; the bright yellow color was selectively bred by humans over several centuries.",
+      "source": "https://en.wikipedia.org/wiki/Canaries"
+    },
+    {
+      "text": "Lovebirds got their name from the strong pair bonds they form, often sitting close together and preening each other.",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "Conures are known for their playful, clownish personalities and are sometimes called the 'clowns of the parrot world.'",
+      "source": "https://en.wikipedia.org/wiki/Conures"
+    },
+    {
+      "text": "Finches are generally hands-off pets that prefer the company of other finches rather than human interaction.",
+      "source": "https://en.wikipedia.org/wiki/Finches"
+    },
+    {
+      "text": "Amazon parrots are renowned for their exceptional talking ability and can learn hundreds of words and phrases.",
+      "source": "https://en.wikipedia.org/wiki/Amazon_parrots"
+    },
+    {
+      "text": "Pionus parrots are often recommended for first-time parrot owners because of their calm, gentle temperament.",
+      "source": "https://en.wikipedia.org/wiki/Pionus_parrots"
+    },
+    {
+      "text": "Caiques are sometimes called 'the clown of the parrot world' for their energetic, acrobatic antics and love of play.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Caiques"
+    },
+    {
+      "text": "Eclectus parrots are one of the most sexually dimorphic parrot species — males are bright green while females are vivid red and purple.",
+      "source": "https://en.wikipedia.org/wiki/Eclectus_parrots"
+    },
+    {
+      "text": "Ringneck doves are one of the easiest bird species to care for and can live 10 to 25 years in captivity.",
+      "source": "https://en.wikipedia.org/wiki/Ringneck_doves"
+    },
+    {
+      "text": "Pigeons were one of the first birds domesticated by humans, with evidence of pigeon keeping dating back over 5,000 years.",
+      "source": "https://en.wikipedia.org/wiki/Pigeons"
+    },
+    {
+      "text": "The Moluccan Cockatoo has one of the loudest calls of any parrot and can be heard from over a mile away.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Moluccan_Cockatoo"
+    },
+    {
+      "text": "Parakeets can learn to speak between 100 and 500 words, which rivals some larger parrot species.",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "The Sulphur-crested Cockatoo can live over 80 years in captivity, making it one of the longest-lived pet birds.",
+      "source": "https://en.wikipedia.org/wiki/Sulphur-crested_Cockatoo"
+    },
+    {
+      "text": "Green-cheeked Conures are one of the quieter conure species, making them popular as apartment pets.",
+      "source": "https://en.wikipedia.org/wiki/Green-cheeked_Conures"
+    },
+    {
+      "text": "Society finches (Bengalese finches) don't exist in the wild — they were entirely created through selective breeding in Asia.",
+      "source": "https://en.wikipedia.org/wiki/Society_finches_(Bengalese_finches)_don%27t_exist_in_the_wild_%E2%80%94_they"
+    },
+    {
+      "text": "The Gouldian Finch is one of the most colorful finches in the world, displaying vivid combinations of green, purple, yellow, and red.",
+      "source": "https://en.wikipedia.org/wiki/Gouldian_Finch"
+    },
+    {
+      "text": "Cockatoos have a movable crest of feathers on their heads that they raise when excited, alarmed, or showing off.",
+      "source": "https://en.wikipedia.org/wiki/Cockatoos"
+    },
+    {
+      "text": "African Grey parrots can live 40 to 60 years in captivity, so owning one is essentially a lifelong commitment.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/African_Grey_parrots_can_live_40_to_60_years_in_captivity%2C_so_owning_one"
+    },
+    {
+      "text": "The Quaker Parrot (Monk Parakeet) is one of the few parrot species that builds stick nests rather than nesting in tree cavities.",
+      "source": "https://en.wikipedia.org/wiki/Quaker_Parrot_(Monk_Parakeet)"
+    },
+    {
+      "text": "Parrotlets are the smallest commonly kept pet parrots, weighing only about 1 ounce (28 grams).",
+      "source": "https://en.wikipedia.org/wiki/Parrotlets"
+    },
+    {
+      "text": "Male cockatiels are generally better singers and whistlers than females, often learning complex tunes and melodies.",
+      "source": "https://en.wikipedia.org/wiki/Male_cockatiels"
+    },
+    {
+      "text": "The Double Yellow-headed Amazon is considered one of the best talking Amazon parrots and can develop an impressive vocabulary.",
+      "source": "https://en.wikipedia.org/wiki/Double_Yellow-headed_Amazon"
+    },
+    {
+      "text": "Senegal parrots are known for being somewhat quieter than other parrots and forming very strong bonds with a single person.",
+      "source": "https://en.wikipedia.org/wiki/Senegal_parrots"
+    },
+    {
+      "text": "A pet bird's diet should consist of much more than just seeds — pellets, fresh fruits, and vegetables are essential for proper nutrition.",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "Avocado is extremely toxic to birds and can cause heart failure and death within 24 to 48 hours of ingestion.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Avocado"
+    },
+    {
+      "text": "Chocolate, caffeine, and alcohol are all toxic to pet birds and should always be kept out of their reach.",
+      "source": "https://en.wikipedia.org/wiki/Chocolate%2C_caffeine%2C_and_alcohol"
+    },
+    {
+      "text": "Birds have very sensitive respiratory systems, so non-stick cookware fumes (PTFE/Teflon) can be lethal to them even in small amounts.",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "A bird's cage should be at least twice as wide as its wingspan to allow comfortable movement and wing stretching.",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "Pet birds need 10 to 12 hours of uninterrupted sleep each night for optimal health.",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "Birds hide signs of illness as a survival instinct, so by the time a bird looks sick, it may have been unwell for days.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "Calcium deficiency is one of the most common nutritional problems in pet birds, especially in African Greys.",
+      "source": "https://en.wikipedia.org/wiki/Calcium_deficiency"
+    },
+    {
+      "text": "Cuttlebone is commonly provided to pet birds as a natural source of calcium and to help keep their beaks trimmed.",
+      "source": "https://en.wikipedia.org/wiki/Cuttlebone"
+    },
+    {
+      "text": "Annual veterinary checkups with an avian vet are recommended for all pet birds, even those that appear healthy.",
+      "source": "https://en.wikipedia.org/wiki/Annual_veterinary_checkups_with_an_avian_vet"
+    },
+    {
+      "text": "Birds can overheat easily because they cannot sweat; they cool themselves by panting and holding their wings away from their bodies.",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "Proper socialization in the first few months of a bird's life is critical for preventing behavioral problems later on.",
+      "source": "https://en.wikipedia.org/wiki/Proper_socialization_in_the_first_few_months_of_a_bird%27s_life"
+    },
+    {
+      "text": "Birds need exposure to natural or full-spectrum lighting to properly synthesize vitamin D3 and absorb calcium.",
+      "source": "https://en.wikipedia.org/wiki/D3_and"
+    },
+    {
+      "text": "Zinc and lead found in some cage materials, jewelry, and household items can cause fatal heavy metal poisoning in birds.",
+      "source": "https://en.wikipedia.org/wiki/Zinc_and"
+    },
+    {
+      "text": "Female birds can lay eggs even without a male present, similar to chickens.",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "Chronic egg-laying in female birds can lead to calcium depletion, egg binding, and other serious health issues.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "Wing clipping is a controversial practice — it can prevent escape but also limits exercise and can cause psychological stress.",
+      "source": "https://en.wikipedia.org/wiki/Wing_clipping"
+    },
+    {
+      "text": "Psittacosis (parrot fever) is a bacterial infection that can be transmitted from birds to humans through dried droppings or feather dust.",
+      "source": "https://en.wikipedia.org/wiki/Psittacosis_(parrot_fever)"
+    },
+    {
+      "text": "A healthy bird's droppings should have three components: a dark solid portion (feces), white portion (urates), and clear liquid (urine).",
+      "source": "https://en.wikipedia.org/wiki/A_healthy_bird%27s_droppings_should"
+    },
+    {
+      "text": "Birds should never be kept in the kitchen due to fumes from cooking, non-stick pans, and cleaning products.",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "Many common houseplants are toxic to birds, including philodendron, dieffenbachia, and lily of the valley.",
+      "source": "https://en.wikipedia.org/wiki/Many_common_houseplants"
+    },
+    {
+      "text": "Grit is not necessary for hookbill parrots since they hull their seeds before eating, unlike softbill birds.",
+      "source": "https://en.wikipedia.org/wiki/Grit"
+    },
+    {
+      "text": "Nail trimming is an important part of bird care, as overgrown nails can get caught and cause injury.",
+      "source": "https://en.wikipedia.org/wiki/Nail_trimming"
+    },
+    {
+      "text": "Misting or bathing is important for pet birds to maintain healthy feathers and skin — most birds enjoy a gentle spray.",
+      "source": "https://en.wikipedia.org/wiki/Misting_or_bathing"
+    },
+    {
+      "text": "Birds are flock animals and can develop depression, feather plucking, and other problems if left alone for extended periods.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "Some parrot species can mimic human speech so accurately that they fool people into thinking a person is talking.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "Male budgies are generally better talkers than females, and a single budgie kept by itself is more likely to learn to speak.",
+      "source": "https://en.wikipedia.org/wiki/Male_budgies"
+    },
+    {
+      "text": "Cockatoos are among the most affectionate parrots but also among the most demanding, often called 'velcro birds' for their neediness.",
+      "source": "https://en.wikipedia.org/wiki/Cockatoos"
+    },
+    {
+      "text": "The African Grey parrot Irene Pepperberg studied, named Alex, could identify 50 objects, 7 colors, 5 shapes, and quantities up to 6.",
+      "source": "https://en.wikipedia.org/wiki/African_Grey_parrot_Irene_Pepperberg_studied"
+    },
+    {
+      "text": "Parrots don't have vocal cords — they produce speech by controlling the muscles in their trachea and syrinx.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Parrots_don%27t"
+    },
+    {
+      "text": "A bird fluffing its feathers and grinding its beak is usually a sign of contentment and relaxation.",
+      "source": "https://en.wikipedia.org/wiki/A_bird_fluffing_its_feathers_and_grinding_its_beak"
+    },
+    {
+      "text": "When a bird pins its eyes (rapidly dilating and constricting its pupils), it can indicate excitement, curiosity, or aggression.",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "Head-bobbing in parrots can mean different things depending on context — hunger (babies), excitement, or attention-seeking.",
+      "source": "https://en.wikipedia.org/wiki/Head-bobbing_in"
+    },
+    {
+      "text": "A bird that regurgitates food for you is actually showing affection, as this is how they feed their mates in the wild.",
+      "source": "https://en.wikipedia.org/wiki/A_bird_that_regurgitates_food_for_you"
+    },
+    {
+      "text": "Feather plucking in pet birds can be caused by boredom, stress, hormonal changes, medical issues, or poor diet.",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "Parrots preen each other (allopreening) as a social bonding behavior, and many enjoy having their head feathers gently stroked by owners.",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "A bird standing on one foot with feathers slightly fluffed is typically relaxed and comfortable.",
+      "source": "https://en.wikipedia.org/wiki/A_bird_standing_on_one_foot_with_feathers_slightly_fluffed"
+    },
+    {
+      "text": "When a bird hangs upside down, it's usually a sign of playfulness and comfort with its environment.",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "Beak grinding — a soft, crackling sound — is one of the most reliable signs that a bird feels safe and is ready to sleep.",
+      "source": "https://en.wikipedia.org/wiki/Beak_grinding_%E2%80%94_a_soft%2C_crackling_sound_%E2%80%94"
+    },
+    {
+      "text": "A bird that lowers its head and fluffs its neck feathers is often asking for head scratches.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/A_bird_that_lowers_its_head_and_fluffs_its_neck_feathers"
+    },
+    {
+      "text": "Screaming at dawn and dusk is natural flock behavior for parrots — it's their way of checking in with their 'flock.'",
+      "source": "https://en.wikipedia.org/wiki/Screaming_at_dawn_and_dusk"
+    },
+    {
+      "text": "Tail-fanning in birds can indicate aggression, excitement, or a desire to look larger and more intimidating.",
+      "source": "https://en.wikipedia.org/wiki/Tail-fanning_in"
+    },
+    {
+      "text": "Birds can hold grudges and remember people who have mistreated them, sometimes for years.",
+      "source": "https://en.wikipedia.org/wiki/Birds_can_hold_grudges_and_remember_people_who"
+    },
+    {
+      "text": "Cockatoos are known to dance to music with a genuine sense of rhythm, not just mimicking movements.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Cockatoos"
+    },
+    {
+      "text": "When a bird wipes its beak on a perch after eating, it's cleaning its beak, similar to how we use a napkin.",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "Wing-flapping while perched is a form of exercise for birds and also a way of getting attention.",
+      "source": "https://en.wikipedia.org/wiki/Wing-flapping_while_perched"
+    },
+    {
+      "text": "Foraging toys are essential for pet birds because in the wild, parrots spend 60-80% of their waking hours searching for food.",
+      "source": "https://en.wikipedia.org/wiki/Foraging_toys"
+    },
+    {
+      "text": "Shreddable toys made of palm leaf, balsa wood, or paper satisfy a bird's natural instinct to chew and destroy.",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "Mirrors can be stimulating for single birds but may also lead to obsessive behavior or hormonal issues in some species.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "Rotating toys every few days keeps a bird mentally stimulated and prevents toy boredom.",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "Puzzle feeders that require birds to solve steps to access food are excellent for mental enrichment.",
+      "source": "https://en.wikipedia.org/wiki/Puzzle_feeders_that_require_birds_to_solve_steps_to_access_food"
+    },
+    {
+      "text": "Swings and boings (spiral perches) provide both exercise and entertainment for pet birds.",
+      "source": "https://en.wikipedia.org/wiki/Swings_and"
+    },
+    {
+      "text": "Bells are popular bird toys, but make sure they don't have small clappers or jingle-bell openings that can trap toes.",
+      "source": "https://en.wikipedia.org/wiki/Bells"
+    },
+    {
+      "text": "Natural wood perches of varying diameters are healthier for bird feet than smooth dowel perches of a single size.",
+      "source": "https://en.wikipedia.org/wiki/Natural_wood_perches_of_varying_diameters"
+    },
+    {
+      "text": "Some birds enjoy foot toys — small items they can hold in their feet and manipulate, like wiffle balls or beads.",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "Coconut shell hideaways serve as both a toy and a comfort spot, though they can trigger nesting behavior in some birds.",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "Foraging wheels and boxes that require lifting, sliding, or turning to reach treats mimic natural food-finding challenges.",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "Hide treats in crumpled paper or wrapped in cupcake liners to encourage natural foraging behavior.",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "Cardboard boxes and paper towel rolls make inexpensive and entertaining enrichment toys for birds.",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "Stainless steel toys are the safest metal option for birds, as they contain no zinc, lead, or other toxic metals.",
+      "source": "https://en.wikipedia.org/wiki/Stainless_steel_toys"
+    },
+    {
+      "text": "Water features like shallow dishes or drip fountains can serve as both enrichment and bathing opportunities.",
+      "source": "https://en.wikipedia.org/wiki/Water"
+    },
+    {
+      "text": "Rope perches and bungee toys provide varied textures, but frayed rope should be trimmed to prevent toe entanglement.",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "Some parrots enjoy playing with baby toys — stacking cups, plastic keys, and rattles — because of their bright colors and textures.",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "The New Caledonian Crow can craft and use tools, bending wire into hooks to retrieve food from tubes.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/New_Caledonian_Crow"
+    },
+    {
+      "text": "Kea parrots from New Zealand have demonstrated the ability to understand probability and make statistical inferences.",
+      "source": "https://en.wikipedia.org/wiki/Kea_parrots_from_New_Zealand"
+    },
+    {
+      "text": "Crows can recognize individual human faces and hold grudges against people who have wronged them for years.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Crows_can_recognize_individual_human_faces_and_hold_grudges_against_people_who"
+    },
+    {
+      "text": "African Grey parrots have demonstrated the ability to understand the concept of zero, a skill rare even among primates.",
+      "source": "https://en.wikipedia.org/wiki/African_Grey_parrots"
+    },
+    {
+      "text": "Cockatoos have been observed fashioning tools by breaking off pieces of wood to use as drumsticks on hollow trees.",
+      "source": "https://en.wikipedia.org/wiki/Cockatoos"
+    },
+    {
+      "text": "Ravens can plan for the future, selecting and saving tools they'll need for tasks they'll perform later.",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "Clark's Nutcrackers can remember the locations of up to 30,000 individually buried seed caches across a landscape.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Clark%27s_Nutcrackers"
+    },
+    {
+      "text": "Pigeons can learn to distinguish between paintings by Monet and Picasso, and generalize to identify new works by each artist.",
+      "source": "https://en.wikipedia.org/wiki/Monet_and_Picasso"
+    },
+    {
+      "text": "Some parrots have demonstrated the ability to count up to eight and understand ordinal numbers (first, second, third).",
+      "source": "https://en.wikipedia.org/wiki/Some_parrots"
+    },
+    {
+      "text": "Crows in Japan have learned to place walnuts on crosswalks, letting cars crack them, then retrieving the nuts during red lights.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Crows_in_Japan"
+    },
+    {
+      "text": "The Goffin's Cockatoo can solve a five-step mechanical puzzle to access a reward, showing impressive sequential reasoning.",
+      "source": "https://en.wikipedia.org/wiki/Goffin%27s_Cockatoo"
+    },
+    {
+      "text": "Scrub jays can practice deception — they re-hide food if they think another bird was watching them cache it.",
+      "source": "https://en.wikipedia.org/wiki/Scrub_jays_can_practice_deception_%E2%80%94_they_re-hide_food_if_they_think_another_bird"
+    },
+    {
+      "text": "Pigeons can learn abstract rules about grammar-like patterns, recognizing sequences they haven't encountered before.",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "Alex the African Grey's last words to researcher Irene Pepperberg were 'You be good, see you tomorrow. I love you.'",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Alex_the_African_Grey%27s_last_words_to_researcher_Irene_Pepperberg"
+    },
+    {
+      "text": "Alex the African Grey could correctly identify over 100 different objects and understood concepts like 'same,' 'different,' and 'none.'",
+      "source": "https://en.wikipedia.org/wiki/Alex_the_African_Grey"
+    },
+    {
+      "text": "Alex the African Grey died unexpectedly on September 6, 2007, at the age of 31 — about half the expected lifespan for his species.",
+      "month": 9,
+      "day": 6,
+      "source": "https://en.wikipedia.org/wiki/Alex_the_African_Grey"
+    },
+    {
+      "text": "Einstein, a famous African Grey at the Knoxville Zoo, went viral for demonstrating over 200 sound effects and words on TV shows.",
+      "source": "https://en.wikipedia.org/wiki/African_Grey_at_the_Knoxville_Zoo"
+    },
+    {
+      "text": "Snowball the Sulphur-crested Cockatoo gained fame in 2009 when scientists confirmed he could genuinely dance to a musical beat.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Snowball_the_Sulphur-crested_Cockatoo"
+    },
+    {
+      "text": "Snowball the cockatoo was shown to use 14 different dance moves, making him one of the most rhythmically creative non-human animals studied.",
+      "source": "https://en.wikipedia.org/wiki/Snowball_the_cockatoo"
+    },
+    {
+      "text": "A budgie named Puck holds the Guinness World Record for the largest vocabulary of any bird, with 1,728 words.",
+      "source": "https://en.wikipedia.org/wiki/A_budgie"
+    },
+    {
+      "text": "N'kisi, an African Grey parrot, was reported to have a vocabulary of around 950 words and could use them in context.",
+      "source": "https://en.wikipedia.org/wiki/N%27kisi%2C_an_African_Grey_parrot"
+    },
+    {
+      "text": "A cockatoo named Figaro at the University of Vienna impressed researchers by spontaneously crafting tools from wooden splints.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/A_cockatoo"
+    },
+    {
+      "text": "Cookie the cockatoo from the Brookfield Zoo in Chicago lived to be 83 years old, one of the longest-lived parrots on record.",
+      "source": "https://en.wikipedia.org/wiki/Cookie_the"
+    },
+    {
+      "text": "Poncho, a Green-winged Macaw who appeared in several Hollywood films, was reported to be over 90 years old.",
+      "source": "https://en.wikipedia.org/wiki/Poncho%2C_a_Green-winged_Macaw_who_appeared_in_several_Hollywood_films"
+    },
+    {
+      "text": "Charlie, a Blue-and-Gold Macaw, was rumored to have belonged to Winston Churchill, though the Churchill estate denied it.",
+      "source": "https://en.wikipedia.org/wiki/Charlie%2C_a_Blue-and-Gold_Macaw"
+    },
+    {
+      "text": "Disco the parakeet became a YouTube sensation for his incredible talking ability and comedic phrases.",
+      "source": "https://en.wikipedia.org/wiki/Disco_the_parakeet"
+    },
+    {
+      "text": "The earliest evidence of parrot keeping dates back to ancient Egypt, around 2000 BCE, where they were prized as exotic pets.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "Ancient Romans kept parrots as status symbols and even had dedicated parrot keepers called 'psittaci.'",
+      "source": "https://en.wikipedia.org/wiki/Ancient_Romans_kept_parrots_as_status_symbols_and_even"
+    },
+    {
+      "text": "Alexander the Great is credited with introducing parrots to Europe after encountering them during his campaigns in India.",
+      "source": "https://en.wikipedia.org/wiki/Alexander_the_Great"
+    },
+    {
+      "text": "Canaries were used in coal mines from the late 1800s to 1986 as living carbon monoxide detectors — they'd collapse before miners were affected.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Canaries"
+    },
+    {
+      "text": "The practice of using canaries in mines ended in the UK in 1986 when electronic gas detectors replaced them.",
+      "month": 12,
+      "day": 30,
+      "source": "https://en.wikipedia.org/wiki/UK"
+    },
+    {
+      "text": "Carrier pigeons were used extensively in both World Wars to deliver critical military messages behind enemy lines.",
+      "source": "https://en.wikipedia.org/wiki/Carrier_pigeons"
+    },
+    {
+      "text": "Cher Ami, a carrier pigeon in World War I, delivered a message that saved nearly 200 soldiers despite being shot through the breast.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Cher_Ami%2C_a_carrier_pigeon_in_World_War_I%2C_delivered_a_message_that"
+    },
+    {
+      "text": "Cher Ami was awarded the French Croix de Guerre medal for heroic service during World War I.",
+      "source": "https://en.wikipedia.org/wiki/Cher_Ami"
+    },
+    {
+      "text": "Falconry is one of the oldest hunting sports, dating back over 4,000 years to ancient Mesopotamia and Mongolia.",
+      "source": "https://en.wikipedia.org/wiki/Falconry"
+    },
+    {
+      "text": "Falconry was so popular among medieval European nobility that the type of raptor you could own was determined by your social rank.",
+      "source": "https://en.wikipedia.org/wiki/Falconry"
+    },
+    {
+      "text": "The first known parrot breeding in captivity occurred in ancient Rome, where they bred Ring-necked Parakeets.",
+      "source": "https://en.wikipedia.org/wiki/Ring-necked_Parakeets"
+    },
+    {
+      "text": "During the Victorian era, keeping birds was immensely popular, and elaborate bird cages became fashionable home décor.",
+      "source": "https://en.wikipedia.org/wiki/During_the_Victorian_era%2C_keeping_birds"
+    },
+    {
+      "text": "The budgerigar was first brought to Europe from Australia in 1838 by naturalist John Gould.",
+      "source": "https://en.wikipedia.org/wiki/budgerigar"
+    },
+    {
+      "text": "Pirates didn't commonly keep parrots — that image was largely popularized by Robert Louis Stevenson's 'Treasure Island' in 1883.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Pirates_didn%27t_commonly_keep_parrots_%E2%80%94_that_image"
+    },
+    {
+      "text": "The international pet bird trade was significantly curtailed by the Wild Bird Conservation Act of 1992 in the United States.",
+      "month": 10,
+      "day": 23,
+      "source": "https://en.wikipedia.org/wiki/international_pet_bird_trade"
+    },
+    {
+      "text": "The ancient Aztecs kept Scarlet Macaws as prized pets and traded their feathers as a form of currency.",
+      "source": "https://en.wikipedia.org/wiki/Scarlet_Macaws"
+    },
+    {
+      "text": "King Henry VIII of England reportedly owned an African Grey parrot that lived at Hampton Court Palace.",
+      "source": "https://en.wikipedia.org/wiki/King_Henry_VIII_of_England"
+    },
+    {
+      "text": "G.I. Joe, a carrier pigeon in World War II, saved over 1,000 lives by delivering a message that prevented an Allied bombing of a captured town.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/G.I._Joe%2C_a_carrier_pigeon_in_World_War_II"
+    },
+    {
+      "text": "The Northern Cardinal is the most popular state bird in the United States, representing seven different states.",
+      "source": "https://en.wikipedia.org/wiki/Northern_Cardinal"
+    },
+    {
+      "text": "Hummingbirds are the only birds that can fly backward and hover in place like a helicopter.",
+      "source": "https://en.wikipedia.org/wiki/Hummingbirds"
+    },
+    {
+      "text": "A group of flamingos is called a 'flamboyance.'",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/A_group_of_flamingos"
+    },
+    {
+      "text": "The American Robin is often considered the first sign of spring in North America, though many robins actually stay year-round.",
+      "source": "https://en.wikipedia.org/wiki/American_Robin"
+    },
+    {
+      "text": "Black-capped Chickadees can remember thousands of hiding spots where they've stored food for the winter.",
+      "source": "https://en.wikipedia.org/wiki/Black-capped_Chickadees"
+    },
+    {
+      "text": "Blue Jays can mimic the calls of hawks to scare other birds away from food sources.",
+      "source": "https://en.wikipedia.org/wiki/Blue_Jays"
+    },
+    {
+      "text": "Woodpeckers have specially adapted skulls that absorb shock, allowing them to peck at trees up to 20 times per second without brain injury.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Woodpeckers"
+    },
+    {
+      "text": "Backyard bird feeders should be cleaned regularly to prevent the spread of diseases like avian conjunctivitis and salmonellosis.",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "Black oil sunflower seeds are the single most popular and widely eaten seed at backyard bird feeders.",
+      "source": "https://en.wikipedia.org/wiki/Black_oil_sunflower_seeds"
+    },
+    {
+      "text": "Suet feeders are especially useful in winter, providing high-energy fat that helps birds survive cold nights.",
+      "source": "https://en.wikipedia.org/wiki/Suet_feeders"
+    },
+    {
+      "text": "Birdhouses (nest boxes) should face away from prevailing winds and be placed at the appropriate height for the target species.",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "The Great Backyard Bird Count, held annually in February, is a worldwide citizen science event where people count birds for four days.",
+      "month": 2,
+      "day": 14,
+      "source": "https://en.wikipedia.org/wiki/Great_Backyard_Bird_Count%2C_held_annually_in_February"
+    },
+    {
+      "text": "Window strikes kill an estimated 600 million to 1 billion birds annually in the United States alone.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/United_States"
+    },
+    {
+      "text": "Placing decals, screens, or UV-reflective tape on windows can dramatically reduce bird collisions.",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "The Cornell Lab of Ornithology's eBird platform has collected over 1 billion bird observations from citizen scientists worldwide.",
+      "source": "https://en.wikipedia.org/wiki/Cornell_Lab_of_Ornithology%27s_eBird_platform"
+    },
+    {
+      "text": "Ruby-throated Hummingbirds migrate nonstop across the Gulf of Mexico — a 500-mile journey taking up to 20 hours.",
+      "source": "https://en.wikipedia.org/wiki/Ruby-throated_Hummingbirds"
+    },
+    {
+      "text": "The Arctic Tern has the longest migration of any bird, flying roughly 44,000 miles per year from Arctic to Antarctic and back.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Arctic_Tern"
+    },
+    {
+      "text": "Birding (birdwatching) is one of the fastest-growing outdoor hobbies in the world, with over 45 million participants in the U.S. alone.",
+      "source": "https://en.wikipedia.org/wiki/Birding_(birdwatching)"
+    },
+    {
+      "text": "The Merlin Bird ID app by Cornell Lab uses AI to identify birds by their songs and photos.",
+      "source": "https://en.wikipedia.org/wiki/Merlin_Bird_ID"
+    },
+    {
+      "text": "Keeping cats indoors is one of the most effective ways to protect wild birds — outdoor cats kill an estimated 2.4 billion birds per year in the U.S.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Keeping_cats_indoors"
+    },
+    {
+      "text": "Nyjer (thistle) seed is a favorite of goldfinches, siskins, and other small finches at backyard feeders.",
+      "source": "https://en.wikipedia.org/wiki/Nyjer_(thistle)_seed"
+    },
+    {
+      "text": "Providing a birdbath with a dripper or fountain is one of the best ways to attract a wide variety of wild birds to your yard.",
+      "source": "https://en.wikipedia.org/wiki/Providing_a_birdbath_with_a_dripper_or_fountain"
+    },
+    {
+      "text": "Barn Owls can locate and catch prey in total darkness using their asymmetrically placed ears and exceptional hearing.",
+      "source": "https://en.wikipedia.org/wiki/Barn_Owls"
+    },
+    {
+      "text": "The Peregrine Falcon is the fastest animal on Earth, reaching speeds over 240 mph (386 km/h) in a hunting dive (stoop).",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Peregrine_Falcon"
+    },
+    {
+      "text": "Owls can rotate their heads up to 270 degrees because they have 14 cervical vertebrae — twice as many as humans.",
+      "source": "https://en.wikipedia.org/wiki/Owls_can_rotate_their_heads_up_to_270_degrees_because_they"
+    },
+    {
+      "text": "Bald Eagles build the largest nests of any North American bird, some weighing over 2 tons.",
+      "source": "https://en.wikipedia.org/wiki/Bald_Eagles"
+    },
+    {
+      "text": "The smallest bird in the world is the Bee Hummingbird of Cuba, measuring just 2.2 inches (5.5 cm) long.",
+      "source": "https://en.wikipedia.org/wiki/smallest_bird_in_the_world"
+    },
+    {
+      "text": "The largest living bird is the Common Ostrich, which can stand up to 9 feet tall and weigh over 300 pounds.",
+      "source": "https://en.wikipedia.org/wiki/largest_living_bird"
+    },
+    {
+      "text": "The Wandering Albatross has the largest wingspan of any living bird, reaching up to 12 feet (3.7 meters).",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Wandering_Albatross"
+    },
+    {
+      "text": "The oldest confirmed wild bird is a Laysan Albatross named Wisdom, who was at least 73 years old and still laying eggs.",
+      "source": "https://en.wikipedia.org/wiki/oldest_confirmed_wild_bird"
+    },
+    {
+      "text": "Puffins can carry 10 or more small fish in their bills at once, arranged neatly in a row.",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "Flamingos are born white or gray and get their pink color from carotenoid pigments in the shrimp and algae they eat.",
+      "source": "https://en.wikipedia.org/wiki/Flamingos"
+    },
+    {
+      "text": "Kiwi birds are the only birds with nostrils at the tip of their bill, which they use to sniff out food underground.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Kiwi_birds"
+    },
+    {
+      "text": "Penguins are birds that cannot fly but are excellent swimmers, with some species diving to depths of over 1,800 feet.",
+      "source": "https://en.wikipedia.org/wiki/Penguins"
+    },
+    {
+      "text": "The Shoebill Stork can stand completely motionless for hours while waiting to ambush fish — a behavior called 'freeze hunting.'",
+      "source": "https://en.wikipedia.org/wiki/Shoebill_Stork"
+    },
+    {
+      "text": "The Kakapo of New Zealand is the world's only flightless parrot and one of the longest-lived birds, reaching 90+ years.",
+      "source": "https://en.wikipedia.org/wiki/Kakapo_of_New_Zealand"
+    },
+    {
+      "text": "The Resplendent Quetzal was considered sacred by the Aztecs and Maya, who used its tail feathers in royal headdresses.",
+      "source": "https://en.wikipedia.org/wiki/Resplendent_Quetzal"
+    },
+    {
+      "text": "Crows have been observed sledding down snowy rooftops using lids and other flat objects for apparent fun.",
+      "source": "https://en.wikipedia.org/wiki/Crows"
+    },
+    {
+      "text": "A pelican's throat pouch can hold up to 3 gallons of water — roughly three times more than its stomach.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "Starlings can form murmurations — massive flocks of thousands of birds that create mesmerizing, shape-shifting patterns in the sky.",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "National Bird Day in the United States is celebrated on January 5 each year to promote bird adoption and awareness.",
+      "month": 1,
+      "day": 5,
+      "source": "https://en.wikipedia.org/wiki/National_Bird_Day_in_the_United_States"
+    },
+    {
+      "text": "World Migratory Bird Day is celebrated in May and October each year to raise awareness about the conservation of migratory birds.",
+      "month": 5,
+      "day": 10,
+      "source": "https://en.wikipedia.org/wiki/World_Migratory_Bird_Day"
+    },
+    {
+      "text": "The Audubon Society was founded in 1905 and is one of the oldest conservation organizations in the United States.",
+      "month": 1,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/Audubon_Society"
+    },
+    {
+      "text": "International Parrot Day, celebrated on May 31, aims to raise awareness about the threats facing wild and captive parrot populations.",
+      "month": 5,
+      "day": 31,
+      "source": "https://en.wikipedia.org/wiki/International_Parrot_Day"
+    },
+    {
+      "text": "The Migratory Bird Treaty Act was signed on July 3, 1918, providing legal protection for over 1,000 migratory bird species in North America.",
+      "month": 7,
+      "day": 3,
+      "source": "https://en.wikipedia.org/wiki/Migratory_Bird_Treaty_Act"
+    },
+    {
+      "text": "The Bald Eagle was removed from the U.S. Endangered Species List on June 28, 2007, after a remarkable recovery from near extinction.",
+      "month": 6,
+      "day": 28,
+      "source": "https://en.wikipedia.org/wiki/Bald_Eagle"
+    },
+    {
+      "text": "National Birdfeeding Month is celebrated every February in the United States.",
+      "month": 2,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/National_Birdfeeding_Month"
+    },
+    {
+      "text": "The passenger pigeon, once the most abundant bird in North America with billions of individuals, went extinct on September 1, 1914, when the last one, Martha, died at the Cincinnati Zoo.",
+      "month": 9,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/North_America_with"
+    },
+    {
+      "text": "The California Condor nearly went extinct in the 1980s when only 22 birds remained, but captive breeding has brought their numbers to over 500.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/California_Condor"
+    },
+    {
+      "text": "The Spix's Macaw was declared extinct in the wild in 2000, but captive breeding programs are working to reintroduce them in Brazil.",
+      "source": "https://en.wikipedia.org/wiki/Spix%27s_Macaw"
+    },
+    {
+      "text": "The Carolina Parakeet, the only parrot species native to the eastern United States, was declared extinct in 1939.",
+      "month": 2,
+      "day": 21,
+      "source": "https://en.wikipedia.org/wiki/Carolina_Parakeet%2C_the_only_parrot_species_native_to_the_eastern_United_States"
+    },
+    {
+      "text": "DDT pesticide caused catastrophic declines in birds of prey by thinning their eggshells; its ban in 1972 helped many raptor populations recover.",
+      "month": 12,
+      "day": 31,
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "Birds are the living descendants of theropod dinosaurs, making them the only surviving lineage of dinosaurs.",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "Archaeopteryx, often considered the first known bird, lived about 150 million years ago during the Late Jurassic period.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Late_Jurassic"
+    },
+    {
+      "text": "There are approximately 10,000 known species of birds on Earth, found on every continent including Antarctica.",
+      "source": "https://en.wikipedia.org/wiki/There"
+    },
+    {
+      "text": "Approximately 1 in 8 bird species worldwide is currently threatened with extinction.",
+      "source": "https://en.wikipedia.org/wiki/Approximately_1_in_8_bird_species_worldwide"
+    },
+    {
+      "text": "The Dodo, which lived only on the island of Mauritius, went extinct in the late 17th century due to human hunting and introduced predators.",
+      "source": "https://en.wikipedia.org/wiki/Dodo"
+    },
+    {
+      "text": "A parrot's beak never stops growing, much like human fingernails — chewing and grinding naturally keep it trimmed.",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "Parrots have zygodactyl feet, meaning they have two toes pointing forward and two backward, giving them an excellent grip.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Parrots"
+    },
+    {
+      "text": "Most pet birds are technically wild animals, not domesticated — budgies, cockatiels, and canaries are among the very few truly domesticated birds.",
+      "source": "https://en.wikipedia.org/wiki/Most_pet_birds"
+    },
+    {
+      "text": "The song of a canary can include up to 400 notes per minute and can be heard from a considerable distance.",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "Wild budgerigars in Australia are almost always green and yellow — all other color varieties were created through captive breeding.",
+      "source": "https://en.wikipedia.org/wiki/Wild_budgerigars_in_Australia"
+    },
+    {
+      "text": "Toucan bills are made of keratin over a honeycomb-like bone structure, making them extremely lightweight despite their large size.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Toucan_bills"
+    },
+    {
+      "text": "Cassowaries are considered the most dangerous bird in the world, capable of inflicting serious injuries with their powerful legs and dagger-like claws.",
+      "source": "https://en.wikipedia.org/wiki/Cassowaries"
+    },
+    {
+      "text": "The Superb Lyrebird of Australia can mimic virtually any sound it hears, including chainsaws, camera shutters, and car alarms.",
+      "source": "https://en.wikipedia.org/wiki/Superb_Lyrebird_of_Australia"
+    },
+    {
+      "text": "The Greater Honeyguide bird leads humans to beehives, waits for the honey to be harvested, then feeds on the leftover beeswax.",
+      "source": "https://en.wikipedia.org/wiki/Greater_Honeyguide"
+    },
+    {
+      "text": "Some species of cuckoo lay their eggs in other birds' nests, tricking the host parents into raising their chicks.",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "The Australian Brush-turkey uses decaying vegetation to incubate its eggs, building a mound that can be up to 15 feet wide.",
+      "source": "https://en.wikipedia.org/wiki/Australian_Brush-turkey"
+    },
+    {
+      "text": "Male Bowerbirds build elaborate, decorated structures (bowers) to attract females, using colorful objects like berries, flowers, and even bottle caps.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Male_Bowerbirds"
+    },
+    {
+      "text": "The Common Swift can stay airborne for up to 10 months without landing, sleeping and eating while flying.",
+      "source": "https://en.wikipedia.org/wiki/Common_Swift"
+    },
+    {
+      "text": "Emperor Penguins can hold their breath for over 20 minutes and dive to depths exceeding 1,800 feet (565 meters).",
+      "source": "https://en.wikipedia.org/wiki/Emperor_Penguins"
+    },
+    {
+      "text": "The Bar-tailed Godwit holds the record for the longest nonstop flight — over 7,000 miles from Alaska to New Zealand.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Bar-tailed_Godwit"
+    },
+    {
+      "text": "Ostriches have eyes that are 2 inches in diameter — the largest of any land animal.",
+      "source": "https://en.wikipedia.org/wiki/Ostriches"
+    },
+    {
+      "text": "Secretary Birds stamp on venomous snakes with their powerful legs, delivering strikes with a force five times their body weight.",
+      "source": "https://en.wikipedia.org/wiki/Secretary_Birds"
+    },
+    {
+      "text": "The Harpy Eagle has talons as large as grizzly bear claws, making it one of the most powerful raptors in the world.",
+      "source": "https://en.wikipedia.org/wiki/Harpy_Eagle"
+    },
+    {
+      "text": "Baby birds that fall from nests can often be returned — parent birds do not reject chicks handled by humans, despite the common myth.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "Many songbirds learn their songs from their fathers, similar to how human children learn language from their parents.",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "Some birds, like the European Robin, can detect the Earth's magnetic field and use it for navigation during migration.",
+      "source": "https://en.wikipedia.org/wiki/European_Robin"
+    },
+    {
+      "text": "The heart rate of a hummingbird can reach over 1,200 beats per minute during flight.",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "Penguin couples often propose with a pebble — a male penguin searches for the smoothest pebble to present to his chosen mate.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "Crows can count up to at least five and can distinguish between different quantities.",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "The average body temperature of a bird is 105°F (40.5°C), significantly higher than a human's.",
+      "source": "https://en.wikipedia.org/wiki/average_body_temperature_of_a_bird"
+    },
+    {
+      "text": "Birds have hollow bones to reduce weight, making flight more energy-efficient.",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "A bird's feathers weigh more than its skeleton, as the hollow bones are remarkably light.",
+      "source": "https://en.wikipedia.org/wiki/A_bird%27s_feathers_weigh_more_than_its_skeleton%2C_as_the_hollow_bones"
+    },
+    {
+      "text": "Parrots can taste food, but they have far fewer taste buds than humans — about 300 to 400 compared to our 10,000.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Parrots_can_taste_food%2C_but_they"
+    },
+    {
+      "text": "Birds don't have teeth — instead, many species swallow small stones (grit) into their gizzard to help grind food.",
+      "source": "https://en.wikipedia.org/wiki/Birds_don%27t"
+    },
+    {
+      "text": "Owls can't move their eyeballs because their eyes are tube-shaped rather than spherical — that's why they rotate their heads so far.",
+      "source": "https://en.wikipedia.org/wiki/Owls_can%27t_move_their_eyeballs_because_their_eyes"
+    },
+    {
+      "text": "Some hummingbirds weigh less than a penny.",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "The oldest known domestic parrot was a Macaw named Charlie who reportedly lived to be 114 years old, though this is unverified.",
+      "source": "https://en.wikipedia.org/wiki/oldest_known_domestic_parrot"
+    },
+    {
+      "text": "A cockatiel's crest is like a mood ring — fully erect means curious or alarmed, flat means angry or scared, and relaxed means content.",
+      "source": "https://en.wikipedia.org/wiki/A_cockatiel%27s_crest"
+    },
+    {
+      "text": "Sun Conures are often called 'living rainbows' due to their bright yellow, orange, and green plumage.",
+      "source": "https://en.wikipedia.org/wiki/Sun_Conures"
+    },
+    {
+      "text": "The Hyacinth Macaw's beak is strong enough to crack macadamia nuts and even coconut shells.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Hyacinth_Macaw%27s_beak"
+    },
+    {
+      "text": "Umbrella Cockatoos get their name from the broad, backward-curving crest that opens like an umbrella when raised.",
+      "source": "https://en.wikipedia.org/wiki/Umbrella_Cockatoos"
+    },
+    {
+      "text": "Meyer's Parrots are one of the quieter parrot species, making them good choices for noise-sensitive households.",
+      "source": "https://en.wikipedia.org/wiki/Meyer%27s_Parrots"
+    },
+    {
+      "text": "The Jenday Conure and Sun Conure look very similar but the Jenday has a green back and wings while the Sun is mostly yellow and orange.",
+      "source": "https://en.wikipedia.org/wiki/Jenday_Conure_and_Sun_Conure_look_very_similar_but_the_Jenday"
+    },
+    {
+      "text": "Alexandrine Parakeets are named after Alexander the Great, who reportedly kept them as pets.",
+      "source": "https://en.wikipedia.org/wiki/Alexandrine_Parakeets"
+    },
+    {
+      "text": "Indian Ringneck Parakeets are excellent talkers and can develop a vocabulary of 200+ words with clear pronunciation.",
+      "source": "https://en.wikipedia.org/wiki/Indian_Ringneck_Parakeets"
+    },
+    {
+      "text": "The Galah (Rose-breasted Cockatoo) is so common in Australia that the word 'galah' is used as slang for a silly person.",
+      "source": "https://en.wikipedia.org/wiki/Galah_(Rose-breasted_Cockatoo)"
+    },
+    {
+      "text": "Pacific Parrotlets have big personalities despite their tiny 5-inch bodies — they're sometimes called 'pocket parrots.'",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Pacific_Parrotlets"
+    },
+    {
+      "text": "Hawk-headed Parrots (Red-fan Parrots) can raise their neck feathers into an elaborate fan when they're excited or defensive.",
+      "source": "https://en.wikipedia.org/wiki/Hawk-headed_Parrots"
+    },
+    {
+      "text": "The Black Palm Cockatoo uses a stick to drum on a tree branch as part of its courtship display — the only bird known to use a musical instrument.",
+      "source": "https://en.wikipedia.org/wiki/Black_Palm_Cockatoo"
+    },
+    {
+      "text": "Zebra Finches are among the most studied birds in science, used in research on everything from genetics to song learning.",
+      "source": "https://en.wikipedia.org/wiki/Zebra_Finches"
+    },
+    {
+      "text": "The Bourke's Parakeet is a gentle, quiet species most active at dawn and dusk (crepuscular), unlike most other parrots.",
+      "source": "https://en.wikipedia.org/wiki/Bourke%27s_Parakeet"
+    },
+    {
+      "text": "White-bellied Caiques are known for an endearing behavior called 'surfing' — they rub their bodies along flat surfaces while walking.",
+      "source": "https://en.wikipedia.org/wiki/White-bellied_Caiques"
+    },
+    {
+      "text": "Lorikeets and lories have a unique brush-tipped tongue designed for eating nectar and pollen, making their diet very different from seed-eating parrots.",
+      "source": "https://en.wikipedia.org/wiki/Lorikeets_and_lories"
+    },
+    {
+      "text": "The Pesquet's Parrot (Dracula Parrot) of New Guinea has a vulture-like face and feeds almost exclusively on figs.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Pesquet%27s_Parrot_(Dracula_Parrot)_of_New_Guinea"
+    },
+    {
+      "text": "Major Mitchell's Cockatoo (Leadbeater's Cockatoo) is considered one of the most beautiful cockatoos, with its pink and white plumage and multicolored crest.",
+      "source": "https://en.wikipedia.org/wiki/Major_Mitchell%27s_Cockatoo_(Leadbeater%27s_Cockatoo)"
+    },
+    {
+      "text": "The Night Parrot of Australia is one of the most elusive and mysterious birds, thought extinct until it was rediscovered in 2013.",
+      "source": "https://en.wikipedia.org/wiki/Night_Parrot_of_Australia"
+    },
+    {
+      "text": "Budgies can see UV light, which means their plumage looks even more vibrant to them than it does to us.",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "Parrots are one of the few animal groups where the majority of species are threatened — about 28% of all parrot species are at risk.",
+      "source": "https://en.wikipedia.org/wiki/Parrots"
+    },
+    {
+      "text": "The CITES treaty (Convention on International Trade in Endangered Species) regulates the international trade of many parrot species.",
+      "source": "https://en.wikipedia.org/wiki/CITES"
+    },
+    {
+      "text": "Most parrots are monogamous and stay with the same partner for life — or at least for many breeding seasons.",
+      "source": "https://en.wikipedia.org/wiki/Most_parrots"
+    },
+    {
+      "text": "Egg incubation periods vary widely among birds: about 18 days for budgies, 28 days for cockatoos, and up to 80 days for albatrosses.",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "Bird intelligence is concentrated in a brain structure called the pallium, which is functionally equivalent to the mammalian cortex.",
+      "source": "https://en.wikipedia.org/wiki/Bird_intelligence"
+    },
+    {
+      "text": "A pet bird that bobs its tail while breathing may be experiencing respiratory distress and should see an avian vet immediately.",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "Sprouted seeds are more nutritious for birds than dry seeds because sprouting activates enzymes and increases vitamin content.",
+      "source": "https://en.wikipedia.org/wiki/Sprouted_seeds"
+    },
+    {
+      "text": "Harrison's Bird Foods was one of the first companies to develop formulated pellet diets for companion birds in the 1980s.",
+      "source": "https://en.wikipedia.org/wiki/Harrison%27s_Bird_Foods"
+    },
+    {
+      "text": "Red factor canaries get their vivid color from carotenoid-rich foods; without these in their diet, their feathers fade to orange or yellow.",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "The song of the Wood Thrush, often called the most beautiful bird song in North America, is actually two separate notes sung simultaneously.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/song_of_the_Wood_Thrush%2C_often_called_the_most_beautiful_bird_song_in_North_America"
+    },
+    {
+      "text": "Cedar Waxwings get their name from the waxy red tips on their secondary wing feathers, whose function is still debated.",
+      "source": "https://en.wikipedia.org/wiki/Cedar_Waxwings"
+    },
+    {
+      "text": "Ravens have been observed comforting distressed flock members by sitting close and preening them — showing empathy.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Ravens"
+    },
+    {
+      "text": "The oldest known fossil of a parrot-like bird, Mopsitta tanta, was found in Denmark and dates back about 55 million years.",
+      "source": "https://en.wikipedia.org/wiki/oldest_known_fossil_of_a_parrot-like_bird%2C_Mopsitta_tanta"
+    },
+    {
+      "text": "Mockingbirds can learn over 200 different songs during their lifetime, and they sing to defend territory and attract mates.",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "Budgerigars have been shown to be susceptible to contagious yawning — a trait previously thought to be unique to social mammals.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Budgerigars"
+    },
+    {
+      "text": "The Eurasian Magpie is one of the few non-mammal species to pass the mirror self-recognition test, suggesting self-awareness.",
+      "source": "https://en.wikipedia.org/wiki/Eurasian_Magpie"
+    },
+    {
+      "text": "A group of parrots is called a 'pandemonium,' which seems fitting given their noisy nature.",
+      "source": "https://en.wikipedia.org/wiki/A_group_of_parrots"
+    },
+    {
+      "text": "A group of owls is called a 'parliament.'",
+      "source": "https://en.wikipedia.org/wiki/A_group_of_owls"
+    },
+    {
+      "text": "A group of crows is called a 'murder,' and a group of ravens is called an 'unkindness.'",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/A_group_of_crows"
+    },
+    {
+      "text": "A group of hummingbirds is called a 'charm.'",
+      "source": "https://en.wikipedia.org/wiki/A_group_of_hummingbirds"
+    },
+    {
+      "text": "Baby parrots are called chicks, and many species are born with their eyes closed and essentially naked (altricial).",
+      "source": "https://en.wikipedia.org/wiki/Baby_parrots"
+    },
+    {
+      "text": "The weaning process for baby parrots is critical — rushing it can cause lifelong behavioral and emotional issues.",
+      "source": "https://en.wikipedia.org/wiki/weaning_process_for_baby_parrots"
+    },
+    {
+      "text": "Hand-feeding baby birds requires precise temperatures (around 104-106°F) and the right formula consistency to prevent crop burns and aspiration.",
+      "source": "https://en.wikipedia.org/wiki/F)_and_the"
+    },
+    {
+      "text": "Avian veterinarians typically require additional specialized training beyond standard veterinary school to treat birds properly.",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "The Association of Avian Veterinarians (AAV) was founded in 1980 to advance the profession of avian medicine.",
+      "source": "https://en.wikipedia.org/wiki/Association_of_Avian_Veterinarians_(AAV)"
+    },
+    {
+      "text": "Polyomavirus is a serious viral disease in young parrots, particularly budgerigars, and is sometimes called 'budgie fledgling disease.'",
+      "source": "https://en.wikipedia.org/wiki/Polyomavirus"
+    },
+    {
+      "text": "Proventricular Dilatation Disease (PDD), also called 'macaw wasting disease,' is a serious viral condition affecting the nervous system and digestive tract of birds.",
+      "source": "https://en.wikipedia.org/wiki/Proventricular_Dilatation_Disease_(PDD)%2C_also_called_%27macaw_wasting_disease"
+    },
+    {
+      "text": "Aspergillosis is a fungal infection commonly seen in pet birds, especially those kept in poorly ventilated or damp environments.",
+      "source": "https://en.wikipedia.org/wiki/Aspergillosis"
+    },
+    {
+      "text": "PBFD (Psittacine Beak and Feather Disease) is a viral disease that causes feather loss and beak deformities in parrots.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/PBFD_(Psittacine_Beak_and_Feather_Disease)"
+    },
+    {
+      "text": "Birds can become hormonal in spring due to longer daylight hours, which may trigger aggression, nesting behavior, and egg-laying.",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "Reducing daylight exposure to 10-12 hours per day can help manage hormonal behavior in pet parrots.",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "Covering a bird's cage at night provides a sense of security and helps ensure they get adequate sleep.",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "Some parrot species, especially cockatoos, produce a fine powder (feather dust) that can trigger allergies in sensitive people.",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "Air purifiers with HEPA filters are recommended for homes with birds to reduce feather dust and dander.",
+      "source": "https://en.wikipedia.org/wiki/Air_purifiers_with_HEPA_filters"
+    },
+    {
+      "text": "Stainless steel cages are generally the safest option for pet birds, as powder-coated cages can chip and cause zinc poisoning.",
+      "source": "https://en.wikipedia.org/wiki/Stainless_steel_cages"
+    },
+    {
+      "text": "Bar spacing on bird cages should be appropriate for the species — small birds can get their heads stuck in bars that are too wide.",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "Birds should always have access to fresh, clean water — water bowls should be changed at least twice daily.",
+      "source": "https://en.wikipedia.org/wiki/Birds_should_always"
+    },
+    {
+      "text": "Pellet-based diets should make up about 60-70% of most pet parrots' food intake, supplemented with fresh produce.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "Vitamin A deficiency is very common in pet birds fed all-seed diets and can cause respiratory and skin problems.",
+      "source": "https://en.wikipedia.org/wiki/Vitamin_A_deficiency"
+    },
+    {
+      "text": "Sweet potatoes, carrots, and dark leafy greens are excellent sources of vitamin A for pet birds.",
+      "source": "https://en.wikipedia.org/wiki/Sweet_potatoes%2C_carrots%2C_and_dark_leafy_greens"
+    },
+    {
+      "text": "Apple seeds and cherry pits contain cyanide compounds and should always be removed before feeding fruit to birds.",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "Many birds enjoy eating cooked whole grains like quinoa, brown rice, and barley as part of a varied diet.",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "Teach a parrot to step up onto your hand using positive reinforcement rather than force — this builds trust and cooperation.",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "Clicker training works extremely well with parrots and can be used to teach tricks, reduce undesirable behaviors, and provide mental stimulation.",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "Target training — teaching a bird to touch a target stick — is often the foundation for more complex trick training.",
+      "source": "https://en.wikipedia.org/wiki/Target_training_%E2%80%94_teaching_a_bird_to_touch_a_target_stick_%E2%80%94"
+    },
+    {
+      "text": "Parrots can learn to do tricks like wave, shake hands, turn around, play dead, and even ride a tiny skateboard.",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "Flight recall training (teaching a bird to fly to you on command) is one of the most valuable skills for free-flight parrot owners.",
+      "source": "https://en.wikipedia.org/wiki/Flight_recall_training_(teaching_a_bird_to_fly_to_you_on_command)"
+    },
+    {
+      "text": "Free-flight parrot keeping — allowing trained parrots to fly outdoors — requires extensive training and carries significant risks.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "Aviaries (large outdoor or indoor flight enclosures) provide birds with space to fly and experience natural sunlight and fresh air.",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "Some cities and countries have banned or restricted keeping certain parrot species due to noise complaints from neighbors.",
+      "source": "https://en.wikipedia.org/wiki/Some_cities_and_countries"
+    },
+    {
+      "text": "In several Australian cities, wild cockatoo populations have become so large that they're considered pests for damaging property.",
+      "source": "https://en.wikipedia.org/wiki/In_several_Australian_cities%2C_wild_cockatoo_populations"
+    },
+    {
+      "text": "Escaped pet parrots have established wild populations in many cities worldwide, including London, San Francisco, and Barcelona.",
+      "source": "https://en.wikipedia.org/wiki/Escaped_pet_parrots"
+    },
+    {
+      "text": "The famous wild parrots of Telegraph Hill in San Francisco inspired a bestselling book and documentary film.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/famous_wild_parrots_of_Telegraph_Hill_in_San_Francisco"
+    },
+    {
+      "text": "Miami, Florida has one of the highest densities of wild parrot species in the United States, with dozens of species from escaped or released pets.",
+      "source": "https://en.wikipedia.org/wiki/Miami%2C_Florida"
+    },
+    {
+      "text": "The Resplendent Quetzal is the national bird of Guatemala, and the country's currency is named after it.",
+      "source": "https://en.wikipedia.org/wiki/Resplendent_Quetzal"
+    },
+    {
+      "text": "New Zealand's native birds evolved without mammalian predators, which is why many of them are flightless or ground-nesting.",
+      "source": "https://en.wikipedia.org/wiki/New_Zealand%27s_native_birds_evolved_without_mammalian_predators%2C_which"
+    },
+    {
+      "text": "The Kea, a New Zealand alpine parrot, is known for its mischievous behavior, including stripping rubber from car windshields.",
+      "source": "https://en.wikipedia.org/wiki/Kea%2C_a_New_Zealand_alpine_parrot"
+    },
+    {
+      "text": "The Hoatzin chick is unique among living birds — it has functional claws on its wings that it uses to climb trees.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Hoatzin_chick"
+    },
+    {
+      "text": "The Sword-billed Hummingbird has a bill longer than its body (excluding the tail), the only bird with this proportional trait.",
+      "source": "https://en.wikipedia.org/wiki/Sword-billed_Hummingbird"
+    },
+    {
+      "text": "Toucans regulate their body temperature through their large bills, which act as radiators to release excess heat.",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "The Wilson's Bird-of-Paradise has such vivid plumage that it was once thought to have come from heaven — hence 'Bird-of-Paradise.'",
+      "source": "https://en.wikipedia.org/wiki/Wilson%27s_Bird-of-Paradise"
+    },
+    {
+      "text": "The Magnificent Frigatebird can stay airborne for weeks at a time, sleeping on the wing for only a few seconds at a time.",
+      "source": "https://en.wikipedia.org/wiki/Magnificent_Frigatebird"
+    },
+    {
+      "text": "The Greater Roadrunner can run at speeds up to 20 mph (32 km/h) and prefers running to flying.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Greater_Roadrunner_can"
+    },
+    {
+      "text": "The Oilbird of South America navigates in total darkness using echolocation, similar to bats.",
+      "source": "https://en.wikipedia.org/wiki/Oilbird_of_South_America"
+    },
+    {
+      "text": "Pigeons can be trained to distinguish between malignant and benign tissue samples in mammograms, matching human radiologists in accuracy.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "The intelligence of corvids (crows, ravens, jays) and parrots evolved independently, making it a remarkable case of convergent evolution.",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "Budgies are the third most popular pet in the world, after dogs and cats.",
+      "source": "https://en.wikipedia.org/wiki/Budgies"
+    },
+    {
+      "text": "The pet bird industry generates billions of dollars annually, including sales of food, cages, toys, and veterinary care.",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "Adopting a rescue bird from a sanctuary or parrot rescue organization is increasingly promoted as an alternative to buying from breeders.",
+      "source": "https://en.wikipedia.org/wiki/Adopting_a_rescue_bird_from_a_sanctuary_or_parrot_rescue_organization"
+    },
+    {
+      "text": "Many parrot rescue organizations exist because owners underestimate the 30-80 year lifespan and care requirements of large parrots.",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "Parrots are the most commonly surrendered exotic pet, often because owners didn't expect the noise, mess, and time commitment.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Parrots"
+    },
+    {
+      "text": "The World Parrot Trust, founded in 1989, is a leading organization dedicated to the conservation and welfare of parrots worldwide.",
+      "source": "https://en.wikipedia.org/wiki/World_Parrot_Trust"
+    },
+    {
+      "text": "The first avian flu (H5N1) outbreak in humans occurred in Hong Kong in 1997, raising global concern about bird-to-human virus transmission.",
+      "month": 12,
+      "day": 15,
+      "source": "https://en.wikipedia.org/wiki/Hong_Kong"
+    },
+    {
+      "text": "Bird flu viruses are named with H and N numbers (like H5N1) based on two proteins on their surface: hemagglutinin and neuraminidase.",
+      "source": "https://en.wikipedia.org/wiki/Bird_flu_viruses"
+    },
+    {
+      "text": "The Ivory-billed Woodpecker was officially declared extinct by the U.S. Fish and Wildlife Service in 2023, though some researchers still claim possible sightings.",
+      "source": "https://en.wikipedia.org/wiki/Ivory-billed_Woodpecker"
+    },
+    {
+      "text": "The Great Auk, a large flightless seabird, was hunted to extinction in 1844 — it was the original 'penguin' before that name was transferred to Southern Hemisphere birds.",
+      "month": 7,
+      "day": 3,
+      "source": "https://en.wikipedia.org/wiki/Great_Auk%2C_a_large_flightless_seabird"
+    },
+    {
+      "text": "The Eurasian Wren, despite being one of Europe's smallest birds, has one of the loudest songs relative to its body size.",
+      "source": "https://en.wikipedia.org/wiki/Eurasian_Wren%2C_despite_being_one_of_Europe%27s_smallest_birds"
+    },
+    {
+      "text": "Some bird species, like the Japanese White-eye, are kept as pets in Asia and compete in singing contests.",
+      "source": "https://en.wikipedia.org/wiki/Some_bird_species%2C_like_the_Japanese_White-eye"
+    },
+    {
+      "text": "The Budgerigar is the fastest reproducing parrot species — a pair can produce clutch after clutch if not controlled.",
+      "source": "https://en.wikipedia.org/wiki/Budgerigar"
+    },
+    {
+      "text": "Hormone-reducing strategies for pet parrots include limiting daylight hours, removing nesting materials, and avoiding petting below the neck.",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "The 'step-up' command is considered the single most important behavior to teach a pet parrot for safe handling.",
+      "source": "https://en.wikipedia.org/wiki/%27step-up%27_command"
+    },
+    {
+      "text": "Positive reinforcement training is overwhelmingly recommended over punishment-based approaches for all species of pet birds.",
+      "source": "https://en.wikipedia.org/wiki/Positive_reinforcement_training"
+    },
+    {
+      "text": "Many parrots go through a 'bluffing' phase during adolescence with increased biting and testing boundaries — similar to human teenagers.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "African Grey parrots are particularly prone to feather-destructive behavior, often linked to stress, boredom, or calcium deficiency.",
+      "source": "https://en.wikipedia.org/wiki/African_Grey_parrots"
+    },
+    {
+      "text": "Macaws have facial feather patterns as unique as human fingerprints — no two macaws have exactly the same pattern.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Macaws"
+    },
+    {
+      "text": "The Blue-and-Gold Macaw is one of the most commonly kept macaw species due to its relatively even temperament and stunning colors.",
+      "source": "https://en.wikipedia.org/wiki/Blue-and-Gold_Macaw"
+    },
+    {
+      "text": "Scarlet Macaws are among the most iconic parrots, with brilliant red, yellow, and blue plumage visible from great distances.",
+      "source": "https://en.wikipedia.org/wiki/Scarlet_Macaws"
+    },
+    {
+      "text": "Military Macaws get their name from their predominantly green plumage, reminiscent of military uniforms.",
+      "source": "https://en.wikipedia.org/wiki/Military_Macaws"
+    },
+    {
+      "text": "Hahn's Macaws are the smallest macaw species and are popular as pets for those who want a macaw in a smaller package.",
+      "source": "https://en.wikipedia.org/wiki/Hahn%27s_Macaws"
+    },
+    {
+      "text": "Severe Macaws, despite their intimidating name, are actually one of the more gentle and affectionate mini-macaw species.",
+      "source": "https://en.wikipedia.org/wiki/Severe_Macaws%2C_despite_their_intimidating_name"
+    },
+    {
+      "text": "Timneh African Greys are slightly smaller and darker than Congo African Greys and are often described as more easygoing.",
+      "source": "https://en.wikipedia.org/wiki/Timneh_African_Greys"
+    },
+    {
+      "text": "The Yellow-naped Amazon is renowned for its singing ability — many can sing entire songs with remarkable accuracy.",
+      "source": "https://en.wikipedia.org/wiki/Yellow-naped_Amazon"
+    },
+    {
+      "text": "Blue-fronted Amazons are one of the most popular Amazon species as pets and can live up to 80 years.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Blue-fronted_Amazons"
+    },
+    {
+      "text": "Double Yellow-headed Amazons are considered the best 'opera singers' of the parrot world for their loud, clear vocalizations.",
+      "source": "https://en.wikipedia.org/wiki/Double_Yellow-headed_Amazons"
+    },
+    {
+      "text": "The Rose-ringed (Indian Ringneck) Parakeet has established feral populations on every continent except Antarctica.",
+      "source": "https://en.wikipedia.org/wiki/Rose-ringed_(Indian_Ringneck)_Parakeet"
+    },
+    {
+      "text": "Quaker Parrots are banned in several U.S. states because of concerns about feral populations damaging crops and power lines.",
+      "source": "https://en.wikipedia.org/wiki/Quaker_Parrots"
+    },
+    {
+      "text": "The Monk Parakeet (Quaker Parrot) builds enormous communal nests that can house dozens of pairs and weigh hundreds of pounds.",
+      "source": "https://en.wikipedia.org/wiki/Monk_Parakeet"
+    },
+    {
+      "text": "Conures are divided into many genera, including Pyrrhura (quieter species) and Aratinga (louder species), each with distinct characteristics.",
+      "source": "https://en.wikipedia.org/wiki/Conures"
+    },
+    {
+      "text": "The Nanday Conure (Black-hooded Parakeet) is known for its extremely loud call, which some owners find challenging.",
+      "source": "https://en.wikipedia.org/wiki/Nanday_Conure_(Black-hooded_Parakeet)"
+    },
+    {
+      "text": "Lineolated Parakeets (Linnies) are calm, quiet parrots that enjoy walking more than flying — they even walk sideways along perches.",
+      "source": "https://en.wikipedia.org/wiki/Lineolated_Parakeets_(Linnies)"
+    },
+    {
+      "text": "The Plum-headed Parakeet is one of the most colorful Asian parakeets, with males sporting a vibrant plum-colored head.",
+      "source": "https://en.wikipedia.org/wiki/Plum-headed_Parakeet"
+    },
+    {
+      "text": "Rosellas are Australian parrots known for their stunning multicolored plumage and somewhat independent personalities.",
+      "source": "https://en.wikipedia.org/wiki/Rosellas"
+    },
+    {
+      "text": "Kakariki (New Zealand parakeets) are extremely active birds that spend a lot of time running and hopping on the ground.",
+      "source": "https://en.wikipedia.org/wiki/Kakariki_(New_Zealand_parakeets)"
+    },
+    {
+      "text": "The Regent Parrot of Australia is endangered in the wild but occasionally kept in aviculture to support conservation efforts.",
+      "source": "https://en.wikipedia.org/wiki/Regent_Parrot_of_Australia"
+    },
+    {
+      "text": "Birds can fly at extremely high altitudes — the Bar-headed Goose migrates over the Himalayas at altitudes up to 29,500 feet.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Bar-headed_Goose"
+    },
+    {
+      "text": "The oldest budgerigar on record, Charlie, reportedly lived to be 29 years old — far exceeding their average lifespan of 5-10 years.",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "Cockatiel mutations include lutino, pied, pearl, cinnamon, and whiteface — each producing distinctly different appearances from wild-type gray.",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "The first cockatiel color mutation (lutino) was established in 1958 and quickly became one of the most popular varieties.",
+      "source": "https://en.wikipedia.org/wiki/first_cockatiel_color_mutation_(lutino)"
+    },
+    {
+      "text": "Budgie color genetics are well-understood, and breeders can predict offspring colors with reasonable accuracy.",
+      "source": "https://en.wikipedia.org/wiki/Budgie_color_genetics"
+    },
+    {
+      "text": "English Budgies (show budgies) are about twice the size of wild-type budgies, with fuller chest feathers and more prominent head features.",
+      "source": "https://en.wikipedia.org/wiki/English_Budgies_(show_budgies)"
+    },
+    {
+      "text": "The Gouldian Finch is endangered in the wild despite being commonly bred in captivity.",
+      "source": "https://en.wikipedia.org/wiki/Gouldian_Finch"
+    },
+    {
+      "text": "Canary breeding for song competition is an art form in parts of Europe, with different 'song cultures' like Roller and Waterslager varieties.",
+      "source": "https://en.wikipedia.org/wiki/Canary_breeding_for_song_competition"
+    },
+    {
+      "text": "Spanish Timbrado canaries are bred specifically for their bright metallic song, which sounds like small bells ringing.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Spanish_Timbrado_canaries"
+    },
+    {
+      "text": "The world's most expensive bird sold at auction was a racing pigeon named New Kim, which sold for $1.8 million in 2020.",
+      "source": "https://en.wikipedia.org/wiki/world%27s_most_expensive_bird_sold_at_auction"
+    },
+    {
+      "text": "Racing pigeons can fly at sustained speeds of 60 mph and cover distances of over 600 miles in a single race.",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "Pigeons have been used to smuggle contraband into prisons due to their reliable homing ability.",
+      "source": "https://en.wikipedia.org/wiki/Pigeons"
+    },
+    {
+      "text": "The Rock Dove (common pigeon) is one of the first birds domesticated by humans, with records dating back to ancient Mesopotamia.",
+      "source": "https://en.wikipedia.org/wiki/Rock_Dove_(common_pigeon)"
+    },
+    {
+      "text": "Homing pigeons navigate using a combination of the Earth's magnetic field, the Sun's position, visual landmarks, and possibly even smell.",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "During World War II, the U.S. military trained pigeons under 'Project Pigeon' to guide missiles — the project actually showed promising results.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/During_World_War_II"
+    },
+    {
+      "text": "The Jacobin Pigeon has an elaborate feathered hood around its head that can obstruct its vision.",
+      "source": "https://en.wikipedia.org/wiki/Jacobin_Pigeon"
+    },
+    {
+      "text": "Fantail Pigeons have 30-40 tail feathers, compared to the normal pigeon's 12-14, creating their distinctive fan-shaped tail display.",
+      "source": "https://en.wikipedia.org/wiki/Fantail_Pigeons"
+    },
+    {
+      "text": "The Nicobar Pigeon is the closest living relative of the extinct Dodo, despite looking nothing like it.",
+      "source": "https://en.wikipedia.org/wiki/Nicobar_Pigeon"
+    },
+    {
+      "text": "The Victoria Crowned Pigeon is the largest pigeon in the world, about the size of a turkey, and sports an elegant lace-like crest.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Victoria_Crowned_Pigeon"
+    },
+    {
+      "text": "Birds have a third eyelid called a nictitating membrane that sweeps horizontally across the eye to clean and protect it.",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "Most birds have four types of color-sensing cone cells in their eyes (compared to three in humans), allowing them to see ultraviolet light.",
+      "source": "https://en.wikipedia.org/wiki/Most_birds"
+    },
+    {
+      "text": "The pecten oculi is a comb-like structure unique to bird eyes that nourishes the retina and may reduce glare.",
+      "source": "https://en.wikipedia.org/wiki/pecten_oculi"
+    },
+    {
+      "text": "Many songbirds learn their songs during a 'sensitive period' in youth — similar to the critical period for language learning in humans.",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "The Zebra Finch song-learning process has been used as a model to study the neuroscience of human language development.",
+      "source": "https://en.wikipedia.org/wiki/Zebra_Finch_song-learning_process"
+    },
+    {
+      "text": "Birds have a one-way airflow respiratory system that is more efficient than the mammalian two-way system, allowing flight at high altitudes.",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "A bird's syrinx (vocal organ), located where the trachea splits into the bronchi, can produce two independent sounds simultaneously.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "The record for the bird with the deepest dive belongs to the Emperor Penguin at 1,854 feet (565 meters).",
+      "source": "https://en.wikipedia.org/wiki/Emperor_Penguin_at_1"
+    },
+    {
+      "text": "The Common Poorwill is the only bird known to enter true torpor (hibernation), reducing its body temperature to near ambient.",
+      "source": "https://en.wikipedia.org/wiki/Common_Poorwill"
+    },
+    {
+      "text": "The Red Knot migrates about 9,300 miles each way between the Arctic and the southern tip of South America.",
+      "source": "https://en.wikipedia.org/wiki/Red_Knot"
+    },
+    {
+      "text": "Golden Eagles can spot a rabbit from over two miles away due to their exceptional visual acuity.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Golden_Eagles"
+    },
+    {
+      "text": "The Bee Hummingbird lays the smallest bird eggs in the world — each one is about the size of a coffee bean.",
+      "source": "https://en.wikipedia.org/wiki/Bee_Hummingbird_lays_the_smallest_bird_eggs_in_the_world_%E2%80%94_each_one"
+    },
+    {
+      "text": "The Ostrich lays the largest bird eggs, but relative to its body size, its eggs are actually among the smallest of any bird.",
+      "source": "https://en.wikipedia.org/wiki/Ostrich_lays_the_largest_bird_eggs%2C_but_relative_to_its_body_size%2C_its_eggs"
+    },
+    {
+      "text": "Albatrosses can fly thousands of miles using a technique called dynamic soaring, barely flapping their wings.",
+      "source": "https://en.wikipedia.org/wiki/Albatrosses_can_fly_thousands_of_miles_using_a_technique"
+    },
+    {
+      "text": "The Frigatebird has the largest wingspan-to-body-weight ratio of any bird, enabling effortless gliding for days.",
+      "source": "https://en.wikipedia.org/wiki/Frigatebird"
+    },
+    {
+      "text": "Male Anna's Hummingbirds perform dramatic courtship dives, plummeting from 130 feet and pulling up at the bottom at speeds over 60 mph.",
+      "source": "https://en.wikipedia.org/wiki/Male_Anna%27s_Hummingbirds"
+    },
+    {
+      "text": "The American Woodcock has eyes positioned so far back on its head that it has nearly 360-degree vision.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/American_Woodcock"
+    },
+    {
+      "text": "Clark's Grebes perform an elaborate 'rushing' courtship display, running across the water surface side by side.",
+      "source": "https://en.wikipedia.org/wiki/Clark%27s_Grebes"
+    },
+    {
+      "text": "The Andean Condor has the largest wing area of any bird, up to 10.5 square feet (0.98 m²), and can glide for hours without flapping.",
+      "source": "https://en.wikipedia.org/wiki/Andean_Condor"
+    },
+    {
+      "text": "The Arctic Puffin can carry 10+ fish in its bill at once thanks to backward-pointing spines on its palate and tongue that grip the fish.",
+      "source": "https://en.wikipedia.org/wiki/Arctic_Puffin"
+    },
+    {
+      "text": "The Christmas Bird Count, started in 1900 by the Audubon Society, is the longest-running citizen science project in the world.",
+      "month": 12,
+      "day": 25,
+      "source": "https://en.wikipedia.org/wiki/Christmas_Bird_Count%2C_started_in_1900_by_the_Audubon_Society"
+    },
+    {
+      "text": "Rachel Carson's book 'Silent Spring,' published in 1962, documented the devastating effects of pesticides on bird populations.",
+      "month": 9,
+      "day": 27,
+      "source": "https://en.wikipedia.org/wiki/Rachel_Carson%27s"
+    },
+    {
+      "text": "The Endangered Species Act, signed into law on December 28, 1973, has been instrumental in protecting threatened bird species.",
+      "month": 12,
+      "day": 28,
+      "source": "https://en.wikipedia.org/wiki/Endangered_Species_Act%2C_signed_into_law_on_December_28%2C_1973"
+    },
+    {
+      "text": "John James Audubon's 'The Birds of America,' published between 1827 and 1838, remains one of the most celebrated works of ornithological art.",
+      "source": "https://en.wikipedia.org/wiki/John_James_Audubon%27s"
+    },
+    {
+      "text": "Roger Tory Peterson revolutionized birding with his 1934 field guide that introduced the use of arrows to point out distinguishing features.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Roger_Tory_Peterson_revolutionized_birding_with_his_1934_field_guide_that"
+    },
+    {
+      "text": "The Cornell Lab of Ornithology's 'All About Birds' website is one of the most comprehensive free resources for bird identification and information.",
+      "source": "https://en.wikipedia.org/wiki/Cornell_Lab_of_Ornithology%27s_%27All_About_Birds%27_website"
+    },
+    {
+      "text": "International Migratory Bird Day was originally celebrated in May in Canada and the U.S., and October in Mexico, Central, and South America.",
+      "month": 10,
+      "day": 10,
+      "source": "https://en.wikipedia.org/wiki/International_Migratory_Bird_Day"
+    },
+    {
+      "text": "American Goldfinches are strict vegetarians — one of the few songbirds that feed their nestlings exclusively on seeds.",
+      "source": "https://en.wikipedia.org/wiki/American_Goldfinches"
+    },
+    {
+      "text": "The Brown-headed Cowbird is a brood parasite — it lays its eggs in other birds' nests and never raises its own young.",
+      "source": "https://en.wikipedia.org/wiki/Brown-headed_Cowbird"
+    },
+    {
+      "text": "The House Sparrow, originally from the Middle East, was introduced to North America in 1851 and is now one of the most widespread birds.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/House_Sparrow%2C_originally_from_the_Middle_East"
+    },
+    {
+      "text": "European Starlings were introduced to North America in 1890 by someone who wanted Central Park to have every bird mentioned in Shakespeare.",
+      "source": "https://en.wikipedia.org/wiki/European_Starlings"
+    },
+    {
+      "text": "The collective noun for starlings, a 'murmuration,' perfectly describes the undulating cloud-like formations of their massive flocks.",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "The Red-bellied Woodpecker actually has a red head, not a red belly — its name comes from a faint pinkish tinge on its lower abdomen.",
+      "source": "https://en.wikipedia.org/wiki/Red-bellied_Woodpecker_actually"
+    },
+    {
+      "text": "Barn Swallows have adapted so well to human structures that they now almost exclusively build nests on buildings and bridges.",
+      "source": "https://en.wikipedia.org/wiki/Barn_Swallows"
+    },
+    {
+      "text": "The Dawn Chorus — the peak of bird singing at dawn — is loudest in spring during breeding season.",
+      "month": 5,
+      "day": 3,
+      "source": "https://en.wikipedia.org/wiki/Dawn_Chorus_%E2%80%94_the_peak_of_bird_singing_at_dawn_%E2%80%94"
+    },
+    {
+      "text": "Male Northern Cardinals are one of the few songbird species that sing year-round, not just during breeding season.",
+      "source": "https://en.wikipedia.org/wiki/Male_Northern_Cardinals"
+    },
+    {
+      "text": "The Tufted Titmouse is known for plucking hair from live animals (and sometimes humans) to line its nest.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Tufted_Titmouse"
+    },
+    {
+      "text": "Dark-eyed Juncos are sometimes called 'snowbirds' because they appear in many North American backyards primarily during winter.",
+      "source": "https://en.wikipedia.org/wiki/Dark-eyed_Juncos"
+    },
+    {
+      "text": "The Cooper's Hawk has adapted remarkably well to urban environments and is now a common backyard predator of smaller birds.",
+      "source": "https://en.wikipedia.org/wiki/Cooper%27s_Hawk"
+    },
+    {
+      "text": "Bird feeders don't make birds dependent on humans — studies show birds get only 20-25% of their daily food from feeders.",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "The Great Horned Owl is called the 'tiger of the sky' because it's one of the most aggressive and powerful raptors in North America.",
+      "source": "https://en.wikipedia.org/wiki/Great_Horned_Owl"
+    },
+    {
+      "text": "Snowy Owls are one of the few owl species that are diurnal (active during the day), adapted to the 24-hour daylight of Arctic summers.",
+      "source": "https://en.wikipedia.org/wiki/Snowy_Owls"
+    },
+    {
+      "text": "The Burrowing Owl is unique among owls for living underground in burrows dug by prairie dogs, ground squirrels, and tortoises.",
+      "source": "https://en.wikipedia.org/wiki/Burrowing_Owl"
+    },
+    {
+      "text": "The Philippine Eagle is one of the largest and most powerful eagles in the world and is the national bird of the Philippines.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Philippine_Eagle"
+    },
+    {
+      "text": "Ornithology — the scientific study of birds — gets its name from the Greek word 'ornis,' meaning bird.",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "Birds play vital ecological roles as pollinators, seed dispersers, pest controllers, and indicators of environmental health.",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "An estimated 3 billion birds have been lost in North America since 1970, a decline of about 29%.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/An_estimated_3_billion_birds"
+    },
+    {
+      "text": "Habitat loss, climate change, outdoor cats, window collisions, and pesticides are the five biggest threats to bird populations worldwide.",
+      "source": "https://en.wikipedia.org/wiki/Habitat_loss%2C_climate_change%2C_outdoor_cats%2C_window_collisions%2C_and_pesticides"
+    },
+    {
+      "text": "The concept of bird sanctuaries dates back to ancient India, where Emperor Ashoka established protected areas for birds in the 3rd century BCE.",
+      "source": "https://en.wikipedia.org/wiki/Emperor_Ashoka"
+    },
+    {
+      "text": "The first modern bird sanctuary was the Pelican Island National Wildlife Refuge, established by President Theodore Roosevelt in 1903.",
+      "month": 3,
+      "day": 14,
+      "source": "https://en.wikipedia.org/wiki/first_modern_bird_sanctuary"
+    },
+    {
+      "text": "The Bald Eagle became the national emblem of the United States on June 20, 1782 — Benjamin Franklin famously preferred the Wild Turkey.",
+      "month": 6,
+      "day": 20,
+      "source": "https://en.wikipedia.org/wiki/Bald_Eagle"
+    },
+    {
+      "text": "Birds are considered living dinosaurs because they evolved from small feathered theropod dinosaurs during the Jurassic period.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "The discovery that birds are descended from dinosaurs was one of the most revolutionary findings in modern paleontology.",
+      "source": "https://en.wikipedia.org/wiki/discovery_that_birds"
+    },
+    {
+      "text": "Some parrots in captivity create and use tools in their enclosures, bending wire or chewing sticks to retrieve items.",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "Pet birds can learn to associate specific words with meanings and use them appropriately, not just as mimicry without comprehension.",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "Grey Parrots have been demonstrated to understand abstract concepts like 'same vs. different' and can apply them to novel objects.",
+      "source": "https://en.wikipedia.org/wiki/Grey_Parrots"
+    },
+    {
+      "text": "Ravens have passed intelligence tests that were designed for great apes, solving multi-step problems involving planning and tool use.",
+      "source": "https://en.wikipedia.org/wiki/Ravens"
+    },
+    {
+      "text": "Jays and crows engage in 'mental time travel,' remembering specific past events and planning for future needs.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Jays_and"
+    },
+    {
+      "text": "Some parrots have been shown to cooperate in tasks, pulling strings simultaneously to access a food reward — demonstrating teamwork.",
+      "source": "https://en.wikipedia.org/wiki/Some_parrots"
+    },
+    {
+      "text": "The Kea is the world's only alpine parrot and has demonstrated problem-solving abilities that rival primates in controlled experiments.",
+      "source": "https://en.wikipedia.org/wiki/Kea"
+    },
+    {
+      "text": "Scientists believe bird intelligence evolved partly because of the social challenges of living in complex flock hierarchies.",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "Pet parrots can suffer from PTSD-like symptoms after traumatic experiences, showing fear, aggression, and self-destructive behaviors.",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "Birds have been used therapeutically — avian-assisted therapy has shown benefits for elderly people and those with mental health conditions.",
+      "source": "https://en.wikipedia.org/wiki/Birds"
+    },
+    {
+      "text": "The practice of keeping songbirds in ornate cages has centuries of history in Chinese, Indonesian, and Mediterranean cultures.",
+      "source": "https://en.wikipedia.org/wiki/practice_of_keeping_songbirds_in_ornate_cages"
+    },
+    {
+      "text": "In Indonesia, bird singing contests are a major cultural tradition with birds trained over years for competitions.",
+      "source": "https://en.wikipedia.org/wiki/In_Indonesia%2C_bird_singing_contests"
+    },
+    {
+      "text": "The record for the most words spoken by a pet bird (1,728 words) was set by Puck, a budgerigar, entered into the Guinness Book in 1995.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/record_for_the_most_words_spoken_by_a_pet_bird_(1%2C728_words)"
+    },
+    {
+      "text": "National Bird Day on January 5 was established by the Avian Welfare Coalition to promote the adoption of pet birds from rescues.",
+      "month": 1,
+      "day": 5,
+      "source": "https://en.wikipedia.org/wiki/National_Bird_Day_on_January_5"
+    },
+    {
+      "text": "St. Francis of Assisi, the patron saint of animals, is famously depicted preaching to birds.",
+      "source": "https://en.wikipedia.org/wiki/St._Francis_of_Assisi%2C_the_patron_saint_of_animals"
+    },
+    {
+      "text": "In Japanese culture, cranes symbolize longevity and good fortune — the tradition of folding 1,000 paper cranes (senbazuru) is a wish for healing.",
+      "source": "https://en.wikipedia.org/wiki/In_Japanese"
+    },
+    {
+      "text": "The Phoenix, a mythological bird that rises from its own ashes, appears in the legends of multiple ancient civilizations.",
+      "source": "https://en.wikipedia.org/wiki/Phoenix"
+    },
+    {
+      "text": "The Thunderbird is a powerful figure in the mythology of many Native American nations.",
+      "source": "https://en.wikipedia.org/wiki/Thunderbird"
+    },
+    {
+      "text": "In Hindu mythology, Garuda is a divine eagle-like bird who serves as the mount of the god Vishnu.",
+      "source": "https://en.wikipedia.org/wiki/In_Hindu_mythology%2C_Garuda"
+    },
+    {
+      "text": "Doves have been symbols of peace across many cultures for thousands of years, dating back to ancient Mesopotamia.",
+      "source": "https://en.wikipedia.org/wiki/Doves"
+    },
+    {
+      "text": "The phrase 'a little bird told me' dates back to the Bible, in Ecclesiastes 10:20.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/phrase_%27a_little_bird"
+    },
+    {
+      "text": "Alfred Hitchcock's 1963 horror film 'The Birds' was inspired by a real-life event where sooty shearwaters crashed into homes in Monterey Bay.",
+      "source": "https://en.wikipedia.org/wiki/Alfred_Hitchcock%27s_1963_horror_film_%27The_Birds"
+    },
+    {
+      "text": "The ancient Egyptians revered the ibis and often mummified them — millions of ibis mummies have been found in Egyptian tombs.",
+      "source": "https://en.wikipedia.org/wiki/ancient_Egyptians_revered_the_ibis_and_often_mummified_them_%E2%80%94_millions_of_ibis_mummies"
+    },
+    {
+      "text": "The Raven is central to the creation mythology of many Pacific Northwest Native American peoples.",
+      "source": "https://en.wikipedia.org/wiki/Raven"
+    },
+    {
+      "text": "Benjamin Franklin lobbied for the Wild Turkey as the national bird of the United States, calling the Bald Eagle 'a bird of bad moral character.'",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Benjamin_Franklin"
+    }
+  ]
+}

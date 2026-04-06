@@ -1,0 +1,1933 @@
+{
+  "hobby": "Green Lantern",
+  "facts": [
+    {
+      "text": "Green Lantern first appeared in All-American Comics #16 in July 1940, created by Martin Nodell with scripting by Bill Finger.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern_first_appeared_in_All-American_Comics_%2316_in_July_1940"
+    },
+    {
+      "text": "The original Green Lantern, Alan Scott, was a railroad engineer who discovered a magical green lantern carved from a meteorite called the Starheart.",
+      "source": "https://en.wikipedia.org/wiki/original_Green_Lantern%2C_Alan_Scott"
+    },
+    {
+      "text": "Alan Scott's weakness was wood, not the color yellow, making him unique among Green Lanterns.",
+      "source": "https://en.wikipedia.org/wiki/Alan_Scott%27s_weakness"
+    },
+    {
+      "text": "Hal Jordan, the Silver Age Green Lantern, debuted in Showcase #4 in October 1959, created by John Broome and Gil Kane.",
+      "source": "https://en.wikipedia.org/wiki/Hal_Jordan%2C_the_Silver_Age_Green_Lantern%2C_debuted_in_Showcase_%234_in_October_1959"
+    },
+    {
+      "text": "Hal Jordan was a test pilot for Ferris Aircraft before being chosen by the dying alien Abin Sur to become a Green Lantern.",
+      "source": "https://en.wikipedia.org/wiki/Hal_Jordan"
+    },
+    {
+      "text": "\"In brightest day, in blackest night, no evil shall escape my sight. Let those who worship evil's might, beware my power — Green Lantern's light!\" — The Green Lantern oath is one of the most iconic pledges in comic book history.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern%27s"
+    },
+    {
+      "text": "The Green Lantern Corps is an intergalactic police force created by the Guardians of the Universe, with 7,200 members patrolling 3,600 sectors of space.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern_Corps"
+    },
+    {
+      "text": "Each sector of space is assigned two Green Lanterns, ensuring backup and partnership across the universe.",
+      "source": "https://en.wikipedia.org/wiki/Each_sector_of_space"
+    },
+    {
+      "text": "The Guardians of the Universe are among the oldest living beings in the DC Universe, originating from the planet Maltus before relocating to Oa.",
+      "source": "https://en.wikipedia.org/wiki/Guardians_of_the_Universe"
+    },
+    {
+      "text": "Oa, the headquarters of the Green Lantern Corps, is located at the center of the universe and houses the Central Power Battery.",
+      "source": "https://en.wikipedia.org/wiki/Oa%2C_the_headquarters_of_the_Green_Lantern_Corps"
+    },
+    {
+      "text": "John Stewart became DC's first Black superhero to headline a major comic series when he took over as Green Lantern in the early 1970s.",
+      "source": "https://en.wikipedia.org/wiki/John_Stewart"
+    },
+    {
+      "text": "John Stewart was created by Dennis O'Neil and Neal Adams, first appearing in Green Lantern #87 in December 1971.",
+      "source": "https://en.wikipedia.org/wiki/John_Stewart"
+    },
+    {
+      "text": "John Stewart was originally an architect, and his constructs often reflect detailed architectural designs rather than simple shapes.",
+      "source": "https://en.wikipedia.org/wiki/John_Stewart"
+    },
+    {
+      "text": "Guy Gardner first appeared in Green Lantern #59 in 1968, created as Hal Jordan's backup Lantern by John Broome and Gil Kane.",
+      "source": "https://en.wikipedia.org/wiki/Guy_Gardner_first_appeared_in_Green_Lantern_%2359_in_1968"
+    },
+    {
+      "text": "Guy Gardner is known for his brash, confrontational personality, often clashing with Batman and other Justice League members.",
+      "source": "https://en.wikipedia.org/wiki/Guy_Gardner"
+    },
+    {
+      "text": "\"One punch! One punch!\" — Batman famously knocked out Guy Gardner with a single punch in Justice League #5 (1987), becoming one of DC's most beloved comedic moments.",
+      "source": "https://en.wikipedia.org/wiki/One_punch%21_One_punch"
+    },
+    {
+      "text": "Kyle Rayner became Green Lantern in Green Lantern #48 (1994) after Hal Jordan destroyed the Corps during the Emerald Twilight storyline.",
+      "source": "https://en.wikipedia.org/wiki/Kyle_Rayner"
+    },
+    {
+      "text": "Kyle Rayner was a freelance graphic artist, and his ring constructs are known for being especially creative and detailed.",
+      "source": "https://en.wikipedia.org/wiki/Kyle_Rayner"
+    },
+    {
+      "text": "Kyle Rayner was the sole Green Lantern for nearly a decade, earning the nickname 'the Torchbearer' for keeping the legacy alive.",
+      "source": "https://en.wikipedia.org/wiki/Kyle_Rayner"
+    },
+    {
+      "text": "Jessica Cruz first appeared in Green Lantern #20 (2013) and became a full Green Lantern in the Justice League: Darkseid War storyline.",
+      "source": "https://en.wikipedia.org/wiki/Jessica_Cruz_first_appeared_in_Green_Lantern_%2320_(2013)_and"
+    },
+    {
+      "text": "Jessica Cruz struggles with severe anxiety disorder, making her one of the most relatable and groundbreaking Green Lanterns in modern comics.",
+      "source": "https://en.wikipedia.org/wiki/Jessica_Cruz"
+    },
+    {
+      "text": "Jessica Cruz was originally bonded to the Ring of Volthoom, a Power Ring from Earth-3, before earning a true Green Lantern ring.",
+      "source": "https://en.wikipedia.org/wiki/Jessica_Cruz"
+    },
+    {
+      "text": "Simon Baz debuted in Green Lantern #0 in 2012, created by Geoff Johns and Doug Mahnke, making him the first Arab-American Green Lantern.",
+      "source": "https://en.wikipedia.org/wiki/Simon_Baz_debuted_in_Green_Lantern_%230_in_2012"
+    },
+    {
+      "text": "Simon Baz carries a handgun as a backup weapon because he doesn't fully trust his ring, a unique character trait among Lanterns.",
+      "source": "https://en.wikipedia.org/wiki/Simon_Baz"
+    },
+    {
+      "text": "Simon Baz demonstrated the unprecedented ability to heal others with his ring, something no other Green Lantern had accomplished before.",
+      "source": "https://en.wikipedia.org/wiki/Simon_Baz"
+    },
+    {
+      "text": "The Green Lantern power ring is often described as the most powerful weapon in the DC Universe, limited only by the wearer's willpower and imagination.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern_power_ring"
+    },
+    {
+      "text": "Green Lantern rings must be recharged every 24 hours using a personal power battery shaped like a lantern.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern"
+    },
+    {
+      "text": "The original Silver Age weakness of the Green Lantern ring was the color yellow, due to a yellow impurity in the Central Power Battery.",
+      "source": "https://en.wikipedia.org/wiki/original_Silver_Age_weakness_of_the_Green_Lantern_ring"
+    },
+    {
+      "text": "The yellow impurity was later revealed to be the fear entity Parallax, imprisoned within the Central Power Battery by the Guardians.",
+      "source": "https://en.wikipedia.org/wiki/yellow_impurity"
+    },
+    {
+      "text": "Green Lantern rings choose their wielders based on the ability to overcome great fear, not the absence of fear.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern"
+    },
+    {
+      "text": "When a Green Lantern dies, their ring automatically seeks out a worthy successor, flying across space to find them.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern"
+    },
+    {
+      "text": "The ring's power is fueled by willpower, which is represented by the green light on the Emotional Spectrum.",
+      "source": "https://en.wikipedia.org/wiki/ring%27s_power"
+    },
+    {
+      "text": "Green Lantern rings can create hard-light constructs of anything the wearer can imagine, from simple shields to complex machinery.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern"
+    },
+    {
+      "text": "The rings also grant the ability to fly, survive in space, translate any language, and create protective force fields.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern"
+    },
+    {
+      "text": "A Green Lantern ring can scan for information, acting as a supercomputer that connects to the Book of Oa.",
+      "source": "https://en.wikipedia.org/wiki/A_Green_Lantern"
+    },
+    {
+      "text": "The Book of Oa contains the history of the Green Lantern Corps and the laws that govern its members.",
+      "source": "https://en.wikipedia.org/wiki/Book_of_Oa"
+    },
+    {
+      "text": "Sinestro was once considered the greatest Green Lantern before his fall from grace and expulsion from the Corps.",
+      "source": "https://en.wikipedia.org/wiki/Sinestro"
+    },
+    {
+      "text": "Sinestro was Hal Jordan's mentor and trainer when Jordan first joined the Green Lantern Corps.",
+      "source": "https://en.wikipedia.org/wiki/Sinestro"
+    },
+    {
+      "text": "Sinestro hails from the planet Korugar, where he used his ring to impose totalitarian order, leading to his banishment.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern"
+    },
+    {
+      "text": "\"In blackest day, in brightest night, beware your fears made into light. Let those who try to stop what's right burn like my power — Sinestro's might!\" — The Sinestro Corps oath reflects the twisted mirror of the Green Lanterns.",
+      "source": "https://en.wikipedia.org/wiki/Sinestro_Corps"
+    },
+    {
+      "text": "The Sinestro Corps War (2007) was a major crossover event where Sinestro's yellow ring-wielders waged war against the Green Lantern Corps.",
+      "source": "https://en.wikipedia.org/wiki/Sinestro_Corps_War"
+    },
+    {
+      "text": "During the Sinestro Corps War, the Guardians rewrote the Book of Oa to allow Green Lanterns to use lethal force against Sinestro Corps members.",
+      "source": "https://en.wikipedia.org/wiki/During_the_Sinestro_Corps_War"
+    },
+    {
+      "text": "The Sinestro Corps rings are powered by fear, the yellow light on the Emotional Spectrum, and seek out beings who can instill great fear.",
+      "source": "https://en.wikipedia.org/wiki/Sinestro_Corps_rings"
+    },
+    {
+      "text": "Parallax is the embodiment of fear in the DC Universe, a parasitic entity that corrupts those it possesses.",
+      "source": "https://en.wikipedia.org/wiki/Parallax"
+    },
+    {
+      "text": "Parallax possessed Hal Jordan during the Emerald Twilight storyline, causing him to destroy the Green Lantern Corps and kill many Lanterns.",
+      "source": "https://en.wikipedia.org/wiki/Hal_Jordan"
+    },
+    {
+      "text": "The Emerald Twilight storyline (1994) saw Hal Jordan absorb the Central Power Battery's energy, seemingly killing the Corps.",
+      "source": "https://en.wikipedia.org/wiki/Emerald_Twilight_storyline_(1994)"
+    },
+    {
+      "text": "Hal Jordan's descent into villainy as Parallax was later retconned by Geoff Johns as possession by the fear entity, redeeming the character.",
+      "source": "https://en.wikipedia.org/wiki/Hal_Jordan%27s_descent_into_villainy_as_Parallax"
+    },
+    {
+      "text": "Geoff Johns' Green Lantern: Rebirth (2004) brought Hal Jordan back as a hero and re-established the Green Lantern Corps.",
+      "source": "https://en.wikipedia.org/wiki/Geoff_Johns%27_Green_Lantern:_Rebirth"
+    },
+    {
+      "text": "Geoff Johns is widely credited with revitalizing the Green Lantern franchise, expanding the mythology with the Emotional Spectrum concept.",
+      "source": "https://en.wikipedia.org/wiki/Geoff_Johns"
+    },
+    {
+      "text": "The Emotional Spectrum is the source of power for all Lantern Corps, with each color corresponding to a different emotion.",
+      "source": "https://en.wikipedia.org/wiki/Emotional_Spectrum"
+    },
+    {
+      "text": "Red Lanterns are powered by rage and led by Atrocitus, who seeks vengeance against the Guardians for the Manhunter massacre of his sector.",
+      "source": "https://en.wikipedia.org/wiki/Red_Lanterns"
+    },
+    {
+      "text": "\"With blood and rage of crimson red, ripped from a corpse so freshly dead, together with our hellish hate, we'll burn you all — that is your fate!\" — The Red Lantern oath is the most violent of all Corps oaths.",
+      "source": "https://en.wikipedia.org/wiki/Red_Lantern"
+    },
+    {
+      "text": "Atrocitus formed the Red Lantern Corps after the Guardians' Manhunter robots massacred nearly all life in Space Sector 666.",
+      "source": "https://en.wikipedia.org/wiki/Atrocitus"
+    },
+    {
+      "text": "Red Lantern rings replace the wearer's blood with burning red plasma, making removal of the ring fatal without intervention.",
+      "source": "https://en.wikipedia.org/wiki/Red_Lantern"
+    },
+    {
+      "text": "Dex-Starr, a Red Lantern who is a housecat, became a fan-favorite character after being introduced during the Blackest Night event.",
+      "source": "https://en.wikipedia.org/wiki/Dex-Starr%2C_a_Red_Lantern_who"
+    },
+    {
+      "text": "The Orange Lantern Corps is unique in that it has only one member: Larfleeze, the Agent Orange, who hoards all orange light power for himself.",
+      "source": "https://en.wikipedia.org/wiki/Orange_Lantern_Corps"
+    },
+    {
+      "text": "Larfleeze is powered by avarice (greed) and has been guarding the Orange Central Power Battery for billions of years.",
+      "source": "https://en.wikipedia.org/wiki/Larfleeze"
+    },
+    {
+      "text": "Orange Lantern constructs are unique because they are the stolen identities of those Larfleeze has killed, serving as his personal army.",
+      "source": "https://en.wikipedia.org/wiki/Orange_Lantern_constructs"
+    },
+    {
+      "text": "The Yellow Lantern Corps, also known as the Sinestro Corps, is powered by fear and headquartered on the planet Qward in the antimatter universe.",
+      "source": "https://en.wikipedia.org/wiki/Yellow_Lantern_Corps%2C_also_known_as_the_Sinestro_Corps"
+    },
+    {
+      "text": "Blue Lanterns are powered by hope and were created by former Guardians Ganthet and Sayd on the planet Odym.",
+      "source": "https://en.wikipedia.org/wiki/Blue_Lanterns"
+    },
+    {
+      "text": "\"In fearful day, in raging night, with strong hearts full our souls ignite. When all seems lost in the War of Light, look to the stars, for hope burns bright!\" — The Blue Lantern oath emphasizes perseverance in the darkest times.",
+      "source": "https://en.wikipedia.org/wiki/War_of_Light"
+    },
+    {
+      "text": "Blue Lantern rings can supercharge Green Lantern rings, boosting their power significantly when hope and will work together.",
+      "source": "https://en.wikipedia.org/wiki/Blue_Lantern"
+    },
+    {
+      "text": "Saint Walker was the first Blue Lantern recruited, known for his unwavering faith and calm demeanor in the face of danger.",
+      "source": "https://en.wikipedia.org/wiki/Saint_Walker"
+    },
+    {
+      "text": "The Indigo Tribe wields the indigo light of compassion and is the most mysterious of all the Lantern Corps.",
+      "source": "https://en.wikipedia.org/wiki/Indigo_Tribe_wields_the_indigo_light_of_compassion_and"
+    },
+    {
+      "text": "Members of the Indigo Tribe are revealed to be reformed criminals whose rings force them to feel compassion for their victims.",
+      "source": "https://en.wikipedia.org/wiki/Members_of_the_Indigo_Tribe"
+    },
+    {
+      "text": "The Star Sapphires wield the violet light of love and are headquartered on the planet Zamaron.",
+      "source": "https://en.wikipedia.org/wiki/Star_Sapphires_wield_the_violet_light_of_love_and"
+    },
+    {
+      "text": "The Star Sapphires were originally an all-female corps who crystallized those they deemed to be in love, trapping them in violet crystals.",
+      "source": "https://en.wikipedia.org/wiki/Star_Sapphires"
+    },
+    {
+      "text": "Carol Ferris, Hal Jordan's longtime love interest and boss at Ferris Aircraft, became the most prominent Star Sapphire.",
+      "source": "https://en.wikipedia.org/wiki/Carol_Ferris%2C_Hal_Jordan%27s_longtime_love_interest_and_boss_at_Ferris_Aircraft"
+    },
+    {
+      "text": "The Black Lantern Corps was created during the Blackest Night event, powered by death and led by the villain Nekron.",
+      "source": "https://en.wikipedia.org/wiki/Black_Lantern_Corps"
+    },
+    {
+      "text": "Black Lantern rings reanimate the dead, turning fallen heroes and villains into zombie-like agents of Nekron.",
+      "source": "https://en.wikipedia.org/wiki/Black_Lantern"
+    },
+    {
+      "text": "\"The Blackest Night falls from the skies, the darkness grows as all light dies. We crave your hearts and your demise, by my black hand — the dead shall rise!\" — The Black Lantern oath is a chilling promise of undeath.",
+      "source": "https://en.wikipedia.org/wiki/Blackest_Night"
+    },
+    {
+      "text": "Nekron is the Lord of the Unliving, an entity that rules the land of the dead in the DC Universe.",
+      "source": "https://en.wikipedia.org/wiki/Nekron"
+    },
+    {
+      "text": "Black Hand, born William Hand, became Nekron's herald and the first Black Lantern, having an obsessive fascination with death.",
+      "source": "https://en.wikipedia.org/wiki/Black_Hand%2C_born_William_Hand"
+    },
+    {
+      "text": "The White Lantern Corps represents life itself and was first manifested during the Brightest Day event.",
+      "source": "https://en.wikipedia.org/wiki/White_Lantern_Corps_represents_life_itself_and"
+    },
+    {
+      "text": "The White Lantern ring combines all colors of the Emotional Spectrum, making it the most powerful ring in existence.",
+      "source": "https://en.wikipedia.org/wiki/White_Lantern"
+    },
+    {
+      "text": "Sinestro briefly became a White Lantern during the Blackest Night finale, using the Entity of Life to defeat Nekron.",
+      "source": "https://en.wikipedia.org/wiki/Sinestro_briefly"
+    },
+    {
+      "text": "The Blackest Night (2009-2010) crossover event is considered one of DC's greatest storylines, written by Geoff Johns with art by Ivan Reis.",
+      "source": "https://en.wikipedia.org/wiki/Blackest_Night_(2009-2010)_crossover_event"
+    },
+    {
+      "text": "During Blackest Night, dead heroes including Aquaman, Martian Manhunter, and Hawkman were resurrected as Black Lanterns.",
+      "source": "https://en.wikipedia.org/wiki/During_Blackest_Night%2C_dead_heroes_including_Aquaman%2C_Martian_Manhunter%2C_and_Hawkman"
+    },
+    {
+      "text": "Brightest Day (2010-2011) followed Blackest Night and dealt with the resurrection of twelve heroes and villains returned to life by the White Lantern.",
+      "source": "https://en.wikipedia.org/wiki/Brightest_Day"
+    },
+    {
+      "text": "The Entities of the Emotional Spectrum are cosmic beings that embody each emotion: Ion (will), Parallax (fear), the Butcher (rage), Ophidian (avarice), Adara (hope), Proselyte (compassion), and the Predator (love).",
+      "source": "https://en.wikipedia.org/wiki/Entities_of_the_Emotional_Spectrum"
+    },
+    {
+      "text": "Ion is the willpower entity of the green light and has bonded with several Green Lanterns, including Kyle Rayner.",
+      "source": "https://en.wikipedia.org/wiki/Ion"
+    },
+    {
+      "text": "When Kyle Rayner bonded with Ion, he briefly became one of the most powerful beings in the DC Universe.",
+      "source": "https://en.wikipedia.org/wiki/When_Kyle_Rayner_bonded_with_Ion%2C_he_briefly"
+    },
+    {
+      "text": "The Manhunters were the Guardians' first attempt at creating a police force before the Green Lantern Corps, but they malfunctioned and massacred an entire sector.",
+      "source": "https://en.wikipedia.org/wiki/Manhunters"
+    },
+    {
+      "text": "The Manhunters' motto, 'No man escapes the Manhunters,' became a dark reminder of the Guardians' greatest failure.",
+      "source": "https://en.wikipedia.org/wiki/Manhunters%27_motto%2C_%27No_man_escapes_the_Manhunters"
+    },
+    {
+      "text": "The Alpha Lanterns are a specialized division of the Green Lantern Corps, surgically altered to serve as internal affairs officers.",
+      "source": "https://en.wikipedia.org/wiki/Alpha_Lanterns"
+    },
+    {
+      "text": "Mogo is a sentient planet that serves as a Green Lantern, using its entire surface to generate constructs.",
+      "source": "https://en.wikipedia.org/wiki/Mogo"
+    },
+    {
+      "text": "Mogo plays a crucial role in directing Green Lantern rings to new wielders after a Lantern dies.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern"
+    },
+    {
+      "text": "\"Mogo doesn't socialize.\" — This famous line from Alan Moore's short story revealed that the mysterious Green Lantern Mogo was actually a living planet.",
+      "source": "https://en.wikipedia.org/wiki/Mogo_doesn%27t_socialize"
+    },
+    {
+      "text": "Kilowog is the drill sergeant of the Green Lantern Corps, training all new recruits with his signature insult 'Poozer.'",
+      "source": "https://en.wikipedia.org/wiki/Kilowog"
+    },
+    {
+      "text": "Kilowog is from the planet Bolovax Vik and is the last survivor of his species after his world was destroyed.",
+      "source": "https://en.wikipedia.org/wiki/Kilowog"
+    },
+    {
+      "text": "Tomar-Re was the Green Lantern of Sector 2813 and one of Hal Jordan's closest allies in the Corps.",
+      "source": "https://en.wikipedia.org/wiki/Tomar-Re"
+    },
+    {
+      "text": "Tomar-Re was assigned to protect the planet Krypton but failed to prevent its destruction, a guilt he carried throughout his service.",
+      "source": "https://en.wikipedia.org/wiki/Tomar-Re"
+    },
+    {
+      "text": "Salaak serves as the Clarissi, or senior administrator, of the Green Lantern Corps, managing records and protocol on Oa.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern_Corps"
+    },
+    {
+      "text": "Ch'p was a chipmunk-like Green Lantern from the planet H'lven, proving that any intelligent being can be chosen by the ring.",
+      "source": "https://en.wikipedia.org/wiki/Ch%27p"
+    },
+    {
+      "text": "Sodam Yat, a Daxamite Green Lantern, became the host of the Ion entity and gained Superman-level powers under a yellow sun.",
+      "source": "https://en.wikipedia.org/wiki/Sodam_Yat%2C_a_Daxamite_Green_Lantern"
+    },
+    {
+      "text": "Abin Sur, the Green Lantern who gave Hal Jordan his ring, died after his ship was attacked and he crash-landed on Earth.",
+      "source": "https://en.wikipedia.org/wiki/Abin_Sur%2C_the_Green_Lantern_who_gave_Hal_Jordan_his_ring%2C_died_after_his_ship"
+    },
+    {
+      "text": "Abin Sur's decision to use a spaceship rather than his ring was later explained as a loss of confidence in the ring's reliability.",
+      "source": "https://en.wikipedia.org/wiki/Abin_Sur%27s_decision_to_use_a_spaceship_rather_than_his_ring"
+    },
+    {
+      "text": "The planet Korugar erected statues to Sinestro after his tyranny, ironically treating him as their greatest shame and greatest son.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern"
+    },
+    {
+      "text": "Hal Jordan co-starred with Green Arrow in a legendary 1970s comic run by Dennis O'Neil and Neal Adams that tackled social issues like racism and drug addiction.",
+      "source": "https://en.wikipedia.org/wiki/Hal_Jordan_co-starred_with_Green_Arrow_in_a_legendary_1970s_comic"
+    },
+    {
+      "text": "The Green Lantern/Green Arrow run is considered one of the most socially conscious comic series ever published.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern%2FGreen_Arrow_run"
+    },
+    {
+      "text": "In one famous issue, an elderly Black man confronted Hal Jordan, asking why he helped aliens of every color but never helped Black people on Earth.",
+      "source": "https://en.wikipedia.org/wiki/In_one_famous_issue%2C_an_elderly_Black_man_confronted_Hal_Jordan%2C_asking_why_he"
+    },
+    {
+      "text": "John Stewart's prominence grew enormously thanks to the Justice League animated series (2001-2006), where he served as the team's Green Lantern.",
+      "source": "https://en.wikipedia.org/wiki/John_Stewart%27s_prominence"
+    },
+    {
+      "text": "Many fans who grew up watching Justice League Unlimited consider John Stewart to be 'their' Green Lantern rather than Hal Jordan.",
+      "source": "https://en.wikipedia.org/wiki/Many_fans_who"
+    },
+    {
+      "text": "John Stewart's relationship with Hawkgirl in the animated series became one of the show's most beloved storylines.",
+      "source": "https://en.wikipedia.org/wiki/John_Stewart%27s_relationship_with_Hawkgirl_in_the_animated_series"
+    },
+    {
+      "text": "The Green Lantern: The Animated Series (2011-2013) featured Hal Jordan in a CGI-animated show for Cartoon Network.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern:_The_Animated_Series"
+    },
+    {
+      "text": "Green Lantern: The Animated Series introduced Razer, a Red Lantern seeking redemption, who became a fan-favorite original character.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern:_The_Animated_Series"
+    },
+    {
+      "text": "Aya, an artificial intelligence navigating the Interceptor ship in the animated series, became another beloved original character.",
+      "source": "https://en.wikipedia.org/wiki/Aya%2C_an_artificial_intelligence_navigating_the_Interceptor_ship_in_the_animated_series"
+    },
+    {
+      "text": "Green Lantern: First Flight (2009) was a direct-to-video animated film focusing on Hal Jordan's origin and training with Sinestro.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern:_First_Flight"
+    },
+    {
+      "text": "Green Lantern: Emerald Knights (2011) was an animated anthology film telling stories of various Green Lantern Corps members.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern:_Emerald_Knights"
+    },
+    {
+      "text": "The 2011 Green Lantern live-action film starred Ryan Reynolds as Hal Jordan and was directed by Martin Campbell.",
+      "source": "https://en.wikipedia.org/wiki/2011_Green_Lantern_live-action_film"
+    },
+    {
+      "text": "The 2011 Green Lantern film had a production budget of approximately $200 million but underperformed at the box office, earning around $219 million worldwide.",
+      "source": "https://en.wikipedia.org/wiki/2011_Green_Lantern_film"
+    },
+    {
+      "text": "Ryan Reynolds has frequently joked about the Green Lantern film's failure, including a memorable reference in Deadpool where Wade Wilson asks not to have a 'green or animated' suit.",
+      "source": "https://en.wikipedia.org/wiki/Ryan_Reynolds"
+    },
+    {
+      "text": "Mark Strong played Sinestro in the 2011 film, and his performance was widely praised despite the movie's overall reception.",
+      "source": "https://en.wikipedia.org/wiki/Mark_Strong_played_Sinestro_in_the_2011_film%2C_and_his_performance"
+    },
+    {
+      "text": "Peter Sarsgaard portrayed Hector Hammond in the 2011 Green Lantern film, a villain with psychic powers.",
+      "source": "https://en.wikipedia.org/wiki/Peter_Sarsgaard"
+    },
+    {
+      "text": "Blake Lively played Carol Ferris in the 2011 film, Hal Jordan's love interest and boss at Ferris Aircraft.",
+      "source": "https://en.wikipedia.org/wiki/Blake_Lively"
+    },
+    {
+      "text": "The 2011 film's almost entirely CGI Green Lantern suit was controversial, with many fans and critics preferring a practical costume.",
+      "source": "https://en.wikipedia.org/wiki/2011_film%27s_almost_entirely_CGI_Green_Lantern_suit"
+    },
+    {
+      "text": "Parallax was reimagined as a giant cloud-like entity in the 2011 film, diverging significantly from its comic book appearance.",
+      "source": "https://en.wikipedia.org/wiki/Parallax"
+    },
+    {
+      "text": "The 2011 Green Lantern film's post-credits scene showed Sinestro putting on a yellow ring, setting up a sequel that never materialized.",
+      "source": "https://en.wikipedia.org/wiki/2011_Green_Lantern"
+    },
+    {
+      "text": "Despite its commercial failure, the 2011 film introduced many casual viewers to Green Lantern mythology for the first time.",
+      "source": "https://en.wikipedia.org/wiki/Despite_its_commercial_failure%2C_the_2011_film"
+    },
+    {
+      "text": "Warner Bros. later announced plans for a Green Lantern Corps film as part of the DCEU, though it went through multiple development changes.",
+      "source": "https://en.wikipedia.org/wiki/Warner_Bros"
+    },
+    {
+      "text": "An HBO Max Green Lantern series was announced in 2019, intended to explore multiple Lanterns across different eras.",
+      "source": "https://en.wikipedia.org/wiki/An_HBO_Max_Green_Lantern_series"
+    },
+    {
+      "text": "Geoff Johns' run on Green Lantern (2004-2013) is considered one of the definitive takes on the character, spanning over 100 issues.",
+      "source": "https://en.wikipedia.org/wiki/Geoff_Johns%27_run_on_Green_Lantern_(2004-2013)"
+    },
+    {
+      "text": "The War of the Green Lanterns (2011) saw the Corps' rings corrupted by the entities of the Emotional Spectrum, forcing Hal, Guy, John, and Kyle to wield rings of other colors.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lanterns"
+    },
+    {
+      "text": "During War of the Green Lanterns, Hal Jordan wielded an orange ring, Guy Gardner used a red ring, John Stewart carried an indigo ring, and Kyle Rayner bore a blue ring.",
+      "source": "https://en.wikipedia.org/wiki/During_War_of_the_Green_Lanterns"
+    },
+    {
+      "text": "Hal Jordan was expelled from the Green Lantern Corps and replaced by Sinestro as Earth's Green Lantern in the New 52 relaunch.",
+      "source": "https://en.wikipedia.org/wiki/Hal_Jordan"
+    },
+    {
+      "text": "The New 52 relaunch saw Simon Baz take over as Earth's Green Lantern when Hal Jordan and Sinestro were trapped in the Dead Zone.",
+      "source": "https://en.wikipedia.org/wiki/New_52_relaunch"
+    },
+    {
+      "text": "Green Lantern: Earth One (2018) reimagined Hal Jordan's origin in a standalone graphic novel format outside main continuity.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern:_Earth_One"
+    },
+    {
+      "text": "In the Elseworlds story Superman: Red Son, the Green Lantern Corps is reimagined within a Cold War alternate reality.",
+      "source": "https://en.wikipedia.org/wiki/In_the_Elseworlds_story_Superman:_Red_Son%2C_the_Green_Lantern_Corps"
+    },
+    {
+      "text": "The Green Lantern power battery's lantern shape was inspired by old railroad lanterns, reflecting Alan Scott's original profession.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern_power_battery%27s_lantern_shape"
+    },
+    {
+      "text": "Martin Nodell, creator of the original Green Lantern, was inspired by a subway worker swinging a green lantern as a signal.",
+      "source": "https://en.wikipedia.org/wiki/Martin_Nodell%2C_creator_of_the_original_Green_Lantern"
+    },
+    {
+      "text": "Gil Kane's redesign of Green Lantern for the Silver Age created the iconic black-and-green costume with the white gloves that became definitive.",
+      "source": "https://en.wikipedia.org/wiki/Gil_Kane%27s_redesign_of_Green_Lantern_for_the_Silver_Age"
+    },
+    {
+      "text": "The Green Lantern symbol — a circle within a circle — represents the lantern and has become one of the most recognizable logos in comics.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern_symbol_%E2%80%94_a_circle_within_a_circle_%E2%80%94_represents_the_lantern_and"
+    },
+    {
+      "text": "Hal Jordan has been a member of the Justice League since its founding in The Brave and the Bold #28 (1960).",
+      "source": "https://en.wikipedia.org/wiki/Hal_Jordan"
+    },
+    {
+      "text": "Green Lantern and The Flash (Barry Allen) have one of the most enduring friendships in DC Comics, often referred to as best friends.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern_and_The_Flash_(Barry_Allen)"
+    },
+    {
+      "text": "\"You're not just some guy in a suit. You're Green Lantern.\" — Carol Ferris has often served as the emotional anchor reminding Hal Jordan of his heroic calling.",
+      "source": "https://www.youtube.com/results?search_query=Green%20Lantern%20You%27re%20not%20just%20some%20guy%20in%20a%20suit.%20You%27re%20Green%20Lantern.%20live%20performance"
+    },
+    {
+      "text": "Hal Jordan once punched Batman in the face, an act that underscored his fearless and sometimes reckless personality.",
+      "source": "https://en.wikipedia.org/wiki/Hal_Jordan"
+    },
+    {
+      "text": "Guy Gardner briefly wielded Sinestro's yellow ring after losing his Green Lantern ring, serving as a member of the Justice League.",
+      "source": "https://en.wikipedia.org/wiki/Guy_Gardner"
+    },
+    {
+      "text": "Guy Gardner later became a member of the Red Lantern Corps, channeling his natural anger into an unlikely source of heroism.",
+      "source": "https://en.wikipedia.org/wiki/Guy_Gardner_later"
+    },
+    {
+      "text": "Guy Gardner eventually gained the ability to tap into the power of the Vuldarian alien race, gaining shapeshifting powers as the hero Warrior.",
+      "source": "https://en.wikipedia.org/wiki/Guy_Gardner"
+    },
+    {
+      "text": "Kyle Rayner was given the last Green Lantern ring by Ganthet, the last surviving Guardian of the Universe, in an alley behind a nightclub.",
+      "source": "https://en.wikipedia.org/wiki/Kyle_Rayner"
+    },
+    {
+      "text": "Kyle Rayner's girlfriend Alex DeWitt was murdered by Major Force and stuffed into a refrigerator, an event that coined the term 'fridging' in comics criticism.",
+      "source": "https://en.wikipedia.org/wiki/Kyle_Rayner%27s_girlfriend_Alex_DeWitt"
+    },
+    {
+      "text": "The term 'Women in Refrigerators,' describing the trope of harming female characters to motivate male heroes, was coined by writer Gail Simone in reference to Alex DeWitt's death.",
+      "source": "https://en.wikipedia.org/wiki/Women_in_Refrigerators"
+    },
+    {
+      "text": "Kyle Rayner eventually mastered all seven colors of the Emotional Spectrum and became the first White Lantern.",
+      "source": "https://en.wikipedia.org/wiki/Kyle_Rayner_eventually_mastered_all_seven_colors_of_the_Emotional_Spectrum_and"
+    },
+    {
+      "text": "Jessica Cruz and Simon Baz were partnered as the Green Lanterns of Earth in the DC Rebirth era, sharing Sector 2814.",
+      "source": "https://en.wikipedia.org/wiki/Jessica_Cruz_and_Simon_Baz"
+    },
+    {
+      "text": "Jessica Cruz's anxiety is portrayed realistically in comics, showing that courage means acting despite overwhelming fear.",
+      "source": "https://en.wikipedia.org/wiki/Jessica_Cruz%27s_anxiety"
+    },
+    {
+      "text": "\"I'm afraid of everything. But I'm still here.\" — Jessica Cruz's determination despite her anxiety makes her one of the most inspiring modern heroes.",
+      "source": "https://en.wikipedia.org/wiki/I%27m_afraid_of_everything._But_I%27m_still_here"
+    },
+    {
+      "text": "Alan Scott was revealed to be gay in the New 52 Earth 2 series, making him one of DC's most prominent LGBTQ+ characters.",
+      "source": "https://en.wikipedia.org/wiki/Alan_Scott"
+    },
+    {
+      "text": "Alan Scott's original ring and lantern were magical in nature, powered by the mystical Starheart rather than Oan technology.",
+      "source": "https://en.wikipedia.org/wiki/Alan_Scott%27s_original_ring_and_lantern"
+    },
+    {
+      "text": "The Starheart was revealed to be a fragment of wild magic gathered and contained by the Guardians of the Universe billions of years ago.",
+      "source": "https://en.wikipedia.org/wiki/Starheart"
+    },
+    {
+      "text": "Alan Scott was a founding member of the Justice Society of America, DC's first superhero team.",
+      "source": "https://en.wikipedia.org/wiki/Alan_Scott"
+    },
+    {
+      "text": "Jade, Alan Scott's daughter, inherited his green energy powers and served as a hero in her own right.",
+      "source": "https://en.wikipedia.org/wiki/Alan_Scott%27s"
+    },
+    {
+      "text": "Obsidian, Alan Scott's son, wielded shadow powers derived from the Starheart and struggled with his own inner darkness.",
+      "source": "https://en.wikipedia.org/wiki/Alan_Scott%27s"
+    },
+    {
+      "text": "The Green Lantern Corps has included members of virtually every alien species imaginable, from sentient mathematical equations to living viruses.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern_Corps"
+    },
+    {
+      "text": "Rot Lop Fan is a Green Lantern from a species with no concept of light or color, so he uses sound-based constructs and calls himself the F-Sharp Bell.",
+      "source": "https://en.wikipedia.org/wiki/Rot_Lop_Fan"
+    },
+    {
+      "text": "Leezle Pon is a Green Lantern who is a sentient smallpox virus, one of the most unusual members of the Corps.",
+      "source": "https://en.wikipedia.org/wiki/Leezle_Pon"
+    },
+    {
+      "text": "Dkrtzy RRR is a Green Lantern that is a sentient mathematical equation, demonstrating the Corps' extreme diversity.",
+      "source": "https://en.wikipedia.org/wiki/Dkrtzy_RRR"
+    },
+    {
+      "text": "B'dg is a squirrel-like Green Lantern from the planet H'lven who succeeded Ch'p after his death.",
+      "source": "https://en.wikipedia.org/wiki/B%27dg"
+    },
+    {
+      "text": "Arisia Rrab was a teenage Green Lantern who aged herself up using her ring to pursue a relationship with Hal Jordan, a controversial storyline from the 1980s.",
+      "source": "https://en.wikipedia.org/wiki/Arisia_Rrab"
+    },
+    {
+      "text": "The planet Ysmault serves as the homeworld of the Red Lantern Corps, a forbidden world in Sector 666.",
+      "source": "https://en.wikipedia.org/wiki/Red_Lantern_Corps"
+    },
+    {
+      "text": "Bleez, a Red Lantern, was once a beautiful princess before being captured and tortured, fueling her rage and recruitment into the Red Lantern Corps.",
+      "source": "https://en.wikipedia.org/wiki/Bleez%2C_a_Red_Lantern"
+    },
+    {
+      "text": "The Indigo Tribe's oath is spoken in an alien language called Nok, with the word 'Nok' itself being the most frequently repeated term.",
+      "source": "https://en.wikipedia.org/wiki/Indigo_Tribe%27s_oath"
+    },
+    {
+      "text": "The Zamarons, creators of the Star Sapphire corps, are an offshoot of the same race as the Guardians of the Universe.",
+      "source": "https://en.wikipedia.org/wiki/Zamarons%2C_creators_of_the_Star_Sapphire_corps"
+    },
+    {
+      "text": "The Guardians of the Universe expelled emotion from themselves billions of years ago, believing it was the source of all chaos.",
+      "source": "https://en.wikipedia.org/wiki/Guardians_of_the_Universe"
+    },
+    {
+      "text": "The Guardians' decision to suppress emotion is deeply ironic given that the Green Lantern Corps is powered by willpower, itself a form of emotional energy.",
+      "source": "https://en.wikipedia.org/wiki/Guardians%27_decision_to_suppress_emotion"
+    },
+    {
+      "text": "The Third Army was created by the Guardians as their 'perfect' army — beings that assimilated others by touch, replacing the Green Lantern Corps.",
+      "source": "https://en.wikipedia.org/wiki/Third_Army"
+    },
+    {
+      "text": "The First Lantern, Volthoom, was the Guardians' original experiment with the Emotional Spectrum, imprisoned for billions of years before his escape.",
+      "source": "https://en.wikipedia.org/wiki/First_Lantern%2C_Volthoom"
+    },
+    {
+      "text": "Green Lantern villains often represent specific emotions: Sinestro embodies fear, Atrocitus rage, and Larfleeze greed.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern"
+    },
+    {
+      "text": "Hector Hammond is one of Hal Jordan's oldest villains, a scientist whose head grew to enormous size after exposure to a meteorite, granting him telepathy.",
+      "source": "https://en.wikipedia.org/wiki/Hector_Hammond"
+    },
+    {
+      "text": "Star Sapphire was originally a villain identity for Carol Ferris before the Star Sapphire Corps was expanded in Geoff Johns' run.",
+      "source": "https://en.wikipedia.org/wiki/Star_Sapphire"
+    },
+    {
+      "text": "\"I am Sinestro. I am the greatest Lantern who ever lived.\" — Sinestro's arrogance defines him as both villain and anti-hero throughout his complex history.",
+      "source": "https://en.wikipedia.org/wiki/I_am_Sinestro._I_am_the_greatest_Lantern_who_ever_lived"
+    },
+    {
+      "text": "Mongul, ruler of Warworld, has clashed with Green Lantern multiple times, once using a Black Mercy plant to trap Hal Jordan in a dream world.",
+      "source": "https://en.wikipedia.org/wiki/Mongul%2C_ruler_of_Warworld"
+    },
+    {
+      "text": "The Anti-Monitor served as the 'Guardian' of the Sinestro Corps, adding cosmic-level threat to the Yellow Lanterns.",
+      "source": "https://en.wikipedia.org/wiki/Anti-Monitor"
+    },
+    {
+      "text": "Superboy-Prime was recruited into the Sinestro Corps during the Sinestro Corps War, wielding a yellow ring alongside the Anti-Monitor.",
+      "source": "https://en.wikipedia.org/wiki/Superboy-Prime"
+    },
+    {
+      "text": "The Cyborg Superman, Hank Henshaw, also joined the Sinestro Corps, seeking the destruction he believed would bring him peace.",
+      "source": "https://en.wikipedia.org/wiki/Cyborg_Superman%2C_Hank_Henshaw%2C_also"
+    },
+    {
+      "text": "Krona, a rogue Guardian of the Universe, was responsible for creating the antimatter universe and the multiverse through his forbidden experiments.",
+      "source": "https://en.wikipedia.org/wiki/Krona%2C_a_rogue_Guardian_of_the_Universe"
+    },
+    {
+      "text": "Green Lantern has appeared in numerous video games, including Injustice: Gods Among Us and Injustice 2.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern"
+    },
+    {
+      "text": "In Injustice 2, both Hal Jordan and John Stewart are playable as Green Lantern, with Hal also having a Yellow Lantern alternate.",
+      "source": "https://en.wikipedia.org/wiki/In_Injustice_2%2C_both_Hal_Jordan_and_John_Stewart"
+    },
+    {
+      "text": "Green Lantern: Rise of the Manhunters (2011) was a video game tie-in to the Ryan Reynolds film, available on multiple platforms.",
+      "source": "https://en.wikipedia.org/wiki/Manhunters"
+    },
+    {
+      "text": "Hal Jordan appeared as a playable character in Mortal Kombat vs. DC Universe (2008).",
+      "source": "https://en.wikipedia.org/wiki/DC_Universe"
+    },
+    {
+      "text": "LEGO Batman 3: Beyond Gotham featured multiple Green Lantern characters and extensive Lantern Corps content.",
+      "source": "https://en.wikipedia.org/wiki/LEGO_Batman_3"
+    },
+    {
+      "text": "DC Universe Online, the MMORPG, features extensive Green Lantern content including Oa as a playable area.",
+      "source": "https://en.wikipedia.org/wiki/DC_Universe_Online%2C_the_MMORPG"
+    },
+    {
+      "text": "In the LEGO DC Super-Villains game, players can create custom characters with Green Lantern ring abilities.",
+      "source": "https://en.wikipedia.org/wiki/In_the_LEGO_DC_Super-Villains"
+    },
+    {
+      "text": "Green Lantern appeared in multiple episodes of the Super Friends animated series in the 1970s and 1980s.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern"
+    },
+    {
+      "text": "The Green Lantern Corps animated film (2011) was released direct-to-video and focused on Hal Jordan's early adventures with the Corps.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern_Corps_animated_film_(2011)"
+    },
+    {
+      "text": "In the Justice League animated series, John Stewart's Green Lantern was voiced by Phil LaMarr, who brought gravitas and depth to the role.",
+      "source": "https://en.wikipedia.org/wiki/In_the_Justice_League_animated_series%2C_John_Stewart%27s_Green_Lantern"
+    },
+    {
+      "text": "Phil LaMarr's portrayal of John Stewart helped cement the character as a fan favorite and introduced Green Lantern to a new generation.",
+      "source": "https://en.wikipedia.org/wiki/Phil_LaMarr%27s_portrayal_of_John_Stewart"
+    },
+    {
+      "text": "Nathan Fillion voiced Hal Jordan in several DC animated films, including Green Lantern: Emerald Knights and Justice League: Doom.",
+      "source": "https://en.wikipedia.org/wiki/Nathan_Fillion"
+    },
+    {
+      "text": "In Justice League: War (2014), Hal Jordan was portrayed as overconfident and comedic, clashing humorously with Batman.",
+      "source": "https://en.wikipedia.org/wiki/In_Justice_League:_War"
+    },
+    {
+      "text": "\"Wait — you're not just some guy in a bat costume?\" — Hal Jordan's shocked reaction to Batman in Justice League: War became a beloved comedic moment.",
+      "source": "https://en.wikipedia.org/wiki/Wait_%E2%80%94_you%27re_not_just_some_guy_in_a_bat_costume"
+    },
+    {
+      "text": "Green Lantern appeared in the Batman: The Brave and the Bold animated series, with multiple Lanterns featured across different episodes.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern"
+    },
+    {
+      "text": "The Duck Dodgers cartoon featured a crossover episode where Daffy Duck became a Green Lantern, voiced by Joe Alaskey.",
+      "source": "https://en.wikipedia.org/wiki/Duck_Dodgers_cartoon_featured_a_crossover_episode_where_Daffy_Duck"
+    },
+    {
+      "text": "Green Lantern's oath has been parodied and referenced across pop culture, from television shows to political speeches.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern%27s_oath"
+    },
+    {
+      "text": "The concept of a power ring that creates anything the wielder imagines has made Green Lantern one of the most creatively challenging heroes to write and draw.",
+      "source": "https://en.wikipedia.org/wiki/concept_of_a_power_ring_that_creates_anything_the_wielder_imagines"
+    },
+    {
+      "text": "Artists drawing Green Lantern must constantly design new constructs, making it one of the most imagination-demanding assignments in comics.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern"
+    },
+    {
+      "text": "Green Lantern's ring constructs have ranged from simple boxing gloves to entire battle fleets, reflecting each wielder's personality.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern%27s_ring_constructs"
+    },
+    {
+      "text": "Hal Jordan famously favors creating giant green fists and jets with his ring, reflecting his straightforward, action-oriented personality.",
+      "source": "https://en.wikipedia.org/wiki/Hal_Jordan"
+    },
+    {
+      "text": "John Stewart's architectural background means his constructs are often highly detailed, with internal moving parts and structural integrity.",
+      "source": "https://en.wikipedia.org/wiki/John_Stewart%27s_architectural_background_means_his_constructs"
+    },
+    {
+      "text": "Kyle Rayner's artistic nature leads to the most visually creative constructs, often featuring anime-inspired designs and elaborate imagery.",
+      "source": "https://en.wikipedia.org/wiki/Kyle_Rayner%27s"
+    },
+    {
+      "text": "Guy Gardner's constructs tend to be blunt-force weapons like bats, hammers, and chainsaws, matching his aggressive personality.",
+      "source": "https://en.wikipedia.org/wiki/Guy_Gardner%27s"
+    },
+    {
+      "text": "Green Lantern rings have a fail-safe that prevents them from being used to kill in most circumstances, a rule the Guardians have occasionally overridden.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern_rings"
+    },
+    {
+      "text": "The ten new laws of the Book of Oa, introduced during the Sinestro Corps War, permanently changed the rules governing the Green Lantern Corps.",
+      "source": "https://en.wikipedia.org/wiki/ten_new_laws_of_the_Book_of_Oa"
+    },
+    {
+      "text": "Sector 2814, which contains Earth, is considered one of the most important and dangerous sectors in the universe.",
+      "source": "https://en.wikipedia.org/wiki/Sector_2814%2C_which"
+    },
+    {
+      "text": "Coast City, Hal Jordan's hometown, was destroyed by Mongul and the Cyborg Superman during the Reign of the Supermen storyline.",
+      "source": "https://en.wikipedia.org/wiki/Coast_City%2C_Hal_Jordan%27s_hometown"
+    },
+    {
+      "text": "The destruction of Coast City drove Hal Jordan mad with grief, leading directly to the Emerald Twilight storyline and his transformation into Parallax.",
+      "source": "https://en.wikipedia.org/wiki/Coast_City"
+    },
+    {
+      "text": "Coast City was eventually rebuilt and renamed the 'City Without Fear' in honor of its resilience and connection to the Green Lantern.",
+      "source": "https://en.wikipedia.org/wiki/Coast_City"
+    },
+    {
+      "text": "Hal Jordan sacrificed himself to reignite Earth's sun during the Final Night crossover, dying as a hero despite his time as Parallax.",
+      "source": "https://en.wikipedia.org/wiki/Hal_Jordan"
+    },
+    {
+      "text": "After his death, Hal Jordan became the Spectre, God's Spirit of Vengeance, before being resurrected in Green Lantern: Rebirth.",
+      "source": "https://en.wikipedia.org/wiki/After_his_death%2C_Hal_Jordan"
+    },
+    {
+      "text": "Green Lantern: Rebirth (2004-2005) is considered one of the greatest comeback stories in comics, restoring Hal Jordan and the entire Corps.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern:_Rebirth_(2004-2005)"
+    },
+    {
+      "text": "The power ring's ability to translate any language makes it one of the most useful tools in the DC Universe for intergalactic diplomacy.",
+      "source": "https://en.wikipedia.org/wiki/DC_Universe_for"
+    },
+    {
+      "text": "Green Lantern rings can create complete environmental suits, allowing wearers to survive in any environment including deep space and underwater.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern"
+    },
+    {
+      "text": "The ring's scanning capabilities rival those of any computer in the DC Universe, capable of analyzing molecular structures and energy signatures.",
+      "source": "https://en.wikipedia.org/wiki/DC_Universe"
+    },
+    {
+      "text": "Oa contains the Sciencells, a prison facility where the Green Lantern Corps holds the universe's most dangerous criminals.",
+      "source": "https://en.wikipedia.org/wiki/Oa"
+    },
+    {
+      "text": "The Sciencells housed Sinestro, Superboy-Prime, and numerous other major DC villains at various points.",
+      "source": "https://en.wikipedia.org/wiki/Sciencells"
+    },
+    {
+      "text": "The Crypt of the Green Lantern Corps on Oa serves as a memorial to all fallen Lanterns, containing their rings and uniforms.",
+      "source": "https://en.wikipedia.org/wiki/Crypt_of_the_Green_Lantern_Corps_on"
+    },
+    {
+      "text": "The Green Lantern Honor Guard is an elite unit within the Corps, with members given more autonomy and authority than regular Lanterns.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern_Honor_Guard"
+    },
+    {
+      "text": "Hal Jordan, Guy Gardner, John Stewart, and Kyle Rayner have all served as Honor Guard members at various times.",
+      "source": "https://en.wikipedia.org/wiki/Hal_Jordan%2C_Guy_Gardner%2C_John_Stewart%2C_and_Kyle_Rayner"
+    },
+    {
+      "text": "The Interceptor is a Green Lantern vessel capable of faster-than-light travel, prominently featured in the animated series.",
+      "source": "https://en.wikipedia.org/wiki/Interceptor"
+    },
+    {
+      "text": "Green Lantern villains have included some of DC's most powerful cosmic threats, from the Anti-Monitor to Krona to Nekron.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern_villains"
+    },
+    {
+      "text": "The Wrath of the First Lantern crossover (2013) concluded Geoff Johns' epic run on Green Lantern with Volthoom's defeat.",
+      "source": "https://en.wikipedia.org/wiki/Wrath_of_the_First_Lantern_crossover_(2013)_concluded_Geoff_Johns%27_epic"
+    },
+    {
+      "text": "Green Lantern has been a core member of the Justice League in nearly every incarnation of the team.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern"
+    },
+    {
+      "text": "In Kingdom Come (1996), an older Alan Scott protects a massive emerald city using his Starheart powers.",
+      "source": "https://en.wikipedia.org/wiki/In_Kingdom_Come"
+    },
+    {
+      "text": "In Frank Miller's The Dark Knight Strikes Again, a one-armed Hal Jordan still wields his ring despite years of exile.",
+      "source": "https://en.wikipedia.org/wiki/In_Frank_Miller%27s_The_Dark_Knight_Strikes_Again"
+    },
+    {
+      "text": "The Green Lantern animated movie Green Lantern vs. the Star Sapphires explored the violet light of love.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern"
+    },
+    {
+      "text": "In the Flashpoint alternate timeline, Abin Sur never died and remained Earth's Green Lantern.",
+      "source": "https://en.wikipedia.org/wiki/In_the_Flashpoint"
+    },
+    {
+      "text": "Grant Morrison's The Green Lantern (2018-2020) reimagined the series as an intergalactic police procedural.",
+      "source": "https://en.wikipedia.org/wiki/Grant_Morrison%27s_The_Green_Lantern"
+    },
+    {
+      "text": "Grant Morrison introduced the concept of the Ultrawar, a multiversal conflict threatening all of reality.",
+      "source": "https://en.wikipedia.org/wiki/Grant_Morrison"
+    },
+    {
+      "text": "Grant Morrison's run featured Hal Jordan going undercover within the Blackstars, a villainous organization.",
+      "source": "https://en.wikipedia.org/wiki/Grant_Morrison%27s"
+    },
+    {
+      "text": "The Green Lantern Corps has military-style ranks, from rookie Lanterns to senior members, Clarissi, and the Honor Guard.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern_Corps"
+    },
+    {
+      "text": "Power rings have a limited charge but can be recharged at any compatible power battery using the Lantern oath.",
+      "source": "https://en.wikipedia.org/wiki/Power_rings"
+    },
+    {
+      "text": "Each Lantern's personal power battery is a pocket-dimension device that connects to the Central Power Battery on Oa.",
+      "source": "https://en.wikipedia.org/wiki/Each_Lantern%27s_personal_power_battery"
+    },
+    {
+      "text": "The Central Power Battery on Oa is the largest power battery and the source of all green light energy in the universe.",
+      "source": "https://en.wikipedia.org/wiki/Central_Power_Battery_on_Oa"
+    },
+    {
+      "text": "When the Central Power Battery was destroyed during Emerald Twilight, Kyle Rayner's ring was the only one that survived, drawing power from a different source.",
+      "source": "https://en.wikipedia.org/wiki/When_the_Central_Power_Battery"
+    },
+    {
+      "text": "The Blue Lantern Corps is the smallest of the Lantern Corps, as hope is considered the hardest emotion to sustain.",
+      "source": "https://en.wikipedia.org/wiki/Blue_Lantern_Corps"
+    },
+    {
+      "text": "Blue Lantern rings are nearly powerless without a Green Lantern nearby, as hope requires will to be effective.",
+      "source": "https://en.wikipedia.org/wiki/Blue_Lantern_rings"
+    },
+    {
+      "text": "The Indigo Tribe can channel the power of any other color on the Emotional Spectrum, making them incredibly versatile.",
+      "source": "https://en.wikipedia.org/wiki/Indigo_Tribe"
+    },
+    {
+      "text": "The Phantom Ring was created by the Guardians as a prototype ring that any being could use, regardless of emotional alignment, making it extremely dangerous.",
+      "source": "https://en.wikipedia.org/wiki/Phantom_Ring"
+    },
+    {
+      "text": "The Phantom Ring cycles through all seven colors of the Emotional Spectrum, making its wielder unpredictable and unstable.",
+      "source": "https://en.wikipedia.org/wiki/Phantom_Ring"
+    },
+    {
+      "text": "Green Lantern Hal Jordan once wielded rings of multiple colors simultaneously during various crossover events.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern_Hal_Jordan"
+    },
+    {
+      "text": "The Third Army saga saw the Guardians of the Universe become villains, trying to replace free will with their own controlled army.",
+      "source": "https://en.wikipedia.org/wiki/Third_Army_saga"
+    },
+    {
+      "text": "Relic, a scientist from the previous universe, discovered that the Emotional Spectrum's energy is finite, threatening all Lantern Corps.",
+      "source": "https://en.wikipedia.org/wiki/Relic%2C_a_scientist_from_the_previous_universe"
+    },
+    {
+      "text": "The Lightsmiths were the Lantern Corps equivalent in the universe that existed before the current DC Universe.",
+      "source": "https://en.wikipedia.org/wiki/Lightsmiths"
+    },
+    {
+      "text": "The Source Wall at the edge of the universe plays a role in Green Lantern mythology, with several Lanterns encountering it.",
+      "source": "https://en.wikipedia.org/wiki/Source_Wall_at_the"
+    },
+    {
+      "text": "Green Lantern rings are considered among the most advanced technology in the DC Universe, surpassing most alien civilizations' achievements.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern_rings"
+    },
+    {
+      "text": "The Green Lantern mythos has expanded to include concepts like the Life Equation and the Anti-Life Equation.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern_mythos"
+    },
+    {
+      "text": "During the Godhead crossover, the New Gods of New Genesis invaded the Lantern Corps seeking the Life Equation.",
+      "source": "https://en.wikipedia.org/wiki/During_the_Godhead"
+    },
+    {
+      "text": "Highfather and the New Gods believed that the White Lantern light contained the Life Equation, leading to war with all Lantern Corps.",
+      "source": "https://en.wikipedia.org/wiki/Highfather_and_the_New_Gods"
+    },
+    {
+      "text": "John Stewart once accidentally destroyed the planet Xanshi, a tragedy that haunted him throughout his career.",
+      "source": "https://en.wikipedia.org/wiki/John_Stewart"
+    },
+    {
+      "text": "The destruction of Xanshi made John Stewart one of the most psychologically complex Green Lanterns, carrying survivor's guilt for billions of lives.",
+      "source": "https://en.wikipedia.org/wiki/John_Stewart"
+    },
+    {
+      "text": "\"I'm a Marine. I don't just protect people. I protect everyone.\" — John Stewart's military background defines his disciplined approach to being a Green Lantern.",
+      "source": "https://en.wikipedia.org/wiki/I%27m_a_Marine._I_don%27t_just_protect_people._I_protect_everyone"
+    },
+    {
+      "text": "John Stewart became the leader of the Green Lantern Corps in multiple storylines, reflecting his natural leadership abilities.",
+      "source": "https://en.wikipedia.org/wiki/John_Stewart"
+    },
+    {
+      "text": "Fatality, a warrior from the destroyed planet Xanshi, initially sought revenge against John Stewart before eventually becoming a Star Sapphire and his love interest.",
+      "source": "https://en.wikipedia.org/wiki/John_Stewart"
+    },
+    {
+      "text": "Green Lantern rings can create autonomous constructs that act independently, though this requires tremendous willpower and concentration.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern"
+    },
+    {
+      "text": "The Green Lantern Corps has survived multiple destructions and rebuildings throughout its billions of years of existence.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern_Corps"
+    },
+    {
+      "text": "Hal Jordan's father, Martin Jordan, was a test pilot who died in a plane crash, inspiring Hal's fearless pursuit of flight.",
+      "source": "https://en.wikipedia.org/wiki/Hal_Jordan%27s_father%2C_Martin_Jordan"
+    },
+    {
+      "text": "Hal Jordan witnessing his father's death gave him both his greatest fear and his ability to overcome it, making him the perfect Green Lantern candidate.",
+      "source": "https://en.wikipedia.org/wiki/Hal_Jordan_witnessing_his_father%27s_death"
+    },
+    {
+      "text": "Carol Ferris inherited Ferris Aircraft from her father Carl Ferris, becoming both Hal Jordan's employer and love interest.",
+      "source": "https://en.wikipedia.org/wiki/Carol_Ferris"
+    },
+    {
+      "text": "The Hal Jordan and Carol Ferris romance is one of the longest-running love stories in DC Comics.",
+      "source": "https://en.wikipedia.org/wiki/Hal_Jordan_and_Carol_Ferris_romance"
+    },
+    {
+      "text": "Tom Kalmaku, Hal Jordan's best friend and mechanic at Ferris Aircraft, was one of the few people who knew Hal's secret identity.",
+      "source": "https://en.wikipedia.org/wiki/Tom_Kalmaku%2C_Hal_Jordan%27s_best_friend_and_mechanic_at_Ferris_Aircraft"
+    },
+    {
+      "text": "Tom Kalmaku kept a secret journal called the 'Casebook' documenting Hal Jordan's adventures as Green Lantern.",
+      "source": "https://en.wikipedia.org/wiki/Tom_Kalmaku_kept_a_secret_journal"
+    },
+    {
+      "text": "The Green Lantern franchise has explored themes of authority, free will, emotion versus logic, and the responsibilities of power.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern_franchise"
+    },
+    {
+      "text": "Green Lantern stories often serve as allegories for police reform, military ethics, and the balance between order and freedom.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern"
+    },
+    {
+      "text": "The Guardians of the Universe represent the failure of pure logic without emotion, as their decisions often lead to catastrophe.",
+      "source": "https://en.wikipedia.org/wiki/Guardians_of_the_Universe"
+    },
+    {
+      "text": "Ganthet is unique among the Guardians for retaining his emotions, making him the most sympathetic and compassionate of the immortals.",
+      "source": "https://en.wikipedia.org/wiki/Ganthet"
+    },
+    {
+      "text": "Sayd was a female Guardian who was exiled along with Ganthet for expressing emotions, and together they created the Blue Lantern Corps.",
+      "source": "https://en.wikipedia.org/wiki/Sayd"
+    },
+    {
+      "text": "The Anti-Monitor's alliance with the Sinestro Corps during the Sinestro Corps War was one of DC's most terrifying villain team-ups.",
+      "source": "https://en.wikipedia.org/wiki/Anti-Monitor%27s_alliance_with_the_Sinestro_Corps_during_the_Sinestro_Corps_War"
+    },
+    {
+      "text": "The prophecy of the Blackest Night was foretold in the Book of Oa, predicting a war of light that would engulf the universe.",
+      "source": "https://en.wikipedia.org/wiki/prophecy_of_the_Blackest_Night"
+    },
+    {
+      "text": "Abin Sur learned of the Blackest Night prophecy and became obsessed with preventing it, which ironically led to his own death.",
+      "source": "https://en.wikipedia.org/wiki/Abin_Sur_learned_of_the_Blackest_Night_prophecy_and"
+    },
+    {
+      "text": "The prophecy stated that the Blackest Night would begin when the dead would rise across the universe, powered by death itself.",
+      "source": "https://en.wikipedia.org/wiki/Blackest_Night"
+    },
+    {
+      "text": "\"Beware my power\" is the concluding phrase of the Green Lantern oath and has become synonymous with the franchise.",
+      "source": "https://en.wikipedia.org/wiki/Beware_my_power"
+    },
+    {
+      "text": "Green Lantern's light constructs are one of the most visually dynamic powers in comics, offering artists unlimited creative freedom.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern%27s_light_constructs"
+    },
+    {
+      "text": "The Green Lantern franchise is unique in superhero comics for having multiple characters carry the same title across different eras and demographics.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern_franchise"
+    },
+    {
+      "text": "Hal Jordan is often compared to other fearless pilot characters in fiction, embodying the test pilot archetype of the Space Age.",
+      "source": "https://en.wikipedia.org/wiki/Hal_Jordan"
+    },
+    {
+      "text": "The Green Lantern concept was directly influenced by the science fiction boom of the late 1950s and early 1960s.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern_concept"
+    },
+    {
+      "text": "Julius Schwartz, DC editor, championed the reinvention of Green Lantern for the Silver Age as part of a broader revival of superhero comics.",
+      "source": "https://en.wikipedia.org/wiki/Julius_Schwartz"
+    },
+    {
+      "text": "The Silver Age reinvention of Green Lantern helped launch the superhero renaissance that led to the founding of the Justice League.",
+      "source": "https://en.wikipedia.org/wiki/Silver_Age_reinvention_of_Green_Lantern"
+    },
+    {
+      "text": "Green Lantern has crossed over with virtually every major DC character, from Superman and Batman to the Swamp Thing and the Phantom Stranger.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern"
+    },
+    {
+      "text": "The Green Lantern/Superman dynamic explores the contrast between power given (the ring) and power born (Kryptonian abilities).",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern"
+    },
+    {
+      "text": "Hal Jordan and Barry Allen's friendship represents the classic buddy dynamic in superhero comics, built on mutual respect and trust.",
+      "source": "https://en.wikipedia.org/wiki/Hal_Jordan_and_Barry_Allen%27s"
+    },
+    {
+      "text": "Green Lantern appeared in the animated Young Justice series, with multiple Lanterns playing roles across different seasons.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern"
+    },
+    {
+      "text": "In the Injustice universe, Hal Jordan sided with Superman's regime and eventually became a Yellow Lantern.",
+      "source": "https://en.wikipedia.org/wiki/In_the_Injustice_universe%2C_Hal_Jordan_sided_with_Superman%27s_regime_and_eventually"
+    },
+    {
+      "text": "In the Injustice comics, Guy Gardner opposed Superman's regime and was killed for his defiance, showing different Lanterns choosing different sides.",
+      "source": "https://en.wikipedia.org/wiki/In_the_Injustice_comics%2C_Guy_Gardner_opposed_Superman%27s_regime_and"
+    },
+    {
+      "text": "The Oan power rings have been described by DC writers as the 'Swiss Army knife of superpowers' due to their incredible versatility.",
+      "source": "https://en.wikipedia.org/wiki/Oan_power_rings"
+    },
+    {
+      "text": "Green Lantern's ring can sustain its wearer indefinitely in space, providing oxygen, temperature regulation, and radiation protection.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern%27s"
+    },
+    {
+      "text": "The concept of different colored Lantern Corps was introduced gradually by Geoff Johns over several years, creating an expansive mythology.",
+      "source": "https://en.wikipedia.org/wiki/concept_of_different_colored_Lantern_Corps"
+    },
+    {
+      "text": "The Emotional Spectrum was mapped out as: red (rage), orange (avarice), yellow (fear), green (willpower), blue (hope), indigo (compassion), violet (love).",
+      "source": "https://en.wikipedia.org/wiki/Emotional_Spectrum"
+    },
+    {
+      "text": "Each emotion on the Spectrum corresponds to a position relative to the center — willpower sits at the center as the most balanced emotion.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern"
+    },
+    {
+      "text": "Emotions further from willpower's center position are harder to control, with rage and love at the extreme ends of the Spectrum.",
+      "source": "https://en.wikipedia.org/wiki/Emotions_further_from_willpower%27s_center_position"
+    },
+    {
+      "text": "The War of Light refers to the prophesied conflict where all seven corps would battle for supremacy of the Emotional Spectrum.",
+      "source": "https://en.wikipedia.org/wiki/War_of_Light"
+    },
+    {
+      "text": "The Spectrum's balance is crucial to the stability of the universe, as an imbalance could lead to the Blackest Night.",
+      "source": "https://en.wikipedia.org/wiki/Spectrum%27s_balance"
+    },
+    {
+      "text": "Green Lantern: Secret Origin (2008) retold Hal Jordan's origin story and became the primary basis for the 2011 film.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern:_Secret_Origin"
+    },
+    {
+      "text": "In Green Lantern: Secret Origin, Hal's childhood trauma of witnessing his father's death was given deeper emotional significance.",
+      "source": "https://en.wikipedia.org/wiki/In_Green_Lantern:_Secret_Origin%2C_Hal%27s_childhood_trauma_of_witnessing_his_father%27s_death"
+    },
+    {
+      "text": "The 2011 Green Lantern film grossed $219 million worldwide against a $200 million production budget, not including marketing costs.",
+      "source": "https://en.wikipedia.org/wiki/2011_Green_Lantern"
+    },
+    {
+      "text": "Tim Robbins, Angela Bassett, and Michael Clarke Duncan also appeared in the 2011 Green Lantern film.",
+      "source": "https://en.wikipedia.org/wiki/Tim_Robbins%2C_Angela_Bassett%2C_and_Michael_Clarke_Duncan_also"
+    },
+    {
+      "text": "Michael Clarke Duncan voiced Kilowog in the 2011 film, one of his final roles before his passing in 2012.",
+      "source": "https://en.wikipedia.org/wiki/Michael_Clarke_Duncan"
+    },
+    {
+      "text": "The 2011 film's Oa sequences were praised for their visual grandeur, even by critics who disliked the movie overall.",
+      "source": "https://en.wikipedia.org/wiki/2011_film%27s_Oa_sequences"
+    },
+    {
+      "text": "Geoffrey Rush voiced Tomar-Re in the 2011 Green Lantern film, lending gravitas to the alien mentor character.",
+      "source": "https://en.wikipedia.org/wiki/Geoffrey_Rush"
+    },
+    {
+      "text": "Taika Waititi played Thomas Kalmaku in the 2011 film, years before he became famous for directing Thor: Ragnarok.",
+      "source": "https://en.wikipedia.org/wiki/Taika_Waititi_played_Thomas_Kalmaku_in_the_2011_film%2C_years_before_he"
+    },
+    {
+      "text": "The 2011 film depicted the Green Lantern suit as entirely CGI, a decision that cost millions and drew widespread criticism.",
+      "source": "https://en.wikipedia.org/wiki/2011"
+    },
+    {
+      "text": "Ryan Reynolds reportedly agreed to play Green Lantern partly because he was already a fan of the character from the comics.",
+      "source": "https://en.wikipedia.org/wiki/Ryan_Reynolds_reportedly_agreed_to_play_Green_Lantern_partly_because_he"
+    },
+    {
+      "text": "The 2011 film attempted to balance space opera and Earth-based drama, a challenge that critics felt it failed to navigate.",
+      "source": "https://en.wikipedia.org/wiki/2011"
+    },
+    {
+      "text": "The Green Lantern franchise has sold hundreds of millions of dollars in merchandise, from action figures to video games to clothing.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern_franchise"
+    },
+    {
+      "text": "Green Lantern rings are among the most popular superhero jewelry replicas, available in all colors of the Emotional Spectrum.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern_rings"
+    },
+    {
+      "text": "DC Comics has released power ring sets featuring all nine Corps colors as collectible merchandise.",
+      "source": "https://en.wikipedia.org/wiki/DC_Comics"
+    },
+    {
+      "text": "Green Lantern's construct-creation ability was a revolutionary concept in superhero comics, moving beyond simple super-strength and flight.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern%27s_construct-creation_ability"
+    },
+    {
+      "text": "Alan Moore wrote several influential Green Lantern stories, including 'Mogo Doesn't Socialize' and 'Tygers,' which predicted the Blackest Night.",
+      "source": "https://en.wikipedia.org/wiki/Alan_Moore"
+    },
+    {
+      "text": "Alan Moore's 'Tygers' introduced the prophecy of the Blackest Night decades before Geoff Johns brought it to fruition.",
+      "source": "https://en.wikipedia.org/wiki/Alan_Moore%27s_%27Tygers"
+    },
+    {
+      "text": "Dave Gibbons, who co-created Watchmen with Alan Moore, also had a notable run drawing Green Lantern Corps.",
+      "source": "https://en.wikipedia.org/wiki/Dave_Gibbons%2C_who_co-created_Watchmen_with_Alan_Moore%2C_also"
+    },
+    {
+      "text": "Geoff Johns' introduction of the Emotional Spectrum is considered one of the most significant mythology expansions in DC Comics history.",
+      "source": "https://en.wikipedia.org/wiki/Geoff_Johns%27_introduction_of_the_Emotional_Spectrum"
+    },
+    {
+      "text": "The Blackest Night event sold over 200,000 copies of its first issue, making it one of DC's best-selling comics of the decade.",
+      "source": "https://en.wikipedia.org/wiki/Blackest_Night"
+    },
+    {
+      "text": "Blackest Night tie-in comics featured Black Lantern versions of nearly every dead DC character, from Aquaman to the original Firestorm.",
+      "source": "https://en.wikipedia.org/wiki/Blackest_Night"
+    },
+    {
+      "text": "The image of Black Lantern versions of beloved heroes attacking the living created some of the most disturbing visuals in DC Comics history.",
+      "source": "https://en.wikipedia.org/wiki/image_of_Black_Lantern_versions_of_beloved_heroes_attacking_the_living"
+    },
+    {
+      "text": "During Blackest Night, the combined power of all seven Lantern Corps was needed to defeat Nekron and the Black Lanterns.",
+      "source": "https://en.wikipedia.org/wiki/During_Blackest_Night%2C_the_combined_power_of_all_seven_Lantern_Corps"
+    },
+    {
+      "text": "Hal Jordan channeled the white light of life during Blackest Night's climax, becoming a White Lantern to defeat Nekron.",
+      "source": "https://en.wikipedia.org/wiki/Hal_Jordan"
+    },
+    {
+      "text": "The Brightest Day event explored themes of resurrection and purpose, questioning why specific characters were brought back to life.",
+      "source": "https://en.wikipedia.org/wiki/Brightest_Day"
+    },
+    {
+      "text": "Boston Brand (Deadman) played a central role in Brightest Day, wearing the White Lantern ring and seeking the Champion of Life.",
+      "source": "https://en.wikipedia.org/wiki/Boston_Brand"
+    },
+    {
+      "text": "The Green Lantern mythos includes the concept of the Emotional Electromagnetic Spectrum, grounding the magical rings in pseudo-scientific terms.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern_mythos"
+    },
+    {
+      "text": "Each color of the Emotional Spectrum has its own unique properties: green constructs are solid, red constructs burn, blue constructs heal.",
+      "source": "https://en.wikipedia.org/wiki/Each_color_of_the_Emotional_Spectrum"
+    },
+    {
+      "text": "Orange constructs are unique because they are actually the stolen souls of Larfleeze's victims, fighting as ghostly avatars.",
+      "source": "https://en.wikipedia.org/wiki/Orange_constructs"
+    },
+    {
+      "text": "Indigo Tribe members can teleport over vast distances, one of their most tactically useful abilities.",
+      "source": "https://en.wikipedia.org/wiki/Indigo_Tribe"
+    },
+    {
+      "text": "Star Sapphire constructs can create cages of crystal that trap enemies in their deepest memories of love.",
+      "source": "https://en.wikipedia.org/wiki/Star_Sapphire"
+    },
+    {
+      "text": "Black Lantern rings cannot be removed once placed on a corpse, permanently binding the dead to Nekron's will.",
+      "source": "https://en.wikipedia.org/wiki/Black_Lantern"
+    },
+    {
+      "text": "White Lantern rings represent the combination of all emotions and have the unique ability to resurrect the dead.",
+      "source": "https://en.wikipedia.org/wiki/White_Lantern_rings_represent_the_combination_of_all_emotions_and"
+    },
+    {
+      "text": "The Green Lantern franchise has inspired academic papers and philosophical discussions about willpower, emotion, and the nature of power.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern_franchise"
+    },
+    {
+      "text": "Green Lantern stories have addressed real-world issues including racism, environmentalism, political corruption, and substance abuse.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern_stories"
+    },
+    {
+      "text": "The famous 'snowbirds don't fly' arc from the O'Neil/Adams run dealt with Speedy's (Roy Harper's) heroin addiction, a groundbreaking moment in comics.",
+      "source": "https://en.wikipedia.org/wiki/famous_%27snowbirds_don%27t_fly%27_arc_from_the_O%27Neil%2FAdams"
+    },
+    {
+      "text": "Green Lantern's power of imagination makes it one of the few superhero concepts that directly rewards creativity, both in-universe and for the creators.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern%27s"
+    },
+    {
+      "text": "The Green Lantern franchise spans multiple media: comics, animated series, animated films, a live-action film, video games, and planned TV series.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern"
+    },
+    {
+      "text": "John Stewart becoming the default Green Lantern for an entire generation through the Justice League cartoon fundamentally changed the character's cultural status.",
+      "source": "https://en.wikipedia.org/wiki/John_Stewart"
+    },
+    {
+      "text": "When fans petitioned for John Stewart to appear in the DCEU films, it demonstrated the lasting impact of the animated series on popular culture.",
+      "source": "https://en.wikipedia.org/wiki/John_Stewart_to"
+    },
+    {
+      "text": "The Green Lantern mythos has been compared to Star Wars for its epic scope, combining personal drama with intergalactic conflict.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern_mythos"
+    },
+    {
+      "text": "Unlike most superheroes whose powers come from within, Green Lantern's power comes from a tool, raising questions about the nature of heroism.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern%27s"
+    },
+    {
+      "text": "The Green Lantern ring has been described as a metaphor for human potential — its limits are defined only by the wielder's imagination and will.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern_ring"
+    },
+    {
+      "text": "\"Will is the center. It's what makes everything else possible.\" — Ganthet's explanation of why willpower anchors the Emotional Spectrum.",
+      "source": "https://www.youtube.com/results?search_query=Green%20Lantern%20Will%20is%20the%20center.%20It%27s%20what%20makes%20everything%20else%20possible.%20live%20performance"
+    },
+    {
+      "text": "The Green Lantern franchise has featured some of DC's most cosmic-scale stories, rivaling even Superman and the New Gods in scope.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern_franchise"
+    },
+    {
+      "text": "Green Lantern's rogues gallery includes both personal enemies like Sinestro and cosmic threats like the Anti-Monitor and Nekron.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern%27s_rogues_gallery"
+    },
+    {
+      "text": "The Ravagers of Olys are ancient enemies of the Green Lantern Corps who predate even the Manhunters.",
+      "source": "https://en.wikipedia.org/wiki/Ravagers_of_Olys"
+    },
+    {
+      "text": "The Controllers are an offshoot of the Guardians who disagreed with the Corps concept and created their own methods of universal order.",
+      "source": "https://en.wikipedia.org/wiki/Controllers"
+    },
+    {
+      "text": "The Controllers created the Darkstars, another interstellar police force that served as rivals to the Green Lantern Corps.",
+      "source": "https://en.wikipedia.org/wiki/Controllers"
+    },
+    {
+      "text": "Green Lantern: Mosaic explored John Stewart overseeing a patchwork world of communities from different planets, exploring themes of diversity and coexistence.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern:_Mosaic"
+    },
+    {
+      "text": "Green Lantern: Mosaic was one of the first mainstream comics to feature a Black protagonist in a solo series.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern:_Mosaic"
+    },
+    {
+      "text": "The concept of fear as a weakness for Green Lanterns — both literally (yellow) and figuratively — is a central theme of the franchise.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lanterns"
+    },
+    {
+      "text": "Geoff Johns reframed the yellow weakness not as a flaw in the ring, but as the influence of Parallax trapped inside the Central Power Battery.",
+      "source": "https://en.wikipedia.org/wiki/Geoff_Johns"
+    },
+    {
+      "text": "Experienced Green Lanterns can overcome the yellow weakness entirely, proving that mastering fear is the ultimate test of a Lantern.",
+      "source": "https://en.wikipedia.org/wiki/Experienced_Green_Lanterns"
+    },
+    {
+      "text": "The Green Lantern Corps oath must be recited when charging the ring, creating a ritualistic bond between the Lantern and their power source.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern_Corps"
+    },
+    {
+      "text": "Different Green Lanterns have personalized versions of the oath, reflecting their individual backgrounds and values.",
+      "source": "https://en.wikipedia.org/wiki/Different_Green_Lanterns"
+    },
+    {
+      "text": "Alan Scott's oath differs from the standard Corps oath: 'And I shall shed my light over dark evil, for the dark things cannot stand the light.'",
+      "source": "https://en.wikipedia.org/wiki/Alan_Scott%27s"
+    },
+    {
+      "text": "The Green Lantern franchise has been published continuously since 1960, making it one of DC's longest-running properties.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern_franchise"
+    },
+    {
+      "text": "Green Lantern's debut in Showcase #4 is one of the most valuable Silver Age comics, with pristine copies selling for hundreds of thousands of dollars.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern%27s_debut_in_Showcase_%234"
+    },
+    {
+      "text": "The Green Lantern/Green Arrow pairing was groundbreaking for showing superheroes dealing with social and political issues rather than just fighting villains.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern%2FGreen_Arrow_pairing"
+    },
+    {
+      "text": "Hal Jordan's on-again, off-again relationship with Carol Ferris mirrors the complicated dynamics of superhero romances across comics.",
+      "source": "https://en.wikipedia.org/wiki/Hal_Jordan%27s_on"
+    },
+    {
+      "text": "Green Lantern has been a member of multiple versions of the Justice League, including the Justice League International and Justice League of America.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern"
+    },
+    {
+      "text": "In the DC Animated Universe, Green Lantern was pivotal in defeating Darkseid and protecting Earth from Thanagarian invasion.",
+      "source": "https://en.wikipedia.org/wiki/In_the_DC_Animated_Universe%2C_Green_Lantern"
+    },
+    {
+      "text": "The DCAU episode 'In Blackest Night' put John Stewart on trial for destroying a planet, drawing from his tragic comic book history.",
+      "source": "https://en.wikipedia.org/wiki/DCAU"
+    },
+    {
+      "text": "Green Lantern rings can record and replay events, functioning as perfect video recording devices.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern"
+    },
+    {
+      "text": "The rings can create portals for faster-than-light travel, though this ability drains significant power.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern"
+    },
+    {
+      "text": "Green Lantern constructs can be made invisible, allowing for surveillance and stealth operations.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern"
+    },
+    {
+      "text": "The ring's communication capabilities allow instant contact with any other Green Lantern ring in the universe.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern"
+    },
+    {
+      "text": "In Crisis on Infinite Earths, the Green Lantern Corps played a major role in the battle against the Anti-Monitor.",
+      "source": "https://en.wikipedia.org/wiki/In_Crisis_on_Infinite_Earths"
+    },
+    {
+      "text": "Multiple Green Lanterns died during Crisis on Infinite Earths, including Tomar-Re, who passed his ring to John Stewart.",
+      "source": "https://en.wikipedia.org/wiki/Multiple_Green_Lanterns"
+    },
+    {
+      "text": "The Green Lantern mythology has influenced other fictional universes, with power ring concepts appearing in homage across multiple media.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern_mythology"
+    },
+    {
+      "text": "The Nova Corps from Marvel Comics is often compared to the Green Lantern Corps, though both have distinct mythologies.",
+      "source": "https://en.wikipedia.org/wiki/Nova_Corps_from_Marvel_Comics"
+    },
+    {
+      "text": "In comic book crossovers, Green Lantern has faced off against Marvel characters, including a battle with Silver Surfer.",
+      "source": "https://en.wikipedia.org/wiki/In_comic_book_crossovers%2C_Green_Lantern"
+    },
+    {
+      "text": "Hal Jordan once wielded both a Green Lantern ring and a Blue Lantern ring simultaneously during the Blackest Night event.",
+      "source": "https://en.wikipedia.org/wiki/Hal_Jordan"
+    },
+    {
+      "text": "The practice of assigning two Lanterns per sector was instituted after Sinestro's betrayal revealed the danger of a single Lantern going rogue.",
+      "source": "https://en.wikipedia.org/wiki/practice_of_assigning_two_Lanterns_per_sector"
+    },
+    {
+      "text": "The Lost Lanterns were a group of Green Lanterns who were believed dead after Hal Jordan's rampage as Parallax but were later found alive.",
+      "source": "https://en.wikipedia.org/wiki/Lost_Lanterns"
+    },
+    {
+      "text": "The Corpse is a covert operations division of the Green Lantern Corps, handling missions too sensitive for regular Lanterns.",
+      "source": "https://en.wikipedia.org/wiki/Corpse"
+    },
+    {
+      "text": "The Corpse uses ingestible disk-shaped power sources instead of rings, sacrificing power for stealth.",
+      "source": "https://en.wikipedia.org/wiki/Corpse"
+    },
+    {
+      "text": "Soranik Natu, Sinestro's daughter, became a Green Lantern and struggled with her father's dark legacy.",
+      "source": "https://en.wikipedia.org/wiki/Soranik_Natu%2C_Sinestro%27s_daughter"
+    },
+    {
+      "text": "The revelation that Sinestro had a daughter added emotional complexity to one of DC's most iconic villains.",
+      "source": "https://en.wikipedia.org/wiki/revelation_that_Sinestro"
+    },
+    {
+      "text": "Soranik Natu was a skilled surgeon on Korugar before being chosen by a Green Lantern ring against her will.",
+      "source": "https://en.wikipedia.org/wiki/Soranik_Natu"
+    },
+    {
+      "text": "The people of Korugar feared the Green Lantern symbol because of Sinestro's tyranny, making Soranik's service especially controversial.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern"
+    },
+    {
+      "text": "\"It's not about deserving. It's about what you believe. And I believe in love.\" — Carol Ferris as Star Sapphire, showing how love became a source of power.",
+      "source": "https://en.wikipedia.org/wiki/It%27s_not_about_deserving._It%27s_about_what_you_believe._And_I_believe_in_love"
+    },
+    {
+      "text": "The Star Sapphire gem was originally portrayed as corrupting Carol Ferris, turning her into a villain who fought Hal Jordan.",
+      "source": "https://en.wikipedia.org/wiki/Star_Sapphire_gem"
+    },
+    {
+      "text": "The reimagining of the Star Sapphires from villains to a legitimate Lantern Corps was one of Geoff Johns' most creative expansions.",
+      "source": "https://en.wikipedia.org/wiki/reimagining_of_the_Star_Sapphires_from_villains_to_a_legitimate_Lantern_Corps"
+    },
+    {
+      "text": "Larfleeze's origin reveals he was once part of a group of thieves who stole the orange light, and he killed the others to keep it for himself.",
+      "source": "https://en.wikipedia.org/wiki/Larfleeze%27s_origin_reveals_he"
+    },
+    {
+      "text": "Larfleeze's comedic portrayal as an alien hoarder who 'wants everything' has made him a surprisingly popular character among fans.",
+      "source": "https://en.wikipedia.org/wiki/Larfleeze%27s_comedic_portrayal_as_an_alien_hoarder_who_%27wants_everything"
+    },
+    {
+      "text": "Larfleeze once received a Christmas special comic, where his greed and misunderstanding of the holiday created a humorous storyline.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern"
+    },
+    {
+      "text": "The Rage of the Red Lanterns one-shot (2008) introduced the Red Lantern Corps and expanded the Emotional Spectrum mythology.",
+      "source": "https://en.wikipedia.org/wiki/Rage_of_the_Red_Lanterns_one-shot_(2008)"
+    },
+    {
+      "text": "Red Lantern rings cause their bearers to vomit burning blood as their primary weapon, one of the most visceral powers in comics.",
+      "source": "https://en.wikipedia.org/wiki/Red_Lantern"
+    },
+    {
+      "text": "Atrocitus was originally introduced as a minor character in Alan Moore's 'Tygers' story before Geoff Johns elevated him to major villain status.",
+      "source": "https://en.wikipedia.org/wiki/Atrocitus"
+    },
+    {
+      "text": "The Five Inversions were survivors of the Manhunter massacre who taught Abin Sur about the Blackest Night prophecy.",
+      "source": "https://en.wikipedia.org/wiki/Five_Inversions"
+    },
+    {
+      "text": "Atrocitus killed the other Four Inversions to bathe in their blood, using it to create the first Red Lantern power battery.",
+      "source": "https://en.wikipedia.org/wiki/Four_Inversions_to"
+    },
+    {
+      "text": "The Red Lantern oath is the only Lantern oath that explicitly promises violence and death to enemies.",
+      "source": "https://en.wikipedia.org/wiki/Red_Lantern_oath"
+    },
+    {
+      "text": "Supergirl briefly became a Red Lantern in the New 52, channeling her rage over the loss of Krypton.",
+      "source": "https://en.wikipedia.org/wiki/Supergirl_briefly"
+    },
+    {
+      "text": "Guy Gardner's time as a Red Lantern saw him secretly working undercover for Hal Jordan while leading the Red Lantern Corps.",
+      "source": "https://en.wikipedia.org/wiki/Guy_Gardner%27s_time_as_a_Red_Lantern"
+    },
+    {
+      "text": "The Blue Lantern Corps' mantra 'All will be well' became one of the most popular phrases in Green Lantern fandom.",
+      "source": "https://en.wikipedia.org/wiki/Blue_Lantern_Corps%27_mantra_%27All_will_be_well"
+    },
+    {
+      "text": "Brother Warth, an elephant-like alien, became the second Blue Lantern after Saint Walker and served as one of the Corps' most faithful members.",
+      "source": "https://en.wikipedia.org/wiki/Brother_Warth%2C_an_elephant-like_alien"
+    },
+    {
+      "text": "The indigo light of compassion was originally discovered on the planet Nok, giving the Indigo Tribe its distinctive oath.",
+      "source": "https://en.wikipedia.org/wiki/indigo_light_of_compassion"
+    },
+    {
+      "text": "Iroque, the leader of the Indigo Tribe, was revealed to have been a murderer whose ring forced her to feel compassion for her victims.",
+      "source": "https://en.wikipedia.org/wiki/Iroque%2C_the_leader_of_the_Indigo_Tribe"
+    },
+    {
+      "text": "The concept that compassion must be forced upon some of the universe's worst criminals raises moral questions about free will and redemption.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern"
+    },
+    {
+      "text": "The Predator, the entity of love, bonded with Carol Ferris multiple times, but could also possess men, challenging gender assumptions about love.",
+      "source": "https://en.wikipedia.org/wiki/Predator"
+    },
+    {
+      "text": "The Butcher, the entity of rage, was contained by Atrocitus and used as a weapon before being freed during the War of the Green Lanterns.",
+      "source": "https://en.wikipedia.org/wiki/Butcher%2C_the_entity_of_rage"
+    },
+    {
+      "text": "Ophidian, the entity of avarice, was kept in check by Larfleeze, who alone could resist its corrupting influence through sheer greed.",
+      "source": "https://en.wikipedia.org/wiki/Ophidian%2C_the_entity_of_avarice"
+    },
+    {
+      "text": "Adara, the entity of hope, was the most peaceful of the emotional entities, bonding with hosts without corrupting them.",
+      "source": "https://en.wikipedia.org/wiki/Adara%2C_the_entity_of_hope"
+    },
+    {
+      "text": "The entity Proselyte, representing compassion, was the most enigmatic entity, rarely appearing and little understood.",
+      "source": "https://en.wikipedia.org/wiki/entity_Proselyte%2C_representing_compassion"
+    },
+    {
+      "text": "Green Lantern's Hal Jordan was ranked #7 on IGN's list of the Top 100 Comic Book Heroes of All Time.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern%27s_Hal_Jordan"
+    },
+    {
+      "text": "Green Lantern has appeared on countless comic book covers that have become iconic in the medium, from the first appearance to Blackest Night.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern"
+    },
+    {
+      "text": "The Green Lantern ring has been ranked among the greatest weapons in comic book history by multiple publications.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern_ring"
+    },
+    {
+      "text": "DC Comics has published multiple Green Lantern titles simultaneously, including Green Lantern, Green Lantern Corps, and Green Lanterns.",
+      "source": "https://en.wikipedia.org/wiki/DC_Comics"
+    },
+    {
+      "text": "The Green Lanterns title, featuring Jessica Cruz and Simon Baz, was one of the most diverse team books in DC's Rebirth era.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lanterns_title%2C_featuring_Jessica_Cruz_and_Simon_Baz"
+    },
+    {
+      "text": "Hal Jordan and the Green Lantern Corps was a Rebirth-era title that reunited the classic Lanterns in space-based adventures.",
+      "source": "https://en.wikipedia.org/wiki/Hal_Jordan_and_the_Green_Lantern_Corps"
+    },
+    {
+      "text": "Green Lantern Earth One by Corinna Bechko and Gabriel Hardman reimagined Hal Jordan as an astronaut discovering an alien conspiracy.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern_Earth_One"
+    },
+    {
+      "text": "In Injustice 2's comic series, Hal Jordan earned redemption by returning to the Green Lantern Corps after his time as a Yellow Lantern.",
+      "source": "https://en.wikipedia.org/wiki/In_Injustice_2%27s_comic_series%2C_Hal_Jordan"
+    },
+    {
+      "text": "The concept of willpower overcoming fear is the central metaphor of the Green Lantern franchise, resonating with readers across decades.",
+      "source": "https://en.wikipedia.org/wiki/concept_of_willpower_overcoming_fear"
+    },
+    {
+      "text": "Green Lantern's popularity surged dramatically during Geoff Johns' run, with the character becoming one of DC's top-tier properties.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern%27s_popularity_surged_dramatically_during_Geoff_Johns"
+    },
+    {
+      "text": "The Blackest Night event required readers to collect all seven Lantern Corps rings, which DC released as promotional items with variant covers.",
+      "source": "https://en.wikipedia.org/wiki/Blackest_Night"
+    },
+    {
+      "text": "DC's promotional ring giveaways during Blackest Night became some of the most successful comic book promotional items in history.",
+      "source": "https://en.wikipedia.org/wiki/DC%27s_promotional_ring_giveaways_during_Blackest_Night"
+    },
+    {
+      "text": "The Green Lantern animated series was produced by Bruce Timm and featured a unique CGI art style different from traditional DC animation.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern_animated_series"
+    },
+    {
+      "text": "Despite strong reviews and a dedicated fanbase, Green Lantern: The Animated Series was cancelled after one season due to poor toy sales.",
+      "source": "https://en.wikipedia.org/wiki/Despite_strong_reviews_and_a_dedicated_fanbase%2C_Green_Lantern:_The_Animated_Series"
+    },
+    {
+      "text": "The animated series introduced the concept of the Blue Lantern Saint Walker to animation, bringing more of the Emotional Spectrum to screen.",
+      "source": "https://en.wikipedia.org/wiki/animated_series"
+    },
+    {
+      "text": "Green Lantern has been featured in nearly every major DC Comics crossover event, from Crisis on Infinite Earths to Dark Nights: Metal.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern"
+    },
+    {
+      "text": "In Dark Nights: Metal, a dark multiverse version of Batman wielded a Green Lantern ring, becoming the Dawnbreaker.",
+      "source": "https://en.wikipedia.org/wiki/In_Dark_Nights:_Metal"
+    },
+    {
+      "text": "The Dawnbreaker was a Bruce Wayne who received a Green Lantern ring as a child and used it to murder Joe Chill, corrupting the ring with darkness.",
+      "source": "https://en.wikipedia.org/wiki/Dawnbreaker"
+    },
+    {
+      "text": "In the DC Bombshells alternate universe, multiple women served as Green Lanterns, reimagining the Corps through a World War II lens.",
+      "source": "https://en.wikipedia.org/wiki/In_the_DC_Bombshells"
+    },
+    {
+      "text": "Hal Jordan has died and been resurrected multiple times, rivaling even Superman in the number of comic book deaths and returns.",
+      "source": "https://en.wikipedia.org/wiki/Hal_Jordan"
+    },
+    {
+      "text": "The Green Lantern franchise has explored what happens when rings choose unworthy bearers, showing that the rings are not infallible.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern_franchise"
+    },
+    {
+      "text": "Power rings can be overcharged, pushing their energy beyond normal limits, though this risks destroying the ring.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern"
+    },
+    {
+      "text": "The Omega Men, a team of alien freedom fighters, have frequently intersected with Green Lantern stories in DC Comics.",
+      "source": "https://en.wikipedia.org/wiki/Omega_Men%2C_a_team_of_alien_freedom_fighters"
+    },
+    {
+      "text": "Tom King's acclaimed Omega Men series featured Kyle Rayner as a central character, exploring the morality of revolution and terrorism.",
+      "source": "https://en.wikipedia.org/wiki/Tom_King%27s"
+    },
+    {
+      "text": "The Green Lantern franchise has inspired real-world applications, with NASA scientists citing the concept of willpower-driven technology in discussions about space exploration.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern_franchise"
+    },
+    {
+      "text": "The idea of an interstellar police force predated Green Lantern in science fiction, but the franchise popularized the concept for mainstream audiences.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern_in"
+    },
+    {
+      "text": "Green Lantern: Emerald Twilight was one of the most controversial stories in DC history, with fans sharply divided over Hal Jordan's fall.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern:_Emerald_Twilight"
+    },
+    {
+      "text": "Fan campaigns to bring back Hal Jordan as a hero lasted nearly a decade before Geoff Johns' Green Lantern: Rebirth finally answered their call.",
+      "source": "https://en.wikipedia.org/wiki/Hal_Jordan"
+    },
+    {
+      "text": "The 'HEAT' fan group (Hal's Emerald Advancement Team) actively campaigned for Hal Jordan's return throughout the 1990s.",
+      "source": "https://en.wikipedia.org/wiki/Hal%27s_Emerald_Advancement_Team"
+    },
+    {
+      "text": "Kyle Rayner's creation during Emerald Twilight introduced a new generation to Green Lantern, creating a passionate fanbase for the character.",
+      "source": "https://en.wikipedia.org/wiki/Kyle_Rayner%27s_creation_during_Emerald_Twilight"
+    },
+    {
+      "text": "The tension between Hal Jordan fans and Kyle Rayner fans was one of the most intense fandom debates in 1990s comics.",
+      "source": "https://en.wikipedia.org/wiki/tension_between_Hal_Jordan_fans_and_Kyle_Rayner_fans"
+    },
+    {
+      "text": "Geoff Johns resolved the Hal vs. Kyle debate by making both characters essential to the Green Lantern mythology.",
+      "source": "https://en.wikipedia.org/wiki/Geoff_Johns"
+    },
+    {
+      "text": "John Stewart's significance as a Black superhero cannot be overstated — he proved that a hero's skin color is irrelevant to their courage and worthiness.",
+      "source": "https://en.wikipedia.org/wiki/John_Stewart%27s"
+    },
+    {
+      "text": "John Stewart was initially written as an 'angry Black man' stereotype in the early 1970s but was later developed into a nuanced, complex character.",
+      "source": "https://en.wikipedia.org/wiki/John_Stewart"
+    },
+    {
+      "text": "The military background given to John Stewart in later iterations added depth and discipline to the character.",
+      "source": "https://en.wikipedia.org/wiki/John_Stewart_in"
+    },
+    {
+      "text": "John Stewart's popularity led to calls for him to play a major role in DC's film universe, with fans frequently suggesting Idris Elba or other prominent actors.",
+      "source": "https://en.wikipedia.org/wiki/John_Stewart%27s"
+    },
+    {
+      "text": "Green Lantern: Beware My Power (2022) was an animated film centering on John Stewart's origin story.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern:_Beware_My_Power"
+    },
+    {
+      "text": "In the animated film, Aldis Hodge voiced John Stewart, providing a fresh take on the character's military background and reluctant heroism.",
+      "source": "https://en.wikipedia.org/wiki/In_the"
+    },
+    {
+      "text": "Jessica Cruz's creation represented a significant step forward for Latina representation in superhero comics.",
+      "source": "https://en.wikipedia.org/wiki/Jessica_Cruz%27s"
+    },
+    {
+      "text": "Simon Baz's background as a Lebanese-American who was wrongfully suspected of terrorism added real-world social commentary to the franchise.",
+      "source": "https://en.wikipedia.org/wiki/Simon_Baz%27s_background_as_a_Lebanese-American_who"
+    },
+    {
+      "text": "\"I'm not a terrorist. I'm a Green Lantern.\" — Simon Baz's declaration reflects the real-world experiences of Arab Americans facing prejudice.",
+      "source": "https://en.wikipedia.org/wiki/I%27m_not_a_terrorist._I%27m_a_Green_Lantern"
+    },
+    {
+      "text": "The diversity of Earth's Green Lanterns — Alan Scott, Hal Jordan, Guy Gardner, John Stewart, Kyle Rayner, Jessica Cruz, Simon Baz — reflects the franchise's commitment to evolving with its audience.",
+      "source": "https://en.wikipedia.org/wiki/Earth%27s_Green_Lanterns"
+    },
+    {
+      "text": "Green Lantern's weakness to yellow was eliminated in modern comics, with experienced Lanterns learning to overcome the impurity.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern%27s_weakness_to_yellow"
+    },
+    {
+      "text": "The Green Lantern Corps has faced threats from within its own ranks multiple times, including Sinestro, Hal Jordan as Parallax, and the rogue Guardians.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern_Corps"
+    },
+    {
+      "text": "The Alpha Lantern program, which turned volunteers into cyborg police officers, was criticized as a sign of the Guardians' increasingly authoritarian tendencies.",
+      "source": "https://en.wikipedia.org/wiki/Alpha_Lantern_program%2C_which_turned_volunteers_into_cyborg_police_officers"
+    },
+    {
+      "text": "The Green Lantern franchise has generated debates about authoritarianism, with the Guardians' decisions often paralleling real-world discussions about policing and control.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern_franchise"
+    },
+    {
+      "text": "Hal Jordan's rebellious streak against the Guardians' authority is a defining character trait, often putting him at odds with the very organization he serves.",
+      "source": "https://en.wikipedia.org/wiki/Hal_Jordan%27s_rebellious_streak_against_the_Guardians%27_authority"
+    },
+    {
+      "text": "\"I didn't sign up to follow orders. I signed up to do what's right.\" — Hal Jordan's defiance of the Guardians represents the individual versus institutional authority.",
+      "source": "https://en.wikipedia.org/wiki/I_didn%27t_sign_up_to_follow_orders._I_signed_up_to_do_what%27s_right"
+    },
+    {
+      "text": "The Green Lantern franchise has been adapted into stage productions and been referenced in academic courses on popular culture.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern_franchise"
+    },
+    {
+      "text": "Green Lantern's power ring has appeared in numerous 'most powerful weapons in fiction' lists across entertainment media.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern%27s_power_ring"
+    },
+    {
+      "text": "The concept of willpower as a superpower was ahead of its time, predating modern understanding of growth mindset and psychological resilience.",
+      "source": "https://en.wikipedia.org/wiki/concept_of_willpower_as_a_superpower"
+    },
+    {
+      "text": "Green Lantern has appeared in every major DC animated universe, from Super Friends to Justice League Unlimited to Young Justice.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern"
+    },
+    {
+      "text": "In Young Justice, multiple Green Lanterns appear, including Guy Gardner, Hal Jordan, and John Stewart as mentors to the young heroes.",
+      "source": "https://en.wikipedia.org/wiki/In_Young_Justice"
+    },
+    {
+      "text": "The Green Lantern action figure line has been continuously produced since the 1970s, making it one of the longest-running toy lines in superhero merchandise.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern_action_figure_line"
+    },
+    {
+      "text": "DC Direct released highly detailed Green Lantern Corps figures featuring obscure alien Lanterns, becoming collector favorites.",
+      "source": "https://en.wikipedia.org/wiki/DC_Direct"
+    },
+    {
+      "text": "Green Lantern ring replicas that actually light up became popular collectibles, particularly during the Blackest Night promotional campaign.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern_ring_replicas_that_actually_light_up"
+    },
+    {
+      "text": "The Green Lantern franchise demonstrates how a single concept — a magic ring — can generate decades of storytelling across every medium of entertainment.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern"
+    },
+    {
+      "text": "Hal Jordan once created a construct of an entire planet to replace one that was destroyed, demonstrating the upper limits of a power ring's capability.",
+      "source": "https://en.wikipedia.org/wiki/Hal_Jordan_once"
+    },
+    {
+      "text": "The Central Power Battery on Oa has been destroyed and rebuilt multiple times, serving as a symbol of the Corps' resilience.",
+      "source": "https://en.wikipedia.org/wiki/Central_Power_Battery_on_Oa"
+    },
+    {
+      "text": "In the New 52 era, the Guardians attempted to replace the Green Lantern Corps with the emotionless Third Army before being stopped by the Lanterns.",
+      "source": "https://en.wikipedia.org/wiki/In_the_New_52"
+    },
+    {
+      "text": "The final battle against the Third Army united all surviving Lantern Corps against the Guardians' own creation.",
+      "source": "https://en.wikipedia.org/wiki/Third_Army"
+    },
+    {
+      "text": "Hal Jordan was briefly dead in the early 2000s, serving as the host of the Spectre between his death and resurrection.",
+      "source": "https://en.wikipedia.org/wiki/Hal_Jordan"
+    },
+    {
+      "text": "As the Spectre, Hal Jordan attempted to use the Spirit of Vengeance for redemption rather than punishment, redefining the character.",
+      "source": "https://en.wikipedia.org/wiki/As_the_Spectre"
+    },
+    {
+      "text": "The green light of willpower is considered unique on the Emotional Spectrum because willpower is the only emotion that requires conscious choice to sustain.",
+      "source": "https://en.wikipedia.org/wiki/green_light_of_willpower"
+    },
+    {
+      "text": "The Ultraviolet Lantern Corps, wielding the hidden ultraviolet light of self-destructive shame, was introduced by Scott Snyder in Justice League (2018).",
+      "source": "https://en.wikipedia.org/wiki/Justice_League"
+    },
+    {
+      "text": "The Ultraviolet light revealed a hidden part of the Emotional Spectrum that the Guardians had suppressed, adding new layers to the mythology.",
+      "source": "https://en.wikipedia.org/wiki/Ultraviolet_light_revealed_a_hidden_part_of_the_Emotional_Spectrum_that_the_Guardians"
+    },
+    {
+      "text": "Sinestro was briefly a Green Lantern again during the New 52, showing that his relationship with the Corps is complex and ever-changing.",
+      "source": "https://en.wikipedia.org/wiki/Sinestro"
+    },
+    {
+      "text": "Sinestro genuinely believes he is doing what is best for the universe, making him one of the most compelling anti-villains in comics.",
+      "source": "https://en.wikipedia.org/wiki/Sinestro_genuinely_believes_he"
+    },
+    {
+      "text": "The planet Korugar was ironically safer under Sinestro's tyrannical Green Lantern rule, raising uncomfortable questions about order versus freedom.",
+      "source": "https://en.wikipedia.org/wiki/planet_Korugar"
+    },
+    {
+      "text": "Sinestro's ring of fear chose him because he can instill great terror — but he was also once chosen by a ring of will, proving he possesses both qualities.",
+      "source": "https://en.wikipedia.org/wiki/Sinestro%27s_ring_of_fear_chose_him_because_he_can_instill_great_terror_%E2%80%94_but_he"
+    },
+    {
+      "text": "\"I was the greatest Green Lantern. I will become the greatest of all Lanterns.\" — Sinestro's ambition drives his transformation from hero to complex antagonist.",
+      "source": "https://en.wikipedia.org/wiki/I_was_the_greatest_Green_Lantern._I_will_become_the_greatest_of_all_Lanterns"
+    },
+    {
+      "text": "Abin Sur's prophecy-driven paranoia about the Blackest Night led him to abandon his ring and use a spaceship, which ultimately caused his death.",
+      "source": "https://en.wikipedia.org/wiki/Abin_Sur%27s"
+    },
+    {
+      "text": "Abin Sur's ring chose Hal Jordan because Jordan was both nearby and capable of overcoming great fear — the ring's primary selection criterion.",
+      "source": "https://en.wikipedia.org/wiki/Abin_Sur%27s_ring_chose_Hal_Jordan_because_Jordan"
+    },
+    {
+      "text": "The Green Lantern franchise holds the record for one of the longest continuously published superhero series in comic book history.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern"
+    },
+    {
+      "text": "Hal Jordan has been played or voiced by numerous actors including Ryan Reynolds, Nathan Fillion, Josh Keaton, and Loren Lester.",
+      "source": "https://en.wikipedia.org/wiki/Hal_Jordan"
+    },
+    {
+      "text": "John Stewart has been voiced by Phil LaMarr, Kevin Michael Richardson, and Aldis Hodge across different animated productions.",
+      "source": "https://en.wikipedia.org/wiki/John_Stewart"
+    },
+    {
+      "text": "The Green Lantern oath has been translated into dozens of languages, with each translation maintaining the rhythm and spirit of the original.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern_oath"
+    },
+    {
+      "text": "Kilowog's catchphrase 'Poozer' has become iconic in DC fandom, used to describe anyone who is inexperienced or foolish.",
+      "source": "https://en.wikipedia.org/wiki/Kilowog%27s_catchphrase_%27Poozer"
+    },
+    {
+      "text": "Stel is a robotic Green Lantern from the planet Grenda, proving that even artificial intelligences can possess sufficient willpower to wield a ring.",
+      "source": "https://en.wikipedia.org/wiki/Stel"
+    },
+    {
+      "text": "Bzzd was a tiny insect-like Green Lantern who proved that size has no bearing on willpower or heroism.",
+      "source": "https://en.wikipedia.org/wiki/Bzzd"
+    },
+    {
+      "text": "Bzzd sacrificed himself fighting Mongul, delivering a fatal sting despite being minuscule compared to his opponent.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern"
+    },
+    {
+      "text": "The concept of a Green Lantern battery shaped like an actual lantern connects the franchise visually to its Golden Age origins with Alan Scott.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern"
+    },
+    {
+      "text": "Green Lantern merchandise includes everything from T-shirts and costumes to home decor and wedding rings inspired by the power ring design.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern_merchandise"
+    },
+    {
+      "text": "The franchise's emphasis on willpower and overcoming fear has made Green Lantern a popular symbol in motivational and self-help contexts.",
+      "source": "https://en.wikipedia.org/wiki/franchise%27s_emphasis_on_willpower_and_overcoming_fear"
+    },
+    {
+      "text": "Green Lantern Day is celebrated by fans on the anniversary of Hal Jordan's first appearance in Showcase #4.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern_Day"
+    },
+    {
+      "text": "The Green Lantern franchise's mythology of the Emotional Spectrum has been praised as one of the most creative world-building achievements in superhero comics.",
+      "source": "https://en.wikipedia.org/wiki/Green_Lantern_franchise%27s_mythology_of_the_Emotional_Spectrum"
+    },
+    {
+      "text": "Each Green Lantern who has held the title brings a different human quality to the ring: courage (Hal), discipline (John), defiance (Guy), creativity (Kyle), resilience (Jessica), and faith (Simon).",
+      "source": "https://en.wikipedia.org/wiki/Each_Green_Lantern_who"
+    }
+  ]
+}

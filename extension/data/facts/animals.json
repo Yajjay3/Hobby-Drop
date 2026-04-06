@@ -1,0 +1,1698 @@
+{
+  "hobby": "Animals & Wildlife",
+  "facts": [
+    {
+      "text": "A cheetah can accelerate from 0 to 60 mph in just three seconds, making it the fastest land animal on Earth.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "Elephants are the only animals that cannot jump, but they can swim for up to six hours without touching the bottom.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Elephants"
+    },
+    {
+      "text": "World Wildlife Day is celebrated annually to raise awareness of the world's wild animals and plants.",
+      "month": 3,
+      "day": 3,
+      "source": "https://en.wikipedia.org/wiki/World_Wildlife_Day"
+    },
+    {
+      "text": "A group of flamingos is called a 'flamboyance,' while a group of owls is called a 'parliament.'",
+      "source": "https://en.wikipedia.org/wiki/A_group_of_flamingos"
+    },
+    {
+      "text": "Polar bears have black skin underneath their white fur, which helps them absorb heat from the sun.",
+      "source": "https://en.wikipedia.org/wiki/Polar_bears"
+    },
+    {
+      "text": "Gorillas share about 98.3% of their DNA with humans and can learn sign language to communicate.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/DNA_with"
+    },
+    {
+      "text": "The blue whale's heart is so large that a small child could crawl through its arteries.",
+      "source": "https://en.wikipedia.org/wiki/blue_whale%27s_heart"
+    },
+    {
+      "text": "Wolves can travel up to 30 miles in a single day while hunting, covering vast wilderness territories.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "The platypus is one of only five species of egg-laying mammals, known as monotremes.",
+      "source": "https://en.wikipedia.org/wiki/platypus"
+    },
+    {
+      "text": "Komodo dragons have venomous bites that contain toxins causing rapid blood loss and shock in prey.",
+      "source": "https://en.wikipedia.org/wiki/Komodo_dragons"
+    },
+    {
+      "text": "The San Diego Zoo was one of the first zoos to use open-air, cageless exhibits to house animals.",
+      "source": "https://en.wikipedia.org/wiki/San_Diego_Zoo"
+    },
+    {
+      "text": "An octopus has three hearts, blue blood, and can change color in milliseconds to camouflage itself.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/An_octopus"
+    },
+    {
+      "text": "The Arctic tern has the longest migration of any animal, traveling roughly 44,000 miles annually.",
+      "source": "https://en.wikipedia.org/wiki/Arctic_tern"
+    },
+    {
+      "text": "Hippos secrete a red oily substance that acts as a natural sunscreen and antibiotic for their skin.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "Endangered Species Day highlights the importance of protecting threatened and endangered wildlife.",
+      "month": 5,
+      "day": 15,
+      "source": "https://en.wikipedia.org/wiki/Endangered_Species_Day"
+    },
+    {
+      "text": "Crows can recognize individual human faces and hold grudges against people who have wronged them.",
+      "source": "https://en.wikipedia.org/wiki/Crows_can_recognize_individual_human_faces_and_hold_grudges_against_people_who"
+    },
+    {
+      "text": "A lion's roar can be heard from up to five miles away, making it the loudest of any big cat.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "Giant pandas spend about 12 hours a day eating bamboo to consume enough calories to survive.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "Dolphins sleep with one eye open — literally, as half their brain stays awake to watch for predators.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "The Tasmanian devil has the strongest bite per unit body mass of any living mammal.",
+      "source": "https://en.wikipedia.org/wiki/Tasmanian_devil"
+    },
+    {
+      "text": "Chimpanzees use tools like sticks to fish termites out of mounds, showing advanced problem-solving skills.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "The African elephant is the largest living land animal, with males weighing up to 14,000 pounds.",
+      "source": "https://en.wikipedia.org/wiki/African_elephant"
+    },
+    {
+      "text": "Snow leopards can leap up to 50 feet in a single bound when hunting in mountainous terrain.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "Sea otters hold hands while sleeping to keep from drifting apart in the water.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "The great wildebeest migration in East Africa involves over 1.5 million animals crossing the Serengeti.",
+      "source": "https://en.wikipedia.org/wiki/East_Africa"
+    },
+    {
+      "text": "Kangaroos cannot walk backward, which is why the kangaroo appears on the Australian coat of arms.",
+      "source": "https://en.wikipedia.org/wiki/Kangaroos_cannot_walk_backward%2C_which"
+    },
+    {
+      "text": "World Oceans Day promotes ocean conservation and the protection of marine wildlife globally.",
+      "month": 6,
+      "day": 8,
+      "source": "https://en.wikipedia.org/wiki/World_Oceans_Day"
+    },
+    {
+      "text": "A grizzly bear's bite is strong enough to crush a bowling ball with its jaw.",
+      "source": "https://en.wikipedia.org/wiki/A_grizzly_bear%27s_bite"
+    },
+    {
+      "text": "Orangutans are the most solitary of the great apes, with males living alone most of their lives.",
+      "source": "https://en.wikipedia.org/wiki/Orangutans"
+    },
+    {
+      "text": "The king cobra is the longest venomous snake in the world, reaching lengths of up to 18 feet.",
+      "source": "https://en.wikipedia.org/wiki/king_cobra"
+    },
+    {
+      "text": "Koalas sleep up to 22 hours per day because their eucalyptus diet provides very little energy.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "African wild dogs have a hunting success rate of about 80%, far higher than lions at around 25%.",
+      "source": "https://en.wikipedia.org/wiki/African_wild_dogs"
+    },
+    {
+      "text": "The Bronx Zoo in New York opened in 1899 and is one of the largest urban zoos in the United States.",
+      "source": "https://en.wikipedia.org/wiki/Bronx_Zoo_in_New_York"
+    },
+    {
+      "text": "Humpback whales sing complex songs that can last for hours and be heard hundreds of miles away.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "A giraffe's tongue is about 18 to 20 inches long and is dark purple to protect it from sunburn.",
+      "source": "https://en.wikipedia.org/wiki/A_giraffe%27s_tongue"
+    },
+    {
+      "text": "Coyotes have adapted so well to urban environments that they now live in every major U.S. city.",
+      "source": "https://en.wikipedia.org/wiki/Coyotes"
+    },
+    {
+      "text": "The WWF (World Wildlife Fund) was founded on September 11, 1961, to protect endangered species.",
+      "month": 9,
+      "day": 11,
+      "source": "https://en.wikipedia.org/wiki/WWF_(World_Wildlife_Fund)"
+    },
+    {
+      "text": "Elephants can recognize themselves in mirrors, a sign of self-awareness shared by very few species.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "The Galápagos giant tortoise can live for over 175 years, making it one of the longest-lived vertebrates.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "Wombat droppings are cube-shaped, which prevents them from rolling away and marks their territory.",
+      "source": "https://en.wikipedia.org/wiki/Wombat_droppings"
+    },
+    {
+      "text": "A jaguar's bite is the strongest of all big cats, powerful enough to crack a turtle's shell.",
+      "source": "https://en.wikipedia.org/wiki/A_jaguar%27s_bite"
+    },
+    {
+      "text": "Lemurs are found only on the island of Madagascar and some nearby islands off the coast of Africa.",
+      "source": "https://en.wikipedia.org/wiki/Lemurs"
+    },
+    {
+      "text": "The IUCN Red List currently classifies over 44,000 species as threatened with extinction.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/IUCN_Red_List"
+    },
+    {
+      "text": "Manatees, sometimes called sea cows, are gentle herbivores that can eat up to 10% of their body weight daily.",
+      "source": "https://en.wikipedia.org/wiki/Manatees%2C_sometimes_called_sea_cows"
+    },
+    {
+      "text": "Black bears are excellent climbers and can ascend trees at speeds faster than most humans can run.",
+      "source": "https://en.wikipedia.org/wiki/Black_bears"
+    },
+    {
+      "text": "World Animal Day is dedicated to improving the welfare and standards for animals around the world.",
+      "month": 10,
+      "day": 4,
+      "source": "https://en.wikipedia.org/wiki/World_Animal_Day"
+    },
+    {
+      "text": "The peregrine falcon is the fastest animal on Earth, reaching speeds over 240 mph during a hunting stoop.",
+      "source": "https://en.wikipedia.org/wiki/peregrine_falcon"
+    },
+    {
+      "text": "Bonobos are known as the most peaceful of the great apes and resolve conflicts through social bonding.",
+      "source": "https://en.wikipedia.org/wiki/Bonobos"
+    },
+    {
+      "text": "Zebras have unique stripe patterns, like human fingerprints — no two zebras are exactly alike.",
+      "source": "https://en.wikipedia.org/wiki/Zebras"
+    },
+    {
+      "text": "The inland taipan of Australia has the most toxic venom of any land snake in the world.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/inland_taipan_of_Australia"
+    },
+    {
+      "text": "Orcas, or killer whales, are actually the largest members of the dolphin family, not true whales.",
+      "source": "https://en.wikipedia.org/wiki/Orcas%2C_or_killer_whales"
+    },
+    {
+      "text": "Red foxes are the most widely distributed wild carnivore, found across the entire Northern Hemisphere.",
+      "source": "https://en.wikipedia.org/wiki/Red_foxes"
+    },
+    {
+      "text": "Crocodiles have the strongest bite ever measured in a living animal, exceeding 3,700 pounds of force.",
+      "source": "https://en.wikipedia.org/wiki/Crocodiles"
+    },
+    {
+      "text": "The London Zoo, opened in 1828, was originally intended for scientific study rather than public entertainment.",
+      "source": "https://en.wikipedia.org/wiki/London_Zoo"
+    },
+    {
+      "text": "Tigers are the largest wild cat species, with Siberian tigers weighing up to 660 pounds.",
+      "source": "https://en.wikipedia.org/wiki/Tigers"
+    },
+    {
+      "text": "World Rhino Day raises awareness about all five rhino species and the threats they face.",
+      "month": 9,
+      "day": 22,
+      "source": "https://en.wikipedia.org/wiki/World_Rhino_Day"
+    },
+    {
+      "text": "Honeybees can recognize human faces and remember them for at least two days.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "Sun bears have the longest tongues relative to body size of any bear, reaching up to 10 inches.",
+      "source": "https://en.wikipedia.org/wiki/Sun_bears"
+    },
+    {
+      "text": "Elephants mourn their dead and have been observed returning to the bones of deceased family members.",
+      "source": "https://en.wikipedia.org/wiki/Elephants_mourn_their_dead_and"
+    },
+    {
+      "text": "The spectacled bear is the only bear species native to South America.",
+      "source": "https://en.wikipedia.org/wiki/spectacled_bear"
+    },
+    {
+      "text": "Cheetahs cannot roar like other big cats; instead, they chirp, purr, and make high-pitched yelps.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "An anaconda can swallow prey much larger than its head because its jaw bones are not fused together.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/An_anaconda_can_swallow_prey_much_larger_than_its_head_because_its_jaw_bones"
+    },
+    {
+      "text": "Wolf packs are actually family units, typically led by a breeding pair rather than an 'alpha male.'",
+      "source": "https://en.wikipedia.org/wiki/Wolf_packs"
+    },
+    {
+      "text": "The blue whale is the largest animal ever known to have existed, weighing up to 200 tons.",
+      "source": "https://en.wikipedia.org/wiki/blue_whale"
+    },
+    {
+      "text": "National Panda Day celebrates giant pandas and the conservation efforts to protect them.",
+      "month": 3,
+      "day": 16,
+      "source": "https://en.wikipedia.org/wiki/National_Panda_Day"
+    },
+    {
+      "text": "Alligators have been around for over 37 million years, surviving relatively unchanged since the age of dinosaurs.",
+      "source": "https://en.wikipedia.org/wiki/Alligators"
+    },
+    {
+      "text": "The rhinoceros beetle can lift 850 times its own body weight, making it one of the strongest animals.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "Dolphins have names for each other and will respond when called by their specific whistle.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Dolphins"
+    },
+    {
+      "text": "The chameleon can move its eyes independently, looking in two different directions simultaneously.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "Mountain gorillas live in groups called troops, typically led by a dominant silverback male.",
+      "source": "https://en.wikipedia.org/wiki/Mountain_gorillas_live_in_groups"
+    },
+    {
+      "text": "Kangaroo rats can survive their entire lives without ever drinking water, getting moisture solely from seeds.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "The axolotl can regenerate entire limbs, its heart, and even parts of its brain.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "World Elephant Day is observed to bring attention to the plight of African and Asian elephants.",
+      "month": 8,
+      "day": 12,
+      "source": "https://en.wikipedia.org/wiki/World_Elephant_Day"
+    },
+    {
+      "text": "Leopards are incredibly strong and can carry prey twice their own weight up into a tree.",
+      "source": "https://en.wikipedia.org/wiki/Leopards"
+    },
+    {
+      "text": "A group of rhinos is called a 'crash,' while a group of hippos is called a 'bloat.'",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/A_group_of_rhinos"
+    },
+    {
+      "text": "The pistol shrimp can snap its claw so fast it creates a bubble that reaches temperatures of the sun's surface.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "African elephants have the longest gestation period of any land animal at approximately 22 months.",
+      "source": "https://en.wikipedia.org/wiki/African_elephants"
+    },
+    {
+      "text": "The San Diego Zoo Safari Park spans 1,800 acres and houses over 3,500 animals from 400 species.",
+      "source": "https://en.wikipedia.org/wiki/San_Diego_Zoo_Safari_Park"
+    },
+    {
+      "text": "Cougars hold the Guinness record for the animal with the most names — over 40 including puma, mountain lion, and catamount.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "Whale sharks are the largest fish in the ocean, yet they feed almost exclusively on tiny plankton.",
+      "source": "https://en.wikipedia.org/wiki/Whale_sharks"
+    },
+    {
+      "text": "The mimic octopus can impersonate over 15 different species, including lionfish, flatfish, and sea snakes.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "Pangolins are the most trafficked mammals in the world despite being protected by international law.",
+      "source": "https://en.wikipedia.org/wiki/Pangolins"
+    },
+    {
+      "text": "International Tiger Day is observed to raise awareness about tiger conservation worldwide.",
+      "month": 7,
+      "day": 29,
+      "source": "https://en.wikipedia.org/wiki/International_Tiger_Day"
+    },
+    {
+      "text": "Sperm whales have the largest brain of any animal, weighing about 17 pounds.",
+      "source": "https://en.wikipedia.org/wiki/Sperm_whales"
+    },
+    {
+      "text": "Honey badgers are known for their fearlessness and have been observed fighting off lions and venomous snakes.",
+      "source": "https://en.wikipedia.org/wiki/Honey_badgers"
+    },
+    {
+      "text": "The harpy eagle has talons as large as a grizzly bear's claws and can exert over 110 pounds of pressure.",
+      "source": "https://en.wikipedia.org/wiki/harpy_eagle"
+    },
+    {
+      "text": "Elephants communicate using infrasonic sounds below the range of human hearing over distances of several miles.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "The Philippine eagle is one of the rarest and most powerful birds of prey in the world.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Philippine_eagle"
+    },
+    {
+      "text": "Chimpanzees have been observed waging wars between rival groups lasting years.",
+      "source": "https://en.wikipedia.org/wiki/Chimpanzees"
+    },
+    {
+      "text": "Sea turtles return to the exact beach where they were born to lay their own eggs.",
+      "source": "https://en.wikipedia.org/wiki/Sea_turtles_return_to_the_exact_beach_where_they"
+    },
+    {
+      "text": "The mantis shrimp can punch with the force of a .22 caliber bullet from a standing start.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "World Turtle Day encourages people to learn about and protect turtles and tortoises.",
+      "month": 5,
+      "day": 23,
+      "source": "https://en.wikipedia.org/wiki/World_Turtle_Day"
+    },
+    {
+      "text": "Polar bears are classified as marine mammals because they spend most of their lives on Arctic sea ice.",
+      "source": "https://en.wikipedia.org/wiki/Polar_bears"
+    },
+    {
+      "text": "A group of porcupines is called a 'prickle,' while a group of ravens is called an 'unkindness.'",
+      "source": "https://en.wikipedia.org/wiki/A_group_of_porcupines"
+    },
+    {
+      "text": "The golden poison frog has enough toxin to kill 10 adult humans, making it the most poisonous vertebrate.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/golden_poison_frog"
+    },
+    {
+      "text": "Lowland gorillas use medicinal plants to treat ailments, a behavior observed over decades of field research.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "The Tasmanian devil got its name from early European settlers who were frightened by its loud screeches.",
+      "source": "https://en.wikipedia.org/wiki/Tasmanian_devil_got_its_name_from_early_European_settlers_who"
+    },
+    {
+      "text": "Narwhals have a single long tusk that is actually a sensory organ containing millions of nerve endings.",
+      "source": "https://en.wikipedia.org/wiki/Narwhals"
+    },
+    {
+      "text": "The dung beetle can move balls of dung 1,141 times its own body weight.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "World Lion Day is dedicated to raising awareness about the challenges facing lions in the wild.",
+      "month": 8,
+      "day": 10,
+      "source": "https://en.wikipedia.org/wiki/World_Lion_Day"
+    },
+    {
+      "text": "Sloths are surprisingly strong swimmers and can hold their breath for up to 40 minutes underwater.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Sloths"
+    },
+    {
+      "text": "The African savanna elephant's ears are shaped like the continent of Africa.",
+      "source": "https://en.wikipedia.org/wiki/African_savanna_elephant%27s_ears"
+    },
+    {
+      "text": "Wolves mate for life and both parents play active roles in raising their pups.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "The electric eel can generate up to 860 volts of electricity, enough to stun a horse.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "Koalas have fingerprints so similar to human fingerprints they can confuse crime scene investigators.",
+      "source": "https://en.wikipedia.org/wiki/Koalas"
+    },
+    {
+      "text": "The komodo dragon can detect carrion from up to 6 miles away using its forked tongue.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "Humpback whales cooperate to create bubble nets that trap schools of fish for group feeding.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "The quokka, native to Western Australia, is often called the happiest animal on Earth because of its smile.",
+      "source": "https://en.wikipedia.org/wiki/quokka%2C_native_to_Western_Australia"
+    },
+    {
+      "text": "World Gorilla Day celebrates gorillas and promotes their conservation in Central Africa.",
+      "month": 9,
+      "day": 24,
+      "source": "https://en.wikipedia.org/wiki/World_Gorilla_Day"
+    },
+    {
+      "text": "A saltwater crocodile can go for over a year without eating by slowing its metabolism drastically.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "Giraffes only need about 30 minutes of sleep per day, taken in short naps of a few minutes at a time.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "The cassowary is considered the most dangerous bird in the world due to its powerful kick and dagger-like claw.",
+      "source": "https://en.wikipedia.org/wiki/cassowary"
+    },
+    {
+      "text": "Orangutans build a new sleeping nest in the trees every single night from branches and foliage.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "Gray wolves were successfully reintroduced to Yellowstone National Park in 1995 after a 70-year absence.",
+      "source": "https://en.wikipedia.org/wiki/Gray_wolves"
+    },
+    {
+      "text": "The star-nosed mole can identify and eat food in as little as 120 milliseconds, making it the fastest-eating mammal.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "Bottlenose dolphins have been observed using sponges on their snouts to protect themselves while foraging on the seafloor.",
+      "source": "https://en.wikipedia.org/wiki/Bottlenose_dolphins"
+    },
+    {
+      "text": "The bald eagle was removed from the U.S. Endangered Species List in 2007 after a remarkable recovery.",
+      "source": "https://en.wikipedia.org/wiki/bald_eagle"
+    },
+    {
+      "text": "World Whale Day is celebrated to honor humpback whales that migrate through Hawaiian waters each winter.",
+      "month": 2,
+      "day": 15,
+      "source": "https://en.wikipedia.org/wiki/World_Whale_Day"
+    },
+    {
+      "text": "A flamingo can only eat with its head upside down due to the unique structure of its beak.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "The snow leopard is so elusive it has earned the nickname 'ghost of the mountains.'",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/snow_leopard"
+    },
+    {
+      "text": "Meerkats take turns standing guard while the rest of the group forages for food.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "The Amur leopard is the rarest big cat in the world, with fewer than 100 remaining in the wild.",
+      "source": "https://en.wikipedia.org/wiki/Amur_leopard"
+    },
+    {
+      "text": "Elephants can distinguish between human languages and identify whether a speaker is a threat.",
+      "source": "https://en.wikipedia.org/wiki/Elephants_can_distinguish_between_human_languages_and_identify_whether_a_speaker"
+    },
+    {
+      "text": "Wombats can run at speeds up to 25 mph in short bursts when they feel threatened.",
+      "source": "https://en.wikipedia.org/wiki/Wombats_can"
+    },
+    {
+      "text": "The vampire bat is the only mammal that feeds entirely on blood.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/vampire_bat"
+    },
+    {
+      "text": "Sea otters have the densest fur of any mammal, with up to one million hairs per square inch.",
+      "source": "https://en.wikipedia.org/wiki/Sea_otters"
+    },
+    {
+      "text": "World Penguin Day marks the annual northern migration of Adélie penguins in Antarctica.",
+      "month": 4,
+      "day": 25,
+      "source": "https://en.wikipedia.org/wiki/World_Penguin_Day"
+    },
+    {
+      "text": "A tiger's stripes are unique to each individual, much like human fingerprints.",
+      "source": "https://en.wikipedia.org/wiki/A_tiger%27s_stripes"
+    },
+    {
+      "text": "The leafy sea dragon is so well camouflaged it is nearly invisible among seaweed.",
+      "source": "https://en.wikipedia.org/wiki/leafy_sea_dragon"
+    },
+    {
+      "text": "Cheetahs have semi-retractable claws that act like cleats, giving them extra grip when sprinting.",
+      "source": "https://en.wikipedia.org/wiki/Cheetahs"
+    },
+    {
+      "text": "The California condor was brought back from the brink of extinction through captive breeding; only 22 remained in 1987.",
+      "source": "https://en.wikipedia.org/wiki/California_condor"
+    },
+    {
+      "text": "Capuchin monkeys have been observed using rocks as hammers and anvils to crack open nuts.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Capuchin_monkeys"
+    },
+    {
+      "text": "A hippopotamus can open its mouth nearly 180 degrees, wide enough to fit a four-foot-tall child inside.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "The pangolin rolls into a tight ball when threatened, and its name comes from the Malay word for 'roller.'",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "Albatrosses can glide for hours without flapping their wings by using dynamic soaring techniques.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "World Snake Day is observed to raise awareness and appreciation for all snake species.",
+      "month": 7,
+      "day": 16,
+      "source": "https://en.wikipedia.org/wiki/World_Snake_Day"
+    },
+    {
+      "text": "African wild dogs vote on group decisions by sneezing — the more sneezes, the more likely the group will move.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "The great white shark can detect one drop of blood in 25 gallons of water.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "Silverback gorillas can weigh up to 430 pounds and are about 10 times stronger than the average human.",
+      "source": "https://en.wikipedia.org/wiki/Silverback_gorillas_can_weigh_up_to_430_pounds_and"
+    },
+    {
+      "text": "The bowhead whale has the longest lifespan of any mammal, with some individuals living over 200 years.",
+      "source": "https://en.wikipedia.org/wiki/bowhead_whale"
+    },
+    {
+      "text": "Red pandas are more closely related to raccoons than to giant pandas despite sharing a name.",
+      "source": "https://en.wikipedia.org/wiki/Red_pandas"
+    },
+    {
+      "text": "Crocodiles swallow stones to help them dive deeper, as the stones act as ballast.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "The okapi, found only in the Democratic Republic of Congo, is the giraffe's closest living relative.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/okapi%2C_found_only_in_the_Democratic_Republic_of_Congo"
+    },
+    {
+      "text": "Chimpanzees share about 98.7% of their DNA with humans, making them our closest living relatives.",
+      "source": "https://en.wikipedia.org/wiki/DNA_with"
+    },
+    {
+      "text": "The Galápagos Islands are home to species found nowhere else on Earth, inspiring Darwin's theory of evolution.",
+      "source": "https://en.wikipedia.org/wiki/Gal%C3%A1pagos_Islands"
+    },
+    {
+      "text": "World Bee Day highlights the importance of bees and other pollinators to global ecosystems.",
+      "month": 5,
+      "day": 20,
+      "source": "https://en.wikipedia.org/wiki/World_Bee_Day"
+    },
+    {
+      "text": "A group of jellyfish is called a 'smack,' and some species are bioluminescent.",
+      "source": "https://en.wikipedia.org/wiki/A_group_of_jellyfish"
+    },
+    {
+      "text": "Beavers are second only to humans in their ability to manipulate their environment by building dams.",
+      "source": "https://en.wikipedia.org/wiki/Beavers"
+    },
+    {
+      "text": "The tiger population in India has grown from 1,411 in 2006 to over 3,600 thanks to conservation efforts.",
+      "source": "https://en.wikipedia.org/wiki/tiger_population_in_India"
+    },
+    {
+      "text": "Emperor penguins can dive to depths of over 1,800 feet, deeper than any other bird.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "Leopard geckos can detach their tails when grabbed by predators and later regrow them.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "The kakapo is the world's only flightless parrot and also one of the longest-living birds.",
+      "source": "https://en.wikipedia.org/wiki/kakapo"
+    },
+    {
+      "text": "Manatees are related to elephants and share a distant common ancestor from about 60 million years ago.",
+      "source": "https://en.wikipedia.org/wiki/Manatees"
+    },
+    {
+      "text": "The wolverine, despite weighing only about 40 pounds, can drive grizzly bears away from food.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "World Migratory Bird Day is celebrated to highlight the importance of migratory bird conservation.",
+      "month": 5,
+      "day": 11,
+      "source": "https://en.wikipedia.org/wiki/World_Migratory_Bird_Day"
+    },
+    {
+      "text": "A woodpecker's tongue wraps around its skull to cushion its brain during rapid pecking at up to 20 times per second.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "The sailfish is the fastest fish in the ocean, swimming at speeds up to 68 mph.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/sailfish"
+    },
+    {
+      "text": "Wolves howl to communicate with pack members over distances of up to 10 miles.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "The Sumatran rhino is the smallest and most endangered of all rhino species, with fewer than 80 remaining.",
+      "source": "https://en.wikipedia.org/wiki/Sumatran_rhino"
+    },
+    {
+      "text": "Cuttlefish have W-shaped pupils and can see polarized light invisible to the human eye.",
+      "source": "https://en.wikipedia.org/wiki/Cuttlefish"
+    },
+    {
+      "text": "The African bush elephant can consume over 300 pounds of vegetation in a single day.",
+      "source": "https://en.wikipedia.org/wiki/African"
+    },
+    {
+      "text": "Pufferfish contain tetrodotoxin, a substance 1,200 times more poisonous than cyanide.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "Cheetah cubs have a mane of long fur on their backs that mimics the honey badger to deter predators.",
+      "source": "https://en.wikipedia.org/wiki/Cheetah_cubs"
+    },
+    {
+      "text": "International Polar Bear Day raises awareness about the impact of climate change on polar bear habitat.",
+      "month": 2,
+      "day": 27,
+      "source": "https://en.wikipedia.org/wiki/International_Polar_Bear_Day"
+    },
+    {
+      "text": "The colossal squid has the largest eyes in the animal kingdom, each about the size of a dinner plate.",
+      "source": "https://en.wikipedia.org/wiki/colossal_squid"
+    },
+    {
+      "text": "Elephants use their trunks to breathe, drink, grab food, and even snorkel across deep water.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "Lyrebirds can mimic almost any sound they hear, including chainsaws, car alarms, and camera shutters.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "The naked mole rat is virtually immune to cancer and can survive up to 18 minutes without oxygen.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/naked_mole_rat"
+    },
+    {
+      "text": "Giraffes have the same number of neck vertebrae as humans — just seven, but each is over 10 inches long.",
+      "source": "https://en.wikipedia.org/wiki/Giraffes"
+    },
+    {
+      "text": "The secretary bird stomps on snakes with a force five times its own body weight to kill them.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "Bengal tigers are strong swimmers and often kill prey while swimming in rivers and mangrove swamps.",
+      "source": "https://en.wikipedia.org/wiki/Bengal_tigers"
+    },
+    {
+      "text": "World Habitat Day promotes awareness of the need for adequate shelter for wildlife and humans.",
+      "month": 10,
+      "day": 5,
+      "source": "https://en.wikipedia.org/wiki/World_Habitat_Day"
+    },
+    {
+      "text": "Otters have a pocket of loose skin under their arms where they store their favorite rocks for cracking open shells.",
+      "source": "https://en.wikipedia.org/wiki/Otters"
+    },
+    {
+      "text": "The proboscis monkey has an unusually large nose that amplifies its vocalizations to attract mates.",
+      "source": "https://en.wikipedia.org/wiki/proboscis_monkey"
+    },
+    {
+      "text": "The Yangtze River dolphin, or baiji, was declared functionally extinct in 2006.",
+      "source": "https://en.wikipedia.org/wiki/Yangtze_River_dolphin%2C_or_baiji"
+    },
+    {
+      "text": "Horseshoe crabs have blue blood that is used to test the safety of vaccines and medical devices.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Horseshoe_crabs"
+    },
+    {
+      "text": "A flea can jump 150 times its own body length, equivalent to a human jumping over a 75-story building.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "The giant Pacific octopus can squeeze through any opening larger than its beak, the only hard part of its body.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "Flamingos are born white or gray and turn pink from the carotenoid pigments in their diet of brine shrimp.",
+      "source": "https://en.wikipedia.org/wiki/Flamingos"
+    },
+    {
+      "text": "World Monkey Day celebrates all primates and raises awareness about their conservation.",
+      "month": 12,
+      "day": 14,
+      "source": "https://en.wikipedia.org/wiki/World_Monkey_Day"
+    },
+    {
+      "text": "Arctic foxes can survive temperatures as low as minus 58°F thanks to their incredibly dense fur.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "Male seahorses are the ones that carry and give birth to their young, unique among the animal kingdom.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Male_seahorses"
+    },
+    {
+      "text": "The clouded leopard has the longest canine teeth relative to body size of any living cat.",
+      "source": "https://en.wikipedia.org/wiki/clouded_leopard"
+    },
+    {
+      "text": "Elephants can hear through their feet, detecting vibrations in the ground from miles away.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "The Iberian lynx was once the most endangered cat species, but conservation raised its numbers from under 100 to over 1,600.",
+      "source": "https://en.wikipedia.org/wiki/Iberian_lynx"
+    },
+    {
+      "text": "Bats are the only mammals capable of true sustained flight.",
+      "source": "https://en.wikipedia.org/wiki/Bats"
+    },
+    {
+      "text": "A blue whale's tongue alone can weigh as much as an elephant.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "The dhole, or Asian wild dog, communicates using whistles rather than howls or barks.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "Galapagos marine iguanas are the only lizards in the world that forage for food in the ocean.",
+      "source": "https://en.wikipedia.org/wiki/Galapagos_marine_iguanas"
+    },
+    {
+      "text": "World Giraffe Day celebrates the tallest living terrestrial animal on the longest day of the year.",
+      "month": 6,
+      "day": 21,
+      "source": "https://en.wikipedia.org/wiki/World_Giraffe_Day"
+    },
+    {
+      "text": "A housefly hums in the key of F and beats its wings about 200 times per second.",
+      "source": "https://en.wikipedia.org/wiki/F_and"
+    },
+    {
+      "text": "Penguins propose to their mates with a pebble, and bonded pairs often return to each other year after year.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "The thorny devil lizard of Australia can drink water through its skin by channeling moisture toward its mouth.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "New Caledonian crows can create compound tools by combining two or more components.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/New_Caledonian"
+    },
+    {
+      "text": "The world's largest land carnivore is the polar bear, with males weighing up to 1,500 pounds.",
+      "source": "https://en.wikipedia.org/wiki/world%27s_largest_land_carnivore"
+    },
+    {
+      "text": "Pangolins can consume up to 70 million ants and termites per year.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "The resplendent quetzal was considered divine by ancient Maya and Aztec civilizations.",
+      "source": "https://en.wikipedia.org/wiki/resplendent_quetzal"
+    },
+    {
+      "text": "International Day for Biological Diversity highlights the importance of biodiversity conservation.",
+      "month": 5,
+      "day": 22,
+      "source": "https://en.wikipedia.org/wiki/International_Day_for_Biological_Diversity"
+    },
+    {
+      "text": "Elephants are afraid of bees, and farmers in Africa use beehive fences to keep elephants out of crops.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Elephants"
+    },
+    {
+      "text": "A chameleon's tongue can be twice the length of its body and strikes prey in less than 0.07 seconds.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "The Svalbard Global Seed Vault stores seeds to protect against the loss of plant diversity, indirectly safeguarding animal habitats.",
+      "source": "https://en.wikipedia.org/wiki/Svalbard_Global_Seed_Vault"
+    },
+    {
+      "text": "Slow lorises are the only venomous primates, producing toxin from glands on their elbows.",
+      "source": "https://en.wikipedia.org/wiki/Slow_lorises"
+    },
+    {
+      "text": "Ostriches have the largest eyes of any land animal, each nearly two inches in diameter.",
+      "source": "https://en.wikipedia.org/wiki/Ostriches"
+    },
+    {
+      "text": "The vaquita is the most endangered marine mammal, with fewer than 10 individuals believed to remain.",
+      "source": "https://en.wikipedia.org/wiki/vaquita"
+    },
+    {
+      "text": "Spotted hyenas live in matriarchal societies where females outrank all males in the clan.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "Porcupines have about 30,000 quills that are actually modified hairs coated in keratin.",
+      "source": "https://en.wikipedia.org/wiki/Porcupines"
+    },
+    {
+      "text": "National Endangered Species Day was established in the United States in 2006.",
+      "month": 5,
+      "day": 15,
+      "source": "https://en.wikipedia.org/wiki/National_Endangered_Species_Day"
+    },
+    {
+      "text": "The coconut crab is the largest land-dwelling arthropod, with a leg span of up to three feet.",
+      "source": "https://en.wikipedia.org/wiki/coconut_crab"
+    },
+    {
+      "text": "A rhinoceros horn is made of keratin, the same protein found in human hair and fingernails.",
+      "source": "https://en.wikipedia.org/wiki/A_rhinoceros_horn"
+    },
+    {
+      "text": "The wandering albatross has the largest wingspan of any living bird, reaching over 11 feet.",
+      "source": "https://en.wikipedia.org/wiki/wandering_albatross"
+    },
+    {
+      "text": "Parrotfish produce up to 840 pounds of sand per year by eating and excreting coral.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "Jaguars are the only big cats that kill prey by biting directly through the skull.",
+      "source": "https://en.wikipedia.org/wiki/Jaguars"
+    },
+    {
+      "text": "The snow monkey, or Japanese macaque, bathes in hot springs to stay warm during cold winters.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "Tardigrades, also called water bears, can survive in the vacuum of space and extreme radiation.",
+      "source": "https://en.wikipedia.org/wiki/Tardigrades%2C_also"
+    },
+    {
+      "text": "World Biodiversity Day promotes understanding of biodiversity issues across the globe.",
+      "month": 5,
+      "day": 22,
+      "source": "https://en.wikipedia.org/wiki/World_Biodiversity_Day"
+    },
+    {
+      "text": "The fennec fox has enormous ears relative to its body, which help dissipate heat in the Sahara Desert.",
+      "source": "https://en.wikipedia.org/wiki/fennec_fox"
+    },
+    {
+      "text": "Hummingbirds can fly backward and are the only birds that can sustain hovering flight.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Hummingbirds_can_fly_backward_and"
+    },
+    {
+      "text": "The glass frog has translucent skin on its belly, allowing you to see its beating heart and organs.",
+      "source": "https://en.wikipedia.org/wiki/glass_frog"
+    },
+    {
+      "text": "Mountain lions have the largest range of any wild land mammal in the Americas, from Canada to Patagonia.",
+      "source": "https://en.wikipedia.org/wiki/Mountain_lions"
+    },
+    {
+      "text": "Dolphins can stay awake for 15 days straight by alternating which half of their brain sleeps.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "The Goliath birdeater tarantula is the world's largest spider by mass, weighing up to 6 ounces.",
+      "source": "https://en.wikipedia.org/wiki/Goliath_birdeater_tarantula"
+    },
+    {
+      "text": "Cleaner wrasses pass the mirror test, suggesting self-awareness in fish.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "African elephants have about 40,000 muscles in their trunk alone.",
+      "source": "https://en.wikipedia.org/wiki/African_elephants"
+    },
+    {
+      "text": "National Bison Day honors the American bison, once hunted to near extinction with only 541 remaining in 1889.",
+      "month": 11,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/National_Bison_Day"
+    },
+    {
+      "text": "The immortal jellyfish can revert to its juvenile polyp stage after reaching maturity, potentially living forever.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "Snow leopards wrap their thick tails around their bodies and faces to stay warm while sleeping.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "Vampire bats share blood meals with hungry roost-mates, demonstrating reciprocal altruism.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "The horned lizard can squirt blood from its eyes up to five feet as a defense mechanism.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "Wolves were the first animals to be domesticated by humans, roughly 15,000 to 40,000 years ago.",
+      "source": "https://en.wikipedia.org/wiki/Wolves"
+    },
+    {
+      "text": "The aye-aye uses its long middle finger to tap on trees and find grubs by echolocation.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "Sperm whales sleep vertically in groups, bobbing near the surface of the ocean.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "World Chimpanzee Day celebrates and raises awareness about chimpanzees and their conservation.",
+      "month": 7,
+      "day": 14,
+      "source": "https://en.wikipedia.org/wiki/World_Chimpanzee_Day"
+    },
+    {
+      "text": "The African wild dog is one of the most endangered mammals in Africa, with fewer than 6,600 remaining.",
+      "source": "https://en.wikipedia.org/wiki/African_wild_dog"
+    },
+    {
+      "text": "Electric eels are not true eels but are more closely related to catfish and carp.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Electric_eels"
+    },
+    {
+      "text": "The Andean condor has the largest wing area of any bird, at roughly 75 square feet spread.",
+      "source": "https://en.wikipedia.org/wiki/Andean_condor"
+    },
+    {
+      "text": "Prairie dogs greet each other with kisses — they touch their front teeth together to identify group members.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "A group of crows is called a 'murder,' and they have been known to hold funerals for their dead.",
+      "source": "https://en.wikipedia.org/wiki/A_group_of_crows"
+    },
+    {
+      "text": "The kiwi bird has nostrils at the tip of its beak, unlike any other bird species.",
+      "source": "https://en.wikipedia.org/wiki/kiwi_bird"
+    },
+    {
+      "text": "Giant tortoises in the Galápagos helped Darwin develop his theory of natural selection.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Giant_tortoises_in_the_Gal%C3%A1pagos"
+    },
+    {
+      "text": "The Amur tiger is the largest subspecies of tiger and the biggest cat in the world.",
+      "source": "https://en.wikipedia.org/wiki/Amur_tiger"
+    },
+    {
+      "text": "Manta rays have the largest brain-to-body ratio of any cold-blooded fish.",
+      "source": "https://en.wikipedia.org/wiki/Manta_rays"
+    },
+    {
+      "text": "World Otter Day promotes the conservation of all 13 species of otter worldwide.",
+      "month": 5,
+      "day": 27,
+      "source": "https://en.wikipedia.org/wiki/World_Otter_Day"
+    },
+    {
+      "text": "Coral reefs support about 25% of all marine species despite covering less than 1% of the ocean floor.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "A mosquito has 47 teeth, though they are so small they are technically called 'teeth-like' structures.",
+      "source": "https://en.wikipedia.org/wiki/A_mosquito"
+    },
+    {
+      "text": "The binturong, or bearcat, smells like buttered popcorn due to a chemical in its urine.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "Dolphins have been trained by militaries to detect underwater mines using their echolocation abilities.",
+      "source": "https://en.wikipedia.org/wiki/Dolphins"
+    },
+    {
+      "text": "The California condor's wingspan can reach nearly 10 feet, making it the largest flying bird in North America.",
+      "source": "https://en.wikipedia.org/wiki/California"
+    },
+    {
+      "text": "Orangutans share 97% of their DNA with humans and can learn to use tools and solve problems.",
+      "source": "https://en.wikipedia.org/wiki/DNA_with"
+    },
+    {
+      "text": "Baby elephants suck their trunks for comfort, similar to how human babies suck their thumbs.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "World Tapir Day is dedicated to raising awareness about the four species of tapir.",
+      "month": 4,
+      "day": 27,
+      "source": "https://en.wikipedia.org/wiki/World_Tapir_Day"
+    },
+    {
+      "text": "The bombardier beetle defends itself by spraying boiling hot chemicals from its abdomen.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "Gray whales make one of the longest migrations of any mammal, traveling 12,000 miles round trip annually.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "African grey parrots can learn over 1,000 words and use them in contextually appropriate ways.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "The numbat is one of only two marsupials that are active primarily during the day.",
+      "source": "https://en.wikipedia.org/wiki/numbat"
+    },
+    {
+      "text": "A grizzly bear can smell food from up to 18 miles away.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "The Mexican free-tailed bat is the fastest mammal in level flight, reaching speeds over 99 mph.",
+      "source": "https://en.wikipedia.org/wiki/Mexican_free-tailed_bat"
+    },
+    {
+      "text": "Crows have been observed sliding down snowy rooftops repeatedly, apparently just for fun.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Crows"
+    },
+    {
+      "text": "The blue-ringed octopus is small enough to fit in your palm but carries enough venom to kill 26 adults.",
+      "source": "https://en.wikipedia.org/wiki/blue-ringed_octopus"
+    },
+    {
+      "text": "The WWF's panda logo was inspired by Chi Chi, a giant panda at the London Zoo in the 1960s.",
+      "source": "https://en.wikipedia.org/wiki/WWF%27s_panda_logo"
+    },
+    {
+      "text": "World Habitat Conservation Day emphasizes the preservation of critical wildlife ecosystems.",
+      "month": 10,
+      "day": 5,
+      "source": "https://en.wikipedia.org/wiki/World_Habitat_Conservation_Day"
+    },
+    {
+      "text": "Giraffes only sleep about 30 minutes per day, and they often sleep standing up.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "The tuatara of New Zealand is the only surviving member of an order of reptiles that thrived 200 million years ago.",
+      "source": "https://en.wikipedia.org/wiki/tuatara_of_New_Zealand"
+    },
+    {
+      "text": "Gorillas build new nests every night and occasionally take daytime naps in hastily constructed day nests.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "Fireflies produce light through a chemical reaction called bioluminescence in their abdomens.",
+      "source": "https://en.wikipedia.org/wiki/Fireflies_produce_light_through_a_chemical_reaction"
+    },
+    {
+      "text": "The Nile crocodile can hold its breath underwater for up to two hours while waiting to ambush prey.",
+      "source": "https://en.wikipedia.org/wiki/Nile"
+    },
+    {
+      "text": "Pikas, small mountain-dwelling mammals, create haystacks of dried plants to survive winter.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "Male lions sleep up to 20 hours per day, while females do most of the hunting.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "World Dolphin Day raises awareness about the threats dolphins face from pollution and fishing nets.",
+      "month": 4,
+      "day": 14,
+      "source": "https://en.wikipedia.org/wiki/World_Dolphin_Day"
+    },
+    {
+      "text": "The archerfish can spit a jet of water up to five feet to knock insects off branches above the water.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "Vervet monkeys have distinct alarm calls for different predators — leopards, eagles, and snakes each trigger unique calls.",
+      "source": "https://en.wikipedia.org/wiki/Vervet_monkeys"
+    },
+    {
+      "text": "The gharial is a critically endangered crocodilian with fewer than 650 adults remaining in the wild.",
+      "source": "https://en.wikipedia.org/wiki/gharial"
+    },
+    {
+      "text": "Seahorses have no stomach and must eat almost constantly because food passes through them so quickly.",
+      "source": "https://en.wikipedia.org/wiki/Seahorses"
+    },
+    {
+      "text": "The capybara is the world's largest rodent, weighing up to 140 pounds.",
+      "source": "https://en.wikipedia.org/wiki/capybara"
+    },
+    {
+      "text": "Sea cucumbers breathe through their rear end and can expel their internal organs to escape predators.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "Raccoons can remember solutions to tasks for up to three years after learning them.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "The addax antelope is one of the rarest mammals on Earth, with fewer than 100 remaining in the Sahara.",
+      "source": "https://en.wikipedia.org/wiki/addax_antelope"
+    },
+    {
+      "text": "World Shark Awareness Day aims to dispel myths and raise awareness about the importance of sharks.",
+      "month": 7,
+      "day": 14,
+      "source": "https://en.wikipedia.org/wiki/World_Shark_Awareness_Day"
+    },
+    {
+      "text": "Elephants can recognize old friends and display excitement when reunited after years apart.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "The king vulture is revered in Mayan mythology and can smell carrion from miles away.",
+      "source": "https://en.wikipedia.org/wiki/king_vulture"
+    },
+    {
+      "text": "Dragonflies have a prey-capture success rate of 95%, making them the most efficient hunters in nature.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Dragonflies"
+    },
+    {
+      "text": "Panda bears have an extra 'thumb' — actually an enlarged wrist bone — that helps them grip bamboo.",
+      "source": "https://en.wikipedia.org/wiki/Panda_bears"
+    },
+    {
+      "text": "The quahog clam named Ming was found to be 507 years old, making it the oldest known individual animal.",
+      "source": "https://en.wikipedia.org/wiki/quahog_clam_named_Ming"
+    },
+    {
+      "text": "Snow leopards cannot roar; instead, they produce a unique sound called a 'chuff' to greet each other.",
+      "source": "https://en.wikipedia.org/wiki/Snow_leopards_cannot_roar%3B_instead%2C_they_produce_a_unique_sound"
+    },
+    {
+      "text": "The mandrill is the largest species of monkey, with males weighing up to 77 pounds.",
+      "source": "https://en.wikipedia.org/wiki/mandrill"
+    },
+    {
+      "text": "World Frog Day raises awareness about amphibian conservation and declining frog populations.",
+      "month": 3,
+      "day": 20,
+      "source": "https://en.wikipedia.org/wiki/World_Frog_Day"
+    },
+    {
+      "text": "Elephants are one of only a few species known to have rituals around death, gently touching the bones of the deceased.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Elephants"
+    },
+    {
+      "text": "The giant squid remained unseen alive until 2004, when Japanese researchers photographed one at depth.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "Flamingos can live for over 70 years in captivity, making them one of the longest-lived birds.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "Wolverines can smell prey buried under 20 feet of snow and dig them out with their powerful claws.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "The red-eyed tree frog uses its vivid colors to startle predators, a defense known as startle coloration.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "A group of pugs is called a 'grumble,' while a group of hedgehogs is called an 'array.'",
+      "source": "https://en.wikipedia.org/wiki/A_group_of_pugs"
+    },
+    {
+      "text": "The harpy eagle's talons are strong enough to crush bones and snatch monkeys and sloths from treetops.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/harpy_eagle%27s_talons"
+    },
+    {
+      "text": "Coral is not a plant — it is a colony of tiny animals called polyps that build limestone skeletons.",
+      "source": "https://en.wikipedia.org/wiki/Coral"
+    },
+    {
+      "text": "International Day of Forests highlights how forests are critical habitat for 80% of terrestrial species.",
+      "month": 3,
+      "day": 21,
+      "source": "https://en.wikipedia.org/wiki/International_Day_of_Forests_highlights_how_forests"
+    },
+    {
+      "text": "The blobfish looks like a normal fish at depth but appears gelatinous at surface pressure due to its low-density flesh.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "Whale sharks can live for over 100 years and don't reach sexual maturity until around age 30.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "Painted dogs are among the most efficient predators in Africa, with hunt success rates exceeding 80%.",
+      "source": "https://en.wikipedia.org/wiki/Painted_dogs"
+    },
+    {
+      "text": "A newborn kangaroo, called a joey, is about the size of a grape when it crawls into its mother's pouch.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/A_newborn_kangaroo%2C_called_a_joey"
+    },
+    {
+      "text": "The saiga antelope has an unusually bulbous nose that filters dust in summer and warms frigid air in winter.",
+      "source": "https://en.wikipedia.org/wiki/saiga_antelope"
+    },
+    {
+      "text": "Vampire squid live in the deep ocean and feed on drifting organic particles called marine snow.",
+      "source": "https://en.wikipedia.org/wiki/Vampire_squid_live_in_the_deep_ocean_and_feed_on_drifting_organic_particles"
+    },
+    {
+      "text": "The Tasmanian tiger, or thylacine, was declared extinct in 1936 though reported sightings still occur.",
+      "source": "https://en.wikipedia.org/wiki/Tasmanian_tiger%2C_or_thylacine"
+    },
+    {
+      "text": "World Ranger Day honors park rangers who protect wildlife and natural areas worldwide.",
+      "month": 7,
+      "day": 31,
+      "source": "https://en.wikipedia.org/wiki/World_Ranger_Day"
+    },
+    {
+      "text": "Cassowaries can run at speeds up to 31 mph through dense tropical forest.",
+      "source": "https://en.wikipedia.org/wiki/Cassowaries_can"
+    },
+    {
+      "text": "The lyrebird's ability to mimic sounds is so accurate it can fool other bird species.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/lyrebird%27s_ability_to_mimic_sounds"
+    },
+    {
+      "text": "Bottlenose dolphins can jump up to 20 feet out of the water.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "The kakapo is the heaviest parrot in the world, weighing up to 9 pounds, and can live over 90 years.",
+      "source": "https://en.wikipedia.org/wiki/kakapo"
+    },
+    {
+      "text": "African elephants use different vocalizations to refer to specific individuals in their herd.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "The shoebill stork stands perfectly still for hours, then strikes with lightning speed to catch lungfish.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "Pistol shrimp create shockwaves with their claws that can stun or kill small fish.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "The Indian gharial can have over 100 teeth at any given time, more than any other crocodilian.",
+      "source": "https://en.wikipedia.org/wiki/Indian_gharial_can"
+    },
+    {
+      "text": "Migrating monarch butterflies travel up to 3,000 miles from Canada to Mexico each fall.",
+      "source": "https://en.wikipedia.org/wiki/Canada_to_Mexico"
+    },
+    {
+      "text": "World Crocodile Day raises awareness about the 23 species of crocodilians and their conservation.",
+      "month": 6,
+      "day": 17,
+      "source": "https://en.wikipedia.org/wiki/World_Crocodile_Day"
+    },
+    {
+      "text": "Cheetahs need to rest for at least 30 minutes after a sprint before they can eat, leaving their prey vulnerable to theft.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "The Greenland shark is the longest-lived vertebrate, with some individuals estimated to be over 400 years old.",
+      "source": "https://en.wikipedia.org/wiki/Greenland_shark"
+    },
+    {
+      "text": "Elephants can differentiate between the languages and voices of different human ethnic groups.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "The glass sponge can live for over 10,000 years, making it one of the oldest living organisms.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "Ravens can plan for the future by saving tools and bartering tokens for food rewards.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "The red panda was discovered 48 years before the giant panda and was the original 'panda.'",
+      "source": "https://en.wikipedia.org/wiki/red_panda"
+    },
+    {
+      "text": "Komodo dragons can eat up to 80% of their body weight in a single meal.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "Blue whales produce the loudest sound of any animal, reaching 188 decibels and traveling hundreds of miles.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "International Snow Leopard Day supports conservation of snow leopards across Central Asia.",
+      "month": 10,
+      "day": 23,
+      "source": "https://en.wikipedia.org/wiki/International_Snow_Leopard_Day"
+    },
+    {
+      "text": "Adelie penguins collect pebbles to build nests and sometimes steal pebbles from neighboring nests.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "The thorny dragon can drink water by standing in a puddle — capillary channels in its skin draw water to its mouth.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "A cougar can jump vertically up to 18 feet from a standing position.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "The pangolin is covered in overlapping scales made of keratin, providing armor against predators.",
+      "source": "https://en.wikipedia.org/wiki/pangolin"
+    },
+    {
+      "text": "Walruses use their tusks to haul themselves out of the water, which is how they got their scientific name, Odobenus, meaning 'one who walks with teeth.'",
+      "source": "https://en.wikipedia.org/wiki/Walruses_use_their_tusks_to_haul_themselves_out_of_the_water%2C_which"
+    },
+    {
+      "text": "The proboscis monkey's large nose inflates like a balloon when it makes warning calls.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "Honey badgers have been observed using tools, such as logs, to climb over fences.",
+      "source": "https://en.wikipedia.org/wiki/Honey_badgers"
+    },
+    {
+      "text": "The zoo at Basel, Switzerland, was the first to successfully breed an Indian rhinoceros in captivity.",
+      "source": "https://en.wikipedia.org/wiki/zoo_at_Basel%2C_Switzerland"
+    },
+    {
+      "text": "World Pangolin Day is observed to raise awareness about the world's most trafficked mammal.",
+      "month": 2,
+      "day": 21,
+      "source": "https://en.wikipedia.org/wiki/World_Pangolin_Day"
+    },
+    {
+      "text": "Leopard seals are one of Antarctica's top predators and are known to patrol penguin colonies.",
+      "source": "https://en.wikipedia.org/wiki/Leopard_seals"
+    },
+    {
+      "text": "A snail can sleep for up to three years during periods of drought or extreme cold.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "The orchid mantis mimics flower petals so convincingly that pollinating insects land directly on it.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "Elephants have been observed consoling distressed members of their group with gentle trunk touches and vocalizations.",
+      "source": "https://en.wikipedia.org/wiki/Elephants"
+    },
+    {
+      "text": "The fishing cat of Southeast Asia is one of the few cats that regularly catches fish by diving into water.",
+      "source": "https://en.wikipedia.org/wiki/fishing_cat_of_Southeast_Asia"
+    },
+    {
+      "text": "The gerenuk, or giraffe gazelle, can stand on its hind legs to browse on tall bushes.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "African forest elephants are a distinct species from savanna elephants and play a crucial role in seed dispersal.",
+      "source": "https://en.wikipedia.org/wiki/African_forest_elephants"
+    },
+    {
+      "text": "World Biodiversity Awareness Day promotes understanding of the variety of life on Earth.",
+      "month": 5,
+      "day": 22,
+      "source": "https://en.wikipedia.org/wiki/World_Biodiversity_Awareness_Day"
+    },
+    {
+      "text": "The pistol shrimp's snapping claw produces a flash of light called sonoluminescence.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/pistol_shrimp%27s_snapping_claw_produces_a_flash_of_light"
+    },
+    {
+      "text": "Wolverines are known to travel over 15 miles per day in search of food in harsh northern climates.",
+      "source": "https://en.wikipedia.org/wiki/Wolverines"
+    },
+    {
+      "text": "Cassowaries swallow fruit whole and are critical seed dispersers for over 100 plant species in tropical forests.",
+      "source": "https://en.wikipedia.org/wiki/Cassowaries_swallow_fruit_whole_and"
+    },
+    {
+      "text": "The world's smallest mammal is the bumblebee bat of Thailand, weighing less than a penny.",
+      "source": "https://en.wikipedia.org/wiki/world%27s_smallest_mammal"
+    },
+    {
+      "text": "Beluga whales are called 'canaries of the sea' because of the wide variety of sounds they produce.",
+      "source": "https://en.wikipedia.org/wiki/Beluga_whales"
+    },
+    {
+      "text": "Secretary birds stamp on the ground with a force up to five times their body weight to kill snakes.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "The white rhinoceros is not actually white — 'white' is a mistranslation of the Dutch word 'wijd' meaning wide.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/white_rhinoceros"
+    },
+    {
+      "text": "Cuttlefish can count and will choose a higher number of prey items when given the option.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "The northern quoll of Australia is declining rapidly due to poisoning from invasive cane toads.",
+      "source": "https://en.wikipedia.org/wiki/northern_quoll_of_Australia"
+    },
+    {
+      "text": "World Orangutan Day promotes conservation efforts for orangutans in Borneo and Sumatra.",
+      "month": 8,
+      "day": 19,
+      "source": "https://en.wikipedia.org/wiki/World_Orangutan_Day"
+    },
+    {
+      "text": "The okapi was not known to Western science until 1901, despite being well known to local Congolese people.",
+      "source": "https://en.wikipedia.org/wiki/okapi"
+    },
+    {
+      "text": "A grizzly bear can run at speeds up to 35 mph, fast enough to outrun a horse over short distances.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/A_grizzly_bear_can"
+    },
+    {
+      "text": "The axolotl is critically endangered in the wild, found only in a few canals near Mexico City.",
+      "source": "https://en.wikipedia.org/wiki/axolotl"
+    },
+    {
+      "text": "Maned wolves are neither wolves nor foxes — they are the only species in their genus Chrysocyon.",
+      "source": "https://en.wikipedia.org/wiki/Maned_wolves"
+    },
+    {
+      "text": "The Sumatran orangutan is one of the rarest great apes, with fewer than 14,000 remaining in the wild.",
+      "source": "https://en.wikipedia.org/wiki/Sumatran_orangutan"
+    },
+    {
+      "text": "Hippos kill more people in Africa each year than lions, leopards, and crocodiles combined.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "The alpine ibex can scale near-vertical dam walls to lick mineral salts from the concrete.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "Bowerbirds build elaborate decorated structures to attract mates, arranging objects by color and size.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "The ocelot's name comes from the Aztec word 'tlalocelot,' meaning field tiger.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "A woodpecker can peck up to 20 times per second without suffering brain damage thanks to a spongy skull structure.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "The markhor, Pakistan's national animal, has corkscrew horns that can grow over five feet long.",
+      "source": "https://en.wikipedia.org/wiki/markhor%2C_Pakistan%27s_national_animal"
+    },
+    {
+      "text": "Manta rays visit cleaning stations on reefs where small fish remove parasites from their skin.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "The European bison, or wisent, was saved from extinction through captive breeding from just 12 surviving individuals.",
+      "source": "https://en.wikipedia.org/wiki/European_bison%2C_or_wisent"
+    },
+    {
+      "text": "Pygmy marmosets are the smallest monkeys in the world, weighing only about 3.5 ounces.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Pygmy_marmosets"
+    },
+    {
+      "text": "The fossa is the top predator in Madagascar and is the largest carnivore on the island.",
+      "source": "https://en.wikipedia.org/wiki/fossa"
+    },
+    {
+      "text": "Sawfish use their rostrum (saw-like snout) to slash through schools of fish, stunning or impaling them.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "Mudskippers are fish that can walk on land, climb trees, and breathe through their skin.",
+      "source": "https://en.wikipedia.org/wiki/Mudskippers"
+    },
+    {
+      "text": "The gemsbok can survive in the Namib Desert without drinking water for weeks by extracting moisture from the plants it eats.",
+      "source": "https://en.wikipedia.org/wiki/Namib_Desert"
+    },
+    {
+      "text": "Coconut crabs can crack open coconuts with their claws and have a grip strength comparable to a lion's bite.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Coconut_crabs_can_crack_open_coconuts_with_their_claws_and"
+    },
+    {
+      "text": "The silky anteater is the smallest anteater species, weighing less than a pound.",
+      "source": "https://en.wikipedia.org/wiki/silky_anteater"
+    },
+    {
+      "text": "Conservationists use trained dogs to sniff out poached ivory, rhino horn, and endangered animal products.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "The Chinese giant salamander is the largest amphibian in the world, reaching lengths over five feet.",
+      "source": "https://en.wikipedia.org/wiki/Chinese_giant_salamander"
+    },
+    {
+      "text": "Mongooses are one of the few animals immune to certain snake venoms due to specialized acetylcholine receptors.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Mongooses"
+    },
+    {
+      "text": "The snowy owl can turn its head 270 degrees to scan for prey across the Arctic tundra.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "Wildebeest calves can stand and run within minutes of being born to keep up with the migrating herd.",
+      "source": "https://en.wikipedia.org/wiki/Wildebeest_calves_can_stand_and"
+    },
+    {
+      "text": "The golden eagle can dive at speeds exceeding 150 mph to strike prey with devastating force.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "Elephants have been known to travel long distances to visit the remains of deceased family members years after their death.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Elephants"
+    },
+    {
+      "text": "The kea, a New Zealand parrot, is known for its intelligence and has been filmed solving multi-step puzzles.",
+      "source": "https://en.wikipedia.org/wiki/kea%2C_a_New_Zealand_parrot"
+    },
+    {
+      "text": "The Siberian tiger can leap over 25 feet in a single bound when pouncing on prey.",
+      "source": "https://en.wikipedia.org/wiki/Siberian"
+    },
+    {
+      "text": "River otters can close their ears and nostrils underwater and can hold their breath for up to eight minutes.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "The sunfish, or mola mola, is the heaviest bony fish in the world, weighing up to 5,000 pounds.",
+      "source": "https://en.wikipedia.org/wiki/sunfish%2C_or_mola_mola"
+    },
+    {
+      "text": "Wild chimpanzees have been documented self-medicating by eating specific plants when they are ill.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Wild_chimpanzees"
+    },
+    {
+      "text": "The red wolf is one of the most endangered canids in the world, with only about 20 remaining in the wild.",
+      "source": "https://en.wikipedia.org/wiki/red_wolf"
+    },
+    {
+      "text": "Komodo dragons occasionally practice parthenogenesis, reproducing without mating.",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "The sand cat is the only wild cat that lives primarily in true desert environments.",
+      "source": "https://en.wikipedia.org/wiki/sand_cat"
+    },
+    {
+      "text": "Sea lions can rotate their hind flippers forward to walk on land, unlike true seals.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Animals_%26_Wildlife"
+    },
+    {
+      "text": "Giraffes have been observed humming to each other at night at frequencies too low for humans to easily hear.",
+      "source": "https://en.wikipedia.org/wiki/Giraffes"
+    },
+    {
+      "text": "The pangolin's tongue can extend up to 16 inches and is anchored near the pelvis rather than the throat.",
+      "source": "https://en.wikipedia.org/wiki/pangolin%27s_tongue_can_extend_up_to_16_inches_and"
+    },
+    {
+      "text": "Tasmanian devils store fat in their tails, which swell when the animal is healthy and well-fed.",
+      "source": "https://en.wikipedia.org/wiki/Tasmanian_devils_store_fat_in_their_tails%2C_which_swell_when_the_animal"
+    }
+  ]
+}

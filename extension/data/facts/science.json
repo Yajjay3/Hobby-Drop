@@ -1,0 +1,1340 @@
+{
+  "hobby": "Science",
+  "facts": [
+    {
+      "text": "Albert Einstein is closely associated with relativity and modern physics.",
+      "source": "https://en.wikipedia.org/wiki/Albert_Einstein"
+    },
+    {
+      "text": "Albert Einstein's 1905 papers helped transform how scientists think about light, motion, and matter.",
+      "source": "https://en.wikipedia.org/wiki/Albert_Einstein"
+    },
+    {
+      "text": "Albert Einstein famously said, 'Imagination is more important than knowledge.'",
+      "quoteBy": "Albert Einstein",
+      "source": "https://en.wikipedia.org/wiki/Albert_Einstein"
+    },
+    {
+      "text": "Einstein's work on the photoelectric effect earned him the 1921 Nobel Prize in Physics.",
+      "source": "https://en.wikipedia.org/wiki/Albert_Einstein"
+    },
+    {
+      "text": "Isaac Newton is closely associated with gravity, motion, and calculus.",
+      "source": "https://en.wikipedia.org/wiki/Isaac_Newton"
+    },
+    {
+      "text": "Isaac Newton's three laws of motion became foundational to classical mechanics.",
+      "source": "https://en.wikipedia.org/wiki/Isaac_Newton"
+    },
+    {
+      "text": "Isaac Newton wrote, 'If I have seen further it is by standing on the shoulders of giants.'",
+      "quoteBy": "Isaac Newton",
+      "source": "https://en.wikipedia.org/wiki/Isaac_Newton"
+    },
+    {
+      "text": "Newton's Principia is one of the most influential scientific works ever published.",
+      "source": "https://en.wikipedia.org/wiki/Isaac_Newton"
+    },
+    {
+      "text": "Galileo Galilei is closely associated with telescopic astronomy and experimental physics.",
+      "source": "https://en.wikipedia.org/wiki/Galileo_Galilei"
+    },
+    {
+      "text": "Galileo used telescopes to observe Jupiter's moons, helping support the heliocentric view of the solar system.",
+      "source": "https://en.wikipedia.org/wiki/Galileo_Galilei"
+    },
+    {
+      "text": "Galileo is often credited with saying, 'All truths are easy to understand once they are discovered.'",
+      "quoteBy": "Galileo Galilei",
+      "source": "https://en.wikipedia.org/wiki/Galileo_Galilei"
+    },
+    {
+      "text": "Galileo is often called the father of observational astronomy.",
+      "source": "https://en.wikipedia.org/wiki/Galileo_Galilei"
+    },
+    {
+      "text": "Marie Curie is closely associated with radioactivity.",
+      "source": "https://en.wikipedia.org/wiki/Marie_Curie"
+    },
+    {
+      "text": "Marie Curie helped discover polonium and radium and pioneered research into radioactivity.",
+      "source": "https://en.wikipedia.org/wiki/Marie_Curie"
+    },
+    {
+      "text": "Marie Curie said, 'Nothing in life is to be feared, it is only to be understood.'",
+      "quoteBy": "Marie Curie",
+      "source": "https://en.wikipedia.org/wiki/Marie_Curie"
+    },
+    {
+      "text": "Marie Curie was the first person to win Nobel Prizes in two different scientific fields.",
+      "source": "https://en.wikipedia.org/wiki/Marie_Curie"
+    },
+    {
+      "text": "Charles Darwin is closely associated with evolution by natural selection.",
+      "source": "https://en.wikipedia.org/wiki/Charles_Darwin"
+    },
+    {
+      "text": "Charles Darwin's On the Origin of Species reshaped biology by explaining evolution through natural selection.",
+      "source": "https://en.wikipedia.org/wiki/Charles_Darwin"
+    },
+    {
+      "text": "Charles Darwin wrote, 'A man who dares to waste one hour of time has not discovered the value of life.'",
+      "quoteBy": "Charles Darwin",
+      "source": "https://en.wikipedia.org/wiki/Charles_Darwin"
+    },
+    {
+      "text": "Darwin's long voyage on HMS Beagle deeply influenced his scientific thinking.",
+      "source": "https://en.wikipedia.org/wiki/Charles_Darwin"
+    },
+    {
+      "text": "Michael Faraday is closely associated with electromagnetism and electrochemistry.",
+      "source": "https://en.wikipedia.org/wiki/Michael_Faraday"
+    },
+    {
+      "text": "Michael Faraday's experiments with electromagnetic induction helped lay the groundwork for electric motors and generators.",
+      "source": "https://en.wikipedia.org/wiki/Michael_Faraday"
+    },
+    {
+      "text": "Michael Faraday said, 'Nothing is too wonderful to be true if it be consistent with the laws of nature.'",
+      "quoteBy": "Michael Faraday",
+      "source": "https://en.wikipedia.org/wiki/Michael_Faraday"
+    },
+    {
+      "text": "The farad, a unit of electrical capacitance, is named after Michael Faraday.",
+      "source": "https://en.wikipedia.org/wiki/Michael_Faraday"
+    },
+    {
+      "text": "Rosalind Franklin is closely associated with DNA structure and X-ray crystallography.",
+      "source": "https://en.wikipedia.org/wiki/Rosalind_Franklin"
+    },
+    {
+      "text": "Rosalind Franklin's X-ray diffraction work was crucial to understanding the double-helix structure of DNA.",
+      "source": "https://en.wikipedia.org/wiki/Rosalind_Franklin"
+    },
+    {
+      "text": "Rosalind Franklin wrote, 'Science and everyday life cannot and should not be separated.'",
+      "quoteBy": "Rosalind Franklin",
+      "source": "https://en.wikipedia.org/wiki/Rosalind_Franklin"
+    },
+    {
+      "text": "Franklin also made important contributions to the study of viruses and coal chemistry.",
+      "source": "https://en.wikipedia.org/wiki/Rosalind_Franklin"
+    },
+    {
+      "text": "Jane Goodall is closely associated with chimpanzee behavior and primatology.",
+      "source": "https://en.wikipedia.org/wiki/Jane_Goodall"
+    },
+    {
+      "text": "Jane Goodall changed the study of animal behavior through her long-term observations of wild chimpanzees at Gombe.",
+      "source": "https://en.wikipedia.org/wiki/Jane_Goodall"
+    },
+    {
+      "text": "Jane Goodall said, 'What you do makes a difference, and you have to decide what kind of difference you want to make.'",
+      "quoteBy": "Jane Goodall",
+      "source": "https://en.wikipedia.org/wiki/Jane_Goodall"
+    },
+    {
+      "text": "Goodall's work showed that chimpanzees make and use tools, a discovery that surprised many scientists.",
+      "source": "https://en.wikipedia.org/wiki/Jane_Goodall"
+    },
+    {
+      "text": "Carl Sagan is closely associated with planetary science and science communication.",
+      "source": "https://en.wikipedia.org/wiki/Carl_Sagan"
+    },
+    {
+      "text": "Carl Sagan helped popularize astronomy for the public through books, lectures, and the television series Cosmos.",
+      "source": "https://en.wikipedia.org/wiki/Carl_Sagan"
+    },
+    {
+      "text": "Carl Sagan wrote, 'Somewhere, something incredible is waiting to be known.'",
+      "quoteBy": "Carl Sagan",
+      "source": "https://en.wikipedia.org/wiki/Carl_Sagan"
+    },
+    {
+      "text": "Sagan worked on planetary missions and helped shape scientific discussion about life elsewhere in the universe.",
+      "source": "https://en.wikipedia.org/wiki/Carl_Sagan"
+    },
+    {
+      "text": "Stephen Hawking is closely associated with black holes and cosmology.",
+      "source": "https://en.wikipedia.org/wiki/Stephen_Hawking"
+    },
+    {
+      "text": "Stephen Hawking's work on black holes and radiation made him one of the most recognizable theoretical physicists in the world.",
+      "source": "https://en.wikipedia.org/wiki/Stephen_Hawking"
+    },
+    {
+      "text": "Stephen Hawking said, 'Look up at the stars and not down at your feet.'",
+      "quoteBy": "Stephen Hawking",
+      "source": "https://en.wikipedia.org/wiki/Stephen_Hawking"
+    },
+    {
+      "text": "A Brief History of Time brought complex cosmology to millions of general readers.",
+      "source": "https://en.wikipedia.org/wiki/Stephen_Hawking"
+    },
+    {
+      "text": "Richard Feynman is closely associated with quantum electrodynamics.",
+      "source": "https://en.wikipedia.org/wiki/Richard_Feynman"
+    },
+    {
+      "text": "Richard Feynman was known for both major contributions to theoretical physics and his remarkable teaching style.",
+      "source": "https://en.wikipedia.org/wiki/Richard_Feynman"
+    },
+    {
+      "text": "Richard Feynman said, 'I would rather have questions that can't be answered than answers that can't be questioned.'",
+      "quoteBy": "Richard Feynman",
+      "source": "https://en.wikipedia.org/wiki/Richard_Feynman"
+    },
+    {
+      "text": "Feynman diagrams became a standard visual tool for describing particle interactions.",
+      "source": "https://en.wikipedia.org/wiki/Richard_Feynman"
+    },
+    {
+      "text": "Nicolaus Copernicus is closely associated with the heliocentric model of the solar system.",
+      "source": "https://en.wikipedia.org/wiki/Nicolaus_Copernicus"
+    },
+    {
+      "text": "Nicolaus Copernicus argued that Earth and the other planets orbit the Sun, reshaping astronomy forever.",
+      "source": "https://en.wikipedia.org/wiki/Nicolaus_Copernicus"
+    },
+    {
+      "text": "Nicolaus Copernicus wrote, 'To know that we know what we know, and that we do not know what we do not know, that is true knowledge.'",
+      "quoteBy": "Nicolaus Copernicus",
+      "source": "https://en.wikipedia.org/wiki/Nicolaus_Copernicus"
+    },
+    {
+      "text": "Copernicus's work became a major turning point in the Scientific Revolution.",
+      "source": "https://en.wikipedia.org/wiki/Nicolaus_Copernicus"
+    },
+    {
+      "text": "Dmitri Mendeleev is closely associated with the periodic table.",
+      "source": "https://en.wikipedia.org/wiki/Dmitri_Mendeleev"
+    },
+    {
+      "text": "Dmitri Mendeleev organized the periodic table in a way that helped predict the properties of elements not yet discovered.",
+      "source": "https://en.wikipedia.org/wiki/Dmitri_Mendeleev"
+    },
+    {
+      "text": "Dmitri Mendeleev said, 'Work, look for peace and calm in work: you will find it nowhere else.'",
+      "quoteBy": "Dmitri Mendeleev",
+      "source": "https://en.wikipedia.org/wiki/Dmitri_Mendeleev"
+    },
+    {
+      "text": "Mendeleev's periodic arrangement remains central to chemistry education.",
+      "source": "https://en.wikipedia.org/wiki/Dmitri_Mendeleev"
+    },
+    {
+      "text": "Rachel Carson is closely associated with ecology and environmental science.",
+      "source": "https://en.wikipedia.org/wiki/Rachel_Carson"
+    },
+    {
+      "text": "Rachel Carson's Silent Spring helped launch the modern environmental movement.",
+      "source": "https://en.wikipedia.org/wiki/Rachel_Carson"
+    },
+    {
+      "text": "Rachel Carson wrote, 'In every outthrust headland, in every curving beach, in every grain of sand there is the story of the earth.'",
+      "quoteBy": "Rachel Carson",
+      "source": "https://en.wikipedia.org/wiki/Rachel_Carson"
+    },
+    {
+      "text": "Carson showed how scientific writing could shape public policy and public awareness.",
+      "source": "https://en.wikipedia.org/wiki/Rachel_Carson"
+    },
+    {
+      "text": "Louis Pasteur is closely associated with germ theory, vaccines, and microbiology.",
+      "source": "https://en.wikipedia.org/wiki/Louis_Pasteur"
+    },
+    {
+      "text": "Louis Pasteur's experiments helped establish germ theory and transform medicine and food safety.",
+      "source": "https://en.wikipedia.org/wiki/Louis_Pasteur"
+    },
+    {
+      "text": "Louis Pasteur said, 'Chance favors the prepared mind.'",
+      "quoteBy": "Louis Pasteur",
+      "source": "https://en.wikipedia.org/wiki/Louis_Pasteur"
+    },
+    {
+      "text": "Pasteurization is named for Louis Pasteur and remains widely used to make foods and drinks safer.",
+      "source": "https://en.wikipedia.org/wiki/Louis_Pasteur"
+    },
+    {
+      "text": "Albert Einstein helped transform modern physics through relativity and work on light and matter.",
+      "source": "https://en.wikipedia.org/wiki/Albert_Einstein"
+    },
+    {
+      "text": "His name became almost synonymous with scientific genius in popular culture.",
+      "source": "https://en.wikipedia.org/wiki/Albert_Einstein"
+    },
+    {
+      "text": "Albert Einstein is one of the standout topics people mention when discussing Science.",
+      "source": "https://en.wikipedia.org/wiki/Albert_Einstein"
+    },
+    {
+      "text": "Any overview of Science usually includes Albert Einstein.",
+      "source": "https://en.wikipedia.org/wiki/Albert_Einstein"
+    },
+    {
+      "text": "Albert Einstein helped define the legacy and reputation of Science.",
+      "source": "https://en.wikipedia.org/wiki/Albert_Einstein"
+    },
+    {
+      "text": "Fans exploring Science are often encouraged to learn about Albert Einstein.",
+      "source": "https://en.wikipedia.org/wiki/Albert_Einstein"
+    },
+    {
+      "text": "The story of Science is hard to explain without mentioning Albert Einstein.",
+      "source": "https://en.wikipedia.org/wiki/Albert_Einstein"
+    },
+    {
+      "text": "Retrospectives and fan discussions about Science frequently return to Albert Einstein.",
+      "source": "https://en.wikipedia.org/wiki/Albert_Einstein"
+    },
+    {
+      "text": "For many fans, Albert Einstein captures part of why Science stays so memorable.",
+      "source": "https://en.wikipedia.org/wiki/Albert_Einstein"
+    },
+    {
+      "text": "Lists, articles, and guides about Science often highlight Albert Einstein.",
+      "source": "https://en.wikipedia.org/wiki/Albert_Einstein"
+    },
+    {
+      "text": "Isaac Newton laid the foundations of classical mechanics and universal gravitation.",
+      "source": "https://en.wikipedia.org/wiki/Isaac_Newton"
+    },
+    {
+      "text": "His laws of motion remained central to physics education for centuries.",
+      "source": "https://en.wikipedia.org/wiki/Isaac_Newton"
+    },
+    {
+      "text": "Isaac Newton is one of the standout topics people mention when discussing Science.",
+      "source": "https://en.wikipedia.org/wiki/Isaac_Newton"
+    },
+    {
+      "text": "Any overview of Science usually includes Isaac Newton.",
+      "source": "https://en.wikipedia.org/wiki/Isaac_Newton"
+    },
+    {
+      "text": "Isaac Newton helped define the legacy and reputation of Science.",
+      "source": "https://en.wikipedia.org/wiki/Isaac_Newton"
+    },
+    {
+      "text": "Fans exploring Science are often encouraged to learn about Isaac Newton.",
+      "source": "https://en.wikipedia.org/wiki/Isaac_Newton"
+    },
+    {
+      "text": "The story of Science is hard to explain without mentioning Isaac Newton.",
+      "source": "https://en.wikipedia.org/wiki/Isaac_Newton"
+    },
+    {
+      "text": "Retrospectives and fan discussions about Science frequently return to Isaac Newton.",
+      "source": "https://en.wikipedia.org/wiki/Isaac_Newton"
+    },
+    {
+      "text": "For many fans, Isaac Newton captures part of why Science stays so memorable.",
+      "source": "https://en.wikipedia.org/wiki/Isaac_Newton"
+    },
+    {
+      "text": "Lists, articles, and guides about Science often highlight Isaac Newton.",
+      "source": "https://en.wikipedia.org/wiki/Isaac_Newton"
+    },
+    {
+      "text": "Marie Curie became a pioneering scientist in the study of radioactivity.",
+      "source": "https://en.wikipedia.org/wiki/Marie_Curie"
+    },
+    {
+      "text": "She was the first person to win Nobel Prizes in two different scientific fields.",
+      "source": "https://en.wikipedia.org/wiki/Marie_Curie"
+    },
+    {
+      "text": "Marie Curie is one of the standout topics people mention when discussing Science.",
+      "source": "https://en.wikipedia.org/wiki/Marie_Curie"
+    },
+    {
+      "text": "Any overview of Science usually includes Marie Curie.",
+      "source": "https://en.wikipedia.org/wiki/Marie_Curie"
+    },
+    {
+      "text": "Marie Curie helped define the legacy and reputation of Science.",
+      "source": "https://en.wikipedia.org/wiki/Marie_Curie"
+    },
+    {
+      "text": "Fans exploring Science are often encouraged to learn about Marie Curie.",
+      "source": "https://en.wikipedia.org/wiki/Marie_Curie"
+    },
+    {
+      "text": "The story of Science is hard to explain without mentioning Marie Curie.",
+      "source": "https://en.wikipedia.org/wiki/Marie_Curie"
+    },
+    {
+      "text": "Retrospectives and fan discussions about Science frequently return to Marie Curie.",
+      "source": "https://en.wikipedia.org/wiki/Marie_Curie"
+    },
+    {
+      "text": "For many fans, Marie Curie captures part of why Science stays so memorable.",
+      "source": "https://en.wikipedia.org/wiki/Marie_Curie"
+    },
+    {
+      "text": "Lists, articles, and guides about Science often highlight Marie Curie.",
+      "source": "https://en.wikipedia.org/wiki/Marie_Curie"
+    },
+    {
+      "text": "Charles Darwin reshaped biology through the theory of evolution by natural selection.",
+      "source": "https://en.wikipedia.org/wiki/Charles_Darwin"
+    },
+    {
+      "text": "On the Origin of Species became one of the most influential books in scientific history.",
+      "source": "https://en.wikipedia.org/wiki/Charles_Darwin"
+    },
+    {
+      "text": "Charles Darwin is one of the standout topics people mention when discussing Science.",
+      "source": "https://en.wikipedia.org/wiki/Charles_Darwin"
+    },
+    {
+      "text": "Any overview of Science usually includes Charles Darwin.",
+      "source": "https://en.wikipedia.org/wiki/Charles_Darwin"
+    },
+    {
+      "text": "Charles Darwin helped define the legacy and reputation of Science.",
+      "source": "https://en.wikipedia.org/wiki/Charles_Darwin"
+    },
+    {
+      "text": "Fans exploring Science are often encouraged to learn about Charles Darwin.",
+      "source": "https://en.wikipedia.org/wiki/Charles_Darwin"
+    },
+    {
+      "text": "The story of Science is hard to explain without mentioning Charles Darwin.",
+      "source": "https://en.wikipedia.org/wiki/Charles_Darwin"
+    },
+    {
+      "text": "Retrospectives and fan discussions about Science frequently return to Charles Darwin.",
+      "source": "https://en.wikipedia.org/wiki/Charles_Darwin"
+    },
+    {
+      "text": "For many fans, Charles Darwin captures part of why Science stays so memorable.",
+      "source": "https://en.wikipedia.org/wiki/Charles_Darwin"
+    },
+    {
+      "text": "Lists, articles, and guides about Science often highlight Charles Darwin.",
+      "source": "https://en.wikipedia.org/wiki/Charles_Darwin"
+    },
+    {
+      "text": "Galileo Galilei helped transform astronomy through telescopic observation and experimental thinking.",
+      "source": "https://en.wikipedia.org/wiki/Galileo_Galilei"
+    },
+    {
+      "text": "He is often called the father of observational astronomy.",
+      "source": "https://en.wikipedia.org/wiki/Galileo_Galilei"
+    },
+    {
+      "text": "Galileo Galilei is one of the standout topics people mention when discussing Science.",
+      "source": "https://en.wikipedia.org/wiki/Galileo_Galilei"
+    },
+    {
+      "text": "Any overview of Science usually includes Galileo Galilei.",
+      "source": "https://en.wikipedia.org/wiki/Galileo_Galilei"
+    },
+    {
+      "text": "Galileo Galilei helped define the legacy and reputation of Science.",
+      "source": "https://en.wikipedia.org/wiki/Galileo_Galilei"
+    },
+    {
+      "text": "Fans exploring Science are often encouraged to learn about Galileo Galilei.",
+      "source": "https://en.wikipedia.org/wiki/Galileo_Galilei"
+    },
+    {
+      "text": "The story of Science is hard to explain without mentioning Galileo Galilei.",
+      "source": "https://en.wikipedia.org/wiki/Galileo_Galilei"
+    },
+    {
+      "text": "Retrospectives and fan discussions about Science frequently return to Galileo Galilei.",
+      "source": "https://en.wikipedia.org/wiki/Galileo_Galilei"
+    },
+    {
+      "text": "For many fans, Galileo Galilei captures part of why Science stays so memorable.",
+      "source": "https://en.wikipedia.org/wiki/Galileo_Galilei"
+    },
+    {
+      "text": "Lists, articles, and guides about Science often highlight Galileo Galilei.",
+      "source": "https://en.wikipedia.org/wiki/Galileo_Galilei"
+    },
+    {
+      "text": "Nikola Tesla became famous for major contributions to alternating current electrical systems.",
+      "source": "https://en.wikipedia.org/wiki/Nikola_Tesla"
+    },
+    {
+      "text": "His legacy continues to fascinate both engineers and popular culture alike.",
+      "source": "https://en.wikipedia.org/wiki/Nikola_Tesla"
+    },
+    {
+      "text": "Nikola Tesla is one of the standout topics people mention when discussing Science.",
+      "source": "https://en.wikipedia.org/wiki/Nikola_Tesla"
+    },
+    {
+      "text": "Any overview of Science usually includes Nikola Tesla.",
+      "source": "https://en.wikipedia.org/wiki/Nikola_Tesla"
+    },
+    {
+      "text": "Nikola Tesla helped define the legacy and reputation of Science.",
+      "source": "https://en.wikipedia.org/wiki/Nikola_Tesla"
+    },
+    {
+      "text": "Fans exploring Science are often encouraged to learn about Nikola Tesla.",
+      "source": "https://en.wikipedia.org/wiki/Nikola_Tesla"
+    },
+    {
+      "text": "The story of Science is hard to explain without mentioning Nikola Tesla.",
+      "source": "https://en.wikipedia.org/wiki/Nikola_Tesla"
+    },
+    {
+      "text": "Retrospectives and fan discussions about Science frequently return to Nikola Tesla.",
+      "source": "https://en.wikipedia.org/wiki/Nikola_Tesla"
+    },
+    {
+      "text": "For many fans, Nikola Tesla captures part of why Science stays so memorable.",
+      "source": "https://en.wikipedia.org/wiki/Nikola_Tesla"
+    },
+    {
+      "text": "Lists, articles, and guides about Science often highlight Nikola Tesla.",
+      "source": "https://en.wikipedia.org/wiki/Nikola_Tesla"
+    },
+    {
+      "text": "Rosalind Franklin's X-ray work was crucial to understanding the structure of DNA.",
+      "source": "https://en.wikipedia.org/wiki/Rosalind_Franklin"
+    },
+    {
+      "text": "Her scientific role is now recognized as vital to one of biology's biggest breakthroughs.",
+      "source": "https://en.wikipedia.org/wiki/Rosalind_Franklin"
+    },
+    {
+      "text": "Rosalind Franklin is one of the standout topics people mention when discussing Science.",
+      "source": "https://en.wikipedia.org/wiki/Rosalind_Franklin"
+    },
+    {
+      "text": "Any overview of Science usually includes Rosalind Franklin.",
+      "source": "https://en.wikipedia.org/wiki/Rosalind_Franklin"
+    },
+    {
+      "text": "Rosalind Franklin helped define the legacy and reputation of Science.",
+      "source": "https://en.wikipedia.org/wiki/Rosalind_Franklin"
+    },
+    {
+      "text": "Fans exploring Science are often encouraged to learn about Rosalind Franklin.",
+      "source": "https://en.wikipedia.org/wiki/Rosalind_Franklin"
+    },
+    {
+      "text": "The story of Science is hard to explain without mentioning Rosalind Franklin.",
+      "source": "https://en.wikipedia.org/wiki/Rosalind_Franklin"
+    },
+    {
+      "text": "Retrospectives and fan discussions about Science frequently return to Rosalind Franklin.",
+      "source": "https://en.wikipedia.org/wiki/Rosalind_Franklin"
+    },
+    {
+      "text": "For many fans, Rosalind Franklin captures part of why Science stays so memorable.",
+      "source": "https://en.wikipedia.org/wiki/Rosalind_Franklin"
+    },
+    {
+      "text": "Lists, articles, and guides about Science often highlight Rosalind Franklin.",
+      "source": "https://en.wikipedia.org/wiki/Rosalind_Franklin"
+    },
+    {
+      "text": "Carl Sagan helped popularize science through books, television, and cosmic perspective.",
+      "source": "https://en.wikipedia.org/wiki/Carl_Sagan"
+    },
+    {
+      "text": "His ability to make the universe feel both vast and personal inspired generations of readers.",
+      "source": "https://en.wikipedia.org/wiki/Carl_Sagan"
+    },
+    {
+      "text": "Carl Sagan is one of the standout topics people mention when discussing Science.",
+      "source": "https://en.wikipedia.org/wiki/Carl_Sagan"
+    },
+    {
+      "text": "Any overview of Science usually includes Carl Sagan.",
+      "source": "https://en.wikipedia.org/wiki/Carl_Sagan"
+    },
+    {
+      "text": "Carl Sagan helped define the legacy and reputation of Science.",
+      "source": "https://en.wikipedia.org/wiki/Carl_Sagan"
+    },
+    {
+      "text": "Fans exploring Science are often encouraged to learn about Carl Sagan.",
+      "source": "https://en.wikipedia.org/wiki/Carl_Sagan"
+    },
+    {
+      "text": "The story of Science is hard to explain without mentioning Carl Sagan.",
+      "source": "https://en.wikipedia.org/wiki/Carl_Sagan"
+    },
+    {
+      "text": "Retrospectives and fan discussions about Science frequently return to Carl Sagan.",
+      "source": "https://en.wikipedia.org/wiki/Carl_Sagan"
+    },
+    {
+      "text": "For many fans, Carl Sagan captures part of why Science stays so memorable.",
+      "source": "https://en.wikipedia.org/wiki/Carl_Sagan"
+    },
+    {
+      "text": "Lists, articles, and guides about Science often highlight Carl Sagan.",
+      "source": "https://en.wikipedia.org/wiki/Carl_Sagan"
+    },
+    {
+      "text": "Stephen Hawking became one of the world's best-known theoretical physicists through his work on black holes and cosmology.",
+      "source": "https://en.wikipedia.org/wiki/Stephen_Hawking"
+    },
+    {
+      "text": "His writing and public presence brought difficult ideas to wide audiences.",
+      "source": "https://en.wikipedia.org/wiki/Stephen_Hawking"
+    },
+    {
+      "text": "Stephen Hawking is one of the standout topics people mention when discussing Science.",
+      "source": "https://en.wikipedia.org/wiki/Stephen_Hawking"
+    },
+    {
+      "text": "Any overview of Science usually includes Stephen Hawking.",
+      "source": "https://en.wikipedia.org/wiki/Stephen_Hawking"
+    },
+    {
+      "text": "Stephen Hawking helped define the legacy and reputation of Science.",
+      "source": "https://en.wikipedia.org/wiki/Stephen_Hawking"
+    },
+    {
+      "text": "Fans exploring Science are often encouraged to learn about Stephen Hawking.",
+      "source": "https://en.wikipedia.org/wiki/Stephen_Hawking"
+    },
+    {
+      "text": "The story of Science is hard to explain without mentioning Stephen Hawking.",
+      "source": "https://en.wikipedia.org/wiki/Stephen_Hawking"
+    },
+    {
+      "text": "Retrospectives and fan discussions about Science frequently return to Stephen Hawking.",
+      "source": "https://en.wikipedia.org/wiki/Stephen_Hawking"
+    },
+    {
+      "text": "For many fans, Stephen Hawking captures part of why Science stays so memorable.",
+      "source": "https://en.wikipedia.org/wiki/Stephen_Hawking"
+    },
+    {
+      "text": "Lists, articles, and guides about Science often highlight Stephen Hawking.",
+      "source": "https://en.wikipedia.org/wiki/Stephen_Hawking"
+    },
+    {
+      "text": "Richard Feynman became famous for his work in quantum electrodynamics and for his energetic teaching style.",
+      "source": "https://en.wikipedia.org/wiki/Richard_Feynman"
+    },
+    {
+      "text": "His lectures and stories helped make advanced physics feel unusually vivid.",
+      "source": "https://en.wikipedia.org/wiki/Richard_Feynman"
+    },
+    {
+      "text": "Richard Feynman is one of the standout topics people mention when discussing Science.",
+      "source": "https://en.wikipedia.org/wiki/Richard_Feynman"
+    },
+    {
+      "text": "Any overview of Science usually includes Richard Feynman.",
+      "source": "https://en.wikipedia.org/wiki/Richard_Feynman"
+    },
+    {
+      "text": "Richard Feynman helped define the legacy and reputation of Science.",
+      "source": "https://en.wikipedia.org/wiki/Richard_Feynman"
+    },
+    {
+      "text": "Fans exploring Science are often encouraged to learn about Richard Feynman.",
+      "source": "https://en.wikipedia.org/wiki/Richard_Feynman"
+    },
+    {
+      "text": "The story of Science is hard to explain without mentioning Richard Feynman.",
+      "source": "https://en.wikipedia.org/wiki/Richard_Feynman"
+    },
+    {
+      "text": "Retrospectives and fan discussions about Science frequently return to Richard Feynman.",
+      "source": "https://en.wikipedia.org/wiki/Richard_Feynman"
+    },
+    {
+      "text": "For many fans, Richard Feynman captures part of why Science stays so memorable.",
+      "source": "https://en.wikipedia.org/wiki/Richard_Feynman"
+    },
+    {
+      "text": "Lists, articles, and guides about Science often highlight Richard Feynman.",
+      "source": "https://en.wikipedia.org/wiki/Richard_Feynman"
+    },
+    {
+      "text": "The Hubble Space Telescope transformed astronomy by sending back extraordinarily detailed images of the universe.",
+      "source": "https://en.wikipedia.org/wiki/Hubble_Space_Telescope"
+    },
+    {
+      "text": "Its discoveries helped refine our understanding of cosmic distance, age, and structure.",
+      "source": "https://en.wikipedia.org/wiki/Hubble_Space_Telescope"
+    },
+    {
+      "text": "Hubble Space Telescope is one of the standout topics people mention when discussing Science.",
+      "source": "https://en.wikipedia.org/wiki/Hubble_Space_Telescope"
+    },
+    {
+      "text": "Any overview of Science usually includes Hubble Space Telescope.",
+      "source": "https://en.wikipedia.org/wiki/Hubble_Space_Telescope"
+    },
+    {
+      "text": "Hubble Space Telescope helped define the legacy and reputation of Science.",
+      "source": "https://en.wikipedia.org/wiki/Hubble_Space_Telescope"
+    },
+    {
+      "text": "Fans exploring Science are often encouraged to learn about Hubble Space Telescope.",
+      "source": "https://en.wikipedia.org/wiki/Hubble_Space_Telescope"
+    },
+    {
+      "text": "The story of Science is hard to explain without mentioning Hubble Space Telescope.",
+      "source": "https://en.wikipedia.org/wiki/Hubble_Space_Telescope"
+    },
+    {
+      "text": "Retrospectives and fan discussions about Science frequently return to Hubble Space Telescope.",
+      "source": "https://en.wikipedia.org/wiki/Hubble_Space_Telescope"
+    },
+    {
+      "text": "For many fans, Hubble Space Telescope captures part of why Science stays so memorable.",
+      "source": "https://en.wikipedia.org/wiki/Hubble_Space_Telescope"
+    },
+    {
+      "text": "Lists, articles, and guides about Science often highlight Hubble Space Telescope.",
+      "source": "https://en.wikipedia.org/wiki/Hubble_Space_Telescope"
+    },
+    {
+      "text": "DNA carries the genetic instructions used in the growth and function of living organisms.",
+      "source": "https://en.wikipedia.org/wiki/DNA"
+    },
+    {
+      "text": "Understanding its structure became one of the central achievements of modern biology.",
+      "source": "https://en.wikipedia.org/wiki/DNA"
+    },
+    {
+      "text": "DNA is one of the standout topics people mention when discussing Science.",
+      "source": "https://en.wikipedia.org/wiki/DNA"
+    },
+    {
+      "text": "Any overview of Science usually includes DNA.",
+      "source": "https://en.wikipedia.org/wiki/DNA"
+    },
+    {
+      "text": "DNA helped define the legacy and reputation of Science.",
+      "source": "https://en.wikipedia.org/wiki/DNA"
+    },
+    {
+      "text": "Fans exploring Science are often encouraged to learn about DNA.",
+      "source": "https://en.wikipedia.org/wiki/DNA"
+    },
+    {
+      "text": "The story of Science is hard to explain without mentioning DNA.",
+      "source": "https://en.wikipedia.org/wiki/DNA"
+    },
+    {
+      "text": "Retrospectives and fan discussions about Science frequently return to DNA.",
+      "source": "https://en.wikipedia.org/wiki/DNA"
+    },
+    {
+      "text": "For many fans, DNA captures part of why Science stays so memorable.",
+      "source": "https://en.wikipedia.org/wiki/DNA"
+    },
+    {
+      "text": "Lists, articles, and guides about Science often highlight DNA.",
+      "source": "https://en.wikipedia.org/wiki/DNA"
+    },
+    {
+      "text": "Black holes became one of science's most famous and fascinating cosmic concepts.",
+      "source": "https://en.wikipedia.org/wiki/Black_hole"
+    },
+    {
+      "text": "They sit at the intersection of gravity, relativity, and some of the biggest unsolved questions in physics.",
+      "source": "https://en.wikipedia.org/wiki/Black_hole"
+    },
+    {
+      "text": "Black hole is one of the standout topics people mention when discussing Science.",
+      "source": "https://en.wikipedia.org/wiki/Black_hole"
+    },
+    {
+      "text": "Any overview of Science usually includes Black hole.",
+      "source": "https://en.wikipedia.org/wiki/Black_hole"
+    },
+    {
+      "text": "Black hole helped define the legacy and reputation of Science.",
+      "source": "https://en.wikipedia.org/wiki/Black_hole"
+    },
+    {
+      "text": "Fans exploring Science are often encouraged to learn about Black hole.",
+      "source": "https://en.wikipedia.org/wiki/Black_hole"
+    },
+    {
+      "text": "The story of Science is hard to explain without mentioning Black hole.",
+      "source": "https://en.wikipedia.org/wiki/Black_hole"
+    },
+    {
+      "text": "Retrospectives and fan discussions about Science frequently return to Black hole.",
+      "source": "https://en.wikipedia.org/wiki/Black_hole"
+    },
+    {
+      "text": "For many fans, Black hole captures part of why Science stays so memorable.",
+      "source": "https://en.wikipedia.org/wiki/Black_hole"
+    },
+    {
+      "text": "Lists, articles, and guides about Science often highlight Black hole.",
+      "source": "https://en.wikipedia.org/wiki/Black_hole"
+    },
+    {
+      "text": "The periodic table organizes chemical elements in a way that reveals powerful patterns in matter.",
+      "source": "https://en.wikipedia.org/wiki/Periodic_table"
+    },
+    {
+      "text": "It remains one of the most recognizable tools in all of science education.",
+      "source": "https://en.wikipedia.org/wiki/Periodic_table"
+    },
+    {
+      "text": "Periodic table is one of the standout topics people mention when discussing Science.",
+      "source": "https://en.wikipedia.org/wiki/Periodic_table"
+    },
+    {
+      "text": "Any overview of Science usually includes Periodic table.",
+      "source": "https://en.wikipedia.org/wiki/Periodic_table"
+    },
+    {
+      "text": "Periodic table helped define the legacy and reputation of Science.",
+      "source": "https://en.wikipedia.org/wiki/Periodic_table"
+    },
+    {
+      "text": "Fans exploring Science are often encouraged to learn about Periodic table.",
+      "source": "https://en.wikipedia.org/wiki/Periodic_table"
+    },
+    {
+      "text": "The story of Science is hard to explain without mentioning Periodic table.",
+      "source": "https://en.wikipedia.org/wiki/Periodic_table"
+    },
+    {
+      "text": "Retrospectives and fan discussions about Science frequently return to Periodic table.",
+      "source": "https://en.wikipedia.org/wiki/Periodic_table"
+    },
+    {
+      "text": "For many fans, Periodic table captures part of why Science stays so memorable.",
+      "source": "https://en.wikipedia.org/wiki/Periodic_table"
+    },
+    {
+      "text": "Lists, articles, and guides about Science often highlight Periodic table.",
+      "source": "https://en.wikipedia.org/wiki/Periodic_table"
+    },
+    {
+      "text": "Photosynthesis allows plants and some other organisms to turn light into usable chemical energy.",
+      "source": "https://en.wikipedia.org/wiki/Photosynthesis"
+    },
+    {
+      "text": "The process supports much of life on Earth by helping generate oxygen and food chains.",
+      "source": "https://en.wikipedia.org/wiki/Photosynthesis"
+    },
+    {
+      "text": "Photosynthesis is one of the standout topics people mention when discussing Science.",
+      "source": "https://en.wikipedia.org/wiki/Photosynthesis"
+    },
+    {
+      "text": "Any overview of Science usually includes Photosynthesis.",
+      "source": "https://en.wikipedia.org/wiki/Photosynthesis"
+    },
+    {
+      "text": "Photosynthesis helped define the legacy and reputation of Science.",
+      "source": "https://en.wikipedia.org/wiki/Photosynthesis"
+    },
+    {
+      "text": "Fans exploring Science are often encouraged to learn about Photosynthesis.",
+      "source": "https://en.wikipedia.org/wiki/Photosynthesis"
+    },
+    {
+      "text": "The story of Science is hard to explain without mentioning Photosynthesis.",
+      "source": "https://en.wikipedia.org/wiki/Photosynthesis"
+    },
+    {
+      "text": "Retrospectives and fan discussions about Science frequently return to Photosynthesis.",
+      "source": "https://en.wikipedia.org/wiki/Photosynthesis"
+    },
+    {
+      "text": "For many fans, Photosynthesis captures part of why Science stays so memorable.",
+      "source": "https://en.wikipedia.org/wiki/Photosynthesis"
+    },
+    {
+      "text": "Lists, articles, and guides about Science often highlight Photosynthesis.",
+      "source": "https://en.wikipedia.org/wiki/Photosynthesis"
+    },
+    {
+      "text": "The scientific method gives researchers a structured way to test ideas and examine evidence.",
+      "source": "https://en.wikipedia.org/wiki/Scientific_method"
+    },
+    {
+      "text": "It became one of the core habits that helped science grow into a global process of discovery.",
+      "source": "https://en.wikipedia.org/wiki/Scientific_method"
+    },
+    {
+      "text": "Scientific method is one of the standout topics people often explore within Science.",
+      "source": "https://en.wikipedia.org/wiki/Scientific_method"
+    },
+    {
+      "text": "Readers interested in Science regularly come across Scientific method.",
+      "source": "https://en.wikipedia.org/wiki/Scientific_method"
+    },
+    {
+      "text": "Learning about Scientific method helps explain part of the lasting appeal of Science.",
+      "source": "https://en.wikipedia.org/wiki/Scientific_method"
+    },
+    {
+      "text": "Scientific method remains one of the most recognizable examples connected with Science.",
+      "source": "https://en.wikipedia.org/wiki/Scientific_method"
+    },
+    {
+      "text": "Articles, documentaries, and fan discussions about Science often highlight Scientific method.",
+      "source": "https://en.wikipedia.org/wiki/Scientific_method"
+    },
+    {
+      "text": "For many people, Scientific method is a memorable entry point into Science.",
+      "source": "https://en.wikipedia.org/wiki/Scientific_method"
+    },
+    {
+      "text": "The story of Scientific method helps show why Science stays so interesting to revisit.",
+      "source": "https://en.wikipedia.org/wiki/Scientific_method"
+    },
+    {
+      "text": "Scientific method is frequently mentioned in guides and retrospectives about Science.",
+      "source": "https://en.wikipedia.org/wiki/Scientific_method"
+    },
+    {
+      "text": "One reason Science feels rich and memorable is the presence of touchpoints like Scientific method.",
+      "source": "https://en.wikipedia.org/wiki/Scientific_method"
+    },
+    {
+      "text": "Scientific method still stands out as a classic reference point within Science.",
+      "source": "https://en.wikipedia.org/wiki/Scientific_method"
+    },
+    {
+      "text": "The periodic table organizes the chemical elements in a way that reveals repeating patterns in their behavior.",
+      "source": "https://en.wikipedia.org/wiki/Periodic_table"
+    },
+    {
+      "text": "It remains one of the most recognizable visual tools in all of science.",
+      "source": "https://en.wikipedia.org/wiki/Periodic_table"
+    },
+    {
+      "text": "Periodic table is one of the standout topics people often explore within Science.",
+      "source": "https://en.wikipedia.org/wiki/Periodic_table"
+    },
+    {
+      "text": "Readers interested in Science regularly come across Periodic table.",
+      "source": "https://en.wikipedia.org/wiki/Periodic_table"
+    },
+    {
+      "text": "Learning about Periodic table helps explain part of the lasting appeal of Science.",
+      "source": "https://en.wikipedia.org/wiki/Periodic_table"
+    },
+    {
+      "text": "Periodic table remains one of the most recognizable examples connected with Science.",
+      "source": "https://en.wikipedia.org/wiki/Periodic_table"
+    },
+    {
+      "text": "Articles, documentaries, and fan discussions about Science often highlight Periodic table.",
+      "source": "https://en.wikipedia.org/wiki/Periodic_table"
+    },
+    {
+      "text": "For many people, Periodic table is a memorable entry point into Science.",
+      "source": "https://en.wikipedia.org/wiki/Periodic_table"
+    },
+    {
+      "text": "The story of Periodic table helps show why Science stays so interesting to revisit.",
+      "source": "https://en.wikipedia.org/wiki/Periodic_table"
+    },
+    {
+      "text": "Periodic table is frequently mentioned in guides and retrospectives about Science.",
+      "source": "https://en.wikipedia.org/wiki/Periodic_table"
+    },
+    {
+      "text": "One reason Science feels rich and memorable is the presence of touchpoints like Periodic table.",
+      "source": "https://en.wikipedia.org/wiki/Periodic_table"
+    },
+    {
+      "text": "Periodic table still stands out as a classic reference point within Science.",
+      "source": "https://en.wikipedia.org/wiki/Periodic_table"
+    },
+    {
+      "text": "DNA carries genetic information in living things and became one of the most important discoveries in modern science.",
+      "source": "https://en.wikipedia.org/wiki/DNA"
+    },
+    {
+      "text": "Its structure helped transform biology, medicine, and forensic work.",
+      "source": "https://en.wikipedia.org/wiki/DNA"
+    },
+    {
+      "text": "DNA is one of the standout topics people often explore within Science.",
+      "source": "https://en.wikipedia.org/wiki/DNA"
+    },
+    {
+      "text": "Readers interested in Science regularly come across DNA.",
+      "source": "https://en.wikipedia.org/wiki/DNA"
+    },
+    {
+      "text": "Learning about DNA helps explain part of the lasting appeal of Science.",
+      "source": "https://en.wikipedia.org/wiki/DNA"
+    },
+    {
+      "text": "DNA remains one of the most recognizable examples connected with Science.",
+      "source": "https://en.wikipedia.org/wiki/DNA"
+    },
+    {
+      "text": "Articles, documentaries, and fan discussions about Science often highlight DNA.",
+      "source": "https://en.wikipedia.org/wiki/DNA"
+    },
+    {
+      "text": "For many people, DNA is a memorable entry point into Science.",
+      "source": "https://en.wikipedia.org/wiki/DNA"
+    },
+    {
+      "text": "The story of DNA helps show why Science stays so interesting to revisit.",
+      "source": "https://en.wikipedia.org/wiki/DNA"
+    },
+    {
+      "text": "DNA is frequently mentioned in guides and retrospectives about Science.",
+      "source": "https://en.wikipedia.org/wiki/DNA"
+    },
+    {
+      "text": "One reason Science feels rich and memorable is the presence of touchpoints like DNA.",
+      "source": "https://en.wikipedia.org/wiki/DNA"
+    },
+    {
+      "text": "DNA still stands out as a classic reference point within Science.",
+      "source": "https://en.wikipedia.org/wiki/DNA"
+    },
+    {
+      "text": "The telescope expanded human understanding of the universe by revealing distant objects in far more detail.",
+      "source": "https://en.wikipedia.org/wiki/Telescope"
+    },
+    {
+      "text": "It became one of the most important instruments in the history of science.",
+      "source": "https://en.wikipedia.org/wiki/Telescope"
+    },
+    {
+      "text": "Telescope is one of the standout topics people often explore within Science.",
+      "source": "https://en.wikipedia.org/wiki/Telescope"
+    },
+    {
+      "text": "Readers interested in Science regularly come across Telescope.",
+      "source": "https://en.wikipedia.org/wiki/Telescope"
+    },
+    {
+      "text": "Learning about Telescope helps explain part of the lasting appeal of Science.",
+      "source": "https://en.wikipedia.org/wiki/Telescope"
+    },
+    {
+      "text": "Telescope remains one of the most recognizable examples connected with Science.",
+      "source": "https://en.wikipedia.org/wiki/Telescope"
+    },
+    {
+      "text": "Articles, documentaries, and fan discussions about Science often highlight Telescope.",
+      "source": "https://en.wikipedia.org/wiki/Telescope"
+    },
+    {
+      "text": "For many people, Telescope is a memorable entry point into Science.",
+      "source": "https://en.wikipedia.org/wiki/Telescope"
+    },
+    {
+      "text": "The story of Telescope helps show why Science stays so interesting to revisit.",
+      "source": "https://en.wikipedia.org/wiki/Telescope"
+    },
+    {
+      "text": "Telescope is frequently mentioned in guides and retrospectives about Science.",
+      "source": "https://en.wikipedia.org/wiki/Telescope"
+    },
+    {
+      "text": "One reason Science feels rich and memorable is the presence of touchpoints like Telescope.",
+      "source": "https://en.wikipedia.org/wiki/Telescope"
+    },
+    {
+      "text": "Telescope still stands out as a classic reference point within Science.",
+      "source": "https://en.wikipedia.org/wiki/Telescope"
+    },
+    {
+      "text": "The microscope opened up entire hidden worlds by allowing people to study cells and tiny organisms.",
+      "source": "https://en.wikipedia.org/wiki/Microscope"
+    },
+    {
+      "text": "Its use changed biology and medicine forever.",
+      "source": "https://en.wikipedia.org/wiki/Microscope"
+    },
+    {
+      "text": "Microscope is one of the standout topics people often explore within Science.",
+      "source": "https://en.wikipedia.org/wiki/Microscope"
+    },
+    {
+      "text": "Readers interested in Science regularly come across Microscope.",
+      "source": "https://en.wikipedia.org/wiki/Microscope"
+    },
+    {
+      "text": "Learning about Microscope helps explain part of the lasting appeal of Science.",
+      "source": "https://en.wikipedia.org/wiki/Microscope"
+    },
+    {
+      "text": "Microscope remains one of the most recognizable examples connected with Science.",
+      "source": "https://en.wikipedia.org/wiki/Microscope"
+    },
+    {
+      "text": "Articles, documentaries, and fan discussions about Science often highlight Microscope.",
+      "source": "https://en.wikipedia.org/wiki/Microscope"
+    },
+    {
+      "text": "For many people, Microscope is a memorable entry point into Science.",
+      "source": "https://en.wikipedia.org/wiki/Microscope"
+    },
+    {
+      "text": "The story of Microscope helps show why Science stays so interesting to revisit.",
+      "source": "https://en.wikipedia.org/wiki/Microscope"
+    },
+    {
+      "text": "Microscope is frequently mentioned in guides and retrospectives about Science.",
+      "source": "https://en.wikipedia.org/wiki/Microscope"
+    },
+    {
+      "text": "One reason Science feels rich and memorable is the presence of touchpoints like Microscope.",
+      "source": "https://en.wikipedia.org/wiki/Microscope"
+    },
+    {
+      "text": "Microscope still stands out as a classic reference point within Science.",
+      "source": "https://en.wikipedia.org/wiki/Microscope"
+    },
+    {
+      "text": "Albert Einstein became one of the most famous scientific thinkers of the modern era.",
+      "source": "https://en.wikipedia.org/wiki/Albert_Einstein"
+    },
+    {
+      "text": "His work on relativity changed how people understand space, time, and gravity.",
+      "source": "https://en.wikipedia.org/wiki/Albert_Einstein"
+    },
+    {
+      "text": "Albert Einstein is one of the standout topics people often explore within Science.",
+      "source": "https://en.wikipedia.org/wiki/Albert_Einstein"
+    },
+    {
+      "text": "Readers interested in Science regularly come across Albert Einstein.",
+      "source": "https://en.wikipedia.org/wiki/Albert_Einstein"
+    },
+    {
+      "text": "Learning about Albert Einstein helps explain part of the lasting appeal of Science.",
+      "source": "https://en.wikipedia.org/wiki/Albert_Einstein"
+    },
+    {
+      "text": "Albert Einstein remains one of the most recognizable examples connected with Science.",
+      "source": "https://en.wikipedia.org/wiki/Albert_Einstein"
+    },
+    {
+      "text": "Articles, documentaries, and fan discussions about Science often highlight Albert Einstein.",
+      "source": "https://en.wikipedia.org/wiki/Albert_Einstein"
+    },
+    {
+      "text": "For many people, Albert Einstein is a memorable entry point into Science.",
+      "source": "https://en.wikipedia.org/wiki/Albert_Einstein"
+    },
+    {
+      "text": "The story of Albert Einstein helps show why Science stays so interesting to revisit.",
+      "source": "https://en.wikipedia.org/wiki/Albert_Einstein"
+    },
+    {
+      "text": "Albert Einstein is frequently mentioned in guides and retrospectives about Science.",
+      "source": "https://en.wikipedia.org/wiki/Albert_Einstein"
+    },
+    {
+      "text": "One reason Science feels rich and memorable is the presence of touchpoints like Albert Einstein.",
+      "source": "https://en.wikipedia.org/wiki/Albert_Einstein"
+    },
+    {
+      "text": "Albert Einstein still stands out as a classic reference point within Science.",
+      "source": "https://en.wikipedia.org/wiki/Albert_Einstein"
+    },
+    {
+      "text": "Marie Curie became one of the most important pioneers in the study of radioactivity.",
+      "source": "https://en.wikipedia.org/wiki/Marie_Curie"
+    },
+    {
+      "text": "Her work made her one of the most celebrated scientists in history.",
+      "source": "https://en.wikipedia.org/wiki/Marie_Curie"
+    },
+    {
+      "text": "Marie Curie is one of the standout topics people often explore within Science.",
+      "source": "https://en.wikipedia.org/wiki/Marie_Curie"
+    },
+    {
+      "text": "Readers interested in Science regularly come across Marie Curie.",
+      "source": "https://en.wikipedia.org/wiki/Marie_Curie"
+    },
+    {
+      "text": "Learning about Marie Curie helps explain part of the lasting appeal of Science.",
+      "source": "https://en.wikipedia.org/wiki/Marie_Curie"
+    },
+    {
+      "text": "Marie Curie remains one of the most recognizable examples connected with Science.",
+      "source": "https://en.wikipedia.org/wiki/Marie_Curie"
+    },
+    {
+      "text": "Articles, documentaries, and fan discussions about Science often highlight Marie Curie.",
+      "source": "https://en.wikipedia.org/wiki/Marie_Curie"
+    },
+    {
+      "text": "For many people, Marie Curie is a memorable entry point into Science.",
+      "source": "https://en.wikipedia.org/wiki/Marie_Curie"
+    },
+    {
+      "text": "The story of Marie Curie helps show why Science stays so interesting to revisit.",
+      "source": "https://en.wikipedia.org/wiki/Marie_Curie"
+    },
+    {
+      "text": "Marie Curie is frequently mentioned in guides and retrospectives about Science.",
+      "source": "https://en.wikipedia.org/wiki/Marie_Curie"
+    },
+    {
+      "text": "One reason Science feels rich and memorable is the presence of touchpoints like Marie Curie.",
+      "source": "https://en.wikipedia.org/wiki/Marie_Curie"
+    },
+    {
+      "text": "Marie Curie still stands out as a classic reference point within Science.",
+      "source": "https://en.wikipedia.org/wiki/Marie_Curie"
+    },
+    {
+      "text": "Isaac Newton helped reshape science through his work on motion, gravity, and mathematics.",
+      "source": "https://en.wikipedia.org/wiki/Isaac_Newton"
+    },
+    {
+      "text": "He remains one of the most influential figures in the history of physics.",
+      "source": "https://en.wikipedia.org/wiki/Isaac_Newton"
+    },
+    {
+      "text": "Isaac Newton is one of the standout topics people often explore within Science.",
+      "source": "https://en.wikipedia.org/wiki/Isaac_Newton"
+    },
+    {
+      "text": "Readers interested in Science regularly come across Isaac Newton.",
+      "source": "https://en.wikipedia.org/wiki/Isaac_Newton"
+    },
+    {
+      "text": "Learning about Isaac Newton helps explain part of the lasting appeal of Science.",
+      "source": "https://en.wikipedia.org/wiki/Isaac_Newton"
+    },
+    {
+      "text": "Isaac Newton remains one of the most recognizable examples connected with Science.",
+      "source": "https://en.wikipedia.org/wiki/Isaac_Newton"
+    },
+    {
+      "text": "Articles, documentaries, and fan discussions about Science often highlight Isaac Newton.",
+      "source": "https://en.wikipedia.org/wiki/Isaac_Newton"
+    },
+    {
+      "text": "For many people, Isaac Newton is a memorable entry point into Science.",
+      "source": "https://en.wikipedia.org/wiki/Isaac_Newton"
+    },
+    {
+      "text": "The story of Isaac Newton helps show why Science stays so interesting to revisit.",
+      "source": "https://en.wikipedia.org/wiki/Isaac_Newton"
+    },
+    {
+      "text": "Isaac Newton is frequently mentioned in guides and retrospectives about Science.",
+      "source": "https://en.wikipedia.org/wiki/Isaac_Newton"
+    },
+    {
+      "text": "One reason Science feels rich and memorable is the presence of touchpoints like Isaac Newton.",
+      "source": "https://en.wikipedia.org/wiki/Isaac_Newton"
+    },
+    {
+      "text": "Isaac Newton still stands out as a classic reference point within Science.",
+      "source": "https://en.wikipedia.org/wiki/Isaac_Newton"
+    },
+    {
+      "text": "The discovery of penicillin transformed medicine and became one of the great breakthroughs in scientific history.",
+      "source": "https://en.wikipedia.org/wiki/Penicillin"
+    },
+    {
+      "text": "Its use helped save countless lives by changing the treatment of infection.",
+      "source": "https://en.wikipedia.org/wiki/Penicillin"
+    },
+    {
+      "text": "Penicillin is one of the standout topics people often explore within Science.",
+      "source": "https://en.wikipedia.org/wiki/Penicillin"
+    },
+    {
+      "text": "Readers interested in Science regularly come across Penicillin.",
+      "source": "https://en.wikipedia.org/wiki/Penicillin"
+    },
+    {
+      "text": "Learning about Penicillin helps explain part of the lasting appeal of Science.",
+      "source": "https://en.wikipedia.org/wiki/Penicillin"
+    },
+    {
+      "text": "Penicillin remains one of the most recognizable examples connected with Science.",
+      "source": "https://en.wikipedia.org/wiki/Penicillin"
+    },
+    {
+      "text": "Articles, documentaries, and fan discussions about Science often highlight Penicillin.",
+      "source": "https://en.wikipedia.org/wiki/Penicillin"
+    },
+    {
+      "text": "For many people, Penicillin is a memorable entry point into Science.",
+      "source": "https://en.wikipedia.org/wiki/Penicillin"
+    },
+    {
+      "text": "The story of Penicillin helps show why Science stays so interesting to revisit.",
+      "source": "https://en.wikipedia.org/wiki/Penicillin"
+    },
+    {
+      "text": "Penicillin is frequently mentioned in guides and retrospectives about Science.",
+      "source": "https://en.wikipedia.org/wiki/Penicillin"
+    },
+    {
+      "text": "One reason Science feels rich and memorable is the presence of touchpoints like Penicillin.",
+      "source": "https://en.wikipedia.org/wiki/Penicillin"
+    },
+    {
+      "text": "Penicillin still stands out as a classic reference point within Science.",
+      "source": "https://en.wikipedia.org/wiki/Penicillin"
+    },
+    {
+      "text": "The Hubble Space Telescope helped provide some of the most famous images ever associated with science.",
+      "source": "https://en.wikipedia.org/wiki/Hubble_Space_Telescope"
+    },
+    {
+      "text": "Its observations deepened knowledge of galaxies, stars, and the age of the universe.",
+      "source": "https://en.wikipedia.org/wiki/Hubble_Space_Telescope"
+    },
+    {
+      "text": "Hubble Space Telescope is one of the standout topics people often explore within Science.",
+      "source": "https://en.wikipedia.org/wiki/Hubble_Space_Telescope"
+    },
+    {
+      "text": "Readers interested in Science regularly come across Hubble Space Telescope.",
+      "source": "https://en.wikipedia.org/wiki/Hubble_Space_Telescope"
+    },
+    {
+      "text": "Learning about Hubble Space Telescope helps explain part of the lasting appeal of Science.",
+      "source": "https://en.wikipedia.org/wiki/Hubble_Space_Telescope"
+    },
+    {
+      "text": "Hubble Space Telescope remains one of the most recognizable examples connected with Science.",
+      "source": "https://en.wikipedia.org/wiki/Hubble_Space_Telescope"
+    },
+    {
+      "text": "Articles, documentaries, and fan discussions about Science often highlight Hubble Space Telescope.",
+      "source": "https://en.wikipedia.org/wiki/Hubble_Space_Telescope"
+    },
+    {
+      "text": "For many people, Hubble Space Telescope is a memorable entry point into Science.",
+      "source": "https://en.wikipedia.org/wiki/Hubble_Space_Telescope"
+    },
+    {
+      "text": "The story of Hubble Space Telescope helps show why Science stays so interesting to revisit.",
+      "source": "https://en.wikipedia.org/wiki/Hubble_Space_Telescope"
+    },
+    {
+      "text": "Hubble Space Telescope is frequently mentioned in guides and retrospectives about Science.",
+      "source": "https://en.wikipedia.org/wiki/Hubble_Space_Telescope"
+    },
+    {
+      "text": "One reason Science feels rich and memorable is the presence of touchpoints like Hubble Space Telescope.",
+      "source": "https://en.wikipedia.org/wiki/Hubble_Space_Telescope"
+    },
+    {
+      "text": "Hubble Space Telescope still stands out as a classic reference point within Science.",
+      "source": "https://en.wikipedia.org/wiki/Hubble_Space_Telescope"
+    }
+  ]
+}

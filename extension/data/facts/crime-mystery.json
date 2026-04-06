@@ -1,0 +1,1737 @@
+{
+  "hobby": "Crime & Mystery",
+  "facts": [
+    {
+      "text": "Jack the Ripper murdered at least five women in the Whitechapel district of London in 1888, and the killer's identity has never been confirmed.",
+      "source": "https://en.wikipedia.org/wiki/Jack_the_Ripper"
+    },
+    {
+      "text": "Agatha Christie is the best-selling fiction writer of all time, with over two billion copies sold worldwide.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Agatha_Christie"
+    },
+    {
+      "text": "The FBI's Combined DNA Index System (CODIS) contains over 14 million offender profiles used to solve crimes across the United States.",
+      "source": "https://en.wikipedia.org/wiki/FBI%27s_Combined_DNA_Index_System_(CODIS)"
+    },
+    {
+      "text": "The TV series CSI: Crime Scene Investigation premiered on CBS and became one of the most-watched shows in the world.",
+      "month": 10,
+      "day": 6,
+      "source": "https://en.wikipedia.org/wiki/TV_series_CSI:_Crime_Scene_Investigation_premiered_on_CBS_and"
+    },
+    {
+      "text": "The Zodiac Killer terrorized Northern California in the late 1960s and early 1970s, sending taunting letters and cryptograms to newspapers.",
+      "source": "https://en.wikipedia.org/wiki/Zodiac_Killer"
+    },
+    {
+      "text": "Fingerprinting was first used for criminal identification in Argentina in 1892 by police official Juan Vucetich.",
+      "source": "https://en.wikipedia.org/wiki/Fingerprinting"
+    },
+    {
+      "text": "Sherlock Holmes first appeared in Arthur Conan Doyle's 'A Study in Scarlet,' published in 1887.",
+      "source": "https://en.wikipedia.org/wiki/Sherlock_Holmes_first"
+    },
+    {
+      "text": "The podcast Serial, which investigated the 1999 murder of Hae Min Lee, was downloaded over 300 million times.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/podcast_Serial%2C_which_investigated_the_1999_murder_of_Hae_Min_Lee"
+    },
+    {
+      "text": "The Antwerp Diamond Heist of 2003 saw thieves steal diamonds worth over $100 million from the Antwerp Diamond Centre vault.",
+      "source": "https://en.wikipedia.org/wiki/Antwerp_Diamond_Heist_of_2003"
+    },
+    {
+      "text": "The FBI was founded in 1908 as the Bureau of Investigation and was renamed the Federal Bureau of Investigation in 1935.",
+      "month": 7,
+      "day": 26,
+      "source": "https://en.wikipedia.org/wiki/FBI"
+    },
+    {
+      "text": "Criminal profiling was pioneered by FBI agents John Douglas and Robert Ressler, who interviewed dozens of serial killers in prison.",
+      "source": "https://en.wikipedia.org/wiki/Criminal_profiling"
+    },
+    {
+      "text": "The movie 'The Silence of the Lambs' became only the third film to win all five major Academy Awards: Best Picture, Director, Actor, Actress, and Screenplay.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/movie_%27The_Silence_of_the_Lambs"
+    },
+    {
+      "text": "Scotland Yard, the headquarters of London's Metropolitan Police, gets its name from a street called Great Scotland Yard where it was originally located.",
+      "source": "https://en.wikipedia.org/wiki/Scotland_Yard"
+    },
+    {
+      "text": "Mata Hari, the famous exotic dancer, was executed by firing squad in France in 1917 for spying for Germany during World War I.",
+      "month": 10,
+      "day": 15,
+      "source": "https://en.wikipedia.org/wiki/Mata_Hari%2C_the_famous_exotic_dancer"
+    },
+    {
+      "text": "The O.J. Simpson murder trial in 1995 was watched by an estimated 150 million people when the verdict was read.",
+      "source": "https://en.wikipedia.org/wiki/O.J._Simpson_murder_trial_in_1995"
+    },
+    {
+      "text": "Forensic entomology uses the study of insects found on a body to help determine the time of death.",
+      "source": "https://en.wikipedia.org/wiki/Crime_fiction"
+    },
+    {
+      "text": "Agatha Christie's character Hercule Poirot appeared in 33 novels and over 50 short stories.",
+      "source": "https://en.wikipedia.org/wiki/Agatha_Christie%27s_character_Hercule_Poirot"
+    },
+    {
+      "text": "The Pinkerton National Detective Agency, founded in 1850, was at one point the largest private law enforcement organization in the world.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Pinkerton_National_Detective_Agency"
+    },
+    {
+      "text": "Blood spatter analysis can determine the direction, speed, and angle at which blood traveled, helping reconstruct crime scenes.",
+      "source": "https://en.wikipedia.org/wiki/Crime_fiction"
+    },
+    {
+      "text": "The TV show Criminal Minds ran for 15 seasons and focused on the FBI's Behavioral Analysis Unit.",
+      "month": 9,
+      "day": 22,
+      "source": "https://en.wikipedia.org/wiki/TV_show_Criminal_Minds"
+    },
+    {
+      "text": "Ted Bundy confessed to 30 murders before his execution in 1989, though the actual number of his victims may be higher.",
+      "source": "https://en.wikipedia.org/wiki/Ted_Bundy"
+    },
+    {
+      "text": "The Isabella Stewart Gardner Museum heist in 1990 remains the largest unsolved art theft in history, with stolen works valued at over $500 million.",
+      "month": 3,
+      "day": 18,
+      "source": "https://en.wikipedia.org/wiki/Isabella_Stewart_Gardner_Museum"
+    },
+    {
+      "text": "Raymond Chandler created the iconic private detective Philip Marlowe, who appeared in seven novels starting with 'The Big Sleep.'",
+      "source": "https://en.wikipedia.org/wiki/Raymond_Chandler"
+    },
+    {
+      "text": "The true crime podcast 'My Favorite Murder' popularized the term 'murderino' for true crime enthusiasts.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/My_Favorite_Murder"
+    },
+    {
+      "text": "DNA evidence was first used to convict a criminal in 1987, when Colin Pitchfork was found guilty of two murders in England.",
+      "source": "https://en.wikipedia.org/wiki/DNA_evidence"
+    },
+    {
+      "text": "The Brink's-Mat robbery of 1983 at Heathrow Airport netted thieves 6,800 gold bars worth approximately £26 million.",
+      "source": "https://en.wikipedia.org/wiki/Brink%27s-Mat"
+    },
+    {
+      "text": "J. Edgar Hoover served as the director of the FBI for 48 years, from 1924 until his death in 1972.",
+      "source": "https://en.wikipedia.org/wiki/J._Edgar_Hoover"
+    },
+    {
+      "text": "The TV series Law & Order ran for 20 seasons in its original run and spawned multiple spinoffs including SVU.",
+      "month": 9,
+      "day": 13,
+      "source": "https://en.wikipedia.org/wiki/TV_series_Law_%26_Order"
+    },
+    {
+      "text": "The Black Dahlia case refers to the unsolved 1947 murder of Elizabeth Short, whose body was found severed in half in Los Angeles.",
+      "month": 1,
+      "day": 15,
+      "source": "https://en.wikipedia.org/wiki/Black_Dahlia_case_refers_to_the_unsolved_1947_murder_of_Elizabeth_Short%2C_whose_body"
+    },
+    {
+      "text": "Forensic odontology, the study of dental evidence, has been used to identify victims and bite mark evidence in criminal cases.",
+      "source": "https://en.wikipedia.org/wiki/Forensic_odontology%2C_the_study_of_dental_evidence"
+    },
+    {
+      "text": "Arthur Conan Doyle based Sherlock Holmes partly on Dr. Joseph Bell, a surgeon known for his remarkable powers of observation.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Arthur_Conan_Doyle"
+    },
+    {
+      "text": "The BTK Killer, Dennis Rader, evaded capture for over 30 years before being caught in 2005 through a floppy disk he sent to police.",
+      "source": "https://en.wikipedia.org/wiki/BTK_Killer"
+    },
+    {
+      "text": "The Hatton Garden Safe Deposit burglary in 2015 was carried out by a group of elderly thieves, the oldest being 76 years old.",
+      "source": "https://en.wikipedia.org/wiki/Hatton_Garden_Safe_Deposit_burglary_in_2015"
+    },
+    {
+      "text": "The Crime Junkie podcast, hosted by Ashley Flowers and Brit Prawat, consistently ranks among the top podcasts in the United States.",
+      "source": "https://en.wikipedia.org/wiki/Crime_Junkie"
+    },
+    {
+      "text": "The movie 'Se7en' features a serial killer who patterns his murders after the seven deadly sins.",
+      "source": "https://en.wikipedia.org/wiki/movie_%27Se7en"
+    },
+    {
+      "text": "The FBI's Ten Most Wanted Fugitives list was created in 1950 and has led to the capture of hundreds of fugitives.",
+      "month": 3,
+      "day": 14,
+      "source": "https://en.wikipedia.org/wiki/FBI%27s_Ten_Most_Wanted_Fugitives_list"
+    },
+    {
+      "text": "Luminol is a chemical that forensic investigators spray at crime scenes to detect trace amounts of blood invisible to the naked eye.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Luminol"
+    },
+    {
+      "text": "Aldrich Ames, a CIA officer, spied for the Soviet Union for nine years before his arrest in 1994, compromising over 100 intelligence operations.",
+      "source": "https://en.wikipedia.org/wiki/Aldrich_Ames"
+    },
+    {
+      "text": "The Nuremberg Trials, held after World War II, established that following orders is not a defense for war crimes.",
+      "month": 11,
+      "day": 20,
+      "source": "https://en.wikipedia.org/wiki/Nuremberg_Trials%2C_held_after_World_War_II%2C_established_that_following_orders"
+    },
+    {
+      "text": "Agatha Christie disappeared for 11 days in 1926, sparking a massive manhunt before she was found at a hotel registered under a different name.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Agatha_Christie_disappeared_for_11_days_in_1926%2C_sparking_a_massive_manhunt_before_she"
+    },
+    {
+      "text": "Forensic ballistics can match a bullet to the specific gun that fired it by analyzing the unique markings left on the projectile.",
+      "source": "https://en.wikipedia.org/wiki/Crime_fiction"
+    },
+    {
+      "text": "The TV series Dexter follows a forensic blood spatter analyst who moonlights as a serial killer targeting other killers.",
+      "month": 10,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/TV"
+    },
+    {
+      "text": "The Casefile True Crime podcast, produced in Australia, is known for its thorough research and the anonymous host known only as 'Casey.'",
+      "source": "https://en.wikipedia.org/wiki/Casefile_True_Crime_podcast%2C_produced_in_Australia"
+    },
+    {
+      "text": "The Lufthansa heist at JFK Airport in 1978 netted $5.8 million in cash and jewelry, making it one of the largest cash robberies in U.S. history at the time.",
+      "month": 12,
+      "day": 11,
+      "source": "https://en.wikipedia.org/wiki/Lufthansa"
+    },
+    {
+      "text": "Miss Marple, Agatha Christie's elderly amateur detective, appeared in 12 novels and 20 short stories.",
+      "source": "https://en.wikipedia.org/wiki/Miss_Marple%2C_Agatha_Christie%27s_elderly_amateur_detective"
+    },
+    {
+      "text": "The movie 'Zodiac' directed by David Fincher is based on Robert Graysmith's investigation into the real Zodiac Killer.",
+      "source": "https://en.wikipedia.org/wiki/movie_%27Zodiac%27_directed_by_David_Fincher"
+    },
+    {
+      "text": "Robert Hanssen, an FBI agent, spied for the Soviet Union and Russia for 22 years before his arrest in 2001.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Robert_Hanssen"
+    },
+    {
+      "text": "Forensic anthropology involves examining skeletal remains to determine age, sex, ancestry, and cause of death.",
+      "source": "https://en.wikipedia.org/wiki/Crime_fiction"
+    },
+    {
+      "text": "The Charles Manson trial in 1970-1971 was one of the longest and most publicized criminal trials in American history.",
+      "source": "https://en.wikipedia.org/wiki/Charles_Manson_trial_in_1970-1971"
+    },
+    {
+      "text": "The TV series Mindhunter, based on the book by John Douglas and Mark Olshaker, dramatizes the early days of FBI criminal profiling.",
+      "source": "https://en.wikipedia.org/wiki/TV"
+    },
+    {
+      "text": "The Great Train Robbery of 1963 in England saw a gang steal £2.6 million from a Royal Mail train.",
+      "month": 8,
+      "day": 8,
+      "source": "https://en.wikipedia.org/wiki/Great_Train_Robbery_of_1963_in_England"
+    },
+    {
+      "text": "James Patterson is one of the best-selling authors of all time, known for the Alex Cross series of detective novels.",
+      "source": "https://en.wikipedia.org/wiki/James_Patterson"
+    },
+    {
+      "text": "The concept of 'modus operandi' in criminology refers to the particular method a criminal uses to commit crimes.",
+      "source": "https://en.wikipedia.org/wiki/Crime_fiction"
+    },
+    {
+      "text": "Making a Murderer, the Netflix documentary series, brought worldwide attention to the case of Steven Avery.",
+      "month": 12,
+      "day": 18,
+      "source": "https://en.wikipedia.org/wiki/Steven_Avery"
+    },
+    {
+      "text": "The Lindbergh kidnapping of 1932 was called the 'Crime of the Century' and led to federal kidnapping laws in the United States.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Lindbergh_kidnapping_of_1932"
+    },
+    {
+      "text": "Forensic toxicology analyzes body fluids and tissues to detect drugs, alcohol, and poisons that may have contributed to a death.",
+      "source": "https://en.wikipedia.org/wiki/Crime_fiction"
+    },
+    {
+      "text": "The movie 'Knives Out' pays homage to classic whodunit mysteries while subverting traditional genre conventions.",
+      "source": "https://en.wikipedia.org/wiki/Knives_Out"
+    },
+    {
+      "text": "Allan Pinkerton, founder of the Pinkerton Agency, foiled an assassination plot against Abraham Lincoln in 1861.",
+      "source": "https://en.wikipedia.org/wiki/Allan_Pinkerton"
+    },
+    {
+      "text": "The Green River Killer, Gary Ridgway, confessed to killing 71 women, making him one of the most prolific serial killers in U.S. history.",
+      "source": "https://en.wikipedia.org/wiki/Green_River_Killer"
+    },
+    {
+      "text": "True Detective's first season, starring Matthew McConaughey and Woody Harrelson, was praised as one of the best TV seasons ever produced.",
+      "source": "https://en.wikipedia.org/wiki/True_Detective%27s_first_season%2C_starring_Matthew_McConaughey_and_Woody_Harrelson"
+    },
+    {
+      "text": "The CIA was established in 1947 under the National Security Act signed by President Harry Truman.",
+      "month": 9,
+      "day": 18,
+      "source": "https://en.wikipedia.org/wiki/CIA"
+    },
+    {
+      "text": "Forensic psychology studies criminal behavior and mental processes to help law enforcement understand and predict criminal actions.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Crime_fiction"
+    },
+    {
+      "text": "The Unabomber, Ted Kaczynski, carried out a bombing campaign over 17 years before being identified through his published manifesto.",
+      "source": "https://en.wikipedia.org/wiki/Unabomber"
+    },
+    {
+      "text": "The Clue movie, based on the board game, was released with three different endings shown in different theaters.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Clue_movie%2C_based_on_the_board_game"
+    },
+    {
+      "text": "MI6, the UK's Secret Intelligence Service, was founded in 1909 and remained officially unacknowledged by the British government until 1994.",
+      "source": "https://en.wikipedia.org/wiki/MI6%2C_the_UK%27s_Secret_Intelligence_Service"
+    },
+    {
+      "text": "The Casey Anthony trial in 2011 ended in a not guilty verdict that shocked millions of Americans who had followed the case.",
+      "source": "https://en.wikipedia.org/wiki/Casey_Anthony"
+    },
+    {
+      "text": "Forensic accounting traces financial records to uncover fraud, embezzlement, and money laundering.",
+      "source": "https://en.wikipedia.org/wiki/Crime_fiction"
+    },
+    {
+      "text": "The TV show NCIS became one of the most-watched scripted series in the world, averaging over 19 million viewers per episode at its peak.",
+      "source": "https://en.wikipedia.org/wiki/TV_show_NCIS"
+    },
+    {
+      "text": "The Zodiac Killer's 340-character cipher was not solved until 2020, more than 50 years after it was sent.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Zodiac_Killer%27s_340-character_cipher"
+    },
+    {
+      "text": "The D.B. Cooper hijacking of 1971 remains the only unsolved case of aerial piracy in commercial aviation history.",
+      "month": 11,
+      "day": 24,
+      "source": "https://en.wikipedia.org/wiki/D.B._Cooper"
+    },
+    {
+      "text": "Agatha Christie's 'And Then There Were None' is one of the best-selling mystery novels of all time with over 100 million copies sold.",
+      "source": "https://en.wikipedia.org/wiki/Agatha_Christie%27s_%27And_Then_There"
+    },
+    {
+      "text": "The FBI Academy at Quantico, Virginia, trains new FBI agents and serves as a research center for behavioral science.",
+      "source": "https://en.wikipedia.org/wiki/FBI_Academy_at_Quantico"
+    },
+    {
+      "text": "Dateline NBC, which premiered in 1992, became known for its investigative crime reporting and the 'To Catch a Predator' series.",
+      "source": "https://en.wikipedia.org/wiki/Dateline_NBC%2C_which_premiered_in_1992"
+    },
+    {
+      "text": "The Boston Strangler case in the early 1960s terrorized the city, with 13 women murdered in their homes over 18 months.",
+      "source": "https://en.wikipedia.org/wiki/Boston_Strangler"
+    },
+    {
+      "text": "Locard's Exchange Principle states that every contact between a criminal and a crime scene leaves a trace.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Locard%27s_Exchange_Principle"
+    },
+    {
+      "text": "The movie 'Gone Girl' is based on Gillian Flynn's novel about a woman who stages her own disappearance to frame her husband for murder.",
+      "source": "https://en.wikipedia.org/wiki/movie_%27Gone_Girl"
+    },
+    {
+      "text": "Kim Philby was a high-ranking member of British intelligence who was secretly a double agent for the Soviet Union for decades.",
+      "source": "https://en.wikipedia.org/wiki/Kim_Philby"
+    },
+    {
+      "text": "The Son of Sam, David Berkowitz, terrorized New York City in 1976-1977, claiming a neighbor's dog told him to kill.",
+      "month": 8,
+      "day": 10,
+      "source": "https://en.wikipedia.org/wiki/Son_of_Sam"
+    },
+    {
+      "text": "Forensic DNA phenotyping can predict a suspect's physical appearance, including eye color, hair color, and ancestry, from DNA evidence.",
+      "source": "https://en.wikipedia.org/wiki/Forensic_DNA"
+    },
+    {
+      "text": "The TV series The Wire is often cited as one of the greatest television dramas ever made for its realistic portrayal of crime in Baltimore.",
+      "source": "https://en.wikipedia.org/wiki/TV_series_The_Wire"
+    },
+    {
+      "text": "John Douglas, former FBI profiler, wrote the book 'Mindhunter' that inspired the Netflix series of the same name.",
+      "source": "https://en.wikipedia.org/wiki/John_Douglas%2C_former_FBI_profiler"
+    },
+    {
+      "text": "The Jack the Ripper murders generated over 600 letters sent to police, though most are believed to be hoaxes.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Jack_the_Ripper_murders_generated_over_600_letters_sent_to_police%2C_though_most"
+    },
+    {
+      "text": "The Stieg Larsson 'Millennium' trilogy, beginning with 'The Girl with the Dragon Tattoo,' became a global crime fiction phenomenon.",
+      "source": "https://en.wikipedia.org/wiki/Stieg_Larsson_%27Millennium%27_trilogy%2C_beginning_with_%27The_Girl_with_the_Dragon_Tattoo"
+    },
+    {
+      "text": "Cold case units use advances in forensic technology to reexamine unsolved crimes, sometimes decades after they occurred.",
+      "source": "https://en.wikipedia.org/wiki/Crime_fiction"
+    },
+    {
+      "text": "The movie 'Rear Window' by Alfred Hitchcock features a photographer who believes he has witnessed a murder from his apartment window.",
+      "source": "https://en.wikipedia.org/wiki/movie_%27Rear_Window%27_by_Alfred_Hitchcock"
+    },
+    {
+      "text": "The FBI Behavioral Analysis Unit was established in the 1970s to study serial offenders and develop profiling techniques.",
+      "source": "https://en.wikipedia.org/wiki/FBI_Behavioral_Analysis_Unit"
+    },
+    {
+      "text": "The Moors Murders in 1960s England involved Ian Brady and Myra Hindley, who killed five children and buried them on Saddleworth Moor.",
+      "source": "https://en.wikipedia.org/wiki/Moors_Murders_in"
+    },
+    {
+      "text": "Forensic linguistics analyzes language patterns in threatening letters, ransom notes, and other documents to identify suspects.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Crime_fiction"
+    },
+    {
+      "text": "Dateline NBC's Keith Morrison became a pop culture icon known for his distinctive narrative style on true crime segments.",
+      "source": "https://en.wikipedia.org/wiki/Dateline_NBC%27s_Keith_Morrison"
+    },
+    {
+      "text": "The Scopes Trial of 1925, though not a criminal trial in the traditional sense, became one of the most famous courtroom dramas in American history.",
+      "source": "https://en.wikipedia.org/wiki/Scopes_Trial_of_1925%2C_though_not_a_criminal_trial_in_the_traditional_sense"
+    },
+    {
+      "text": "The TV show Forensic Files ran for 14 seasons and used real forensic evidence to explain how crimes were solved.",
+      "source": "https://en.wikipedia.org/wiki/TV_show_Forensic_Files"
+    },
+    {
+      "text": "The Night Stalker, Richard Ramirez, was captured in 1985 after residents in an East Los Angeles neighborhood recognized and subdued him.",
+      "source": "https://en.wikipedia.org/wiki/Night_Stalker%2C_Richard_Ramirez"
+    },
+    {
+      "text": "Arthur Conan Doyle tried to kill off Sherlock Holmes in 'The Final Problem' but brought him back due to public demand.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Arthur_Conan_Doyle"
+    },
+    {
+      "text": "Polygraph tests, commonly called lie detectors, measure physiological responses but are generally not admissible as evidence in court.",
+      "source": "https://en.wikipedia.org/wiki/Polygraph_tests%2C_commonly_called_lie_detectors%2C_measure_physiological_responses_but"
+    },
+    {
+      "text": "The movie 'Mystic River' directed by Clint Eastwood explores how a childhood crime affects three men decades later.",
+      "source": "https://en.wikipedia.org/wiki/Mystic_River"
+    },
+    {
+      "text": "The French Sûreté Nationale, one of the world's first detective agencies, was founded by Eugène François Vidocq, a former criminal.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/French_S%C3%BBret%C3%A9_Nationale%2C_one_of_the_world%27s_first_detective_agencies"
+    },
+    {
+      "text": "The Golden State Killer, Joseph DeAngelo, was identified in 2018 through genealogical DNA databases after evading capture for over 40 years.",
+      "source": "https://en.wikipedia.org/wiki/Golden_State_Killer%2C_Joseph_DeAngelo"
+    },
+    {
+      "text": "The FBI maintains the Violent Criminal Apprehension Program (ViCAP), a database designed to collect and analyze information about violent crimes.",
+      "source": "https://en.wikipedia.org/wiki/FBI"
+    },
+    {
+      "text": "The TV show Broadchurch explored the impact of a child's murder on a small coastal town in England.",
+      "source": "https://en.wikipedia.org/wiki/TV"
+    },
+    {
+      "text": "Serial killer Jeffrey Dahmer was arrested in 1991 after one of his intended victims escaped and led police to his apartment.",
+      "month": 7,
+      "day": 22,
+      "source": "https://en.wikipedia.org/wiki/Serial_killer_Jeffrey_Dahmer"
+    },
+    {
+      "text": "Forensic serology is the analysis of blood, saliva, semen, and other body fluids to link suspects to crime scenes.",
+      "source": "https://en.wikipedia.org/wiki/Forensic_serology"
+    },
+    {
+      "text": "The Sherlock Holmes stories introduced many concepts now standard in detective fiction, including the magnifying glass and forensic science.",
+      "source": "https://en.wikipedia.org/wiki/Sherlock_Holmes_stories"
+    },
+    {
+      "text": "The Enfield Poltergeist case of 1977 in London remains one of the most documented and debated paranormal investigation cases.",
+      "source": "https://en.wikipedia.org/wiki/Enfield_Poltergeist"
+    },
+    {
+      "text": "Crime Junkie's Ashley Flowers founded the media company audiochuck, which produces multiple true crime and mystery podcasts.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Crime_Junkie%27s_Ashley_Flowers"
+    },
+    {
+      "text": "The trial of Lizzie Borden in 1893 for the axe murders of her father and stepmother ended in acquittal despite strong circumstantial evidence.",
+      "source": "https://en.wikipedia.org/wiki/Lizzie_Borden_in_1893_for_the"
+    },
+    {
+      "text": "Cadaver dogs are specially trained to detect the scent of human decomposition and have been used in criminal investigations worldwide.",
+      "source": "https://en.wikipedia.org/wiki/Cadaver_dogs"
+    },
+    {
+      "text": "The movie 'Primal Fear' features a famous twist ending involving a defendant who may be faking multiple personality disorder.",
+      "source": "https://en.wikipedia.org/wiki/movie_%27Primal_Fear"
+    },
+    {
+      "text": "The Cambridge Five were a ring of British spies who passed information to the Soviet Union from the 1930s through the 1950s.",
+      "source": "https://en.wikipedia.org/wiki/Cambridge_Five"
+    },
+    {
+      "text": "H.H. Holmes is often called America's first serial killer, building a 'Murder Castle' in Chicago during the 1893 World's Fair.",
+      "source": "https://en.wikipedia.org/wiki/H.H._Holmes"
+    },
+    {
+      "text": "The TV show Law & Order: SVU, starring Mariska Hargitay, became the longest-running prime-time live-action series in U.S. television history.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/TV_show_Law_%26_Order:_SVU%2C_starring_Mariska_Hargitay"
+    },
+    {
+      "text": "Forensic botany uses plant evidence, such as pollen and leaf fragments, to help establish timelines and locations in criminal investigations.",
+      "source": "https://en.wikipedia.org/wiki/Crime_fiction"
+    },
+    {
+      "text": "The Zodiac Killer sent a total of four cryptograms to newspapers, and two remain unsolved to this day.",
+      "source": "https://en.wikipedia.org/wiki/Zodiac_Killer"
+    },
+    {
+      "text": "Patricia Cornwell's Kay Scarpetta series features a forensic pathologist as the protagonist and has sold over 100 million copies.",
+      "source": "https://en.wikipedia.org/wiki/Patricia_Cornwell%27s_Kay_Scarpetta_series"
+    },
+    {
+      "text": "The movie 'A Few Good Men' features one of cinema's most famous courtroom exchanges: 'You can't handle the truth!'",
+      "source": "https://en.wikipedia.org/wiki/movie_%27A_Few_Good_Men"
+    },
+    {
+      "text": "The Alcatraz escape of 1962, in which three inmates vanished, remains one of the most famous unsolved mysteries in American criminal history.",
+      "month": 6,
+      "day": 11,
+      "source": "https://en.wikipedia.org/wiki/Alcatraz"
+    },
+    {
+      "text": "INTERPOL, the International Criminal Police Organization, facilitates cooperation among police forces from 194 member countries.",
+      "source": "https://en.wikipedia.org/wiki/International_Criminal_Police_Organization"
+    },
+    {
+      "text": "The true crime genre experienced a massive boom in the 2010s, driven by podcasts, Netflix documentaries, and social media.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Crime_fiction"
+    },
+    {
+      "text": "Geographic profiling is a technique that uses the locations of connected crimes to estimate the likely area where a serial offender lives.",
+      "source": "https://en.wikipedia.org/wiki/Geographic_profiling"
+    },
+    {
+      "text": "The TV series Columbo featured Peter Falk as a seemingly bumbling detective who always solved the case with his 'just one more thing' approach.",
+      "source": "https://en.wikipedia.org/wiki/TV"
+    },
+    {
+      "text": "The Whitey Bulger case revealed that the FBI informant program had been corrupted, with agents protecting a violent crime boss.",
+      "source": "https://en.wikipedia.org/wiki/Whitey_Bulger_case_revealed_that_the_FBI_informant_program"
+    },
+    {
+      "text": "Agatha Christie's play 'The Mousetrap' has been running continuously in London's West End since 1952, making it the longest-running show in history.",
+      "month": 11,
+      "day": 25,
+      "source": "https://en.wikipedia.org/wiki/Agatha_Christie%27s_play_%27The_Mousetrap"
+    },
+    {
+      "text": "GIS mapping technology is now used by law enforcement to identify crime hotspots and allocate resources more effectively.",
+      "source": "https://en.wikipedia.org/wiki/GIS_mapping_technology"
+    },
+    {
+      "text": "The movie 'Chinatown' starring Jack Nicholson is considered one of the greatest mystery films ever made.",
+      "source": "https://en.wikipedia.org/wiki/movie_%27Chinatown%27_starring_Jack_Nicholson"
+    },
+    {
+      "text": "The advent of DNA profiling in the 1980s by Sir Alec Jeffreys revolutionized forensic science and criminal investigation.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Sir_Alec_Jeffreys"
+    },
+    {
+      "text": "Ed Gein, a murderer and body snatcher in 1950s Wisconsin, inspired fictional killers including Norman Bates, Leatherface, and Buffalo Bill.",
+      "source": "https://en.wikipedia.org/wiki/Ed_Gein%2C_a_murderer_and_body_snatcher_in_1950s_Wisconsin"
+    },
+    {
+      "text": "The Innocence Project has used DNA evidence to exonerate over 375 wrongfully convicted individuals in the United States.",
+      "source": "https://en.wikipedia.org/wiki/Innocence_Project"
+    },
+    {
+      "text": "The TV show Unsolved Mysteries, originally hosted by Robert Stack, brought public attention to cold cases and missing persons.",
+      "source": "https://en.wikipedia.org/wiki/TV"
+    },
+    {
+      "text": "The Birmingham Six were wrongfully convicted of the 1974 IRA pub bombings and spent 16 years in prison before their convictions were overturned.",
+      "source": "https://en.wikipedia.org/wiki/Birmingham_Six"
+    },
+    {
+      "text": "Forensic photography is used to document crime scenes, evidence, and injuries in a way that preserves their condition for court proceedings.",
+      "source": "https://en.wikipedia.org/wiki/Forensic_photography"
+    },
+    {
+      "text": "Philip Marlowe, Raymond Chandler's detective, embodied the hardboiled private eye archetype in American crime fiction.",
+      "source": "https://en.wikipedia.org/wiki/Philip_Marlowe"
+    },
+    {
+      "text": "The Tylenol murders of 1982 in Chicago led to the creation of tamper-resistant packaging for over-the-counter medications.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Tylenol"
+    },
+    {
+      "text": "The movie 'The Usual Suspects' features one of cinema's greatest plot twists, revealing the identity of the mysterious Keyser Söze.",
+      "source": "https://en.wikipedia.org/wiki/movie_%27The_Usual_Suspects"
+    },
+    {
+      "text": "The TV show Twin Peaks, created by David Lynch, blended mystery with surrealism in its investigation of Laura Palmer's murder.",
+      "month": 4,
+      "day": 8,
+      "source": "https://en.wikipedia.org/wiki/TV_show_Twin_Peaks"
+    },
+    {
+      "text": "Robert Ressler, the FBI agent who coined the term 'serial killer,' conducted extensive interviews with imprisoned murderers to develop profiling methods.",
+      "source": "https://en.wikipedia.org/wiki/Robert_Ressler"
+    },
+    {
+      "text": "The Dewey Decimal System classification 364 covers the subject of criminology in libraries worldwide.",
+      "source": "https://en.wikipedia.org/wiki/Dewey_Decimal_System"
+    },
+    {
+      "text": "The Central Park Five were wrongfully convicted teenagers whose case was overturned after a serial rapist confessed and DNA evidence confirmed his guilt.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Central_Park_Five"
+    },
+    {
+      "text": "Forensic digital analysis recovers deleted files, examines email trails, and traces online activity to solve cybercrimes.",
+      "source": "https://en.wikipedia.org/wiki/Crime_fiction"
+    },
+    {
+      "text": "The TV show Breaking Bad, while primarily about drug manufacturing, features detailed depictions of forensic investigation and law enforcement tactics.",
+      "source": "https://en.wikipedia.org/wiki/TV_show_Breaking_Bad%2C_while_primarily_about_drug_manufacturing"
+    },
+    {
+      "text": "The Manson Family murders, including the killing of actress Sharon Tate, shocked America in the summer of 1969.",
+      "month": 8,
+      "day": 9,
+      "source": "https://en.wikipedia.org/wiki/Manson_Family"
+    },
+    {
+      "text": "Edgar Allan Poe is credited with creating the modern detective story with 'The Murders in the Rue Morgue' in 1841.",
+      "source": "https://en.wikipedia.org/wiki/Edgar_Allan_Poe"
+    },
+    {
+      "text": "The Stockholm Bank robbery of 1973 gave rise to the term 'Stockholm Syndrome,' describing hostages who develop positive feelings toward captors.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Stockholm_Bank_robbery_of_1973"
+    },
+    {
+      "text": "The movie 'In Cold Blood,' based on Truman Capote's book, dramatized the real murder of the Clutter family in Kansas.",
+      "source": "https://en.wikipedia.org/wiki/In_Cold_Blood"
+    },
+    {
+      "text": "The FBI Laboratory, established in 1932, is one of the largest and most comprehensive forensic laboratories in the world.",
+      "source": "https://en.wikipedia.org/wiki/FBI_Laboratory%2C_established_in_1932"
+    },
+    {
+      "text": "The Yorkshire Ripper investigation in the late 1970s was one of the largest manhunts in British history before Peter Sutcliffe was caught.",
+      "source": "https://en.wikipedia.org/wiki/Yorkshire_Ripper_investigation_in_the_late_1970s"
+    },
+    {
+      "text": "True crime author Ann Rule worked alongside serial killer Ted Bundy at a crisis hotline before he was identified as a murderer.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Ann_Rule"
+    },
+    {
+      "text": "Forensic palynology, the study of pollen grains found on evidence, can link suspects to specific geographic locations.",
+      "source": "https://en.wikipedia.org/wiki/Crime_fiction"
+    },
+    {
+      "text": "The TV show Luther stars Idris Elba as a brilliant but emotionally impulsive London detective.",
+      "source": "https://en.wikipedia.org/wiki/TV"
+    },
+    {
+      "text": "The Brinks robbery of 1950 in Boston was called the 'crime of the century' and netted the thieves $2.7 million in cash, checks, and money orders.",
+      "month": 1,
+      "day": 17,
+      "source": "https://en.wikipedia.org/wiki/Brinks_robbery_of_1950_in_Boston"
+    },
+    {
+      "text": "Walter Dew was the detective who captured Dr. Crippen, one of the first criminals apprehended with the aid of wireless telegraphy.",
+      "source": "https://en.wikipedia.org/wiki/Walter_Dew"
+    },
+    {
+      "text": "The Bertillon system, developed in the 1880s, was the first scientific method of criminal identification based on body measurements.",
+      "source": "https://en.wikipedia.org/wiki/Bertillon_system"
+    },
+    {
+      "text": "The movie 'Memories of Murder' by Bong Joon-ho is based on South Korea's first serial murder case, which went unsolved for decades.",
+      "source": "https://en.wikipedia.org/wiki/movie_%27Memories_of_Murder%27_by_Bong_Joon-ho"
+    },
+    {
+      "text": "The TV show Killing Eve features a cat-and-mouse dynamic between an MI5 officer and a psychopathic assassin.",
+      "source": "https://en.wikipedia.org/wiki/TV_show_Killing_Eve"
+    },
+    {
+      "text": "The JonBenét Ramsey case, which began in 1996, remains one of the most high-profile unsolved murders in the United States.",
+      "month": 12,
+      "day": 26,
+      "source": "https://en.wikipedia.org/wiki/United_States"
+    },
+    {
+      "text": "Hair and fiber analysis can place a suspect at a crime scene by matching microscopic characteristics of shed hair or clothing fibers.",
+      "source": "https://en.wikipedia.org/wiki/Hair_and"
+    },
+    {
+      "text": "Dashiell Hammett, a former Pinkerton detective, used his real-world experience to write crime fiction, including 'The Maltese Falcon.'",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Dashiell_Hammett"
+    },
+    {
+      "text": "The Mafia Commission Trial of 1985-1986 resulted in convictions of the heads of New York's Five Families of organized crime.",
+      "source": "https://en.wikipedia.org/wiki/Mafia_Commission_Trial_of_1985"
+    },
+    {
+      "text": "Crime scene investigators wear protective clothing not only to protect themselves but to avoid contaminating evidence with their own DNA.",
+      "source": "https://en.wikipedia.org/wiki/Crime_fiction"
+    },
+    {
+      "text": "The movie 'Zodiac' was notable for using thousands of pages of police reports and evidence files to ensure accuracy.",
+      "source": "https://en.wikipedia.org/wiki/movie_%27Zodiac"
+    },
+    {
+      "text": "The TV show Cold Case ran for seven seasons and focused on a Philadelphia detective reopening unsolved homicides.",
+      "source": "https://en.wikipedia.org/wiki/TV_show_Cold_Case"
+    },
+    {
+      "text": "The FBI's Behavioral Science Unit, formed in 1972, became the foundation for modern criminal profiling techniques.",
+      "source": "https://en.wikipedia.org/wiki/FBI%27s_Behavioral_Science_Unit"
+    },
+    {
+      "text": "Dr. Henry Lee is one of the most famous forensic scientists in the world, having worked on over 6,000 criminal cases.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Dr._Henry_Lee"
+    },
+    {
+      "text": "The Great Diamond Heist of Antwerp in 2003 was so meticulously planned that it was dubbed the 'heist of the century.'",
+      "source": "https://en.wikipedia.org/wiki/Great_Diamond_Heist_of_Antwerp_in_2003"
+    },
+    {
+      "text": "Rigor mortis, the stiffening of the body after death, is one of several indicators forensic pathologists use to estimate time of death.",
+      "source": "https://en.wikipedia.org/wiki/Rigor_mortis%2C_the_stiffening_of_the_body_after_death"
+    },
+    {
+      "text": "The movie 'L.A. Confidential' is a neo-noir crime film set in 1950s Los Angeles, adapted from James Ellroy's novel.",
+      "source": "https://en.wikipedia.org/wiki/movie_%27L.A._Confidential"
+    },
+    {
+      "text": "The TV show The Jinx documented the life of real estate heir Robert Durst, who appeared to confess to murder on a hot microphone.",
+      "source": "https://en.wikipedia.org/wiki/TV_show_The_Jinx_documented_the_life_of_real_estate_heir_Robert_Durst%2C_who"
+    },
+    {
+      "text": "The West Memphis Three spent 18 years in prison before entering Alford pleas, maintaining their innocence of the 1993 murders of three boys.",
+      "source": "https://en.wikipedia.org/wiki/West_Memphis_Three"
+    },
+    {
+      "text": "Automated fingerprint identification systems (AFIS) can search millions of fingerprint records in seconds to find potential matches.",
+      "source": "https://en.wikipedia.org/wiki/Crime_fiction"
+    },
+    {
+      "text": "Sue Grafton wrote the 'Alphabet Series' of detective novels, starting with 'A Is for Alibi' and ending with 'Y Is for Yesterday.'",
+      "source": "https://en.wikipedia.org/wiki/Sue_Grafton"
+    },
+    {
+      "text": "The Night of the Long Knives in 1934, when Hitler purged rivals, was investigated decades later as a crime against humanity.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Night_of_the_Long_Knives_in_1934%2C_when_Hitler_purged_rivals"
+    },
+    {
+      "text": "The Rosenberg trial and execution in 1953 for passing nuclear secrets to the Soviet Union remains one of the most controversial espionage cases in U.S. history.",
+      "month": 6,
+      "day": 19,
+      "source": "https://en.wikipedia.org/wiki/Rosenberg"
+    },
+    {
+      "text": "Toxicology screens in autopsies can detect over 200 different substances, from prescription drugs to exotic poisons.",
+      "source": "https://en.wikipedia.org/wiki/Crime_fiction"
+    },
+    {
+      "text": "The TV show Bones was inspired by the life and novels of forensic anthropologist Kathy Reichs.",
+      "source": "https://en.wikipedia.org/wiki/TV_show_Bones"
+    },
+    {
+      "text": "Willie Sutton, the famous bank robber, reportedly said he robbed banks 'because that's where the money is,' though he later denied the quote.",
+      "source": "https://en.wikipedia.org/wiki/Willie_Sutton%2C_the_famous_bank_robber%2C_reportedly"
+    },
+    {
+      "text": "Forensic facial reconstruction uses skull measurements to recreate the appearance of unidentified victims.",
+      "source": "https://en.wikipedia.org/wiki/Crime_fiction"
+    },
+    {
+      "text": "The movie 'No Country for Old Men' explores the aftermath of a drug deal gone wrong in the Texas desert.",
+      "source": "https://en.wikipedia.org/wiki/No_Country_for_Old_Men"
+    },
+    {
+      "text": "The Catch Me If You Can story of Frank Abagnale Jr., who impersonated a pilot, doctor, and lawyer, became both a book and a Spielberg film.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Catch_Me_If_You_Can"
+    },
+    {
+      "text": "Criminal Minds introduced millions of viewers to the concept of behavioral analysis and criminal profiling as used by the FBI.",
+      "source": "https://en.wikipedia.org/wiki/Criminal_Minds"
+    },
+    {
+      "text": "The St. Valentine's Day Massacre of 1929 in Chicago, attributed to Al Capone's gang, killed seven members of a rival gang.",
+      "month": 2,
+      "day": 14,
+      "source": "https://en.wikipedia.org/wiki/St._Valentine%27s_Day_Massacre_of_1929_in"
+    },
+    {
+      "text": "Trace evidence, such as paint chips, glass fragments, and soil samples, can provide crucial links between suspects and crime scenes.",
+      "source": "https://en.wikipedia.org/wiki/Crime_fiction"
+    },
+    {
+      "text": "G.K. Chesterton's Father Brown stories feature a Catholic priest who solves crimes by understanding the criminal mind.",
+      "source": "https://en.wikipedia.org/wiki/G.K._Chesterton%27s_Father_Brown"
+    },
+    {
+      "text": "The Green River Killer case was solved using DNA evidence after investigators matched semen samples to Gary Ridgway.",
+      "source": "https://en.wikipedia.org/wiki/Green_River_Killer_case"
+    },
+    {
+      "text": "The movie 'Prisoners' explores the moral dilemmas faced when a father takes justice into his own hands.",
+      "source": "https://en.wikipedia.org/wiki/movie_%27Prisoners%27_explores_the_moral_dilemmas_faced_when_a_father"
+    },
+    {
+      "text": "The TV show Sherlock, starring Benedict Cumberbatch, updated the classic detective to modern-day London.",
+      "month": 7,
+      "day": 25,
+      "source": "https://en.wikipedia.org/wiki/TV"
+    },
+    {
+      "text": "The Smiley Face Murder Theory proposes that a serial killer or killers are responsible for the drowning deaths of young men across the United States.",
+      "source": "https://en.wikipedia.org/wiki/Smiley_Face_Murder_Theory_proposes_that_a_serial_killer_or_killers"
+    },
+    {
+      "text": "Allan Pinkerton's detective agency was hired by Abraham Lincoln as a personal security detail, predating the Secret Service.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Allan_Pinkerton%27s_detective_agency"
+    },
+    {
+      "text": "Forensic geology uses soil and mineral analysis to connect suspects or evidence to specific locations.",
+      "source": "https://en.wikipedia.org/wiki/Crime_fiction"
+    },
+    {
+      "text": "The podcast 'Casefile True Crime' has covered hundreds of cases and is known for its meticulous and respectful approach to storytelling.",
+      "source": "https://en.wikipedia.org/wiki/podcast_%27Casefile_True_Crime"
+    },
+    {
+      "text": "The movie 'Double Indemnity' is a classic film noir about an insurance salesman drawn into a murder plot.",
+      "source": "https://en.wikipedia.org/wiki/movie_%27Double_Indemnity"
+    },
+    {
+      "text": "The TV series Fargo, inspired by the Coen Brothers film, tells standalone crime stories set in the Midwest across multiple seasons.",
+      "source": "https://en.wikipedia.org/wiki/TV_series_Fargo"
+    },
+    {
+      "text": "Elizabeth Báthory, a Hungarian noblewoman in the 16th century, is believed to have tortured and killed hundreds of young women.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Elizabeth_B%C3%A1thory%2C_a_Hungarian_noblewoman_in_the_16th_century"
+    },
+    {
+      "text": "Latent fingerprints, invisible to the naked eye, can be developed using powders, chemicals, or alternative light sources.",
+      "source": "https://en.wikipedia.org/wiki/Latent_fingerprints%2C_invisible_to_the_naked_eye%2C_can_be"
+    },
+    {
+      "text": "Michael Connelly's Harry Bosch series follows an LAPD detective and has been adapted into a popular Amazon television series.",
+      "source": "https://en.wikipedia.org/wiki/Michael_Connelly%27s_Harry_Bosch_series_follows_an_LAPD_detective_and"
+    },
+    {
+      "text": "The Ripper Crew, also known as the Chicago Rippers, was a satanic cult that committed a series of murders in 1981-1982.",
+      "source": "https://en.wikipedia.org/wiki/Ripper_Crew%2C_also_known_as_the_Chicago_Rippers"
+    },
+    {
+      "text": "The FBI's Uniform Crime Reporting program has collected data on crimes reported to law enforcement since 1930.",
+      "source": "https://en.wikipedia.org/wiki/FBI%27s_Uniform_Crime_Reporting_program"
+    },
+    {
+      "text": "The movie 'Vertigo' by Alfred Hitchcock is built around themes of obsession, deception, and murder.",
+      "source": "https://en.wikipedia.org/wiki/movie_%27Vertigo%27_by_Alfred_Hitchcock"
+    },
+    {
+      "text": "The Silk Road, an online black market, was shut down by the FBI in 2013, and its founder Ross Ulbricht was sentenced to life in prison.",
+      "month": 10,
+      "day": 2,
+      "source": "https://en.wikipedia.org/wiki/Silk_Road%2C_an_online_black_market"
+    },
+    {
+      "text": "Crime scene tape, typically yellow, was first used in the 1960s to secure investigation areas and keep the public away.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Crime_scene_tape%2C_typically_yellow"
+    },
+    {
+      "text": "The podcast 'Serial' launched the golden age of true crime podcasts when its first season debuted in 2014.",
+      "month": 10,
+      "day": 3,
+      "source": "https://en.wikipedia.org/wiki/podcast_%27Serial"
+    },
+    {
+      "text": "Forensic voice analysis compares voice recordings to identify or eliminate suspects based on speech patterns and vocal characteristics.",
+      "source": "https://en.wikipedia.org/wiki/Crime_fiction"
+    },
+    {
+      "text": "The TV show The Sinner explores the psychology behind why people commit violent crimes.",
+      "source": "https://en.wikipedia.org/wiki/TV"
+    },
+    {
+      "text": "John Wayne Gacy, known as the 'Killer Clown,' murdered 33 young men and buried most of them under his house in suburban Chicago.",
+      "source": "https://en.wikipedia.org/wiki/John_Wayne_Gacy"
+    },
+    {
+      "text": "Ipek Williamson is known as a pioneer in the field of forensic art, helping identify victims through age-progression images.",
+      "source": "https://en.wikipedia.org/wiki/Ipek_Williamson"
+    },
+    {
+      "text": "The movie 'Fargo' by the Coen Brothers opens with a claim to be based on a true story, which is itself a fictional device.",
+      "source": "https://en.wikipedia.org/wiki/Coen_Brothers"
+    },
+    {
+      "text": "Cesare Lombroso, a 19th-century criminologist, believed criminals could be identified by physical characteristics, a theory now discredited.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Cesare_Lombroso"
+    },
+    {
+      "text": "The Tate-LaBianca murders committed by the Manson Family effectively ended the optimistic spirit of the 1960s counterculture.",
+      "source": "https://en.wikipedia.org/wiki/Tate-LaBianca"
+    },
+    {
+      "text": "The TV show Psych features a hyper-observant consultant who pretends to be psychic to help the Santa Barbara police solve crimes.",
+      "source": "https://en.wikipedia.org/wiki/TV_show_Psych"
+    },
+    {
+      "text": "The Gardner Museum in Boston still displays empty frames where the stolen paintings once hung, hoping for their return.",
+      "source": "https://en.wikipedia.org/wiki/Gardner_Museum_in_Boston"
+    },
+    {
+      "text": "Forensic document examination analyzes handwriting, typewriting, and printing to detect forgeries and authenticate documents.",
+      "source": "https://en.wikipedia.org/wiki/Crime_fiction"
+    },
+    {
+      "text": "Thomas Harris created the fictional serial killer Hannibal Lecter, who first appeared in the novel 'Red Dragon' in 1981.",
+      "source": "https://en.wikipedia.org/wiki/Thomas_Harris"
+    },
+    {
+      "text": "The Watergate scandal led to President Nixon's resignation, proving that criminal investigations can reach the highest levels of government.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Watergate"
+    },
+    {
+      "text": "The Night Stalker Richard Ramirez used no consistent method, making him difficult to profile and track.",
+      "source": "https://en.wikipedia.org/wiki/Night_Stalker_Richard_Ramirez"
+    },
+    {
+      "text": "The movie 'The Thin Man' series popularized the witty detective couple Nick and Nora Charles in 1930s Hollywood.",
+      "source": "https://en.wikipedia.org/wiki/Thin_Man"
+    },
+    {
+      "text": "The TV show Marcella explores a former detective who returns to work on a case similar to an old unsolved serial murder.",
+      "source": "https://en.wikipedia.org/wiki/TV"
+    },
+    {
+      "text": "Emile Zola's open letter 'J'accuse' in the Dreyfus Affair is one of history's most famous interventions in a criminal case.",
+      "month": 1,
+      "day": 13,
+      "source": "https://en.wikipedia.org/wiki/Emile_Zola%27s_open_letter_%27J%27accuse%27_in_the_Dreyfus_Affair"
+    },
+    {
+      "text": "Forensic entomologists can determine the postmortem interval by studying the life cycles of blow flies and beetles found on remains.",
+      "source": "https://en.wikipedia.org/wiki/Crime_fiction"
+    },
+    {
+      "text": "The TV show Hannibal reimagined the relationship between Will Graham and Hannibal Lecter for a modern television audience.",
+      "source": "https://en.wikipedia.org/wiki/TV"
+    },
+    {
+      "text": "The first lie detector machine was developed in 1921 by John Augustus Larson, a medical student and police officer.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/first_lie_detector_machine"
+    },
+    {
+      "text": "The Hillside Stranglers, cousins Kenneth Bianchi and Angelo Buono, terrorized Los Angeles in 1977-1978.",
+      "source": "https://en.wikipedia.org/wiki/Hillside_Stranglers"
+    },
+    {
+      "text": "The movie 'Murder on the Orient Express,' based on Agatha Christie's novel, has been adapted for film multiple times.",
+      "source": "https://en.wikipedia.org/wiki/movie_%27Murder_on_the_Orient_Express%2C%27_based_on_Agatha_Christie%27s_novel"
+    },
+    {
+      "text": "The FBI estimates that there may be 25-50 active serial killers in the United States at any given time.",
+      "source": "https://en.wikipedia.org/wiki/FBI"
+    },
+    {
+      "text": "The podcast 'Someone Knows Something' by CBC investigates cold cases with the cooperation of victims' families.",
+      "source": "https://en.wikipedia.org/wiki/Someone_Knows_Something"
+    },
+    {
+      "text": "Touch DNA can be collected from skin cells left on surfaces, even without visible biological material.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Touch_DNA_can_be_collected_from_skin_cells"
+    },
+    {
+      "text": "The Whitechapel Murders file at Scotland Yard was not closed until 1892, four years after the last canonical Jack the Ripper killing.",
+      "source": "https://en.wikipedia.org/wiki/Whitechapel_Murders_file_at_Scotland_Yard"
+    },
+    {
+      "text": "The TV show Veronica Mars features a high school student who moonlights as a private investigator in a corrupt California town.",
+      "source": "https://en.wikipedia.org/wiki/TV_show_Veronica_Mars"
+    },
+    {
+      "text": "The Sam Sheppard murder case in 1954 inspired the TV show and movie 'The Fugitive.'",
+      "source": "https://en.wikipedia.org/wiki/Sam_Sheppard_murder_case_in_1954"
+    },
+    {
+      "text": "Forensic pathologists perform autopsies to determine cause and manner of death, which can be classified as natural, accident, suicide, homicide, or undetermined.",
+      "source": "https://en.wikipedia.org/wiki/Crime_fiction"
+    },
+    {
+      "text": "The movie 'Memento' by Christopher Nolan tells a murder mystery in reverse chronological order.",
+      "source": "https://en.wikipedia.org/wiki/movie_%27Memento%27_by_Christopher_Nolan"
+    },
+    {
+      "text": "The first known use of fingerprints to solve a crime was in Buenos Aires, Argentina, in 1892, when Inspector Alvarez identified a murderer.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/first_known_use_of_fingerprints_to_solve_a_crime"
+    },
+    {
+      "text": "The Axeman of New Orleans terrorized the city in 1918-1919, and the killer was never identified.",
+      "month": 3,
+      "day": 10,
+      "source": "https://en.wikipedia.org/wiki/Axeman_of_New_Orleans_terrorized_the_city_in_1918-1919%2C_and_the_killer"
+    },
+    {
+      "text": "The TV show Mare of Easttown stars Kate Winslet as a detective investigating a murder in a small Pennsylvania town.",
+      "source": "https://en.wikipedia.org/wiki/TV"
+    },
+    {
+      "text": "The FBI's National Academy has trained over 50,000 law enforcement officers from all 50 states and over 170 countries.",
+      "source": "https://en.wikipedia.org/wiki/FBI%27s_National_Academy"
+    },
+    {
+      "text": "Forensic nurses, also called Sexual Assault Nurse Examiners, are specially trained to collect evidence from victims of sexual assault.",
+      "source": "https://en.wikipedia.org/wiki/Forensic_nurses%2C_also_called_Sexual_Assault_Nurse_Examiners"
+    },
+    {
+      "text": "The movie 'The Girl with the Dragon Tattoo' follows journalist Mikael Blomkvist and hacker Lisbeth Salander investigating a decades-old disappearance.",
+      "source": "https://en.wikipedia.org/wiki/Girl_with_the_Dragon_Tattoo"
+    },
+    {
+      "text": "The TV show Only Murders in the Building follows three true crime podcast fans who become involved in solving a real murder in their apartment building.",
+      "source": "https://en.wikipedia.org/wiki/TV"
+    },
+    {
+      "text": "Albert Fish, one of history's most disturbing serial killers, was caught when he sent a letter to one of his victim's families.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Albert_Fish%2C_one_of_history%27s_most_disturbing_serial_killers"
+    },
+    {
+      "text": "Crime mapping software helps police departments visualize patterns and predict where future crimes may occur.",
+      "source": "https://en.wikipedia.org/wiki/Crime_fiction"
+    },
+    {
+      "text": "Val McDermid's crime novels featuring psychologist Tony Hill have sold millions of copies and been adapted for the TV show Wire in the Blood.",
+      "source": "https://en.wikipedia.org/wiki/Val_McDermid%27s_crime_novels_featuring_psychologist_Tony_Hill"
+    },
+    {
+      "text": "The Bank of England robbery of 1836 saw thieves tunnel into the vault from a nearby sewer.",
+      "source": "https://en.wikipedia.org/wiki/Bank_of_England_robbery_of_1836"
+    },
+    {
+      "text": "Forensic meteorology uses weather data to establish conditions at the time of a crime, such as visibility and temperature.",
+      "source": "https://en.wikipedia.org/wiki/Crime_fiction"
+    },
+    {
+      "text": "The movie 'Dial M for Murder' by Alfred Hitchcock centers on a husband's elaborate plan to have his wife murdered.",
+      "source": "https://en.wikipedia.org/wiki/movie_%27Dial_M_for_Murder%27_by_Alfred_Hitchcock_centers_on_a_husband%27s_elaborate_plan_to"
+    },
+    {
+      "text": "The TV show Broadchurch showed how media attention can both help and hinder criminal investigations.",
+      "source": "https://en.wikipedia.org/wiki/TV"
+    },
+    {
+      "text": "Bruno Hauptmann was convicted and executed for the kidnapping and murder of Charles Lindbergh's infant son.",
+      "month": 4,
+      "day": 3,
+      "source": "https://en.wikipedia.org/wiki/Bruno_Hauptmann"
+    },
+    {
+      "text": "The first female FBI agents were hired in 1972, decades after the bureau's founding.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/first_female_FBI_agents"
+    },
+    {
+      "text": "Forensic podiatry analyzes footwear impressions and gait patterns to identify suspects.",
+      "source": "https://en.wikipedia.org/wiki/Crime_fiction"
+    },
+    {
+      "text": "The podcast 'In the Dark' investigated the case of Curtis Flowers, who was tried six times for the same crime in Mississippi.",
+      "source": "https://en.wikipedia.org/wiki/podcast_%27In_the_Dark%27_investigated_the_case_of_Curtis_Flowers%2C_who"
+    },
+    {
+      "text": "The movie 'Anatomy of a Murder' is considered one of the greatest courtroom dramas in film history.",
+      "source": "https://en.wikipedia.org/wiki/movie_%27Anatomy_of_a_Murder"
+    },
+    {
+      "text": "The Acid Bath Murderer, John George Haigh, dissolved his victims in sulfuric acid but was caught through forensic evidence.",
+      "source": "https://en.wikipedia.org/wiki/Acid_Bath_Murderer%2C_John_George_Haigh%2C_dissolved_his_victims_in_sulfuric_acid_but"
+    },
+    {
+      "text": "The TV show Mindhunter explored how serial killers like Ed Kemper, Richard Speck, and Jerry Brudos were interviewed by the FBI.",
+      "source": "https://en.wikipedia.org/wiki/TV"
+    },
+    {
+      "text": "The oldest known law code, the Code of Hammurabi, prescribed specific punishments for various crimes nearly 4,000 years ago.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Code_of_Hammurabi"
+    },
+    {
+      "text": "The trial of Oscar Pistorius for the shooting of Reeva Steenkamp was broadcast live and followed worldwide.",
+      "month": 2,
+      "day": 14,
+      "source": "https://en.wikipedia.org/wiki/trial_of_Oscar_Pistorius_for_the_shooting_of_Reeva_Steenkamp"
+    },
+    {
+      "text": "Forensic glass analysis can determine if glass fragments on a suspect match those from a crime scene by comparing refractive index.",
+      "source": "https://en.wikipedia.org/wiki/Crime_fiction"
+    },
+    {
+      "text": "Dorothy L. Sayers created the aristocratic detective Lord Peter Wimsey, one of the golden age of detective fiction's most beloved characters.",
+      "source": "https://en.wikipedia.org/wiki/Dorothy_L._Sayers"
+    },
+    {
+      "text": "The Wichita BTK Killer's name stood for 'Bind, Torture, Kill,' which described his method of attacking victims.",
+      "source": "https://en.wikipedia.org/wiki/Wichita_BTK_Killer%27s"
+    },
+    {
+      "text": "The movie 'Witness for the Prosecution,' based on Agatha Christie's play, features one of cinema's most famous surprise endings.",
+      "source": "https://en.wikipedia.org/wiki/movie_%27Witness_for_the_Prosecution%2C%27_based_on_Agatha_Christie%27s_play"
+    },
+    {
+      "text": "The TV show Castle follows a mystery novelist who shadows an NYPD detective for research inspiration.",
+      "source": "https://en.wikipedia.org/wiki/TV"
+    },
+    {
+      "text": "The first televised criminal trial in the United States was the 1955 trial of Harry Washburn for murder.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/first_televised_criminal_trial_in_the_United_States"
+    },
+    {
+      "text": "The Australian case of the Disappearance of the Beaumont Children in 1966 remains one of the country's most enduring mysteries.",
+      "source": "https://en.wikipedia.org/wiki/Australian"
+    },
+    {
+      "text": "Chain of custody documentation ensures that evidence collected at a crime scene is properly handled and admissible in court.",
+      "source": "https://en.wikipedia.org/wiki/Chain_of_custody_documentation_ensures_that_evidence_collected_at_a_crime_scene"
+    },
+    {
+      "text": "P.D. James created the detective Adam Dalgliesh, a Scotland Yard commander who is also a published poet.",
+      "source": "https://en.wikipedia.org/wiki/P.D._James"
+    },
+    {
+      "text": "The movie 'To Kill a Mockingbird' portrays Atticus Finch defending a wrongfully accused Black man in the 1930s South.",
+      "source": "https://en.wikipedia.org/wiki/To_Kill"
+    },
+    {
+      "text": "The TV show Monk featured Tony Shalhoub as an obsessive-compulsive former detective who solves crimes despite his phobias.",
+      "source": "https://en.wikipedia.org/wiki/TV"
+    },
+    {
+      "text": "The Great Brink's Robbery of 1950 was meticulously planned over two years, with the thieves studying the building's layout and schedules.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Great_Brink%27s_Robbery_of_1950"
+    },
+    {
+      "text": "Facial recognition technology is increasingly used by law enforcement but raises significant concerns about privacy and accuracy.",
+      "source": "https://en.wikipedia.org/wiki/Facial_recognition_technology"
+    },
+    {
+      "text": "The podcast 'Bear Brook' used forensic genealogy to identify the victims found in barrels in Bear Brook State Park, New Hampshire.",
+      "source": "https://en.wikipedia.org/wiki/Bear_Brook"
+    },
+    {
+      "text": "The Spa Lane Murders in Sheffield, England, remain one of the UK's most baffling unsolved cases.",
+      "source": "https://en.wikipedia.org/wiki/Spa_Lane_Murders_in_Sheffield"
+    },
+    {
+      "text": "Forensic taphonomy studies how bodies decompose in different environments to help determine time and circumstances of death.",
+      "source": "https://en.wikipedia.org/wiki/Crime_fiction"
+    },
+    {
+      "text": "The movie 'Basic Instinct' features a crime novelist who becomes the prime suspect in a murder investigation.",
+      "source": "https://en.wikipedia.org/wiki/movie_%27Basic_Instinct"
+    },
+    {
+      "text": "The TV show Bosch, based on Michael Connelly's novels, streams on Amazon and follows an LAPD homicide detective.",
+      "source": "https://en.wikipedia.org/wiki/TV"
+    },
+    {
+      "text": "The term 'whodunit' was first used in a 1930 book review and has since become the standard name for mystery stories.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/term_%27whodunit"
+    },
+    {
+      "text": "The Elizabeth Smart kidnapping case in 2002 led to the creation of the AMBER Alert system's expansion nationwide.",
+      "month": 6,
+      "day": 5,
+      "source": "https://en.wikipedia.org/wiki/Elizabeth_Smart"
+    },
+    {
+      "text": "Forensic scientists use UV light to detect biological fluids, fibers, and other trace evidence invisible under normal lighting.",
+      "source": "https://en.wikipedia.org/wiki/Crime_fiction"
+    },
+    {
+      "text": "Ross Macdonald's Lew Archer series is considered some of the finest detective fiction written in the 20th century.",
+      "source": "https://en.wikipedia.org/wiki/Ross_Macdonald%27s_Lew_Archer_series"
+    },
+    {
+      "text": "The Whitey Bulger trial in 2013 revealed extensive corruption within the FBI's handling of organized crime informants.",
+      "source": "https://en.wikipedia.org/wiki/Whitey_Bulger"
+    },
+    {
+      "text": "The movie 'Se7en' was notable for its dark cinematography and having the killer turn himself in midway through the film.",
+      "source": "https://en.wikipedia.org/wiki/movie_%27Se7en"
+    },
+    {
+      "text": "The TV show Person of Interest explored themes of surveillance, privacy, and crime prevention through artificial intelligence.",
+      "source": "https://en.wikipedia.org/wiki/TV"
+    },
+    {
+      "text": "Al Capone was ultimately convicted not for his violent crimes but for tax evasion, receiving an 11-year prison sentence.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Al_Capone"
+    },
+    {
+      "text": "Geographic information systems help forensic investigators map crime scenes in three dimensions for courtroom presentations.",
+      "source": "https://en.wikipedia.org/wiki/Crime_fiction"
+    },
+    {
+      "text": "The podcast 'Undisclosed' reexamined evidence from the case covered in Serial's first season.",
+      "source": "https://en.wikipedia.org/wiki/Crime_fiction"
+    },
+    {
+      "text": "The movie 'The Third Man' set in post-war Vienna is considered one of the greatest mystery thrillers in cinema history.",
+      "source": "https://en.wikipedia.org/wiki/movie_%27The_Third_Man%27_set_in_post-war_Vienna"
+    },
+    {
+      "text": "The ABC Murders by Agatha Christie features a killer who strikes in alphabetical order, taunting Poirot with letters.",
+      "source": "https://en.wikipedia.org/wiki/ABC_Murders_by_Agatha_Christie"
+    },
+    {
+      "text": "The Ted Bundy case demonstrated how a charismatic appearance could allow a killer to evade suspicion for years.",
+      "source": "https://en.wikipedia.org/wiki/Ted_Bundy"
+    },
+    {
+      "text": "Mass spectrometry is used in forensic labs to identify unknown substances found at crime scenes.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Mass_spectrometry"
+    },
+    {
+      "text": "The Whitechapel Vigilance Committee was formed by local citizens in 1888 to patrol streets during the Jack the Ripper murders.",
+      "source": "https://en.wikipedia.org/wiki/Whitechapel_Vigilance_Committee"
+    },
+    {
+      "text": "The TV show Narcos depicts the real-life rise and fall of drug cartels, blending crime with historical drama.",
+      "source": "https://en.wikipedia.org/wiki/TV"
+    },
+    {
+      "text": "The trial of the Chicago Seven in 1969-1970 became one of the most politically charged courtroom battles in American history.",
+      "source": "https://en.wikipedia.org/wiki/trial_of_the_Chicago_Seven_in_1969-1970"
+    },
+    {
+      "text": "Forensic odontology helped identify victims of the 2004 Indian Ocean tsunami when other methods of identification were impossible.",
+      "source": "https://en.wikipedia.org/wiki/Forensic_odontology"
+    },
+    {
+      "text": "The movie 'Heat' features one of cinema's most celebrated face-to-face scenes between Al Pacino and Robert De Niro, as a detective and a master thief.",
+      "source": "https://en.wikipedia.org/wiki/movie_%27Heat"
+    },
+    {
+      "text": "The phrase 'beyond a reasonable doubt' is the standard of evidence required for a criminal conviction in the United States.",
+      "source": "https://en.wikipedia.org/wiki/phrase_%27beyond_a_reasonable_doubt"
+    },
+    {
+      "text": "Israel Keyes, a serial killer active from 2001-2012, was unique in burying 'murder kits' years before committing crimes in those locations.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Israel_Keyes%2C_a_serial_killer_active_from_2001-2012"
+    },
+    {
+      "text": "The TV show Line of Duty became the most-watched drama series in UK television history in 2021.",
+      "source": "https://en.wikipedia.org/wiki/TV_show_Line_of_Duty"
+    },
+    {
+      "text": "The Innocence Project was founded in 1992 by Barry Scheck and Peter Neufeld at the Benjamin N. Cardozo School of Law.",
+      "month": 1,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/Innocence_Project"
+    },
+    {
+      "text": "Forensic animation creates digital reconstructions of crimes to present evidence in an understandable visual format.",
+      "source": "https://en.wikipedia.org/wiki/Crime_fiction"
+    },
+    {
+      "text": "John le Carré's spy novels, including 'Tinker Tailor Soldier Spy,' are considered the gold standard of espionage fiction.",
+      "source": "https://en.wikipedia.org/wiki/John_le_Carr%C3%A9%27s_spy_novels%2C_including_%27Tinker_Tailor_Soldier_Spy"
+    },
+    {
+      "text": "The Cleveland Torso Murderer dismembered at least 12 people in 1930s Cleveland, and the case was never solved.",
+      "source": "https://en.wikipedia.org/wiki/Cleveland_Torso_Murderer"
+    },
+    {
+      "text": "The movie 'Insomnia' directed by Christopher Nolan follows a detective investigating a murder in an Alaskan town where the sun never sets.",
+      "source": "https://en.wikipedia.org/wiki/Christopher_Nolan"
+    },
+    {
+      "text": "The TV show Elementary reimagined Sherlock Holmes in modern-day New York with Lucy Liu as Joan Watson.",
+      "source": "https://en.wikipedia.org/wiki/TV"
+    },
+    {
+      "text": "The first criminal conviction based solely on fingerprint evidence occurred in England in 1902.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/England"
+    },
+    {
+      "text": "The Ariel Castro kidnappings in Cleveland, where three women were held captive for over a decade, shocked the nation in 2013.",
+      "month": 5,
+      "day": 6,
+      "source": "https://en.wikipedia.org/wiki/Ariel_Castro_kidnappings_in_Cleveland%2C_where_three_women"
+    },
+    {
+      "text": "Ballistic fingerprinting compares the unique markings left on bullets and casings to link them to a specific firearm.",
+      "source": "https://en.wikipedia.org/wiki/Ballistic_fingerprinting_compares_the_unique_markings"
+    },
+    {
+      "text": "The podcast 'Sword and Scale' covers true crime stories with a focus on the psychological aspects of criminal behavior.",
+      "source": "https://en.wikipedia.org/wiki/Sword_and_Scale"
+    },
+    {
+      "text": "The movie 'The French Connection' is based on the real-life case of detectives who uncovered a heroin smuggling ring.",
+      "source": "https://en.wikipedia.org/wiki/movie_%27The_French_Connection"
+    },
+    {
+      "text": "The TV show How to Get Away with Murder features a law professor and her students entangled in murder plots.",
+      "source": "https://en.wikipedia.org/wiki/TV_show_How_to_Get_Away_with_Murder"
+    },
+    {
+      "text": "The FBI maintains a hair and fiber database that can match trace evidence to specific types of carpet, clothing, and animal breeds.",
+      "source": "https://en.wikipedia.org/wiki/FBI"
+    },
+    {
+      "text": "Kayo Dot's concept of 'linkage blindness' describes how police agencies fail to connect serial crimes across jurisdictions.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Kayo_Dot%27s"
+    },
+    {
+      "text": "The Barker-Karpis gang was one of the most notorious criminal gangs during the Depression era, specializing in kidnapping and bank robbery.",
+      "source": "https://en.wikipedia.org/wiki/Barker-Karpis_gang"
+    },
+    {
+      "text": "Forensic podiatry was used in the UK's Cinderella case, where a shoe print led to the conviction of a murderer.",
+      "source": "https://en.wikipedia.org/wiki/Forensic_podiatry"
+    },
+    {
+      "text": "The movie 'Zodiac' was so detailed that director David Fincher required 70 takes of one diner scene.",
+      "source": "https://en.wikipedia.org/wiki/movie_%27Zodiac"
+    },
+    {
+      "text": "The TV show Peaky Blinders, while focused on a crime family, explores the intersection of crime and politics in post-World War I Birmingham.",
+      "source": "https://en.wikipedia.org/wiki/TV"
+    },
+    {
+      "text": "The FBI's Internet Crime Complaint Center (IC3) receives hundreds of thousands of cybercrime complaints annually.",
+      "source": "https://en.wikipedia.org/wiki/FBI%27s_Internet_Crime_Complaint_Center"
+    },
+    {
+      "text": "Agatha Christie used her knowledge of pharmacy and poisons extensively in her mystery novels, accurately describing toxic effects.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Agatha_Christie"
+    },
+    {
+      "text": "The Night of the Hunter, starring Robert Mitchum as a murderous preacher, is considered one of the greatest thrillers in film history.",
+      "source": "https://en.wikipedia.org/wiki/Night_of_the_Hunter%2C_starring_Robert_Mitchum_as_a_murderous_preacher"
+    },
+    {
+      "text": "The TV show American Crime Story dramatized both the O.J. Simpson trial and the assassination of Gianni Versace.",
+      "month": 2,
+      "day": 2,
+      "source": "https://en.wikipedia.org/wiki/TV"
+    },
+    {
+      "text": "Forensic palynology proved crucial in the conviction of a New Zealand man when pollen grains linked him to the burial site of his victim.",
+      "source": "https://en.wikipedia.org/wiki/New_Zealand"
+    },
+    {
+      "text": "The podcast 'Last Podcast on the Left' combines humor with in-depth research on serial killers and true crime.",
+      "source": "https://en.wikipedia.org/wiki/podcast_%27Last_Podcast_on_the"
+    },
+    {
+      "text": "The movie 'Spotlight' follows Boston Globe reporters investigating systemic cover-ups, winning the Academy Award for Best Picture.",
+      "source": "https://en.wikipedia.org/wiki/Boston_Globe"
+    },
+    {
+      "text": "The Behavioral Evidence Analysis approach examines crime scene evidence to understand the offender's behavior and motivation.",
+      "source": "https://en.wikipedia.org/wiki/Behavioral_Evidence_Analysis"
+    },
+    {
+      "text": "The Amanda Knox case in Italy generated worldwide debate about wrongful conviction and media influence on criminal justice.",
+      "month": 11,
+      "day": 2,
+      "source": "https://en.wikipedia.org/wiki/Amanda_Knox"
+    },
+    {
+      "text": "Advanced laser scanning can create millimeter-accurate 3D models of crime scenes for later analysis and courtroom presentation.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Crime_fiction"
+    },
+    {
+      "text": "The TV show Criminal Minds: Beyond Borders focused on investigating crimes against Americans abroad.",
+      "source": "https://en.wikipedia.org/wiki/TV"
+    },
+    {
+      "text": "The Isdal Woman case in Norway, involving an unidentified woman found dead in 1970, remains one of Northern Europe's greatest mysteries.",
+      "source": "https://en.wikipedia.org/wiki/Isdal_Woman"
+    },
+    {
+      "text": "Forensic genealogy, the technique that caught the Golden State Killer, uses public DNA databases to identify suspects through family connections.",
+      "source": "https://en.wikipedia.org/wiki/Golden_State_Killer"
+    },
+    {
+      "text": "Rex Stout's Nero Wolfe is a famously sedentary detective who rarely leaves his brownstone, relying on assistant Archie Goodwin for legwork.",
+      "source": "https://en.wikipedia.org/wiki/Rex_Stout%27s_Nero_Wolfe"
+    },
+    {
+      "text": "The movie 'The Departed' is a crime thriller about undercover identities within the Boston police and Irish mob, winning four Academy Awards.",
+      "source": "https://en.wikipedia.org/wiki/movie_%27The_Departed"
+    },
+    {
+      "text": "The National Missing and Unidentified Persons System (NamUs) is a free database that helps resolve missing persons and unidentified remains cases.",
+      "source": "https://en.wikipedia.org/wiki/National_Missing_and_Unidentified_Persons_System_(NamUs)"
+    },
+    {
+      "text": "The TV show 48 Hours on CBS takes its name from the critical first 48 hours of a murder investigation.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/TV_show_48_Hours_on_CBS"
+    },
+    {
+      "text": "The Jack the Ripper letters, including the famous 'From Hell' letter, have been analyzed by handwriting experts for over a century.",
+      "source": "https://en.wikipedia.org/wiki/Jack_the_Ripper_letters%2C_including_the_famous_%27From_Hell%27_letter"
+    },
+    {
+      "text": "Lee Child's Jack Reacher series follows a former military policeman who drifts across America encountering crime.",
+      "source": "https://en.wikipedia.org/wiki/Lee_Child%27s_Jack_Reacher"
+    },
+    {
+      "text": "The Menendez brothers' trial in 1993-1996 was one of the first high-profile trials broadcast on Court TV.",
+      "source": "https://en.wikipedia.org/wiki/Menendez_brothers%27_trial_in_1993-1996"
+    },
+    {
+      "text": "Forensic bloodstain pattern analysis can reconstruct the events of a violent crime by studying the shape, size, and distribution of blood drops.",
+      "source": "https://en.wikipedia.org/wiki/Crime_fiction"
+    },
+    {
+      "text": "The movie 'Brick' transplants film noir conventions into a high school setting.",
+      "source": "https://en.wikipedia.org/wiki/Crime_fiction"
+    },
+    {
+      "text": "The TV show Dexter: New Blood revived the character eight years after the original series ended.",
+      "month": 11,
+      "day": 7,
+      "source": "https://en.wikipedia.org/wiki/TV"
+    },
+    {
+      "text": "The Snowtown murders in South Australia involved bodies hidden in barrels of acid in an abandoned bank vault.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Snowtown"
+    },
+    {
+      "text": "The first police department in the modern sense was established in London in 1829 by Sir Robert Peel.",
+      "month": 9,
+      "day": 29,
+      "source": "https://en.wikipedia.org/wiki/first_police_department_in_the_modern_sense"
+    },
+    {
+      "text": "Forensic engineering investigates structural failures and accidents to determine whether criminal negligence played a role.",
+      "source": "https://en.wikipedia.org/wiki/Crime_fiction"
+    },
+    {
+      "text": "The podcast 'Criminal' explores stories of people who've done wrong, been wronged, or gotten caught in the system.",
+      "source": "https://en.wikipedia.org/wiki/Crime_fiction"
+    },
+    {
+      "text": "The movie 'Wind River' highlights the crisis of missing and murdered Indigenous women.",
+      "source": "https://en.wikipedia.org/wiki/Wind_River"
+    },
+    {
+      "text": "The TV show White Collar follows a con artist who helps the FBI catch other white-collar criminals.",
+      "source": "https://en.wikipedia.org/wiki/TV"
+    },
+    {
+      "text": "Emile Durkheim, a founding figure of sociology, argued that crime is a normal and functional part of society.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Emile_Durkheim%2C_a_founding_figure_of_sociology%2C_argued_that_crime"
+    },
+    {
+      "text": "The Madeleine McCann disappearance in Portugal in 2007 became one of the most heavily reported missing person cases in history.",
+      "month": 5,
+      "day": 3,
+      "source": "https://en.wikipedia.org/wiki/Madeleine_McCann_disappearance_in_Portugal_in_2007"
+    },
+    {
+      "text": "Alternative light sources can reveal evidence invisible to the naked eye, including biological fluids, bruises, and altered documents.",
+      "source": "https://en.wikipedia.org/wiki/Crime_fiction"
+    },
+    {
+      "text": "The movie 'The Bone Collector' features a quadriplegic forensics expert who directs investigations from his bed.",
+      "source": "https://en.wikipedia.org/wiki/movie_%27The_Bone_Collector"
+    },
+    {
+      "text": "The TV show Hannibal was praised for its artistic visual style and complex exploration of the relationship between hunter and hunted.",
+      "source": "https://en.wikipedia.org/wiki/TV_show_Hannibal"
+    },
+    {
+      "text": "The Profumo Affair in 1960s Britain combined espionage, crime, and political scandal, nearly bringing down the government.",
+      "source": "https://en.wikipedia.org/wiki/Profumo_Affair_in"
+    },
+    {
+      "text": "Forensic computing can recover data from damaged or destroyed digital devices, including fire-damaged hard drives.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Crime_fiction"
+    },
+    {
+      "text": "The podcast 'Up and Vanished' investigated the cold case of Tara Grinstead, a Georgia beauty queen who disappeared in 2005.",
+      "source": "https://en.wikipedia.org/wiki/Up_and_Vanished"
+    },
+    {
+      "text": "Tana French's Dublin Murder Squad series blends literary fiction with crime procedural storytelling.",
+      "source": "https://en.wikipedia.org/wiki/Tana_French%27s_Dublin_Murder_Squad"
+    },
+    {
+      "text": "The Son of Sam law, passed in 1977, prevents criminals from profiting off their crimes through book deals or media appearances.",
+      "source": "https://en.wikipedia.org/wiki/Son_of_Sam"
+    },
+    {
+      "text": "The movie 'True Grit' features a young girl hiring a U.S. Marshal to track down her father's killer in the Old West.",
+      "source": "https://en.wikipedia.org/wiki/movie_%27True_Grit"
+    },
+    {
+      "text": "The TV show Broadchurch inspired an American remake called Gracepoint, also starring David Tennant.",
+      "source": "https://en.wikipedia.org/wiki/TV_show_Broadchurch"
+    },
+    {
+      "text": "The Bow Street Runners, established in London in the 1740s, are considered one of the earliest professional police forces.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Bow_Street_Runners%2C_established_in_London_in_the_1740s"
+    },
+    {
+      "text": "The Dahmer Netflix series in 2022 sparked renewed public interest in the psychology of serial killers and the failures of law enforcement.",
+      "source": "https://en.wikipedia.org/wiki/Dahmer_Netflix"
+    },
+    {
+      "text": "Forensic soil analysis examines the mineral content, color, and composition of soil to connect evidence to specific locations.",
+      "source": "https://en.wikipedia.org/wiki/Crime_fiction"
+    },
+    {
+      "text": "The podcast 'Morbid' blends true crime with comedy and is one of the most downloaded crime podcasts.",
+      "source": "https://en.wikipedia.org/wiki/podcast_%27Morbid%27_blends_true_crime_with_comedy_and"
+    },
+    {
+      "text": "The movie 'Mulholland Drive' by David Lynch is a neo-noir mystery wrapped in surrealist storytelling.",
+      "source": "https://en.wikipedia.org/wiki/movie_%27Mulholland_Drive%27_by_David_Lynch"
+    },
+    {
+      "text": "The TV show How to Get Away with Murder ran for six seasons on ABC.",
+      "source": "https://en.wikipedia.org/wiki/TV_show_How_to_Get_Away_with_Murder"
+    },
+    {
+      "text": "The Hinterkaifeck murders in Germany in 1922, where an entire family was killed on their farm, remain unsolved.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Hinterkaifeck_murders_in_Germany_in_1922%2C_where_an_entire_family"
+    },
+    {
+      "text": "Chain of evidence protocols require every person who handles a piece of evidence to document when and how they handled it.",
+      "source": "https://en.wikipedia.org/wiki/Chain_of"
+    },
+    {
+      "text": "The movie 'Manhunter' was the first film to feature the character of Hannibal Lecter, portrayed by Brian Cox.",
+      "source": "https://en.wikipedia.org/wiki/movie_%27Manhunter"
+    },
+    {
+      "text": "The TV show Killing Eve premiered in 2018 and was praised for its fresh take on the spy thriller genre.",
+      "month": 4,
+      "day": 8,
+      "source": "https://en.wikipedia.org/wiki/TV_show_Killing_Eve_premiered_in_2018_and"
+    },
+    {
+      "text": "The Cleveland Butcher case is sometimes linked to Eliot Ness, who was Cleveland's Safety Director during the murders.",
+      "source": "https://en.wikipedia.org/wiki/Cleveland_Butcher_case"
+    },
+    {
+      "text": "Forensic chemistry can identify accelerants used in arson cases by analyzing residue found at fire scenes.",
+      "source": "https://en.wikipedia.org/wiki/Crime_fiction"
+    },
+    {
+      "text": "Ian Rankin's Inspector Rebus novels capture the dark side of Edinburgh and are beloved by crime fiction readers worldwide.",
+      "source": "https://en.wikipedia.org/wiki/Ian_Rankin%27s_Inspector_Rebus_novels_capture_the_dark_side_of_Edinburgh_and"
+    },
+    {
+      "text": "The trial of Adolf Eichmann in Jerusalem in 1961 was one of the first trials to be fully televised.",
+      "month": 4,
+      "day": 11,
+      "source": "https://en.wikipedia.org/wiki/trial_of_Adolf_Eichmann_in_Jerusalem_in_1961"
+    },
+    {
+      "text": "The movie 'Mississippi Burning' depicted the FBI investigation into the 1964 murders of three civil rights workers.",
+      "source": "https://en.wikipedia.org/wiki/Mississippi_Burning"
+    },
+    {
+      "text": "The TV show True Crime with Aphrodite Jones was one of the first shows to focus on in-depth analysis of individual criminal cases.",
+      "source": "https://en.wikipedia.org/wiki/TV_show_True_Crime_with_Aphrodite_Jones"
+    },
+    {
+      "text": "Victimology, the study of victims and their relationship to the offender, is a critical component of criminal profiling.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Victimology%2C_the_study_of_victims_and_their_relationship_to_the_offender"
+    },
+    {
+      "text": "The Night Stalker case led to one of the largest manhunts in Los Angeles history, involving over 200 officers.",
+      "source": "https://en.wikipedia.org/wiki/Night_Stalker"
+    },
+    {
+      "text": "The podcast 'RedHanded' covers international true crime stories often overlooked by American-focused podcasts.",
+      "source": "https://en.wikipedia.org/wiki/Crime_fiction"
+    },
+    {
+      "text": "Dennis Nilsen, the 'Kindly Killer,' murdered at least 12 men in London between 1978 and 1983, disposing of their remains at home.",
+      "source": "https://en.wikipedia.org/wiki/Dennis_Nilsen"
+    },
+    {
+      "text": "The movie 'Zodiac' shows how the unsolved case consumed the lives of the journalists and detectives investigating it.",
+      "source": "https://en.wikipedia.org/wiki/Crime_fiction"
+    },
+    {
+      "text": "The TV show The Mentalist features a consultant who uses his extraordinary observation skills to help the CBI solve crimes.",
+      "source": "https://en.wikipedia.org/wiki/TV_show_The_Mentalist"
+    },
+    {
+      "text": "The concept of 'criminal profiling' gained widespread public attention through Thomas Harris's novel 'The Silence of the Lambs.'",
+      "source": "https://en.wikipedia.org/wiki/Thomas_Harris%27s"
+    },
+    {
+      "text": "The Zodiac Killer's first confirmed attack occurred on December 20, 1968, when he shot two teenagers on a remote road near Vallejo, California.",
+      "month": 12,
+      "day": 20,
+      "source": "https://en.wikipedia.org/wiki/Zodiac_Killer%27s"
+    },
+    {
+      "text": "Electrostatic detection apparatus (ESDA) can reveal indented writing on paper, uncovering notes written on pages placed on top.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Crime_fiction"
+    },
+    {
+      "text": "Sara Paretsky's V.I. Warshawski was a groundbreaking female private investigator in a genre long dominated by male detectives.",
+      "source": "https://en.wikipedia.org/wiki/Sara_Paretsky%27s_V.I._Warshawski"
+    },
+    {
+      "text": "The French Connection case resulted in the seizure of 112 pounds of heroin and was one of the largest narcotics busts of its era.",
+      "source": "https://en.wikipedia.org/wiki/French_Connection_case_resulted_in_the_seizure_of_112_pounds_of_heroin_and"
+    },
+    {
+      "text": "The TV show The Fall stars Gillian Anderson as a detective hunting a serial killer played by Jamie Dornan in Belfast.",
+      "source": "https://en.wikipedia.org/wiki/TV"
+    },
+    {
+      "text": "The Enrique 'Kiki' Camarena case, in which a DEA agent was tortured and murdered in Mexico in 1985, strained U.S.-Mexico relations.",
+      "month": 2,
+      "day": 7,
+      "source": "https://en.wikipedia.org/wiki/Enrique_%27Kiki%27_Camarena_case%2C_in_which_a_DEA_agent"
+    },
+    {
+      "text": "Forensic art includes not only facial reconstruction but also age progression, postmortem drawings, and composite sketches.",
+      "source": "https://en.wikipedia.org/wiki/Forensic_art"
+    },
+    {
+      "text": "The movie 'Catch Me If You Can' is based on the true story of con artist Frank Abagnale Jr., who successfully impersonated multiple professionals.",
+      "source": "https://en.wikipedia.org/wiki/movie_%27Catch_Me_If_You_Can"
+    },
+    {
+      "text": "CCTV footage has become one of the most important tools in modern criminal investigation, with millions of cameras worldwide.",
+      "source": "https://en.wikipedia.org/wiki/CCTV_footage"
+    },
+    {
+      "text": "The Toolbox Killers, Lawrence Bittaker and Roy Norris, recorded their crimes on audio tape, which was later used as evidence.",
+      "source": "https://en.wikipedia.org/wiki/Toolbox_Killers%2C_Lawrence_Bittaker_and_Roy_Norris"
+    },
+    {
+      "text": "The podcast 'Anatomy of Murder' is co-hosted by a former New York City prosecutor and a journalist.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/podcast_%27Anatomy_of_Murder"
+    },
+    {
+      "text": "The TV show Dateline NBC has been on the air for over 30 years, making it one of the longest-running shows on network television.",
+      "source": "https://en.wikipedia.org/wiki/TV_show_Dateline_NBC"
+    },
+    {
+      "text": "Karin Slaughter's Will Trent series combines suspenseful crime fiction with complex character development.",
+      "source": "https://en.wikipedia.org/wiki/Karin_Slaughter%27s_Will_Trent"
+    },
+    {
+      "text": "Crime scene cleanup is a specialized profession that requires certification and knowledge of biohazard handling procedures.",
+      "source": "https://en.wikipedia.org/wiki/Crime_scene_cleanup"
+    },
+    {
+      "text": "The movie 'Jagged Edge' features a newspaper editor on trial for the murder of his wife, with his defense attorney becoming romantically involved.",
+      "source": "https://en.wikipedia.org/wiki/movie_%27Jagged_Edge"
+    },
+    {
+      "text": "The concept of the 'locked room mystery' was popularized by John Dickson Carr and remains a beloved subgenre of detective fiction.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/concept_of_the_%27locked_room_mystery"
+    },
+    {
+      "text": "The Ted Bundy tapes, recorded before his execution, provided chilling insights into the mind of a serial killer.",
+      "month": 1,
+      "day": 24,
+      "source": "https://en.wikipedia.org/wiki/Ted_Bundy_tapes"
+    },
+    {
+      "text": "Rapid DNA technology can produce a DNA profile in under two hours, compared to the days or weeks required by traditional methods.",
+      "source": "https://en.wikipedia.org/wiki/Rapid_DNA"
+    },
+    {
+      "text": "The TV show Accused is an anthology series where each episode follows a different person on trial, revealing how they ended up in the courtroom.",
+      "source": "https://en.wikipedia.org/wiki/TV_show_Accused"
+    },
+    {
+      "text": "The Great Plymouth Mail Robbery of 1962 was eclipsed by the Great Train Robbery the following year.",
+      "source": "https://en.wikipedia.org/wiki/Great_Plymouth_Mail_Robbery_of_1962"
+    },
+    {
+      "text": "The first organized forensic science laboratory was established in Lyon, France, by Edmond Locard in 1910.",
+      "source": "https://en.wikipedia.org/wiki/first_organized_forensic_science_laboratory"
+    },
+    {
+      "text": "The movie 'Black Dahlia' dramatized the real unsolved 1947 murder case that captivated Los Angeles.",
+      "source": "https://en.wikipedia.org/wiki/Black_Dahlia"
+    },
+    {
+      "text": "True crime conventions and events, known as CrimeCons, attract thousands of fans and industry professionals annually.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Crime_fiction"
+    }
+  ]
+}

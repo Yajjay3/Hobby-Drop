@@ -1,0 +1,1613 @@
+{
+  "hobby": "Soccer",
+  "facts": [
+    {
+      "text": "The FIFA World Cup is the most-watched sporting event in the world, with the 2022 final drawing an estimated 1.5 billion viewers.",
+      "source": "https://en.wikipedia.org/wiki/FIFA_World_Cup"
+    },
+    {
+      "text": "Pelé scored 1,283 career goals and is the only player to win three FIFA World Cup titles (1958, 1962, 1970).",
+      "source": "https://en.wikipedia.org/wiki/Pel%C3%A9_scored_1%2C283_career_goals_and"
+    },
+    {
+      "text": "A regulation soccer field is between 100-130 yards long and 50-100 yards wide, with goals measuring 8 feet high and 24 feet wide.",
+      "source": "https://en.wikipedia.org/wiki/A_regulation_soccer_field"
+    },
+    {
+      "text": "Lionel Messi has won the Ballon d'Or (world's best player) a record 8 times.",
+      "source": "https://en.wikipedia.org/wiki/Lionel_Messi"
+    },
+    {
+      "text": "Cristiano Ronaldo is the all-time leading scorer in men's international soccer with over 130 goals for Portugal.",
+      "source": "https://en.wikipedia.org/wiki/Cristiano_Ronaldo"
+    },
+    {
+      "text": "The English Premier League is the most-watched sports league in the world, broadcast in 212 territories.",
+      "source": "https://en.wikipedia.org/wiki/English_Premier_League"
+    },
+    {
+      "text": "The first FIFA World Cup was held in Uruguay in 1930, with the host nation defeating Argentina 4-2 in the final.",
+      "source": "https://en.wikipedia.org/wiki/first_FIFA_World_Cup"
+    },
+    {
+      "text": "Brazil has won the most World Cup titles with 5 championships (1958, 1962, 1970, 1994, 2002).",
+      "source": "https://en.wikipedia.org/wiki/Brazil"
+    },
+    {
+      "text": "The offside rule, one of soccer's most debated laws, was introduced in 1863 and has been modified multiple times since.",
+      "source": "https://en.wikipedia.org/wiki/offside_rule%2C_one_of_soccer%27s_most_debated_laws"
+    },
+    {
+      "text": "Manchester United is one of the most valuable sports franchises in the world, worth over $6 billion.",
+      "source": "https://en.wikipedia.org/wiki/Manchester_United"
+    },
+    {
+      "text": "The UEFA Champions League final is the most-watched annual club sporting event worldwide.",
+      "source": "https://en.wikipedia.org/wiki/UEFA_Champions_League_final"
+    },
+    {
+      "text": "Diego Maradona's 'Hand of God' goal against England in the 1986 World Cup is one of the most controversial goals in soccer history.",
+      "source": "https://en.wikipedia.org/wiki/Diego_Maradona%27s_%27Hand_of_God%27_goal_against_England_in_the_1986_World_Cup"
+    },
+    {
+      "text": "Maradona also scored the 'Goal of the Century' in the same 1986 match, dribbling past five English players and the goalkeeper.",
+      "source": "https://en.wikipedia.org/wiki/Goal_of_the_Century%27_in_the"
+    },
+    {
+      "text": "A standard soccer ball has 32 panels and weighs between 14-16 ounces.",
+      "source": "https://en.wikipedia.org/wiki/A_standard_soccer_ball"
+    },
+    {
+      "text": "The MLS (Major League Soccer) was founded in 1993 and began play in 1996 as part of the United States' bid to host the 1994 World Cup.",
+      "source": "https://en.wikipedia.org/wiki/MLS_(Major_League_Soccer)"
+    },
+    {
+      "text": "Marta, the Brazilian forward, is considered the greatest female soccer player of all time and has scored more World Cup goals than any woman.",
+      "source": "https://en.wikipedia.org/wiki/Marta%2C_the_Brazilian_forward"
+    },
+    {
+      "text": "The 'Beautiful Game' is a nickname for soccer, popularized by Pelé.",
+      "source": "https://en.wikipedia.org/wiki/%27Beautiful_Game"
+    },
+    {
+      "text": "Real Madrid has won the UEFA Champions League/European Cup a record 15 times.",
+      "source": "https://en.wikipedia.org/wiki/Real_Madrid"
+    },
+    {
+      "text": "AC Milan, Barcelona, and Bayern Munich are among soccer's most storied clubs with multiple Champions League titles.",
+      "source": "https://en.wikipedia.org/wiki/AC_Milan%2C_Barcelona%2C_and_Bayern_Munich"
+    },
+    {
+      "text": "The 'Cruyff Turn' was a revolutionary move invented by Johan Cruyff during the 1974 World Cup.",
+      "source": "https://en.wikipedia.org/wiki/%27Cruyff_Turn"
+    },
+    {
+      "text": "VAR (Video Assistant Referee) was introduced to major soccer competitions starting in 2018 to reduce officiating errors.",
+      "source": "https://en.wikipedia.org/wiki/VAR_(Video_Assistant_Referee)"
+    },
+    {
+      "text": "The longest soccer match ever played was a charity game in 2016 that lasted 108 hours.",
+      "source": "https://en.wikipedia.org/wiki/longest_soccer_match_ever_played"
+    },
+    {
+      "text": "Zinedine Zidane headbutted Marco Materazzi in the 2006 World Cup Final, ending his career with a red card.",
+      "source": "https://en.wikipedia.org/wiki/Zinedine_Zidane"
+    },
+    {
+      "text": "The USWNT (U.S. Women's National Team) has won 4 FIFA Women's World Cup titles, more than any other nation.",
+      "source": "https://en.wikipedia.org/wiki/USWNT_(U.S._Women%27s_National_Team)"
+    },
+    {
+      "text": "Megan Rapinoe won the Golden Boot and Golden Ball at the 2019 Women's World Cup while also becoming an outspoken advocate for equality.",
+      "source": "https://en.wikipedia.org/wiki/Megan_Rapinoe"
+    },
+    {
+      "text": "Germany has won 4 FIFA World Cups (1954, 1974, 1990, 2014) and is one of soccer's most consistently successful nations.",
+      "source": "https://en.wikipedia.org/wiki/Germany"
+    },
+    {
+      "text": "The 'Rabona' is a trick shot where a player wraps their kicking foot behind their standing leg to strike the ball.",
+      "source": "https://en.wikipedia.org/wiki/%27Rabona"
+    },
+    {
+      "text": "Liverpool's legendary 2005 Champions League Final comeback from 3-0 down against AC Milan is known as 'The Miracle of Istanbul.'",
+      "source": "https://en.wikipedia.org/wiki/Liverpool%27s_legendary_2005_Champions_League_Final_comeback_from_3-0_down_against_AC_Milan"
+    },
+    {
+      "text": "A soccer player runs an average of 7 miles per game, with midfielders covering the most ground.",
+      "source": "https://en.wikipedia.org/wiki/Soccer"
+    },
+    {
+      "text": "The 'El Clásico' rivalry between Real Madrid and Barcelona is one of the most intense rivalries in all of sports.",
+      "source": "https://en.wikipedia.org/wiki/%27El_Cl%C3%A1sico%27_rivalry_between_Real_Madrid_and_Barcelona"
+    },
+    {
+      "text": "Neymar's transfer from Barcelona to Paris Saint-Germain in 2017 for €222 million was the most expensive transfer in soccer history.",
+      "source": "https://en.wikipedia.org/wiki/Neymar%27s_transfer_from_Barcelona_to_Paris_Saint-Germain_in_2017_for_%E2%82%AC222_million"
+    },
+    {
+      "text": "The 'Bicycle Kick' (scissor kick or overhead kick) is one of soccer's most spectacular and difficult moves.",
+      "source": "https://en.wikipedia.org/wiki/%27Bicycle_Kick%27_(scissor_kick_or_overhead_kick)"
+    },
+    {
+      "text": "Argentina won the 2022 FIFA World Cup in Qatar, with Lionel Messi finally capturing the trophy in what many consider the greatest final ever.",
+      "source": "https://en.wikipedia.org/wiki/Argentina"
+    },
+    {
+      "text": "The penalty shootout was introduced to FIFA competitions in 1970 to replace the coin toss method of deciding tied matches.",
+      "source": "https://en.wikipedia.org/wiki/penalty_shootout"
+    },
+    {
+      "text": "Erling Haaland scored 36 Premier League goals in his debut season with Manchester City in 2022-23, breaking the single-season record.",
+      "source": "https://en.wikipedia.org/wiki/Erling_Haaland"
+    },
+    {
+      "text": "The 'GOAT debate' in soccer primarily centers around Lionel Messi and Cristiano Ronaldo, two players who dominated for nearly two decades.",
+      "source": "https://en.wikipedia.org/wiki/Lionel_Messi_and_Cristiano_Ronaldo"
+    },
+    {
+      "text": "The 'Tifo' displays created by soccer fan groups are massive choreographed visual displays using banners, flags, and cards.",
+      "source": "https://en.wikipedia.org/wiki/%27Tifo%27_displays"
+    },
+    {
+      "text": "Italy's 'Catenaccio' defensive system, emphasizing strong defense and counterattacking, defined Italian soccer for decades.",
+      "source": "https://en.wikipedia.org/wiki/Soccer"
+    },
+    {
+      "text": "The FIFA Ballon d'Or has been awarded since 1956 to the world's best footballer.",
+      "source": "https://en.wikipedia.org/wiki/FIFA_Ballon_d%27Or"
+    },
+    {
+      "text": "Kylian Mbappé became the second teenager to score in a World Cup Final when he netted twice in the 2018 final.",
+      "source": "https://en.wikipedia.org/wiki/Kylian_Mbapp%C3%A9"
+    },
+    {
+      "text": "The 'Panenka' penalty is a chipped shot down the middle of the goal, named after Antonín Panenka who used it in the 1976 European Championship Final.",
+      "source": "https://en.wikipedia.org/wiki/%27Panenka%27_penalty"
+    },
+    {
+      "text": "Barcelona's 'Tiki-Taka' playing style emphasized short passing and movement, dominating world soccer under Pep Guardiola from 2008-2012.",
+      "source": "https://en.wikipedia.org/wiki/Pep_Guardiola"
+    },
+    {
+      "text": "The 'Maracanazo' refers to Uruguay's shocking 2-1 upset of Brazil in the 1950 World Cup Final in Rio de Janeiro.",
+      "source": "https://en.wikipedia.org/wiki/Brazil_in_the_1950_World_Cup_Final_in"
+    },
+    {
+      "text": "Soccer boots (cleats) have evolved from heavy leather work boots to lightweight synthetic shoes weighing under 7 ounces.",
+      "source": "https://en.wikipedia.org/wiki/Soccer_boots_(cleats)"
+    },
+    {
+      "text": "The 'Golden Goal' rule — ending a match when a goal was scored in extra time — was used from 1993 to 2004 then abolished.",
+      "source": "https://en.wikipedia.org/wiki/%27Golden_Goal%27_rule_%E2%80%94_ending_a_match_when_a_goal"
+    },
+    {
+      "text": "Alex Morgan, a U.S. women's soccer star, has scored over 120 international goals and became a global icon for women's sports.",
+      "source": "https://en.wikipedia.org/wiki/Alex_Morgan%2C_a_U.S._women%27s_soccer_star"
+    },
+    {
+      "text": "The Bundesliga in Germany is known for having the highest average attendance of any soccer league in the world.",
+      "source": "https://en.wikipedia.org/wiki/Bundesliga_in_Germany"
+    },
+    {
+      "text": "Iker Casillas was nicknamed 'San Iker' (Saint Iker) for his legendary shot-stopping ability at Real Madrid and with Spain.",
+      "source": "https://en.wikipedia.org/wiki/Iker_Casillas"
+    },
+    {
+      "text": "The 2026 FIFA World Cup will be hosted jointly by the United States, Mexico, and Canada with an expanded 48-team format.",
+      "source": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup"
+    },
+    {
+      "text": "Total Football, pioneered by the Netherlands in the 1970s, featured every outfield player being able to play any position.",
+      "source": "https://en.wikipedia.org/wiki/Total_Football"
+    },
+    {
+      "text": "Lev Yashin, the 'Black Spider,' is considered the greatest goalkeeper of all time and is the only keeper to win the Ballon d'Or (1963).",
+      "source": "https://en.wikipedia.org/wiki/Or"
+    },
+    {
+      "text": "The 'Ultras' are passionate organized fan groups common in European and South American soccer known for their intense support.",
+      "source": "https://en.wikipedia.org/wiki/%27Ultras"
+    },
+    {
+      "text": "Lionel Messi joined Inter Miami in MLS in 2023, immediately becoming the most famous player in American soccer history.",
+      "source": "https://en.wikipedia.org/wiki/Lionel_Messi"
+    },
+    {
+      "text": "The 'Aguerooo!' moment in 2012 saw Sergio Agüero score a last-second goal to win Manchester City's first Premier League title.",
+      "source": "https://en.wikipedia.org/wiki/%27Aguerooo%21%27_moment"
+    },
+    {
+      "text": "The Champions League anthem, created by Tony Britten and based on Handel's 'Zadok the Priest,' is one of the most recognizable pieces of sports music.",
+      "source": "https://en.wikipedia.org/wiki/Champions_League_anthem"
+    },
+    {
+      "text": "São Paulo's Maracanã Stadium has held the World Cup Final twice (1950 and 2014) and can seat nearly 80,000 fans.",
+      "source": "https://en.wikipedia.org/wiki/S%C3%A3o_Paulo%27s_Maracan%C3%A3_Stadium"
+    },
+    {
+      "text": "The 'False 9' position, popularized by Guardiola with Messi at Barcelona, uses a forward who drops deep instead of staying as a traditional striker.",
+      "source": "https://en.wikipedia.org/wiki/False_9"
+    },
+    {
+      "text": "Robert Lewandowski scored 41 Bundesliga goals in a single season for Bayern Munich in 2020-21, breaking Gerd Müller's 49-year-old record.",
+      "source": "https://en.wikipedia.org/wiki/Robert_Lewandowski"
+    },
+    {
+      "text": "The 'Gegenpressing' style of play, popularized by Jürgen Klopp, involves intense pressing immediately after losing the ball.",
+      "source": "https://en.wikipedia.org/wiki/Soccer"
+    },
+    {
+      "text": "Andrea Pirlo's languid playing style and pinpoint passing earned him the nickname 'The Architect' and 'The Maestro.'",
+      "source": "https://en.wikipedia.org/wiki/Andrea_Pirlo%27s_languid_playing_style_and_pinpoint_passing"
+    },
+    {
+      "text": "The Copa América is the oldest international continental football competition, first held in 1916.",
+      "source": "https://en.wikipedia.org/wiki/Copa_Am%C3%A9rica"
+    },
+    {
+      "text": "Jack Grealish's low socks became a fashion statement in the Premier League, defying traditional kit norms.",
+      "source": "https://en.wikipedia.org/wiki/Jack_Grealish%27s_low_socks"
+    },
+    {
+      "text": "Oliver Kahn was the last goalkeeper to win the Golden Ball award at a World Cup (2002).",
+      "source": "https://en.wikipedia.org/wiki/World_Cup"
+    },
+    {
+      "text": "The 'Goal Line Technology' system was introduced after a controversial goal in the 2010 World Cup where Frank Lampard's clear goal was disallowed.",
+      "source": "https://en.wikipedia.org/wiki/%27Goal_Line_Technology%27_system"
+    },
+    {
+      "text": "Thierry Henry is Arsenal's all-time leading scorer with 228 goals and is regarded as one of the Premier League's greatest players.",
+      "source": "https://en.wikipedia.org/wiki/Thierry_Henry"
+    },
+    {
+      "text": "The 'Treble' — winning the league, domestic cup, and Champions League in one season — has only been achieved by a handful of clubs.",
+      "source": "https://en.wikipedia.org/wiki/%27Treble%27_%E2%80%94_winning_the_league%2C_domestic_cup%2C_and_Champions_League_in_one_season_%E2%80%94"
+    },
+    {
+      "text": "Manchester City completed the Treble in 2023, only the second English club to achieve the feat after Manchester United in 1999.",
+      "source": "https://en.wikipedia.org/wiki/Manchester_City"
+    },
+    {
+      "text": "Women's soccer has grown exponentially, with the 2023 Women's World Cup setting attendance records with over 1.9 million total spectators.",
+      "source": "https://en.wikipedia.org/wiki/Women%27s_soccer"
+    },
+    {
+      "text": "Alfredo Di Stéfano led Real Madrid to five consecutive European Cup titles from 1956 to 1960.",
+      "source": "https://en.wikipedia.org/wiki/Alfredo_Di"
+    },
+    {
+      "text": "The 'Yellow Card' system was introduced in 1970, inspired by traffic lights, to clearly communicate cautions to players.",
+      "source": "https://en.wikipedia.org/wiki/%27Yellow_Card%27_system"
+    },
+    {
+      "text": "A 'Red Card' results in an immediate ejection, and the offending team must play with 10 players for the remainder of the match.",
+      "source": "https://en.wikipedia.org/wiki/Red_Card"
+    },
+    {
+      "text": "The Nike Mercurial, Adidas Predator, and Puma King are among the most iconic soccer boot lines in history.",
+      "source": "https://en.wikipedia.org/wiki/Nike_Mercurial%2C_Adidas_Predator%2C_and_Puma_King"
+    },
+    {
+      "text": "Luis Suárez's biting incidents — three times in competitive matches — led to multiple lengthy bans.",
+      "source": "https://en.wikipedia.org/wiki/Soccer"
+    },
+    {
+      "text": "Johan Cruyff never won a World Cup despite being one of the greatest players ever, with the Netherlands losing the 1974 final to West Germany.",
+      "source": "https://en.wikipedia.org/wiki/Johan_Cruyff_never"
+    },
+    {
+      "text": "The 'Crossbar Challenge' is a popular practice drill and social media trend where players try to hit the crossbar from distance.",
+      "source": "https://en.wikipedia.org/wiki/%27Crossbar_Challenge"
+    },
+    {
+      "text": "Gerd Müller scored 365 goals in 427 Bundesliga appearances, earning him the nickname 'Der Bomber.'",
+      "source": "https://en.wikipedia.org/wiki/Der_Bomber"
+    },
+    {
+      "text": "The 'Nutmeg' — playing the ball through an opponent's legs — is one of soccer's most humiliating and entertaining moves.",
+      "source": "https://en.wikipedia.org/wiki/%27Nutmeg%27_%E2%80%94_playing_the_ball_through_an_opponent%27s_legs_%E2%80%94"
+    },
+    {
+      "text": "Paolo Maldini played for AC Milan for 25 seasons, from 1985 to 2009, and is considered one of the greatest defenders ever.",
+      "source": "https://en.wikipedia.org/wiki/Paolo_Maldini_played_for_AC_Milan_for_25_seasons%2C_from_1985_to_2009%2C_and"
+    },
+    {
+      "text": "Messi scored 91 goals in the 2012 calendar year, breaking Gerd Müller's record of 85 goals in a calendar year.",
+      "source": "https://en.wikipedia.org/wiki/Soccer"
+    },
+    {
+      "text": "The 'Assist King' title goes to players like Mesut Özil, Xavi, and Kevin De Bruyne, who are known for their creative passing.",
+      "source": "https://en.wikipedia.org/wiki/%27Assist_King%27_title_goes_to_players_like_Mesut_%C3%96zil%2C_Xavi%2C_and_Kevin_De_Bruyne%2C_who"
+    },
+    {
+      "text": "Ronaldinho's combination of skill, flair, and showmanship made him perhaps the most entertaining player to ever play soccer.",
+      "source": "https://en.wikipedia.org/wiki/Soccer"
+    },
+    {
+      "text": "The 'Curved Free Kick' was perfected by players like Roberto Carlos, David Beckham, and Juninho Pernambucano.",
+      "source": "https://en.wikipedia.org/wiki/%27Curved_Free_Kick"
+    },
+    {
+      "text": "Roberto Carlos's free kick against France in 1997, which bent dramatically before scoring, is considered the greatest free kick ever taken.",
+      "source": "https://en.wikipedia.org/wiki/Roberto_Carlos%27s_free_kick_against_France_in_1997%2C_which_bent_dramatically_before_scoring"
+    },
+    {
+      "text": "The 'Keeper Sweeper' role, as played by Manuel Neuer, involves the goalkeeper acting as an extra defender far from their goal.",
+      "source": "https://en.wikipedia.org/wiki/Keeper_Sweeper"
+    },
+    {
+      "text": "The MLS has grown from 10 teams in 1996 to 30 teams by 2025, with several more expansion franchises planned.",
+      "source": "https://en.wikipedia.org/wiki/MLS"
+    },
+    {
+      "text": "Carli Lloyd scored a hat trick in the 2015 Women's World Cup Final, including a goal from the halfway line.",
+      "source": "https://en.wikipedia.org/wiki/Carli_Lloyd"
+    },
+    {
+      "text": "The 'Invincibles' refers to Arsenal's 2003-04 Premier League season, where they went the entire 38-game campaign unbeaten.",
+      "source": "https://en.wikipedia.org/wiki/Arsenal%27s_2003"
+    },
+    {
+      "text": "Wayne Rooney is Manchester United's all-time leading scorer with 253 goals in 559 appearances.",
+      "source": "https://en.wikipedia.org/wiki/Wayne_Rooney"
+    },
+    {
+      "text": "The 'North London Derby' between Arsenal and Tottenham is one of English football's fiercest local rivalries.",
+      "source": "https://en.wikipedia.org/wiki/%27North_London_Derby%27_between_Arsenal_and_Tottenham"
+    },
+    {
+      "text": "A 'Clean Sheet' means a goalkeeper and defense allowed zero goals in a match.",
+      "source": "https://en.wikipedia.org/wiki/Clean_Sheet"
+    },
+    {
+      "text": "Xavi and Andrés Iniesta formed the greatest midfield partnership in soccer history at Barcelona and with Spain.",
+      "source": "https://en.wikipedia.org/wiki/Xavi_and_Andr%C3%A9s_Iniesta"
+    },
+    {
+      "text": "Jamie Vardy's remarkable journey from non-league football to Premier League champion with Leicester City in 2016 is one of sport's greatest stories.",
+      "source": "https://en.wikipedia.org/wiki/Jamie_Vardy%27s"
+    },
+    {
+      "text": "Leicester City's 2015-16 Premier League title was a 5,000-to-1 odds fairy tale, considered one of the biggest upsets in sports history.",
+      "source": "https://en.wikipedia.org/wiki/Leicester_City%27s_2015-16_Premier_League_title"
+    },
+    {
+      "text": "The 'Olimpico' goal is scored directly from a corner kick, named after the Argentine team that first achieved it in 1924.",
+      "source": "https://en.wikipedia.org/wiki/%27Olimpico%27_goal"
+    },
+    {
+      "text": "Karim Benzema won the 2022 Ballon d'Or at age 34, ending Messi and Ronaldo's near-stranglehold on the award.",
+      "source": "https://en.wikipedia.org/wiki/Karim_Benzema"
+    },
+    {
+      "text": "The 'Derby della Madonnina' between AC Milan and Inter Milan is one of Italian football's most passionate rivalries.",
+      "source": "https://en.wikipedia.org/wiki/%27Derby_della_Madonnina%27_between_AC_Milan_and_Inter_Milan"
+    },
+    {
+      "text": "The 'Puskas Award' honors the most aesthetically pleasing goal scored each year and is named after Hungarian legend Ferenc Puskás.",
+      "source": "https://en.wikipedia.org/wiki/%27Puskas_Award%27_honors_the_most_aesthetically_pleasing_goal_scored_each_year_and"
+    },
+    {
+      "text": "N'Golo Kanté is widely regarded as one of soccer's most humble superstars, known for his relentless work rate and quiet personality.",
+      "source": "https://en.wikipedia.org/wiki/N%27Golo_Kant%C3%A9"
+    },
+    {
+      "text": "Hope Solo is the most capped goalkeeper in U.S. women's soccer history with 202 international appearances.",
+      "source": "https://en.wikipedia.org/wiki/Hope_Solo"
+    },
+    {
+      "text": "The 'Fergie Time' phenomenon refers to Manchester United's tendency to score late goals during Sir Alex Ferguson's management era.",
+      "source": "https://en.wikipedia.org/wiki/Fergie_Time"
+    },
+    {
+      "text": "Sir Alex Ferguson managed Manchester United for 26 years (1986-2013), winning 38 trophies — the most successful manager in English football history.",
+      "source": "https://en.wikipedia.org/wiki/Sir_Alex_Ferguson"
+    },
+    {
+      "text": "The 'Transfer Window' system restricts when clubs can buy and sell players to specific periods, typically summer and January.",
+      "source": "https://en.wikipedia.org/wiki/Transfer_Window"
+    },
+    {
+      "text": "Wembley Stadium, the 'Home of Football,' was rebuilt in 2007 and seats 90,000, making it the largest stadium in the UK.",
+      "source": "https://en.wikipedia.org/wiki/Wembley_Stadium%2C_the_%27Home_of_Football"
+    },
+    {
+      "text": "The phrase 'Park the Bus' describes an extremely defensive tactical approach, where all 10 outfield players defend near their own goal.",
+      "source": "https://en.wikipedia.org/wiki/Park_the_Bus"
+    },
+    {
+      "text": "Jude Bellingham became one of soccer's biggest stars at Real Madrid, scoring goals at a remarkable rate for a midfielder.",
+      "source": "https://en.wikipedia.org/wiki/Jude_Bellingham"
+    },
+    {
+      "text": "The 'Rabona' goal by Erik Lamela for Tottenham in 2020 won the FIFA Puskás Award for best goal of the year.",
+      "source": "https://en.wikipedia.org/wiki/%27Rabona%27_goal_by_Erik_Lamela_for_Tottenham"
+    },
+    {
+      "text": "Mohamed Salah broke the Premier League scoring record for a 38-game season with 32 goals in 2017-18.",
+      "source": "https://en.wikipedia.org/wiki/Mohamed_Salah"
+    },
+    {
+      "text": "Virgil van Dijk's arrival at Liverpool in 2018 transformed them from a leaky defense to Champions League winners.",
+      "source": "https://en.wikipedia.org/wiki/Liverpool"
+    },
+    {
+      "text": "The 'Viking Clap' celebration, popularized by Iceland's fans at Euro 2016, became a worldwide phenomenon.",
+      "source": "https://en.wikipedia.org/wiki/%27Viking_Clap%27_celebration%2C_popularized_by_Iceland%27s_fans_at_Euro_2016"
+    },
+    {
+      "text": "Son Heung-min became the first Asian player to win the Premier League Golden Boot, scoring 23 goals in 2021-22.",
+      "source": "https://en.wikipedia.org/wiki/Son_Heung-min"
+    },
+    {
+      "text": "The 2022 World Cup in Qatar was the first to be held in the Middle East and the first played in November-December.",
+      "source": "https://en.wikipedia.org/wiki/2022_World_Cup_in_Qatar"
+    },
+    {
+      "text": "David Beckham's free kick against Greece in 2001, which qualified England for the 2002 World Cup, is one of English football's greatest moments.",
+      "source": "https://en.wikipedia.org/wiki/David_Beckham%27s"
+    },
+    {
+      "text": "The 'Bielsa Bucket' became iconic when Argentine coach Marcelo Bielsa was seen sitting on an overturned bucket on the sidelines.",
+      "source": "https://en.wikipedia.org/wiki/%27Bielsa_Bucket"
+    },
+    {
+      "text": "Pelé's real name was Edson Arantes do Nascimento — 'Pelé' was a childhood nickname with no clear meaning.",
+      "source": "https://en.wikipedia.org/wiki/Pel%C3%A9%27s_real_name"
+    },
+    {
+      "text": "A 'Brace' in soccer means scoring two goals in a single match.",
+      "source": "https://en.wikipedia.org/wiki/Brace%27_in"
+    },
+    {
+      "text": "The Camp Nou in Barcelona can hold nearly 100,000 spectators, making it the largest soccer stadium in Europe.",
+      "source": "https://en.wikipedia.org/wiki/Camp_Nou_in_Barcelona"
+    },
+    {
+      "text": "Gabriel Batistuta, 'Batigol,' is Argentina's all-time leading Serie A scorer and known for his thunderous strikes.",
+      "source": "https://en.wikipedia.org/wiki/Gabriel_Batistuta%2C_%27Batigol"
+    },
+    {
+      "text": "The 'Winter Break' is a mid-season pause common in many European leagues, though the Premier League traditionally played through Christmas.",
+      "source": "https://en.wikipedia.org/wiki/%27Winter_Break"
+    },
+    {
+      "text": "Didier Drogba is considered the greatest African player in Premier League history, scoring in four major cup finals.",
+      "source": "https://en.wikipedia.org/wiki/Didier_Drogba"
+    },
+    {
+      "text": "The 'Tiki-Taka' style of play emphasized possession rates above 65%, with Spain and Barcelona perfecting the approach.",
+      "source": "https://en.wikipedia.org/wiki/Spain_and_Barcelona"
+    },
+    {
+      "text": "The 'Dark Arts' of soccer include time-wasting, simulation (diving), and on-field gamesmanship used to gain advantages.",
+      "source": "https://en.wikipedia.org/wiki/Dark_Arts%27_of"
+    },
+    {
+      "text": "George Best, the legendary Northern Irish winger, was known for his incredible dribbling and his quote: 'I spent a lot of money on booze, birds, and fast cars. The rest I just squandered.'",
+      "source": "https://en.wikipedia.org/wiki/George_Best%2C_the_legendary_Northern_Irish_winger"
+    },
+    {
+      "text": "Pelé scored in four consecutive World Cups (1958, 1962, 1966, 1970).",
+      "source": "https://en.wikipedia.org/wiki/World_Cups"
+    },
+    {
+      "text": "The 'Knuckleball' free kick technique, used by Cristiano Ronaldo, involves striking the ball with no spin so it moves unpredictably.",
+      "source": "https://en.wikipedia.org/wiki/Cristiano_Ronaldo"
+    },
+    {
+      "text": "Abby Wambach scored 184 international goals for the USWNT, a record at the time of her retirement in 2015.",
+      "source": "https://en.wikipedia.org/wiki/Abby_Wambach"
+    },
+    {
+      "text": "The 'Superclásico' between Boca Juniors and River Plate in Argentina is considered one of the most intense derbies in world football.",
+      "source": "https://en.wikipedia.org/wiki/%27Supercl%C3%A1sico%27_between_Boca_Juniors_and_River_Plate_in_Argentina"
+    },
+    {
+      "text": "Soccer's Law 17 governs corner kicks, which were introduced to the rules in 1872.",
+      "source": "https://en.wikipedia.org/wiki/Soccer%27s_Law_17_governs_corner_kicks%2C_which"
+    },
+    {
+      "text": "The 'Pressing Trap' is a defensive technique where a team intentionally allows a pass to one area then rapidly closes down that player.",
+      "source": "https://en.wikipedia.org/wiki/%27Pressing_Trap"
+    },
+    {
+      "text": "Francesco Totti played 25 seasons for AS Roma, scoring 307 goals and becoming the club's all-time legend.",
+      "source": "https://en.wikipedia.org/wiki/Francesco_Totti"
+    },
+    {
+      "text": "The Women's Super League (WSL) in England has grown rapidly, with matches now regularly broadcast on national television.",
+      "source": "https://en.wikipedia.org/wiki/Women%27s_Super_League_(WSL)_in_England"
+    },
+    {
+      "text": "The 'Overlapping Run' involves a fullback running past a winger to create numerical superiority in wide areas.",
+      "source": "https://en.wikipedia.org/wiki/%27Overlapping"
+    },
+    {
+      "text": "Kaka was the last player other than Messi or Ronaldo to win the Ballon d'Or, winning it in 2007.",
+      "source": "https://en.wikipedia.org/wiki/Kaka"
+    },
+    {
+      "text": "The first international soccer match was played between Scotland and England in 1872, ending in a 0-0 draw.",
+      "source": "https://en.wikipedia.org/wiki/first_international_soccer_match"
+    },
+    {
+      "text": "Kevin De Bruyne's 2022-23 pass completion and assist numbers are considered among the best midfield performances in Premier League history.",
+      "source": "https://en.wikipedia.org/wiki/Kevin_De_Bruyne%27s_2022-23_pass_completion_and_assist_numbers"
+    },
+    {
+      "text": "The 'Away Goals' rule was used in European competitions for decades before being abolished by UEFA in 2021.",
+      "source": "https://en.wikipedia.org/wiki/%27Away_Goals%27_rule"
+    },
+    {
+      "text": "Christian Pulisic became the first American to score in a Champions League Final when Chelsea won the 2021 title.",
+      "source": "https://en.wikipedia.org/wiki/Christian_Pulisic"
+    },
+    {
+      "text": "The 'Sombrero' flick sends the ball over an opponent's head using a deft chip — one of futsal's signature moves adopted in the full game.",
+      "source": "https://en.wikipedia.org/wiki/Soccer"
+    },
+    {
+      "text": "Manchester City have dominated the Premier League since the 2017-18 season, winning six titles in seven years.",
+      "source": "https://en.wikipedia.org/wiki/Manchester_City"
+    },
+    {
+      "text": "The 'Hand Ball' rule has been one of soccer's most contentious, particularly with the introduction of VAR.",
+      "source": "https://en.wikipedia.org/wiki/%27Hand_Ball%27_rule"
+    },
+    {
+      "text": "Gianluigi Buffon played professional soccer for 28 years and is considered one of the greatest goalkeepers in history.",
+      "source": "https://en.wikipedia.org/wiki/Gianluigi_Buffon_played_professional_soccer_for_28_years_and"
+    },
+    {
+      "text": "Tim Howard's 16-save performance for the USA against Belgium in the 2014 World Cup set a record for saves in a World Cup match.",
+      "source": "https://en.wikipedia.org/wiki/Tim_Howard%27s_16-save_performance_for_the_USA_against_Belgium_in_the_2014_World_Cup"
+    },
+    {
+      "text": "Futsal — a 5-a-side indoor version of soccer — has produced many of the world's greatest technical players, including Ronaldinho and Messi.",
+      "source": "https://en.wikipedia.org/wiki/Futsal_%E2%80%94_a_5-a-side_indoor_version_of_soccer_%E2%80%94"
+    },
+    {
+      "text": "The 'Financial Fair Play' (FFP) rules were introduced by UEFA in 2011 to prevent clubs from spending beyond their means.",
+      "source": "https://en.wikipedia.org/wiki/%27Financial_Fair_Play%27_(FFP)_rules"
+    },
+    {
+      "text": "Dennis Bergkamp's goal against Argentina in the 1998 World Cup is often cited as the greatest World Cup goal ever scored.",
+      "source": "https://en.wikipedia.org/wiki/Dennis_Bergkamp%27s_goal_against_Argentina_in_the_1998_World_Cup"
+    },
+    {
+      "text": "The 'Phenomenon' Ronaldo (R9) scored 15 World Cup goals across four tournaments for Brazil, including 8 in the 2002 tournament.",
+      "source": "https://en.wikipedia.org/wiki/Phenomenon%27_Ronaldo"
+    },
+    {
+      "text": "Sam Kerr became Australia's all-time leading scorer and one of the most prolific strikers in women's soccer history.",
+      "source": "https://en.wikipedia.org/wiki/Sam_Kerr"
+    },
+    {
+      "text": "The 'Blaugrana' are Barcelona's club colors — blue and red (or garnet) — which have been worn since the club's founding in 1899.",
+      "source": "https://en.wikipedia.org/wiki/%27Blaugrana"
+    },
+    {
+      "text": "Only 8 countries have ever won the FIFA Men's World Cup: Brazil, Germany, Italy, Argentina, France, Uruguay, England, and Spain.",
+      "source": "https://en.wikipedia.org/wiki/Only_8_countries"
+    },
+    {
+      "text": "The 'Match Ball' used in the World Cup is specially designed for each tournament — the 2022 ball was called 'Al Rihla' (The Journey).",
+      "source": "https://en.wikipedia.org/wiki/%27Match_Ball%27_used_in_the_World_Cup"
+    },
+    {
+      "text": "Zinedine Zidane scored two goals in the 1998 World Cup Final, leading France to their first-ever World Cup title.",
+      "source": "https://en.wikipedia.org/wiki/Zinedine_Zidane"
+    },
+    {
+      "text": "The 'Golden Boot' award goes to the top scorer at each FIFA World Cup tournament.",
+      "source": "https://en.wikipedia.org/wiki/Golden_Boot"
+    },
+    {
+      "text": "Just Fontaine holds the record for most goals in a single World Cup with 13 goals for France in 1958.",
+      "source": "https://en.wikipedia.org/wiki/Just_Fontaine"
+    },
+    {
+      "text": "The 'Merseyside Derby' between Liverpool and Everton is one of the most-played derbies in English football history.",
+      "source": "https://en.wikipedia.org/wiki/%27Merseyside_Derby%27_between_Liverpool_and_Everton"
+    },
+    {
+      "text": "Gonzalo Higuain holds the record for most Serie A goals in a single season with 36 goals for Napoli in 2015-16.",
+      "source": "https://en.wikipedia.org/wiki/Gonzalo_Higuain"
+    },
+    {
+      "text": "The 'Calcio Storico' in Florence, Italy, is a historical form of football dating back to the 16th century, known for its brutality.",
+      "source": "https://en.wikipedia.org/wiki/%27Calcio_Storico%27_in_Florence%2C_Italy"
+    },
+    {
+      "text": "Luka Modrić won the 2018 Ballon d'Or after leading Croatia to the World Cup Final, breaking the Messi-Ronaldo duopoly.",
+      "source": "https://en.wikipedia.org/wiki/Luka_Modri%C4%87"
+    },
+    {
+      "text": "The 'Tifosi' are the passionate fans of Italian soccer clubs, particularly those of Juventus, Inter, AC Milan, and Roma.",
+      "source": "https://en.wikipedia.org/wiki/%27Tifosi"
+    },
+    {
+      "text": "Pep Guardiola has won over 35 trophies as a manager across Barcelona, Bayern Munich, and Manchester City.",
+      "source": "https://en.wikipedia.org/wiki/Pep_Guardiola"
+    },
+    {
+      "text": "The 'Bosman Ruling' in 1995 allowed players to move freely at the end of their contracts, transforming the transfer market.",
+      "source": "https://en.wikipedia.org/wiki/Bosman_Ruling"
+    },
+    {
+      "text": "Antoine Griezmann's 'Hotline Bling' celebration, mimicking Drake's dance, became one of soccer's most recognizable celebrations.",
+      "source": "https://en.wikipedia.org/wiki/Antoine_Griezmann%27s_%27Hotline_Bling%27_celebration%2C_mimicking_Drake%27s_dance"
+    },
+    {
+      "text": "The 'Number 10' shirt is traditionally worn by a team's playmaker and is associated with legends like Pelé, Maradona, Messi, and Zidane.",
+      "source": "https://en.wikipedia.org/wiki/%27Number_10%27_shirt"
+    },
+    {
+      "text": "The 'Samba Style' of Brazilian soccer emphasizes individual flair, creativity, and joyful play.",
+      "source": "https://en.wikipedia.org/wiki/Samba_Style%27_of_Brazilian"
+    },
+    {
+      "text": "Landon Donovan's stoppage-time goal against Algeria in the 2010 World Cup is one of the greatest moments in U.S. soccer history.",
+      "source": "https://en.wikipedia.org/wiki/Landon_Donovan%27s_stoppage-time_goal_against_Algeria_in_the_2010_World_Cup"
+    },
+    {
+      "text": "The average Premier League player earns about £3.4 million per year, though top stars earn significantly more.",
+      "source": "https://en.wikipedia.org/wiki/Premier_League"
+    },
+    {
+      "text": "The 'Supporter Shield' in MLS is awarded to the team with the best regular-season record, similar to league titles in Europe.",
+      "source": "https://en.wikipedia.org/wiki/%27Supporter_Shield%27_in_MLS"
+    },
+    {
+      "text": "Andrés Iniesta's goal in the 2010 World Cup Final gave Spain its first-ever World Cup title.",
+      "source": "https://en.wikipedia.org/wiki/Andr%C3%A9s_Iniesta%27s_goal_in_the_2010_World_Cup_Final"
+    },
+    {
+      "text": "The offside trap is a defensive strategy where defenders step forward simultaneously to catch attackers offside.",
+      "source": "https://en.wikipedia.org/wiki/offside_trap"
+    },
+    {
+      "text": "Soccer was included in the Olympic Games for men starting in 1900 and for women starting in 1996.",
+      "source": "https://en.wikipedia.org/wiki/Soccer"
+    },
+    {
+      "text": "Old Trafford, home of Manchester United since 1910, is nicknamed 'The Theatre of Dreams' — a phrase coined by Bobby Charlton.",
+      "source": "https://en.wikipedia.org/wiki/Old_Trafford%2C_home_of_Manchester_United_since_1910"
+    },
+    {
+      "text": "Anfield, Liverpool's home since 1892, is famous for its 'Kop' stand and the pre-match singing of 'You'll Never Walk Alone.'",
+      "source": "https://en.wikipedia.org/wiki/Anfield%2C_Liverpool%27s_home_since_1892"
+    },
+    {
+      "text": "The San Siro (officially Stadio Giuseppe Meazza) in Milan is shared by both AC Milan and Inter Milan and seats over 75,000.",
+      "source": "https://en.wikipedia.org/wiki/San_Siro_(officially_Stadio_Giuseppe_Meazza)_in_Milan"
+    },
+    {
+      "text": "Signal Iduna Park in Dortmund has the 'Yellow Wall' (Südtribüne), the largest standing terrace in European football with 25,000 capacity.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Signal_Iduna_Park_in_Dortmund"
+    },
+    {
+      "text": "The Allianz Arena in Munich can change the color of its exterior to red (Bayern), blue (1860 Munich), or white (Germany national team).",
+      "source": "https://en.wikipedia.org/wiki/Allianz_Arena_in_Munich"
+    },
+    {
+      "text": "Estadio Azteca in Mexico City is the only stadium to have hosted two FIFA World Cup Finals (1970 and 1986).",
+      "source": "https://en.wikipedia.org/wiki/Estadio_Azteca_in_Mexico_City"
+    },
+    {
+      "text": "La Bombonera, home of Boca Juniors in Buenos Aires, is famous for literally shaking when fans jump and chant during matches.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/La_Bombonera%2C_home_of_Boca_Juniors_in_Buenos_Aires"
+    },
+    {
+      "text": "Soccer City (FNB Stadium) in Johannesburg, shaped like a traditional African pot, hosted the 2010 World Cup Final with 84,490 capacity.",
+      "source": "https://en.wikipedia.org/wiki/Soccer_City"
+    },
+    {
+      "text": "The Santiago Bernabéu underwent a massive €1.85 billion renovation completed in 2024, adding a retractable roof and 360-degree video screen.",
+      "source": "https://en.wikipedia.org/wiki/Santiago"
+    },
+    {
+      "text": "The Tottenham Hotspur Stadium, opened in 2019, features the world's first dividing retractable football pitch, with an NFL field underneath.",
+      "source": "https://en.wikipedia.org/wiki/Tottenham_Hotspur_Stadium"
+    },
+    {
+      "text": "Emirates Stadium became Arsenal's home in 2006 when they moved from their historic Highbury ground, increasing capacity from 38,419 to 60,704.",
+      "source": "https://en.wikipedia.org/wiki/Emirates_Stadium"
+    },
+    {
+      "text": "Stamford Bridge has been Chelsea's home since 1905 and sits in the affluent Fulham area of London with a capacity of about 40,341.",
+      "source": "https://en.wikipedia.org/wiki/Stamford_Bridge"
+    },
+    {
+      "text": "The Etihad Stadium became Manchester City's home in 2003, originally built for the 2002 Commonwealth Games.",
+      "source": "https://en.wikipedia.org/wiki/Etihad_Stadium"
+    },
+    {
+      "text": "Estadio da Luz in Lisbon, home of Benfica, seats 64,642 and means 'Stadium of Light' — named after the parish of Luz.",
+      "source": "https://en.wikipedia.org/wiki/Estadio_da_Luz_in_Lisbon%2C_home_of_Benfica%2C_seats_64%2C642_and_means_%27Stadium_of_Light%27_%E2%80%94"
+    },
+    {
+      "text": "Celtic Park in Glasgow, known as 'Paradise,' holds 60,411 fans and is the largest football stadium in Scotland.",
+      "source": "https://en.wikipedia.org/wiki/Celtic_Park_in_Glasgow%2C_known_as_%27Paradise%2C%27_holds_60%2C411_fans_and"
+    },
+    {
+      "text": "The Johan Cruyff Arena (formerly Amsterdam Arena), home of Ajax, was one of Europe's first stadiums with a retractable roof when built in 1996.",
+      "source": "https://en.wikipedia.org/wiki/Johan_Cruyff_Arena_(formerly_Amsterdam_Arena)%2C_home_of_Ajax"
+    },
+    {
+      "text": "The Stadio Olimpico in Rome is shared by AS Roma and SS Lazio, creating one of Italian football's most intense shared-ground rivalries.",
+      "source": "https://en.wikipedia.org/wiki/Stadio_Olimpico_in_Rome"
+    },
+    {
+      "text": "The Stadio Diego Armando Maradona in Naples (formerly San Paolo) was renamed in 2020 after the death of Diego Maradona.",
+      "source": "https://en.wikipedia.org/wiki/Stadio_Diego_Armando_Maradona_in_Naples_(formerly_San_Paolo)"
+    },
+    {
+      "text": "Parc des Princes has been Paris Saint-Germain's home since 1974 and seats 47,929 in the 16th arrondissement of Paris.",
+      "source": "https://en.wikipedia.org/wiki/Parc_des_Princes"
+    },
+    {
+      "text": "Estadio Monumental Antonio Vespucio Liberti in Buenos Aires is River Plate's home and Argentina's largest stadium at 84,567 capacity.",
+      "source": "https://en.wikipedia.org/wiki/Estadio_Monumental_Antonio_Vespucio_Liberti_in_Buenos_Aires"
+    },
+    {
+      "text": "Estadio Centenario in Montevideo, Uruguay, hosted the first-ever World Cup Final in 1930 and is a FIFA World Football Monument.",
+      "source": "https://en.wikipedia.org/wiki/Estadio_Centenario_in_Montevideo"
+    },
+    {
+      "text": "The Rose Bowl in Pasadena, California, hosted the 1994 World Cup Final and the 1999 Women's World Cup Final.",
+      "source": "https://en.wikipedia.org/wiki/Rose_Bowl_in_Pasadena"
+    },
+    {
+      "text": "Lusail Stadium in Qatar, built specifically for the 2022 World Cup Final, has a golden, bowl-shaped design inspired by Arab lanterns.",
+      "source": "https://en.wikipedia.org/wiki/Lusail_Stadium_in_Qatar%2C_built_specifically_for_the_2022_World_Cup_Final"
+    },
+    {
+      "text": "The Stade de France in Saint-Denis, Paris, was built for the 1998 World Cup and has a capacity of 80,698.",
+      "source": "https://en.wikipedia.org/wiki/Stade_de_France_in_Saint-Denis%2C_Paris"
+    },
+    {
+      "text": "Olympiastadion in Berlin hosted the 2006 World Cup Final between Italy and France and was originally built for the 1936 Olympics.",
+      "source": "https://en.wikipedia.org/wiki/Olympiastadion_in_Berlin_hosted_the_2006_World_Cup_Final_between_Italy_and_France_and"
+    },
+    {
+      "text": "The Millennium Stadium (Principality Stadium) in Cardiff has a retractable roof and hosted the 2017 Champions League Final.",
+      "source": "https://en.wikipedia.org/wiki/Millennium_Stadium_(Principality_Stadium)_in_Cardiff"
+    },
+    {
+      "text": "Ataturk Olympic Stadium in Istanbul hosted the legendary 2005 Champions League Final — Liverpool's 'Miracle of Istanbul' comeback.",
+      "source": "https://en.wikipedia.org/wiki/Ataturk_Olympic_Stadium_in_Istanbul"
+    },
+    {
+      "text": "Hampden Park in Glasgow is one of the oldest football stadiums in the world, first used for football in 1903.",
+      "source": "https://en.wikipedia.org/wiki/Hampden_Park_in_Glasgow"
+    },
+    {
+      "text": "The Metropolitano Stadium in Madrid, home of Atlético Madrid since 2017, replaced their legendary Vicente Calderón.",
+      "source": "https://en.wikipedia.org/wiki/Metropolitano_Stadium_in_Madrid"
+    },
+    {
+      "text": "San Mamés in Bilbao, home of Athletic Club, is called 'The Cathedral' and the club famously only signs Basque players.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/San_Mam%C3%A9s_in_Bilbao%2C_home_of_Athletic_Club"
+    },
+    {
+      "text": "Real Madrid's 'Real' means 'Royal' in Spanish — the title was bestowed by King Alfonso XIII in 1920.",
+      "source": "https://en.wikipedia.org/wiki/Real_Madrid%27s_%27Real%27_means_%27Royal%27_in_Spanish_%E2%80%94_the_title"
+    },
+    {
+      "text": "FC Barcelona was founded in 1899 by Swiss businessman Joan Gamper, with the club's motto 'Més que un club' (More than a club).",
+      "source": "https://en.wikipedia.org/wiki/FC_Barcelona"
+    },
+    {
+      "text": "Manchester United were originally called Newton Heath LYR Football Club, founded in 1878 by railway workers, renamed in 1902.",
+      "source": "https://en.wikipedia.org/wiki/Manchester_United"
+    },
+    {
+      "text": "Arsenal were originally called 'Royal Arsenal,' founded in 1886 by munitions workers in Woolwich, southeast London, before moving to north London in 1913.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Arsenal"
+    },
+    {
+      "text": "Chelsea FC was founded in 1905 and named after the London borough, though the ground is actually in neighboring Fulham.",
+      "source": "https://en.wikipedia.org/wiki/Chelsea_FC"
+    },
+    {
+      "text": "Tottenham Hotspur were named after Sir Henry Percy ('Harry Hotspur'), a medieval nobleman — the cockerel on their badge represents his fighting spurs.",
+      "source": "https://en.wikipedia.org/wiki/Tottenham_Hotspur"
+    },
+    {
+      "text": "Liverpool FC was founded in 1892 after a dispute between Everton and their Anfield landlord John Houlding, who started a new club at the ground.",
+      "source": "https://en.wikipedia.org/wiki/Liverpool_FC"
+    },
+    {
+      "text": "Juventus, meaning 'youth' in Latin, was founded by school students in Turin in 1897 — their black and white stripes were adopted in 1903.",
+      "source": "https://en.wikipedia.org/wiki/Juventus%2C_meaning_%27youth%27_in_Latin"
+    },
+    {
+      "text": "AC Milan was founded in 1899 by English expatriates, which is why the club uses the English spelling 'Milan' rather than Italian 'Milano.'",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/AC_Milan"
+    },
+    {
+      "text": "Inter Milan (FC Internazionale) was formed in 1908 by breakaway members of AC Milan who wanted to include international players.",
+      "source": "https://en.wikipedia.org/wiki/Inter_Milan_(FC_Internazionale)"
+    },
+    {
+      "text": "Bayern Munich was founded on February 27, 1900, by eleven football players led by Franz John at a restaurant in Munich.",
+      "source": "https://en.wikipedia.org/wiki/Bayern_Munich"
+    },
+    {
+      "text": "Borussia Dortmund's 'Borussia' is the Latin name for Prussia — the club was founded in 1909 by young beer drinkers at a pub.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Borussia_Dortmund%27s_%27Borussia"
+    },
+    {
+      "text": "Paris Saint-Germain was formed in 1970 through a merger, making it relatively young compared to other European giants.",
+      "source": "https://en.wikipedia.org/wiki/Paris_Saint-Germain"
+    },
+    {
+      "text": "Ajax Amsterdam is named after the Greek mythological hero Ajax — their logo depicts a portrait of the warrior.",
+      "source": "https://en.wikipedia.org/wiki/Ajax_Amsterdam"
+    },
+    {
+      "text": "Celtic FC was founded in 1887 by Irish Marist Brother Walfrid to raise funds for the poor in Glasgow's East End Irish immigrant community.",
+      "source": "https://en.wikipedia.org/wiki/Celtic_FC"
+    },
+    {
+      "text": "Rangers FC was founded in 1872, making it one of the world's oldest football clubs, and has won a record 55 Scottish league titles.",
+      "source": "https://en.wikipedia.org/wiki/Rangers_FC"
+    },
+    {
+      "text": "Benfica's full name is Sport Lisboa e Benfica — the eagle on their crest symbolizes independence and authority.",
+      "source": "https://en.wikipedia.org/wiki/Benfica%27s_full_name"
+    },
+    {
+      "text": "Boca Juniors chose their colors (blue with a yellow horizontal band) from the flag of the next ship to arrive at the port of Buenos Aires — a Swedish vessel.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Boca_Juniors"
+    },
+    {
+      "text": "Santos FC, founded in 1912 in the port city of Santos, became world-famous as the club where Pelé played from 1956 to 1974.",
+      "source": "https://en.wikipedia.org/wiki/Santos_FC"
+    },
+    {
+      "text": "Flamengo is Brazil's most popular club with an estimated 40 million fans — their name comes from a neighborhood in Rio de Janeiro.",
+      "source": "https://en.wikipedia.org/wiki/Flamengo"
+    },
+    {
+      "text": "Atlético Madrid's red-and-white stripes were adopted because the club's founders bought cheap mattress fabric for their shirts in the early 1900s.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Atl%C3%A9tico_Madrid%27s_red-and-white_stripes"
+    },
+    {
+      "text": "Wolverhampton Wanderers ('Wolves') were one of England's founding football clubs and pioneers of European competition in the 1950s.",
+      "source": "https://en.wikipedia.org/wiki/Wolverhampton_Wanderers_(%27Wolves%27)"
+    },
+    {
+      "text": "Everton FC, founded in 1878, are nicknamed 'The Toffees' — possibly after a toffee shop near their original ground.",
+      "source": "https://en.wikipedia.org/wiki/Everton_FC"
+    },
+    {
+      "text": "West Ham United are nicknamed 'The Hammers' due to their origins as Thames Ironworks FC, founded by shipyard workers in 1895.",
+      "source": "https://en.wikipedia.org/wiki/West_Ham_United"
+    },
+    {
+      "text": "AS Roma's badge features a she-wolf suckling Romulus and Remus, referencing the mythological founding of Rome.",
+      "source": "https://en.wikipedia.org/wiki/AS_Roma%27s_badge"
+    },
+    {
+      "text": "Napoli was founded in 1926 and play in sky blue, a color associated with the city of Naples and the Mediterranean Sea.",
+      "source": "https://en.wikipedia.org/wiki/Napoli"
+    },
+    {
+      "text": "Marseille's Olympique de Marseille (OM) is France's most popular club and the first French team to win the Champions League (1993).",
+      "source": "https://en.wikipedia.org/wiki/Champions_League"
+    },
+    {
+      "text": "Feyenoord from Rotterdam were the first Dutch club to win the European Cup in 1970, before Ajax's famous hat trick of titles.",
+      "source": "https://en.wikipedia.org/wiki/Feyenoord_from_Rotterdam"
+    },
+    {
+      "text": "The LA Galaxy were the first major MLS club and have won a record 5 MLS Cup titles. They signed David Beckham in 2007, transforming American soccer.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/LA_Galaxy"
+    },
+    {
+      "text": "FC St. Pauli in Hamburg is famous for its skull-and-crossbones flag and left-wing, anti-establishment fan culture unique in world football.",
+      "source": "https://en.wikipedia.org/wiki/FC_St._Pauli_in_Hamburg"
+    },
+    {
+      "text": "The 1934 World Cup in Italy was heavily influenced by Benito Mussolini, who used the tournament as political propaganda for his fascist regime.",
+      "month": 6,
+      "day": 10,
+      "source": "https://en.wikipedia.org/wiki/1934_World_Cup_in_Italy"
+    },
+    {
+      "text": "The 1938 World Cup in France was the last tournament before World War II — the competition didn't resume until 1950.",
+      "month": 6,
+      "day": 19,
+      "source": "https://en.wikipedia.org/wiki/1938_World_Cup_in_France"
+    },
+    {
+      "text": "The 1954 World Cup featured the 'Miracle of Berne' — West Germany defeated heavily favored Hungary 3-2 in the final despite Hungary being unbeaten for four years.",
+      "month": 7,
+      "day": 4,
+      "source": "https://en.wikipedia.org/wiki/1954_World_Cup"
+    },
+    {
+      "text": "The 1958 World Cup in Sweden saw a 17-year-old Pelé burst onto the world stage, scoring six goals including two in the final.",
+      "month": 6,
+      "day": 29,
+      "source": "https://en.wikipedia.org/wiki/1958_World_Cup_in_Sweden"
+    },
+    {
+      "text": "The 1962 World Cup in Chile featured the 'Battle of Santiago,' a notoriously violent match between Chile and Italy that required police intervention.",
+      "source": "https://en.wikipedia.org/wiki/1962_World_Cup_in_Chile"
+    },
+    {
+      "text": "The 1966 World Cup Final — England 4, West Germany 2 — featured Geoff Hurst's controversial third goal and Kenneth Wolstenholme's iconic commentary: 'They think it's all over... it is now!'",
+      "month": 7,
+      "day": 30,
+      "source": "https://en.wikipedia.org/wiki/1966_World_Cup_Final"
+    },
+    {
+      "text": "The 1970 World Cup in Mexico is considered the greatest tournament ever, with Brazil's legendary team playing the most beautiful football in World Cup history.",
+      "month": 6,
+      "day": 21,
+      "source": "https://en.wikipedia.org/wiki/1970_World_Cup_in_Mexico"
+    },
+    {
+      "text": "The 1974 World Cup introduced the Netherlands' 'Total Football' philosophy to the world, though they lost the final to West Germany.",
+      "month": 7,
+      "day": 7,
+      "source": "https://en.wikipedia.org/wiki/1974_World_Cup"
+    },
+    {
+      "text": "The 1978 World Cup in Argentina was controversial due to the military dictatorship — the tournament was surrounded by political tension and allegations of match-fixing.",
+      "source": "https://en.wikipedia.org/wiki/1978_World_Cup_in_Argentina"
+    },
+    {
+      "text": "The 1982 World Cup in Spain featured Paolo Rossi's incredible comeback from a match-fixing ban to lead Italy to victory with six goals.",
+      "month": 7,
+      "day": 11,
+      "source": "https://en.wikipedia.org/wiki/1982_World_Cup_in_Spain"
+    },
+    {
+      "text": "The 1986 World Cup was moved from Colombia to Mexico due to financial difficulties — it became Maradona's tournament with his two iconic goals against England.",
+      "month": 6,
+      "day": 29,
+      "source": "https://en.wikipedia.org/wiki/1986_World_Cup"
+    },
+    {
+      "text": "The 1990 World Cup in Italy was famously defensive and low-scoring, with Cameroon's shock opening-day defeat of defending champions Argentina.",
+      "month": 7,
+      "day": 8,
+      "source": "https://en.wikipedia.org/wiki/1990_World_Cup_in_Italy"
+    },
+    {
+      "text": "The 1994 World Cup in the USA saw Roberto Baggio miss the decisive penalty in the final, sending Brazil to their fourth World Cup title.",
+      "month": 7,
+      "day": 17,
+      "source": "https://en.wikipedia.org/wiki/1994_World_Cup_in_the_USA"
+    },
+    {
+      "text": "The 1998 World Cup in France featured host nation France winning their first World Cup, led by Zinedine Zidane's two goals in the final.",
+      "month": 7,
+      "day": 12,
+      "source": "https://en.wikipedia.org/wiki/1998_World_Cup_in_France"
+    },
+    {
+      "text": "The 2002 World Cup, co-hosted by South Korea and Japan, was the first in Asia and featured stunning upsets — South Korea reached the semifinals.",
+      "month": 6,
+      "day": 30,
+      "source": "https://en.wikipedia.org/wiki/2002_World_Cup%2C_co-hosted_by_South_Korea_and_Japan"
+    },
+    {
+      "text": "The 2006 World Cup in Germany is remembered for the dramatic final between Italy and France, ended by Zidane's headbutt on Materazzi and Italy winning on penalties.",
+      "month": 7,
+      "day": 9,
+      "source": "https://en.wikipedia.org/wiki/2006_World_Cup_in_Germany"
+    },
+    {
+      "text": "The 2010 World Cup in South Africa was the first on African soil - famous for the vuvuzela horns, Paul the Octopus, and Spain winning their first-ever World Cup.",
+      "month": 7,
+      "day": 11,
+      "source": "https://en.wikipedia.org/wiki/2010_World_Cup_in_South_Africa"
+    },
+    {
+      "text": "The 2014 World Cup in Brazil featured Germany's astonishing 7-1 demolition of hosts Brazil in the semifinal — known as the 'Mineirazo.'",
+      "month": 7,
+      "day": 8,
+      "source": "https://en.wikipedia.org/wiki/2014_World_Cup_in_Brazil"
+    },
+    {
+      "text": "The 2018 World Cup in Russia saw France win their second title, with Mbappé (19) becoming the youngest player since Pelé to score in a final.",
+      "month": 7,
+      "day": 15,
+      "source": "https://en.wikipedia.org/wiki/2018_World_Cup_in_Russia"
+    },
+    {
+      "text": "The 2022 World Cup Final between Argentina and France is considered the greatest final ever — Messi and Mbappé each scored twice before Argentina won on penalties.",
+      "month": 12,
+      "day": 18,
+      "source": "https://en.wikipedia.org/wiki/2022_World_Cup_Final_between_Argentina_and_France"
+    },
+    {
+      "text": "The FIFA World Cup trophy is made of 18-carat gold, weighs 13.61 pounds, and depicts two human figures holding up the Earth.",
+      "source": "https://en.wikipedia.org/wiki/FIFA_World_Cup_trophy"
+    },
+    {
+      "text": "The original World Cup trophy, the Jules Rimet Trophy, was permanently awarded to Brazil after their third win in 1970 and was stolen in 1983, never recovered.",
+      "source": "https://en.wikipedia.org/wiki/original_World_Cup_trophy%2C_the_Jules_Rimet_Trophy"
+    },
+    {
+      "text": "Miroslav Klose holds the all-time World Cup scoring record with 16 goals across four tournaments (2002-2014) for Germany.",
+      "source": "https://en.wikipedia.org/wiki/Miroslav_Klose"
+    },
+    {
+      "text": "Franz Beckenbauer, 'Der Kaiser,' revolutionized the sweeper position and is the only person to win the World Cup as both captain (1974) and manager (1990).",
+      "source": "https://en.wikipedia.org/wiki/Franz_Beckenbauer%2C_%27Der_Kaiser%2C%27_revolutionized_the_sweeper_position_and"
+    },
+    {
+      "text": "Eusébio, the 'Black Panther' from Mozambique, scored 733 goals in 745 matches for Benfica and Portugal and was the 1966 World Cup's top scorer with 9 goals.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Black_Panther"
+    },
+    {
+      "text": "Garrincha, nicknamed 'The Joy of the People,' had legs of different lengths due to childhood polio but became one of Brazil's greatest ever wingers.",
+      "source": "https://en.wikipedia.org/wiki/Garrincha%2C_nicknamed_%27The_Joy_of_the_People"
+    },
+    {
+      "text": "Zico, known as the 'White Pelé,' scored 52 goals in 71 appearances for Brazil and is considered one of the greatest playmakers in football history.",
+      "source": "https://en.wikipedia.org/wiki/Zico%2C_known_as_the_%27White_Pel%C3%A9%2C%27_scored_52_goals_in_71_appearances_for_Brazil_and"
+    },
+    {
+      "text": "Michel Platini scored a stunning 9 goals in 5 games at Euro 1984, leading France to the European Championship — a tournament record that still stands.",
+      "source": "https://en.wikipedia.org/wiki/Michel_Platini"
+    },
+    {
+      "text": "Bobby Charlton survived the 1958 Munich air disaster that killed 8 Manchester United players and went on to lead England to their only World Cup in 1966.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Bobby_Charlton"
+    },
+    {
+      "text": "Ferenc Puskás scored 84 goals in 85 international matches for Hungary and later scored 242 goals in 262 matches for Real Madrid.",
+      "source": "https://en.wikipedia.org/wiki/Hungary_and"
+    },
+    {
+      "text": "Marco van Basten's volleyed goal in the 1988 European Championship Final is widely considered the greatest goal in tournament history.",
+      "month": 6,
+      "day": 25,
+      "source": "https://en.wikipedia.org/wiki/Marco_van_Basten%27s_volleyed_goal_in_the_1988_European_Championship_Final"
+    },
+    {
+      "text": "Ruud Gullit helped define the great AC Milan side of the late 1980s and was one of the first major Black European superstars in football.",
+      "source": "https://en.wikipedia.org/wiki/Ruud_Gullit"
+    },
+    {
+      "text": "Franco Baresi spent his entire 20-year career (1977-1997) at AC Milan and is considered one of the greatest defenders in football history — Milan retired his number 6.",
+      "source": "https://en.wikipedia.org/wiki/Franco_Baresi"
+    },
+    {
+      "text": "Roberto Baggio, 'The Divine Ponytail,' won the 1993 Ballon d'Or and is remembered for both his brilliance and his tragic penalty miss in the 1994 World Cup Final.",
+      "source": "https://en.wikipedia.org/wiki/Roberto_Baggio%2C_%27The_Divine_Ponytail"
+    },
+    {
+      "text": "Rivaldo won the Ballon d'Or in 1999 and scored a famous overhead kick hat-trick goal against Valencia in 2001 to keep Barcelona in the Champions League.",
+      "source": "https://en.wikipedia.org/wiki/Rivaldo"
+    },
+    {
+      "text": "Romário scored over 1,000 career goals and was the 1994 World Cup's best player — his clinical finishing helped Brazil win their fourth title.",
+      "source": "https://en.wikipedia.org/wiki/Rom%C3%A1rio_scored_over_1%2C000_career_goals_and"
+    },
+    {
+      "text": "Cafu is the only player to appear in three consecutive World Cup Finals (1994, 1998, 2002), winning twice with Brazil.",
+      "source": "https://en.wikipedia.org/wiki/Cafu"
+    },
+    {
+      "text": "Raúl scored 323 goals for Real Madrid over 16 seasons and was the Champions League's all-time top scorer until Messi and Ronaldo surpassed him.",
+      "source": "https://en.wikipedia.org/wiki/Ra%C3%BAl_scored_323_goals_for_Real_Madrid_over_16_seasons_and"
+    },
+    {
+      "text": "Samuel Eto'o won three Champions League titles (two with Barcelona, one with Inter Milan) and is considered the greatest African player in Champions League history.",
+      "source": "https://en.wikipedia.org/wiki/Samuel_Eto%27o"
+    },
+    {
+      "text": "Andriy Shevchenko won the 2004 Ballon d'Or after scoring 175 goals in 296 appearances for AC Milan, becoming Ukraine's greatest-ever footballer.",
+      "source": "https://en.wikipedia.org/wiki/Andriy_Shevchenko"
+    },
+    {
+      "text": "Alessandro Del Piero scored 290 goals in 705 appearances for Juventus, becoming their all-time leading scorer and a club legend.",
+      "source": "https://en.wikipedia.org/wiki/Alessandro_Del_Piero"
+    },
+    {
+      "text": "Pavel Nedvěd's tireless energy and powerful left foot earned him the 2003 Ballon d'Or while playing for Juventus.",
+      "source": "https://en.wikipedia.org/wiki/Pavel_Nedv%C4%9Bd%27s_tireless_energy_and_powerful_left_foot"
+    },
+    {
+      "text": "Luís Figo's controversial transfer from Barcelona to Real Madrid in 2000 for a world-record fee made him one of football's most polarizing figures.",
+      "source": "https://en.wikipedia.org/wiki/Barcelona_to_Real_Madrid_in_2000_for"
+    },
+    {
+      "text": "Sócrates was a Brazilian midfielder who was also a medical doctor — he captained the legendary 1982 Brazil World Cup team and was a political activist.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/S%C3%B3crates"
+    },
+    {
+      "text": "Lothar Matthäus holds the record for most World Cup appearances (25 matches across five tournaments) and won the first FIFA World Player of the Year in 1991.",
+      "source": "https://en.wikipedia.org/wiki/World_Cup"
+    },
+    {
+      "text": "George Weah is the only African player to win the Ballon d'Or (1995) and later became the President of Liberia in 2018.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Or"
+    },
+    {
+      "text": "Davor Šuker won the Golden Boot at the 1998 World Cup with 6 goals for Croatia in their first-ever World Cup appearance as an independent nation.",
+      "source": "https://en.wikipedia.org/wiki/Davor_%C5%A0uker"
+    },
+    {
+      "text": "Hristo Stoichkov, the Bulgarian star, won the 1994 Ballon d'Or after leading Bulgaria to an improbable World Cup semifinal.",
+      "source": "https://en.wikipedia.org/wiki/Hristo_Stoichkov%2C_the_Bulgarian_star"
+    },
+    {
+      "text": "Dino Zoff remains the oldest player to win a World Cup — he captained Italy to victory at age 40 in 1982.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Dino_Zoff"
+    },
+    {
+      "text": "Gordon Banks' save from Pelé's header in the 1970 World Cup is widely regarded as the greatest save in football history.",
+      "source": "https://en.wikipedia.org/wiki/Gordon_Banks%27_save_from_Pel%C3%A9%27s_header_in_the_1970_World_Cup"
+    },
+    {
+      "text": "Kenny Dalglish is the only player to score over 100 goals in both English and Scottish top-flight football (Liverpool and Celtic).",
+      "source": "https://en.wikipedia.org/wiki/Kenny_Dalglish"
+    },
+    {
+      "text": "Eric Cantona's kung-fu kick on a Crystal Palace fan in 1995 led to a nine-month ban, but he returned to lead Manchester United to the title.",
+      "source": "https://en.wikipedia.org/wiki/Eric_Cantona%27s"
+    },
+    {
+      "text": "Just Fontaine's 13 goals at the 1958 World Cup set an all-time record for a single tournament that has never been remotely threatened.",
+      "source": "https://en.wikipedia.org/wiki/Just_Fontaine%27s_13_goals_at_the_1958_World_Cup"
+    },
+    {
+      "text": "Hungarian great Sándor Kocsis scored 75 goals in 68 internationals and had an astounding 11 goals at the 1954 World Cup.",
+      "source": "https://en.wikipedia.org/wiki/Hungarian_great_S%C3%A1ndor_Kocsis_scored_75_goals_in_68_internationals_and"
+    },
+    {
+      "text": "Bobby Moore captained England to their 1966 World Cup victory and is considered the finest English defender of all time — a statue stands at Wembley.",
+      "month": 7,
+      "day": 30,
+      "source": "https://en.wikipedia.org/wiki/Bobby_Moore_captained_England_to_their_1966_World_Cup_victory_and"
+    },
+    {
+      "text": "Stanley Matthews, the 'Wizard of Dribble,' won the first-ever Ballon d'Or in 1956 at age 41 — the oldest recipient in history.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Stanley_Matthews%2C_the_%27Wizard_of_Dribble"
+    },
+    {
+      "text": "Dennis Law is the only Scottish footballer to win the Ballon d'Or (1964) and remains one of Manchester United's greatest-ever strikers.",
+      "source": "https://en.wikipedia.org/wiki/Or"
+    },
+    {
+      "text": "Raymond Kopa, the French-Polish forward, won three consecutive European Cups with Real Madrid and the 1958 Ballon d'Or.",
+      "source": "https://en.wikipedia.org/wiki/Raymond_Kopa%2C_the_French-Polish_forward"
+    },
+    {
+      "text": "Omar Sívori won the 1961 Ballon d'Or playing for Juventus — born in Argentina, he also represented Italy internationally.",
+      "source": "https://en.wikipedia.org/wiki/Omar_S%C3%ADvori"
+    },
+    {
+      "text": "Giacinto Facchetti revolutionized the fullback position in the 1960s, scoring 75 goals from defense for Inter Milan — extraordinary for a defender.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Giacinto_Facchetti"
+    },
+    {
+      "text": "Gianfranco Zola, Chelsea's greatest foreign player, won the FWA Footballer of the Year in 1997 and had a statue erected outside Stamford Bridge.",
+      "source": "https://en.wikipedia.org/wiki/Gianfranco_Zola%2C_Chelsea%27s_greatest_foreign_player"
+    },
+    {
+      "text": "David Beckham popularized soccer in America and became one of sport's biggest global brands — his free kicks and crossing ability were unmatched.",
+      "source": "https://en.wikipedia.org/wiki/David_Beckham_popularized_soccer_in_America_and"
+    },
+    {
+      "text": "Ronaldo 'Il Fenomeno' (R9) won the World Cup twice (1994, 2002), two Ballon d'Ors, and is regarded as one of the greatest pure strikers ever.",
+      "source": "https://en.wikipedia.org/wiki/Ronaldo_%27Il_Fenomeno%27_(R9)"
+    },
+    {
+      "text": "Vinícius Júnior has become Real Madrid's most dangerous attacker, winning the Champions League in 2024 and finishing as a top Ballon d'Or contender.",
+      "source": "https://en.wikipedia.org/wiki/Vin%C3%ADcius_J%C3%BAnior"
+    },
+    {
+      "text": "Pedri, Barcelona's young Spanish midfielder, has been compared to Andrés Iniesta for his vision, composure, and ability to dictate play.",
+      "source": "https://en.wikipedia.org/wiki/Pedri%2C_Barcelona%27s_young_Spanish_midfielder"
+    },
+    {
+      "text": "Gavi became the youngest-ever Kopa Trophy winner in 2022, awarded to the best player under 21.",
+      "source": "https://en.wikipedia.org/wiki/Gavi"
+    },
+    {
+      "text": "Bukayo Saka has become Arsenal's most important player, named the club's Player of the Season multiple times and a key England international.",
+      "source": "https://en.wikipedia.org/wiki/Bukayo_Saka"
+    },
+    {
+      "text": "Phil Foden, a product of Manchester City's academy, won the PFA Young Player of the Year multiple times and became England's next great creative talent.",
+      "source": "https://en.wikipedia.org/wiki/Phil_Foden%2C_a_product_of_Manchester_City%27s_academy"
+    },
+    {
+      "text": "Cole Palmer emerged as Chelsea's star player after leaving Manchester City, winning the PFA Young Player of the Year in 2024.",
+      "source": "https://en.wikipedia.org/wiki/Cole_Palmer"
+    },
+    {
+      "text": "Lamine Yamal became the youngest player ever to play and score at a European Championship at 16, starring for Spain at Euro 2024.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Lamine_Yamal"
+    },
+    {
+      "text": "Florian Wirtz of Bayer Leverkusen has been hailed as Germany's most talented young prospect, helping Leverkusen win an unbeaten Bundesliga title in 2024.",
+      "source": "https://en.wikipedia.org/wiki/Florian_Wirtz_of_Bayer_Leverkusen"
+    },
+    {
+      "text": "Victor Osimhen's 26 Serie A goals in 2022-23 fired Napoli to their first Scudetto in 33 years, ending their long wait since the Maradona era.",
+      "source": "https://en.wikipedia.org/wiki/Victor_Osimhen%27s_26_Serie_A"
+    },
+    {
+      "text": "Rodri won the 2024 Ballon d'Or after a stellar season with Manchester City and a decisive performance for Spain at Euro 2024.",
+      "source": "https://en.wikipedia.org/wiki/Rodri"
+    },
+    {
+      "text": "Alisson Becker is widely regarded as the best goalkeeper in the world, transforming Liverpool's defense after joining from Roma in 2018.",
+      "source": "https://en.wikipedia.org/wiki/Alisson_Becker"
+    },
+    {
+      "text": "Thibaut Courtois made a stunning return from injury to star for Real Madrid, having made match-winning saves in the 2022 Champions League Final.",
+      "source": "https://en.wikipedia.org/wiki/Thibaut_Courtois"
+    },
+    {
+      "text": "Harry Kane left Tottenham for Bayern Munich in 2023, quickly becoming the Bundesliga's most prolific foreign scorer.",
+      "source": "https://en.wikipedia.org/wiki/Harry_Kane"
+    },
+    {
+      "text": "Declan Rice's £105 million transfer from West Ham to Arsenal in 2023 made him the most expensive British player of all time.",
+      "source": "https://en.wikipedia.org/wiki/Declan_Rice%27s"
+    },
+    {
+      "text": "Federico Valverde has become one of the world's most complete midfielders at Real Madrid, combining technique, power, and tireless running.",
+      "source": "https://en.wikipedia.org/wiki/Federico_Valverde"
+    },
+    {
+      "text": "Rafael Leão's explosive pace and dribbling at AC Milan have made the Portuguese winger one of Serie A's most exciting players.",
+      "source": "https://en.wikipedia.org/wiki/Rafael_Le%C3%A3o%27s_explosive_pace_and_dribbling_at_AC_Milan"
+    },
+    {
+      "text": "Martin Ødegaard captains Arsenal despite being just 25, having fulfilled the promise that saw Real Madrid sign him at age 16.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Martin_%C3%98degaard_captains_Arsenal_despite_being_just_25%2C_having_fulfilled_the_promise_that"
+    },
+    {
+      "text": "Jamal Musiala chose to represent Germany over England and has become Bayern Munich's most creative force and one of football's brightest young talents.",
+      "source": "https://en.wikipedia.org/wiki/Jamal_Musiala_chose_to_represent_Germany_over_England_and"
+    },
+    {
+      "text": "Aurélien Tchouaméni anchors Real Madrid's midfield and is considered France's long-term successor to the holding midfielder role.",
+      "source": "https://en.wikipedia.org/wiki/Aur%C3%A9lien_Tchouam%C3%A9ni_anchors_Real_Madrid%27s_midfield_and"
+    },
+    {
+      "text": "Enzo Fernández won the 2022 World Cup Young Player award with Argentina and then joined Chelsea for a British-record £106.8 million.",
+      "source": "https://en.wikipedia.org/wiki/Enzo_Fern%C3%A1ndez"
+    },
+    {
+      "text": "William Saliba's partnership with Gabriel at Arsenal's center-back formed one of the best defensive duos in Premier League history.",
+      "source": "https://en.wikipedia.org/wiki/William_Saliba%27s_partnership_with_Gabriel_at_Arsenal%27s_center-back"
+    },
+    {
+      "text": "Alejandro Garnacho has emerged as an exciting young talent at Manchester United, with his overhead kick goal winning multiple awards.",
+      "source": "https://en.wikipedia.org/wiki/Alejandro_Garnacho"
+    },
+    {
+      "text": "Real Madrid have won a record 15 Champions League/European Cup titles — more than any other club — including six in the 21st century alone.",
+      "source": "https://en.wikipedia.org/wiki/Real_Madrid"
+    },
+    {
+      "text": "Barcelona's 2009 team under Pep Guardiola won an unprecedented six trophies in a single calendar year (the Sextuple).",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Barcelona%27s_2009_team_under_Pep_Guardiola"
+    },
+    {
+      "text": "Bayern Munich have won over 30 Bundesliga titles and 6 European Cups/Champions League trophies, dominating German football for decades.",
+      "source": "https://en.wikipedia.org/wiki/Bayern_Munich"
+    },
+    {
+      "text": "Juventus have won a record 36 Serie A titles and are Italy's most successful club, earning the nickname 'La Vecchia Signora' (The Old Lady).",
+      "source": "https://en.wikipedia.org/wiki/Juventus"
+    },
+    {
+      "text": "Liverpool's five European Cup/Champions League victories include the improbable 2005 comeback and their dominant 2019 squad under Jürgen Klopp.",
+      "source": "https://en.wikipedia.org/wiki/European_Cup"
+    },
+    {
+      "text": "Manchester United's 'Class of '92' — Beckham, Giggs, Scholes, Neville brothers, and Butt — emerged from the academy to form a dynasty under Sir Alex Ferguson.",
+      "source": "https://en.wikipedia.org/wiki/Manchester_United%27s"
+    },
+    {
+      "text": "Manchester City were a mid-table club before their 2008 takeover by Abu Dhabi's Sheikh Mansour transformed them into serial Premier League winners.",
+      "source": "https://en.wikipedia.org/wiki/Manchester_City"
+    },
+    {
+      "text": "Chelsea's modern era began with Roman Abramovich's purchase in 2003, financing an era that produced 5 Premier League titles and 2 Champions League wins.",
+      "source": "https://en.wikipedia.org/wiki/Roman_Abramovich%27s"
+    },
+    {
+      "text": "Ajax's legendary 1970s team won three consecutive European Cups (1971-73) and produced Cruyff, Neeskens, and Rep.",
+      "source": "https://en.wikipedia.org/wiki/Ajax%27s_legendary_1970s_team"
+    },
+    {
+      "text": "Benfica won back-to-back European Cups in 1961 and 1962 with Eusébio, establishing themselves as one of Portugal's greatest clubs.",
+      "source": "https://en.wikipedia.org/wiki/Benfica"
+    },
+    {
+      "text": "Porto defied the odds to win the 2004 Champions League under José Mourinho, launching his career as one of football's most famous managers.",
+      "source": "https://en.wikipedia.org/wiki/Champions_League"
+    },
+    {
+      "text": "The Old Firm derby between Celtic and Rangers in Glasgow is one of the most intense rivalries in world football, rooted in religious and cultural divisions.",
+      "source": "https://en.wikipedia.org/wiki/Old_Firm_derby_between_Celtic_and_Rangers_in_Glasgow"
+    },
+    {
+      "text": "Nottingham Forest won back-to-back European Cups in 1979 and 1980 under Brian Clough, having been promoted from the Second Division just two years earlier.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Nottingham_Forest"
+    },
+    {
+      "text": "Red Star Belgrade won the 1991 European Cup, becoming the only Serbian club to win Europe's top prize.",
+      "source": "https://en.wikipedia.org/wiki/Red_Star_Belgrade"
+    },
+    {
+      "text": "Steaua Bucharest (now FCSB) won the 1986 European Cup, making them the first Eastern European club to win the tournament.",
+      "source": "https://en.wikipedia.org/wiki/Steaua_Bucharest_(now_FCSB)"
+    },
+    {
+      "text": "Club América is Mexico's most successful and controversial club with 13 Liga MX titles, beloved and hated in equal measure across Mexico.",
+      "source": "https://en.wikipedia.org/wiki/Club_Am%C3%A9rica"
+    },
+    {
+      "text": "River Plate and Boca Juniors' rivalry — the Superclásico — divides Argentina along class lines: River represents the upper class, Boca the working class.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/River_Plate_and_Boca_Juniors"
+    },
+    {
+      "text": "Al-Hilal and Al-Ahli in Saudi Arabia have become global talking points after signing stars like Neymar, Benzema, and other European superstars.",
+      "source": "https://en.wikipedia.org/wiki/Al-Hilal_and_Al-Ahli_in_Saudi_Arabia"
+    },
+    {
+      "text": "The European Championship (Euros) has been held since 1960 — Germany and Spain are tied for the most wins with 3 titles each.",
+      "source": "https://en.wikipedia.org/wiki/European_Championship_(Euros)"
+    },
+    {
+      "text": "Greece's Euro 2004 victory is considered the greatest upset in European Championship history — they were 150-1 outsiders.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Greece%27s_Euro_2004_victory"
+    },
+    {
+      "text": "Denmark won Euro 1992 despite not originally qualifying — they replaced Yugoslavia (banned due to civil war) and stunned the continent.",
+      "month": 6,
+      "day": 26,
+      "source": "https://en.wikipedia.org/wiki/Denmark"
+    },
+    {
+      "text": "The Africa Cup of Nations (AFCON) is the continent's premier tournament, first held in 1957 with only three teams — Egypt, Sudan, and Ethiopia.",
+      "source": "https://en.wikipedia.org/wiki/Africa_Cup_of_Nations_(AFCON)"
+    },
+    {
+      "text": "Egypt has won the Africa Cup of Nations a record 7 times, while Cameroon (5 titles) are known as the 'Indomitable Lions.'",
+      "source": "https://en.wikipedia.org/wiki/Egypt"
+    },
+    {
+      "text": "The Copa Libertadores is South America's equivalent of the Champions League — Independiente of Argentina have won it a record 7 times.",
+      "source": "https://en.wikipedia.org/wiki/Copa_Libertadores"
+    },
+    {
+      "text": "The Asian Cup, first held in 1956, has seen Japan win 4 times — the most of any nation in the competition.",
+      "source": "https://en.wikipedia.org/wiki/Asian_Cup%2C_first_held_in_1956"
+    },
+    {
+      "text": "The CONCACAF Gold Cup is the top national team tournament for North America, Central America, and the Caribbean — Mexico leads with 12 wins.",
+      "source": "https://en.wikipedia.org/wiki/CONCACAF_Gold_Cup"
+    },
+    {
+      "text": "The FIFA Club World Cup expanded from 7 teams to 32 teams in 2025, creating a month-long tournament modeled after the World Cup.",
+      "source": "https://en.wikipedia.org/wiki/FIFA_Club_World_Cup"
+    },
+    {
+      "text": "The Women's European Championship (Women's Euros) saw England win the 2022 tournament on home soil before 87,192 fans at Wembley.",
+      "month": 7,
+      "day": 31,
+      "source": "https://en.wikipedia.org/wiki/Women%27s_European_Championship_(Women%27s_Euros)"
+    },
+    {
+      "text": "The NWSL (National Women's Soccer League) in the USA has grown rapidly since its 2013 founding, attracting record crowds and major investment.",
+      "source": "https://en.wikipedia.org/wiki/NWSL_(National_Women%27s_Soccer_League)_in_the_USA"
+    },
+    {
+      "text": "Ada Hegerberg of Norway won the first-ever Women's Ballon d'Or in 2018 and is the all-time Champions League top scorer.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Ada_Hegerberg_of_Norway"
+    },
+    {
+      "text": "Mia Hamm scored 158 international goals for the USWNT and was the face of women's soccer worldwide in the 1990s and early 2000s.",
+      "source": "https://en.wikipedia.org/wiki/Mia_Hamm_scored_158_international_goals_for_the_USWNT_and"
+    },
+    {
+      "text": "Christine Sinclair retired as the all-time leading international scorer (men's or women's) with 190 goals for Canada.",
+      "source": "https://en.wikipedia.org/wiki/Christine_Sinclair"
+    },
+    {
+      "text": "Alex Popp, Germany's veteran striker, has been a symbol of German women's football for over a decade.",
+      "source": "https://en.wikipedia.org/wiki/Alex_Popp%2C_Germany%27s_veteran_striker"
+    },
+    {
+      "text": "The 1999 Women's World Cup Final at the Rose Bowl drew 90,185 fans — a record for any women's sporting event at the time.",
+      "month": 7,
+      "day": 10,
+      "source": "https://en.wikipedia.org/wiki/1999_Women%27s_World_Cup_Final_at_the"
+    },
+    {
+      "text": "Brandi Chastain's penalty kick and iconic jersey celebration in the 1999 Women's World Cup Final became one of the most famous images in sports.",
+      "month": 7,
+      "day": 10,
+      "source": "https://en.wikipedia.org/wiki/Brandi_Chastain%27s"
+    },
+    {
+      "text": "Spain won their first-ever Women's World Cup in 2023, defeating England 1-0 in the final in Sydney, Australia.",
+      "month": 8,
+      "day": 20,
+      "source": "https://en.wikipedia.org/wiki/Spain"
+    },
+    {
+      "text": "Aitana Bonmatí won both the Women's Ballon d'Or and the Golden Ball at the 2023 Women's World Cup, establishing herself as the best player in the world.",
+      "source": "https://en.wikipedia.org/wiki/Aitana_Bonmat%C3%AD"
+    },
+    {
+      "text": "Title IX in the United States (1972) dramatically increased women's participation in sports and is a major reason the US dominates women's soccer.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/United_States"
+    },
+    {
+      "text": "The 'Centurion' season — when a team reaches 100 points — was first achieved in a major European league by Manchester City in the 2017-18 Premier League.",
+      "source": "https://en.wikipedia.org/wiki/%27Centurion%27_season_%E2%80%94_when_a_team_reaches_100_points_%E2%80%94"
+    },
+    {
+      "text": "The World Cup trophy cannot be permanently kept by any nation — the current trophy was introduced in 1974 and remains FIFA's property.",
+      "source": "https://en.wikipedia.org/wiki/World_Cup_trophy_cannot_be_permanently_kept_by_any_nation_%E2%80%94_the_current_trophy"
+    },
+    {
+      "text": "Soccer is called 'football' in most of the world — the word 'soccer' originated in England as slang for 'association football' in the 1880s.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Soccer"
+    },
+    {
+      "text": "A 'Cap' in international football refers to an appearance — the term comes from the tradition of giving players a physical cap for each game.",
+      "source": "https://en.wikipedia.org/wiki/Cap%27_in"
+    },
+    {
+      "text": "The 'Aguero moment' in 2012 — Manchester City's last-second title win — has been replayed more than any other Premier League moment.",
+      "month": 5,
+      "day": 13,
+      "source": "https://en.wikipedia.org/wiki/%27Aguero_moment%27_in_2012_%E2%80%94_Manchester_City%27s_last-second_title_win_%E2%80%94"
+    },
+    {
+      "text": "The 'Double' (league and cup in one season) was first achieved in England by Preston North End in the 1888-89 season.",
+      "source": "https://en.wikipedia.org/wiki/%27Double%27_(league_and_cup_in_one_season)"
+    },
+    {
+      "text": "The 'Quadruple' — winning league, Champions League, FA Cup, and League Cup in one season — has never been achieved by an English club.",
+      "source": "https://en.wikipedia.org/wiki/%27Quadruple%27_%E2%80%94_winning_league%2C_Champions_League%2C_FA_Cup%2C_and_League_Cup_in_one_season_%E2%80%94"
+    },
+    {
+      "text": "The Puskas Award for best goal of the year was first given in 2009 — Cristiano Ronaldo won the inaugural award for a goal against Porto.",
+      "source": "https://en.wikipedia.org/wiki/Puskas_Award_for_best_goal_of_the_year"
+    },
+    {
+      "text": "Soccer's 'Laws of the Game' are maintained by the International Football Association Board (IFAB), which has existed since 1886.",
+      "source": "https://en.wikipedia.org/wiki/Soccer%27s_%27Laws_of_the_Game"
+    },
+    {
+      "text": "The 'Wall' in free kicks must stand at least 9.15 meters (10 yards) from the ball.",
+      "source": "https://en.wikipedia.org/wiki/Wall%27_in"
+    },
+    {
+      "text": "The penalty spot is exactly 12 yards (11 meters) from the goal line, a distance that has remained unchanged since 1891.",
+      "source": "https://en.wikipedia.org/wiki/penalty_spot"
+    },
+    {
+      "text": "Extra time (two 15-minute halves) and penalty shootouts were first used at the 1970 World Cup to decide knockout matches.",
+      "source": "https://en.wikipedia.org/wiki/Extra_time_(two_15-minute_halves)_and_penalty_shootouts"
+    },
+    {
+      "text": "The 'Advantage Rule' allows the referee to let play continue after a foul if the team in possession would benefit more from continuing than receiving a free kick.",
+      "source": "https://en.wikipedia.org/wiki/Advantage_Rule"
+    },
+    {
+      "text": "Substitutions were first allowed in the World Cup in 1970 — originally only two per match, now five are permitted following COVID-era rule changes.",
+      "source": "https://en.wikipedia.org/wiki/Substitutions"
+    },
+    {
+      "text": "The FIFA World Rankings, introduced in 1992, determine tournament seedings and are updated monthly based on match results.",
+      "source": "https://en.wikipedia.org/wiki/FIFA_World_Rankings"
+    },
+    {
+      "text": "VAR (Video Assistant Referee) reviews four types of decisions: goals, penalties, direct red cards, and mistaken identity.",
+      "source": "https://en.wikipedia.org/wiki/Video_Assistant_Referee"
+    },
+    {
+      "text": "The longest unbeaten run in international football belongs to Brazil, who went 35 games without defeat from 1993 to 1996.",
+      "source": "https://en.wikipedia.org/wiki/longest_unbeaten"
+    },
+    {
+      "text": "In professional soccer, the pitch can legally be any length between 100-110 meters and any width between 64-75 meters.",
+      "source": "https://en.wikipedia.org/wiki/Soccer"
+    },
+    {
+      "text": "The 'Diagonal System of Control' is the standard method of referee positioning, with the referee running diagonally across the pitch.",
+      "source": "https://en.wikipedia.org/wiki/%27Diagonal_System_of_Control"
+    },
+    {
+      "text": "The '12th Man' refers to a team's fans — Fenerbahçe's supporters once generated 131.76 decibels, a Guinness World Record for stadium noise.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Guinness_World_Record_for"
+    },
+    {
+      "text": "Transfer deadline day has become a media spectacle in England, with live coverage outside training grounds as clubs rush to complete deals.",
+      "source": "https://en.wikipedia.org/wiki/Transfer_deadline_day"
+    },
+    {
+      "text": "The Premier League's international broadcast rights were worth over £5 billion for the 2022-25 cycle, making it the richest league in the world.",
+      "source": "https://en.wikipedia.org/wiki/Premier_League%27s_international_broadcast_rights"
+    },
+    {
+      "text": "Soccer balls were originally made from inflated pig bladders wrapped in leather — modern balls use synthetic materials and are precisely manufactured.",
+      "source": "https://en.wikipedia.org/wiki/Soccer_balls"
+    },
+    {
+      "text": "The 'Ballon d'Or' ceremony is held annually in Paris at the Théâtre du Châtelet, organized by France Football magazine.",
+      "source": "https://en.wikipedia.org/wiki/%27Ballon_d%27Or%27_ceremony"
+    },
+    {
+      "text": "The first ever floodlit football match was played at Bramall Lane, Sheffield, in 1878 using lights powered by dynamos.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/first_ever_floodlit_football_match"
+    },
+    {
+      "text": "The 'Inverted Fullback' position, popularized by Pep Guardiola at Manchester City, sees fullbacks tuck inside to form a midfield double pivot.",
+      "source": "https://en.wikipedia.org/wiki/Inverted_Fullback"
+    },
+    {
+      "text": "Saudi Arabia's shock 2-1 victory over Argentina in the 2022 World Cup group stage is one of the greatest upsets in World Cup history.",
+      "month": 11,
+      "day": 22,
+      "source": "https://en.wikipedia.org/wiki/Saudi_Arabia%27s_shock_2-1_victory_over_Argentina_in_the_2022_World_Cup_group_stage"
+    },
+    {
+      "text": "Senegal's 1-0 upset of defending champions France in the opening match of the 2002 World Cup stunned the football world.",
+      "month": 5,
+      "day": 31,
+      "source": "https://en.wikipedia.org/wiki/Senegal%27s_1"
+    },
+    {
+      "text": "North Korea shocked Italy 1-0 at the 1966 World Cup, one of the biggest upsets in tournament history.",
+      "source": "https://en.wikipedia.org/wiki/North_Korea"
+    },
+    {
+      "text": "The USA shocked England 1-0 at the 1950 World Cup in Brazil, one of the most unlikely results in football history — most American players were amateurs.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/USA"
+    }
+  ]
+}

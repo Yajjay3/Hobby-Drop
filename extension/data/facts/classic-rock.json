@@ -1,0 +1,1691 @@
+{
+  "hobby": "Classic Rock",
+  "facts": [
+    {
+      "text": "Led Zeppelin's 'Stairway to Heaven' has never been released as a single, yet it remains one of the most requested songs in radio history.",
+      "source": "https://www.youtube.com/results?search_query=Led+Zeppelin+Stairway+to+Heaven+live"
+    },
+    {
+      "text": "Jimi Hendrix was left-handed but played a right-handed Fender Stratocaster flipped upside down and restrung.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Jimi_Hendrix"
+    },
+    {
+      "text": "Pink Floyd's 'Dark Side of the Moon' spent 937 weeks on the Billboard 200 chart, one of the longest runs ever.",
+      "source": "https://en.wikipedia.org/wiki/Pink_Floyd%27s_%27Dark_Side_of_the_Moon"
+    },
+    {
+      "text": "The Rolling Stones got their name from a Muddy Waters song called 'Rollin' Stone.'",
+      "source": "https://en.wikipedia.org/wiki/Rolling_Stones_got_their_name_from_a_Muddy_Waters_song"
+    },
+    {
+      "text": "Eric Clapton earned the nickname 'Slowhand' because audiences would slow clap while he changed broken guitar strings on stage.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Eric_Clapton"
+    },
+    {
+      "text": "Jimi Hendrix was born on November 27, 1942, in Seattle, Washington.",
+      "month": 11,
+      "day": 27,
+      "source": "https://en.wikipedia.org/wiki/Jimi_Hendrix"
+    },
+    {
+      "text": "The Gibson Les Paul Standard was introduced in 1952 and became one of the most iconic electric guitars in rock history.",
+      "source": "https://en.wikipedia.org/wiki/Gibson_Les_Paul_Standard"
+    },
+    {
+      "text": "Woodstock took place on a dairy farm in Bethel, New York, not in the town of Woodstock as commonly believed.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Woodstock"
+    },
+    {
+      "text": "AC/DC's 'Back in Black' is the second best-selling album of all time, with over 50 million copies sold worldwide.",
+      "source": "https://en.wikipedia.org/wiki/AC%2FDC%27s_%27Back_in_Black"
+    },
+    {
+      "text": "The power chord, a staple of rock music, consists of just the root note and the fifth, with no third to make it major or minor.",
+      "source": "https://en.wikipedia.org/wiki/Classic_Rock"
+    },
+    {
+      "text": "Fleetwood Mac's 'Rumours' was recorded while the band members were going through painful breakups with each other.",
+      "source": "https://en.wikipedia.org/wiki/Fleetwood_Mac%27s_%27Rumours"
+    },
+    {
+      "text": "The Beatles played their last public concert on the rooftop of Apple Corps headquarters in London on January 30, 1969.",
+      "month": 1,
+      "day": 30,
+      "source": "https://en.wikipedia.org/wiki/The_Beatles"
+    },
+    {
+      "text": "Marshall amplifiers were originally created by Jim Marshall to meet the demands of guitarists who wanted louder, more distorted sounds.",
+      "source": "https://en.wikipedia.org/wiki/Marshall_amplifiers"
+    },
+    {
+      "text": "Queen's 'Bohemian Rhapsody' was considered too long for radio at nearly six minutes, but became a massive hit anyway.",
+      "type": "did-you-know",
+      "source": "https://www.youtube.com/results?search_query=Queen+Bohemian+Rhapsody+live"
+    },
+    {
+      "text": "The British Invasion of the 1960s was led by bands like The Beatles, The Rolling Stones, and The Who, who brought blues-influenced rock to American audiences.",
+      "source": "https://en.wikipedia.org/wiki/British_Invasion_of_the_1960s"
+    },
+    {
+      "text": "Deep Purple's 'Smoke on the Water' riff is often the first thing beginner guitarists learn to play.",
+      "source": "https://en.wikipedia.org/wiki/Deep_Purple%27s_%27Smoke_on_the_Water%27_riff"
+    },
+    {
+      "text": "David Bowie created the alter ego Ziggy Stardust in 1972, blending glam rock with science fiction themes.",
+      "source": "https://en.wikipedia.org/wiki/David_Bowie"
+    },
+    {
+      "text": "The Fender Stratocaster, introduced in 1954, featured three pickups and a tremolo bar, revolutionizing electric guitar design.",
+      "source": "https://en.wikipedia.org/wiki/Fender_Stratocaster"
+    },
+    {
+      "text": "Black Sabbath is widely considered the first heavy metal band, with their self-titled debut released on Friday the 13th in February 1970.",
+      "month": 2,
+      "day": 13,
+      "source": "https://en.wikipedia.org/wiki/Black_Sabbath"
+    },
+    {
+      "text": "Elton John's real name is Reginald Kenneth Dwight. He legally changed it in 1972.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Elton_John%27s_real_name"
+    },
+    {
+      "text": "The Monterey Pop Festival in 1967 introduced American audiences to Jimi Hendrix, who famously set his guitar on fire during his set.",
+      "source": "https://en.wikipedia.org/wiki/Monterey_Pop_Festival_in_1967"
+    },
+    {
+      "text": "Abbey Road Studios in London was originally called EMI Recording Studios but was renamed after The Beatles' iconic album.",
+      "source": "https://en.wikipedia.org/wiki/Abbey_Road"
+    },
+    {
+      "text": "Tom Petty and the Heartbreakers formed in 1976 in Gainesville, Florida, blending rock with folk and country elements.",
+      "source": "https://en.wikipedia.org/wiki/Tom_Petty_and_the_Heartbreakers"
+    },
+    {
+      "text": "The wah pedal, particularly the Cry Baby model, became famous through Jimi Hendrix's use of it on songs like 'Voodoo Child.'",
+      "source": "https://en.wikipedia.org/wiki/wah_pedal%2C_particularly_the_Cry_Baby_model"
+    },
+    {
+      "text": "Led Zeppelin never won a Grammy during their active years, despite being one of the biggest bands in history.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Led_Zeppelin_never"
+    },
+    {
+      "text": "Bruce Springsteen's 'Born to Run' album saved his career—Columbia Records was about to drop him before its release.",
+      "source": "https://www.youtube.com/results?search_query=Bruce+Springsteen+Born+to+Run+live"
+    },
+    {
+      "text": "The Who's Keith Moon was known for destroying his drum kit at the end of nearly every performance.",
+      "source": "https://en.wikipedia.org/wiki/Who%27s_Keith_Moon"
+    },
+    {
+      "text": "Creedence Clearwater Revival had five top-ten singles in 1969 alone, more than any other artist that year.",
+      "source": "https://en.wikipedia.org/wiki/Creedence_Clearwater_Revival"
+    },
+    {
+      "text": "The Doors took their name from Aldous Huxley's book 'The Doors of Perception,' which was itself a reference to William Blake.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Doors_took_their_name_from_Aldous_Huxley%27s_book_%27The_Doors_of_Perception%2C%27_which"
+    },
+    {
+      "text": "Jim Morrison died in Paris on July 3, 1971, at the age of 27, joining what would later be called the 27 Club.",
+      "month": 7,
+      "day": 3,
+      "source": "https://en.wikipedia.org/wiki/Jim_Morrison_died_in_Paris_on_July_3%2C_1971%2C_at_the_age_of_27%2C_joining_what_would_later_be"
+    },
+    {
+      "text": "The Gibson SG became Angus Young of AC/DC's signature guitar, known for its lightweight body and aggressive tone.",
+      "source": "https://en.wikipedia.org/wiki/Gibson_SG"
+    },
+    {
+      "text": "Storm Thorgerson designed some of rock's most iconic album covers, including Pink Floyd's 'Dark Side of the Moon' prism.",
+      "source": "https://en.wikipedia.org/wiki/Storm_Thorgerson"
+    },
+    {
+      "text": "Lynyrd Skynyrd's 'Free Bird' features one of the longest guitar solos in classic rock, running over four minutes.",
+      "source": "https://www.youtube.com/results?search_query=Lynyrd+Skynyrd+Free+Bird+live"
+    },
+    {
+      "text": "Neil Young has recorded in genres ranging from folk and country to grunge and electronic music over his 50+ year career.",
+      "source": "https://en.wikipedia.org/wiki/Neil_Young"
+    },
+    {
+      "text": "The Fender Twin Reverb amplifier became a studio staple, prized for its clean tone and built-in spring reverb.",
+      "source": "https://en.wikipedia.org/wiki/Fender_Twin_Reverb_amplifier"
+    },
+    {
+      "text": "Janis Joplin's raw, emotionally powerful vocals at the Monterey Pop Festival in 1967 made her an instant star.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Janis_Joplin%27s"
+    },
+    {
+      "text": "The Eagles' 'Hotel California' album cover was photographed at the Beverly Hills Hotel at sunset.",
+      "source": "https://www.youtube.com/results?search_query=Eagles+Hotel+California+live"
+    },
+    {
+      "text": "Slide guitar, played with a glass or metal tube on the finger, is a technique rooted in Delta blues that became essential to classic rock.",
+      "source": "https://en.wikipedia.org/wiki/Slide_guitar%2C_played_with_a_glass_or_metal_tube_on_the_finger"
+    },
+    {
+      "text": "Aerosmith, often called 'the Bad Boys from Boston,' formed in 1970 and became one of America's greatest rock bands.",
+      "source": "https://en.wikipedia.org/wiki/Aerosmith%2C_often_called_%27the_Bad_Boys_from_Boston"
+    },
+    {
+      "text": "Pink Floyd's Roger Waters and David Gilmour feuded so bitterly that they rarely appeared together after Waters left in 1985.",
+      "source": "https://en.wikipedia.org/wiki/Pink_Floyd%27s_Roger_Waters_and_David_Gilmour_feuded_so_bitterly_that_they_rarely"
+    },
+    {
+      "text": "The Vox AC30 amplifier was favored by The Beatles and Brian May of Queen for its distinctive chime and crunch.",
+      "source": "https://en.wikipedia.org/wiki/Vox_AC30_amplifier"
+    },
+    {
+      "text": "Bob Dylan shocked folk purists by going electric at the Newport Folk Festival on July 25, 1965.",
+      "month": 7,
+      "day": 25,
+      "source": "https://en.wikipedia.org/wiki/Bob_Dylan"
+    },
+    {
+      "text": "Stevie Ray Vaughan played extremely heavy guitar strings, using gauges as thick as .013 on his high E string.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Stevie_Ray_Vaughan"
+    },
+    {
+      "text": "The 12-string guitar creates a natural chorus effect and was prominently used by The Byrds and Led Zeppelin.",
+      "source": "https://en.wikipedia.org/wiki/12-string_guitar_creates_a_natural_chorus_effect_and"
+    },
+    {
+      "text": "The psychedelic era of the late 1960s saw bands experimenting with feedback, tape loops, and Eastern instruments.",
+      "source": "https://en.wikipedia.org/wiki/psychedelic_era_of_the_late_1960s"
+    },
+    {
+      "text": "Led Zeppelin IV has no official title, band name, or any text on its cover—just four mysterious symbols.",
+      "source": "https://en.wikipedia.org/wiki/Led_Zeppelin_IV"
+    },
+    {
+      "text": "The Hammond organ, originally designed for churches, became a staple of rock music through players like Jon Lord of Deep Purple.",
+      "source": "https://en.wikipedia.org/wiki/Hammond_organ%2C_originally_designed_for_churches"
+    },
+    {
+      "text": "John Lennon was assassinated outside his New York apartment on December 8, 1980.",
+      "month": 12,
+      "day": 8,
+      "source": "https://en.wikipedia.org/wiki/John_Lennon"
+    },
+    {
+      "text": "Live Aid on July 13, 1985, was watched by an estimated 1.9 billion people across 150 countries.",
+      "month": 7,
+      "day": 13,
+      "source": "https://en.wikipedia.org/wiki/Live_Aid_on_July_13%2C_1985"
+    },
+    {
+      "text": "The Fender Telecaster, introduced in 1950, was the first commercially successful solid-body electric guitar.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Fender_Telecaster"
+    },
+    {
+      "text": "Queen's Brian May built his iconic guitar, the Red Special, from scratch with his father using wood from an old fireplace mantel.",
+      "source": "https://en.wikipedia.org/wiki/Queen%27s_Brian_May"
+    },
+    {
+      "text": "Muscle Shoals Sound Studio in Alabama recorded hits for The Rolling Stones, Lynyrd Skynyrd, and many other rock legends.",
+      "source": "https://en.wikipedia.org/wiki/Muscle_Shoals_Sound_Studio_in_Alabama"
+    },
+    {
+      "text": "Progressive rock bands like Yes, Genesis, and King Crimson created elaborate, symphonic compositions that pushed rock boundaries.",
+      "source": "https://en.wikipedia.org/wiki/Progressive_rock_bands_like_Yes%2C_Genesis%2C_and_King_Crimson"
+    },
+    {
+      "text": "The Gibson Flying V, introduced in 1958, was considered too futuristic but later became an icon of hard rock and metal.",
+      "source": "https://en.wikipedia.org/wiki/Gibson_Flying_V"
+    },
+    {
+      "text": "Buddy Holly, Ritchie Valens, and The Big Bopper died in a plane crash on February 3, 1959, known as 'The Day the Music Died.'",
+      "month": 2,
+      "day": 3,
+      "source": "https://en.wikipedia.org/wiki/Buddy_Holly"
+    },
+    {
+      "text": "AC/DC's Angus Young performs in a schoolboy uniform, a look suggested by his sister Margaret.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/DC%27s_Angus_Young"
+    },
+    {
+      "text": "Eric Clapton has been inducted into the Rock and Roll Hall of Fame three times—as a solo artist and as a member of The Yardbirds and Cream.",
+      "source": "https://en.wikipedia.org/wiki/Rock_and_Roll_Hall_of_Fame"
+    },
+    {
+      "text": "The concept album became a defining format of classic rock, with Pink Floyd's 'The Wall' telling a complete narrative across two discs.",
+      "source": "https://en.wikipedia.org/wiki/concept_album"
+    },
+    {
+      "text": "Ludwig drums were famously used by Ringo Starr of The Beatles, whose kit appeared on The Ed Sullivan Show in 1964.",
+      "source": "https://en.wikipedia.org/wiki/The_Ed_Sullivan_Show"
+    },
+    {
+      "text": "Electric Lady Studios in New York was built by Jimi Hendrix and opened shortly before his death in 1970.",
+      "source": "https://en.wikipedia.org/wiki/Electric_Lady_Studios_in_New_York"
+    },
+    {
+      "text": "The Rolling Stones' Altamont Free Concert on December 6, 1969, turned violent when the Hells Angels, hired as security, killed a fan.",
+      "month": 12,
+      "day": 6,
+      "source": "https://en.wikipedia.org/wiki/Rolling_Stones%27_Altamont_Free_Concert_on_December_6%2C_1969"
+    },
+    {
+      "text": "Fleetwood Mac went through numerous lineup changes before Lindsey Buckingham and Stevie Nicks joined in 1975.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Fleetwood_Mac"
+    },
+    {
+      "text": "Southern rock blended blues, country, and rock, with bands like Lynyrd Skynyrd and The Allman Brothers Band leading the movement.",
+      "source": "https://en.wikipedia.org/wiki/Lynyrd_Skynyrd_and_The_Allman_Brothers_Band"
+    },
+    {
+      "text": "The tapping technique, popularized by Eddie Van Halen, involves hammering onto the fretboard with both hands to create rapid note sequences.",
+      "source": "https://en.wikipedia.org/wiki/Eddie_Van_Halen"
+    },
+    {
+      "text": "Roger Dean's fantastical album cover art for Yes became inseparable from the progressive rock aesthetic of the 1970s.",
+      "source": "https://en.wikipedia.org/wiki/Roger_Dean%27s_fantastical_album_cover_art_for_Yes"
+    },
+    {
+      "text": "David Bowie's 'Space Oddity' was released just days before the Apollo 11 moon landing in July 1969.",
+      "source": "https://en.wikipedia.org/wiki/David_Bowie%27s_%27Space_Oddity"
+    },
+    {
+      "text": "The Moog synthesizer, introduced in the late 1960s, was adopted by bands like Emerson, Lake & Palmer and Pink Floyd.",
+      "source": "https://en.wikipedia.org/wiki/Moog_synthesizer"
+    },
+    {
+      "text": "Atlantic Records was home to Led Zeppelin, Cream, and many other legendary classic rock acts.",
+      "source": "https://en.wikipedia.org/wiki/Atlantic_Records"
+    },
+    {
+      "text": "Pete Townshend of The Who pioneered the windmill strumming technique and was one of the first to use guitar feedback as a musical tool.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Pete_Townshend_of_The_Who_pioneered_the_windmill_strumming_technique_and"
+    },
+    {
+      "text": "Freddie Mercury's vocal range reportedly spanned four octaves, from bass low F to soprano high F.",
+      "source": "https://en.wikipedia.org/wiki/Freddie_Mercury%27s"
+    },
+    {
+      "text": "Tube amplifiers are preferred by many classic rock guitarists for their warm, natural distortion compared to solid-state amps.",
+      "source": "https://en.wikipedia.org/wiki/Tube_amplifiers"
+    },
+    {
+      "text": "Janis Joplin died of a heroin overdose on October 4, 1970, at age 27.",
+      "month": 10,
+      "day": 4,
+      "source": "https://en.wikipedia.org/wiki/Janis_Joplin"
+    },
+    {
+      "text": "The Beatles' 'Abbey Road' album cover, showing the four members crossing a zebra crossing, has become one of the most parodied images in music.",
+      "source": "https://en.wikipedia.org/wiki/Abbey_Road"
+    },
+    {
+      "text": "Sun Records in Memphis launched the careers of Elvis Presley, Johnny Cash, and Jerry Lee Lewis in the 1950s.",
+      "source": "https://en.wikipedia.org/wiki/Sun_Records_in_Memphis"
+    },
+    {
+      "text": "Led Zeppelin's drummer John Bonham was known for using the largest drum kit in rock, including a massive 26-inch bass drum.",
+      "source": "https://en.wikipedia.org/wiki/Led_Zeppelin%27s_drummer_John_Bonham"
+    },
+    {
+      "text": "Fuzz pedals, first heard on The Rolling Stones' 'Satisfaction,' create a distorted, buzzing tone that defined 1960s rock.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Rolling_Stones"
+    },
+    {
+      "text": "Bruce Springsteen's 'Born in the U.S.A.' is widely misinterpreted as patriotic, but it's actually a protest about the treatment of Vietnam veterans.",
+      "source": "https://en.wikipedia.org/wiki/Bruce_Springsteen%27s_%27Born_in_the_U.S.A"
+    },
+    {
+      "text": "The Rock and Roll Hall of Fame in Cleveland, Ohio, opened on September 2, 1995.",
+      "month": 9,
+      "day": 2,
+      "source": "https://en.wikipedia.org/wiki/Rock_and_Roll_Hall_of_Fame"
+    },
+    {
+      "text": "Pink Floyd performed the first-ever quadraphonic surround sound concert in 1967.",
+      "source": "https://en.wikipedia.org/wiki/Pink_Floyd"
+    },
+    {
+      "text": "The Last Waltz, The Band's farewell concert on Thanksgiving 1976, was directed by Martin Scorsese.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Last_Waltz%2C_The_Band%27s_farewell_concert_on_Thanksgiving_1976"
+    },
+    {
+      "text": "Arena rock emerged in the 1970s as bands like Journey, Boston, and Foreigner played to stadium-sized audiences with anthemic songs.",
+      "source": "https://en.wikipedia.org/wiki/Classic_Rock"
+    },
+    {
+      "text": "Jimi Hendrix played 'The Star-Spangled Banner' at Woodstock on August 18, 1969, turning it into a psychedelic anti-war statement.",
+      "month": 8,
+      "day": 18,
+      "source": "https://en.wikipedia.org/wiki/Jimi_Hendrix"
+    },
+    {
+      "text": "The hammer-on technique allows guitarists to sound a note by tapping the fretboard without picking the string again.",
+      "source": "https://en.wikipedia.org/wiki/Classic_Rock"
+    },
+    {
+      "text": "Black Sabbath's Tony Iommi lost the tips of two fingers in a factory accident and created custom thimbles to continue playing guitar.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Black_Sabbath%27s_Tony_Iommi_lost_the_tips_of_two_fingers_in_a_factory_accident_and"
+    },
+    {
+      "text": "Bob Dylan was awarded the Nobel Prize in Literature in 2016, the first musician to receive the honor.",
+      "source": "https://en.wikipedia.org/wiki/Bob_Dylan"
+    },
+    {
+      "text": "Elton John has sold more than 300 million records worldwide, making him one of the best-selling music artists of all time.",
+      "source": "https://en.wikipedia.org/wiki/Elton_John"
+    },
+    {
+      "text": "The concert poster art of the 1960s San Francisco scene, created by artists like Wes Wilson, became a hallmark of psychedelic culture.",
+      "source": "https://en.wikipedia.org/wiki/concert_poster_art_of_the_1960s_San_Francisco_scene"
+    },
+    {
+      "text": "The Eagles' 'Their Greatest Hits (1971–1975)' was the first album certified platinum by the RIAA.",
+      "source": "https://en.wikipedia.org/wiki/Eagles%27_%27Their_Greatest_Hits_(1971%E2%80%931975)"
+    },
+    {
+      "text": "Keith Richards of The Rolling Stones uses open G tuning on many songs, removing the low E string from his guitar entirely.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Keith_Richards_of_The_Rolling_Stones"
+    },
+    {
+      "text": "Deep Purple was listed in the Guinness Book of World Records as the world's loudest band in 1972.",
+      "source": "https://en.wikipedia.org/wiki/Deep_Purple"
+    },
+    {
+      "text": "Stevie Ray Vaughan died in a helicopter crash on August 27, 1990, after performing alongside Eric Clapton.",
+      "month": 8,
+      "day": 27,
+      "source": "https://en.wikipedia.org/wiki/Stevie_Ray_Vaughan"
+    },
+    {
+      "text": "DW (Drum Workshop) drums became the go-to brand for rock drummers starting in the 1980s, known for their powerful sound and craftsmanship.",
+      "source": "https://en.wikipedia.org/wiki/DW_(Drum_Workshop)_drums"
+    },
+    {
+      "text": "The Beatles released 12 studio albums in just seven years, from 1963 to 1970.",
+      "source": "https://en.wikipedia.org/wiki/Beatles"
+    },
+    {
+      "text": "Fleetwood Mac's 'Rumours' has sold over 40 million copies worldwide, making it one of the best-selling albums in history.",
+      "source": "https://en.wikipedia.org/wiki/Fleetwood_Mac%27s_%27Rumours"
+    },
+    {
+      "text": "The British Invasion's second wave included bands like The Kinks, The Animals, and The Zombies, who brought a harder edge to rock.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/British_Invasion%27s"
+    },
+    {
+      "text": "Tom Petty refused to let his record label raise the price of his album 'Hard Promises' above $8.98 in 1981, threatening to rename it 'Eight Ninety-Eight.'",
+      "source": "https://en.wikipedia.org/wiki/Tom_Petty"
+    },
+    {
+      "text": "Pink Floyd's 'The Wall' concerts featured a massive wall being built across the stage during the performance.",
+      "source": "https://en.wikipedia.org/wiki/Pink_Floyd%27s_%27The_Wall%27_concerts_featured_a_massive_wall_being"
+    },
+    {
+      "text": "The Rickenbacker 12-string guitar got its iconic jangly sound through The Byrds' Roger McGuinn and George Harrison of The Beatles.",
+      "source": "https://en.wikipedia.org/wiki/Rickenbacker_12"
+    },
+    {
+      "text": "Aerosmith's collaboration with Run-DMC on 'Walk This Way' in 1986 helped bridge rock and hip-hop.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Aerosmith%27s_collaboration_with_Run-DMC_on_%27Walk_This_Way%27_in_1986"
+    },
+    {
+      "text": "Led Zeppelin's Robert Plant drew heavily from J.R.R. Tolkien's works for lyrical inspiration, referencing Middle-earth in songs like 'Ramble On.'",
+      "source": "https://en.wikipedia.org/wiki/Led_Zeppelin%27s_Robert_Plant"
+    },
+    {
+      "text": "The Isle of Wight Festival in 1970 drew over 600,000 people, making it one of the largest gatherings of the era.",
+      "source": "https://en.wikipedia.org/wiki/Isle_of_Wight_Festival"
+    },
+    {
+      "text": "Neil Young's 'Harvest' was the best-selling album of 1972, featuring the hit 'Heart of Gold.'",
+      "source": "https://en.wikipedia.org/wiki/Neil_Young%27s_%27Harvest"
+    },
+    {
+      "text": "Creedence Clearwater Revival's John Fogerty wrote, sang, and played lead guitar on nearly all the band's songs.",
+      "source": "https://en.wikipedia.org/wiki/Creedence_Clearwater_Revival%27s_John_Fogerty"
+    },
+    {
+      "text": "The groupie culture of the 1960s and 1970s was a significant part of the rock scene, immortalized by the movie 'Almost Famous.'",
+      "source": "https://en.wikipedia.org/wiki/groupie_culture_of_the_1960s_and_1970s"
+    },
+    {
+      "text": "Jimi Hendrix died on September 18, 1970, in London at the age of 27.",
+      "month": 9,
+      "day": 18,
+      "source": "https://en.wikipedia.org/wiki/Jimi_Hendrix"
+    },
+    {
+      "text": "Queen performed at Live Aid on July 13, 1985, in what is often called the greatest live rock performance of all time.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Queen"
+    },
+    {
+      "text": "The distortion effect, created by overdriving a tube amplifier, became the signature sound of rock guitar in the 1960s and beyond.",
+      "source": "https://en.wikipedia.org/wiki/distortion_effect"
+    },
+    {
+      "text": "Gibson introduced the Les Paul Custom in 1954 as a more upscale version of the Standard, featuring gold hardware and an ebony fretboard.",
+      "source": "https://en.wikipedia.org/wiki/Gibson"
+    },
+    {
+      "text": "The Allman Brothers Band's 'At Fillmore East' is considered one of the greatest live albums ever recorded.",
+      "source": "https://en.wikipedia.org/wiki/Allman_Brothers_Band%27s_%27At_Fillmore_East"
+    },
+    {
+      "text": "David Bowie released 'The Rise and Fall of Ziggy Stardust and the Spiders from Mars' on June 16, 1972.",
+      "month": 6,
+      "day": 16,
+      "source": "https://en.wikipedia.org/wiki/David_Bowie"
+    },
+    {
+      "text": "Black Sabbath originally formed as a blues band called Earth before changing their name and inventing heavy metal.",
+      "source": "https://en.wikipedia.org/wiki/Black_Sabbath_originally"
+    },
+    {
+      "text": "The Rolling Stones have been touring for over 60 years, making them the longest-active major rock band in history.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Rolling_Stones"
+    },
+    {
+      "text": "Eric Clapton's 'Layla' was inspired by his unrequited love for George Harrison's wife, Pattie Boyd.",
+      "source": "https://www.youtube.com/results?search_query=Eric+Clapton+Layla+live"
+    },
+    {
+      "text": "The Who's 'Tommy' (1969) was one of the first rock operas, telling the story of a deaf, dumb, and blind boy.",
+      "source": "https://en.wikipedia.org/wiki/Tommy"
+    },
+    {
+      "text": "MTV launched on August 1, 1981, with the Buggles' 'Video Killed the Radio Star,' ushering in a new era for rock music.",
+      "month": 8,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/MTV"
+    },
+    {
+      "text": "Pink Floyd's 'Wish You Were Here' was partly a tribute to founding member Syd Barrett, who left the band due to mental health issues.",
+      "source": "https://en.wikipedia.org/wiki/Pink_Floyd%27s_%27Wish_You"
+    },
+    {
+      "text": "Feedback, the high-pitched squeal from an amplifier, was first used intentionally by The Beatles on 'I Feel Fine' in 1964.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Feedback%2C_the_high-pitched_squeal_from_an_amplifier"
+    },
+    {
+      "text": "Bruce Springsteen's E Street Band has been called the hardest-working band in rock, with concerts often exceeding three hours.",
+      "source": "https://en.wikipedia.org/wiki/Bruce_Springsteen%27s_E_Street_Band"
+    },
+    {
+      "text": "The guitar solo in 'Hotel California' by the Eagles was performed by Don Felder and Joe Walsh playing dueling leads.",
+      "source": "https://www.youtube.com/results?search_query=Eagles+Hotel+California+live"
+    },
+    {
+      "text": "Lynyrd Skynyrd's plane crashed on October 20, 1977, killing lead singer Ronnie Van Zant and guitarist Steve Gaines.",
+      "month": 10,
+      "day": 20,
+      "source": "https://en.wikipedia.org/wiki/Lynyrd_Skynyrd%27s"
+    },
+    {
+      "text": "The Blues had a profound influence on classic rock, with artists like Muddy Waters, Howlin' Wolf, and Robert Johnson serving as key inspirations.",
+      "source": "https://en.wikipedia.org/wiki/Blues"
+    },
+    {
+      "text": "Led Zeppelin's 'Kashmir' features no blues influence, instead drawing from Moroccan and Indian musical traditions.",
+      "source": "https://en.wikipedia.org/wiki/Led_Zeppelin%27s_%27Kashmir"
+    },
+    {
+      "text": "John Bonham of Led Zeppelin died on September 25, 1980, and the band dissolved rather than continue without him.",
+      "month": 9,
+      "day": 25,
+      "source": "https://en.wikipedia.org/wiki/John_Bonham_of_Led_Zeppelin"
+    },
+    {
+      "text": "The Fender Stratocaster's contoured body was revolutionary in 1954, making it more comfortable to play than the flat-bodied Telecaster.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Fender_Stratocaster%27s_contoured_body"
+    },
+    {
+      "text": "Queen's 'We Will Rock You' stomp-stomp-clap pattern was designed by Brian May as a way for stadium audiences to participate.",
+      "source": "https://en.wikipedia.org/wiki/Queen%27s_%27We_Will_Rock_You%27_stomp-stomp-clap_pattern"
+    },
+    {
+      "text": "Cream, featuring Eric Clapton, Jack Bruce, and Ginger Baker, is considered the first rock supergroup.",
+      "source": "https://en.wikipedia.org/wiki/Cream%2C_featuring_Eric_Clapton%2C_Jack_Bruce%2C_and_Ginger_Baker"
+    },
+    {
+      "text": "The concept of the guitar hero emerged in the 1960s with players like Hendrix, Clapton, and Jeff Beck pushing the instrument's boundaries.",
+      "source": "https://en.wikipedia.org/wiki/Jeff_Beck"
+    },
+    {
+      "text": "Pink Floyd used a 40-foot inflatable pig for their 'Animals' album cover shoot at Battersea Power Station. The pig broke free and disrupted air traffic.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Pink_Floyd"
+    },
+    {
+      "text": "Tom Petty's 'Full Moon Fever' was initially rejected by MCA Records before becoming a multi-platinum success.",
+      "source": "https://en.wikipedia.org/wiki/Tom_Petty%27s_%27Full_Moon_Fever"
+    },
+    {
+      "text": "The Doors' Jim Morrison was arrested on stage in New Haven, Connecticut, becoming the first rock musician arrested during a performance.",
+      "source": "https://en.wikipedia.org/wiki/Doors%27_Jim_Morrison"
+    },
+    {
+      "text": "AC/DC's original vocalist Bon Scott died on February 19, 1980, and was replaced by Brian Johnson.",
+      "month": 2,
+      "day": 19,
+      "source": "https://en.wikipedia.org/wiki/AC%2FDC%27s_original_vocalist_Bon_Scott_died_on_February_19%2C_1980%2C_and"
+    },
+    {
+      "text": "Rock fashion in the 1970s included bell-bottoms, platform shoes, leather jackets, and band t-shirts that remain iconic today.",
+      "source": "https://en.wikipedia.org/wiki/Classic_Rock"
+    },
+    {
+      "text": "Deep Purple's 'Machine Head' was recorded in a mobile studio parked outside a casino in Montreux, Switzerland.",
+      "source": "https://en.wikipedia.org/wiki/Deep_Purple%27s_%27Machine_Head"
+    },
+    {
+      "text": "Elton John performed at the Troubadour in Los Angeles on August 25, 1970, launching his career in America.",
+      "month": 8,
+      "day": 25,
+      "source": "https://en.wikipedia.org/wiki/Elton_John"
+    },
+    {
+      "text": "The Beatles' 'Sgt. Pepper's Lonely Hearts Club Band' is often cited as the first concept album in rock history.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Sgt._Pepper%27s_Lonely_Hearts_Club_Band"
+    },
+    {
+      "text": "Aerosmith's Steven Tyler and Joe Perry were nicknamed the 'Toxic Twins' due to their heavy drug use during the 1970s.",
+      "source": "https://en.wikipedia.org/wiki/Aerosmith%27s_Steven_Tyler_and_Joe_Perry"
+    },
+    {
+      "text": "Stevie Ray Vaughan's debut album 'Texas Flood' was recorded in just three days.",
+      "source": "https://en.wikipedia.org/wiki/Stevie_Ray_Vaughan%27s_debut_album_%27Texas_Flood"
+    },
+    {
+      "text": "The Gibson ES-335, a semi-hollow body guitar, was favored by blues-rock players like B.B. King, Chuck Berry, and Eric Clapton.",
+      "source": "https://en.wikipedia.org/wiki/Gibson_ES-335%2C_a_semi-hollow_body_guitar"
+    },
+    {
+      "text": "Fleetwood Mac's 'The Chain' features a bass line by John McVie that has become one of the most recognizable in rock.",
+      "source": "https://en.wikipedia.org/wiki/Fleetwood_Mac%27s_%27The_Chain"
+    },
+    {
+      "text": "Bob Dylan's 'Like a Rolling Stone' revolutionized rock music with its six-minute length and poetic lyrics.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Bob_Dylan%27s"
+    },
+    {
+      "text": "The Who's Pete Townshend developed severe tinnitus and hearing loss from decades of performing at high volumes.",
+      "source": "https://en.wikipedia.org/wiki/Who%27s_Pete_Townshend"
+    },
+    {
+      "text": "Led Zeppelin's manager Peter Grant was notorious for his intimidating tactics to protect the band's interests.",
+      "source": "https://en.wikipedia.org/wiki/Led_Zeppelin%27s_manager_Peter_Grant"
+    },
+    {
+      "text": "Janis Joplin's 'Me and Bobby McGee,' released posthumously, became her only number-one single.",
+      "source": "https://en.wikipedia.org/wiki/Janis_Joplin%27s_%27Me_and_Bobby_McGee"
+    },
+    {
+      "text": "The Rock and Roll Hall of Fame inducted its first class in 1986, including Chuck Berry, Elvis Presley, and Buddy Holly.",
+      "source": "https://en.wikipedia.org/wiki/Rock_and_Roll_Hall_of_Fame"
+    },
+    {
+      "text": "Pink Floyd's 'Money' uses a 7/4 time signature in its verses, unusual for a rock song that became a hit.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Pink_Floyd%27s_%27Money%27_uses_a_7%2F4_time_signature_in_its_verses%2C_unusual_for_a_rock_song_that"
+    },
+    {
+      "text": "Bruce Springsteen's 'Born to Run' was released on August 25, 1975, and is considered one of the greatest rock albums ever made.",
+      "month": 8,
+      "day": 25,
+      "source": "https://www.youtube.com/results?search_query=Bruce+Springsteen+Born+to+Run+live"
+    },
+    {
+      "text": "Keith Moon of The Who once drove a Lincoln Continental into a Holiday Inn swimming pool to celebrate his 21st birthday.",
+      "source": "https://en.wikipedia.org/wiki/Keith_Moon_of_The_Who"
+    },
+    {
+      "text": "The Marshall 'Plexi' amplifier head, used by Hendrix and many others, got its name from its plexiglass front panel.",
+      "source": "https://en.wikipedia.org/wiki/Marshall"
+    },
+    {
+      "text": "Creedence Clearwater Revival only lasted four years as a band (1968-1972) despite releasing seven studio albums in that time.",
+      "source": "https://en.wikipedia.org/wiki/Creedence_Clearwater_Revival"
+    },
+    {
+      "text": "The Beatles were rejected by Decca Records in 1962, with the label saying guitar groups were 'on the way out.'",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Beatles"
+    },
+    {
+      "text": "Robert Johnson, who allegedly sold his soul to the devil at a Mississippi crossroads, is considered the grandfather of rock guitar.",
+      "source": "https://en.wikipedia.org/wiki/Robert_Johnson%2C_who_allegedly_sold_his_soul_to_the_devil_at_a_Mississippi_crossroads"
+    },
+    {
+      "text": "Neil Young's 'Old Man' was written about the caretaker of his newly purchased ranch in Northern California.",
+      "source": "https://en.wikipedia.org/wiki/Neil_Young%27s_%27Old_Man"
+    },
+    {
+      "text": "The Rolling Stones' 'Exile on Main St.' was recorded in a basement studio in the south of France while the band was in tax exile.",
+      "source": "https://en.wikipedia.org/wiki/Rolling_Stones%27_%27Exile_on_Main_St"
+    },
+    {
+      "text": "Queen's 'A Night at the Opera' was the most expensive album ever produced at the time of its release in 1975.",
+      "source": "https://en.wikipedia.org/wiki/Queen%27s_%27A_Night_at_the_Opera"
+    },
+    {
+      "text": "David Bowie had permanently dilated left pupil from a childhood fight, giving the illusion of having two different-colored eyes.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/David_Bowie"
+    },
+    {
+      "text": "The Eagles broke up in 1980 after a backstage argument so heated that Glenn Frey and Don Felder threatened each other on stage.",
+      "source": "https://en.wikipedia.org/wiki/The_Eagles"
+    },
+    {
+      "text": "Black Sabbath's debut album was recorded in a single day, October 16, 1969.",
+      "month": 10,
+      "day": 16,
+      "source": "https://en.wikipedia.org/wiki/Black_Sabbath%27s_debut_album"
+    },
+    {
+      "text": "The wah pedal works by sweeping a band-pass filter across the frequencies, mimicking the human voice.",
+      "source": "https://en.wikipedia.org/wiki/Classic_Rock"
+    },
+    {
+      "text": "Led Zeppelin's 'Whole Lotta Love' features one of the most iconic guitar riffs ever recorded.",
+      "source": "https://en.wikipedia.org/wiki/Led_Zeppelin%27s_%27Whole_Lotta_Love"
+    },
+    {
+      "text": "Elton John has composed music for Broadway and Disney, including 'The Lion King,' which won him an Academy Award.",
+      "source": "https://en.wikipedia.org/wiki/Elton_John"
+    },
+    {
+      "text": "The Grateful Dead pioneered the idea of allowing fans to record their concerts, creating a massive bootleg trading community.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Grateful_Dead"
+    },
+    {
+      "text": "Pink Floyd's 'Dark Side of the Moon' was followed up with the equally ambitious 'Wish You Were Here' in 1975.",
+      "source": "https://en.wikipedia.org/wiki/Pink_Floyd%27s_%27Dark_Side_of_the_Moon"
+    },
+    {
+      "text": "Stevie Ray Vaughan was discovered by David Bowie, who invited him to play on the 'Let's Dance' album.",
+      "source": "https://en.wikipedia.org/wiki/Stevie_Ray_Vaughan"
+    },
+    {
+      "text": "The British blues boom of the early 1960s saw bands like The Yardbirds, John Mayall's Bluesbreakers, and Fleetwood Mac drawing from American blues.",
+      "source": "https://en.wikipedia.org/wiki/British_blues_boom_of_the_early_1960s"
+    },
+    {
+      "text": "AC/DC took their name from a sewing machine label that read 'AC/DC,' standing for alternating current/direct current.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/AC%2FDC"
+    },
+    {
+      "text": "Aerosmith's 'Dream On' took years to become a hit, initially charting modestly in 1973 before becoming a classic.",
+      "source": "https://en.wikipedia.org/wiki/Aerosmith%27s_%27Dream_On"
+    },
+    {
+      "text": "The Doors recorded their debut album in just six days at Sunset Sound Recorders in Hollywood.",
+      "source": "https://en.wikipedia.org/wiki/Doors"
+    },
+    {
+      "text": "Queen recorded 'We Are the Champions' and 'We Will Rock You' as a paired single. Together they became the ultimate stadium anthems.",
+      "source": "https://en.wikipedia.org/wiki/Queen"
+    },
+    {
+      "text": "Tom Petty fought his record label to keep album prices affordable and won, earning respect throughout the music industry.",
+      "source": "https://en.wikipedia.org/wiki/Tom_Petty_fought_his_record_label_to_keep_album_prices_affordable_and"
+    },
+    {
+      "text": "Freddie Mercury died on November 24, 1991, one day after publicly announcing he had AIDS.",
+      "month": 11,
+      "day": 24,
+      "source": "https://en.wikipedia.org/wiki/Freddie_Mercury_died_on_November_24%2C_1991%2C_one_day_after_publicly_announcing_he"
+    },
+    {
+      "text": "The Marshall stack, consisting of a head and multiple speaker cabinets, became the visual symbol of rock power.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Marshall_stack%2C_consisting_of_a_head_and_multiple_speaker_cabinets"
+    },
+    {
+      "text": "Fleetwood Mac's Peter Green, the original founder, left the band in 1970 after a bad LSD experience permanently altered his personality.",
+      "source": "https://en.wikipedia.org/wiki/Fleetwood_Mac%27s_Peter_Green%2C_the_original_founder"
+    },
+    {
+      "text": "Classic rock radio as a format was pioneered by stations like KMET in Los Angeles and WNEW-FM in New York in the late 1960s.",
+      "source": "https://en.wikipedia.org/wiki/Classic_rock_radio_as_a_format"
+    },
+    {
+      "text": "Pink Floyd performed 'The Dark Side of the Moon' live in its entirety before any of it was recorded in the studio.",
+      "source": "https://en.wikipedia.org/wiki/Pink_Floyd"
+    },
+    {
+      "text": "The Rolling Stones' 'Sticky Fingers' album cover, designed by Andy Warhol, featured a working zipper on the original vinyl release.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Rolling_Stones"
+    },
+    {
+      "text": "Led Zeppelin avoided releasing singles in the UK, insisting fans buy the full album to hear their music.",
+      "source": "https://en.wikipedia.org/wiki/Led_Zeppelin"
+    },
+    {
+      "text": "Eric Clapton's 'Crossroads' at Cream's farewell concert is often cited as one of the greatest live guitar performances ever.",
+      "source": "https://en.wikipedia.org/wiki/Eric_Clapton%27s_%27Crossroads%27_at_Cream%27s_farewell_concert"
+    },
+    {
+      "text": "The Grammy Award for Best Rock Album was first awarded in 1995 to Tom Petty's 'Wildflowers.'",
+      "source": "https://en.wikipedia.org/wiki/Grammy_Award_for_Best_Rock_Album"
+    },
+    {
+      "text": "Lynyrd Skynyrd's 'Sweet Home Alabama' was written as a response to Neil Young's 'Southern Man' and 'Alabama.'",
+      "source": "https://en.wikipedia.org/wiki/Lynyrd_Skynyrd%27s_%27Sweet_Home_Alabama"
+    },
+    {
+      "text": "Jimi Hendrix Experience released three studio albums in just two years before disbanding in 1969.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Jimi_Hendrix_Experience"
+    },
+    {
+      "text": "The Beatles' 'White Album' was so diverse in style that it contained everything from hard rock to avant-garde sound collages.",
+      "source": "https://en.wikipedia.org/wiki/The_Beatles_(album)"
+    },
+    {
+      "text": "Deep Purple's vocalist Ian Gillan also played Jesus in the original recording of 'Jesus Christ Superstar.'",
+      "source": "https://en.wikipedia.org/wiki/Deep_Purple%27s"
+    },
+    {
+      "text": "Bob Dylan released 'Highway 61 Revisited' on August 30, 1965, featuring the iconic 'Like a Rolling Stone.'",
+      "month": 8,
+      "day": 30,
+      "source": "https://en.wikipedia.org/wiki/Bob_Dylan"
+    },
+    {
+      "text": "Black Sabbath's Ozzy Osbourne was fired from the band in 1979 and went on to a hugely successful solo career.",
+      "source": "https://en.wikipedia.org/wiki/Black_Sabbath%27s_Ozzy_Osbourne"
+    },
+    {
+      "text": "The Gibson Les Paul weighs around 9 pounds, significantly heavier than the Fender Stratocaster, contributing to its thick, sustaining tone.",
+      "source": "https://en.wikipedia.org/wiki/Gibson_Les_Paul"
+    },
+    {
+      "text": "Woodstock's three days of peace and music took place from August 15-18, 1969, despite only being planned for two days.",
+      "month": 8,
+      "day": 15,
+      "source": "https://en.wikipedia.org/wiki/Woodstock%27s_three_days_of_peace_and_music"
+    },
+    {
+      "text": "Neil Young was a founding member of Buffalo Springfield before going solo and joining Crosby, Stills, Nash & Young.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Neil_Young"
+    },
+    {
+      "text": "The Rolling Stones' tongue and lips logo, designed by John Pasche in 1970, is one of the most recognizable logos in rock history.",
+      "source": "https://en.wikipedia.org/wiki/Rolling_Stones%27_tongue_and_lips_logo%2C_designed_by_John_Pasche_in_1970"
+    },
+    {
+      "text": "Queen's 'Bohemian Rhapsody' took three weeks to record, which was unusually long for a single song in 1975.",
+      "source": "https://www.youtube.com/results?search_query=Queen+Bohemian+Rhapsody+live"
+    },
+    {
+      "text": "Pete Townshend of The Who wrote the rock opera 'Quadrophenia' about the mod subculture of 1960s London.",
+      "source": "https://en.wikipedia.org/wiki/Pete_Townshend_of_The_Who"
+    },
+    {
+      "text": "David Bowie died on January 10, 2016, just two days after releasing his final album 'Blackstar.'",
+      "month": 1,
+      "day": 10,
+      "source": "https://en.wikipedia.org/wiki/David_Bowie"
+    },
+    {
+      "text": "The 'Wall of Sound' production technique, developed by Phil Spector, influenced rock producers throughout the classic era.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/%27Wall_of_Sound%27_production_technique"
+    },
+    {
+      "text": "Led Zeppelin's 'Houses of the Holy' album cover, photographed at the Giant's Causeway in Northern Ireland, caused controversy for depicting nude children.",
+      "source": "https://en.wikipedia.org/wiki/Led_Zeppelin%27s"
+    },
+    {
+      "text": "Fleetwood Mac's Stevie Nicks wrote 'Landslide' while contemplating whether to stay in music or return to school.",
+      "source": "https://en.wikipedia.org/wiki/Fleetwood_Mac%27s_Stevie_Nicks"
+    },
+    {
+      "text": "The Blues Brothers movie (1980) helped introduce a new generation to classic blues and rock artists like Ray Charles and Aretha Franklin.",
+      "source": "https://en.wikipedia.org/wiki/Blues_Brothers_movie_(1980)"
+    },
+    {
+      "text": "AC/DC's 'Back in Black' was a tribute to their late singer Bon Scott, with the album's black cover representing mourning.",
+      "source": "https://en.wikipedia.org/wiki/AC%2FDC%27s_%27Back_in_Black"
+    },
+    {
+      "text": "Pink Floyd's Roger Waters performed 'The Wall' at the site of the fallen Berlin Wall in 1990, with an audience of 350,000.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Pink_Floyd%27s_Roger_Waters"
+    },
+    {
+      "text": "Bruce Springsteen wrote 'Born to Run' in six months, obsessively reworking it until it captured the sound in his head.",
+      "source": "https://www.youtube.com/results?search_query=Bruce+Springsteen+Born+to+Run+live"
+    },
+    {
+      "text": "The Band's Robbie Robertson decided to stop touring in 1976, leading to The Last Waltz and the group's eventual breakup.",
+      "source": "https://en.wikipedia.org/wiki/Band%27s_Robbie_Robertson"
+    },
+    {
+      "text": "Classic rock concert t-shirts have become collectible items, with vintage shirts from bands like Led Zeppelin selling for thousands of dollars.",
+      "source": "https://en.wikipedia.org/wiki/Classic_rock_concert_t-shirts"
+    },
+    {
+      "text": "Eric Clapton played a psychedelic-painted Gibson SG called 'The Fool' during his time with Cream.",
+      "source": "https://en.wikipedia.org/wiki/Eric_Clapton_played_a_psychedelic-painted_Gibson_SG"
+    },
+    {
+      "text": "The Eagles' 'Hotel California' guitar riff was partially inspired by Jethro Tull's 'We Used to Know.'",
+      "type": "did-you-know",
+      "source": "https://www.youtube.com/results?search_query=Eagles+Hotel+California+live"
+    },
+    {
+      "text": "Aerosmith broke up in the early 1980s due to substance abuse but reunited and had an even bigger comeback in the late 1980s and 1990s.",
+      "source": "https://en.wikipedia.org/wiki/Aerosmith_broke_up_in_the_early_1980s_due_to_substance_abuse_but_reunited_and"
+    },
+    {
+      "text": "Pink Floyd's 'Animals' divided its songs into three categories—Dogs, Pigs, and Sheep—as a commentary on society.",
+      "source": "https://en.wikipedia.org/wiki/Pink_Floyd%27s"
+    },
+    {
+      "text": "The Jimi Hendrix Experience's 'Are You Experienced' was released on May 12, 1967, in the UK.",
+      "month": 5,
+      "day": 12,
+      "source": "https://en.wikipedia.org/wiki/Jimi_Hendrix_Experience%27s_%27Are_You_Experienced"
+    },
+    {
+      "text": "The Rolling Stones recorded at Muscle Shoals Sound Studios in Alabama, where they cut 'Brown Sugar' and 'Wild Horses.'",
+      "source": "https://en.wikipedia.org/wiki/Rolling_Stones"
+    },
+    {
+      "text": "Tom Petty died on October 2, 2017, at the age of 66, from an accidental prescription drug overdose.",
+      "month": 10,
+      "day": 2,
+      "source": "https://en.wikipedia.org/wiki/Tom_Petty"
+    },
+    {
+      "text": "Creedence Clearwater Revival's 'Fortunate Son' became an anthem of the anti-Vietnam War movement.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Creedence_Clearwater_Revival%27s_%27Fortunate_Son"
+    },
+    {
+      "text": "The Beatles' producer George Martin was known as the 'Fifth Beatle' for his crucial role in shaping their sound.",
+      "source": "https://en.wikipedia.org/wiki/Beatles%27_producer_George_Martin"
+    },
+    {
+      "text": "Led Zeppelin's 'Physical Graffiti' was a double album that showcased the band's range from hard rock to acoustic folk.",
+      "source": "https://en.wikipedia.org/wiki/Led_Zeppelin%27s_%27Physical_Graffiti"
+    },
+    {
+      "text": "Deep Purple's 'Highway Star' features one of the most technically impressive organ solos in rock history, played by Jon Lord.",
+      "source": "https://en.wikipedia.org/wiki/Deep_Purple%27s_%27Highway_Star"
+    },
+    {
+      "text": "Queen guitarist Brian May earned a PhD in astrophysics from Imperial College London in 2007.",
+      "source": "https://en.wikipedia.org/wiki/Queen_guitarist_Brian_May"
+    },
+    {
+      "text": "The Fender Jazzmaster, while designed for jazz, was adopted by surf and alternative rock musicians.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Fender_Jazzmaster%2C_while_designed_for_jazz"
+    },
+    {
+      "text": "Bob Dylan's 'Blowin' in the Wind' became an anthem of the civil rights movement in the 1960s.",
+      "source": "https://en.wikipedia.org/wiki/Bob_Dylan%27s_%27Blowin%27_in_the_Wind"
+    },
+    {
+      "text": "The Rolling Stones' 1969 U.S. tour was the first major rock tour to use advanced lighting and sound systems.",
+      "source": "https://en.wikipedia.org/wiki/Rolling_Stones%27_1969_U.S._tour"
+    },
+    {
+      "text": "Elton John wore some of the most extravagant costumes in rock history, including sequined Dodgers uniforms and feathered outfits.",
+      "source": "https://en.wikipedia.org/wiki/Elton_John"
+    },
+    {
+      "text": "Black Sabbath's 'War Pigs' was originally titled 'Walpurgis' and contained even darker lyrics about witchcraft.",
+      "source": "https://en.wikipedia.org/wiki/Black_Sabbath%27s_%27War_Pigs"
+    },
+    {
+      "text": "Pink Floyd's 'Comfortably Numb' guitar solo by David Gilmour is consistently voted one of the greatest solos ever.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Pink_Floyd%27s_%27Comfortably_Numb%27_guitar_solo_by_David_Gilmour"
+    },
+    {
+      "text": "The Who released 'Who's Next' on August 14, 1971, featuring the revolutionary use of synthesizers on tracks like 'Baba O'Riley.'",
+      "month": 8,
+      "day": 14,
+      "source": "https://en.wikipedia.org/wiki/Who"
+    },
+    {
+      "text": "Janis Joplin left $2,500 in her will for a posthumous party at her favorite bar, stating 'drinks are on Pearl.'",
+      "source": "https://en.wikipedia.org/wiki/Janis_Joplin"
+    },
+    {
+      "text": "Stevie Ray Vaughan's guitar 'Number One,' a battered 1963 Stratocaster, became one of the most famous guitars in blues-rock.",
+      "source": "https://en.wikipedia.org/wiki/Stevie_Ray_Vaughan%27s_guitar_%27Number_One%2C%27_a_battered_1963_Stratocaster"
+    },
+    {
+      "text": "The Moody Blues' 'Days of Future Passed' (1967) was one of the first albums to combine rock with a full orchestra.",
+      "source": "https://en.wikipedia.org/wiki/Future_Passed"
+    },
+    {
+      "text": "Led Zeppelin's 'Immigrant Song' was inspired by the band's 1970 concert in Iceland.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Led_Zeppelin%27s_%27Immigrant_Song"
+    },
+    {
+      "text": "The Beatles released 'Let It Be' on May 8, 1970, a month after the band officially broke up.",
+      "month": 5,
+      "day": 8,
+      "source": "https://en.wikipedia.org/wiki/Beatles"
+    },
+    {
+      "text": "AC/DC's 'Thunderstruck' opens with one of the most instantly recognizable guitar intros in rock, played entirely on one string.",
+      "source": "https://en.wikipedia.org/wiki/Classic_Rock"
+    },
+    {
+      "text": "Jeff Beck, Jimmy Page, and Eric Clapton all played guitar for The Yardbirds at different times, making it a legendary training ground.",
+      "source": "https://en.wikipedia.org/wiki/Jeff_Beck"
+    },
+    {
+      "text": "The Eagles' 'Desperado' album was a concept record themed around the Old West outlaw life.",
+      "source": "https://en.wikipedia.org/wiki/Eagles%27_%27Desperado%27_album"
+    },
+    {
+      "text": "Classic rock vinyl collecting has seen a massive resurgence, with first pressings of iconic albums fetching tens of thousands of dollars.",
+      "source": "https://en.wikipedia.org/wiki/Classic_rock_vinyl_collecting"
+    },
+    {
+      "text": "Jethro Tull's Ian Anderson played flute standing on one leg, becoming one of rock's most distinctive performers.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Jethro_Tull%27s_Ian_Anderson"
+    },
+    {
+      "text": "The Beatles' 'Revolution 9' is an eight-minute avant-garde sound collage that bewildered fans upon its release.",
+      "source": "https://en.wikipedia.org/wiki/Beatles%27_%27Revolution_9"
+    },
+    {
+      "text": "Pink Floyd's 'Dark Side of the Moon' used innovative recording techniques, including multi-track tape loops and sound effects.",
+      "source": "https://en.wikipedia.org/wiki/Pink_Floyd%27s"
+    },
+    {
+      "text": "Bruce Springsteen's 'Thunder Road' opens with a harmonica intro and has become one of the most beloved opening tracks in rock.",
+      "source": "https://en.wikipedia.org/wiki/Bruce_Springsteen%27s_%27Thunder_Road%27_opens_with_a_harmonica_intro_and"
+    },
+    {
+      "text": "Fleetwood Mac's Christine McVie wrote many of the band's biggest hits, including 'Don't Stop' and 'Everywhere.'",
+      "source": "https://en.wikipedia.org/wiki/Fleetwood_Mac%27s_Christine_McVie"
+    },
+    {
+      "text": "The Who's 'My Generation' features Roger Daltrey's stuttering vocal delivery, which was meant to represent the frustrations of youth.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Who%27s_%27My_Generation"
+    },
+    {
+      "text": "Led Zeppelin's Jimmy Page used a violin bow on his guitar during live performances of 'Dazed and Confused.'",
+      "source": "https://en.wikipedia.org/wiki/Led_Zeppelin%27s_Jimmy_Page"
+    },
+    {
+      "text": "Elton John performed at Dodger Stadium in Los Angeles in October 1975, wearing a sequined Dodgers uniform in one of rock's most iconic concerts.",
+      "source": "https://en.wikipedia.org/wiki/Elton_John"
+    },
+    {
+      "text": "Neil Young's 'Rust Never Sleeps' combined acoustic and electric sets, influencing the grunge movement that followed.",
+      "source": "https://en.wikipedia.org/wiki/Neil_Young%27s_%27Rust_Never_Sleeps%27_combined_acoustic_and_electric"
+    },
+    {
+      "text": "Bob Dylan won the Grammy for Album of the Year in 1998 for 'Time Out of Mind,' marking a major comeback.",
+      "source": "https://en.wikipedia.org/wiki/Bob_Dylan"
+    },
+    {
+      "text": "The Who were the first band to use laser lights in a live concert production.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Who"
+    },
+    {
+      "text": "Pink Floyd's 'Echoes' from the 'Meddle' album runs 23 minutes and showcases the band's experimental side.",
+      "source": "https://en.wikipedia.org/wiki/Pink_Floyd%27s"
+    },
+    {
+      "text": "Led Zeppelin IV is estimated to have sold over 37 million copies worldwide.",
+      "source": "https://en.wikipedia.org/wiki/Led_Zeppelin_IV"
+    },
+    {
+      "text": "Black Sabbath released their debut album in the UK on Friday, February 13, 1970, deliberately choosing the ominous date.",
+      "source": "https://en.wikipedia.org/wiki/Black_Sabbath"
+    },
+    {
+      "text": "Aerosmith's 'Toys in the Attic' (1975) elevated them from regional act to international superstars.",
+      "source": "https://en.wikipedia.org/wiki/Attic"
+    },
+    {
+      "text": "The Doors were banned from The Ed Sullivan Show after Jim Morrison defied producers and sang the unedited lyrics to 'Light My Fire.'",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/The_Ed_Sullivan_Show"
+    },
+    {
+      "text": "Eric Clapton's 'Unplugged' album (1992) became the best-selling live album in the U.S. and revived the acoustic format.",
+      "source": "https://en.wikipedia.org/wiki/Eric_Clapton%27s_%27Unplugged%27_album_(1992)"
+    },
+    {
+      "text": "The Rolling Stones' 'Let It Bleed' was released on December 5, 1969, the day before the Altamont disaster.",
+      "month": 12,
+      "day": 5,
+      "source": "https://en.wikipedia.org/wiki/Rolling_Stones%27_%27Let_It_Bleed"
+    },
+    {
+      "text": "Queen's four members each had at least one song on the flip side of a number-one single, a unique distinction.",
+      "source": "https://en.wikipedia.org/wiki/Queen%27s_four_members_each"
+    },
+    {
+      "text": "David Bowie acted in over 25 films, including 'The Man Who Fell to Earth' and 'Labyrinth.'",
+      "source": "https://en.wikipedia.org/wiki/David_Bowie"
+    },
+    {
+      "text": "The Gibson Firebird, designed by car designer Ray Dietrich, brought automotive aesthetics to guitar design in 1963.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Gibson_Firebird"
+    },
+    {
+      "text": "Lynyrd Skynyrd were named after Leonard Skinner, a strict gym teacher who punished students for having long hair.",
+      "source": "https://en.wikipedia.org/wiki/Lynyrd_Skynyrd"
+    },
+    {
+      "text": "Pink Floyd's 'The Division Bell' tour in 1994 set records for the highest-grossing rock tour at the time.",
+      "source": "https://en.wikipedia.org/wiki/Pink_Floyd%27s_%27The_Division_Bell%27_tour"
+    },
+    {
+      "text": "Tom Petty joined the Traveling Wilburys supergroup alongside Bob Dylan, George Harrison, Roy Orbison, and Jeff Lynne.",
+      "source": "https://en.wikipedia.org/wiki/Tom_Petty"
+    },
+    {
+      "text": "Led Zeppelin's 'In Through the Out Door' was their last studio album, released just over a year before John Bonham's death.",
+      "source": "https://en.wikipedia.org/wiki/Led_Zeppelin%27s_%27In_Through_the_Out_Door"
+    },
+    {
+      "text": "The Rolling Stones have released 30 studio albums over their career, more than almost any other rock band.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Rolling_Stones"
+    },
+    {
+      "text": "Deep Purple's Ritchie Blackmore was one of the first rock guitarists to incorporate classical music influences into his playing.",
+      "source": "https://en.wikipedia.org/wiki/Deep_Purple%27s_Ritchie_Blackmore"
+    },
+    {
+      "text": "Fleetwood Mac's 'Go Your Own Way' was written by Lindsey Buckingham about his breakup with Stevie Nicks while they were still in the same band.",
+      "source": "https://en.wikipedia.org/wiki/Fleetwood_Mac%27s_%27Go_Your_Own_Way"
+    },
+    {
+      "text": "The Beatles recorded their debut album 'Please Please Me' in a single marathon session on February 11, 1963.",
+      "month": 2,
+      "day": 11,
+      "source": "https://en.wikipedia.org/wiki/Beatles"
+    },
+    {
+      "text": "AC/DC's 'Highway to Hell' was released just months before Bon Scott's death, making its title eerily prophetic.",
+      "source": "https://en.wikipedia.org/wiki/AC%2FDC%27s_%27Highway_to_Hell"
+    },
+    {
+      "text": "Queen's 'Under Pressure,' a collaboration with David Bowie, was written and recorded in a single session.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Queen%27s_%27Under_Pressure%2C%27_a_collaboration_with_David_Bowie"
+    },
+    {
+      "text": "Bruce Springsteen played his first concert at age 15 at a drive-in restaurant in Freehold, New Jersey.",
+      "source": "https://en.wikipedia.org/wiki/Bruce_Springsteen"
+    },
+    {
+      "text": "The concept of headlining a festival was largely established during the classic rock era, with bands competing for top billing.",
+      "source": "https://en.wikipedia.org/wiki/concept_of_headlining_a_festival"
+    },
+    {
+      "text": "Stevie Ray Vaughan was a major factor in the blues revival of the 1980s, bringing Texas blues to mainstream audiences.",
+      "source": "https://en.wikipedia.org/wiki/Stevie_Ray_Vaughan"
+    },
+    {
+      "text": "The Allman Brothers Band's Duane Allman died in a motorcycle accident on October 29, 1971, at age 24.",
+      "month": 10,
+      "day": 29,
+      "source": "https://en.wikipedia.org/wiki/Allman_Brothers_Band%27s_Duane_Allman"
+    },
+    {
+      "text": "Jimi Hendrix left behind hundreds of hours of unreleased recordings, which have been compiled into numerous posthumous albums.",
+      "source": "https://en.wikipedia.org/wiki/Jimi_Hendrix_left_behind_hundreds_of_hours_of_unreleased_recordings%2C_which"
+    },
+    {
+      "text": "The Beatles' 'Yesterday' holds the record for the most cover versions of any song ever written, with over 2,200 recorded versions.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/The_Beatles"
+    },
+    {
+      "text": "Pink Floyd's 'Pulse' concert tour in 1994 featured a massive circular screen and an elaborate light show.",
+      "source": "https://en.wikipedia.org/wiki/Pink_Floyd%27s"
+    },
+    {
+      "text": "The Rolling Stones were arrested in the 1960s and 1970s on drug charges, fueling their rebellious image.",
+      "source": "https://en.wikipedia.org/wiki/Rolling_Stones"
+    },
+    {
+      "text": "Led Zeppelin's 'Black Dog' gets its name from a black Labrador retriever that wandered around Headley Grange studio.",
+      "source": "https://en.wikipedia.org/wiki/Led_Zeppelin%27s"
+    },
+    {
+      "text": "Neil Young recorded 'Harvest Moon' as a companion piece to 'Harvest,' 20 years after the original album.",
+      "source": "https://en.wikipedia.org/wiki/Neil_Young"
+    },
+    {
+      "text": "Bob Dylan caused controversy by going electric at Newport in 1965, with folk purists booing his performance.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Bob_Dylan"
+    },
+    {
+      "text": "The Eagles' Greatest Hits compilation has sold over 38 million copies in the U.S. alone.",
+      "source": "https://en.wikipedia.org/wiki/Eagles%27_Greatest_Hits_compilation"
+    },
+    {
+      "text": "Pink Floyd's Roger Waters went on to perform 'The Wall' in stadiums worldwide as a solo touring production.",
+      "source": "https://en.wikipedia.org/wiki/Pink_Floyd%27s_Roger_Waters"
+    },
+    {
+      "text": "Cream only existed for two years (1966-1968) but recorded four albums and influenced generations of rock musicians.",
+      "source": "https://en.wikipedia.org/wiki/Cream_only_existed_for_two_years_(1966-1968)_but"
+    },
+    {
+      "text": "Black Sabbath's 'Paranoid' was written in minutes as a last-minute addition to fill the album and became their biggest hit.",
+      "source": "https://en.wikipedia.org/wiki/Black_Sabbath%27s_%27Paranoid"
+    },
+    {
+      "text": "The Gibson Hummingbird acoustic guitar has been used by everyone from Keith Richards to Sheryl Crow.",
+      "source": "https://en.wikipedia.org/wiki/Gibson_Hummingbird_acoustic_guitar"
+    },
+    {
+      "text": "The Rock and Roll Hall of Fame requires artists to wait 25 years after their first recording before becoming eligible for induction.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Rock_and_Roll_Hall_of_Fame"
+    },
+    {
+      "text": "Queen's 'Somebody to Love' featured the band members layering their voices to create the effect of a 100-person gospel choir.",
+      "source": "https://en.wikipedia.org/wiki/Somebody_to_Love"
+    },
+    {
+      "text": "David Bowie's 'Heroes' was inspired by seeing his producer Tony Visconti kissing a woman by the Berlin Wall.",
+      "source": "https://en.wikipedia.org/wiki/David_Bowie%27s_%27Heroes"
+    },
+    {
+      "text": "AC/DC's Malcolm Young, often overshadowed by his brother Angus, was considered one of rock's greatest rhythm guitarists.",
+      "source": "https://en.wikipedia.org/wiki/AC%2FDC%27s_Malcolm_Young%2C_often_overshadowed_by_his_brother_Angus"
+    },
+    {
+      "text": "The Monterey Pop Festival in June 1967 is considered the beginning of the 'Summer of Love.'",
+      "month": 6,
+      "day": 16,
+      "source": "https://en.wikipedia.org/wiki/Monterey_Pop_Festival_in_June_1967"
+    },
+    {
+      "text": "Tom Petty's 'American Girl' was rumored to be about a girl who jumped off a university building, but Petty denied it.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Tom_Petty%27s_%27American_Girl"
+    },
+    {
+      "text": "The Who destroyed over $50,000 worth of equipment during their career through their famously destructive performances.",
+      "source": "https://en.wikipedia.org/wiki/The_Who"
+    },
+    {
+      "text": "Led Zeppelin's 'When the Levee Breaks' drum sound was recorded at the bottom of a stairwell in Headley Grange, creating its massive reverb.",
+      "source": "https://en.wikipedia.org/wiki/Led_Zeppelin%27s_%27When_the_Levee_Breaks%27_drum_sound"
+    },
+    {
+      "text": "Pink Floyd was one of the first bands to use a custom PA system, designing their own sound equipment for concerts.",
+      "source": "https://en.wikipedia.org/wiki/Pink_Floyd"
+    },
+    {
+      "text": "Fleetwood Mac was founded in 1967 by Peter Green, who named the band after the rhythm section: Mick Fleetwood and John McVie.",
+      "source": "https://en.wikipedia.org/wiki/Fleetwood_Mac"
+    },
+    {
+      "text": "Eric Clapton's 'Tears in Heaven' was written about the death of his four-year-old son, who fell from a 53rd-floor window.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Eric_Clapton%27s_%27Tears_in_Heaven"
+    },
+    {
+      "text": "The Beatles' manager Brian Epstein cleaned up their image, putting them in suits, but John Lennon always resisted.",
+      "source": "https://en.wikipedia.org/wiki/The_Beatles"
+    },
+    {
+      "text": "Deep Purple's 'Child in Time' features Ian Gillan's vocal range pushed to its limits over a ten-minute epic.",
+      "source": "https://en.wikipedia.org/wiki/Deep_Purple%27s_%27Child_in_Time"
+    },
+    {
+      "text": "Janis Joplin bought a psychedelic-painted Porsche 356C that has become one of the most valuable rock memorabilia items.",
+      "source": "https://en.wikipedia.org/wiki/Janis_Joplin_bought_a_psychedelic-painted_Porsche_356C_that"
+    },
+    {
+      "text": "The Band's 'The Weight' was inspired by the films of Luis Buñuel and the American South.",
+      "source": "https://en.wikipedia.org/wiki/Band%27s_%27The_Weight"
+    },
+    {
+      "text": "Elton John and Bernie Taupin have one of the longest-running songwriting partnerships in pop and rock history, starting in 1967.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Elton_John_and_Bernie_Taupin"
+    },
+    {
+      "text": "Black Sabbath's name was inspired by a Boris Karloff horror film, reflecting their interest in dark themes.",
+      "source": "https://en.wikipedia.org/wiki/Black_Sabbath%27s_name"
+    },
+    {
+      "text": "Pink Floyd's 'Dark Side of the Moon' was the first album to be mixed using a quadraphonic sound system.",
+      "source": "https://en.wikipedia.org/wiki/Pink_Floyd%27s_%27Dark_Side_of_the_Moon"
+    },
+    {
+      "text": "Aerosmith's Joe Perry was ranked as one of the top 100 guitarists of all time by Rolling Stone magazine.",
+      "source": "https://en.wikipedia.org/wiki/Aerosmith%27s_Joe_Perry"
+    },
+    {
+      "text": "The Beatles' final recording session took place on January 4, 1970, at Abbey Road Studios.",
+      "month": 1,
+      "day": 4,
+      "source": "https://en.wikipedia.org/wiki/Abbey_Road"
+    },
+    {
+      "text": "Neil Young refused to let his music be used in commercials for decades, believing it would compromise artistic integrity.",
+      "source": "https://en.wikipedia.org/wiki/Neil_Young"
+    },
+    {
+      "text": "Creedence Clearwater Revival's 'Proud Mary' was covered by Ike and Tina Turner in a gritty version that became even more famous.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Creedence_Clearwater_Revival%27s_%27Proud_Mary"
+    },
+    {
+      "text": "Bruce Springsteen wrote 'Dancing in the Dark' at the request of his manager Jon Landau, who felt the album needed a hit single.",
+      "source": "https://en.wikipedia.org/wiki/Bruce_Springsteen"
+    },
+    {
+      "text": "The Rolling Stones' Mick Jagger studied at the London School of Economics before pursuing music full-time.",
+      "source": "https://en.wikipedia.org/wiki/Rolling_Stones%27_Mick_Jagger"
+    },
+    {
+      "text": "Led Zeppelin never allowed their songs to appear in TV commercials during the band's active years.",
+      "source": "https://en.wikipedia.org/wiki/Led_Zeppelin"
+    },
+    {
+      "text": "Jeff Beck refused to play the same setlist twice, preferring to improvise and constantly reinvent his performances.",
+      "source": "https://en.wikipedia.org/wiki/Jeff_Beck"
+    },
+    {
+      "text": "Pink Floyd's Syd Barrett showed up at the studio during the recording of 'Wish You Were Here,' so changed in appearance that the band didn't recognize him at first.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Pink_Floyd%27s_Syd_Barrett_showed_up_at_the_studio_during_the_recording_of_%27Wish_You"
+    },
+    {
+      "text": "The Eagles' Joe Walsh was known for his wild hotel room antics, once chainsaw-ing a hotel room before his stay so he could complain it was trashed upon arrival.",
+      "source": "https://en.wikipedia.org/wiki/Eagles%27_Joe_Walsh"
+    },
+    {
+      "text": "Stevie Ray Vaughan's guitar tone was achieved partly through his use of heavy strings and an incredibly forceful playing style.",
+      "source": "https://en.wikipedia.org/wiki/Stevie_Ray_Vaughan%27s_guitar_tone"
+    },
+    {
+      "text": "The Jimi Hendrix Experience's 'Electric Ladyland' was a double album that reached number one on the U.S. charts.",
+      "source": "https://en.wikipedia.org/wiki/Jimi_Hendrix_Experience%27s_%27Electric_Ladyland"
+    },
+    {
+      "text": "Queen's 'Killer Queen' was the first song that brought the band mainstream success, reaching number two in the UK in 1974.",
+      "source": "https://en.wikipedia.org/wiki/Queen%27s_%27Killer_Queen"
+    },
+    {
+      "text": "David Bowie released 27 studio albums over a career spanning five decades, constantly reinventing his musical style.",
+      "source": "https://en.wikipedia.org/wiki/David_Bowie"
+    },
+    {
+      "text": "George Harrison released 'All Things Must Pass' after The Beatles broke up, a triple album that outsold any solo Beatles release.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/George_Harrison"
+    },
+    {
+      "text": "Led Zeppelin's concert at Knebworth in 1979 drew over 200,000 fans, one of the largest outdoor concerts in UK history.",
+      "source": "https://en.wikipedia.org/wiki/Led_Zeppelin%27s"
+    },
+    {
+      "text": "The Marshall JCM800 amplifier, introduced in 1981, became the go-to amp for hard rock and metal guitarists.",
+      "source": "https://en.wikipedia.org/wiki/Marshall_JCM800_amplifier"
+    },
+    {
+      "text": "Pink Floyd released 'Dark Side of the Moon' on March 1, 1973, and it went on to become one of the best-selling albums of all time.",
+      "month": 3,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/Pink_Floyd"
+    },
+    {
+      "text": "Fleetwood Mac's 'Tusk' was recorded partly with the USC Trojan Marching Band, costing over $1 million to produce.",
+      "source": "https://en.wikipedia.org/wiki/Fleetwood_Mac%27s_%27Tusk"
+    },
+    {
+      "text": "The Doors never had a bass player—Ray Manzarek played bass lines on a keyboard with his left hand.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Doors_never"
+    },
+    {
+      "text": "Bob Dylan's 'Blonde on Blonde' (1966) was rock's first double album.",
+      "source": "https://en.wikipedia.org/wiki/Blonde"
+    },
+    {
+      "text": "Black Sabbath reunited with Ozzy Osbourne for the album '13' in 2013, topping charts worldwide.",
+      "source": "https://en.wikipedia.org/wiki/Black_Sabbath"
+    },
+    {
+      "text": "The Rolling Stones' Charlie Watts was a jazz drummer at heart who brought a unique swing to rock and roll.",
+      "source": "https://en.wikipedia.org/wiki/Rolling_Stones%27_Charlie_Watts"
+    },
+    {
+      "text": "Aerosmith's 'I Don't Want to Miss a Thing' from the 'Armageddon' soundtrack became their first and only number-one single.",
+      "source": "https://en.wikipedia.org/wiki/Aerosmith%27s_%27I_Don%27t_Want_to_Miss_a_Thing%27_from_the_%27Armageddon%27_soundtrack"
+    },
+    {
+      "text": "Eric Clapton was known as 'God' in 1960s London, with fans writing 'Clapton is God' as graffiti across the city.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Eric_Clapton"
+    },
+    {
+      "text": "Queen's 'Don't Stop Me Now' has been scientifically determined to be the most feel-good song ever recorded.",
+      "source": "https://en.wikipedia.org/wiki/Queen%27s_%27Don%27t_Stop_Me_Now"
+    },
+    {
+      "text": "Led Zeppelin IV sold over 37 million copies despite having no title, no band name, and no text printed on its cover.",
+      "source": "https://en.wikipedia.org/wiki/Led_Zeppelin_IV"
+    },
+    {
+      "text": "The Beatles used Indian instruments like the sitar on 'Norwegian Wood,' popularizing world music influences in rock.",
+      "source": "https://en.wikipedia.org/wiki/The_Beatles"
+    },
+    {
+      "text": "Neil Young's 'Hey Hey, My My' contains the famous line 'It's better to burn out than to fade away,' later quoted in Kurt Cobain's suicide note.",
+      "source": "https://en.wikipedia.org/wiki/Kurt_Cobain"
+    },
+    {
+      "text": "The Fender Rhodes electric piano, while not a guitar, became an essential keyboard in 1970s rock recordings.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Fender_Rhodes_electric_piano%2C_while_not_a_guitar"
+    },
+    {
+      "text": "Pink Floyd's 'Another Brick in the Wall Part 2' used a children's choir from Islington Green School, who were never properly compensated.",
+      "source": "https://en.wikipedia.org/wiki/Pink_Floyd%27s"
+    },
+    {
+      "text": "Tom Petty's 'Learning to Fly' was about learning to pilot an airplane, inspired by Petty's flying lessons.",
+      "source": "https://en.wikipedia.org/wiki/Tom_Petty%27s_%27Learning_to_Fly"
+    },
+    {
+      "text": "The Rolling Stones' 'Gimme Shelter' features backing vocalist Merry Clayton, whose powerful vocals caused her to miscarry shortly after the session.",
+      "source": "https://en.wikipedia.org/wiki/Rolling_Stones%27_%27Gimme_Shelter"
+    },
+    {
+      "text": "AC/DC's debut album in Australia, 'High Voltage,' featured a completely different track listing than the international release.",
+      "source": "https://en.wikipedia.org/wiki/High_Voltage"
+    },
+    {
+      "text": "Queen's 'Crazy Little Thing Called Love' was written by Freddie Mercury in the bath in about ten minutes.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Queen%27s_%27Crazy_Little_Thing_Called_Love"
+    },
+    {
+      "text": "Hendrix, though primarily known for his Stratocaster work, also played Flying V guitars in his later career.",
+      "source": "https://en.wikipedia.org/wiki/Flying_V"
+    },
+    {
+      "text": "The Beatles' 'Helter Skelter' is often cited as one of the first heavy metal songs, with Paul McCartney aiming to make the loudest, dirtiest song possible.",
+      "source": "https://en.wikipedia.org/wiki/Beatles%27_%27Helter_Skelter"
+    },
+    {
+      "text": "The Kinks were banned from touring the United States from 1965 to 1969 due to disputes with the American musicians' union.",
+      "source": "https://en.wikipedia.org/wiki/Kinks"
+    },
+    {
+      "text": "Pink Floyd's 'Atom Heart Mother' featured a full orchestra and choir, pushing the boundaries of what rock could be.",
+      "source": "https://en.wikipedia.org/wiki/Pink_Floyd%27s"
+    },
+    {
+      "text": "Led Zeppelin's Jimmy Page was one of the most sought-after session guitarists in London before forming the band.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Led_Zeppelin%27s_Jimmy_Page"
+    },
+    {
+      "text": "Elton John has performed over 4,000 concerts in more than 80 countries during his career.",
+      "source": "https://en.wikipedia.org/wiki/Elton_John"
+    },
+    {
+      "text": "The Who's 'Baba O'Riley' was named after spiritual leader Meher Baba and composer Terry Riley.",
+      "source": "https://en.wikipedia.org/wiki/Who%27s_%27Baba_O%27Riley"
+    },
+    {
+      "text": "Fleetwood Mac's 'Rumours' spent 31 weeks at number one on the Billboard 200 in 1977-1978.",
+      "source": "https://en.wikipedia.org/wiki/Fleetwood_Mac%27s_%27Rumours"
+    },
+    {
+      "text": "Bruce Springsteen's 'The River' was a double album exploring working-class life in New Jersey.",
+      "source": "https://en.wikipedia.org/wiki/Bruce_Springsteen%27s_%27The_River"
+    },
+    {
+      "text": "The Gibson Explorer, like the Flying V, was initially a commercial failure in 1958 but later became a favorite of hard rock guitarists.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Gibson_Explorer%2C_like_the_Flying_V"
+    },
+    {
+      "text": "Deep Purple once held the Guinness World Record for the loudest rock concert, measured at 117 dB in London in 1972.",
+      "source": "https://en.wikipedia.org/wiki/Deep_Purple"
+    },
+    {
+      "text": "Led Zeppelin refused to appear on Top of the Pops, the BBC's flagship music show, throughout their career.",
+      "source": "https://en.wikipedia.org/wiki/Led_Zeppelin"
+    },
+    {
+      "text": "Pink Floyd released 'The Wall' on November 30, 1979, telling the story of a rock star's mental breakdown.",
+      "month": 11,
+      "day": 30,
+      "source": "https://en.wikipedia.org/wiki/Pink_Floyd"
+    },
+    {
+      "text": "Janis Joplin's vocal style was heavily influenced by Bessie Smith and other classic blues singers.",
+      "source": "https://en.wikipedia.org/wiki/Janis_Joplin%27s_vocal_style"
+    },
+    {
+      "text": "AC/DC was formed in Sydney, Australia, in 1973 by Scottish-born brothers Malcolm and Angus Young.",
+      "source": "https://en.wikipedia.org/wiki/AC%2FDC"
+    },
+    {
+      "text": "The Beatles' 'A Day in the Life' features a 40-piece orchestra building to a crescendo, organized by producer George Martin.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Beatles%27_%27A_Day_in_the_Life"
+    },
+    {
+      "text": "Bob Dylan's 'The Times They Are a-Changin'' became the anthem of the 1960s counterculture movement.",
+      "source": "https://en.wikipedia.org/wiki/Bob_Dylan%27s_%27The_Times_They"
+    },
+    {
+      "text": "The Allman Brothers Band pioneered the twin-guitar harmony technique that became a hallmark of Southern rock.",
+      "source": "https://en.wikipedia.org/wiki/Allman_Brothers_Band_pioneered_the_twin-guitar_harmony_technique_that"
+    },
+    {
+      "text": "Aerosmith was discovered by Clive Davis of Columbia Records, who signed them after seeing a gig in a Boston club.",
+      "source": "https://en.wikipedia.org/wiki/Aerosmith"
+    },
+    {
+      "text": "Queen's 'Bohemian Rhapsody' returned to number one in 2018 after the biopic film about the band was released.",
+      "source": "https://www.youtube.com/results?search_query=Queen+Bohemian+Rhapsody+live"
+    },
+    {
+      "text": "Keith Richards once fell asleep during a recording session and accidentally created the riff for 'Satisfaction' on a tape recorder.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Keith_Richards_once_fell_asleep_during_a_recording_session_and_accidentally"
+    },
+    {
+      "text": "The Gibson ES-175 jazz guitar influenced early rock and roll players who crossed genre boundaries.",
+      "source": "https://en.wikipedia.org/wiki/Gibson_ES-175"
+    },
+    {
+      "text": "Led Zeppelin's 'The Song Remains the Same' was both a concert film and a live album recorded at Madison Square Garden.",
+      "source": "https://en.wikipedia.org/wiki/Led_Zeppelin%27s_%27The_Song_Remains_the_Same"
+    },
+    {
+      "text": "Pink Floyd's 'Shine On You Crazy Diamond' is a 26-minute tribute to original frontman Syd Barrett.",
+      "source": "https://en.wikipedia.org/wiki/Pink_Floyd%27s_%27Shine_On_You_Crazy_Diamond"
+    },
+    {
+      "text": "Fleetwood Mac's 'Dreams' by Stevie Nicks went viral on TikTok in 2020, introducing the band to a new generation.",
+      "source": "https://en.wikipedia.org/wiki/Fleetwood_Mac%27s"
+    },
+    {
+      "text": "Led Zeppelin was sued multiple times for allegedly borrowing from blues songs without credit, including for 'Stairway to Heaven.'",
+      "type": "did-you-know",
+      "source": "https://www.youtube.com/results?search_query=Led+Zeppelin+Stairway+to+Heaven+live"
+    },
+    {
+      "text": "The Rolling Stones released 'Beggars Banquet' in 1968, marking a return to their blues roots after the psychedelic era.",
+      "source": "https://en.wikipedia.org/wiki/Rolling_Stones"
+    },
+    {
+      "text": "Bruce Springsteen performed a legendary four-hour concert at the Meadowlands in New Jersey in 1985.",
+      "source": "https://en.wikipedia.org/wiki/Bruce_Springsteen"
+    },
+    {
+      "text": "Queen's Brian May uses a sixpence coin instead of a guitar pick, giving him a distinctive attack and tone.",
+      "source": "https://en.wikipedia.org/wiki/Queen%27s_Brian_May"
+    },
+    {
+      "text": "The Beatles performed on The Ed Sullivan Show on February 9, 1964, watched by 73 million viewers.",
+      "month": 2,
+      "day": 9,
+      "source": "https://en.wikipedia.org/wiki/The_Ed_Sullivan_Show"
+    },
+    {
+      "text": "Deep Purple's 'Burn' showcased the band's fusion of classical and hard rock in the mid-1970s.",
+      "source": "https://en.wikipedia.org/wiki/Deep_Purple%27s"
+    },
+    {
+      "text": "The Moog synthesizer was used by Keith Emerson of Emerson, Lake & Palmer to bring classical compositions into the rock arena.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Moog_synthesizer"
+    },
+    {
+      "text": "Tom Petty burned down his childhood home during an argument with his father when he was a teenager.",
+      "source": "https://en.wikipedia.org/wiki/Tom_Petty_burned_down_his_childhood_home_during_an_argument_with_his_father_when_he"
+    },
+    {
+      "text": "Stevie Ray Vaughan often played through two amplifiers simultaneously to achieve his massive guitar tone.",
+      "source": "https://en.wikipedia.org/wiki/Stevie_Ray_Vaughan"
+    },
+    {
+      "text": "The Who sold over 100 million records worldwide and are considered one of the most influential bands of the 20th century.",
+      "source": "https://en.wikipedia.org/wiki/Who_sold_over_100_million_records_worldwide_and"
+    },
+    {
+      "text": "Pink Floyd's 'Learning to Fly' was inspired by David Gilmour's passion for aviation and flying.",
+      "source": "https://en.wikipedia.org/wiki/Pink_Floyd%27s_%27Learning_to_Fly"
+    },
+    {
+      "text": "Elton John's 'Goodbye Yellow Brick Road' album contained 17 tracks across two vinyl records and spawned four hit singles.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Elton_John%27s"
+    },
+    {
+      "text": "The Beatles' 'Let It Be' title track was inspired by Paul McCartney's dream about his late mother, Mary.",
+      "source": "https://en.wikipedia.org/wiki/Beatles%27_%27Let_It_Be%27_title_track"
+    },
+    {
+      "text": "Black Sabbath's 'Iron Man' riff is one of the most recognizable in all of heavy metal and hard rock.",
+      "source": "https://en.wikipedia.org/wiki/Black_Sabbath%27s_%27Iron_Man%27_riff"
+    },
+    {
+      "text": "The Marshall JMP-1 preamp allowed guitarists to get Marshall tone at lower volumes in studio recordings.",
+      "source": "https://en.wikipedia.org/wiki/Marshall_JMP-1"
+    },
+    {
+      "text": "Led Zeppelin's 'Going to California' was inspired by Joni Mitchell, whom Robert Plant and Jimmy Page greatly admired.",
+      "source": "https://en.wikipedia.org/wiki/Led_Zeppelin%27s_%27Going_to_California"
+    },
+    {
+      "text": "Pink Floyd was named after two blues musicians: Pink Anderson and Floyd Council.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Pink_Floyd"
+    },
+    {
+      "text": "Led Zeppelin's 'Rock and Roll' was written in just 15 minutes during a jam session at Headley Grange.",
+      "source": "https://en.wikipedia.org/wiki/Led_Zeppelin%27s_%27Rock_and_Roll"
+    },
+    {
+      "text": "The Rolling Stones' 'Paint It Black' features a sitar played by Brian Jones, blending Indian music with rock.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Rolling_Stones%27_%27Paint_It_Black"
+    },
+    {
+      "text": "Queen's 'A Kind of Magic' was written for the soundtrack of the film 'Highlander' in 1986.",
+      "source": "https://en.wikipedia.org/wiki/Queen%27s_%27A_Kind_of_Magic"
+    },
+    {
+      "text": "Eric Clapton auctioned off over 100 of his guitars in 2004, raising nearly $6 million for his Crossroads Centre addiction treatment facility.",
+      "source": "https://en.wikipedia.org/wiki/Eric_Clapton"
+    },
+    {
+      "text": "Deep Purple released 'Made in Japan' in 1972, which is widely regarded as one of the greatest live rock albums ever recorded.",
+      "source": "https://en.wikipedia.org/wiki/Deep_Purple"
+    },
+    {
+      "text": "Fleetwood Mac's 'Tango in the Night' (1987) was the last album to feature Lindsey Buckingham until he returned in 1997.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Night"
+    },
+    {
+      "text": "Bruce Springsteen's 'Nebraska' was recorded alone on a four-track cassette recorder in his bedroom, giving it a stark, haunting quality.",
+      "source": "https://en.wikipedia.org/wiki/Bruce_Springsteen%27s_%27Nebraska"
+    },
+    {
+      "text": "The Beatles' 'Come Together' was originally written by John Lennon as a campaign song for Timothy Leary's California gubernatorial race.",
+      "source": "https://en.wikipedia.org/wiki/Beatles%27_%27Come_Together"
+    },
+    {
+      "text": "Aerosmith holds the record for the most gold and multi-platinum albums by an American group.",
+      "source": "https://en.wikipedia.org/wiki/Classic_Rock"
+    },
+    {
+      "text": "Elton John performed over 3,500 concerts between 1970 and 2023, including his record-breaking Farewell Yellow Brick Road tour.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Elton_John"
+    },
+    {
+      "text": "The Kinks' 'You Really Got Me' (1964) is often credited as one of the first hard rock songs due to Dave Davies slashing his amp speaker with a razor blade.",
+      "source": "https://en.wikipedia.org/wiki/You_Really_Got_Me"
+    },
+    {
+      "text": "Santana's performance at Woodstock launched Carlos Santana to stardom, even though their debut album hadn't yet been released.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Santana%27s_performance_at_Woodstock"
+    },
+    {
+      "text": "Led Zeppelin's 'No Quarter' features John Paul Jones on keyboards, creating an eerie, atmospheric sound that was years ahead of its time.",
+      "source": "https://en.wikipedia.org/wiki/Led_Zeppelin%27s_%27No_Quarter"
+    },
+    {
+      "text": "AC/DC's 'For Those About to Rock (We Salute You)' used real cannons during live performances for dramatic effect.",
+      "source": "https://en.wikipedia.org/wiki/For_Those_About_to_Rock"
+    }
+  ]
+}

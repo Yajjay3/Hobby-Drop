@@ -1,0 +1,2051 @@
+{
+  "hobby": "Pop Divas",
+  "facts": [
+    {
+      "text": "Madonna's 1984 album 'Like a Virgin' spent three weeks at number one on the Billboard 200 and has sold over 21 million copies worldwide.",
+      "source": "https://en.wikipedia.org/wiki/Madonna%27s_1984_album_%27Like_a_Virgin"
+    },
+    {
+      "text": "Whitney Houston's rendition of 'I Will Always Love You' spent 14 weeks at number one on the Billboard Hot 100, making it one of the best-selling singles of all time.",
+      "source": "https://en.wikipedia.org/wiki/Whitney_Houston%27s_rendition_of_%27I_Will_Always_Love_You"
+    },
+    {
+      "text": "Mariah Carey has the most number-one singles of any solo artist on the Billboard Hot 100, with 19 chart-toppers.",
+      "source": "https://en.wikipedia.org/wiki/Mariah_Carey"
+    },
+    {
+      "text": "Beyoncé has won 32 Grammy Awards, the most by any artist in Grammy history.",
+      "source": "https://en.wikipedia.org/wiki/Beyonc%C3%A9"
+    },
+    {
+      "text": "Lady Gaga's debut single 'Just Dance' was nominated for a Grammy before her debut album was even released.",
+      "source": "https://en.wikipedia.org/wiki/Lady_Gaga%27s_debut_single_%27Just_Dance"
+    },
+    {
+      "text": "Rihanna has had more Billboard Hot 100 top-ten hits than any other female artist, with 31 entries in the top ten.",
+      "source": "https://en.wikipedia.org/wiki/Rihanna"
+    },
+    {
+      "text": "Adele's album '21' has sold over 31 million copies worldwide, making it one of the best-selling albums of all time.",
+      "source": "https://en.wikipedia.org/wiki/Adele%27s_album_%2721"
+    },
+    {
+      "text": "Taylor Swift is the only artist in history to have five different albums each sell over one million copies in their first week.",
+      "source": "https://en.wikipedia.org/wiki/Taylor_Swift"
+    },
+    {
+      "text": "Ariana Grande became the first artist since The Beatles to hold the top three spots on the Billboard Hot 100 simultaneously in 2019.",
+      "source": "https://en.wikipedia.org/wiki/The_Beatles%27_recording_legacy#Number-one_singles"
+    },
+    {
+      "text": "Britney Spears' debut album '...Baby One More Time' debuted at number one on the Billboard 200 in 1999, selling over 500,000 copies in its first week.",
+      "source": "https://en.wikipedia.org/wiki/Britney_Spears"
+    },
+    {
+      "text": "Christina Aguilera's four-octave vocal range has been praised by vocal coaches and music critics as one of the most powerful in pop music.",
+      "source": "https://en.wikipedia.org/wiki/Christina_Aguilera%27s_four-octave_vocal_range"
+    },
+    {
+      "text": "Janet Jackson's 'Rhythm Nation 1814' was the first album in history to produce seven top-five singles on the Billboard Hot 100.",
+      "source": "https://en.wikipedia.org/wiki/Janet_Jackson%27s_%27Rhythm_Nation_1814"
+    },
+    {
+      "text": "Cher is the only artist to have had a number-one single on a Billboard chart in each of six consecutive decades, from the 1960s through the 2010s.",
+      "source": "https://en.wikipedia.org/wiki/Cher"
+    },
+    {
+      "text": "Celine Dion's 'My Heart Will Go On' from the Titanic soundtrack won the Academy Award for Best Original Song in 1998.",
+      "source": "https://en.wikipedia.org/wiki/Celine_Dion%27s_%27My_Heart_Will_Go_On%27_from_the_Titanic_soundtrack"
+    },
+    {
+      "text": "P!nk has sold over 135 million records worldwide, making her one of the best-selling music artists of all time.",
+      "source": "https://en.wikipedia.org/wiki/P%21nk"
+    },
+    {
+      "text": "Shakira is the most-viewed Colombian artist on YouTube and her 'Waka Waka (This Time for Africa)' became the best-selling FIFA World Cup song of all time.",
+      "source": "https://en.wikipedia.org/wiki/Shakira"
+    },
+    {
+      "text": "Jennifer Lopez became the first person to have a number-one album and a number-one film in the same week in 2001.",
+      "source": "https://en.wikipedia.org/wiki/Jennifer_Lopez"
+    },
+    {
+      "text": "Dua Lipa's 'Levitating' spent 77 weeks on the Billboard Hot 100, making it one of the longest-charting songs in the chart's history.",
+      "source": "https://en.wikipedia.org/wiki/Dua_Lipa%27s_%27Levitating"
+    },
+    {
+      "text": "Billie Eilish became the youngest artist to win all four major Grammy categories in a single night at the 2020 Grammy Awards, at age 18.",
+      "source": "https://en.wikipedia.org/wiki/Billie_Eilish"
+    },
+    {
+      "text": "Olivia Rodrigo's debut single 'drivers license' broke the Spotify record for most streams in a single day when it was released in January 2021.",
+      "source": "https://en.wikipedia.org/wiki/Olivia_Rodrigo%27s"
+    },
+    {
+      "text": "Lizzo plays the flute professionally and studied classical flute performance at the University of Houston before pursuing pop music.",
+      "source": "https://en.wikipedia.org/wiki/University_of_Houston"
+    },
+    {
+      "text": "Nicki Minaj holds the record for the most Billboard Hot 100 entries by a female rapper, surpassing 100 entries on the chart.",
+      "source": "https://en.wikipedia.org/wiki/Nicki_Minaj"
+    },
+    {
+      "text": "Doja Cat's 'Say So' reached number one on the Billboard Hot 100 after a remix featuring Nicki Minaj was released in 2020.",
+      "source": "https://en.wikipedia.org/wiki/Doja_Cat%27s_%27Say_So"
+    },
+    {
+      "text": "SZA's album 'SOS' spent ten weeks at number one on the Billboard 200 and became the longest-running number-one album by a female R&B artist in the 2020s.",
+      "source": "https://en.wikipedia.org/wiki/SZA%27s_album_%27SOS"
+    },
+    {
+      "text": "Katy Perry's 'Teenage Dream' album produced five number-one singles on the Billboard Hot 100, tying Michael Jackson's record with 'Bad.'",
+      "source": "https://en.wikipedia.org/wiki/Katy_Perry%27s"
+    },
+    {
+      "text": "Selena Gomez became the most-followed woman on Instagram in 2023, surpassing 400 million followers.",
+      "source": "https://en.wikipedia.org/wiki/Selena_Gomez"
+    },
+    {
+      "text": "Miley Cyrus's 'Flowers' became the fastest song to reach one billion streams on Spotify in 2023.",
+      "source": "https://en.wikipedia.org/wiki/Miley_Cyrus%27s_%27Flowers"
+    },
+    {
+      "text": "Tina Turner's comeback album 'Private Dancer' in 1984 sold over 20 million copies and revitalized her career after years out of the spotlight.",
+      "source": "https://en.wikipedia.org/wiki/Tina_Turner%27s"
+    },
+    {
+      "text": "Diana Ross was the lead singer of The Supremes, who had 12 number-one singles on the Billboard Hot 100 between 1964 and 1969.",
+      "source": "https://en.wikipedia.org/wiki/Diana_Ross"
+    },
+    {
+      "text": "Donna Summer's 'Love to Love You Baby' caused controversy upon its 1975 release due to its suggestive vocals, but it reached the top five in multiple countries.",
+      "source": "https://en.wikipedia.org/wiki/Donna_Summer%27s"
+    },
+    {
+      "text": "Madonna has sold over 300 million records worldwide, making her the best-selling female music artist of all time according to Guinness World Records.",
+      "source": "https://en.wikipedia.org/wiki/Madonna"
+    },
+    {
+      "text": "Whitney Houston is the only artist to have seven consecutive number-one singles on the Billboard Hot 100, a record she set between 1985 and 1988.",
+      "source": "https://en.wikipedia.org/wiki/Whitney_Houston"
+    },
+    {
+      "text": "Mariah Carey co-wrote 'All I Want for Christmas Is You' in just 15 minutes, and the song has earned over $60 million in royalties since its 1994 release.",
+      "source": "https://en.wikipedia.org/wiki/Mariah_Carey_co-wrote_%27All_I_Want_for_Christmas"
+    },
+    {
+      "text": "Beyoncé performed at the Super Bowl halftime show in 2013 and again in 2016, both performances becoming cultural events that dominated social media.",
+      "source": "https://en.wikipedia.org/wiki/Beyonc%C3%A9"
+    },
+    {
+      "text": "Lady Gaga's meat dress, worn at the 2010 MTV Video Music Awards, was preserved by a taxidermist and is now displayed at the Rock and Roll Hall of Fame.",
+      "source": "https://en.wikipedia.org/wiki/Rock_and_Roll_Hall_of_Fame"
+    },
+    {
+      "text": "Rihanna launched her cosmetics brand Fenty Beauty in 2017 with 40 foundation shades, revolutionizing the beauty industry's approach to inclusivity.",
+      "source": "https://en.wikipedia.org/wiki/Rihanna"
+    },
+    {
+      "text": "Adele's '30' sold 839,000 copies in the United States in its first week of release in 2021, the biggest opening week for any album that year.",
+      "source": "https://en.wikipedia.org/wiki/United_States_in"
+    },
+    {
+      "text": "Taylor Swift re-recorded her first six albums after a public dispute over the ownership of her master recordings, a move unprecedented in music industry history.",
+      "source": "https://en.wikipedia.org/wiki/Taylor_Swift"
+    },
+    {
+      "text": "Ariana Grande's signature high ponytail became one of the most recognizable hairstyles in pop culture during the late 2010s.",
+      "source": "https://en.wikipedia.org/wiki/Ariana_Grande%27s_signature_high_ponytail"
+    },
+    {
+      "text": "Britney Spears' conservatorship, which lasted from 2008 to 2021, sparked the global #FreeBritney movement and led to changes in conservatorship laws.",
+      "source": "https://en.wikipedia.org/wiki/Britney_Spears"
+    },
+    {
+      "text": "Christina Aguilera's album 'Stripped' in 2002 marked a dramatic reinvention from teen pop to a more mature, edgier artistic direction.",
+      "source": "https://en.wikipedia.org/wiki/Christina_Aguilera%27s_album_%27Stripped%27_in_2002"
+    },
+    {
+      "text": "Janet Jackson's wardrobe malfunction during the 2004 Super Bowl halftime show was the most-searched event in internet history at that time.",
+      "source": "https://en.wikipedia.org/wiki/Janet_Jackson%27s_wardrobe_malfunction_during_the_2004_Super_Bowl_halftime_show"
+    },
+    {
+      "text": "Cher won the Academy Award for Best Actress for her role in 'Moonstruck' in 1988, proving her versatility as both a singer and an actress.",
+      "source": "https://en.wikipedia.org/wiki/Cher"
+    },
+    {
+      "text": "Celine Dion performed at the opening ceremony of the 2024 Paris Olympics despite battling stiff person syndrome, delivering a powerful rendition from the Eiffel Tower.",
+      "source": "https://en.wikipedia.org/wiki/Celine_Dion"
+    },
+    {
+      "text": "P!nk is known for her aerial acrobatics during live performances, often singing while suspended high above the stage on silks and trapezes.",
+      "source": "https://en.wikipedia.org/wiki/P%21nk"
+    },
+    {
+      "text": "Shakira is fluent in Spanish, English, Portuguese, Italian, and has a working knowledge of French, Arabic, and Catalan.",
+      "source": "https://en.wikipedia.org/wiki/Shakira"
+    },
+    {
+      "text": "Jennifer Lopez's green Versace dress at the 2000 Grammy Awards generated so many internet searches that Google created Google Images as a result.",
+      "source": "https://en.wikipedia.org/wiki/Jennifer_Lopez%27s"
+    },
+    {
+      "text": "Dua Lipa was born in London to Kosovar Albanian parents and spent part of her childhood in Pristina, Kosovo.",
+      "source": "https://en.wikipedia.org/wiki/Dua_Lipa"
+    },
+    {
+      "text": "Billie Eilish and her brother Finneas O'Connell recorded much of her debut album 'When We All Fall Asleep, Where Do We Go?' in his small bedroom.",
+      "source": "https://en.wikipedia.org/wiki/Billie_Eilish_and_her_brother_Finneas_O%27Connell"
+    },
+    {
+      "text": "Olivia Rodrigo's debut album 'SOUR' won three Grammy Awards in 2022, including Best New Artist and Best Pop Vocal Album.",
+      "source": "https://en.wikipedia.org/wiki/Olivia_Rodrigo%27s_debut_album_%27SOUR"
+    },
+    {
+      "text": "Lizzo named her flute 'Sasha Flute' and it has its own Instagram account with hundreds of thousands of followers.",
+      "source": "https://en.wikipedia.org/wiki/Lizzo_named_her_flute_%27Sasha_Flute%27_and_it"
+    },
+    {
+      "text": "Nicki Minaj's alter ego 'Roman Zolanski' is a recurring character in her music, described as an outspoken boy who lives inside her.",
+      "source": "https://en.wikipedia.org/wiki/Nicki_Minaj%27s_alter_ego_%27Roman_Zolanski"
+    },
+    {
+      "text": "Doja Cat originally gained viral fame through her comedic song 'Mooo!' in 2018, in which she raps about being a cow.",
+      "source": "https://en.wikipedia.org/wiki/Doja_Cat"
+    },
+    {
+      "text": "SZA worked at a Sephora store before signing with Top Dawg Entertainment and launching her music career.",
+      "source": "https://en.wikipedia.org/wiki/Top_Dawg_Entertainment_and"
+    },
+    {
+      "text": "Katy Perry was originally signed as a gospel artist under her real name, Katheryn Hudson, before transitioning to pop music.",
+      "source": "https://en.wikipedia.org/wiki/Katy_Perry"
+    },
+    {
+      "text": "Selena Gomez launched the mental health platform Wondermind in 2022, focusing on making mental fitness accessible and destigmatized.",
+      "source": "https://en.wikipedia.org/wiki/Selena_Gomez"
+    },
+    {
+      "text": "Miley Cyrus was named Destiny Hope Cyrus at birth, but her parents nicknamed her 'Smiley' which was later shortened to 'Miley.'",
+      "source": "https://en.wikipedia.org/wiki/Miley_Cyrus"
+    },
+    {
+      "text": "Tina Turner became a Swiss citizen in 2013 and renounced her American citizenship, living near Zurich until her passing in 2023.",
+      "source": "https://en.wikipedia.org/wiki/Tina_Turner"
+    },
+    {
+      "text": "Diana Ross was nominated for an Academy Award for Best Actress for her portrayal of Billie Holiday in the 1972 film 'Lady Sings the Blues.'",
+      "source": "https://en.wikipedia.org/wiki/Diana_Ross"
+    },
+    {
+      "text": "Donna Summer earned the nickname 'Queen of Disco' after the massive success of hits like 'Hot Stuff,' 'Bad Girls,' and 'Last Dance.'",
+      "source": "https://en.wikipedia.org/wiki/Donna_Summer"
+    },
+    {
+      "text": "Madonna's 'Blond Ambition World Tour' in 1990 was called 'the greatest concert of the decade' and revolutionized live pop performances.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Madonna%27s_%27Blond_Ambition_World_Tour%27_in_1990"
+    },
+    {
+      "text": "Whitney Houston's national anthem performance at Super Bowl XXV in 1991 is widely considered the greatest live rendition of 'The Star-Spangled Banner' ever recorded.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Whitney_Houston%27s_national_anthem_performance_at_Super_Bowl_XXV_in_1991"
+    },
+    {
+      "text": "Mariah Carey possesses a five-octave vocal range and is known for her use of the whistle register, a technique few pop singers can master.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Mariah_Carey_possesses_a_five-octave_vocal_range_and"
+    },
+    {
+      "text": "Beyoncé's visual album 'Lemonade' debuted as an HBO special in 2016 and is considered one of the most important artistic statements in modern music.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Beyonc%C3%A9%27s_visual_album_%27Lemonade%27_debuted_as_an_HBO_special_in_2016_and"
+    },
+    {
+      "text": "Lady Gaga studied at the Collaborative Arts Project 21 at NYU's Tisch School of the Arts before dropping out to pursue music full-time.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Lady_Gaga"
+    },
+    {
+      "text": "Rihanna is the first woman to create an original brand with LVMH, launching her luxury fashion house Fenty in 2019.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Rihanna"
+    },
+    {
+      "text": "Adele's vocal cord hemorrhage in 2011 required surgery and temporarily threatened to end her singing career before her triumphant return with '25.'",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Pop_Divas"
+    },
+    {
+      "text": "Taylor Swift's 'Eras Tour,' which began in 2023, became the highest-grossing concert tour in history, surpassing $2 billion in revenue.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Taylor_Swift%27s_%27Eras_Tour%2C%27_which_began_in_2023"
+    },
+    {
+      "text": "Ariana Grande was cast as Glinda in the film adaptation of the musical 'Wicked,' expanding her career from pop star to major film actress.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Ariana_Grande"
+    },
+    {
+      "text": "Britney Spears' 'In the Zone' in 2003 was largely self-produced, showcasing her creative control despite her manufactured pop-star image.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Britney_Spears%27_%27In_the_Zone%27_in_2003"
+    },
+    {
+      "text": "Christina Aguilera was on the 'New Mickey Mouse Club' alongside Britney Spears, Justin Timberlake, Ryan Gosling, and JC Chasez.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Christina_Aguilera"
+    },
+    {
+      "text": "Janet Jackson negotiated an $80 million contract with Virgin Records in 1996, which was the largest recording contract in music history at that time.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Janet_Jackson_negotiated_an_%2480_million_contract_with_Virgin_Records_in_1996%2C_which"
+    },
+    {
+      "text": "Cher's farewell tour, 'Living Proof: The Farewell Tour,' ran from 2002 to 2005 and grossed over $250 million, becoming one of the highest-grossing tours ever.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Cher%27s_farewell_tour%2C_%27Living_Proof:_The_Farewell_Tour"
+    },
+    {
+      "text": "Celine Dion learned to speak English at age 18 specifically to cross over into the English-language music market from her French-language roots.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Celine_Dion"
+    },
+    {
+      "text": "P!nk received a star on the Hollywood Walk of Fame in 2019, recognized for her contributions to the recording industry.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Hollywood_Walk_of_Fame"
+    },
+    {
+      "text": "Shakira founded the Pies Descalzos Foundation in 1997 to provide education and meals to impoverished children in Colombia.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Shakira"
+    },
+    {
+      "text": "Jennifer Lopez's 2001 album 'J.Lo' and film 'The Wedding Planner' both reached number one in the same week, a first in entertainment history.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Jennifer_Lopez%27s_2001_album_%27J.Lo%27_and_film_%27The_Wedding_Planner%27_both"
+    },
+    {
+      "text": "Dua Lipa worked as a waitress and nightclub hostess in London before landing her first recording contract.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Dua_Lipa"
+    },
+    {
+      "text": "Billie Eilish wrote the theme song for the James Bond film 'No Time to Die' at age 17, becoming the youngest artist to record a Bond theme.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Billie_Eilish"
+    },
+    {
+      "text": "Olivia Rodrigo visited the White House in 2021 to encourage young people to get vaccinated against COVID-19.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Olivia_Rodrigo"
+    },
+    {
+      "text": "Lizzo's 2019 hit 'Truth Hurts' reached number one on the Billboard Hot 100 more than two years after its original release, thanks to a viral TikTok trend.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Lizzo%27s_2019_hit_%27Truth_Hurts"
+    },
+    {
+      "text": "Nicki Minaj grew up in Queens, New York, after moving from Trinidad and Tobago at age five, and she credits the borough for shaping her artistic identity.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Nicki_Minaj"
+    },
+    {
+      "text": "Doja Cat taught herself to sing, rap, and produce music using GarageBand as a teenager, uploading her early work to SoundCloud.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Doja_Cat"
+    },
+    {
+      "text": "SZA's stage name is an acronym derived from the Supreme Alphabet, standing for Sovereign, Zig-zag, and Authority.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/SZA%27s_stage_name"
+    },
+    {
+      "text": "Katy Perry's hit 'Roar' was inspired by a motivational quote she saw that read 'What would you do if you weren't afraid?'",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Katy_Perry%27s_hit_%27Roar"
+    },
+    {
+      "text": "Selena Gomez was named after Tejano music legend Selena Quintanilla, and her parents chose the name before the singer's tragic death in 1995.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Selena_Gomez"
+    },
+    {
+      "text": "Miley Cyrus's godmother is Dolly Parton, who has remained a close family friend and musical influence throughout Miley's life.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Miley_Cyrus%27s_godmother"
+    },
+    {
+      "text": "Tina Turner sold more concert tickets than any other solo performer in history during the 1980s and 1990s.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Tina_Turner"
+    },
+    {
+      "text": "Diana Ross was inducted into the Rock and Roll Hall of Fame in 1988 as a member of The Supremes and has been considered for a second solo induction.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Rock_and_Roll_Hall_of_Fame"
+    },
+    {
+      "text": "Donna Summer painted extensively later in her career and several of her artworks have been exhibited in galleries.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Donna_Summer_painted_extensively_later_in_her_career_and_several_of_her_artworks"
+    },
+    {
+      "text": "Madonna directed two feature films, 'Filth and Wisdom' in 2008 and 'W.E.' in 2011, showcasing her ambitions beyond the music industry.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Filth_and_Wisdom%27_in_2008_and"
+    },
+    {
+      "text": "Whitney Houston's 'The Bodyguard' soundtrack has sold over 45 million copies, making it the best-selling soundtrack album of all time.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Whitney_Houston%27s_%27The_Bodyguard%27_soundtrack"
+    },
+    {
+      "text": "Mariah Carey's 'All I Want for Christmas Is You' did not reach number one on the Billboard Hot 100 until 25 years after its release in 2019.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Mariah_Carey%27s_%27All_I_Want_for_Christmas"
+    },
+    {
+      "text": "Beyoncé created an all-female touring band called the Suga Mama's, ensuring women were represented in every musical role on stage.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Beyonc%C3%A9"
+    },
+    {
+      "text": "Lady Gaga suffers from fibromyalgia, a chronic pain condition that has occasionally forced her to cancel tour dates.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Lady_Gaga_suffers_from_fibromyalgia%2C_a_chronic_pain_condition_that"
+    },
+    {
+      "text": "Rihanna's real first name is Robyn, and she grew up in Bridgetown, Barbados, where she was discovered by producer Evan Rogers.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Rihanna%27s_real_first_name"
+    },
+    {
+      "text": "Adele turned down millions of dollars in endorsement deals because she did not want to be associated with brands that could compromise her artistic integrity.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Adele"
+    },
+    {
+      "text": "Taylor Swift has donated millions to disaster relief, education, and arts organizations, often making her contributions quietly without publicity.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Taylor_Swift"
+    },
+    {
+      "text": "Ariana Grande's song 'No Tears Left to Cry' was written as a tribute to the victims of the 2017 Manchester Arena bombing at her concert.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Ariana_Grande%27s_song_%27No_Tears_Left_to_Cry"
+    },
+    {
+      "text": "Britney Spears' Las Vegas residency 'Piece of Me' ran for four years and grossed over $137 million.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Britney_Spears%27_Las_Vegas_residency_%27Piece_of_Me"
+    },
+    {
+      "text": "Christina Aguilera recorded 'Reflection' for the Disney film 'Mulan' when she was just 16 years old, launching her career.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Christina_Aguilera"
+    },
+    {
+      "text": "Janet Jackson's 'Control' album in 1986 was a deliberate statement of independence from her famous family, with lyrics she helped write.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Janet_Jackson%27s_%27Control%27_album_in_1986"
+    },
+    {
+      "text": "Cher pioneered the use of Auto-Tune as a deliberate vocal effect on her 1998 hit 'Believe,' influencing pop production for decades.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Pop_Divas"
+    },
+    {
+      "text": "P!nk trained as a competitive gymnast before turning to music, and her athletic background enables her acrobatic concert performances.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Pop_Divas"
+    },
+    {
+      "text": "Shakira's hips-focused dancing style draws from her Lebanese and Colombian heritage, blending belly dance with Latin American movement.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Lebanese_and_Colombian"
+    },
+    {
+      "text": "Dua Lipa's father, Dukagjin Lipa, is a well-known rock singer in Kosovo, and music ran in her family.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Dua_Lipa%27s_father%2C_Dukagjin_Lipa"
+    },
+    {
+      "text": "Billie Eilish has synesthesia, a condition that causes her to see colors, shapes, and movements when she hears music.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Billie_Eilish"
+    },
+    {
+      "text": "Nicki Minaj studied acting at LaGuardia High School of Music & Art and Performing Arts, the school that inspired the movie 'Fame.'",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Nicki_Minaj"
+    },
+    {
+      "text": "Doja Cat's real name is Amala Ratna Zandile Dlamini, and she is of South African and Jewish American descent.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Doja_Cat%27s_real_name"
+    },
+    {
+      "text": "Katy Perry was the first artist to have three songs surpass one billion views each on YouTube: 'Roar,' 'Dark Horse,' and 'Firework.'",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Katy_Perry"
+    },
+    {
+      "text": "Miley Cyrus recorded the demo for 'Hannah Montana' when she was just 11 years old and beat out hundreds of other young actresses for the role.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Miley_Cyrus"
+    },
+    {
+      "text": "Tina Turner's autobiography 'I, Tina' was adapted into the 1993 film 'What's Love Got to Do with It,' starring Angela Bassett.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Tina_Turner%27s_autobiography_%27I%2C_Tina"
+    },
+    {
+      "text": "Diana Ross personally selected the members of The Supremes' lineup changes throughout the group's tenure at Motown Records.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Diana_Ross"
+    },
+    {
+      "text": "Donna Summer co-wrote many of her hits at a time when female pop artists rarely had input in the songwriting process.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Donna_Summer_co-wrote_many_of_her_hits_at_a_time_when_female_pop_artists_rarely"
+    },
+    {
+      "text": "Jennifer Lopez's engagement ring from Ben Affleck in 2002, a 6.1-carat pink diamond, helped popularize colored engagement rings in popular culture.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Jennifer_Lopez%27s_engagement_ring_from_Ben_Affleck_in_2002%2C_a_6.1-carat_pink_diamond"
+    },
+    {
+      "text": "Selena Gomez co-founded Rare Beauty, which donates one percent of all sales to the Rare Impact Fund for mental health services.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Selena_Gomez"
+    },
+    {
+      "text": "SZA studied marine biology at Delaware State University before pivoting to a career in music.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Delaware_State_University"
+    },
+    {
+      "text": "Olivia Rodrigo's 'drivers license' was partly inspired by her experience on the Disney+ series 'High School Musical: The Musical: The Series.'",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Olivia_Rodrigo%27s_%27drivers_license"
+    },
+    {
+      "text": "Lizzo is classically trained on the flute and has performed on a 200-year-old crystal flute once owned by President James Madison.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Lizzo"
+    },
+    {
+      "text": "Celine Dion won the Eurovision Song Contest in 1988 representing Switzerland, which helped launch her international career.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Celine_Dion"
+    },
+    {
+      "text": "Madonna released her self-titled debut album on July 27, 1983, launching one of the most successful careers in music history.",
+      "month": 7,
+      "day": 27,
+      "source": "https://en.wikipedia.org/wiki/Madonna"
+    },
+    {
+      "text": "Whitney Houston was born on August 9, 1963, in Newark, New Jersey, into a family of celebrated gospel and soul singers.",
+      "month": 8,
+      "day": 9,
+      "source": "https://en.wikipedia.org/wiki/Whitney_Houston"
+    },
+    {
+      "text": "Mariah Carey was born on March 27, 1969, in Huntington, New York, to a Venezuelan-African American father and an Irish American mother.",
+      "month": 3,
+      "day": 27,
+      "source": "https://en.wikipedia.org/wiki/Mariah_Carey"
+    },
+    {
+      "text": "Beyoncé was born on September 4, 1981, in Houston, Texas, and began performing in singing and dancing competitions as a child.",
+      "month": 9,
+      "day": 4,
+      "source": "https://en.wikipedia.org/wiki/Beyonc%C3%A9"
+    },
+    {
+      "text": "Lady Gaga was born Stefani Joanne Angelina Germanotta on March 28, 1986, in New York City.",
+      "month": 3,
+      "day": 28,
+      "source": "https://en.wikipedia.org/wiki/Lady_Gaga"
+    },
+    {
+      "text": "Rihanna was born on February 20, 1988, in Saint Michael, Barbados, and moved to the United States at age 16 to pursue music.",
+      "month": 2,
+      "day": 20,
+      "source": "https://en.wikipedia.org/wiki/Rihanna"
+    },
+    {
+      "text": "Adele released her record-breaking album '21' on January 24, 2011, which went on to become a global phenomenon.",
+      "month": 1,
+      "day": 24,
+      "source": "https://en.wikipedia.org/wiki/Adele"
+    },
+    {
+      "text": "Taylor Swift was born on December 13, 1989, in West Reading, Pennsylvania, and moved to Nashville at age 14 to pursue country music.",
+      "month": 12,
+      "day": 13,
+      "source": "https://en.wikipedia.org/wiki/Taylor_Swift"
+    },
+    {
+      "text": "Ariana Grande was born on June 26, 1993, in Boca Raton, Florida, and began performing in local theater productions at age eight.",
+      "month": 6,
+      "day": 26,
+      "source": "https://en.wikipedia.org/wiki/Ariana_Grande"
+    },
+    {
+      "text": "Britney Spears was born on December 2, 1981, in McComb, Mississippi, and was raised in Kentwood, Louisiana.",
+      "month": 12,
+      "day": 2,
+      "source": "https://en.wikipedia.org/wiki/Britney_Spears"
+    },
+    {
+      "text": "Christina Aguilera was born on December 18, 1980, on Staten Island, New York, and spent her early childhood in various locations due to her father's military service.",
+      "month": 12,
+      "day": 18,
+      "source": "https://en.wikipedia.org/wiki/Christina_Aguilera"
+    },
+    {
+      "text": "Janet Jackson was born on May 16, 1966, in Gary, Indiana, the youngest of the Jackson family's children.",
+      "month": 5,
+      "day": 16,
+      "source": "https://en.wikipedia.org/wiki/Janet_Jackson"
+    },
+    {
+      "text": "Cher was born Cherilyn Sarkisian on May 20, 1946, in El Centro, California.",
+      "month": 5,
+      "day": 20,
+      "source": "https://en.wikipedia.org/wiki/Cher"
+    },
+    {
+      "text": "Celine Dion was born on March 30, 1968, in Charlemagne, Quebec, Canada, the youngest of 14 children.",
+      "month": 3,
+      "day": 30,
+      "source": "https://en.wikipedia.org/wiki/Celine_Dion"
+    },
+    {
+      "text": "P!nk was born Alecia Beth Moore on September 8, 1979, in Doylestown, Pennsylvania.",
+      "month": 9,
+      "day": 8,
+      "source": "https://en.wikipedia.org/wiki/P%21nk"
+    },
+    {
+      "text": "Shakira was born on February 2, 1977, in Barranquilla, Colombia, and wrote her first song at age eight.",
+      "month": 2,
+      "day": 2,
+      "source": "https://en.wikipedia.org/wiki/Shakira"
+    },
+    {
+      "text": "Jennifer Lopez was born on July 24, 1969, in the Bronx, New York, to Puerto Rican parents.",
+      "month": 7,
+      "day": 24,
+      "source": "https://en.wikipedia.org/wiki/Jennifer_Lopez"
+    },
+    {
+      "text": "Dua Lipa was born on August 22, 1995, in London, England, to Kosovar Albanian parents.",
+      "month": 8,
+      "day": 22,
+      "source": "https://en.wikipedia.org/wiki/Dua_Lipa"
+    },
+    {
+      "text": "Billie Eilish was born on December 18, 2001, in Los Angeles, California, and was homeschooled along with her brother Finneas.",
+      "month": 12,
+      "day": 18,
+      "source": "https://en.wikipedia.org/wiki/Billie_Eilish"
+    },
+    {
+      "text": "Olivia Rodrigo was born on February 20, 2003, in Murrieta, California, and began acting in television commercials as a child.",
+      "month": 2,
+      "day": 20,
+      "source": "https://en.wikipedia.org/wiki/Olivia_Rodrigo"
+    },
+    {
+      "text": "Lizzo was born Melissa Viviane Jefferson on April 27, 1988, in Detroit, Michigan.",
+      "month": 4,
+      "day": 27,
+      "source": "https://en.wikipedia.org/wiki/Lizzo"
+    },
+    {
+      "text": "Nicki Minaj was born Onika Tanya Maraj on December 8, 1982, in Saint James, Trinidad and Tobago.",
+      "month": 12,
+      "day": 8,
+      "source": "https://en.wikipedia.org/wiki/Nicki_Minaj"
+    },
+    {
+      "text": "Doja Cat was born Amala Ratna Zandile Dlamini on October 21, 1995, in Los Angeles, California.",
+      "month": 10,
+      "day": 21,
+      "source": "https://en.wikipedia.org/wiki/Doja_Cat"
+    },
+    {
+      "text": "SZA was born Solána Imani Rowe on November 8, 1989, in St. Louis, Missouri.",
+      "month": 11,
+      "day": 8,
+      "source": "https://en.wikipedia.org/wiki/SZA"
+    },
+    {
+      "text": "Katy Perry was born Katheryn Elizabeth Hudson on October 25, 1984, in Santa Barbara, California.",
+      "month": 10,
+      "day": 25,
+      "source": "https://en.wikipedia.org/wiki/Katy_Perry"
+    },
+    {
+      "text": "Selena Gomez was born on July 22, 1992, in Grand Prairie, Texas, and was named after Tejano singer Selena Quintanilla.",
+      "month": 7,
+      "day": 22,
+      "source": "https://en.wikipedia.org/wiki/Selena_Gomez"
+    },
+    {
+      "text": "Miley Cyrus was born Destiny Hope Cyrus on November 23, 1992, in Nashville, Tennessee.",
+      "month": 11,
+      "day": 23,
+      "source": "https://en.wikipedia.org/wiki/Miley_Cyrus"
+    },
+    {
+      "text": "Tina Turner was born Anna Mae Bullock on November 26, 1939, in Brownsville, Tennessee.",
+      "month": 11,
+      "day": 26,
+      "source": "https://en.wikipedia.org/wiki/Tina_Turner"
+    },
+    {
+      "text": "Diana Ross was born on March 26, 1944, in Detroit, Michigan, and grew up in the Brewster-Douglass housing projects.",
+      "month": 3,
+      "day": 26,
+      "source": "https://en.wikipedia.org/wiki/Diana_Ross"
+    },
+    {
+      "text": "Donna Summer was born LaDonna Adrian Gaines on December 31, 1948, in the Dorchester neighborhood of Boston, Massachusetts.",
+      "month": 12,
+      "day": 31,
+      "source": "https://en.wikipedia.org/wiki/Donna_Summer"
+    },
+    {
+      "text": "Donna Summer passed away on May 17, 2012, at age 63, leaving behind a legacy as the undisputed Queen of Disco.",
+      "month": 5,
+      "day": 17,
+      "source": "https://en.wikipedia.org/wiki/Donna_Summer"
+    },
+    {
+      "text": "Whitney Houston passed away on February 11, 2012, and was posthumously inducted into the Rock and Roll Hall of Fame in 2020.",
+      "month": 2,
+      "day": 11,
+      "source": "https://en.wikipedia.org/wiki/Rock_and_Roll_Hall_of_Fame"
+    },
+    {
+      "text": "Tina Turner passed away on May 24, 2023, at her home in Küsnacht, Switzerland, at the age of 83.",
+      "month": 5,
+      "day": 24,
+      "source": "https://en.wikipedia.org/wiki/Tina_Turner"
+    },
+    {
+      "text": "Taylor Swift's album 'Midnights' was released on October 21, 2022, and broke the Spotify record for most-streamed album in a single day.",
+      "month": 10,
+      "day": 21,
+      "source": "https://en.wikipedia.org/wiki/Taylor_Swift%27s_album_%27Midnights"
+    },
+    {
+      "text": "Beyoncé's album 'Renaissance' was released on July 29, 2022, and debuted at number one on the Billboard 200.",
+      "month": 7,
+      "day": 29,
+      "source": "https://en.wikipedia.org/wiki/Beyonc%C3%A9%27s_album_%27Renaissance"
+    },
+    {
+      "text": "Adele's hit single 'Hello' was released on October 23, 2015, and broke multiple streaming records within 24 hours of its release.",
+      "month": 10,
+      "day": 23,
+      "source": "https://en.wikipedia.org/wiki/Adele%27s_hit_single_%27Hello"
+    },
+    {
+      "text": "Madonna's iconic performance of 'Like a Virgin' at the first MTV Video Music Awards took place on September 14, 1984.",
+      "month": 9,
+      "day": 14,
+      "source": "https://en.wikipedia.org/wiki/Madonna%27s_iconic_performance_of_%27Like_a_Virgin%27_at_the_first_MTV_Video_Music_Awards"
+    },
+    {
+      "text": "Madonna's 'Hung Up' sampled ABBA's 'Gimme! Gimme! Gimme!' and became a worldwide hit, reaching number one in 41 countries in 2005.",
+      "source": "https://en.wikipedia.org/wiki/Madonna%27s_%27Hung_Up%27_sampled_ABBA%27s_%27Gimme%21_Gimme%21_Gimme%21%27_and"
+    },
+    {
+      "text": "Whitney Houston sang in the junior gospel choir at New Hope Baptist Church in Newark, beginning her vocal training at age 11.",
+      "source": "https://en.wikipedia.org/wiki/Whitney_Houston"
+    },
+    {
+      "text": "Mariah Carey's 'Music Box' album spent eight weeks at number one on the Billboard 200 and has sold over 28 million copies worldwide.",
+      "source": "https://en.wikipedia.org/wiki/Mariah_Carey%27s_%27Music_Box%27_album"
+    },
+    {
+      "text": "Beyoncé's alter ego 'Sasha Fierce' was created to help her overcome stage shyness and deliver more confident live performances.",
+      "source": "https://en.wikipedia.org/wiki/Beyonc%C3%A9%27s_alter_ego_%27Sasha_Fierce"
+    },
+    {
+      "text": "Lady Gaga won the Academy Award for Best Original Song for 'Shallow' from 'A Star Is Born' in 2019.",
+      "source": "https://en.wikipedia.org/wiki/Lady_Gaga"
+    },
+    {
+      "text": "Rihanna's album 'Anti' went platinum within 15 hours of its release thanks to a Samsung-sponsored free download promotion in 2016.",
+      "source": "https://en.wikipedia.org/wiki/Pop_Divas"
+    },
+    {
+      "text": "Adele requested that her album '25' not be available on streaming services at launch, insisting on physical and download sales.",
+      "source": "https://en.wikipedia.org/wiki/Pop_Divas"
+    },
+    {
+      "text": "Taylor Swift's 'Fearless' became the best-selling album of 2009 in the United States and won the Grammy for Album of the Year.",
+      "source": "https://en.wikipedia.org/wiki/Taylor_Swift%27s_%27Fearless"
+    },
+    {
+      "text": "Ariana Grande's 'Thank U, Next' music video paid homage to four iconic movies: 'Mean Girls,' 'Legally Blonde,' '13 Going on 30,' and 'Bring It On.'",
+      "source": "https://en.wikipedia.org/wiki/Ariana_Grande%27s"
+    },
+    {
+      "text": "Britney Spears performed with a live python draped over her shoulders at the 2001 MTV Video Music Awards during 'I'm a Slave 4 U.'",
+      "source": "https://en.wikipedia.org/wiki/Britney_Spears"
+    },
+    {
+      "text": "Christina Aguilera earned the nickname 'The Voice of a Generation' for her powerful vocal performances throughout the 2000s.",
+      "source": "https://en.wikipedia.org/wiki/Christina_Aguilera"
+    },
+    {
+      "text": "Janet Jackson acted in television shows 'Good Times,' 'Diff'rent Strokes,' and 'Fame' before launching her solo music career.",
+      "source": "https://en.wikipedia.org/wiki/Janet_Jackson"
+    },
+    {
+      "text": "Cher's career has spanned over six decades, encompassing music, film, television, and Broadway.",
+      "source": "https://en.wikipedia.org/wiki/Cher%27s_career"
+    },
+    {
+      "text": "Celine Dion's Las Vegas residency 'A New Day...' ran from 2003 to 2007 and grossed over $385 million over 717 shows.",
+      "source": "https://en.wikipedia.org/wiki/Celine_Dion%27s_Las_Vegas_residency_%27A_New_Day"
+    },
+    {
+      "text": "P!nk's real name Alecia Moore came up with her stage name partly as a reference to the character Mr. Pink from the film 'Reservoir Dogs.'",
+      "source": "https://en.wikipedia.org/wiki/Alecia_Moore"
+    },
+    {
+      "text": "Shakira's Super Bowl LIV halftime show performance with Jennifer Lopez in 2020 drew 103 million viewers and celebrated Latin culture.",
+      "source": "https://en.wikipedia.org/wiki/Shakira%27s_Super_Bowl_LIV"
+    },
+    {
+      "text": "Jennifer Lopez has starred in over 30 films, including 'Selena,' 'Out of Sight,' 'Maid in Manhattan,' and 'Hustlers.'",
+      "source": "https://en.wikipedia.org/wiki/Jennifer_Lopez"
+    },
+    {
+      "text": "Dua Lipa's album 'Future Nostalgia' won the Grammy Award for Best Pop Vocal Album in 2021.",
+      "source": "https://en.wikipedia.org/wiki/Dua_Lipa%27s_album_%27Future_Nostalgia"
+    },
+    {
+      "text": "Billie Eilish's bond theme 'No Time to Die' won the Academy Award for Best Original Song at the 2022 Oscars.",
+      "source": "https://en.wikipedia.org/wiki/Billie_Eilish%27s_bond_theme_%27No_Time_to_Die"
+    },
+    {
+      "text": "Olivia Rodrigo's 'good 4 u' drew comparisons to Paramore's 'Misery Business,' leading to Hayley Williams and Josh Farro receiving songwriting credits.",
+      "source": "https://en.wikipedia.org/wiki/Olivia_Rodrigo%27s"
+    },
+    {
+      "text": "Lizzo won the Emmy Award for Outstanding Competition Program for her show 'Lizzo's Watch Out for the Big Grrrls' in 2022.",
+      "source": "https://en.wikipedia.org/wiki/Lizzo"
+    },
+    {
+      "text": "Nicki Minaj's debut album 'Pink Friday' reached number one on the Billboard 200 in 2010 and has been certified triple platinum.",
+      "source": "https://en.wikipedia.org/wiki/Nicki_Minaj%27s_debut_album_%27Pink_Friday"
+    },
+    {
+      "text": "Doja Cat's album 'Planet Her' explored genres from pop and R&B to Afrobeats and dance music, showcasing her artistic range.",
+      "source": "https://en.wikipedia.org/wiki/Doja_Cat%27s"
+    },
+    {
+      "text": "SZA's debut studio album 'Ctrl' was released in 2017 and has been certified triple platinum, solidifying her as a leading voice in alternative R&B.",
+      "source": "https://en.wikipedia.org/wiki/SZA%27s_debut_studio_album_%27Ctrl"
+    },
+    {
+      "text": "Katy Perry served as a judge on 'American Idol' starting in 2018, becoming one of the highest-paid television personalities.",
+      "source": "https://en.wikipedia.org/wiki/Katy_Perry"
+    },
+    {
+      "text": "Selena Gomez starred as Alex Russo in the Disney Channel series 'Wizards of Waverly Place' from 2007 to 2012.",
+      "source": "https://en.wikipedia.org/wiki/Selena_Gomez"
+    },
+    {
+      "text": "Miley Cyrus's 'Wrecking Ball' was the first music video to reach 100 million views on Vevo within 24 hours of its release.",
+      "source": "https://en.wikipedia.org/wiki/Miley_Cyrus%27s_%27Wrecking_Ball"
+    },
+    {
+      "text": "Tina Turner's 'What's Love Got to Do with It' reached number one on the Billboard Hot 100 in 1984, her first and only solo chart-topper.",
+      "source": "https://en.wikipedia.org/wiki/Tina_Turner%27s_%27What%27s_Love_Got_to_Do_with_It"
+    },
+    {
+      "text": "Diana Ross left The Supremes in 1970 to pursue a solo career and released 'Ain't No Mountain High Enough,' which became her first solo number-one hit.",
+      "source": "https://en.wikipedia.org/wiki/Diana_Ross_left_The_Supremes_in_1970_to_pursue_a_solo_career_and"
+    },
+    {
+      "text": "Donna Summer recorded 'I Feel Love' with producer Giorgio Moroder, a groundbreaking electronic track that influenced electronic and dance music for decades.",
+      "source": "https://en.wikipedia.org/wiki/Donna_Summer"
+    },
+    {
+      "text": "Madonna adopted four children from Malawi and has been a vocal advocate for children's rights in Africa.",
+      "source": "https://en.wikipedia.org/wiki/Madonna_adopted_four_children_from_Malawi_and"
+    },
+    {
+      "text": "Whitney Houston's version of 'I Will Always Love You' was originally sung by Dolly Parton, who has praised Whitney's rendition as definitive.",
+      "source": "https://en.wikipedia.org/wiki/Whitney_Houston%27s_version_of_%27I_Will_Always_Love_You"
+    },
+    {
+      "text": "Mariah Carey has been nicknamed 'The Songbird Supreme' and is recognized for her melismatic singing style and emotional delivery.",
+      "source": "https://en.wikipedia.org/wiki/Mariah_Carey"
+    },
+    {
+      "text": "Beyoncé founded the athleisure brand Ivy Park, which later partnered with Adidas for multiple highly anticipated collections.",
+      "source": "https://en.wikipedia.org/wiki/Beyonc%C3%A9"
+    },
+    {
+      "text": "Lady Gaga's 'Born This Way' became an anthem for LGBTQ+ rights and self-acceptance upon its release in 2011.",
+      "source": "https://en.wikipedia.org/wiki/Lady_Gaga%27s_%27Born_This_Way"
+    },
+    {
+      "text": "Rihanna was appointed as Ambassador Extraordinary and Plenipotentiary of Barbados in 2018.",
+      "source": "https://en.wikipedia.org/wiki/Rihanna"
+    },
+    {
+      "text": "Adele won six Grammy Awards in a single night in 2012, matching Beyoncé's record for most Grammys won by a female artist in one ceremony.",
+      "source": "https://en.wikipedia.org/wiki/Adele"
+    },
+    {
+      "text": "Taylor Swift wrote her hit 'Love Story' in about 20 minutes on her bedroom floor, inspired by the story of Romeo and Juliet.",
+      "source": "https://en.wikipedia.org/wiki/Taylor_Swift"
+    },
+    {
+      "text": "Ariana Grande holds the record for the biggest streaming debut week for a pop album with 'Thank U, Next' in 2019.",
+      "source": "https://en.wikipedia.org/wiki/Ariana_Grande"
+    },
+    {
+      "text": "Britney Spears' debut single '...Baby One More Time' has sold over 10 million copies worldwide and is one of the best-selling singles of all time.",
+      "source": "https://en.wikipedia.org/wiki/Britney_Spears%27_debut_single_%27...Baby_One_More_Time"
+    },
+    {
+      "text": "Christina Aguilera's 'Beautiful' became an anti-bullying anthem and has been used in numerous campaigns promoting self-esteem.",
+      "source": "https://en.wikipedia.org/wiki/Christina_Aguilera%27s_%27Beautiful"
+    },
+    {
+      "text": "Janet Jackson's album 'janet.' in 1993 debuted at number one and featured the hit singles 'That's the Way Love Goes' and 'If.'",
+      "source": "https://en.wikipedia.org/wiki/Janet_Jackson%27s"
+    },
+    {
+      "text": "Cher underwent a dramatic image transformation in the late 1990s, returning to pop music with the dance-pop album 'Believe.'",
+      "source": "https://en.wikipedia.org/wiki/Pop_Divas"
+    },
+    {
+      "text": "Celine Dion has sold over 200 million records worldwide, making her one of the best-selling music artists of all time.",
+      "source": "https://en.wikipedia.org/wiki/Celine_Dion"
+    },
+    {
+      "text": "P!nk's hit 'So What' was written the day after she had a fight with her husband Carey Hart, and it reached number one worldwide.",
+      "source": "https://en.wikipedia.org/wiki/P%21nk%27s_hit_%27So_What"
+    },
+    {
+      "text": "Shakira is the most-streamed Latin female artist on Spotify and has collaborated with artists spanning multiple genres.",
+      "source": "https://en.wikipedia.org/wiki/Shakira"
+    },
+    {
+      "text": "Jennifer Lopez's 'On the Floor' featuring Pitbull was the fastest music video to reach 100 million views on YouTube at the time of its release.",
+      "source": "https://en.wikipedia.org/wiki/Jennifer_Lopez%27s_%27On_the_Floor%27_featuring_Pitbull"
+    },
+    {
+      "text": "Dua Lipa's 'Don't Start Now' was nominated for three Grammy Awards and became her signature hit from the 'Future Nostalgia' era.",
+      "source": "https://en.wikipedia.org/wiki/Dua_Lipa%27s_%27Don%27t_Start_Now"
+    },
+    {
+      "text": "Billie Eilish is a committed vegan and animal rights advocate who has used her platform to promote sustainable living.",
+      "source": "https://en.wikipedia.org/wiki/Billie_Eilish"
+    },
+    {
+      "text": "Olivia Rodrigo became the youngest artist to debut at number one on both the Billboard Hot 100 and the Billboard 200 simultaneously with 'drivers license' and 'SOUR.'",
+      "source": "https://en.wikipedia.org/wiki/Olivia_Rodrigo"
+    },
+    {
+      "text": "Lizzo's 'About Damn Time' won the Grammy Award for Record of the Year at the 65th Annual Grammy Awards in 2023.",
+      "source": "https://en.wikipedia.org/wiki/Lizzo%27s_%27About_Damn_Time"
+    },
+    {
+      "text": "Nicki Minaj's verse on Kanye West's 'Monster' in 2010 is widely regarded as one of the greatest rap verses in hip-hop history.",
+      "source": "https://en.wikipedia.org/wiki/Nicki_Minaj%27s_verse_on_Kanye_West%27s_%27Monster%27_in_2010"
+    },
+    {
+      "text": "Doja Cat won the Grammy Award for Best Pop Duo/Group Performance for 'Kiss Me More' featuring SZA in 2022.",
+      "source": "https://en.wikipedia.org/wiki/Doja_Cat"
+    },
+    {
+      "text": "SZA co-wrote Rihanna's 'Consideration,' which was featured as the opening track on Rihanna's album 'Anti.'",
+      "source": "https://en.wikipedia.org/wiki/SZA_co-wrote_Rihanna%27s_%27Consideration%2C%27_which"
+    },
+    {
+      "text": "Katy Perry's 'Firework' has become one of the most-used songs at celebrations and sporting events worldwide.",
+      "source": "https://en.wikipedia.org/wiki/Katy_Perry%27s_%27Firework"
+    },
+    {
+      "text": "Selena Gomez's 'Lose You to Love Me' debuted at number one on the Billboard Hot 100, her first chart-topper.",
+      "source": "https://en.wikipedia.org/wiki/Selena_Gomez%27s"
+    },
+    {
+      "text": "Miley Cyrus won her first Grammy Award in 2024 for Best Pop Solo Performance for her hit 'Flowers.'",
+      "source": "https://en.wikipedia.org/wiki/Miley_Cyrus"
+    },
+    {
+      "text": "Tina Turner was one of the first African American artists and the first female artist to be on the cover of Rolling Stone magazine.",
+      "source": "https://en.wikipedia.org/wiki/Tina_Turner"
+    },
+    {
+      "text": "Diana Ross hosted and produced the television special 'Diana!' in 1971, one of the first solo specials by an African American woman.",
+      "source": "https://en.wikipedia.org/wiki/Diana_Ross"
+    },
+    {
+      "text": "Donna Summer won five Grammy Awards during her career, including one for her hit 'Last Dance' from the film 'Thank God It's Friday.'",
+      "source": "https://en.wikipedia.org/wiki/Donna_Summer"
+    },
+    {
+      "text": "Madonna's 'Material Girl' music video was inspired by Marilyn Monroe's performance of 'Diamonds Are a Girl's Best Friend.'",
+      "source": "https://en.wikipedia.org/wiki/Madonna%27s_%27Material_Girl%27_music_video"
+    },
+    {
+      "text": "Whitney Houston was the first artist to have four consecutive number-one pop singles from a debut album.",
+      "source": "https://en.wikipedia.org/wiki/Whitney_Houston"
+    },
+    {
+      "text": "Mariah Carey produced and wrote most of the songs on her debut album, an unusual feat for a new artist in 1990.",
+      "source": "https://en.wikipedia.org/wiki/Mariah_Carey_produced_and"
+    },
+    {
+      "text": "Beyoncé's 'Single Ladies (Put a Ring on It)' dance routine, inspired by Bob Fosse choreography, became one of the most imitated dances in pop culture.",
+      "source": "https://en.wikipedia.org/wiki/Beyonc%C3%A9%27s_%27Single_Ladies_(Put_a_Ring_on_It)%27_dance_routine"
+    },
+    {
+      "text": "Lady Gaga's album 'Chromatica' explored themes of mental health, trauma, and healing through a lens of dance-pop and electronic music.",
+      "source": "https://en.wikipedia.org/wiki/Lady_Gaga%27s"
+    },
+    {
+      "text": "Rihanna performed at the Super Bowl LVII halftime show in 2023 while pregnant, delivering a critically acclaimed 13-minute medley.",
+      "source": "https://en.wikipedia.org/wiki/Rihanna"
+    },
+    {
+      "text": "Adele's 'Someone Like You' was the first song by a British female solo artist to debut at number one in both the UK and the US simultaneously.",
+      "source": "https://en.wikipedia.org/wiki/Adele%27s_%27Someone_Like_You"
+    },
+    {
+      "text": "Taylor Swift has been named Time magazine's Person of the Year in 2023 and has been on the magazine's cover multiple times.",
+      "source": "https://en.wikipedia.org/wiki/Taylor_Swift"
+    },
+    {
+      "text": "Ariana Grande's ponytail hairstyle was originally adopted to cover damage from years of hair dyeing for her role on 'Victorious.'",
+      "source": "https://en.wikipedia.org/wiki/Ariana_Grande%27s_ponytail_hairstyle"
+    },
+    {
+      "text": "Britney Spears released her memoir 'The Woman in Me' in 2023, which became one of the fastest-selling nonfiction books in history.",
+      "source": "https://en.wikipedia.org/wiki/Britney_Spears"
+    },
+    {
+      "text": "Christina Aguilera performed 'It's a Beautiful Day' at the 2015 NBA Finals, continuing her tradition of major sporting event performances.",
+      "source": "https://en.wikipedia.org/wiki/Christina_Aguilera"
+    },
+    {
+      "text": "Janet Jackson was the first woman to receive the MTV Video Vanguard Award, later renamed the Michael Jackson Video Vanguard Award.",
+      "source": "https://en.wikipedia.org/wiki/Janet_Jackson"
+    },
+    {
+      "text": "Cher has sold over 100 million records worldwide and remains one of the most enduring entertainers in show business history.",
+      "source": "https://en.wikipedia.org/wiki/Cher"
+    },
+    {
+      "text": "Celine Dion's husband and longtime manager René Angélil first heard her sing when she was 12 and was moved to tears by her voice.",
+      "source": "https://en.wikipedia.org/wiki/Celine_Dion%27s_husband_and_longtime_manager_Ren%C3%A9_Ang%C3%A9lil_first_heard_her_sing_when_she"
+    },
+    {
+      "text": "P!nk performed the national anthem at Super Bowl LII in 2018 while battling the flu, receiving widespread acclaim for her performance.",
+      "source": "https://en.wikipedia.org/wiki/P%21nk"
+    },
+    {
+      "text": "Shakira belly-danced at the 2020 Super Bowl halftime show, and her tongue trill became a viral meme within minutes.",
+      "source": "https://en.wikipedia.org/wiki/Shakira_belly-danced_at_the_2020_Super_Bowl_halftime_show%2C_and_her_tongue_trill"
+    },
+    {
+      "text": "Jennifer Lopez performed an iconic medley of Motown songs at the 2019 Grammy Awards, though the tribute drew mixed reactions.",
+      "source": "https://en.wikipedia.org/wiki/Jennifer_Lopez"
+    },
+    {
+      "text": "Dua Lipa won the Brit Award for Best Female Solo Artist twice, in 2018 and 2021.",
+      "source": "https://en.wikipedia.org/wiki/Dua_Lipa"
+    },
+    {
+      "text": "Billie Eilish directed the music video for her song 'Xanny,' showcasing her creative vision beyond just music.",
+      "source": "https://en.wikipedia.org/wiki/Billie_Eilish"
+    },
+    {
+      "text": "Olivia Rodrigo's 'vampire' debuted at number one on the Billboard Hot 100 in 2023, her second chart-topper.",
+      "source": "https://en.wikipedia.org/wiki/Olivia_Rodrigo%27s"
+    },
+    {
+      "text": "Lizzo was a member of indie groups including the Cornrow Clique, Grrrl Prty, the Chalice, and Ellypseas before going solo.",
+      "source": "https://en.wikipedia.org/wiki/Lizzo"
+    },
+    {
+      "text": "Nicki Minaj's 'Anaconda' music video broke the Vevo record for most views in 24 hours when it was released in 2014.",
+      "source": "https://en.wikipedia.org/wiki/Nicki_Minaj%27s"
+    },
+    {
+      "text": "Doja Cat performed a rap at the 2023 Met Gala while dressed as Karl Lagerfeld's cat Choupette.",
+      "source": "https://en.wikipedia.org/wiki/Doja_Cat"
+    },
+    {
+      "text": "SZA's 'Kill Bill' reached number one on the Billboard Hot 100, becoming her first solo chart-topping single.",
+      "source": "https://en.wikipedia.org/wiki/SZA%27s_%27Kill_Bill"
+    },
+    {
+      "text": "Katy Perry launched herself from a giant tiger prop during her performance at the Super Bowl XLIX halftime show in 2015.",
+      "source": "https://en.wikipedia.org/wiki/Katy_Perry"
+    },
+    {
+      "text": "Selena Gomez became an executive producer on the Netflix series '13 Reasons Why,' tackling teen mental health issues.",
+      "source": "https://en.wikipedia.org/wiki/Selena_Gomez"
+    },
+    {
+      "text": "Miley Cyrus host and performed on 'Saturday Night Live' multiple times, showcasing both her comedic and musical talents.",
+      "source": "https://en.wikipedia.org/wiki/Miley_Cyrus_host_and"
+    },
+    {
+      "text": "Tina Turner's duet 'It's Only Love' with Bryan Adams earned a Grammy nomination and became a rock radio staple.",
+      "source": "https://en.wikipedia.org/wiki/Tina_Turner%27s_duet_%27It%27s_Only_Love%27_with_Bryan_Adams"
+    },
+    {
+      "text": "Diana Ross's solo career produced hits like 'I'm Coming Out,' 'Upside Down,' and 'Chain Reaction.'",
+      "source": "https://en.wikipedia.org/wiki/Diana_Ross%27s"
+    },
+    {
+      "text": "Donna Summer's album 'Bad Girls' in 1979 spent five weeks at number one and featured both disco and rock-influenced tracks.",
+      "source": "https://en.wikipedia.org/wiki/Donna_Summer%27s_album_%27Bad_Girls%27_in_1979"
+    },
+    {
+      "text": "Madonna's 'Vogue' introduced the underground ballroom dance culture of vogueing to mainstream audiences in 1990.",
+      "source": "https://en.wikipedia.org/wiki/Madonna%27s_%27Vogue"
+    },
+    {
+      "text": "Whitney Houston mentored numerous young artists and was known for her generosity in the gospel and R&B communities.",
+      "source": "https://en.wikipedia.org/wiki/Whitney_Houston_mentored_numerous_young_artists_and"
+    },
+    {
+      "text": "Mariah Carey's 'The Emancipation of Mimi' in 2005 was a massive comeback album, debuting at number one and yielding the hit 'We Belong Together.'",
+      "source": "https://en.wikipedia.org/wiki/Mariah_Carey%27s_%27The_Emancipation_of_Mimi%27_in_2005"
+    },
+    {
+      "text": "Beyoncé surprise-released her self-titled album in 2013 with no prior promotion, changing how albums are launched in the streaming era.",
+      "source": "https://en.wikipedia.org/wiki/Pop_Divas"
+    },
+    {
+      "text": "Lady Gaga's debut album 'The Fame' spent over two years on the Billboard 200 chart.",
+      "source": "https://en.wikipedia.org/wiki/Lady_Gaga%27s_debut_album_%27The_Fame"
+    },
+    {
+      "text": "Rihanna has won nine Grammy Awards and 12 Billboard Music Awards throughout her career.",
+      "source": "https://en.wikipedia.org/wiki/Rihanna"
+    },
+    {
+      "text": "Adele wrote her debut album '19' in her bedroom and named it after her age at the time of recording.",
+      "source": "https://en.wikipedia.org/wiki/Adele"
+    },
+    {
+      "text": "Taylor Swift played Juliet in the music video for 'Love Story,' which became the most-viewed country music video at the time.",
+      "source": "https://en.wikipedia.org/wiki/Taylor_Swift_played_Juliet_in_the_music_video_for_%27Love_Story%2C%27_which"
+    },
+    {
+      "text": "Ariana Grande released five studio albums in just six years between 2013 and 2019, an unusually prolific output for a pop artist.",
+      "source": "https://en.wikipedia.org/wiki/Ariana_Grande"
+    },
+    {
+      "text": "Britney Spears' 'Toxic' won the Grammy Award for Best Dance Recording in 2005 and is considered one of the greatest pop songs ever made.",
+      "source": "https://en.wikipedia.org/wiki/Britney_Spears%27_%27Toxic"
+    },
+    {
+      "text": "Christina Aguilera's 'Lady Marmalade' collaboration with Lil' Kim, Mýa, and P!nk reached number one and won a Grammy in 2002.",
+      "source": "https://en.wikipedia.org/wiki/Christina_Aguilera%27s_%27Lady_Marmalade%27_collaboration_with_Lil%27_Kim%2C_M%C3%BDa%2C_and_P%21nk"
+    },
+    {
+      "text": "Janet Jackson's 'Together Again' became one of the top-selling singles of 1998, reaching number one in multiple countries.",
+      "source": "https://en.wikipedia.org/wiki/Janet_Jackson%27s_%27Together_Again"
+    },
+    {
+      "text": "Cher's 'If I Could Turn Back Time' music video, filmed on the USS Missouri, was initially banned from MTV due to her revealing outfit.",
+      "source": "https://en.wikipedia.org/wiki/Cher%27s_%27If_I_Could_Turn_Back_Time%27_music_video%2C_filmed_on_the_USS_Missouri"
+    },
+    {
+      "text": "Celine Dion's 'Because You Loved Me' was the theme song for the 1996 film 'Up Close and Personal' and reached number one on the Billboard Hot 100.",
+      "source": "https://en.wikipedia.org/wiki/Celine_Dion%27s_%27Because_You_Loved_Me"
+    },
+    {
+      "text": "P!nk's album 'Beautiful Trauma' debuted at number one in the United States, Australia, and several other countries in 2017.",
+      "source": "https://en.wikipedia.org/wiki/Beautiful_Trauma"
+    },
+    {
+      "text": "Shakira learned to belly dance by studying recordings of dancers from the Middle East and adapted the movements to her own style.",
+      "source": "https://en.wikipedia.org/wiki/Middle_East_and"
+    },
+    {
+      "text": "Jennifer Lopez's perfume line has generated over $2 billion in revenue, making it one of the most successful celebrity fragrance lines ever.",
+      "source": "https://en.wikipedia.org/wiki/Jennifer_Lopez%27s_perfume_line"
+    },
+    {
+      "text": "Dua Lipa co-wrote every track on 'Future Nostalgia,' demonstrating her growth as a songwriter and artist.",
+      "source": "https://en.wikipedia.org/wiki/Dua_Lipa"
+    },
+    {
+      "text": "Billie Eilish's album 'Happier Than Ever' debuted at number one on the Billboard 200 and in 24 other countries.",
+      "source": "https://en.wikipedia.org/wiki/Billie_Eilish%27s"
+    },
+    {
+      "text": "Olivia Rodrigo's 'GUTS' album in 2023 continued her blend of pop-punk and emotional songwriting, drawing comparisons to Alanis Morissette.",
+      "source": "https://en.wikipedia.org/wiki/Olivia_Rodrigo%27s"
+    },
+    {
+      "text": "Lizzo performed at the 2023 Grammy Awards and dedicated her performance to her fans who have supported her through controversies.",
+      "source": "https://en.wikipedia.org/wiki/Lizzo"
+    },
+    {
+      "text": "Nicki Minaj's 'Super Bass' was one of the best-selling songs of 2011 and introduced her music to a wider pop audience.",
+      "source": "https://en.wikipedia.org/wiki/Nicki_Minaj%27s_%27Super_Bass"
+    },
+    {
+      "text": "Doja Cat shaved her head and eyebrows in 2022 during an Instagram Live, explaining she had always wanted to try the look.",
+      "source": "https://en.wikipedia.org/wiki/Doja_Cat_shaved_her_head_and_eyebrows_in_2022_during_an_Instagram_Live%2C_explaining_she"
+    },
+    {
+      "text": "SZA collaborated with Kendrick Lamar on the Black Panther soundtrack for 'All the Stars,' which was nominated for an Academy Award.",
+      "source": "https://en.wikipedia.org/wiki/Kendrick_Lamar_on_the_Black_Panther"
+    },
+    {
+      "text": "Katy Perry's 'California Gurls' featuring Snoop Dogg was the song of the summer in 2010 and spent six weeks at number one.",
+      "source": "https://en.wikipedia.org/wiki/Katy_Perry%27s_%27California_Gurls%27_featuring_Snoop_Dogg"
+    },
+    {
+      "text": "Selena Gomez has spoken openly about her lupus diagnosis and kidney transplant in 2017, raising awareness for the autoimmune disease.",
+      "source": "https://en.wikipedia.org/wiki/Selena_Gomez"
+    },
+    {
+      "text": "Miley Cyrus's 'Party in the U.S.A.' has become a cultural anthem and is one of the most-played songs at American celebrations.",
+      "source": "https://en.wikipedia.org/wiki/Miley_Cyrus%27s_%27Party_in_the_U.S.A"
+    },
+    {
+      "text": "Tina Turner's energetic stage presence earned her the nickname 'the hardest working woman in show business.'",
+      "source": "https://en.wikipedia.org/wiki/Tina_Turner%27s_energetic_stage_presence"
+    },
+    {
+      "text": "Diana Ross performed a rain-soaked concert in Central Park in 1983 that drew an estimated 800,000 attendees.",
+      "source": "https://en.wikipedia.org/wiki/Diana_Ross"
+    },
+    {
+      "text": "Donna Summer transitioned from disco to pop-rock in the early 1980s with albums produced by Quincy Jones and David Geffen's label.",
+      "source": "https://en.wikipedia.org/wiki/Donna_Summer"
+    },
+    {
+      "text": "Madonna's 'Like a Prayer' music video was controversial for its religious imagery, leading Pepsi to pull a commercial featuring the song.",
+      "source": "https://en.wikipedia.org/wiki/Madonna%27s_%27Like_a_Prayer%27_music_video"
+    },
+    {
+      "text": "Whitney Houston starred alongside Denzel Washington in the 1996 film 'The Preacher's Wife,' showcasing her acting abilities.",
+      "source": "https://en.wikipedia.org/wiki/Whitney_Houston"
+    },
+    {
+      "text": "Mariah Carey has a Christmas tradition of celebrating her birthday month with themed events, earning her the title 'Queen of Christmas.'",
+      "source": "https://en.wikipedia.org/wiki/Mariah_Carey"
+    },
+    {
+      "text": "Beyoncé's performance at Coachella in 2018 made her the first Black woman to headline the festival and was later released as a concert film.",
+      "source": "https://en.wikipedia.org/wiki/Coachella"
+    },
+    {
+      "text": "Lady Gaga starred in 'A Star Is Born' alongside Bradley Cooper in 2018, earning critical acclaim for her acting debut.",
+      "source": "https://en.wikipedia.org/wiki/Lady_Gaga_starred_in_%27A_Star"
+    },
+    {
+      "text": "Rihanna's 'Umbrella' featuring Jay-Z spent seven consecutive weeks at number one on the Billboard Hot 100 in 2007.",
+      "source": "https://en.wikipedia.org/wiki/Rihanna%27s_%27Umbrella%27_featuring_Jay-Z"
+    },
+    {
+      "text": "Adele's 'Rolling in the Deep' won three Grammy Awards including Record of the Year and Song of the Year in 2012.",
+      "source": "https://en.wikipedia.org/wiki/Adele%27s_%27Rolling_in_the_Deep"
+    },
+    {
+      "text": "Taylor Swift became the first woman to win the Grammy for Album of the Year four times, with wins for 'Fearless,' '1989,' 'Folklore,' and 'Midnights.'",
+      "source": "https://en.wikipedia.org/wiki/Taylor_Swift"
+    },
+    {
+      "text": "Ariana Grande's album 'Sweetener' won the Grammy for Best Pop Vocal Album in 2019, her first Grammy win.",
+      "source": "https://en.wikipedia.org/wiki/Ariana_Grande%27s_album_%27Sweetener"
+    },
+    {
+      "text": "Britney Spears' 'Oops!... I Did It Again' sold over 1.3 million copies in its first week, setting a record for first-week sales by a female artist.",
+      "source": "https://en.wikipedia.org/wiki/Britney_Spears"
+    },
+    {
+      "text": "Christina Aguilera coached on 'The Voice' for multiple seasons, helping discover and develop new singing talent.",
+      "source": "https://en.wikipedia.org/wiki/Christina_Aguilera"
+    },
+    {
+      "text": "Janet Jackson was inducted into the Rock and Roll Hall of Fame in 2019, with a speech celebrating her independence and artistry.",
+      "source": "https://en.wikipedia.org/wiki/Rock_and_Roll_Hall_of_Fame"
+    },
+    {
+      "text": "Cher's half-breed Cherokee heritage has been a recurring theme in her music and public persona throughout her career.",
+      "source": "https://en.wikipedia.org/wiki/Cher%27s_half-breed_Cherokee_heritage"
+    },
+    {
+      "text": "Celine Dion's 'The Power of Love' was her first number-one single on the Billboard Hot 100, reaching the top spot in 1994.",
+      "source": "https://en.wikipedia.org/wiki/Celine_Dion%27s_%27The_Power_of_Love"
+    },
+    {
+      "text": "P!nk's 'Raise Your Glass' was the first song by a solo artist to debut at number one on the Billboard Hot 100 in 2010.",
+      "source": "https://en.wikipedia.org/wiki/P%21nk%27s_%27Raise_Your_Glass"
+    },
+    {
+      "text": "Shakira performed 'Whenever, Wherever' at the 2002 MTV Video Music Awards, introducing her signature stage presence to American audiences.",
+      "source": "https://en.wikipedia.org/wiki/Shakira"
+    },
+    {
+      "text": "Jennifer Lopez's role as Selena Quintanilla in the 1997 biopic 'Selena' earned her a Golden Globe nomination and critical praise.",
+      "source": "https://en.wikipedia.org/wiki/Jennifer_Lopez%27s_role_as_Selena_Quintanilla_in_the_1997_biopic_%27Selena"
+    },
+    {
+      "text": "Dua Lipa released 'Radical Optimism' in 2024, continuing her evolution from disco-pop into psychedelic rock-influenced territory.",
+      "source": "https://en.wikipedia.org/wiki/Dua_Lipa"
+    },
+    {
+      "text": "Billie Eilish became the youngest artist in history to be nominated for and win an Academy Award for Best Original Song.",
+      "source": "https://en.wikipedia.org/wiki/Billie_Eilish"
+    },
+    {
+      "text": "Olivia Rodrigo launched the SOUR Prom virtual concert event in 2021, creating a prom-themed celebration for fans during the pandemic.",
+      "source": "https://en.wikipedia.org/wiki/Olivia_Rodrigo"
+    },
+    {
+      "text": "Lizzo's song 'Juice' became an empowerment anthem and was featured in numerous commercials and television shows.",
+      "source": "https://en.wikipedia.org/wiki/Lizzo%27s_song_%27Juice"
+    },
+    {
+      "text": "Nicki Minaj's album 'Queen' debuted at number two on the Billboard 200 in 2018, behind Travis Scott's 'Astroworld.'",
+      "source": "https://en.wikipedia.org/wiki/Nicki_Minaj%27s"
+    },
+    {
+      "text": "Doja Cat won the MTV Video Music Award for Best New Artist in 2020, solidifying her breakout year.",
+      "source": "https://en.wikipedia.org/wiki/Doja_Cat"
+    },
+    {
+      "text": "SZA delayed her sophomore album 'SOS' for five years, but upon release it became one of the most acclaimed R&B albums of the 2020s.",
+      "source": "https://en.wikipedia.org/wiki/SZA_delayed_her_sophomore_album_%27SOS%27_for_five_years%2C_but_upon_release_it"
+    },
+    {
+      "text": "Katy Perry made history by being the first artist to have multiple videos surpass three billion views on YouTube.",
+      "source": "https://en.wikipedia.org/wiki/Katy_Perry_made_history_by_being_the_first_artist_to"
+    },
+    {
+      "text": "Selena Gomez starred in the Hulu series 'Only Murders in the Building' alongside Steve Martin and Martin Short, earning critical acclaim.",
+      "source": "https://en.wikipedia.org/wiki/Selena_Gomez"
+    },
+    {
+      "text": "Miley Cyrus's 'Bangerz' era in 2013 marked a dramatic departure from her Disney image, featuring provocative performances and mature themes.",
+      "source": "https://en.wikipedia.org/wiki/Miley_Cyrus%27s_%27Bangerz%27_era_in_2013"
+    },
+    {
+      "text": "Tina Turner won eight Grammy Awards during her career and was a two-time inductee into the Rock and Roll Hall of Fame.",
+      "source": "https://en.wikipedia.org/wiki/Rock_and_Roll_Hall_of_Fame"
+    },
+    {
+      "text": "Diana Ross received the Presidential Medal of Freedom in 2016 for her contributions to the arts and American culture.",
+      "source": "https://en.wikipedia.org/wiki/Diana_Ross"
+    },
+    {
+      "text": "Donna Summer's 'She Works Hard for the Money' became a feminist anthem in 1983, celebrating the struggles of working women.",
+      "source": "https://en.wikipedia.org/wiki/Donna_Summer%27s_%27She_Works_Hard_for_the_Money"
+    },
+    {
+      "text": "Madonna starred in the film 'Evita' in 1996, winning a Golden Globe Award for Best Actress in a Musical or Comedy.",
+      "source": "https://en.wikipedia.org/wiki/Madonna"
+    },
+    {
+      "text": "Whitney Houston holds the Guinness World Record for the most consecutive number-one singles by a female artist.",
+      "source": "https://en.wikipedia.org/wiki/Whitney_Houston"
+    },
+    {
+      "text": "Mariah Carey's 'Butterfly' album in 1997 represented a creative turning point as she moved toward hip-hop and R&B influences.",
+      "source": "https://en.wikipedia.org/wiki/Mariah_Carey%27s"
+    },
+    {
+      "text": "Beyoncé co-wrote and co-produced most of the songs on her album 'Renaissance,' drawing from house, disco, and Afrobeats genres.",
+      "source": "https://en.wikipedia.org/wiki/Pop_Divas"
+    },
+    {
+      "text": "Lady Gaga raised over $35 million for COVID-19 relief through her 'One World: Together at Home' concert special in 2020.",
+      "source": "https://en.wikipedia.org/wiki/Lady_Gaga"
+    },
+    {
+      "text": "Rihanna's Clara Lionel Foundation, named after her grandparents, funds education and emergency response programs around the world.",
+      "source": "https://en.wikipedia.org/wiki/Rihanna%27s_Clara_Lionel_Foundation"
+    },
+    {
+      "text": "Adele named all of her first three albums after the age she was when she wrote them: '19,' '21,' and '25.'",
+      "source": "https://en.wikipedia.org/wiki/Adele_named_all_of_her_first_three_albums_after_the_age_she"
+    },
+    {
+      "text": "Taylor Swift holds the record for the most American Music Awards won by any artist, surpassing Michael Jackson's previous record.",
+      "source": "https://en.wikipedia.org/wiki/Taylor_Swift_holds_the_record_for_the_most_American_Music_Awards"
+    },
+    {
+      "text": "Ariana Grande's four-octave vocal range has drawn comparisons to Mariah Carey, though Grande has cited Whitney Houston as her primary influence.",
+      "source": "https://en.wikipedia.org/wiki/Ariana_Grande%27s_four-octave_vocal_range"
+    },
+    {
+      "text": "Britney Spears' 'Crossroads' in 2002 was a coming-of-age film that earned over $61 million at the box office despite mixed reviews.",
+      "source": "https://en.wikipedia.org/wiki/Britney_Spears%27_%27Crossroads%27_in_2002"
+    },
+    {
+      "text": "Christina Aguilera recorded a Spanish-language album titled 'Mi Reflejo' in 2000 to honor her Ecuadorian heritage.",
+      "source": "https://en.wikipedia.org/wiki/Christina_Aguilera"
+    },
+    {
+      "text": "Janet Jackson's 'All for You' was the most-played song on American radio in 2001, with over 400 million radio impressions.",
+      "source": "https://en.wikipedia.org/wiki/Janet_Jackson%27s_%27All_for_You"
+    },
+    {
+      "text": "Cher's 1999 concert residency at the MGM Grand in Las Vegas was one of the earliest examples of a pop-star residency in Vegas.",
+      "source": "https://en.wikipedia.org/wiki/Cher%27s_1999_concert_residency_at_the_MGM_Grand_in_Las_Vegas"
+    },
+    {
+      "text": "Celine Dion's health challenges with stiff person syndrome brought global attention to the rare neurological condition.",
+      "source": "https://en.wikipedia.org/wiki/Celine_Dion%27s"
+    },
+    {
+      "text": "P!nk performed at the BRIT Awards 2019 and was honored with the Outstanding Contribution to Music award.",
+      "source": "https://en.wikipedia.org/wiki/P%21nk"
+    },
+    {
+      "text": "Shakira has won three Grammy Awards and 12 Latin Grammy Awards, making her one of the most decorated Latin artists.",
+      "source": "https://en.wikipedia.org/wiki/Shakira"
+    },
+    {
+      "text": "Jennifer Lopez headlined the Super Bowl LIV halftime show with Shakira, performing a medley of her greatest hits for over 100 million viewers.",
+      "source": "https://en.wikipedia.org/wiki/Jennifer_Lopez"
+    },
+    {
+      "text": "Dua Lipa set the record for most monthly listeners for a female artist on Spotify during her 'Future Nostalgia' era.",
+      "source": "https://en.wikipedia.org/wiki/Dua_Lipa"
+    },
+    {
+      "text": "Billie Eilish performed 'Happier Than Ever' at the 2022 Grammy Awards, delivering an intense rain-soaked performance.",
+      "source": "https://en.wikipedia.org/wiki/Billie_Eilish"
+    },
+    {
+      "text": "Olivia Rodrigo's second album 'GUTS' debuted at number one on the Billboard 200 in 2023.",
+      "source": "https://en.wikipedia.org/wiki/Olivia_Rodrigo%27s"
+    },
+    {
+      "text": "Lizzo has cited Beyoncé, Missy Elliott, and Queen Latifah as major influences on her music and performance style.",
+      "source": "https://en.wikipedia.org/wiki/Lizzo"
+    },
+    {
+      "text": "Nicki Minaj released 'Pink Friday 2' in 2023, her fifth studio album, which debuted at number one on the Billboard 200.",
+      "source": "https://en.wikipedia.org/wiki/Nicki_Minaj"
+    },
+    {
+      "text": "Doja Cat's rapid genre shifts between pop, hip-hop, R&B, and electronic music have made her one of the most unpredictable artists of her generation.",
+      "source": "https://en.wikipedia.org/wiki/Doja_Cat%27s_rapid_genre_shifts_between_pop%2C_hip-hop%2C_R%26B%2C_and_electronic_music"
+    },
+    {
+      "text": "SZA's song 'Good Days' was written during quarantine and reflected themes of healing and personal growth.",
+      "source": "https://en.wikipedia.org/wiki/SZA%27s_song_%27Good_Days"
+    },
+    {
+      "text": "Katy Perry performed at the inauguration celebration of President Joe Biden in January 2021, singing 'Firework' at the Lincoln Memorial.",
+      "source": "https://en.wikipedia.org/wiki/Katy_Perry"
+    },
+    {
+      "text": "Selena Gomez has sold over 210 million singles worldwide, making her one of the best-selling digital artists.",
+      "source": "https://en.wikipedia.org/wiki/Selena_Gomez"
+    },
+    {
+      "text": "Miley Cyrus covered Dolly Parton's 'Jolene' at multiple concerts, paying tribute to her godmother with emotional performances.",
+      "source": "https://en.wikipedia.org/wiki/Miley_Cyrus"
+    },
+    {
+      "text": "Tina Turner performed 'Proud Mary' with such high energy that it became her signature song, even though it was originally recorded by Creedence Clearwater Revival.",
+      "source": "https://en.wikipedia.org/wiki/Tina_Turner"
+    },
+    {
+      "text": "Diana Ross starred in the Motown film 'Mahogany' in 1975 and recorded its theme song 'Do You Know Where You're Going To,' which reached the top of the charts.",
+      "source": "https://en.wikipedia.org/wiki/Diana_Ross_starred_in_the_Motown_film_%27Mahogany%27_in_1975_and"
+    },
+    {
+      "text": "Donna Summer recorded 'On the Radio' in 1979, which was featured in the soundtrack of the film 'Foxes' and became one of her most enduring hits.",
+      "source": "https://en.wikipedia.org/wiki/Donna_Summer"
+    },
+    {
+      "text": "Madonna's 'Ray of Light' album in 1998 combined electronica with spiritual themes and won three Grammy Awards.",
+      "source": "https://en.wikipedia.org/wiki/Madonna%27s_%27Ray_of_Light%27_album_in_1998_combined_electronica_with_spiritual_themes_and"
+    },
+    {
+      "text": "Whitney Houston performed 'I Believe in You and Me' in the 1996 film 'The Preacher's Wife,' adding to her impressive catalog of film soundtrack recordings.",
+      "source": "https://en.wikipedia.org/wiki/Whitney_Houston"
+    },
+    {
+      "text": "Mariah Carey's 'Glitter' film and soundtrack were initially commercial disappointments in 2001, but the album later gained a cult following.",
+      "source": "https://en.wikipedia.org/wiki/Mariah_Carey%27s_%27Glitter%27_film_and_soundtrack"
+    },
+    {
+      "text": "Beyoncé's 'Destiny's Child' was one of the best-selling girl groups of all time, selling over 60 million records worldwide.",
+      "source": "https://en.wikipedia.org/wiki/Beyonc%C3%A9%27s_%27Destiny%27s_Child"
+    },
+    {
+      "text": "Lady Gaga performed the national anthem at Super Bowl 50 in 2016 and then headlined the Super Bowl LI halftime show in 2017.",
+      "source": "https://en.wikipedia.org/wiki/Lady_Gaga"
+    },
+    {
+      "text": "Rihanna returned to music with 'Lift Me Up' for the film 'Black Panther: Wakanda Forever' in 2022 after a six-year hiatus.",
+      "source": "https://en.wikipedia.org/wiki/Lift_Me_Up%27_for_the"
+    },
+    {
+      "text": "Adele's 'Set Fire to the Rain' was a global hit that reached the top five in more than 15 countries.",
+      "source": "https://en.wikipedia.org/wiki/Adele%27s_%27Set_Fire_to_the_Rain"
+    },
+    {
+      "text": "Taylor Swift hides Easter eggs in her music videos, album liner notes, and social media posts, encouraging fans to decode hidden messages.",
+      "source": "https://en.wikipedia.org/wiki/Taylor_Swift"
+    },
+    {
+      "text": "Ariana Grande's 'Positions' debuted at number one on the Billboard Hot 100 and the Billboard 200 simultaneously in 2020.",
+      "source": "https://en.wikipedia.org/wiki/Ariana_Grande%27s"
+    },
+    {
+      "text": "Britney Spears' perfume line 'Curious' and its sequels have generated over $1.5 billion in revenue since 2004.",
+      "source": "https://en.wikipedia.org/wiki/Britney_Spears%27_perfume_line_%27Curious%27_and_its_sequels"
+    },
+    {
+      "text": "Christina Aguilera performed 'Ain't No Other Man' at the 2006 MTV Video Music Awards in a performance that won high praise from critics.",
+      "source": "https://en.wikipedia.org/wiki/Christina_Aguilera"
+    },
+    {
+      "text": "Janet Jackson's 'The Velvet Rope' album explored themes of depression, domestic violence, and sexuality, pushing boundaries for mainstream pop in 1997.",
+      "source": "https://en.wikipedia.org/wiki/Janet_Jackson%27s"
+    },
+    {
+      "text": "Cher performed on the USS Missouri for the 'If I Could Turn Back Time' video in 1989, wearing a body-revealing outfit that drew both praise and criticism.",
+      "source": "https://en.wikipedia.org/wiki/Cher"
+    },
+    {
+      "text": "Celine Dion's duet 'Beauty and the Beast' with Peabo Bryson won the Academy Award for Best Original Song in 1992.",
+      "source": "https://en.wikipedia.org/wiki/Celine_Dion%27s_duet_%27Beauty_and_the_Beast%27_with_Peabo_Bryson"
+    },
+    {
+      "text": "P!nk's 'Just Like a Pill' was a top-ten hit in over 15 countries and showcased her ability to blend rock and pop sensibilities.",
+      "source": "https://en.wikipedia.org/wiki/P%21nk%27s_%27Just_Like_a_Pill"
+    },
+    {
+      "text": "Shakira recorded her first album 'Magia' at age 13, though it received limited commercial success in Colombia.",
+      "source": "https://en.wikipedia.org/wiki/Shakira"
+    },
+    {
+      "text": "Jennifer Lopez trained as a dancer before becoming a singer and actress, performing as a Fly Girl on the television show 'In Living Color.'",
+      "source": "https://en.wikipedia.org/wiki/Jennifer_Lopez"
+    },
+    {
+      "text": "Dua Lipa's 'New Rules' became a viral hit in 2017, and its music video has amassed over two billion views on YouTube.",
+      "source": "https://en.wikipedia.org/wiki/Dua_Lipa%27s_%27New_Rules"
+    },
+    {
+      "text": "Billie Eilish performed the In Memoriam segment at the 2020 Academy Awards, singing 'Yesterday' by The Beatles.",
+      "source": "https://en.wikipedia.org/wiki/Billie_Eilish"
+    },
+    {
+      "text": "Olivia Rodrigo embarked on the SOUR Tour in 2022, selling out dates across North America and Europe.",
+      "source": "https://en.wikipedia.org/wiki/Olivia_Rodrigo"
+    },
+    {
+      "text": "Lizzo played her flute Sasha Flute at the Library of Congress in 2022, performing on a crystal flute once owned by James Madison.",
+      "source": "https://en.wikipedia.org/wiki/Sasha_Flute_at_the_Library_of_Congress_in"
+    },
+    {
+      "text": "Nicki Minaj coined the term 'Barbz' for her fan base, which has become one of the most dedicated fanbases in music.",
+      "source": "https://en.wikipedia.org/wiki/Nicki_Minaj_coined_the_term_%27Barbz%27_for_her_fan_base%2C_which"
+    },
+    {
+      "text": "Doja Cat's 'Woman' became an anthem for female empowerment and was widely used in social media trends.",
+      "source": "https://en.wikipedia.org/wiki/Doja_Cat%27s_%27Woman"
+    },
+    {
+      "text": "SZA has cited Björk, Radiohead, and Lauryn Hill as major artistic influences on her music.",
+      "source": "https://en.wikipedia.org/wiki/SZA"
+    },
+    {
+      "text": "Katy Perry holds the record for most followers on Twitter among music artists, having surpassed 100 million followers.",
+      "source": "https://en.wikipedia.org/wiki/Katy_Perry"
+    },
+    {
+      "text": "Selena Gomez released a documentary titled 'My Mind & Me' on Apple TV+ in 2022, which explored her struggles with mental health.",
+      "source": "https://en.wikipedia.org/wiki/Selena_Gomez"
+    },
+    {
+      "text": "Miley Cyrus performed 'Wrecking Ball' on an actual wrecking ball at the 2013 American Music Awards, recreating the imagery from her music video.",
+      "source": "https://en.wikipedia.org/wiki/Miley_Cyrus"
+    },
+    {
+      "text": "Tina Turner lived in Switzerland for nearly three decades, embracing European culture and finding personal peace away from the spotlight.",
+      "source": "https://en.wikipedia.org/wiki/Tina_Turner"
+    },
+    {
+      "text": "Diana Ross received a Lifetime Achievement Grammy Award in 2012, honoring her decades of contributions to music and entertainment.",
+      "source": "https://en.wikipedia.org/wiki/Diana_Ross"
+    },
+    {
+      "text": "Donna Summer won the Grammy for Best Rock Vocal Performance for 'Hot Stuff' in 1980, a rare crossover achievement for a disco artist.",
+      "source": "https://en.wikipedia.org/wiki/Donna_Summer"
+    },
+    {
+      "text": "Madonna's 'Confessions on a Dance Floor' was her tenth studio album and debuted at number one in 40 countries in 2005.",
+      "source": "https://en.wikipedia.org/wiki/Madonna%27s_%27Confessions_on_a_Dance_Floor"
+    },
+    {
+      "text": "Whitney Houston and Bobby Brown's tumultuous marriage was documented extensively by the media and later explored in multiple biopics.",
+      "source": "https://en.wikipedia.org/wiki/Whitney_Houston_and_Bobby_Brown%27s_tumultuous_marriage"
+    },
+    {
+      "text": "Mariah Carey's 'Heartbreaker' featuring Jay-Z was one of the first major pop-hip-hop crossover collaborations of the late 1990s.",
+      "source": "https://en.wikipedia.org/wiki/Mariah_Carey%27s_%27Heartbreaker%27_featuring_Jay-Z"
+    },
+    {
+      "text": "Beyoncé performed 'Halo' at the Inauguration Ball for President Obama in 2009, one of many performances for heads of state.",
+      "source": "https://en.wikipedia.org/wiki/Beyonc%C3%A9"
+    },
+    {
+      "text": "Lady Gaga's 'Poker Face' was the best-selling single of 2009 worldwide, selling over 14 million copies.",
+      "source": "https://en.wikipedia.org/wiki/Lady_Gaga%27s_%27Poker_Face"
+    },
+    {
+      "text": "Rihanna's Savage X Fenty lingerie brand has been valued at over $1 billion and hosts annual fashion shows celebrated for their diversity.",
+      "source": "https://en.wikipedia.org/wiki/Rihanna%27s_Savage_X_Fenty_lingerie_brand"
+    },
+    {
+      "text": "Adele broke records by selling over 3.38 million copies of '25' in its first week in the United States alone.",
+      "source": "https://en.wikipedia.org/wiki/United_States"
+    },
+    {
+      "text": "Taylor Swift has been listed on the Time 100 list of the most influential people in the world multiple times.",
+      "source": "https://en.wikipedia.org/wiki/Taylor_Swift"
+    },
+    {
+      "text": "Ariana Grande wore a custom Givenchy gown to the 2020 Grammy Awards, which became one of the most talked-about fashion moments of the year.",
+      "source": "https://en.wikipedia.org/wiki/Ariana_Grande_wore_a_custom_Givenchy_gown_to_the_2020_Grammy_Awards%2C_which"
+    },
+    {
+      "text": "Britney Spears taught herself to dance by watching MTV music videos and practicing in her bedroom as a child in Louisiana.",
+      "source": "https://en.wikipedia.org/wiki/Britney_Spears"
+    },
+    {
+      "text": "Christina Aguilera released 'Back to Basics,' a double album inspired by jazz, blues, and soul music of the 1920s through 1940s.",
+      "source": "https://en.wikipedia.org/wiki/Christina_Aguilera"
+    },
+    {
+      "text": "Janet Jackson's 'Nasty' became a feminist anthem in 1986, with Jackson declaring her right to be treated with respect.",
+      "source": "https://en.wikipedia.org/wiki/Janet_Jackson%27s_%27Nasty"
+    },
+    {
+      "text": "Cher took on serious dramatic roles in films like 'Silkwood' alongside Meryl Streep and 'Mask' with Eric Stoltz, proving her acting range.",
+      "source": "https://en.wikipedia.org/wiki/Cher"
+    },
+    {
+      "text": "Celine Dion's concert residency at Caesars Palace in Las Vegas became the most successful residency in the city's history.",
+      "source": "https://en.wikipedia.org/wiki/Celine_Dion%27s_concert_residency_at_Caesars_Palace_in_Las_Vegas"
+    },
+    {
+      "text": "P!nk dedicated her 2017 MTV Video Music Awards speech to her daughter, encouraging children to embrace their uniqueness.",
+      "source": "https://en.wikipedia.org/wiki/MTV_Video_Music_Awards"
+    },
+    {
+      "text": "Shakira's 'Hips Don't Lie' featuring Wyclef Jean was the best-selling single of 2006 worldwide.",
+      "source": "https://en.wikipedia.org/wiki/Shakira%27s_%27Hips_Don%27t_Lie%27_featuring_Wyclef_Jean"
+    },
+    {
+      "text": "Jennifer Lopez's 'Waiting for Tonight' became a New Year's Eve anthem and is played at celebrations worldwide.",
+      "source": "https://en.wikipedia.org/wiki/Jennifer_Lopez%27s_%27Waiting_for_Tonight"
+    },
+    {
+      "text": "Dua Lipa hosted and performed on 'Saturday Night Live' in 2020, delivering two performances of songs from 'Future Nostalgia.'",
+      "source": "https://en.wikipedia.org/wiki/Dua_Lipa_hosted_and"
+    },
+    {
+      "text": "Billie Eilish's whispered vocal style influenced a new generation of pop artists and spawned a subgenre sometimes called 'whisper pop.'",
+      "source": "https://en.wikipedia.org/wiki/Billie_Eilish%27s"
+    },
+    {
+      "text": "Olivia Rodrigo drew inspiration from Taylor Swift and Paramore's Hayley Williams, citing both artists as major influences on her debut.",
+      "source": "https://en.wikipedia.org/wiki/Olivia_Rodrigo"
+    },
+    {
+      "text": "Lizzo is a body positivity advocate who has used her platform to challenge beauty standards and promote self-love.",
+      "source": "https://en.wikipedia.org/wiki/Lizzo"
+    },
+    {
+      "text": "Nicki Minaj voiced the character Sugilite in the animated television series 'Steven Universe.'",
+      "source": "https://en.wikipedia.org/wiki/Nicki_Minaj"
+    },
+    {
+      "text": "Doja Cat performed at Coachella in 2022, delivering an energetic set despite having recently recovered from tonsil surgery.",
+      "source": "https://en.wikipedia.org/wiki/Doja_Cat"
+    },
+    {
+      "text": "SZA appeared on the cover of British Vogue in 2022, marking her rise from underground R&B to mainstream pop culture.",
+      "source": "https://en.wikipedia.org/wiki/SZA"
+    },
+    {
+      "text": "Katy Perry married actor Orlando Bloom, and the couple has a daughter named Daisy Dove Bloom.",
+      "source": "https://en.wikipedia.org/wiki/Katy_Perry_married_actor_Orlando_Bloom%2C_and_the_couple"
+    },
+    {
+      "text": "Selena Gomez has been open about her bipolar disorder diagnosis, helping to destigmatize mental health conversations.",
+      "source": "https://en.wikipedia.org/wiki/Selena_Gomez"
+    },
+    {
+      "text": "Miley Cyrus's Happy Hippie Foundation supports homeless and LGBTQ+ youth through advocacy and fundraising.",
+      "source": "https://en.wikipedia.org/wiki/Miley_Cyrus%27s_Happy_Hippie_Foundation"
+    },
+    {
+      "text": "Tina Turner's performance in 'Mad Max Beyond Thunderdome' in 1985 showcased her acting talent alongside Mel Gibson.",
+      "source": "https://en.wikipedia.org/wiki/Tina_Turner%27s"
+    },
+    {
+      "text": "Diana Ross gave Whitney Houston her start by introducing her to Arista Records head Clive Davis at a concert in 1983.",
+      "source": "https://en.wikipedia.org/wiki/Diana_Ross"
+    },
+    {
+      "text": "Donna Summer's 'MacArthur Park Suite' was a 17-minute disco epic that showcased her ambition to go beyond the standard three-minute pop single.",
+      "source": "https://en.wikipedia.org/wiki/Donna_Summer%27s_%27MacArthur_Park_Suite"
+    },
+    {
+      "text": "Madonna co-wrote the children's book series 'The English Roses,' which became a New York Times best-seller in 2003.",
+      "source": "https://en.wikipedia.org/wiki/Madonna_co-wrote_the_children%27s_book_series_%27The_English_Roses%2C%27_which"
+    },
+    {
+      "text": "Whitney Houston's 'Greatest Love of All' was originally recorded by George Benson in 1977, but Houston's 1986 version became far more successful.",
+      "source": "https://en.wikipedia.org/wiki/Whitney_Houston%27s_%27Greatest_Love_of_All"
+    },
+    {
+      "text": "Mariah Carey hosted her own reality series 'Mariah's World' on E! in 2016, which followed her concert preparations and personal life.",
+      "source": "https://en.wikipedia.org/wiki/Mariah_Carey"
+    },
+    {
+      "text": "Beyoncé performed 'Drunk in Love' with Jay-Z at the 2014 Grammy Awards, and their on-stage chemistry became iconic.",
+      "source": "https://en.wikipedia.org/wiki/Beyonc%C3%A9"
+    },
+    {
+      "text": "Lady Gaga's 'Bad Romance' music video won seven MTV Video Music Awards, the most for any single music video at the time.",
+      "source": "https://en.wikipedia.org/wiki/Lady_Gaga%27s_%27Bad_Romance%27_music_video"
+    },
+    {
+      "text": "Rihanna's 'We Found Love' featuring Calvin Harris spent ten weeks at number one on the Billboard Hot 100 in 2011.",
+      "source": "https://en.wikipedia.org/wiki/Rihanna%27s_%27We_Found_Love%27_featuring_Calvin_Harris"
+    },
+    {
+      "text": "Adele performed at the BRIT Awards in 2012 but was cut short by host James Corden, to which she famously gave the middle finger.",
+      "source": "https://en.wikipedia.org/wiki/Adele"
+    },
+    {
+      "text": "Taylor Swift directed the short film 'All Too Well: The Short Film' starring Sadie Sink and Dylan O'Brien, earning critical acclaim.",
+      "source": "https://en.wikipedia.org/wiki/Taylor_Swift"
+    },
+    {
+      "text": "Ariana Grande's 'One Last Time' took on new meaning after the Manchester Arena bombing and was re-released as a charity single.",
+      "source": "https://en.wikipedia.org/wiki/Ariana_Grande%27s_%27One_Last_Time%27_took_on_new_meaning_after_the_Manchester_Arena_bombing_and"
+    },
+    {
+      "text": "Britney Spears' iconic schoolgirl outfit from the '...Baby One More Time' video became one of the most recognizable costumes in pop history.",
+      "source": "https://en.wikipedia.org/wiki/Britney_Spears%27_iconic_schoolgirl_outfit_from_the_%27...Baby_One_More_Time%27_video"
+    },
+    {
+      "text": "Christina Aguilera sang the national anthem at Super Bowl XLV in 2011, though she accidentally altered some of the lyrics.",
+      "source": "https://en.wikipedia.org/wiki/Christina_Aguilera"
+    },
+    {
+      "text": "Janet Jackson's self-titled album 'Janet' debuted at number one in 1993, selling over 350,000 copies in its first week.",
+      "source": "https://en.wikipedia.org/wiki/Janet_Jackson%27s"
+    },
+    {
+      "text": "Cher performed her hit 'Believe' on the farewell tour well into her 70s, proving that age is not a barrier for pop stardom.",
+      "source": "https://en.wikipedia.org/wiki/Cher"
+    },
+    {
+      "text": "Celine Dion's 'Think Twice' was a massive hit in the United Kingdom, spending seven weeks at number one in 1995.",
+      "source": "https://en.wikipedia.org/wiki/Celine_Dion%27s_%27Think_Twice"
+    },
+    {
+      "text": "P!nk collaborated with Nate Ruess on 'Just Give Me a Reason,' which reached number one on the Billboard Hot 100 in 2013.",
+      "source": "https://en.wikipedia.org/wiki/P%21nk_collaborated_with_Nate_Ruess_on_%27Just"
+    },
+    {
+      "text": "Shakira served as a coach on 'The Voice' in the United States for two seasons in 2013 and 2014.",
+      "source": "https://en.wikipedia.org/wiki/Voice%27_in_the_United_States_for"
+    },
+    {
+      "text": "Jennifer Lopez earned a SAG Award nomination for her critically acclaimed role in 'Hustlers' in 2019.",
+      "source": "https://en.wikipedia.org/wiki/Jennifer_Lopez"
+    },
+    {
+      "text": "Dua Lipa's concert at London's Wembley Stadium in 2022 was a milestone moment in her rise to global superstardom.",
+      "source": "https://en.wikipedia.org/wiki/Dua_Lipa%27s_concert_at_London%27s_Wembley_Stadium_in_2022"
+    },
+    {
+      "text": "Billie Eilish won the Grammy for Record of the Year two years in a row, for 'Bad Guy' in 2020 and 'Everything I Wanted' in 2021.",
+      "source": "https://en.wikipedia.org/wiki/Billie_Eilish"
+    },
+    {
+      "text": "Nicki Minaj married Kenneth Petty in 2019 and gave birth to their son in September 2020.",
+      "source": "https://en.wikipedia.org/wiki/Nicki_Minaj_married_Kenneth_Petty_in_2019_and"
+    },
+    {
+      "text": "Madonna has reinvented her musical style and image with nearly every album release, influencing generations of pop artists.",
+      "source": "https://en.wikipedia.org/wiki/Madonna"
+    },
+    {
+      "text": "Whitney Houston performed 'I Have Nothing' at the 1994 Grammy Awards in a performance that showcased her extraordinary vocal abilities.",
+      "source": "https://en.wikipedia.org/wiki/Whitney_Houston"
+    },
+    {
+      "text": "Mariah Carey and Whitney Houston collaborated on the duet 'When You Believe' for the animated film 'The Prince of Egypt' in 1998.",
+      "source": "https://en.wikipedia.org/wiki/Mariah_Carey_and_Whitney_Houston"
+    },
+    {
+      "text": "Beyoncé's Formation World Tour in 2016 grossed over $256 million and was one of the highest-grossing tours of the year.",
+      "source": "https://en.wikipedia.org/wiki/Beyonc%C3%A9%27s_Formation_World_Tour_in_2016_grossed_over_%24256_million_and"
+    },
+    {
+      "text": "Lady Gaga performed 'The Sound of Music' medley at the 2015 Academy Awards and was praised by Julie Andrews herself.",
+      "source": "https://en.wikipedia.org/wiki/Lady_Gaga"
+    },
+    {
+      "text": "Rihanna's debut single 'Pon de Replay' reached the top two on the Billboard Hot 100 in 2005 when she was just 17 years old.",
+      "source": "https://en.wikipedia.org/wiki/Rihanna%27s_debut_single_%27Pon_de_Replay"
+    },
+    {
+      "text": "Adele was inspired to pursue singing after hearing Etta James and Ella Fitzgerald albums at her mother's home.",
+      "source": "https://en.wikipedia.org/wiki/Adele"
+    },
+    {
+      "text": "Taylor Swift started her career in country music, and her self-titled debut album was released when she was only 16 years old.",
+      "source": "https://en.wikipedia.org/wiki/Taylor_Swift_started_her_career_in_country_music%2C_and_her_self-titled_debut_album"
+    },
+    {
+      "text": "Ariana Grande's 'Problem' featuring Iggy Azalea reached number two on the Billboard Hot 100 and introduced Grande as a pop force.",
+      "source": "https://en.wikipedia.org/wiki/Ariana_Grande%27s_%27Problem%27_featuring_Iggy_Azalea"
+    },
+    {
+      "text": "Britney Spears was one of the top-selling teen pop artists of the late 1990s alongside the Backstreet Boys, NSYNC, and Christina Aguilera.",
+      "source": "https://en.wikipedia.org/wiki/Britney_Spears"
+    },
+    {
+      "text": "Christina Aguilera's self-titled debut album sold over 14 million copies worldwide and produced the hit 'Genie in a Bottle.'",
+      "source": "https://en.wikipedia.org/wiki/Christina_Aguilera%27s"
+    },
+    {
+      "text": "Janet Jackson earned the Billboard Icon Award in 2018, recognizing her lasting influence on music, dance, and culture.",
+      "source": "https://en.wikipedia.org/wiki/Janet_Jackson"
+    },
+    {
+      "text": "Cher received the Kennedy Center Honors in 2018 for her contributions to American culture through music, acting, and philanthropy.",
+      "source": "https://en.wikipedia.org/wiki/Kennedy_Center_Honors_in_2018_for"
+    },
+    {
+      "text": "Celine Dion performed 'My Heart Will Go On' at the 1998 Academy Awards, giving a performance that moved the audience to tears.",
+      "source": "https://en.wikipedia.org/wiki/Celine_Dion"
+    },
+    {
+      "text": "P!nk's 'What About Us' addressed political themes and became one of the most socially conscious pop songs of 2017.",
+      "source": "https://en.wikipedia.org/wiki/P%21nk%27s_%27What_About_Us%27_addressed_political_themes_and"
+    },
+    {
+      "text": "Shakira's song 'La Tortura' featuring Alejandro Sanz was the first Spanish-language song to reach the top 30 on the Billboard Hot 100 in 2005.",
+      "source": "https://en.wikipedia.org/wiki/Shakira%27s_song_%27La_Tortura%27_featuring_Alejandro_Sanz"
+    },
+    {
+      "text": "Jennifer Lopez released her debut album 'On the 6' in 1999, named after the 6 subway train she rode from the Bronx to Manhattan.",
+      "source": "https://en.wikipedia.org/wiki/Jennifer_Lopez"
+    },
+    {
+      "text": "Dua Lipa's 'Physical' music video paid homage to 1980s fitness culture and Olivia Newton-John's iconic 'Physical' era.",
+      "source": "https://en.wikipedia.org/wiki/Dua_Lipa%27s"
+    },
+    {
+      "text": "Billie Eilish's debut single 'Ocean Eyes' was uploaded to SoundCloud in 2015 and went viral overnight, launching her career.",
+      "source": "https://en.wikipedia.org/wiki/Billie_Eilish%27s_debut_single_%27Ocean_Eyes"
+    },
+    {
+      "text": "SZA has been praised for her raw, confessional songwriting style that explores themes of self-doubt, love, and identity.",
+      "source": "https://en.wikipedia.org/wiki/SZA"
+    },
+    {
+      "text": "Katy Perry was the halftime performer at Super Bowl XLIX in 2015, and left shark became one of the most iconic internet memes.",
+      "source": "https://en.wikipedia.org/wiki/Katy_Perry"
+    },
+    {
+      "text": "Selena Gomez released A-side album 'Rare' in 2020, which debuted at number one on the Billboard 200.",
+      "source": "https://en.wikipedia.org/wiki/Selena_Gomez"
+    },
+    {
+      "text": "Miley Cyrus performed 'Used to Be Young' in 2023, a reflective song that acknowledged her transition from child star to adult artist.",
+      "source": "https://en.wikipedia.org/wiki/Miley_Cyrus"
+    },
+    {
+      "text": "Tina Turner's concert at Rio de Janeiro's Maracanã Stadium in 1988 attracted over 180,000 fans, one of the largest concert audiences ever.",
+      "source": "https://en.wikipedia.org/wiki/Tina_Turner%27s"
+    },
+    {
+      "text": "Diana Ross reunited with The Supremes for a 'Return to Love' tour in 2000, though the reunion was short-lived due to creative differences.",
+      "source": "https://en.wikipedia.org/wiki/Diana_Ross"
+    },
+    {
+      "text": "Donna Summer collaborated with producer Giorgio Moroder on many of her biggest hits, creating an electronic sound ahead of its time.",
+      "source": "https://en.wikipedia.org/wiki/Donna_Summer"
+    },
+    {
+      "text": "Madonna performed during the Super Bowl XLVI halftime show in 2012 at age 53, drawing over 114 million viewers.",
+      "source": "https://en.wikipedia.org/wiki/Madonna"
+    },
+    {
+      "text": "Whitney Houston's self-titled debut album spent 14 weeks atop the Billboard 200 and eventually sold over 25 million copies worldwide.",
+      "source": "https://en.wikipedia.org/wiki/Whitney_Houston%27s_self-titled_debut_album"
+    },
+    {
+      "text": "Mariah Carey's 'Fantasy' was the first song by a female artist to debut at number one on the Billboard Hot 100 in 1995.",
+      "source": "https://en.wikipedia.org/wiki/Mariah_Carey%27s_%27Fantasy"
+    },
+    {
+      "text": "Beyoncé's Coachella performance in 2018 was dubbed 'Beychella' and featured a marching band, majorettes, and a Destiny's Child reunion.",
+      "source": "https://en.wikipedia.org/wiki/Beyonc%C3%A9%27s_Coachella_performance_in_2018"
+    },
+    {
+      "text": "Lady Gaga opened the 2024 Paris Olympics ceremony singing 'Mon truc en plumes' in a tribute to French cabaret icon Zizi Jeanmaire.",
+      "source": "https://en.wikipedia.org/wiki/Lady_Gaga"
+    },
+    {
+      "text": "Rihanna appeared on the Forbes Billionaires List in 2022, becoming the wealthiest female musician, primarily through her Fenty businesses.",
+      "source": "https://en.wikipedia.org/wiki/Rihanna"
+    },
+    {
+      "text": "Adele holds the record for the best-selling album of the 21st century in the United Kingdom with '21.'",
+      "source": "https://en.wikipedia.org/wiki/United_Kingdom_with"
+    },
+    {
+      "text": "Taylor Swift's fans, known as 'Swifties,' are considered one of the most engaged and loyal fanbases in music history.",
+      "source": "https://en.wikipedia.org/wiki/Taylor_Swift%27s_fans%2C_known_as_%27Swifties"
+    },
+    {
+      "text": "Ariana Grande's 'God Is a Woman' music video drew inspiration from Renaissance and Baroque art, featuring elaborate visual tableaux.",
+      "source": "https://en.wikipedia.org/wiki/Ariana_Grande%27s_%27God"
+    },
+    {
+      "text": "Britney Spears received a star on the Hollywood Walk of Fame in 2003, at age 21, one of the youngest recipients at the time.",
+      "source": "https://en.wikipedia.org/wiki/Britney_Spears"
+    },
+    {
+      "text": "Christina Aguilera has a star on the Hollywood Walk of Fame, which she received in 2010 for her contributions to recording.",
+      "source": "https://en.wikipedia.org/wiki/Christina_Aguilera"
+    },
+    {
+      "text": "Janet Jackson has sold over 100 million records worldwide, making her one of the best-selling music artists in history.",
+      "source": "https://en.wikipedia.org/wiki/Janet_Jackson"
+    },
+    {
+      "text": "Donna Summer was posthumously inducted into the Rock and Roll Hall of Fame in 2013, recognizing her impact on popular music.",
+      "source": "https://en.wikipedia.org/wiki/Rock_and_Roll_Hall_of_Fame"
+    },
+    {
+      "text": "Madonna's 'Express Yourself' in 1989 became a feminist anthem encouraging women to demand respect and equality in relationships.",
+      "source": "https://en.wikipedia.org/wiki/Madonna%27s_%27Express_Yourself%27_in_1989"
+    },
+    {
+      "text": "Mariah Carey became the first artist to have a debut single reach number one on the Billboard Hot 100 with 'Vision of Love' in 1990.",
+      "source": "https://en.wikipedia.org/wiki/Mariah_Carey"
+    },
+    {
+      "text": "Beyoncé's 'Cowboy Carter' album released in 2024 showcased her foray into country music and won the Grammy for Album of the Year.",
+      "source": "https://en.wikipedia.org/wiki/Beyonc%C3%A9%27s_%27Cowboy_Carter%27_album"
+    },
+    {
+      "text": "Rihanna's 'Diamonds' was written by Sia in just 14 minutes and became one of Rihanna's signature songs.",
+      "source": "https://en.wikipedia.org/wiki/Rihanna%27s_%27Diamonds"
+    },
+    {
+      "text": "Adele's concert at BST Hyde Park in London in 2022 was attended by 65,000 fans per night over two sold-out shows.",
+      "source": "https://en.wikipedia.org/wiki/Adele%27s_concert_at_BST_Hyde_Park_in_London_in_2022"
+    },
+    {
+      "text": "Taylor Swift's 'Folklore' was written and recorded entirely during quarantine in 2020 and represented a shift to indie folk.",
+      "source": "https://en.wikipedia.org/wiki/Taylor_Swift%27s_%27Folklore"
+    },
+    {
+      "text": "P!nk's Summer Carnival Tour in 2023 was one of the highest-grossing tours of the year, attracting millions of fans worldwide.",
+      "source": "https://en.wikipedia.org/wiki/P%21nk%27s_Summer_Carnival_Tour_in_2023"
+    },
+    {
+      "text": "Shakira's BZRP Music Session 53 with Argentine producer Bizarrap went viral and broke YouTube records for the most-watched music video in 24 hours in 2023.",
+      "source": "https://en.wikipedia.org/wiki/Shakira%27s_BZRP_Music_Session_53_with_Argentine"
+    },
+    {
+      "text": "Jennifer Lopez and Ben Affleck married in 2022, two decades after their original engagement, in a ceremony that captivated tabloid media.",
+      "source": "https://en.wikipedia.org/wiki/Jennifer_Lopez_and_Ben_Affleck"
+    },
+    {
+      "text": "Dua Lipa was appointed an honorary ambassador of Kosovo in 2023 for her cultural contributions and promotion of her homeland.",
+      "source": "https://en.wikipedia.org/wiki/Dua_Lipa"
+    },
+    {
+      "text": "Billie Eilish has cited artists like Lana Del Rey, Tyler the Creator, and Childish Gambino as influences on her musical style.",
+      "source": "https://en.wikipedia.org/wiki/Billie_Eilish"
+    },
+    {
+      "text": "Nicki Minaj's 'Starships' is certified diamond by the RIAA, having sold over 10 million units in the United States.",
+      "source": "https://en.wikipedia.org/wiki/Nicki_Minaj%27s_%27Starships"
+    },
+    {
+      "text": "SZA won the Grammy for Best Progressive R&B Album for 'SOS' at the 66th Annual Grammy Awards.",
+      "source": "https://en.wikipedia.org/wiki/SZA"
+    },
+    {
+      "text": "Diana Ross's song 'I'm Coming Out' was written by Nile Rodgers and Bernard Edwards of Chic after they saw drag queens impersonating her at a nightclub.",
+      "source": "https://en.wikipedia.org/wiki/Diana_Ross%27s_song_%27I%27m_Coming_Out"
+    },
+    {
+      "text": "Tina Turner's 'Simply the Best' has been adopted as the unofficial anthem of numerous sports teams around the world.",
+      "source": "https://en.wikipedia.org/wiki/Tina_Turner%27s_%27Simply_the_Best"
+    },
+    {
+      "text": "Miley Cyrus performed with Robin Thicke at the 2013 MTV Video Music Awards in a controversial performance that dominated headlines for weeks.",
+      "source": "https://en.wikipedia.org/wiki/Miley_Cyrus"
+    },
+    {
+      "text": "Selena Gomez passed Kylie Jenner as the most-followed woman on Instagram in early 2023, a position she held for months.",
+      "source": "https://en.wikipedia.org/wiki/Selena_Gomez"
+    },
+    {
+      "text": "Katy Perry's 'I Kissed a Girl' sparked debate upon its 2008 release but reached number one in over 20 countries.",
+      "source": "https://en.wikipedia.org/wiki/Katy_Perry%27s_%27I_Kissed_a_Girl%27_sparked_debate_upon_its_2008_release_but"
+    },
+    {
+      "text": "Olivia Rodrigo participated in the Film Out for gun violence prevention, using her platform to advocate for stricter gun control.",
+      "source": "https://en.wikipedia.org/wiki/Olivia_Rodrigo"
+    },
+    {
+      "text": "Lizzo's appearance at the 2019 BET Awards with a giant inflatable booty drew widespread media attention and cemented her as a pop culture icon.",
+      "source": "https://en.wikipedia.org/wiki/BET_Awards_with"
+    },
+    {
+      "text": "Doja Cat's 'Paint the Town Red' reached number one on the Billboard Hot 100 in 2023, her second solo chart-topper.",
+      "source": "https://en.wikipedia.org/wiki/Doja_Cat%27s_%27Paint_the_Town_Red"
+    },
+    {
+      "text": "Madonna received the Guinness World Record for the highest-grossing concert tour by a female artist for the 'Sticky & Sweet Tour' in 2009.",
+      "source": "https://en.wikipedia.org/wiki/Guinness_World_Record_for_the"
+    }
+  ]
+}

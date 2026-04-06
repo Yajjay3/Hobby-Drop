@@ -1,0 +1,1657 @@
+{
+  "hobby": "The Beatles",
+  "facts": [
+    {
+      "text": "John Lennon and Paul McCartney first met at a church fete in Woolton, Liverpool, where Lennon's band the Quarrymen were performing.",
+      "month": 7,
+      "day": 6,
+      "source": "https://en.wikipedia.org/wiki/John_Lennon_and_Paul_McCartney_first"
+    },
+    {
+      "text": "John Winston Lennon was born in Liverpool during a German air raid on the city.",
+      "month": 10,
+      "day": 9,
+      "source": "https://en.wikipedia.org/wiki/John_Winston_Lennon"
+    },
+    {
+      "text": "James Paul McCartney was born at Walton Hospital in Liverpool.",
+      "month": 6,
+      "day": 18,
+      "source": "https://en.wikipedia.org/wiki/James_Paul_McCartney"
+    },
+    {
+      "text": "George Harrison was born at 12 Arnold Grove in Wavertree, Liverpool, the youngest of four children.",
+      "month": 2,
+      "day": 25,
+      "source": "https://en.wikipedia.org/wiki/George_Harrison"
+    },
+    {
+      "text": "Richard Starkey, known as Ringo Starr, was born in the Dingle area of Liverpool.",
+      "month": 7,
+      "day": 7,
+      "source": "https://en.wikipedia.org/wiki/Richard_Starkey%2C_known_as_Ringo_Starr"
+    },
+    {
+      "text": "The Beatles' first single, \"Love Me Do,\" was released on Parlophone Records in the UK.",
+      "month": 10,
+      "day": 5,
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20Love%20Me%20Do%2C%20live%20performance"
+    },
+    {
+      "text": "The Beatles made their iconic first appearance on The Ed Sullivan Show, watched by approximately 73 million viewers.",
+      "month": 2,
+      "day": 9,
+      "source": "https://en.wikipedia.org/wiki/The_Ed_Sullivan_Show"
+    },
+    {
+      "text": "The Beatles' debut album, Please Please Me, was released in the United Kingdom.",
+      "month": 3,
+      "day": 22,
+      "source": "https://en.wikipedia.org/wiki/Beatles%27_debut_album%2C_Please_Please_Me"
+    },
+    {
+      "text": "With the Beatles, the band's second album, was released on the same day as President Kennedy's assassination.",
+      "month": 11,
+      "day": 22,
+      "source": "https://en.wikipedia.org/wiki/With_the_Beatles%2C_the_band%27s_second_album"
+    },
+    {
+      "text": "The album Beatles for Sale was released as the band's fourth UK studio album.",
+      "month": 12,
+      "day": 4,
+      "source": "https://en.wikipedia.org/wiki/album_Beatles_for_Sale"
+    },
+    {
+      "text": "A Hard Day's Night, the band's third studio album and first to feature entirely original compositions, was released.",
+      "month": 7,
+      "day": 10,
+      "source": "https://en.wikipedia.org/wiki/A_Hard_Day%27s_Night"
+    },
+    {
+      "text": "The album Help! was released as the soundtrack to the Beatles' second feature film.",
+      "month": 8,
+      "day": 6,
+      "source": "https://en.wikipedia.org/wiki/album_Help"
+    },
+    {
+      "text": "Rubber Soul, widely regarded as a major artistic leap for the band, was released.",
+      "month": 12,
+      "day": 3,
+      "source": "https://en.wikipedia.org/wiki/Rubber_Soul%2C_widely_regarded_as_a_major_artistic_leap_for_the_band"
+    },
+    {
+      "text": "Revolver was released, showcasing groundbreaking studio experimentation and diverse musical styles.",
+      "month": 8,
+      "day": 5,
+      "source": "https://en.wikipedia.org/wiki/Revolver"
+    },
+    {
+      "text": "Sgt. Pepper's Lonely Hearts Club Band was released and is often cited as the greatest album ever made.",
+      "month": 6,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/Sgt._Pepper%27s_Lonely_Hearts_Club_Band"
+    },
+    {
+      "text": "Magical Mystery Tour was released as an album in the United States.",
+      "month": 11,
+      "day": 27,
+      "source": "https://en.wikipedia.org/wiki/Magical_Mystery_Tour"
+    },
+    {
+      "text": "The Beatles, commonly known as the White Album, was released as a double LP.",
+      "month": 11,
+      "day": 22,
+      "source": "https://en.wikipedia.org/wiki/The_Beatles_(album)"
+    },
+    {
+      "text": "The Yellow Submarine soundtrack album was released in the UK.",
+      "month": 1,
+      "day": 17,
+      "source": "https://en.wikipedia.org/wiki/Yellow_Submarine_soundtrack_album"
+    },
+    {
+      "text": "Abbey Road, the last album the Beatles recorded together, was released.",
+      "month": 9,
+      "day": 26,
+      "source": "https://en.wikipedia.org/wiki/Abbey_Road"
+    },
+    {
+      "text": "Let It Be, the Beatles' final released studio album, came out a month after the band's breakup.",
+      "month": 5,
+      "day": 8,
+      "source": "https://en.wikipedia.org/wiki/Let_It_Be%2C_the_Beatles%27_final"
+    },
+    {
+      "text": "The Beatles performed their famous rooftop concert atop the Apple Corps building at 3 Savile Row, London.",
+      "month": 1,
+      "day": 30,
+      "source": "https://en.wikipedia.org/wiki/The_Beatles"
+    },
+    {
+      "text": "The Beatles played their last official public concert at Candlestick Park in San Francisco.",
+      "month": 8,
+      "day": 29,
+      "source": "https://en.wikipedia.org/wiki/The_Beatles"
+    },
+    {
+      "text": "The Beatles performed at Shea Stadium in New York to a crowd of 55,600, setting a world record for concert attendance at the time.",
+      "month": 8,
+      "day": 15,
+      "source": "https://en.wikipedia.org/wiki/The_Beatles"
+    },
+    {
+      "text": "Manager Brian Epstein was found dead at his London home from an accidental barbiturate overdose at age 32.",
+      "month": 8,
+      "day": 27,
+      "source": "https://en.wikipedia.org/wiki/Manager_Brian_Epstein"
+    },
+    {
+      "text": "Paul McCartney publicly announced that the Beatles had broken up via a self-interview included with his debut solo album.",
+      "month": 4,
+      "day": 10,
+      "source": "https://en.wikipedia.org/wiki/Paul_McCartney_publicly_announced_that_the_Beatles"
+    },
+    {
+      "text": "John Lennon was shot and killed outside his apartment at the Dakota building in New York City.",
+      "month": 12,
+      "day": 8,
+      "source": "https://en.wikipedia.org/wiki/John_Lennon"
+    },
+    {
+      "text": "George Harrison died at a friend's home in Los Angeles after a long battle with lung cancer.",
+      "month": 11,
+      "day": 29,
+      "source": "https://en.wikipedia.org/wiki/George_Harrison"
+    },
+    {
+      "text": "\"I Want to Hold Your Hand\" was released as a single in the United States, sparking the British Invasion.",
+      "month": 12,
+      "day": 26,
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20I%20Want%20to%20Hold%20Your%20Hand%20live%20performance"
+    },
+    {
+      "text": "The premiere of the film A Hard Day's Night took place at the Pavilion Theatre in London.",
+      "month": 7,
+      "day": 6,
+      "source": "https://en.wikipedia.org/wiki/premiere_of_the_film_A_Hard_Day%27s_Night"
+    },
+    {
+      "text": "The Beatles' second film, Help!, had its world premiere in London.",
+      "month": 7,
+      "day": 29,
+      "source": "https://en.wikipedia.org/wiki/Beatles%27_second_film%2C_Help"
+    },
+    {
+      "text": "The animated film Yellow Submarine premiered in London.",
+      "month": 7,
+      "day": 17,
+      "source": "https://en.wikipedia.org/wiki/Yellow_Submarine"
+    },
+    {
+      "text": "The Beatles were inducted into the Rock and Roll Hall of Fame.",
+      "month": 1,
+      "day": 20,
+      "source": "https://en.wikipedia.org/wiki/Rock_and_Roll_Hall_of_Fame"
+    },
+    {
+      "text": "Anthology 1, the first of three compilation albums featuring rarities and outtakes, was released.",
+      "month": 11,
+      "day": 21,
+      "source": "https://en.wikipedia.org/wiki/Anthology_1%2C_the_first_of_three_compilation_albums_featuring_rarities_and_outtakes"
+    },
+    {
+      "text": "\"Free as a Bird,\" a new Beatles single built from a John Lennon demo, was released.",
+      "month": 12,
+      "day": 4,
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20Free%20as%20a%20Bird%2C%20live%20performance"
+    },
+    {
+      "text": "\"Now and Then,\" billed as the last Beatles song, was released using AI technology to isolate Lennon's vocals from an old demo.",
+      "month": 11,
+      "day": 2,
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20Now%20and%20Then%2C%20live%20performance"
+    },
+    {
+      "text": "The Lennon–McCartney songwriting partnership is considered the most successful in popular music history.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Lennon%E2%80%93McCartney_songwriting_partnership"
+    },
+    {
+      "text": "Ringo Starr was not the Beatles' original drummer; Pete Best held the position from 1960 to 1962.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Ringo_Starr"
+    },
+    {
+      "text": "Stuart Sutcliffe, often called the \"Fifth Beatle,\" was the band's original bass player before Paul McCartney took over.",
+      "type": "did-you-know",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20Fifth%20Beatle%2C%20live%20performance"
+    },
+    {
+      "text": "The Beatles got their name as a play on Buddy Holly's Crickets, combining \"beat\" with \"beetles.\"",
+      "type": "did-you-know",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20beat%20live%20performance"
+    },
+    {
+      "text": "Before settling on the Beatles, the group performed under names including the Quarrymen, Johnny and the Moondogs, and the Silver Beetles.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Before_settling_on_the_Beatles%2C_the_group"
+    },
+    {
+      "text": "George Harrison was initially rejected from the Quarrymen because John Lennon thought he was too young.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/George_Harrison"
+    },
+    {
+      "text": "The Beatles performed approximately 300 shows at the Cavern Club in Liverpool between 1961 and 1963.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/The_Beatles"
+    },
+    {
+      "text": "Brian Epstein first saw the Beatles perform at the Cavern Club on November 9, 1961, and immediately wanted to manage them.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Brian_Epstein_first"
+    },
+    {
+      "text": "The Beatles were rejected by Decca Records on January 1, 1962, with the label famously saying guitar groups were on the way out.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/The_Beatles"
+    },
+    {
+      "text": "George Martin, the Beatles' producer, was originally known for producing comedy records for artists like Peter Sellers.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/George_Martin%2C_the_Beatles%27_producer"
+    },
+    {
+      "text": "The entire Please Please Me album was recorded in a single marathon session lasting about 10 hours.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/entire_Please_Please_Me_album"
+    },
+    {
+      "text": "John Lennon recorded \"Twist and Shout\" with a severe cold, and his raw, shredded vocals were captured in a single take.",
+      "type": "did-you-know",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20Twist%20and%20Shout%20live%20performance"
+    },
+    {
+      "text": "\"Yesterday\" by Paul McCartney is one of the most covered songs in history, with over 2,200 recorded versions.",
+      "type": "did-you-know",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20Yesterday%20live%20performance"
+    },
+    {
+      "text": "Paul McCartney originally heard the melody for \"Yesterday\" in a dream and initially used the working lyrics \"Scrambled Eggs.\"",
+      "type": "did-you-know",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20Yesterday%20live%20performance"
+    },
+    {
+      "text": "The backwards guitar solo on \"I'm Only Sleeping\" from Revolver was achieved by George Harrison learning to play the part in reverse.",
+      "type": "did-you-know",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20I%27m%20Only%20Sleeping%20live%20performance"
+    },
+    {
+      "text": "\"A Day in the Life\" features a 40-piece orchestra that was instructed to play from their lowest note to their highest note simultaneously.",
+      "type": "did-you-know",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20A%20Day%20in%20the%20Life%20live%20performance"
+    },
+    {
+      "text": "The final chord of \"A Day in the Life\" was produced by John, Paul, Ringo, and Mal Evans simultaneously striking an E major chord on three pianos, with the sound sustained for over 40 seconds.",
+      "type": "did-you-know",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20A%20Day%20in%20the%20Life%20live%20performance"
+    },
+    {
+      "text": "The Sgt. Pepper's album cover features over 70 cardboard cutouts of famous people, from Marilyn Monroe to Karl Marx.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Sgt._Pepper%27s_Lonely_Hearts_Club_Band"
+    },
+    {
+      "text": "The Beatles were the first band to intentionally use feedback on a recording, heard at the start of \"I Feel Fine.\"",
+      "type": "did-you-know",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20I%20Feel%20Fine.%20live%20performance"
+    },
+    {
+      "text": "John Lennon's \"Strawberry Fields Forever\" was created by splicing together two completely different takes in different keys and tempos.",
+      "type": "did-you-know",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20Strawberry%20Fields%20Forever%20live%20performance"
+    },
+    {
+      "text": "The song \"Revolution 9\" from the White Album is the longest Beatles track at over eight minutes and consists mostly of tape loops and sound collage.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/The_Beatles_(album)"
+    },
+    {
+      "text": "Paul McCartney played the guitar solo on \"Taxman\" because George Harrison was unsatisfied with his own attempts.",
+      "type": "did-you-know",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20Taxman%20live%20performance"
+    },
+    {
+      "text": "Ringo Starr coined the phrase \"a hard day's night,\" which Lennon used as the title for the group's first film and album.",
+      "type": "did-you-know",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20a%20hard%20day%27s%20night%2C%20live%20performance"
+    },
+    {
+      "text": "The word \"Beatles\" was suggested by John Lennon, inspired by Buddy Holly's Crickets, as a pun combining \"beat\" music with the insect.",
+      "type": "did-you-know",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20Beatles%20live%20performance"
+    },
+    {
+      "text": "The album Abbey Road was originally going to be titled Everest, and the band considered flying to the Himalayas for the cover photo.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Abbey_Road"
+    },
+    {
+      "text": "The iconic Abbey Road cover was shot in about 10 minutes by photographer Iain Macmillan, who stood on a stepladder in the middle of the street.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Abbey_Road"
+    },
+    {
+      "text": "In the Abbey Road cover photo, Paul McCartney is barefoot, which fueled the \"Paul is dead\" conspiracy theory.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Abbey_Road"
+    },
+    {
+      "text": "The \"Paul is dead\" conspiracy theory claimed that McCartney died in 1966 and was replaced by a look-alike named William Campbell.",
+      "type": "did-you-know",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20Paul%20is%20dead%20live%20performance"
+    },
+    {
+      "text": "George Harrison's \"While My Guitar Gently Weeps\" features an uncredited guitar solo by Eric Clapton.",
+      "type": "did-you-know",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20While%20My%20Guitar%20Gently%20Weeps%20live%20performance"
+    },
+    {
+      "text": "The Beatles held the top five positions on the Billboard Hot 100 chart simultaneously on April 4, 1964, a feat never repeated.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/The_Beatles%27_recording_legacy#Number-one_singles"
+    },
+    {
+      "text": "John Lennon once said the Beatles were \"more popular than Jesus,\" sparking record burnings and protests across the American South.",
+      "type": "did-you-know",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20more%20popular%20than%20Jesus%2C%20live%20performance"
+    },
+    {
+      "text": "The final note ever played on a Beatles album is the hidden snippet of nonsense chatter in the run-out groove of Sgt. Pepper's, audible only on vinyl.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Sgt._Pepper%27s_Lonely_Hearts_Club_Band"
+    },
+    {
+      "text": "Ringo Starr temporarily quit the Beatles during the White Album sessions and went on holiday to Sardinia, where he wrote \"Octopus's Garden.\"",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/The_Beatles_(album)"
+    },
+    {
+      "text": "George Harrison organized the Concert for Bangladesh in 1971, considered the first major charity concert in rock history.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/George_Harrison"
+    },
+    {
+      "text": "The Beatles' Apple Boutique on Baker Street in London gave away all its remaining stock for free when it closed in 1968.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/The_Beatles%27_Apple_Boutique_on_Baker_Street_in_London"
+    },
+    {
+      "text": "EMI Studios on Abbey Road in London was renamed Abbey Road Studios in 1970 because of the fame of the Beatles' album.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Abbey_Road"
+    },
+    {
+      "text": "John Lennon returned his MBE medal to the Queen in 1969 as a protest against British involvement in Nigeria and Vietnam.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/John_Lennon"
+    },
+    {
+      "text": "The Beatles' rooftop concert lasted about 42 minutes before police asked them to stop due to noise complaints.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/The_Beatles"
+    },
+    {
+      "text": "\"Let It Be\" was inspired by a dream Paul McCartney had in which his deceased mother, Mary, came to comfort him.",
+      "type": "did-you-know",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20Let%20It%20Be%20live%20performance"
+    },
+    {
+      "text": "George Harrison's \"Something\" was described by Frank Sinatra as \"the greatest love song of the past fifty years.\"",
+      "type": "did-you-know",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20Something%20live%20performance"
+    },
+    {
+      "text": "The backwards message at the end of \"Rain\" was the first deliberate use of reversed vocals on a pop record.",
+      "type": "did-you-know",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20Rain%20live%20performance"
+    },
+    {
+      "text": "Ringo Starr's real name is Richard Starkey; he adopted his stage name from the rings he wore on his fingers.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Ringo_Starr%27s_real_name"
+    },
+    {
+      "text": "The Beatles used a string quartet on \"Yesterday,\" making it one of the first pop songs to feature classical instrumentation.",
+      "type": "did-you-know",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20Yesterday%2C%20live%20performance"
+    },
+    {
+      "text": "John Lennon wrote \"Help!\" as a genuine cry for help during a period of personal unhappiness, though it was treated as an upbeat pop song.",
+      "type": "did-you-know",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20Help%21%20live%20performance"
+    },
+    {
+      "text": "Pete Best was replaced by Ringo Starr just two weeks before the release of the Beatles' first single.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Pete_Best"
+    },
+    {
+      "text": "The Beatles' contract with Brian Epstein gave him 25% of their earnings, an unusually high commission for a manager.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/The_Beatles%27_contract_with_Brian_Epstein"
+    },
+    {
+      "text": "Yoko Ono's constant presence in the recording studio during the White Album and Let It Be sessions was a source of tension among the band members.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/The_Beatles_(album)"
+    },
+    {
+      "text": "George Martin is often referred to as the \"Fifth Beatle\" for his enormous creative contributions as producer and arranger.",
+      "type": "did-you-know",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20Fifth%20Beatle%20live%20performance"
+    },
+    {
+      "text": "The working title of \"Eleanor Rigby\" was \"Miss Daisy Hawkins,\" and Paul McCartney changed the name after seeing a shop sign for Rigby & Evens.",
+      "type": "did-you-know",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20Eleanor%20Rigby%20live%20performance"
+    },
+    {
+      "text": "The Beatles performed before an estimated 400 million viewers worldwide via the first live global television broadcast, Our World, in June 1967.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/The_Beatles"
+    },
+    {
+      "text": "The mellotron heard at the start of \"Strawberry Fields Forever\" was played by Paul McCartney, not a conventional flute.",
+      "type": "did-you-know",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20Strawberry%20Fields%20Forever%20live%20performance"
+    },
+    {
+      "text": "\"Norwegian Wood\" was the first Western pop song to feature a sitar, played by George Harrison.",
+      "type": "did-you-know",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20Norwegian%20Wood%20live%20performance"
+    },
+    {
+      "text": "The Beatles recorded a Christmas message for their fan club every year from 1963 to 1969.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/The_Beatles"
+    },
+    {
+      "text": "John Lennon's assassin, Mark David Chapman, had asked Lennon to sign a copy of Double Fantasy just hours before the shooting.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/John_Lennon%27s_assassin%2C_Mark_David_Chapman"
+    },
+    {
+      "text": "The original cover for the Yesterday and Today album, known as the \"butcher cover,\" showed the Beatles with dismembered baby dolls and meat.",
+      "type": "did-you-know",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20butcher%20cover%2C%20live%20performance"
+    },
+    {
+      "text": "George Harrison was stabbed by an intruder at his Friar Park estate in 1999 and nearly died from his injuries.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/George_Harrison"
+    },
+    {
+      "text": "\"Lucy in the Sky with Diamonds\" was inspired by a drawing made by John Lennon's son Julian, despite persistent rumors it was about LSD.",
+      "type": "did-you-know",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20Lucy%20in%20the%20Sky%20with%20Diamonds%20live%20performance"
+    },
+    {
+      "text": "John Lennon's Aunt Mimi raised him after his parents separated, and she famously told him that guitar was fine as a hobby but would never earn him a living.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/John_Lennon%27s_Aunt_Mimi_raised_him_after_his_parents_separated%2C_and_she_famously"
+    },
+    {
+      "text": "Paul McCartney is left-handed and learned to play guitar by restringing a right-handed instrument upside down.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Paul_McCartney"
+    },
+    {
+      "text": "The Beatles once turned down a $1 million offer to reunite for a single concert, and other offers reached as high as $200 million.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/The_Beatles_once"
+    },
+    {
+      "text": "The piano chord that opens \"A Hard Day's Night\" puzzled musicians for decades until it was analyzed by a mathematician using Fourier analysis.",
+      "type": "did-you-know",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20A%20Hard%20Day%27s%20Night%20live%20performance"
+    },
+    {
+      "text": "\"Come Together\" was originally written by John Lennon as a campaign song for Timothy Leary's run for Governor of California.",
+      "type": "did-you-know",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20Come%20Together%20live%20performance"
+    },
+    {
+      "text": "The Beatles formed in Liverpool in 1960 and became the most commercially successful and critically acclaimed band in popular music history.",
+      "source": "https://en.wikipedia.org/wiki/The_Beatles"
+    },
+    {
+      "text": "The Beatles' core lineup of Lennon, McCartney, Harrison, and Starr remained unchanged from 1962 until the band's breakup in 1970.",
+      "source": "https://en.wikipedia.org/wiki/The_Beatles"
+    },
+    {
+      "text": "The band spent extended periods performing in Hamburg, Germany, in 1960 and 1961, playing grueling eight-hour sets that sharpened their skills.",
+      "source": "https://en.wikipedia.org/wiki/band"
+    },
+    {
+      "text": "During their Hamburg residencies, the Beatles played at clubs including the Indra, the Kaiserkeller, the Top Ten Club, and the Star-Club.",
+      "source": "https://en.wikipedia.org/wiki/Top_Ten_Club"
+    },
+    {
+      "text": "The Cavern Club in Liverpool, where the Beatles played nearly 300 times, became synonymous with the Merseybeat sound.",
+      "source": "https://en.wikipedia.org/wiki/Cavern_Club_in_Liverpool%2C_where_the_Beatles_played_nearly_300_times"
+    },
+    {
+      "text": "Brian Epstein cleaned up the Beatles' image, replacing their leather jackets with matching suits and having them bow at the end of performances.",
+      "source": "https://en.wikipedia.org/wiki/Brian_Epstein"
+    },
+    {
+      "text": "George Martin signed the Beatles to Parlophone, a subsidiary of EMI, after every other major UK label had passed on them.",
+      "source": "https://en.wikipedia.org/wiki/George_Martin"
+    },
+    {
+      "text": "\"Please Please Me,\" the Beatles' second single, reached number one on most UK charts and established them as a major act.",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20Please%20Please%20Me%2C%20live%20performance"
+    },
+    {
+      "text": "The Beatles held the number one spot on the UK albums chart for 30 consecutive weeks with their first two albums.",
+      "source": "https://en.wikipedia.org/wiki/The_Beatles"
+    },
+    {
+      "text": "\"She Loves You\" became the best-selling single in UK chart history at the time of its release in 1963.",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20She%20Loves%20You%20live%20performance"
+    },
+    {
+      "text": "Beatlemania, the term for the intense fan frenzy surrounding the band, was coined by the British press in late 1963.",
+      "source": "https://en.wikipedia.org/wiki/Beatlemania%2C_the_term_for_the_intense_fan_frenzy_surrounding_the_band"
+    },
+    {
+      "text": "During the height of Beatlemania, the band needed police escorts to travel and often could not hear themselves play over screaming fans.",
+      "source": "https://en.wikipedia.org/wiki/During_the"
+    },
+    {
+      "text": "The Beatles' arrival at John F. Kennedy Airport on February 7, 1964, was met by thousands of screaming fans and launched the British Invasion of America.",
+      "source": "https://en.wikipedia.org/wiki/Beatles%27_arrival_at_John_F._Kennedy_Airport_on_February_7%2C_1964"
+    },
+    {
+      "text": "After their Ed Sullivan appearance, crime rates among American juveniles reportedly dropped to nearly zero during the broadcast.",
+      "source": "https://en.wikipedia.org/wiki/Ed_Sullivan"
+    },
+    {
+      "text": "The Beatles starred in the 1964 film A Hard Day's Night, a mockumentary directed by Richard Lester that was both a critical and commercial hit.",
+      "source": "https://en.wikipedia.org/wiki/The_Beatles"
+    },
+    {
+      "text": "A Hard Day's Night was filmed in black and white on a modest budget and is considered one of the most influential music films ever made.",
+      "source": "https://en.wikipedia.org/wiki/A_Hard_Day%27s_Night"
+    },
+    {
+      "text": "The film Help!, released in 1965, was the Beatles' second movie and was shot in color, with location filming in the Bahamas, Austria, and England.",
+      "source": "https://en.wikipedia.org/wiki/film_Help"
+    },
+    {
+      "text": "Yellow Submarine, released in 1968, was an animated film featuring the Beatles as cartoon characters in a psychedelic adventure.",
+      "source": "https://en.wikipedia.org/wiki/Yellow_Submarine"
+    },
+    {
+      "text": "The Let It Be documentary film, released in 1970, captured the tension among band members during their January 1969 recording sessions.",
+      "source": "https://en.wikipedia.org/wiki/Let_It_Be_documentary_film"
+    },
+    {
+      "text": "Peter Jackson's 2021 documentary Get Back used restored footage from the Let It Be sessions and presented a more nuanced view of the band's final days.",
+      "source": "https://en.wikipedia.org/wiki/Peter_Jackson%27s_2021"
+    },
+    {
+      "text": "The Beatles have sold an estimated 600 million records worldwide, making them the best-selling music act in history.",
+      "source": "https://en.wikipedia.org/wiki/The_Beatles"
+    },
+    {
+      "text": "In the United States alone, the Beatles have been certified for over 183 million album units by the RIAA.",
+      "source": "https://en.wikipedia.org/wiki/In_the_United_States_alone%2C_the_Beatles"
+    },
+    {
+      "text": "The Beatles had 20 number-one singles on the Billboard Hot 100, more than any other act.",
+      "source": "https://en.wikipedia.org/wiki/The_Beatles%27_recording_legacy#Number-one_singles"
+    },
+    {
+      "text": "The Beatles spent a total of 132 weeks at number one on the UK singles chart.",
+      "source": "https://en.wikipedia.org/wiki/The_Beatles"
+    },
+    {
+      "text": "John Lennon and Paul McCartney wrote most of the Beatles' songs, though they agreed early on to credit all compositions jointly as Lennon–McCartney.",
+      "source": "https://en.wikipedia.org/wiki/John_Lennon_and_Paul_McCartney"
+    },
+    {
+      "text": "George Harrison developed as a songwriter within the band, contributing classics like \"Something,\" \"Here Comes the Sun,\" and \"While My Guitar Gently Weeps.\"",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20Something%2C%20live%20performance"
+    },
+    {
+      "text": "Ringo Starr wrote or co-wrote a handful of Beatles songs, including \"Don't Pass Me By\" and \"Octopus's Garden.\"",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20Don%27t%20Pass%20Me%20By%20live%20performance"
+    },
+    {
+      "text": "\"Don't Pass Me By,\" from the White Album, was the first Beatles song credited solely to Ringo Starr.",
+      "source": "https://en.wikipedia.org/wiki/The_Beatles_(album)"
+    },
+    {
+      "text": "The Beatles pioneered the concept of the studio album as an artistic statement rather than just a collection of singles.",
+      "source": "https://en.wikipedia.org/wiki/The_Beatles"
+    },
+    {
+      "text": "Rubber Soul marked a turning point where the Beatles moved from pop singles toward more introspective and folk-influenced songwriting.",
+      "source": "https://en.wikipedia.org/wiki/Rubber_Soul"
+    },
+    {
+      "text": "Revolver expanded the Beatles' sonic palette with backward tapes, Indian instruments, brass ensembles, and innovative studio effects.",
+      "source": "https://en.wikipedia.org/wiki/The_Beatles"
+    },
+    {
+      "text": "\"Tomorrow Never Knows\" from Revolver featured tape loops, a droning tamboura, and Lennon's vocals processed through a revolving Leslie speaker.",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20Tomorrow%20Never%20Knows%20live%20performance"
+    },
+    {
+      "text": "Sgt. Pepper's Lonely Hearts Club Band was one of the first concept albums in rock music, with songs loosely tied together by the fictional band persona.",
+      "source": "https://en.wikipedia.org/wiki/Sgt._Pepper%27s_Lonely_Hearts_Club_Band"
+    },
+    {
+      "text": "The Sgt. Pepper's cover was designed by pop artists Peter Blake and Jann Haworth, featuring a collage of life-sized cardboard figures.",
+      "source": "https://en.wikipedia.org/wiki/Sgt._Pepper%27s_Lonely_Hearts_Club_Band"
+    },
+    {
+      "text": "The White Album was a stark contrast to Sgt. Pepper's, featuring a plain white cover designed by artist Richard Hamilton.",
+      "source": "https://en.wikipedia.org/wiki/Sgt._Pepper%27s_Lonely_Hearts_Club_Band"
+    },
+    {
+      "text": "The White Album contained 30 tracks across four sides of vinyl, showcasing a wide range of genres from folk to heavy rock to avant-garde.",
+      "source": "https://en.wikipedia.org/wiki/The_Beatles_(album)"
+    },
+    {
+      "text": "\"Helter Skelter\" from the White Album is often cited as one of the earliest heavy metal or proto-punk songs.",
+      "source": "https://en.wikipedia.org/wiki/The_Beatles_(album)"
+    },
+    {
+      "text": "Charles Manson infamously misinterpreted Beatles songs, particularly \"Helter Skelter\" and \"Piggies,\" as messages encouraging violence.",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20Helter%20Skelter%20live%20performance"
+    },
+    {
+      "text": "Abbey Road features the famous medley on Side Two, a seamless suite of song fragments that is considered one of the band's greatest achievements.",
+      "source": "https://en.wikipedia.org/wiki/Abbey_Road"
+    },
+    {
+      "text": "The Abbey Road medley includes \"You Never Give Me Your Money,\" \"Sun King,\" \"Mean Mr. Mustard,\" \"Polythene Pam,\" \"She Came In Through the Bathroom Window,\" \"Golden Slumbers,\" \"Carry That Weight,\" and \"The End.\"",
+      "source": "https://en.wikipedia.org/wiki/Abbey_Road"
+    },
+    {
+      "text": "The last lyric on Abbey Road is \"And in the end, the love you take is equal to the love you make,\" from the song \"The End.\"",
+      "source": "https://en.wikipedia.org/wiki/Abbey_Road"
+    },
+    {
+      "text": "\"The End\" on Abbey Road features the only drum solo Ringo Starr ever recorded with the Beatles.",
+      "source": "https://en.wikipedia.org/wiki/Abbey_Road"
+    },
+    {
+      "text": "Let It Be was produced by Phil Spector, who added orchestration and choir to several tracks, much to Paul McCartney's displeasure.",
+      "source": "https://en.wikipedia.org/wiki/Let_It_Be"
+    },
+    {
+      "text": "Let It Be... Naked, released in 2003, was a stripped-down version of the album that removed Phil Spector's overdubs, as McCartney had originally envisioned.",
+      "source": "https://en.wikipedia.org/wiki/Let_It_Be..._Naked"
+    },
+    {
+      "text": "The Beatles recorded almost all of their music at EMI Studios (now Abbey Road Studios) on Abbey Road in St John's Wood, London.",
+      "source": "https://en.wikipedia.org/wiki/Abbey_Road"
+    },
+    {
+      "text": "George Martin's classical music training allowed him to write and arrange orchestral parts for Beatles songs, elevating their compositions.",
+      "source": "https://en.wikipedia.org/wiki/George_Martin%27s"
+    },
+    {
+      "text": "Engineer Geoff Emerick was instrumental in developing new recording techniques for the Beatles, including close-miking drums and compressing vocals.",
+      "source": "https://en.wikipedia.org/wiki/Engineer_Geoff_Emerick"
+    },
+    {
+      "text": "The Beatles were among the first artists to use automatic double tracking (ADT), a technique invented by EMI engineer Ken Townsend.",
+      "source": "https://en.wikipedia.org/wiki/The_Beatles"
+    },
+    {
+      "text": "ADT was created specifically because John Lennon disliked the tedious process of manually double-tracking his vocals.",
+      "source": "https://en.wikipedia.org/wiki/ADT"
+    },
+    {
+      "text": "The Beatles pioneered the use of direct injection (DI) for recording bass guitar, giving Paul McCartney's bass a rich, clean sound on later albums.",
+      "source": "https://en.wikipedia.org/wiki/The_Beatles"
+    },
+    {
+      "text": "The band experimented with varispeed recording, altering the speed of tapes to change the pitch and character of instruments and vocals.",
+      "source": "https://en.wikipedia.org/wiki/The_Beatles"
+    },
+    {
+      "text": "\"In My Life\" features a piano solo by George Martin that was recorded at half speed and then sped up to sound like a baroque harpsichord.",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20In%20My%20Life%20live%20performance"
+    },
+    {
+      "text": "The Beatles were early adopters of the Moog synthesizer, which George Harrison used on the Abbey Road album.",
+      "source": "https://en.wikipedia.org/wiki/Abbey_Road"
+    },
+    {
+      "text": "George Harrison's interest in Indian music led him to study sitar with Ravi Shankar, influencing songs like \"Norwegian Wood\" and \"Within You Without You.\"",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20Norwegian%20Wood%20live%20performance"
+    },
+    {
+      "text": "\"Within You Without You\" from Sgt. Pepper's was performed entirely by George Harrison and Indian musicians, with no other Beatles participating.",
+      "source": "https://en.wikipedia.org/wiki/Sgt._Pepper%27s_Lonely_Hearts_Club_Band"
+    },
+    {
+      "text": "The Beatles used a wide variety of unusual instruments, including the harmonium, sitar, tamboura, tabla, mellotron, and clavioline.",
+      "source": "https://en.wikipedia.org/wiki/The_Beatles"
+    },
+    {
+      "text": "John Lennon primarily played rhythm guitar and was known for his raw, aggressive strumming style.",
+      "source": "https://en.wikipedia.org/wiki/John_Lennon_primarily_played_rhythm_guitar_and"
+    },
+    {
+      "text": "Paul McCartney's melodic bass playing, particularly from Rubber Soul onward, is considered among the most influential in rock history.",
+      "source": "https://en.wikipedia.org/wiki/Paul_McCartney%27s_melodic_bass_playing%2C_particularly_from_Rubber_Soul_onward"
+    },
+    {
+      "text": "George Harrison was known as \"the quiet Beatle\" and developed into one of rock's most respected lead guitarists.",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20the%20quiet%20Beatle%20live%20performance"
+    },
+    {
+      "text": "Ringo Starr's drumming style, characterized by his unorthodox left-handed playing on a right-handed kit, gave the Beatles a unique rhythmic feel.",
+      "source": "https://en.wikipedia.org/wiki/Ringo_Starr%27s_drumming_style%2C_characterized_by_his_unorthodox"
+    },
+    {
+      "text": "John Lennon played a Rickenbacker 325 guitar, which became one of the most iconic instruments in rock history.",
+      "source": "https://en.wikipedia.org/wiki/John_Lennon_played_a_Rickenbacker_325_guitar%2C_which"
+    },
+    {
+      "text": "Paul McCartney's primary bass was a Höfner 500/1 violin bass, which he chose partly because its symmetrical shape looked natural played left-handed.",
+      "source": "https://en.wikipedia.org/wiki/Paul_McCartney%27s_primary_bass"
+    },
+    {
+      "text": "George Harrison's most famous guitar was a 1957 Gretsch Duo Jet, though he later favored a Fender Stratocaster and Gibson Les Paul.",
+      "source": "https://en.wikipedia.org/wiki/George_Harrison%27s_most_famous_guitar"
+    },
+    {
+      "text": "Ringo Starr mainly played Ludwig drums throughout the Beatles' career, and his Ludwig kit with the drop-T logo became iconic.",
+      "source": "https://en.wikipedia.org/wiki/Ringo_Starr"
+    },
+    {
+      "text": "John Lennon also played harmonica on several early Beatles tracks, including \"Love Me Do\" and \"Please Please Me.\"",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20Love%20Me%20Do%20live%20performance"
+    },
+    {
+      "text": "Paul McCartney is a multi-instrumentalist who played bass, guitar, piano, drums, and various other instruments on Beatles recordings.",
+      "source": "https://en.wikipedia.org/wiki/Paul_McCartney"
+    },
+    {
+      "text": "The Beatles' vocal harmonies, often featuring three-part arrangements by Lennon, McCartney, and Harrison, were a hallmark of their sound.",
+      "source": "https://en.wikipedia.org/wiki/The_Beatles"
+    },
+    {
+      "text": "Apple Corps Ltd. was established by the Beatles in 1968 as a multimedia corporation encompassing records, films, electronics, and retail.",
+      "source": "https://en.wikipedia.org/wiki/Apple_Corps_Ltd"
+    },
+    {
+      "text": "Apple Records was the Beatles' own record label, home to artists like Mary Hopkin, Badfinger, James Taylor, and Billy Preston.",
+      "source": "https://en.wikipedia.org/wiki/Apple_Records"
+    },
+    {
+      "text": "The Beatles' decision to manage their own business affairs through Apple Corps after Brian Epstein's death led to significant financial problems.",
+      "source": "https://en.wikipedia.org/wiki/The_Beatles"
+    },
+    {
+      "text": "Allen Klein was hired as the Beatles' business manager in 1969 at the insistence of Lennon, Harrison, and Starr, over McCartney's objections.",
+      "source": "https://en.wikipedia.org/wiki/Allen_Klein"
+    },
+    {
+      "text": "Paul McCartney wanted his father-in-law Lee Eastman and brother-in-law John Eastman to manage the Beatles' affairs, creating a rift with the other three.",
+      "source": "https://en.wikipedia.org/wiki/Paul_McCartney"
+    },
+    {
+      "text": "The dispute over management was a significant factor in the Beatles' breakup, with McCartney eventually suing to dissolve the partnership.",
+      "source": "https://en.wikipedia.org/wiki/dispute_over_management"
+    },
+    {
+      "text": "The Beatles' Northern Songs publishing company, which held the rights to Lennon–McCartney compositions, was sold to ATV Music in 1969 against their wishes.",
+      "source": "https://en.wikipedia.org/wiki/The_Beatles%27_Northern_Songs"
+    },
+    {
+      "text": "Michael Jackson purchased the ATV music catalog, which included most Lennon–McCartney songs, for $47.5 million in 1985.",
+      "source": "https://en.wikipedia.org/wiki/Michael_Jackson"
+    },
+    {
+      "text": "Sony acquired the ATV catalog through a merger with Jackson's estate, and Paul McCartney later regained his share of the publishing rights.",
+      "source": "https://en.wikipedia.org/wiki/Sony"
+    },
+    {
+      "text": "The Beatles stopped touring in 1966, partly because the screaming at concerts made it impossible for them to hear themselves play.",
+      "source": "https://en.wikipedia.org/wiki/The_Beatles"
+    },
+    {
+      "text": "After retiring from touring, the Beatles focused entirely on studio recording, which allowed them to create increasingly complex music.",
+      "source": "https://en.wikipedia.org/wiki/The_Beatles"
+    },
+    {
+      "text": "\"Penny Lane\" and \"Strawberry Fields Forever\" were released as a double A-side single in 1967 and are considered among the greatest singles ever made.",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20Penny%20Lane%20live%20performance"
+    },
+    {
+      "text": "Both \"Penny Lane\" and \"Strawberry Fields Forever\" are named after real places in Liverpool where Lennon and McCartney spent time as children.",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20Penny%20Lane%20live%20performance"
+    },
+    {
+      "text": "\"All You Need Is Love\" was performed live on Our World, the first live global satellite television broadcast, reaching an estimated 400 million viewers.",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20All%20You%20Need%20Is%20Love%20live%20performance"
+    },
+    {
+      "text": "The Beatles traveled to Rishikesh, India, in 1968 to study Transcendental Meditation with Maharishi Mahesh Yogi.",
+      "source": "https://en.wikipedia.org/wiki/The_Beatles"
+    },
+    {
+      "text": "The Rishikesh trip was highly productive creatively, with the band writing many of the songs that appeared on the White Album.",
+      "source": "https://en.wikipedia.org/wiki/The_Beatles_(album)"
+    },
+    {
+      "text": "John Lennon married Cynthia Powell in 1962, and they had a son, Julian, born in 1963.",
+      "source": "https://en.wikipedia.org/wiki/John_Lennon_married_Cynthia_Powell_in_1962%2C_and_they"
+    },
+    {
+      "text": "John Lennon met Yoko Ono at her art exhibition at the Indica Gallery in London in November 1966.",
+      "source": "https://en.wikipedia.org/wiki/John_Lennon"
+    },
+    {
+      "text": "Lennon and Ono married in Gibraltar on March 20, 1969, and held their famous Bed-Ins for Peace in Amsterdam and Montreal.",
+      "source": "https://en.wikipedia.org/wiki/Lennon_and_Ono"
+    },
+    {
+      "text": "John and Yoko's son Sean Lennon was born on October 9, 1975, which was also John's 35th birthday.",
+      "source": "https://en.wikipedia.org/wiki/John_and_Yoko%27s_son_Sean_Lennon"
+    },
+    {
+      "text": "Paul McCartney married Linda Eastman in 1969, and they remained together until her death from breast cancer in 1998.",
+      "source": "https://en.wikipedia.org/wiki/Paul_McCartney"
+    },
+    {
+      "text": "Paul and Linda McCartney formed the band Wings in 1971, which became one of the most successful acts of the 1970s.",
+      "source": "https://en.wikipedia.org/wiki/Paul_and_Linda_McCartney"
+    },
+    {
+      "text": "Paul McCartney married Heather Mills in 2002, and they divorced in 2008 after a highly publicized settlement.",
+      "source": "https://en.wikipedia.org/wiki/Paul_McCartney"
+    },
+    {
+      "text": "Paul McCartney married Nancy Shevell in 2011 at Old Marylebone Town Hall in London.",
+      "source": "https://en.wikipedia.org/wiki/Paul_McCartney"
+    },
+    {
+      "text": "George Harrison married Pattie Boyd in 1966; she later left him for his close friend Eric Clapton.",
+      "source": "https://en.wikipedia.org/wiki/George_Harrison_married_Pattie_Boyd_in_1966%3B_she_later"
+    },
+    {
+      "text": "Eric Clapton wrote \"Layla\" about his unrequited love for Pattie Boyd while she was still married to George Harrison.",
+      "source": "https://www.youtube.com/results?search_query=Eric+Clapton+Layla+live"
+    },
+    {
+      "text": "George Harrison married Olivia Arias in 1978 and they had a son, Dhani, who bears a striking resemblance to his father.",
+      "source": "https://en.wikipedia.org/wiki/George_Harrison_married_Olivia_Arias_in_1978_and_they"
+    },
+    {
+      "text": "Ringo Starr married Maureen Cox in 1965, and they had three children before divorcing in 1975.",
+      "source": "https://en.wikipedia.org/wiki/Ringo_Starr_married_Maureen_Cox_in_1965%2C_and_they"
+    },
+    {
+      "text": "Ringo Starr married actress and model Barbara Bach in 1981, and they have been together ever since.",
+      "source": "https://en.wikipedia.org/wiki/Ringo_Starr_married_actress_and_model_Barbara_Bach_in_1981%2C_and_they"
+    },
+    {
+      "text": "After the breakup, John Lennon released albums including Plastic Ono Band, Imagine, and Double Fantasy.",
+      "source": "https://en.wikipedia.org/wiki/After_the_breakup%2C_John_Lennon"
+    },
+    {
+      "text": "\"Imagine\" by John Lennon, released in 1971, became one of the most iconic songs of the 20th century.",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20Imagine%20live%20performance"
+    },
+    {
+      "text": "Paul McCartney's solo and Wings career produced hits including \"Band on the Run,\" \"Live and Let Die,\" and \"Maybe I'm Amazed.\"",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20Band%20on%20the%20Run%2C%20live%20performance"
+    },
+    {
+      "text": "George Harrison's solo debut, All Things Must Pass, was a triple album that is widely considered one of the greatest solo albums by any Beatle.",
+      "source": "https://en.wikipedia.org/wiki/George_Harrison%27s_solo_debut%2C_All_Things_Must_Pass"
+    },
+    {
+      "text": "\"My Sweet Lord\" by George Harrison was the first solo single by a Beatle to reach number one, but was later found to have unconsciously plagiarized \"He's So Fine\" by the Chiffons.",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20My%20Sweet%20Lord%20live%20performance"
+    },
+    {
+      "text": "Ringo Starr had solo hits including \"Photograph,\" \"It Don't Come Easy,\" and \"You're Sixteen.\"",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20Photograph%2C%20live%20performance"
+    },
+    {
+      "text": "Ringo Starr has toured extensively with his All-Starr Band, a rotating supergroup, since 1989.",
+      "source": "https://en.wikipedia.org/wiki/Ringo_Starr"
+    },
+    {
+      "text": "John Lennon took a five-year hiatus from music between 1975 and 1980 to raise his son Sean, calling himself a \"house husband.\"",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20house%20husband.%20live%20performance"
+    },
+    {
+      "text": "Double Fantasy, John Lennon's comeback album, was released just three weeks before his murder in December 1980.",
+      "source": "https://en.wikipedia.org/wiki/Double_Fantasy%2C_John_Lennon%27s_comeback_album"
+    },
+    {
+      "text": "The Beatles' influence extends far beyond music, affecting fashion, film, art, politics, and social attitudes.",
+      "source": "https://en.wikipedia.org/wiki/The_Beatles"
+    },
+    {
+      "text": "The Beatles popularized the mop-top hairstyle, which became a fashion craze in the 1960s.",
+      "source": "https://en.wikipedia.org/wiki/Beatles_popularized_the_mop-top_hairstyle%2C_which"
+    },
+    {
+      "text": "The band's transition from matching suits to colorful, eclectic clothing mirrored the cultural shift of the 1960s.",
+      "source": "https://en.wikipedia.org/wiki/The_Beatles"
+    },
+    {
+      "text": "The collarless Pierre Cardin suits worn by the Beatles in 1963 became a major fashion trend.",
+      "source": "https://en.wikipedia.org/wiki/collarless_Pierre_Cardin_suits_worn_by_the_Beatles_in_1963"
+    },
+    {
+      "text": "During the Sgt. Pepper's era, the Beatles embraced psychedelic fashion with brightly colored military-style uniforms and flamboyant accessories.",
+      "source": "https://en.wikipedia.org/wiki/Sgt._Pepper%27s_Lonely_Hearts_Club_Band"
+    },
+    {
+      "text": "The Beatles helped popularize Nehru jackets and Indian-inspired clothing in Western fashion after their trips to India.",
+      "source": "https://en.wikipedia.org/wiki/The_Beatles"
+    },
+    {
+      "text": "John Lennon's round wire-rimmed glasses became an iconic accessory forever associated with the counterculture movement.",
+      "source": "https://en.wikipedia.org/wiki/John_Lennon%27s_round_wire-rimmed_glasses"
+    },
+    {
+      "text": "The Beatles were awarded MBEs (Members of the Order of the British Empire) by Queen Elizabeth II in 1965, which caused controversy among previous recipients.",
+      "source": "https://en.wikipedia.org/wiki/The_Beatles"
+    },
+    {
+      "text": "The Beatles' influence on recording technology changed how popular music was produced, encouraging artists to treat the studio as an instrument.",
+      "source": "https://en.wikipedia.org/wiki/Beatles%27_influence_on_recording_technology"
+    },
+    {
+      "text": "The concept album, the promotional music video, and the stadium concert were all popularized or pioneered by the Beatles.",
+      "source": "https://en.wikipedia.org/wiki/concept_album%2C_the_promotional_music_video%2C_and_the_stadium_concert"
+    },
+    {
+      "text": "The Beatles' promotional films for \"Strawberry Fields Forever\" and \"Penny Lane\" are considered forerunners of the modern music video.",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20Strawberry%20Fields%20Forever%20live%20performance"
+    },
+    {
+      "text": "The band's 1965 concert at Shea Stadium is considered the birth of stadium rock.",
+      "source": "https://en.wikipedia.org/wiki/band%27s_1965_concert_at_Shea_Stadium"
+    },
+    {
+      "text": "The Beatles influenced countless artists, from the Beach Boys and the Rolling Stones to Oasis, Radiohead, and Beyoncé.",
+      "source": "https://en.wikipedia.org/wiki/The_Beatles"
+    },
+    {
+      "text": "Brian Wilson of the Beach Boys was so inspired by Rubber Soul that he created Pet Sounds in response, which in turn influenced Sgt. Pepper's.",
+      "source": "https://en.wikipedia.org/wiki/Sgt._Pepper%27s_Lonely_Hearts_Club_Band"
+    },
+    {
+      "text": "The Beatles' music has been covered by artists in virtually every genre, from jazz and classical to punk and electronic.",
+      "source": "https://en.wikipedia.org/wiki/Beatles%27_music"
+    },
+    {
+      "text": "Liverpool's economy has been significantly boosted by Beatles tourism, with landmarks like the Cavern Club, Penny Lane, and Strawberry Field attracting millions of visitors.",
+      "source": "https://en.wikipedia.org/wiki/Liverpool%27s_economy"
+    },
+    {
+      "text": "The Beatles Story museum in Liverpool is the world's largest permanent exhibition devoted to the band.",
+      "source": "https://en.wikipedia.org/wiki/Beatles_Story_museum_in_Liverpool"
+    },
+    {
+      "text": "In 2001, Liverpool's airport was officially renamed Liverpool John Lennon Airport, with the motto \"Above Us Only Sky.\"",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20Above%20Us%20Only%20Sky.%20live%20performance"
+    },
+    {
+      "text": "The Beatles' music was not available on any digital streaming service until 2015, when their catalog was released on Spotify, Apple Music, and other platforms.",
+      "source": "https://en.wikipedia.org/wiki/Beatles%27_music"
+    },
+    {
+      "text": "The Beatles' catalog was not available on iTunes until 2010, after years of legal disputes between Apple Corps and Apple Inc.",
+      "source": "https://en.wikipedia.org/wiki/Beatles%27_catalog"
+    },
+    {
+      "text": "The Beatles 1, a compilation of their number-one singles released in 2000, became one of the best-selling albums of the 21st century.",
+      "source": "https://en.wikipedia.org/wiki/The_Beatles%27_recording_legacy#Number-one_singles"
+    },
+    {
+      "text": "LOVE, a Cirque du Soleil show set to a remixed Beatles soundtrack produced by George Martin and his son Giles, opened in Las Vegas in 2006.",
+      "source": "https://en.wikipedia.org/wiki/LOVE%2C_a_Cirque_du_Soleil_show"
+    },
+    {
+      "text": "The Beatles' Anthology project in the mid-1990s included three double albums, a television documentary series, and a book.",
+      "source": "https://en.wikipedia.org/wiki/The_Beatles%27_Anthology"
+    },
+    {
+      "text": "\"Real Love,\" the second new Beatles single from the Anthology sessions, was also built from a John Lennon home demo.",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20Real%20Love%2C%20live%20performance"
+    },
+    {
+      "text": "For \"Now and Then,\" machine learning technology was used to separate John Lennon's vocals from background piano on a 1970s cassette recording.",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20Now%20and%20Then%2C%20live%20performance"
+    },
+    {
+      "text": "Giles Martin, son of George Martin, has overseen modern remixes and remastered editions of the Beatles' catalog.",
+      "source": "https://en.wikipedia.org/wiki/Giles_Martin%2C_son_of_George_Martin"
+    },
+    {
+      "text": "The Beatles' entire catalog was remastered in both stereo and mono and re-released in 2009.",
+      "source": "https://en.wikipedia.org/wiki/Beatles%27_entire_catalog"
+    },
+    {
+      "text": "The song \"Hey Jude\" was written by Paul McCartney to comfort John Lennon's son Julian during his parents' divorce.",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20Hey%20Jude%20live%20performance"
+    },
+    {
+      "text": "\"Hey Jude\" was the first single released on the Apple Records label and became the best-selling single of 1968.",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20Hey%20Jude%20live%20performance"
+    },
+    {
+      "text": "At over seven minutes, \"Hey Jude\" was the longest single to reach number one at the time of its release.",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20Hey%20Jude%20live%20performance"
+    },
+    {
+      "text": "\"Get Back\" was the Beatles' last number-one single in the UK before their breakup.",
+      "source": "https://en.wikipedia.org/wiki/The_Beatles%27_recording_legacy#Number-one_singles"
+    },
+    {
+      "text": "\"The Ballad of John and Yoko\" was recorded by just Lennon and McCartney, as Harrison and Starr were unavailable.",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20The%20Ballad%20of%20John%20and%20Yoko%20live%20performance"
+    },
+    {
+      "text": "\"Across the Universe\" features the Sanskrit mantra \"Jai Guru Deva Om\" and was first released on a charity album before appearing on Let It Be.",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20Across%20the%20Universe%20live%20performance"
+    },
+    {
+      "text": "\"Blackbird\" by Paul McCartney was written as a response to racial tensions in the United States in 1968.",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20Blackbird%20live%20performance"
+    },
+    {
+      "text": "\"Back in the U.S.S.R.\" was a parody of the Beach Boys' \"California Girls\" and Chuck Berry's \"Back in the U.S.A.\"",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20Back%20in%20the%20U.S.S.R.%20live%20performance"
+    },
+    {
+      "text": "\"Here Comes the Sun\" was written by George Harrison in Eric Clapton's garden during a break from stressful Apple business meetings.",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20Here%20Comes%20the%20Sun%20live%20performance"
+    },
+    {
+      "text": "\"Something\" was the first George Harrison composition to appear as the A-side of a Beatles single.",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20Something%20live%20performance"
+    },
+    {
+      "text": "\"Come Together\" was the opening track of Abbey Road and featured one of Lennon's most distinctive vocal performances.",
+      "source": "https://en.wikipedia.org/wiki/Abbey_Road"
+    },
+    {
+      "text": "\"Let It Be\" features Billy Preston on organ, and his contribution was so significant that the single was credited to \"The Beatles with Billy Preston.\"",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20Let%20It%20Be%20live%20performance"
+    },
+    {
+      "text": "Billy Preston is the only musician to receive a co-billing credit on a Beatles single.",
+      "source": "https://en.wikipedia.org/wiki/Billy_Preston"
+    },
+    {
+      "text": "\"Eleanor Rigby\" featured no traditional rock instruments, instead using a string octet arranged by George Martin.",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20Eleanor%20Rigby%20live%20performance"
+    },
+    {
+      "text": "\"Ticket to Ride\" has been described by John Lennon as one of the earliest heavy metal records due to its heavy, droning riff.",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20Ticket%20to%20Ride%20live%20performance"
+    },
+    {
+      "text": "\"I Am the Walrus\" was partly inspired by Lennon's desire to confuse fans and critics who tried to analyze Beatles lyrics.",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20I%20Am%20the%20Walrus%20live%20performance"
+    },
+    {
+      "text": "The song \"Being for the Benefit of Mr. Kite!\" was based almost word-for-word on a Victorian circus poster that Lennon had purchased at an antique shop.",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20Being%20for%20the%20Benefit%20of%20Mr.%20Kite%21%20live%20performance"
+    },
+    {
+      "text": "\"A Day in the Life\" was banned by the BBC for allegedly promoting drug use, though Lennon insisted the lyrics were based on newspaper articles.",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20A%20Day%20in%20the%20Life%20live%20performance"
+    },
+    {
+      "text": "\"Happiness Is a Warm Gun\" from the White Album was inspired by a gun magazine cover that Lennon saw at George Martin's home.",
+      "source": "https://en.wikipedia.org/wiki/The_Beatles_(album)"
+    },
+    {
+      "text": "\"Martha My Dear\" was named after Paul McCartney's Old English Sheepdog, Martha.",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20Martha%20My%20Dear%20live%20performance"
+    },
+    {
+      "text": "\"Dear Prudence\" was written about Prudence Farrow, Mia Farrow's sister, who was meditating so intensely in India that she wouldn't come out of her room.",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20Dear%20Prudence%20live%20performance"
+    },
+    {
+      "text": "\"Sexy Sadie\" was originally written about the Maharishi Mahesh Yogi after the Beatles became disillusioned with him, but the title was changed for legal reasons.",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20Sexy%20Sadie%20live%20performance"
+    },
+    {
+      "text": "\"Good Day Sunshine\" was influenced by the Lovin' Spoonful's \"Daydream,\" which Paul McCartney admired.",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20Good%20Day%20Sunshine%20live%20performance"
+    },
+    {
+      "text": "\"Rain\" is notable for Ringo Starr's drumming, which many consider among his finest performances.",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20Rain%20live%20performance"
+    },
+    {
+      "text": "\"Paperback Writer\" and \"Rain\" were the first Beatles recordings to use the technique of feeding the bass guitar signal directly into the mixing console.",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20Paperback%20Writer%20live%20performance"
+    },
+    {
+      "text": "\"I Want You (She's So Heavy)\" from Abbey Road ends with an abrupt, jarring cut in the middle of a repeated riff, as Lennon instructed the tape to be cut with a razor blade.",
+      "source": "https://en.wikipedia.org/wiki/Abbey_Road"
+    },
+    {
+      "text": "\"Golden Slumbers\" was adapted by McCartney from a 16th-century lullaby by Thomas Dekker after he found the sheet music at his father's house.",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20Golden%20Slumbers%20live%20performance"
+    },
+    {
+      "text": "\"Because\" from Abbey Road features three-part harmonies sung by Lennon, McCartney, and Harrison, triple-tracked to create a nine-voice choir effect.",
+      "source": "https://en.wikipedia.org/wiki/Abbey_Road"
+    },
+    {
+      "text": "\"Because\" was inspired by Yoko Ono playing Beethoven's \"Moonlight Sonata,\" and Lennon asked her to play the chords backward.",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20Because%20live%20performance"
+    },
+    {
+      "text": "\"Don't Let Me Down\" was one of the songs performed during the rooftop concert and showcased Lennon's emotional, passionate singing.",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20Don%27t%20Let%20Me%20Down%20live%20performance"
+    },
+    {
+      "text": "\"Two of Us\" from Let It Be captured the Lennon–McCartney dynamic with its acoustic intimacy and shared vocals.",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20Two%20of%20Us%20live%20performance"
+    },
+    {
+      "text": "The Beatles recorded many songs that were given away to other artists, including \"Bad to Me\" for Billy J. Kramer and \"A World Without Love\" for Peter and Gordon.",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20Bad%20to%20Me%20live%20performance"
+    },
+    {
+      "text": "The song \"I Wanna Be Your Man\" was written by Lennon and McCartney and given to the Rolling Stones, becoming one of their early hits.",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20I%20Wanna%20Be%20Your%20Man%20live%20performance"
+    },
+    {
+      "text": "The Beatles performed the first worldwide live satellite TV broadcast musical performance with \"All You Need Is Love\" in June 1967.",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20All%20You%20Need%20Is%20Love%20live%20performance"
+    },
+    {
+      "text": "The Beatles won seven Grammy Awards during their career and received a Lifetime Achievement Award in 2014.",
+      "source": "https://en.wikipedia.org/wiki/The_Beatles"
+    },
+    {
+      "text": "The Beatles have had more number-one albums on the UK charts than any other artist, with 15 chart-topping albums.",
+      "source": "https://en.wikipedia.org/wiki/The_Beatles"
+    },
+    {
+      "text": "In 2012, EMI's entire recorded music division, including the Beatles' catalog, was acquired by Universal Music Group.",
+      "source": "https://en.wikipedia.org/wiki/EMI%27s_entire"
+    },
+    {
+      "text": "The Beatles appeared in their own Saturday morning cartoon series, which ran from 1965 to 1969 on ABC in the United States.",
+      "source": "https://en.wikipedia.org/wiki/The_Beatles"
+    },
+    {
+      "text": "The radio play \"The Beatles at the Beeb\" compiled recordings the band made for BBC Radio between 1962 and 1965, many of which featured unique arrangements.",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20The%20Beatles%20at%20the%20Beeb%20live%20performance"
+    },
+    {
+      "text": "The Beatles recorded over 50 sessions for the BBC, performing live versions of their hits and obscure cover songs.",
+      "source": "https://en.wikipedia.org/wiki/The_Beatles"
+    },
+    {
+      "text": "At the BBC sessions, the Beatles performed rock and roll covers they rarely played elsewhere, revealing their deep roots in American music.",
+      "source": "https://en.wikipedia.org/wiki/At_the_BBC_sessions%2C_the_Beatles"
+    },
+    {
+      "text": "The Live at the BBC album, released in 1994, collected many of these performances and reached number one in the UK.",
+      "source": "https://en.wikipedia.org/wiki/Live_at_the_BBC_album"
+    },
+    {
+      "text": "The Beatles were influenced by American rock and roll pioneers including Chuck Berry, Little Richard, Elvis Presley, and Buddy Holly.",
+      "source": "https://en.wikipedia.org/wiki/The_Beatles"
+    },
+    {
+      "text": "John Lennon once said that before Elvis, there was nothing, highlighting Presley's foundational influence on the band.",
+      "source": "https://en.wikipedia.org/wiki/John_Lennon_once"
+    },
+    {
+      "text": "The Quarrymen, John Lennon's first band, were named after Quarry Bank High School, which Lennon attended in Liverpool.",
+      "source": "https://en.wikipedia.org/wiki/Quarrymen%2C_John_Lennon%27s_first_band"
+    },
+    {
+      "text": "Stuart Sutcliffe, the Beatles' original bassist, died of a brain hemorrhage in Hamburg in April 1962 at the age of 21.",
+      "source": "https://en.wikipedia.org/wiki/Stuart_Sutcliffe"
+    },
+    {
+      "text": "After Sutcliffe's departure from the band, Paul McCartney reluctantly switched from guitar to bass.",
+      "source": "https://en.wikipedia.org/wiki/After_Sutcliffe%27s"
+    },
+    {
+      "text": "The Beatles were deported from Hamburg in 1960 after George Harrison was discovered to be underage for working in the clubs.",
+      "source": "https://en.wikipedia.org/wiki/The_Beatles"
+    },
+    {
+      "text": "Astrid Kirchherr, a German photographer and friend of Stuart Sutcliffe, is often credited with shaping the Beatles' early visual image.",
+      "source": "https://en.wikipedia.org/wiki/Astrid_Kirchherr%2C_a_German_photographer_and_friend_of_Stuart_Sutcliffe"
+    },
+    {
+      "text": "Kirchherr supposedly gave the Beatles their mop-top hairstyle, though its true origins are debated.",
+      "source": "https://en.wikipedia.org/wiki/Kirchherr_supposedly_gave_the_Beatles_their_mop-top_hairstyle%2C_though_its_true_origins"
+    },
+    {
+      "text": "The Beatles' first recording session at EMI Studios took place on June 6, 1962, after which George Martin agreed to sign them.",
+      "source": "https://en.wikipedia.org/wiki/The_Beatles%27_first_recording_session_at_EMI_Studios"
+    },
+    {
+      "text": "Pete Best was fired from the Beatles on August 16, 1962, and Ringo Starr joined the band two days later.",
+      "source": "https://en.wikipedia.org/wiki/Pete_Best"
+    },
+    {
+      "text": "The exact reasons for Pete Best's dismissal remain debated, with explanations ranging from personality clashes to Martin's preference for a session drummer.",
+      "source": "https://en.wikipedia.org/wiki/Pete_Best%27s"
+    },
+    {
+      "text": "Andy White, a session drummer, played on the single version of \"Love Me Do\" because George Martin was not confident in Ringo's abilities at first.",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20Love%20Me%20Do%20live%20performance"
+    },
+    {
+      "text": "\"From Me to You\" was the Beatles' third single and their first to reach number one on the Record Retailer chart.",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20From%20Me%20to%20You%20live%20performance"
+    },
+    {
+      "text": "\"I Feel Fine\" was number one for five weeks in the UK and was notable for its opening feedback note, a first in popular music.",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20I%20Feel%20Fine%20live%20performance"
+    },
+    {
+      "text": "\"Day Tripper\" and \"We Can Work It Out\" were released as a rare double A-side single in December 1965.",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20Day%20Tripper%20live%20performance"
+    },
+    {
+      "text": "\"Paperback Writer\" marked a shift toward more mature lyrics, telling the story of a struggling author rather than a love story.",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20Paperback%20Writer%20live%20performance"
+    },
+    {
+      "text": "\"Yellow Submarine\" was written by McCartney as a children's song and became the centerpiece for the animated film of the same name.",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20Yellow%20Submarine%20live%20performance"
+    },
+    {
+      "text": "The Beatles' final photo session together took place at John Lennon's Tittenhurst Park estate on August 22, 1969.",
+      "source": "https://en.wikipedia.org/wiki/The_Beatles%27_final_photo_session_together"
+    },
+    {
+      "text": "Mal Evans and Neil Aspinall served as the Beatles' road managers and personal assistants throughout their career.",
+      "source": "https://en.wikipedia.org/wiki/Mal_Evans_and_Neil_Aspinall"
+    },
+    {
+      "text": "Neil Aspinall later became the managing director of Apple Corps and oversaw the Beatles' legacy projects until his death in 2008.",
+      "source": "https://en.wikipedia.org/wiki/Neil_Aspinall_later"
+    },
+    {
+      "text": "Derek Taylor served as the Beatles' press officer and was known for his witty, eloquent handling of the media.",
+      "source": "https://en.wikipedia.org/wiki/Derek_Taylor_served_as_the_Beatles%27_press_officer_and"
+    },
+    {
+      "text": "The Beatles experimented with LSD beginning in 1965, which significantly influenced the psychedelic direction of their music.",
+      "source": "https://en.wikipedia.org/wiki/The_Beatles"
+    },
+    {
+      "text": "John Lennon and George Harrison were first given LSD without their knowledge by a dentist at a dinner party in 1965.",
+      "source": "https://en.wikipedia.org/wiki/John_Lennon_and_George_Harrison"
+    },
+    {
+      "text": "\"Got to Get You into My Life\" was later revealed by Paul McCartney to be an ode to marijuana rather than a love song.",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20Got%20to%20Get%20You%20into%20My%20Life%20live%20performance"
+    },
+    {
+      "text": "The Beatles' embrace of Transcendental Meditation helped popularize Eastern spirituality in the Western world.",
+      "source": "https://en.wikipedia.org/wiki/Beatles%27_embrace_of_Transcendental_Meditation"
+    },
+    {
+      "text": "The Beatles' \"more popular than Jesus\" controversy in 1966 led to radio stations banning their music and organized record burnings in the American Bible Belt.",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20more%20popular%20than%20Jesus%20live%20performance"
+    },
+    {
+      "text": "John Lennon eventually apologized for the \"more popular than Jesus\" remark at a press conference in Chicago in August 1966.",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20more%20popular%20than%20Jesus%20live%20performance"
+    },
+    {
+      "text": "The Beatles' decision to stop touring in 1966 was also influenced by safety concerns following the Philippines incident, where they were mobbed after inadvertently snubbing the First Lady.",
+      "source": "https://en.wikipedia.org/wiki/Beatles%27_decision_to_stop_touring_in_1966"
+    },
+    {
+      "text": "The cover of the Please Please Me album was photographed by Angus McBean at the stairwell of EMI's headquarters in Manchester Square, London.",
+      "source": "https://en.wikipedia.org/wiki/cover_of_the_Please_Please_Me_album"
+    },
+    {
+      "text": "The same stairwell was used for a similar photograph during the Get Back sessions in 1969, which later appeared on the 1962–1966 and 1967–1970 compilations.",
+      "source": "https://en.wikipedia.org/wiki/same_stairwell"
+    },
+    {
+      "text": "The Revolver album cover was designed by Klaus Voormann, a friend of the Beatles from their Hamburg days, using a distinctive pen-and-ink collage style.",
+      "source": "https://en.wikipedia.org/wiki/Revolver_album_cover"
+    },
+    {
+      "text": "Peter Blake's Sgt. Pepper's cover won the Grammy Award for Best Album Cover in 1968.",
+      "source": "https://en.wikipedia.org/wiki/Sgt._Pepper%27s_Lonely_Hearts_Club_Band"
+    },
+    {
+      "text": "The Let It Be album cover features four individual photos of each Beatle against colored backgrounds, echoing their first album cover layout.",
+      "source": "https://en.wikipedia.org/wiki/Let_It_Be_album_cover"
+    },
+    {
+      "text": "The Beatles' Red Album (1962–1966) and Blue Album (1967–1970) compilations have remained among the best-selling greatest hits packages in history.",
+      "source": "https://en.wikipedia.org/wiki/Beatles%27_Red_Album_(1962%E2%80%931966)_and_Blue_Album_(1967%E2%80%931970)_compilations"
+    },
+    {
+      "text": "John Lennon's song \"Imagine\" was partly inspired by Yoko Ono's conceptual art and her book Grapefruit.",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20Imagine%20live%20performance"
+    },
+    {
+      "text": "George Harrison was a dedicated gardener and spent years restoring the grounds of his estate, Friar Park, in Henley-on-Thames.",
+      "source": "https://en.wikipedia.org/wiki/George_Harrison"
+    },
+    {
+      "text": "George Harrison co-founded HandMade Films in 1978, which produced Monty Python's Life of Brian and other acclaimed movies.",
+      "source": "https://en.wikipedia.org/wiki/George_Harrison"
+    },
+    {
+      "text": "Harrison mortgaged his home to finance Life of Brian after EMI pulled its funding, calling it \"the most expensive cinema ticket ever.\"",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20the%20most%20expensive%20cinema%20ticket%20ever.%20live%20performance"
+    },
+    {
+      "text": "Ringo Starr has appeared in numerous films outside the Beatles, including Caveman, where he met his wife Barbara Bach.",
+      "source": "https://en.wikipedia.org/wiki/Ringo_Starr"
+    },
+    {
+      "text": "Paul McCartney composed the score for the family film \"Rupert and the Frog Song\" and an orchestral work called Liverpool Oratorio.",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20Rupert%20and%20the%20Frog%20Song%20live%20performance"
+    },
+    {
+      "text": "Paul McCartney was knighted by Queen Elizabeth II in 1997 for his services to music.",
+      "source": "https://en.wikipedia.org/wiki/Paul_McCartney"
+    },
+    {
+      "text": "Ringo Starr was knighted in 2018 for his services to music.",
+      "source": "https://en.wikipedia.org/wiki/Ringo_Starr"
+    },
+    {
+      "text": "John Lennon's solo Plastic Ono Band album is considered one of the rawest and most emotionally honest rock albums ever recorded.",
+      "source": "https://en.wikipedia.org/wiki/John_Lennon%27s_solo_Plastic_Ono_Band_album"
+    },
+    {
+      "text": "George Harrison's \"All Things Must Pass\" was produced by Phil Spector and featured his signature \"Wall of Sound\" production.",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20All%20Things%20Must%20Pass%20live%20performance"
+    },
+    {
+      "text": "The Concert for Bangladesh, organized by George Harrison in August 1971, raised money for refugees from East Pakistan.",
+      "source": "https://en.wikipedia.org/wiki/Concert_for_Bangladesh"
+    },
+    {
+      "text": "The Concert for Bangladesh featured performances by Harrison, Ringo Starr, Bob Dylan, Eric Clapton, and Ravi Shankar.",
+      "source": "https://en.wikipedia.org/wiki/Concert_for_Bangladesh"
+    },
+    {
+      "text": "Paul McCartney's Wings released \"Band on the Run\" in 1973, which became one of the best-selling and most critically acclaimed albums of the decade.",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20Band%20on%20the%20Run%20live%20performance"
+    },
+    {
+      "text": "\"Live and Let Die\" by Wings was written for the James Bond film of the same name and earned an Academy Award nomination.",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20Live%20and%20Let%20Die%20live%20performance"
+    },
+    {
+      "text": "\"Mull of Kintyre\" by Wings became the first single to sell over two million copies in the UK.",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20Mull%20of%20Kintyre%20live%20performance"
+    },
+    {
+      "text": "John Lennon's \"Instant Karma!\" was written, recorded, and released all within ten days in January 1970.",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20Instant%20Karma%21%20live%20performance"
+    },
+    {
+      "text": "John Lennon and Yoko Ono's bed-ins for peace were held in the Hilton Hotel in Amsterdam and the Queen Elizabeth Hotel in Montreal.",
+      "source": "https://en.wikipedia.org/wiki/John_Lennon_and_Yoko_Ono%27s_bed-ins_for_peace"
+    },
+    {
+      "text": "\"Give Peace a Chance,\" recorded during the Montreal bed-in, became an anti-war anthem and was sung by hundreds of thousands at the Vietnam Moratorium march.",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20Give%20Peace%20a%20Chance%2C%20live%20performance"
+    },
+    {
+      "text": "John Lennon's \"Working Class Hero\" was banned by many radio stations due to its explicit language.",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20Working%20Class%20Hero%20live%20performance"
+    },
+    {
+      "text": "John Lennon was under FBI surveillance in the early 1970s due to his anti-war activism and association with radical political figures.",
+      "source": "https://en.wikipedia.org/wiki/John_Lennon"
+    },
+    {
+      "text": "The US government attempted to deport Lennon in 1972, citing a UK drug conviction, but he eventually won his legal battle for residency.",
+      "source": "https://en.wikipedia.org/wiki/US"
+    },
+    {
+      "text": "George Harrison quietly funded several charitable causes and was known for his generosity and spiritual devotion.",
+      "source": "https://en.wikipedia.org/wiki/George_Harrison_quietly_funded_several_charitable_causes_and"
+    },
+    {
+      "text": "Paul McCartney is an advocate for animal rights and has been a vegetarian since 1975, later becoming a prominent supporter of PETA.",
+      "source": "https://en.wikipedia.org/wiki/Paul_McCartney"
+    },
+    {
+      "text": "The Beatles' Apple Records logo, a Granny Smith apple, led to decades of trademark disputes with Apple Inc.",
+      "source": "https://en.wikipedia.org/wiki/The_Beatles%27_Apple_Records"
+    },
+    {
+      "text": "The Apple Corps vs. Apple Computer legal disputes were finally settled in 2007, with Apple Inc. acquiring the trademark rights.",
+      "source": "https://en.wikipedia.org/wiki/Apple_Corps_vs._Apple_Computer_legal_disputes"
+    },
+    {
+      "text": "The Beatles' first US record label was Vee-Jay Records, which released early singles before Capitol Records took over distribution.",
+      "source": "https://en.wikipedia.org/wiki/Beatles%27_first_US_record_label"
+    },
+    {
+      "text": "Capitol Records initially refused to release Beatles records in the United States, believing they would not appeal to American audiences.",
+      "source": "https://en.wikipedia.org/wiki/Capitol_Records"
+    },
+    {
+      "text": "The Beatles' US albums had different track listings than the UK versions, as Capitol Records rearranged and repackaged songs for the American market.",
+      "source": "https://en.wikipedia.org/wiki/Beatles%27_US_albums"
+    },
+    {
+      "text": "In 1987, the Beatles' catalog was standardized worldwide to match the original UK album configurations.",
+      "source": "https://en.wikipedia.org/wiki/Beatles%27_catalog"
+    },
+    {
+      "text": "The Beatles' music has been featured in numerous films, TV shows, and commercials, though the band was initially reluctant to license their songs.",
+      "source": "https://en.wikipedia.org/wiki/Beatles%27_music"
+    },
+    {
+      "text": "The video game The Beatles: Rock Band, released in 2009, allowed players to perform 45 Beatles songs with period-accurate visuals.",
+      "source": "https://en.wikipedia.org/wiki/video_game_The_Beatles:_Rock_Band"
+    },
+    {
+      "text": "Cirque du Soleil's LOVE show in Las Vegas features a remixed Beatles soundtrack and has been seen by millions since its premiere.",
+      "source": "https://en.wikipedia.org/wiki/Cirque_du_Soleil%27s_LOVE_show_in_Las_Vegas"
+    },
+    {
+      "text": "The Beatles' influence on language includes popularizing British slang terms like \"fab\" and \"gear\" in American English.",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20fab%20live%20performance"
+    },
+    {
+      "text": "\"Fab Four\" became the Beatles' most enduring nickname, originally coined by the British press.",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20Fab%20Four%20live%20performance"
+    },
+    {
+      "text": "The Cavern Club where the Beatles played was demolished in 1973 but was rebuilt nearby using many of the original bricks.",
+      "source": "https://en.wikipedia.org/wiki/Cavern_Club_where_the_Beatles_played"
+    },
+    {
+      "text": "Strawberry Field, the Salvation Army children's home in Liverpool that inspired Lennon's song, opened as a public garden and exhibition space in 2019.",
+      "source": "https://en.wikipedia.org/wiki/Strawberry_Field%2C_the_Salvation_Army_children%27s_home_in_Liverpool_that"
+    },
+    {
+      "text": "Mendips, the childhood home of John Lennon at 251 Menlove Avenue, is now owned by the National Trust and open to the public.",
+      "source": "https://en.wikipedia.org/wiki/Mendips%2C_the_childhood_home_of_John_Lennon_at_251_Menlove_Avenue"
+    },
+    {
+      "text": "Paul McCartney's childhood home at 20 Forthlin Road is also a National Trust property and can be visited by appointment.",
+      "source": "https://en.wikipedia.org/wiki/Paul_McCartney%27s_childhood_home_at_20_Forthlin_Road"
+    },
+    {
+      "text": "\"Twist and Shout,\" though strongly associated with the Beatles, was originally performed by the Top Notes and later by the Isley Brothers.",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20Twist%20and%20Shout%2C%20live%20performance"
+    },
+    {
+      "text": "The Beatles never performed \"Yesterday\" live as a full band; when played in concert, it featured only Paul McCartney and a backing track.",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20Yesterday%20live%20performance"
+    },
+    {
+      "text": "\"She Loves You\" was written in a hotel room in Newcastle and was composed face-to-face by Lennon and McCartney, which was unusual for their later writing process.",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20She%20Loves%20You%20live%20performance"
+    },
+    {
+      "text": "By 1966, Lennon and McCartney often wrote songs independently and used the other as an editor or contributor rather than writing together.",
+      "source": "https://en.wikipedia.org/wiki/By_1966%2C_Lennon_and_McCartney_often"
+    },
+    {
+      "text": "The tension between Paul McCartney's poppier sensibilities and John Lennon's more avant-garde leanings contributed to the band's creative dynamism.",
+      "source": "https://en.wikipedia.org/wiki/Paul_McCartney%27s"
+    },
+    {
+      "text": "George Harrison felt increasingly marginalized as a songwriter within the Beatles, with Lennon and McCartney dominating album track allocations.",
+      "source": "https://en.wikipedia.org/wiki/George_Harrison"
+    },
+    {
+      "text": "\"Not Guilty,\" a George Harrison song recorded during the White Album sessions, was rejected and did not surface until Harrison's 1979 solo album.",
+      "source": "https://en.wikipedia.org/wiki/The_Beatles_(album)"
+    },
+    {
+      "text": "The Beatles generated such enormous tax revenue for the UK government that Prime Minister Harold Wilson personally thanked them.",
+      "source": "https://en.wikipedia.org/wiki/The_Beatles"
+    },
+    {
+      "text": "George Martin originally wanted to sign the Beatles partly because he was impressed by their humor and charm, not just their music.",
+      "source": "https://en.wikipedia.org/wiki/George_Martin_originally_wanted_to_sign_the_Beatles_partly_because_he"
+    },
+    {
+      "text": "The chord that opens \"A Hard Day's Night\" is debated but is generally analyzed as a combination of notes played simultaneously on guitar, bass, and piano.",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20A%20Hard%20Day%27s%20Night%20live%20performance"
+    },
+    {
+      "text": "\"Ob-La-Di, Ob-La-Da\" was disliked by John Lennon, who considered it lightweight, but it became a hit in several countries.",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20Ob-La-Di%2C%20Ob-La-Da%20live%20performance"
+    },
+    {
+      "text": "\"Maxwell's Silver Hammer\" was another McCartney song that irritated the other Beatles due to the extensive time spent perfecting it.",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20Maxwell%27s%20Silver%20Hammer%20live%20performance"
+    },
+    {
+      "text": "\"The Continuing Story of Bungalow Bill\" from the White Album was inspired by an American visitor in Rishikesh who went tiger hunting.",
+      "source": "https://en.wikipedia.org/wiki/The_Beatles_(album)"
+    },
+    {
+      "text": "\"Cry Baby Cry\" was one of Lennon's contributions to the White Album, inspired by nursery rhyme imagery.",
+      "source": "https://en.wikipedia.org/wiki/The_Beatles_(album)"
+    },
+    {
+      "text": "\"Why Don't We Do It in the Road?\" was recorded by Paul McCartney almost entirely alone, with only Ringo on drums.",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20Why%20Don%27t%20We%20Do%20It%20in%20the%20Road%3F%20live%20performance"
+    },
+    {
+      "text": "\"Julia\" is the only Beatles song performed entirely solo by John Lennon and was written about his mother, who died when he was 17.",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20Julia%20live%20performance"
+    },
+    {
+      "text": "The Beatles' catalog includes 213 songs on their core UK studio albums.",
+      "source": "https://en.wikipedia.org/wiki/Beatles%27_catalog"
+    },
+    {
+      "text": "The Beatles recorded approximately 300 songs in total when including singles, B-sides, and tracks given to other artists.",
+      "source": "https://en.wikipedia.org/wiki/The_Beatles"
+    },
+    {
+      "text": "\"Girl\" from Rubber Soul is noted for Lennon's distinctive breathing sounds between the verses, which he intentionally made audible.",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20Girl%20live%20performance"
+    },
+    {
+      "text": "The sitar on \"Norwegian Wood\" was George Harrison's first use of the instrument on a Beatles recording, sparking the \"raga rock\" trend.",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20Norwegian%20Wood%20live%20performance"
+    },
+    {
+      "text": "\"For No One\" features a French horn solo played by Alan Civil, one of the most respected horn players in the world at the time.",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20For%20No%20One%20live%20performance"
+    },
+    {
+      "text": "\"Good Morning Good Morning\" was inspired by a Kellogg's Corn Flakes commercial that Lennon heard on television.",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20Good%20Morning%20Good%20Morning%20live%20performance"
+    },
+    {
+      "text": "The animal sounds at the end of \"Good Morning Good Morning\" were sequenced so that each successive animal could scare or eat the previous one.",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20Good%20Morning%20Good%20Morning%20live%20performance"
+    },
+    {
+      "text": "\"Fixing a Hole\" was partly recorded at Regent Sound Studio, one of the few Beatles tracks not recorded at Abbey Road.",
+      "source": "https://en.wikipedia.org/wiki/Abbey_Road"
+    },
+    {
+      "text": "\"Lovely Rita\" was inspired by a parking ticket McCartney received from a female traffic warden named Meta Davies.",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20Lovely%20Rita%20live%20performance"
+    },
+    {
+      "text": "The hidden track after \"A Day in the Life\" on Sgt. Pepper's contains a high-pitched tone only audible to dogs and a loop of studio chatter.",
+      "source": "https://en.wikipedia.org/wiki/Sgt._Pepper%27s_Lonely_Hearts_Club_Band"
+    },
+    {
+      "text": "\"Birthday\" from the White Album was written and recorded in a single session, with the band taking a break to watch a rock and roll movie.",
+      "source": "https://en.wikipedia.org/wiki/The_Beatles_(album)"
+    },
+    {
+      "text": "\"While My Guitar Gently Weeps\" went through several versions, from a gentle acoustic demo to the final version featuring Eric Clapton's distorted guitar.",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20While%20My%20Guitar%20Gently%20Weeps%20live%20performance"
+    },
+    {
+      "text": "John Lennon wrote \"Yer Blues\" during the Rishikesh trip as an expression of his depression, parodying the British blues boom.",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20Yer%20Blues%20live%20performance"
+    },
+    {
+      "text": "\"Long, Long, Long\" is considered one of George Harrison's most underrated Beatles songs, a quiet spiritual piece buried on the White Album.",
+      "source": "https://en.wikipedia.org/wiki/The_Beatles_(album)"
+    },
+    {
+      "text": "\"Savoy Truffle\" was written by Harrison about Eric Clapton's chocolate addiction, with the candy names taken from a Mackintosh chocolate box.",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20Savoy%20Truffle%20live%20performance"
+    },
+    {
+      "text": "The Beatles used the pseudonym \"Bernard Webb\" as the songwriter credit for the original release of \"Woman\" by Peter and Gordon.",
+      "source": "https://www.youtube.com/results?search_query=The%20Beatles%20Bernard%20Webb%20live%20performance"
+    },
+    {
+      "text": "Paul McCartney has performed more concerts than any other Beatle in his post-Beatles career, continuing to tour well into his 80s.",
+      "source": "https://en.wikipedia.org/wiki/Paul_McCartney"
+    },
+    {
+      "text": "McCartney's 2022 Glastonbury headlining set made him the oldest solo headliner in the festival's history at age 80.",
+      "source": "https://en.wikipedia.org/wiki/McCartney%27s_2022_Glastonbury_headlining"
+    },
+    {
+      "text": "John Lennon won a posthumous Grammy for Album of the Year for Double Fantasy in 1981.",
+      "source": "https://en.wikipedia.org/wiki/John_Lennon"
+    },
+    {
+      "text": "Double Fantasy was a collaborative album between Lennon and Ono, with tracks alternating between the two artists.",
+      "source": "https://en.wikipedia.org/wiki/Double_Fantasy"
+    },
+    {
+      "text": "George Harrison's estate has continued to release and promote his solo work through the Dark Horse Records label.",
+      "source": "https://en.wikipedia.org/wiki/George_Harrison%27s_estate"
+    }
+  ]
+}

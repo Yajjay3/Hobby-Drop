@@ -1,0 +1,2285 @@
+{
+  "hobby": "Superman",
+  "facts": [
+    {
+      "text": "Superman first appeared in Action Comics #1, published on April 18, 1938, with a cover price of 10 cents.",
+      "source": "https://en.wikipedia.org/wiki/Superman_first"
+    },
+    {
+      "text": "Jerry Siegel and Joe Shuster created Superman while they were teenagers living in Cleveland, Ohio.",
+      "source": "https://en.wikipedia.org/wiki/Jerry_Siegel_and_Joe_Shuster"
+    },
+    {
+      "text": "Action Comics #1 is the most valuable comic book in history, with a near-mint copy selling for over $6 million at auction.",
+      "source": "https://en.wikipedia.org/wiki/Action_Comics_%231"
+    },
+    {
+      "text": "Superman was the first comic book superhero, establishing the entire superhero genre that followed.",
+      "source": "https://en.wikipedia.org/wiki/Superman"
+    },
+    {
+      "text": "\"Look, up in the sky! It's a bird! It's a plane! It's Superman!\" — this iconic introduction debuted on the Superman radio show in 1940 and became permanently embedded in pop culture.",
+      "source": "https://www.youtube.com/results?search_query=Superman%20Look%2C%20up%20in%20the%20sky%21%20It%27s%20a%20bird%21%20It%27s%20a%20plane%21%20It%27s%20Superman%21%20live%20performance"
+    },
+    {
+      "text": "Superman's birth name is Kal-El, which Jerry Siegel intended to echo the Hebrew word for 'voice of God.'",
+      "source": "https://en.wikipedia.org/wiki/Superman%27s_birth_name"
+    },
+    {
+      "text": "Krypton, Superman's home planet, was destroyed by internal geological instability, forcing Jor-El to send his infant son to Earth.",
+      "source": "https://en.wikipedia.org/wiki/Krypton%2C_Superman%27s_home_planet"
+    },
+    {
+      "text": "Jor-El and Lara Lor-Van are Superman's biological parents on Krypton.",
+      "source": "https://en.wikipedia.org/wiki/Jor-El_and_Lara_Lor-Van"
+    },
+    {
+      "text": "Jonathan and Martha Kent found baby Kal-El's rocket in a field near Smallville, Kansas, and raised him as Clark Kent.",
+      "source": "https://en.wikipedia.org/wiki/Jonathan_and_Martha_Kent"
+    },
+    {
+      "text": "\"You will travel far, my little Kal-El. But we will never leave you — even in the face of our death.\" — Jor-El's farewell to his son as he sends him to Earth.",
+      "source": "https://en.wikipedia.org/wiki/You_will_travel_far%2C_my_little_Kal-El._But_we_will_never_leave_you_%E2%80%94_even_in_the_face_of_our_death"
+    },
+    {
+      "text": "Superman's powers come from Earth's yellow sun, which energizes his Kryptonian cells in ways that Krypton's red sun never could.",
+      "source": "https://en.wikipedia.org/wiki/Superman"
+    },
+    {
+      "text": "Kryptonite, the radioactive remains of Krypton, is Superman's most famous weakness, capable of weakening and potentially killing him.",
+      "source": "https://en.wikipedia.org/wiki/Kryptonite%2C_the_radioactive_remains_of_Krypton"
+    },
+    {
+      "text": "Green Kryptonite is the most common variety and is lethal to Kryptonians with prolonged exposure.",
+      "source": "https://en.wikipedia.org/wiki/Green_Kryptonite"
+    },
+    {
+      "text": "Red Kryptonite has unpredictable effects on Superman, ranging from personality changes to physical transformations.",
+      "source": "https://en.wikipedia.org/wiki/Red_Kryptonite"
+    },
+    {
+      "text": "Gold Kryptonite can permanently strip a Kryptonian of their powers under certain continuities.",
+      "source": "https://en.wikipedia.org/wiki/Gold_Kryptonite"
+    },
+    {
+      "text": "Blue Kryptonite is harmless to Superman but deadly to Bizarro, Superman's imperfect duplicate.",
+      "source": "https://en.wikipedia.org/wiki/Blue_Kryptonite"
+    },
+    {
+      "text": "Superman's core powers include super strength, flight, invulnerability, super speed, heat vision, freeze breath, X-ray vision, and super hearing.",
+      "source": "https://en.wikipedia.org/wiki/Superman"
+    },
+    {
+      "text": "Originally, Superman could not fly — he could only leap great distances. The phrase 'able to leap tall buildings in a single bound' comes from this era.",
+      "source": "https://en.wikipedia.org/wiki/Superman"
+    },
+    {
+      "text": "Flight was added to Superman's abilities for the Fleischer Studios animated cartoons in 1941 because animating leaping looked awkward.",
+      "source": "https://en.wikipedia.org/wiki/Flight"
+    },
+    {
+      "text": "\"It's not an 'S.' On my world, it means hope.\" — Superman explaining the meaning of his chest symbol in Man of Steel (2013).",
+      "source": "https://en.wikipedia.org/wiki/It%27s_not_an_%27S.%27_On_my_world%2C_it_means_hope"
+    },
+    {
+      "text": "The S-shield on Superman's chest has been reinterpreted multiple times, from a simple letter to a Kryptonian family crest meaning 'hope.'",
+      "source": "https://en.wikipedia.org/wiki/S-shield_on_Superman%27s_chest"
+    },
+    {
+      "text": "Clark Kent works as a reporter at the Daily Planet, Metropolis's largest newspaper.",
+      "source": "https://en.wikipedia.org/wiki/Clark_Kent"
+    },
+    {
+      "text": "Perry White is the editor-in-chief of the Daily Planet, known for his catchphrase 'Great Caesar's ghost!'",
+      "source": "https://en.wikipedia.org/wiki/Perry_White"
+    },
+    {
+      "text": "Jimmy Olsen is a young photojournalist at the Daily Planet and one of Superman's closest allies, often called 'Superman's pal.'",
+      "source": "https://en.wikipedia.org/wiki/Jimmy_Olsen"
+    },
+    {
+      "text": "Lois Lane first appeared alongside Superman in Action Comics #1 and has been his primary love interest ever since.",
+      "source": "https://en.wikipedia.org/wiki/Lois_Lane_first_appeared_alongside_Superman_in_Action_Comics_%231_and"
+    },
+    {
+      "text": "Lois Lane was partially inspired by real-life reporter Nellie Bly and actress Glenda Farrell's portrayal of reporter Torchy Blane.",
+      "source": "https://en.wikipedia.org/wiki/Lois_Lane"
+    },
+    {
+      "text": "\"I'm here to fight for truth, and justice, and the American way.\" — Superman's mission statement as told to Lois Lane in Superman (1978).",
+      "source": "https://en.wikipedia.org/wiki/I%27m_here_to_fight_for_truth%2C_and_justice%2C_and_the_American_way"
+    },
+    {
+      "text": "Metropolis, Superman's home city, is often considered a fictional stand-in for New York City, specifically representing its optimistic daytime persona.",
+      "source": "https://en.wikipedia.org/wiki/Metropolis%2C_Superman%27s_home_city"
+    },
+    {
+      "text": "There is a real town called Metropolis in Illinois that has a Superman statue in the town square and officially declared itself the 'Hometown of Superman.'",
+      "source": "https://en.wikipedia.org/wiki/There"
+    },
+    {
+      "text": "Lex Luthor is Superman's greatest enemy, a brilliant billionaire industrialist who views Superman as a threat to human achievement.",
+      "source": "https://en.wikipedia.org/wiki/Lex_Luthor"
+    },
+    {
+      "text": "Lex Luthor was originally depicted as a mad scientist with red hair before being redesigned as a bald corporate magnate in the 1980s.",
+      "source": "https://en.wikipedia.org/wiki/Lex_Luthor"
+    },
+    {
+      "text": "\"Do you know the oldest lie in America, Senator? It's that power can be innocent.\" — Lex Luthor in Batman v Superman: Dawn of Justice (2016).",
+      "source": "https://en.wikipedia.org/wiki/Do_you_know_the_oldest_lie_in_America%2C_Senator%3F_It%27s_that_power_can_be_innocent"
+    },
+    {
+      "text": "General Zod is a Kryptonian military leader who was banished to the Phantom Zone for attempting a coup on Krypton.",
+      "source": "https://en.wikipedia.org/wiki/General_Zod"
+    },
+    {
+      "text": "\"Kneel before Zod!\" — General Zod's iconic command in Superman II (1980), delivered by Terence Stamp, became one of cinema's most quoted villain lines.",
+      "source": "https://en.wikipedia.org/wiki/Kneel_before_Zod"
+    },
+    {
+      "text": "Brainiac is an alien android who collects and miniaturizes cities from various planets, including Kandor from Krypton.",
+      "source": "https://en.wikipedia.org/wiki/Brainiac"
+    },
+    {
+      "text": "Kandor, the capital city of Krypton, was shrunk and bottled by Brainiac before the planet's destruction.",
+      "source": "https://en.wikipedia.org/wiki/Kandor%2C_the_capital_city_of_Krypton"
+    },
+    {
+      "text": "Doomsday is the monster that killed Superman in the famous 1992 comic storyline 'The Death of Superman.'",
+      "source": "https://en.wikipedia.org/wiki/Doomsday"
+    },
+    {
+      "text": "The Death of Superman storyline in 1992-1993 was a massive media event, making national news and selling millions of copies.",
+      "source": "https://en.wikipedia.org/wiki/Death_of_Superman_storyline_in_1992-1993"
+    },
+    {
+      "text": "Superman #75, featuring Superman's death, was published on November 18, 1992, and came in a sealed black polybag with a memorial armband.",
+      "source": "https://en.wikipedia.org/wiki/Superman_%2375%2C_featuring_Superman%27s_death"
+    },
+    {
+      "text": "After Superman's death, four replacement Supermen appeared: Steel, Superboy, the Eradicator, and Cyborg Superman.",
+      "source": "https://en.wikipedia.org/wiki/After_Superman%27s_death%2C_four_replacement_Supermen"
+    },
+    {
+      "text": "Superman eventually returned from the dead, having been placed in a Kryptonian regeneration matrix in the Fortress of Solitude.",
+      "source": "https://en.wikipedia.org/wiki/Fortress_of_Solitude"
+    },
+    {
+      "text": "The Fortress of Solitude is Superman's Arctic headquarters, typically depicted as a crystalline structure containing Kryptonian technology.",
+      "source": "https://en.wikipedia.org/wiki/Fortress_of_Solitude"
+    },
+    {
+      "text": "Darkseid, the tyrannical ruler of the planet Apokolips, is one of Superman's most powerful adversaries and seeks the Anti-Life Equation.",
+      "source": "https://en.wikipedia.org/wiki/Darkseid%2C_the_tyrannical_ruler_of_the_planet_Apokolips"
+    },
+    {
+      "text": "Bizarro is an imperfect clone of Superman who does everything in reverse, living on the cube-shaped Bizarro World.",
+      "source": "https://en.wikipedia.org/wiki/Bizarro"
+    },
+    {
+      "text": "\"Me am not Superman! Me am Bizarro!\" — Bizarro's backwards speech pattern has been a staple of his character since his creation.",
+      "source": "https://en.wikipedia.org/wiki/Me_am_not_Superman%21_Me_am_Bizarro"
+    },
+    {
+      "text": "Parasite is a villain who can absorb Superman's powers and life force through physical contact.",
+      "source": "https://en.wikipedia.org/wiki/Parasite"
+    },
+    {
+      "text": "Metallo is a cyborg villain with a Kryptonite heart, making him a walking weakness for Superman.",
+      "source": "https://en.wikipedia.org/wiki/Metallo"
+    },
+    {
+      "text": "Mr. Mxyzptlk is a fifth-dimensional imp who torments Superman with reality-warping powers and can only be sent home if tricked into saying his name backwards.",
+      "source": "https://en.wikipedia.org/wiki/Mr._Mxyzptlk"
+    },
+    {
+      "text": "Superman is a founding member of the Justice League of America, typically serving as the team's moral compass.",
+      "source": "https://en.wikipedia.org/wiki/Superman"
+    },
+    {
+      "text": "The Justice League was first introduced in The Brave and the Bold #28 in 1960, with Superman as a founding member.",
+      "source": "https://en.wikipedia.org/wiki/Justice_League"
+    },
+    {
+      "text": "Superman and Batman are often referred to as the 'World's Finest' duo, a title from their long-running team-up comic.",
+      "source": "https://en.wikipedia.org/wiki/Superman_and_Batman"
+    },
+    {
+      "text": "\"The last time you inspired anyone was when you were dead.\" — Batman to Superman in Hush (2002), highlighting their complex relationship.",
+      "source": "https://en.wikipedia.org/wiki/last_time_you_inspired_anyone_was_when_you_were_dead"
+    },
+    {
+      "text": "Superman's relationship with Batman represents opposing approaches to heroism — hope versus fear, light versus darkness.",
+      "source": "https://en.wikipedia.org/wiki/Superman"
+    },
+    {
+      "text": "Wonder Woman, Superman, and Batman form DC Comics' 'Trinity,' the three most iconic heroes in the DC Universe.",
+      "source": "https://en.wikipedia.org/wiki/Wonder_Woman"
+    },
+    {
+      "text": "Supergirl, also known as Kara Zor-El, is Superman's cousin who also survived Krypton's destruction.",
+      "source": "https://en.wikipedia.org/wiki/Supergirl%2C_also_known_as_Kara_Zor-El"
+    },
+    {
+      "text": "Superboy, in various incarnations, has been either a young Clark Kent or a clone combining Superman and Lex Luthor's DNA.",
+      "source": "https://en.wikipedia.org/wiki/Superboy%2C_in_various_incarnations"
+    },
+    {
+      "text": "Krypto the Superdog is Superman's pet dog from Krypton, possessing all the same powers as his master.",
+      "source": "https://en.wikipedia.org/wiki/Krypto_the_Superdog"
+    },
+    {
+      "text": "The Phantom Zone is an interdimensional prison used by Kryptonians to exile dangerous criminals.",
+      "source": "https://en.wikipedia.org/wiki/Phantom_Zone"
+    },
+    {
+      "text": "Superman's vulnerability to magic is one of his lesser-known weaknesses — magical attacks affect him just like anyone else.",
+      "source": "https://en.wikipedia.org/wiki/Superman%27s_vulnerability_to_magic"
+    },
+    {
+      "text": "\"What's special about Superman is that he will always make the right choice.\" — Christopher Reeve on why Superman endures as a character.",
+      "source": "https://en.wikipedia.org/wiki/What%27s_special_about_Superman_is_that_he_will_always_make_the_right_choice"
+    },
+    {
+      "text": "The original Superman comic strip was rejected by multiple newspaper syndicates before being picked up by DC Comics (then National Allied Publications).",
+      "source": "https://en.wikipedia.org/wiki/original_Superman_comic_strip"
+    },
+    {
+      "text": "Jerry Siegel wrote the first Superman story during a sleepless night in 1934, with Joe Shuster illustrating it the next morning.",
+      "source": "https://en.wikipedia.org/wiki/Jerry_Siegel"
+    },
+    {
+      "text": "Siegel and Shuster sold the rights to Superman to DC Comics for just $130 in 1938, a decision they fought to reverse for decades.",
+      "source": "https://en.wikipedia.org/wiki/Siegel_and_Shuster"
+    },
+    {
+      "text": "The legal battle between Siegel, Shuster, and DC Comics over Superman's ownership lasted from the 1940s through the 2010s.",
+      "source": "https://en.wikipedia.org/wiki/DC_Comics"
+    },
+    {
+      "text": "In 1975, Warner Communications agreed to give Siegel and Shuster annual stipends and credit on all Superman productions after a public campaign.",
+      "source": "https://en.wikipedia.org/wiki/Warner_Communications_agreed_to"
+    },
+    {
+      "text": "Joe Shuster's original design for Superman was influenced by circus strongmen and the actor Douglas Fairbanks Sr.",
+      "source": "https://en.wikipedia.org/wiki/Joe_Shuster%27s_original_design_for_Superman"
+    },
+    {
+      "text": "Clark Kent's mild-mannered persona and glasses disguise was inspired by Harold Lloyd, the bespectacled silent film star.",
+      "source": "https://en.wikipedia.org/wiki/Clark_Kent%27s_mild-mannered_persona_and_glasses_disguise"
+    },
+    {
+      "text": "Superman's cape and costume were inspired by the costumes of circus acrobats and strongmen of the 1930s.",
+      "source": "https://en.wikipedia.org/wiki/Superman%27s_cape_and_costume"
+    },
+    {
+      "text": "The Superman radio serial ran from 1940 to 1951 and introduced many elements later adopted by the comics, including Kryptonite and Jimmy Olsen.",
+      "source": "https://en.wikipedia.org/wiki/Superman_radio_serial_ran_from_1940_to_1951_and"
+    },
+    {
+      "text": "Kryptonite was invented for the Superman radio show in 1943 to give the voice actor, Bud Collyer, time off — a substitute could groan weakly instead of performing.",
+      "source": "https://en.wikipedia.org/wiki/Kryptonite"
+    },
+    {
+      "text": "The Superman radio show took a progressive stand against the Ku Klux Klan in 1946, exposing their rituals and code words to millions of listeners.",
+      "source": "https://en.wikipedia.org/wiki/Superman_radio_show"
+    },
+    {
+      "text": "Kirk Alyn became the first actor to play Superman on screen in the 1948 serial film Superman.",
+      "source": "https://en.wikipedia.org/wiki/Kirk_Alyn"
+    },
+    {
+      "text": "George Reeves starred as Superman in Adventures of Superman, the classic TV series that ran from 1952 to 1958.",
+      "source": "https://en.wikipedia.org/wiki/George_Reeves"
+    },
+    {
+      "text": "George Reeves' portrayal was so beloved that children would reportedly bring loaded guns to his appearances, wanting to see if bullets really bounced off him.",
+      "source": "https://en.wikipedia.org/wiki/George_Reeves%27_portrayal"
+    },
+    {
+      "text": "The mysterious death of George Reeves in 1959, officially ruled a suicide, has been the subject of much speculation and was explored in the 2006 film Hollywoodland.",
+      "source": "https://en.wikipedia.org/wiki/mysterious_death_of_George_Reeves_in_1959%2C_officially_ruled_a_suicide"
+    },
+    {
+      "text": "\"You'll believe a man can fly\" — the tagline for Richard Donner's 1978 Superman film promised something revolutionary and delivered on it completely.",
+      "source": "https://en.wikipedia.org/wiki/You%27ll_believe_a_man_can_fly"
+    },
+    {
+      "text": "Christopher Reeve was a relative unknown when he was cast as Superman in 1978, beating out hundreds of candidates including Robert Redford, Burt Reynolds, and Sylvester Stallone.",
+      "source": "https://en.wikipedia.org/wiki/Christopher_Reeve"
+    },
+    {
+      "text": "Marlon Brando was paid $3.7 million for just 12 days of work as Jor-El in Superman (1978), plus a percentage of the gross.",
+      "source": "https://en.wikipedia.org/wiki/Superman"
+    },
+    {
+      "text": "\"They can be a great people, Kal-El; they wish to be. They only lack the light to show the way. For this reason above all — their capacity for good — I have sent them you, my only son.\" — Jor-El's speech to Kal-El in Superman (1978).",
+      "source": "https://en.wikipedia.org/wiki/Superman"
+    },
+    {
+      "text": "John Williams composed the iconic Superman march for the 1978 film, creating one of the most recognizable themes in movie history.",
+      "source": "https://en.wikipedia.org/wiki/John_Williams"
+    },
+    {
+      "text": "Richard Donner directed Superman (1978) and most of Superman II before being replaced by Richard Lester due to conflicts with producers Alexander and Ilya Salkind.",
+      "source": "https://en.wikipedia.org/wiki/Superman"
+    },
+    {
+      "text": "The 'Donner Cut' of Superman II was finally completed and released in 2006, using Donner's original footage and vision.",
+      "source": "https://en.wikipedia.org/wiki/%27Donner_Cut%27_of_Superman_II"
+    },
+    {
+      "text": "Gene Hackman played Lex Luthor in Superman (1978) and Superman II (1980), bringing sardonic humor to the role.",
+      "source": "https://en.wikipedia.org/wiki/Superman"
+    },
+    {
+      "text": "\"Some people can read War and Peace and come away thinking it's a simple adventure story.\" — Lex Luthor showing his intellectual arrogance in Superman (1978).",
+      "source": "https://en.wikipedia.org/wiki/Some_people_can_read_War_and_Peace_and_come_away_thinking_it%27s_a_simple_adventure_story"
+    },
+    {
+      "text": "Margot Kidder's portrayal of Lois Lane in the Christopher Reeve films redefined the character as tough, witty, and independent.",
+      "source": "https://en.wikipedia.org/wiki/Margot_Kidder%27s"
+    },
+    {
+      "text": "The flying sequences in Superman (1978) were achieved through a combination of front projection, wire work, and optical effects that revolutionized visual effects.",
+      "source": "https://en.wikipedia.org/wiki/Superman"
+    },
+    {
+      "text": "Superman (1978) was nominated for three Academy Awards and won a Special Achievement Award for visual effects.",
+      "source": "https://en.wikipedia.org/wiki/Superman"
+    },
+    {
+      "text": "Christopher Reeve was praised for creating two distinctly different performances — the confident Superman and the bumbling Clark Kent — using only body language and voice.",
+      "source": "https://en.wikipedia.org/wiki/Christopher_Reeve"
+    },
+    {
+      "text": "\"Is it really you? I never thought — I mean, I always hoped, but —\" — Lois Lane's emotional reunion monologue captures the audience's own disbelief at Superman's return.",
+      "source": "https://www.youtube.com/results?search_query=Superman%20Is%20it%20really%20you%3F%20I%20never%20thought%20%E2%80%94%20I%20mean%2C%20I%20always%20hoped%2C%20but%20%E2%80%94%20live%20performance"
+    },
+    {
+      "text": "Terence Stamp's portrayal of General Zod in Superman II (1980) was so iconic that the character was largely defined by his performance for decades.",
+      "source": "https://en.wikipedia.org/wiki/Superman_II"
+    },
+    {
+      "text": "Superman III (1983) starred Richard Pryor as a comedic computer genius, shifting the franchise toward comedy over drama.",
+      "source": "https://en.wikipedia.org/wiki/Superman_III"
+    },
+    {
+      "text": "Superman III features a memorable sequence where Superman is split into an evil Superman and a good Clark Kent who must fight each other.",
+      "source": "https://en.wikipedia.org/wiki/Superman_III"
+    },
+    {
+      "text": "Superman IV: The Quest for Peace (1987) dealt with nuclear disarmament but suffered from severe budget cuts by the Cannon Group.",
+      "source": "https://en.wikipedia.org/wiki/Peace"
+    },
+    {
+      "text": "Christopher Reeve was deeply committed to the anti-nuclear message of Superman IV and co-wrote the story.",
+      "source": "https://en.wikipedia.org/wiki/Christopher_Reeve"
+    },
+    {
+      "text": "Christopher Reeve was paralyzed in a horse-riding accident in 1995 and became a tireless advocate for spinal cord injury research until his death in 2004.",
+      "source": "https://en.wikipedia.org/wiki/Christopher_Reeve"
+    },
+    {
+      "text": "Christopher Reeve's courage and activism after his injury led many to call him a real-life Superman, embodying the character's values of perseverance and hope.",
+      "source": "https://en.wikipedia.org/wiki/Christopher_Reeve%27s"
+    },
+    {
+      "text": "\"A hero is an ordinary individual who finds the strength to persevere and endure in spite of overwhelming obstacles.\" — Christopher Reeve.",
+      "source": "https://en.wikipedia.org/wiki/A_hero"
+    },
+    {
+      "text": "Superman Returns (2006), directed by Bryan Singer, served as a sequel to the first two Christopher Reeve films, ignoring III and IV.",
+      "source": "https://en.wikipedia.org/wiki/Superman_Returns"
+    },
+    {
+      "text": "Brandon Routh starred in Superman Returns and deliberately channeled Christopher Reeve's performance as both Superman and Clark Kent.",
+      "source": "https://en.wikipedia.org/wiki/Brandon_Routh"
+    },
+    {
+      "text": "Superman Returns featured Marlon Brando's likeness and voice as Jor-El using archival footage from the 1978 film.",
+      "source": "https://en.wikipedia.org/wiki/Superman_Returns"
+    },
+    {
+      "text": "Kevin Spacey played Lex Luthor in Superman Returns, bringing a more menacing interpretation to the role.",
+      "source": "https://en.wikipedia.org/wiki/Kevin_Spacey"
+    },
+    {
+      "text": "Superman Returns grossed $391 million worldwide but was considered underperforming given its $204 million budget.",
+      "source": "https://en.wikipedia.org/wiki/Superman_Returns_grossed_%24391_million_worldwide_but"
+    },
+    {
+      "text": "Man of Steel (2013), directed by Zack Snyder, rebooted the Superman franchise with a grittier, more realistic tone.",
+      "source": "https://en.wikipedia.org/wiki/Steel"
+    },
+    {
+      "text": "Henry Cavill was cast as Superman in Man of Steel, becoming the first non-American actor to play the character in a major film.",
+      "source": "https://en.wikipedia.org/wiki/Henry_Cavill"
+    },
+    {
+      "text": "Henry Cavill had previously auditioned for Superman Returns and was even considered for Superman as early as 2004.",
+      "source": "https://en.wikipedia.org/wiki/Henry_Cavill"
+    },
+    {
+      "text": "\"You're not just anyone. One day, you're going to have to make a choice. You have to decide what kind of man you want to grow up to be.\" — Jonathan Kent to young Clark in Man of Steel.",
+      "source": "https://en.wikipedia.org/wiki/You%27re_not_just_anyone._One_day%2C_you%27re_going_to"
+    },
+    {
+      "text": "Michael Shannon's portrayal of General Zod in Man of Steel presented the villain as a sympathetic figure whose only purpose was to protect Krypton.",
+      "source": "https://en.wikipedia.org/wiki/Michael_Shannon%27s"
+    },
+    {
+      "text": "Russell Crowe played Jor-El in Man of Steel, giving the character a more action-oriented portrayal than Marlon Brando's version.",
+      "source": "https://en.wikipedia.org/wiki/Russell_Crowe"
+    },
+    {
+      "text": "Amy Adams played Lois Lane in Man of Steel and its sequels, portraying her as a Pulitzer Prize-winning investigative journalist.",
+      "source": "https://en.wikipedia.org/wiki/Amy_Adams"
+    },
+    {
+      "text": "Man of Steel's controversial climax, where Superman kills Zod by snapping his neck, sparked intense debate among fans about Superman's no-kill rule.",
+      "source": "https://en.wikipedia.org/wiki/Man_of_Steel%27s"
+    },
+    {
+      "text": "\"If you seek his monument, look around you.\" — the epitaph on Jonathan Kent's gravestone in Man of Steel, adapted from Christopher Wren's epitaph.",
+      "source": "https://en.wikipedia.org/wiki/If_you_seek_his_monument%2C_look_around_you"
+    },
+    {
+      "text": "Hans Zimmer composed the score for Man of Steel, deliberately creating a new musical identity rather than using John Williams' iconic theme.",
+      "source": "https://en.wikipedia.org/wiki/Hans_Zimmer"
+    },
+    {
+      "text": "Man of Steel grossed $668 million worldwide, making it the highest-grossing Superman film at the time.",
+      "source": "https://en.wikipedia.org/wiki/Man_of_Steel"
+    },
+    {
+      "text": "Batman v Superman: Dawn of Justice (2016) brought Superman and Batman together on screen for the first time in a live-action film.",
+      "source": "https://en.wikipedia.org/wiki/Justice"
+    },
+    {
+      "text": "Ben Affleck co-starred as Batman in Batman v Superman, with the conflict driven by Batman's fear of Superman's unchecked power.",
+      "source": "https://en.wikipedia.org/wiki/Ben_Affleck"
+    },
+    {
+      "text": "The 'Martha' scene in Batman v Superman — where Batman stops fighting upon learning their mothers share the name — became one of the most debated moments in superhero cinema.",
+      "source": "https://en.wikipedia.org/wiki/Superman"
+    },
+    {
+      "text": "Jesse Eisenberg's unconventional portrayal of Lex Luthor in Batman v Superman as a manic tech mogul divided audiences and critics.",
+      "source": "https://en.wikipedia.org/wiki/Jesse_Eisenberg%27s"
+    },
+    {
+      "text": "Gal Gadot made her debut as Wonder Woman in Batman v Superman, joining Superman and Batman in the climactic battle against Doomsday.",
+      "source": "https://en.wikipedia.org/wiki/Gal_Gadot"
+    },
+    {
+      "text": "Superman dies at the end of Batman v Superman fighting Doomsday, paralleling the Death of Superman comic storyline.",
+      "source": "https://en.wikipedia.org/wiki/Death_of_Superman"
+    },
+    {
+      "text": "Batman v Superman grossed $873 million worldwide despite polarized critical reception.",
+      "source": "https://en.wikipedia.org/wiki/Superman"
+    },
+    {
+      "text": "Justice League (2017) featured Superman's resurrection, with the hero initially confused and hostile before regaining his memories.",
+      "source": "https://en.wikipedia.org/wiki/Justice_League"
+    },
+    {
+      "text": "Zack Snyder's Justice League (2021), the four-hour director's cut, restored Snyder's original vision and featured significantly more Superman content.",
+      "source": "https://en.wikipedia.org/wiki/Zack_Snyder%27s_Justice_League"
+    },
+    {
+      "text": "\"Not impressed\" — Superman's deadpan response to Steppenwolf in Zack Snyder's Justice League, demonstrating his overwhelming power.",
+      "source": "https://www.youtube.com/results?search_query=Superman%20Not%20impressed%20live%20performance"
+    },
+    {
+      "text": "Henry Cavill's return as Superman was teased in a Black Adam (2022) post-credits scene, though the DCEU was subsequently rebooted.",
+      "source": "https://en.wikipedia.org/wiki/Black_Adam"
+    },
+    {
+      "text": "The 2025 Superman film, directed by James Gunn, launched the new DC Universe with David Corenswet as Superman and Rachel Brosnahan as Lois Lane.",
+      "source": "https://en.wikipedia.org/wiki/2025_Superman_film%2C_directed_by_James_Gunn"
+    },
+    {
+      "text": "James Gunn's Superman (2025) aimed to present a more optimistic and hopeful version of the character after the darker DCEU interpretation.",
+      "source": "https://en.wikipedia.org/wiki/James_Gunn%27s_Superman"
+    },
+    {
+      "text": "Nicholas Hoult was cast as Lex Luthor in James Gunn's Superman (2025).",
+      "source": "https://en.wikipedia.org/wiki/James_Gunn%27s_Superman"
+    },
+    {
+      "text": "Lois & Clark: The New Adventures of Superman (1993-1997) starred Dean Cain and Teri Hatcher and focused on the romantic relationship between Clark and Lois.",
+      "source": "https://en.wikipedia.org/wiki/Lois_%26_Clark:_The_New_Adventures_of_Superman_(1993-1997)"
+    },
+    {
+      "text": "Teri Hatcher's portrayal of Lois Lane in Lois & Clark was praised for being smart, ambitious, and a true equal to Superman.",
+      "source": "https://en.wikipedia.org/wiki/Teri_Hatcher%27s_portrayal_of_Lois_Lane_in_Lois_%26_Clark"
+    },
+    {
+      "text": "Smallville (2001-2011) ran for ten seasons on The WB/CW, following Clark Kent's journey from teenager to Superman.",
+      "source": "https://en.wikipedia.org/wiki/Smallville_(2001-2011)"
+    },
+    {
+      "text": "Tom Welling starred as Clark Kent in Smallville, with the show's famous rule being 'no tights, no flights' — Clark didn't fully become Superman until the series finale.",
+      "source": "https://en.wikipedia.org/wiki/Tom_Welling"
+    },
+    {
+      "text": "Smallville introduced many elements that influenced later Superman adaptations, including the meteor freak-of-the-week format and Clark's complex relationship with a young Lex Luthor.",
+      "source": "https://en.wikipedia.org/wiki/Smallville"
+    },
+    {
+      "text": "Michael Rosenbaum's portrayal of Lex Luthor in Smallville is considered one of the definitive versions of the character.",
+      "source": "https://en.wikipedia.org/wiki/Michael_Rosenbaum%27s_portrayal_of_Lex_Luthor_in_Smallville"
+    },
+    {
+      "text": "\"I don't want to be anybody's hero.\" — Clark Kent in early Smallville episodes, resisting his destiny before eventually embracing it.",
+      "source": "https://en.wikipedia.org/wiki/I_don%27t_want_to_be_anybody%27s_hero"
+    },
+    {
+      "text": "Smallville became the longest-running North American sci-fi series at the time, surpassing Stargate SG-1.",
+      "source": "https://en.wikipedia.org/wiki/Smallville"
+    },
+    {
+      "text": "Superman & Lois (2021-2024) starred Tyler Hoechlin and Elizabeth Tulloch, exploring Superman as a father of two teenage sons.",
+      "source": "https://en.wikipedia.org/wiki/Superman_%26_Lois_(2021-2024)"
+    },
+    {
+      "text": "Superman & Lois was praised for its emotional depth and for presenting Superman dealing with relatable family challenges alongside cosmic threats.",
+      "source": "https://en.wikipedia.org/wiki/Superman_%26_Lois"
+    },
+    {
+      "text": "The Fleischer Superman cartoons (1941-1943) are considered masterpieces of animation and were among the most expensive cartoons produced at the time.",
+      "source": "https://en.wikipedia.org/wiki/Fleischer_Superman_cartoons_(1941-1943)"
+    },
+    {
+      "text": "The Fleischer cartoons established many visual elements of Superman, including his method of flying and the look of Metropolis.",
+      "source": "https://en.wikipedia.org/wiki/Fleischer"
+    },
+    {
+      "text": "Superman: The Animated Series (1996-2000) was produced by Bruce Timm and Paul Dini and existed within the DC Animated Universe.",
+      "source": "https://en.wikipedia.org/wiki/Superman:_The_Animated_Series_(1996-2000)"
+    },
+    {
+      "text": "Tim Daly voiced Superman in Superman: The Animated Series, while Dana Delany voiced Lois Lane and Clancy Brown voiced Lex Luthor.",
+      "source": "https://en.wikipedia.org/wiki/Tim_Daly"
+    },
+    {
+      "text": "Clancy Brown's voice performance as Lex Luthor in the animated series is widely regarded as the definitive animated portrayal of the character.",
+      "source": "https://en.wikipedia.org/wiki/Clancy_Brown%27s_voice_performance_as_Lex_Luthor_in_the_animated_series"
+    },
+    {
+      "text": "The DC Animated Universe's version of Superman crossed over with Batman: The Animated Series and later continued in Justice League and Justice League Unlimited.",
+      "source": "https://en.wikipedia.org/wiki/DC_Animated_Universe%27s"
+    },
+    {
+      "text": "\"I feel like I live in a world made of cardboard, always taking constant care not to break something, to break someone.\" — Superman in Justice League Unlimited, releasing his full power against Darkseid.",
+      "source": "https://en.wikipedia.org/wiki/Superman_in_Justice_League_Unlimited"
+    },
+    {
+      "text": "All-Star Superman (2005-2008) by Grant Morrison and Frank Quitely is considered one of the greatest Superman stories ever told.",
+      "source": "https://en.wikipedia.org/wiki/All-Star_Superman_(2005-2008)_by_Grant_Morrison_and_Frank_Quitely"
+    },
+    {
+      "text": "In All-Star Superman, the Man of Steel discovers he is dying from solar radiation overexposure and sets out to complete twelve labors.",
+      "source": "https://en.wikipedia.org/wiki/In_All-Star_Superman%2C_the_Man_of_Steel_discovers_he"
+    },
+    {
+      "text": "\"You're much stronger than you think you are. Trust me.\" — Superman to a suicidal girl in All-Star Superman, one of the most emotional moments in all of comics.",
+      "source": "https://www.youtube.com/results?search_query=Superman%20You%27re%20much%20stronger%20than%20you%20think%20you%20are.%20Trust%20me.%20live%20performance"
+    },
+    {
+      "text": "Kingdom Come (1996) by Mark Waid and Alex Ross depicts a dystopian future where an older Superman comes out of retirement to restore order.",
+      "source": "https://en.wikipedia.org/wiki/Kingdom_Come"
+    },
+    {
+      "text": "Alex Ross's hyper-realistic painted artwork in Kingdom Come is considered some of the finest art in comic book history.",
+      "source": "https://en.wikipedia.org/wiki/Alex_Ross%27s_hyper-realistic_painted_artwork_in_Kingdom_Come"
+    },
+    {
+      "text": "Superman: Red Son (2003) by Mark Millar reimagines Superman's origin with his rocket landing in the Soviet Union instead of Kansas.",
+      "source": "https://en.wikipedia.org/wiki/Superman:_Red_Son"
+    },
+    {
+      "text": "In Red Son, Superman becomes the champion of communism rather than the American way, exploring how environment shapes identity.",
+      "source": "https://en.wikipedia.org/wiki/In_Red_Son%2C_Superman"
+    },
+    {
+      "text": "\"Why don't you just put the whole world in a bottle, Superman?\" — Lex Luthor's cutting critique in Red Son, questioning Superman's brand of 'protection.'",
+      "source": "https://en.wikipedia.org/wiki/Why_don%27t_you_just_put_the_whole_world_in_a_bottle%2C_Superman"
+    },
+    {
+      "text": "Superman: Birthright (2003-2004) by Mark Waid modernized Superman's origin and influenced the Man of Steel film.",
+      "source": "https://en.wikipedia.org/wiki/Superman:_Birthright"
+    },
+    {
+      "text": "Superman: Secret Identity (2004) by Kurt Busiek tells the story of a boy named Clark Kent in the real world who develops Superman's powers.",
+      "source": "https://en.wikipedia.org/wiki/Superman:_Secret_Identity"
+    },
+    {
+      "text": "Whatever Happened to the Man of Tomorrow? (1986) by Alan Moore served as the final story of the pre-Crisis Superman, and is considered a perfect farewell.",
+      "source": "https://en.wikipedia.org/wiki/Tomorrow"
+    },
+    {
+      "text": "\"This is an imaginary story. Aren't they all?\" — Alan Moore's iconic opening line for Whatever Happened to the Man of Tomorrow?",
+      "source": "https://en.wikipedia.org/wiki/This_is_an_imaginary_story._Aren%27t_they_all"
+    },
+    {
+      "text": "Superman: For All Seasons (1998) by Jeph Loeb and Tim Sale is a coming-of-age tale examining Superman's early years through the four seasons.",
+      "source": "https://en.wikipedia.org/wiki/Superman:_For_All_Seasons"
+    },
+    {
+      "text": "The Man of Steel (1986) miniseries by John Byrne rebooted Superman's origin for the post-Crisis DC Universe, making him the sole survivor of Krypton.",
+      "source": "https://en.wikipedia.org/wiki/Steel"
+    },
+    {
+      "text": "John Byrne's reboot eliminated Superboy from continuity, made Lex Luthor a corporate villain, and reduced Superman's power levels.",
+      "source": "https://en.wikipedia.org/wiki/John_Byrne%27s"
+    },
+    {
+      "text": "Superman: Secret Origin (2009-2010) by Geoff Johns became the definitive origin for the post-Infinite Crisis era.",
+      "source": "https://en.wikipedia.org/wiki/Superman:_Secret_Origin_(2009-2010)_by_Geoff_Johns"
+    },
+    {
+      "text": "Superman: Up, Up and Away! (2006) told the story of a depowered Clark Kent who must reclaim his abilities and identity.",
+      "source": "https://en.wikipedia.org/wiki/Away"
+    },
+    {
+      "text": "The Reign of the Supermen storyline following Superman's death introduced Steel (John Henry Irons), who became a hero in his own right.",
+      "source": "https://en.wikipedia.org/wiki/Reign_of_the_Supermen_storyline_following_Superman%27s_death"
+    },
+    {
+      "text": "John Henry Irons, aka Steel, was a weapons engineer who built a suit of armor to honor Superman's legacy after his death.",
+      "source": "https://en.wikipedia.org/wiki/John_Henry_Irons%2C_aka_Steel"
+    },
+    {
+      "text": "Shaquille O'Neal starred as Steel in a widely panned 1997 film adaptation that removed all connections to Superman.",
+      "source": "https://en.wikipedia.org/wiki/Shaquille_O%27Neal"
+    },
+    {
+      "text": "Superboy-Prime is an alternate version of Superman from Earth-Prime who becomes one of the most dangerous villains in DC Comics.",
+      "source": "https://en.wikipedia.org/wiki/Superboy-Prime"
+    },
+    {
+      "text": "The Phantom Zone was created by Jerry Siegel and first appeared in Adventure Comics #283 in 1961.",
+      "source": "https://en.wikipedia.org/wiki/Phantom_Zone"
+    },
+    {
+      "text": "Superman's power level has varied dramatically throughout his history — in the Silver Age, he could move planets and travel through time.",
+      "source": "https://en.wikipedia.org/wiki/Superman%27s_power_level"
+    },
+    {
+      "text": "In the Silver Age, Superman had bizarre powers including super-ventriloquism, super-weaving, and super-mathematics.",
+      "source": "https://en.wikipedia.org/wiki/In_the_Silver_Age%2C_Superman"
+    },
+    {
+      "text": "Superman once arm-wrestled the entire Justice League simultaneously in a Silver Age comic and won.",
+      "source": "https://en.wikipedia.org/wiki/Justice_League"
+    },
+    {
+      "text": "Crisis on Infinite Earths (1985) killed the Earth-Two Superman, one of the most significant character deaths in DC history.",
+      "source": "https://en.wikipedia.org/wiki/Infinite_Earths"
+    },
+    {
+      "text": "The Death of Superman storyline was partly conceived because the writers felt they had exhausted story ideas and wanted to shock the industry.",
+      "source": "https://en.wikipedia.org/wiki/Death_of_Superman_storyline"
+    },
+    {
+      "text": "\"Doomsday is coming\" graffiti appeared in DC Comics for months before the actual Death of Superman storyline began.",
+      "source": "https://en.wikipedia.org/wiki/Doomsday_is_coming"
+    },
+    {
+      "text": "Superman #75 used a single-panel-per-page format for the final battle with Doomsday, creating an increasingly intense rhythm.",
+      "source": "https://en.wikipedia.org/wiki/Superman"
+    },
+    {
+      "text": "The Return of Superman storyline revealed that the Eradicator had placed Superman's body in a Kryptonian regeneration chamber.",
+      "source": "https://en.wikipedia.org/wiki/Return_of_Superman_storyline_revealed_that_the_Eradicator"
+    },
+    {
+      "text": "Cyborg Superman (Hank Henshaw) impersonated Superman during the Reign of the Supermen and destroyed Coast City, setting up major Green Lantern storylines.",
+      "source": "https://en.wikipedia.org/wiki/Cyborg_Superman"
+    },
+    {
+      "text": "Our Worlds at War (2001) was a massive crossover where Superman fought Imperiex and saw the apparent death of several allies.",
+      "source": "https://en.wikipedia.org/wiki/War"
+    },
+    {
+      "text": "Superman has been a member of multiple teams including the Justice League, the Justice Society, and the Legion of Super-Heroes.",
+      "source": "https://en.wikipedia.org/wiki/Superman"
+    },
+    {
+      "text": "The Legion of Super-Heroes, a team of teenage heroes from the 31st century, was inspired by Superman's legend and frequently teamed up with Superboy.",
+      "source": "https://en.wikipedia.org/wiki/Legion_of_Super-Heroes%2C_a_team_of_teenage_heroes_from_the_31st_century"
+    },
+    {
+      "text": "\"Truth, Justice, and the American Way\" has been Superman's motto since the 1940s radio show, though modern adaptations have updated it.",
+      "source": "https://en.wikipedia.org/wiki/Truth%2C_Justice%2C_and_the_American_Way"
+    },
+    {
+      "text": "In 2021, DC updated Superman's motto to 'Truth, Justice, and a Better Tomorrow' for contemporary relevance.",
+      "source": "https://en.wikipedia.org/wiki/Better_Tomorrow%27_for"
+    },
+    {
+      "text": "\"There is a superhero in all of us, we just need the courage to put on the cape.\" — This sentiment captures the core of Superman's inspirational mission.",
+      "source": "https://en.wikipedia.org/wiki/There_is_a_superhero_in_all_of_us%2C_we_just_need_the_courage_to_put_on_the_cape"
+    },
+    {
+      "text": "Superman's heat vision was not part of his original power set — it was added in the 1960s, replacing the earlier 'heat of his X-ray vision.'",
+      "source": "https://en.wikipedia.org/wiki/Superman%27s_heat_vision"
+    },
+    {
+      "text": "Superman can survive in space without oxygen, though some modern interpretations require him to hold his breath.",
+      "source": "https://en.wikipedia.org/wiki/Superman"
+    },
+    {
+      "text": "Superman once flew so fast he broke the time barrier and traveled to the future, a power used frequently in Silver Age stories.",
+      "source": "https://en.wikipedia.org/wiki/Silver_Age"
+    },
+    {
+      "text": "Mon-El (Lar Gand) is a Daxamite ally of Superman who has similar powers but is vulnerable to lead instead of Kryptonite.",
+      "source": "https://en.wikipedia.org/wiki/Mon-El_(Lar_Gand)"
+    },
+    {
+      "text": "Power Girl is the Earth-Two version of Supergirl and Superman's cousin from a parallel universe.",
+      "source": "https://en.wikipedia.org/wiki/Power_Girl"
+    },
+    {
+      "text": "The Eradicator is a Kryptonian artifact turned sentient being that has alternated between villain and antihero in Superman stories.",
+      "source": "https://en.wikipedia.org/wiki/Eradicator"
+    },
+    {
+      "text": "Superman has fought Muhammad Ali in a special 1978 DC Comics publication, Superman vs. Muhammad Ali, with Ali winning a depowered boxing match.",
+      "source": "https://en.wikipedia.org/wiki/Superman"
+    },
+    {
+      "text": "Mongul is a tyrannical alien warlord who has challenged Superman repeatedly, most notably in the classic story 'For the Man Who Has Everything.'",
+      "source": "https://en.wikipedia.org/wiki/Mongul"
+    },
+    {
+      "text": "\"For the Man Who Has Everything\" (1985) by Alan Moore shows Superman trapped in a dream of Krypton never exploding — and he must willingly give it up.",
+      "source": "https://en.wikipedia.org/wiki/For_the_Man_Who_Has_Everything"
+    },
+    {
+      "text": "\"Burn.\" — Superman's single devastating word when he finally breaks free and attacks Mongul in For the Man Who Has Everything.",
+      "source": "https://en.wikipedia.org/wiki/Burn"
+    },
+    {
+      "text": "Toyman is one of Superman's rogues who uses deadly toy-themed weapons and has been depicted in various incarnations from campy to terrifying.",
+      "source": "https://en.wikipedia.org/wiki/Toyman"
+    },
+    {
+      "text": "Intergang is a Metropolis crime syndicate that uses Apokoliptian technology provided by Darkseid.",
+      "source": "https://en.wikipedia.org/wiki/Intergang"
+    },
+    {
+      "text": "Manchester Black is a villain who challenged Superman's moral code in the story 'What's So Funny About Truth, Justice & the American Way?'",
+      "source": "https://en.wikipedia.org/wiki/Manchester_Black"
+    },
+    {
+      "text": "\"What's So Funny About Truth, Justice & the American Way?\" (Action Comics #775, 2001) is considered one of the greatest single-issue Superman stories.",
+      "source": "https://en.wikipedia.org/wiki/What%27s_So_Funny_About_Truth%2C_Justice_%26_the_American_Way"
+    },
+    {
+      "text": "\"I won't let you or the Elites take that away from the people who still believe in it.\" — Superman defending his principles against the Elite's violent methods.",
+      "source": "https://en.wikipedia.org/wiki/I_won%27t_let_you_or_the_Elites_take_that_away_from_the_people_who_still_believe_in_it"
+    },
+    {
+      "text": "Livewire is an electricity-powered villain who first appeared in Superman: The Animated Series before being introduced into comics.",
+      "source": "https://en.wikipedia.org/wiki/Livewire"
+    },
+    {
+      "text": "Hank Henshaw, the Cyborg Superman, is a tragic figure similar to Marvel's Reed Richards who went insane and blamed Superman for his transformation.",
+      "source": "https://en.wikipedia.org/wiki/Hank_Henshaw%2C_the_Cyborg_Superman"
+    },
+    {
+      "text": "Superman's power of super-hearing allows him to hear sounds across the globe, and this ability is often shown as both a gift and a burden.",
+      "source": "https://en.wikipedia.org/wiki/Superman"
+    },
+    {
+      "text": "In some continuities, Superman can see across the entire electromagnetic spectrum, from radio waves to gamma rays.",
+      "source": "https://en.wikipedia.org/wiki/Superman"
+    },
+    {
+      "text": "Superman's freeze breath can lower temperatures to absolute zero, allowing him to instantly freeze objects and foes.",
+      "source": "https://en.wikipedia.org/wiki/Superman"
+    },
+    {
+      "text": "The concept of Superman maintaining a secret identity explored the immigrant experience — hiding one's true self to fit into a new society.",
+      "source": "https://en.wikipedia.org/wiki/Superman"
+    },
+    {
+      "text": "Many scholars have noted that Superman's origin story parallels the story of Moses — a child sent away from destruction by his parents to be raised by others.",
+      "source": "https://en.wikipedia.org/wiki/Many_scholars"
+    },
+    {
+      "text": "Jerry Siegel and Joe Shuster were both Jewish, and Superman's story has been widely analyzed as a Jewish immigrant narrative.",
+      "source": "https://en.wikipedia.org/wiki/Jerry_Siegel_and_Joe_Shuster"
+    },
+    {
+      "text": "Superman was used in World War II propaganda, with covers showing him fighting Axis powers and encouraging war bond purchases.",
+      "source": "https://en.wikipedia.org/wiki/Superman"
+    },
+    {
+      "text": "\"I'm here to stand up for people who can't stand up for themselves.\" — Superman, encapsulating his defining purpose.",
+      "source": "https://en.wikipedia.org/wiki/I%27m_here_to_stand_up_for_people_who_can%27t_stand_up_for_themselves"
+    },
+    {
+      "text": "Superman has been adapted into every medium: comic books, newspaper strips, radio, film, television, animation, novels, and video games.",
+      "source": "https://en.wikipedia.org/wiki/Superman"
+    },
+    {
+      "text": "The first Superman video game was released for Atari 2600 in 1979.",
+      "source": "https://en.wikipedia.org/wiki/first_Superman_video_game"
+    },
+    {
+      "text": "Superman 64 (1999) for the Nintendo 64 is widely considered one of the worst video games ever made, infamous for its ring-flying missions.",
+      "source": "https://en.wikipedia.org/wiki/Superman_64"
+    },
+    {
+      "text": "The Injustice: Gods Among Us video game (2013) and comic series explored an alternate universe where Superman becomes a dictator after the Joker tricks him into killing Lois Lane.",
+      "source": "https://en.wikipedia.org/wiki/Injustice:_Gods_Among_Us"
+    },
+    {
+      "text": "In the Injustice storyline, Superman kills the Joker and establishes a totalitarian regime, with Batman leading the resistance.",
+      "source": "https://en.wikipedia.org/wiki/In_the_Injustice"
+    },
+    {
+      "text": "\"I used to believe everyone deserved a second chance. But some aren't looking for a second chance. They're looking for a second victim.\" — Injustice Superman justifying his authoritarian rule.",
+      "source": "https://en.wikipedia.org/wiki/Injustice_Superman"
+    },
+    {
+      "text": "Superman has a well-known weakness to magic — spells and magical weapons affect him as if he had no special defenses.",
+      "source": "https://en.wikipedia.org/wiki/Superman"
+    },
+    {
+      "text": "Red sun radiation can strip Superman of his powers, as Kryptonians only gain abilities under a yellow sun.",
+      "source": "https://en.wikipedia.org/wiki/Superman_of"
+    },
+    {
+      "text": "Superman can sundip — fly directly into the sun — to supercharge his abilities to extreme levels.",
+      "source": "https://en.wikipedia.org/wiki/Superman"
+    },
+    {
+      "text": "Superman Prime One Million, from the DC One Million storyline, is a version of Superman who sundipped for 15,000 years and became godlike.",
+      "source": "https://en.wikipedia.org/wiki/Superman_Prime_One_Million%2C_from_the_DC_One_Million_storyline"
+    },
+    {
+      "text": "The Bottle City of Kandor contains the last surviving city of Krypton, shrunk by Brainiac before the planet's destruction.",
+      "source": "https://en.wikipedia.org/wiki/Bottle_City_of_Kandor"
+    },
+    {
+      "text": "Superman has grappled with loneliness as the last survivor of an entire civilization throughout his history.",
+      "source": "https://en.wikipedia.org/wiki/Superman"
+    },
+    {
+      "text": "\"Even though you've been raised as a human being, you're not one of them.\" — Jor-El to Superman, highlighting his alien nature.",
+      "source": "https://en.wikipedia.org/wiki/Even_though_you%27ve_been_raised_as_a_human_being%2C_you%27re_not_one_of_them"
+    },
+    {
+      "text": "Superman and Lois Lane were married in the comics in Superman: The Wedding Album (1996), timed to coincide with the Lois & Clark TV show's wedding.",
+      "source": "https://en.wikipedia.org/wiki/Superman:_The_Wedding_Album"
+    },
+    {
+      "text": "Jon Kent, the son of Superman and Lois Lane, was introduced in 2015 and has carried on his father's legacy as a new Superman.",
+      "source": "https://en.wikipedia.org/wiki/Jon_Kent%2C_the_son_of_Superman_and_Lois_Lane"
+    },
+    {
+      "text": "In 2021, Jon Kent came out as bisexual in Superman: Son of Kal-El #5, making major cultural headlines.",
+      "source": "https://en.wikipedia.org/wiki/Jon_Kent"
+    },
+    {
+      "text": "Kon-El (Conner Kent), another Superboy, is a clone created from both Superman and Lex Luthor's DNA.",
+      "source": "https://en.wikipedia.org/wiki/Kon-El_(Conner_Kent)%2C_another_Superboy"
+    },
+    {
+      "text": "Superman's Pal Jimmy Olsen had his own solo comic series that ran from 1954 to 1974, featuring numerous bizarre transformations.",
+      "source": "https://en.wikipedia.org/wiki/Superman%27s_Pal_Jimmy_Olsen"
+    },
+    {
+      "text": "Jimmy Olsen's signal watch emits a high-frequency sound that only Superman can hear, allowing him to call for help.",
+      "source": "https://en.wikipedia.org/wiki/Jimmy_Olsen%27s"
+    },
+    {
+      "text": "Superman has a no-kill rule that he adheres to in most continuities, believing in the justice system and the value of every life.",
+      "source": "https://en.wikipedia.org/wiki/Superman"
+    },
+    {
+      "text": "\"Every person can be a force for good, free to forge his own destiny.\" — Superman expressing his faith in humanity.",
+      "source": "https://en.wikipedia.org/wiki/Every_person_can_be_a_force_for_good%2C_free_to_forge_his_own_destiny"
+    },
+    {
+      "text": "The Superman Curse is an urban legend suggesting that actors who play Superman suffer misfortune, citing George Reeves' death and Christopher Reeve's accident.",
+      "source": "https://en.wikipedia.org/wiki/Superman_Curse"
+    },
+    {
+      "text": "Nicolas Cage was set to star in Tim Burton's Superman Lives in the late 1990s, but the project was canceled during pre-production.",
+      "source": "https://en.wikipedia.org/wiki/Nicolas_Cage"
+    },
+    {
+      "text": "The documentary The Death of 'Superman Lives': What Happened? (2015) explored the failed Tim Burton project, including Cage's costume tests.",
+      "source": "https://en.wikipedia.org/wiki/Superman_Lives%27:_What_Happened"
+    },
+    {
+      "text": "Kevin Smith wrote a screenplay for Superman Lives, famously recounting producer Jon Peters' bizarre demand to include a giant spider.",
+      "source": "https://en.wikipedia.org/wiki/Kevin_Smith"
+    },
+    {
+      "text": "J.J. Abrams wrote a Superman screenplay called Superman: Flyby that was nearly produced with various directors attached before being shelved.",
+      "source": "https://en.wikipedia.org/wiki/J.J._Abrams"
+    },
+    {
+      "text": "Superman's appearance — the spit curl, the red cape, the blue suit — has become the universal symbol for superheroes.",
+      "source": "https://en.wikipedia.org/wiki/Superman%27s_appearance_%E2%80%94_the_spit_curl%2C_the_red_cape%2C_the_blue_suit_%E2%80%94"
+    },
+    {
+      "text": "The iconic image of Superman ripping open his shirt to reveal the S-shield is one of the most recognized images in popular culture.",
+      "source": "https://en.wikipedia.org/wiki/iconic_image_of_Superman_ripping_open_his_shirt_to_reveal_the_S-shield"
+    },
+    {
+      "text": "Superman's costume traditionally includes red trunks over blue tights, though modern designs have frequently removed them.",
+      "source": "https://en.wikipedia.org/wiki/Superman%27s_costume_traditionally"
+    },
+    {
+      "text": "\"What I do, I do for the people of this planet.\" — Superman, stating his commitment to Earth despite his alien origin.",
+      "source": "https://en.wikipedia.org/wiki/What_I_do%2C_I_do_for_the_people_of_this_planet"
+    },
+    {
+      "text": "Max Fleischer's Superman cartoons were so expensive to produce that each episode cost approximately $100,000 — equivalent to over $2 million today.",
+      "source": "https://en.wikipedia.org/wiki/Max_Fleischer%27s_Superman_cartoons"
+    },
+    {
+      "text": "The Fleischer Superman cartoons inspired the look and atmosphere of Batman: The Animated Series decades later.",
+      "source": "https://en.wikipedia.org/wiki/Fleischer_Superman_cartoons"
+    },
+    {
+      "text": "Superman has appeared on the cover of Time magazine and is considered one of the most recognizable fictional characters in history.",
+      "source": "https://en.wikipedia.org/wiki/Superman"
+    },
+    {
+      "text": "A study found that Superman was one of the top three most recognized fictional characters worldwide, alongside Mickey Mouse and Santa Claus.",
+      "source": "https://en.wikipedia.org/wiki/A_study_found_that_Superman"
+    },
+    {
+      "text": "Superman: The Movie (1978) was one of the first major superhero blockbusters and paved the way for the modern superhero film genre.",
+      "source": "https://en.wikipedia.org/wiki/Superman:_The_Movie"
+    },
+    {
+      "text": "Before Christopher Reeve, the studio considered casting Muhammad Ali, Neil Diamond, and even Dustin Hoffman as Superman.",
+      "source": "https://en.wikipedia.org/wiki/Before_Christopher_Reeve"
+    },
+    {
+      "text": "Christopher Reeve gained 30 pounds of muscle for the role of Superman through an intensive training program supervised by David Prowse, who played Darth Vader.",
+      "source": "https://en.wikipedia.org/wiki/Christopher_Reeve"
+    },
+    {
+      "text": "Margot Kidder performed many of her own stunts in Superman (1978), including the helicopter rescue scene.",
+      "source": "https://en.wikipedia.org/wiki/Superman"
+    },
+    {
+      "text": "The helicopter rescue scene in Superman (1978) is considered one of the most iconic moments in superhero cinema history.",
+      "source": "https://en.wikipedia.org/wiki/Superman"
+    },
+    {
+      "text": "\"Easy, miss. I've got you.\" \"You've got me? Who's got you?!\" — The classic exchange between Superman and Lois Lane during the helicopter rescue.",
+      "source": "https://en.wikipedia.org/wiki/Easy%2C_miss._I%27ve_got_you"
+    },
+    {
+      "text": "Superman (1978) used the tagline 'You'll believe a man can fly' and pioneered visual effects techniques that made aerial superhero sequences convincing.",
+      "source": "https://en.wikipedia.org/wiki/Superman"
+    },
+    {
+      "text": "The Superman (1978) flying effects were achieved by Geoffrey Unsworth and Les Bowie using a combination of front projection and wire rigs.",
+      "source": "https://en.wikipedia.org/wiki/Superman"
+    },
+    {
+      "text": "Superman II (1980) featured the epic battle between Superman and the three Kryptonian villains — Zod, Ursa, and Non — in the streets of Metropolis.",
+      "source": "https://en.wikipedia.org/wiki/Superman_II"
+    },
+    {
+      "text": "The battle in Metropolis in Superman II is often cited as the template for superhero city battles in later films.",
+      "source": "https://en.wikipedia.org/wiki/battle_in_Metropolis_in_Superman_II"
+    },
+    {
+      "text": "Sarah Douglas played Ursa in Superman II, delivering a memorably cold and ruthless performance as Zod's lieutenant.",
+      "source": "https://en.wikipedia.org/wiki/Sarah_Douglas"
+    },
+    {
+      "text": "Jack O'Halloran played Non, the mute but immensely powerful member of Zod's trio in Superman II.",
+      "source": "https://en.wikipedia.org/wiki/Jack_O%27Halloran"
+    },
+    {
+      "text": "The Niagara Falls sequence in Superman II, where Lois discovers Clark is Superman, differs significantly between the Donner Cut and the Lester version.",
+      "source": "https://en.wikipedia.org/wiki/Niagara_Falls_sequence_in_Superman_II%2C_where_Lois_discovers_Clark"
+    },
+    {
+      "text": "In the Richard Donner Cut of Superman II, Lois shoots Clark with a blank to prove he's Superman, rather than the clumsy fireplace reveal.",
+      "source": "https://en.wikipedia.org/wiki/In_the_Richard_Donner_Cut_of_Superman_II"
+    },
+    {
+      "text": "Superman III (1983) grossed $80 million worldwide, significantly less than its predecessors due to its comedic tone.",
+      "source": "https://en.wikipedia.org/wiki/Superman_III"
+    },
+    {
+      "text": "The 'evil Superman' sequence in Superman III, where a corrupted Superman straightens the Leaning Tower of Pisa, is one of the film's most memorable moments.",
+      "source": "https://en.wikipedia.org/wiki/Superman_III"
+    },
+    {
+      "text": "Annette O'Toole played Lana Lang in Superman III and later played Martha Kent in Smallville, making her one of the few actors to appear in both adaptations.",
+      "source": "https://en.wikipedia.org/wiki/Annette_O%27Toole"
+    },
+    {
+      "text": "Superman IV's Nuclear Man villain was considered one of the weakest in the franchise and suffered from the film's extremely low budget.",
+      "source": "https://en.wikipedia.org/wiki/Superman_IV%27s_Nuclear_Man_villain"
+    },
+    {
+      "text": "Superman IV was the last film Christopher Reeve made as Superman, and despite its flaws, his performance remained committed.",
+      "source": "https://en.wikipedia.org/wiki/Superman_IV"
+    },
+    {
+      "text": "Jon Cryer played Lex Luthor's nephew Lenny in Superman IV and later played Lex Luthor himself in the TV series Supergirl.",
+      "source": "https://en.wikipedia.org/wiki/Jon_Cryer"
+    },
+    {
+      "text": "\"Why do they need a hero? They need to look inside themselves and see the hero within.\" — This philosophy has guided many Superman writers.",
+      "source": "https://en.wikipedia.org/wiki/Why_do_they_need_a_hero%3F_They_need_to_look_inside_themselves_and_see_the_hero_within"
+    },
+    {
+      "text": "Man of Steel (2013) showed the destruction of Metropolis during the battle with Zod's forces, with estimated fictional damage costs in the trillions.",
+      "source": "https://en.wikipedia.org/wiki/Steel"
+    },
+    {
+      "text": "The 'first flight' sequence in Man of Steel, where Clark takes off for the first time with Hans Zimmer's score soaring, is widely praised as one of the best scenes.",
+      "source": "https://en.wikipedia.org/wiki/%27first_flight%27_sequence_in_Man_of_Steel%2C_where_Clark"
+    },
+    {
+      "text": "Kevin Costner played Jonathan Kent in Man of Steel, whose death in a tornado was one of the film's most controversial creative choices.",
+      "source": "https://en.wikipedia.org/wiki/Kevin_Costner_played_Jonathan_Kent_in_Man_of_Steel%2C_whose_death_in_a_tornado"
+    },
+    {
+      "text": "Diane Lane played Martha Kent in Man of Steel and its sequels, bringing gravitas to the role of Clark's Earth mother.",
+      "source": "https://en.wikipedia.org/wiki/Diane_Lane"
+    },
+    {
+      "text": "Laurence Fishburne became the first Black actor to play Perry White in Man of Steel.",
+      "source": "https://en.wikipedia.org/wiki/Laurence_Fishburne"
+    },
+    {
+      "text": "Man of Steel's visual style, with its muted color palette and handheld camera work, was influenced by Terrence Malick's filmmaking.",
+      "source": "https://en.wikipedia.org/wiki/Man_of_Steel%27s_visual_style%2C_with_its_muted_color_palette_and_handheld_camera_work"
+    },
+    {
+      "text": "\"You just have to decide what kind of man you want to grow up to be, Clark. Whoever that man is, he's going to change the world.\" — Jonathan Kent in Man of Steel.",
+      "source": "https://en.wikipedia.org/wiki/You_just"
+    },
+    {
+      "text": "The Kryptonian language in Man of Steel was developed by linguist Christine Schreyer specifically for the film.",
+      "source": "https://en.wikipedia.org/wiki/Kryptonian_language_in_Man_of_Steel"
+    },
+    {
+      "text": "The codex in Man of Steel, containing the genetic information of all future Kryptonians, was bonded to baby Kal-El by Jor-El.",
+      "source": "https://en.wikipedia.org/wiki/codex_in_Man_of_Steel%2C_containing_the_genetic_information_of_all_future_Kryptonians"
+    },
+    {
+      "text": "Superman's black suit, worn during his resurrection in Zack Snyder's Justice League, references the recovery suit from the Return of Superman comics.",
+      "source": "https://en.wikipedia.org/wiki/Zack_Snyder%27s_Justice_League"
+    },
+    {
+      "text": "\"Tell me, do you bleed? You will.\" — Batman's threat to Superman in Batman v Superman became one of the film's most quoted lines.",
+      "source": "https://en.wikipedia.org/wiki/Tell_me%2C_do_you_bleed%3F_You_will"
+    },
+    {
+      "text": "The warehouse fight scene in Batman v Superman, where Batman rescues Martha Kent, is considered one of the best fight sequences in superhero cinema.",
+      "source": "https://en.wikipedia.org/wiki/warehouse_fight_scene_in_Batman_v_Superman%2C_where_Batman_rescues_Martha_Kent"
+    },
+    {
+      "text": "Batman v Superman's Ultimate Edition, running 183 minutes, was better received than the theatrical cut and restored important plot points.",
+      "source": "https://en.wikipedia.org/wiki/Batman_v_Superman%27s_Ultimate_Edition%2C_running_183_minutes"
+    },
+    {
+      "text": "Holly Hunter played Senator Finch in Batman v Superman, representing the government's attempt to hold Superman accountable.",
+      "source": "https://en.wikipedia.org/wiki/Holly_Hunter"
+    },
+    {
+      "text": "The Superman statue in Batman v Superman, with 'FALSE GOD' spray-painted on it, symbolized the public's divided feelings about the Man of Steel.",
+      "source": "https://en.wikipedia.org/wiki/Superman"
+    },
+    {
+      "text": "Jeremy Irons played Alfred Pennyworth in Batman v Superman and Justice League, providing sardonic commentary on Batman's obsession with Superman.",
+      "source": "https://en.wikipedia.org/wiki/Jeremy_Irons"
+    },
+    {
+      "text": "\"No one stays good in this world.\" — Superman's disillusioned words in Batman v Superman reflected the film's darker interpretation of the character.",
+      "source": "https://en.wikipedia.org/wiki/No_one_stays_good_in_this_world"
+    },
+    {
+      "text": "Justice League (2017) went through extensive reshoots under Joss Whedon after Zack Snyder stepped away due to a family tragedy.",
+      "source": "https://en.wikipedia.org/wiki/Justice_League"
+    },
+    {
+      "text": "Henry Cavill's mustache for Mission: Impossible — Fallout had to be digitally removed for Justice League reshoots, creating a noticeable and mocked CGI upper lip.",
+      "source": "https://en.wikipedia.org/wiki/Henry_Cavill%27s_mustache_for_Mission:_Impossible_%E2%80%94_Fallout"
+    },
+    {
+      "text": "Zack Snyder's Justice League (2021) was released on HBO Max after a massive fan campaign using the hashtag #ReleasetheSnyderCut.",
+      "source": "https://en.wikipedia.org/wiki/Zack_Snyder%27s_Justice_League"
+    },
+    {
+      "text": "The Snyder Cut movement is one of the most successful fan campaigns in entertainment history, leading to a $70 million completion of the director's vision.",
+      "source": "https://en.wikipedia.org/wiki/Snyder_Cut_movement"
+    },
+    {
+      "text": "In Zack Snyder's Justice League, Superman wears the black suit and is shown to be far more powerful than the combined might of the other League members.",
+      "source": "https://en.wikipedia.org/wiki/In_Zack_Snyder%27s_Justice_League%2C_Superman_wears_the_black_suit_and"
+    },
+    {
+      "text": "\"This is my world. You are my world.\" — Superman to Lois Lane in Zack Snyder's Justice League, choosing love over rage.",
+      "source": "https://en.wikipedia.org/wiki/This_is_my_world._You_are_my_world"
+    },
+    {
+      "text": "The Adventures of Superman TV series (1952-1958) was one of the first television shows to feature a superhero and helped establish the genre on TV.",
+      "source": "https://en.wikipedia.org/wiki/Adventures_of_Superman_TV_series_(1952-1958)"
+    },
+    {
+      "text": "Noel Neill played Lois Lane in the Superman serials and later seasons of Adventures of Superman, making her the longest-serving live-action Lois.",
+      "source": "https://en.wikipedia.org/wiki/Noel_Neill"
+    },
+    {
+      "text": "Phyllis Coates played Lois Lane in the first season of Adventures of Superman before being replaced by Noel Neill.",
+      "source": "https://en.wikipedia.org/wiki/Phyllis_Coates"
+    },
+    {
+      "text": "Jack Larson played Jimmy Olsen in Adventures of Superman and became closely identified with the role for the rest of his career.",
+      "source": "https://en.wikipedia.org/wiki/Jack_Larson_played_Jimmy_Olsen_in_Adventures_of_Superman_and"
+    },
+    {
+      "text": "Dean Cain, who played Superman in Lois & Clark, was a former professional football player before turning to acting.",
+      "source": "https://en.wikipedia.org/wiki/Dean_Cain%2C_who_played_Superman_in_Lois_%26_Clark"
+    },
+    {
+      "text": "Lois & Clark's wedding episode aired in 1996, and DC Comics timed the comic book wedding to coincide with the TV event.",
+      "source": "https://en.wikipedia.org/wiki/DC_Comics"
+    },
+    {
+      "text": "\"I'm Superman. I can do anything.\" — While various versions of Superman have echoed this sentiment, the character's stories often explore its limits.",
+      "source": "https://en.wikipedia.org/wiki/I%27m_Superman._I_can_do_anything"
+    },
+    {
+      "text": "Smallville's Allison Mack played Chloe Sullivan, an original character created for the show who was later introduced into the comics.",
+      "source": "https://en.wikipedia.org/wiki/Smallville%27s_Allison_Mack_played_Chloe_Sullivan%2C_an_original_character"
+    },
+    {
+      "text": "Kristin Kreuk played Lana Lang in Smallville, serving as Clark's primary love interest before Lois Lane's introduction.",
+      "source": "https://en.wikipedia.org/wiki/Kristin_Kreuk"
+    },
+    {
+      "text": "Erica Durance joined Smallville in season 4 as Lois Lane and remained with the show through its finale.",
+      "source": "https://en.wikipedia.org/wiki/Erica_Durance"
+    },
+    {
+      "text": "John Schneider and Annette O'Toole played Jonathan and Martha Kent in Smallville, forming the emotional backbone of the series.",
+      "source": "https://en.wikipedia.org/wiki/John_Schneider_and_Annette_O%27Toole"
+    },
+    {
+      "text": "Smallville's season 4 featured a reinterpretation of the Kryptonian stones and their connection to the Fortress of Solitude.",
+      "source": "https://en.wikipedia.org/wiki/Fortress_of_Solitude"
+    },
+    {
+      "text": "The Smallville finale showed Tom Welling finally donning the Superman suit, though the full costume was largely shown through CGI.",
+      "source": "https://en.wikipedia.org/wiki/Smallville"
+    },
+    {
+      "text": "\"In the end, I just want Superman to be a good person.\" — Tom Welling on playing Clark Kent for ten years.",
+      "source": "https://en.wikipedia.org/wiki/In_the_end%2C_I_just_want_Superman_to_be_a_good_person"
+    },
+    {
+      "text": "Superman & Lois explored themes of parenting, small-town America, and economic hardship alongside traditional superhero action.",
+      "source": "https://en.wikipedia.org/wiki/Superman"
+    },
+    {
+      "text": "Tyler Hoechlin first appeared as Superman in Supergirl before getting his own spinoff series Superman & Lois.",
+      "source": "https://en.wikipedia.org/wiki/Tyler_Hoechlin_first"
+    },
+    {
+      "text": "Superman & Lois was praised for its cinematic quality, with production values rivaling many feature films.",
+      "source": "https://en.wikipedia.org/wiki/Superman_%26_Lois"
+    },
+    {
+      "text": "\"The symbol of the House of El means stronger together.\" — A recurring theme in Superman & Lois emphasizing family unity.",
+      "source": "https://en.wikipedia.org/wiki/symbol_of_the_House_of_El_means_stronger_together"
+    },
+    {
+      "text": "Supergirl (2015-2021) starred Melissa Benoist as Kara Zor-El and featured Tyler Hoechlin as a recurring Superman.",
+      "source": "https://en.wikipedia.org/wiki/Supergirl_(2015-2021)"
+    },
+    {
+      "text": "Helen Slater played Supergirl in the 1984 film and later appeared as Clark's mother in Smallville.",
+      "source": "https://en.wikipedia.org/wiki/Helen_Slater_played_Supergirl_in_the_1984_film_and_later"
+    },
+    {
+      "text": "Superman and the Mole-Men (1951) was the first Superman feature film and served as a pilot for the Adventures of Superman TV series.",
+      "source": "https://en.wikipedia.org/wiki/Mole-Men"
+    },
+    {
+      "text": "The Superman musical It's a Bird... It's a Plane... It's Superman! opened on Broadway in 1966 but was not a commercial success.",
+      "source": "https://en.wikipedia.org/wiki/Superman_musical_It%27s_a_Bird..._It%27s_a_Plane..._It%27s_Superman"
+    },
+    {
+      "text": "Superman has been parodied countless times, from Seinfeld's constant references to SNL sketches to Shrek's fairy tale sendups.",
+      "source": "https://en.wikipedia.org/wiki/Superman"
+    },
+    {
+      "text": "Jerry Seinfeld is a famous Superman fan, and Superman references appear throughout Seinfeld, including a Superman magnet on Jerry's fridge.",
+      "source": "https://en.wikipedia.org/wiki/Jerry_Seinfeld"
+    },
+    {
+      "text": "\"I'm also just a guy from Kansas.\" — Superman reminding people of his humble upbringing despite his godlike powers.",
+      "source": "https://en.wikipedia.org/wiki/I%27m_also_just_a_guy_from_Kansas"
+    },
+    {
+      "text": "The Superman/Batman comic series explored the contrasting philosophies of the two heroes, with chapters alternating between their inner monologues.",
+      "source": "https://en.wikipedia.org/wiki/Superman"
+    },
+    {
+      "text": "Public Enemies, the first arc of Superman/Batman, pitted the duo against a Kryptonite asteroid and President Lex Luthor.",
+      "source": "https://en.wikipedia.org/wiki/Public_Enemies"
+    },
+    {
+      "text": "Lex Luthor was actually elected President of the United States in DC Comics, serving from 2000 to 2004 in publication terms.",
+      "source": "https://en.wikipedia.org/wiki/Lex_Luthor"
+    },
+    {
+      "text": "\"Some men aren't looking for anything logical. Some men just want to see Superman fail.\" — An observation about Lex Luthor's obsessive hatred.",
+      "source": "https://en.wikipedia.org/wiki/Some_men_aren%27t_looking_for_anything_logical._Some_men_just_want_to_see_Superman_fail"
+    },
+    {
+      "text": "Lex Luthor has worn a suit of Kryptonite-powered battle armor in many incarnations, allowing him to physically fight Superman.",
+      "source": "https://en.wikipedia.org/wiki/Lex_Luthor"
+    },
+    {
+      "text": "In many continuities, Lex Luthor and Clark Kent were childhood friends in Smallville before becoming bitter enemies.",
+      "source": "https://en.wikipedia.org/wiki/In_many_continuities%2C_Lex_Luthor_and_Clark_Kent"
+    },
+    {
+      "text": "Lex Luthor's hatred of Superman often stems from jealousy — he cannot accept that an alien, not a human, is the most powerful being on Earth.",
+      "source": "https://en.wikipedia.org/wiki/Lex_Luthor%27s"
+    },
+    {
+      "text": "\"Do you know how much power I'd have to give up to be President? The presidency is beneath me.\" — Lex Luthor demonstrating his astronomical ego.",
+      "source": "https://www.youtube.com/results?search_query=Superman%20Do%20you%20know%20how%20much%20power%20I%27d%20have%20to%20give%20up%20to%20be%20President%3F%20The%20presidency%20is%20beneath%20me.%20live%20performance"
+    },
+    {
+      "text": "Mercy Graves, Luthor's bodyguard and assistant, was created for Superman: The Animated Series before being introduced into comics.",
+      "source": "https://en.wikipedia.org/wiki/Mercy_Graves%2C_Luthor%27s_bodyguard_and_assistant"
+    },
+    {
+      "text": "Superman's relationship with the military has been complex — sometimes he's an ally, other times he's seen as a potential threat to national security.",
+      "source": "https://en.wikipedia.org/wiki/Superman%27s_relationship_with_the_military"
+    },
+    {
+      "text": "General Sam Lane, Lois Lane's father, has frequently been depicted as distrustful of Superman and aliens in general.",
+      "source": "https://en.wikipedia.org/wiki/General_Sam_Lane%2C_Lois_Lane%27s_father"
+    },
+    {
+      "text": "Project Cadmus is a government-run genetics lab in DC Comics that has created clones and weapons designed to counter Superman.",
+      "source": "https://en.wikipedia.org/wiki/Project_Cadmus"
+    },
+    {
+      "text": "The Clone Saga in Superman comics involved multiple attempts to clone Superman, most notably resulting in Superboy (Kon-El).",
+      "source": "https://en.wikipedia.org/wiki/Clone_Saga_in_Superman"
+    },
+    {
+      "text": "Match is a failed clone of Superboy who served as his evil counterpart, similar to Bizarro's relationship with Superman.",
+      "source": "https://en.wikipedia.org/wiki/Match"
+    },
+    {
+      "text": "Superman's solar absorption means he is essentially a living solar battery, growing more powerful the longer he is exposed to yellow sunlight.",
+      "source": "https://en.wikipedia.org/wiki/Superman%27s_solar_absorption_means_he"
+    },
+    {
+      "text": "Some writers have depicted Superman as needing to eat and sleep to maintain his mental health, even if his body doesn't strictly require it.",
+      "source": "https://en.wikipedia.org/wiki/Some_writers"
+    },
+    {
+      "text": "Superman's super-speed allows him to operate at velocities approaching the speed of light in most modern continuities.",
+      "source": "https://en.wikipedia.org/wiki/Superman"
+    },
+    {
+      "text": "The Flash and Superman have raced multiple times in comics, with results varying — but the Flash is generally accepted as faster.",
+      "source": "https://en.wikipedia.org/wiki/Flash_and_Superman"
+    },
+    {
+      "text": "\"Those races were for charity, Clark.\" — The Flash hinting to Superman that he was holding back during their famous races.",
+      "source": "https://en.wikipedia.org/wiki/Those_races_were_for_charity%2C_Clark"
+    },
+    {
+      "text": "Superman can vibrate his molecules at super-speed to pass through solid objects, though this power is used less frequently than the Flash's phasing.",
+      "source": "https://en.wikipedia.org/wiki/Superman"
+    },
+    {
+      "text": "Superman's invulnerability has limits — sufficient force from beings like Darkseid or Doomsday can injure him.",
+      "source": "https://en.wikipedia.org/wiki/Superman%27s_invulnerability"
+    },
+    {
+      "text": "Clark Kent's glasses disguise, often criticized as implausible, has been justified variously through super-hypnosis, subtle facial muscle control, and social psychology.",
+      "source": "https://en.wikipedia.org/wiki/Clark_Kent%27s_glasses_disguise%2C_often_criticized_as_implausible"
+    },
+    {
+      "text": "\"It's a remarkable dichotomy. In many ways, Clark is more real than Superman. Clark is how he views humanity.\" — A common analysis of the dual identity.",
+      "source": "https://en.wikipedia.org/wiki/It%27s_a_remarkable_dichotomy._In_many_ways%2C_Clark"
+    },
+    {
+      "text": "The Daily Planet building with its iconic globe on top is one of the most recognized fictional landmarks in comics.",
+      "source": "https://en.wikipedia.org/wiki/Daily_Planet_building_with_its_iconic_globe_on_top"
+    },
+    {
+      "text": "Cat Grant is a recurring Daily Planet character who has been depicted as everything from a gossip columnist to an editor.",
+      "source": "https://en.wikipedia.org/wiki/Cat_Grant"
+    },
+    {
+      "text": "Ron Troupe, Steve Lombard, and other Daily Planet staff have added depth to Superman's supporting cast over the years.",
+      "source": "https://en.wikipedia.org/wiki/Ron_Troupe%2C_Steve_Lombard%2C_and_other_Daily_Planet_staff"
+    },
+    {
+      "text": "Superman's pal Bibbo Bibbowski is a tough but lovable bartender in Metropolis who idolizes Superman.",
+      "source": "https://en.wikipedia.org/wiki/Superman%27s_pal_Bibbo_Bibbowski"
+    },
+    {
+      "text": "Professor Emil Hamilton is a scientist who has both helped and opposed Superman in various storylines.",
+      "source": "https://en.wikipedia.org/wiki/Professor_Emil_Hamilton"
+    },
+    {
+      "text": "\"This looks like a job for Superman!\" — Clark Kent's classic catchphrase before changing into his costume, originating from the radio show.",
+      "source": "https://en.wikipedia.org/wiki/This_looks_like_a_job_for_Superman"
+    },
+    {
+      "text": "Superman originally did not have X-ray vision — this power was added in the early 1940s comics.",
+      "source": "https://en.wikipedia.org/wiki/Superman_originally_did_not"
+    },
+    {
+      "text": "Superman's X-ray vision cannot see through lead, a weakness that Lex Luthor frequently exploits by lining his facilities with lead.",
+      "source": "https://en.wikipedia.org/wiki/Superman%27s_X-ray"
+    },
+    {
+      "text": "The Superman dynasty in DC One Million includes descendants who continue his legacy thousands of years into the future.",
+      "source": "https://en.wikipedia.org/wiki/Superman_dynasty_in_DC_One_Million"
+    },
+    {
+      "text": "Val-Zod is an Earth-2 Superman of Kryptonian origin who took up the mantle in the New 52's Earth 2 series.",
+      "source": "https://en.wikipedia.org/wiki/Val-Zod"
+    },
+    {
+      "text": "Calvin Ellis, an African American Superman based on Barack Obama, protects Earth-23 in the DC Multiverse.",
+      "source": "https://en.wikipedia.org/wiki/Calvin_Ellis"
+    },
+    {
+      "text": "The Multiverse concept allows for infinite versions of Superman, including Red Son, Kingdom Come, Injustice, and many others.",
+      "source": "https://en.wikipedia.org/wiki/Multiverse"
+    },
+    {
+      "text": "Superman of Earth-2 (Kal-L) was the original Golden Age Superman who married his Lois Lane and lived into old age.",
+      "source": "https://en.wikipedia.org/wiki/Superman_of_Earth-2_(Kal-L)"
+    },
+    {
+      "text": "Ultraman is the evil counterpart of Superman from Earth-3, a member of the Crime Syndicate who grows stronger from Kryptonite.",
+      "source": "https://en.wikipedia.org/wiki/Ultraman"
+    },
+    {
+      "text": "\"Up, up, and away!\" — Superman's classic exclamation when taking flight, first used in the 1940s radio serial.",
+      "source": "https://en.wikipedia.org/wiki/Up%2C_up%2C_and_away"
+    },
+    {
+      "text": "The Silver Age of Comics (1956-1970) saw Superman's powers expand to absurd levels, including the ability to sneeze away solar systems.",
+      "source": "https://en.wikipedia.org/wiki/Silver_Age_of_Comics_(1956-1970)"
+    },
+    {
+      "text": "Curt Swan was the definitive Superman artist from the 1960s through the 1980s, drawing the character for over two decades.",
+      "source": "https://en.wikipedia.org/wiki/Curt_Swan"
+    },
+    {
+      "text": "Wayne Boring was one of the earliest Superman artists, establishing the character's visual identity in the Golden Age.",
+      "source": "https://en.wikipedia.org/wiki/Wayne_Boring"
+    },
+    {
+      "text": "Joe Shuster's early Superman art was rough but dynamic, establishing the visual template that all subsequent artists would build upon.",
+      "source": "https://en.wikipedia.org/wiki/Joe_Shuster%27s_early_Superman_art"
+    },
+    {
+      "text": "Jim Lee's artwork on Superman has been among the most popular, particularly his work on Superman Unchained (2013-2014).",
+      "source": "https://en.wikipedia.org/wiki/Jim_Lee%27s_artwork_on_Superman"
+    },
+    {
+      "text": "\"Peace on Earth\" (1998) by Paul Dini and Alex Ross is a beautiful oversized one-shot showing Superman's attempt to end world hunger.",
+      "source": "https://en.wikipedia.org/wiki/Peace_on_Earth"
+    },
+    {
+      "text": "In Peace on Earth, Superman learns that even with all his power, some problems — like global hunger — can't be solved with strength alone.",
+      "source": "https://en.wikipedia.org/wiki/In_Peace_on_Earth"
+    },
+    {
+      "text": "\"I once thought I could protect the world by myself, but I was wrong. Working together, we saved the planet.\" — Superman on the value of teamwork.",
+      "source": "https://en.wikipedia.org/wiki/I_once_thought_I_could_protect_the_world_by_myself%2C_but_I"
+    },
+    {
+      "text": "Superman has lifted objects ranging from buildings to tectonic plates to entire planets depending on the era and writer.",
+      "source": "https://en.wikipedia.org/wiki/Superman"
+    },
+    {
+      "text": "In All-Star Superman, Superman bench-presses the weight of the Earth with one arm while answering questions from scientists.",
+      "source": "https://en.wikipedia.org/wiki/In_All-Star_Superman"
+    },
+    {
+      "text": "Superman once held a miniature black hole in his hands, preventing it from destroying Earth.",
+      "source": "https://en.wikipedia.org/wiki/Superman"
+    },
+    {
+      "text": "The concept of 'Superman Blue' and 'Superman Red' split the character into two energy-based beings in the late 1990s.",
+      "source": "https://en.wikipedia.org/wiki/Superman_Blue%27_and"
+    },
+    {
+      "text": "The electric blue Superman costume of 1997-1998 was one of the most controversial redesigns in the character's history.",
+      "source": "https://en.wikipedia.org/wiki/electric_blue_Superman_costume_of_1997-1998"
+    },
+    {
+      "text": "Superman's traditional red and blue color scheme has remained fundamentally unchanged since 1938, making it one of the most enduring designs in pop culture.",
+      "source": "https://en.wikipedia.org/wiki/Superman%27s_traditional_red_and_blue_color_scheme"
+    },
+    {
+      "text": "\"In a world of ordinary mortals, you are a superman.\" — the phrasing echoes Nietzsche's Übermensch, though Superman's creators subverted that concept entirely.",
+      "source": "https://en.wikipedia.org/wiki/In_a_world_of_ordinary_mortals%2C_you_are_a_superman"
+    },
+    {
+      "text": "Friedrich Nietzsche's concept of the Übermensch (Superman) influenced the name, but Siegel and Shuster's character embodies humility and compassion rather than dominance.",
+      "source": "https://en.wikipedia.org/wiki/Friedrich_Nietzsche%27s"
+    },
+    {
+      "text": "The word 'Superman' entered the English language partly thanks to George Bernard Shaw's play Man and Superman (1903), predating the comic character.",
+      "source": "https://en.wikipedia.org/wiki/Superman"
+    },
+    {
+      "text": "Max Landis wrote a popular short film called 'The Death and Return of Superman' (2012) explaining the comic storyline's cultural significance.",
+      "source": "https://en.wikipedia.org/wiki/Superman"
+    },
+    {
+      "text": "Superman: Doomsday (2007) was the first DC Universe Animated Original Movie, adapting the Death of Superman storyline.",
+      "source": "https://en.wikipedia.org/wiki/Superman:_Doomsday"
+    },
+    {
+      "text": "The Death of Superman (2018) and Reign of the Supermen (2019) were animated films that provided a more faithful adaptation of the comic storyline.",
+      "source": "https://en.wikipedia.org/wiki/Superman"
+    },
+    {
+      "text": "Superman vs. The Elite (2012) adapted the acclaimed 'What's So Funny About Truth, Justice & the American Way?' storyline.",
+      "source": "https://en.wikipedia.org/wiki/Elite"
+    },
+    {
+      "text": "All-Star Superman (2011) was an animated film adaptation of the Grant Morrison/Frank Quitely comic, featuring James Denton as Superman.",
+      "source": "https://en.wikipedia.org/wiki/All-Star_Superman"
+    },
+    {
+      "text": "Superman: Red Son (2020) was adapted into an animated film that explored the Soviet Superman concept.",
+      "source": "https://en.wikipedia.org/wiki/Superman:_Red_Son"
+    },
+    {
+      "text": "Superman: Unbound (2013) adapted the Brainiac storyline by Geoff Johns and Gary Frank.",
+      "source": "https://en.wikipedia.org/wiki/Superman:_Unbound"
+    },
+    {
+      "text": "The 'World of Cardboard' speech from Justice League Unlimited is considered one of the greatest Superman moments in animation history.",
+      "source": "https://en.wikipedia.org/wiki/%27World_of_Cardboard%27_speech_from_Justice_League_Unlimited"
+    },
+    {
+      "text": "\"What we can do for these people, we must do. That's what Superman means.\" — A sentiment expressed across multiple Superman adaptations.",
+      "source": "https://en.wikipedia.org/wiki/What_we_can_do_for_these_people%2C_we_must_do._That%27s_what_Superman_means"
+    },
+    {
+      "text": "Superman has inspired real-world heroism — studies have shown that exposure to Superman imagery can increase people's willingness to help others.",
+      "source": "https://en.wikipedia.org/wiki/Superman"
+    },
+    {
+      "text": "The Superman Foundation and various charitable organizations have used the character to promote literacy, health awareness, and social causes.",
+      "source": "https://en.wikipedia.org/wiki/Superman_Foundation_and_various_charitable_organizations"
+    },
+    {
+      "text": "Christopher Reeve's Superman performance is frequently ranked as the greatest superhero portrayal in film history in critics' polls.",
+      "source": "https://en.wikipedia.org/wiki/Christopher_Reeve%27s_Superman_performance"
+    },
+    {
+      "text": "\"Somewhere in our darkest night, we made up the story of a man who will never let us down.\" — Grant Morrison on why Superman endures.",
+      "source": "https://en.wikipedia.org/wiki/Somewhere_in_our_darkest_night%2C_we_made_up_the_story_of_a_man_who_will_never_let_us_down"
+    },
+    {
+      "text": "Superman: Brainiac (2008) by Geoff Johns and Gary Frank is one of the most acclaimed modern Superman stories, redefining Brainiac as a genuine threat.",
+      "source": "https://en.wikipedia.org/wiki/Superman:_Brainiac"
+    },
+    {
+      "text": "In Superman: Brainiac, Brainiac kills Jonathan Kent, marking one of the most emotionally devastating moments in modern Superman comics.",
+      "source": "https://en.wikipedia.org/wiki/In_Superman:_Brainiac"
+    },
+    {
+      "text": "Superman: Last Son (2006-2008) by Geoff Johns and Richard Donner (yes, the film director) introduced a Kryptonian child who crash-lands on Earth.",
+      "source": "https://en.wikipedia.org/wiki/Superman:_Last_Son_(2006-2008)_by_Geoff_Johns_and_Richard_Donner_(yes%2C_the_film_director)"
+    },
+    {
+      "text": "Geoff Johns and Richard Donner's collaboration on Action Comics brought the filmmaker's cinematic sensibility to the comic books.",
+      "source": "https://en.wikipedia.org/wiki/Geoff_Johns_and_Richard_Donner%27s"
+    },
+    {
+      "text": "The New 52 reboot in 2011 reimagined Superman as younger and more aggressive, with a redesigned armor-like costume and no red trunks.",
+      "source": "https://en.wikipedia.org/wiki/New_52"
+    },
+    {
+      "text": "DC Rebirth in 2016 restored the pre-New 52 married Superman with his son Jon, returning to a more classic interpretation.",
+      "source": "https://en.wikipedia.org/wiki/DC_Rebirth"
+    },
+    {
+      "text": "Superman's cape is often used symbolically — it has served as a blanket for rescued children, a stretcher for the wounded, and a shroud for the fallen.",
+      "source": "https://en.wikipedia.org/wiki/Superman%27s_cape"
+    },
+    {
+      "text": "\"The 'S' stands for hope, and that's what Superman provides. He gives us hope that we can be better.\" — A common sentiment among Superman writers and fans.",
+      "source": "https://en.wikipedia.org/wiki/%27S%27_stands_for_hope%2C_and_that%27s_what_Superman_provides._He_gives_us_hope_that_we_can_be_better"
+    },
+    {
+      "text": "Superman has been translated into virtually every language and published in countries around the world, making him a truly global icon.",
+      "source": "https://en.wikipedia.org/wiki/Superman"
+    },
+    {
+      "text": "In Japan, Superman inspired the creation of many characters, and the superhero concept he established influenced the development of sentai and henshin hero genres.",
+      "source": "https://en.wikipedia.org/wiki/In_Japan%2C_Superman"
+    },
+    {
+      "text": "Superman's influence on popular culture is so pervasive that the word 'superman' has become a common English word meaning an exceptionally powerful or accomplished person.",
+      "source": "https://en.wikipedia.org/wiki/Superman%27s_influence_on_popular_culture"
+    },
+    {
+      "text": "\"Faster than a speeding bullet, more powerful than a locomotive, able to leap tall buildings in a single bound\" — the iconic radio introduction defined Superman's powers for generations.",
+      "source": "https://en.wikipedia.org/wiki/Superman"
+    },
+    {
+      "text": "Bud Collyer was the first voice actor to play Superman, starring in the radio serial from 1940 to 1951 and the Filmation animated series.",
+      "source": "https://en.wikipedia.org/wiki/Bud_Collyer"
+    },
+    {
+      "text": "Collyer developed the technique of lowering his voice when Clark Kent became Superman, establishing a vocal tradition followed by later actors.",
+      "source": "https://en.wikipedia.org/wiki/Collyer"
+    },
+    {
+      "text": "Kirk Alyn's Superman serial (1948) was one of the most successful movie serials ever produced.",
+      "source": "https://en.wikipedia.org/wiki/Kirk_Alyn%27s_Superman_serial_(1948)"
+    },
+    {
+      "text": "The 1950s Adventures of Superman show avoided excessive violence, instead showing Superman solving crimes and catching criminals rather than punching them.",
+      "source": "https://en.wikipedia.org/wiki/Adventures_of_Superman"
+    },
+    {
+      "text": "\"Great Scott!\" — Superman's classic exclamation, used across numerous adaptations from comics to film.",
+      "source": "https://en.wikipedia.org/wiki/Great_Scott"
+    },
+    {
+      "text": "Lois Lane's solo comic series, Superman's Girl Friend, Lois Lane, ran from 1958 to 1974 and was one of DC's best-selling titles.",
+      "source": "https://en.wikipedia.org/wiki/Lois_Lane%27s_solo_comic_series%2C_Superman%27s_Girl_Friend%2C_Lois_Lane"
+    },
+    {
+      "text": "Lois Lane has been depicted as one of the bravest characters in the DC Universe — she regularly puts herself in danger to get the story.",
+      "source": "https://en.wikipedia.org/wiki/Lois_Lane"
+    },
+    {
+      "text": "\"I don't need you to save me. I need you to trust me.\" — Lois Lane asserting her independence, a theme across many adaptations.",
+      "source": "https://en.wikipedia.org/wiki/I_don%27t_need_you_to_save_me._I_need_you_to_trust_me"
+    },
+    {
+      "text": "Clark Kent proposed to Lois Lane in Superman #662 (1991), and their wedding in 1996 was a major comics event.",
+      "source": "https://en.wikipedia.org/wiki/Clark_Kent_proposed_to_Lois_Lane_in_Superman_%23662_(1991)%2C_and_their_wedding_in_1996"
+    },
+    {
+      "text": "In the New 52 continuity, Superman dated Wonder Woman, a controversial change from his traditional relationship with Lois Lane.",
+      "source": "https://en.wikipedia.org/wiki/In_the_New_52"
+    },
+    {
+      "text": "Superman's Fortress of Solitude has been located at the North Pole, the South Pole, the Amazon rainforest, and even inside a mountain, depending on the continuity.",
+      "source": "https://en.wikipedia.org/wiki/Superman%27s_Fortress_of_Solitude"
+    },
+    {
+      "text": "The Fortress of Solitude typically contains a memorial to Krypton, alien zoo specimens, the bottled city of Kandor, and various trophies from Superman's adventures.",
+      "source": "https://en.wikipedia.org/wiki/Fortress_of_Solitude_typically"
+    },
+    {
+      "text": "Superman has a key to the Fortress of Solitude that weighs millions of tons, ensuring no one without super-strength can open the door.",
+      "source": "https://en.wikipedia.org/wiki/Superman"
+    },
+    {
+      "text": "\"Have you ever tried to see the world through his eyes? He doesn't just see danger — he sees everything. Every cry for help. And he answers them all.\" — Lois Lane describing Superman's burden.",
+      "source": "https://en.wikipedia.org/wiki/Lois_Lane"
+    },
+    {
+      "text": "Superman's vulnerability to Kryptonite has been used as a metaphor for the idea that everyone, no matter how powerful, has a weakness.",
+      "source": "https://en.wikipedia.org/wiki/Superman%27s_vulnerability_to_Kryptonite"
+    },
+    {
+      "text": "Pink Kryptonite, in a non-canon story, caused Superman to develop an attraction to Jimmy Olsen, in a rare moment of comic book humor about the substance.",
+      "source": "https://en.wikipedia.org/wiki/Pink_Kryptonite"
+    },
+    {
+      "text": "White Kryptonite kills all plant life and has been used against plant-based villains in Superman comics.",
+      "source": "https://en.wikipedia.org/wiki/White_Kryptonite_kills_all_plant_life_and"
+    },
+    {
+      "text": "Jewel Kryptonite enhances the psychic powers of Phantom Zone villains.",
+      "source": "https://en.wikipedia.org/wiki/Jewel_Kryptonite"
+    },
+    {
+      "text": "Platinum Kryptonite can grant a human Kryptonian-level powers permanently, as seen when Batman was offered it.",
+      "source": "https://en.wikipedia.org/wiki/Platinum_Kryptonite"
+    },
+    {
+      "text": "\"A man can't just sit around\" — Jonathan Kent's practical Kansas wisdom that shaped Clark's work ethic.",
+      "source": "https://en.wikipedia.org/wiki/A_man_can%27t_just_sit_around"
+    },
+    {
+      "text": "The Superman/Shazam dynamic explores two different approaches to power — Superman earned trust over years while Billy Batson was given godlike power as a child.",
+      "source": "https://en.wikipedia.org/wiki/Superman%2FShazam_dynamic_explores_two_different_approaches_to_power_%E2%80%94_Superman"
+    },
+    {
+      "text": "Captain Marvel (now called Shazam) and Superman have fought several times, with the magical nature of Shazam's powers making him one of the few beings who can truly challenge Superman.",
+      "source": "https://en.wikipedia.org/wiki/Captain_Marvel_(now_called_Shazam)_and_Superman"
+    },
+    {
+      "text": "Superman once fought Goku in a popular web series called Death Battle, sparking intense debate among fans of both franchises. Superman won both matches.",
+      "source": "https://en.wikipedia.org/wiki/Superman_once_fought_Goku_in_a_popular_web_series"
+    },
+    {
+      "text": "\"What makes Superman a hero is not that he has power, but that he has the wisdom and the maturity to use the power wisely.\" — Christopher Reeve.",
+      "source": "https://en.wikipedia.org/wiki/What_makes_Superman_a_hero"
+    },
+    {
+      "text": "Action Comics reached issue #1000 in April 2018, making Superman's debut title the first American comic book to reach that milestone.",
+      "source": "https://en.wikipedia.org/wiki/Action_Comics"
+    },
+    {
+      "text": "Action Comics #1000 featured stories by multiple creators and restored Superman's red trunks to his costume.",
+      "source": "https://en.wikipedia.org/wiki/Action_Comics"
+    },
+    {
+      "text": "Superman #1, a solo book separate from Action Comics, was published in 1939 and reprinted the earliest Superman stories.",
+      "source": "https://en.wikipedia.org/wiki/Superman_%231%2C_a_solo_book_separate_from_Action_Comics"
+    },
+    {
+      "text": "The Superman comic strip ran in newspapers from 1939 to 1966, reaching millions of readers in daily and Sunday editions.",
+      "source": "https://en.wikipedia.org/wiki/Superman_comic_strip"
+    },
+    {
+      "text": "Superman co-creator Joe Shuster secretly drew fetish illustrations under a pseudonym to make ends meet after losing the Superman rights.",
+      "source": "https://en.wikipedia.org/wiki/Joe_Shuster"
+    },
+    {
+      "text": "The Siegel and Shuster story is often cited as a cautionary tale about creators' rights in the comic book industry.",
+      "source": "https://en.wikipedia.org/wiki/Siegel_and_Shuster_story"
+    },
+    {
+      "text": "In 2013, a court ruling allowed DC Comics to retain full rights to Superman, ending decades of legal challenges by the Siegel and Shuster estates.",
+      "source": "https://en.wikipedia.org/wiki/DC_Comics_to"
+    },
+    {
+      "text": "\"Worst of all, we signed away our creation for nothing. They took our child.\" — Jerry Siegel on selling the Superman rights for $130.",
+      "source": "https://en.wikipedia.org/wiki/Worst_of_all%2C_we_signed_away_our_creation_for_nothing._They_took_our_child"
+    },
+    {
+      "text": "Neal Adams was instrumental in campaigning for Siegel and Shuster's recognition and financial compensation in the 1970s.",
+      "source": "https://en.wikipedia.org/wiki/Neal_Adams"
+    },
+    {
+      "text": "Superman's influence on comic books was so profound that the Golden Age of Comics (1938-1956) is dated from his first appearance.",
+      "source": "https://en.wikipedia.org/wiki/Superman%27s_influence_on_comic_books"
+    },
+    {
+      "text": "Within a year of Superman's debut, dozens of imitators appeared, including Wonder Man (sued out of existence by DC) and Captain Marvel.",
+      "source": "https://en.wikipedia.org/wiki/Within_a_year_of_Superman%27s_debut%2C_dozens_of_imitators"
+    },
+    {
+      "text": "The lawsuit DC Comics filed against Fawcett Comics over Captain Marvel (now Shazam) being too similar to Superman lasted from 1941 to 1953.",
+      "source": "https://en.wikipedia.org/wiki/DC_Comics"
+    },
+    {
+      "text": "By 1940, Superman comics were selling over 1.25 million copies per issue, making him the most popular character in America.",
+      "source": "https://en.wikipedia.org/wiki/By_1940%2C_Superman_comics"
+    },
+    {
+      "text": "\"I believe in second chances. I believe in redemption. But, more than anything, I believe in my friends.\" — Superman emphasizing his core values.",
+      "source": "https://en.wikipedia.org/wiki/Superman"
+    },
+    {
+      "text": "General Zod's origin as a well-intentioned extremist who genuinely believes he's protecting Krypton makes him one of Superman's most compelling villains.",
+      "source": "https://en.wikipedia.org/wiki/General_Zod%27s"
+    },
+    {
+      "text": "Faora is a Kryptonian villain often associated with General Zod, depicted as a deadly martial artist in Man of Steel.",
+      "source": "https://en.wikipedia.org/wiki/Faora"
+    },
+    {
+      "text": "Antje Traue's portrayal of Faora-Ul in Man of Steel was widely praised, with her fight scene against the military being a standout action sequence.",
+      "source": "https://en.wikipedia.org/wiki/Antje_Traue%27s_portrayal_of_Faora-Ul_in_Man_of_Steel"
+    },
+    {
+      "text": "The World Engine in Man of Steel was Zod's device to terraform Earth into a new Krypton, threatening all human life.",
+      "source": "https://en.wikipedia.org/wiki/World_Engine_in_Man_of_Steel"
+    },
+    {
+      "text": "\"I will find him!\" — General Zod's threatening message broadcast to Earth in Man of Steel, demanding Kal-El's surrender.",
+      "source": "https://en.wikipedia.org/wiki/I_will_find_him"
+    },
+    {
+      "text": "Doomsday's origin varies by continuity, but he is typically depicted as a prehistoric Kryptonian experiment designed to be the ultimate killing machine.",
+      "source": "https://en.wikipedia.org/wiki/Doomsday%27s_origin_varies_by_continuity%2C_but_he"
+    },
+    {
+      "text": "Doomsday is one of the few villains to have actually killed Superman, making him uniquely significant in DC lore.",
+      "source": "https://en.wikipedia.org/wiki/Doomsday"
+    },
+    {
+      "text": "The famous fight between Superman and Doomsday leveled much of Metropolis and ended with both combatants delivering fatal blows to each other.",
+      "source": "https://en.wikipedia.org/wiki/Superman_and_Doomsday"
+    },
+    {
+      "text": "\"This is the story of a man who could fly. Of all the stories to tell about Superman, this one is important because it's the last one.\" — Grant Morrison's All-Star Superman narration.",
+      "source": "https://en.wikipedia.org/wiki/This"
+    },
+    {
+      "text": "In All-Star Superman, Superman creates a miniature sun to sustain Earth after he sacrifices himself to repair the real sun.",
+      "source": "https://en.wikipedia.org/wiki/In_All-Star_Superman"
+    },
+    {
+      "text": "All-Star Superman's Twelve Labors structure mirrors the Twelve Labors of Hercules, connecting Superman to classical mythology.",
+      "source": "https://en.wikipedia.org/wiki/All-Star_Superman%27s_Twelve_Labors"
+    },
+    {
+      "text": "\"Doomed planet. Desperate scientists. Last hope. Kindly couple.\" — Grant Morrison's four-panel distillation of Superman's origin in All-Star Superman.",
+      "source": "https://en.wikipedia.org/wiki/Doomed_planet._Desperate_scientists._Last_hope._Kindly_couple"
+    },
+    {
+      "text": "Kingdom Come's Superman retired to his farm after a new generation of violent heroes made his methods seem outdated.",
+      "source": "https://en.wikipedia.org/wiki/Kingdom_Come%27s_Superman"
+    },
+    {
+      "text": "In Kingdom Come, Superman is eventually drawn back into action when the new heroes' recklessness threatens to destroy the world.",
+      "source": "https://en.wikipedia.org/wiki/In_Kingdom_Come%2C_Superman"
+    },
+    {
+      "text": "Norman McCay, a minister, serves as the reader's POV character in Kingdom Come, guided by the Spectre to witness Superman's return.",
+      "source": "https://en.wikipedia.org/wiki/Norman_McCay"
+    },
+    {
+      "text": "Alex Ross based Kingdom Come's older Superman partly on actor Gregory Peck, giving him a distinguished, weighty presence.",
+      "source": "https://en.wikipedia.org/wiki/Alex_Ross"
+    },
+    {
+      "text": "\"When you can do the things that I can, but you don't, and then the bad things happen — they happen because of you.\" — This Spider-Man quote echoes an identical philosophy Superman has long embodied.",
+      "source": "https://en.wikipedia.org/wiki/This_Spider-Man"
+    },
+    {
+      "text": "Superman's first encounter with Batman in comics was in Superman #76 (1952), where they accidentally discovered each other's identities while sharing a cabin on a ship.",
+      "source": "https://en.wikipedia.org/wiki/Superman%27s_first_encounter_with_Batman_in_comics"
+    },
+    {
+      "text": "The World's Finest Comics series ran from 1941 to 1986, teaming Superman and Batman in every issue from #71 onward.",
+      "source": "https://en.wikipedia.org/wiki/World%27s_Finest_Comics_series"
+    },
+    {
+      "text": "Frank Miller's The Dark Knight Returns (1986) established the modern rivalry/friendship dynamic between Superman and Batman.",
+      "source": "https://en.wikipedia.org/wiki/Frank_Miller%27s_The_Dark_Knight_Returns"
+    },
+    {
+      "text": "In The Dark Knight Returns, Superman works as a government agent and is sent to stop Batman, leading to their legendary fight.",
+      "source": "https://en.wikipedia.org/wiki/In_The_Dark_Knight_Returns%2C_Superman_works_as_a_government_agent_and"
+    },
+    {
+      "text": "\"I want you to remember, Clark. In all the years to come, in your most private moments, I want you to remember my hand at your throat.\" — Batman to Superman in The Dark Knight Returns.",
+      "source": "https://en.wikipedia.org/wiki/Clark._In"
+    },
+    {
+      "text": "Superman has appeared in every major DC Comics crossover event, from Crisis on Infinite Earths to Infinite Crisis to Final Crisis.",
+      "source": "https://en.wikipedia.org/wiki/Superman"
+    },
+    {
+      "text": "In Final Crisis (2008), Superman sings at a frequency that shatters Darkseid's essence, defeating the villain through the power of music.",
+      "source": "https://en.wikipedia.org/wiki/In_Final_Crisis"
+    },
+    {
+      "text": "Superman Beyond, a tie-in to Final Crisis, shows Superman traveling through the multiverse and encountering the concept of story itself.",
+      "source": "https://en.wikipedia.org/wiki/Superman_Beyond"
+    },
+    {
+      "text": "\"To be continued\" — the literal last words written by Superman in the Book of Infinite Pages in Final Crisis: Superman Beyond.",
+      "source": "https://en.wikipedia.org/wiki/To_be_continued"
+    },
+    {
+      "text": "Infinite Crisis (2005-2006) featured the return of Earth-Two Superman, who had become disillusioned with the main DC Universe.",
+      "source": "https://en.wikipedia.org/wiki/Infinite_Crisis_(2005-2006)_featured_the_return_of_Earth-Two_Superman%2C_who"
+    },
+    {
+      "text": "Superman lost his powers entirely for a year following Infinite Crisis, spending that time as an ordinary Clark Kent.",
+      "source": "https://en.wikipedia.org/wiki/Infinite_Crisis"
+    },
+    {
+      "text": "The 'Grounded' storyline (2010-2011) had Superman walk across America to reconnect with ordinary people, though it divided fans on execution.",
+      "source": "https://en.wikipedia.org/wiki/%27Grounded%27_storyline_(2010-2011)"
+    },
+    {
+      "text": "H'El on Earth (2012-2013) introduced a Kryptonian villain named H'El who wanted to travel back in time to save Krypton.",
+      "source": "https://en.wikipedia.org/wiki/H%27El_on_Earth_(2012-2013)"
+    },
+    {
+      "text": "The Warworld Saga (2021-2022) by Phillip Kennedy Johnson saw Superman enslaved on Mongul's Warworld and leading a revolution.",
+      "source": "https://en.wikipedia.org/wiki/Warworld_Saga_(2021-2022)_by_Phillip_Kennedy_Johnson"
+    },
+    {
+      "text": "\"Hope is not a feeling. Hope is a choice you make.\" — A modern Superman sentiment emphasizing agency over passivity.",
+      "source": "https://en.wikipedia.org/wiki/Hope_is_not_a_feeling._Hope_is_a_choice_you_make"
+    },
+    {
+      "text": "Superman's heat vision can be adjusted from pinpoint precision to wide-beam devastation, and he has used it for everything from welding to lobotomizing Darkseid's brain.",
+      "source": "https://en.wikipedia.org/wiki/Superman"
+    },
+    {
+      "text": "In some continuities, Superman can use microscopic vision to see individual atoms and subatomic particles.",
+      "source": "https://en.wikipedia.org/wiki/Superman"
+    },
+    {
+      "text": "Superman has been depicted as capable of processing information at superhuman speeds, effectively giving him a degree of super-intelligence.",
+      "source": "https://en.wikipedia.org/wiki/Superman"
+    },
+    {
+      "text": "\"Do good to others and every man can be a Superman.\" — A quote capturing the democratic ideal at the heart of the character.",
+      "source": "https://www.youtube.com/results?search_query=Superman%20Do%20good%20to%20others%20and%20every%20man%20can%20be%20a%20Superman.%20live%20performance"
+    },
+    {
+      "text": "Tom Taylor's Superman: Son of Kal-El series explored Jon Kent taking over the Superman mantle while dealing with contemporary social issues.",
+      "source": "https://en.wikipedia.org/wiki/Tom_Taylor%27s_Superman:_Son_of_Kal-El"
+    },
+    {
+      "text": "Joshua Williamson's Superman run (2023-present) has focused on the Lex Luthor/Superman dynamic and introduced Marilyn Moonlight and other new elements.",
+      "source": "https://en.wikipedia.org/wiki/Joshua_Williamson%27s_Superman_run_(2023-present)"
+    },
+    {
+      "text": "Action Comics under Phillip Kennedy Johnson explored Superman's Kryptonian heritage more deeply than many previous runs.",
+      "source": "https://en.wikipedia.org/wiki/Action_Comics"
+    },
+    {
+      "text": "Brian Michael Bendis wrote Superman and Action Comics from 2018 to 2020, aging up Jon Kent and revealing Clark's identity to the world.",
+      "source": "https://en.wikipedia.org/wiki/Brian_Michael_Bendis"
+    },
+    {
+      "text": "The decision to have Superman publicly reveal his identity as Clark Kent in 2019 was one of the biggest status quo changes in the character's history.",
+      "source": "https://en.wikipedia.org/wiki/decision_to"
+    },
+    {
+      "text": "Superman's rogues gallery, while not as celebrated as Batman's, includes formidable threats like Brainiac, Darkseid, Lex Luthor, and Doomsday.",
+      "source": "https://en.wikipedia.org/wiki/Superman%27s_rogues_gallery%2C_while_not_as_celebrated_as_Batman%27s"
+    },
+    {
+      "text": "Mister Miracle and Big Barda, New Gods from Apokolips, have been frequent Superman allies in their shared fight against Darkseid.",
+      "source": "https://en.wikipedia.org/wiki/Mister_Miracle_and_Big_Barda%2C_New_Gods_from_Apokolips"
+    },
+    {
+      "text": "The Fourth World, Jack Kirby's epic cosmic mythology featuring Apokolips and New Genesis, intersects deeply with Superman's stories.",
+      "source": "https://en.wikipedia.org/wiki/Fourth_World"
+    },
+    {
+      "text": "Jack Kirby's Jimmy Olsen run in the 1970s introduced concepts like the DNA Project and Intergang that became Superman staples.",
+      "source": "https://en.wikipedia.org/wiki/Jack_Kirby%27s_Jimmy_Olsen_run_in_the_1970s"
+    },
+    {
+      "text": "\"There's always a way.\" — Superman's refusal to accept defeat, a mantra that defines his approach to every challenge.",
+      "source": "https://en.wikipedia.org/wiki/There%27s_always_a_way"
+    },
+    {
+      "text": "Superman's solar flare power, introduced in 2015, allows him to expel all stored solar energy in a massive explosion, temporarily leaving him powerless.",
+      "source": "https://en.wikipedia.org/wiki/Superman%27s_solar_flare_power"
+    },
+    {
+      "text": "The Superman Revenge Squad is a team of villains united by their hatred of Superman, including various combinations of his rogues.",
+      "source": "https://en.wikipedia.org/wiki/Superman_Revenge_Squad"
+    },
+    {
+      "text": "Titano the Super-Ape is a giant Kryptonite-vision-shooting gorilla and one of Superman's more unusual recurring foes.",
+      "source": "https://en.wikipedia.org/wiki/Titano_the_Super-Ape"
+    },
+    {
+      "text": "The Prankster is a Superman villain who uses elaborate practical jokes and schemes to commit crimes.",
+      "source": "https://en.wikipedia.org/wiki/Prankster"
+    },
+    {
+      "text": "Terra-Man is an old-west-themed Superman villain who was abducted by aliens as a child and given extraterrestrial weaponry.",
+      "source": "https://en.wikipedia.org/wiki/Terra-Man"
+    },
+    {
+      "text": "\"Clark Kent is Superman's critique on the whole human race.\" — This controversial quote from Kill Bill Vol. 2 sparked widespread debate about Superman's nature.",
+      "source": "https://en.wikipedia.org/wiki/Clark_Kent_is_Superman%27s_critique_on_the_whole_human_race"
+    },
+    {
+      "text": "Many Superman scholars disagree with the Kill Bill interpretation, arguing that Clark Kent is Superman's true self, shaped by the Kents' values.",
+      "source": "https://en.wikipedia.org/wiki/Many_Superman_scholars_disagree_with_the_Kill_Bill_interpretation%2C_arguing_that_Clark_Kent"
+    },
+    {
+      "text": "Superman's ability to inspire other heroes is his greatest power — characters from Steel to Superboy to the entire Legion of Super-Heroes exist because of his example.",
+      "source": "https://en.wikipedia.org/wiki/Superman%27s_ability_to_inspire_other_heroes"
+    },
+    {
+      "text": "\"The world doesn't need a savior. But every day I hear people crying for one.\" — Superman acknowledging the paradox of his existence.",
+      "source": "https://en.wikipedia.org/wiki/world_doesn%27t_need_a_savior._But_every_day_I_hear_people_crying_for_one"
+    },
+    {
+      "text": "Superman and Lex Luthor's relationship is often described as the fundamental conflict between power used for others versus power used for self.",
+      "source": "https://en.wikipedia.org/wiki/Superman_and_Lex_Luthor%27s_relationship"
+    },
+    {
+      "text": "In some stories, Lex Luthor has found a cure for cancer but refuses to share it because he's too obsessed with defeating Superman.",
+      "source": "https://en.wikipedia.org/wiki/In_some_stories%2C_Lex_Luthor"
+    },
+    {
+      "text": "\"I could have made everyone see. I could have saved the world if it wasn't for you.\" — Lex Luthor blaming Superman for his own failures.",
+      "source": "https://en.wikipedia.org/wiki/I_could_have_made_everyone_see._I_could_have_saved_the_world_if_it_wasn%27t_for_you"
+    },
+    {
+      "text": "Superman's connection to Smallville grounds him — returning to the Kent farm reminds him of the values Jonathan and Martha taught him.",
+      "source": "https://en.wikipedia.org/wiki/Jonathan_and_Martha"
+    },
+    {
+      "text": "\"It's never as bad as it seems. You're stronger than you think you are.\" — Superman offering reassurance, as he often does.",
+      "source": "https://en.wikipedia.org/wiki/It%27s_never_as_bad_as_it_seems._You%27re_stronger_than_you_think_you_are"
+    },
+    {
+      "text": "Kelex is a Kryptonian service robot that maintains the Fortress of Solitude and provides Superman with information about Kryptonian culture.",
+      "source": "https://en.wikipedia.org/wiki/Kelex"
+    },
+    {
+      "text": "The Eradicator device was originally intended to preserve Kryptonian culture at any cost, making it a fundamentalist threat to Earth's diversity.",
+      "source": "https://en.wikipedia.org/wiki/Eradicator_device"
+    },
+    {
+      "text": "Superman's cape is traditionally depicted as indestructible or at least extremely durable, made from the blankets that wrapped baby Kal-El.",
+      "source": "https://en.wikipedia.org/wiki/Superman%27s_cape"
+    },
+    {
+      "text": "Martha Kent sewed Clark's first Superman costume from the indestructible Kryptonian blankets in most origin stories.",
+      "source": "https://en.wikipedia.org/wiki/Martha_Kent"
+    },
+    {
+      "text": "\"It doesn't matter where you were born, or what you look like, or what planet you come from. As long as you're a good person.\" — Superman championing acceptance.",
+      "source": "https://en.wikipedia.org/wiki/It_doesn%27t_matter_where_you"
+    },
+    {
+      "text": "Superman once arm-wrestled Hercules in a comic and noted the demigod was actually quite strong.",
+      "source": "https://en.wikipedia.org/wiki/Superman_once_arm-wrestled_Hercules_in_a_comic_and_noted_the_demigod"
+    },
+    {
+      "text": "Vartox is a Superman ally based on Sean Connery's appearance in the film Zardoz, and is one of the more outlandish characters in Superman lore.",
+      "source": "https://en.wikipedia.org/wiki/Vartox"
+    },
+    {
+      "text": "Superman's birthday is traditionally celebrated on February 29 (Leap Day) in the comics, making him an 'impossible' birthday.",
+      "source": "https://en.wikipedia.org/wiki/Superman%27s_birthday"
+    },
+    {
+      "text": "\"The American Way\" portion of Superman's motto has been debated for decades — some see it as patriotic, others as limiting for a global hero.",
+      "source": "https://en.wikipedia.org/wiki/American_Way"
+    },
+    {
+      "text": "Superman renounced his American citizenship in Action Comics #900 (2011), declaring he was tired of his actions being seen as U.S. policy. The story was controversial.",
+      "source": "https://en.wikipedia.org/wiki/Superman_renounced_his_American_citizenship_in_Action_Comics_%23900_(2011)%2C_declaring_he"
+    },
+    {
+      "text": "Despite that story, subsequent writers have generally ignored the renunciation and Superman continues to be associated with American ideals.",
+      "source": "https://en.wikipedia.org/wiki/Despite_that_story%2C_subsequent_writers"
+    },
+    {
+      "text": "Superman's DNA has been studied, cloned, and weaponized by virtually every villain and government agency in the DC Universe at some point.",
+      "source": "https://en.wikipedia.org/wiki/Superman%27s_DNA"
+    },
+    {
+      "text": "Cadmus Labs created multiple Superman clones, most notably Superboy (Kon-El) and the monster called Match.",
+      "source": "https://en.wikipedia.org/wiki/Cadmus_Labs"
+    },
+    {
+      "text": "\"Why am I so different from them?\" — Young Clark Kent questioning his alienness, a scene that resonates with anyone who has ever felt like an outsider.",
+      "source": "https://en.wikipedia.org/wiki/Why_am_I_so_different_from_them"
+    },
+    {
+      "text": "Superman has been depicted playing various sports — in one famous cover, he played baseball against Batman's team.",
+      "source": "https://en.wikipedia.org/wiki/Superman"
+    },
+    {
+      "text": "In All-Star Superman #10, Clark Kent interviews Lex Luthor on death row, and Luthor reveals his admiration for Superman without knowing Clark is Superman.",
+      "source": "https://en.wikipedia.org/wiki/In_All-Star_Superman"
+    },
+    {
+      "text": "Superman has had crossovers with He-Man, the Thundercats, Bugs Bunny, and even the Terminator in special comics.",
+      "source": "https://en.wikipedia.org/wiki/Superman"
+    },
+    {
+      "text": "The Superman/Aliens crossover sent Superman to a world with a red sun where he lost his powers and had to survive against Xenomorphs.",
+      "source": "https://en.wikipedia.org/wiki/Superman"
+    },
+    {
+      "text": "Superman has been featured on United States postage stamps multiple times, cementing his status as an American cultural icon.",
+      "source": "https://en.wikipedia.org/wiki/Superman"
+    },
+    {
+      "text": "The Superman shield is one of the most recognized symbols in the world, comparable to religious and national symbols in its ubiquity.",
+      "source": "https://en.wikipedia.org/wiki/Superman_shield"
+    },
+    {
+      "text": "\"Nobody can be exactly like me. But then, I've always encouraged people to be themselves.\" — Superman embracing individuality.",
+      "source": "https://en.wikipedia.org/wiki/Nobody_can_be_exactly_like_me._But_then%2C_I%27ve_always_encouraged_people_to_be_themselves"
+    },
+    {
+      "text": "Superman's Arctic Fortress has sometimes been depicted with a giant golden key kept under the doormat — visible to all but immovable by anyone without super-strength.",
+      "source": "https://en.wikipedia.org/wiki/Superman%27s_Arctic_Fortress"
+    },
+    {
+      "text": "The bottled city of Kandor was eventually enlarged in some storylines, creating New Krypton and bringing thousands of Kryptonians to Earth's solar system.",
+      "source": "https://en.wikipedia.org/wiki/bottled_city_of_Kandor"
+    },
+    {
+      "text": "The New Krypton storyline (2008-2010) explored what happens when 100,000 Kryptonians suddenly appear on Earth, each with Superman's powers.",
+      "source": "https://en.wikipedia.org/wiki/New_Krypton"
+    },
+    {
+      "text": "\"Men are still good. We fight, we kill, we betray one another, but we can rebuild. We can do better. We will. We have to.\" — Batman's eulogy for Superman in Batman v Superman.",
+      "source": "https://en.wikipedia.org/wiki/Men"
+    },
+    {
+      "text": "Superman's heat vision has been depicted in various colors — red, blue, and orange — depending on the artist and adaptation.",
+      "source": "https://en.wikipedia.org/wiki/Superman%27s_heat_vision"
+    },
+    {
+      "text": "In the animated series, Superman's eyes glow red before firing heat vision, creating an iconic visual cue used in later adaptations.",
+      "source": "https://en.wikipedia.org/wiki/In_the"
+    },
+    {
+      "text": "Superman and Darkseid's final confrontation in Justice League Unlimited saw Superman unleash his full power, delivering one of animation's greatest fight scenes.",
+      "source": "https://en.wikipedia.org/wiki/Superman_and_Darkseid%27s_final_confrontation_in_Justice_League_Unlimited"
+    },
+    {
+      "text": "\"I feel like I live in a world made of cardboard.\" — Superman's admission before the Darkseid fight perfectly captures the restraint he shows daily.",
+      "source": "https://en.wikipedia.org/wiki/I_feel_like_I_live_in_a_world_made_of_cardboard"
+    },
+    {
+      "text": "Darkseid's Omega Beams can lock onto a target and follow them unerringly, but Superman has dodged them on multiple occasions.",
+      "source": "https://en.wikipedia.org/wiki/Darkseid%27s_Omega_Beams_can_lock_onto_a_target_and_follow_them_unerringly%2C_but_Superman"
+    },
+    {
+      "text": "The Anti-Life Equation, Darkseid's ultimate weapon, strips free will from sentient beings and represents the philosophical opposite of everything Superman stands for.",
+      "source": "https://en.wikipedia.org/wiki/Anti-Life_Equation"
+    },
+    {
+      "text": "Superman and the Authority (2021) by Grant Morrison paired Superman with a team of antiheroes when his powers were fading.",
+      "source": "https://en.wikipedia.org/wiki/Authority"
+    },
+    {
+      "text": "Action Comics #1 was printed with a run of about 200,000 copies. Only about 100 copies are estimated to survive today.",
+      "source": "https://en.wikipedia.org/wiki/Action_Comics_%231"
+    },
+    {
+      "text": "A copy of Action Comics #1 in near-mint condition sold for $3.25 million in 2014 and another for $6.16 million in 2024.",
+      "source": "https://en.wikipedia.org/wiki/Action_Comics"
+    },
+    {
+      "text": "The Library of Congress inducted Superman into its collection as a culturally significant American icon.",
+      "source": "https://en.wikipedia.org/wiki/Library_of_Congress"
+    },
+    {
+      "text": "\"He's the embodiment of human aspiration — an alien who became the most human of us all.\" — A common analysis of Superman's paradoxical character.",
+      "source": "https://en.wikipedia.org/wiki/He%27s_the_embodiment_of_human_aspiration_%E2%80%94_an_alien_who_became_the_most_human_of_us_all"
+    },
+    {
+      "text": "Christopher Reeve lobbied hard to include scenes of Clark Kent at the Kent farm in Superman (1978), believing they were essential to the character.",
+      "source": "https://en.wikipedia.org/wiki/Superman"
+    },
+    {
+      "text": "The Smallville scenes in Superman (1978), featuring Glenn Ford as Jonathan Kent, are some of the most emotionally powerful in the film.",
+      "source": "https://en.wikipedia.org/wiki/Superman"
+    },
+    {
+      "text": "Glenn Ford's performance as Jonathan Kent, particularly his death scene, was lauded for its quiet dignity and emotional truth.",
+      "source": "https://en.wikipedia.org/wiki/Glenn_Ford%27s_performance_as_Jonathan_Kent%2C_particularly_his_death_scene"
+    },
+    {
+      "text": "\"All those things I can do. All those powers. And I couldn't even save him.\" — Christopher Reeve's Clark Kent reflecting on Jonathan Kent's death.",
+      "source": "https://en.wikipedia.org/wiki/All_those_things_I_can_do._All_those_powers._And_I_couldn%27t_even_save_him"
+    },
+    {
+      "text": "Jeff East played young Clark Kent in Superman (1978), though Christopher Reeve's voice was dubbed over his performance.",
+      "source": "https://en.wikipedia.org/wiki/Superman"
+    },
+    {
+      "text": "Marc McClure played Jimmy Olsen in all four Christopher Reeve Superman films and in Supergirl (1984).",
+      "source": "https://en.wikipedia.org/wiki/Supergirl"
+    },
+    {
+      "text": "\"Statistically speaking, it's still the safest way to travel.\" — Superman to Lois Lane after saving her on the airplane, showcasing his dry wit.",
+      "source": "https://en.wikipedia.org/wiki/Statistically_speaking%2C_it%27s_still_the_safest_way_to_travel"
+    },
+    {
+      "text": "The 'Can You Read My Mind' sequence in Superman (1978) features Margot Kidder's internal monologue as Superman flies her over Metropolis.",
+      "source": "https://en.wikipedia.org/wiki/Superman"
+    },
+    {
+      "text": "Superman (1978) was filmed largely at Pinewood Studios in England, with location shooting in New York, Canada, and New Mexico.",
+      "source": "https://en.wikipedia.org/wiki/Superman"
+    },
+    {
+      "text": "The planet Krypton scenes in Superman (1978) used crystalline sets designed by John Barry, creating an otherworldly aesthetic.",
+      "source": "https://en.wikipedia.org/wiki/Superman"
+    },
+    {
+      "text": "Gene Hackman refused to shave his head for Lex Luthor, so bald caps and wigs were used instead.",
+      "source": "https://en.wikipedia.org/wiki/Gene_Hackman_refused_to_shave_his_head_for_Lex_Luthor%2C_so_bald_caps_and_wigs"
+    },
+    {
+      "text": "Ned Beatty played Otis, Lex Luthor's bumbling henchman, in Superman (1978), providing comic relief.",
+      "source": "https://en.wikipedia.org/wiki/Superman"
+    },
+    {
+      "text": "Valerie Perrine played Miss Teschmacher, Lex Luthor's girlfriend in Superman (1978), who ultimately helps Superman out of compassion.",
+      "source": "https://en.wikipedia.org/wiki/Superman"
+    },
+    {
+      "text": "\"It's amazing that brain can generate enough power to keep those legs moving.\" — Lex Luthor about Otis in Superman (1978), showcasing Gene Hackman's dry delivery.",
+      "source": "https://en.wikipedia.org/wiki/It%27s_amazing_that_brain_can_generate_enough_power_to_keep_those_legs_moving"
+    },
+    {
+      "text": "Superman (1978) revolutionized the superhero genre and proved that comic book characters could be taken seriously on the big screen.",
+      "source": "https://en.wikipedia.org/wiki/Superman"
+    },
+    {
+      "text": "Without the success of Superman (1978), the modern superhero film genre — from Batman (1989) to the MCU — might never have developed.",
+      "source": "https://en.wikipedia.org/wiki/Superman"
+    },
+    {
+      "text": "\"He'll be different from all the rest. But he'll be a force for good.\" — Martha Kent about raising Clark in many adaptations echoes the hope at Superman's core.",
+      "source": "https://en.wikipedia.org/wiki/He%27ll_be_different_from_all_the_rest._But_he%27ll_be_a_force_for_good"
+    },
+    {
+      "text": "David Corenswet, who plays Superman in the 2025 James Gunn film, stands 6'4\" — taller than any previous live-action Superman actor.",
+      "source": "https://en.wikipedia.org/wiki/David_Corenswet"
+    },
+    {
+      "text": "James Gunn's Superman (2025) features Krypto the Superdog as a significant character, the first live-action film to do so.",
+      "source": "https://en.wikipedia.org/wiki/James_Gunn%27s_Superman"
+    },
+    {
+      "text": "Rachel Brosnahan, known for The Marvelous Mrs. Maisel, was cast as Lois Lane in James Gunn's Superman (2025).",
+      "source": "https://en.wikipedia.org/wiki/James_Gunn%27s_Superman"
+    },
+    {
+      "text": "James Gunn wrote the screenplay for his Superman film, aiming to capture the character's inherent goodness and hopefulness.",
+      "source": "https://en.wikipedia.org/wiki/James_Gunn"
+    },
+    {
+      "text": "Edi Gathegi was cast as Mister Terrific in James Gunn's Superman (2025), introducing a new DC Universe supporting character.",
+      "source": "https://en.wikipedia.org/wiki/James_Gunn%27s_Superman"
+    },
+    {
+      "text": "Isabela Merced was cast as Hawkgirl in James Gunn's Superman (2025), expanding the DCU roster beyond the Man of Steel.",
+      "source": "https://en.wikipedia.org/wiki/James_Gunn%27s_Superman"
+    },
+    {
+      "text": "Nathan Fillion was cast as Guy Gardner/Green Lantern in James Gunn's Superman (2025).",
+      "source": "https://en.wikipedia.org/wiki/James_Gunn%27s_Superman"
+    },
+    {
+      "text": "Superman (2025) marks the beginning of James Gunn and Peter Safran's new DC Universe, distinct from the previous DCEU.",
+      "source": "https://en.wikipedia.org/wiki/Superman"
+    },
+    {
+      "text": "\"Superman is about kindness. It's about being the best version of yourself.\" — James Gunn on his approach to the 2025 film.",
+      "source": "https://en.wikipedia.org/wiki/Superman_is_about_kindness._It%27s_about_being_the_best_version_of_yourself"
+    },
+    {
+      "text": "The first trailer for James Gunn's Superman broke viewership records, indicating massive audience anticipation for the new interpretation.",
+      "source": "https://en.wikipedia.org/wiki/James_Gunn%27s_Superman"
+    },
+    {
+      "text": "Superman has appeared in more live-action films than any other DC superhero character.",
+      "source": "https://en.wikipedia.org/wiki/Superman"
+    },
+    {
+      "text": "The total worldwide box office of all Superman films exceeds $2 billion.",
+      "source": "https://en.wikipedia.org/wiki/Superman"
+    },
+    {
+      "text": "Superman Returns used the same crystal-based Kryptonian aesthetic as the Christopher Reeve films to maintain visual continuity.",
+      "source": "https://en.wikipedia.org/wiki/Superman_Returns"
+    },
+    {
+      "text": "Brandon Routh later returned to the Superman role in the Arrowverse Crisis on Infinite Earths crossover, playing the Kingdom Come version.",
+      "source": "https://en.wikipedia.org/wiki/Brandon_Routh"
+    },
+    {
+      "text": "The Arrowverse Crisis on Infinite Earths featured multiple Superman actors — Tom Welling, Brandon Routh, and Tyler Hoechlin — sharing the screen.",
+      "source": "https://en.wikipedia.org/wiki/Arrowverse_Crisis_on_Infinite_Earths"
+    },
+    {
+      "text": "\"Superman is not brave. He's smart, he's handsome, but he's not brave. He has nothing to fear. When facing danger, he's not brave, he's just playing along.\" — A debatable take attributed to various writers.",
+      "source": "https://en.wikipedia.org/wiki/Superman"
+    },
+    {
+      "text": "Many writers have countered that perspective by noting Superman's bravery lies in emotional vulnerability — choosing to care in a world that could hurt him.",
+      "source": "https://en.wikipedia.org/wiki/Many_writers"
+    },
+    {
+      "text": "Superman's greatest battle may not be against any villain but against despair — the temptation to give up on a world that doesn't always deserve saving.",
+      "source": "https://en.wikipedia.org/wiki/Superman"
+    },
+    {
+      "text": "\"It's never easy. The cape doesn't make it easy. But if I can make even one person's day better, it's worth it.\" — A sentiment Superman has expressed across many stories.",
+      "source": "https://en.wikipedia.org/wiki/Superman"
+    },
+    {
+      "text": "Superman has been depicted as vegetarian or at least preferring simple farm food in several modern interpretations.",
+      "source": "https://en.wikipedia.org/wiki/Superman"
+    },
+    {
+      "text": "Clark Kent's favorite food is often depicted as beef bourguignon or his mother's apple pie, depending on the writer.",
+      "source": "https://en.wikipedia.org/wiki/Clark_Kent%27s_favorite_food"
+    },
+    {
+      "text": "Superman once worked as a television news anchor in the comics during the 1970s, reflecting the changing media landscape.",
+      "source": "https://en.wikipedia.org/wiki/Superman"
+    },
+    {
+      "text": "Morgan Edge, a media mogul, has been both a Superman ally and antagonist across different continuities.",
+      "source": "https://en.wikipedia.org/wiki/Morgan_Edge%2C_a_media_mogul"
+    },
+    {
+      "text": "The Daily Star was the original name of the newspaper where Clark Kent worked before it was changed to the Daily Planet.",
+      "source": "https://en.wikipedia.org/wiki/Daily_Star"
+    },
+    {
+      "text": "\"Headlines don't sell papers. Newsboys sell papers.\" — Perry White's old-school journalism philosophy.",
+      "source": "https://en.wikipedia.org/wiki/Headlines_don%27t_sell_papers._Newsboys_sell_papers"
+    },
+    {
+      "text": "Superman's impact on the comic book industry cannot be overstated — he literally created the superhero genre and saved the comics medium during the late 1930s.",
+      "source": "https://en.wikipedia.org/wiki/Superman%27s_impact_on_the_comic_book_industry_cannot_be_overstated_%E2%80%94_he_literally"
+    },
+    {
+      "text": "Before Superman, comic books were primarily reprint collections of newspaper strips. His success created the original content comic book market.",
+      "source": "https://en.wikipedia.org/wiki/Before_Superman%2C_comic_books"
+    },
+    {
+      "text": "National Allied Publications, which published Action Comics #1, eventually became DC Comics, with the 'DC' standing for Detective Comics.",
+      "source": "https://en.wikipedia.org/wiki/National_Allied_Publications%2C_which_published_Action_Comics_%231%2C_eventually"
+    },
+    {
+      "text": "Superman and Batman, DC's two flagship characters, have been in continuous publication since 1938 and 1939 respectively.",
+      "source": "https://en.wikipedia.org/wiki/Superman_and_Batman%2C_DC%27s_two_flagship_characters"
+    },
+    {
+      "text": "\"Courage isn't the absence of fear. It's having the power to destroy everything and choosing not to.\" — A reflection on what makes Superman truly heroic.",
+      "source": "https://en.wikipedia.org/wiki/Courage_isn%27t_the_absence_of_fear._It%27s_having_the_power_to_destroy_everything_and_choosing_not_to"
+    }
+  ]
+}

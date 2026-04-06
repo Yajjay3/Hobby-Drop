@@ -1,0 +1,1695 @@
+{
+  "hobby": "Painting & Art",
+  "facts": [
+    {
+      "text": "Leonardo da Vinci spent approximately four years painting the Mona Lisa, starting around 1503.",
+      "source": "https://en.wikipedia.org/wiki/Leonardo_da_Vinci"
+    },
+    {
+      "text": "Oil paint dries through a chemical process called oxidation, not evaporation, which is why it takes so long to dry.",
+      "source": "https://en.wikipedia.org/wiki/Oil_paint_dries_through_a_chemical_process_called_oxidation%2C_not_evaporation%2C_which"
+    },
+    {
+      "text": "The Louvre Museum in Paris is the most visited art museum in the world, attracting over 7 million visitors per year.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Louvre_Museum_in_Paris"
+    },
+    {
+      "text": "Impressionism got its name from Claude Monet's painting 'Impression, Sunrise' (1872), which a critic used mockingly.",
+      "source": "https://en.wikipedia.org/wiki/Claude_Monet%27s"
+    },
+    {
+      "text": "Michelangelo painted the Sistine Chapel ceiling while standing, not lying on his back as popularly believed.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Sistine_Chapel"
+    },
+    {
+      "text": "Charcoal is one of the oldest drawing materials, used by cave artists over 30,000 years ago.",
+      "source": "https://en.wikipedia.org/wiki/Charcoal"
+    },
+    {
+      "text": "Pablo Picasso was born on October 25, 1881, in Málaga, Spain.",
+      "month": 10,
+      "day": 25,
+      "source": "https://en.wikipedia.org/wiki/Pablo_Picasso"
+    },
+    {
+      "text": "The Metropolitan Museum of Art (the Met) in New York houses over 2 million works spanning 5,000 years of art.",
+      "source": "https://en.wikipedia.org/wiki/Metropolitan_Museum_of_Art_(the"
+    },
+    {
+      "text": "Fresco painting involves applying pigment to wet plaster, allowing the color to become part of the wall itself.",
+      "source": "https://en.wikipedia.org/wiki/Painting_%26_Art"
+    },
+    {
+      "text": "Salvador Dalí's 'The Persistence of Memory' features melting clocks and was painted in 1931.",
+      "source": "https://en.wikipedia.org/wiki/Salvador_Dal%C3%AD%27s_%27The_Persistence_of_Memory"
+    },
+    {
+      "text": "Banksy's identity remains unknown despite being one of the most famous artists of the 21st century.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Painting_%26_Art"
+    },
+    {
+      "text": "Watercolor paints are made by suspending pigment in a water-soluble binder, usually gum arabic.",
+      "source": "https://en.wikipedia.org/wiki/Watercolor_paints"
+    },
+    {
+      "text": "Van Gogh sold only one painting during his lifetime — 'The Red Vineyard' — for 400 francs.",
+      "source": "https://en.wikipedia.org/wiki/Van_Gogh"
+    },
+    {
+      "text": "The Uffizi Gallery in Florence was originally built in 1560 as offices for Florentine magistrates.",
+      "source": "https://en.wikipedia.org/wiki/Uffizi_Gallery_in_Florence"
+    },
+    {
+      "text": "Acrylic paint was first developed in the 1940s and became commercially available in the 1950s.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Acrylic_paint"
+    },
+    {
+      "text": "Georgia O'Keeffe is known as the 'Mother of American Modernism' for her large-scale flower paintings.",
+      "source": "https://en.wikipedia.org/wiki/Georgia_O%27Keeffe"
+    },
+    {
+      "text": "Claude Monet was born on November 14, 1840, in Paris, France.",
+      "month": 11,
+      "day": 14,
+      "source": "https://en.wikipedia.org/wiki/Claude_Monet"
+    },
+    {
+      "text": "Rodin's 'The Thinker' was originally part of a larger work called 'The Gates of Hell.'",
+      "source": "https://en.wikipedia.org/wiki/Rodin%27s_%27The_Thinker"
+    },
+    {
+      "text": "Palette knife painting creates thick, textured strokes that give a sculptural quality to canvas work.",
+      "source": "https://en.wikipedia.org/wiki/Palette_knife_painting_creates_thick%2C_textured_strokes_that"
+    },
+    {
+      "text": "The Mona Lisa was stolen from the Louvre on August 21, 1911, by Vincenzo Peruggia, a museum employee.",
+      "month": 8,
+      "day": 21,
+      "source": "https://en.wikipedia.org/wiki/Mona_Lisa"
+    },
+    {
+      "text": "RISD (Rhode Island School of Design) is one of the oldest and most prestigious art schools in the United States.",
+      "source": "https://en.wikipedia.org/wiki/RISD_(Rhode_Island_School_of_Design)"
+    },
+    {
+      "text": "Jackson Pollock pioneered the drip painting technique, laying canvases on the floor and pouring paint onto them.",
+      "source": "https://en.wikipedia.org/wiki/Jackson_Pollock"
+    },
+    {
+      "text": "The pigment ultramarine was historically made from ground lapis lazuli and was more expensive than gold.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/pigment_ultramarine"
+    },
+    {
+      "text": "Andy Warhol's Campbell's Soup Cans series, created in 1962, consists of 32 canvases.",
+      "source": "https://en.wikipedia.org/wiki/Andy_Warhol%27s_Campbell%27s_Soup_Cans_series"
+    },
+    {
+      "text": "Gouache is similar to watercolor but is opaque because it contains white pigment or chalk.",
+      "source": "https://en.wikipedia.org/wiki/Gouache"
+    },
+    {
+      "text": "Vermeer's 'Girl with a Pearl Earring' is sometimes called the 'Mona Lisa of the North.'",
+      "source": "https://en.wikipedia.org/wiki/Vermeer%27s_%27Girl_with_a_Pearl_Earring"
+    },
+    {
+      "text": "The Tate Modern in London is housed in a former power station on the banks of the Thames.",
+      "source": "https://en.wikipedia.org/wiki/Tate_Modern_in_London"
+    },
+    {
+      "text": "Encaustic painting uses heated beeswax mixed with colored pigments and was practiced by ancient Greeks.",
+      "source": "https://en.wikipedia.org/wiki/Encaustic_painting_uses_heated_beeswax_mixed_with_colored_pigments_and"
+    },
+    {
+      "text": "Rembrandt van Rijn painted over 90 self-portraits during his career, more than any other major artist.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Painting_%26_Art"
+    },
+    {
+      "text": "Leonardo da Vinci was born on April 15, 1452, near the town of Vinci in Tuscany, Italy.",
+      "month": 4,
+      "day": 15,
+      "source": "https://en.wikipedia.org/wiki/Leonardo_da_Vinci"
+    },
+    {
+      "text": "Pop Art emerged in the 1950s and challenged traditions by using imagery from popular culture and mass media.",
+      "source": "https://en.wikipedia.org/wiki/Pop_Art"
+    },
+    {
+      "text": "Pencil graphite is graded on an H-B scale, where H means hard and B means black (soft).",
+      "source": "https://en.wikipedia.org/wiki/Pencil_graphite"
+    },
+    {
+      "text": "The Birth of Venus by Sandro Botticelli was painted around 1485 and depicts the goddess emerging from the sea.",
+      "source": "https://en.wikipedia.org/wiki/Birth_of_Venus_by_Sandro_Botticelli"
+    },
+    {
+      "text": "Plein air painting means painting outdoors, a practice championed by the Impressionists.",
+      "source": "https://en.wikipedia.org/wiki/Painting_%26_Art"
+    },
+    {
+      "text": "In 1990, thieves stole 13 works worth $500 million from the Isabella Stewart Gardner Museum in Boston.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Isabella_Stewart_Gardner_Museum_in_Boston"
+    },
+    {
+      "text": "Cubism, developed by Picasso and Braque around 1907, broke objects into geometric shapes viewed from multiple angles.",
+      "source": "https://en.wikipedia.org/wiki/Cubism"
+    },
+    {
+      "text": "Bob Ross painted over 30,000 paintings in his lifetime and hosted 'The Joy of Painting' for 11 years.",
+      "source": "https://en.wikipedia.org/wiki/Bob_Ross"
+    },
+    {
+      "text": "The Rijksmuseum in Amsterdam is home to Rembrandt's famous 'The Night Watch.'",
+      "source": "https://en.wikipedia.org/wiki/Rijksmuseum_in_Amsterdam"
+    },
+    {
+      "text": "Frida Kahlo was born on July 6, 1907, in Coyoacán, Mexico City.",
+      "month": 7,
+      "day": 6,
+      "source": "https://en.wikipedia.org/wiki/Frida_Kahlo"
+    },
+    {
+      "text": "Pastels are pigment sticks made by combining pure pigment with a binder, producing vivid colors.",
+      "source": "https://en.wikipedia.org/wiki/Pastels"
+    },
+    {
+      "text": "The Guggenheim Museum in New York, designed by Frank Lloyd Wright, opened in 1959.",
+      "source": "https://en.wikipedia.org/wiki/Guggenheim_Museum_in_New_York%2C_designed_by_Frank_Lloyd_Wright"
+    },
+    {
+      "text": "Glazing is a technique where thin, transparent layers of paint are applied over dried layers to create depth.",
+      "source": "https://en.wikipedia.org/wiki/Glazing"
+    },
+    {
+      "text": "Edvard Munch's 'The Scream' has four versions — two pastels and two paintings.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Edvard_Munch%27s_%27The_Scream"
+    },
+    {
+      "text": "Abstract Expressionism emerged in New York in the 1940s and was the first major American art movement.",
+      "source": "https://en.wikipedia.org/wiki/Abstract_Expressionism_emerged_in_New_York_in_the_1940s_and"
+    },
+    {
+      "text": "Beeple sold an NFT artwork for $69.3 million at Christie's in March 2021, making digital art history.",
+      "month": 3,
+      "day": 11,
+      "source": "https://en.wikipedia.org/wiki/Christie%27s_in_March_2021"
+    },
+    {
+      "text": "Kolinsky sable brushes, made from the tail hair of the Siberian weasel, are considered the finest painting brushes.",
+      "source": "https://en.wikipedia.org/wiki/Kolinsky_sable_brushes%2C_made_from_the_tail_hair_of_the_Siberian_weasel"
+    },
+    {
+      "text": "Michelangelo's 'David' stands 17 feet tall and was carved from a single block of Carrara marble.",
+      "source": "https://en.wikipedia.org/wiki/Michelangelo%27s_%27David%27_stands_17_feet_tall_and"
+    },
+    {
+      "text": "The Prado Museum in Madrid houses over 8,000 paintings, including works by Velázquez, Goya, and El Greco.",
+      "source": "https://en.wikipedia.org/wiki/Prado_Museum_in_Madrid"
+    },
+    {
+      "text": "Vincent van Gogh was born on March 30, 1853, in Groot-Zundert, Netherlands.",
+      "month": 3,
+      "day": 30,
+      "source": "https://en.wikipedia.org/wiki/Vincent_van_Gogh"
+    },
+    {
+      "text": "Indian ink, also called India ink, has been used for writing and drawing for over 4,000 years.",
+      "source": "https://en.wikipedia.org/wiki/Indian_ink%2C_also_called_India_ink"
+    },
+    {
+      "text": "Surrealism, founded by André Breton in 1924, sought to release the creative potential of the unconscious mind.",
+      "source": "https://en.wikipedia.org/wiki/Surrealism"
+    },
+    {
+      "text": "The world's most expensive painting ever sold is Leonardo da Vinci's 'Salvator Mundi,' which fetched $450.3 million in 2017.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/world%27s_most_expensive_painting_ever_sold"
+    },
+    {
+      "text": "Procreate, a digital painting app for iPad, was released in 2011 and has become a go-to tool for digital artists.",
+      "source": "https://en.wikipedia.org/wiki/Procreate%2C_a_digital_painting_app_for_iPad"
+    },
+    {
+      "text": "The National Gallery in London houses over 2,300 paintings dating from the 13th to the 20th century.",
+      "source": "https://en.wikipedia.org/wiki/National_Gallery_in_London"
+    },
+    {
+      "text": "Figure drawing classes use live models to help artists understand human anatomy and proportions.",
+      "source": "https://en.wikipedia.org/wiki/Painting_%26_Art"
+    },
+    {
+      "text": "Grant Wood's 'American Gothic' was painted in 1930 and features a farmer and his daughter outside a house.",
+      "source": "https://en.wikipedia.org/wiki/Grant_Wood%27s_%27American_Gothic"
+    },
+    {
+      "text": "Renaissance art focused on realism, perspective, and classical themes, flourishing in Italy from the 14th to 17th century.",
+      "source": "https://en.wikipedia.org/wiki/Painting_%26_Art"
+    },
+    {
+      "text": "Monet created approximately 250 oil paintings of water lilies during the last 30 years of his life.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Monet"
+    },
+    {
+      "text": "Sotheby's, founded in 1744, is the world's oldest international auction house for art and collectibles.",
+      "source": "https://en.wikipedia.org/wiki/Sotheby%27s"
+    },
+    {
+      "text": "Linen canvas is preferred by many oil painters because it's more durable and smoother than cotton canvas.",
+      "source": "https://en.wikipedia.org/wiki/Linen_canvas"
+    },
+    {
+      "text": "Salvador Dalí was born on May 11, 1904, in Figueres, Catalonia, Spain.",
+      "month": 5,
+      "day": 11,
+      "source": "https://en.wikipedia.org/wiki/Salvador_Dal%C3%AD"
+    },
+    {
+      "text": "Street art differs from graffiti in that it typically has a message or artistic intent beyond tagging.",
+      "source": "https://en.wikipedia.org/wiki/Street_art_differs_from_graffiti_in_that_it_typically"
+    },
+    {
+      "text": "Georgia O'Keeffe was born on November 15, 1887, near Sun Prairie, Wisconsin.",
+      "month": 11,
+      "day": 15,
+      "source": "https://en.wikipedia.org/wiki/Georgia_O%27Keeffe"
+    },
+    {
+      "text": "Henri Matisse, confined to a wheelchair later in life, created art using painted paper cutouts.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Henri_Matisse%2C_confined_to_a_wheelchair_later_in_life"
+    },
+    {
+      "text": "The Baroque period (1600–1750) emphasized drama, movement, and emotional intensity in painting.",
+      "source": "https://en.wikipedia.org/wiki/Baroque"
+    },
+    {
+      "text": "Adobe Photoshop, first released in 1990, revolutionized digital art and photo manipulation.",
+      "source": "https://en.wikipedia.org/wiki/Adobe_Photoshop%2C_first"
+    },
+    {
+      "text": "Pen and ink drawing is one of the most permanent drawing methods, favored by artists like Albrecht Dürer.",
+      "source": "https://en.wikipedia.org/wiki/Pen_and_ink_drawing"
+    },
+    {
+      "text": "CalArts (California Institute of the Arts) was founded by Walt Disney and has produced many famous animators.",
+      "source": "https://en.wikipedia.org/wiki/CalArts_(California_Institute_of_the_Arts)"
+    },
+    {
+      "text": "Caravaggio was known for his dramatic use of chiaroscuro — strong contrasts between light and dark.",
+      "source": "https://en.wikipedia.org/wiki/Caravaggio"
+    },
+    {
+      "text": "Andy Warhol was born on August 6, 1928, in Pittsburgh, Pennsylvania.",
+      "month": 8,
+      "day": 6,
+      "source": "https://en.wikipedia.org/wiki/Andy_Warhol"
+    },
+    {
+      "text": "Gesso is a white paint mixture applied to canvases as a primer to prevent paint from soaking into the fabric.",
+      "source": "https://en.wikipedia.org/wiki/Gesso"
+    },
+    {
+      "text": "Picasso's 'Guernica' (1937) is an anti-war painting depicting the bombing of a Basque town during the Spanish Civil War.",
+      "source": "https://en.wikipedia.org/wiki/Guernica"
+    },
+    {
+      "text": "The Art Institute of Chicago houses Georges Seurat's 'A Sunday Afternoon on the Island of La Grande Jatte.'",
+      "source": "https://en.wikipedia.org/wiki/Art_Institute_of_Chicago"
+    },
+    {
+      "text": "Post-Impressionists like Cézanne, Gauguin, and Van Gogh extended Impressionism while rejecting its limitations.",
+      "source": "https://en.wikipedia.org/wiki/Van_Gogh"
+    },
+    {
+      "text": "During World War II, the Nazis looted an estimated 600,000 paintings from museums and private collections across Europe.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/During_World_War_II"
+    },
+    {
+      "text": "Easels come in three main types: A-frame, H-frame, and single-mast, each suited to different painting styles.",
+      "source": "https://en.wikipedia.org/wiki/Painting_%26_Art"
+    },
+    {
+      "text": "The Impressionists held their first independent exhibition on April 15, 1874, in Paris.",
+      "month": 4,
+      "day": 15,
+      "source": "https://en.wikipedia.org/wiki/Impressionists"
+    },
+    {
+      "text": "Michelangelo was born on March 6, 1475, in Caprese, Republic of Florence.",
+      "month": 3,
+      "day": 6,
+      "source": "https://en.wikipedia.org/wiki/Michelangelo"
+    },
+    {
+      "text": "Jackson Pollock's painting 'Number 17A' sold for approximately $200 million in 2016 in a private sale.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Jackson_Pollock%27s"
+    },
+    {
+      "text": "The Royal Academy of Arts in London, founded in 1768, holds an annual Summer Exhibition open to all artists.",
+      "source": "https://en.wikipedia.org/wiki/Royal_Academy_of_Arts_in_London"
+    },
+    {
+      "text": "Cadmium pigments produce brilliant reds, oranges, and yellows but are toxic and require careful handling.",
+      "source": "https://en.wikipedia.org/wiki/Cadmium_pigments_produce_brilliant_reds%2C_oranges%2C_and_yellows_but"
+    },
+    {
+      "text": "Frida Kahlo created 143 paintings, 55 of which are self-portraits reflecting her pain and identity.",
+      "source": "https://en.wikipedia.org/wiki/Frida_Kahlo"
+    },
+    {
+      "text": "Pointillism is a technique developed by Seurat that uses tiny dots of color to create an image when viewed from a distance.",
+      "source": "https://en.wikipedia.org/wiki/Pointillism"
+    },
+    {
+      "text": "MoMA (Museum of Modern Art) in New York was founded in 1929 and holds nearly 200,000 works of modern and contemporary art.",
+      "source": "https://en.wikipedia.org/wiki/MoMA_(Museum_of_Modern_Art)_in_New_York"
+    },
+    {
+      "text": "Turpentine and mineral spirits are commonly used as solvents to thin oil paints and clean brushes.",
+      "source": "https://en.wikipedia.org/wiki/Turpentine_and_mineral_spirits"
+    },
+    {
+      "text": "Rembrandt van Rijn was born on July 15, 1606, in Leiden, Dutch Republic.",
+      "month": 7,
+      "day": 15,
+      "source": "https://en.wikipedia.org/wiki/Rembrandt_van_Rijn"
+    },
+    {
+      "text": "Bob Ross's 'The Joy of Painting' ran from 1983 to 1994 and comprised 403 episodes across 31 seasons.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Bob_Ross%27s_%27The_Joy_of_Painting"
+    },
+    {
+      "text": "The color wheel was invented by Sir Isaac Newton in 1666 when he first organized colors into a circle.",
+      "source": "https://en.wikipedia.org/wiki/color_wheel"
+    },
+    {
+      "text": "Trompe-l'oeil is a painting technique that creates the optical illusion of three-dimensional objects on a flat surface.",
+      "source": "https://en.wikipedia.org/wiki/Trompe-l%27oeil"
+    },
+    {
+      "text": "Banksy's 'Girl with Balloon' partially shredded itself moments after selling for $1.4 million at Sotheby's in 2018.",
+      "source": "https://en.wikipedia.org/wiki/Girl_with_Balloon"
+    },
+    {
+      "text": "Egg tempera was the primary painting medium before oil paint became widespread in the 15th century.",
+      "source": "https://en.wikipedia.org/wiki/Egg_tempera"
+    },
+    {
+      "text": "The Hermitage Museum in St. Petersburg, Russia, has a collection of over 3 million items including paintings.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Hermitage_Museum_in_St._Petersburg%2C_Russia"
+    },
+    {
+      "text": "Conte crayons, made of compressed graphite or charcoal with wax, are popular for tonal drawing.",
+      "source": "https://en.wikipedia.org/wiki/Conte_crayons%2C_made_of_compressed_graphite_or_charcoal_with_wax"
+    },
+    {
+      "text": "Expressionism emerged in early 20th-century Germany, prioritizing emotional experience over physical reality.",
+      "source": "https://en.wikipedia.org/wiki/Painting_%26_Art"
+    },
+    {
+      "text": "Christie's auction house was founded in 1766 and has sold some of the most expensive artworks in history.",
+      "source": "https://en.wikipedia.org/wiki/Christie%27s_auction_house"
+    },
+    {
+      "text": "Marc Chagall was born on July 7, 1887, in Liozna, Belarus.",
+      "month": 7,
+      "day": 7,
+      "source": "https://en.wikipedia.org/wiki/Marc_Chagall"
+    },
+    {
+      "text": "A mahlstick is a padded stick painters use to steady their hand while working on fine details.",
+      "source": "https://en.wikipedia.org/wiki/A_mahlstick"
+    },
+    {
+      "text": "Picasso produced an estimated 50,000 works of art during his career, including paintings, drawings, and sculptures.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Painting_%26_Art"
+    },
+    {
+      "text": "The Pre-Raphaelite Brotherhood was founded in 1848 by young British artists who rejected industrialized art.",
+      "source": "https://en.wikipedia.org/wiki/Pre-Raphaelite_Brotherhood"
+    },
+    {
+      "text": "iPad Pro with Apple Pencil has become a serious tool for professional digital artists and illustrators.",
+      "source": "https://en.wikipedia.org/wiki/iPad_Pro_with_Apple_Pencil"
+    },
+    {
+      "text": "Sfumato is a painting technique used by Leonardo da Vinci that creates soft, smoky transitions between colors.",
+      "source": "https://en.wikipedia.org/wiki/Sfumato"
+    },
+    {
+      "text": "Alexander Calder invented the mobile, a type of kinetic sculpture that moves with air currents.",
+      "source": "https://en.wikipedia.org/wiki/Alexander_Calder"
+    },
+    {
+      "text": "The Louvre's glass pyramid, designed by I.M. Pei, was completed in 1989 and serves as the main entrance.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Louvre%27s_glass_pyramid%2C_designed_by_I.M._Pei"
+    },
+    {
+      "text": "Vine charcoal is made from burned willow or vine sticks and is the softest, most erasable form of charcoal.",
+      "source": "https://en.wikipedia.org/wiki/Vine_charcoal"
+    },
+    {
+      "text": "Winslow Homer is celebrated for his marine paintings depicting the power and beauty of the sea.",
+      "source": "https://en.wikipedia.org/wiki/Winslow_Homer"
+    },
+    {
+      "text": "The Mona Lisa is surprisingly small — just 30 inches by 21 inches — and is displayed behind bulletproof glass.",
+      "source": "https://en.wikipedia.org/wiki/Mona_Lisa"
+    },
+    {
+      "text": "Jackson Pollock was born on January 28, 1912, in Cody, Wyoming.",
+      "month": 1,
+      "day": 28,
+      "source": "https://en.wikipedia.org/wiki/Jackson_Pollock"
+    },
+    {
+      "text": "Hog bristle brushes are the most common type used for oil painting due to their stiffness and durability.",
+      "source": "https://en.wikipedia.org/wiki/Hog_bristle_brushes"
+    },
+    {
+      "text": "Art Nouveau was a decorative art movement from the 1890s to 1910s known for its organic, flowing lines.",
+      "source": "https://en.wikipedia.org/wiki/Art_Nouveau"
+    },
+    {
+      "text": "Gustav Klimt's 'The Kiss' (1907–1908) is famous for its use of gold leaf and ornamental patterns.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Gustav_Klimt%27s_%27The_Kiss%27_(1907%E2%80%931908)"
+    },
+    {
+      "text": "The oldest known paintings are in the Chauvet Cave in France, dating back roughly 36,000 years.",
+      "source": "https://en.wikipedia.org/wiki/oldest_known_paintings"
+    },
+    {
+      "text": "Impasto is a technique where paint is applied thickly so that brush or knife marks are visible.",
+      "source": "https://en.wikipedia.org/wiki/Impasto"
+    },
+    {
+      "text": "The Musée d'Orsay in Paris, housed in a former railway station, specializes in Impressionist and Post-Impressionist art.",
+      "source": "https://en.wikipedia.org/wiki/Orsay_in_Paris"
+    },
+    {
+      "text": "Winsor & Newton, founded in 1832, is one of the world's most recognized art supply manufacturers.",
+      "source": "https://en.wikipedia.org/wiki/Winsor_%26_Newton"
+    },
+    {
+      "text": "Edvard Munch was born on December 12, 1863, in Ådalsbruk, Norway.",
+      "month": 12,
+      "day": 12,
+      "source": "https://en.wikipedia.org/wiki/Edvard_Munch"
+    },
+    {
+      "text": "A camera obscura projects an inverted image through a small hole, and was used by Renaissance artists as a drawing aid.",
+      "source": "https://en.wikipedia.org/wiki/A_camera_obscura_projects_an_inverted_image_through_a_small_hole%2C_and"
+    },
+    {
+      "text": "Mark Rothko's color field paintings consist of large rectangular areas of color meant to evoke deep emotion.",
+      "source": "https://en.wikipedia.org/wiki/Mark_Rothko%27s"
+    },
+    {
+      "text": "The Starry Night was painted by Van Gogh in June 1889 while he was staying at the Saint-Paul-de-Mausole asylum.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Starry_Night"
+    },
+    {
+      "text": "Sable brushes hold more paint and produce smoother strokes than synthetic brushes, making them prized for watercolor.",
+      "source": "https://en.wikipedia.org/wiki/Painting_%26_Art"
+    },
+    {
+      "text": "Artemisia Gentileschi was one of the first female artists to achieve recognition in the male-dominated Baroque era.",
+      "source": "https://en.wikipedia.org/wiki/Artemisia_Gentileschi"
+    },
+    {
+      "text": "Minimalism emerged in the 1960s, reducing art to its most essential geometric forms and colors.",
+      "source": "https://en.wikipedia.org/wiki/Painting_%26_Art"
+    },
+    {
+      "text": "Andy Warhol's studio was known as 'The Factory' and became a gathering spot for artists, musicians, and celebrities.",
+      "source": "https://en.wikipedia.org/wiki/Andy_Warhol%27s_studio"
+    },
+    {
+      "text": "Sandro Botticelli was born on March 1, 1445, in Florence, Italy.",
+      "month": 3,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/Sandro_Botticelli"
+    },
+    {
+      "text": "Chinese ink wash painting, also called sumi-e, uses black ink in varying dilutions to create expressive works.",
+      "source": "https://en.wikipedia.org/wiki/Chinese_ink_wash_painting%2C_also"
+    },
+    {
+      "text": "The Golden Ratio (approximately 1.618) has been used by artists since antiquity to create balanced compositions.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Golden_Ratio_(approximately_1.618)"
+    },
+    {
+      "text": "Stretched canvas became popular in the 16th century as a lighter, cheaper alternative to wooden panels.",
+      "source": "https://en.wikipedia.org/wiki/Stretched_canvas"
+    },
+    {
+      "text": "Henri Matisse led the Fauvist movement, which used wild, vibrant colors directly from the tube.",
+      "source": "https://en.wikipedia.org/wiki/Henri_Matisse"
+    },
+    {
+      "text": "The Isabella Stewart Gardner Museum heist in 1990 remains the largest unsolved art theft in history.",
+      "source": "https://en.wikipedia.org/wiki/Isabella_Stewart_Gardner_Museum"
+    },
+    {
+      "text": "Copic markers, made in Japan, are alcohol-based markers widely used by illustrators, manga artists, and designers.",
+      "source": "https://en.wikipedia.org/wiki/Copic_markers%2C_made_in_Japan"
+    },
+    {
+      "text": "Raphael was born on April 6, 1483, in Urbino, Italy, and died on the same date in 1520.",
+      "month": 4,
+      "day": 6,
+      "source": "https://en.wikipedia.org/wiki/Raphael"
+    },
+    {
+      "text": "Alla prima (wet-on-wet) painting involves completing a work in a single session before the paint dries.",
+      "source": "https://en.wikipedia.org/wiki/Painting_%26_Art"
+    },
+    {
+      "text": "Jean-Michel Basquiat went from street artist to selling paintings for millions before his death at 27.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Jean-Michel_Basquiat"
+    },
+    {
+      "text": "The Prado Museum opened to the public on November 19, 1819.",
+      "month": 11,
+      "day": 19,
+      "source": "https://en.wikipedia.org/wiki/Prado_Museum"
+    },
+    {
+      "text": "Gum turpentine, derived from pine resin, has been used as a paint solvent for centuries.",
+      "source": "https://en.wikipedia.org/wiki/Gum_turpentine%2C_derived_from_pine_resin"
+    },
+    {
+      "text": "Diego Rivera was one of Mexico's most famous muralists, known for large-scale public works depicting Mexican society.",
+      "source": "https://en.wikipedia.org/wiki/Diego_Rivera"
+    },
+    {
+      "text": "Dada was an anti-art movement born in Zurich in 1916 as a reaction to the horrors of World War I.",
+      "source": "https://en.wikipedia.org/wiki/Dada"
+    },
+    {
+      "text": "Vermeer is believed to have used a camera obscura to assist with his remarkably accurate compositions.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Vermeer"
+    },
+    {
+      "text": "Synthetic brushes made from nylon or polyester have improved greatly and are now a popular alternative to natural hair.",
+      "source": "https://en.wikipedia.org/wiki/Synthetic_brushes_made_from_nylon_or_polyester"
+    },
+    {
+      "text": "The National Gallery of Art in Washington, D.C. was established by Congress in 1937 and admission is free.",
+      "source": "https://en.wikipedia.org/wiki/National_Gallery_of_Art_in_Washington%2C_D.C"
+    },
+    {
+      "text": "Lithography, invented in 1796, is a printing process based on the principle that oil and water don't mix.",
+      "source": "https://en.wikipedia.org/wiki/Lithography"
+    },
+    {
+      "text": "Georgia O'Keeffe's painting 'Jimson Weed/White Flower No. 1' sold for $44.4 million in 2014, a record for a female artist.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Georgia_O%27Keeffe%27s"
+    },
+    {
+      "text": "Chiaroscuro refers to the strong contrast between light and dark used to give the illusion of volume.",
+      "source": "https://en.wikipedia.org/wiki/Chiaroscuro_refers_to_the_strong_contrast_between_light_and_dark_used_to"
+    },
+    {
+      "text": "The Whitney Museum of American Art in New York focuses exclusively on 20th- and 21st-century American art.",
+      "source": "https://en.wikipedia.org/wiki/Whitney_Museum_of_American_Art_in_New"
+    },
+    {
+      "text": "Rembrandt's 'The Night Watch' was trimmed on all four sides to fit between two doors in Amsterdam's Town Hall.",
+      "source": "https://en.wikipedia.org/wiki/Rembrandt%27s_%27The_Night_Watch"
+    },
+    {
+      "text": "Raw sienna, burnt umber, and yellow ochre are earth pigments that have been used since prehistoric times.",
+      "source": "https://en.wikipedia.org/wiki/Raw_sienna%2C_burnt_umber%2C_and_yellow_ochre"
+    },
+    {
+      "text": "Andy Warhol was a leading figure in the Pop Art movement, which blurred the line between fine art and commercial art.",
+      "source": "https://en.wikipedia.org/wiki/Andy_Warhol"
+    },
+    {
+      "text": "Henri de Toulouse-Lautrec was born on November 24, 1864, and is famous for his colorful posters of Parisian nightlife.",
+      "month": 11,
+      "day": 24,
+      "source": "https://en.wikipedia.org/wiki/Henri_de_Toulouse-Lautrec"
+    },
+    {
+      "text": "Yayoi Kusama's infinity rooms use mirrors and lights to create immersive, seemingly endless art installations.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Yayoi_Kusama%27s"
+    },
+    {
+      "text": "Oil paint was popularized by Jan van Eyck in the early 15th century, though it was used before him.",
+      "source": "https://en.wikipedia.org/wiki/Oil_paint"
+    },
+    {
+      "text": "The Art Students League of New York, founded in 1875, has taught artists including Jackson Pollock and Georgia O'Keeffe.",
+      "source": "https://en.wikipedia.org/wiki/Art_Students_League_of_New_York"
+    },
+    {
+      "text": "Etching is an intaglio printmaking technique where lines are incised into a metal plate using acid.",
+      "source": "https://en.wikipedia.org/wiki/Etching"
+    },
+    {
+      "text": "Paul Cézanne is often called the 'Father of Modern Art' for bridging Impressionism and Cubism.",
+      "source": "https://en.wikipedia.org/wiki/Paul_C%C3%A9zanne"
+    },
+    {
+      "text": "The Sistine Chapel ceiling took Michelangelo approximately four years to complete, from 1508 to 1512.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Sistine_Chapel_ceiling"
+    },
+    {
+      "text": "Linseed oil is the most common drying oil used as a binder in oil paints.",
+      "source": "https://en.wikipedia.org/wiki/Linseed_oil"
+    },
+    {
+      "text": "Kehinde Wiley painted Barack Obama's official presidential portrait, unveiled in February 2018.",
+      "source": "https://en.wikipedia.org/wiki/Kehinde_Wiley"
+    },
+    {
+      "text": "Titanium white replaced lead white as the most popular white pigment because it's non-toxic.",
+      "source": "https://en.wikipedia.org/wiki/Painting_%26_Art"
+    },
+    {
+      "text": "Frida Kahlo and Diego Rivera married on August 21, 1929, and their turbulent relationship influenced much of her art.",
+      "month": 8,
+      "day": 21,
+      "source": "https://en.wikipedia.org/wiki/Frida_Kahlo_and_Diego_Rivera"
+    },
+    {
+      "text": "Art forgery has a long history — Han van Meegeren famously forged Vermeer paintings that fooled experts and even the Nazis.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Art_forgery"
+    },
+    {
+      "text": "Cézanne was born on January 19, 1839, in Aix-en-Provence, France.",
+      "month": 1,
+      "day": 19,
+      "source": "https://en.wikipedia.org/wiki/C%C3%A9zanne"
+    },
+    {
+      "text": "The Bauhaus school, founded in 1919 in Weimar, Germany, combined crafts and fine arts with a focus on design.",
+      "source": "https://en.wikipedia.org/wiki/Bauhaus_school"
+    },
+    {
+      "text": "Manga-style illustration has become a globally popular drawing form originating from Japanese comic art.",
+      "source": "https://en.wikipedia.org/wiki/Manga-style_illustration"
+    },
+    {
+      "text": "A varnish layer is applied over finished oil paintings to protect the surface and enhance color saturation.",
+      "source": "https://en.wikipedia.org/wiki/A_varnish_layer"
+    },
+    {
+      "text": "The Venus de Milo, an ancient Greek sculpture, is displayed in the Louvre and is believed to depict Aphrodite.",
+      "source": "https://en.wikipedia.org/wiki/Venus_de_Milo%2C_an_ancient_Greek_sculpture"
+    },
+    {
+      "text": "Wassily Kandinsky is generally credited as the pioneer of purely abstract art, creating his first abstract work around 1910.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Wassily_Kandinsky"
+    },
+    {
+      "text": "Turpenoid, an odorless solvent, is a popular alternative to turpentine for artists sensitive to fumes.",
+      "source": "https://en.wikipedia.org/wiki/Turpenoid%2C_an_odorless_solvent"
+    },
+    {
+      "text": "Mary Cassatt was an American Impressionist known for her intimate paintings of mothers and children.",
+      "source": "https://en.wikipedia.org/wiki/Mary_Cassatt"
+    },
+    {
+      "text": "The rule of thirds is a compositional guideline that divides a canvas into a 3x3 grid for balanced placement.",
+      "source": "https://en.wikipedia.org/wiki/rule_of_thirds"
+    },
+    {
+      "text": "Leonardo da Vinci's notebooks contain over 13,000 pages of notes and drawings on art, science, and engineering.",
+      "source": "https://en.wikipedia.org/wiki/Painting_%26_Art"
+    },
+    {
+      "text": "The Rijksmuseum was founded in 1800 and reopened in 2013 after a major ten-year renovation.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Rijksmuseum"
+    },
+    {
+      "text": "Amedeo Modigliani was born on July 12, 1884, in Livorno, Italy, and is known for elongated portraits.",
+      "month": 7,
+      "day": 12,
+      "source": "https://en.wikipedia.org/wiki/Amedeo_Modigliani"
+    },
+    {
+      "text": "Stand oil is a thickened form of linseed oil that produces enamel-like, smooth paint films.",
+      "source": "https://en.wikipedia.org/wiki/Stand_oil"
+    },
+    {
+      "text": "The Hudson River School was a mid-19th-century American art movement known for romantic landscape paintings.",
+      "source": "https://en.wikipedia.org/wiki/Hudson_River_School"
+    },
+    {
+      "text": "Damien Hirst's 'The Physical Impossibility of Death in the Mind of Someone Living' features a tiger shark in formaldehyde.",
+      "source": "https://en.wikipedia.org/wiki/Damien_Hirst%27s_%27The_Physical_Impossibility_of_Death_in_the_Mind_of_Someone_Living"
+    },
+    {
+      "text": "Art therapy uses creative expression to help people explore emotions, reduce anxiety, and improve mental health.",
+      "source": "https://en.wikipedia.org/wiki/Painting_%26_Art"
+    },
+    {
+      "text": "Winsor & Newton's Series 7 brushes were originally made for Queen Victoria in 1866.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Winsor_%26_Newton%27s_Series_7_brushes"
+    },
+    {
+      "text": "Giotto di Bondone is considered the first great painter of the Italian Renaissance, breaking from the Byzantine style.",
+      "source": "https://en.wikipedia.org/wiki/Giotto_di_Bondone"
+    },
+    {
+      "text": "Woodcut printing is one of the oldest printmaking techniques, widely used in medieval Europe and East Asia.",
+      "source": "https://en.wikipedia.org/wiki/Woodcut_printing"
+    },
+    {
+      "text": "Henri Rousseau was a self-taught Post-Impressionist painter famous for his jungle scenes, though he never left France.",
+      "source": "https://en.wikipedia.org/wiki/Henri_Rousseau"
+    },
+    {
+      "text": "Spray paint art became popular in the 1970s and 1980s with the rise of graffiti culture in New York City.",
+      "source": "https://en.wikipedia.org/wiki/Spray_paint_art"
+    },
+    {
+      "text": "The MoMA PS1 in Queens, New York, is one of the oldest and largest nonprofit contemporary art institutions in the US.",
+      "source": "https://en.wikipedia.org/wiki/MoMA_PS1_in_Queens%2C_New_York"
+    },
+    {
+      "text": "Van Gogh painted 'The Starry Night' from memory during the day, not while looking at the night sky.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Van_Gogh"
+    },
+    {
+      "text": "Cochineal insects were crushed to produce the vibrant red pigment carmine, used in paintings and dyes for centuries.",
+      "source": "https://en.wikipedia.org/wiki/Cochineal_insects"
+    },
+    {
+      "text": "Gustav Klimt was born on July 14, 1862, in Baumgarten, Austria.",
+      "month": 7,
+      "day": 14,
+      "source": "https://en.wikipedia.org/wiki/Gustav_Klimt"
+    },
+    {
+      "text": "Mixed media art combines two or more artistic media, such as paint with collage, fabric, or found objects.",
+      "source": "https://en.wikipedia.org/wiki/Painting_%26_Art"
+    },
+    {
+      "text": "The Frick Collection in New York occupies a mansion built in 1914 and displays Old Master paintings and European sculpture.",
+      "source": "https://en.wikipedia.org/wiki/Frick_Collection_in_New_York_occupies_a_mansion"
+    },
+    {
+      "text": "Ukiyo-e is a Japanese art genre featuring woodblock prints and paintings of landscapes, theater, and beauty.",
+      "source": "https://en.wikipedia.org/wiki/Ukiyo-e"
+    },
+    {
+      "text": "Francis Bacon's 'Three Studies of Lucian Freud' sold for $142.4 million at Christie's in 2013.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Francis_Bacon%27s"
+    },
+    {
+      "text": "Cross-hatching is a drawing technique that uses intersecting sets of parallel lines to create shading and depth.",
+      "source": "https://en.wikipedia.org/wiki/Cross-hatching"
+    },
+    {
+      "text": "The Albertina Museum in Vienna houses one of the largest and most important print collections in the world.",
+      "source": "https://en.wikipedia.org/wiki/Albertina_Museum_in_Vienna"
+    },
+    {
+      "text": "Norman Rockwell illustrated 323 covers for The Saturday Evening Post over nearly 50 years.",
+      "source": "https://en.wikipedia.org/wiki/Norman_Rockwell"
+    },
+    {
+      "text": "Retarder medium slows the drying time of acrylic paint, giving artists more time to blend and work the paint.",
+      "source": "https://en.wikipedia.org/wiki/Painting_%26_Art"
+    },
+    {
+      "text": "David Hockney's 'Portrait of an Artist (Pool with Two Figures)' sold for $90.3 million in 2018.",
+      "source": "https://en.wikipedia.org/wiki/David_Hockney%27s"
+    },
+    {
+      "text": "Graffiti art dates back to ancient Rome and Pompeii, where walls were covered with political slogans and drawings.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Graffiti_art_dates_back_to_ancient_Rome_and_Pompeii%2C_where_walls"
+    },
+    {
+      "text": "Silverpoint drawing uses a silver-tipped stylus on coated paper and was popular during the Renaissance.",
+      "source": "https://en.wikipedia.org/wiki/Silverpoint_drawing_uses_a_silver-tipped_stylus_on_coated_paper_and"
+    },
+    {
+      "text": "Edward Hopper was born on July 22, 1882, and is best known for his painting 'Nighthawks' (1942).",
+      "month": 7,
+      "day": 22,
+      "source": "https://en.wikipedia.org/wiki/Nighthawks"
+    },
+    {
+      "text": "The concept of perspective in art was formalized by Filippo Brunelleschi around 1415 in Florence.",
+      "source": "https://en.wikipedia.org/wiki/concept_of_perspective_in_art"
+    },
+    {
+      "text": "Ai Weiwei is a Chinese contemporary artist and activist known for installations that challenge political authority.",
+      "source": "https://en.wikipedia.org/wiki/Ai_Weiwei"
+    },
+    {
+      "text": "Sable brushes are named after the sable marten, though many are actually made from other types of weasel fur.",
+      "source": "https://en.wikipedia.org/wiki/Sable_brushes"
+    },
+    {
+      "text": "Marcel Duchamp's 'Fountain' (1917), a porcelain urinal signed 'R. Mutt,' challenged the very definition of art.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Fountain"
+    },
+    {
+      "text": "Color theory is the study of how colors interact, combining science and art to guide painters in mixing and pairing hues.",
+      "source": "https://en.wikipedia.org/wiki/Color_theory"
+    },
+    {
+      "text": "The Centre Pompidou in Paris, designed by Renzo Piano and Richard Rogers, houses Europe's largest modern art collection.",
+      "source": "https://en.wikipedia.org/wiki/Centre_Pompidou_in_Paris"
+    },
+    {
+      "text": "Albrecht Dürer was born on May 21, 1471, in Nuremberg, Germany, and is considered the greatest German Renaissance artist.",
+      "month": 5,
+      "day": 21,
+      "source": "https://en.wikipedia.org/wiki/Albrecht_D%C3%BCrer"
+    },
+    {
+      "text": "Aquatint is a printmaking technique that creates tonal areas rather than lines, achieving effects similar to watercolor.",
+      "source": "https://en.wikipedia.org/wiki/Aquatint"
+    },
+    {
+      "text": "The Harlem Renaissance in the 1920s and 1930s brought African American art, music, and literature to national prominence.",
+      "source": "https://en.wikipedia.org/wiki/Harlem_Renaissance_in_the"
+    },
+    {
+      "text": "Cobalt blue pigment was first synthesized in 1802 and quickly became popular for its brilliant, stable color.",
+      "source": "https://en.wikipedia.org/wiki/Cobalt_blue_pigment"
+    },
+    {
+      "text": "J.M.W. Turner's will stipulated that his paintings be given to the British nation, resulting in the Turner Bequest of over 300 oils.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/J.M.W._Turner%27s"
+    },
+    {
+      "text": "A still life painting depicts inanimate objects such as fruit, flowers, and household items.",
+      "source": "https://en.wikipedia.org/wiki/Painting_%26_Art"
+    },
+    {
+      "text": "The Phillips Collection in Washington, D.C. was the first museum of modern art in America, opening in 1921.",
+      "source": "https://en.wikipedia.org/wiki/Phillips_Collection_in_Washington%2C_D.C"
+    },
+    {
+      "text": "Winslow Homer was born on February 24, 1836, in Boston, Massachusetts.",
+      "month": 2,
+      "day": 24,
+      "source": "https://en.wikipedia.org/wiki/Winslow_Homer"
+    },
+    {
+      "text": "Byzantine art flourished from the 4th to the 15th century and is characterized by golden backgrounds and religious iconography.",
+      "source": "https://en.wikipedia.org/wiki/Byzantine_art_flourished_from_the_4th_to_the_15th_century_and"
+    },
+    {
+      "text": "Poppy seed oil is sometimes used instead of linseed oil because it yellows less over time.",
+      "source": "https://en.wikipedia.org/wiki/Poppy_seed_oil"
+    },
+    {
+      "text": "Louise Bourgeois created 'Maman,' a giant spider sculpture over 30 feet tall, first exhibited in 2000.",
+      "source": "https://en.wikipedia.org/wiki/Louise_Bourgeois"
+    },
+    {
+      "text": "Banksy's Dismaland, a dystopian theme park art installation, opened in Weston-super-Mare, England, in August 2015.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Banksy%27s_Dismaland%2C_a_dystopian_theme_park_art_installation"
+    },
+    {
+      "text": "The Venetian school of painting is known for its emphasis on color and light, led by artists like Titian and Tintoretto.",
+      "source": "https://en.wikipedia.org/wiki/Venetian_school_of_painting"
+    },
+    {
+      "text": "A viewfinder is a simple cardboard frame used by artists to isolate and compose a scene before painting.",
+      "source": "https://en.wikipedia.org/wiki/A_viewfinder"
+    },
+    {
+      "text": "Jeff Koons' 'Balloon Dog (Orange)' sold for $58.4 million in 2013, a record for a living artist at the time.",
+      "source": "https://en.wikipedia.org/wiki/Jeff_Koons"
+    },
+    {
+      "text": "Fixative spray is applied to charcoal and pastel drawings to prevent smudging and preserve the work.",
+      "source": "https://en.wikipedia.org/wiki/Fixative_spray"
+    },
+    {
+      "text": "Anna Mary Robertson 'Grandma' Moses began painting at age 78 and became one of America's most celebrated folk artists.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Anna_Mary_Robertson_%27Grandma%27_Moses_began_painting_at_age_78_and"
+    },
+    {
+      "text": "Tempera paint dries almost immediately and has a matte finish, unlike the slow-drying gloss of oil paints.",
+      "source": "https://en.wikipedia.org/wiki/Tempera_paint_dries_almost_immediately_and"
+    },
+    {
+      "text": "World Art Day is celebrated annually on April 15, Leonardo da Vinci's birthday.",
+      "month": 4,
+      "day": 15,
+      "source": "https://en.wikipedia.org/wiki/World_Art_Day"
+    },
+    {
+      "text": "John Singer Sargent painted over 900 oil paintings and more than 2,000 watercolors during his prolific career.",
+      "source": "https://en.wikipedia.org/wiki/John_Singer_Sargent"
+    },
+    {
+      "text": "The Musée de l'Orangerie in Paris houses eight large Water Lilies murals by Monet in two oval rooms.",
+      "source": "https://en.wikipedia.org/wiki/Orangerie_in_Paris"
+    },
+    {
+      "text": "Lead white was the only white pigment available to painters for thousands of years before zinc and titanium whites were developed.",
+      "source": "https://en.wikipedia.org/wiki/Lead_white"
+    },
+    {
+      "text": "Keith Haring rose to fame in the 1980s with his bold, graphic street art drawn in New York City subway stations.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Keith_Haring"
+    },
+    {
+      "text": "Crayon comes from the French word 'craie' meaning chalk, and 'crayon' meaning pencil.",
+      "source": "https://en.wikipedia.org/wiki/Painting_%26_Art"
+    },
+    {
+      "text": "Rococo art (1720s–1780s) was characterized by ornate decoration, pastel colors, and playful, lighthearted subjects.",
+      "source": "https://en.wikipedia.org/wiki/Rococo_art_(1720s%E2%80%931780s)"
+    },
+    {
+      "text": "Auguste Rodin was born on November 12, 1840, in Paris, and is often considered the father of modern sculpture.",
+      "month": 11,
+      "day": 12,
+      "source": "https://en.wikipedia.org/wiki/Auguste_Rodin"
+    },
+    {
+      "text": "Dammar varnish, made from tree resin, is a traditional final varnish for oil paintings.",
+      "source": "https://en.wikipedia.org/wiki/Dammar_varnish%2C_made_from_tree_resin"
+    },
+    {
+      "text": "The Art Basel fair, held annually in Basel, Miami Beach, and Hong Kong, is one of the world's premier art events.",
+      "source": "https://en.wikipedia.org/wiki/Art_Basel_fair%2C_held_annually_in_Basel%2C_Miami_Beach%2C_and_Hong_Kong"
+    },
+    {
+      "text": "Berthe Morisot was the first woman to join the French Impressionists and exhibited in seven of their eight exhibitions.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Berthe_Morisot"
+    },
+    {
+      "text": "Monochromatic painting uses variations of a single color to create a unified, harmonious composition.",
+      "source": "https://en.wikipedia.org/wiki/Painting_%26_Art"
+    },
+    {
+      "text": "The Tokyo National Museum, founded in 1872, is Japan's oldest and largest art museum.",
+      "source": "https://en.wikipedia.org/wiki/Tokyo_National_Museum"
+    },
+    {
+      "text": "Frida Kahlo's painting 'Diego y yo' sold for $34.9 million in 2021, a record for a Latin American artist.",
+      "source": "https://en.wikipedia.org/wiki/Frida_Kahlo%27s"
+    },
+    {
+      "text": "Walnut oil was used by Leonardo da Vinci as a painting medium and dries faster than linseed oil with less yellowing.",
+      "source": "https://en.wikipedia.org/wiki/Walnut_oil"
+    },
+    {
+      "text": "Pablo Picasso went through several artistic periods including the Blue Period (1901–1904) and the Rose Period (1904–1906).",
+      "source": "https://en.wikipedia.org/wiki/Pablo_Picasso"
+    },
+    {
+      "text": "The oldest known hand stencils, found in caves in Indonesia, are over 40,000 years old.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/oldest_known_hand_stencils%2C_found_in_caves_in_Indonesia"
+    },
+    {
+      "text": "Masking fluid is a liquid latex applied to watercolor paintings to preserve white areas from paint.",
+      "source": "https://en.wikipedia.org/wiki/Masking_fluid"
+    },
+    {
+      "text": "Pierre-Auguste Renoir was born on February 25, 1841, in Limoges, France.",
+      "month": 2,
+      "day": 25,
+      "source": "https://en.wikipedia.org/wiki/Pierre-Auguste_Renoir"
+    },
+    {
+      "text": "Op Art (Optical Art) uses geometric patterns to create visual illusions of movement and depth.",
+      "source": "https://en.wikipedia.org/wiki/Op_Art"
+    },
+    {
+      "text": "The Barnes Foundation in Philadelphia houses one of the finest collections of Post-Impressionist and early Modern paintings.",
+      "source": "https://en.wikipedia.org/wiki/Barnes_Foundation_in_Philadelphia"
+    },
+    {
+      "text": "Burnt sienna pigment gets its warm reddish-brown color from iron oxide heated at high temperatures.",
+      "source": "https://en.wikipedia.org/wiki/Painting_%26_Art"
+    },
+    {
+      "text": "In 2022, climate activists threw tomato soup at Van Gogh's 'Sunflowers' in London's National Gallery, sparking global debate.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Van_Gogh%27s"
+    },
+    {
+      "text": "Parchment paper was used as a drawing surface in medieval times before the widespread use of paper.",
+      "source": "https://en.wikipedia.org/wiki/Parchment_paper"
+    },
+    {
+      "text": "Kara Walker is known for her large-scale silhouette installations exploring race, gender, and history.",
+      "source": "https://en.wikipedia.org/wiki/Kara_Walker"
+    },
+    {
+      "text": "A paint palette has traditionally been made of wood, but glass and plastic palettes are now common.",
+      "source": "https://en.wikipedia.org/wiki/A_paint_palette"
+    },
+    {
+      "text": "The School of Athens, painted by Raphael between 1509 and 1511, adorns a wall in the Vatican's Apostolic Palace.",
+      "source": "https://en.wikipedia.org/wiki/School_of_Athens"
+    },
+    {
+      "text": "Damien Hirst's 'For the Love of God' is a platinum skull encrusted with 8,601 diamonds.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Damien_Hirst%27s_%27For_the_Love_of_God"
+    },
+    {
+      "text": "Soft pastels have a higher pigment-to-binder ratio than hard pastels, giving them richer color and easier blendability.",
+      "source": "https://en.wikipedia.org/wiki/Soft_pastels"
+    },
+    {
+      "text": "World Watercolor Month is celebrated every July to promote watercolor painting around the globe.",
+      "month": 7,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/World_Watercolor_Month"
+    },
+    {
+      "text": "Diego Rivera was born on December 8, 1886, in Guanajuato, Mexico.",
+      "month": 12,
+      "day": 8,
+      "source": "https://en.wikipedia.org/wiki/Diego_Rivera"
+    },
+    {
+      "text": "Egg tempera uses egg yolk as a binder, producing a luminous, fast-drying paint used since ancient Egypt.",
+      "source": "https://en.wikipedia.org/wiki/Painting_%26_Art"
+    },
+    {
+      "text": "Lucian Freud, grandson of Sigmund Freud, was known for his unflinching, thickly painted portraits.",
+      "source": "https://en.wikipedia.org/wiki/Lucian_Freud%2C_grandson_of_Sigmund_Freud"
+    },
+    {
+      "text": "The Mona Lisa's eyebrows are missing — either never painted or removed by past restoration attempts.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Mona_Lisa%27s_eyebrows"
+    },
+    {
+      "text": "A maulstick helps steady the artist's hand by resting on the easel, allowing precise work on fine details.",
+      "source": "https://en.wikipedia.org/wiki/Painting_%26_Art"
+    },
+    {
+      "text": "The Neue Pinakothek in Munich focuses on European art of the 18th and 19th centuries.",
+      "source": "https://en.wikipedia.org/wiki/Neue_Pinakothek_in_Munich"
+    },
+    {
+      "text": "Constructivism started in Russia around 1913 and emphasized geometric abstraction and modern materials.",
+      "source": "https://en.wikipedia.org/wiki/Painting_%26_Art"
+    },
+    {
+      "text": "Pigment is the substance that gives paint its color, derived from minerals, plants, insects, or synthetic chemicals.",
+      "source": "https://en.wikipedia.org/wiki/Pigment"
+    },
+    {
+      "text": "Vermeer only completed about 34 paintings in his entire lifetime, working very slowly and meticulously.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Painting_%26_Art"
+    },
+    {
+      "text": "Silk screening (serigraphy) was used extensively by Andy Warhol to mass-produce images of celebrities and consumer goods.",
+      "source": "https://en.wikipedia.org/wiki/Silk_screening_(serigraphy)"
+    },
+    {
+      "text": "Paul Gauguin was born on June 7, 1848, in Paris, and later moved to Tahiti, where he created his most famous works.",
+      "month": 6,
+      "day": 7,
+      "source": "https://en.wikipedia.org/wiki/Paul_Gauguin"
+    },
+    {
+      "text": "Arches paper, made in France since 1492, is one of the most renowned watercolor papers in the world.",
+      "source": "https://en.wikipedia.org/wiki/Arches_paper%2C_made_in_France_since_1492"
+    },
+    {
+      "text": "The Pompidou Center's exposed, color-coded piping system — blue for air, green for water, yellow for electricity — is part of its design.",
+      "source": "https://en.wikipedia.org/wiki/Pompidou_Center%27s"
+    },
+    {
+      "text": "An underpainting is a preliminary layer of paint that establishes values and composition before final colors are applied.",
+      "source": "https://en.wikipedia.org/wiki/An_underpainting"
+    },
+    {
+      "text": "Marina Abramović's performance art piece 'The Artist Is Present' (2010) at MoMA lasted 736 hours over three months.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Artist_Is_Present"
+    },
+    {
+      "text": "Cerulean blue, first synthesized in 1805, became a favorite sky color among Impressionist painters.",
+      "source": "https://en.wikipedia.org/wiki/Cerulean_blue%2C_first_synthesized_in_1805"
+    },
+    {
+      "text": "The Getty Center in Los Angeles, designed by Richard Meier, opened in 1997 and houses European art from the Middle Ages onward.",
+      "source": "https://en.wikipedia.org/wiki/Getty_Center_in_Los_Angeles%2C_designed_by_Richard_Meier"
+    },
+    {
+      "text": "Caspar David Friedrich was a leading German Romantic painter known for contemplative landscapes featuring solitary figures.",
+      "source": "https://en.wikipedia.org/wiki/Caspar_David_Friedrich"
+    },
+    {
+      "text": "Plein air painters often use pochade boxes — compact, portable easels that hold paints, brushes, and a small panel.",
+      "source": "https://en.wikipedia.org/wiki/Painting_%26_Art"
+    },
+    {
+      "text": "Gustave Courbet's 'The Origin of the World' (1866) remained hidden in private collections for over a century.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Gustave_Courbet%27s"
+    },
+    {
+      "text": "Cold-pressed watercolor paper has a slightly textured surface, making it the most versatile and popular choice.",
+      "source": "https://en.wikipedia.org/wiki/Cold-pressed_watercolor_paper"
+    },
+    {
+      "text": "Claes Oldenburg created oversized sculptures of everyday objects like clothespins, spoons, and typewriter erasers.",
+      "source": "https://en.wikipedia.org/wiki/Claes_Oldenburg"
+    },
+    {
+      "text": "Georgia O'Keeffe moved to New Mexico in 1949 and found lasting inspiration in the desert landscape.",
+      "source": "https://en.wikipedia.org/wiki/Georgia_O%27Keeffe"
+    },
+    {
+      "text": "Dry brushing is a technique where a small amount of paint is applied with a nearly dry brush for textured effects.",
+      "source": "https://en.wikipedia.org/wiki/Dry_brushing"
+    },
+    {
+      "text": "Takashi Murakami's 'Superflat' style merges traditional Japanese art with anime and pop culture aesthetics.",
+      "source": "https://en.wikipedia.org/wiki/Takashi_Murakami%27s"
+    },
+    {
+      "text": "The Vatican Museums contain roughly 70,000 works, of which about 20,000 are on display at any given time.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Vatican_Museums_contain_roughly_70%2C000_works%2C_of_which_about_20%2C000"
+    },
+    {
+      "text": "Sienna pigment is named after the Tuscan city of Siena, where the clay deposits were first mined.",
+      "source": "https://en.wikipedia.org/wiki/Sienna_pigment"
+    },
+    {
+      "text": "Norman Rockwell was born on February 3, 1894, in New York City.",
+      "month": 2,
+      "day": 3,
+      "source": "https://en.wikipedia.org/wiki/Norman_Rockwell"
+    },
+    {
+      "text": "Action painting, a style associated with Abstract Expressionism, emphasizes the physical act of painting itself.",
+      "source": "https://en.wikipedia.org/wiki/Abstract_Expressionism"
+    },
+    {
+      "text": "Fan brushes are used for blending, creating texture effects like grass, hair, and clouds.",
+      "source": "https://en.wikipedia.org/wiki/Fan_brushes"
+    },
+    {
+      "text": "The Venus of Willendorf, a tiny limestone figure from about 25,000 BCE, is one of the oldest known artworks.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Venus_of_Willendorf%2C_a_tiny_limestone_figure_from_about_25%2C000_BCE"
+    },
+    {
+      "text": "Acrylic paint can be thinned with water but becomes water-resistant once dry, unlike watercolor.",
+      "source": "https://en.wikipedia.org/wiki/Acrylic_paint_can_be_thinned_with_water_but"
+    },
+    {
+      "text": "El Greco was born on October 1, 1541, in Crete and later settled in Toledo, Spain.",
+      "month": 10,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/El_Greco"
+    },
+    {
+      "text": "Thomas Kinkade marketed himself as the 'Painter of Light' and his prints appeared in an estimated 1 in 20 American homes.",
+      "source": "https://en.wikipedia.org/wiki/Thomas_Kinkade_marketed_himself_as_the_%27Painter_of_Light%27_and_his_prints"
+    },
+    {
+      "text": "A complementary color scheme uses colors opposite each other on the color wheel, like blue and orange, for high contrast.",
+      "source": "https://en.wikipedia.org/wiki/Painting_%26_Art"
+    },
+    {
+      "text": "Museum-quality framing uses acid-free mats and UV-protective glass to preserve artwork for decades.",
+      "source": "https://en.wikipedia.org/wiki/Painting_%26_Art"
+    },
+    {
+      "text": "Hieronymus Bosch's 'The Garden of Earthly Delights' triptych is filled with surreal imagery that still puzzles scholars today.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Hieronymus_Bosch%27s_%27The_Garden_of_Earthly_Delights%27_triptych"
+    },
+    {
+      "text": "Thinning acrylic paint with water beyond about 30% can weaken its binding properties, causing it to crack.",
+      "source": "https://en.wikipedia.org/wiki/Painting_%26_Art"
+    },
+    {
+      "text": "The Museo Nacional Centro de Arte Reina Sofía in Madrid houses Picasso's 'Guernica.'",
+      "source": "https://en.wikipedia.org/wiki/Museo_Nacional_Centro"
+    },
+    {
+      "text": "Kinetic art features movement as an integral part of the artwork, pioneered by artists like Calder and Jean Tinguely.",
+      "source": "https://en.wikipedia.org/wiki/Kinetic_art"
+    },
+    {
+      "text": "Cadmium yellow was first produced in the early 19th century and is prized for its bright, opaque color.",
+      "source": "https://en.wikipedia.org/wiki/Cadmium_yellow"
+    },
+    {
+      "text": "The Mona Lisa has her own mailbox at the Louvre because she receives so many letters from admirers.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Mona_Lisa"
+    },
+    {
+      "text": "Johannes Vermeer was born on October 31, 1632, in Delft, Dutch Republic.",
+      "month": 10,
+      "day": 31,
+      "source": "https://en.wikipedia.org/wiki/Johannes_Vermeer"
+    },
+    {
+      "text": "Conceptual art, emerging in the 1960s, prioritizes ideas over the finished visual product.",
+      "source": "https://en.wikipedia.org/wiki/Painting_%26_Art"
+    },
+    {
+      "text": "Grisaille is a painting technique executed entirely in shades of gray to simulate sculpture.",
+      "source": "https://en.wikipedia.org/wiki/Grisaille"
+    },
+    {
+      "text": "Damien Hirst's spot paintings number over 1,400 but most were painted by his assistants, not by Hirst himself.",
+      "source": "https://en.wikipedia.org/wiki/Damien_Hirst%27s_spot_paintings_number_over_1%2C400_but_most"
+    },
+    {
+      "text": "The Prix de Rome was a prestigious French art scholarship that funded study in Rome from 1663 to 1968.",
+      "source": "https://en.wikipedia.org/wiki/Prix_de_Rome"
+    },
+    {
+      "text": "Faber-Castell, founded in 1761, is one of the oldest and largest manufacturers of pencils and art supplies.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Faber-Castell"
+    },
+    {
+      "text": "A ground is any surface preparation applied to a support (canvas, panel, paper) before painting on it.",
+      "source": "https://en.wikipedia.org/wiki/A_ground"
+    },
+    {
+      "text": "Land art (Earth art) emerged in the 1960s, using natural landscapes as both the medium and canvas.",
+      "source": "https://en.wikipedia.org/wiki/Painting_%26_Art"
+    },
+    {
+      "text": "Toulouse-Lautrec was only 4 feet 8 inches tall due to a genetic condition that affected his bone growth.",
+      "source": "https://en.wikipedia.org/wiki/Toulouse-Lautrec"
+    },
+    {
+      "text": "Phthalo blue is an extremely strong, versatile synthetic pigment introduced in the 1930s.",
+      "source": "https://en.wikipedia.org/wiki/Phthalo_blue"
+    },
+    {
+      "text": "The Artsy platform connects collectors with galleries and has listed over 1 million artworks from 4,000 galleries.",
+      "source": "https://en.wikipedia.org/wiki/Artsy_platform_connects_collectors_with_galleries_and"
+    },
+    {
+      "text": "Paul Klee described drawing as 'taking a line for a walk,' emphasizing the playful nature of his art.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Paul_Klee"
+    },
+    {
+      "text": "Scumbling is a painting technique where a thin layer of lighter, opaque paint is brushed over a dried darker layer.",
+      "source": "https://en.wikipedia.org/wiki/Scumbling"
+    },
+    {
+      "text": "Édouard Manet was born on January 23, 1832, in Paris, and is often considered a bridge between Realism and Impressionism.",
+      "month": 1,
+      "day": 23,
+      "source": "https://en.wikipedia.org/wiki/%C3%89douard_Manet"
+    },
+    {
+      "text": "The National Gallery of Art's East Building in Washington, D.C. was designed by I.M. Pei and opened in 1978.",
+      "source": "https://en.wikipedia.org/wiki/National_Gallery_of_Art%27s_East_Building_in_Washington%2C_D.C"
+    },
+    {
+      "text": "Bristle brushes are classified by shape: flat, bright, round, filbert, fan, and rigger each serve different purposes.",
+      "source": "https://en.wikipedia.org/wiki/Bristle_brushes"
+    },
+    {
+      "text": "The Young British Artists (YBAs) movement in the 1990s included Damien Hirst and Tracey Emin and shocked the art world.",
+      "source": "https://en.wikipedia.org/wiki/Young_British_Artists"
+    },
+    {
+      "text": "Van Gogh created over 2,100 artworks in roughly a decade, including about 860 oil paintings.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Van_Gogh"
+    },
+    {
+      "text": "Matte medium is mixed with acrylic paint to reduce its glossy finish while maintaining its adhesive properties.",
+      "source": "https://en.wikipedia.org/wiki/Matte_medium"
+    },
+    {
+      "text": "The Broad museum in Los Angeles, designed by Diller Scofidio + Renfro, opened in 2015 with free general admission.",
+      "source": "https://en.wikipedia.org/wiki/Broad_museum_in_Los_Angeles%2C_designed_by_Diller_Scofidio_%2B_Renfro"
+    },
+    {
+      "text": "Sgraffito is a technique of scratching through a layer of paint to reveal the layer beneath.",
+      "source": "https://en.wikipedia.org/wiki/Sgraffito"
+    },
+    {
+      "text": "Gamblin Artists Colors, based in Portland, Oregon, is known for producing high-quality, responsibly made oil paints.",
+      "source": "https://en.wikipedia.org/wiki/Gamblin_Artists_Colors%2C_based_in_Portland%2C_Oregon"
+    },
+    {
+      "text": "The Salon des Refusés in 1863 displayed works rejected by the official Paris Salon, including Manet's scandalous 'Le Déjeuner sur l'herbe.'",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Salon"
+    },
+    {
+      "text": "Charcoal pencils provide more control than vine charcoal and come in soft, medium, and hard grades.",
+      "source": "https://en.wikipedia.org/wiki/Painting_%26_Art"
+    },
+    {
+      "text": "The Naïve art movement features self-taught artists whose work has a childlike simplicity and directness.",
+      "source": "https://en.wikipedia.org/wiki/Na%C3%AFve_art_movement"
+    },
+    {
+      "text": "Oil of spike lavender is a natural solvent that was used by painters before turpentine became common.",
+      "source": "https://en.wikipedia.org/wiki/Oil_of_spike_lavender"
+    },
+    {
+      "text": "Katsushika Hokusai created 'The Great Wave off Kanagawa' around 1831 as part of his 'Thirty-Six Views of Mount Fuji' series.",
+      "source": "https://en.wikipedia.org/wiki/Katsushika_Hokusai"
+    },
+    {
+      "text": "Installation art transforms an entire space into an immersive experience, engaging multiple senses.",
+      "source": "https://en.wikipedia.org/wiki/Painting_%26_Art"
+    },
+    {
+      "text": "Banksy has confirmed his works only through his website and official Instagram account, never revealing his face.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Banksy"
+    },
+    {
+      "text": "Venice red, also known as Venetian red, is an earth pigment made from nearly pure iron oxide.",
+      "source": "https://en.wikipedia.org/wiki/Venice_red%2C_also_known_as_Venetian_red"
+    },
+    {
+      "text": "The Doge's Palace in Venice features massive ceiling paintings by Tintoretto and Veronese.",
+      "source": "https://en.wikipedia.org/wiki/Doge%27s_Palace_in_Venice"
+    },
+    {
+      "text": "A rigger brush has long, thin bristles and was originally used by ship painters to paint rigging lines.",
+      "source": "https://en.wikipedia.org/wiki/A_rigger_brush"
+    },
+    {
+      "text": "William Turner was born on April 23, 1775, in London and is considered a precursor to Impressionism.",
+      "month": 4,
+      "day": 23,
+      "source": "https://en.wikipedia.org/wiki/William_Turner"
+    },
+    {
+      "text": "Photorealism emerged in the late 1960s, with artists creating paintings so detailed they resemble photographs.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Painting_%26_Art"
+    },
+    {
+      "text": "Art Deco, popular in the 1920s and 1930s, combined modernist styles with fine craftsmanship and rich materials.",
+      "source": "https://en.wikipedia.org/wiki/Art_Deco"
+    },
+    {
+      "text": "The Serpentine Galleries in London's Hyde Park commission a new temporary pavilion by a famous architect each summer.",
+      "source": "https://en.wikipedia.org/wiki/Serpentine_Galleries_in_London%27s_Hyde_Park"
+    },
+    {
+      "text": "Mars black is a synthetic iron oxide pigment that dries faster than ivory black in oil painting.",
+      "source": "https://en.wikipedia.org/wiki/Mars_black"
+    },
+    {
+      "text": "Édouard Manet's 'Olympia' caused a scandal in 1865 for depicting a nude woman gazing directly at the viewer.",
+      "source": "https://en.wikipedia.org/wiki/Painting_%26_Art"
+    },
+    {
+      "text": "Pen and wash is a drawing technique combining ink linework with watercolor or ink washes for tonal variety.",
+      "source": "https://en.wikipedia.org/wiki/Pen_and_wash"
+    },
+    {
+      "text": "Frida Kahlo's 'The Two Fridas' (1939) shows two versions of herself, exploring her dual heritage and heartbreak.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Two_Fridas"
+    },
+    {
+      "text": "Alberto Giacometti's sculpture 'L'Homme au doigt' sold for $141.3 million in 2015 at Christie's.",
+      "source": "https://en.wikipedia.org/wiki/Alberto_Giacometti%27s"
+    },
+    {
+      "text": "Winsor & Newton introduced the first moist watercolor pans in 1835, making outdoor painting far more convenient.",
+      "source": "https://en.wikipedia.org/wiki/Winsor_%26_Newton"
+    },
+    {
+      "text": "Symbolism in the late 19th century rejected realism and naturalism in favor of spiritual and dreamlike imagery.",
+      "source": "https://en.wikipedia.org/wiki/Symbolism_in_the"
+    },
+    {
+      "text": "A stay-wet palette keeps acrylic paints moist for hours or days by using a damp sponge under special paper.",
+      "source": "https://en.wikipedia.org/wiki/Painting_%26_Art"
+    },
+    {
+      "text": "Egon Schiele was born on June 12, 1890, in Tulln an der Donau, Austria.",
+      "month": 6,
+      "day": 12,
+      "source": "https://en.wikipedia.org/wiki/Egon_Schiele"
+    },
+    {
+      "text": "Aboriginal Australian dot painting is one of the oldest continuous art traditions, spanning over 40,000 years.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Aboriginal_Australian_dot_painting"
+    },
+    {
+      "text": "Flake white (lead white) produces warm, flexible paint films and was essential for Old Master painters.",
+      "source": "https://en.wikipedia.org/wiki/Flake_white_(lead_white)_produces_warm%2C_flexible_paint_films_and"
+    },
+    {
+      "text": "The MoMA in New York acquired Van Gogh's 'The Starry Night' in 1941 and it remains one of its most iconic works.",
+      "source": "https://en.wikipedia.org/wiki/MoMA_in_New_York"
+    },
+    {
+      "text": "Illusionism in art creates the appearance of reality, from ancient Roman wall paintings to modern trompe-l'oeil.",
+      "source": "https://en.wikipedia.org/wiki/Illusionism_in"
+    },
+    {
+      "text": "Schmincke, founded in 1881 in Germany, produces some of the world's finest artist-grade watercolors and oil paints.",
+      "source": "https://en.wikipedia.org/wiki/Schmincke"
+    },
+    {
+      "text": "René Magritte's 'The Treachery of Images' features a pipe with the text 'Ceci n'est pas une pipe' (This is not a pipe).",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Ren%C3%A9_Magritte%27s_%27The_Treachery_of_Images"
+    },
+    {
+      "text": "Rabbit skin glue has been used for centuries to size canvases before applying gesso and paint.",
+      "source": "https://en.wikipedia.org/wiki/Rabbit_skin_glue"
+    },
+    {
+      "text": "Light red is a warm, opaque pigment made from calcined yellow ochre and has been used for centuries.",
+      "source": "https://en.wikipedia.org/wiki/Light_red"
+    },
+    {
+      "text": "MoMA acquired its first artwork in 1929 — a gift of eight prints and one drawing.",
+      "source": "https://en.wikipedia.org/wiki/MoMA"
+    },
+    {
+      "text": "Gouache dries lighter than it appears when wet, which can surprise inexperienced painters.",
+      "source": "https://en.wikipedia.org/wiki/Painting_%26_Art"
+    },
+    {
+      "text": "JMW Turner left over 19,000 sketches and watercolors to the British nation upon his death in 1851.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/JMW_Turner"
+    },
+    {
+      "text": "Caran d'Ache, founded in Geneva in 1915, is known for premium colored pencils and pastels.",
+      "source": "https://en.wikipedia.org/wiki/Caran_d%27Ache"
+    },
+    {
+      "text": "International Museum Day is celebrated annually on May 18 to raise awareness of the importance of museums.",
+      "month": 5,
+      "day": 18,
+      "source": "https://en.wikipedia.org/wiki/International_Museum_Day"
+    },
+    {
+      "text": "Liquin is a popular alkyd medium that speeds up the drying time of oil paints and adds a glossy finish.",
+      "source": "https://en.wikipedia.org/wiki/Liquin"
+    },
+    {
+      "text": "The Lascaux cave paintings in France, discovered in 1940, are estimated to be around 17,000 years old.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Lascaux_cave_paintings_in_France"
+    },
+    {
+      "text": "Tonalism was a late 19th-century American art style emphasizing muted tones and atmospheric effects.",
+      "source": "https://en.wikipedia.org/wiki/Tonalism"
+    },
+    {
+      "text": "A filbert brush has a flat, oval-shaped tip and is versatile for blending, filling, and detail work.",
+      "source": "https://en.wikipedia.org/wiki/A_filbert_brush"
+    },
+    {
+      "text": "Cinnabar, a mercury sulfide mineral, was the source of the bright red pigment vermilion used since antiquity.",
+      "source": "https://en.wikipedia.org/wiki/Cinnabar%2C_a_mercury_sulfide_mineral"
+    },
+    {
+      "text": "The Ashmolean Museum in Oxford, founded in 1683, is the world's first university museum.",
+      "source": "https://en.wikipedia.org/wiki/Ashmolean_Museum_in_Oxford"
+    },
+    {
+      "text": "David Hockney was born on July 9, 1937, in Bradford, England.",
+      "month": 7,
+      "day": 9,
+      "source": "https://en.wikipedia.org/wiki/David_Hockney"
+    },
+    {
+      "text": "Assemblage art creates three-dimensional compositions from found objects, scraps, and everyday materials.",
+      "source": "https://en.wikipedia.org/wiki/Painting_%26_Art"
+    },
+    {
+      "text": "Indian yellow pigment was historically made from the urine of cows fed only mango leaves.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Indian_yellow_pigment"
+    },
+    {
+      "text": "A bone-dry canvas will reject paint — priming with gesso gives the surface 'tooth' for paint to grip.",
+      "source": "https://en.wikipedia.org/wiki/Painting_%26_Art"
+    },
+    {
+      "text": "Jean-Michel Basquiat was born on December 22, 1960, in Brooklyn, New York.",
+      "month": 12,
+      "day": 22,
+      "source": "https://en.wikipedia.org/wiki/Jean-Michel_Basquiat"
+    },
+    {
+      "text": "Cloisonnism is a Post-Impressionist style using bold, flat areas of color separated by dark contours.",
+      "source": "https://en.wikipedia.org/wiki/Cloisonnism"
+    },
+    {
+      "text": "Gamboge is a bright yellow pigment historically derived from tree resin in Southeast Asia.",
+      "source": "https://en.wikipedia.org/wiki/Gamboge"
+    },
+    {
+      "text": "The Scala Regia staircase in the Vatican was designed by Bernini using forced perspective to appear longer.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Scala_Regia_staircase_in_the_Vatican"
+    },
+    {
+      "text": "Hot-pressed watercolor paper has a smooth surface ideal for detailed work and fine linework.",
+      "source": "https://en.wikipedia.org/wiki/Hot-pressed_watercolor_paper"
+    },
+    {
+      "text": "Tamara de Lempicka was the leading Art Deco portrait painter of her generation, known for sleek, polished figures.",
+      "source": "https://en.wikipedia.org/wiki/Tamara_de_Lempicka"
+    },
+    {
+      "text": "Caput mortuum is a deep purplish-brown pigment made from iron oxide, popular in Old Master paintings.",
+      "source": "https://en.wikipedia.org/wiki/Caput_mortuum"
+    },
+    {
+      "text": "The Venice Biennale, established in 1895, is one of the oldest and most prestigious international art exhibitions.",
+      "month": 6,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/Venice_Biennale%2C_established_in_1895"
+    },
+    {
+      "text": "A maquette is a small-scale model or rough draft of an unfinished sculpture or architectural project.",
+      "source": "https://en.wikipedia.org/wiki/A_maquette"
+    },
+    {
+      "text": "Zorn's palette consists of just four colors — yellow ochre, cadmium red, ivory black, and titanium white.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Painting_%26_Art"
+    },
+    {
+      "text": "Neon art, pioneered by artists like Dan Flavin and Bruce Nauman, uses fluorescent and neon light tubes as a medium.",
+      "source": "https://en.wikipedia.org/wiki/Dan_Flavin_and_Bruce_Nauman"
+    },
+    {
+      "text": "Prussian blue, discovered accidentally in Berlin around 1704, was the first synthetic blue pigment.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Prussian_blue"
+    },
+    {
+      "text": "Hilma af Klint created abstract paintings starting in 1906, years before Kandinsky, but her work wasn't shown publicly until 1986.",
+      "source": "https://en.wikipedia.org/wiki/Hilma_af_Klint"
+    },
+    {
+      "text": "Drypoint engraving scratches lines directly into a metal plate, creating a soft, velvety line quality.",
+      "source": "https://en.wikipedia.org/wiki/Painting_%26_Art"
+    },
+    {
+      "text": "The Dulwich Picture Gallery in London, opened in 1817, was England's first purpose-built public art gallery.",
+      "source": "https://en.wikipedia.org/wiki/Dulwich_Picture_Gallery_in_London"
+    },
+    {
+      "text": "Raw umber pigment comes from natural earth containing iron oxide and manganese oxide.",
+      "source": "https://en.wikipedia.org/wiki/Painting_%26_Art"
+    },
+    {
+      "text": "The Documenta exhibition in Kassel, Germany, is held every five years and is one of the most important contemporary art events.",
+      "source": "https://en.wikipedia.org/wiki/Documenta_exhibition_in_Kassel%2C_Germany"
+    },
+    {
+      "text": "Auguste Renoir developed severe rheumatoid arthritis but continued painting with brushes strapped to his hands.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Auguste_Renoir"
+    },
+    {
+      "text": "Sennelier, a Parisian art supply company founded in 1887, has supplied paints to Picasso, Cézanne, and Monet.",
+      "source": "https://en.wikipedia.org/wiki/Sennelier%2C_a_Parisian_art_supply_company"
+    },
+    {
+      "text": "A tonking technique involves pressing newspaper onto a wet oil painting to remove excess paint and reduce texture.",
+      "source": "https://en.wikipedia.org/wiki/Painting_%26_Art"
+    },
+    {
+      "text": "Marcel Duchamp was born on July 28, 1887, near Blainville-Crevon, France.",
+      "month": 7,
+      "day": 28,
+      "source": "https://en.wikipedia.org/wiki/Marcel_Duchamp"
+    },
+    {
+      "text": "Naples yellow is one of the oldest synthetic pigments, used since at least 1500 BCE in Babylon.",
+      "source": "https://en.wikipedia.org/wiki/Naples_yellow"
+    },
+    {
+      "text": "Outsider art refers to work created by self-taught artists outside the mainstream art world.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Outsider_art_refers_to_work"
+    },
+    {
+      "text": "The Saatchi Gallery in London helped launch the careers of many Young British Artists in the 1990s.",
+      "source": "https://en.wikipedia.org/wiki/Saatchi_Gallery_in_London"
+    },
+    {
+      "text": "A medium in painting is any substance mixed with pigment to make paint easier to apply or modify its properties.",
+      "source": "https://en.wikipedia.org/wiki/A_medium_in_painting"
+    }
+  ]
+}

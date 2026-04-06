@@ -1,0 +1,1613 @@
+{
+  "hobby": "Football",
+  "facts": [
+    {
+      "text": "The NFL was founded on September 17, 1920 in Canton, Ohio, originally called the American Professional Football Association.",
+      "source": "https://en.wikipedia.org/wiki/NFL"
+    },
+    {
+      "text": "The Super Bowl is the most-watched annual sporting event in the United States, regularly drawing over 100 million viewers.",
+      "source": "https://en.wikipedia.org/wiki/Super_Bowl"
+    },
+    {
+      "text": "Tom Brady holds the record for most Super Bowl wins by a player with 7 championships.",
+      "source": "https://en.wikipedia.org/wiki/Tom_Brady_holds_the_record_for_most_Super_Bowl"
+    },
+    {
+      "text": "The Green Bay Packers are the only community-owned franchise in American professional sports, with over 360,000 shareholders.",
+      "source": "https://en.wikipedia.org/wiki/Green_Bay_Packers"
+    },
+    {
+      "text": "A regulation NFL football is made of cowhide leather and weighs between 14 and 15 ounces.",
+      "source": "https://en.wikipedia.org/wiki/A_regulation_NFL_football"
+    },
+    {
+      "text": "The Pittsburgh Steelers and New England Patriots are tied for the most Super Bowl wins by a franchise with 6 each.",
+      "source": "https://en.wikipedia.org/wiki/Pittsburgh_Steelers_and_New_England_Patriots"
+    },
+    {
+      "text": "The forward pass was legalized in 1906, fundamentally changing football from a purely running game.",
+      "source": "https://en.wikipedia.org/wiki/forward_pass"
+    },
+    {
+      "text": "Jerry Rice holds the NFL career records for receptions (1,549), receiving yards (22,895), and receiving touchdowns (197).",
+      "source": "https://en.wikipedia.org/wiki/Jerry_Rice"
+    },
+    {
+      "text": "The NFL draft was first held in 1936. The first overall pick was Jay Berwanger from the University of Chicago.",
+      "source": "https://en.wikipedia.org/wiki/NFL_draft"
+    },
+    {
+      "text": "A football field is 100 yards long with two 10-yard end zones, for a total of 120 yards.",
+      "source": "https://en.wikipedia.org/wiki/A_football_field"
+    },
+    {
+      "text": "Peyton Manning held the single-season passing touchdown record with 55 in 2013, later broken by Patrick Mahomes's era of play.",
+      "source": "https://en.wikipedia.org/wiki/Peyton_Manning"
+    },
+    {
+      "text": "The 1972 Miami Dolphins are the only team to complete a perfect season, going 17-0 including the Super Bowl.",
+      "source": "https://en.wikipedia.org/wiki/1972_Miami_Dolphins"
+    },
+    {
+      "text": "Walter Payton, nicknamed 'Sweetness,' rushed for 16,726 career yards and held the all-time rushing record for 18 years.",
+      "source": "https://en.wikipedia.org/wiki/Walter_Payton"
+    },
+    {
+      "text": "The Lambeau Leap — jumping into the stands after a touchdown — was started by LeRoy Butler in 1993.",
+      "source": "https://en.wikipedia.org/wiki/Lambeau_Leap_%E2%80%94_jumping_into_the_stands_after_a_touchdown_%E2%80%94"
+    },
+    {
+      "text": "The NFL's salary cap was introduced in 1994 to promote competitive balance among teams.",
+      "source": "https://en.wikipedia.org/wiki/NFL%27s_salary_cap"
+    },
+    {
+      "text": "Lawrence Taylor is widely considered the greatest defensive player in NFL history and revolutionized the linebacker position.",
+      "source": "https://en.wikipedia.org/wiki/Lawrence_Taylor"
+    },
+    {
+      "text": "The Vince Lombardi Trophy, awarded to the Super Bowl winner, is made by Tiffany & Co. and is valued at about $50,000.",
+      "source": "https://en.wikipedia.org/wiki/Vince_Lombardi_Trophy%2C_awarded_to_the_Super_Bowl_winner"
+    },
+    {
+      "text": "The longest field goal in NFL history is 66 yards, kicked by Justin Tucker of the Baltimore Ravens in 2021.",
+      "source": "https://en.wikipedia.org/wiki/longest_field_goal_in_NFL_history"
+    },
+    {
+      "text": "Jim Brown retired at age 29 while still at the peak of his career, averaging 5.2 yards per carry over 9 seasons.",
+      "source": "https://en.wikipedia.org/wiki/Jim_Brown"
+    },
+    {
+      "text": "The 'Immaculate Reception' by Franco Harris in 1972 is considered one of the greatest plays in NFL history.",
+      "source": "https://en.wikipedia.org/wiki/%27Immaculate_Reception%27_by_Franco_Harris"
+    },
+    {
+      "text": "An NFL game ball is inflated to between 12.5 and 13.5 pounds per square inch (PSI).",
+      "source": "https://en.wikipedia.org/wiki/An_NFL_game_ball"
+    },
+    {
+      "text": "The Dallas Cowboys are often called 'America's Team,' a nickname coined by NFL Films in 1978.",
+      "source": "https://en.wikipedia.org/wiki/Dallas_Cowboys"
+    },
+    {
+      "text": "Joe Montana went 4-0 in Super Bowls and never threw an interception in Super Bowl play.",
+      "source": "https://en.wikipedia.org/wiki/Joe_Montana"
+    },
+    {
+      "text": "The NFL regular season expanded from 16 games to 17 games starting in the 2021 season.",
+      "source": "https://en.wikipedia.org/wiki/NFL"
+    },
+    {
+      "text": "Deion Sanders is the only athlete to play in both a Super Bowl and a World Series.",
+      "source": "https://en.wikipedia.org/wiki/Deion_Sanders"
+    },
+    {
+      "text": "The 'Ice Bowl' — the 1967 NFL Championship Game between the Packers and Cowboys — was played in -13°F (-25°C) conditions.",
+      "source": "https://en.wikipedia.org/wiki/%27Ice_Bowl%27_%E2%80%94_the_1967_NFL_Championship_Game_between_the_Packers_and_Cowboys_%E2%80%94"
+    },
+    {
+      "text": "Emmitt Smith holds the NFL all-time rushing record with 18,355 career yards.",
+      "source": "https://en.wikipedia.org/wiki/Emmitt_Smith"
+    },
+    {
+      "text": "The two-point conversion was adopted by the NFL in 1994, having been used in college football since 1958.",
+      "source": "https://en.wikipedia.org/wiki/two-point_conversion"
+    },
+    {
+      "text": "Brett Favre started 297 consecutive regular-season games, one of the most remarkable iron-man streaks in NFL history.",
+      "source": "https://en.wikipedia.org/wiki/Brett_Favre"
+    },
+    {
+      "text": "The Chicago Bears were originally called the Decatur Staleys when they joined the league in 1920.",
+      "source": "https://en.wikipedia.org/wiki/Chicago_Bears"
+    },
+    {
+      "text": "Patrick Mahomes became the youngest quarterback to win both an MVP award and a Super Bowl.",
+      "source": "https://en.wikipedia.org/wiki/Patrick_Mahomes"
+    },
+    {
+      "text": "The NFL's overtime rules were changed in 2022 to guarantee both teams get a possession in playoff games.",
+      "source": "https://en.wikipedia.org/wiki/NFL%27s_overtime_rules"
+    },
+    {
+      "text": "Dick Butkus was so ferocious that opposing players have said they could hear him growling in the huddle.",
+      "source": "https://en.wikipedia.org/wiki/Dick_Butkus"
+    },
+    {
+      "text": "The longest touchdown pass in NFL history is 99 yards, a feat accomplished multiple times by different quarterback-receiver duos.",
+      "source": "https://en.wikipedia.org/wiki/longest_touchdown_pass_in_NFL_history"
+    },
+    {
+      "text": "Monday Night Football debuted on ABC in 1970 and became a cultural phenomenon hosted by Howard Cosell, Don Meredith, and Frank Gifford.",
+      "source": "https://en.wikipedia.org/wiki/Monday_Night_Football_debuted_on_ABC_in_1970_and"
+    },
+    {
+      "text": "The 'Hail Mary' pass got its name from Roger Staubach's 50-yard touchdown throw in a 1975 playoff game.",
+      "source": "https://en.wikipedia.org/wiki/Hail_Mary"
+    },
+    {
+      "text": "NFL teams employ about 90 players during training camp but must cut down to a 53-man roster before the season.",
+      "source": "https://en.wikipedia.org/wiki/Football"
+    },
+    {
+      "text": "The Pro Football Hall of Fame in Canton, Ohio has enshrined over 360 members since opening in 1963.",
+      "source": "https://en.wikipedia.org/wiki/Pro_Football_Hall_of_Fame_in_Canton%2C_Ohio"
+    },
+    {
+      "text": "Barry Sanders retired abruptly in 1999 at age 30, just 1,457 yards short of Walter Payton's all-time rushing record.",
+      "source": "https://en.wikipedia.org/wiki/Barry_Sanders"
+    },
+    {
+      "text": "The 'Steel Curtain' defense of the 1970s Pittsburgh Steelers is considered one of the greatest defenses in NFL history.",
+      "source": "https://en.wikipedia.org/wiki/%27Steel_Curtain%27_defense_of_the_1970s_Pittsburgh_Steelers"
+    },
+    {
+      "text": "A quarterback's passer rating can range from 0 to 158.3 in the NFL's complex formula.",
+      "source": "https://en.wikipedia.org/wiki/Football"
+    },
+    {
+      "text": "The Buffalo Bills are the only team to appear in four consecutive Super Bowls (1991-1994), losing all four.",
+      "source": "https://en.wikipedia.org/wiki/Buffalo_Bills"
+    },
+    {
+      "text": "Red Grange, 'The Galloping Ghost,' was football's first true superstar and helped legitimize professional football in the 1920s.",
+      "source": "https://en.wikipedia.org/wiki/Red_Grange%2C_%27The_Galloping_Ghost"
+    },
+    {
+      "text": "The NFL uses about 120 footballs per game — each team provides their own for when their offense is on the field.",
+      "source": "https://en.wikipedia.org/wiki/NFL"
+    },
+    {
+      "text": "The 'Purple People Eaters' was the nickname for the Minnesota Vikings' fearsome defensive line in the late 1960s and 1970s.",
+      "source": "https://en.wikipedia.org/wiki/%27Purple_People_Eaters"
+    },
+    {
+      "text": "An NFL end zone is 10 yards deep and 53⅓ yards wide.",
+      "source": "https://en.wikipedia.org/wiki/An_NFL_end_zone"
+    },
+    {
+      "text": "Drew Brees held the all-time passing yards record with 80,358 career yards before it was broken by Tom Brady.",
+      "source": "https://en.wikipedia.org/wiki/Drew_Brees_held_the_all-time_passing_yards_record_with_80%2C358_career_yards_before_it"
+    },
+    {
+      "text": "The 'Fearsome Foursome' referred to the Los Angeles Rams' dominant defensive line in the 1960s featuring Deacon Jones and Merlin Olsen.",
+      "source": "https://en.wikipedia.org/wiki/Fearsome_Foursome"
+    },
+    {
+      "text": "The NFL Combine is held annually in Indianapolis where draft prospects undergo physical and mental testing.",
+      "source": "https://en.wikipedia.org/wiki/NFL_Combine"
+    },
+    {
+      "text": "Reggie White, 'The Minister of Defense,' recorded 198 career sacks, second-most in NFL history.",
+      "source": "https://en.wikipedia.org/wiki/Reggie_White%2C_%27The_Minister_of_Defense"
+    },
+    {
+      "text": "The '12th Man' tradition at Seattle's CenturyLink Field has generated crowd noise so loud it registered on seismographs.",
+      "source": "https://en.wikipedia.org/wiki/%2712th_Man%27_tradition_at_Seattle%27s_CenturyLink_Field"
+    },
+    {
+      "text": "John Elway engineered 'The Drive' — a 98-yard touchdown march in the 1986 AFC Championship Game.",
+      "source": "https://en.wikipedia.org/wiki/John_Elway"
+    },
+    {
+      "text": "The shotgun formation was first used regularly by the San Francisco 49ers in the 1960s under coach Red Hickey.",
+      "source": "https://en.wikipedia.org/wiki/shotgun_formation"
+    },
+    {
+      "text": "O.J. Simpson was the first running back to rush for 2,000 yards in a single season, doing so in 1973 in just 14 games.",
+      "source": "https://en.wikipedia.org/wiki/O.J._Simpson"
+    },
+    {
+      "text": "The 'Tuck Rule Game' in 2002 is one of the most controversial plays in NFL history, benefiting Tom Brady and the Patriots.",
+      "source": "https://en.wikipedia.org/wiki/%27Tuck_Rule_Game"
+    },
+    {
+      "text": "NFL goalposts were moved from the goal line to the back of the end zone in 1974 to reduce injuries.",
+      "source": "https://en.wikipedia.org/wiki/NFL_goalposts"
+    },
+    {
+      "text": "Dan Marino threw for 5,084 yards and 48 touchdowns in 1984, records that stood for nearly two decades.",
+      "source": "https://en.wikipedia.org/wiki/Dan_Marino"
+    },
+    {
+      "text": "The 'West Coast Offense' was popularized by Bill Walsh with the San Francisco 49ers in the 1980s.",
+      "source": "https://en.wikipedia.org/wiki/%27West_Coast_Offense"
+    },
+    {
+      "text": "Night Train Lane set the single-season interception record with 14 picks in 1952 — his rookie year with only 12 games.",
+      "source": "https://en.wikipedia.org/wiki/Night_Train_Lane"
+    },
+    {
+      "text": "The average NFL career lasts only about 3.3 years, making it one of the shortest in professional sports.",
+      "source": "https://en.wikipedia.org/wiki/Football"
+    },
+    {
+      "text": "The 'Monsters of the Midway' nickname was shared by the University of Chicago and later adopted by the Chicago Bears.",
+      "source": "https://en.wikipedia.org/wiki/%27Monsters_of_the_Midway%27_nickname"
+    },
+    {
+      "text": "Bruce Smith holds the all-time sack record with 200 career sacks over 19 NFL seasons.",
+      "source": "https://en.wikipedia.org/wiki/Bruce_Smith"
+    },
+    {
+      "text": "The NFL's revenue sharing model distributes television money equally among all 32 teams.",
+      "source": "https://en.wikipedia.org/wiki/NFL%27s"
+    },
+    {
+      "text": "Peyton Manning is the only quarterback to win Super Bowls with two different franchises (Colts and Broncos).",
+      "source": "https://en.wikipedia.org/wiki/Peyton_Manning"
+    },
+    {
+      "text": "The 'Helmet Catch' by David Tyree in Super Bowl XLII helped the Giants upset the undefeated Patriots.",
+      "source": "https://en.wikipedia.org/wiki/%27Helmet_Catch%27_by_David_Tyree_in_Super_Bowl_XLII"
+    },
+    {
+      "text": "Vince Lombardi's famous quote 'Winning isn't everything; it's the only thing' became the mantra of competitive football.",
+      "source": "https://en.wikipedia.org/wiki/Vince_Lombardi%27s_famous_quote_%27Winning_isn%27t_everything%3B_it%27s_the_only_thing"
+    },
+    {
+      "text": "The instant replay challenge system was first introduced to the NFL in 1986, removed in 1992, and permanently reinstated in 1999.",
+      "source": "https://en.wikipedia.org/wiki/instant_replay_challenge_system"
+    },
+    {
+      "text": "Randy Moss set the single-season touchdown reception record with 23 in 2007 playing for the New England Patriots.",
+      "source": "https://en.wikipedia.org/wiki/Randy_Moss"
+    },
+    {
+      "text": "The NFL's oldest rivalry is between the Chicago Bears and Green Bay Packers, dating back to 1921.",
+      "source": "https://en.wikipedia.org/wiki/NFL%27s_oldest_rivalry"
+    },
+    {
+      "text": "A regulation football is 11 inches long and has a circumference of about 28 inches at the center.",
+      "source": "https://en.wikipedia.org/wiki/A_regulation_football"
+    },
+    {
+      "text": "The 'No-Name Defense' of the 1972 Dolphins earned their nickname because none of them were big-name stars, yet they were dominant.",
+      "source": "https://en.wikipedia.org/wiki/%27No-Name_Defense%27_of_the_1972_Dolphins"
+    },
+    {
+      "text": "Aaron Donald is widely considered the most dominant defensive player of the 2010s and 2020s, winning 3 Defensive Player of the Year awards.",
+      "source": "https://en.wikipedia.org/wiki/Aaron_Donald"
+    },
+    {
+      "text": "The 'Philly Special' — a trick play in Super Bowl LII — saw quarterback Nick Foles catch a touchdown pass.",
+      "source": "https://en.wikipedia.org/wiki/%27Philly_Special%27_%E2%80%94_a_trick_play_in_Super_Bowl_LII_%E2%80%94"
+    },
+    {
+      "text": "College football's Heisman Trophy has been awarded since 1935, named after coach John Heisman.",
+      "source": "https://en.wikipedia.org/wiki/College_football%27s_Heisman_Trophy"
+    },
+    {
+      "text": "The NFL draft is held over three days, with rounds 1 through 7, and typically features over 250 selections.",
+      "source": "https://en.wikipedia.org/wiki/NFL_draft"
+    },
+    {
+      "text": "The 'Legion of Boom' was the Seattle Seahawks' feared secondary featuring Richard Sherman, Earl Thomas, and Kam Chancellor.",
+      "source": "https://en.wikipedia.org/wiki/%27Legion_of_Boom"
+    },
+    {
+      "text": "Johnny Unitas held the record for consecutive games with a touchdown pass (47 games) for 52 years until Drew Brees broke it.",
+      "source": "https://en.wikipedia.org/wiki/Johnny_Unitas"
+    },
+    {
+      "text": "The 'Fail Mary' — a controversial call on a Hail Mary play during the 2012 replacement referee debacle — hastened the return of regular officials.",
+      "source": "https://en.wikipedia.org/wiki/Fail_Mary"
+    },
+    {
+      "text": "The first televised NFL game was on October 22, 1939, when the Brooklyn Dodgers played the Philadelphia Eagles.",
+      "source": "https://en.wikipedia.org/wiki/first_televised_NFL_game"
+    },
+    {
+      "text": "LaDainian Tomlinson scored 31 touchdowns in 2006, the single-season record for total touchdowns.",
+      "source": "https://en.wikipedia.org/wiki/LaDainian_Tomlinson"
+    },
+    {
+      "text": "The 'Greatest Show on Turf' described the high-powered St. Louis Rams offense that won Super Bowl XXXIV.",
+      "source": "https://en.wikipedia.org/wiki/%27Greatest_Show_on_Turf%27_described_the_high-powered_St._Louis_Rams_offense_that"
+    },
+    {
+      "text": "An NFL roster can carry up to 53 players on the active roster and 16 on the practice squad.",
+      "source": "https://en.wikipedia.org/wiki/An_NFL"
+    },
+    {
+      "text": "The 'Miracle at the Meadowlands' in 1978 saw a fumbled handoff lead to a game-winning return by the Eagles' Herman Edwards.",
+      "source": "https://en.wikipedia.org/wiki/%27Miracle_at_the_Meadowlands"
+    },
+    {
+      "text": "Terry Bradshaw led the Pittsburgh Steelers to four Super Bowl victories in the 1970s.",
+      "source": "https://en.wikipedia.org/wiki/Terry_Bradshaw"
+    },
+    {
+      "text": "The NFL's first Black head coach in the modern era was Art Shell, hired by the Raiders in 1989.",
+      "source": "https://en.wikipedia.org/wiki/NFL%27s_first_Black_head_coach_in_the_modern_era"
+    },
+    {
+      "text": "The 'Minneapolis Miracle' — Stefon Diggs's walk-off touchdown in the 2018 NFC Divisional Playoff — is one of the greatest playoff moments ever.",
+      "source": "https://en.wikipedia.org/wiki/Minneapolis_Miracle"
+    },
+    {
+      "text": "NFL footballs are nicknamed 'pigskins' even though they've been made of cowhide since the 1950s.",
+      "source": "https://en.wikipedia.org/wiki/NFL_footballs"
+    },
+    {
+      "text": "The longest play in NFL history is a 109-yard missed field goal return by Antonio Cromartie in 2007.",
+      "source": "https://en.wikipedia.org/wiki/longest_play_in_NFL_history"
+    },
+    {
+      "text": "Gale Sayers scored 6 touchdowns in a single game against the San Francisco 49ers in 1965.",
+      "source": "https://en.wikipedia.org/wiki/Gale_Sayers"
+    },
+    {
+      "text": "The 'Catch' by Dwight Clark in the 1981 NFC Championship Game launched the San Francisco 49ers dynasty.",
+      "source": "https://en.wikipedia.org/wiki/%27Catch%27_by_Dwight_Clark_in_the_1981_NFC_Championship_Game"
+    },
+    {
+      "text": "NFL referees are part-time employees and hold other full-time jobs during the offseason.",
+      "source": "https://en.wikipedia.org/wiki/NFL_referees"
+    },
+    {
+      "text": "The 'Butt Fumble' by Mark Sanchez in 2012 was voted the worst play in NFL history by ESPN viewers.",
+      "source": "https://en.wikipedia.org/wiki/%27Butt_Fumble%27_by_Mark_Sanchez"
+    },
+    {
+      "text": "mean Joe Greene's famous Coca-Cola commercial from 1979 is considered one of the greatest TV ads ever made.",
+      "source": "https://en.wikipedia.org/wiki/mean_Joe_Greene%27s_famous_Coca-Cola_commercial_from_1979"
+    },
+    {
+      "text": "The college football playoff expanded from 4 teams to 12 teams starting in the 2024-25 season.",
+      "source": "https://en.wikipedia.org/wiki/Football"
+    },
+    {
+      "text": "Coach Bill Belichick has won more games than any other head coach in NFL history including postseason.",
+      "source": "https://en.wikipedia.org/wiki/Coach_Bill_Belichick"
+    },
+    {
+      "text": "The 'Doomsday Defense' was the nickname for the Dallas Cowboys' dominant defense in the 1970s.",
+      "source": "https://en.wikipedia.org/wiki/%27Doomsday_Defense"
+    },
+    {
+      "text": "Adrian Peterson rushed for 296 yards against the San Diego Chargers in 2007, the single-game rushing record at the time.",
+      "source": "https://en.wikipedia.org/wiki/Adrian_Peterson"
+    },
+    {
+      "text": "The first Super Bowl in 1967 was played between the Green Bay Packers and Kansas City Chiefs, with the Packers winning 35-10.",
+      "source": "https://en.wikipedia.org/wiki/first_Super_Bowl_in_1967"
+    },
+    {
+      "text": "Derrick Henry stands 6'3\" and weighs 247 pounds, making him one of the largest and most powerful running backs in NFL history.",
+      "source": "https://en.wikipedia.org/wiki/Derrick_Henry"
+    },
+    {
+      "text": "The 'Prevent Defense' is a controversial defensive alignment that many fans believe prevents teams from winning.",
+      "source": "https://en.wikipedia.org/wiki/%27Prevent_Defense"
+    },
+    {
+      "text": "NFL teams are allowed 3 timeouts per half, each lasting up to 2 minutes during televised games.",
+      "source": "https://en.wikipedia.org/wiki/NFL_teams"
+    },
+    {
+      "text": "Calvin Johnson, nicknamed 'Megatron,' retired at age 30 despite being one of the most physically gifted receivers ever.",
+      "source": "https://en.wikipedia.org/wiki/Calvin_Johnson"
+    },
+    {
+      "text": "The 'Terrible Towel' has been a symbol of the Pittsburgh Steelers and their fans since 1975.",
+      "source": "https://en.wikipedia.org/wiki/%27Terrible_Towel"
+    },
+    {
+      "text": "The NFL expanded to 32 teams in 2002 when the Houston Texans joined the league.",
+      "source": "https://en.wikipedia.org/wiki/NFL_expanded_to_32_teams_in_2002_when_the_Houston_Texans"
+    },
+    {
+      "text": "Ray Lewis played 17 seasons for the Baltimore Ravens and is considered one of the greatest middle linebackers ever.",
+      "source": "https://en.wikipedia.org/wiki/Ray_Lewis_played_17_seasons_for_the_Baltimore_Ravens_and"
+    },
+    {
+      "text": "The 'Lombardi Sweep' — the Packers' famous power running play — was the signature play of Vince Lombardi's offense.",
+      "source": "https://en.wikipedia.org/wiki/%27Lombardi_Sweep%27_%E2%80%94_the_Packers%27_famous_power_running_play_%E2%80%94"
+    },
+    {
+      "text": "In 2007, the New England Patriots went 16-0 in the regular season but lost to the New York Giants in Super Bowl XLII.",
+      "source": "https://en.wikipedia.org/wiki/New_England_Patriots"
+    },
+    {
+      "text": "The 'Beast Quake' run by Marshawn Lynch in the 2011 playoffs broke 9 tackles on a 67-yard touchdown run.",
+      "source": "https://en.wikipedia.org/wiki/%27Beast_Quake"
+    },
+    {
+      "text": "Travis Kelce has redefined the tight end position with his receiving ability and holds multiple postseason records for tight ends.",
+      "source": "https://en.wikipedia.org/wiki/Travis_Kelce"
+    },
+    {
+      "text": "The first indoor Super Bowl was Super Bowl VIII in 1974, played at Rice Stadium in Houston's Astrodome area.",
+      "source": "https://en.wikipedia.org/wiki/first_indoor_Super_Bowl"
+    },
+    {
+      "text": "Deacon Jones coined the term 'sack' for tackling the quarterback behind the line of scrimmage.",
+      "source": "https://en.wikipedia.org/wiki/Deacon_Jones"
+    },
+    {
+      "text": "The 'Music City Miracle' — a lateral-filled kickoff return by the Tennessee Titans — is one of the wildest playoff finishes ever.",
+      "source": "https://en.wikipedia.org/wiki/%27Music_City_Miracle%27_%E2%80%94_a_lateral-filled_kickoff_return_by_the_Tennessee_Titans_%E2%80%94"
+    },
+    {
+      "text": "NFL stadiums can seat between 61,500 (Chicago's Soldier Field) and 100,240 (MetLife Stadium for special events).",
+      "source": "https://en.wikipedia.org/wiki/Chicago%27s_Soldier_Field)_and_100"
+    },
+    {
+      "text": "Jim Thorpe, one of the greatest athletes of the 20th century, was the first president of the NFL (then APFA) in 1920.",
+      "source": "https://en.wikipedia.org/wiki/Jim_Thorpe%2C_one_of_the_greatest_athletes_of_the_20th_century"
+    },
+    {
+      "text": "The 'Roughing the Passer' rule has been expanded over the years to protect quarterbacks from dangerous hits.",
+      "source": "https://en.wikipedia.org/wiki/%27Roughing_the_Passer%27_rule"
+    },
+    {
+      "text": "Tony Gonzalez retired as the all-time leader in receptions and receiving yards for tight ends.",
+      "source": "https://en.wikipedia.org/wiki/Tony_Gonzalez"
+    },
+    {
+      "text": "The Wildcat formation, popularized by the 2008 Miami Dolphins, features a direct snap to a running back instead of the quarterback.",
+      "source": "https://en.wikipedia.org/wiki/Wildcat_formation%2C_popularized_by_the_2008_Miami_Dolphins"
+    },
+    {
+      "text": "The average NFL player weighs about 245 pounds and stands 6 feet 2 inches tall.",
+      "source": "https://en.wikipedia.org/wiki/Football"
+    },
+    {
+      "text": "The 'Bountygate' scandal in 2012 revealed that the New Orleans Saints had a pay-for-injury system targeting opposing players.",
+      "source": "https://en.wikipedia.org/wiki/%27Bountygate%27_scandal_in_2012_revealed_that_the_New_Orleans_Saints"
+    },
+    {
+      "text": "George Halas, 'Papa Bear,' founded the Chicago Bears and served as head coach for 40 seasons.",
+      "source": "https://en.wikipedia.org/wiki/George_Halas%2C_%27Papa_Bear"
+    },
+    {
+      "text": "The 'Guarantee' by Joe Namath that the Jets would win Super Bowl III is considered one of the greatest moments in sports history.",
+      "source": "https://en.wikipedia.org/wiki/%27Guarantee%27_by_Joe_Namath_that_the_Jets_would_win_Super_Bowl_III"
+    },
+    {
+      "text": "Aaron Rodgers has the highest career passer rating in NFL history among quarterbacks with significant playing time.",
+      "source": "https://en.wikipedia.org/wiki/Aaron_Rodgers"
+    },
+    {
+      "text": "The Indianapolis Colts infamously relocated from Baltimore in the middle of the night on March 29, 1984.",
+      "source": "https://en.wikipedia.org/wiki/Indianapolis_Colts"
+    },
+    {
+      "text": "The NFL uses a proprietary brand of Wilson footballs, with each ball hand-crafted in Ada, Ohio.",
+      "source": "https://en.wikipedia.org/wiki/NFL"
+    },
+    {
+      "text": "Ed Reed holds the record for longest interception return at 107 yards.",
+      "source": "https://en.wikipedia.org/wiki/Ed_Reed"
+    },
+    {
+      "text": "The 'Deflategate' controversy in 2015 resulted in Tom Brady being suspended for four games.",
+      "source": "https://en.wikipedia.org/wiki/Tom_Brady"
+    },
+    {
+      "text": "Chuck Bednarik was the last true two-way player in the NFL, playing both center and linebacker for the Eagles through 1962.",
+      "source": "https://en.wikipedia.org/wiki/Chuck_Bednarik"
+    },
+    {
+      "text": "The NFL Scouting Combine has been held in Indianapolis since 1987.",
+      "source": "https://en.wikipedia.org/wiki/NFL_Scouting_Combine"
+    },
+    {
+      "text": "Lamar Jackson became the second unanimous NFL MVP in 2019 and won the award again in 2023.",
+      "source": "https://en.wikipedia.org/wiki/Lamar_Jackson"
+    },
+    {
+      "text": "The 'Double Doink' — a missed field goal by the Bears' Cody Parkey in the 2019 playoffs — hit both the upright and crossbar.",
+      "source": "https://en.wikipedia.org/wiki/Double_Doink"
+    },
+    {
+      "text": "Don Shula holds the record for most wins as an NFL head coach with 347.",
+      "source": "https://en.wikipedia.org/wiki/Don_Shula_holds_the_record_for_most"
+    },
+    {
+      "text": "The 'Fog Bowl' in 1988 was a playoff game between the Bears and Eagles played in such thick fog that fans couldn't see the field.",
+      "source": "https://en.wikipedia.org/wiki/%27Fog_Bowl"
+    },
+    {
+      "text": "Christian McCaffrey is one of only three players in NFL history to record 1,000 rushing and 1,000 receiving yards in a season.",
+      "source": "https://en.wikipedia.org/wiki/Christian_McCaffrey"
+    },
+    {
+      "text": "The NFL's TV contracts are worth over $110 billion through 2033, making it the most valuable sports league in the world.",
+      "source": "https://en.wikipedia.org/wiki/NFL%27s_TV_contracts"
+    },
+    {
+      "text": "The 'Kick Six' — Chris Davis's 109-yard missed field goal return in the 2013 Iron Bowl — is one of college football's greatest plays.",
+      "source": "https://en.wikipedia.org/wiki/%27Kick_Six%27_%E2%80%94_Chris_Davis%27s_109-yard_missed_field_goal_return_in_the_2013_Iron_Bowl_%E2%80%94"
+    },
+    {
+      "text": "Mike Ditka is the only person to win a Super Bowl as a player, assistant coach, and head coach.",
+      "source": "https://en.wikipedia.org/wiki/Mike_Ditka"
+    },
+    {
+      "text": "The RPO (Run-Pass Option) has become one of the most popular offensive concepts in modern football.",
+      "source": "https://en.wikipedia.org/wiki/RPO_(Run-Pass_Option)"
+    },
+    {
+      "text": "The NFL's concussion protocol was significantly strengthened after research linked football to chronic traumatic encephalopathy (CTE).",
+      "source": "https://en.wikipedia.org/wiki/NFL%27s_concussion_protocol"
+    },
+    {
+      "text": "Bo Jackson was named the greatest athlete of all time by ESPN, excelling in both professional football and baseball.",
+      "source": "https://en.wikipedia.org/wiki/Bo_Jackson"
+    },
+    {
+      "text": "The 'Greatest Game Ever Played' — the 1958 NFL Championship between the Colts and Giants — went to sudden-death overtime for the first time.",
+      "source": "https://en.wikipedia.org/wiki/Greatest_Game_Ever_Played"
+    },
+    {
+      "text": "Each NFL team plays 6 games against division rivals, 4 against another division in their conference, 4 against a division from the other conference, 2 interconference games based on prior year's finish, and 1 game against a cross-conference opponent with a matching record.",
+      "source": "https://en.wikipedia.org/wiki/Each_NFL"
+    },
+    {
+      "text": "J.J. Watt won 3 Defensive Player of the Year awards in his first 5 full seasons, dominating like few defensive players before him.",
+      "source": "https://en.wikipedia.org/wiki/J.J._Watt"
+    },
+    {
+      "text": "The 'Polamalu Rule' and other rules were inspired by Troy Polamalu's unique and aggressive style of play at safety.",
+      "source": "https://en.wikipedia.org/wiki/%27Polamalu_Rule%27_and_other_rules"
+    },
+    {
+      "text": "The NFL uses Hawk-Eye technology and multiple camera angles for replay reviews on scoring plays and turnovers.",
+      "source": "https://en.wikipedia.org/wiki/NFL"
+    },
+    {
+      "text": "Joe Burrow led LSU to an undefeated season and national championship in 2019, throwing 60 touchdown passes.",
+      "source": "https://en.wikipedia.org/wiki/Joe_Burrow"
+    },
+    {
+      "text": "The longest overtime game in NFL history was a playoff game between the Dolphins and Chiefs on Christmas Day 2021, lasting 82 minutes and 8 seconds.",
+      "source": "https://en.wikipedia.org/wiki/longest_overtime_game_in_NFL_history"
+    },
+    {
+      "text": "The 'Rooney Rule' requires NFL teams to interview minority candidates for head coaching and senior front office positions.",
+      "source": "https://en.wikipedia.org/wiki/Rooney_Rule"
+    },
+    {
+      "text": "Tyreek Hill has been clocked at 23.24 mph while carrying the football, making him one of the fastest players in NFL history.",
+      "source": "https://en.wikipedia.org/wiki/Tyreek_Hill"
+    },
+    {
+      "text": "The NFL's first Black quarterback to start a Super Bowl was Doug Williams, who won MVP in Super Bowl XXII with 340 passing yards.",
+      "source": "https://en.wikipedia.org/wiki/NFL%27s_first_Black_quarterback_to_start_a_Super_Bowl"
+    },
+    {
+      "text": "The huddle was reportedly invented by Paul Hubbard, a deaf quarterback at Gallaudet University, so opposing teams couldn't read his sign language.",
+      "source": "https://en.wikipedia.org/wiki/huddle"
+    },
+    {
+      "text": "Jason Kelce's speech on the steps of the Philadelphia Museum of Art after winning Super Bowl LII became an iconic moment.",
+      "source": "https://en.wikipedia.org/wiki/Jason_Kelce%27s"
+    },
+    {
+      "text": "A touchback on a kickoff places the ball at the 25-yard line as of a 2016 rule change, previously set at the 20.",
+      "source": "https://en.wikipedia.org/wiki/Football"
+    },
+    {
+      "text": "The NFL expanded its playoff field from 12 to 14 teams starting with the 2020 season, adding one wild card per conference.",
+      "source": "https://en.wikipedia.org/wiki/NFL"
+    },
+    {
+      "text": "Russell Wilson was the shortest quarterback to win a Super Bowl in the modern era at 5'11\".",
+      "source": "https://en.wikipedia.org/wiki/Russell_Wilson"
+    },
+    {
+      "text": "The Washington Commanders have changed their name three times in franchise history.",
+      "source": "https://en.wikipedia.org/wiki/Washington_Commanders"
+    },
+    {
+      "text": "The 'Madden Curse' refers to the superstition that players featured on the cover of the Madden NFL video game will suffer injuries or poor seasons.",
+      "source": "https://en.wikipedia.org/wiki/Madden_Curse"
+    },
+    {
+      "text": "George Blanda played 26 NFL seasons, from 1949 to 1975, the longest career in league history.",
+      "source": "https://en.wikipedia.org/wiki/George_Blanda"
+    },
+    {
+      "text": "The 'Elway Cross' was the iconic helicopter play in Super Bowl XXXII where John Elway dove headfirst for a first down.",
+      "source": "https://en.wikipedia.org/wiki/%27Elway_Cross"
+    },
+    {
+      "text": "College football's Bowl Championship Series (BCS) ran from 1998 to 2013 before being replaced by the College Football Playoff.",
+      "source": "https://en.wikipedia.org/wiki/College_football%27s_Bowl_Championship_Series_(BCS)"
+    },
+    {
+      "text": "Richard Sherman's postgame interview after the 2014 NFC Championship Game became one of the most viral moments in sports media.",
+      "source": "https://en.wikipedia.org/wiki/Richard_Sherman%27s_postgame_interview_after_the_2014_NFC_Championship_Game"
+    },
+    {
+      "text": "The NFL uses over 700 game officials throughout the season, all of whom must pass annual fitness tests.",
+      "source": "https://en.wikipedia.org/wiki/NFL"
+    },
+    {
+      "text": "Davante Adams set the Packers single-season receiving touchdown record in 2020 with 18 touchdowns.",
+      "source": "https://en.wikipedia.org/wiki/Davante_Adams"
+    },
+    {
+      "text": "The first Super Bowl halftime show to feature a major pop act was Super Bowl XXVII in 1993 with Michael Jackson.",
+      "source": "https://en.wikipedia.org/wiki/first_Super_Bowl_halftime_show_to_feature_a_major_pop_act"
+    },
+    {
+      "text": "The 'Annexation of Puerto Rico' in the movie Little Giants is based on a real trick play called the fumblerooski.",
+      "source": "https://en.wikipedia.org/wiki/%27Annexation_of_Puerto_Rico%27_in_the_movie_Little_Giants"
+    },
+    {
+      "text": "Cooper Kupp won the receiving Triple Crown in 2021, leading the NFL in receptions, receiving yards, and receiving touchdowns.",
+      "source": "https://en.wikipedia.org/wiki/Cooper_Kupp"
+    },
+    {
+      "text": "The NFL's franchise tag allows teams to retain a player for one year at a salary based on the top players at their position.",
+      "source": "https://en.wikipedia.org/wiki/NFL%27s"
+    },
+    {
+      "text": "CJ Stroud became one of the most successful rookie quarterbacks in NFL history, leading the Texans to a playoff win in 2024.",
+      "source": "https://en.wikipedia.org/wiki/CJ_Stroud"
+    },
+    {
+      "text": "The 'Heisman Pose' — the stiff-arm stance — is based on the statue that adorns the Heisman Trophy.",
+      "source": "https://en.wikipedia.org/wiki/%27Heisman_Pose%27_%E2%80%94_the_stiff-arm_stance_%E2%80%94"
+    },
+    {
+      "text": "The NFL has held regular-season games in London since 2007 as part of its international series.",
+      "source": "https://en.wikipedia.org/wiki/NFL"
+    },
+    {
+      "text": "Eric Dickerson rushed for 2,105 yards in 1984, setting the single-season rushing record that still stands.",
+      "source": "https://en.wikipedia.org/wiki/Eric_Dickerson"
+    },
+    {
+      "text": "Bobby Wagner has been selected to the Pro Bowl in nearly every season of his career, cementing his status as an all-time great linebacker.",
+      "source": "https://en.wikipedia.org/wiki/Bobby_Wagner"
+    },
+    {
+      "text": "The NFL's Thursday Night Football package moved to Amazon Prime Video exclusively starting in 2022.",
+      "source": "https://en.wikipedia.org/wiki/NFL%27s_Thursday_Night_Football"
+    },
+    {
+      "text": "The 'Philly Special' play in Super Bowl LII was originally called 'Philly Philly' in the Eagles' playbook.",
+      "source": "https://en.wikipedia.org/wiki/%27Philly_Special%27_play_in_Super_Bowl_LII"
+    },
+    {
+      "text": "A standard NFL season runs from early September through early February, spanning approximately 5 months.",
+      "source": "https://en.wikipedia.org/wiki/Football"
+    },
+    {
+      "text": "The 'Blooper Bowl' — Super Bowl LIII between the Patriots and Rams — was the lowest-scoring Super Bowl ever at 13-3.",
+      "source": "https://en.wikipedia.org/wiki/%27Blooper_Bowl%27_%E2%80%94_Super_Bowl_LIII_between_the_Patriots_and_Rams_%E2%80%94"
+    },
+    {
+      "text": "Odell Beckham Jr.'s one-handed touchdown catch against the Cowboys in 2014 is considered one of the greatest catches in NFL history.",
+      "source": "https://en.wikipedia.org/wiki/Odell_Beckham_Jr.%27s_one-handed_touchdown_catch_against_the_Cowboys_in_2014"
+    },
+    {
+      "text": "The average cost of a 30-second Super Bowl commercial has grown from $42,000 in 1967 to over $7 million in recent years.",
+      "source": "https://en.wikipedia.org/wiki/average_cost_of_a_30-second_Super_Bowl_commercial"
+    },
+    {
+      "text": "The 'Dome Patrol' was the nickname for the New Orleans Saints' linebacker corps in the early 1990s.",
+      "source": "https://en.wikipedia.org/wiki/%27Dome_Patrol"
+    },
+    {
+      "text": "Patrick Mahomes led the Chiefs to back-to-back Super Bowl victories in 2023 and 2024.",
+      "source": "https://en.wikipedia.org/wiki/Patrick_Mahomes"
+    },
+    {
+      "text": "Flag football was added to the 2028 Los Angeles Olympics, marking the first time football will be an Olympic sport.",
+      "source": "https://en.wikipedia.org/wiki/Flag_football"
+    },
+    {
+      "text": "The 'Play 60' initiative encourages kids to be active for 60 minutes daily and is the NFL's signature youth health campaign.",
+      "source": "https://en.wikipedia.org/wiki/%27Play_60%27_initiative_encourages_kids_to_be_active_for_60_minutes_daily_and"
+    },
+    {
+      "text": "Peyton Manning's 'Omaha' audible call at the line of scrimmage became so famous that the city of Omaha embraced it as a marketing slogan.",
+      "source": "https://en.wikipedia.org/wiki/Peyton_Manning%27s_%27Omaha%27_audible_call_at_the_line_of_scrimmage"
+    },
+    {
+      "text": "Walter Camp is known as the 'Father of American Football' for establishing the line of scrimmage, the snap, and the downs system.",
+      "source": "https://en.wikipedia.org/wiki/Walter_Camp"
+    },
+    {
+      "text": "The NFL's youngest franchise is the Houston Texans, who began play in 2002.",
+      "source": "https://en.wikipedia.org/wiki/NFL%27s_youngest_franchise"
+    },
+    {
+      "text": "Josh Allen became known for his ability to hurdle defenders, an unusual skill for a 6'5\" quarterback.",
+      "source": "https://en.wikipedia.org/wiki/Josh_Allen"
+    },
+    {
+      "text": "The black stripe on the nose of many NFL players is called eye black and is used to reduce glare from sunlight and stadium lights.",
+      "source": "https://en.wikipedia.org/wiki/black_stripe_on_the_nose_of_many_NFL_players"
+    },
+    {
+      "text": "Devin Hester holds the record for most return touchdowns (punt and kickoff combined) in NFL history with 20.",
+      "source": "https://en.wikipedia.org/wiki/Devin_Hester"
+    },
+    {
+      "text": "The average NFL game lasts about 3 hours and 12 minutes, but the ball is actually in play for only about 11 minutes.",
+      "source": "https://en.wikipedia.org/wiki/average_NFL_game_lasts_about_3_hours_and_12_minutes%2C_but_the_ball"
+    },
+    {
+      "text": "Super Bowl rings are custom-designed for each winning team and typically feature diamonds and the team's logo.",
+      "source": "https://en.wikipedia.org/wiki/Super_Bowl_rings"
+    },
+    {
+      "text": "The NFL's 'Taunting' penalty was emphasized in 2021, drawing criticism from players and fans for being too strict.",
+      "source": "https://en.wikipedia.org/wiki/NFL%27s_%27Taunting%27_penalty"
+    },
+    {
+      "text": "Saquon Barkley rushed for over 2,000 yards in 2024, joining an elite group of running backs to reach that milestone.",
+      "source": "https://en.wikipedia.org/wiki/Saquon_Barkley"
+    },
+    {
+      "text": "The NFL uses GPS tracking chips in players' shoulder pads to collect data on speed, distance, and acceleration.",
+      "source": "https://en.wikipedia.org/wiki/NFL"
+    },
+    {
+      "text": "The 'Punt, Pass & Kick' competition has been an NFL youth program since 1961.",
+      "source": "https://en.wikipedia.org/wiki/%27Punt%2C_Pass_%26_Kick%27_competition"
+    },
+    {
+      "text": "Jalen Hurts became only the sixth quarterback in NFL history to rush for 10+ touchdowns and throw for 20+ in the same season.",
+      "source": "https://en.wikipedia.org/wiki/Jalen_Hurts"
+    },
+    {
+      "text": "The concept of 'garbage time' statistics refers to stats accumulated when the outcome of a game is already decided.",
+      "source": "https://en.wikipedia.org/wiki/Football"
+    },
+    {
+      "text": "The 'Bus' was Jerome Bettis's nickname, and he retired after winning Super Bowl XL in his hometown of Detroit.",
+      "source": "https://en.wikipedia.org/wiki/%27Bus"
+    },
+    {
+      "text": "NFL players consume an average of 4,000 to 6,000 calories per day during the season to maintain their weight.",
+      "source": "https://en.wikipedia.org/wiki/Football"
+    },
+    {
+      "text": "The longest winning streak in NFL history is 23 consecutive wins by the Indianapolis Colts from 2008 to 2009, including postseason.",
+      "source": "https://en.wikipedia.org/wiki/longest_winning_streak_in_NFL_history"
+    },
+    {
+      "text": "Derrick Brooks, the Tampa Bay Buccaneers linebacker, was known for his community service as much as his on-field play.",
+      "source": "https://en.wikipedia.org/wiki/Derrick_Brooks%2C_the_Tampa_Bay_Buccaneers_linebacker"
+    },
+    {
+      "text": "The first NFL game played outside of North America was in Mexico City in 2005.",
+      "source": "https://en.wikipedia.org/wiki/first_NFL_game_played_outside_of_North_America"
+    },
+    {
+      "text": "John Madden's coaching record of .731 winning percentage is the highest in NFL history among coaches with 100+ games.",
+      "source": "https://en.wikipedia.org/wiki/John_Madden%27s_coaching_record_of_.731_winning_percentage"
+    },
+    {
+      "text": "The Wonderlic test is a 12-minute, 50-question cognitive ability test given to NFL draft prospects at the Combine.",
+      "source": "https://en.wikipedia.org/wiki/Wonderlic_test"
+    },
+    {
+      "text": "Nick Foles holds the record for most touchdown passes in a single game with 7, tied with several other quarterbacks.",
+      "source": "https://en.wikipedia.org/wiki/Nick_Foles"
+    },
+    {
+      "text": "The NFL's 'franchise quarterback' concept drives teams to invest enormous resources in finding and keeping an elite passer.",
+      "source": "https://en.wikipedia.org/wiki/NFL%27s"
+    },
+    {
+      "text": "Mike Singletary was famous for his intense pregame stare, which teammates said could be felt through walls.",
+      "source": "https://en.wikipedia.org/wiki/Mike_Singletary"
+    },
+    {
+      "text": "The average NFL player's career earnings are approximately $3.4 million over their career.",
+      "source": "https://en.wikipedia.org/wiki/average_NFL_player%27s_career_earnings"
+    },
+    {
+      "text": "The 'Bluegrass Miracle' in 2002 saw LSU score on a 74-yard Hail Mary to beat Kentucky, one of college football's great finishes.",
+      "source": "https://en.wikipedia.org/wiki/%27Bluegrass_Miracle"
+    },
+    {
+      "text": "Since 2002, every NFL team has been placed in one of 8 divisions with 4 teams each.",
+      "source": "https://en.wikipedia.org/wiki/Since_2002%2C_every_NFL_team"
+    },
+    {
+      "text": "Cam Newton's Superman touchdown celebration became one of the most iconic celebrations in modern NFL history.",
+      "source": "https://en.wikipedia.org/wiki/Cam_Newton%27s_Superman_touchdown_celebration"
+    },
+    {
+      "text": "The pigskin got its name because early footballs were made using inflated pig bladders wrapped in leather.",
+      "source": "https://en.wikipedia.org/wiki/pigskin_got_its_name_because_early_footballs"
+    },
+    {
+      "text": "Von Miller has been one of the most dominant pass rushers of his era, winning Super Bowl MVPs with two different franchises.",
+      "source": "https://en.wikipedia.org/wiki/Von_Miller"
+    },
+    {
+      "text": "The 'Pooch Punt' is a short, high punt designed to be difficult to return, often used inside the opponent's 40-yard line.",
+      "source": "https://en.wikipedia.org/wiki/%27Pooch_Punt"
+    },
+    {
+      "text": "The NFL's parity is intentional — the worst teams draft first to help competitive balance across the league.",
+      "source": "https://en.wikipedia.org/wiki/NFL%27s_parity"
+    },
+    {
+      "text": "Justin Jefferson set the record for receiving yards in a player's first two NFL seasons with 3,016 yards.",
+      "source": "https://en.wikipedia.org/wiki/Justin_Jefferson"
+    },
+    {
+      "text": "The 'Coach's Challenge' flag is red, and each coach gets 2 challenges per game (3 if both previous challenges are successful).",
+      "source": "https://en.wikipedia.org/wiki/%27Coach%27s_Challenge%27_flag"
+    },
+    {
+      "text": "An NFL football is referred to as 'The Duke' in honor of Wellington Mara, whose childhood nickname was Duke.",
+      "source": "https://en.wikipedia.org/wiki/An_NFL_football"
+    },
+    {
+      "text": "The 'Hog Mollies' is a term linemen use to describe themselves, embracing the unglamorous nature of their position.",
+      "source": "https://en.wikipedia.org/wiki/%27Hog_Mollies"
+    },
+    {
+      "text": "Saturday college football and Sunday NFL games have been a staple of American weekends since the mid-20th century.",
+      "source": "https://en.wikipedia.org/wiki/Saturday_college_football_and_Sunday_NFL_games"
+    },
+    {
+      "text": "George Kittle and Rob Gronkowski popularized the modern era of the athletic, pass-catching tight end.",
+      "source": "https://en.wikipedia.org/wiki/George_Kittle_and_Rob_Gronkowski"
+    },
+    {
+      "text": "The 2-minute warning in NFL games is a stoppage of play with 2 minutes remaining in each half, originally used when the stadium clock was unreliable.",
+      "source": "https://en.wikipedia.org/wiki/2-minute_warning_in_NFL_games"
+    },
+    {
+      "text": "Tailgating — the tradition of cooking and socializing in stadium parking lots before games — is a uniquely American football tradition.",
+      "source": "https://en.wikipedia.org/wiki/Football"
+    },
+    {
+      "text": "The NFL has retired no league-wide jersey numbers, though individual teams have retired numbers honoring franchise legends.",
+      "source": "https://en.wikipedia.org/wiki/NFL"
+    },
+    {
+      "text": "Fantasy football was invented in 1962 by Wilfred 'Bill' Winkenbach, a part-owner of the Oakland Raiders.",
+      "source": "https://en.wikipedia.org/wiki/Fantasy_football"
+    },
+    {
+      "text": "The 'Spider 2 Y Banana' play became famous after Jon Gruden repeatedly referenced it on his QB Camp show.",
+      "source": "https://en.wikipedia.org/wiki/%27Spider_2_Y_Banana%27_play"
+    },
+    {
+      "text": "Tom Brady was selected 199th overall in the 2000 NFL Draft, making him the greatest late-round pick in history.",
+      "source": "https://en.wikipedia.org/wiki/Tom_Brady"
+    },
+    {
+      "text": "The 'Terrible Towel' was created by Myron Cope, the legendary Pittsburgh Steelers broadcaster, in 1975.",
+      "source": "https://en.wikipedia.org/wiki/%27Terrible_Towel"
+    },
+    {
+      "text": "NFL helmets now feature position-specific designs — quarterbacks have extra face protection while linemen have smaller facemasks for better vision.",
+      "source": "https://en.wikipedia.org/wiki/NFL_helmets_now_feature_position-specific_designs_%E2%80%94_quarterbacks"
+    },
+    {
+      "text": "Kliff Kingsbury became the first coach to be fired and rehired in the same NFL season when he returned as an offensive coordinator.",
+      "source": "https://en.wikipedia.org/wiki/Kliff_Kingsbury"
+    },
+    {
+      "text": "The NFL's total revenue exceeded $18 billion in 2023, making it the highest-grossing sports league in the world.",
+      "source": "https://en.wikipedia.org/wiki/NFL%27s"
+    },
+    {
+      "text": "Jerome Bettis weighed 255 pounds and carried the football with a bruising, physical style that earned him the nickname 'The Bus.'",
+      "source": "https://en.wikipedia.org/wiki/Jerome_Bettis"
+    },
+    {
+      "text": "Myles Garrett set the Cleveland Browns' single-season sack record and has been one of the most feared pass rushers of the 2020s.",
+      "source": "https://en.wikipedia.org/wiki/Myles_Garrett_set_the_Cleveland_Browns%27_single-season_sack_record_and"
+    },
+    {
+      "text": "The 'Griddy' celebration dance was popularized in the NFL by Justin Jefferson and became a cultural phenomenon.",
+      "source": "https://en.wikipedia.org/wiki/%27Griddy%27_celebration_dance"
+    },
+    {
+      "text": "Arena football, played on a smaller indoor field, was founded in 1987 as an alternative to the NFL offseason.",
+      "source": "https://en.wikipedia.org/wiki/Arena_football%2C_played_on_a_smaller_indoor_field"
+    },
+    {
+      "text": "Each NFL team has a practice squad of up to 16 players who can be elevated to the active roster on game days.",
+      "source": "https://en.wikipedia.org/wiki/Each_NFL_team"
+    },
+    {
+      "text": "Brian Urlacher anchored the Chicago Bears defense for 13 seasons and was inducted into the Hall of Fame in 2018.",
+      "source": "https://en.wikipedia.org/wiki/Brian_Urlacher_anchored_the_Chicago_Bears_defense_for_13_seasons_and"
+    },
+    {
+      "text": "The 'Oklahoma Drill' — a one-on-one blocking/tackling drill — has been banned by many teams and leagues due to injury concerns.",
+      "source": "https://en.wikipedia.org/wiki/%27Oklahoma_Drill%27_%E2%80%94_a_one-on-one_blocking%2Ftackling_drill_%E2%80%94"
+    },
+    {
+      "text": "The NFL's concussion and injury report is required to be published by every team on Wednesday, Thursday, and Friday during the season.",
+      "source": "https://en.wikipedia.org/wiki/NFL%27s_concussion_and_injury_report"
+    },
+    {
+      "text": "Sean McVay became the youngest head coach to win a Super Bowl at age 36 when the Rams won Super Bowl LVI.",
+      "source": "https://en.wikipedia.org/wiki/Sean_McVay"
+    },
+    {
+      "text": "The 'Four Verticals' play is one of the most common deep passing concepts used at every level of football.",
+      "source": "https://en.wikipedia.org/wiki/%27Four_Verticals%27_play"
+    },
+    {
+      "text": "Micah Parsons has been one of the most versatile defenders in the NFL, playing both linebacker and defensive end.",
+      "source": "https://en.wikipedia.org/wiki/Micah_Parsons"
+    },
+    {
+      "text": "The first college football game was played on November 6, 1869 between Rutgers and Princeton.",
+      "source": "https://en.wikipedia.org/wiki/first_college_football_game"
+    },
+    {
+      "text": "The 'Nickel' defense gets its name from the fifth defensive back, with 'nickel' referring to the coin.",
+      "source": "https://en.wikipedia.org/wiki/Football"
+    },
+    {
+      "text": "Chad Johnson legally changed his last name to 'Ochocinco' (Spanish for 85) to match his jersey number.",
+      "source": "https://en.wikipedia.org/wiki/Chad_Johnson_legally"
+    },
+    {
+      "text": "The 'Pistol Formation' was invented by Chris Ault at the University of Nevada and has been widely adopted in the NFL.",
+      "source": "https://en.wikipedia.org/wiki/%27Pistol_Formation"
+    },
+    {
+      "text": "The NFL Pro Bowl was replaced by the Pro Bowl Games in 2023, featuring skills competitions instead of a traditional game.",
+      "source": "https://en.wikipedia.org/wiki/NFL_Pro_Bowl"
+    },
+    {
+      "text": "Offensive linemen are typically the largest players on the field, averaging 6'5\" and 315 pounds in the modern NFL.",
+      "source": "https://en.wikipedia.org/wiki/Offensive_linemen"
+    },
+    {
+      "text": "The 'Coffin Corner' punt aims for the sideline inside the opponent's 10-yard line, pinning them deep in their own territory.",
+      "source": "https://en.wikipedia.org/wiki/Coffin_Corner"
+    },
+    {
+      "text": "T.J. Watt tied Michael Strahan's single-season sack record with 22.5 sacks in the 2021 season.",
+      "source": "https://en.wikipedia.org/wiki/T.J._Watt"
+    },
+    {
+      "text": "The NFL Network launched on November 4, 2003 as a 24/7 channel dedicated to professional football.",
+      "source": "https://en.wikipedia.org/wiki/NFL_Network"
+    },
+    {
+      "text": "Punters and kickers often have the longest NFL careers because their positions are less physically demanding.",
+      "source": "https://en.wikipedia.org/wiki/Punters_and_kickers_often"
+    },
+    {
+      "text": "The 'Tampa 2' defense was popularized by Tony Dungy and Monte Kiffin for the Tampa Bay Buccaneers in the late 1990s.",
+      "source": "https://en.wikipedia.org/wiki/%27Tampa_2%27_defense"
+    },
+    {
+      "text": "NFL players undergo an average of 2.8 concussion evaluations per career, according to league injury data.",
+      "source": "https://en.wikipedia.org/wiki/Football"
+    },
+    {
+      "text": "The 'Sunday Scaries' originally referred to the dread of Monday morning but now also means anxiety about your fantasy football lineup.",
+      "source": "https://en.wikipedia.org/wiki/Sunday_Scaries"
+    },
+    {
+      "text": "Fred Warner has been one of the best coverage linebackers in the NFL, helping transform the position in the modern game.",
+      "source": "https://en.wikipedia.org/wiki/Fred_Warner"
+    },
+    {
+      "text": "College football's 'Conference Realignment' has dramatically reshaped the landscape, with schools like USC and Texas changing conferences.",
+      "source": "https://en.wikipedia.org/wiki/College_football%27s_%27Conference_Realignment"
+    },
+    {
+      "text": "The NFL salary cap for the 2024 season was set at $255.4 million per team.",
+      "source": "https://en.wikipedia.org/wiki/NFL_salary_cap_for_the_2024_season"
+    },
+    {
+      "text": "Chris Jones of the Kansas City Chiefs has been one of the most dominant interior defensive linemen of the 2020s.",
+      "source": "https://en.wikipedia.org/wiki/Chris_Jones_of_the_Kansas_City_Chiefs"
+    },
+    {
+      "text": "The 'Dime' defense features six defensive backs and is used in obvious passing situations.",
+      "source": "https://en.wikipedia.org/wiki/%27Dime%27_defense"
+    },
+    {
+      "text": "The 'Flexbone' offense, used primarily in college football, features three running backs and is a triple-option system.",
+      "source": "https://en.wikipedia.org/wiki/%27Flexbone%27_offense%2C_used_primarily_in_college_football"
+    },
+    {
+      "text": "Quarterback sneaks on 4th-and-1 or 3rd-and-1 have a success rate of over 80% in the NFL.",
+      "source": "https://en.wikipedia.org/wiki/Quarterback_sneaks_on_4th-and-1_or_3rd-and-1"
+    },
+    {
+      "text": "The Super Bowl's official name uses Roman numerals, a tradition that started with Super Bowl V in 1971.",
+      "source": "https://en.wikipedia.org/wiki/Super_Bowl%27s"
+    },
+    {
+      "text": "Tailgate grills, folding chairs, and team flags are essential equipment for the pre-game parking lot experience.",
+      "source": "https://en.wikipedia.org/wiki/Tailgate_grills%2C_folding_chairs%2C_and_team_flags"
+    },
+    {
+      "text": "The center is the only offensive lineman who touches the ball on every play, snapping it to the quarterback.",
+      "source": "https://en.wikipedia.org/wiki/center"
+    },
+    {
+      "text": "The 'Personal Protector' in punt formation is the player who stands closest to the punter and serves as the last line of defense.",
+      "source": "https://en.wikipedia.org/wiki/%27Personal_Protector%27_in_punt_formation"
+    },
+    {
+      "text": "In the NFL, a 'franchise quarterback' can earn over $50 million per year on a modern contract extension.",
+      "source": "https://en.wikipedia.org/wiki/In_the_NFL"
+    },
+    {
+      "text": "DeMarcus Ware recorded 138.5 sacks in his career, making him one of the most prolific pass rushers in NFL history.",
+      "source": "https://en.wikipedia.org/wiki/DeMarcus_Ware"
+    },
+    {
+      "text": "The 'Snap Count' — how the quarterback signals the center to snap the ball — is a critical part of pre-snap communication.",
+      "source": "https://en.wikipedia.org/wiki/%27Snap_Count%27_%E2%80%94_how_the_quarterback_signals_the_center_to_snap_the_ball_%E2%80%94"
+    },
+    {
+      "text": "Super Bowl Sunday is the second-largest day for food consumption in the United States after Thanksgiving.",
+      "source": "https://en.wikipedia.org/wiki/Super_Bowl_Sunday"
+    },
+    {
+      "text": "The XFL has attempted to compete with the NFL multiple times, launching in 2001, 2020, and again in 2023 under new ownership.",
+      "source": "https://en.wikipedia.org/wiki/XFL"
+    },
+    {
+      "text": "Chris Godwin, Mike Evans, and the Tampa Bay Buccaneers receiving corps helped Tom Brady transition to a new team seamlessly.",
+      "source": "https://en.wikipedia.org/wiki/Chris_Godwin%2C_Mike_Evans%2C_and_the_Tampa_Bay_Buccaneers_receiving_corps"
+    },
+    {
+      "text": "The 'Intentional Grounding' penalty occurs when a quarterback throws the ball away without a nearby eligible receiver to avoid a sack.",
+      "source": "https://en.wikipedia.org/wiki/Intentional_Grounding"
+    },
+    {
+      "text": "Nick Chubb has been one of the most efficient runners in the NFL, consistently averaging over 5 yards per carry.",
+      "source": "https://en.wikipedia.org/wiki/Nick_Chubb"
+    },
+    {
+      "text": "The 'Stick Route' is a 5-yard hitch route that quarterbacks use as a quick, reliable passing option.",
+      "source": "https://en.wikipedia.org/wiki/%27Stick_Route"
+    },
+    {
+      "text": "The average age of an NFL rookie is 22 years old, with most players entering the draft after 3 years of college.",
+      "source": "https://en.wikipedia.org/wiki/average_age_of_an_NFL_rookie"
+    },
+    {
+      "text": "The 'Spot of the Foul' determines where a penalty is enforced, and it varies depending on the type of infraction.",
+      "source": "https://en.wikipedia.org/wiki/%27Spot_of_the_Foul%27_determines_where_a_penalty"
+    },
+    {
+      "text": "Tua Tagovailoa's injury history sparked league-wide discussions about player safety and return-to-play protocols.",
+      "source": "https://en.wikipedia.org/wiki/Tua_Tagovailoa%27s"
+    },
+    {
+      "text": "Brock Purdy, 'Mr. Irrelevant' as the last pick of the 2022 draft, became a successful starting quarterback for the 49ers.",
+      "source": "https://en.wikipedia.org/wiki/Brock_Purdy%2C_%27Mr._Irrelevant%27_as_the_last_pick_of_the_2022_draft"
+    },
+    {
+      "text": "The 'Two-Gap' technique requires a defensive lineman to control the offensive lineman and both gaps on either side of them.",
+      "source": "https://en.wikipedia.org/wiki/Football"
+    },
+    {
+      "text": "NFL cheerleaders were first introduced by the Baltimore Colts in the 1960s and are now featured by most NFL teams.",
+      "source": "https://en.wikipedia.org/wiki/NFL_cheerleaders"
+    },
+    {
+      "text": "Pro football's first night game was played on November 21, 1902 — years before most stadiums had electric lighting.",
+      "source": "https://en.wikipedia.org/wiki/Pro_football%27s_first_night_game"
+    },
+    {
+      "text": "The 'Illegal Formation' penalty occurs when the offense doesn't have exactly 7 players on the line of scrimmage at the snap.",
+      "source": "https://en.wikipedia.org/wiki/%27Illegal_Formation%27_penalty_occurs_when_the_offense_doesn%27t"
+    },
+    {
+      "text": "Nick Saban won seven national championships — six at Alabama and one at LSU — making him the most successful college football coach of the modern era.",
+      "source": "https://en.wikipedia.org/wiki/Nick_Saban"
+    },
+    {
+      "text": "Bear Bryant won 323 games over his coaching career at Maryland, Kentucky, Texas A&M, and Alabama, earning him the nickname 'The Bear.'",
+      "source": "https://en.wikipedia.org/wiki/Bear_Bryant"
+    },
+    {
+      "text": "The Rose Bowl, first played in 1902, is known as 'The Granddaddy of Them All' and is the oldest bowl game in college football.",
+      "source": "https://en.wikipedia.org/wiki/Rose_Bowl%2C_first_played_in_1902"
+    },
+    {
+      "text": "Archie Griffin of Ohio State is the only player to win the Heisman Trophy twice, taking the award in 1974 and 1975.",
+      "source": "https://en.wikipedia.org/wiki/Archie_Griffin_of_Ohio_State"
+    },
+    {
+      "text": "The 1971 'Game of the Century' between Nebraska and Oklahoma ended 35-31 and is considered one of the greatest college football games ever played.",
+      "source": "https://en.wikipedia.org/wiki/1971_%27Game_of_the_Century%27_between_Nebraska_and_Oklahoma_ended_35-31_and"
+    },
+    {
+      "text": "AT&T Stadium in Arlington, Texas — home of the Dallas Cowboys — cost $1.2 billion to build and features the world's largest column-free interior.",
+      "source": "https://en.wikipedia.org/wiki/AT%26T_Stadium_in_Arlington"
+    },
+    {
+      "text": "SoFi Stadium in Inglewood, California is the most expensive stadium ever built at approximately $5.5 billion and hosts both the Rams and Chargers.",
+      "source": "https://en.wikipedia.org/wiki/SoFi_Stadium_in_Inglewood%2C_California"
+    },
+    {
+      "text": "Allegiant Stadium in Las Vegas, home of the Raiders, was the first fully enclosed stadium with a translucent roof and natural grass field.",
+      "source": "https://en.wikipedia.org/wiki/Allegiant_Stadium_in_Las_Vegas%2C_home_of_the_Raiders"
+    },
+    {
+      "text": "Soldier Field in Chicago, opened in 1924, is the oldest stadium still in use in the NFL.",
+      "source": "https://en.wikipedia.org/wiki/Soldier_Field_in_Chicago"
+    },
+    {
+      "text": "The Oakland Raiders moved to Los Angeles in 1982, returned to Oakland in 1995, and relocated again to Las Vegas in 2020.",
+      "source": "https://en.wikipedia.org/wiki/Oakland_Raiders"
+    },
+    {
+      "text": "The St. Louis Rams relocated to Los Angeles in 2016 after spending 21 seasons in St. Louis, sparking a massive lawsuit from the city.",
+      "source": "https://en.wikipedia.org/wiki/St._Louis_Rams"
+    },
+    {
+      "text": "The Cleveland Browns relocated to become the Baltimore Ravens in 1996, but the NFL allowed Cleveland to keep the Browns name and history for a future expansion team.",
+      "source": "https://en.wikipedia.org/wiki/Cleveland_Browns"
+    },
+    {
+      "text": "The Houston Oilers became the Tennessee Oilers in 1997 and then the Tennessee Titans in 1999 after relocating from Houston.",
+      "source": "https://en.wikipedia.org/wiki/Houston_Oilers"
+    },
+    {
+      "text": "The original Baltimore Colts franchise moved to Indianapolis overnight in 1984, with moving vans leaving under cover of darkness to avoid legal injunctions.",
+      "source": "https://en.wikipedia.org/wiki/Baltimore_Colts"
+    },
+    {
+      "text": "The Canadian Football League uses a 110-yard field with 20-yard end zones, three downs instead of four, and 12 players per side.",
+      "source": "https://en.wikipedia.org/wiki/Canadian_Football_League"
+    },
+    {
+      "text": "The CFL's Grey Cup championship game has been played since 1909, making it older than the NFL itself.",
+      "source": "https://en.wikipedia.org/wiki/CFL%27s_Grey_Cup_championship_game"
+    },
+    {
+      "text": "Doug Flutie became a CFL legend with the Calgary Stampeders and Toronto Argonauts before returning to success in the NFL.",
+      "source": "https://en.wikipedia.org/wiki/Doug_Flutie"
+    },
+    {
+      "text": "Warren Moon played six seasons in the CFL with the Edmonton Eskimos (now Elks) before his Hall of Fame NFL career, winning five consecutive Grey Cups.",
+      "source": "https://en.wikipedia.org/wiki/Warren_Moon"
+    },
+    {
+      "text": "The USFL (United States Football League) played spring football in 1983-1985 and famously featured future NFL stars like Steve Young, Jim Kelly, and Reggie White.",
+      "source": "https://en.wikipedia.org/wiki/USFL"
+    },
+    {
+      "text": "Tom Landry coached the Dallas Cowboys for 29 consecutive seasons from 1960 to 1988, compiling a 250-162-6 record.",
+      "source": "https://en.wikipedia.org/wiki/Tom_Landry"
+    },
+    {
+      "text": "Knute Rockne coached Notre Dame to a .881 winning percentage, the highest in college football history, before his death in a 1931 plane crash.",
+      "source": "https://en.wikipedia.org/wiki/Knute_Rockne"
+    },
+    {
+      "text": "Bear Bryant's trademark houndstooth hat became one of the most iconic symbols in college football history.",
+      "source": "https://en.wikipedia.org/wiki/Bear_Bryant%27s_trademark_houndstooth_hat"
+    },
+    {
+      "text": "Bobby Bowden guided Florida State to 14 consecutive top-5 finishes from 1987 to 2000, an unprecedented run of dominance.",
+      "source": "https://en.wikipedia.org/wiki/Bobby_Bowden"
+    },
+    {
+      "text": "The 'Four Horsemen' of Notre Dame — a legendary 1924 backfield — were immortalized by sportswriter Grantland Rice.",
+      "source": "https://en.wikipedia.org/wiki/%27Four_Horsemen%27_of_Notre_Dame_%E2%80%94_a_legendary_1924_backfield_%E2%80%94"
+    },
+    {
+      "text": "Herschel Walker won the 1982 Heisman Trophy at Georgia and later signed with the USFL's New Jersey Generals before his NFL career.",
+      "source": "https://en.wikipedia.org/wiki/Herschel_Walker"
+    },
+    {
+      "text": "Tim Tebow won the Heisman Trophy in 2007 as a sophomore at Florida, becoming the first sophomore to win the award.",
+      "source": "https://en.wikipedia.org/wiki/Tim_Tebow"
+    },
+    {
+      "text": "The Heisman Trophy weighs 25 pounds, stands 13.5 inches tall, and is cast in bronze.",
+      "source": "https://en.wikipedia.org/wiki/Heisman_Trophy_weighs_25_pounds%2C_stands_13.5_inches_tall%2C_and"
+    },
+    {
+      "text": "Ricky Williams won the 1998 Heisman Trophy at Texas and set the NCAA's all-time rushing record with 6,279 career yards at the time.",
+      "source": "https://en.wikipedia.org/wiki/Ricky_Williams"
+    },
+    {
+      "text": "Charles Woodson won the 1997 Heisman Trophy as a cornerback at Michigan, one of the rare defensive players to claim the award.",
+      "source": "https://en.wikipedia.org/wiki/Charles_Woodson"
+    },
+    {
+      "text": "Johnny Manziel, 'Johnny Football,' won the 2012 Heisman as the first freshman to earn the trophy but struggled in his NFL career with the Browns.",
+      "source": "https://en.wikipedia.org/wiki/Johnny_Manziel%2C_%27Johnny_Football"
+    },
+    {
+      "text": "Ryan Leaf, drafted second overall in 1998, is widely considered the biggest quarterback bust in NFL Draft history after a brief, tumultuous career.",
+      "source": "https://en.wikipedia.org/wiki/Ryan_Leaf%2C_drafted_second_overall_in_1998"
+    },
+    {
+      "text": "JaMarcus Russell was selected first overall by the Raiders in 2007 and was out of the league by 2009, becoming one of the NFL's biggest draft busts.",
+      "source": "https://en.wikipedia.org/wiki/JaMarcus_Russell"
+    },
+    {
+      "text": "Tom Brady's famous NFL Combine photo — showing him shirtless and unathletic — is often cited as proof that physical appearance doesn't predict NFL success.",
+      "source": "https://en.wikipedia.org/wiki/Tom_Brady%27s_famous_NFL_Combine_photo_%E2%80%94_showing_him_shirtless_and_unathletic_%E2%80%94"
+    },
+    {
+      "text": "The 2000 NFL Draft is considered one of the best ever, producing Tom Brady, Brian Urlacher, Jamal Lewis, and multiple Hall of Famers.",
+      "source": "https://en.wikipedia.org/wiki/2000_NFL_Draft"
+    },
+    {
+      "text": "Shannon Sharpe was drafted in the seventh round in 1990 and went on to become one of the greatest tight ends in NFL history.",
+      "source": "https://en.wikipedia.org/wiki/Shannon_Sharpe"
+    },
+    {
+      "text": "Terrell Davis rushed for 2,008 yards in 1998 and won Super Bowl MVP, but knee injuries cut his career short after just seven seasons.",
+      "source": "https://en.wikipedia.org/wiki/Terrell_Davis_rushed_for_2%2C008_yards_in_1998_and"
+    },
+    {
+      "text": "Anthony Muñoz, a 13-time Pro Bowl offensive tackle for the Cincinnati Bengals, is widely regarded as the greatest offensive lineman in NFL history.",
+      "source": "https://en.wikipedia.org/wiki/Anthony_Mu%C3%B1oz%2C_a_13-time_Pro_Bowl_offensive_tackle_for_the_Cincinnati_Bengals"
+    },
+    {
+      "text": "Jonathan Ogden was the first-ever draft pick by the Baltimore Ravens in 1996 and became one of the best left tackles the game has ever seen.",
+      "source": "https://en.wikipedia.org/wiki/Jonathan_Ogden"
+    },
+    {
+      "text": "The 'Hogs' were the Washington Redskins' dominant offensive line in the 1980s, anchoring a running game that won three Super Bowls.",
+      "source": "https://en.wikipedia.org/wiki/%27Hogs"
+    },
+    {
+      "text": "Larry Allen of the Dallas Cowboys could bench press 700 pounds and is considered one of the strongest players in NFL history.",
+      "source": "https://en.wikipedia.org/wiki/Larry_Allen_of_the_Dallas_Cowboys_could_bench_press_700_pounds_and"
+    },
+    {
+      "text": "Bruce Matthews played 19 seasons for the Houston Oilers/Tennessee Titans and started at every position on the offensive line during his career.",
+      "source": "https://en.wikipedia.org/wiki/Bruce_Matthews"
+    },
+    {
+      "text": "Joe Thomas played 10,363 consecutive offensive snaps for the Cleveland Browns, never missing a snap from 2007 until a torn triceps ended his career in 2017.",
+      "source": "https://en.wikipedia.org/wiki/Joe_Thomas"
+    },
+    {
+      "text": "John Hannah of the New England Patriots was named the best offensive lineman of all time by Sports Illustrated.",
+      "source": "https://en.wikipedia.org/wiki/John_Hannah_of_the_New_England_Patriots"
+    },
+    {
+      "text": "Gene Upshaw played his entire 15-year career as a guard for the Oakland Raiders and later served as head of the NFL Players Association.",
+      "source": "https://en.wikipedia.org/wiki/Gene_Upshaw"
+    },
+    {
+      "text": "Randall McDaniel was a 12-time Pro Bowl guard for the Minnesota Vikings and one of the most athletic interior linemen ever.",
+      "source": "https://en.wikipedia.org/wiki/Randall_McDaniel"
+    },
+    {
+      "text": "The zone blocking scheme, popularized by Alex Gibbs with the Denver Broncos in the 1990s, emphasizes lateral movement and cut blocks.",
+      "source": "https://en.wikipedia.org/wiki/Alex_Gibbs_with_the_Denver_Broncos_in_the"
+    },
+    {
+      "text": "The 46 Defense, created by Buddy Ryan, stacked eight defenders near the line of scrimmage and was used to devastating effect by the 1985 Chicago Bears.",
+      "source": "https://en.wikipedia.org/wiki/46_Defense"
+    },
+    {
+      "text": "The Cover 3 defense divides the deep field into thirds, with three defensive backs each responsible for one zone.",
+      "source": "https://en.wikipedia.org/wiki/Cover_3"
+    },
+    {
+      "text": "Bill Parcells, known as 'The Big Tuna,' coached four different NFL teams to the playoffs and won two Super Bowls with the Giants.",
+      "source": "https://en.wikipedia.org/wiki/Bill_Parcells"
+    },
+    {
+      "text": "The 'Air Coryell' offense, developed by Don Coryell with the San Diego Chargers in the late 1970s, pioneered the modern vertical passing game.",
+      "source": "https://en.wikipedia.org/wiki/%27Air_Coryell%27_offense"
+    },
+    {
+      "text": "The spread offense, which spaces receivers across the field to create one-on-one matchups, migrated from college football to the NFL in the 2000s.",
+      "source": "https://en.wikipedia.org/wiki/NFL_in_the"
+    },
+    {
+      "text": "Leather football helmets were standard equipment until the 1950s, when hard plastic shells gradually replaced them.",
+      "source": "https://en.wikipedia.org/wiki/Leather_football_helmets"
+    },
+    {
+      "text": "The face mask was not standard on football helmets until the late 1950s, and single-bar face masks were common into the 1960s.",
+      "source": "https://en.wikipedia.org/wiki/face_mask"
+    },
+    {
+      "text": "Modern NFL helmets contain impact sensors and padding systems like Vicis's ZERO1 technology designed to reduce concussion risk.",
+      "source": "https://en.wikipedia.org/wiki/Modern_NFL"
+    },
+    {
+      "text": "Football shoulder pads have shrunk significantly since the 1980s, with modern pads being lighter and more form-fitting for better mobility.",
+      "source": "https://en.wikipedia.org/wiki/Football_shoulder_pads"
+    },
+    {
+      "text": "Early football cleats were high-top leather boots with metal studs; modern cleats are lightweight, low-cut, and feature molded plastic or rubber studs.",
+      "source": "https://en.wikipedia.org/wiki/Early_football_cleats"
+    },
+    {
+      "text": "The yellow first-down line seen on TV broadcasts was first introduced by Sportvision in 1998 and is generated by sophisticated computer graphics.",
+      "source": "https://en.wikipedia.org/wiki/yellow_first-down_line_seen_on_TV_broadcasts"
+    },
+    {
+      "text": "Lambeau Field in Green Bay has a heated underground turf system to prevent the field from freezing, though the 'Frozen Tundra' nickname persists.",
+      "source": "https://en.wikipedia.org/wiki/Lambeau_Field_in_Green_Bay"
+    },
+    {
+      "text": "Michigan Stadium, known as 'The Big House,' holds over 107,000 fans and is the largest stadium in the United States.",
+      "source": "https://en.wikipedia.org/wiki/Michigan_Stadium%2C_known_as_%27The_Big_House%2C%27_holds_over_107%2C000_fans_and"
+    },
+    {
+      "text": "Beaver Stadium at Penn State holds over 106,000 fans and is known for its 'Whiteout' games where all fans wear white.",
+      "source": "https://en.wikipedia.org/wiki/Beaver_Stadium_at_Penn_State_holds_over_106%2C000_fans_and"
+    },
+    {
+      "text": "Neyland Stadium at the University of Tennessee holds over 100,000 fans and is famous for 'Rocky Top' playing after every score.",
+      "source": "https://en.wikipedia.org/wiki/Neyland_Stadium_at_the_University_of_Tennessee_holds_over_100%2C000_fans_and"
+    },
+    {
+      "text": "Dante Hall earned the nickname 'The Human Joystick' for his electrifying punt and kick returns with the Kansas City Chiefs in the early 2000s.",
+      "source": "https://en.wikipedia.org/wiki/Dante_Hall"
+    },
+    {
+      "text": "Billy 'White Shoes' Johnson is credited with popularizing end zone celebrations after scoring on kick returns in the 1970s.",
+      "source": "https://en.wikipedia.org/wiki/Billy_%27White_Shoes%27_Johnson"
+    },
+    {
+      "text": "Adam Vinatieri is the NFL's all-time leading scorer among kickers and is famous for his clutch Super Bowl-winning field goals with the Patriots.",
+      "source": "https://en.wikipedia.org/wiki/Adam_Vinatieri"
+    },
+    {
+      "text": "Morten Andersen and Gary Anderson are the only kickers inducted into the Pro Football Hall of Fame, reflecting the position's historical underappreciation.",
+      "source": "https://en.wikipedia.org/wiki/Morten_Andersen_and_Gary_Anderson"
+    },
+    {
+      "text": "The NFL's 2024 kickoff rule moved the kicking team to the receiving team's 40-yard line and receiving team blockers to their own 30-35, dramatically changing return dynamics.",
+      "source": "https://en.wikipedia.org/wiki/NFL%27s_2024"
+    },
+    {
+      "text": "Steve Tasker of the Buffalo Bills is considered the greatest special teams player in NFL history, earning seven Pro Bowl selections as a gunner.",
+      "source": "https://en.wikipedia.org/wiki/Steve_Tasker_of_the_Buffalo_Bills"
+    },
+    {
+      "text": "The fake punt is one of football's highest-risk, highest-reward plays, and a failed fake can shift momentum for the entire game.",
+      "source": "https://en.wikipedia.org/wiki/fake_punt"
+    },
+    {
+      "text": "The onside kick success rate has dropped below 10% in recent seasons due to rule changes that limit running starts by the kicking team.",
+      "source": "https://en.wikipedia.org/wiki/onside_kick_success_rate"
+    },
+    {
+      "text": "The 'AFL-NFL Merger' in 1970 combined the two rival leagues into one and created the AFC and NFC conference structure still used today.",
+      "source": "https://en.wikipedia.org/wiki/%27AFL-NFL_Merger%27_in_1970_combined_the_two_rival_leagues_into_one_and"
+    },
+    {
+      "text": "The NFL's 'Black Monday' refers to the day after the regular season ends, when multiple head coaches are traditionally fired.",
+      "source": "https://en.wikipedia.org/wiki/NFL%27s"
+    },
+    {
+      "text": "Vince Lombardi's Green Bay Packers won five NFL championships in seven years during the 1960s, including the first two Super Bowls.",
+      "source": "https://en.wikipedia.org/wiki/Vince_Lombardi%27s_Green_Bay_Packers"
+    },
+    {
+      "text": "The Philadelphia Eagles won three consecutive NFL championships from 1948 to 1950 before the Super Bowl era began.",
+      "source": "https://en.wikipedia.org/wiki/Philadelphia_Eagles"
+    },
+    {
+      "text": "The 2001 New England Patriots, led by an unknown Tom Brady after Drew Bledsoe's injury, won the Super Bowl as 14-point underdogs.",
+      "source": "https://en.wikipedia.org/wiki/2001_New_England_Patriots%2C_led_by_an_unknown_Tom_Brady_after_Drew_Bledsoe%27s_injury"
+    },
+    {
+      "text": "The 1985 Chicago Bears recorded the 'Super Bowl Shuffle' rap song during the season and went on to dominate Super Bowl XX by a score of 46-10.",
+      "source": "https://en.wikipedia.org/wiki/1985_Chicago_Bears"
+    },
+    {
+      "text": "Tiger Stadium in Baton Rouge, Louisiana — home of the LSU Tigers — is nicknamed 'Death Valley' for its deafening crowd noise at night games.",
+      "source": "https://en.wikipedia.org/wiki/Tiger_Stadium_in_Baton_Rouge%2C_Louisiana_%E2%80%94_home_of_the_LSU_Tigers_%E2%80%94"
+    },
+    {
+      "text": "The 'Dotting the I' tradition at Ohio State sees a sousaphone player march to the top of the Script Ohio formation to complete the letter I.",
+      "source": "https://en.wikipedia.org/wiki/Dotting_the_I"
+    },
+    {
+      "text": "Notre Dame's 'Touchdown Jesus' mural on the Hesburgh Library is visible from inside Notre Dame Stadium and depicts Christ with raised arms.",
+      "source": "https://en.wikipedia.org/wiki/Notre_Dame%27s_%27Touchdown_Jesus%27_mural_on_the_Hesburgh_Library"
+    },
+    {
+      "text": "The 'War Eagle' battle cry at Auburn University comes from a legend about a Civil War veteran's pet eagle circling the field during a game.",
+      "source": "https://en.wikipedia.org/wiki/War_Eagle"
+    },
+    {
+      "text": "The 'Sooner Schooner' is the University of Oklahoma's mascot — a Conestoga wagon pulled by ponies that races onto the field after scores.",
+      "source": "https://en.wikipedia.org/wiki/%27Sooner_Schooner"
+    },
+    {
+      "text": "The 'Tomahawk Chop' chant at Florida State games was adopted in the late 1980s and remains one of college football's most recognizable traditions.",
+      "source": "https://en.wikipedia.org/wiki/%27Tomahawk_Chop%27_chant_at_Florida_State_games"
+    },
+    {
+      "text": "Green Bay's Lambeau Field parking lots host some of the NFL's most dedicated tailgaters, with brats and cheese curds as staple menu items.",
+      "source": "https://en.wikipedia.org/wiki/Green_Bay%27s_Lambeau_Field"
+    },
+    {
+      "text": "Kansas City's Arrowhead Stadium held the Guinness World Record for loudest crowd roar at a sports stadium, reaching 142.2 decibels in 2014.",
+      "source": "https://en.wikipedia.org/wiki/Kansas_City%27s_Arrowhead_Stadium"
+    },
+    {
+      "text": "The 'Dawg Pound' at Cleveland's stadium is the bleacher section where Browns fans dress as dogs and bark at opposing teams.",
+      "source": "https://en.wikipedia.org/wiki/%27Dawg_Pound%27_at_Cleveland%27s_stadium"
+    },
+    {
+      "text": "The 'Black Hole' was the infamous section at the Oakland Coliseum where Raiders fans dressed in costume and intimidated visiting teams.",
+      "source": "https://en.wikipedia.org/wiki/%27Black_Hole"
+    },
+    {
+      "text": "The first NFL game played in Germany was held in Munich in 2022, part of the league's expanded international series.",
+      "source": "https://en.wikipedia.org/wiki/first_NFL_game_played_in_Germany"
+    },
+    {
+      "text": "The 2006 Rose Bowl between Texas and USC is often called the greatest college football game of all time, with Vince Young leading a comeback victory.",
+      "source": "https://en.wikipedia.org/wiki/2006_Rose_Bowl_between_Texas_and_USC"
+    },
+    {
+      "text": "The 'Kick Six' play in the 2013 Iron Bowl — where Auburn returned a missed field goal 109 yards — ended one of college football's fiercest rivalries in stunning fashion.",
+      "source": "https://en.wikipedia.org/wiki/Kick_Six"
+    },
+    {
+      "text": "The 'Statue of Liberty' play helped Boise State upset Oklahoma in the 2007 Fiesta Bowl, one of the biggest upsets in bowl game history.",
+      "source": "https://en.wikipedia.org/wiki/%27Statue_of_Liberty%27_play"
+    },
+    {
+      "text": "The 'Fifth Down' game in 1990 saw Colorado awarded an extra down due to a referee error, and they scored the winning touchdown on the illegal play.",
+      "source": "https://en.wikipedia.org/wiki/%27Fifth_Down%27_game"
+    },
+    {
+      "text": "The 'App State Upset' in 2007, when Appalachian State beat fifth-ranked Michigan, is considered the biggest upset in college football history.",
+      "source": "https://en.wikipedia.org/wiki/%27App_State_Upset%27_in_2007%2C_when_Appalachian_State_beat_fifth-ranked_Michigan"
+    },
+    {
+      "text": "Bear Bryant's final game was the 1982 Liberty Bowl; he coached Alabama to a win over Illinois and passed away just 28 days later.",
+      "source": "https://en.wikipedia.org/wiki/Bear_Bryant%27s_final_game"
+    },
+    {
+      "text": "The 'Iron Bowl' between Alabama and Auburn is one of the most intense rivalries in all of sports, with no neutral-site games until 1989.",
+      "source": "https://en.wikipedia.org/wiki/%27Iron_Bowl%27_between_Alabama_and_Auburn"
+    },
+    {
+      "text": "Dabo Swinney led Clemson from underdog to dynasty, winning two national championships in 2016 and 2018 and reaching four playoff title games.",
+      "source": "https://en.wikipedia.org/wiki/Dabo_Swinney"
+    },
+    {
+      "text": "The wishbone offense, pioneered by Darrell Royal at Texas in 1968, dominated college football in the 1970s with its triple-option running attack.",
+      "source": "https://en.wikipedia.org/wiki/Darrell_Royal_at_Texas"
+    },
+    {
+      "text": "The 'Power I' formation features a fullback and tailback aligned behind the quarterback and was the foundation of many college and NFL ground games.",
+      "source": "https://en.wikipedia.org/wiki/%27Power_I%27_formation"
+    },
+    {
+      "text": "Matt Leinart, Reggie Bush, and the 2005 USC Trojans were considered one of the most talented college teams ever before their title was later vacated.",
+      "source": "https://en.wikipedia.org/wiki/Matt_Leinart%2C_Reggie_Bush%2C_and_the_2005_USC_Trojans"
+    },
+    {
+      "text": "The NFL's Guardian Caps — soft-shell helmet covers used in practice — were mandated in 2022 to reduce head impact severity during training camp.",
+      "source": "https://en.wikipedia.org/wiki/NFL%27s_Guardian_Caps_%E2%80%94_soft-shell_helmet_covers_used_in_practice_%E2%80%94"
+    },
+    {
+      "text": "Modern football gloves use sticky silicone grip surfaces that dramatically improve catching ability compared to bare hands.",
+      "source": "https://en.wikipedia.org/wiki/Football"
+    },
+    {
+      "text": "The NFL banned the use of stickum — a tacky substance applied to hands and jerseys — after Lester Hayes of the Raiders abused it in 1981.",
+      "source": "https://en.wikipedia.org/wiki/NFL"
+    },
+    {
+      "text": "Rib protectors, or 'flak jackets,' became popular after quarterback injuries in the 1980s and are still worn by many skill-position players.",
+      "source": "https://en.wikipedia.org/wiki/Rib_protectors%2C_or_%27flak_jackets"
+    },
+    {
+      "text": "The 'Heisman House' advertising campaign by Nissan features past Heisman Trophy winners living together, becoming one of football's most beloved commercial series.",
+      "source": "https://en.wikipedia.org/wiki/%27Heisman_House%27_advertising_campaign_by_Nissan"
+    },
+    {
+      "text": "College football's 'Gameday' show on ESPN, hosted for years by Lee Corso, Kirk Herbstreit, and others, has become a Saturday morning tradition since 1987.",
+      "source": "https://en.wikipedia.org/wiki/Lee_Corso"
+    },
+    {
+      "text": "The NFL's Man of the Year award, renamed the Walter Payton Man of the Year Award in 1999, honors a player's community service and on-field excellence.",
+      "source": "https://en.wikipedia.org/wiki/NFL%27s_Man_of_the_Year"
+    },
+    {
+      "text": "Peyton Manning and Eli Manning are the only brothers to each win a Super Bowl as starting quarterbacks.",
+      "source": "https://en.wikipedia.org/wiki/Peyton_Manning_and_Eli_Manning"
+    },
+    {
+      "text": "Kurt Warner went from stocking shelves at a grocery store to winning NFL MVP and Super Bowl MVP, one of football's greatest rags-to-riches stories.",
+      "source": "https://en.wikipedia.org/wiki/Kurt_Warner"
+    },
+    {
+      "text": "The 'Greatest Show on Turf' Rams offense averaged over 30 points per game for three consecutive seasons from 1999 to 2001.",
+      "source": "https://en.wikipedia.org/wiki/Greatest_Show_on_Turf%27_Rams"
+    },
+    {
+      "text": "Sam Darnold, Baker Mayfield, and Josh Allen were all drafted in the first round of the 2018 draft, but their career paths diverged dramatically.",
+      "source": "https://en.wikipedia.org/wiki/Sam_Darnold%2C_Baker_Mayfield%2C_and_Josh_Allen"
+    },
+    {
+      "text": "The 2007 New York Giants defeated three number-one seeds on the road in the playoffs before upsetting the undefeated Patriots in Super Bowl XLII.",
+      "source": "https://en.wikipedia.org/wiki/2007_New_York_Giants"
+    },
+    {
+      "text": "The concept of 'positionless football' has emerged in the 2020s, with players like Micah Parsons and Tyrann Mathieu lining up at multiple positions.",
+      "source": "https://en.wikipedia.org/wiki/concept_of_%27positionless_football"
+    },
+    {
+      "text": "College football's 'transfer portal,' introduced in 2018, allows players to move between schools freely and has revolutionized roster management.",
+      "source": "https://en.wikipedia.org/wiki/College_football%27s_%27transfer_portal"
+    },
+    {
+      "text": "The 'option route' allows a receiver to read the defense mid-play and choose which direction to cut, requiring chemistry between quarterback and receiver.",
+      "source": "https://en.wikipedia.org/wiki/Football"
+    },
+    {
+      "text": "NFL mouthguards have evolved from simple rubber pieces to custom-molded devices with embedded sensors that measure impact forces on the jaw.",
+      "source": "https://en.wikipedia.org/wiki/NFL_mouthguards"
+    },
+    {
+      "text": "The 'student section' at college football games often creates coordinated card displays, cell phone light shows, and chants unique to each university.",
+      "source": "https://en.wikipedia.org/wiki/Football"
+    },
+    {
+      "text": "Clemson's tradition of running down the hill and touching Howard's Rock before home games at Memorial Stadium is one of college football's most dramatic entrances.",
+      "source": "https://en.wikipedia.org/wiki/Howard%27s_Rock"
+    },
+    {
+      "text": "The San Diego Chargers relocated to Los Angeles in 2017, becoming the second NFL team to share a market with the Rams.",
+      "source": "https://en.wikipedia.org/wiki/San_Diego_Chargers"
+    },
+    {
+      "text": "The 'Squib Kick' is a low, bouncing kickoff designed to eat clock and prevent a long return, often used at the end of halves.",
+      "source": "https://en.wikipedia.org/wiki/%27Squib_Kick"
+    },
+    {
+      "text": "Woody Hayes coached Ohio State for 28 seasons, winning five national championships and thirteen Big Ten titles before his infamous sideline incident ended his career.",
+      "source": "https://en.wikipedia.org/wiki/Woody_Hayes"
+    },
+    {
+      "text": "The NFL's 'Hip Drop Tackle' was banned starting in 2024 after studies showed it caused a disproportionate number of lower-leg injuries.",
+      "source": "https://en.wikipedia.org/wiki/NFL%27s_%27Hip_Drop_Tackle"
+    },
+    {
+      "text": "Joe Theismann's career-ending leg injury on Monday Night Football in 1985, caused by Lawrence Taylor's tackle, remains one of the most replayed moments in football history.",
+      "source": "https://en.wikipedia.org/wiki/Joe_Theismann%27s"
+    },
+    {
+      "text": "The 'Spread Option' offense used by coaches like Rich Rodriguez and Urban Meyer revolutionized college football by combining quarterback running with spread passing concepts.",
+      "source": "https://en.wikipedia.org/wiki/Spread_Option"
+    }
+  ]
+}

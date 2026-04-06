@@ -1,0 +1,1680 @@
+{
+  "hobby": "Horror Movies",
+  "facts": [
+    {
+      "text": "Alfred Hitchcock's Psycho (1960) was the first American film to show a toilet flushing on screen, which was considered shocking at the time.",
+      "source": "https://en.wikipedia.org/wiki/Alfred_Hitchcock%27s_Psycho"
+    },
+    {
+      "text": "The Blair Witch Project (1999) was made for roughly $60,000 and grossed nearly $250 million worldwide, making it one of the most profitable films ever.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Blair_Witch_Project"
+    },
+    {
+      "text": "George A. Romero's Night of the Living Dead was released on October 1, 1968, and essentially invented the modern zombie genre.",
+      "month": 10,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/George_A._Romero%27s_Night_of_the_Living_Dead"
+    },
+    {
+      "text": "The chainsaw used in The Texas Chain Saw Massacre (1974) was a real, functioning chainsaw with the chain removed for safety during close-up shots.",
+      "source": "https://en.wikipedia.org/wiki/Texas_Chain_Saw_Massacre"
+    },
+    {
+      "text": "In the Japanese horror film Ringu (1998), the actress who played Sadako walked backward and the footage was reversed to create her unnatural movement.",
+      "source": "https://en.wikipedia.org/wiki/Ringu"
+    },
+    {
+      "text": "Jordan Peele's Get Out (2017) was made for just $4.5 million and earned over $255 million worldwide.",
+      "source": "https://en.wikipedia.org/wiki/Jordan_Peele%27s_Get_Out"
+    },
+    {
+      "text": "The Walking Dead premiered on AMC on October 31, 2010 — Halloween night — and became the most-watched drama series in basic cable history.",
+      "month": 10,
+      "day": 31,
+      "source": "https://en.wikipedia.org/wiki/Walking_Dead_premiered_on_AMC_on_October_31%2C_2010_%E2%80%94_Halloween_night_%E2%80%94_and"
+    },
+    {
+      "text": "Tom Savini, legendary makeup effects artist, served as a combat photographer in Vietnam, and his wartime experiences influenced his realistic gore effects.",
+      "source": "https://en.wikipedia.org/wiki/Tom_Savini"
+    },
+    {
+      "text": "The mask worn by Michael Myers in Halloween (1978) was actually a Captain Kirk mask from Star Trek, painted white with altered eye holes.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Halloween"
+    },
+    {
+      "text": "Hereditary (2018) director Ari Aster built a detailed miniature of the house used in the film, and actress Toni Collette's character is a miniature artist.",
+      "source": "https://en.wikipedia.org/wiki/Hereditary"
+    },
+    {
+      "text": "The Exorcist was released on December 26, 1973, and audiences reportedly fainted, vomited, and fled theaters during screenings.",
+      "month": 12,
+      "day": 26,
+      "source": "https://en.wikipedia.org/wiki/Exorcist"
+    },
+    {
+      "text": "Wes Craven named Freddy Krueger after a kid who bullied him in school, combining the name with that of a real-life child killer he read about.",
+      "source": "https://en.wikipedia.org/wiki/Wes_Craven"
+    },
+    {
+      "text": "The found footage subgenre traces its roots to Cannibal Holocaust (1980), whose director was arrested because authorities believed the deaths were real.",
+      "source": "https://en.wikipedia.org/wiki/Cannibal_Holocaust"
+    },
+    {
+      "text": "Paranormal Activity (2007) was made for approximately $15,000 and earned over $193 million at the global box office.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Paranormal_Activity"
+    },
+    {
+      "text": "John Carpenter composed the iconic Halloween theme himself in just three days because he couldn't afford to hire a composer.",
+      "source": "https://en.wikipedia.org/wiki/John_Carpenter"
+    },
+    {
+      "text": "The Conjuring (2013) is based on the real-life case files of paranormal investigators Ed and Lorraine Warren.",
+      "source": "https://en.wikipedia.org/wiki/Conjuring"
+    },
+    {
+      "text": "American Horror Story debuted on FX on October 5, 2011, and each season tells a self-contained story with a recurring ensemble cast.",
+      "month": 10,
+      "day": 5,
+      "source": "https://en.wikipedia.org/wiki/American_Horror_Story_debuted_on_FX_on_October_5%2C_2011%2C_and_each_season"
+    },
+    {
+      "text": "The term 'final girl' was coined by film professor Carol Clover in her 1992 book Men, Women, and Chain Saws to describe the last surviving female in slasher films.",
+      "source": "https://en.wikipedia.org/wiki/term_%27final_girl"
+    },
+    {
+      "text": "Italian giallo films of the 1960s and 70s, known for stylish violence and mystery plots, heavily influenced the American slasher genre.",
+      "source": "https://en.wikipedia.org/wiki/Horror_film"
+    },
+    {
+      "text": "Rick Baker won the first-ever Academy Award for Best Makeup for An American Werewolf in London (1981).",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/London"
+    },
+    {
+      "text": "Stranger Things premiered on Netflix on July 15, 2016, and its blend of 1980s nostalgia and horror became a global phenomenon.",
+      "month": 7,
+      "day": 15,
+      "source": "https://en.wikipedia.org/wiki/Stranger_Things"
+    },
+    {
+      "text": "The Babadook (2014) became an unlikely LGBTQ+ icon after a Netflix categorization glitch placed it under LGBT movies, and fans embraced the meme.",
+      "source": "https://en.wikipedia.org/wiki/Babadook"
+    },
+    {
+      "text": "In A Quiet Place (2018), there are only about 90 lines of dialogue in the entire film, with most communication done through American Sign Language.",
+      "source": "https://en.wikipedia.org/wiki/Quiet_Place"
+    },
+    {
+      "text": "The original Friday the 13th (1980) does not feature Jason as the killer — his mother, Pamela Voorhees, is the antagonist.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Friday_the"
+    },
+    {
+      "text": "Tobe Hooper directed The Texas Chain Saw Massacre in extreme Texas heat, and the cast and crew suffered from actual heat exhaustion during filming.",
+      "source": "https://en.wikipedia.org/wiki/Tobe_Hooper_directed_The_Texas_Chain"
+    },
+    {
+      "text": "The Saw franchise has grossed over $1 billion worldwide across its installments, making it one of the most successful horror franchises of all time.",
+      "source": "https://en.wikipedia.org/wiki/Saw_franchise"
+    },
+    {
+      "text": "Mike Flanagan's The Haunting of Hill House (2018) features a hidden ghost in nearly every frame of certain episodes that most viewers don't notice.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Hill_House"
+    },
+    {
+      "text": "The Witch (2015), also styled as The VVitch, used only natural lighting and candles to achieve its period-accurate 1630s New England look.",
+      "source": "https://en.wikipedia.org/wiki/Witch"
+    },
+    {
+      "text": "In Scream (1996), Drew Barrymore was originally cast as the lead Sidney Prescott but asked to play Casey Becker instead so her early death would shock audiences.",
+      "source": "https://en.wikipedia.org/wiki/In_Scream"
+    },
+    {
+      "text": "Nosferatu (1922) was an unauthorized adaptation of Bram Stoker's Dracula, and a court ordered all copies destroyed, though some survived.",
+      "source": "https://en.wikipedia.org/wiki/Nosferatu"
+    },
+    {
+      "text": "Korean horror film Train to Busan (2016) was praised for reinventing the zombie genre with its intense action and emotional depth.",
+      "source": "https://en.wikipedia.org/wiki/Busan"
+    },
+    {
+      "text": "The Conjuring universe has grossed over $2 billion worldwide, making it the highest-grossing horror franchise in history.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Conjuring_universe"
+    },
+    {
+      "text": "James Wan directed both The Conjuring and Insidious, establishing himself as one of the most commercially successful horror directors of the 21st century.",
+      "source": "https://en.wikipedia.org/wiki/James_Wan"
+    },
+    {
+      "text": "Night of the Living Dead (1968) was one of the first American films to feature a Black actor, Duane Jones, in the lead role, which was revolutionary for its time.",
+      "source": "https://en.wikipedia.org/wiki/Living_Dead"
+    },
+    {
+      "text": "The French extremity movement, including films like Martyrs (2008) and Inside (2007), pushed horror into graphic, confrontational territory.",
+      "source": "https://en.wikipedia.org/wiki/Martyrs"
+    },
+    {
+      "text": "Halloween (1978) was released on October 25, 1978, and was made for just $325,000 but earned over $70 million worldwide.",
+      "month": 10,
+      "day": 25,
+      "source": "https://en.wikipedia.org/wiki/Halloween"
+    },
+    {
+      "text": "Child's Play (1988) was inspired by the real legend of Robert the Doll, a supposedly haunted doll kept in a museum in Key West, Florida.",
+      "source": "https://en.wikipedia.org/wiki/Child%27s_Play"
+    },
+    {
+      "text": "Jordan Peele became the first Black writer-director to earn over $100 million at the domestic box office with Get Out.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Jordan_Peele"
+    },
+    {
+      "text": "The practical creature effects in John Carpenter's The Thing (1982) were created by Rob Bottin, who was only 22 years old and hospitalized from exhaustion after filming.",
+      "source": "https://en.wikipedia.org/wiki/John_Carpenter%27s_The_Thing"
+    },
+    {
+      "text": "Midsommar (2019) was filmed almost entirely in broad daylight, subverting the horror convention that scary things happen in the dark.",
+      "source": "https://en.wikipedia.org/wiki/Midsommar"
+    },
+    {
+      "text": "The iconic shower scene in Psycho took seven days to shoot, used 70 camera angles, and featured chocolate syrup as blood.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/iconic_shower_scene_in_Psycho"
+    },
+    {
+      "text": "Yellowjackets premiered on Showtime on November 14, 2021, blending survival drama with psychological horror across two timelines.",
+      "month": 11,
+      "day": 14,
+      "source": "https://en.wikipedia.org/wiki/Showtime"
+    },
+    {
+      "text": "Final Destination (2000) was originally written as a spec script for The X-Files before being developed into a standalone film.",
+      "source": "https://en.wikipedia.org/wiki/Final_Destination"
+    },
+    {
+      "text": "The Evil Dead (1981) was filmed in a remote cabin in Tennessee, and director Sam Raimi put his cast through genuinely grueling conditions.",
+      "source": "https://en.wikipedia.org/wiki/Evil_Dead"
+    },
+    {
+      "text": "Cosmic horror, inspired by H.P. Lovecraft's writings, emphasizes humanity's insignificance against incomprehensible cosmic entities.",
+      "source": "https://en.wikipedia.org/wiki/Cosmic_horror"
+    },
+    {
+      "text": "Boris Karloff's portrayal of the Monster in Frankenstein (1931) required over four hours of makeup application by Jack Pierce each day.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Frankenstein"
+    },
+    {
+      "text": "Get Out was released on February 24, 2017, and went on to win the Academy Award for Best Original Screenplay.",
+      "month": 2,
+      "day": 24,
+      "source": "https://en.wikipedia.org/wiki/Get_Out"
+    },
+    {
+      "text": "The Candyman (1992) explored themes of racism, urban legends, and gentrification through its setting in Chicago's Cabrini-Green housing projects.",
+      "source": "https://en.wikipedia.org/wiki/Candyman"
+    },
+    {
+      "text": "KNB EFX Group, founded by Robert Kurtzman, Greg Nicotero, and Howard Berger, has created effects for over 400 films and TV shows including The Walking Dead.",
+      "source": "https://en.wikipedia.org/wiki/KNB_EFX_Group"
+    },
+    {
+      "text": "Rosemary's Baby (1968) was filmed on location at the Dakota building in New York City, where John Lennon was later tragically killed.",
+      "source": "https://en.wikipedia.org/wiki/Rosemary%27s_Baby"
+    },
+    {
+      "text": "A Nightmare on Elm Street (1984) was partly inspired by real news articles about Southeast Asian refugees who died in their sleep from unexplained causes.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Elm_Street"
+    },
+    {
+      "text": "The Shining (1980) required a record-breaking 127 takes for one scene with Shelley Duvall, which director Stanley Kubrick insisted on reshooting.",
+      "source": "https://en.wikipedia.org/wiki/Shining"
+    },
+    {
+      "text": "Paranormal Activity used Paramount's marketing budget to let audiences 'demand' screenings in their cities, creating viral grassroots buzz.",
+      "source": "https://en.wikipedia.org/wiki/Paranormal_Activity"
+    },
+    {
+      "text": "Midnight Mass (2021), created by Mike Flanagan, explored themes of faith, addiction, and mortality on a small isolated island.",
+      "source": "https://en.wikipedia.org/wiki/Midnight_Mass"
+    },
+    {
+      "text": "The body horror subgenre, pioneered by David Cronenberg, focuses on the violation or transformation of the human body to create dread.",
+      "source": "https://en.wikipedia.org/wiki/David_Cronenberg"
+    },
+    {
+      "text": "Bela Lugosi was buried in his Dracula cape at his own request after his death in 1956.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Bela_Lugosi"
+    },
+    {
+      "text": "It (2017) became the highest-grossing horror film of all time at the point of its release, earning over $700 million worldwide.",
+      "source": "https://en.wikipedia.org/wiki/It"
+    },
+    {
+      "text": "The Omen was released on June 6, 1976 — 6/6/76 — intentionally chosen for its devilish numerology.",
+      "month": 6,
+      "day": 6,
+      "source": "https://en.wikipedia.org/wiki/Omen"
+    },
+    {
+      "text": "I Know What You Did Last Summer (1997) was based on a 1973 novel by Lois Duncan, who was unhappy with the film's slasher approach to her mystery story.",
+      "source": "https://en.wikipedia.org/wiki/Know_What_You_Did_Last_Summer"
+    },
+    {
+      "text": "George Romero's zombie films served as social commentary, with Night of the Living Dead critiquing racism and Dawn of the Dead satirizing consumerism.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/George_Romero%27s"
+    },
+    {
+      "text": "The Insidious franchise introduced the concept of 'The Further,' an astral plane where malevolent spirits dwell.",
+      "source": "https://en.wikipedia.org/wiki/Insidious_franchise"
+    },
+    {
+      "text": "Ju-On: The Grudge (2002) popularized the onryō ghost archetype in Western culture, featuring spirits driven by rage and vengeance.",
+      "source": "https://en.wikipedia.org/wiki/Ju-On:_The_Grudge"
+    },
+    {
+      "text": "Servant, created by Tony Basgallop and produced by M. Night Shyamalan, ran for four seasons on Apple TV+ as a psychological horror thriller.",
+      "source": "https://en.wikipedia.org/wiki/Servant"
+    },
+    {
+      "text": "Alfred Hitchcock bought up as many copies of the Psycho source novel as he could to keep the ending a secret from audiences.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Alfred_Hitchcock"
+    },
+    {
+      "text": "Barbarian (2022) was praised for its unpredictable plot structure, pivoting between multiple characters and timelines in surprising ways.",
+      "source": "https://en.wikipedia.org/wiki/Barbarian"
+    },
+    {
+      "text": "The werewolf film subgenre dates back to Werewolf of London (1935), six years before the more famous The Wolf Man (1941).",
+      "source": "https://en.wikipedia.org/wiki/London"
+    },
+    {
+      "text": "Scream was released on December 20, 1996, and revitalized the slasher genre by deconstructing its own tropes.",
+      "month": 12,
+      "day": 20,
+      "source": "https://en.wikipedia.org/wiki/Scream"
+    },
+    {
+      "text": "Smile (2022) was originally developed as a short film called Laura Hasn't Slept before being expanded into a feature.",
+      "source": "https://en.wikipedia.org/wiki/Smile"
+    },
+    {
+      "text": "The Hellraiser franchise is based on Clive Barker's novella The Hellbound Heart and features the iconic Cenobite villain Pinhead.",
+      "source": "https://en.wikipedia.org/wiki/Hellraiser_franchise"
+    },
+    {
+      "text": "Toni Collette's performance in Hereditary was widely regarded as one of the best horror performances ever, though she was not nominated for an Oscar.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Toni_Collette%27s_performance_in_Hereditary"
+    },
+    {
+      "text": "The Chucky TV series premiered on Syfy and USA Network in 2021, continuing the Child's Play franchise with original creator Don Mancini at the helm.",
+      "source": "https://en.wikipedia.org/wiki/Chucky_TV"
+    },
+    {
+      "text": "Folk horror, exemplified by The Wicker Man (1973), explores the terror of ancient rituals and pagan beliefs persisting in isolated communities.",
+      "source": "https://en.wikipedia.org/wiki/Wicker_Man"
+    },
+    {
+      "text": "John Carpenter's Halloween was the first film to use the Steadicam for a killer's point-of-view shot in its famous opening sequence.",
+      "source": "https://en.wikipedia.org/wiki/John_Carpenter%27s_Halloween"
+    },
+    {
+      "text": "Nope (2022) by Jordan Peele was a sci-fi horror film that explored themes of spectacle, exploitation, and Hollywood's treatment of animals.",
+      "source": "https://en.wikipedia.org/wiki/Nope"
+    },
+    {
+      "text": "The original Dracula (1931) starring Bela Lugosi was filmed simultaneously in English and Spanish versions using the same sets.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Dracula"
+    },
+    {
+      "text": "A Quiet Place (2018) was co-written by and starred real-life couple John Krasinski and Emily Blunt.",
+      "source": "https://en.wikipedia.org/wiki/Quiet_Place"
+    },
+    {
+      "text": "The Texas Chain Saw Massacre was inspired in part by the real crimes of Ed Gein, who also inspired Psycho and The Silence of the Lambs.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Texas_Chain_Saw_Massacre"
+    },
+    {
+      "text": "Us (2019) features Lupita Nyong'o in a dual role, and she developed two distinct voices for her characters Adelaide and Red.",
+      "source": "https://en.wikipedia.org/wiki/Us"
+    },
+    {
+      "text": "The Exorcist was the first horror film to be nominated for the Academy Award for Best Picture.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Exorcist"
+    },
+    {
+      "text": "Wes Craven originally envisioned Freddy Krueger as a child molester, but toned down the backstory due to real-world child abuse cases in the news.",
+      "source": "https://en.wikipedia.org/wiki/Wes_Craven"
+    },
+    {
+      "text": "The Blair Witch Project actors were given less and less food during filming to capture genuine frustration and desperation on camera.",
+      "source": "https://en.wikipedia.org/wiki/Blair_Witch_Project_actors"
+    },
+    {
+      "text": "Halloween (2018) brought back Jamie Lee Curtis as Laurie Strode 40 years after the original and grossed $255 million worldwide.",
+      "source": "https://en.wikipedia.org/wiki/Halloween"
+    },
+    {
+      "text": "Dario Argento's Suspiria (1977) is considered a masterpiece of Italian horror, known for its vivid Technicolor palette and Goblin's prog-rock score.",
+      "source": "https://en.wikipedia.org/wiki/Dario_Argento%27s_Suspiria"
+    },
+    {
+      "text": "The Conjuring (2013) was released on July 19, 2013, and earned over $319 million worldwide on a $20 million budget.",
+      "month": 7,
+      "day": 19,
+      "source": "https://en.wikipedia.org/wiki/Conjuring"
+    },
+    {
+      "text": "Vampire films date back to Nosferatu (1922), making vampires one of the oldest monster archetypes in cinema history.",
+      "source": "https://en.wikipedia.org/wiki/Nosferatu"
+    },
+    {
+      "text": "Robert Englund played Freddy Krueger in eight films over 19 years, making the character one of the most iconic villains in horror.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Robert_Englund"
+    },
+    {
+      "text": "Ari Aster's films Hereditary and Midsommar both explore grief and family trauma through the lens of escalating, disturbing horror.",
+      "source": "https://en.wikipedia.org/wiki/Ari_Aster%27s"
+    },
+    {
+      "text": "The Scream franchise's Ghostface mask was based on Edvard Munch's painting The Scream and was found by producer Marianne Maddalena in a house during location scouting.",
+      "source": "https://en.wikipedia.org/wiki/Scream_franchise%27s_Ghostface_mask"
+    },
+    {
+      "text": "Night of the Living Dead (1968) accidentally entered the public domain because the distributor forgot to include a copyright notice on prints.",
+      "source": "https://en.wikipedia.org/wiki/Living_Dead"
+    },
+    {
+      "text": "Hereditary was released on June 8, 2018, and was called 'this generation's Exorcist' by critics.",
+      "month": 6,
+      "day": 8,
+      "source": "https://en.wikipedia.org/wiki/Hereditary"
+    },
+    {
+      "text": "The original Paranormal Activity ending was changed at Steven Spielberg's suggestion after he watched a screener and offered notes.",
+      "source": "https://en.wikipedia.org/wiki/original_Paranormal_Activity_ending"
+    },
+    {
+      "text": "The Walking Dead's Greg Nicotero, who leads the show's makeup effects, was a protégé of legendary effects artist Tom Savini.",
+      "source": "https://en.wikipedia.org/wiki/Walking_Dead%27s_Greg_Nicotero%2C_who_leads_the_show%27s_makeup_effects"
+    },
+    {
+      "text": "Psychological horror relies on the characters' mental and emotional states rather than gore or monsters to create fear.",
+      "source": "https://en.wikipedia.org/wiki/Horror_film"
+    },
+    {
+      "text": "Jordan Peele won the Academy Award for Best Original Screenplay for Get Out on March 4, 2018.",
+      "month": 3,
+      "day": 4,
+      "source": "https://en.wikipedia.org/wiki/Jordan_Peele"
+    },
+    {
+      "text": "The Shining's 'Here's Johnny!' line was improvised by Jack Nicholson and was not in the script.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Shining%27s_%27Here%27s_Johnny%21%27_line"
+    },
+    {
+      "text": "Candyman's Tony Todd negotiated to be paid $1,000 for every bee sting he received during filming — he was stung 23 times.",
+      "source": "https://en.wikipedia.org/wiki/Candyman%27s_Tony_Todd"
+    },
+    {
+      "text": "Saw (2004) was shot in just 18 days and launched a billion-dollar franchise.",
+      "source": "https://en.wikipedia.org/wiki/Saw"
+    },
+    {
+      "text": "The Haunting of Hill House features a 17-minute single-take episode, 'Two Storms,' that required extensive choreography and rehearsal.",
+      "source": "https://en.wikipedia.org/wiki/Haunting_of_Hill_House"
+    },
+    {
+      "text": "The Exorcist's director William Friedkin fired a gun on set to get genuine startled reactions from the cast.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Exorcist%27s_director_William_Friedkin_fired_a_gun_on"
+    },
+    {
+      "text": "Midsommar (2019) was released on July 3, 2019, and featured a director's cut that was nearly 30 minutes longer than the theatrical version.",
+      "month": 7,
+      "day": 3,
+      "source": "https://en.wikipedia.org/wiki/Midsommar"
+    },
+    {
+      "text": "The zombie genre was virtually dormant in mainstream cinema between Night of the Living Dead (1968) and Dawn of the Dead (1978).",
+      "source": "https://en.wikipedia.org/wiki/Living_Dead"
+    },
+    {
+      "text": "In Friday the 13th Part 2 (1981), Jason Voorhees wore a burlap sack over his head — the iconic hockey mask did not appear until Part III.",
+      "source": "https://en.wikipedia.org/wiki/In_Friday_the"
+    },
+    {
+      "text": "Jamie Lee Curtis is often called the original 'scream queen' for her role in Halloween (1978), though the term existed earlier.",
+      "source": "https://en.wikipedia.org/wiki/Halloween"
+    },
+    {
+      "text": "James Wan created both the Saw and Insidious franchises before directing the Conjuring universe, amassing billions at the global box office.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/James_Wan"
+    },
+    {
+      "text": "The original poster for The Exorcist, showing a man standing before a window of light, is one of the most iconic movie posters ever designed.",
+      "source": "https://en.wikipedia.org/wiki/original_poster_for_The_Exorcist%2C_showing_a_man_standing_before_a_window_of_light"
+    },
+    {
+      "text": "Wes Craven directed both A Nightmare on Elm Street (1984) and Scream (1996), bookending and reviving the slasher genre twice.",
+      "source": "https://en.wikipedia.org/wiki/Elm_Street"
+    },
+    {
+      "text": "It Chapter Two (2019) featured Bill Hader, James McAvoy, and Jessica Chastain as the adult versions of the Losers' Club.",
+      "source": "https://en.wikipedia.org/wiki/It_Chapter_Two"
+    },
+    {
+      "text": "The Silence of the Lambs (1991) is one of only three films to win all five major Academy Awards — Best Picture, Director, Actor, Actress, and Screenplay.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Lambs"
+    },
+    {
+      "text": "The Blair Witch Project was released on July 30, 1999, and pioneered viral internet marketing with its fake documentary website.",
+      "month": 7,
+      "day": 30,
+      "source": "https://en.wikipedia.org/wiki/Blair_Witch_Project"
+    },
+    {
+      "text": "American Horror Story has featured recurring actors like Sarah Paulson, Evan Peters, and Jessica Lange playing different characters each season.",
+      "source": "https://en.wikipedia.org/wiki/American_Horror_Story"
+    },
+    {
+      "text": "The creature design of the Xenomorph from Alien (1979) was created by Swiss artist H.R. Giger, blending biomechanical and organic forms.",
+      "source": "https://en.wikipedia.org/wiki/Alien"
+    },
+    {
+      "text": "Poltergeist (1982) is associated with a supposed curse — several cast members died under unusual circumstances in the years following its release.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Poltergeist"
+    },
+    {
+      "text": "A Nightmare on Elm Street was released on November 9, 1984, and launched the career of Johnny Depp, who appeared in his first film role.",
+      "month": 11,
+      "day": 9,
+      "source": "https://en.wikipedia.org/wiki/A_Nightmare_on_Elm_Street"
+    },
+    {
+      "text": "Mike Flanagan has become Netflix's go-to horror creator, directing The Haunting of Hill House, Bly Manor, Midnight Mass, and The Fall of the House of Usher.",
+      "source": "https://en.wikipedia.org/wiki/Mike_Flanagan"
+    },
+    {
+      "text": "The original Godzilla (1954) was a Japanese horror allegory for the atomic bombings of Hiroshima and Nagasaki.",
+      "source": "https://en.wikipedia.org/wiki/Godzilla"
+    },
+    {
+      "text": "In Rosemary's Baby, director Roman Polanski insisted on real locations and naturalistic performances to make the horror feel grounded and believable.",
+      "source": "https://en.wikipedia.org/wiki/In_Rosemary%27s_Baby"
+    },
+    {
+      "text": "The Evil Dead franchise spans five films, a TV series (Ash vs Evil Dead), and has become a cornerstone of horror-comedy.",
+      "source": "https://en.wikipedia.org/wiki/Evil_Dead_franchise_spans_five_films%2C_a_TV_series_(Ash_vs_Evil_Dead)%2C_and"
+    },
+    {
+      "text": "Ghostface in the Scream series has been played by different killers in each installment, making the identity always a mystery.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Ghostface_in_the_Scream_series"
+    },
+    {
+      "text": "The Conjuring 2 (2016) is set in Enfield, England, and is based on the real Enfield Poltergeist case from 1977.",
+      "source": "https://en.wikipedia.org/wiki/Conjuring_2_(2016)"
+    },
+    {
+      "text": "Friday the 13th (1980) was released on May 9, 1980, and spawned twelve films, a TV series, novels, comic books, and video games.",
+      "month": 5,
+      "day": 9,
+      "source": "https://en.wikipedia.org/wiki/Friday_the_13th_(1980)"
+    },
+    {
+      "text": "The Witch (2015) director Robert Eggers sourced his dialogue from actual 17th-century journals, letters, and court documents.",
+      "source": "https://en.wikipedia.org/wiki/Witch"
+    },
+    {
+      "text": "Stanley Kubrick's The Shining diverged significantly from Stephen King's novel, leading King to publicly express his dissatisfaction with the adaptation.",
+      "source": "https://en.wikipedia.org/wiki/Stanley_Kubrick%27s_The_Shining"
+    },
+    {
+      "text": "Dawn of the Dead (1978) was filmed in the Monroeville Mall in Pennsylvania over four months, mostly shooting at night after the mall closed.",
+      "source": "https://en.wikipedia.org/wiki/Dead"
+    },
+    {
+      "text": "The original budget for Night of the Living Dead was just $114,000, raised by Romero and his friends pooling their own money.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/original_budget_for_Night_of_the_Living_Dead"
+    },
+    {
+      "text": "Insidious (2010) was made for just $1.5 million and earned over $97 million worldwide, proving horror remains a profitable genre.",
+      "source": "https://en.wikipedia.org/wiki/Insidious"
+    },
+    {
+      "text": "The term 'giallo' literally means 'yellow' in Italian, referring to the yellow covers of cheap mystery paperback novels popular in Italy.",
+      "source": "https://en.wikipedia.org/wiki/Horror_film"
+    },
+    {
+      "text": "Stranger Things draws heavily from the works of Stephen King, Steven Spielberg, and John Carpenter in its visual style and storytelling.",
+      "source": "https://en.wikipedia.org/wiki/Stranger_Things"
+    },
+    {
+      "text": "The Shining was released on May 23, 1980, and while initially receiving mixed reviews, it is now considered one of the greatest horror films ever made.",
+      "month": 5,
+      "day": 23,
+      "source": "https://en.wikipedia.org/wiki/Shining"
+    },
+    {
+      "text": "In the original Halloween, the character of Michael Myers is credited as 'The Shape' to emphasize his role as a faceless embodiment of evil.",
+      "source": "https://en.wikipedia.org/wiki/In_the_original_Halloween%2C_the_character_of_Michael_Myers"
+    },
+    {
+      "text": "Tom Savini designed the practical effects for Friday the 13th (1980), creating the graphic kills that became the franchise's signature.",
+      "source": "https://en.wikipedia.org/wiki/Tom_Savini"
+    },
+    {
+      "text": "The Orphanage (El Orfanato, 2007) is a Spanish horror film produced by Guillermo del Toro that blends ghost story elements with emotional drama.",
+      "source": "https://en.wikipedia.org/wiki/Orphanage_(El_Orfanato%2C_2007)"
+    },
+    {
+      "text": "Get Out's concept of the 'Sunken Place' became a widely used cultural metaphor for the marginalization of Black voices.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Get_Out%27s_concept_of_the_%27Sunken_Place"
+    },
+    {
+      "text": "Hellraiser (1987) was written and directed by Clive Barker, based on his own novella The Hellbound Heart, and introduced the Cenobites to horror cinema.",
+      "source": "https://en.wikipedia.org/wiki/Hellraiser"
+    },
+    {
+      "text": "Paranormal Activity was released on September 25, 2009, in wide release after a limited run that built massive word-of-mouth.",
+      "month": 9,
+      "day": 25,
+      "source": "https://en.wikipedia.org/wiki/Paranormal_Activity"
+    },
+    {
+      "text": "The 'jump scare' technique dates back to producer Val Lewton's Cat People (1942), which pioneered the 'Lewton Bus' — a sudden benign noise after tension.",
+      "source": "https://en.wikipedia.org/wiki/Val_Lewton%27s_Cat_People"
+    },
+    {
+      "text": "Jordan Peele's Nope (2022) featured a creature that was deliberately designed to look like a UFO but was actually a living organism.",
+      "source": "https://en.wikipedia.org/wiki/Jordan_Peele%27s_Nope"
+    },
+    {
+      "text": "Freddy Krueger's glove with razor-tipped fingers was designed by Wes Craven to be something a child could make, reflecting the character's twisted creativity.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Freddy_Krueger%27s_glove_with_razor-tipped_fingers"
+    },
+    {
+      "text": "The Haunting of Bly Manor (2020) was Mike Flanagan's follow-up to Hill House, loosely adapting Henry James's The Turn of the Screw.",
+      "source": "https://en.wikipedia.org/wiki/Bly_Manor"
+    },
+    {
+      "text": "Child's Play creator Don Mancini has been involved in every Chucky film, making it one of the most creator-driven horror franchises.",
+      "source": "https://en.wikipedia.org/wiki/Child%27s_Play_creator_Don_Mancini"
+    },
+    {
+      "text": "In Alien (1979), the chestburster scene shocked the cast because director Ridley Scott did not tell them what would happen, capturing genuine terror.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/In_Alien"
+    },
+    {
+      "text": "The Final Destination franchise is built around elaborate Rube Goldberg-style death sequences where Death picks off survivors of a disaster.",
+      "source": "https://en.wikipedia.org/wiki/Final_Destination_franchise"
+    },
+    {
+      "text": "John Carpenter's The Thing (1982) was a box office failure on release, partly because it opened two weeks after the family-friendly E.T. the Extra-Terrestrial.",
+      "source": "https://en.wikipedia.org/wiki/John_Carpenter%27s_The_Thing"
+    },
+    {
+      "text": "The Babadook director Jennifer Kent studied experimental and art films to craft the surreal visual style of the monster.",
+      "source": "https://en.wikipedia.org/wiki/Babadook"
+    },
+    {
+      "text": "Scream (1996) was written by Kevin Williamson, who conceived the story after watching a documentary about the Gainesville Ripper.",
+      "source": "https://en.wikipedia.org/wiki/Scream"
+    },
+    {
+      "text": "Dracula (1931) was released on February 12, 1931, and Bela Lugosi's performance defined the popular image of Count Dracula.",
+      "month": 2,
+      "day": 12,
+      "source": "https://en.wikipedia.org/wiki/Dracula"
+    },
+    {
+      "text": "The 'torture porn' subgenre, exemplified by Hostel and Saw, became a dominant trend in mid-2000s horror and sparked significant debate.",
+      "source": "https://en.wikipedia.org/wiki/%27torture_porn%27_subgenre%2C_exemplified_by_Hostel_and"
+    },
+    {
+      "text": "Ari Aster's Hereditary features a miniature recreation of the family's home that took the art department weeks to build to scale.",
+      "source": "https://en.wikipedia.org/wiki/Ari_Aster%27s_Hereditary"
+    },
+    {
+      "text": "The original Night of the Living Dead never uses the word 'zombie' — the creatures are referred to as 'ghouls.'",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/original_Night_of_the_Living_Dead_never_uses_the_word_%27zombie%27_%E2%80%94_the_creatures"
+    },
+    {
+      "text": "The Exorcist author William Peter Blatty based his novel on a 1949 exorcism case involving a young boy in Maryland.",
+      "source": "https://en.wikipedia.org/wiki/Exorcist"
+    },
+    {
+      "text": "It (2017) was released on September 8, 2017, and broke multiple box office records for horror and R-rated films.",
+      "month": 9,
+      "day": 8,
+      "source": "https://en.wikipedia.org/wiki/It"
+    },
+    {
+      "text": "The bird imagery in Hitchcock's The Birds (1963) was partially achieved by throwing live birds at actress Tippi Hedren during filming.",
+      "source": "https://en.wikipedia.org/wiki/Hitchcock%27s_The_Birds"
+    },
+    {
+      "text": "Halloween's budget was so low that many of the actors wore their own clothes, and the fake autumn leaves were recycled and repainted between scenes.",
+      "source": "https://en.wikipedia.org/wiki/Halloween%27s_budget"
+    },
+    {
+      "text": "Ringu (1998) was based on Koji Suzuki's novel Ring and spawned a worldwide trend of Asian horror remakes in Hollywood.",
+      "source": "https://en.wikipedia.org/wiki/Ringu"
+    },
+    {
+      "text": "In Midsommar, the flower dress worn by Florence Pugh's character in the finale weighs approximately 33 pounds.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/In_Midsommar"
+    },
+    {
+      "text": "George Romero turned down the chance to direct Resident Evil (2002), feeling the studio wanted too much creative control.",
+      "source": "https://en.wikipedia.org/wiki/Resident_Evil"
+    },
+    {
+      "text": "The horror convention circuit, including events like Monsterpalooza and HorrorHound, draws hundreds of thousands of fans annually.",
+      "source": "https://en.wikipedia.org/wiki/Monsterpalooza_and_HorrorHound"
+    },
+    {
+      "text": "Frankenstein (1931) was released on November 21, 1931, and Boris Karloff's portrayal of the Monster became instantly iconic.",
+      "month": 11,
+      "day": 21,
+      "source": "https://en.wikipedia.org/wiki/Frankenstein"
+    },
+    {
+      "text": "The Conjuring's farmhouse set was built from scratch in North Carolina, and James Wan insisted on practical scares over CGI wherever possible.",
+      "source": "https://en.wikipedia.org/wiki/Conjuring%27s_farmhouse_set"
+    },
+    {
+      "text": "Tobe Hooper went on to direct Poltergeist (1982) after The Texas Chain Saw Massacre, though Steven Spielberg's involvement led to a long-running directorial credit debate.",
+      "source": "https://en.wikipedia.org/wiki/Poltergeist"
+    },
+    {
+      "text": "A Quiet Place Part II (2021) was one of the first major blockbusters released theatrically after the COVID-19 pandemic shutdowns.",
+      "source": "https://en.wikipedia.org/wiki/Quiet_Place_Part_II"
+    },
+    {
+      "text": "The Black Phone (2022) was directed by Scott Derrickson and starred Ethan Hawke as a masked kidnapper called The Grabber.",
+      "source": "https://en.wikipedia.org/wiki/Black_Phone"
+    },
+    {
+      "text": "John Carpenter was paid only $10,000 to direct Halloween, but negotiated a percentage of profits that earned him millions.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/John_Carpenter"
+    },
+    {
+      "text": "The zombie walk phenomenon, where large groups dress as zombies and shamble through cities, began in Sacramento in 2001 and spread worldwide.",
+      "source": "https://en.wikipedia.org/wiki/Sacramento_in_2001_and"
+    },
+    {
+      "text": "Ready or Not (2019) blended horror with dark comedy as a bride must survive a deadly game of hide and seek with her new in-laws.",
+      "source": "https://en.wikipedia.org/wiki/Not"
+    },
+    {
+      "text": "The Amityville Horror (1979) was based on Jay Anson's book about the allegedly haunted Lutz family home on Long Island.",
+      "source": "https://en.wikipedia.org/wiki/Amityville_Horror"
+    },
+    {
+      "text": "Psycho (1960) was released on June 16, 1960, and Hitchcock demanded that theaters not admit anyone after the film had started.",
+      "month": 6,
+      "day": 16,
+      "source": "https://en.wikipedia.org/wiki/Psycho"
+    },
+    {
+      "text": "The werewolf transformation in An American Werewolf in London set a new standard for practical effects and won the inaugural Best Makeup Oscar.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/werewolf_transformation_in_An_American_Werewolf_in_London"
+    },
+    {
+      "text": "Annihilation (2018) blended sci-fi and body horror, featuring a biological entity called the Shimmer that mutates everything within its expanding boundary.",
+      "source": "https://en.wikipedia.org/wiki/Annihilation"
+    },
+    {
+      "text": "In The Shining, the carpet pattern in the Overlook Hotel has become one of the most analyzed and referenced design elements in film history.",
+      "source": "https://en.wikipedia.org/wiki/In_The_Shining%2C_the_carpet_pattern_in_the_Overlook_Hotel"
+    },
+    {
+      "text": "The remake of Suspiria (2018), directed by Luca Guadagnino, divided audiences with its radical reimagining of Argento's 1977 original.",
+      "source": "https://en.wikipedia.org/wiki/Suspiria"
+    },
+    {
+      "text": "Halloween III: Season of the Witch (1982) is the only film in the Halloween franchise that does not feature Michael Myers.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Witch"
+    },
+    {
+      "text": "James Wan's directorial debut was Saw (2004), which he co-created with Leigh Whannell while they were film students in Melbourne, Australia.",
+      "source": "https://en.wikipedia.org/wiki/Saw"
+    },
+    {
+      "text": "The Lighthouse (2019) by Robert Eggers was shot in black and white with a nearly square 1.19:1 aspect ratio to evoke a claustrophobic 19th-century feel.",
+      "source": "https://en.wikipedia.org/wiki/Lighthouse"
+    },
+    {
+      "text": "Host (2020) was a found footage horror film made entirely over Zoom during the COVID-19 lockdown and was critically acclaimed.",
+      "source": "https://en.wikipedia.org/wiki/Host"
+    },
+    {
+      "text": "The Rosemary's Baby apartment building, the Bramford, was a fictionalized version of the Dakota, one of Manhattan's most famous residences.",
+      "source": "https://en.wikipedia.org/wiki/Rosemary%27s_Baby_apartment_building%2C_the_Bramford"
+    },
+    {
+      "text": "Candyman (2021) was a direct sequel to the 1992 original and explored gentrification and racial violence in modern-day Chicago.",
+      "source": "https://en.wikipedia.org/wiki/Candyman"
+    },
+    {
+      "text": "Roger Corman produced dozens of low-budget horror films in the 1950s and 60s and served as a mentor to directors like Francis Ford Coppola and Martin Scorsese.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Roger_Corman"
+    },
+    {
+      "text": "The Saw franchise's 'Jigsaw Killer,' John Kramer, technically never directly kills anyone — he creates elaborate traps and considers himself a teacher.",
+      "source": "https://en.wikipedia.org/wiki/The"
+    },
+    {
+      "text": "Smile (2022) was released on September 30, 2022, and its viral marketing campaign featured actors with unsettling smiles at live sporting events.",
+      "month": 9,
+      "day": 30,
+      "source": "https://en.wikipedia.org/wiki/Smile"
+    },
+    {
+      "text": "The vampire film Let the Right One In (2008) from Sweden is considered one of the best vampire films ever made, blending childhood loneliness with horror.",
+      "source": "https://en.wikipedia.org/wiki/Right_One_In"
+    },
+    {
+      "text": "In A Nightmare on Elm Street, the scene where Freddy pushes through the wall above Nancy's bed was achieved by stretching spandex over the set wall.",
+      "source": "https://en.wikipedia.org/wiki/In_A_Nightmare_on_Elm_Street"
+    },
+    {
+      "text": "Scream 2 (1997) opened with a movie-within-a-movie called 'Stab,' based on the events of the first film, adding another layer of meta-commentary.",
+      "source": "https://en.wikipedia.org/wiki/Scream_2_(1997)"
+    },
+    {
+      "text": "The Descent (2005) was a British horror film set in an unmapped cave system, praised for its claustrophobic tension and female-led cast.",
+      "source": "https://en.wikipedia.org/wiki/Descent"
+    },
+    {
+      "text": "Hereditary's shocking car scene was kept out of all trailers and marketing to preserve its impact on audiences.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Hereditary%27s_shocking_car_scene"
+    },
+    {
+      "text": "The Universal Monsters — Dracula, Frankenstein, The Mummy, The Wolf Man, and The Invisible Man — were Hollywood's first shared cinematic universe.",
+      "source": "https://en.wikipedia.org/wiki/Universal_Monsters"
+    },
+    {
+      "text": "Night of the Living Dead was inducted into the National Film Registry by the Library of Congress in 1999 for being culturally significant.",
+      "source": "https://en.wikipedia.org/wiki/Night_of_the_Living_Dead"
+    },
+    {
+      "text": "The Texas Chain Saw Massacre was released on October 1, 1974, and was banned in several countries due to its intense violence.",
+      "month": 10,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/Texas_Chain_Saw_Massacre"
+    },
+    {
+      "text": "M. Night Shyamalan's The Sixth Sense (1999) features one of cinema's most famous twist endings, and grossed $672 million worldwide.",
+      "source": "https://en.wikipedia.org/wiki/M._Night_Shyamalan%27s_The_Sixth_Sense"
+    },
+    {
+      "text": "The original Candyman (1992) was based on a short story by Clive Barker called 'The Forbidden,' which was set in Liverpool, not Chicago.",
+      "source": "https://en.wikipedia.org/wiki/Candyman"
+    },
+    {
+      "text": "An American Werewolf in London (1981) blended horror and comedy in a way that influenced countless horror-comedies that followed.",
+      "source": "https://en.wikipedia.org/wiki/London"
+    },
+    {
+      "text": "The Exorcist spider-walk scene was filmed for the original 1973 release but cut — it was restored in the 2000 Director's Cut.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Exorcist_spider-walk_scene"
+    },
+    {
+      "text": "Wes Craven's New Nightmare (1994) broke the fourth wall by setting the story in the real world, predating Scream's meta approach by two years.",
+      "source": "https://en.wikipedia.org/wiki/Wes_Craven%27s_New_Nightmare"
+    },
+    {
+      "text": "Train to Busan director Yeon Sang-ho also created the animated prequel Seoul Station (2016), which tells the story of the outbreak's beginning.",
+      "source": "https://en.wikipedia.org/wiki/Seoul_Station"
+    },
+    {
+      "text": "The Blair Witch Project's actors — Heather Donahue, Michael C. Williams, and Joshua Leonard — were listed as 'missing, presumed dead' on IMDb as part of the marketing.",
+      "source": "https://en.wikipedia.org/wiki/Blair_Witch_Project%27s"
+    },
+    {
+      "text": "Psycho's Norman Bates, played by Anthony Perkins, was partly inspired by real serial killer Ed Gein's relationship with his domineering mother.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Psycho%27s_Norman_Bates%2C_played_by_Anthony_Perkins"
+    },
+    {
+      "text": "Don't Breathe (2016) reversed the typical home invasion premise by making the intruders the protagonists trapped with a dangerous blind man.",
+      "source": "https://en.wikipedia.org/wiki/Don%27t_Breathe"
+    },
+    {
+      "text": "John Carpenter considers The Thing his best film, even though it was initially panned by critics and audiences in 1982.",
+      "source": "https://en.wikipedia.org/wiki/John_Carpenter_considers_The_Thing_his_best_film%2C_even_though_it"
+    },
+    {
+      "text": "The Conjuring's Annabelle doll is based on a real Raggedy Ann doll that Ed and Lorraine Warren kept in a glass case in their occult museum.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Conjuring%27s_Annabelle_doll"
+    },
+    {
+      "text": "Prom Night (1980) capitalized on Jamie Lee Curtis's scream queen status, casting her just two years after Halloween.",
+      "source": "https://en.wikipedia.org/wiki/Prom_Night"
+    },
+    {
+      "text": "The original Scream mask was mass-produced by Fun World as a generic Halloween costume before it was discovered by the film's production team.",
+      "source": "https://en.wikipedia.org/wiki/original_Scream_mask"
+    },
+    {
+      "text": "Jordan Peele's Us (2019) was released on March 22, 2019, and featured hidden references to Jeremiah 11:11 throughout the film.",
+      "month": 3,
+      "day": 22,
+      "source": "https://en.wikipedia.org/wiki/Jordan_Peele%27s_Us"
+    },
+    {
+      "text": "The term 'elevated horror' emerged in the 2010s to describe arthouse horror films like The Witch, Hereditary, and Midsommar, though many filmmakers dislike the label.",
+      "source": "https://en.wikipedia.org/wiki/Witch"
+    },
+    {
+      "text": "Evil Dead II (1987) is both a sequel and semi-remake of the original, and is considered one of the greatest horror-comedies ever made.",
+      "source": "https://en.wikipedia.org/wiki/Evil_Dead_II"
+    },
+    {
+      "text": "In The Ring (2002), the American remake of Ringu, the cursed videotape was designed by combining multiple art films and experimental video techniques.",
+      "source": "https://en.wikipedia.org/wiki/In_The_Ring"
+    },
+    {
+      "text": "Rick Baker's makeup effects career spanned over 40 years and earned him seven Academy Awards, more than any other individual in that category.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Rick_Baker%27s_makeup_effects_career_spanned_over_40_years_and"
+    },
+    {
+      "text": "The Texas Chainsaw Massacre 2 (1986) was a deliberate dark comedy, contrasting sharply with the dead-serious tone of the original.",
+      "source": "https://en.wikipedia.org/wiki/Texas_Chainsaw_Massacre_2_(1986)"
+    },
+    {
+      "text": "Hammer Horror, the British production company, produced iconic horror films from the 1950s through 70s, starring Christopher Lee and Peter Cushing.",
+      "source": "https://en.wikipedia.org/wiki/Hammer_Horror"
+    },
+    {
+      "text": "The Conjuring was released during a period when supernatural horror was dominating the box office, following the success of Insidious and Sinister.",
+      "source": "https://en.wikipedia.org/wiki/Conjuring"
+    },
+    {
+      "text": "Child's Play (1988) was released on November 9, 1988, and the animatronic Chucky doll required nine puppeteers to operate.",
+      "month": 11,
+      "day": 9,
+      "source": "https://en.wikipedia.org/wiki/Child%27s_Play"
+    },
+    {
+      "text": "In Scream, Wes Craven makes a cameo as a school janitor wearing a Freddy Krueger-style sweater, a nod to his own creation.",
+      "source": "https://en.wikipedia.org/wiki/In_Scream"
+    },
+    {
+      "text": "The Purge franchise is built on the premise that all crime is legal for one night a year, using horror to explore socioeconomic inequality.",
+      "source": "https://en.wikipedia.org/wiki/Purge_franchise"
+    },
+    {
+      "text": "The Autopsy of Jane Doe (2016) set its entire story inside a morgue, creating claustrophobic tension from a single-location premise.",
+      "source": "https://en.wikipedia.org/wiki/Jane_Doe"
+    },
+    {
+      "text": "William Friedkin slapped actor Father William O'Malley in the face before filming a key scene in The Exorcist to get a more emotional performance.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/William_Friedkin"
+    },
+    {
+      "text": "It Follows (2014) used a retro synthesizer score and ambiguous time period to create an unsettling, dreamlike atmosphere.",
+      "source": "https://en.wikipedia.org/wiki/It_Follows"
+    },
+    {
+      "text": "The original Saw was inspired by creators James Wan and Leigh Whannell wanting to make a horror film cheaply — most of it takes place in one room.",
+      "source": "https://en.wikipedia.org/wiki/original_Saw"
+    },
+    {
+      "text": "Peeping Tom (1960) was so controversial upon release that it effectively ended director Michael Powell's career, though it's now considered a classic.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Peeping_Tom"
+    },
+    {
+      "text": "The Grudge (2004), the American remake starring Sarah Michelle Gellar, was directed by the original Ju-On director Takashi Shimizu.",
+      "source": "https://en.wikipedia.org/wiki/Grudge"
+    },
+    {
+      "text": "The Shining's twins, played by Lisa and Louise Burns, were actually 12 years old during filming, not the younger age they appear.",
+      "source": "https://en.wikipedia.org/wiki/Shining%27s_twins%2C_played_by_Lisa_and_Louise_Burns"
+    },
+    {
+      "text": "Tobe Hooper's The Texas Chain Saw Massacre was initially rated X and had to be significantly edited to receive an R rating for wider release.",
+      "source": "https://en.wikipedia.org/wiki/Tobe_Hooper%27s_The_Texas_Chain_Saw_Massacre"
+    },
+    {
+      "text": "Truth or Dare (2018), Happy Death Day (2017), and other Blumhouse productions exemplify the studio's model of producing horror films for under $5 million.",
+      "source": "https://en.wikipedia.org/wiki/Dare"
+    },
+    {
+      "text": "The Exorcist was released in only 26 theaters initially, and lines stretched around city blocks for weeks.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Exorcist"
+    },
+    {
+      "text": "Alfred Hitchcock never won an Academy Award for Best Director despite multiple nominations, including for Psycho and Rear Window.",
+      "source": "https://en.wikipedia.org/wiki/Alfred_Hitchcock_never"
+    },
+    {
+      "text": "Cabin in the Woods (2012), co-written by Joss Whedon, deconstructed horror tropes by revealing a secret organization controlling monster scenarios.",
+      "source": "https://en.wikipedia.org/wiki/Woods"
+    },
+    {
+      "text": "The Invisible Man (2020) reimagined the classic Universal monster as a domestic abuse thriller, starring Elisabeth Moss.",
+      "source": "https://en.wikipedia.org/wiki/Invisible_Man"
+    },
+    {
+      "text": "A Nightmare on Elm Street 3: Dream Warriors (1987) is widely considered the best sequel in the franchise, co-written by Frank Darabont.",
+      "source": "https://en.wikipedia.org/wiki/Elm_Street_3:_Dream_Warriors"
+    },
+    {
+      "text": "Mike Flanagan's Doctor Sleep (2019) served as both a sequel to Kubrick's The Shining and an adaptation of Stephen King's novel, bridging two conflicting visions.",
+      "source": "https://en.wikipedia.org/wiki/Mike_Flanagan%27s_Doctor_Sleep"
+    },
+    {
+      "text": "The original Ghostbusters (1984), while more comedy, draws heavily on horror imagery with its ghosts, demons, and apocalyptic climax.",
+      "source": "https://en.wikipedia.org/wiki/Ghostbusters"
+    },
+    {
+      "text": "Leatherface's mask in The Texas Chain Saw Massacre was made by the art department from layers of fiberglass and latex to appear as real human skin.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Leatherface%27s_mask_in_The_Texas_Chain_Saw_Massacre"
+    },
+    {
+      "text": "The Haunting (1963), directed by Robert Wise, is often cited as one of the scariest films ever made despite showing no ghosts on screen.",
+      "source": "https://en.wikipedia.org/wiki/Haunting"
+    },
+    {
+      "text": "Annabelle (2014), a spinoff of The Conjuring, launched its own trilogy and expanded the Conjuring universe.",
+      "source": "https://en.wikipedia.org/wiki/Annabelle"
+    },
+    {
+      "text": "The Blair Witch Project directors Eduardo Sánchez and Daniel Myrick sent their actors into the woods with minimal guidance, capturing real fear and confusion.",
+      "source": "https://en.wikipedia.org/wiki/Blair_Witch_Project"
+    },
+    {
+      "text": "In A Quiet Place, the sound design team recorded silence in multiple natural environments to create the film's oppressive quiet atmosphere.",
+      "source": "https://en.wikipedia.org/wiki/In_A_Quiet_Place%2C_the_sound_design_team"
+    },
+    {
+      "text": "The Fly (1986) by David Cronenberg is considered one of the greatest body horror films, with Jeff Goldblum's gradual transformation into a human-fly hybrid.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Fly"
+    },
+    {
+      "text": "Scream (2022), the fifth entry in the franchise, was the first not directed by Wes Craven, who passed away in 2015.",
+      "source": "https://en.wikipedia.org/wiki/Scream"
+    },
+    {
+      "text": "Oculus (2013) was Mike Flanagan's breakthrough film, featuring a haunted mirror that distorts reality and perception.",
+      "source": "https://en.wikipedia.org/wiki/Oculus"
+    },
+    {
+      "text": "Jennifer's Body (2009), initially dismissed as a flop, was later reappraised as a feminist horror film and developed a cult following.",
+      "source": "https://en.wikipedia.org/wiki/Jennifer%27s_Body"
+    },
+    {
+      "text": "The classic horror score for Psycho was composed by Bernard Herrmann using only string instruments, creating the iconic shrieking violins.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/classic_horror_score_for_Psycho"
+    },
+    {
+      "text": "They Live (1988) by John Carpenter uses its sci-fi horror premise as a critique of Reagan-era consumerism and class inequality.",
+      "source": "https://en.wikipedia.org/wiki/They_Live"
+    },
+    {
+      "text": "Nightmare on Elm Street (1984) was produced by New Line Cinema, which was then a small independent studio — the film's success was so massive it earned the company the nickname 'The House That Freddy Built.'",
+      "source": "https://en.wikipedia.org/wiki/Elm_Street"
+    },
+    {
+      "text": "28 Days Later (2002) revitalized the zombie genre with fast-moving infected humans and was shot primarily on digital video for a gritty, documentary feel.",
+      "source": "https://en.wikipedia.org/wiki/Days_Later"
+    },
+    {
+      "text": "The Witch's Black Phillip, the family's goat who is revealed as the devil, became a viral internet sensation and meme.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Witch%27s_Black_Phillip%2C_the_family%27s_goat_who"
+    },
+    {
+      "text": "Wes Craven held a master's degree in philosophy and writing from Johns Hopkins University before becoming a horror director.",
+      "source": "https://en.wikipedia.org/wiki/Wes_Craven"
+    },
+    {
+      "text": "In Hereditary, the clicking sound made by Charlie became an eerie signature that audiences would mimic in theaters.",
+      "source": "https://en.wikipedia.org/wiki/In_Hereditary%2C_the_clicking_sound_made_by_Charlie"
+    },
+    {
+      "text": "The Exorcist III (1990), directed by original author William Peter Blatty, features a hallway scare considered one of the greatest jump scares in film history.",
+      "source": "https://en.wikipedia.org/wiki/Exorcist_III"
+    },
+    {
+      "text": "Carrie (1976), directed by Brian De Palma, was the first Stephen King novel adapted into a feature film.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Carrie"
+    },
+    {
+      "text": "Get Out was released during Black History Month 2017, and Jordan Peele has said the timing was intentional.",
+      "source": "https://en.wikipedia.org/wiki/Get_Out"
+    },
+    {
+      "text": "The Nightmare on Elm Street franchise earned over $450 million at the box office across its original run of films.",
+      "source": "https://en.wikipedia.org/wiki/Nightmare_on_Elm_Street_franchise"
+    },
+    {
+      "text": "Sinister (2012) was named the scariest movie ever made by a scientific study that measured audience heart rates during viewing.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Sinister"
+    },
+    {
+      "text": "Alien (1979) was released on May 25, 1979, and its tagline — 'In space, no one can hear you scream' — became one of the most famous in movie history.",
+      "month": 5,
+      "day": 25,
+      "source": "https://en.wikipedia.org/wiki/Alien"
+    },
+    {
+      "text": "George Romero made six 'Dead' films over his career, from Night of the Living Dead (1968) to Survival of the Dead (2009).",
+      "source": "https://en.wikipedia.org/wiki/Living_Dead"
+    },
+    {
+      "text": "The Strangers (2008) was inspired by the Manson Family murders and director Bryan Bertino's childhood memory of strangers knocking on his door.",
+      "source": "https://en.wikipedia.org/wiki/Strangers"
+    },
+    {
+      "text": "The Omen (1976) production was plagued by eerie real-life incidents, including a crew member's plane being struck by lightning and an animal handler being killed by a tiger.",
+      "source": "https://en.wikipedia.org/wiki/Omen"
+    },
+    {
+      "text": "Blumhouse Productions, founded by Jason Blum, has revolutionized horror by producing low-budget films with massive returns, including Get Out, Paranormal Activity, and The Purge.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Blumhouse_Productions"
+    },
+    {
+      "text": "The original It miniseries aired on ABC on November 18, 1990, with Tim Curry's performance as Pennywise terrifying an entire generation.",
+      "month": 11,
+      "day": 18,
+      "source": "https://en.wikipedia.org/wiki/ABC"
+    },
+    {
+      "text": "Creepshow (1982) was a collaboration between George Romero and Stephen King, styled after EC Comics horror anthologies from the 1950s.",
+      "source": "https://en.wikipedia.org/wiki/Creepshow"
+    },
+    {
+      "text": "The Shining's Overlook Hotel was based on the Stanley Hotel in Estes Park, Colorado, where Stephen King stayed and was inspired to write the novel.",
+      "source": "https://en.wikipedia.org/wiki/Shining%27s_Overlook_Hotel"
+    },
+    {
+      "text": "In Scream (1996), the opening call scene with Drew Barrymore was inspired by the real-life calls made by serial killers to their victims.",
+      "source": "https://en.wikipedia.org/wiki/In_Scream"
+    },
+    {
+      "text": "Night of the Demons (1988) and Return of the Living Dead (1985) are beloved cult horror films that blend scares with punk rock attitude.",
+      "source": "https://en.wikipedia.org/wiki/Demons"
+    },
+    {
+      "text": "The Conjuring: The Devil Made Me Do It (2021) was based on the controversial 1981 trial of Arne Cheyenne Johnson, who claimed demonic possession as a murder defense.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Conjuring:_The_Devil_Made_Me_Do_It"
+    },
+    {
+      "text": "The Mist (2007) by Frank Darabont features one of the most devastating endings in horror history, which Stephen King said he wished he had written.",
+      "source": "https://en.wikipedia.org/wiki/Mist"
+    },
+    {
+      "text": "X (2022) by Ti West is set in 1979 and pays homage to The Texas Chain Saw Massacre while exploring themes of aging and desire.",
+      "source": "https://en.wikipedia.org/wiki/X_(2022)_by_Ti_West"
+    },
+    {
+      "text": "The Grudge franchise spans American, Japanese, and South Korean films, with the curse of Kayako Saeki as the connecting thread.",
+      "source": "https://en.wikipedia.org/wiki/Grudge"
+    },
+    {
+      "text": "Insidious Chapter 2 (2013) cleverly used time travel to recontextualize events from the first film.",
+      "source": "https://en.wikipedia.org/wiki/Insidious_Chapter_2"
+    },
+    {
+      "text": "Mandy (2018) starred Nicolas Cage in an ultraviolent psychedelic horror film that became an instant cult classic.",
+      "source": "https://en.wikipedia.org/wiki/Mandy"
+    },
+    {
+      "text": "The Friday the 13th franchise includes a crossover film, Freddy vs. Jason (2003), which pitted two of horror's biggest icons against each other.",
+      "source": "https://en.wikipedia.org/wiki/Jason"
+    },
+    {
+      "text": "The original Candyman features Philip Glass's haunting organ score, unusual for a slasher film and lending it an operatic, tragic quality.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/original_Candyman"
+    },
+    {
+      "text": "M3GAN (2023) became a viral sensation before release due to its dancing robot doll, spawning countless memes and TikTok videos.",
+      "source": "https://en.wikipedia.org/wiki/M3GAN"
+    },
+    {
+      "text": "Tobe Hooper also directed the original Salem's Lot TV miniseries (1979), adapting Stephen King's vampire novel for CBS.",
+      "source": "https://en.wikipedia.org/wiki/Tobe_Hooper"
+    },
+    {
+      "text": "The Wicker Man (1973) was released on December 1, 1973, and is considered the definitive folk horror film.",
+      "month": 12,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/Wicker_Man"
+    },
+    {
+      "text": "Clive Barker's Nightbreed (1990) was drastically re-edited by the studio against the director's wishes, and a director's cut was finally released in 2014.",
+      "source": "https://en.wikipedia.org/wiki/Clive_Barker%27s_Nightbreed"
+    },
+    {
+      "text": "The Scream franchise has earned over $900 million worldwide across its six films.",
+      "source": "https://en.wikipedia.org/wiki/Scream_franchise"
+    },
+    {
+      "text": "In The Conjuring, the clapping game sequence was conceived by James Wan as a way to build tension using only sound and practical effects.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/In_The_Conjuring%2C_the_clapping_game_sequence"
+    },
+    {
+      "text": "Re-Animator (1985), loosely based on H.P. Lovecraft, is a cult classic known for its over-the-top gore and darkly comic tone.",
+      "source": "https://en.wikipedia.org/wiki/Re-Animator"
+    },
+    {
+      "text": "Pearl (2022), Ti West's prequel to X, was written during the COVID-19 pandemic and filmed back-to-back with X in New Zealand.",
+      "source": "https://en.wikipedia.org/wiki/Pearl"
+    },
+    {
+      "text": "The Amityville Horror franchise includes over 20 films, making it one of the longest-running horror series despite widely varying quality.",
+      "source": "https://en.wikipedia.org/wiki/Amityville_Horror_franchise"
+    },
+    {
+      "text": "John Carpenter's Christine (1983) is an adaptation of Stephen King's novel about a possessed 1958 Plymouth Fury.",
+      "source": "https://en.wikipedia.org/wiki/John_Carpenter%27s_Christine"
+    },
+    {
+      "text": "Wes Craven died on August 30, 2015, and the horror community mourned the loss of one of the genre's most influential voices.",
+      "month": 8,
+      "day": 30,
+      "source": "https://en.wikipedia.org/wiki/Wes_Craven"
+    },
+    {
+      "text": "Session 9 (2001) was filmed in a real abandoned mental asylum, the Danvers State Hospital in Massachusetts, adding genuine atmosphere.",
+      "source": "https://en.wikipedia.org/wiki/Session_9_(2001)"
+    },
+    {
+      "text": "Happy Death Day (2017) combined the slasher genre with Groundhog Day's time loop concept, creating a fresh take on the formula.",
+      "source": "https://en.wikipedia.org/wiki/Happy_Death_Day"
+    },
+    {
+      "text": "The scariest moment in The Exorcist — Regan's head spinning 360 degrees — required a specially built mechanical dummy and took days to prepare.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Exorcist"
+    },
+    {
+      "text": "Suspiria (1977) was shot using the last Technicolor processing machine in Rome, giving the film its distinctive, oversaturated color palette.",
+      "source": "https://en.wikipedia.org/wiki/Suspiria"
+    },
+    {
+      "text": "Jordan Peele's production company, Monkeypaw Productions, has become one of the most prominent horror-focused studios in Hollywood.",
+      "source": "https://en.wikipedia.org/wiki/Jordan_Peele%27s_production_company%2C_Monkeypaw_Productions"
+    },
+    {
+      "text": "The Howling (1981) was released the same year as An American Werewolf in London, leading to a werewolf film rivalry that year.",
+      "source": "https://en.wikipedia.org/wiki/Howling"
+    },
+    {
+      "text": "Danny Lloyd, who played Danny Torrance in The Shining, did not know he was making a horror film — Kubrick told him it was a drama.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Danny_Lloyd%2C_who_played_Danny_Torrance_in_The_Shining%2C_did_not_know_he"
+    },
+    {
+      "text": "The original Frankenstein (1931) featured a scene where the Monster throws a little girl into a lake, which was censored for decades.",
+      "source": "https://en.wikipedia.org/wiki/Frankenstein"
+    },
+    {
+      "text": "Midsommar's central location, the Hårga commune, was built as a full practical set in Hungary, with custom-painted murals that foreshadow the plot.",
+      "source": "https://en.wikipedia.org/wiki/Midsommar%27s_central_location%2C_the_H%C3%A5rga_commune"
+    },
+    {
+      "text": "The Craft (1996) blended teen drama with supernatural horror and became a cult classic that influenced Goth culture in the late 1990s.",
+      "source": "https://en.wikipedia.org/wiki/Craft"
+    },
+    {
+      "text": "Carrie (1976) was released on November 3, 1976, and featured the iconic prom scene where Sissy Spacek is drenched in pig's blood.",
+      "month": 11,
+      "day": 3,
+      "source": "https://en.wikipedia.org/wiki/Carrie"
+    },
+    {
+      "text": "A24 has become a major force in horror cinema, distributing films like The Witch, Hereditary, Midsommar, X, and Talk to Me.",
+      "source": "https://en.wikipedia.org/wiki/A24"
+    },
+    {
+      "text": "The original Poltergeist used real human skeletons in the swimming pool scene because they were cheaper than plastic props at the time.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/original_Poltergeist_used_real_human_skeletons_in_the_swimming_pool_scene_because_they"
+    },
+    {
+      "text": "Tucker and Dale vs. Evil (2010) brilliantly subverted hillbilly horror tropes by telling the story from the supposed villains' perspective.",
+      "source": "https://en.wikipedia.org/wiki/Evil"
+    },
+    {
+      "text": "The popularity of horror podcasts like The NoSleep Podcast and Last Podcast on the Left has created a new avenue for horror storytelling.",
+      "source": "https://en.wikipedia.org/wiki/popularity_of_horror_podcasts_like_The_NoSleep_Podcast_and_Last_Podcast_on_the_Left"
+    },
+    {
+      "text": "Candyman (1992) was released on October 16, 1992, and Tony Todd's performance as the hook-handed specter became iconic.",
+      "month": 10,
+      "day": 16,
+      "source": "https://en.wikipedia.org/wiki/Candyman"
+    },
+    {
+      "text": "The Paranormal Activity franchise produced six films between 2007 and 2021, with a total franchise gross exceeding $890 million.",
+      "source": "https://en.wikipedia.org/wiki/Paranormal_Activity"
+    },
+    {
+      "text": "Stanley Kubrick reportedly called Stephen King at 3 AM during pre-production of The Shining to discuss whether ghost stories were optimistic because they implied an afterlife.",
+      "source": "https://en.wikipedia.org/wiki/Stanley_Kubrick_reportedly"
+    },
+    {
+      "text": "Talk to Me (2023) was directed by Australian YouTubers Danny and Michael Philippou in their feature film debut and became a critical and commercial hit.",
+      "source": "https://en.wikipedia.org/wiki/Me"
+    },
+    {
+      "text": "The Nightingale (2018) by Babadook director Jennifer Kent is a brutal revenge film set in 1825 colonial Tasmania.",
+      "source": "https://en.wikipedia.org/wiki/Nightingale"
+    },
+    {
+      "text": "In the original Friday the 13th, the final jump scare of young Jason leaping from the lake was a last-minute addition inspired by the ending of Carrie.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/In_the_original_Friday_the_13th%2C_the_final_jump_scare_of_young_Jason_leaping_from_the_lake"
+    },
+    {
+      "text": "The Exorcist's 'Captain Howdy' subliminal face flash appears for only a few frames, but audiences reported feeling deeply unsettled without knowing why.",
+      "source": "https://en.wikipedia.org/wiki/Exorcist%27s"
+    },
+    {
+      "text": "Event Horizon (1997) blended sci-fi with haunted house horror, and its missing footage — reportedly too disturbing to keep — has become the stuff of legend.",
+      "source": "https://en.wikipedia.org/wiki/Event_Horizon"
+    },
+    {
+      "text": "The Nun (2018), set in 1952 Romania, is the earliest chronological entry in The Conjuring universe timeline.",
+      "source": "https://en.wikipedia.org/wiki/Nun"
+    },
+    {
+      "text": "Malignant (2021), directed by James Wan, surprised audiences with its wild third-act twist that turns the film into over-the-top action horror.",
+      "source": "https://en.wikipedia.org/wiki/Malignant"
+    },
+    {
+      "text": "The success of horror films at the box office has consistently outpaced other genres relative to production costs, making horror one of the most reliable investments in Hollywood.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/success_of_horror_films_at_the_box_office"
+    },
+    {
+      "text": "Rosemary's Baby was released on June 12, 1968, and is considered a landmark of psychological horror filmmaking.",
+      "month": 6,
+      "day": 12,
+      "source": "https://en.wikipedia.org/wiki/Rosemary%27s_Baby"
+    },
+    {
+      "text": "The Hellraiser franchise spans ten films, with a Hulu reboot in 2022 featuring a female Pinhead played by Jamie Clayton.",
+      "source": "https://en.wikipedia.org/wiki/Hellraiser"
+    },
+    {
+      "text": "Bone Tomahawk (2015) blended western and horror genres, featuring one of the most graphic death scenes in modern horror.",
+      "source": "https://en.wikipedia.org/wiki/Bone_Tomahawk"
+    },
+    {
+      "text": "The original Dawn of the Dead (1978) was released unrated because Romero refused to cut it for an R rating.",
+      "source": "https://en.wikipedia.org/wiki/Dead"
+    },
+    {
+      "text": "Mike Flanagan's Gerald's Game (2017) was considered unfilmable for years because most of the novel takes place inside the protagonist's mind.",
+      "source": "https://en.wikipedia.org/wiki/Mike_Flanagan%27s_Gerald%27s_Game"
+    },
+    {
+      "text": "The phrase 'Be afraid. Be very afraid' originated from the marketing for The Fly (1986) and entered common usage.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Fly"
+    },
+    {
+      "text": "Fright Night (1985) is a beloved vampire comedy-horror that was remade in 2011 with Colin Farrell.",
+      "source": "https://en.wikipedia.org/wiki/Fright_Night"
+    },
+    {
+      "text": "The Green Room (2015) featured Patrick Stewart playing against type as a violent neo-Nazi club owner.",
+      "source": "https://en.wikipedia.org/wiki/Green_Room"
+    },
+    {
+      "text": "Terrifier 2 (2022) made over $10 million at the box office despite having no traditional studio distribution, becoming a grassroots horror hit.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Terrifier_2"
+    },
+    {
+      "text": "The Strangers (2008) was released on May 30, 2008, with the tagline 'Because you were home,' emphasizing the randomness of the home invasion.",
+      "month": 5,
+      "day": 30,
+      "source": "https://en.wikipedia.org/wiki/Strangers"
+    },
+    {
+      "text": "Megan Fox starred in Jennifer's Body (2009), written by Diablo Cody, which has been reclaimed as a feminist allegory about female rage and exploitation.",
+      "source": "https://en.wikipedia.org/wiki/Jennifer%27s_Body"
+    },
+    {
+      "text": "The Suspiria dance academy sequences were choreographed with movements designed to suggest witchcraft rituals.",
+      "source": "https://en.wikipedia.org/wiki/Suspiria_dance_academy_sequences"
+    },
+    {
+      "text": "George Romero's influence on the zombie genre was so profound that he is often called 'The Father of the Zombie Film.'",
+      "source": "https://en.wikipedia.org/wiki/George_Romero%27s_influence_on_the_zombie_genre"
+    },
+    {
+      "text": "In Child's Play, Brad Dourif has voiced Chucky in every film since 1988, spanning over 35 years in the role.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/In_Child%27s_Play%2C_Brad_Dourif"
+    },
+    {
+      "text": "The Fall of the House of Usher (2023) by Mike Flanagan adapted multiple Edgar Allan Poe stories into a single interconnected narrative on Netflix.",
+      "source": "https://en.wikipedia.org/wiki/Usher"
+    },
+    {
+      "text": "Saw was released on October 29, 2004, just before Halloween, which became a tradition for the franchise's annual releases.",
+      "month": 10,
+      "day": 29,
+      "source": "https://en.wikipedia.org/wiki/Saw"
+    },
+    {
+      "text": "The Amityville Horror house at 112 Ocean Avenue still stands today, though the address was changed to deter tourists.",
+      "source": "https://en.wikipedia.org/wiki/Amityville_Horror_house_at_112_Ocean_Avenue_still_stands_today%2C_though_the_address"
+    },
+    {
+      "text": "Tippi Hedren suffered a breakdown during filming of The Birds after Hitchcock used real birds instead of the mechanical ones he had promised.",
+      "source": "https://en.wikipedia.org/wiki/Tippi_Hedren"
+    },
+    {
+      "text": "The Hills Have Eyes (1977) by Wes Craven was loosely inspired by the legend of Sawney Bean, a medieval Scottish cannibal clan leader.",
+      "source": "https://en.wikipedia.org/wiki/Hills_Have_Eyes"
+    },
+    {
+      "text": "Paranormal Activity director Oren Peli shot the entire film in his own house over the course of a week.",
+      "source": "https://en.wikipedia.org/wiki/Paranormal_Activity"
+    },
+    {
+      "text": "The Curse of La Llorona (2019) is technically part of The Conjuring universe, connected through the character of Father Perez.",
+      "source": "https://en.wikipedia.org/wiki/La_Llorona"
+    },
+    {
+      "text": "Sam Raimi developed his signature fast-moving camera style, dubbed 'shaky-cam,' during the making of The Evil Dead using a wooden plank.",
+      "source": "https://en.wikipedia.org/wiki/Sam_Raimi"
+    },
+    {
+      "text": "The original Nosferatu's Count Orlok was played by Max Schreck, whose surname means 'terror' or 'fright' in German.",
+      "source": "https://en.wikipedia.org/wiki/original_Nosferatu%27s_Count_Orlok"
+    },
+    {
+      "text": "In Jaws (1975), the mechanical shark malfunctioned so often that Spielberg was forced to suggest the shark rather than show it, making the film more terrifying.",
+      "source": "https://en.wikipedia.org/wiki/In_Jaws"
+    },
+    {
+      "text": "The Ritual (2017) is a British folk horror film set in the forests of northern Sweden, based on Adam Nevill's novel.",
+      "source": "https://en.wikipedia.org/wiki/Ritual"
+    },
+    {
+      "text": "Audition (1999) by Takashi Miike is a Japanese horror film that lulls viewers with a slow romantic setup before erupting into extreme violence.",
+      "source": "https://en.wikipedia.org/wiki/Audition"
+    },
+    {
+      "text": "Scream VI (2023) moved the setting from Woodsboro to New York City for the first time in the franchise.",
+      "source": "https://en.wikipedia.org/wiki/Scream_VI"
+    },
+    {
+      "text": "The Witch was the directorial debut of Robert Eggers and won the Best Director prize at the 2015 Sundance Film Festival.",
+      "source": "https://en.wikipedia.org/wiki/Witch"
+    },
+    {
+      "text": "The Babadook's pop-up book prop was so popular that the filmmakers had to produce actual copies for fans who wanted to buy it.",
+      "source": "https://en.wikipedia.org/wiki/Babadook%27s_pop-up_book_prop"
+    },
+    {
+      "text": "Drag Me to Hell (2009) marked Sam Raimi's return to horror after years directing the Spider-Man trilogy.",
+      "source": "https://en.wikipedia.org/wiki/Hell"
+    },
+    {
+      "text": "The original Suspiria featured sets designed with intentionally oversized door handles to make the actresses look childlike and vulnerable.",
+      "source": "https://en.wikipedia.org/wiki/original_Suspiria_featured"
+    },
+    {
+      "text": "An Inconvenient Truth producer Lawrence Bender also produced horror films early in his career, including Quentin Tarantino's connections to the genre.",
+      "source": "https://en.wikipedia.org/wiki/An_Inconvenient_Truth"
+    },
+    {
+      "text": "Sleepaway Camp (1983) is famous for its shocking twist ending, which remains one of the most discussed reveals in slasher history.",
+      "source": "https://en.wikipedia.org/wiki/Sleepaway_Camp"
+    },
+    {
+      "text": "Bone-chilling sound effects in horror films are often created using everyday objects — celery snapping mimics bones breaking, and wet chamois leather sounds like skin tearing.",
+      "source": "https://en.wikipedia.org/wiki/Bone-chilling_sound_effects_in_horror_films"
+    },
+    {
+      "text": "The Grudge series popularized the 'death rattle' croaking sound, which became one of the most recognizable audio cues in 2000s horror.",
+      "source": "https://en.wikipedia.org/wiki/Grudge_series_popularized_the_%27death_rattle%27_croaking_sound%2C_which"
+    },
+    {
+      "text": "Cronenberg's Videodrome (1983) predicted the blurring of reality and media decades before the internet age, exploring how screens consume identity.",
+      "source": "https://en.wikipedia.org/wiki/Cronenberg%27s_Videodrome"
+    },
+    {
+      "text": "Hocus Pocus (1993) was a box office disappointment on release but became one of the most-watched Halloween films through annual TV airings.",
+      "source": "https://en.wikipedia.org/wiki/Hocus_Pocus"
+    },
+    {
+      "text": "The Suspiria (2018) remake featured Tilda Swinton in three roles, including an elderly male psychiatrist — a fact kept secret until release.",
+      "source": "https://en.wikipedia.org/wiki/Suspiria"
+    },
+    {
+      "text": "The original Texas Chain Saw Massacre dinner scene took over 26 hours of continuous filming in sweltering heat with rotting food on the table.",
+      "source": "https://en.wikipedia.org/wiki/original_Texas_Chain"
+    },
+    {
+      "text": "Pulse (Kairo, 2001) is a Japanese horror film about ghosts invading the world through the internet, predating modern digital horror trends.",
+      "source": "https://en.wikipedia.org/wiki/Pulse_(Kairo%2C_2001)"
+    },
+    {
+      "text": "The Void (2016) is a Canadian cosmic horror film that used almost entirely practical creature effects as a throwback to 1980s horror.",
+      "source": "https://en.wikipedia.org/wiki/Void"
+    },
+    {
+      "text": "From Dusk Till Dawn (1996), written by Quentin Tarantino and directed by Robert Rodriguez, famously shifts from crime thriller to vampire horror midway through.",
+      "source": "https://en.wikipedia.org/wiki/From_Dusk_Till_Dawn"
+    },
+    {
+      "text": "The Craft: Legacy (2020) served as a sequel to the 1996 original, continuing the franchise 24 years later.",
+      "source": "https://en.wikipedia.org/wiki/Craft:_Legacy"
+    },
+    {
+      "text": "In The Silence of the Lambs, Anthony Hopkins appears on screen for only about 16 minutes yet won the Academy Award for Best Actor.",
+      "source": "https://en.wikipedia.org/wiki/In_The_Silence_of_the_Lambs"
+    },
+    {
+      "text": "Deep Red (Profondo Rosso, 1975) by Dario Argento is considered one of the finest Italian giallo films, blending mystery with graphic violence.",
+      "source": "https://en.wikipedia.org/wiki/Deep_Red_(Profondo_Rosso%2C_1975)_by_Dario_Argento"
+    },
+    {
+      "text": "Trick 'r Treat (2007) was shelved by Warner Bros. for two years before becoming a massive cult hit on home video.",
+      "source": "https://en.wikipedia.org/wiki/Treat"
+    },
+    {
+      "text": "The Ring's cursed videotape imagery was influenced by the experimental films of Maya Deren and other surrealist filmmakers.",
+      "source": "https://en.wikipedia.org/wiki/Ring%27s_cursed_videotape_imagery"
+    },
+    {
+      "text": "Final Destination 5 (2011) features an ending that cleverly loops back to the events of the first film, surprising longtime fans.",
+      "source": "https://en.wikipedia.org/wiki/Final_Destination_5_(2011)"
+    },
+    {
+      "text": "Gremlins (1984) and Poltergeist (1982) were among the films that led to the creation of the PG-13 rating in 1984.",
+      "source": "https://en.wikipedia.org/wiki/Gremlins"
+    },
+    {
+      "text": "The Wailing (2016) is a South Korean horror film that blends supernatural terror with dark mystery in a rural village setting.",
+      "source": "https://en.wikipedia.org/wiki/Wailing"
+    },
+    {
+      "text": "Cloverfield (2008) applied the found footage technique to a giant monster movie, creating a unique survival horror experience.",
+      "source": "https://en.wikipedia.org/wiki/Cloverfield"
+    },
+    {
+      "text": "The Crazies (1973), one of George Romero's lesser-known films, depicted a government bioweapon driving a town insane and was remade in 2010.",
+      "source": "https://en.wikipedia.org/wiki/Crazies"
+    },
+    {
+      "text": "Horror film soundtracks frequently use infrasound — frequencies below 20 Hz that humans can't consciously hear but can feel, inducing unease and anxiety.",
+      "source": "https://en.wikipedia.org/wiki/Horror_film"
+    },
+    {
+      "text": "Sweeney Todd (2007), directed by Tim Burton, brought the horror-musical hybrid to mainstream audiences with graphic throat-slitting scenes.",
+      "source": "https://en.wikipedia.org/wiki/Sweeney_Todd"
+    },
+    {
+      "text": "Colin (2008), a British zombie film, was famously made for just £45, following the zombie apocalypse from the zombie's perspective.",
+      "source": "https://en.wikipedia.org/wiki/Colin"
+    },
+    {
+      "text": "Gerald's Game (2017) by Mike Flanagan features a harrowing degloving scene that caused some Netflix viewers to reportedly pass out.",
+      "source": "https://en.wikipedia.org/wiki/Gerald%27s_Game"
+    },
+    {
+      "text": "The Haunting of Bly Manor pays homage to multiple Henry James stories, not just The Turn of the Screw, weaving them into one narrative.",
+      "source": "https://en.wikipedia.org/wiki/Haunting_of_Bly_Manor"
+    },
+    {
+      "text": "Host (2020) was one of the few horror films shot entirely remotely during lockdown and earned a rare 100% score on Rotten Tomatoes.",
+      "source": "https://en.wikipedia.org/wiki/Host"
+    },
+    {
+      "text": "Scanners (1981) by David Cronenberg features one of cinema's most iconic head explosion scenes, achieved entirely with practical effects.",
+      "source": "https://en.wikipedia.org/wiki/Scanners"
+    },
+    {
+      "text": "The Nightmare on Elm Street house at 1428 North Genesee Avenue in Los Angeles is a real residential property that fans frequently visit.",
+      "source": "https://en.wikipedia.org/wiki/Nightmare_on_Elm_Street_house_at_1428_North_Genesee_Avenue_in_Los_Angeles"
+    },
+    {
+      "text": "Unfriended (2014) was one of the first 'screenlife' horror films, with the entire story playing out on a computer screen.",
+      "source": "https://en.wikipedia.org/wiki/Unfriended"
+    },
+    {
+      "text": "House of 1000 Corpses (2003) was Rob Zombie's directorial debut, and its sequel The Devil's Rejects (2005) was widely considered superior.",
+      "source": "https://en.wikipedia.org/wiki/Corpses"
+    },
+    {
+      "text": "The Cabin in the Woods (2012) was filmed in 2009 but shelved for three years due to MGM's financial troubles before Lionsgate released it.",
+      "source": "https://en.wikipedia.org/wiki/Woods"
+    },
+    {
+      "text": "Don't Breathe (2016) was set in a decaying neighborhood of Detroit, which the director chose for its visual atmosphere of urban decay and isolation.",
+      "source": "https://en.wikipedia.org/wiki/Don%27t_Breathe"
+    },
+    {
+      "text": "Frankenstein (1931) director James Whale was an openly gay filmmaker in 1930s Hollywood, and his outsider status informed his sympathetic portrayal of the Monster.",
+      "source": "https://en.wikipedia.org/wiki/Frankenstein"
+    },
+    {
+      "text": "The original Candyman (1992) was shot on location at the real Cabrini-Green housing projects in Chicago with cooperation from actual residents.",
+      "source": "https://en.wikipedia.org/wiki/Candyman"
+    },
+    {
+      "text": "Underwater (2020) was essentially an Alien-style horror film set at the bottom of the Mariana Trench, with Lovecraftian undertones.",
+      "source": "https://en.wikipedia.org/wiki/Underwater"
+    },
+    {
+      "text": "The Neon Demon (2016) by Nicolas Winding Refn applied horror aesthetics to the fashion industry, exploring beauty, vanity, and predation.",
+      "source": "https://en.wikipedia.org/wiki/Neon_Demon"
+    },
+    {
+      "text": "Martyrs (2008) is a French extremity film that shifts from a home invasion thriller to philosophical body horror about transcendence through suffering.",
+      "source": "https://en.wikipedia.org/wiki/Martyrs"
+    },
+    {
+      "text": "Lamb (2021), an Icelandic folk horror film, features a couple raising a mysterious human-lamb hybrid child in remote rural Iceland.",
+      "source": "https://en.wikipedia.org/wiki/Lamb"
+    },
+    {
+      "text": "Henry: Portrait of a Serial Killer (1986) was completed in 1986 but not released until 1990 due to its disturbing content, earning an X rating.",
+      "source": "https://en.wikipedia.org/wiki/Serial_Killer"
+    },
+    {
+      "text": "Slash film conventions like Friday the 13th conventions and Texas Frightmare Weekend have become major events for horror memorabilia collectors.",
+      "source": "https://en.wikipedia.org/wiki/Slash_film_conventions_like_Friday_the_13th_conventions_and_Texas_Frightmare_Weekend"
+    },
+    {
+      "text": "The menu from the dinner scene in The Texas Chain Saw Massacre inspired themed restaurants and haunted house attractions across the country.",
+      "source": "https://en.wikipedia.org/wiki/menu_from_the_dinner_scene_in_The_Texas_Chain_Saw_Massacre"
+    },
+    {
+      "text": "Wrong Turn (2003) launched a franchise of six films featuring inbred cannibals in the West Virginia wilderness.",
+      "source": "https://en.wikipedia.org/wiki/Wrong_Turn"
+    },
+    {
+      "text": "The Conjuring 2 (2016) was released on June 10, 2016, and James Wan came back to direct after initially saying he was done with the franchise.",
+      "month": 6,
+      "day": 10,
+      "source": "https://en.wikipedia.org/wiki/Conjuring_2_(2016)"
+    },
+    {
+      "text": "Prey (2022), a Predator prequel set in 1719 among Comanche people, was praised for reinventing the franchise with a fresh perspective.",
+      "source": "https://en.wikipedia.org/wiki/Prey"
+    },
+    {
+      "text": "Bram Stoker's novel Dracula (1897) was partly inspired by Vlad the Impaler and the author's research into Eastern European folklore.",
+      "source": "https://en.wikipedia.org/wiki/Bram_Stoker%27s_novel_Dracula_(1897)"
+    },
+    {
+      "text": "Crawl (2019), produced by Sam Raimi, trapped its characters in a flooded crawlspace with alligators during a hurricane.",
+      "source": "https://en.wikipedia.org/wiki/Crawl"
+    },
+    {
+      "text": "Rob Zombie's Halloween (2007) remake divided fans with its extended backstory for Michael Myers, giving the famously unknowable killer a troubled childhood.",
+      "source": "https://en.wikipedia.org/wiki/Rob_Zombie%27s_Halloween"
+    },
+    {
+      "text": "The Conjuring universe films follow a specific internal timeline spanning from 1952 (The Nun) through the 1980s (Annabelle Comes Home).",
+      "source": "https://en.wikipedia.org/wiki/Conjuring"
+    },
+    {
+      "text": "Possessor (2020) by Brandon Cronenberg, son of David Cronenberg, continued his father's legacy of cerebral body horror filmmaking.",
+      "source": "https://en.wikipedia.org/wiki/Possessor"
+    },
+    {
+      "text": "The Fear Street trilogy (2021) on Netflix adapted R.L. Stine's book series into three connected films set across different time periods.",
+      "source": "https://en.wikipedia.org/wiki/Fear_Street"
+    }
+  ]
+}

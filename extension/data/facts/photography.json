@@ -1,0 +1,1680 @@
+{
+  "hobby": "Photography & Videography",
+  "facts": [
+    {
+      "text": "The word 'photography' comes from Greek words meaning 'drawing with light.'",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "The first permanent photograph was taken by Joseph Nicéphore Niépce in 1826, requiring an exposure time of about 8 hours.",
+      "source": "https://en.wikipedia.org/wiki/first_permanent_photograph"
+    },
+    {
+      "text": "Ansel Adams developed the Zone System, a technique for controlling exposure and development in black-and-white photography.",
+      "source": "https://en.wikipedia.org/wiki/Ansel_Adams"
+    },
+    {
+      "text": "The exposure triangle consists of three elements: aperture, shutter speed, and ISO, which together control image brightness.",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "Canon introduced the EOS system in 1987, which became one of the most popular camera systems in history.",
+      "month": 3,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/Canon"
+    },
+    {
+      "text": "A prime lens has a fixed focal length, while a zoom lens can vary its focal length across a range.",
+      "source": "https://en.wikipedia.org/wiki/A_prime_lens"
+    },
+    {
+      "text": "Steve McCurry's 'Afghan Girl' appeared on the cover of National Geographic in June 1985 and became one of the most recognized photographs ever.",
+      "month": 6,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/Steve_McCurry%27s_%27Afghan_Girl"
+    },
+    {
+      "text": "Golden hour, the period shortly after sunrise or before sunset, produces warm, soft light prized by photographers.",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "DJI controls over 70% of the global consumer drone market, making aerial photography accessible to millions.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "The daguerreotype, invented by Louis Daguerre in 1839, was the first commercially practical photographic process.",
+      "source": "https://en.wikipedia.org/wiki/daguerreotype"
+    },
+    {
+      "text": "Henri Cartier-Bresson is often called the father of modern photojournalism and coined the concept of 'the decisive moment.'",
+      "source": "https://en.wikipedia.org/wiki/Henri_Cartier-Bresson"
+    },
+    {
+      "text": "Bokeh refers to the aesthetic quality of the out-of-focus areas in a photograph, often produced by wide apertures.",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "The Pulitzer Prize for Feature Photography has been awarded annually since 1968 to recognize outstanding photojournalism.",
+      "source": "https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Feature_Photography"
+    },
+    {
+      "text": "Adobe Photoshop was first released on February 19, 1990, and revolutionized digital image editing.",
+      "month": 2,
+      "day": 19,
+      "source": "https://en.wikipedia.org/wiki/Adobe_Photoshop"
+    },
+    {
+      "text": "Dorothea Lange's 'Migrant Mother' (1936) became an iconic image of the Great Depression and is one of the most reproduced photos in history.",
+      "source": "https://en.wikipedia.org/wiki/Migrant_Mother"
+    },
+    {
+      "text": "The rule of thirds divides an image into nine equal parts using two horizontal and two vertical lines, placing subjects at intersections for stronger composition.",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "Leica introduced the first commercially successful 35mm camera, the Leica I, in 1925, popularizing the 35mm format.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Leica"
+    },
+    {
+      "text": "Long exposure photography uses slow shutter speeds to capture motion blur, creating effects like silky waterfalls or light trails.",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "GoPro was founded in 2002 by Nick Woodman, who built the first prototype from a 35mm camera and a wrist strap while surfing in Australia.",
+      "source": "https://en.wikipedia.org/wiki/GoPro"
+    },
+    {
+      "text": "The iPhone's first camera in 2007 was only 2 megapixels and couldn't even record video.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/iPhone%27s_first_camera_in_2007"
+    },
+    {
+      "text": "Hasselblad cameras were used by NASA astronauts during the Apollo missions to photograph the Moon and Earth from space.",
+      "source": "https://en.wikipedia.org/wiki/Hasselblad_cameras"
+    },
+    {
+      "text": "Aperture is measured in f-stops; a lower f-number means a wider opening and shallower depth of field.",
+      "source": "https://en.wikipedia.org/wiki/Aperture"
+    },
+    {
+      "text": "The World Press Photo contest has been held annually since 1955 and is one of the most prestigious photojournalism awards.",
+      "source": "https://en.wikipedia.org/wiki/World_Press_Photo_contest"
+    },
+    {
+      "text": "Richard Avedon revolutionized fashion photography by bringing movement and emotion to his subjects, departing from static poses.",
+      "source": "https://en.wikipedia.org/wiki/Richard_Avedon"
+    },
+    {
+      "text": "A gimbal stabilizer uses motors and sensors to counteract camera shake, enabling smooth handheld video footage.",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "Kodak engineer Steven Sasson invented the first digital camera in 1975, which weighed about 8 pounds and captured images at 0.01 megapixels.",
+      "month": 12,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/Kodak_engineer_Steven_Sasson"
+    },
+    {
+      "text": "HDR (High Dynamic Range) photography combines multiple exposures of the same scene to capture detail in both shadows and highlights.",
+      "source": "https://en.wikipedia.org/wiki/High_Dynamic_Range"
+    },
+    {
+      "text": "Fujifilm's X-series cameras are known for their film simulation modes that replicate the look of classic Fujifilm analog films.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Fujifilm%27s_X-series_cameras"
+    },
+    {
+      "text": "Annie Leibovitz became the last photographer to take a portrait of John Lennon, just hours before his assassination in 1980.",
+      "source": "https://en.wikipedia.org/wiki/Annie_Leibovitz"
+    },
+    {
+      "text": "Macro photography captures subjects at life-size or greater magnification, revealing details invisible to the naked eye.",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "The 'Earthrise' photograph was taken by astronaut William Anders during the Apollo 8 mission on December 24, 1968.",
+      "month": 12,
+      "day": 24,
+      "source": "https://en.wikipedia.org/wiki/%27Earthrise%27_photograph"
+    },
+    {
+      "text": "Tilt-shift lenses can control the plane of focus, allowing photographers to keep an entire building sharp or create miniature-effect images.",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "YouTube was founded in 2005, and its rise created an entirely new profession of video content creators.",
+      "month": 2,
+      "day": 14,
+      "source": "https://en.wikipedia.org/wiki/YouTube"
+    },
+    {
+      "text": "Film photography requires chemical development, typically using developer, stop bath, and fixer solutions in a darkroom.",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "Nikon's F-mount lens system, introduced in 1959, maintained backward compatibility for over 60 years before the Z-mount replaced it.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Nikon%27s_F-mount_lens_system"
+    },
+    {
+      "text": "Astrophotography often requires tracking mounts that compensate for Earth's rotation to capture sharp images of stars and galaxies.",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "The Polaroid instant camera, introduced in 1948, allowed people to see their photos develop within minutes.",
+      "month": 11,
+      "day": 26,
+      "source": "https://en.wikipedia.org/wiki/Polaroid_instant_camera"
+    },
+    {
+      "text": "Street photography captures candid moments of everyday life in public places, often emphasizing the human condition.",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "RED Digital Cinema introduced the RED ONE camera in 2007, bringing 4K resolution to independent filmmakers at a fraction of Hollywood costs.",
+      "source": "https://en.wikipedia.org/wiki/RED_Digital_Cinema"
+    },
+    {
+      "text": "ISO originally stood for the International Organization for Standardization and measures a camera sensor's sensitivity to light.",
+      "source": "https://en.wikipedia.org/wiki/International_Organization_for_Standardization_and"
+    },
+    {
+      "text": "Wedding photography is one of the most profitable genres, with top wedding photographers charging $10,000 or more per event.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Wedding_photography"
+    },
+    {
+      "text": "The 'Raising the Flag on Iwo Jima' photo by Joe Rosenthal was taken on February 23, 1945, and won the Pulitzer Prize.",
+      "month": 2,
+      "day": 23,
+      "source": "https://en.wikipedia.org/wiki/%27Raising_the_Flag_on_Iwo_Jima%27_photo_by_Joe_Rosenthal"
+    },
+    {
+      "text": "Computational photography uses software algorithms to enhance images beyond what the lens and sensor alone can capture.",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "Helmut Newton was known for his provocative and glamorous black-and-white fashion photography for Vogue and other publications.",
+      "source": "https://en.wikipedia.org/wiki/Helmut_Newton"
+    },
+    {
+      "text": "The 50mm lens is often called the 'nifty fifty' because it approximates the field of view of the human eye and is affordable.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/50mm_lens"
+    },
+    {
+      "text": "Adobe Lightroom was first released in 2007 and became the standard workflow tool for organizing and editing digital photographs.",
+      "source": "https://en.wikipedia.org/wiki/Adobe_Lightroom"
+    },
+    {
+      "text": "FPV (First Person View) drones allow pilots to see through the drone's camera in real-time using goggles, enabling cinematic flight footage.",
+      "source": "https://en.wikipedia.org/wiki/First_Person_View"
+    },
+    {
+      "text": "Landscape photography pioneer Ansel Adams co-founded Group f/64, advocating for sharp-focus, large-format photography.",
+      "source": "https://en.wikipedia.org/wiki/Ansel_Adams"
+    },
+    {
+      "text": "The Canon EOS 5D Mark II, released in 2008, was the first DSLR to shoot full HD video, transforming independent filmmaking.",
+      "month": 11,
+      "day": 17,
+      "source": "https://en.wikipedia.org/wiki/Canon_EOS_5D_Mark_II"
+    },
+    {
+      "text": "Color film became widely available in the 1930s with the introduction of Kodachrome by Kodak in 1935.",
+      "month": 4,
+      "day": 15,
+      "source": "https://en.wikipedia.org/wiki/Color_film"
+    },
+    {
+      "text": "A camera's shutter speed controls how long the sensor is exposed to light; faster speeds freeze motion while slower speeds blur it.",
+      "source": "https://en.wikipedia.org/wiki/A_camera%27s_shutter_speed_controls_how_long_the_sensor"
+    },
+    {
+      "text": "Sony's Alpha mirrorless cameras disrupted the market by offering full-frame sensors in smaller, lighter bodies than DSLRs.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Sony%27s_Alpha"
+    },
+    {
+      "text": "The 'Tank Man' photograph from Tiananmen Square on June 5, 1989, is one of the most iconic images of political protest.",
+      "month": 6,
+      "day": 5,
+      "source": "https://en.wikipedia.org/wiki/%27Tank_Man%27_photograph_from_Tiananmen_Square_on_June_5%2C_1989"
+    },
+    {
+      "text": "Wildlife photography requires patience, long telephoto lenses, and often camouflage to capture animals in their natural habitats.",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "National Geographic has published photographs since 1905 and is known for setting the standard in nature and cultural photography.",
+      "source": "https://en.wikipedia.org/wiki/National_Geographic"
+    },
+    {
+      "text": "The first color photograph was taken by James Clerk Maxwell in 1861, using three separate exposures through red, green, and blue filters.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/first_color_photograph"
+    },
+    {
+      "text": "Drone photography regulations in the United States require FAA Part 107 certification for commercial drone pilots.",
+      "source": "https://en.wikipedia.org/wiki/United_States"
+    },
+    {
+      "text": "The pancake lens is an extremely thin lens design, typically only 20-40mm thick, prized for portability.",
+      "source": "https://en.wikipedia.org/wiki/pancake_lens"
+    },
+    {
+      "text": "Documentary photography aims to chronicle events and environments truthfully, often to promote social change or historical record.",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "George Eastman founded Kodak in 1888 with the slogan 'You press the button, we do the rest,' making photography accessible to amateurs.",
+      "month": 9,
+      "day": 4,
+      "source": "https://en.wikipedia.org/wiki/George_Eastman"
+    },
+    {
+      "text": "The mirrorless camera revolution began in earnest in 2018 when Canon, Nikon, and Panasonic all launched full-frame mirrorless systems.",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "White balance adjusts the color temperature in a photograph to ensure whites appear neutral under different lighting conditions.",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "The Hasselblad 500C, introduced in 1957, became the go-to medium format camera for commercial and fine art photographers.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Hasselblad_500C"
+    },
+    {
+      "text": "Sports photography typically uses fast continuous shooting modes and telephoto lenses of 300mm or longer to capture peak action.",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "The 'Lunch Atop a Skyscraper' photograph showing 11 men eating lunch on a beam high above New York City was taken on September 20, 1932.",
+      "month": 9,
+      "day": 20,
+      "source": "https://en.wikipedia.org/wiki/Lunch_Atop"
+    },
+    {
+      "text": "Photo editing on smartphones has become sophisticated, with apps like Snapseed, VSCO, and Lightroom Mobile offering professional-level tools.",
+      "source": "https://en.wikipedia.org/wiki/Photo_editing_on_smartphones"
+    },
+    {
+      "text": "The Kodak Brownie camera, introduced in 1900, cost only $1 and brought photography to the mass market for the first time.",
+      "month": 2,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/Kodak_Brownie_camera"
+    },
+    {
+      "text": "Focal length determines a lens's angle of view: wide-angle lenses (under 35mm) capture more, telephoto lenses (over 70mm) magnify distant subjects.",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "Film grain in analog photography is caused by silver halide crystals; higher ISO films have larger, more visible grain.",
+      "source": "https://en.wikipedia.org/wiki/Film_grain_in_analog_photography"
+    },
+    {
+      "text": "The Nikon D1, released in 1999, was one of the first professional digital SLR cameras affordable enough for working photojournalists.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Nikon_D1"
+    },
+    {
+      "text": "Color grading in video post-production involves adjusting colors to create a specific mood or visual style throughout a film.",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "Ansel Adams' photograph 'Moonrise, Hernandez, New Mexico' (1941) is one of the most valuable photographs ever sold.",
+      "source": "https://en.wikipedia.org/wiki/Moonrise%2C_Hernandez%2C_New_Mexico"
+    },
+    {
+      "text": "A CMOS sensor converts light into electrical signals and is the most common image sensor type in modern digital cameras.",
+      "source": "https://en.wikipedia.org/wiki/A_CMOS_sensor_converts_light_into_electrical_signals_and"
+    },
+    {
+      "text": "The first photograph of a human is believed to be in Daguerre's 'Boulevard du Temple' (1838), showing a man getting his shoes shined.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/first_photograph_of_a_human"
+    },
+    {
+      "text": "Drone photography has become essential in real estate marketing, providing aerial views of properties and neighborhoods.",
+      "source": "https://en.wikipedia.org/wiki/Drone_photography"
+    },
+    {
+      "text": "Fashion photography emerged as a distinct genre in the early 20th century, closely tied to magazines like Vogue and Harper's Bazaar.",
+      "source": "https://en.wikipedia.org/wiki/Vogue_and_Harper%27s_Bazaar"
+    },
+    {
+      "text": "The Canon AE-1, released in 1976, was the first camera with a built-in microprocessor and became one of the best-selling SLRs ever.",
+      "month": 4,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/Canon_AE-1"
+    },
+    {
+      "text": "Depth of field refers to how much of a scene is in sharp focus, controlled primarily by aperture, focal length, and subject distance.",
+      "source": "https://en.wikipedia.org/wiki/Depth_of_field_refers_to_how_much_of_a_scene"
+    },
+    {
+      "text": "The daguerreotype process was officially announced to the world on August 19, 1839, now celebrated as World Photography Day.",
+      "month": 8,
+      "day": 19,
+      "source": "https://en.wikipedia.org/wiki/daguerreotype_process"
+    },
+    {
+      "text": "The Leica M series rangefinder cameras have been favored by street photographers for their compact size and quiet shutter.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Leica_M_series_rangefinder_cameras"
+    },
+    {
+      "text": "Video resolution has progressed from standard definition (480p) to 4K (2160p) and now 8K (4320p) in consumer cameras.",
+      "source": "https://en.wikipedia.org/wiki/Video_resolution"
+    },
+    {
+      "text": "Robert Capa is famous for his D-Day landing photographs and his quote, 'If your pictures aren't good enough, you aren't close enough.'",
+      "source": "https://en.wikipedia.org/wiki/Robert_Capa"
+    },
+    {
+      "text": "The histogram is a graphical representation of tonal distribution in an image, helping photographers evaluate exposure accuracy.",
+      "source": "https://en.wikipedia.org/wiki/histogram"
+    },
+    {
+      "text": "Kodak filed for bankruptcy on January 19, 2012, after failing to adapt to the digital photography revolution it helped create.",
+      "month": 1,
+      "day": 19,
+      "source": "https://en.wikipedia.org/wiki/January_19"
+    },
+    {
+      "text": "The GoPro HERO series popularized action cameras, enabling athletes to capture immersive point-of-view footage in extreme sports.",
+      "source": "https://en.wikipedia.org/wiki/GoPro_HERO"
+    },
+    {
+      "text": "Lightroom's catalog system allows photographers to organize, tag, and search thousands of images efficiently using metadata and keywords.",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "Infrared photography captures light beyond the visible spectrum, producing surreal images where foliage appears white and skies appear dark.",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "The Sony A7 (2013) was the first full-frame mirrorless interchangeable-lens camera, setting a new direction for the camera industry.",
+      "month": 10,
+      "day": 16,
+      "source": "https://en.wikipedia.org/wiki/Sony_A7"
+    },
+    {
+      "text": "The golden ratio (approximately 1.618) has been used as a compositional tool in photography and art for centuries.",
+      "source": "https://en.wikipedia.org/wiki/golden_ratio_(approximately_1.618)"
+    },
+    {
+      "text": "Photojournalists often work in dangerous conditions, and over 1,400 journalists have been killed worldwide since 1992.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Photojournalists_often_work_in_dangerous_conditions%2C_and_over_1%2C400_journalists"
+    },
+    {
+      "text": "The viewfinder in a DSLR uses a mirror and pentaprism to show the photographer exactly what the lens sees.",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "Cinematic video often uses a 180-degree shutter rule: the shutter speed should be double the frame rate for natural motion blur.",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "Edward Weston was a pioneering American photographer known for his sharply focused images of natural forms and landscapes.",
+      "source": "https://en.wikipedia.org/wiki/Edward_Weston"
+    },
+    {
+      "text": "The Nikon F, introduced in 1959, established the professional SLR camera system with interchangeable lenses, viewfinders, and motor drives.",
+      "month": 3,
+      "day": 15,
+      "source": "https://en.wikipedia.org/wiki/Nikon_F"
+    },
+    {
+      "text": "Smartphone cameras now use multiple lenses (wide, ultrawide, telephoto) to simulate the versatility of interchangeable lens systems.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "Panning is a technique where the camera follows a moving subject with a slow shutter speed, creating a sharp subject against a blurred background.",
+      "source": "https://en.wikipedia.org/wiki/Panning"
+    },
+    {
+      "text": "The Pulitzer Prize for Breaking News Photography replaced the Spot News Photography category in 2000.",
+      "source": "https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Breaking_News_Photography"
+    },
+    {
+      "text": "DJI released the Phantom 1 drone in 2013, making aerial photography and videography accessible to consumers for the first time.",
+      "source": "https://en.wikipedia.org/wiki/DJI"
+    },
+    {
+      "text": "Negative space in composition refers to the empty area around the subject, which can create powerful, minimalist images.",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "The first aerial photograph was taken from a hot air balloon by Nadar (Gaspard-Félix Tournachon) over Paris in 1858.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/first_aerial_photograph"
+    },
+    {
+      "text": "A neutral density filter reduces the amount of light entering the lens, allowing longer exposures in bright conditions.",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "Peter Lik's 'Phantom' reportedly sold for $6.5 million in 2014, making it one of the most expensive photographs ever sold.",
+      "source": "https://en.wikipedia.org/wiki/Peter_Lik%27s"
+    },
+    {
+      "text": "Image stabilization, whether in-body (IBIS) or in-lens (OIS), compensates for camera shake and allows handheld shooting at slower shutter speeds.",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "The Kodak Instamatic, introduced in 1963, simplified film loading with drop-in cartridges and sold over 50 million units.",
+      "source": "https://en.wikipedia.org/wiki/Kodak_Instamatic"
+    },
+    {
+      "text": "RAW files contain unprocessed sensor data, giving photographers maximum flexibility in post-processing compared to JPEG files.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "Blue hour, the period of twilight before sunrise or after sunset, produces a deep blue sky ideal for cityscapes and landscapes.",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "Sebastião Salgado is known for his epic black-and-white documentary projects, including 'Workers' and 'Genesis.'",
+      "source": "https://en.wikipedia.org/wiki/Sebasti%C3%A3o_Salgado"
+    },
+    {
+      "text": "The first permanent color photograph was taken by Thomas Sutton in 1861, under the direction of physicist James Clerk Maxwell.",
+      "source": "https://en.wikipedia.org/wiki/first_permanent_color_photograph"
+    },
+    {
+      "text": "Mirrorless cameras eliminated the reflex mirror found in DSLRs, allowing for smaller bodies and electronic viewfinders.",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "The Nikon D850, released in 2017, combined 45.7 megapixels with fast autofocus, earning widespread critical acclaim as one of the best DSLRs ever made.",
+      "source": "https://en.wikipedia.org/wiki/Nikon_D850"
+    },
+    {
+      "text": "A polarizing filter reduces reflections and glare, deepens blue skies, and increases color saturation in landscape photography.",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "Time-lapse photography captures a series of images at set intervals and plays them back as a video, compressing hours into seconds.",
+      "source": "https://en.wikipedia.org/wiki/Time-lapse_photography_captures_a_series_of_images_at"
+    },
+    {
+      "text": "Instagram launched on October 6, 2010, and transformed how people share and consume photographs worldwide.",
+      "month": 10,
+      "day": 6,
+      "source": "https://en.wikipedia.org/wiki/Instagram"
+    },
+    {
+      "text": "The Zone System developed by Ansel Adams divided tonal range into 11 zones from pure black (Zone 0) to pure white (Zone X).",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Zone_System"
+    },
+    {
+      "text": "Crop factor describes the ratio between a camera sensor's size and a full-frame (35mm) sensor; APS-C sensors typically have a 1.5x crop factor.",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "Night photography often requires a tripod, wide aperture, and high ISO to capture enough light for a properly exposed image.",
+      "source": "https://en.wikipedia.org/wiki/ISO_to"
+    },
+    {
+      "text": "The Fujifilm Instax line revived instant photography in the 2010s, proving that physical prints still appeal in the digital age.",
+      "source": "https://en.wikipedia.org/wiki/Fujifilm_Instax"
+    },
+    {
+      "text": "Leading lines are compositional elements like roads, fences, or rivers that guide the viewer's eye through the photograph.",
+      "source": "https://en.wikipedia.org/wiki/Leading_lines"
+    },
+    {
+      "text": "The photographic technique of double exposure overlays two images on a single frame, creating surreal and artistic effects.",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "Canon and Nikon together dominated the professional DSLR market for decades before Sony's mirrorless cameras disrupted the duopoly.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Canon_and_Nikon"
+    },
+    {
+      "text": "A light meter measures the intensity of light in a scene, helping photographers determine the correct exposure settings.",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "Vivian Maier was a street photographer whose extraordinary body of work was discovered posthumously at a Chicago auction in 2007.",
+      "source": "https://en.wikipedia.org/wiki/Vivian_Maier"
+    },
+    {
+      "text": "4K video resolution (3840 × 2160 pixels) has four times the pixel count of 1080p Full HD.",
+      "source": "https://en.wikipedia.org/wiki/4K_video_resolution_(3840_%C3%97_2160_pixels)"
+    },
+    {
+      "text": "The fisheye lens produces extremely wide-angle images with strong visual distortion, creating a hemispherical or barrel-shaped effect.",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "World Press Photo of the Year has been awarded since 1955, honoring the single best news photograph annually.",
+      "month": 2,
+      "day": 12,
+      "source": "https://en.wikipedia.org/wiki/World_Press_Photo_of_the_Year"
+    },
+    {
+      "text": "Exposure compensation allows photographers to override the camera's automatic metering to make images brighter or darker.",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "The Steadicam, invented by Garrett Brown in 1975, revolutionized filmmaking by enabling smooth camera movement while walking or running.",
+      "source": "https://en.wikipedia.org/wiki/Steadicam"
+    },
+    {
+      "text": "Man Ray was a pioneer of experimental photography, known for techniques like solarization and photograms (which he called 'rayographs').",
+      "source": "https://en.wikipedia.org/wiki/Man_Ray"
+    },
+    {
+      "text": "Chromatic aberration is a lens defect where different wavelengths of light focus at different points, causing color fringing around edges.",
+      "source": "https://en.wikipedia.org/wiki/Chromatic_aberration"
+    },
+    {
+      "text": "The iPhone 4 introduced a front-facing camera in 2010, helping popularize the selfie and changing portrait photography forever.",
+      "month": 6,
+      "day": 24,
+      "source": "https://en.wikipedia.org/wiki/iPhone_4"
+    },
+    {
+      "text": "Medium format cameras use sensors larger than full-frame (35mm), offering higher resolution and better dynamic range for studio and landscape work.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "Hyperfocal distance is the focus distance that maximizes depth of field, keeping everything from half that distance to infinity acceptably sharp.",
+      "source": "https://en.wikipedia.org/wiki/Hyperfocal_distance"
+    },
+    {
+      "text": "The first photograph taken from space was captured by a V-2 rocket on October 24, 1946.",
+      "month": 10,
+      "day": 24,
+      "source": "https://en.wikipedia.org/wiki/first_photograph_taken_from_space"
+    },
+    {
+      "text": "Drone pilots must maintain visual line of sight with their aircraft under most FAA regulations in the United States.",
+      "source": "https://en.wikipedia.org/wiki/United_States"
+    },
+    {
+      "text": "The Bayer filter array, used in most digital camera sensors, arranges red, green, and blue color filters in a specific pattern with twice as many green pixels.",
+      "source": "https://en.wikipedia.org/wiki/Bayer"
+    },
+    {
+      "text": "Cindy Sherman is celebrated for her conceptual self-portraits that challenge ideas about identity, gender, and representation in photography.",
+      "source": "https://en.wikipedia.org/wiki/Cindy_Sherman"
+    },
+    {
+      "text": "A reflector bounces light onto a subject to fill shadows, and collapsible versions are essential tools in portrait photography.",
+      "source": "https://en.wikipedia.org/wiki/A_reflector_bounces_light_onto_a_subject_to_fill_shadows%2C_and_collapsible_versions"
+    },
+    {
+      "text": "Phase detection autofocus uses pairs of sensors to measure convergence, offering faster focusing than contrast detection in most situations.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "The panoramic photograph stitches multiple overlapping images together to create an ultra-wide or 360-degree view of a scene.",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "Film speed (ISO/ASA) in analog photography determined how sensitive the film emulsion was to light; ISO 400 was a popular all-purpose choice.",
+      "source": "https://en.wikipedia.org/wiki/Film_speed_(ISO%2FASA)_in_analog_photography_determined_how_sensitive_the_film_emulsion"
+    },
+    {
+      "text": "Gordon Parks was the first African American photographer and filmmaker to work for Life magazine and the first to direct a major Hollywood film.",
+      "source": "https://en.wikipedia.org/wiki/Gordon_Parks"
+    },
+    {
+      "text": "Shutter lag is the delay between pressing the shutter button and the camera actually capturing the image; modern cameras have nearly zero lag.",
+      "source": "https://en.wikipedia.org/wiki/Shutter_lag"
+    },
+    {
+      "text": "The Large Format camera, using sheet film of 4×5 inches or larger, produces incredibly detailed images favored by fine art and architectural photographers.",
+      "source": "https://en.wikipedia.org/wiki/Large_Format"
+    },
+    {
+      "text": "Google's Pixel phones pioneered computational photography features like Night Sight and Super Res Zoom using AI and machine learning.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Google%27s_Pixel_phones_pioneered_computational_photography"
+    },
+    {
+      "text": "Silhouette photography captures a subject as a dark shape against a bright background, typically during sunrise or sunset.",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "The Kodak Ektar and Portra film stocks remain popular among analog photographers for their color accuracy and fine grain.",
+      "source": "https://en.wikipedia.org/wiki/Kodak_Ektar_and_Portra"
+    },
+    {
+      "text": "High-speed photography can freeze a bullet in flight or a water droplet mid-splash using shutter speeds of 1/10,000th of a second or faster.",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "The first known selfie was taken by Robert Cornelius in 1839, a daguerreotype he produced outside his family's lamp store in Philadelphia.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/first_known_selfie"
+    },
+    {
+      "text": "Video frame rates include 24fps (cinematic), 30fps (broadcast), and 60fps (smooth motion); higher rates enable slow-motion playback.",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "Elliott Erwitt is known for his witty and humorous black-and-white photographs, often featuring dogs and everyday moments.",
+      "source": "https://en.wikipedia.org/wiki/Elliott_Erwitt"
+    },
+    {
+      "text": "Back-button focusing separates the autofocus function from the shutter button, giving photographers more control over when the camera focuses.",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "The Rolleiflex twin-lens reflex camera, introduced in 1929, became an icon of medium format photography used by professionals for decades.",
+      "source": "https://en.wikipedia.org/wiki/Rolleiflex_twin-lens_reflex_camera"
+    },
+    {
+      "text": "Photo stacking combines multiple images focused at different points to create a single image with extended depth of field, common in macro photography.",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "The iPhone 7 Plus introduced Portrait Mode with computational bokeh in 2016, simulating the shallow depth of field of professional cameras.",
+      "month": 9,
+      "day": 7,
+      "source": "https://en.wikipedia.org/wiki/iPhone_7_Plus"
+    },
+    {
+      "text": "Rembrandt lighting is a portrait lighting technique that creates a small triangle of light on the subject's cheek opposite the light source.",
+      "source": "https://en.wikipedia.org/wiki/Rembrandt_lighting"
+    },
+    {
+      "text": "The decisive moment, a concept by Henri Cartier-Bresson, refers to capturing an event at the exact instant that reveals its full significance.",
+      "source": "https://en.wikipedia.org/wiki/Henri_Cartier-Bresson"
+    },
+    {
+      "text": "DJI's Mavic series made foldable, portable drones mainstream, allowing photographers to carry aerial cameras in a backpack.",
+      "source": "https://en.wikipedia.org/wiki/DJI%27s_Mavic"
+    },
+    {
+      "text": "The exposure value (EV) system combines aperture and shutter speed into a single number, simplifying exposure calculations.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "Cyanotype is an early photographic printing process that produces blue-toned prints, invented by Sir John Herschel in 1842.",
+      "source": "https://en.wikipedia.org/wiki/Cyanotype"
+    },
+    {
+      "text": "Sensor cleaning is essential for interchangeable-lens cameras, as dust on the sensor creates visible spots in images at small apertures.",
+      "source": "https://en.wikipedia.org/wiki/Sensor_cleaning"
+    },
+    {
+      "text": "Ansel Adams' photograph 'The Tetons and the Snake River' (1942) was included on the Voyager Golden Record sent into space.",
+      "source": "https://en.wikipedia.org/wiki/Snake_River"
+    },
+    {
+      "text": "A teleconverter is an accessory that attaches between the camera body and lens to increase focal length, typically by 1.4x or 2x.",
+      "source": "https://en.wikipedia.org/wiki/A_teleconverter"
+    },
+    {
+      "text": "The Lumière brothers patented the Autochrome process in 1903, creating the first commercially successful color photography method.",
+      "month": 12,
+      "day": 17,
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "Keystoning is the perspective distortion that makes buildings appear to lean backward when photographed with a wide-angle lens tilted upward.",
+      "source": "https://en.wikipedia.org/wiki/Keystoning"
+    },
+    {
+      "text": "The 85mm focal length is considered ideal for portraiture because it provides a flattering perspective and comfortable working distance.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/85mm_focal_length"
+    },
+    {
+      "text": "Stop-motion animation is a filmmaking technique where objects are physically manipulated and photographed frame by frame.",
+      "source": "https://en.wikipedia.org/wiki/Stop-motion_animation"
+    },
+    {
+      "text": "Nick Brandt is known for his powerful black-and-white portraits of African wildlife, shot without telephoto lenses to create intimacy.",
+      "source": "https://en.wikipedia.org/wiki/Nick_Brandt"
+    },
+    {
+      "text": "A camera obscura is an optical device that projects an inverted image through a small hole, and is the precursor to the modern camera.",
+      "source": "https://en.wikipedia.org/wiki/A_camera_obscura"
+    },
+    {
+      "text": "The world's most viewed photograph is the default Windows XP wallpaper 'Bliss,' taken by Charles O'Rear in Napa Valley, California.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/world%27s_most_viewed_photograph"
+    },
+    {
+      "text": "Lens flare occurs when bright light scatters within a lens, creating artifacts like streaks or circles in the image.",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "The RED V-RAPTOR camera system can shoot up to 8K resolution at 120 frames per second for high-end cinema production.",
+      "source": "https://en.wikipedia.org/wiki/RED_V-RAPTOR"
+    },
+    {
+      "text": "Bracketing involves taking multiple shots at different exposures, which can later be combined into an HDR image.",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "The Olympus OM-1 (1972) was revolutionary for being significantly smaller and lighter than competing professional SLRs.",
+      "source": "https://en.wikipedia.org/wiki/Olympus_OM-1"
+    },
+    {
+      "text": "Light painting is a long-exposure technique where a handheld light source is moved through the frame to create patterns or illuminate subjects.",
+      "source": "https://en.wikipedia.org/wiki/Light_painting"
+    },
+    {
+      "text": "The first digital camera sold to consumers was the Dycam Model 1 in 1990, offering 376 × 240 pixel resolution.",
+      "month": 11,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/first_digital_camera_sold_to_consumers"
+    },
+    {
+      "text": "Photography is the most popular hobby in the world, with over 1.4 trillion photographs taken annually as of the 2020s.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Photography"
+    },
+    {
+      "text": "The 'rule of odds' suggests that images with an odd number of subjects are more visually interesting and dynamic than those with even numbers.",
+      "source": "https://en.wikipedia.org/wiki/%27rule_of_odds%27_suggests_that_images_with_an_odd_number_of_subjects"
+    },
+    {
+      "text": "Dorothea Lange's work for the Farm Security Administration documented rural poverty during the 1930s and helped shape social documentary photography.",
+      "source": "https://en.wikipedia.org/wiki/Dorothea_Lange%27s"
+    },
+    {
+      "text": "Anamorphic lenses, used in cinema, create a wider field of view and distinctive oval bokeh with horizontal lens flares.",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "The GoPro HERO3, released in 2012, could shoot 4K video for the first time in a compact, waterproof action camera.",
+      "source": "https://en.wikipedia.org/wiki/GoPro_HERO3"
+    },
+    {
+      "text": "UV filters were originally used to block ultraviolet light on film cameras but are now primarily used to protect the front lens element.",
+      "source": "https://en.wikipedia.org/wiki/UV_filters"
+    },
+    {
+      "text": "A softbox diffuses and softens artificial light, creating more flattering illumination for portrait and product photography.",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "The Minolta Maxxum 7000 (1985) was the first SLR with integrated autofocus and motorized film advance, revolutionizing camera design.",
+      "month": 2,
+      "day": 15,
+      "source": "https://en.wikipedia.org/wiki/Minolta_Maxxum_7000"
+    },
+    {
+      "text": "Photogrammetry uses overlapping photographs to create 3D models of real-world objects and terrain.",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "The contact sheet was a standard darkroom tool that printed an entire roll of negatives on a single sheet of photo paper for easy review.",
+      "source": "https://en.wikipedia.org/wiki/contact_sheet"
+    },
+    {
+      "text": "Fujifilm's GFX medium format cameras offer 100+ megapixel sensors in bodies not much larger than full-frame cameras.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Fujifilm%27s_GFX"
+    },
+    {
+      "text": "Vignetting is the darkening of image corners, which can be an optical defect or an intentional artistic effect.",
+      "source": "https://en.wikipedia.org/wiki/Vignetting"
+    },
+    {
+      "text": "The Magnum Photos agency was founded in 1947 by Robert Capa, Henri Cartier-Bresson, David Seymour, and George Rodger.",
+      "month": 5,
+      "day": 22,
+      "source": "https://en.wikipedia.org/wiki/Magnum_Photos_agency"
+    },
+    {
+      "text": "An ND grad (graduated neutral density) filter is darker on top and clear on the bottom, used to balance a bright sky with a darker foreground.",
+      "source": "https://en.wikipedia.org/wiki/An_ND_grad_(graduated_neutral_density)_filter"
+    },
+    {
+      "text": "Motion pictures are typically shot at 24 frames per second, a standard established in the late 1920s with the advent of sound film.",
+      "source": "https://en.wikipedia.org/wiki/Motion_pictures"
+    },
+    {
+      "text": "Julia Margaret Cameron was a 19th-century photographer known for her soft-focus portraits of Victorian-era celebrities and allegorical subjects.",
+      "source": "https://en.wikipedia.org/wiki/Julia_Margaret_Cameron"
+    },
+    {
+      "text": "Focus peaking is an electronic viewfinder feature that highlights in-focus edges with a colored outline, aiding manual focus accuracy.",
+      "source": "https://en.wikipedia.org/wiki/Focus_peaking"
+    },
+    {
+      "text": "The Nikon Z9 (2021) was Nikon's flagship mirrorless camera with no mechanical shutter, relying entirely on an electronic shutter.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Nikon_Z9"
+    },
+    {
+      "text": "The sunny 16 rule states that on a sunny day, correct exposure is approximately f/16 with a shutter speed equal to 1/ISO.",
+      "source": "https://en.wikipedia.org/wiki/sunny_16_rule_states_that_on_a_sunny_day%2C_correct_exposure"
+    },
+    {
+      "text": "Camera traps use motion sensors to automatically photograph wildlife, enabling researchers to study elusive animals without human presence.",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "The first underwater photograph was taken by William Thompson in 1856 using a camera housed in a waterproof box.",
+      "source": "https://en.wikipedia.org/wiki/first_underwater_photograph"
+    },
+    {
+      "text": "Aspect ratio describes the proportional relationship between an image's width and height; common ratios include 3:2, 4:3, and 16:9.",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "The Canon EF 70-200mm f/2.8L IS is one of the most popular professional zoom lenses, widely used for sports, weddings, and portraits.",
+      "source": "https://en.wikipedia.org/wiki/Canon_EF_70-200mm_f%2F2.8L"
+    },
+    {
+      "text": "Pixel binning combines data from adjacent pixels to improve low-light performance, a technique widely used in smartphone cameras.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "Alfred Stieglitz championed photography as fine art in the early 1900s and founded the influential magazine Camera Work and gallery 291.",
+      "source": "https://en.wikipedia.org/wiki/Alfred_Stieglitz_championed_photography_as_fine_art_in_the_early_1900s_and"
+    },
+    {
+      "text": "The Dutch angle (or German angle) is a camera tilt technique used in filmmaking to create tension, unease, or disorientation.",
+      "source": "https://en.wikipedia.org/wiki/Dutch_angle_(or_German_angle)"
+    },
+    {
+      "text": "Lightroom Classic uses a non-destructive editing workflow, meaning the original image file is never permanently altered.",
+      "source": "https://en.wikipedia.org/wiki/Lightroom_Classic_uses_a_non-destructive_editing_workflow%2C_meaning_the_original_image_file"
+    },
+    {
+      "text": "The Sigma Art series lenses gained a reputation for optically rivaling much more expensive manufacturer lenses at lower prices.",
+      "source": "https://en.wikipedia.org/wiki/Sigma_Art"
+    },
+    {
+      "text": "The first photograph of Mars was transmitted by Mariner 4 on July 15, 1965.",
+      "month": 7,
+      "day": 15,
+      "source": "https://en.wikipedia.org/wiki/first_photograph_of_Mars"
+    },
+    {
+      "text": "Chimping is photographer slang for constantly reviewing photos on the camera's LCD screen immediately after shooting.",
+      "source": "https://en.wikipedia.org/wiki/Chimping"
+    },
+    {
+      "text": "A monopod provides a single point of stabilization, offering more portability than a tripod while still reducing camera shake.",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "Yousuf Karsh's portrait of Winston Churchill, taken in 1941, is one of the most reproduced portraits in photographic history.",
+      "source": "https://en.wikipedia.org/wiki/Yousuf_Karsh%27s_portrait_of_Winston_Churchill%2C_taken_in_1941"
+    },
+    {
+      "text": "Dynamic range measures a camera sensor's ability to capture detail in both the brightest and darkest parts of a scene simultaneously.",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "The world's first photograph, 'View from the Window at Le Gras' by Niépce, required an estimated 8-hour exposure time.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Window_at_Le_Gras"
+    },
+    {
+      "text": "Smartphone computational photography features like Night Mode combine dozens of frames to produce bright, detailed images in near-darkness.",
+      "source": "https://en.wikipedia.org/wiki/Smartphone_computational_photography"
+    },
+    {
+      "text": "The 35mm film format was adapted from cinema film by Oskar Barnack at Leica in the early 1900s and became the standard for still photography.",
+      "source": "https://en.wikipedia.org/wiki/35mm_film_format"
+    },
+    {
+      "text": "Bird's-eye view photography captures subjects from directly above, offering a unique and flattening perspective.",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "The first photo posted on Instagram was by co-founder Kevin Systrom on July 16, 2010, a picture of a dog near a taco stand.",
+      "month": 7,
+      "day": 16,
+      "source": "https://en.wikipedia.org/wiki/first_photo_posted_on_Instagram"
+    },
+    {
+      "text": "Buffer depth refers to how many continuous frames a camera can capture before it must slow down to write data to the memory card.",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "Walker Evans documented American life during the Great Depression for the FSA, influencing generations of documentary photographers.",
+      "source": "https://en.wikipedia.org/wiki/Walker_Evans"
+    },
+    {
+      "text": "A ring flash provides even, shadow-free illumination and creates a characteristic circular catchlight in the subject's eyes.",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "The Hasselblad X1D (2016) was the first compact mirrorless medium format camera, combining portability with exceptional image quality.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Hasselblad_X1D"
+    },
+    {
+      "text": "Hyperlapse is an advanced time-lapse technique where the camera moves a significant distance between each frame, creating a flowing motion effect.",
+      "source": "https://en.wikipedia.org/wiki/Hyperlapse"
+    },
+    {
+      "text": "The 'Napalm Girl' photograph by Nick Ut, taken during the Vietnam War on June 8, 1972, won the Pulitzer Prize and influenced public opinion about the war.",
+      "month": 6,
+      "day": 8,
+      "source": "https://en.wikipedia.org/wiki/%27Napalm_Girl%27_photograph_by_Nick_Ut%2C_taken_during_the_Vietnam_War_on_June_8%2C_1972"
+    },
+    {
+      "text": "Lens compression is a visual effect of telephoto lenses that makes distant objects appear closer together and larger relative to foreground elements.",
+      "source": "https://en.wikipedia.org/wiki/Lens_compression"
+    },
+    {
+      "text": "The ARRI ALEXA cinema camera system became the industry standard for Hollywood productions, used in most Academy Award-nominated films.",
+      "source": "https://en.wikipedia.org/wiki/ARRI_ALEXA_cinema_camera_system"
+    },
+    {
+      "text": "A circular polarizer rotates to control the amount of polarization, allowing photographers to fine-tune reflections and sky contrast.",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "The pinhole camera is the simplest camera design, using just a tiny hole to project an inverted image onto film or a sensor.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/pinhole_camera"
+    },
+    {
+      "text": "Eye autofocus (Eye AF) was pioneered by Sony and can detect and focus on a subject's eye, revolutionizing portrait photography.",
+      "source": "https://en.wikipedia.org/wiki/Eye_autofocus_(Eye_AF)"
+    },
+    {
+      "text": "Weegee (Arthur Fellig) was a press photographer famous for his stark black-and-white images of crime scenes and urban life in 1930s-1950s New York City.",
+      "source": "https://en.wikipedia.org/wiki/Weegee_(Arthur_Fellig)"
+    },
+    {
+      "text": "The DJI Mini series drones weigh under 250 grams, exempting them from registration requirements in many countries.",
+      "source": "https://en.wikipedia.org/wiki/DJI_Mini"
+    },
+    {
+      "text": "Diffraction occurs at very small apertures (f/16 and beyond), slightly softening images despite the increased depth of field.",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "Photoshop's Content-Aware Fill, introduced in 2010, uses AI to intelligently remove objects from images by filling in the background.",
+      "source": "https://en.wikipedia.org/wiki/Photoshop%27s_Content-Aware_Fill"
+    },
+    {
+      "text": "The Ilford HP5 Plus is one of the most popular black-and-white films, known for its versatility and pushability to higher ISOs.",
+      "source": "https://en.wikipedia.org/wiki/Ilford_HP5_Plus"
+    },
+    {
+      "text": "Camera RAW files from different manufacturers have different extensions: .CR2/.CR3 (Canon), .NEF (Nikon), .ARW (Sony), .RAF (Fujifilm).",
+      "source": "https://en.wikipedia.org/wiki/Camera_RAW_files_from_different_manufacturers"
+    },
+    {
+      "text": "Berenice Abbott documented the transformation of New York City in the 1930s in her project 'Changing New York.'",
+      "source": "https://en.wikipedia.org/wiki/Berenice_Abbott"
+    },
+    {
+      "text": "The first digital backs for medium format cameras appeared in the 1990s, costing as much as a luxury car.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/first_digital_backs_for_medium_format_cameras"
+    },
+    {
+      "text": "Kelvin is the unit used to measure color temperature; daylight is approximately 5500K, tungsten lighting is about 3200K.",
+      "source": "https://en.wikipedia.org/wiki/Kelvin"
+    },
+    {
+      "text": "The concept of 'chimney lighting' uses a narrow strip of light to dramatically illuminate a portion of the subject's face.",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "An intervalometer is a device that triggers the camera shutter at preset intervals, essential for time-lapse photography.",
+      "source": "https://en.wikipedia.org/wiki/An_intervalometer"
+    },
+    {
+      "text": "The Sony A1 (2021) shoots 50 megapixel stills at 30 frames per second with full autofocus tracking, pushing the limits of camera technology.",
+      "month": 1,
+      "day": 27,
+      "source": "https://en.wikipedia.org/wiki/Sony_A1"
+    },
+    {
+      "text": "Platinum prints, an alternative photographic process, produce images with subtle tonal gradation and exceptional archival longevity.",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "The crop sensor introduces a crop factor that effectively multiplies the focal length of any lens mounted on the camera body.",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "Diane Arbus was known for her photographs of marginalized communities, challenging conventional notions of beauty and normalcy in the 1960s.",
+      "source": "https://en.wikipedia.org/wiki/Diane_Arbus"
+    },
+    {
+      "text": "Log video profiles capture a flat, desaturated image that preserves maximum dynamic range for later color grading in post-production.",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "The first camera phone was the Sharp J-SH04, released in Japan in November 2000.",
+      "month": 11,
+      "day": 15,
+      "source": "https://en.wikipedia.org/wiki/first_camera_phone"
+    },
+    {
+      "text": "Split toning applies different colors to the highlights and shadows of a photograph, creating distinctive stylized looks.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "Bird photography requires long telephoto lenses (400mm+) and fast autofocus to capture small, fast-moving subjects in flight.",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "The Rollei 35 (1966) was the smallest 35mm camera when introduced and remained popular as a compact travel camera for years.",
+      "source": "https://en.wikipedia.org/wiki/Rollei_35"
+    },
+    {
+      "text": "ETTR (Expose to the Right) is a technique of deliberately overexposing to maximize data in the highlights, then correcting in post-processing.",
+      "source": "https://en.wikipedia.org/wiki/ETTR_(Expose_to_the_Right)"
+    },
+    {
+      "text": "Adobe's Camera Raw plugin and Lightroom share the same processing engine for developing raw files.",
+      "source": "https://en.wikipedia.org/wiki/Adobe%27s_Camera_Raw"
+    },
+    {
+      "text": "The wet plate collodion process, popular in the 1850s-1880s, required photographers to coat, expose, and develop glass plates while still wet.",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "Alexander Rodchenko pioneered constructivist photography in the 1920s with dramatic diagonal compositions and unusual viewpoints.",
+      "source": "https://en.wikipedia.org/wiki/Alexander_Rodchenko"
+    },
+    {
+      "text": "Film cameras experienced a surprising resurgence in the 2020s, with prices for popular models like the Contax T2 skyrocketing.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Contax_T2"
+    },
+    {
+      "text": "A snoot is a tube-shaped light modifier that narrows the beam of a flash or strobe for precise, focused illumination.",
+      "source": "https://en.wikipedia.org/wiki/A_snoot"
+    },
+    {
+      "text": "The Nikon Z8 (2023) packed Z9-level performance into a smaller, lighter body, making flagship features more accessible.",
+      "source": "https://en.wikipedia.org/wiki/Nikon_Z8"
+    },
+    {
+      "text": "The 24-70mm f/2.8 zoom lens is considered the 'holy trinity' workhorse, covering a versatile range from wide-angle to short telephoto.",
+      "source": "https://en.wikipedia.org/wiki/24-70mm_f%2F2.8_zoom_lens"
+    },
+    {
+      "text": "National Geographic photographer Joel Sartore's 'Photo Ark' project aims to document every species in captivity before they disappear.",
+      "source": "https://en.wikipedia.org/wiki/National_Geographic"
+    },
+    {
+      "text": "Pixel peeping is the practice of examining images at 100% crop to evaluate sharpness, a practice that can lead to overemphasizing technical perfection.",
+      "source": "https://en.wikipedia.org/wiki/Pixel_peeping"
+    },
+    {
+      "text": "The first iPhone with optical image stabilization was the iPhone 6 Plus, released in 2014.",
+      "month": 9,
+      "day": 19,
+      "source": "https://en.wikipedia.org/wiki/first_iPhone_with_optical_image_stabilization"
+    },
+    {
+      "text": "B-roll is supplementary footage used in video production to provide visual context, cover transitions, or add variety to the main narrative.",
+      "source": "https://en.wikipedia.org/wiki/B-roll"
+    },
+    {
+      "text": "Josef Sudek, known as the 'Poet of Prague,' created atmospheric still-life and landscape photographs using natural window light.",
+      "source": "https://en.wikipedia.org/wiki/Josef_Sudek%2C_known_as_the_%27Poet_of_Prague"
+    },
+    {
+      "text": "Moire patterns appear in digital images when fine, repetitive details in a subject conflict with the pixel grid of the camera sensor.",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "The Tamron 28-75mm f/2.8 Di III became a popular affordable alternative to manufacturer's first-party zoom lenses for mirrorless cameras.",
+      "source": "https://en.wikipedia.org/wiki/Tamron_28-75mm_f%2F2.8_Di_III"
+    },
+    {
+      "text": "The World Photography Day is celebrated annually on August 19, commemorating the announcement of the daguerreotype process in 1839.",
+      "month": 8,
+      "day": 19,
+      "source": "https://en.wikipedia.org/wiki/World_Photography_Day"
+    },
+    {
+      "text": "The bellows system on large format cameras allows extreme movements for perspective control and selective focus.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "Photo essays use a series of photographs to tell a story or explore a theme, combining narrative and visual elements.",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "The Brenizer method (bokeh panorama) combines multiple telephoto shots into a panorama, creating an image with extremely shallow depth of field.",
+      "source": "https://en.wikipedia.org/wiki/Brenizer"
+    },
+    {
+      "text": "Ken Burns popularized the technique of slowly panning and zooming across still photographs in documentary films, now called the 'Ken Burns effect.'",
+      "source": "https://en.wikipedia.org/wiki/Ken_Burns"
+    },
+    {
+      "text": "Cross-processing is a technique of deliberately developing film in chemicals intended for a different film type, producing unusual color shifts.",
+      "source": "https://en.wikipedia.org/wiki/Cross-processing"
+    },
+    {
+      "text": "Canon's Dual Pixel CMOS AF technology uses each pixel on the sensor for both imaging and phase-detection autofocus.",
+      "source": "https://en.wikipedia.org/wiki/Canon%27s_Dual_Pixel_CMOS_AF"
+    },
+    {
+      "text": "André Kertész was a Hungarian photographer whose innovative compositions and use of light influenced many 20th-century photographers.",
+      "source": "https://en.wikipedia.org/wiki/Andr%C3%A9_Kert%C3%A9sz"
+    },
+    {
+      "text": "The difference between optical zoom and digital zoom is that optical zoom uses lens mechanics while digital zoom simply crops and enlarges the image.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/difference_between_optical_zoom_and_digital_zoom"
+    },
+    {
+      "text": "Focus stacking in landscape photography combines images focused at different distances to achieve front-to-back sharpness.",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "The carte de visite, a small albumin print mounted on card stock, was the first widely traded format for portrait photographs in the 1860s.",
+      "source": "https://en.wikipedia.org/wiki/carte_de_visite%2C_a_small_albumin_print_mounted_on_card_stock"
+    },
+    {
+      "text": "Blackmagic Design's Pocket Cinema Camera brought cinema-quality video recording at a fraction of professional cinema camera prices.",
+      "source": "https://en.wikipedia.org/wiki/Blackmagic_Design%27s_Pocket_Cinema_Camera"
+    },
+    {
+      "text": "The Fujifilm X100 series compact cameras gained a cult following for their retro design, fixed 23mm lens, and hybrid viewfinder.",
+      "source": "https://en.wikipedia.org/wiki/Fujifilm_X100"
+    },
+    {
+      "text": "A beauty dish is a parabolic light modifier that produces a contrasty, wrapped light popular in fashion and beauty photography.",
+      "source": "https://en.wikipedia.org/wiki/A_beauty_dish"
+    },
+    {
+      "text": "The oldest surviving photograph from nature is Niépce's 'View from the Window at Le Gras,' created around 1826 or 1827.",
+      "source": "https://en.wikipedia.org/wiki/oldest_surviving_photograph_from_nature"
+    },
+    {
+      "text": "Weston's 1930 photograph of a green pepper, 'Pepper No. 30,' is considered one of the greatest still-life photographs ever taken.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Weston%27s_1930_photograph_of_a_green_pepper%2C_%27Pepper_No._30"
+    },
+    {
+      "text": "ProRes and DNxHR are professional video codecs designed for editing, offering high quality with manageable file sizes.",
+      "source": "https://en.wikipedia.org/wiki/ProRes_and_DNxHR"
+    },
+    {
+      "text": "The earliest panoramic cameras rotated during exposure to capture extra-wide images onto a curved film plane.",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "Daido Moriyama is a Japanese photographer known for his high-contrast, blurry, grainy black-and-white street photography.",
+      "source": "https://en.wikipedia.org/wiki/Daido_Moriyama"
+    },
+    {
+      "text": "Memory cards for cameras have evolved from CompactFlash to SD to CFexpress, with each generation offering faster write speeds and larger capacities.",
+      "source": "https://en.wikipedia.org/wiki/Memory_cards_for_cameras"
+    },
+    {
+      "text": "Remapping or lens profiling corrects distortion, vignetting, and chromatic aberration specific to each lens model in post-processing software.",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "The first photo transmitted by wire was sent from London to New York in 1935, taking about 7 minutes.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/first_photo_transmitted_by_wire"
+    },
+    {
+      "text": "Drone photography's bird's-eye perspective has become iconic in real estate, travel, wedding, and landscape photography.",
+      "source": "https://en.wikipedia.org/wiki/Drone_photography%27s_bird%27s-eye_perspective"
+    },
+    {
+      "text": "The Pentax K1000 (1976) was a beloved manual-focus film SLR used by photography students for decades due to its simplicity and reliability.",
+      "source": "https://en.wikipedia.org/wiki/Pentax_K1000"
+    },
+    {
+      "text": "Color space defines the range of colors a camera can capture or a display can show; sRGB is standard for web, Adobe RGB for print.",
+      "source": "https://en.wikipedia.org/wiki/Color_space_defines_the_range_of_colors_a_camera_can_capture_or_a_display_can_show%3B_sRGB"
+    },
+    {
+      "text": "Mary Ellen Mark was a celebrated documentary photographer known for her compassionate, unflinching images of marginalized communities.",
+      "source": "https://en.wikipedia.org/wiki/Mary_Ellen_Mark"
+    },
+    {
+      "text": "The mechanical shutter in a camera uses physical curtains that open and close to control exposure; electronic shutters do this digitally.",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "A mattebox attaches to the front of a cinema lens to block stray light and hold filters, giving video rigs a professional look.",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "Eadweard Muybridge's sequential photographs of a galloping horse in 1878 proved that all four hooves leave the ground simultaneously.",
+      "month": 6,
+      "day": 15,
+      "source": "https://en.wikipedia.org/wiki/Eadweard_Muybridge%27s"
+    },
+    {
+      "text": "Pixel shift resolution technology moves the sensor in one-pixel increments to capture multiple shots that combine into a higher-resolution image.",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "The Zone System by Ansel Adams requires visualizing the final print before the exposure is made, a concept called 'previsualization.'",
+      "source": "https://en.wikipedia.org/wiki/Zone_System_by_Ansel_Adams_requires_visualizing_the_final_print_before_the_exposure"
+    },
+    {
+      "text": "GoPro's SuperView mode uses a wider field of view than the standard setting, immersing viewers in the action.",
+      "source": "https://en.wikipedia.org/wiki/GoPro%27s_SuperView"
+    },
+    {
+      "text": "Sabattier effect (often called solarization) is a partial or complete reversal of tones in a photograph caused by re-exposure during development.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Sabattier_effect_(often_called_solarization)"
+    },
+    {
+      "text": "The Canon RF mount, introduced in 2018 alongside the EOS R, offers a shorter flange distance than the EF mount for improved lens design.",
+      "source": "https://en.wikipedia.org/wiki/Canon_RF_mount"
+    },
+    {
+      "text": "Autochrome plates used dyed grains of potato starch to create color images and were the dominant color process from 1907 to the 1930s.",
+      "source": "https://en.wikipedia.org/wiki/Autochrome_plates_used_dyed_grains_of_potato_starch_to_create_color_images_and"
+    },
+    {
+      "text": "Edward Curtis spent over 20 years photographing Native American peoples, producing the monumental 20-volume work 'The North American Indian.'",
+      "source": "https://en.wikipedia.org/wiki/Edward_Curtis"
+    },
+    {
+      "text": "Barrel distortion causes straight lines to curve outward, common in wide-angle lenses; pincushion distortion curves them inward, common in telephotos.",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "The Leica Q series fixed-lens full-frame cameras are prized for their combination of image quality, build, and compact design.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Leica_Q_series_fixed-lens_full-frame_cameras"
+    },
+    {
+      "text": "The GoPro MAX is a 360-degree camera that captures spherical video, allowing creators to choose their framing angle in post-production.",
+      "source": "https://en.wikipedia.org/wiki/GoPro_MAX"
+    },
+    {
+      "text": "The first X-ray photograph was taken by Wilhelm Röntgen in 1895, showing his wife's hand complete with her wedding ring.",
+      "month": 11,
+      "day": 8,
+      "source": "https://en.wikipedia.org/wiki/first_X-ray_photograph"
+    },
+    {
+      "text": "Flat lay photography arranges objects on a flat surface and photographs them from directly above, popular for food and product content.",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "Photographic memory cards can fail without warning; the 3-2-1 backup rule (3 copies, 2 media types, 1 offsite) protects against data loss.",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "Fan Ho was a Chinese photographer and filmmaker known for his masterful use of light and shadow in mid-20th-century Hong Kong street scenes.",
+      "source": "https://en.wikipedia.org/wiki/Fan_Ho"
+    },
+    {
+      "text": "The equivalent focal length on a crop sensor camera is calculated by multiplying the lens focal length by the crop factor.",
+      "source": "https://en.wikipedia.org/wiki/equivalent_focal_length_on_a_crop_sensor_camera"
+    },
+    {
+      "text": "The first photograph of a solar eclipse was taken by Johann Julius Friedrich Berkowski on July 28, 1851.",
+      "month": 7,
+      "day": 28,
+      "source": "https://en.wikipedia.org/wiki/first_photograph_of_a_solar_eclipse"
+    },
+    {
+      "text": "Lightroom presets are saved combinations of editing settings that can be applied to photos for consistent style and faster workflow.",
+      "source": "https://en.wikipedia.org/wiki/Lightroom_presets"
+    },
+    {
+      "text": "Pixel density, measured in pixels per inch (PPI), determines print sharpness; 300 PPI is the standard for high-quality photo prints.",
+      "source": "https://en.wikipedia.org/wiki/Pixel_density%2C_measured_in_pixels_per_inch_(PPI)%2C_determines_print_sharpness%3B_300_PPI"
+    },
+    {
+      "text": "The Contax G2 (1996) was an autofocus rangefinder camera with titanium construction and Carl Zeiss lenses, now a collector's item.",
+      "source": "https://en.wikipedia.org/wiki/Contax_G2"
+    },
+    {
+      "text": "Deadpan photography uses a neutral, detached perspective to document subjects without emotional bias, as seen in the work of the Düsseldorf School.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "Video color spaces like Rec. 709 (HD) and Rec. 2020 (UHD/HDR) define how colors are encoded and displayed on screens.",
+      "source": "https://en.wikipedia.org/wiki/Video_color_spaces_like_Rec._709_(HD)_and_Rec._2020_(UHD%2FHDR)_define_how_colors"
+    },
+    {
+      "text": "The first color underwater photograph was taken by Charles Martin and W.H. Longley for National Geographic in 1926.",
+      "source": "https://en.wikipedia.org/wiki/first_color_underwater_photograph"
+    },
+    {
+      "text": "A gobo (go between) is placed between a light source and the subject or background to create patterned shadows like window frames or foliage.",
+      "source": "https://en.wikipedia.org/wiki/A_gobo_(go_between)"
+    },
+    {
+      "text": "The Pentax 67 medium format SLR, nicknamed 'the beast,' was beloved for its sharp Takumar lenses and 6×7cm negatives.",
+      "source": "https://en.wikipedia.org/wiki/Pentax_67_medium_format_SLR%2C_nicknamed_%27the_beast"
+    },
+    {
+      "text": "Philip-Lorca diCorcia combined candid street photography with carefully set-up lighting, blurring the line between documentary and staged imagery.",
+      "source": "https://en.wikipedia.org/wiki/Philip-Lorca_diCorcia_combined_candid_street_photography_with_carefully"
+    },
+    {
+      "text": "Camera shake at slow shutter speeds can be estimated by the reciprocal rule: minimum safe handheld speed equals 1/(focal length).",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "The DNG (Digital Negative) format was created by Adobe as a universal raw file format to prevent proprietary format obsolescence.",
+      "source": "https://en.wikipedia.org/wiki/DNG_(Digital_Negative)_format"
+    },
+    {
+      "text": "Ilse Bing, known as the 'Queen of the Leica,' was a pioneering photojournalist and artist in 1930s Paris.",
+      "source": "https://en.wikipedia.org/wiki/Ilse_Bing%2C_known_as_the_%27Queen_of_the_Leica"
+    },
+    {
+      "text": "A speed booster (focal reducer) adapter increases the effective aperture and field of view when adapting larger format lenses to smaller sensor cameras.",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "The Canon EOS R5 (2020) was the first hybrid camera to offer 8K raw video recording internally.",
+      "month": 7,
+      "day": 9,
+      "source": "https://en.wikipedia.org/wiki/Canon_EOS_R5"
+    },
+    {
+      "text": "Burnt highlights (clipped whites) and crushed blacks (clipped shadows) represent lost data that cannot be recovered in post-processing.",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "The view camera movements of tilt, shift, swing, rise, and fall allow precise control of focus plane and perspective.",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "Andreas Gursky's 'Rhein II' sold for $4.3 million in 2011, setting a record at the time for the most expensive photograph sold at auction.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Andreas_Gursky%27s"
+    },
+    {
+      "text": "A gray card reflects exactly 18% of light and is used to set accurate exposure and white balance.",
+      "source": "https://en.wikipedia.org/wiki/A_gray_card_reflects_exactly_18%25_of_light_and"
+    },
+    {
+      "text": "The Global Shutter reads all pixels simultaneously, eliminating the rolling shutter distortion (wobble) common in fast-moving video subjects.",
+      "source": "https://en.wikipedia.org/wiki/Global_Shutter"
+    },
+    {
+      "text": "Tintype photography, popular during the American Civil War, produced images on thin metal plates coated with light-sensitive chemicals.",
+      "source": "https://en.wikipedia.org/wiki/American_Civil_War"
+    },
+    {
+      "text": "Sony's full-frame mirrorless cameras accounted for approximately 50% of the full-frame market by the early 2020s.",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "The Voigtländer Bessa series rangefinder cameras offer affordable manual-focus alternatives compatible with Leica M-mount lenses.",
+      "source": "https://en.wikipedia.org/wiki/Leica_M-mount"
+    },
+    {
+      "text": "William Eggleston is widely credited with legitimizing color photography as a fine art medium with his 1976 solo exhibition at MoMA.",
+      "month": 5,
+      "day": 25,
+      "source": "https://en.wikipedia.org/wiki/William_Eggleston"
+    },
+    {
+      "text": "The Zeiss Otus lens series is regarded as one of the sharpest lens lines ever made, setting optical benchmarks for full-frame photography.",
+      "source": "https://en.wikipedia.org/wiki/Zeiss_Otus_lens_series"
+    },
+    {
+      "text": "A cinemagraph is a still photograph in which a minor, repeated movement occurs, creating a mesmerizing looping animation.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/A_cinemagraph"
+    },
+    {
+      "text": "Multi-exposure noise reduction stacks several identical frames and averages them, reducing random noise while preserving detail.",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "The Rolleicord was Rollei's affordable twin-lens reflex camera, making medium format photography accessible to amateurs.",
+      "source": "https://en.wikipedia.org/wiki/Rolleicord"
+    },
+    {
+      "text": "Drone no-fly zones include airports, military bases, national parks (in the US), and other sensitive areas established by aviation authorities.",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "Contrast detection autofocus works by analyzing image sharpness and is typically slower but more accurate than phase detection in some situations.",
+      "source": "https://en.wikipedia.org/wiki/Contrast_detection_autofocus_works_by_analyzing_image_sharpness_and"
+    },
+    {
+      "text": "Imogen Cunningham was a renowned American photographer known for her botanical photography, nudes, and industrial landscapes.",
+      "source": "https://en.wikipedia.org/wiki/Imogen_Cunningham"
+    },
+    {
+      "text": "The first daguerreotype portrait in America was taken by Robert Cornelius in October 1839.",
+      "month": 10,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/first_daguerreotype_portrait_in_America"
+    },
+    {
+      "text": "A graduated filter transitions from colored or neutral on one half to clear on the other, useful for adding warmth or managing sky exposure.",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "Video LUTs (Look-Up Tables) are preset color transformations that quickly apply a specific color grade to footage.",
+      "source": "https://en.wikipedia.org/wiki/Video_LUTs_(Look-Up_Tables)"
+    },
+    {
+      "text": "The Bronica SQ-Ai was a modular medium format SLR system popular for studio and landscape work in the 1990s.",
+      "source": "https://en.wikipedia.org/wiki/Bronica_SQ-Ai"
+    },
+    {
+      "text": "Dodging and burning are printing techniques from the darkroom era that lighten (dodge) or darken (burn) specific areas of a print.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Dodging_and_burning"
+    },
+    {
+      "text": "The Panasonic Lumix GH5 is known for its video capabilities, including 4K 60fps recording, making it popular among videographers and YouTubers.",
+      "source": "https://en.wikipedia.org/wiki/Panasonic_Lumix_GH5"
+    },
+    {
+      "text": "Lenticular printing creates images that change or show depth as the viewing angle shifts, using an array of tiny lenses.",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "Thread mounts like the M42 screw mount were universal lens standards before bayonet mounts became dominant in the 1970s.",
+      "source": "https://en.wikipedia.org/wiki/Thread_mounts_like_the_M42_screw_mount"
+    },
+    {
+      "text": "Henri Cartier-Bresson almost exclusively used a 50mm lens on his Leica, believing it best matched the human eye's perspective.",
+      "source": "https://en.wikipedia.org/wiki/Henri_Cartier-Bresson"
+    },
+    {
+      "text": "The Olympus Tough series cameras are waterproof, shockproof, and freeze-proof, designed for extreme outdoor photography.",
+      "source": "https://en.wikipedia.org/wiki/Olympus_Tough_series_cameras"
+    },
+    {
+      "text": "The daguerreotype required subjects to remain still for several minutes due to long exposure times, which is why nobody smiles in early photographs.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "The selfie stick was invented long before smartphones; a Japanese photographer patented an 'extender stick' for cameras in 1983.",
+      "source": "https://en.wikipedia.org/wiki/selfie_stick"
+    },
+    {
+      "text": "Flash sync speed is the fastest shutter speed at which the camera can synchronize with a flash; typically 1/200s or 1/250s.",
+      "source": "https://en.wikipedia.org/wiki/Flash_sync_speed"
+    },
+    {
+      "text": "The DJI Air 2S features a 1-inch sensor, offering significantly better image quality than smaller-sensor drones.",
+      "source": "https://en.wikipedia.org/wiki/DJI_Air_2S"
+    },
+    {
+      "text": "Galen Rowell was a renowned landscape and adventure photographer known for his work in the Sierra Nevada and Himalayas.",
+      "source": "https://en.wikipedia.org/wiki/Galen_Rowell"
+    },
+    {
+      "text": "HEIF (High Efficiency Image Format) captures more color data than JPEG at similar file sizes and is used by modern smartphones.",
+      "source": "https://en.wikipedia.org/wiki/High_Efficiency_Image_Format"
+    },
+    {
+      "text": "The Ansco company, a major American film and camera manufacturer, competed with Kodak for decades before ceasing operations in the 1980s.",
+      "source": "https://en.wikipedia.org/wiki/Ansco"
+    },
+    {
+      "text": "Photographic film is still manufactured by companies including Kodak, Ilford, and Fujifilm, serving a dedicated community of analog enthusiasts.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Photographic_film"
+    },
+    {
+      "text": "A tripod's load capacity should exceed the weight of the camera and lens combined to ensure stability and prevent tipping.",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "The National Press Photographers Association (NPPA) has promoted photojournalism ethics and excellence since 1946.",
+      "source": "https://en.wikipedia.org/wiki/National_Press_Photographers_Association_(NPPA)"
+    },
+    {
+      "text": "High-key photography uses predominantly bright tones and minimal shadows to create a light, airy, and optimistic mood.",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "The DJI Inspire series drones feature dual-operator control, with one person flying and another controlling the camera independently.",
+      "source": "https://en.wikipedia.org/wiki/DJI_Inspire"
+    },
+    {
+      "text": "Adams, Cunningham, and Weston were members of Group f/64, advocating for sharply focused photographs that celebrated photography's unique qualities.",
+      "source": "https://en.wikipedia.org/wiki/Adams%2C_Cunningham%2C_and_Weston"
+    },
+    {
+      "text": "Photoshop layers allow editors to stack multiple image elements and adjustments non-destructively, building complex composites.",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "The Sony A7S series prioritizes low-light video performance, with the A7S III capable of shooting clean footage at extremely high ISOs.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Sony_A7S"
+    },
+    {
+      "text": "Shutter count indicates the number of actuations a camera's mechanical shutter has performed and is used to estimate its remaining lifespan.",
+      "source": "https://en.wikipedia.org/wiki/Shutter_count_indicates_the_number_of_actuations_a_camera%27s_mechanical_shutter"
+    },
+    {
+      "text": "The ambrotype was a photographic process popular in the 1850s, producing a positive image on glass using the wet collodion process.",
+      "source": "https://en.wikipedia.org/wiki/ambrotype"
+    },
+    {
+      "text": "James Nachtwey is one of the most acclaimed war photographers, known for his unflinching documentation of conflict and social issues.",
+      "source": "https://en.wikipedia.org/wiki/James_Nachtwey"
+    },
+    {
+      "text": "The 'Sunny 16' rule was a standard estimation method for exposure before cameras had built-in light meters.",
+      "source": "https://en.wikipedia.org/wiki/%27Sunny_16%27_rule"
+    },
+    {
+      "text": "Photo booths were first patented on September 15, 1888, and modern versions remain popular at events and weddings.",
+      "month": 9,
+      "day": 15,
+      "source": "https://en.wikipedia.org/wiki/Photo_booths"
+    },
+    {
+      "text": "The Hasselblad camera used on the Moon during the Apollo 11 mission in 1969 was left on the lunar surface to save weight for rock samples.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Hasselblad_camera_used_on_the_Moon_during_the_Apollo_11_mission_in_1969"
+    },
+    {
+      "text": "Bracketed HDR photography became automated in the 2010s, with cameras firing three or more exposures with a single press of the shutter.",
+      "source": "https://en.wikipedia.org/wiki/Bracketed_HDR_photography"
+    },
+    {
+      "text": "Sally Mann is known for her intimate and controversial black-and-white photographs of her children, landscapes, and decomposition.",
+      "source": "https://en.wikipedia.org/wiki/Sally_Mann"
+    },
+    {
+      "text": "The sensor size hierarchy from smallest to largest goes: 1-inch, Micro Four Thirds, APS-C, Full Frame, Medium Format.",
+      "source": "https://en.wikipedia.org/wiki/Micro_Four_Thirds"
+    },
+    {
+      "text": "The Profoto B1 was the first battery-powered studio strobe with TTL metering, freeing portrait photographers from power outlet locations.",
+      "source": "https://en.wikipedia.org/wiki/Profoto_B1"
+    },
+    {
+      "text": "Wet plate collodion photography has experienced a modern revival, with workshops and new practitioners embracing the 19th-century process.",
+      "source": "https://en.wikipedia.org/wiki/Wet_plate_collodion_photography"
+    },
+    {
+      "text": "The first Pulitzer Prize for Photography was awarded in 1942 to Milton Brooks for his photo of striking auto workers.",
+      "month": 5,
+      "day": 4,
+      "source": "https://en.wikipedia.org/wiki/first_Pulitzer_Prize_for_Photography"
+    },
+    {
+      "text": "Giclée printing uses high-quality inkjet technology to produce fine art photographic prints with exceptional color accuracy and longevity.",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "The Canon 1D X series flagship cameras are built for sports and press photography, offering extreme durability and fast shooting speeds.",
+      "source": "https://en.wikipedia.org/wiki/Canon_1D_X_series_flagship_cameras"
+    },
+    {
+      "text": "Photographic filters in the darkroom, like multigrade filters, controlled the contrast of black-and-white prints on variable-contrast paper.",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "The Insta360 cameras popularized 360-degree consumer video, enabling creators to capture immersive content and reframe shots in post.",
+      "source": "https://en.wikipedia.org/wiki/Insta360"
+    },
+    {
+      "text": "Shooting in manual mode gives the photographer full control over aperture, shutter speed, and ISO, eliminating camera guesswork.",
+      "source": "https://en.wikipedia.org/wiki/Shooting_in"
+    },
+    {
+      "text": "The stereoscope, popular in the Victorian era, used paired photographs to create a 3D viewing experience.",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "Photographic paper comes in multiple surfaces including glossy, matte, lustre, and metallic, each producing a different look and feel.",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "The concept of megapixels refers to millions of pixels; a 24-megapixel sensor captures images at 6000 × 4000 pixels.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Photography_%26_Videography"
+    },
+    {
+      "text": "The 'V for Victory' photograph of Churchill was captured when Karsh snatched Churchill's cigar away moments before clicking the shutter.",
+      "source": "https://en.wikipedia.org/wiki/%27V_for_Victory%27_photograph_of_Churchill"
+    },
+    {
+      "text": "The term 'paparazzi' comes from the character Paparazzo, a photographer in Federico Fellini's 1960 film 'La Dolce Vita.'",
+      "source": "https://en.wikipedia.org/wiki/Federico_Fellini%27s_1960"
+    },
+    {
+      "text": "DJI's ActiveTrack feature allows drones to automatically follow and film a moving subject using computer vision.",
+      "source": "https://en.wikipedia.org/wiki/DJI%27s_ActiveTrack"
+    },
+    {
+      "text": "The world's largest camera was built by George R. Lawrence in 1900 and weighed 1,400 pounds, producing mammoth prints for a railroad company.",
+      "source": "https://en.wikipedia.org/wiki/world%27s_largest_camera"
+    },
+    {
+      "text": "Topaz Labs and DxO are known for AI-powered photo enhancement software that can denoise, sharpen, and upscale images beyond camera limitations.",
+      "source": "https://en.wikipedia.org/wiki/Topaz_Labs_and_DxO"
+    }
+  ]
+}

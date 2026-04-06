@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hobby Drop</title>
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <!-- Setup Screen -->
+  <div id="setup-screen" class="screen">
+    <div class="logo-area">
+      <div id="emoji-strip" class="emoji-strip" aria-hidden="true">🎬 🎵 🎸 🏆 📺 🎨 🎣 📚 🧙</div>
+      <h1>Hobby Drop</h1>
+      <p class="tagline">Daily facts about your hobby or obsession</p>
+      <p id="premium-note" class="premium-note">Free mode: tap one hobby to start. Premium lets you mix multiple hobbies.</p>
+      <button id="customize-emojis-btn" class="btn-soft" type="button">😀 Customize Top Emojis</button>
+    </div>
+    <div id="top-ready-wrap" class="top-ready-wrap hidden">
+      <p id="selection-status" class="selection-status">Select one or more hobbies, then tap ready.</p>
+      <button id="ready-btn" class="btn-primary" type="button" disabled>✨ Ready For My Hobby Facts</button>
+    </div>
+    <div class="input-area">
+      <label id="selection-heading">Select One Hobby</label>
+      <p class="browse-hint">Tap a hobby name to choose it. Tap the arrow to view all category options for that hobby.</p>
+      <div class="browse-toolbar">
+        <div class="browse-actions">
+          <button id="expand-all-btn" class="btn-chip" type="button">Expand All</button>
+          <button id="collapse-all-btn" class="btn-chip" type="button">Collapse All</button>
+        </div>
+      </div>
+      <div id="hobby-list" class="hobby-list"></div>
+      <button class="btn-premium premium-btn full-width" type="button">⭐ Get Premium</button>
+    </div>
+  </div>
+
+  <!-- Fact Screen -->
+  <div id="fact-screen" class="screen hidden">
+    <div class="header">
+      <h2 id="hobby-label"></h2>
+      <button id="change-btn" class="btn-icon" title="Change hobby">✏️</button>
+    </div>
+    <div class="date-badge" id="date-badge"></div>
+    <div class="fact-card">
+      <div id="fact-type" class="fact-type"></div>
+      <p id="fact-text" class="fact-text"></p>
+      <div id="fact-credit" class="fact-credit hidden"></div>
+      <a id="fact-source" class="fact-source" href="#" target="_blank" rel="noopener noreferrer">Link To Learn More!</a>
+    </div>
+    <div class="actions">
+      <button id="refresh-btn" class="btn-secondary">🔄 Next Fact</button>
+      <button class="btn-premium premium-btn" type="button">⭐ Get Premium</button>
+    </div>
+    <div class="footer">
+      <span>Hobby Drop</span>
+    </div>
+  </div>
+
+  <!-- Loading Overlay -->
+  <div id="loading" class="loading hidden">
+    <div class="spinner"></div>
+    <p>Finding something amazing...</p>
+  </div>
+
+  <script src="facts-engine.js"></script>
+  <script src="ExtPay.js"></script>
+  <script src="popup.js"></script>
+</body>
+</html>

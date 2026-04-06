@@ -1,0 +1,1848 @@
+{
+  "hobby": "Harry Potter",
+  "facts": [
+    {
+      "text": "Harry Potter and the Philosopher's Stone was published by Bloomsbury on June 26, 1997, with an initial print run of just 500 copies.",
+      "month": 6,
+      "day": 26,
+      "source": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Philosopher%27s_Stone"
+    },
+    {
+      "text": "Harry Potter and the Chamber of Secrets was published on July 2, 1998.",
+      "month": 7,
+      "day": 2,
+      "source": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Chamber_of_Secrets"
+    },
+    {
+      "text": "Harry Potter and the Prisoner of Azkaban was released on July 8, 1999.",
+      "month": 7,
+      "day": 8,
+      "source": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban"
+    },
+    {
+      "text": "Harry Potter and the Goblet of Fire was published on July 8, 2000, and was the first book in the series to be released simultaneously in the UK and US.",
+      "month": 7,
+      "day": 8,
+      "source": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Goblet_of_Fire"
+    },
+    {
+      "text": "Harry Potter and the Order of the Phoenix was released on June 21, 2003, and became the fastest-selling book in history at the time.",
+      "month": 6,
+      "day": 21,
+      "source": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Order_of_the_Phoenix"
+    },
+    {
+      "text": "Harry Potter and the Half-Blood Prince was published on July 16, 2005.",
+      "month": 7,
+      "day": 16,
+      "source": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Half-Blood_Prince"
+    },
+    {
+      "text": "Harry Potter and the Deathly Hallows was released on July 21, 2007, selling 11 million copies in the first 24 hours in the US alone.",
+      "month": 7,
+      "day": 21,
+      "source": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Deathly_Hallows"
+    },
+    {
+      "text": "The film Harry Potter and the Philosopher's Stone premiered on November 4, 2001, in London.",
+      "month": 11,
+      "day": 4,
+      "source": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Philosopher%27s_Stone"
+    },
+    {
+      "text": "Harry Potter and the Chamber of Secrets was released in cinemas on November 15, 2002.",
+      "month": 11,
+      "day": 15,
+      "source": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Chamber_of_Secrets"
+    },
+    {
+      "text": "Harry Potter and the Prisoner of Azkaban hit theaters on June 4, 2004.",
+      "month": 6,
+      "day": 4,
+      "source": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban"
+    },
+    {
+      "text": "Harry Potter and the Goblet of Fire was released in cinemas on November 18, 2005.",
+      "month": 11,
+      "day": 18,
+      "source": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Goblet_of_Fire"
+    },
+    {
+      "text": "Harry Potter and the Order of the Phoenix premiered on July 11, 2007.",
+      "month": 7,
+      "day": 11,
+      "source": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Order_of_the_Phoenix"
+    },
+    {
+      "text": "Harry Potter and the Half-Blood Prince was released on July 15, 2009.",
+      "month": 7,
+      "day": 15,
+      "source": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Half-Blood_Prince"
+    },
+    {
+      "text": "Harry Potter and the Deathly Hallows – Part 1 was released on November 19, 2010.",
+      "month": 11,
+      "day": 19,
+      "source": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Deathly_Hallows_%E2%80%93_Part_1"
+    },
+    {
+      "text": "Harry Potter and the Deathly Hallows – Part 2 premiered on July 15, 2011, becoming the highest-grossing film of that year.",
+      "month": 7,
+      "day": 15,
+      "source": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Deathly_Hallows"
+    },
+    {
+      "text": "J.K. Rowling was born on July 31, 1965 — the same birthday she gave to Harry Potter.",
+      "month": 7,
+      "day": 31,
+      "source": "https://en.wikipedia.org/wiki/J.K._Rowling"
+    },
+    {
+      "text": "Fantastic Beasts and Where to Find Them was released in cinemas on November 18, 2016.",
+      "month": 11,
+      "day": 18,
+      "source": "https://en.wikipedia.org/wiki/Fantastic_Beasts_and_Where_to_Find_Them"
+    },
+    {
+      "text": "Fantastic Beasts: The Crimes of Grindelwald was released on November 16, 2018.",
+      "month": 11,
+      "day": 16,
+      "source": "https://en.wikipedia.org/wiki/Fantastic_Beasts:_The_Crimes_of_Grindelwald"
+    },
+    {
+      "text": "Fantastic Beasts: The Secrets of Dumbledore was released on April 15, 2022.",
+      "month": 4,
+      "day": 15,
+      "source": "https://en.wikipedia.org/wiki/Fantastic_Beasts:_The_Secrets_of_Dumbledore"
+    },
+    {
+      "text": "Harry Potter and the Cursed Child premiered on the West End in London on July 30, 2016.",
+      "month": 7,
+      "day": 30,
+      "source": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Cursed_Child"
+    },
+    {
+      "text": "The Wizarding World of Harry Potter opened at Universal Orlando's Islands of Adventure on June 18, 2010.",
+      "month": 6,
+      "day": 18,
+      "source": "https://en.wikipedia.org/wiki/Wizarding_World_of_Harry_Potter"
+    },
+    {
+      "text": "The Wizarding World of Harry Potter at Universal Studios Hollywood opened on April 7, 2016.",
+      "month": 4,
+      "day": 7,
+      "source": "https://en.wikipedia.org/wiki/Wizarding_World_of_Harry_Potter_at_Universal_Studios_Hollywood"
+    },
+    {
+      "text": "The Wizarding World of Harry Potter at Universal Studios Japan opened on July 15, 2014.",
+      "month": 7,
+      "day": 15,
+      "source": "https://en.wikipedia.org/wiki/Wizarding_World_of_Harry_Potter_at_Universal_Studios_Japan"
+    },
+    {
+      "text": "Daniel Radcliffe was born on July 23, 1989, and was cast as Harry Potter at age eleven.",
+      "month": 7,
+      "day": 23,
+      "source": "https://en.wikipedia.org/wiki/Daniel_Radcliffe"
+    },
+    {
+      "text": "Alan Rickman passed away on January 14, 2016, leaving behind one of the most beloved portrayals of Severus Snape.",
+      "month": 1,
+      "day": 14,
+      "source": "https://en.wikipedia.org/wiki/Alan_Rickman"
+    },
+    {
+      "text": "The Harry Potter series has been translated into over 80 languages, making it one of the most translated book series in history.",
+      "source": "https://en.wikipedia.org/wiki/Harry_Potter_series"
+    },
+    {
+      "text": "Over 600 million copies of the Harry Potter books have been sold worldwide.",
+      "source": "https://en.wikipedia.org/wiki/Over_600_million_copies_of_the_Harry_Potter_books"
+    },
+    {
+      "text": "The eight Harry Potter films collectively grossed over $7.7 billion at the worldwide box office.",
+      "source": "https://en.wikipedia.org/wiki/Harry_Potter"
+    },
+    {
+      "text": "J.K. Rowling famously conceived the idea for Harry Potter on a delayed train from Manchester to London in 1990.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/J.K._Rowling"
+    },
+    {
+      "text": "Rowling reportedly outlined the entire seven-book series before the first book was published.",
+      "source": "https://en.wikipedia.org/wiki/Rowling_reportedly_outlined_the_entire_seven-book_series_before_the_first_book"
+    },
+    {
+      "text": "The Philosopher's Stone manuscript was rejected by 12 publishers before Bloomsbury accepted it.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Philosopher%27s_Stone_manuscript"
+    },
+    {
+      "text": "Bloomsbury's chairman gave the manuscript to his eight-year-old daughter Alice, who loved it and demanded the rest, which helped seal the deal.",
+      "source": "https://en.wikipedia.org/wiki/Bloomsbury%27s_chairman"
+    },
+    {
+      "text": "J.K. Rowling wrote much of the first book in cafés in Edinburgh, Scotland, including The Elephant House and Nicolson's Cafe.",
+      "source": "https://en.wikipedia.org/wiki/J.K._Rowling"
+    },
+    {
+      "text": "Rowling was a single mother living on welfare benefits while writing the first Harry Potter book.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Rowling"
+    },
+    {
+      "text": "The publisher suggested Rowling use initials instead of her first name Joanne to appeal to male readers, so she chose J.K., borrowing K from her grandmother Kathleen.",
+      "source": "https://en.wikipedia.org/wiki/Joanne_to"
+    },
+    {
+      "text": "Harry Potter's birthday is July 31, the same as J.K. Rowling's.",
+      "source": "https://en.wikipedia.org/wiki/Harry_Potter%27s_birthday"
+    },
+    {
+      "text": "The character of Hermione Granger is loosely based on a younger version of J.K. Rowling herself.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/character_of_Hermione_Granger"
+    },
+    {
+      "text": "Rowling has said that Dumbledore's character represents death, and that if he could look into the Mirror of Erised, he would see his family alive and together.",
+      "source": "https://en.wikipedia.org/wiki/Rowling"
+    },
+    {
+      "text": "The name 'Voldemort' comes from the French 'vol de mort,' meaning 'flight of death' or 'theft of death.'",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Harry_Potter"
+    },
+    {
+      "text": "Voldemort's real name, Tom Marvolo Riddle, is an anagram of 'I am Lord Voldemort.'",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Voldemort%27s_real_name%2C_Tom_Marvolo_Riddle"
+    },
+    {
+      "text": "Snape's patronus is a doe, the same as Lily Potter's, reflecting his enduring love for Harry's mother.",
+      "source": "https://en.wikipedia.org/wiki/Snape%27s_patronus"
+    },
+    {
+      "text": "Rowling told Alan Rickman a secret about Snape's storyline early on so he could properly portray the character across all eight films.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Rowling"
+    },
+    {
+      "text": "Dumbledore's full name is Albus Percival Wulfric Brian Dumbledore.",
+      "source": "https://en.wikipedia.org/wiki/Dumbledore%27s_full_name"
+    },
+    {
+      "text": "The name 'Dumbledore' is an Old English word for bumblebee, which Rowling chose because she imagined him humming to himself.",
+      "source": "https://en.wikipedia.org/wiki/name_%27Dumbledore"
+    },
+    {
+      "text": "Hagrid was expelled from Hogwarts in his third year after being framed by Tom Riddle for opening the Chamber of Secrets.",
+      "source": "https://en.wikipedia.org/wiki/Hagrid"
+    },
+    {
+      "text": "Hagrid's first name is Rubeus, and Rowling has said the name comes from the Latin word 'rubeus,' meaning red, relating to alchemy.",
+      "source": "https://en.wikipedia.org/wiki/Hagrid%27s_first_name"
+    },
+    {
+      "text": "Draco Malfoy's name translates from Latin as 'dragon of bad faith.'",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Draco_Malfoy%27s"
+    },
+    {
+      "text": "Sirius Black's name refers to the Dog Star, Sirius, the brightest star in the sky — fitting since his Animagus form is a large black dog.",
+      "source": "https://en.wikipedia.org/wiki/Sirius_Black%27s"
+    },
+    {
+      "text": "Remus Lupin's name is a double reference to wolves: Remus was raised by wolves in Roman myth, and 'lupine' means wolf-like.",
+      "source": "https://en.wikipedia.org/wiki/Remus_Lupin%27s_name"
+    },
+    {
+      "text": "Neville Longbottom could have been 'the Chosen One' instead of Harry, as the prophecy applied to both boys.",
+      "source": "https://en.wikipedia.org/wiki/Neville_Longbottom_could"
+    },
+    {
+      "text": "Ron Weasley's Patronus is a Jack Russell terrier, a breed known for chasing otters — and Hermione's Patronus is an otter.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Ron_Weasley%27s_Patronus"
+    },
+    {
+      "text": "Hermione's name comes from Shakespeare's The Winter's Tale, and Rowling chose it so that no young child would be teased for sharing it.",
+      "source": "https://en.wikipedia.org/wiki/Shakespeare%27s_The_Winter%27s_Tale"
+    },
+    {
+      "text": "The Weasley family clock doesn't tell time — it shows where each family member is, including options like 'mortal peril.'",
+      "source": "https://en.wikipedia.org/wiki/Weasley_family_clock_doesn%27t_tell_time_%E2%80%94_it_shows_where_each_family_member"
+    },
+    {
+      "text": "Ginny Weasley's full name is Ginevra, not Virginia as many fans incorrectly assumed.",
+      "source": "https://en.wikipedia.org/wiki/Ginny_Weasley%27s_full_name"
+    },
+    {
+      "text": "Fred and George Weasley were born on April 1 — April Fools' Day — perfectly fitting their prankster personalities.",
+      "month": 4,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/Fred_and_George_Weasley"
+    },
+    {
+      "text": "Luna Lovegood's mother died when Luna was nine, after a spell experiment went wrong.",
+      "source": "https://en.wikipedia.org/wiki/Luna_Lovegood%27s_mother_died_when_Luna"
+    },
+    {
+      "text": "Moaning Myrtle's full name is Myrtle Elizabeth Warren.",
+      "source": "https://en.wikipedia.org/wiki/Moaning_Myrtle%27s_full_name"
+    },
+    {
+      "text": "Dobby the house-elf's death scene in Deathly Hallows was voted one of the saddest moments in the entire series by fans.",
+      "source": "https://en.wikipedia.org/wiki/Dobby_the_house-elf%27s_death_scene_in_Deathly_Hallows"
+    },
+    {
+      "text": "Rowling considered killing Ron Weasley partway through the series.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Ron_Weasley"
+    },
+    {
+      "text": "Arthur Weasley was originally supposed to die in Order of the Phoenix from Nagini's attack, but Rowling changed her mind.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Arthur_Weasley"
+    },
+    {
+      "text": "The four Hogwarts houses — Gryffindor, Slytherin, Ravenclaw, and Hufflepuff — are named after the school's four founders.",
+      "source": "https://en.wikipedia.org/wiki/four_Hogwarts_houses_%E2%80%94_Gryffindor%2C_Slytherin%2C_Ravenclaw%2C_and_Hufflepuff_%E2%80%94"
+    },
+    {
+      "text": "Gryffindor values bravery and courage. Its emblem is a lion, and its colors are scarlet and gold.",
+      "source": "https://en.wikipedia.org/wiki/Gryffindor_values_bravery_and_courage._Its_emblem"
+    },
+    {
+      "text": "Slytherin values ambition and cunning. Its emblem is a serpent, and its colors are green and silver.",
+      "source": "https://en.wikipedia.org/wiki/Slytherin_values_ambition_and_cunning._Its_emblem"
+    },
+    {
+      "text": "Ravenclaw values wisdom and wit. Its emblem is an eagle (not a raven), and its colors are blue and bronze in the books.",
+      "source": "https://en.wikipedia.org/wiki/Ravenclaw_values_wisdom_and_wit._Its_emblem"
+    },
+    {
+      "text": "Hufflepuff values loyalty, patience, and fair play. Its emblem is a badger, and its colors are yellow and black.",
+      "source": "https://en.wikipedia.org/wiki/Hufflepuff_values_loyalty%2C_patience%2C_and_fair_play._Its_emblem"
+    },
+    {
+      "text": "In the films, Ravenclaw's colors were changed from blue and bronze to blue and silver.",
+      "source": "https://en.wikipedia.org/wiki/In_the_films%2C_Ravenclaw%27s_colors"
+    },
+    {
+      "text": "The Sorting Hat was originally owned by Godric Gryffindor, and each founder enchanted it to sort students according to their values.",
+      "source": "https://en.wikipedia.org/wiki/Sorting_Hat"
+    },
+    {
+      "text": "The Sorting Hat considered placing Harry in Slytherin, but Harry's choice to refuse influenced the decision.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Sorting_Hat"
+    },
+    {
+      "text": "Hogwarts' motto is 'Draco Dormiens Nunquam Titillandus,' which translates to 'Never Tickle a Sleeping Dragon.'",
+      "source": "https://en.wikipedia.org/wiki/Hogwarts%27_motto"
+    },
+    {
+      "text": "Hogwarts has 142 staircases, and they like to change direction.",
+      "source": "https://en.wikipedia.org/wiki/Hogwarts"
+    },
+    {
+      "text": "The Room of Requirement only appears when a person has real need of it and always equips itself for the seeker's needs.",
+      "source": "https://en.wikipedia.org/wiki/Room_of_Requirement_only_appears_when_a_person"
+    },
+    {
+      "text": "The Great Hall's enchanted ceiling was designed to mirror the sky outside.",
+      "source": "https://en.wikipedia.org/wiki/Great_Hall%27s_enchanted_ceiling"
+    },
+    {
+      "text": "The Hogwarts Express departs from Platform 9¾ at King's Cross Station in London.",
+      "source": "https://en.wikipedia.org/wiki/Hogwarts_Express"
+    },
+    {
+      "text": "There is an actual trolley at King's Cross Station in London that appears to be disappearing into the wall at Platform 9¾, installed as a permanent attraction.",
+      "source": "https://en.wikipedia.org/wiki/There"
+    },
+    {
+      "text": "In the books, Peeves the Poltergeist is a major recurring character, but he was cut entirely from the films.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/In_the_books%2C_Peeves_the_Poltergeist"
+    },
+    {
+      "text": "The Marauder's Map was created by Moony (Remus Lupin), Wormtail (Peter Pettigrew), Padfoot (Sirius Black), and Prongs (James Potter).",
+      "source": "https://en.wikipedia.org/wiki/Marauder%27s_Map"
+    },
+    {
+      "text": "The Marauder's Map shows every person's location within Hogwarts in real time and famously says 'I solemnly swear that I am up to no good' to activate.",
+      "source": "https://en.wikipedia.org/wiki/Marauder%27s_Map_shows_every_person%27s_location_within_Hogwarts_in_real_time_and_famously"
+    },
+    {
+      "text": "James Potter's Animagus form was a stag, earning him the nickname Prongs.",
+      "source": "https://en.wikipedia.org/wiki/James_Potter%27s_Animagus_form"
+    },
+    {
+      "text": "Sirius Black was wrongly imprisoned in Azkaban for 12 years, making him the longest-serving innocent prisoner.",
+      "source": "https://en.wikipedia.org/wiki/Sirius_Black"
+    },
+    {
+      "text": "Azkaban is guarded by Dementors, creatures that feed on happiness and can perform the Dementor's Kiss to suck out a person's soul.",
+      "source": "https://en.wikipedia.org/wiki/Azkaban"
+    },
+    {
+      "text": "Rowling based the Dementors on her own experience with clinical depression.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Dementors_on"
+    },
+    {
+      "text": "The Patronus Charm (Expecto Patronum) is the only known defense against Dementors and requires focusing on a powerful happy memory.",
+      "source": "https://en.wikipedia.org/wiki/Patronus_Charm_(Expecto_Patronum)"
+    },
+    {
+      "text": "Harry's Patronus takes the form of a stag, the same as his father's Animagus form.",
+      "source": "https://en.wikipedia.org/wiki/Harry%27s_Patronus"
+    },
+    {
+      "text": "'Expelliarmus' (the Disarming Charm) is Harry's signature spell, which he used to defeat Voldemort in the final battle.",
+      "source": "https://en.wikipedia.org/wiki/Expelliarmus%27_(the_Disarming_Charm)"
+    },
+    {
+      "text": "The Killing Curse (Avada Kedavra) is one of three Unforgivable Curses and leaves no trace on the body.",
+      "source": "https://en.wikipedia.org/wiki/Killing_Curse_(Avada_Kedavra)"
+    },
+    {
+      "text": "The three Unforgivable Curses are Avada Kedavra (Killing Curse), Crucio (Cruciatus Curse), and Imperio (Imperius Curse).",
+      "source": "https://en.wikipedia.org/wiki/three_Unforgivable_Curses"
+    },
+    {
+      "text": "The spell 'Lumos' lights up the tip of a wand, and 'Nox' extinguishes it.",
+      "source": "https://en.wikipedia.org/wiki/Harry_Potter"
+    },
+    {
+      "text": "The spell 'Accio' is a Summoning Charm, and Harry used it to summon his Firebolt during the Triwizard Tournament.",
+      "source": "https://en.wikipedia.org/wiki/spell_%27Accio"
+    },
+    {
+      "text": "Sectumsempra, a dark curse invented by Snape (the 'Half-Blood Prince'), causes deep slashing wounds.",
+      "source": "https://en.wikipedia.org/wiki/Sectumsempra%2C_a_dark_curse"
+    },
+    {
+      "text": "Obliviate is a Memory Charm used to erase specific memories — Hermione used it on her parents before going on the Horcrux hunt.",
+      "source": "https://en.wikipedia.org/wiki/Obliviate"
+    },
+    {
+      "text": "Felix Felicis, also known as 'Liquid Luck,' makes the drinker extraordinarily lucky for a period of time.",
+      "source": "https://en.wikipedia.org/wiki/Felix_Felicis"
+    },
+    {
+      "text": "Polyjuice Potion allows the drinker to assume the physical appearance of another person for one hour.",
+      "source": "https://en.wikipedia.org/wiki/Polyjuice_Potion"
+    },
+    {
+      "text": "Polyjuice Potion takes one month to brew and requires a piece of the person being transformed into, such as hair.",
+      "source": "https://en.wikipedia.org/wiki/Polyjuice_Potion"
+    },
+    {
+      "text": "Amortentia is the most powerful love potion in the wizarding world and smells different to each person based on what attracts them.",
+      "source": "https://en.wikipedia.org/wiki/Amortentia"
+    },
+    {
+      "text": "Veritaserum is a truth-telling potion that forces the drinker to answer questions honestly.",
+      "source": "https://en.wikipedia.org/wiki/Veritaserum"
+    },
+    {
+      "text": "Wolfsbane Potion allows werewolves to retain their human mind during transformation, though it doesn't prevent the transformation itself.",
+      "source": "https://en.wikipedia.org/wiki/Wolfsbane_Potion"
+    },
+    {
+      "text": "The Elder Wand, the Resurrection Stone, and the Cloak of Invisibility together make up the Deathly Hallows.",
+      "source": "https://en.wikipedia.org/wiki/Elder_Wand"
+    },
+    {
+      "text": "According to the legend in 'The Tale of the Three Brothers,' the Deathly Hallows were gifts from Death himself.",
+      "source": "https://en.wikipedia.org/wiki/Deathly_Hallows"
+    },
+    {
+      "text": "Harry's Invisibility Cloak is one of the Deathly Hallows and was passed down through his family from Ignotus Peverell.",
+      "source": "https://en.wikipedia.org/wiki/Harry%27s_Invisibility_Cloak"
+    },
+    {
+      "text": "The Elder Wand is the most powerful wand in existence and transfers allegiance by being won, not necessarily by killing.",
+      "source": "https://en.wikipedia.org/wiki/Elder_Wand"
+    },
+    {
+      "text": "The Resurrection Stone was hidden inside the first Golden Snitch Harry ever caught, left to him by Dumbledore in his will.",
+      "source": "https://en.wikipedia.org/wiki/Resurrection_Stone"
+    },
+    {
+      "text": "Dumbledore possessed all three Deathly Hallows at different points in his life, making him the 'Master of Death.'",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Deathly_Hallows_at"
+    },
+    {
+      "text": "Voldemort created seven Horcruxes: Tom Riddle's diary, Marvolo Gaunt's ring, Slytherin's locket, Hufflepuff's cup, Ravenclaw's diadem, Nagini, and Harry Potter himself.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Voldemort"
+    },
+    {
+      "text": "Harry was an unintentional Horcrux, created when Voldemort's curse rebounded and a fragment of his soul latched onto Harry.",
+      "source": "https://en.wikipedia.org/wiki/Harry"
+    },
+    {
+      "text": "Basilisk venom is one of the few substances that can destroy a Horcrux.",
+      "source": "https://en.wikipedia.org/wiki/Basilisk_venom"
+    },
+    {
+      "text": "Fiendfyre, a cursed fire, is another way to destroy Horcruxes — Crabbe accidentally used it in the Room of Requirement.",
+      "source": "https://en.wikipedia.org/wiki/Fiendfyre%2C_a_cursed_fire"
+    },
+    {
+      "text": "The Sword of Gryffindor can destroy Horcruxes because it was impregnated with basilisk venom after Harry used it to kill the basilisk in the Chamber of Secrets.",
+      "source": "https://en.wikipedia.org/wiki/Sword_of_Gryffindor_can_destroy_Horcruxes_because_it"
+    },
+    {
+      "text": "Rowling has stated that the number seven is the most magically powerful number, which is why Voldemort chose to split his soul into seven pieces.",
+      "source": "https://en.wikipedia.org/wiki/Rowling"
+    },
+    {
+      "text": "Quidditch is played with four balls: the Quaffle, two Bludgers, and the Golden Snitch.",
+      "source": "https://en.wikipedia.org/wiki/Quidditch"
+    },
+    {
+      "text": "Catching the Golden Snitch is worth 150 points and ends the game.",
+      "source": "https://en.wikipedia.org/wiki/Catching_the_Golden_Snitch"
+    },
+    {
+      "text": "A Quidditch team has seven players: three Chasers, two Beaters, one Keeper, and one Seeker.",
+      "source": "https://en.wikipedia.org/wiki/A_Quidditch_team"
+    },
+    {
+      "text": "Harry became the youngest Seeker in a century when he joined the Gryffindor team in his first year at Hogwarts.",
+      "source": "https://en.wikipedia.org/wiki/Harry"
+    },
+    {
+      "text": "The Firebolt, given to Harry by Sirius Black, was the fastest racing broom in the world at the time.",
+      "source": "https://en.wikipedia.org/wiki/Firebolt%2C_given_to_Harry_by_Sirius_Black"
+    },
+    {
+      "text": "The first broomstick Harry owned was a Nimbus 2000, given to him by Professor McGonagall.",
+      "source": "https://en.wikipedia.org/wiki/first_broomstick_Harry_owned"
+    },
+    {
+      "text": "Viktor Krum, the Bulgarian Seeker in the Quidditch World Cup, caught the Snitch even though Bulgaria lost the match to Ireland.",
+      "source": "https://en.wikipedia.org/wiki/Viktor_Krum"
+    },
+    {
+      "text": "Quidditch Through the Ages, published as a companion book, details the history and rules of Quidditch in the wizarding world.",
+      "source": "https://en.wikipedia.org/wiki/Quidditch_Through_the_Ages"
+    },
+    {
+      "text": "Every wand in the Harry Potter universe has a core made from a magical substance — the three most common are phoenix feather, dragon heartstring, and unicorn hair.",
+      "source": "https://en.wikipedia.org/wiki/Every_wand_in_the_Harry_Potter_universe"
+    },
+    {
+      "text": "Harry's wand contains a phoenix tail feather from Fawkes — the same phoenix that provided the feather in Voldemort's wand, making them 'twin' wands.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Harry%27s_wand"
+    },
+    {
+      "text": "Ollivanders has been making wands since 382 B.C. and is located in Diagon Alley.",
+      "source": "https://en.wikipedia.org/wiki/Ollivanders"
+    },
+    {
+      "text": "The wand chooses the wizard — a core principle of wandlore in the Harry Potter universe.",
+      "source": "https://en.wikipedia.org/wiki/Harry_Potter"
+    },
+    {
+      "text": "Hermione's wand is made of vine wood with a dragon heartstring core.",
+      "source": "https://en.wikipedia.org/wiki/Hermione%27s_wand"
+    },
+    {
+      "text": "Ron's first wand was a hand-me-down from his brother Charlie and contained a unicorn hair that was poking out of the end.",
+      "source": "https://en.wikipedia.org/wiki/Ron%27s_first_wand"
+    },
+    {
+      "text": "Draco Malfoy's wand is made of hawthorn wood with a unicorn hair core.",
+      "source": "https://en.wikipedia.org/wiki/Draco_Malfoy%27s_wand"
+    },
+    {
+      "text": "The Elder Wand is made of elder wood with a Thestral tail hair core — the only known wand with that core.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Elder_Wand"
+    },
+    {
+      "text": "Fawkes the phoenix is Dumbledore's loyal companion who can carry immensely heavy loads and whose tears have healing powers.",
+      "source": "https://en.wikipedia.org/wiki/Fawkes_the_phoenix"
+    },
+    {
+      "text": "A phoenix dies by bursting into flames and is then reborn from its own ashes.",
+      "source": "https://en.wikipedia.org/wiki/A_phoenix_dies_by_bursting_into_flames_and"
+    },
+    {
+      "text": "A Hippogriff is a magical creature that is half horse and half eagle. Buckbeak is the most famous Hippogriff in the series.",
+      "source": "https://en.wikipedia.org/wiki/A_Hippogriff"
+    },
+    {
+      "text": "You must bow to a Hippogriff and wait for it to bow back before approaching, or it may attack.",
+      "source": "https://en.wikipedia.org/wiki/Hippogriff_and"
+    },
+    {
+      "text": "The Basilisk in the Chamber of Secrets was over a thousand years old, having been placed there by Salazar Slytherin himself.",
+      "source": "https://en.wikipedia.org/wiki/Basilisk_in_the_Chamber_of_Secrets"
+    },
+    {
+      "text": "A Basilisk's stare can kill, but seeing its reflection only petrifies the victim — which is how several Hogwarts students survived.",
+      "source": "https://en.wikipedia.org/wiki/A_Basilisk%27s_stare_can_kill%2C_but_seeing_its_reflection_only_petrifies_the_victim_%E2%80%94_which"
+    },
+    {
+      "text": "Thestrals are skeletal, winged horses visible only to those who have witnessed and accepted death.",
+      "source": "https://en.wikipedia.org/wiki/Thestrals"
+    },
+    {
+      "text": "Dobby the house-elf was freed when Harry tricked Lucius Malfoy into giving Dobby a sock hidden inside Tom Riddle's diary.",
+      "source": "https://en.wikipedia.org/wiki/Dobby_the_house-elf"
+    },
+    {
+      "text": "Dobby's final words in the books are 'Harry… Potter…' as he dies in Harry's arms at Shell Cottage.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Dobby%27s_final_words_in_the_books"
+    },
+    {
+      "text": "Kreacher is the Black family's house-elf who initially resents Harry but eventually becomes loyal after Harry treats him with kindness.",
+      "source": "https://en.wikipedia.org/wiki/Kreacher"
+    },
+    {
+      "text": "Nifflers are small creatures with a long snout, attracted to shiny objects. Newt Scamander keeps one in Fantastic Beasts.",
+      "source": "https://en.wikipedia.org/wiki/Nifflers"
+    },
+    {
+      "text": "A Boggart takes the shape of whatever you fear most, and the spell 'Riddikulus' is used to defeat it by making it humorous.",
+      "source": "https://en.wikipedia.org/wiki/A_Boggart_takes_the_shape_of_whatever_you_fear_most%2C_and_the_spell_%27Riddikulus"
+    },
+    {
+      "text": "Aragog is the Acromantula (giant spider) raised by Hagrid who lives in the Forbidden Forest with a colony of his offspring.",
+      "source": "https://en.wikipedia.org/wiki/Aragog"
+    },
+    {
+      "text": "Fluffy, the three-headed dog guarding the Philosopher's Stone, falls asleep when music is played.",
+      "source": "https://en.wikipedia.org/wiki/Fluffy%2C_the_three-headed_dog_guarding_the_Philosopher%27s_Stone%2C_falls_asleep_when_music"
+    },
+    {
+      "text": "Norbert (later renamed Norberta) is the Norwegian Ridgeback dragon Hagrid wins in a card game.",
+      "source": "https://en.wikipedia.org/wiki/Norbert_(later_renamed_Norberta)"
+    },
+    {
+      "text": "The four dragons in the Triwizard Tournament are the Hungarian Horntail, the Chinese Fireball, the Swedish Short-Snout, and the Common Welsh Green.",
+      "source": "https://en.wikipedia.org/wiki/four_dragons_in_the_Triwizard_Tournament"
+    },
+    {
+      "text": "Nagini, Voldemort's snake, was revealed in Fantastic Beasts to have originally been a Maledictus — a woman cursed to permanently transform into a snake.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Nagini%2C_Voldemort%27s_snake"
+    },
+    {
+      "text": "The Whomping Willow was planted at Hogwarts to conceal the secret passage to the Shrieking Shack, built for Remus Lupin's werewolf transformations.",
+      "source": "https://en.wikipedia.org/wiki/Whomping_Willow"
+    },
+    {
+      "text": "The Forbidden Forest is home to centaurs, unicorns, Acromantulas, and many other magical creatures.",
+      "source": "https://en.wikipedia.org/wiki/Forbidden_Forest"
+    },
+    {
+      "text": "Diagon Alley is accessed through the Leaky Cauldron pub in London by tapping a specific brick pattern on the wall.",
+      "source": "https://en.wikipedia.org/wiki/Diagon_Alley"
+    },
+    {
+      "text": "Knockturn Alley is a dark side street off Diagon Alley, known for shops selling items related to the Dark Arts.",
+      "source": "https://en.wikipedia.org/wiki/Knockturn_Alley"
+    },
+    {
+      "text": "Hogsmeade is the only entirely wizarding village in Britain and is a popular destination for Hogwarts students in their third year and above.",
+      "source": "https://en.wikipedia.org/wiki/Hogsmeade"
+    },
+    {
+      "text": "The Three Broomsticks and The Hog's Head are both pubs in Hogsmeade. The Hog's Head is run by Dumbledore's brother Aberforth.",
+      "source": "https://en.wikipedia.org/wiki/Three_Broomsticks_and_The_Hog%27s_Head"
+    },
+    {
+      "text": "Honeydukes is the famous sweet shop in Hogsmeade, known for Chocolate Frogs, Bertie Bott's Every Flavour Beans, and Acid Pops.",
+      "source": "https://en.wikipedia.org/wiki/Honeydukes"
+    },
+    {
+      "text": "The Ministry of Magic's visitor entrance in London is an old red telephone box where you dial 62442 (MAGIC) to enter.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Ministry_of_Magic%27s_visitor_entrance_in_London"
+    },
+    {
+      "text": "The Department of Mysteries houses the Veil, the Time-Turners, and the Hall of Prophecy.",
+      "source": "https://en.wikipedia.org/wiki/Department_of_Mysteries"
+    },
+    {
+      "text": "Grimmauld Place, Number 12, is the ancestral home of the Black family and serves as the headquarters for the Order of the Phoenix.",
+      "source": "https://en.wikipedia.org/wiki/Grimmauld_Place%2C_Number_12"
+    },
+    {
+      "text": "Godric's Hollow is the village where Harry's parents lived and were murdered, and where Dumbledore's family also resided.",
+      "source": "https://en.wikipedia.org/wiki/Godric%27s_Hollow"
+    },
+    {
+      "text": "The Burrow, home of the Weasley family, is described as looking like it's held together by magic — because it likely is.",
+      "source": "https://en.wikipedia.org/wiki/Burrow%2C_home_of_the_Weasley_family"
+    },
+    {
+      "text": "Daniel Radcliffe wore out approximately 160 pairs of glasses during the filming of all eight Harry Potter movies.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Daniel_Radcliffe"
+    },
+    {
+      "text": "Daniel Radcliffe was in the bathtub when he learned he'd been cast as Harry Potter. He screamed with excitement.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Daniel_Radcliffe"
+    },
+    {
+      "text": "Emma Watson almost wasn't cast as Hermione because the producers initially thought she was too pretty for the role.",
+      "source": "https://en.wikipedia.org/wiki/Emma_Watson_almost_wasn%27t_cast_as_Hermione_because_the_producers_initially_thought_she"
+    },
+    {
+      "text": "Rupert Grint sent in a video of himself rapping about wanting the role of Ron Weasley to get the audition.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Rupert_Grint"
+    },
+    {
+      "text": "Emma Watson has said she considered leaving the franchise after the fifth film because of the intense fame.",
+      "source": "https://en.wikipedia.org/wiki/Emma_Watson"
+    },
+    {
+      "text": "Alan Rickman was one of the few people who knew Snape's full story before the final book was published, as Rowling told him personally.",
+      "source": "https://en.wikipedia.org/wiki/Alan_Rickman"
+    },
+    {
+      "text": "Ralph Fiennes' nephew, Hero Fiennes-Tiffin, played the young Tom Riddle in Half-Blood Prince.",
+      "source": "https://en.wikipedia.org/wiki/Ralph_Fiennes"
+    },
+    {
+      "text": "Maggie Smith (Professor McGonagall) filmed Harry Potter while undergoing treatment for breast cancer and kept it private during production.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Maggie_Smith"
+    },
+    {
+      "text": "Gary Oldman played Sirius Black and has said his godchildren helped him understand the character's relationship with Harry.",
+      "source": "https://en.wikipedia.org/wiki/Gary_Oldman_played_Sirius_Black_and"
+    },
+    {
+      "text": "Richard Harris played Dumbledore in the first two films before his death in 2002. Michael Gambon took over the role.",
+      "source": "https://en.wikipedia.org/wiki/Richard_Harris"
+    },
+    {
+      "text": "Warwick Davis, who played Filius Flitwick and Griphook, also played Wicket the Ewok in Star Wars: Return of the Jedi.",
+      "source": "https://en.wikipedia.org/wiki/Warwick_Davis"
+    },
+    {
+      "text": "Helena Bonham Carter kept Bellatrix Lestrange's crooked wand as a souvenir after filming wrapped.",
+      "source": "https://en.wikipedia.org/wiki/Helena_Bonham_Carter"
+    },
+    {
+      "text": "Tom Felton (Draco Malfoy) originally auditioned for the roles of Harry Potter and Ron Weasley.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Tom_Felton"
+    },
+    {
+      "text": "Evanna Lynch, who plays Luna Lovegood, was a massive Harry Potter fan before being cast and had written letters to J.K. Rowling as a child.",
+      "source": "https://en.wikipedia.org/wiki/Evanna_Lynch%2C_who_plays_Luna_Lovegood"
+    },
+    {
+      "text": "Matthew Lewis (Neville Longbottom) wore a fat suit, fake teeth, and cheek padding for the early films.",
+      "source": "https://en.wikipedia.org/wiki/Matthew_Lewis"
+    },
+    {
+      "text": "Robbie Coltrane (Hagrid) wore a suit that made him appear 25% larger than his actual size.",
+      "source": "https://en.wikipedia.org/wiki/Robbie_Coltrane"
+    },
+    {
+      "text": "The Great Hall set at Leavesden Studios was inspired by the dining hall at Christ Church, Oxford.",
+      "source": "https://en.wikipedia.org/wiki/Great_Hall_set_at_Leavesden_Studios"
+    },
+    {
+      "text": "The Hogwarts castle model used for aerial shots in the films is incredibly detailed and took over 40 artists and crew to build.",
+      "source": "https://en.wikipedia.org/wiki/Hogwarts_castle_model_used_for_aerial_shots_in_the_films"
+    },
+    {
+      "text": "Over 2,000 individually placed tiles can be found on the Hogwarts castle model at Warner Bros. Studio Tour London.",
+      "source": "https://en.wikipedia.org/wiki/Over_2"
+    },
+    {
+      "text": "The scene where Harry sees his parents in the Mirror of Erised was the first scene Daniel Radcliffe filmed.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/scene_where_Harry_sees_his_parents_in_the_Mirror_of_Erised"
+    },
+    {
+      "text": "In the Prisoner of Azkaban film, the Knight Bus scenes were filmed with the actors secured in their chairs while the set moved around them.",
+      "source": "https://en.wikipedia.org/wiki/In_the_Prisoner_of_Azkaban_film%2C_the_Knight_Bus_scenes"
+    },
+    {
+      "text": "Alfonso Cuarón, who directed Prisoner of Azkaban, asked the three lead actors to write essays about their characters. Emma Watson wrote 16 pages, Daniel wrote one page, and Rupert didn't turn his in.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Prisoner_of_Azkaban"
+    },
+    {
+      "text": "The Goblet of Fire film had to cut the house-elf subplot involving S.P.E.W. (Society for the Promotion of Elfish Welfare).",
+      "source": "https://en.wikipedia.org/wiki/Goblet_of_Fire_film"
+    },
+    {
+      "text": "In the books, Dumbledore calmly asks Harry if he put his name in the Goblet of Fire, while in the film, Michael Gambon's Dumbledore shakes Harry aggressively — a change that upset many fans.",
+      "source": "https://en.wikipedia.org/wiki/In_the"
+    },
+    {
+      "text": "The Order of the Phoenix is the longest book in the series at 870 pages, but the movie is one of the shortest at 138 minutes.",
+      "source": "https://en.wikipedia.org/wiki/Order_of_the_Phoenix"
+    },
+    {
+      "text": "The scene where Bellatrix carves 'Mudblood' into Hermione's arm in Deathly Hallows was largely improvised by Helena Bonham Carter and Emma Watson.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/scene_where_Bellatrix_carves_%27Mudblood%27_into_Hermione%27s_arm_in_Deathly_Hallows"
+    },
+    {
+      "text": "The final duel between Harry and Voldemort in the Deathly Hallows film differs significantly from the book, where it takes place in front of everyone in the Great Hall.",
+      "source": "https://en.wikipedia.org/wiki/Harry_and_Voldemort_in_the_Deathly_Hallows"
+    },
+    {
+      "text": "Over 588 sets were built throughout the production of all eight Harry Potter films.",
+      "source": "https://en.wikipedia.org/wiki/Over_588_sets"
+    },
+    {
+      "text": "More than 4,000 wands were created by prop makers during the filming of the Harry Potter series.",
+      "source": "https://en.wikipedia.org/wiki/More_than_4%2C000_wands"
+    },
+    {
+      "text": "The Hogwarts Express used in the films is the actual GWR 4900 Class 5972 Olton Hall steam locomotive, repainted and renamed.",
+      "source": "https://en.wikipedia.org/wiki/Hogwarts_Express_used_in_the_films"
+    },
+    {
+      "text": "The Harry Potter films used over 250,000 individually hand-placed hairs to create the werewolf suit for Remus Lupin.",
+      "source": "https://en.wikipedia.org/wiki/Harry_Potter"
+    },
+    {
+      "text": "Moaning Myrtle is played by Shirley Henderson, who was 37 years old when she first played the teenage ghost.",
+      "source": "https://en.wikipedia.org/wiki/Moaning_Myrtle"
+    },
+    {
+      "text": "The Philosopher's Stone film's Quidditch scenes were shot using broomsticks attached to a specially designed motion-controlled rig.",
+      "source": "https://en.wikipedia.org/wiki/Philosopher%27s_Stone_film%27s_Quidditch_scenes"
+    },
+    {
+      "text": "The Forbidden Forest set contained 19 trees, each over 16 feet tall, with about 7,000 branches.",
+      "source": "https://en.wikipedia.org/wiki/Forbidden_Forest"
+    },
+    {
+      "text": "The Weasleys' Burrow set was built and then burned down for Deathly Hallows – Part 1, requiring it to be rebuilt for Part 2.",
+      "source": "https://en.wikipedia.org/wiki/Weasleys%27_Burrow_set"
+    },
+    {
+      "text": "A deleted scene in the Philosopher's Stone shows the full Potions puzzle in the underground chambers, which was included in the book.",
+      "source": "https://en.wikipedia.org/wiki/Philosopher%27s_Stone"
+    },
+    {
+      "text": "Rowling almost set the series in a fictional island off the coast of Britain before deciding to use real British locations with a magical overlay.",
+      "source": "https://en.wikipedia.org/wiki/Rowling_almost"
+    },
+    {
+      "text": "The idea for platform 9¾ came from Rowling misremembering which London station she associated with a childhood memory — she thought of King's Cross, but the wall between platforms 9 and 10 is at Euston.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/King%27s_Cross"
+    },
+    {
+      "text": "Rowling planned the character of Teddy Lupin as a mirror of Harry — another orphan raised by relatives.",
+      "source": "https://en.wikipedia.org/wiki/Teddy_Lupin"
+    },
+    {
+      "text": "In the Deathly Hallows epilogue, Harry names his three children James Sirius, Albus Severus, and Lily Luna.",
+      "source": "https://en.wikipedia.org/wiki/In_the_Deathly_Hallows"
+    },
+    {
+      "text": "Rowling wrote the final chapter of the last book years before she finished the series and kept it in a safe.",
+      "source": "https://en.wikipedia.org/wiki/Rowling"
+    },
+    {
+      "text": "Nearly Headless Nick's deathday party, which Harry attends in Chamber of Secrets, was on October 31, 1492 — the 500th anniversary of his death.",
+      "source": "https://en.wikipedia.org/wiki/Nearly_Headless_Nick%27s_deathday_party%2C_which_Harry_attends_in_Chamber_of_Secrets"
+    },
+    {
+      "text": "The Philosopher's Stone was retitled 'Sorcerer's Stone' in the United States because the publisher feared American readers wouldn't understand the reference to alchemy.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Philosopher%27s_Stone"
+    },
+    {
+      "text": "Rowling has said the Hogwarts house she would be sorted into is Gryffindor.",
+      "source": "https://en.wikipedia.org/wiki/Rowling"
+    },
+    {
+      "text": "Harry Potter's scar is shaped like a lightning bolt, and Rowling has said she placed it on his forehead because it's a cool shape.",
+      "source": "https://en.wikipedia.org/wiki/Harry_Potter%27s_scar"
+    },
+    {
+      "text": "The Dursleys' address, 4 Privet Drive, was chosen by Rowling because privet is dull, neatly trimmed shrubbery — perfect for the family's personality.",
+      "source": "https://en.wikipedia.org/wiki/Dursleys%27_address%2C_4_Privet_Drive"
+    },
+    {
+      "text": "Hedwig the owl's death in Deathly Hallows symbolizes the end of Harry's childhood and innocence.",
+      "source": "https://en.wikipedia.org/wiki/Hedwig_the"
+    },
+    {
+      "text": "The Triwizard Tournament's three tasks — facing a dragon, rescuing someone underwater, and navigating a maze — were designed to test different aspects of magical ability.",
+      "source": "https://en.wikipedia.org/wiki/Triwizard_Tournament%27s"
+    },
+    {
+      "text": "The Yule Ball in Goblet of Fire is the first major social event in the series and served to further the romantic subplots.",
+      "source": "https://en.wikipedia.org/wiki/Yule_Ball_in_Goblet_of_Fire"
+    },
+    {
+      "text": "Dumbledore's Army (D.A.) was a secret student organization formed to learn Defense Against the Dark Arts during Umbridge's tenure.",
+      "source": "https://en.wikipedia.org/wiki/Dumbledore%27s_Army_(D.A.)"
+    },
+    {
+      "text": "Dolores Umbridge is widely considered one of the most hated characters in the series — more so than Voldemort by many fans.",
+      "source": "https://en.wikipedia.org/wiki/Dolores_Umbridge"
+    },
+    {
+      "text": "Rowling has said Umbridge was inspired by a real person she disliked but has never revealed who.",
+      "source": "https://en.wikipedia.org/wiki/Rowling"
+    },
+    {
+      "text": "The Order of the Phoenix is a secret society founded by Dumbledore to fight Voldemort and his Death Eaters.",
+      "source": "https://en.wikipedia.org/wiki/Order_of_the_Phoenix"
+    },
+    {
+      "text": "The Taboo curse in Deathly Hallows made it so that anyone who said Voldemort's name could be instantly tracked.",
+      "source": "https://en.wikipedia.org/wiki/Taboo_curse_in_Deathly_Hallows_made_it_so_that_anyone_who"
+    },
+    {
+      "text": "Dobby wore a pillowcase as clothing because house-elves are freed when their master gives them a garment.",
+      "source": "https://en.wikipedia.org/wiki/Dobby_wore_a_pillowcase_as_clothing_because_house-elves"
+    },
+    {
+      "text": "S.P.E.W., the Society for the Promotion of Elfish Welfare, was founded by Hermione in her fourth year to campaign for house-elf rights.",
+      "source": "https://en.wikipedia.org/wiki/S.P.E.W.%2C_the_Society_for_the_Promotion_of_Elfish_Welfare"
+    },
+    {
+      "text": "Cho Chang was Harry's first kiss, which happened under the mistletoe in the Room of Requirement in Order of the Phoenix.",
+      "source": "https://en.wikipedia.org/wiki/Cho_Chang"
+    },
+    {
+      "text": "Severus Snape's dying request to Harry was 'Look at me,' so the last thing he saw would be Lily's eyes.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Severus_Snape%27s_dying_request_to_Harry"
+    },
+    {
+      "text": "Rowling revealed that after the series, Hermione went back to Hogwarts to complete her N.E.W.T.s. Harry and Ron did not.",
+      "source": "https://en.wikipedia.org/wiki/Hogwarts_to"
+    },
+    {
+      "text": "Harry became an Auror after the events of Deathly Hallows and eventually became Head of the Department of Magical Law Enforcement.",
+      "source": "https://en.wikipedia.org/wiki/Harry"
+    },
+    {
+      "text": "Hermione worked in the Department of Magical Law Enforcement and eventually became the Minister for Magic.",
+      "source": "https://en.wikipedia.org/wiki/Hermione_worked_in_the_Department_of_Magical_Law_Enforcement_and_eventually"
+    },
+    {
+      "text": "Ron worked at Weasleys' Wizard Wheezes with George before joining Harry at the Auror office.",
+      "source": "https://en.wikipedia.org/wiki/Weasleys%27_Wizard_Wheezes_with_George"
+    },
+    {
+      "text": "Neville Longbottom became the Herbology professor at Hogwarts after the events of Deathly Hallows.",
+      "source": "https://en.wikipedia.org/wiki/Neville_Longbottom"
+    },
+    {
+      "text": "Luna Lovegood married Rolf Scamander, the grandson of Newt Scamander, the protagonist of Fantastic Beasts.",
+      "source": "https://en.wikipedia.org/wiki/Luna_Lovegood"
+    },
+    {
+      "text": "Draco Malfoy married Astoria Greengrass, and they had a son named Scorpius, who appears in The Cursed Child.",
+      "source": "https://en.wikipedia.org/wiki/Draco_Malfoy_married_Astoria_Greengrass%2C_and_they"
+    },
+    {
+      "text": "Harry Potter and the Cursed Child is set 19 years after the events of Deathly Hallows and follows Harry's son Albus.",
+      "source": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Cursed_Child"
+    },
+    {
+      "text": "The Cursed Child won nine Olivier Awards in London, including Best New Play, sweeping several categories.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Cursed_Child"
+    },
+    {
+      "text": "The Cursed Child opened on Broadway at the Lyric Theatre on April 22, 2018.",
+      "month": 4,
+      "day": 22,
+      "source": "https://en.wikipedia.org/wiki/Cursed_Child"
+    },
+    {
+      "text": "The original Cursed Child was performed in two parts, requiring audiences to attend two shows to see the complete story.",
+      "source": "https://en.wikipedia.org/wiki/original_Cursed_Child"
+    },
+    {
+      "text": "The Cursed Child features a Time-Turner plot and explores an alternate timeline where Voldemort won.",
+      "source": "https://en.wikipedia.org/wiki/Cursed_Child"
+    },
+    {
+      "text": "In the Fantastic Beasts films, Newt Scamander is played by Eddie Redmayne.",
+      "source": "https://en.wikipedia.org/wiki/In_the_Fantastic_Beasts_films%2C_Newt_Scamander"
+    },
+    {
+      "text": "Fantastic Beasts is set in the 1920s and 1930s and explores the wizarding world in New York and Paris.",
+      "source": "https://en.wikipedia.org/wiki/Fantastic_Beasts"
+    },
+    {
+      "text": "The American wizarding school is called Ilvermorny and is located on Mount Greylock in Massachusetts.",
+      "source": "https://en.wikipedia.org/wiki/American_wizarding_school"
+    },
+    {
+      "text": "MACUSA (Magical Congress of the United States of America) is the American equivalent of the British Ministry of Magic.",
+      "source": "https://en.wikipedia.org/wiki/MACUSA_(Magical_Congress_of_the_United_States_of_America)"
+    },
+    {
+      "text": "Grindelwald was the dark wizard who preceded Voldemort and was once a close friend of Albus Dumbledore.",
+      "source": "https://en.wikipedia.org/wiki/Grindelwald"
+    },
+    {
+      "text": "Dumbledore and Grindelwald's relationship was confirmed by Rowling to have been romantic.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Dumbledore_and_Grindelwald%27s_relationship"
+    },
+    {
+      "text": "Johnny Depp was replaced by Mads Mikkelsen as Grindelwald starting in The Secrets of Dumbledore.",
+      "source": "https://en.wikipedia.org/wiki/Johnny_Depp"
+    },
+    {
+      "text": "The five Fantastic Beasts films were originally planned to span from 1926 to 1945, ending with Dumbledore's famous duel against Grindelwald.",
+      "source": "https://en.wikipedia.org/wiki/five_Fantastic_Beasts_films"
+    },
+    {
+      "text": "Pottermore, the official Harry Potter website, launched on April 14, 2012, and was later rebranded as the Wizarding World website.",
+      "month": 4,
+      "day": 14,
+      "source": "https://en.wikipedia.org/wiki/Pottermore%2C_the_official_Harry_Potter_website%2C_launched_on_April_14%2C_2012%2C_and"
+    },
+    {
+      "text": "The Wizarding World website allows fans to get sorted into their Hogwarts house, discover their Patronus, and find their wand.",
+      "source": "https://en.wikipedia.org/wiki/Wizarding_World"
+    },
+    {
+      "text": "The Sorting Hat ceremony on Pottermore has been taken hundreds of millions of times by fans worldwide.",
+      "source": "https://en.wikipedia.org/wiki/Sorting_Hat_ceremony_on_Pottermore"
+    },
+    {
+      "text": "Rowling published several short stories and background information about characters on Pottermore that aren't in the books.",
+      "source": "https://en.wikipedia.org/wiki/Harry_Potter"
+    },
+    {
+      "text": "The Wizarding World of Harry Potter at Universal Orlando has two areas: Hogsmeade (Islands of Adventure) and Diagon Alley (Universal Studios).",
+      "source": "https://en.wikipedia.org/wiki/Wizarding_World_of_Harry_Potter_at_Universal_Orlando"
+    },
+    {
+      "text": "The Hogwarts Express at Universal Orlando actually transports guests between the two Wizarding World areas at different theme parks.",
+      "source": "https://en.wikipedia.org/wiki/Hogwarts_Express_at_Universal_Orlando"
+    },
+    {
+      "text": "Harry Potter and the Forbidden Journey, the signature ride at the Wizarding World, uses robotic arm technology to simulate flying.",
+      "source": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Forbidden_Journey"
+    },
+    {
+      "text": "Butterbeer, the iconic wizarding drink, is sold at the Wizarding World theme parks and has become one of Universal's best-selling food items.",
+      "source": "https://en.wikipedia.org/wiki/Butterbeer%2C_the_iconic_wizarding_drink"
+    },
+    {
+      "text": "The Wizarding World of Harry Potter at Universal Studios Japan features the world's largest Harry Potter gift shop.",
+      "source": "https://en.wikipedia.org/wiki/Wizarding_World_of_Harry_Potter_at_Universal_Studios_Japan"
+    },
+    {
+      "text": "Ollivanders wand experience at Universal theme parks lets one guest per group be 'chosen' by a wand in an interactive show.",
+      "source": "https://en.wikipedia.org/wiki/Harry_Potter"
+    },
+    {
+      "text": "Interactive wands sold at the Wizarding World theme parks can trigger special effects throughout the park when pointed at designated locations.",
+      "source": "https://en.wikipedia.org/wiki/Wizarding_World"
+    },
+    {
+      "text": "The first official Harry Potter video game was released in 2001, alongside the Philosopher's Stone film.",
+      "source": "https://en.wikipedia.org/wiki/first_official_Harry_Potter_video_game"
+    },
+    {
+      "text": "LEGO Harry Potter: Years 1–4 and Years 5–7 are among the best-selling Harry Potter video games.",
+      "source": "https://en.wikipedia.org/wiki/LEGO_Harry_Potter:_Years_1%E2%80%934_and_Years_5%E2%80%937"
+    },
+    {
+      "text": "Hogwarts Legacy, an open-world RPG set in the 1800s, was released on February 10, 2023, and became one of the best-selling games of that year.",
+      "month": 2,
+      "day": 10,
+      "source": "https://en.wikipedia.org/wiki/Hogwarts_Legacy%2C_an_open-world_RPG_set_in_the_1800s"
+    },
+    {
+      "text": "Hogwarts Legacy allows players to attend Hogwarts as a new fifth-year student and explore an open-world version of the wizarding world.",
+      "source": "https://en.wikipedia.org/wiki/Hogwarts_Legacy"
+    },
+    {
+      "text": "Harry Potter: Quidditch Champions is a multiplayer Quidditch game released to let players compete in the wizarding sport.",
+      "source": "https://en.wikipedia.org/wiki/Harry_Potter:_Quidditch_Champions"
+    },
+    {
+      "text": "Harry Potter: Wizards Unite was an augmented reality mobile game similar to Pokémon Go, developed by Niantic, which launched in 2019 and shut down in 2022.",
+      "source": "https://en.wikipedia.org/wiki/Harry_Potter:_Wizards_Unite"
+    },
+    {
+      "text": "The Harry Potter Trading Card Game was released by Wizards of the Coast in 2001 but was discontinued after a few sets.",
+      "source": "https://en.wikipedia.org/wiki/Harry_Potter_Trading_Card_Game"
+    },
+    {
+      "text": "The Philosopher's Stone book was partly illustrated by Thomas Taylor for the original UK cover.",
+      "source": "https://en.wikipedia.org/wiki/Philosopher%27s_Stone_book"
+    },
+    {
+      "text": "Mary GrandPré illustrated the US covers of all seven Harry Potter books, creating iconic artwork recognized worldwide.",
+      "source": "https://en.wikipedia.org/wiki/Harry_Potter"
+    },
+    {
+      "text": "Jim Kay was commissioned to create fully illustrated editions of the Harry Potter books starting in 2015.",
+      "source": "https://en.wikipedia.org/wiki/Jim_Kay"
+    },
+    {
+      "text": "The Tales of Beedle the Bard, referenced in Deathly Hallows, was published as a real book by Rowling in December 2008.",
+      "source": "https://en.wikipedia.org/wiki/Tales_of_Beedle_the_Bard%2C_referenced_in_Deathly_Hallows"
+    },
+    {
+      "text": "Rowling hand-wrote and illustrated seven copies of The Tales of Beedle the Bard. Six were given to people closely connected to the series, and one was auctioned for £1.95 million for charity.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Rowling_hand-wrote_and_illustrated_seven_copies_of_The_Tales_of_Beedle_the_Bard._Six"
+    },
+    {
+      "text": "The Philosopher's Stone was the first children's book to top the New York Times bestseller list since Charlotte's Web in 1952.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Philosopher%27s_Stone"
+    },
+    {
+      "text": "The New York Times eventually created a separate Children's Best Sellers list because Harry Potter books dominated the main list.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/New_York_Times_eventually"
+    },
+    {
+      "text": "The series holds the Guinness World Record for the best-selling book series in history.",
+      "source": "https://en.wikipedia.org/wiki/Guinness_World_Record_for_the"
+    },
+    {
+      "text": "The Order of the Phoenix, at 257,045 words, is the longest book in the series.",
+      "source": "https://en.wikipedia.org/wiki/Order_of_the_Phoenix%2C_at_257%2C045_words"
+    },
+    {
+      "text": "The Philosopher's Stone, at 77,325 words, is the shortest book in the series.",
+      "source": "https://en.wikipedia.org/wiki/Philosopher%27s_Stone%2C_at_77%2C325_words"
+    },
+    {
+      "text": "Each book covers roughly one school year at Hogwarts, from September to June.",
+      "source": "https://en.wikipedia.org/wiki/September_to_June"
+    },
+    {
+      "text": "Rowling considered titling the seventh book 'Harry Potter and the Elder Wand' before choosing 'Deathly Hallows.'",
+      "source": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Elder_Wand"
+    },
+    {
+      "text": "The chapter 'The Prince's Tale' in Deathly Hallows, which reveals Snape's backstory, is often cited as the most emotional chapter in the series.",
+      "source": "https://en.wikipedia.org/wiki/chapter_%27The_Prince%27s_Tale%27_in_Deathly_Hallows%2C_which_reveals_Snape%27s_backstory"
+    },
+    {
+      "text": "The Mirror of Erised shows the viewer their deepest desire. 'Erised' is 'desire' spelled backwards.",
+      "source": "https://en.wikipedia.org/wiki/Mirror_of_Erised_shows_the_viewer_their_deepest_desire._%27Erised"
+    },
+    {
+      "text": "Nicolas Flamel, who created the Philosopher's Stone in the first book, was a real historical figure and alchemist who lived in 14th-century France.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Nicolas_Flamel%2C_who"
+    },
+    {
+      "text": "The Philosopher's Stone grants the Elixir of Life, which makes the drinker immortal, and can turn any metal into gold.",
+      "source": "https://en.wikipedia.org/wiki/Philosopher%27s_Stone"
+    },
+    {
+      "text": "Tom Riddle opened the Chamber of Secrets for the first time in 1942, which resulted in the death of Moaning Myrtle.",
+      "source": "https://en.wikipedia.org/wiki/Tom_Riddle"
+    },
+    {
+      "text": "Only a Parselmouth — someone who can speak to snakes — can open the entrance to the Chamber of Secrets.",
+      "source": "https://en.wikipedia.org/wiki/Chamber_of_Secrets"
+    },
+    {
+      "text": "Harry is a Parselmouth because of the piece of Voldemort's soul that was inadvertently placed inside him.",
+      "source": "https://en.wikipedia.org/wiki/Harry"
+    },
+    {
+      "text": "After Voldemort's soul fragment was destroyed, Harry lost his ability to speak Parseltongue.",
+      "source": "https://en.wikipedia.org/wiki/After_Voldemort%27s_soul_fragment"
+    },
+    {
+      "text": "The Time-Turner Hermione uses in Prisoner of Azkaban allows the user to travel back in time one hour per turn.",
+      "source": "https://en.wikipedia.org/wiki/Time-Turner_Hermione"
+    },
+    {
+      "text": "All of the Time-Turners in the Ministry of Magic were destroyed during the Battle of the Department of Mysteries in Order of the Phoenix.",
+      "source": "https://en.wikipedia.org/wiki/All_of_the_Time-Turners_in_the_Ministry_of_Magic"
+    },
+    {
+      "text": "Professor Trelawney made two real prophecies in the entire series — both were about Voldemort.",
+      "source": "https://en.wikipedia.org/wiki/Professor_Trelawney_made_two_real_prophecies_in_the_entire_series_%E2%80%94_both"
+    },
+    {
+      "text": "The Prophecy that links Harry and Voldemort states: 'Neither can live while the other survives.'",
+      "source": "https://en.wikipedia.org/wiki/Prophecy"
+    },
+    {
+      "text": "Neville's parents, Frank and Alice Longbottom, were tortured into insanity by Bellatrix Lestrange using the Cruciatus Curse.",
+      "source": "https://en.wikipedia.org/wiki/Neville%27s_parents%2C_Frank_and_Alice_Longbottom"
+    },
+    {
+      "text": "The Battle of Hogwarts, the climactic battle of the series, takes place on May 2, 1998, in the story's timeline.",
+      "month": 5,
+      "day": 2,
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Hogwarts%2C_the_climactic_battle_of_the_series"
+    },
+    {
+      "text": "Fred Weasley, Remus Lupin, Nymphadora Tonks, and Colin Creevey are among the named characters who died in the Battle of Hogwarts.",
+      "source": "https://en.wikipedia.org/wiki/Fred_Weasley%2C_Remus_Lupin%2C_Nymphadora_Tonks%2C_and_Colin_Creevey"
+    },
+    {
+      "text": "Rowling has expressed regret about killing Fred Weasley, saying it was one of the deaths that affected her most.",
+      "source": "https://en.wikipedia.org/wiki/Rowling"
+    },
+    {
+      "text": "Teddy Lupin, the son of Remus and Tonks, is raised by his grandmother Andromeda Tonks, with Harry as his godfather.",
+      "source": "https://en.wikipedia.org/wiki/Teddy_Lupin%2C_the_son_of_Remus_and_Tonks"
+    },
+    {
+      "text": "The Goblet of Fire is the pivotal book in the series — it's where the tone shifts from children's adventure to darker, more mature themes.",
+      "source": "https://en.wikipedia.org/wiki/Goblet_of_Fire"
+    },
+    {
+      "text": "Cedric Diggory's death at the end of Goblet of Fire marks the first on-page death of a named character and Voldemort's return to power.",
+      "source": "https://en.wikipedia.org/wiki/Cedric_Diggory%27s_death_at_the_end_of_Goblet_of_Fire"
+    },
+    {
+      "text": "The Triwizard Cup in Goblet of Fire was turned into a Portkey by Barty Crouch Jr., disguised as Mad-Eye Moody.",
+      "source": "https://en.wikipedia.org/wiki/Triwizard_Cup_in_Goblet_of_Fire"
+    },
+    {
+      "text": "Barty Crouch Jr. used Polyjuice Potion for an entire school year to impersonate Alastor 'Mad-Eye' Moody.",
+      "source": "https://en.wikipedia.org/wiki/Barty_Crouch_Jr"
+    },
+    {
+      "text": "The Pensieve is a stone basin that allows a witch or wizard to review their memories in vivid detail.",
+      "source": "https://en.wikipedia.org/wiki/Pensieve"
+    },
+    {
+      "text": "Dumbledore uses his Pensieve extensively in Half-Blood Prince to show Harry memories of Voldemort's past.",
+      "source": "https://en.wikipedia.org/wiki/Half-Blood_Prince_to"
+    },
+    {
+      "text": "Rowling has stated that the character she most identifies with is Dumbledore.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Rowling"
+    },
+    {
+      "text": "Dumbledore's portrait continues to advise the Hogwarts headmaster after his death, as is tradition for all former headmasters.",
+      "source": "https://en.wikipedia.org/wiki/Dumbledore%27s_portrait_continues_to_advise_the_Hogwarts_headmaster_after_his_death%2C_as"
+    },
+    {
+      "text": "The Fat Lady guards the entrance to Gryffindor Tower and requires a password to let students in.",
+      "source": "https://en.wikipedia.org/wiki/Fat_Lady"
+    },
+    {
+      "text": "Each Hogwarts house has a ghost: Nearly Headless Nick (Gryffindor), the Bloody Baron (Slytherin), the Grey Lady (Ravenclaw), and the Fat Friar (Hufflepuff).",
+      "source": "https://en.wikipedia.org/wiki/Each_Hogwarts_house"
+    },
+    {
+      "text": "The Grey Lady is actually Helena Ravenclaw, daughter of Hogwarts founder Rowena Ravenclaw.",
+      "source": "https://en.wikipedia.org/wiki/Grey_Lady"
+    },
+    {
+      "text": "The Bloody Baron killed Helena Ravenclaw and then killed himself out of remorse — both became Hogwarts ghosts.",
+      "source": "https://en.wikipedia.org/wiki/Bloody_Baron_killed_Helena_Ravenclaw_and_then_killed_himself_out_of_remorse_%E2%80%94_both"
+    },
+    {
+      "text": "Professor Binns, the History of Magic teacher, is the only ghost professor at Hogwarts. He died in his sleep and just got up to teach, not noticing he'd died.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Professor_Binns%2C_the_History_of_Magic_teacher"
+    },
+    {
+      "text": "Rowling confirmed that there are roughly 1,000 students at Hogwarts at any given time.",
+      "source": "https://en.wikipedia.org/wiki/Rowling_confirmed_that_there"
+    },
+    {
+      "text": "Hogwarts was founded around 990 A.D. by Godric Gryffindor, Helga Hufflepuff, Rowena Ravenclaw, and Salazar Slytherin.",
+      "source": "https://en.wikipedia.org/wiki/Hogwarts"
+    },
+    {
+      "text": "Salazar Slytherin left Hogwarts after a disagreement about whether Muggle-born students should be admitted.",
+      "source": "https://en.wikipedia.org/wiki/Salazar_Slytherin"
+    },
+    {
+      "text": "The Hogwarts school song has no fixed tune — everyone sings it to whatever melody they like.",
+      "source": "https://en.wikipedia.org/wiki/Hogwarts_school_song"
+    },
+    {
+      "text": "Chocolate Frogs contain collectible cards of famous witches and wizards. Harry's first card was Albus Dumbledore.",
+      "source": "https://en.wikipedia.org/wiki/Chocolate_Frogs"
+    },
+    {
+      "text": "Bertie Bott's Every Flavour Beans genuinely means every flavour — including earwax, vomit, and dirt.",
+      "source": "https://en.wikipedia.org/wiki/Bertie_Bott%27s_Every_Flavour_Beans"
+    },
+    {
+      "text": "Real Bertie Bott's Every Flavour Beans are manufactured by Jelly Belly and include flavors like booger and rotten egg.",
+      "source": "https://en.wikipedia.org/wiki/Real_Bertie_Bott%27s_Every_Flavour_Beans"
+    },
+    {
+      "text": "The Daily Prophet is the wizarding world's main newspaper, and its photos move.",
+      "source": "https://en.wikipedia.org/wiki/Daily_Prophet"
+    },
+    {
+      "text": "Rita Skeeter is an unregistered Animagus who transforms into a beetle to spy on people and get stories.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Rita_Skeeter"
+    },
+    {
+      "text": "The Knight Bus is a triple-decker purple bus that provides emergency transport for stranded witches and wizards.",
+      "source": "https://en.wikipedia.org/wiki/Knight_Bus"
+    },
+    {
+      "text": "Floo Powder allows witches and wizards to travel through fireplaces by throwing powder into the fire and saying their destination clearly.",
+      "source": "https://en.wikipedia.org/wiki/Floo_Powder"
+    },
+    {
+      "text": "Apparition is the ability to teleport from one place to another. Hogwarts students may take lessons in their sixth year.",
+      "source": "https://en.wikipedia.org/wiki/Apparition"
+    },
+    {
+      "text": "You cannot Apparate or Disapparate within Hogwarts grounds — a fact Hermione frequently reminds Harry and Ron about.",
+      "source": "https://en.wikipedia.org/wiki/Harry_and_Ron"
+    },
+    {
+      "text": "A Portkey is an everyday object enchanted to transport anyone who touches it to a specific location.",
+      "source": "https://en.wikipedia.org/wiki/A_Portkey"
+    },
+    {
+      "text": "The Howler is a magical letter that screams its message in the sender's voice, then destroys itself.",
+      "source": "https://en.wikipedia.org/wiki/Howler"
+    },
+    {
+      "text": "Mrs. Weasley's Howler to Ron in Chamber of Secrets for flying the car to Hogwarts is one of the most memorable scenes in the series.",
+      "source": "https://en.wikipedia.org/wiki/Mrs._Weasley%27s_Howler_to_Ron_in_Chamber_of_Secrets_for_flying_the_car_to_Hogwarts"
+    },
+    {
+      "text": "Mandrakes (or Mandragoras) are plants whose cry can be fatal to anyone who hears it. They are used to brew a Restorative Draught.",
+      "source": "https://en.wikipedia.org/wiki/Mandrakes_(or_Mandragoras)"
+    },
+    {
+      "text": "Gillyweed allows the consumer to breathe underwater and grow webbed hands and feet. Harry uses it in the Triwizard Tournament.",
+      "source": "https://en.wikipedia.org/wiki/Triwizard_Tournament"
+    },
+    {
+      "text": "The Whomping Willow destroyed the Weasleys' Ford Anglia when Ron and Harry flew it to Hogwarts in Chamber of Secrets.",
+      "source": "https://en.wikipedia.org/wiki/The_Whomping_Willow"
+    },
+    {
+      "text": "The Ford Anglia became feral and now roams the Forbidden Forest after being ejected by the Whomping Willow.",
+      "source": "https://en.wikipedia.org/wiki/Ford_Anglia"
+    },
+    {
+      "text": "The Deathly Hallows symbol — a triangle, circle, and line — has become one of the most recognizable symbols in modern pop culture.",
+      "source": "https://en.wikipedia.org/wiki/Deathly_Hallows_symbol_%E2%80%94_a_triangle%2C_circle%2C_and_line_%E2%80%94"
+    },
+    {
+      "text": "Harry Potter is related to the Peverell brothers through his father's family line, specifically Ignotus Peverell.",
+      "source": "https://en.wikipedia.org/wiki/Harry_Potter"
+    },
+    {
+      "text": "Voldemort is also descended from the Peverell brothers, through the second brother, Cadmus Peverell.",
+      "source": "https://en.wikipedia.org/wiki/Voldemort"
+    },
+    {
+      "text": "The Resurrection Stone was turned into Marvolo Gaunt's ring and then made into a Horcrux by Voldemort.",
+      "source": "https://en.wikipedia.org/wiki/Resurrection_Stone"
+    },
+    {
+      "text": "Dumbledore's hand was cursed and blackened when he put on the ring Horcrux, and Snape contained the curse but could not fully cure it.",
+      "source": "https://en.wikipedia.org/wiki/Dumbledore%27s_hand"
+    },
+    {
+      "text": "Dumbledore asked Snape to kill him to prevent Draco Malfoy from having to do it and to ensure the Elder Wand's allegiance would pass to Snape (though it actually passed to Draco).",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Snape_to"
+    },
+    {
+      "text": "Draco Malfoy unknowingly became the master of the Elder Wand when he disarmed Dumbledore on the Astronomy Tower.",
+      "source": "https://en.wikipedia.org/wiki/Draco_Malfoy_unknowingly"
+    },
+    {
+      "text": "Harry became the true master of the Elder Wand when he physically disarmed Draco at Malfoy Manor, even though the wand was not present.",
+      "source": "https://en.wikipedia.org/wiki/Harry"
+    },
+    {
+      "text": "In the book, Harry uses Expelliarmus to deflect Voldemort's Killing Curse, but in the film, their wands lock in a beam of light.",
+      "source": "https://en.wikipedia.org/wiki/In_the"
+    },
+    {
+      "text": "After defeating Voldemort, Harry used the Elder Wand to repair his own broken holly wand, then returned the Elder Wand to Dumbledore's tomb.",
+      "source": "https://en.wikipedia.org/wiki/Elder_Wand_to"
+    },
+    {
+      "text": "In the film version, Harry snaps the Elder Wand in half and throws it away — a controversial change from the book.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/In_the"
+    },
+    {
+      "text": "Warner Bros. Studio Tour London — The Making of Harry Potter opened in Leavesden on March 31, 2012.",
+      "month": 3,
+      "day": 31,
+      "source": "https://en.wikipedia.org/wiki/Warner_Bros._Studio_Tour_London_%E2%80%94_The_Making_of_Harry_Potter"
+    },
+    {
+      "text": "The Warner Bros. Studio Tour features original sets, props, and costumes from all eight Harry Potter films.",
+      "source": "https://en.wikipedia.org/wiki/Warner_Bros._Studio_Tour"
+    },
+    {
+      "text": "Platform 9¾ at the Studio Tour allows visitors to push a luggage trolley through the 'wall' for a photo.",
+      "source": "https://en.wikipedia.org/wiki/Studio_Tour"
+    },
+    {
+      "text": "Over 16 million people visited the Warner Bros. Studio Tour London in its first decade.",
+      "source": "https://en.wikipedia.org/wiki/Over_16"
+    },
+    {
+      "text": "The Harry Potter franchise (including films, theme parks, merchandise, and more) is estimated to be worth over $25 billion.",
+      "source": "https://en.wikipedia.org/wiki/Harry_Potter_franchise_(including_films%2C_theme_parks%2C_merchandise%2C_and_more)"
+    },
+    {
+      "text": "A first-edition copy of Harry Potter and the Philosopher's Stone with a printing error can sell for over $50,000 at auction.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Philosopher%27s_Stone_with"
+    },
+    {
+      "text": "Only 500 first-edition hardback copies of the Philosopher's Stone were printed, 300 of which went to libraries.",
+      "source": "https://en.wikipedia.org/wiki/Only_500_first-edition_hardback_copies_of_the_Philosopher%27s_Stone"
+    },
+    {
+      "text": "The Daily Prophet newspaper prop used in the films contained real articles written by the production's graphics department.",
+      "source": "https://en.wikipedia.org/wiki/Daily_Prophet"
+    },
+    {
+      "text": "The films' costume designer created over 25,000 individual costume items throughout the series.",
+      "source": "https://en.wikipedia.org/wiki/films%27_costume_designer"
+    },
+    {
+      "text": "The Weasley sweaters seen in the films were actually knitted by hand by the costume department.",
+      "source": "https://en.wikipedia.org/wiki/Weasley_sweaters_seen_in_the_films"
+    },
+    {
+      "text": "John Williams composed the music for the first three Harry Potter films, creating the iconic 'Hedwig's Theme.'",
+      "source": "https://en.wikipedia.org/wiki/John_Williams"
+    },
+    {
+      "text": "Hedwig's Theme is the main musical motif of the franchise and has become synonymous with the Wizarding World.",
+      "source": "https://en.wikipedia.org/wiki/Hedwig%27s_Theme"
+    },
+    {
+      "text": "Nicholas Hooper composed the music for Order of the Phoenix and Half-Blood Prince, while Alexandre Desplat scored both parts of Deathly Hallows.",
+      "source": "https://en.wikipedia.org/wiki/Nicholas_Hooper"
+    },
+    {
+      "text": "The spell 'Wingardium Leviosa' is one of the first spells students learn, and Hermione's correction of Ron's pronunciation is one of the series' most quoted moments.",
+      "source": "https://en.wikipedia.org/wiki/spell_%27Wingardium_Leviosa"
+    },
+    {
+      "text": "Priori Incantatem occurs when two wands sharing the same core duel — causing them to connect and forcing one to reveal its recent spells.",
+      "source": "https://en.wikipedia.org/wiki/Priori_Incantatem"
+    },
+    {
+      "text": "The movies feature over 900 visual effects shots in the final two films alone.",
+      "source": "https://en.wikipedia.org/wiki/Harry_Potter"
+    },
+    {
+      "text": "A Remembrall glows red when its holder has forgotten something, but doesn't tell them what they've forgotten.",
+      "source": "https://en.wikipedia.org/wiki/A_Remembrall_glows_red_when_its_holder"
+    },
+    {
+      "text": "Rowling created an entire Quidditch league system, including teams like the Chudley Cannons (Ron's favorite) and the Holyhead Harpies (Ginny's eventual team).",
+      "source": "https://en.wikipedia.org/wiki/Rowling"
+    },
+    {
+      "text": "The entrance to the Ministry of Magic for employees is through specially modified toilet stalls in London.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/entrance_to_the_Ministry_of_Magic_for_employees"
+    },
+    {
+      "text": "The Black family tapestry, showing the pure-blood family tree, was a detailed prop that took the art department eight weeks to create.",
+      "source": "https://en.wikipedia.org/wiki/Black_family_tapestry%2C_showing_the_pure-blood_family_tree"
+    },
+    {
+      "text": "Kreacher's tale about Regulus Black discovering Voldemort's Horcrux and sacrificing himself is one of the most emotional stories in Deathly Hallows.",
+      "source": "https://en.wikipedia.org/wiki/Regulus_Black"
+    },
+    {
+      "text": "Regulus Arcturus Black (R.A.B.) stole Slytherin's locket Horcrux and left a note for Voldemort before being killed by Inferi.",
+      "source": "https://en.wikipedia.org/wiki/Regulus_Arcturus_Black_(R.A.B.)_stole_Slytherin%27s_locket_Horcrux_and"
+    },
+    {
+      "text": "The locket Horcrux corrupts whoever wears it, similar to the One Ring in The Lord of the Rings.",
+      "source": "https://en.wikipedia.org/wiki/One_Ring_in_The_Lord_of_the_Rings"
+    },
+    {
+      "text": "Professor Slughorn's memory of telling young Tom Riddle about Horcruxes is a crucial piece of evidence Dumbledore needs in Half-Blood Prince.",
+      "source": "https://en.wikipedia.org/wiki/Professor_Slughorn%27s_memory_of_telling_young_Tom_Riddle_about_Horcruxes"
+    },
+    {
+      "text": "Slughorn tried to tamper with the memory to hide his shame, and Harry had to use Felix Felicis to convince him to give up the real version.",
+      "source": "https://en.wikipedia.org/wiki/Slughorn_tried_to_tamper_with_the_memory_to_hide_his_shame%2C_and_Harry"
+    },
+    {
+      "text": "The number of staircases, changing passwords, and moving portraits in Hogwarts were all inspired by the quirks of British boarding schools.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/number_of_staircases%2C_changing_passwords%2C_and_moving_portraits_in_Hogwarts"
+    },
+    {
+      "text": "Crookshanks, Hermione's cat, is half-Kneazle, a magical cat-like creature known for being intelligent and detecting untrustworthy people.",
+      "source": "https://en.wikipedia.org/wiki/Crookshanks%2C_Hermione%27s_cat"
+    },
+    {
+      "text": "Crookshanks recognized that Scabbers was not a real rat and pursued him throughout Prisoner of Azkaban.",
+      "source": "https://en.wikipedia.org/wiki/Crookshanks_recognized_that_Scabbers"
+    },
+    {
+      "text": "Scabbers was actually Peter Pettigrew in his Animagus form, hiding for 12 years as the Weasley family's pet rat.",
+      "source": "https://en.wikipedia.org/wiki/Scabbers"
+    },
+    {
+      "text": "Mrs. Norris, Filch's cat, was played by three Maine Coon cats in the films, with one being the primary actor.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Mrs._Norris%2C_Filch%27s_cat"
+    },
+    {
+      "text": "Argus Filch is a Squib — a person born to a wizarding family who lacks magical ability himself.",
+      "source": "https://en.wikipedia.org/wiki/Argus_Filch"
+    },
+    {
+      "text": "The Weasley twins' joke shop, Weasleys' Wizard Wheezes, is located at 93 Diagon Alley and is one of the most colorful sets in the films.",
+      "source": "https://en.wikipedia.org/wiki/Weasley_twins%27_joke_shop%2C_Weasleys%27_Wizard_Wheezes"
+    },
+    {
+      "text": "Pygmy Puffs, sold at Weasleys' Wizard Wheezes, became a popular real-world toy after appearing in the films.",
+      "source": "https://en.wikipedia.org/wiki/Pygmy_Puffs%2C_sold_at_Weasleys%27_Wizard_Wheezes"
+    },
+    {
+      "text": "The Triwizard Tournament takes place between Hogwarts, Beauxbatons Academy of Magic, and the Durmstrang Institute.",
+      "source": "https://en.wikipedia.org/wiki/Triwizard_Tournament"
+    },
+    {
+      "text": "Beauxbatons is a French wizarding school. Its headmistress, Madame Maxime, is a half-giant like Hagrid.",
+      "source": "https://en.wikipedia.org/wiki/Beauxbatons"
+    },
+    {
+      "text": "Durmstrang Institute, located in Northern Europe, is known for teaching the Dark Arts rather than just defense against them.",
+      "source": "https://en.wikipedia.org/wiki/Durmstrang_Institute%2C_located_in_Northern_Europe"
+    },
+    {
+      "text": "The Goblet of Fire book is the longest in the series at 190,637 words.",
+      "source": "https://en.wikipedia.org/wiki/Goblet_of_Fire_book"
+    },
+    {
+      "text": "Voldemort's fear of death is his defining characteristic and the driving force behind his quest for immortality through Horcruxes.",
+      "source": "https://en.wikipedia.org/wiki/Voldemort%27s_fear_of_death"
+    },
+    {
+      "text": "Voldemort was incapable of feeling love because he was conceived under the effects of a love potion.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Voldemort"
+    },
+    {
+      "text": "The orphanage where Tom Riddle grew up was called Wool's Orphanage, and he terrorized the other children before learning he was a wizard.",
+      "source": "https://en.wikipedia.org/wiki/orphanage_where_Tom_Riddle_grew_up"
+    },
+    {
+      "text": "Rowling revealed that Voldemort's Boggart would be his own corpse, as death is the thing he fears most.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Rowling_revealed_that_Voldemort%27s_Boggart_would_be_his_own_corpse%2C_as_death"
+    },
+    {
+      "text": "Gilderoy Lockhart was based on a real person Rowling knew who was annoyingly boastful.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Gilderoy_Lockhart"
+    },
+    {
+      "text": "Lockhart's only genuine skill was Memory Charms, which he used to steal other wizards' achievements.",
+      "source": "https://en.wikipedia.org/wiki/Lockhart%27s_only_genuine_skill"
+    },
+    {
+      "text": "Mad-Eye Moody's magical eye can see through walls, Invisibility Cloaks, and the back of his own head.",
+      "source": "https://en.wikipedia.org/wiki/Mad-Eye_Moody%27s"
+    },
+    {
+      "text": "Kingsley Shacklebolt became the Minister for Magic after the defeat of Voldemort.",
+      "source": "https://en.wikipedia.org/wiki/Kingsley_Shacklebolt"
+    },
+    {
+      "text": "The character of Dean Thomas originally had a much larger backstory that Rowling cut from the books, including details about his wizard father.",
+      "source": "https://en.wikipedia.org/wiki/character_of_Dean_Thomas_originally"
+    },
+    {
+      "text": "Rowling revealed that Dumbledore saw his family — his dead sister Ariana, his mother, and his father — whole and together in the Mirror of Erised.",
+      "source": "https://en.wikipedia.org/wiki/Rowling_revealed_that_Dumbledore"
+    },
+    {
+      "text": "Ariana Dumbledore was attacked by Muggle boys who saw her doing magic, and the trauma left her unable to control her powers.",
+      "source": "https://en.wikipedia.org/wiki/Ariana_Dumbledore"
+    },
+    {
+      "text": "Percival Dumbledore, Albus' father, attacked the Muggle boys who hurt Ariana and was imprisoned in Azkaban.",
+      "source": "https://en.wikipedia.org/wiki/Percival_Dumbledore%2C_Albus%27_father%2C_attacked_the_Muggle_boys_who_hurt_Ariana_and"
+    },
+    {
+      "text": "Ariana's death during a three-way duel between Albus, Aberforth, and Grindelwald haunted Dumbledore for the rest of his life.",
+      "source": "https://en.wikipedia.org/wiki/Dumbledore_for_the"
+    },
+    {
+      "text": "Aberforth Dumbledore broke Albus's nose at Ariana's funeral.",
+      "source": "https://en.wikipedia.org/wiki/Aberforth_Dumbledore"
+    },
+    {
+      "text": "Fang, Hagrid's dog, is a large boarhound who is a loyal companion but is also a massive coward.",
+      "source": "https://en.wikipedia.org/wiki/Fang%2C_Hagrid%27s_dog"
+    },
+    {
+      "text": "Hagrid's love for dangerous creatures includes dragons, Blast-Ended Skrewts, and a three-headed dog named Fluffy.",
+      "source": "https://en.wikipedia.org/wiki/Hagrid%27s_love_for_dangerous_creatures"
+    },
+    {
+      "text": "Rowling named the Dementors' prison Azkaban as a play on Alcatraz, the infamous American island prison.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Rowling"
+    },
+    {
+      "text": "The Patronus takes a different animal form for each individual wizard and is deeply connected to their personality and emotions.",
+      "source": "https://en.wikipedia.org/wiki/Patronus_takes_a_different_animal_form_for_each_individual_wizard_and"
+    },
+    {
+      "text": "Tonks's Patronus changed from a jack rabbit to a wolf after she fell in love with Remus Lupin, mirroring his condition.",
+      "source": "https://en.wikipedia.org/wiki/Tonks%27s_Patronus"
+    },
+    {
+      "text": "Snape is the only Death Eater capable of producing a Patronus, because his love for Lily kept his soul intact.",
+      "source": "https://en.wikipedia.org/wiki/Snape"
+    },
+    {
+      "text": "The Philosopher's Stone film was the highest-grossing film of 2001, earning over $974 million worldwide.",
+      "source": "https://en.wikipedia.org/wiki/Philosopher%27s_Stone_film"
+    },
+    {
+      "text": "Deathly Hallows – Part 2 is the highest-grossing Harry Potter film, earning over $1.34 billion worldwide.",
+      "source": "https://en.wikipedia.org/wiki/Deathly_Hallows_%E2%80%93_Part_2"
+    },
+    {
+      "text": "The Harry Potter series inspired a real-life sport called Quidditch (now rebranded as Quadball), played at colleges and clubs worldwide.",
+      "source": "https://en.wikipedia.org/wiki/Harry_Potter_series"
+    },
+    {
+      "text": "Major League Quadball (formerly Major League Quidditch) hosts competitive tournaments in the United States and internationally.",
+      "source": "https://en.wikipedia.org/wiki/Major_League_Quadball"
+    },
+    {
+      "text": "The International Quidditch Association was founded in 2010 and organized World Cups before rebranding the sport.",
+      "source": "https://en.wikipedia.org/wiki/International_Quidditch_Association"
+    },
+    {
+      "text": "Harry Potter book night is celebrated annually by bookstores and libraries around the world.",
+      "source": "https://en.wikipedia.org/wiki/Harry_Potter_book_night"
+    },
+    {
+      "text": "The Harry Potter Alliance is a real nonprofit organization inspired by the series that campaigns for social justice and equality.",
+      "source": "https://en.wikipedia.org/wiki/Harry_Potter_Alliance"
+    },
+    {
+      "text": "Fan fiction site Archive of Our Own has over 400,000 Harry Potter fan works, making it one of the most written-about fandoms.",
+      "source": "https://en.wikipedia.org/wiki/Fan_fiction_site_Archive_of_Our_Own"
+    },
+    {
+      "text": "A Very Potter Musical, a fan-made parody by StarKid Productions, went viral on YouTube and launched the careers of several actors including Darren Criss.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/A_Very_Potter_Musical%2C_a_fan-made_parody_by_StarKid_Productions%2C_went_viral_on_YouTube_and"
+    },
+    {
+      "text": "The Harry Potter fandom created its own genre of music called Wizard Rock (Wrock), with bands like Harry and the Potters.",
+      "source": "https://en.wikipedia.org/wiki/Harry_Potter_fandom"
+    },
+    {
+      "text": "MinaLima, the graphic design duo who created the visual props for the films, opened their own store featuring Harry Potter artwork.",
+      "source": "https://en.wikipedia.org/wiki/MinaLima%2C_the_graphic_design_duo_who"
+    },
+    {
+      "text": "The Marauder's Map prop used in the films was a fully designed, working document with tiny footprints that actually moved using animation techniques.",
+      "source": "https://en.wikipedia.org/wiki/Marauder%27s_Map_prop_used_in_the_films"
+    },
+    {
+      "text": "Rowling wrote the entire series on a typewriter and in longhand before eventually moving to a computer for the later books.",
+      "source": "https://en.wikipedia.org/wiki/Rowling"
+    },
+    {
+      "text": "The name 'Hogwarts' came to Rowling in a dream, and she has said she may have subconsciously remembered seeing the Hogwort plant.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/name_%27Hogwarts%27_came_to_Rowling_in_a_dream%2C_and_she"
+    },
+    {
+      "text": "Each Harry Potter book's title contains a key plot device or character central to that year's story.",
+      "source": "https://en.wikipedia.org/wiki/Each_Harry_Potter_book%27s_title"
+    },
+    {
+      "text": "The Resurrection Stone was deliberately understated in the story — Harry drops it in the Forbidden Forest and never looks for it again.",
+      "source": "https://en.wikipedia.org/wiki/Resurrection_Stone"
+    },
+    {
+      "text": "Petunia Dursley secretly envied her sister Lily and had once written to Dumbledore asking to attend Hogwarts.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Petunia_Dursley_secretly_envied_her_sister_Lily_and"
+    },
+    {
+      "text": "Vernon Dursley's company, Grunnings, manufactures drills — chosen by Rowling as the most boring product she could think of.",
+      "source": "https://en.wikipedia.org/wiki/Vernon_Dursley%27s"
+    },
+    {
+      "text": "Dudley Dursley eventually became a decent person and would visit Harry's family with his own children for holidays.",
+      "source": "https://en.wikipedia.org/wiki/Dudley_Dursley_eventually"
+    },
+    {
+      "text": "In the films, the Dursley house at 4 Privet Drive was filmed at 12 Picket Post Close in Bracknell, Berkshire.",
+      "source": "https://en.wikipedia.org/wiki/In_the_films%2C_the_Dursley_house_at_4_Privet_Drive"
+    },
+    {
+      "text": "The Hogwarts Express route from London King's Cross to Hogsmeade is over 400 miles long in the story's geography.",
+      "source": "https://en.wikipedia.org/wiki/Hogwarts_Express_route_from_London_King%27s_Cross_to_Hogsmeade"
+    },
+    {
+      "text": "Owls serve as the postal service of the wizarding world. Harry's owl Hedwig is a Snowy Owl.",
+      "source": "https://en.wikipedia.org/wiki/Owls_serve_as_the_postal_service_of_the_wizarding_world._Harry%27s_owl_Hedwig"
+    },
+    {
+      "text": "After the Harry Potter films' popularity, there was a surge in demand for pet Snowy Owls, concerning wildlife experts.",
+      "source": "https://en.wikipedia.org/wiki/After_the_Harry_Potter_films%27_popularity%2C_there"
+    },
+    {
+      "text": "The films used a total of about 14 owls to play Hedwig over the course of the series.",
+      "source": "https://en.wikipedia.org/wiki/Harry_Potter"
+    },
+    {
+      "text": "Platform 9¾ at King's Cross Station in London now has a permanent Harry Potter shop alongside the famous trolley photo spot.",
+      "source": "https://en.wikipedia.org/wiki/Platform_9%C2%BE_at_King%27s_Cross_Station_in_London_now"
+    },
+    {
+      "text": "Griphook and Professor Flitwick were both played by Warwick Davis, who had a long relationship with the franchise.",
+      "source": "https://en.wikipedia.org/wiki/Griphook_and_Professor_Flitwick"
+    },
+    {
+      "text": "The goblin prosthetics in Gringotts took several hours to apply each day of filming.",
+      "source": "https://en.wikipedia.org/wiki/goblin_prosthetics_in_Gringotts"
+    },
+    {
+      "text": "Gringotts Wizarding Bank is run by goblins and has vaults deep underground. A dragon guards the high-security vaults.",
+      "source": "https://en.wikipedia.org/wiki/Gringotts_Wizarding_Bank"
+    },
+    {
+      "text": "Harry, Ron, and Hermione break into Gringotts in Deathly Hallows and escape on the back of a dragon — the only known break-in in the bank's history.",
+      "source": "https://en.wikipedia.org/wiki/Gringotts_in_Deathly_Hallows_and"
+    },
+    {
+      "text": "The Imperius Curse allows the caster to control the victim's actions completely. It is one of the three Unforgivable Curses.",
+      "source": "https://en.wikipedia.org/wiki/Imperius_Curse_allows_the_caster_to_control_the_victim%27s_actions_completely._It"
+    },
+    {
+      "text": "The Cruciatus Curse causes unbearable pain and was frequently used by Voldemort and the Death Eaters as torture.",
+      "source": "https://en.wikipedia.org/wiki/Cruciatus_Curse_causes_unbearable_pain_and"
+    },
+    {
+      "text": "The Unforgivable Curses carry a life sentence in Azkaban for any wizard who uses them on another human being.",
+      "source": "https://en.wikipedia.org/wiki/Unforgivable_Curses"
+    },
+    {
+      "text": "Horcruxes are created by committing murder and then performing a spell to split the soul — making them some of the darkest magic in existence.",
+      "source": "https://en.wikipedia.org/wiki/Horcruxes"
+    },
+    {
+      "text": "Rowling never revealed the specific spell used to create a Horcrux, saying it was too horrifying to write.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Rowling_never_revealed_the_specific_spell_used_to_create_a_Horcrux%2C_saying_it"
+    },
+    {
+      "text": "The concept of Horcruxes may have been partly inspired by the concept of phylacteries in fantasy fiction and ancient religious traditions.",
+      "source": "https://en.wikipedia.org/wiki/concept_of_Horcruxes_may"
+    },
+    {
+      "text": "Fiendfyre, the cursed fire that can destroy Horcruxes, is extremely difficult to control and takes the form of giant fiery beasts.",
+      "source": "https://en.wikipedia.org/wiki/Fiendfyre%2C_the_cursed_fire_that_can_destroy_Horcruxes"
+    },
+    {
+      "text": "The centaurs of the Forbidden Forest, including Firenze and Bane, are skilled in astronomy and divination.",
+      "source": "https://en.wikipedia.org/wiki/centaurs_of_the_Forbidden_Forest%2C_including_Firenze_and_Bane"
+    },
+    {
+      "text": "Firenze was appointed as a Divination teacher at Hogwarts in Order of the Phoenix, angering the other centaurs.",
+      "source": "https://en.wikipedia.org/wiki/Firenze"
+    },
+    {
+      "text": "Unicorn blood can keep a person alive even if they are an inch from death, but it curses the drinker to a half-life.",
+      "source": "https://en.wikipedia.org/wiki/Unicorn_blood_can_keep_a_person_alive_even_if_they"
+    },
+    {
+      "text": "The Forbidden Forest is forbidden to students because of the dangerous magical creatures that inhabit it.",
+      "source": "https://en.wikipedia.org/wiki/Forbidden_Forest"
+    },
+    {
+      "text": "The death of Hedwig during the escape from Privet Drive is one of the earliest emotional blows in Deathly Hallows.",
+      "source": "https://en.wikipedia.org/wiki/death_of_Hedwig_during_the_escape_from_Privet_Drive"
+    },
+    {
+      "text": "Bill Weasley was scarred by the werewolf Fenrir Greyback during the Battle of the Astronomy Tower but did not become a full werewolf.",
+      "source": "https://en.wikipedia.org/wiki/Bill_Weasley"
+    },
+    {
+      "text": "Fleur Delacour married Bill Weasley despite his scars, declaring her love was not just skin deep.",
+      "source": "https://en.wikipedia.org/wiki/Fleur_Delacour_married_Bill_Weasley_despite_his_scars%2C_declaring_her_love"
+    },
+    {
+      "text": "Charlie Weasley works with dragons in Romania and never married, according to Rowling.",
+      "source": "https://en.wikipedia.org/wiki/Charlie_Weasley"
+    },
+    {
+      "text": "Percy Weasley estranged himself from his family after siding with the Ministry over Dumbledore, but he returned to fight in the Battle of Hogwarts.",
+      "source": "https://en.wikipedia.org/wiki/Percy_Weasley"
+    },
+    {
+      "text": "George Weasley lost his ear to a Sectumsempra curse during the escape from Privet Drive — and it could never be regrown because the spell is dark magic.",
+      "source": "https://en.wikipedia.org/wiki/George_Weasley"
+    },
+    {
+      "text": "After Fred's death, George named his son Fred in honor of his twin brother.",
+      "source": "https://en.wikipedia.org/wiki/After_Fred%27s_death%2C_George"
+    },
+    {
+      "text": "Rowling stated that George was never able to produce a Patronus again after Fred died.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Rowling_stated_that_George"
+    },
+    {
+      "text": "Rowling mapped out the entire series using detailed spreadsheets that tracked plot lines, character arcs, and timelines for each book.",
+      "source": "https://en.wikipedia.org/wiki/Harry_Potter"
+    },
+    {
+      "text": "The character of Hagrid was one of the first characters Rowling created and was always intended to carry Harry to the Dursleys in the first chapter and carry him out of the forest in the last.",
+      "source": "https://en.wikipedia.org/wiki/character_of_Hagrid"
+    },
+    {
+      "text": "Rowling almost gave up on the series before finishing the first book, putting the manuscript in a drawer for months.",
+      "source": "https://en.wikipedia.org/wiki/Rowling_almost"
+    },
+    {
+      "text": "The Mirror of Erised inscription reads 'Erised stra ehru oyt ube cafru oyt on wohsi' — which backward reads 'I show not your face but your heart's desire.'",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Mirror_of_Erised"
+    }
+  ]
+}

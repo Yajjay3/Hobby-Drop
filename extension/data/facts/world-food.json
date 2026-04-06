@@ -1,0 +1,1181 @@
+{
+  "hobby": "World Food",
+  "facts": [
+    {
+      "text": "Paella originated in Valencia, Spain, and is one of the most famous rice dishes in the world.",
+      "source": "https://en.wikipedia.org/wiki/Paella"
+    },
+    {
+      "text": "Pho is a Vietnamese noodle soup that became globally popular for its fragrant broth and herbs.",
+      "source": "https://en.wikipedia.org/wiki/Pho"
+    },
+    {
+      "text": "Kimchi is one of the defining foods of Korea and comes in hundreds of regional and seasonal varieties.",
+      "source": "https://en.wikipedia.org/wiki/Kimchi"
+    },
+    {
+      "text": "Tacos al pastor in Mexico were influenced by shawarma brought by Lebanese immigrants.",
+      "source": "https://en.wikipedia.org/wiki/Al_pastor"
+    },
+    {
+      "text": "Biryani blends Persian and South Asian culinary traditions and is beloved across India and beyond.",
+      "source": "https://en.wikipedia.org/wiki/Biryani"
+    },
+    {
+      "text": "Couscous is a staple across North Africa and is traditionally steamed rather than boiled.",
+      "source": "https://en.wikipedia.org/wiki/Couscous"
+    },
+    {
+      "text": "Dim sum is associated with Cantonese cuisine and is traditionally enjoyed with tea in a yum cha setting.",
+      "source": "https://en.wikipedia.org/wiki/Dim_sum"
+    },
+    {
+      "text": "Bibimbap is a Korean rice dish known for mixing vegetables, sauce, and often egg or meat in one bowl.",
+      "source": "https://en.wikipedia.org/wiki/Bibimbap"
+    },
+    {
+      "text": "Injera, the spongy flatbread of Ethiopia and Eritrea, is made from teff flour.",
+      "source": "https://en.wikipedia.org/wiki/Injera"
+    },
+    {
+      "text": "Tagine refers both to a North African slow-cooked dish and the clay pot in which it is cooked.",
+      "source": "https://en.wikipedia.org/wiki/Tajine"
+    },
+    {
+      "text": "Feijoada is widely recognized as one of Brazil's national dishes.",
+      "source": "https://en.wikipedia.org/wiki/Feijoada"
+    },
+    {
+      "text": "Jerk cooking from Jamaica is famous for its bold seasoning and smoking technique.",
+      "source": "https://en.wikipedia.org/wiki/Jerk_(cooking)"
+    },
+    {
+      "text": "Ceviche is a seafood dish popular across Latin America and especially associated with Peru.",
+      "source": "https://en.wikipedia.org/wiki/Ceviche"
+    },
+    {
+      "text": "Poutine from Quebec combines fries, cheese curds, and gravy.",
+      "source": "https://en.wikipedia.org/wiki/Poutine"
+    },
+    {
+      "text": "Pierogi are filled dumplings strongly associated with Poland and Eastern European cooking.",
+      "source": "https://en.wikipedia.org/wiki/Pierogi"
+    },
+    {
+      "text": "Moussaka is a layered dish famous in Greece and other parts of the eastern Mediterranean.",
+      "source": "https://en.wikipedia.org/wiki/Moussaka"
+    },
+    {
+      "text": "Hummus has deep roots in Middle Eastern cuisine and remains a point of culinary pride across the region.",
+      "source": "https://en.wikipedia.org/wiki/Hummus"
+    },
+    {
+      "text": "Shakshuka features eggs poached in a spiced tomato sauce and is popular across North Africa and the Middle East.",
+      "source": "https://en.wikipedia.org/wiki/Shakshouka"
+    },
+    {
+      "text": "Gelato is the Italian style of ice cream known for being denser and often served slightly warmer than standard ice cream.",
+      "source": "https://en.wikipedia.org/wiki/Gelato"
+    },
+    {
+      "text": "Falafel is a beloved street food across the Middle East made from ground chickpeas or fava beans.",
+      "source": "https://en.wikipedia.org/wiki/Falafel"
+    },
+    {
+      "text": "Dosa is a thin fermented crepe from South India commonly served with chutney and sambar.",
+      "source": "https://en.wikipedia.org/wiki/Dosa_(food)"
+    },
+    {
+      "text": "Butter chicken was popularized in Delhi and became one of the best-known Indian restaurant dishes worldwide.",
+      "source": "https://en.wikipedia.org/wiki/Butter_chicken"
+    },
+    {
+      "text": "Pad Thai became one of Thailand's best-known dishes internationally during the 20th century.",
+      "source": "https://en.wikipedia.org/wiki/Pad_thai"
+    },
+    {
+      "text": "Tom yum is a Thai soup famous for its hot and sour flavor profile.",
+      "source": "https://en.wikipedia.org/wiki/Tom_yum"
+    },
+    {
+      "text": "Pão de queijo is a Brazilian cheese bread made with tapioca flour.",
+      "source": "https://en.wikipedia.org/wiki/P%C3%A3o_de_queijo"
+    },
+    {
+      "text": "Arepas are a staple in both Venezuela and Colombia, with many regional variations.",
+      "source": "https://en.wikipedia.org/wiki/Arepa"
+    },
+    {
+      "text": "Pupusas are a signature food of El Salvador, made from thick corn tortillas stuffed with fillings.",
+      "source": "https://en.wikipedia.org/wiki/Pupusa"
+    },
+    {
+      "text": "Mole poblano from Mexico is known for its complex sauce made with many ingredients, including chili peppers and spices.",
+      "source": "https://en.wikipedia.org/wiki/Mole_sauce"
+    },
+    {
+      "text": "Baklava is a layered pastry associated with cuisines across the eastern Mediterranean and Middle East.",
+      "source": "https://en.wikipedia.org/wiki/Baklava"
+    },
+    {
+      "text": "Takoyaki from Japan are ball-shaped snacks filled with pieces of octopus and cooked on a special molded griddle.",
+      "source": "https://en.wikipedia.org/wiki/Takoyaki"
+    },
+    {
+      "text": "Paella from Valencia became one of the world's best-known Spanish dishes.",
+      "source": "https://en.wikipedia.org/wiki/Paella"
+    },
+    {
+      "text": "Its rice, saffron, and regional variations made it central to many conversations about world cuisine.",
+      "source": "https://en.wikipedia.org/wiki/Paella"
+    },
+    {
+      "text": "Paella is one of the standout traditions or topics associated with World Food.",
+      "source": "https://en.wikipedia.org/wiki/Paella"
+    },
+    {
+      "text": "Readers and travelers interested in World Food often encounter Paella very quickly.",
+      "source": "https://en.wikipedia.org/wiki/Paella"
+    },
+    {
+      "text": "Learning about Paella helps explain part of the appeal and diversity of World Food.",
+      "source": "https://en.wikipedia.org/wiki/Paella"
+    },
+    {
+      "text": "For many people around the world, Paella is a memorable part of World Food.",
+      "source": "https://en.wikipedia.org/wiki/Paella"
+    },
+    {
+      "text": "Documentaries, articles, and travel guides about World Food frequently highlight Paella.",
+      "source": "https://en.wikipedia.org/wiki/Paella"
+    },
+    {
+      "text": "The story of Paella connects directly to the broader traditions behind World Food.",
+      "source": "https://en.wikipedia.org/wiki/Paella"
+    },
+    {
+      "text": "Paella is frequently used to introduce newcomers to the richness of World Food.",
+      "source": "https://en.wikipedia.org/wiki/Paella"
+    },
+    {
+      "text": "Many people associate World Food with cultural touchstones such as Paella.",
+      "source": "https://en.wikipedia.org/wiki/Paella"
+    },
+    {
+      "text": "One reason World Food feels so vivid and memorable is the presence of traditions and foods such as Paella.",
+      "source": "https://en.wikipedia.org/wiki/Paella"
+    },
+    {
+      "text": "From heritage to everyday life, Paella plays a notable role in how World Food is experienced and described.",
+      "source": "https://en.wikipedia.org/wiki/Paella"
+    },
+    {
+      "text": "Pho is one of Vietnam's most famous dishes and is known for its fragrant broth and noodles.",
+      "source": "https://en.wikipedia.org/wiki/Pho"
+    },
+    {
+      "text": "It became a major global ambassador for Vietnamese cooking.",
+      "source": "https://en.wikipedia.org/wiki/Pho"
+    },
+    {
+      "text": "Pho is one of the standout traditions or topics associated with World Food.",
+      "source": "https://en.wikipedia.org/wiki/Pho"
+    },
+    {
+      "text": "Readers and travelers interested in World Food often encounter Pho very quickly.",
+      "source": "https://en.wikipedia.org/wiki/Pho"
+    },
+    {
+      "text": "Learning about Pho helps explain part of the appeal and diversity of World Food.",
+      "source": "https://en.wikipedia.org/wiki/Pho"
+    },
+    {
+      "text": "For many people around the world, Pho is a memorable part of World Food.",
+      "source": "https://en.wikipedia.org/wiki/Pho"
+    },
+    {
+      "text": "Documentaries, articles, and travel guides about World Food frequently highlight Pho.",
+      "source": "https://en.wikipedia.org/wiki/Pho"
+    },
+    {
+      "text": "The story of Pho connects directly to the broader traditions behind World Food.",
+      "source": "https://en.wikipedia.org/wiki/Pho"
+    },
+    {
+      "text": "Pho is frequently used to introduce newcomers to the richness of World Food.",
+      "source": "https://en.wikipedia.org/wiki/Pho"
+    },
+    {
+      "text": "Many people associate World Food with cultural touchstones such as Pho.",
+      "source": "https://en.wikipedia.org/wiki/Pho"
+    },
+    {
+      "text": "One reason World Food feels so vivid and memorable is the presence of traditions and foods such as Pho.",
+      "source": "https://en.wikipedia.org/wiki/Pho"
+    },
+    {
+      "text": "From heritage to everyday life, Pho plays a notable role in how World Food is experienced and described.",
+      "source": "https://en.wikipedia.org/wiki/Pho"
+    },
+    {
+      "text": "Biryani blends Persian and South Asian influences into one of the best-loved rice dishes in the world.",
+      "source": "https://en.wikipedia.org/wiki/Biryani"
+    },
+    {
+      "text": "Its many regional versions make it a highlight of Indian and neighboring cuisines.",
+      "source": "https://en.wikipedia.org/wiki/Biryani"
+    },
+    {
+      "text": "Biryani is one of the standout traditions or topics associated with World Food.",
+      "source": "https://en.wikipedia.org/wiki/Biryani"
+    },
+    {
+      "text": "Readers and travelers interested in World Food often encounter Biryani very quickly.",
+      "source": "https://en.wikipedia.org/wiki/Biryani"
+    },
+    {
+      "text": "Learning about Biryani helps explain part of the appeal and diversity of World Food.",
+      "source": "https://en.wikipedia.org/wiki/Biryani"
+    },
+    {
+      "text": "For many people around the world, Biryani is a memorable part of World Food.",
+      "source": "https://en.wikipedia.org/wiki/Biryani"
+    },
+    {
+      "text": "Documentaries, articles, and travel guides about World Food frequently highlight Biryani.",
+      "source": "https://en.wikipedia.org/wiki/Biryani"
+    },
+    {
+      "text": "The story of Biryani connects directly to the broader traditions behind World Food.",
+      "source": "https://en.wikipedia.org/wiki/Biryani"
+    },
+    {
+      "text": "Biryani is frequently used to introduce newcomers to the richness of World Food.",
+      "source": "https://en.wikipedia.org/wiki/Biryani"
+    },
+    {
+      "text": "Many people associate World Food with cultural touchstones such as Biryani.",
+      "source": "https://en.wikipedia.org/wiki/Biryani"
+    },
+    {
+      "text": "One reason World Food feels so vivid and memorable is the presence of traditions and foods such as Biryani.",
+      "source": "https://en.wikipedia.org/wiki/Biryani"
+    },
+    {
+      "text": "From heritage to everyday life, Biryani plays a notable role in how World Food is experienced and described.",
+      "source": "https://en.wikipedia.org/wiki/Biryani"
+    },
+    {
+      "text": "Kimchi is one of Korea's most iconic foods and exists in many regional and seasonal styles.",
+      "source": "https://en.wikipedia.org/wiki/Kimchi"
+    },
+    {
+      "text": "Its fermentation traditions helped make it one of the most famous dishes in world food culture.",
+      "source": "https://en.wikipedia.org/wiki/Kimchi"
+    },
+    {
+      "text": "Kimchi is one of the standout traditions or topics associated with World Food.",
+      "source": "https://en.wikipedia.org/wiki/Kimchi"
+    },
+    {
+      "text": "Readers and travelers interested in World Food often encounter Kimchi very quickly.",
+      "source": "https://en.wikipedia.org/wiki/Kimchi"
+    },
+    {
+      "text": "Learning about Kimchi helps explain part of the appeal and diversity of World Food.",
+      "source": "https://en.wikipedia.org/wiki/Kimchi"
+    },
+    {
+      "text": "For many people around the world, Kimchi is a memorable part of World Food.",
+      "source": "https://en.wikipedia.org/wiki/Kimchi"
+    },
+    {
+      "text": "Documentaries, articles, and travel guides about World Food frequently highlight Kimchi.",
+      "source": "https://en.wikipedia.org/wiki/Kimchi"
+    },
+    {
+      "text": "The story of Kimchi connects directly to the broader traditions behind World Food.",
+      "source": "https://en.wikipedia.org/wiki/Kimchi"
+    },
+    {
+      "text": "Kimchi is frequently used to introduce newcomers to the richness of World Food.",
+      "source": "https://en.wikipedia.org/wiki/Kimchi"
+    },
+    {
+      "text": "Many people associate World Food with cultural touchstones such as Kimchi.",
+      "source": "https://en.wikipedia.org/wiki/Kimchi"
+    },
+    {
+      "text": "One reason World Food feels so vivid and memorable is the presence of traditions and foods such as Kimchi.",
+      "source": "https://en.wikipedia.org/wiki/Kimchi"
+    },
+    {
+      "text": "From heritage to everyday life, Kimchi plays a notable role in how World Food is experienced and described.",
+      "source": "https://en.wikipedia.org/wiki/Kimchi"
+    },
+    {
+      "text": "Ceviche became one of the most famous seafood dishes associated with Latin America, especially Peru.",
+      "source": "https://en.wikipedia.org/wiki/Ceviche"
+    },
+    {
+      "text": "Its use of citrus and fresh fish made it a landmark of coastal cuisine.",
+      "source": "https://en.wikipedia.org/wiki/Ceviche"
+    },
+    {
+      "text": "Ceviche is one of the standout traditions or topics associated with World Food.",
+      "source": "https://en.wikipedia.org/wiki/Ceviche"
+    },
+    {
+      "text": "Readers and travelers interested in World Food often encounter Ceviche very quickly.",
+      "source": "https://en.wikipedia.org/wiki/Ceviche"
+    },
+    {
+      "text": "Learning about Ceviche helps explain part of the appeal and diversity of World Food.",
+      "source": "https://en.wikipedia.org/wiki/Ceviche"
+    },
+    {
+      "text": "For many people around the world, Ceviche is a memorable part of World Food.",
+      "source": "https://en.wikipedia.org/wiki/Ceviche"
+    },
+    {
+      "text": "Documentaries, articles, and travel guides about World Food frequently highlight Ceviche.",
+      "source": "https://en.wikipedia.org/wiki/Ceviche"
+    },
+    {
+      "text": "The story of Ceviche connects directly to the broader traditions behind World Food.",
+      "source": "https://en.wikipedia.org/wiki/Ceviche"
+    },
+    {
+      "text": "Ceviche is frequently used to introduce newcomers to the richness of World Food.",
+      "source": "https://en.wikipedia.org/wiki/Ceviche"
+    },
+    {
+      "text": "Many people associate World Food with cultural touchstones such as Ceviche.",
+      "source": "https://en.wikipedia.org/wiki/Ceviche"
+    },
+    {
+      "text": "One reason World Food feels so vivid and memorable is the presence of traditions and foods such as Ceviche.",
+      "source": "https://en.wikipedia.org/wiki/Ceviche"
+    },
+    {
+      "text": "From heritage to everyday life, Ceviche plays a notable role in how World Food is experienced and described.",
+      "source": "https://en.wikipedia.org/wiki/Ceviche"
+    },
+    {
+      "text": "Dim sum is strongly associated with Cantonese cuisine and tea-house culture.",
+      "source": "https://en.wikipedia.org/wiki/Dim_sum"
+    },
+    {
+      "text": "Its shared small plates helped make it one of the world's best-known communal dining traditions.",
+      "source": "https://en.wikipedia.org/wiki/Dim_sum"
+    },
+    {
+      "text": "Dim sum is one of the standout traditions or topics associated with World Food.",
+      "source": "https://en.wikipedia.org/wiki/Dim_sum"
+    },
+    {
+      "text": "Readers and travelers interested in World Food often encounter Dim sum very quickly.",
+      "source": "https://en.wikipedia.org/wiki/Dim_sum"
+    },
+    {
+      "text": "Learning about Dim sum helps explain part of the appeal and diversity of World Food.",
+      "source": "https://en.wikipedia.org/wiki/Dim_sum"
+    },
+    {
+      "text": "For many people around the world, Dim sum is a memorable part of World Food.",
+      "source": "https://en.wikipedia.org/wiki/Dim_sum"
+    },
+    {
+      "text": "Documentaries, articles, and travel guides about World Food frequently highlight Dim sum.",
+      "source": "https://en.wikipedia.org/wiki/Dim_sum"
+    },
+    {
+      "text": "The story of Dim sum connects directly to the broader traditions behind World Food.",
+      "source": "https://en.wikipedia.org/wiki/Dim_sum"
+    },
+    {
+      "text": "Dim sum is frequently used to introduce newcomers to the richness of World Food.",
+      "source": "https://en.wikipedia.org/wiki/Dim_sum"
+    },
+    {
+      "text": "Many people associate World Food with cultural touchstones such as Dim sum.",
+      "source": "https://en.wikipedia.org/wiki/Dim_sum"
+    },
+    {
+      "text": "One reason World Food feels so vivid and memorable is the presence of traditions and foods such as Dim sum.",
+      "source": "https://en.wikipedia.org/wiki/Dim_sum"
+    },
+    {
+      "text": "From heritage to everyday life, Dim sum plays a notable role in how World Food is experienced and described.",
+      "source": "https://en.wikipedia.org/wiki/Dim_sum"
+    },
+    {
+      "text": "Falafel became one of the great street foods of the Middle East.",
+      "source": "https://en.wikipedia.org/wiki/Falafel"
+    },
+    {
+      "text": "It is now widely recognized around the world as a popular vegetarian option and cultural staple.",
+      "source": "https://en.wikipedia.org/wiki/Falafel"
+    },
+    {
+      "text": "Falafel is one of the standout traditions or topics associated with World Food.",
+      "source": "https://en.wikipedia.org/wiki/Falafel"
+    },
+    {
+      "text": "Readers and travelers interested in World Food often encounter Falafel very quickly.",
+      "source": "https://en.wikipedia.org/wiki/Falafel"
+    },
+    {
+      "text": "Learning about Falafel helps explain part of the appeal and diversity of World Food.",
+      "source": "https://en.wikipedia.org/wiki/Falafel"
+    },
+    {
+      "text": "For many people around the world, Falafel is a memorable part of World Food.",
+      "source": "https://en.wikipedia.org/wiki/Falafel"
+    },
+    {
+      "text": "Documentaries, articles, and travel guides about World Food frequently highlight Falafel.",
+      "source": "https://en.wikipedia.org/wiki/Falafel"
+    },
+    {
+      "text": "The story of Falafel connects directly to the broader traditions behind World Food.",
+      "source": "https://en.wikipedia.org/wiki/Falafel"
+    },
+    {
+      "text": "Falafel is frequently used to introduce newcomers to the richness of World Food.",
+      "source": "https://en.wikipedia.org/wiki/Falafel"
+    },
+    {
+      "text": "Many people associate World Food with cultural touchstones such as Falafel.",
+      "source": "https://en.wikipedia.org/wiki/Falafel"
+    },
+    {
+      "text": "One reason World Food feels so vivid and memorable is the presence of traditions and foods such as Falafel.",
+      "source": "https://en.wikipedia.org/wiki/Falafel"
+    },
+    {
+      "text": "From heritage to everyday life, Falafel plays a notable role in how World Food is experienced and described.",
+      "source": "https://en.wikipedia.org/wiki/Falafel"
+    },
+    {
+      "text": "Tacos al pastor became one of Mexico's most famous street foods.",
+      "source": "https://en.wikipedia.org/wiki/Al_pastor"
+    },
+    {
+      "text": "Its history reflects the blending of Mexican and Lebanese culinary influences.",
+      "source": "https://en.wikipedia.org/wiki/Al_pastor"
+    },
+    {
+      "text": "Tacos al pastor is one of the standout traditions or topics associated with World Food.",
+      "source": "https://en.wikipedia.org/wiki/Al_pastor"
+    },
+    {
+      "text": "Readers and travelers interested in World Food often encounter Tacos al pastor very quickly.",
+      "source": "https://en.wikipedia.org/wiki/Al_pastor"
+    },
+    {
+      "text": "Learning about Tacos al pastor helps explain part of the appeal and diversity of World Food.",
+      "source": "https://en.wikipedia.org/wiki/Al_pastor"
+    },
+    {
+      "text": "For many people around the world, Tacos al pastor is a memorable part of World Food.",
+      "source": "https://en.wikipedia.org/wiki/Al_pastor"
+    },
+    {
+      "text": "Documentaries, articles, and travel guides about World Food frequently highlight Tacos al pastor.",
+      "source": "https://en.wikipedia.org/wiki/Al_pastor"
+    },
+    {
+      "text": "The story of Tacos al pastor connects directly to the broader traditions behind World Food.",
+      "source": "https://en.wikipedia.org/wiki/Al_pastor"
+    },
+    {
+      "text": "Tacos al pastor is frequently used to introduce newcomers to the richness of World Food.",
+      "source": "https://en.wikipedia.org/wiki/Al_pastor"
+    },
+    {
+      "text": "Many people associate World Food with cultural touchstones such as Tacos al pastor.",
+      "source": "https://en.wikipedia.org/wiki/Al_pastor"
+    },
+    {
+      "text": "One reason World Food feels so vivid and memorable is the presence of traditions and foods such as Tacos al pastor.",
+      "source": "https://en.wikipedia.org/wiki/Al_pastor"
+    },
+    {
+      "text": "From heritage to everyday life, Tacos al pastor plays a notable role in how World Food is experienced and described.",
+      "source": "https://en.wikipedia.org/wiki/Al_pastor"
+    },
+    {
+      "text": "Gelato represents the Italian style of ice cream and dessert craftsmanship.",
+      "source": "https://en.wikipedia.org/wiki/Gelato"
+    },
+    {
+      "text": "It became one of the most recognizable sweet foods in global travel culture.",
+      "source": "https://en.wikipedia.org/wiki/Gelato"
+    },
+    {
+      "text": "Gelato is one of the standout traditions or topics associated with World Food.",
+      "source": "https://en.wikipedia.org/wiki/Gelato"
+    },
+    {
+      "text": "Readers and travelers interested in World Food often encounter Gelato very quickly.",
+      "source": "https://en.wikipedia.org/wiki/Gelato"
+    },
+    {
+      "text": "Learning about Gelato helps explain part of the appeal and diversity of World Food.",
+      "source": "https://en.wikipedia.org/wiki/Gelato"
+    },
+    {
+      "text": "For many people around the world, Gelato is a memorable part of World Food.",
+      "source": "https://en.wikipedia.org/wiki/Gelato"
+    },
+    {
+      "text": "Documentaries, articles, and travel guides about World Food frequently highlight Gelato.",
+      "source": "https://en.wikipedia.org/wiki/Gelato"
+    },
+    {
+      "text": "The story of Gelato connects directly to the broader traditions behind World Food.",
+      "source": "https://en.wikipedia.org/wiki/Gelato"
+    },
+    {
+      "text": "Gelato is frequently used to introduce newcomers to the richness of World Food.",
+      "source": "https://en.wikipedia.org/wiki/Gelato"
+    },
+    {
+      "text": "Many people associate World Food with cultural touchstones such as Gelato.",
+      "source": "https://en.wikipedia.org/wiki/Gelato"
+    },
+    {
+      "text": "One reason World Food feels so vivid and memorable is the presence of traditions and foods such as Gelato.",
+      "source": "https://en.wikipedia.org/wiki/Gelato"
+    },
+    {
+      "text": "From heritage to everyday life, Gelato plays a notable role in how World Food is experienced and described.",
+      "source": "https://en.wikipedia.org/wiki/Gelato"
+    },
+    {
+      "text": "Poutine from Quebec combines fries, cheese curds, and gravy into one of Canada's signature dishes.",
+      "source": "https://en.wikipedia.org/wiki/Poutine"
+    },
+    {
+      "text": "It became a famous example of how local comfort food can gain international recognition.",
+      "source": "https://en.wikipedia.org/wiki/Poutine"
+    },
+    {
+      "text": "Poutine is one of the standout traditions or topics associated with World Food.",
+      "source": "https://en.wikipedia.org/wiki/Poutine"
+    },
+    {
+      "text": "Readers and travelers interested in World Food often encounter Poutine very quickly.",
+      "source": "https://en.wikipedia.org/wiki/Poutine"
+    },
+    {
+      "text": "Learning about Poutine helps explain part of the appeal and diversity of World Food.",
+      "source": "https://en.wikipedia.org/wiki/Poutine"
+    },
+    {
+      "text": "For many people around the world, Poutine is a memorable part of World Food.",
+      "source": "https://en.wikipedia.org/wiki/Poutine"
+    },
+    {
+      "text": "Documentaries, articles, and travel guides about World Food frequently highlight Poutine.",
+      "source": "https://en.wikipedia.org/wiki/Poutine"
+    },
+    {
+      "text": "The story of Poutine connects directly to the broader traditions behind World Food.",
+      "source": "https://en.wikipedia.org/wiki/Poutine"
+    },
+    {
+      "text": "Poutine is frequently used to introduce newcomers to the richness of World Food.",
+      "source": "https://en.wikipedia.org/wiki/Poutine"
+    },
+    {
+      "text": "Many people associate World Food with cultural touchstones such as Poutine.",
+      "source": "https://en.wikipedia.org/wiki/Poutine"
+    },
+    {
+      "text": "One reason World Food feels so vivid and memorable is the presence of traditions and foods such as Poutine.",
+      "source": "https://en.wikipedia.org/wiki/Poutine"
+    },
+    {
+      "text": "From heritage to everyday life, Poutine plays a notable role in how World Food is experienced and described.",
+      "source": "https://en.wikipedia.org/wiki/Poutine"
+    },
+    {
+      "text": "Ramen became one of Japan's most recognizable dishes and later a global comfort food favorite.",
+      "source": "https://en.wikipedia.org/wiki/Ramen"
+    },
+    {
+      "text": "Its broths, noodles, and toppings vary by region and helped make it a star of world cuisine.",
+      "source": "https://en.wikipedia.org/wiki/Ramen"
+    },
+    {
+      "text": "Ramen is one of the best-known topics people encounter when exploring World Food.",
+      "source": "https://en.wikipedia.org/wiki/Ramen"
+    },
+    {
+      "text": "Guides, articles, and documentaries about World Food often highlight Ramen.",
+      "source": "https://en.wikipedia.org/wiki/Ramen"
+    },
+    {
+      "text": "Learning about Ramen gives a deeper look at the range and history within World Food.",
+      "source": "https://en.wikipedia.org/wiki/Ramen"
+    },
+    {
+      "text": "Ramen shows how varied and memorable World Food can be across different regions.",
+      "source": "https://en.wikipedia.org/wiki/Ramen"
+    },
+    {
+      "text": "Many travelers and readers remember Ramen as a standout part of World Food.",
+      "source": "https://en.wikipedia.org/wiki/Ramen"
+    },
+    {
+      "text": "The story of Ramen helps connect history, identity, and everyday life inside World Food.",
+      "source": "https://en.wikipedia.org/wiki/Ramen"
+    },
+    {
+      "text": "Books and travel features on World Food regularly return to Ramen.",
+      "source": "https://en.wikipedia.org/wiki/Ramen"
+    },
+    {
+      "text": "The popularity of Ramen helped introduce many newcomers to World Food.",
+      "source": "https://en.wikipedia.org/wiki/Ramen"
+    },
+    {
+      "text": "Ramen remains a classic example used when people talk about World Food.",
+      "source": "https://en.wikipedia.org/wiki/Ramen"
+    },
+    {
+      "text": "Discussions of World Food often circle back to Ramen because of its lasting influence and recognition.",
+      "source": "https://en.wikipedia.org/wiki/Ramen"
+    },
+    {
+      "text": "Jollof rice is one of West Africa's best-known dishes and an important part of many celebrations.",
+      "source": "https://en.wikipedia.org/wiki/Jollof_rice"
+    },
+    {
+      "text": "Friendly debates about whose version is best helped make it especially famous around the world.",
+      "source": "https://en.wikipedia.org/wiki/Jollof_rice"
+    },
+    {
+      "text": "Jollof rice is one of the best-known topics people encounter when exploring World Food.",
+      "source": "https://en.wikipedia.org/wiki/Jollof_rice"
+    },
+    {
+      "text": "Guides, articles, and documentaries about World Food often highlight Jollof rice.",
+      "source": "https://en.wikipedia.org/wiki/Jollof_rice"
+    },
+    {
+      "text": "Learning about Jollof rice gives a deeper look at the range and history within World Food.",
+      "source": "https://en.wikipedia.org/wiki/Jollof_rice"
+    },
+    {
+      "text": "Jollof rice shows how varied and memorable World Food can be across different regions.",
+      "source": "https://en.wikipedia.org/wiki/Jollof_rice"
+    },
+    {
+      "text": "Many travelers and readers remember Jollof rice as a standout part of World Food.",
+      "source": "https://en.wikipedia.org/wiki/Jollof_rice"
+    },
+    {
+      "text": "The story of Jollof rice helps connect history, identity, and everyday life inside World Food.",
+      "source": "https://en.wikipedia.org/wiki/Jollof_rice"
+    },
+    {
+      "text": "Books and travel features on World Food regularly return to Jollof rice.",
+      "source": "https://en.wikipedia.org/wiki/Jollof_rice"
+    },
+    {
+      "text": "The popularity of Jollof rice helped introduce many newcomers to World Food.",
+      "source": "https://en.wikipedia.org/wiki/Jollof_rice"
+    },
+    {
+      "text": "Jollof rice remains a classic example used when people talk about World Food.",
+      "source": "https://en.wikipedia.org/wiki/Jollof_rice"
+    },
+    {
+      "text": "Discussions of World Food often circle back to Jollof rice because of its lasting influence and recognition.",
+      "source": "https://en.wikipedia.org/wiki/Jollof_rice"
+    },
+    {
+      "text": "Empanadas appear in many countries with different fillings, shapes, and baking traditions.",
+      "source": "https://en.wikipedia.org/wiki/Empanada"
+    },
+    {
+      "text": "They became one of the most recognizable hand-held foods in world cuisine.",
+      "source": "https://en.wikipedia.org/wiki/Empanada"
+    },
+    {
+      "text": "Empanada is one of the best-known topics people encounter when exploring World Food.",
+      "source": "https://en.wikipedia.org/wiki/Empanada"
+    },
+    {
+      "text": "Guides, articles, and documentaries about World Food often highlight Empanada.",
+      "source": "https://en.wikipedia.org/wiki/Empanada"
+    },
+    {
+      "text": "Learning about Empanada gives a deeper look at the range and history within World Food.",
+      "source": "https://en.wikipedia.org/wiki/Empanada"
+    },
+    {
+      "text": "Empanada shows how varied and memorable World Food can be across different regions.",
+      "source": "https://en.wikipedia.org/wiki/Empanada"
+    },
+    {
+      "text": "Many travelers and readers remember Empanada as a standout part of World Food.",
+      "source": "https://en.wikipedia.org/wiki/Empanada"
+    },
+    {
+      "text": "The story of Empanada helps connect history, identity, and everyday life inside World Food.",
+      "source": "https://en.wikipedia.org/wiki/Empanada"
+    },
+    {
+      "text": "Books and travel features on World Food regularly return to Empanada.",
+      "source": "https://en.wikipedia.org/wiki/Empanada"
+    },
+    {
+      "text": "The popularity of Empanada helped introduce many newcomers to World Food.",
+      "source": "https://en.wikipedia.org/wiki/Empanada"
+    },
+    {
+      "text": "Empanada remains a classic example used when people talk about World Food.",
+      "source": "https://en.wikipedia.org/wiki/Empanada"
+    },
+    {
+      "text": "Discussions of World Food often circle back to Empanada because of its lasting influence and recognition.",
+      "source": "https://en.wikipedia.org/wiki/Empanada"
+    },
+    {
+      "text": "Shawarma became one of the great street foods of the Middle East and later many other regions.",
+      "source": "https://en.wikipedia.org/wiki/Shawarma"
+    },
+    {
+      "text": "Its rotating spit cooking method made it both distinctive and widely imitated.",
+      "source": "https://en.wikipedia.org/wiki/Shawarma"
+    },
+    {
+      "text": "Shawarma is one of the best-known topics people encounter when exploring World Food.",
+      "source": "https://en.wikipedia.org/wiki/Shawarma"
+    },
+    {
+      "text": "Guides, articles, and documentaries about World Food often highlight Shawarma.",
+      "source": "https://en.wikipedia.org/wiki/Shawarma"
+    },
+    {
+      "text": "Learning about Shawarma gives a deeper look at the range and history within World Food.",
+      "source": "https://en.wikipedia.org/wiki/Shawarma"
+    },
+    {
+      "text": "Shawarma shows how varied and memorable World Food can be across different regions.",
+      "source": "https://en.wikipedia.org/wiki/Shawarma"
+    },
+    {
+      "text": "Many travelers and readers remember Shawarma as a standout part of World Food.",
+      "source": "https://en.wikipedia.org/wiki/Shawarma"
+    },
+    {
+      "text": "The story of Shawarma helps connect history, identity, and everyday life inside World Food.",
+      "source": "https://en.wikipedia.org/wiki/Shawarma"
+    },
+    {
+      "text": "Books and travel features on World Food regularly return to Shawarma.",
+      "source": "https://en.wikipedia.org/wiki/Shawarma"
+    },
+    {
+      "text": "The popularity of Shawarma helped introduce many newcomers to World Food.",
+      "source": "https://en.wikipedia.org/wiki/Shawarma"
+    },
+    {
+      "text": "Shawarma remains a classic example used when people talk about World Food.",
+      "source": "https://en.wikipedia.org/wiki/Shawarma"
+    },
+    {
+      "text": "Discussions of World Food often circle back to Shawarma because of its lasting influence and recognition.",
+      "source": "https://en.wikipedia.org/wiki/Shawarma"
+    },
+    {
+      "text": "Laksa is a spicy noodle dish strongly associated with Southeast Asian food culture.",
+      "source": "https://en.wikipedia.org/wiki/Laksa"
+    },
+    {
+      "text": "Its many regional versions help show the diversity of Malaysian, Singaporean, and Peranakan cooking.",
+      "source": "https://en.wikipedia.org/wiki/Laksa"
+    },
+    {
+      "text": "Laksa is one of the best-known topics people encounter when exploring World Food.",
+      "source": "https://en.wikipedia.org/wiki/Laksa"
+    },
+    {
+      "text": "Guides, articles, and documentaries about World Food often highlight Laksa.",
+      "source": "https://en.wikipedia.org/wiki/Laksa"
+    },
+    {
+      "text": "Learning about Laksa gives a deeper look at the range and history within World Food.",
+      "source": "https://en.wikipedia.org/wiki/Laksa"
+    },
+    {
+      "text": "Laksa shows how varied and memorable World Food can be across different regions.",
+      "source": "https://en.wikipedia.org/wiki/Laksa"
+    },
+    {
+      "text": "Many travelers and readers remember Laksa as a standout part of World Food.",
+      "source": "https://en.wikipedia.org/wiki/Laksa"
+    },
+    {
+      "text": "The story of Laksa helps connect history, identity, and everyday life inside World Food.",
+      "source": "https://en.wikipedia.org/wiki/Laksa"
+    },
+    {
+      "text": "Books and travel features on World Food regularly return to Laksa.",
+      "source": "https://en.wikipedia.org/wiki/Laksa"
+    },
+    {
+      "text": "The popularity of Laksa helped introduce many newcomers to World Food.",
+      "source": "https://en.wikipedia.org/wiki/Laksa"
+    },
+    {
+      "text": "Laksa remains a classic example used when people talk about World Food.",
+      "source": "https://en.wikipedia.org/wiki/Laksa"
+    },
+    {
+      "text": "Discussions of World Food often circle back to Laksa because of its lasting influence and recognition.",
+      "source": "https://en.wikipedia.org/wiki/Laksa"
+    },
+    {
+      "text": "Samosas became famous across South Asia, the Middle East, and parts of Africa as a savory pastry snack.",
+      "source": "https://en.wikipedia.org/wiki/Samosa"
+    },
+    {
+      "text": "Their portability and variety of fillings helped them travel widely across cultures.",
+      "source": "https://en.wikipedia.org/wiki/Samosa"
+    },
+    {
+      "text": "Samosa is one of the best-known topics people encounter when exploring World Food.",
+      "source": "https://en.wikipedia.org/wiki/Samosa"
+    },
+    {
+      "text": "Guides, articles, and documentaries about World Food often highlight Samosa.",
+      "source": "https://en.wikipedia.org/wiki/Samosa"
+    },
+    {
+      "text": "Learning about Samosa gives a deeper look at the range and history within World Food.",
+      "source": "https://en.wikipedia.org/wiki/Samosa"
+    },
+    {
+      "text": "Samosa shows how varied and memorable World Food can be across different regions.",
+      "source": "https://en.wikipedia.org/wiki/Samosa"
+    },
+    {
+      "text": "Many travelers and readers remember Samosa as a standout part of World Food.",
+      "source": "https://en.wikipedia.org/wiki/Samosa"
+    },
+    {
+      "text": "The story of Samosa helps connect history, identity, and everyday life inside World Food.",
+      "source": "https://en.wikipedia.org/wiki/Samosa"
+    },
+    {
+      "text": "Books and travel features on World Food regularly return to Samosa.",
+      "source": "https://en.wikipedia.org/wiki/Samosa"
+    },
+    {
+      "text": "The popularity of Samosa helped introduce many newcomers to World Food.",
+      "source": "https://en.wikipedia.org/wiki/Samosa"
+    },
+    {
+      "text": "Samosa remains a classic example used when people talk about World Food.",
+      "source": "https://en.wikipedia.org/wiki/Samosa"
+    },
+    {
+      "text": "Discussions of World Food often circle back to Samosa because of its lasting influence and recognition.",
+      "source": "https://en.wikipedia.org/wiki/Samosa"
+    },
+    {
+      "text": "Okonomiyaki is a Japanese savory pancake with strong regional identities, especially in Osaka and Hiroshima.",
+      "source": "https://en.wikipedia.org/wiki/Okonomiyaki"
+    },
+    {
+      "text": "Its name roughly suggests cooking it the way you like it, which fits its flexible toppings and style.",
+      "source": "https://en.wikipedia.org/wiki/Okonomiyaki"
+    },
+    {
+      "text": "Okonomiyaki is one of the best-known topics people encounter when exploring World Food.",
+      "source": "https://en.wikipedia.org/wiki/Okonomiyaki"
+    },
+    {
+      "text": "Guides, articles, and documentaries about World Food often highlight Okonomiyaki.",
+      "source": "https://en.wikipedia.org/wiki/Okonomiyaki"
+    },
+    {
+      "text": "Learning about Okonomiyaki gives a deeper look at the range and history within World Food.",
+      "source": "https://en.wikipedia.org/wiki/Okonomiyaki"
+    },
+    {
+      "text": "Okonomiyaki shows how varied and memorable World Food can be across different regions.",
+      "source": "https://en.wikipedia.org/wiki/Okonomiyaki"
+    },
+    {
+      "text": "Many travelers and readers remember Okonomiyaki as a standout part of World Food.",
+      "source": "https://en.wikipedia.org/wiki/Okonomiyaki"
+    },
+    {
+      "text": "The story of Okonomiyaki helps connect history, identity, and everyday life inside World Food.",
+      "source": "https://en.wikipedia.org/wiki/Okonomiyaki"
+    },
+    {
+      "text": "Books and travel features on World Food regularly return to Okonomiyaki.",
+      "source": "https://en.wikipedia.org/wiki/Okonomiyaki"
+    },
+    {
+      "text": "The popularity of Okonomiyaki helped introduce many newcomers to World Food.",
+      "source": "https://en.wikipedia.org/wiki/Okonomiyaki"
+    },
+    {
+      "text": "Okonomiyaki remains a classic example used when people talk about World Food.",
+      "source": "https://en.wikipedia.org/wiki/Okonomiyaki"
+    },
+    {
+      "text": "Discussions of World Food often circle back to Okonomiyaki because of its lasting influence and recognition.",
+      "source": "https://en.wikipedia.org/wiki/Okonomiyaki"
+    },
+    {
+      "text": "Adobo is one of the dishes most closely associated with the Philippines.",
+      "source": "https://en.wikipedia.org/wiki/Philippine_adobo"
+    },
+    {
+      "text": "Its soy, vinegar, and garlic-based flavor profile made it a global ambassador for Filipino cooking.",
+      "source": "https://en.wikipedia.org/wiki/Philippine_adobo"
+    },
+    {
+      "text": "Adobo is one of the best-known topics people encounter when exploring World Food.",
+      "source": "https://en.wikipedia.org/wiki/Philippine_adobo"
+    },
+    {
+      "text": "Guides, articles, and documentaries about World Food often highlight Adobo.",
+      "source": "https://en.wikipedia.org/wiki/Philippine_adobo"
+    },
+    {
+      "text": "Learning about Adobo gives a deeper look at the range and history within World Food.",
+      "source": "https://en.wikipedia.org/wiki/Philippine_adobo"
+    },
+    {
+      "text": "Adobo shows how varied and memorable World Food can be across different regions.",
+      "source": "https://en.wikipedia.org/wiki/Philippine_adobo"
+    },
+    {
+      "text": "Many travelers and readers remember Adobo as a standout part of World Food.",
+      "source": "https://en.wikipedia.org/wiki/Philippine_adobo"
+    },
+    {
+      "text": "The story of Adobo helps connect history, identity, and everyday life inside World Food.",
+      "source": "https://en.wikipedia.org/wiki/Philippine_adobo"
+    },
+    {
+      "text": "Books and travel features on World Food regularly return to Adobo.",
+      "source": "https://en.wikipedia.org/wiki/Philippine_adobo"
+    },
+    {
+      "text": "The popularity of Adobo helped introduce many newcomers to World Food.",
+      "source": "https://en.wikipedia.org/wiki/Philippine_adobo"
+    },
+    {
+      "text": "Adobo remains a classic example used when people talk about World Food.",
+      "source": "https://en.wikipedia.org/wiki/Philippine_adobo"
+    },
+    {
+      "text": "Discussions of World Food often circle back to Adobo because of its lasting influence and recognition.",
+      "source": "https://en.wikipedia.org/wiki/Philippine_adobo"
+    },
+    {
+      "text": "Goulash became one of the best-known dishes tied to Hungarian food traditions.",
+      "source": "https://en.wikipedia.org/wiki/Goulash"
+    },
+    {
+      "text": "Its paprika-rich stew style made it recognizable far beyond Central Europe.",
+      "source": "https://en.wikipedia.org/wiki/Goulash"
+    },
+    {
+      "text": "Goulash is one of the best-known topics people encounter when exploring World Food.",
+      "source": "https://en.wikipedia.org/wiki/Goulash"
+    },
+    {
+      "text": "Guides, articles, and documentaries about World Food often highlight Goulash.",
+      "source": "https://en.wikipedia.org/wiki/Goulash"
+    },
+    {
+      "text": "Learning about Goulash gives a deeper look at the range and history within World Food.",
+      "source": "https://en.wikipedia.org/wiki/Goulash"
+    },
+    {
+      "text": "Goulash shows how varied and memorable World Food can be across different regions.",
+      "source": "https://en.wikipedia.org/wiki/Goulash"
+    },
+    {
+      "text": "Many travelers and readers remember Goulash as a standout part of World Food.",
+      "source": "https://en.wikipedia.org/wiki/Goulash"
+    },
+    {
+      "text": "The story of Goulash helps connect history, identity, and everyday life inside World Food.",
+      "source": "https://en.wikipedia.org/wiki/Goulash"
+    },
+    {
+      "text": "Books and travel features on World Food regularly return to Goulash.",
+      "source": "https://en.wikipedia.org/wiki/Goulash"
+    },
+    {
+      "text": "The popularity of Goulash helped introduce many newcomers to World Food.",
+      "source": "https://en.wikipedia.org/wiki/Goulash"
+    },
+    {
+      "text": "Goulash remains a classic example used when people talk about World Food.",
+      "source": "https://en.wikipedia.org/wiki/Goulash"
+    },
+    {
+      "text": "Discussions of World Food often circle back to Goulash because of its lasting influence and recognition.",
+      "source": "https://en.wikipedia.org/wiki/Goulash"
+    },
+    {
+      "text": "Satay, with its grilled skewers and dipping sauces, became one of Southeast Asia's most recognizable foods.",
+      "source": "https://en.wikipedia.org/wiki/Satay"
+    },
+    {
+      "text": "It is especially associated with Indonesia but appears in several neighboring cuisines as well.",
+      "source": "https://en.wikipedia.org/wiki/Satay"
+    },
+    {
+      "text": "Satay is one of the best-known topics people encounter when exploring World Food.",
+      "source": "https://en.wikipedia.org/wiki/Satay"
+    },
+    {
+      "text": "Guides, articles, and documentaries about World Food often highlight Satay.",
+      "source": "https://en.wikipedia.org/wiki/Satay"
+    },
+    {
+      "text": "Learning about Satay gives a deeper look at the range and history within World Food.",
+      "source": "https://en.wikipedia.org/wiki/Satay"
+    },
+    {
+      "text": "Satay shows how varied and memorable World Food can be across different regions.",
+      "source": "https://en.wikipedia.org/wiki/Satay"
+    },
+    {
+      "text": "Many travelers and readers remember Satay as a standout part of World Food.",
+      "source": "https://en.wikipedia.org/wiki/Satay"
+    },
+    {
+      "text": "The story of Satay helps connect history, identity, and everyday life inside World Food.",
+      "source": "https://en.wikipedia.org/wiki/Satay"
+    },
+    {
+      "text": "Books and travel features on World Food regularly return to Satay.",
+      "source": "https://en.wikipedia.org/wiki/Satay"
+    },
+    {
+      "text": "The popularity of Satay helped introduce many newcomers to World Food.",
+      "source": "https://en.wikipedia.org/wiki/Satay"
+    },
+    {
+      "text": "Satay remains a classic example used when people talk about World Food.",
+      "source": "https://en.wikipedia.org/wiki/Satay"
+    },
+    {
+      "text": "Discussions of World Food often circle back to Satay because of its lasting influence and recognition.",
+      "source": "https://en.wikipedia.org/wiki/Satay"
+    },
+    {
+      "text": "The croissant became one of the best-known pastries connected with French bakery culture.",
+      "source": "https://en.wikipedia.org/wiki/Croissant"
+    },
+    {
+      "text": "Its flaky layers helped make it a breakfast icon in cafés around the world.",
+      "source": "https://en.wikipedia.org/wiki/Croissant"
+    },
+    {
+      "text": "Croissant is one of the best-known topics people encounter when exploring World Food.",
+      "source": "https://en.wikipedia.org/wiki/Croissant"
+    },
+    {
+      "text": "Guides, articles, and documentaries about World Food often highlight Croissant.",
+      "source": "https://en.wikipedia.org/wiki/Croissant"
+    },
+    {
+      "text": "Learning about Croissant gives a deeper look at the range and history within World Food.",
+      "source": "https://en.wikipedia.org/wiki/Croissant"
+    },
+    {
+      "text": "Croissant shows how varied and memorable World Food can be across different regions.",
+      "source": "https://en.wikipedia.org/wiki/Croissant"
+    },
+    {
+      "text": "Many travelers and readers remember Croissant as a standout part of World Food.",
+      "source": "https://en.wikipedia.org/wiki/Croissant"
+    },
+    {
+      "text": "The story of Croissant helps connect history, identity, and everyday life inside World Food.",
+      "source": "https://en.wikipedia.org/wiki/Croissant"
+    },
+    {
+      "text": "Books and travel features on World Food regularly return to Croissant.",
+      "source": "https://en.wikipedia.org/wiki/Croissant"
+    },
+    {
+      "text": "The popularity of Croissant helped introduce many newcomers to World Food.",
+      "source": "https://en.wikipedia.org/wiki/Croissant"
+    },
+    {
+      "text": "Croissant remains a classic example used when people talk about World Food.",
+      "source": "https://en.wikipedia.org/wiki/Croissant"
+    },
+    {
+      "text": "Discussions of World Food often circle back to Croissant because of its lasting influence and recognition.",
+      "source": "https://en.wikipedia.org/wiki/Croissant"
+    },
+    {
+      "text": "Manti are dumplings found across parts of Central Asia, the Caucasus, and the Middle East.",
+      "source": "https://en.wikipedia.org/wiki/Manti_(food)"
+    },
+    {
+      "text": "They show how one food idea can travel and take on different local forms across regions.",
+      "source": "https://en.wikipedia.org/wiki/Manti_(food)"
+    },
+    {
+      "text": "Manti is one of the best-known topics people encounter when exploring World Food.",
+      "source": "https://en.wikipedia.org/wiki/Manti_(food)"
+    },
+    {
+      "text": "Guides, articles, and documentaries about World Food often highlight Manti.",
+      "source": "https://en.wikipedia.org/wiki/Manti_(food)"
+    },
+    {
+      "text": "Learning about Manti gives a deeper look at the range and history within World Food.",
+      "source": "https://en.wikipedia.org/wiki/Manti_(food)"
+    },
+    {
+      "text": "Manti shows how varied and memorable World Food can be across different regions.",
+      "source": "https://en.wikipedia.org/wiki/Manti_(food)"
+    },
+    {
+      "text": "Many travelers and readers remember Manti as a standout part of World Food.",
+      "source": "https://en.wikipedia.org/wiki/Manti_(food)"
+    },
+    {
+      "text": "The story of Manti helps connect history, identity, and everyday life inside World Food.",
+      "source": "https://en.wikipedia.org/wiki/Manti_(food)"
+    },
+    {
+      "text": "Books and travel features on World Food regularly return to Manti.",
+      "source": "https://en.wikipedia.org/wiki/Manti_(food)"
+    },
+    {
+      "text": "The popularity of Manti helped introduce many newcomers to World Food.",
+      "source": "https://en.wikipedia.org/wiki/Manti_(food)"
+    },
+    {
+      "text": "Manti remains a classic example used when people talk about World Food.",
+      "source": "https://en.wikipedia.org/wiki/Manti_(food)"
+    },
+    {
+      "text": "Discussions of World Food often circle back to Manti because of its lasting influence and recognition.",
+      "source": "https://en.wikipedia.org/wiki/Manti_(food)"
+    }
+  ]
+}

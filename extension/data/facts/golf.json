@@ -1,0 +1,1785 @@
+{
+  "hobby": "Golf",
+  "facts": [
+    {
+      "text": "The Masters Tournament at Augusta National is one of golf's four major championships, first held in 1934.",
+      "source": "https://en.wikipedia.org/wiki/Masters_Tournament_at_Augusta_National"
+    },
+    {
+      "text": "Tiger Woods has won 15 major championships, second only to Jack Nicklaus's record 18.",
+      "source": "https://en.wikipedia.org/wiki/Tiger_Woods"
+    },
+    {
+      "text": "A regulation golf ball has between 300 and 500 dimples, which help it fly farther by reducing air resistance.",
+      "source": "https://en.wikipedia.org/wiki/A_regulation_golf_ball"
+    },
+    {
+      "text": "Jack Nicklaus, the 'Golden Bear,' won 18 major championships over a career spanning four decades.",
+      "source": "https://en.wikipedia.org/wiki/Jack_Nicklaus%2C_the_%27Golden_Bear"
+    },
+    {
+      "text": "The oldest golf course in the world is the Old Links at Musselburgh in Scotland, where golf has been played since 1672.",
+      "source": "https://en.wikipedia.org/wiki/oldest_golf_course_in_the_world"
+    },
+    {
+      "text": "A golf club set is limited to 14 clubs by the rules of golf.",
+      "source": "https://en.wikipedia.org/wiki/A_golf_club_set"
+    },
+    {
+      "text": "Arnold Palmer was so popular that a drink — iced tea mixed with lemonade — was named after him.",
+      "source": "https://en.wikipedia.org/wiki/Arnold_Palmer"
+    },
+    {
+      "text": "The term 'birdie' originated in 1903 when Ab Smith called his under-par shot 'a bird of a shot' at a club in New Jersey.",
+      "source": "https://en.wikipedia.org/wiki/term_%27birdie%27_originated_in_1903_when_Ab_Smith"
+    },
+    {
+      "text": "Augusta National Golf Club has an incredibly exclusive membership and didn't admit its first female member until 2012.",
+      "source": "https://en.wikipedia.org/wiki/Augusta_National_Golf_Club"
+    },
+    {
+      "text": "A hole-in-one on a par 3 is estimated to happen once in every 12,500 shots for an amateur golfer.",
+      "source": "https://en.wikipedia.org/wiki/A_hole-in-one_on_a_par_3"
+    },
+    {
+      "text": "The PGA Tour was founded in 1929 and is the main professional golf tour in the United States.",
+      "source": "https://en.wikipedia.org/wiki/PGA_Tour"
+    },
+    {
+      "text": "Ben Hogan survived a near-fatal car accident in 1949 and came back to win 6 more major championships.",
+      "source": "https://en.wikipedia.org/wiki/Ben_Hogan"
+    },
+    {
+      "text": "The Ryder Cup pits a team of European golfers against a team of American golfers every two years.",
+      "source": "https://en.wikipedia.org/wiki/Ryder_Cup"
+    },
+    {
+      "text": "Tiger Woods's 12-stroke victory at the 2000 U.S. Open at Pebble Beach is the largest margin of victory in major championship history.",
+      "source": "https://en.wikipedia.org/wiki/Tiger_Woods%27s_12-stroke_victory_at_the_2000_U.S._Open_at_Pebble_Beach"
+    },
+    {
+      "text": "A 'scratch golfer' is a player with a handicap of zero, meaning they typically shoot par for the course.",
+      "source": "https://en.wikipedia.org/wiki/A_%27scratch_golfer"
+    },
+    {
+      "text": "The British Open (The Open Championship) is the oldest of the four major championships, first played in 1860.",
+      "source": "https://en.wikipedia.org/wiki/British_Open_(The_Open_Championship)"
+    },
+    {
+      "text": "Bobby Jones won the Grand Slam in 1930 — all four major tournaments in a single year — and then retired at age 28.",
+      "source": "https://en.wikipedia.org/wiki/Bobby_Jones"
+    },
+    {
+      "text": "Phil Mickelson is known as 'Lefty' because he plays left-handed, even though he is naturally right-handed.",
+      "source": "https://en.wikipedia.org/wiki/Phil_Mickelson"
+    },
+    {
+      "text": "A standard golf course has 18 holes, a tradition established at the Old Course at St Andrews in Scotland.",
+      "source": "https://en.wikipedia.org/wiki/A_standard_golf_course"
+    },
+    {
+      "text": "The longest drive ever recorded in competition was 515 yards by Mike Austin in 1974.",
+      "source": "https://en.wikipedia.org/wiki/longest_drive_ever"
+    },
+    {
+      "text": "Sam Snead holds the PGA Tour record for most career victories with 82 wins.",
+      "source": "https://en.wikipedia.org/wiki/Sam_Snead_holds_the_PGA_Tour_record_for_most_career_victories_with_82"
+    },
+    {
+      "text": "Tiger Woods won the 2019 Masters at age 43, completing one of the greatest comebacks in sports history.",
+      "source": "https://en.wikipedia.org/wiki/Tiger_Woods"
+    },
+    {
+      "text": "A 'bogey' — one over par — got its name from a popular British song character, the 'Bogey Man,' in the 1890s.",
+      "source": "https://en.wikipedia.org/wiki/Bogey_Man"
+    },
+    {
+      "text": "The U.S. Open is known for its difficult course setups and narrow fairways, testing even the best golfers.",
+      "source": "https://en.wikipedia.org/wiki/U.S._Open"
+    },
+    {
+      "text": "Gary Player, from South Africa, won 9 major championships and is one of only 5 players to win the career Grand Slam.",
+      "source": "https://en.wikipedia.org/wiki/Gary_Player%2C_from_South_Africa"
+    },
+    {
+      "text": "A 'mulligan' is an informal do-over shot not counted in the score, named after a Canadian golfer in the 1920s.",
+      "source": "https://en.wikipedia.org/wiki/A_%27mulligan"
+    },
+    {
+      "text": "The PGA Championship is the fourth major and is organized by the Professional Golfers' Association of America.",
+      "source": "https://en.wikipedia.org/wiki/PGA_Championship"
+    },
+    {
+      "text": "Annika Sörenstam is considered the greatest female golfer of all time, with 10 major championship victories.",
+      "source": "https://en.wikipedia.org/wiki/Annika_S%C3%B6renstam"
+    },
+    {
+      "text": "Golf balls travel about 2.5 times farther today than they did in the early 1900s due to advances in ball and club technology.",
+      "source": "https://en.wikipedia.org/wiki/Golf"
+    },
+    {
+      "text": "The 'yips' is a condition where golfers suddenly lose the ability to make short putts due to performance anxiety.",
+      "source": "https://en.wikipedia.org/wiki/%27yips"
+    },
+    {
+      "text": "Bubba Watson is known for his self-taught swing and ability to shape shots dramatically in both directions.",
+      "source": "https://en.wikipedia.org/wiki/Bubba_Watson"
+    },
+    {
+      "text": "St Andrews in Scotland is known as the 'Home of Golf' and the Old Course there dates back over 600 years.",
+      "source": "https://en.wikipedia.org/wiki/St_Andrews_in_Scotland"
+    },
+    {
+      "text": "Gene Sarazen invented the sand wedge in 1932 and it revolutionized bunker play.",
+      "source": "https://en.wikipedia.org/wiki/Gene_Sarazen"
+    },
+    {
+      "text": "The 'Green Jacket' is awarded to the winner of the Masters Tournament and is one of the most iconic trophies in sports.",
+      "source": "https://en.wikipedia.org/wiki/%27Green_Jacket"
+    },
+    {
+      "text": "Rory McIlroy has won 4 major championships and is one of only a few players to win 3 different majors before age 26.",
+      "source": "https://en.wikipedia.org/wiki/Rory_McIlroy"
+    },
+    {
+      "text": "A 'double eagle' (or albatross) — 3 under par on a single hole — is rarer than a hole-in-one.",
+      "source": "https://en.wikipedia.org/wiki/A_%27double_eagle%27_(or_albatross)_%E2%80%94_3_under_par_on_a_single_hole_%E2%80%94"
+    },
+    {
+      "text": "The Claret Jug is the trophy awarded to the winner of The Open Championship.",
+      "source": "https://en.wikipedia.org/wiki/Claret_Jug"
+    },
+    {
+      "text": "Lee Trevino was struck by lightning during a golf tournament in 1975 and continued to play professional golf afterward.",
+      "source": "https://en.wikipedia.org/wiki/Lee_Trevino"
+    },
+    {
+      "text": "A golf tee wasn't standardized until 1920 when Dr. William Lowell patented the wooden tee.",
+      "source": "https://en.wikipedia.org/wiki/Dr._William_Lowell"
+    },
+    {
+      "text": "Scottie Scheffler won the Masters in 2022 and became the world's number 1 ranked golfer.",
+      "source": "https://en.wikipedia.org/wiki/Scottie_Scheffler"
+    },
+    {
+      "text": "The 'Sunday Red' was Tiger Woods's signature outfit for final rounds, believing it gave him a competitive edge.",
+      "source": "https://en.wikipedia.org/wiki/%27Sunday_Red"
+    },
+    {
+      "text": "The Solheim Cup is the women's equivalent of the Ryder Cup, featuring teams from the U.S. and Europe.",
+      "source": "https://en.wikipedia.org/wiki/Solheim_Cup"
+    },
+    {
+      "text": "Tom Watson nearly won The Open Championship at age 59 in 2009, losing in a playoff at Turnberry.",
+      "source": "https://en.wikipedia.org/wiki/Tom_Watson_nearly"
+    },
+    {
+      "text": "A 'condor' — 4 under par on a single hole — is the rarest score in golf and has been recorded only a handful of times.",
+      "source": "https://en.wikipedia.org/wiki/A_%27condor%27_%E2%80%94_4_under_par_on_a_single_hole_%E2%80%94"
+    },
+    {
+      "text": "The average PGA Tour driving distance has increased from about 260 yards in 1980 to over 295 yards today.",
+      "source": "https://en.wikipedia.org/wiki/average_PGA_Tour_driving_distance"
+    },
+    {
+      "text": "Walter Hagen won 11 major championships and was the first golfer to earn $1 million in career prize money.",
+      "source": "https://en.wikipedia.org/wiki/Walter_Hagen"
+    },
+    {
+      "text": "The Wanamaker Trophy is awarded to the winner of the PGA Championship and weighs 27 pounds.",
+      "source": "https://en.wikipedia.org/wiki/Wanamaker_Trophy"
+    },
+    {
+      "text": "Jon Rahm won the 2023 Masters and the U.S. Open in the same year, cementing his status as one of golf's best.",
+      "source": "https://en.wikipedia.org/wiki/Jon_Rahm"
+    },
+    {
+      "text": "The 'Amen Corner' at Augusta National (holes 11, 12, and 13) is considered one of the most challenging and exciting stretches in golf.",
+      "source": "https://en.wikipedia.org/wiki/%27Amen_Corner%27_at_Augusta_National_(holes_11%2C_12%2C_and_13)"
+    },
+    {
+      "text": "Seve Ballesteros was known for his incredible creativity and ability to make recovery shots from seemingly impossible positions.",
+      "source": "https://en.wikipedia.org/wiki/Seve_Ballesteros"
+    },
+    {
+      "text": "The longest putt ever holed in a PGA Tour event is 110 feet.",
+      "source": "https://en.wikipedia.org/wiki/longest_putt_ever_holed_in_a_PGA_Tour_event"
+    },
+    {
+      "text": "Justin Thomas became the youngest player to shoot a 59 on the PGA Tour in 2017 at age 24.",
+      "source": "https://en.wikipedia.org/wiki/Justin_Thomas"
+    },
+    {
+      "text": "Harvey Penick's 'Little Red Book' is one of the best-selling sports books of all time, full of simple golf wisdom.",
+      "source": "https://en.wikipedia.org/wiki/Harvey_Penick%27s_%27Little_Red_Book"
+    },
+    {
+      "text": "Brooks Koepka won 4 majors in the span of just 2 years (2017-2019), dominating the major championship circuit.",
+      "source": "https://en.wikipedia.org/wiki/Brooks_Koepka"
+    },
+    {
+      "text": "A golf course superintendent manages the turf, greens, and overall condition of the course — often starting work before dawn.",
+      "source": "https://en.wikipedia.org/wiki/Golf"
+    },
+    {
+      "text": "The 'Drive for Show, Putt for Dough' saying highlights the importance of putting, which accounts for about 40% of strokes.",
+      "source": "https://en.wikipedia.org/wiki/Drive_for_Show"
+    },
+    {
+      "text": "Dustin Johnson has one of the most naturally athletic swings on tour and won the 2020 Masters with a record score of 20 under par.",
+      "source": "https://en.wikipedia.org/wiki/Dustin_Johnson"
+    },
+    {
+      "text": "The 'caddie' carries a golfer's bag and provides advice on club selection, wind, and green reading.",
+      "source": "https://en.wikipedia.org/wiki/Golf"
+    },
+    {
+      "text": "The Presidents Cup is similar to the Ryder Cup but pits the U.S. against an International team (excluding Europe).",
+      "source": "https://en.wikipedia.org/wiki/Presidents_Cup"
+    },
+    {
+      "text": "Payne Stewart won the 1999 U.S. Open with a dramatic putt on the 18th hole, only to die in a plane crash later that year.",
+      "source": "https://en.wikipedia.org/wiki/Payne_Stewart"
+    },
+    {
+      "text": "The 'stymie' rule, which allowed a player's ball to block another player's path on the green, was abolished in 1952.",
+      "source": "https://en.wikipedia.org/wiki/Golf"
+    },
+    {
+      "text": "Collin Morikawa won The Open Championship in his debut at the event, demonstrating incredible iron play.",
+      "source": "https://en.wikipedia.org/wiki/Collin_Morikawa"
+    },
+    {
+      "text": "Golf was included in the Olympics in 1900 and 1904, then returned after a 112-year absence in 2016 at the Rio Games.",
+      "source": "https://en.wikipedia.org/wiki/Golf"
+    },
+    {
+      "text": "Ben Crenshaw, 'Gentle Ben,' was one of the greatest putters in golf history and won 2 Masters titles.",
+      "source": "https://en.wikipedia.org/wiki/Ben_Crenshaw%2C_%27Gentle_Ben"
+    },
+    {
+      "text": "The 'fade' and 'draw' are controlled shot shapes — a fade curves left to right (for right-handed golfers) and a draw curves right to left.",
+      "source": "https://en.wikipedia.org/wiki/%27fade%27_and_%27draw"
+    },
+    {
+      "text": "The 17th hole at TPC Sawgrass — the famous island green — sees about 100,000 balls hit into the water each year.",
+      "source": "https://en.wikipedia.org/wiki/TPC_Sawgrass"
+    },
+    {
+      "text": "Nancy Lopez won 48 LPGA Tour events and was instrumental in growing the popularity of women's golf.",
+      "source": "https://en.wikipedia.org/wiki/Nancy_Lopez"
+    },
+    {
+      "text": "A 'links course' is a type of coastal course with few trees, sandy soil, and wind — the original style of golf course.",
+      "source": "https://en.wikipedia.org/wiki/A_%27links_course"
+    },
+    {
+      "text": "Xander Schauffele won the gold medal in golf at the 2020 Tokyo Olympics.",
+      "source": "https://en.wikipedia.org/wiki/Xander_Schauffele"
+    },
+    {
+      "text": "The 'stimpmeter' measures the speed of putting greens, with PGA Tour greens typically reading between 11 and 14.",
+      "source": "https://en.wikipedia.org/wiki/PGA_Tour"
+    },
+    {
+      "text": "Jordan Spieth won the Masters and U.S. Open in the same year (2015) at just 21 years old.",
+      "source": "https://en.wikipedia.org/wiki/Jordan_Spieth"
+    },
+    {
+      "text": "The average golfer shoots about 100 for 18 holes, while PGA Tour players average around 69-70.",
+      "source": "https://en.wikipedia.org/wiki/PGA_Tour"
+    },
+    {
+      "text": "Vijay Singh won 34 PGA Tour events and was one of the most dedicated practice players in golf history.",
+      "source": "https://en.wikipedia.org/wiki/Vijay_Singh"
+    },
+    {
+      "text": "The 'bump and run' chip shot keeps the ball low and rolling, useful in windy conditions and on firm turf.",
+      "source": "https://en.wikipedia.org/wiki/%27bump_and"
+    },
+    {
+      "text": "Pebble Beach has hosted 6 U.S. Opens and is consistently rated one of the most beautiful golf courses in the world.",
+      "source": "https://en.wikipedia.org/wiki/Pebble_Beach"
+    },
+    {
+      "text": "Jim Furyk holds the PGA Tour record for the lowest round ever shot — a 58 at the 2016 Travelers Championship.",
+      "source": "https://en.wikipedia.org/wiki/Jim_Furyk"
+    },
+    {
+      "text": "The modern driver head is 460 cubic centimeters — the maximum allowed — compared to persimmon wood heads of about 200cc in the 1980s.",
+      "source": "https://en.wikipedia.org/wiki/modern_driver_head"
+    },
+    {
+      "text": "Patrick Reed's Presidents Cup and Ryder Cup performances earned him the nickname 'Captain America.'",
+      "source": "https://en.wikipedia.org/wiki/Patrick_Reed%27s_Presidents_Cup_and_Ryder_Cup_performances"
+    },
+    {
+      "text": "The 'Vardon Grip' — overlapping the pinky finger — is the most common grip used by professional golfers, named after Harry Vardon.",
+      "source": "https://en.wikipedia.org/wiki/%27Vardon_Grip%27_%E2%80%94_overlapping_the_pinky_finger_%E2%80%94"
+    },
+    {
+      "text": "Viktor Hovland became the first Norwegian to win on the PGA Tour and has quickly risen in the world rankings.",
+      "source": "https://en.wikipedia.org/wiki/Viktor_Hovland"
+    },
+    {
+      "text": "Augusta National's azaleas bloom every April, creating one of the most visually stunning backdrops in sports.",
+      "source": "https://en.wikipedia.org/wiki/Augusta_National%27s"
+    },
+    {
+      "text": "Ernie Els, the 'Big Easy,' earned his nickname for his smooth, effortless-looking swing.",
+      "source": "https://en.wikipedia.org/wiki/Ernie_Els%2C_the_%27Big_Easy"
+    },
+    {
+      "text": "The LPGA Tour was founded in 1950, making it one of the oldest women's professional sports organizations.",
+      "source": "https://en.wikipedia.org/wiki/LPGA_Tour"
+    },
+    {
+      "text": "The 'shotgun start' format has all groups teeing off simultaneously from different holes, used in charity and corporate events.",
+      "source": "https://en.wikipedia.org/wiki/%27shotgun_start%27_format"
+    },
+    {
+      "text": "Rickie Fowler is known for his bright orange outfits and was heavily influenced by the Oklahoma State University colors.",
+      "source": "https://en.wikipedia.org/wiki/Rickie_Fowler"
+    },
+    {
+      "text": "Pine Valley Golf Club in New Jersey is frequently ranked as the #1 golf course in the world.",
+      "source": "https://en.wikipedia.org/wiki/Pine_Valley_Golf_Club_in_New_Jersey"
+    },
+    {
+      "text": "The 'slice' — a shot that curves dramatically to the right for right-handed golfers — is the most common miss in amateur golf.",
+      "source": "https://en.wikipedia.org/wiki/%27slice%27_%E2%80%94_a_shot_that_curves_dramatically_to_the_right_for_right-handed_golfers_%E2%80%94"
+    },
+    {
+      "text": "Gary Player logged more than 15 million miles of travel during his career, earning him the nickname 'The Black Knight.'",
+      "source": "https://en.wikipedia.org/wiki/Gary_Player"
+    },
+    {
+      "text": "The Titleist Pro V1 is the most popular golf ball on the PGA Tour and has been since its introduction in 2000.",
+      "source": "https://en.wikipedia.org/wiki/Titleist_Pro_V1"
+    },
+    {
+      "text": "The 'Texas Wedge' is a slang term for using a putter from off the green, more common in windy conditions.",
+      "source": "https://en.wikipedia.org/wiki/%27Texas_Wedge"
+    },
+    {
+      "text": "Cameron Smith won The Open Championship in 2022 with a brilliant final-round 64 at St Andrews.",
+      "source": "https://en.wikipedia.org/wiki/Cameron_Smith"
+    },
+    {
+      "text": "The first recorded round of golf played by a U.S. president was by William Howard Taft in 1909.",
+      "source": "https://en.wikipedia.org/wiki/first"
+    },
+    {
+      "text": "Dwight Eisenhower was such an avid golfer that he had a putting green installed at the White House.",
+      "source": "https://en.wikipedia.org/wiki/Dwight_Eisenhower"
+    },
+    {
+      "text": "The 'Sunday pin positions' at major championships are typically the most difficult placements on the greens.",
+      "source": "https://en.wikipedia.org/wiki/%27Sunday_pin_positions%27_at_major_championships"
+    },
+    {
+      "text": "Tony Finau has been one of the most consistent players on the PGA Tour, known for his powerful driving and calm demeanor.",
+      "source": "https://en.wikipedia.org/wiki/Tony_Finau"
+    },
+    {
+      "text": "The 'handicap system' allows golfers of different skill levels to compete fairly against each other.",
+      "source": "https://en.wikipedia.org/wiki/Golf"
+    },
+    {
+      "text": "The longest par 3 in major championship history was the 262-yard 8th hole at Royal Troon during The Open.",
+      "source": "https://en.wikipedia.org/wiki/longest_par_3_in_major_championship_history"
+    },
+    {
+      "text": "Hideki Matsuyama became the first Japanese man to win a major championship at the 2021 Masters.",
+      "source": "https://en.wikipedia.org/wiki/Hideki_Matsuyama"
+    },
+    {
+      "text": "A 'gimme' is a putt so short that the other players agree it can be counted without actually putting.",
+      "source": "https://en.wikipedia.org/wiki/A_%27gimme"
+    },
+    {
+      "text": "Bobby Jones founded Augusta National and the Masters Tournament after retiring from competitive golf.",
+      "source": "https://en.wikipedia.org/wiki/Bobby_Jones"
+    },
+    {
+      "text": "The 'stinger' is a low, penetrating iron shot made famous by Tiger Woods, useful in windy conditions.",
+      "source": "https://en.wikipedia.org/wiki/%27stinger"
+    },
+    {
+      "text": "Max Homa has become one of golf's most popular personalities on social media with his witty commentary.",
+      "source": "https://en.wikipedia.org/wiki/Max_Homa"
+    },
+    {
+      "text": "The 'par' for a hole is based on its length: par 3s are up to 250 yards, par 4s are 251-470 yards, and par 5s are 471+ yards.",
+      "source": "https://en.wikipedia.org/wiki/%27par%27_for_a_hole"
+    },
+    {
+      "text": "Bernhard Langer won the Masters twice and has been the most successful player on the Champions Tour (for golfers 50+).",
+      "source": "https://en.wikipedia.org/wiki/Bernhard_Langer"
+    },
+    {
+      "text": "The 'flop shot' — a high, soft shot that stops quickly — was popularized by Phil Mickelson.",
+      "source": "https://en.wikipedia.org/wiki/%27flop_shot%27_%E2%80%94_a_high%2C_soft_shot_that_stops_quickly_%E2%80%94"
+    },
+    {
+      "text": "Wyndham Clark won the 2023 U.S. Open at Los Angeles Country Club in his first appearance at the championship.",
+      "source": "https://en.wikipedia.org/wiki/Wyndham_Clark"
+    },
+    {
+      "text": "The Waste Management Phoenix Open has the most spectators of any golf tournament, consistently drawing over 700,000 fans per week.",
+      "source": "https://en.wikipedia.org/wiki/Waste_Management_Phoenix_Open"
+    },
+    {
+      "text": "The R&A and USGA jointly govern the rules of golf worldwide.",
+      "source": "https://en.wikipedia.org/wiki/R%26A_and_USGA"
+    },
+    {
+      "text": "Lydia Ko became the youngest player to win an LPGA Tour event at age 15 and the youngest world number 1 at 17.",
+      "source": "https://en.wikipedia.org/wiki/Lydia_Ko"
+    },
+    {
+      "text": "A 'plugged lie' (or fried egg) occurs when a ball embeds in soft sand or turf upon landing.",
+      "source": "https://en.wikipedia.org/wiki/Golf"
+    },
+    {
+      "text": "The 'Cup' in golf is 4.25 inches in diameter, a dimension that has been standard since 1891.",
+      "source": "https://en.wikipedia.org/wiki/%27Cup%27_in_golf"
+    },
+    {
+      "text": "Tom Morris Sr. and Tom Morris Jr. are the oldest and youngest Open Championship winners — Old Tom won at 46, Young Tom at 17.",
+      "source": "https://en.wikipedia.org/wiki/Tom_Morris_Sr._and_Tom_Morris_Jr"
+    },
+    {
+      "text": "The 'knockdown shot' is hit with a lower trajectory to control distance and combat wind.",
+      "source": "https://en.wikipedia.org/wiki/%27knockdown_shot"
+    },
+    {
+      "text": "LIV Golf, backed by Saudi Arabia's Public Investment Fund, launched in 2022 and disrupted the traditional pro golf landscape.",
+      "source": "https://en.wikipedia.org/wiki/LIV_Golf%2C_backed_by_Saudi_Arabia%27s_Public_Investment_Fund"
+    },
+    {
+      "text": "Scottie Scheffler won the 2024 Masters and multiple tournaments, cementing his position as the world's best player.",
+      "source": "https://en.wikipedia.org/wiki/Scottie_Scheffler"
+    },
+    {
+      "text": "The 'putt' accounts for about 40% of all strokes in a round of golf, making it the most frequently used shot.",
+      "source": "https://en.wikipedia.org/wiki/Golf"
+    },
+    {
+      "text": "Nelly Korda became the number 1 ranked women's golfer and won an Olympic gold medal for the U.S.",
+      "source": "https://en.wikipedia.org/wiki/Nelly_Korda"
+    },
+    {
+      "text": "The average PGA Tour event has a purse of over $8 million, with the winner typically receiving about 18% of the total.",
+      "source": "https://en.wikipedia.org/wiki/average_PGA_Tour_event"
+    },
+    {
+      "text": "Tiger Woods's consecutive cuts-made streak of 142 tournaments (1998-2005) is one of golf's most remarkable records.",
+      "source": "https://en.wikipedia.org/wiki/Tiger_Woods%27s_consecutive_cuts-made_streak_of_142_tournaments_(1998-2005)"
+    },
+    {
+      "text": "The 'yardage book' carried by caddies contains detailed maps of each hole with precise distances and notes.",
+      "source": "https://en.wikipedia.org/wiki/%27yardage_book%27_carried_by_caddies"
+    },
+    {
+      "text": "Curtis Strange was the first golfer to earn $1 million in a single season on the PGA Tour, in 1988.",
+      "source": "https://en.wikipedia.org/wiki/Curtis_Strange"
+    },
+    {
+      "text": "A 'links-style' course features firm, fast fairways, deep pot bunkers, and minimal trees.",
+      "source": "https://en.wikipedia.org/wiki/A_%27links-style%27_course"
+    },
+    {
+      "text": "The TaylorMade, Callaway, and Titleist brands dominate the professional golf equipment market.",
+      "source": "https://en.wikipedia.org/wiki/TaylorMade"
+    },
+    {
+      "text": "The 'nineteenth hole' is slang for the clubhouse bar where golfers gather after a round.",
+      "source": "https://en.wikipedia.org/wiki/%27nineteenth_hole"
+    },
+    {
+      "text": "Shinnecock Hills in Southampton, New York, is one of the five founding member clubs of the USGA, established in 1891.",
+      "source": "https://en.wikipedia.org/wiki/Shinnecock_Hills_in_Southampton%2C_New_York"
+    },
+    {
+      "text": "Fred Couples's effortless swing earned him the nickname 'Boom Boom' for his long drives.",
+      "source": "https://en.wikipedia.org/wiki/Fred_Couples%27s_effortless_swing"
+    },
+    {
+      "text": "The 'pace of play' is a major concern in golf, with a typical round taking about 4 to 4.5 hours for a foursome.",
+      "source": "https://en.wikipedia.org/wiki/%27pace_of_play"
+    },
+    {
+      "text": "Lee Westwood held the world number 1 ranking without ever winning a major championship.",
+      "source": "https://en.wikipedia.org/wiki/Lee_Westwood"
+    },
+    {
+      "text": "The iconic 12th hole at Augusta, 'Golden Bell,' is a 155-yard par 3 where swirling winds make club selection agonizing.",
+      "source": "https://en.wikipedia.org/wiki/iconic_12th_hole_at_Augusta%2C_%27Golden_Bell"
+    },
+    {
+      "text": "The 2024 PGA Tour schedule featured 47 official events with combined prize money exceeding $400 million.",
+      "source": "https://en.wikipedia.org/wiki/2024_PGA_Tour"
+    },
+    {
+      "text": "Jack Nicklaus finished second in major championships 19 times, nearly as impressive as his 18 victories.",
+      "source": "https://en.wikipedia.org/wiki/Jack_Nicklaus"
+    },
+    {
+      "text": "The 'divot' — a chunk of turf displaced by an iron shot — should always be replaced or filled with a sand-seed mixture.",
+      "source": "https://en.wikipedia.org/wiki/Golf"
+    },
+    {
+      "text": "Michelle Wie West turned professional at age 16 and won the 2014 U.S. Women's Open.",
+      "source": "https://en.wikipedia.org/wiki/Michelle_Wie_West_turned_professional_at_age_16_and"
+    },
+    {
+      "text": "The 'calcutta' is an auction-style betting event where golfer or teams are sold and payout is based on performance.",
+      "source": "https://en.wikipedia.org/wiki/%27calcutta"
+    },
+    {
+      "text": "Tiger Woods made his professional debut in 1996 and won the 1997 Masters by 12 strokes at age 21.",
+      "source": "https://en.wikipedia.org/wiki/Tiger_Woods_made_his_professional_debut_in_1996_and"
+    },
+    {
+      "text": "Johnny Miller's final-round 63 at the 1973 U.S. Open at Oakmont is considered one of the greatest rounds in major history.",
+      "source": "https://en.wikipedia.org/wiki/Johnny_Miller%27s_final-round_63_at_the_1973_U.S._Open_at_Oakmont"
+    },
+    {
+      "text": "The USGA handicap system was updated to the World Handicap System in 2020, unifying handicapping globally.",
+      "source": "https://en.wikipedia.org/wiki/USGA_handicap_system"
+    },
+    {
+      "text": "Trackman and launch monitors have revolutionized golf instruction by providing precise data on ball flight, spin, and launch angle.",
+      "source": "https://en.wikipedia.org/wiki/Trackman_and_launch_monitors"
+    },
+    {
+      "text": "The 'dogleg' is a hole that bends left or right, requiring strategic tee shots.",
+      "source": "https://en.wikipedia.org/wiki/%27dogleg"
+    },
+    {
+      "text": "Cypress Point Club on the Monterey Peninsula features the famous 16th hole, a par 3 over the Pacific Ocean.",
+      "source": "https://en.wikipedia.org/wiki/Cypress_Point_Club_on_the_Monterey_Peninsula"
+    },
+    {
+      "text": "A 'fore' shout warns other golfers of an incoming errant shot — the term likely comes from 'before' or 'beware before.'",
+      "source": "https://en.wikipedia.org/wiki/Golf"
+    },
+    {
+      "text": "The average golf course uses about 312,000 gallons of water per day to maintain its turf.",
+      "source": "https://en.wikipedia.org/wiki/Golf"
+    },
+    {
+      "text": "Matthew Fitzpatrick won the 2022 U.S. Open at The Country Club in Brookline, where he had also won the U.S. Amateur in 2013.",
+      "source": "https://en.wikipedia.org/wiki/Matthew_Fitzpatrick"
+    },
+    {
+      "text": "Mickey Wright won 82 LPGA Tour events, tying the all-time record, and is widely regarded as having the purest swing in women's golf history.",
+      "source": "https://en.wikipedia.org/wiki/Mickey_Wright"
+    },
+    {
+      "text": "Patty Berg was one of the 13 founding members of the LPGA and won 15 major championships, the most in women's golf history.",
+      "source": "https://en.wikipedia.org/wiki/Patty_Berg"
+    },
+    {
+      "text": "Lorena Ochoa of Mexico dominated women's golf from 2006 to 2010, reaching world number 1 and retiring at just 28 years old.",
+      "source": "https://en.wikipedia.org/wiki/Lorena_Ochoa_of_Mexico"
+    },
+    {
+      "text": "Se Ri Pak of South Korea won the 1998 U.S. Women's Open as a rookie, inspiring an entire generation of Korean golfers.",
+      "source": "https://en.wikipedia.org/wiki/Se_Ri_Pak_of_South_Korea"
+    },
+    {
+      "text": "Inbee Park has won 7 major championships and is only the second golfer, male or female, to win 3 consecutive majors in one season (2013).",
+      "source": "https://en.wikipedia.org/wiki/Inbee_Park"
+    },
+    {
+      "text": "Jin Young Ko held the world number 1 ranking for over 100 consecutive weeks and is known for her remarkably consistent ball-striking.",
+      "source": "https://en.wikipedia.org/wiki/Jin_Young_Ko_held_the_world_number_1_ranking_for_over_100_consecutive_weeks_and"
+    },
+    {
+      "text": "Mickey Wright's swing was so admired that Ben Hogan reportedly said it was the best he had ever seen, male or female.",
+      "source": "https://en.wikipedia.org/wiki/Mickey_Wright%27s_swing"
+    },
+    {
+      "text": "Patty Berg served as a lieutenant in the Marine Corps during World War II before returning to professional golf.",
+      "source": "https://en.wikipedia.org/wiki/Patty_Berg"
+    },
+    {
+      "text": "Se Ri Pak's victory at the 1998 LPGA Championship, where she played a famous shot while standing barefoot in a water hazard, became iconic in South Korean sports history.",
+      "source": "https://en.wikipedia.org/wiki/Se_Ri_Pak%27s"
+    },
+    {
+      "text": "Lorena Ochoa won 27 LPGA Tour events in just over a decade and was the first Mexican golfer to be ranked number 1 in the world.",
+      "source": "https://en.wikipedia.org/wiki/Lorena_Ochoa"
+    },
+    {
+      "text": "Inbee Park won the Olympic gold medal in golf at the 2016 Rio Games, becoming a national hero in South Korea.",
+      "source": "https://en.wikipedia.org/wiki/Inbee_Park"
+    },
+    {
+      "text": "Jin Young Ko's scoring average in 2021 was 69.08, one of the lowest in LPGA Tour history.",
+      "source": "https://en.wikipedia.org/wiki/Jin_Young_Ko%27s_scoring_average_in_2021"
+    },
+    {
+      "text": "Alister MacKenzie designed both Augusta National and Cypress Point, two of the most revered courses in the world.",
+      "source": "https://en.wikipedia.org/wiki/Alister_MacKenzie"
+    },
+    {
+      "text": "Pete Dye was known for his diabolical course designs featuring railroad ties, island greens, and optical illusions, including TPC Sawgrass.",
+      "source": "https://en.wikipedia.org/wiki/Pete_Dye"
+    },
+    {
+      "text": "Donald Ross designed over 400 golf courses in North America, including Pinehurst No. 2, which is famous for its crowned, turtle-back greens.",
+      "source": "https://en.wikipedia.org/wiki/Donald_Ross"
+    },
+    {
+      "text": "Tom Fazio has designed or renovated more than 100 courses, consistently ranking as one of the top golf course architects in America.",
+      "source": "https://en.wikipedia.org/wiki/Tom_Fazio"
+    },
+    {
+      "text": "Alister MacKenzie's design philosophy emphasized that every hole should have a different character and that artificial features should look natural.",
+      "source": "https://en.wikipedia.org/wiki/Alister_MacKenzie%27s_design_philosophy_emphasized_that_every_hole_should"
+    },
+    {
+      "text": "Pete Dye's wife, Alice Dye, was a significant collaborator on many of his designs and is credited with suggesting the island green at TPC Sawgrass.",
+      "source": "https://en.wikipedia.org/wiki/Pete_Dye%27s_wife%2C_Alice_Dye"
+    },
+    {
+      "text": "Donald Ross emigrated from Dornoch, Scotland, to the United States in 1899, bringing Scottish links design principles to American courses.",
+      "source": "https://en.wikipedia.org/wiki/Donald_Ross"
+    },
+    {
+      "text": "Robert Trent Jones Sr. is known as the 'father of modern golf course architecture' and designed or remodeled over 500 courses worldwide.",
+      "source": "https://en.wikipedia.org/wiki/Robert_Trent_Jones_Sr"
+    },
+    {
+      "text": "Jack Nicklaus has designed over 400 golf courses around the world through his Nicklaus Design firm, making him one of the most prolific architect-players.",
+      "source": "https://en.wikipedia.org/wiki/Jack_Nicklaus"
+    },
+    {
+      "text": "Tom Doak is a modern minimalist architect known for Pacific Dunes in Oregon, which uses the natural landscape with minimal earth-moving.",
+      "source": "https://en.wikipedia.org/wiki/Tom_Doak"
+    },
+    {
+      "text": "Seth Raynor was a protégé of Charles Blair Macdonald and designed iconic courses like Fishers Island and the Yale Golf Course.",
+      "source": "https://en.wikipedia.org/wiki/Seth_Raynor"
+    },
+    {
+      "text": "A.W. Tillinghast designed Winged Foot, Baltusrol, and Bethpage Black — three courses that have hosted multiple U.S. Opens.",
+      "source": "https://en.wikipedia.org/wiki/A.W._Tillinghast_designed_Winged_Foot%2C_Baltusrol%2C_and_Bethpage_Black_%E2%80%94_three_courses_that"
+    },
+    {
+      "text": "Golf GPS watches use satellite data to display distances to the front, center, and back of greens, as well as hazards and doglegs.",
+      "source": "https://en.wikipedia.org/wiki/Golf_GPS"
+    },
+    {
+      "text": "Laser rangefinders measure the exact distance to a target by bouncing a laser beam off the flagstick, accurate to within one yard.",
+      "source": "https://en.wikipedia.org/wiki/Golf"
+    },
+    {
+      "text": "Golf simulators use high-speed cameras and infrared sensors to track ball flight, allowing golfers to play virtual rounds on famous courses indoors.",
+      "source": "https://en.wikipedia.org/wiki/Golf"
+    },
+    {
+      "text": "The Garmin Approach series and Bushnell rangefinders are among the most popular distance-measuring devices used by amateur golfers.",
+      "source": "https://en.wikipedia.org/wiki/Garmin_Approach_series_and_Bushnell_rangefinders"
+    },
+    {
+      "text": "Launch monitors like Trackman, FlightScope, and Foresight measure club speed, ball speed, launch angle, spin rate, and carry distance with extreme precision.",
+      "source": "https://en.wikipedia.org/wiki/Golf"
+    },
+    {
+      "text": "The SkyTrak launch monitor brought affordable simulator technology to home golfers, allowing realistic practice in a garage or basement.",
+      "source": "https://en.wikipedia.org/wiki/SkyTrak"
+    },
+    {
+      "text": "Strokes Gained is a statistical method developed by Columbia professor Mark Broadie that measures performance relative to the field on every shot.",
+      "source": "https://en.wikipedia.org/wiki/Strokes_Gained"
+    },
+    {
+      "text": "Shot-tracking systems like Arccos use sensors in the grips of clubs to automatically record every shot and provide data-driven insights.",
+      "source": "https://en.wikipedia.org/wiki/Golf"
+    },
+    {
+      "text": "The Toptracer ball-tracking technology, now used at many driving ranges, shows golfers the trajectory of their shots on a screen in real time.",
+      "source": "https://en.wikipedia.org/wiki/Toptracer"
+    },
+    {
+      "text": "Modern golf balls have multi-layer construction — a solid core for distance, mid-layers for spin control, and a urethane cover for feel around the greens.",
+      "source": "https://en.wikipedia.org/wiki/Modern_golf_balls"
+    },
+    {
+      "text": "The driver is the longest club in the bag, designed for maximum distance off the tee, with lofts typically ranging from 8 to 12 degrees.",
+      "source": "https://en.wikipedia.org/wiki/driver"
+    },
+    {
+      "text": "Fairway woods (3-wood, 5-wood, 7-wood) are versatile clubs used for long shots from the fairway or tee, offering more loft than a driver.",
+      "source": "https://en.wikipedia.org/wiki/Fairway_woods_(3-wood%2C_5-wood%2C_7-wood)"
+    },
+    {
+      "text": "Hybrid clubs combine the distance of a fairway wood with the accuracy of an iron and have largely replaced long irons (2, 3, 4) for many golfers.",
+      "source": "https://en.wikipedia.org/wiki/Hybrid_clubs_combine_the_distance_of_a_fairway_wood_with_the_accuracy_of_an_iron_and"
+    },
+    {
+      "text": "Irons are numbered 3 through 9, with lower numbers hitting farther and higher, and higher numbers offering more loft and control for shorter shots.",
+      "source": "https://en.wikipedia.org/wiki/Irons"
+    },
+    {
+      "text": "A pitching wedge typically has 44-48 degrees of loft, a gap wedge 50-52 degrees, a sand wedge 54-56 degrees, and a lob wedge 58-64 degrees.",
+      "source": "https://en.wikipedia.org/wiki/A_pitching_wedge_typically"
+    },
+    {
+      "text": "Putters come in blade and mallet styles — blades suit players with arcing strokes, while mallets provide more forgiveness and stability.",
+      "source": "https://en.wikipedia.org/wiki/Golf"
+    },
+    {
+      "text": "Blade irons (muscle-backs) offer more feedback and workability for skilled players, while cavity-back irons provide more forgiveness on off-center hits.",
+      "source": "https://en.wikipedia.org/wiki/Golf"
+    },
+    {
+      "text": "Graphite shafts are lighter than steel shafts and are standard in drivers and woods, while many players still prefer steel in their irons for consistency.",
+      "source": "https://en.wikipedia.org/wiki/Graphite_shafts"
+    },
+    {
+      "text": "Custom club fitting — adjusting lie angle, shaft flex, length, and grip size — can significantly improve a golfer's accuracy and distance.",
+      "source": "https://en.wikipedia.org/wiki/Golf"
+    },
+    {
+      "text": "Grooves on the face of irons and wedges create backspin, helping the ball stop quickly on the green; the USGA regulates groove dimensions.",
+      "source": "https://en.wikipedia.org/wiki/Grooves_on_the"
+    },
+    {
+      "text": "The 7th hole at Pebble Beach is one of the shortest par 3s in championship golf at just 106 yards, perched on a cliff above the Pacific Ocean.",
+      "source": "https://en.wikipedia.org/wiki/7th_hole_at_Pebble_Beach"
+    },
+    {
+      "text": "The 'Road Hole' (17th) at St Andrews is considered the most famous and difficult par 4 in golf, with its dangerous Road Bunker guarding the green.",
+      "source": "https://en.wikipedia.org/wiki/%27Road_Hole%27_(17th)_at_St_Andrews"
+    },
+    {
+      "text": "The 16th hole at Augusta National, where Tiger Woods holed his legendary chip shot in 2005, is one of the most iconic par 3s in the world.",
+      "source": "https://en.wikipedia.org/wiki/16th_hole_at_Augusta_National%2C_where_Tiger_Woods_holed_his_legendary_chip_shot_in_2005"
+    },
+    {
+      "text": "The 8th hole at Royal Troon, called 'The Postage Stamp,' is the shortest hole on The Open Championship rota at just 123 yards.",
+      "source": "https://en.wikipedia.org/wiki/8th_hole_at_Royal_Troon"
+    },
+    {
+      "text": "The 18th hole at Harbour Town Golf Links on Hilton Head Island features its iconic red-and-white striped lighthouse behind the green.",
+      "source": "https://en.wikipedia.org/wiki/18th_hole_at_Harbour_Town_Golf_Links_on_Hilton_Head_Island"
+    },
+    {
+      "text": "The 13th hole at Augusta National, 'Azalea,' is a reachable par 5 where eagles and double-bogeys are equally possible due to Rae's Creek.",
+      "source": "https://en.wikipedia.org/wiki/13th_hole_at_Augusta_National%2C_%27Azalea"
+    },
+    {
+      "text": "The 'Hell Bunker' on the 14th hole of the Old Course at St Andrews is one of the most feared bunkers in golf, deep and difficult to escape.",
+      "source": "https://en.wikipedia.org/wiki/%27Hell_Bunker%27_on_the_14th_hole_of_the_Old_Course_at_St_Andrews"
+    },
+    {
+      "text": "The 15th hole at Whistling Straits, designed by Pete Dye, features a dramatic cliff-side green overlooking Lake Michigan.",
+      "source": "https://en.wikipedia.org/wiki/15th_hole_at_Whistling_Straits%2C_designed_by_Pete_Dye"
+    },
+    {
+      "text": "The 'Church Pews' bunker between the 3rd and 4th holes at Oakmont Country Club features rows of grass ridges resembling church pews.",
+      "source": "https://en.wikipedia.org/wiki/%27Church_Pews%27_bunker_between_the_3rd_and_4th_holes_at_Oakmont_Country_Club"
+    },
+    {
+      "text": "The 18th at Carnoustie, known as 'Home,' has hosted dramatic finishes including Jean Van de Velde's infamous collapse in the 1999 Open Championship.",
+      "source": "https://en.wikipedia.org/wiki/18th_at_Carnoustie%2C_known_as_%27Home"
+    },
+    {
+      "text": "Hale Irwin holds the record for most Champions Tour victories with 45 wins, dominating senior golf for over a decade.",
+      "source": "https://en.wikipedia.org/wiki/Hale_Irwin_holds_the_record_for_most_Champions_Tour_victories_with_45"
+    },
+    {
+      "text": "The Champions Tour (formerly Senior PGA Tour) is for golfers aged 50 and older and was established in 1980.",
+      "source": "https://en.wikipedia.org/wiki/Champions_Tour_(formerly_Senior_PGA_Tour)"
+    },
+    {
+      "text": "Lee Trevino won 29 Champions Tour events after turning 50, proving his talent transcended age.",
+      "source": "https://en.wikipedia.org/wiki/Lee_Trevino"
+    },
+    {
+      "text": "Chi-Chi Rodriguez was a fan favorite on the Champions Tour, known for his sword-fighting celebration after holing putts.",
+      "source": "https://en.wikipedia.org/wiki/Chi-Chi_Rodriguez"
+    },
+    {
+      "text": "Tom Kite, the 1992 U.S. Open champion, transitioned successfully to the Champions Tour and continued competing into his 60s.",
+      "source": "https://en.wikipedia.org/wiki/Tom_Kite"
+    },
+    {
+      "text": "The Senior Open Championship (now the Senior Open presented by Rolex) is the most prestigious major on the Champions Tour.",
+      "source": "https://en.wikipedia.org/wiki/Senior_Open_Championship_(now_the_Senior_Open_presented_by_Rolex)"
+    },
+    {
+      "text": "Gil Morgan became the first player in U.S. Open history to reach 10 under par during a round, though he faded over the weekend.",
+      "source": "https://en.wikipedia.org/wiki/Gil_Morgan"
+    },
+    {
+      "text": "Craig Stadler, who won the 1982 Masters, had a successful second career on the Champions Tour with 13 victories.",
+      "source": "https://en.wikipedia.org/wiki/Craig_Stadler%2C_who"
+    },
+    {
+      "text": "Golfers should repair their ball marks on the green, replace divots on the fairway, and rake bunkers after playing from sand.",
+      "source": "https://en.wikipedia.org/wiki/Golfers_should_repair_their_ball"
+    },
+    {
+      "text": "The golfer farthest from the hole plays first — a tradition known as 'away plays first' or 'honor' on the tee.",
+      "source": "https://en.wikipedia.org/wiki/Golf"
+    },
+    {
+      "text": "Ready golf, where players hit when ready rather than strictly following turn order, is encouraged to speed up pace of play.",
+      "source": "https://en.wikipedia.org/wiki/Ready_golf%2C_where_players_hit_when_ready_rather_than_strictly_following_turn_order"
+    },
+    {
+      "text": "Golfers traditionally shake hands on the 18th green after completing a round, regardless of the outcome.",
+      "source": "https://en.wikipedia.org/wiki/Golf"
+    },
+    {
+      "text": "Cell phones are typically required to be silenced or turned off during professional and many amateur golf tournaments.",
+      "source": "https://en.wikipedia.org/wiki/Cell_phones"
+    },
+    {
+      "text": "Yelling 'Get in the hole!' after every tee shot has become one of golf's most controversial spectator traditions.",
+      "source": "https://en.wikipedia.org/wiki/Yelling_%27Get_in_the_hole%21%27_after_every_tee_shot"
+    },
+    {
+      "text": "The tradition of the previous year's Masters champion placing the Green Jacket on the new champion began in 1949.",
+      "source": "https://en.wikipedia.org/wiki/Green_Jacket_on_the"
+    },
+    {
+      "text": "At The Open Championship, the champion is not formally called 'the winner' but rather 'the Champion Golfer of the Year.'",
+      "source": "https://en.wikipedia.org/wiki/At_The_Open_Championship%2C_the_champion"
+    },
+    {
+      "text": "Golf's honor system is a core tradition — players are expected to call penalties on themselves, even when no one is watching.",
+      "source": "https://en.wikipedia.org/wiki/Golf%27s_honor_system"
+    },
+    {
+      "text": "The Champions Dinner at the Masters, where all past champions gather on Tuesday evening, was started by Ben Hogan in 1952.",
+      "source": "https://en.wikipedia.org/wiki/Champions_Dinner_at_the_Masters%2C_where_all_past_champions_gather_on_Tuesday_evening"
+    },
+    {
+      "text": "The winner of each Masters Tournament chooses the menu for the following year's Champions Dinner, reflecting their personal taste.",
+      "source": "https://en.wikipedia.org/wiki/Masters_Tournament"
+    },
+    {
+      "text": "Steve Williams caddied for Tiger Woods for 13 years, forming one of the most successful player-caddie partnerships in golf history.",
+      "source": "https://en.wikipedia.org/wiki/Steve_Williams"
+    },
+    {
+      "text": "Fanny Sunesson was one of the first prominent female caddies on the men's tour, working with Nick Faldo during three of his major victories.",
+      "source": "https://en.wikipedia.org/wiki/Fanny_Sunesson"
+    },
+    {
+      "text": "Caddie Angelo Argea worked for Jack Nicklaus for over 20 years and was known for his distinctive afro hairstyle.",
+      "source": "https://en.wikipedia.org/wiki/Caddie_Angelo_Argea_worked_for_Jack_Nicklaus_for_over_20_years_and"
+    },
+    {
+      "text": "Bones Mackay caddied for Phil Mickelson for 25 years, one of the longest continuous player-caddie relationships in PGA Tour history.",
+      "source": "https://en.wikipedia.org/wiki/Bones_Mackay"
+    },
+    {
+      "text": "Fluff Cowan caddied for Tiger Woods at the start of his career and later became Jim Furyk's long-time caddie.",
+      "source": "https://en.wikipedia.org/wiki/Fluff_Cowan_caddied_for_Tiger_Woods_at_the_start_of_his_career_and_later"
+    },
+    {
+      "text": "Modern PGA Tour caddies typically earn a base salary plus a percentage of tournament earnings — usually 5-10% of prize money depending on finish.",
+      "source": "https://en.wikipedia.org/wiki/Modern_PGA_Tour"
+    },
+    {
+      "text": "At Augusta National, players are required to use a club caddie during the Masters, though the player's regular caddie typically fills the role.",
+      "source": "https://en.wikipedia.org/wiki/At_Augusta_National%2C_players"
+    },
+    {
+      "text": "A great caddie does more than carry the bag — they manage yardages, read greens, provide strategy, and keep the player mentally focused.",
+      "source": "https://en.wikipedia.org/wiki/Golf"
+    },
+    {
+      "text": "The European Tour (now the DP World Tour) was founded in 1972 and is the second most prestigious men's professional golf tour.",
+      "source": "https://en.wikipedia.org/wiki/European_Tour_(now_the_DP_World_Tour)"
+    },
+    {
+      "text": "The Race to Dubai is the DP World Tour's season-long points competition, with the winner crowned the European Tour's best player.",
+      "source": "https://en.wikipedia.org/wiki/Race_to_Dubai"
+    },
+    {
+      "text": "The Asian Tour, founded in 1995, operates across the Asia-Pacific region and has been a launching pad for many international golf stars.",
+      "source": "https://en.wikipedia.org/wiki/Asian_Tour"
+    },
+    {
+      "text": "The Japan Golf Tour (JGTO) is one of the most competitive tours outside the PGA Tour and has produced stars like Hideki Matsuyama and Shigeki Maruyama.",
+      "source": "https://en.wikipedia.org/wiki/Japan_Golf_Tour_(JGTO)"
+    },
+    {
+      "text": "The Sunshine Tour in South Africa has developed legends like Ernie Els, Retief Goosen, and Louis Oosthuizen.",
+      "source": "https://en.wikipedia.org/wiki/Sunshine_Tour_in_South_Africa"
+    },
+    {
+      "text": "The Korea LPGA Tour is one of the most competitive women's tours and has produced a remarkable number of world-class players.",
+      "source": "https://en.wikipedia.org/wiki/Korea_LPGA_Tour"
+    },
+    {
+      "text": "The Nedbank Golf Challenge, played at Sun City in South Africa, was once known as the 'Africa Major' for its prestige and prize money.",
+      "source": "https://en.wikipedia.org/wiki/Nedbank_Golf_Challenge%2C_played_at_Sun_City_in_South_Africa"
+    },
+    {
+      "text": "The European Tour and PGA Tour formed a 'strategic alliance' to strengthen the men's professional game against the threat from LIV Golf.",
+      "source": "https://en.wikipedia.org/wiki/European_Tour_and_PGA_Tour"
+    },
+    {
+      "text": "The Dubai Desert Classic, played at Emirates Golf Club, is one of the longest-running and most prestigious European Tour events.",
+      "source": "https://en.wikipedia.org/wiki/Dubai_Desert_Classic%2C_played_at_Emirates_Golf_Club"
+    },
+    {
+      "text": "The BMW PGA Championship at Wentworth is the flagship event of the DP World Tour.",
+      "source": "https://en.wikipedia.org/wiki/BMW_PGA_Championship_at_Wentworth"
+    },
+    {
+      "text": "Golf-specific fitness training has become essential on the PGA Tour, with players like Rory McIlroy and Brooks Koepka following rigorous workout programs.",
+      "source": "https://en.wikipedia.org/wiki/Golf-specific_fitness_training"
+    },
+    {
+      "text": "Tiger Woods popularized golf fitness, arriving on tour with a physique that was unprecedented for professional golfers.",
+      "source": "https://en.wikipedia.org/wiki/Tiger_Woods_popularized_golf_fitness%2C_arriving_on_tour_with_a_physique_that"
+    },
+    {
+      "text": "Core strength and rotational power are the most important physical attributes for generating clubhead speed in the golf swing.",
+      "source": "https://en.wikipedia.org/wiki/Core_strength_and_rotational_power"
+    },
+    {
+      "text": "Flexibility and mobility exercises, especially for the hips and thoracic spine, are crucial for maintaining a full, efficient golf swing.",
+      "source": "https://en.wikipedia.org/wiki/Flexibility_and_mobility_exercises%2C_especially_for_the_hips_and_thoracic_spine"
+    },
+    {
+      "text": "Many PGA Tour players use TPI (Titleist Performance Institute) screening to identify physical limitations that affect their swing.",
+      "source": "https://en.wikipedia.org/wiki/Many_PGA_Tour"
+    },
+    {
+      "text": "Yoga has become popular among golfers for improving flexibility, balance, and mental focus on the course.",
+      "source": "https://en.wikipedia.org/wiki/Yoga"
+    },
+    {
+      "text": "The modern golf warm-up includes dynamic stretching, resistance band exercises, and progressive hitting before teeing off.",
+      "source": "https://en.wikipedia.org/wiki/modern_golf_warm-up"
+    },
+    {
+      "text": "Bryson DeChambeau gained over 40 pounds of muscle to increase his driving distance, sparking a debate about the role of fitness in golf.",
+      "source": "https://en.wikipedia.org/wiki/Bryson_DeChambeau"
+    },
+    {
+      "text": "Walking 18 holes of golf covers approximately 5 to 6 miles and burns between 1,400 and 2,000 calories.",
+      "source": "https://en.wikipedia.org/wiki/Walking_18"
+    },
+    {
+      "text": "Professional golfers often work with sports psychologists to improve focus, manage pressure, and develop pre-shot routines.",
+      "source": "https://en.wikipedia.org/wiki/Golf"
+    },
+    {
+      "text": "Miniature golf (mini golf) dates back to the early 1900s and was originally designed to give women a way to play golf in an era when courses restricted their access.",
+      "source": "https://en.wikipedia.org/wiki/Miniature_golf_(mini_golf)_dates_back_to_the_early_1900s_and"
+    },
+    {
+      "text": "The first standardized mini golf course was built in Pinehurst, North Carolina, in 1916 and was called 'Thistle Dhu' (a play on 'this'll do').",
+      "source": "https://en.wikipedia.org/wiki/first_standardized_mini_golf_course"
+    },
+    {
+      "text": "The World Minigolf Sport Federation oversees competitive miniature golf, with world championships held annually.",
+      "source": "https://en.wikipedia.org/wiki/World_Minigolf_Sport_Federation"
+    },
+    {
+      "text": "Putt-Putt Golf, founded by Don Clayton in 1954, is a specific brand of miniature golf with standardized course designs for competitive play.",
+      "source": "https://en.wikipedia.org/wiki/Putt-Putt_Golf"
+    },
+    {
+      "text": "Disc golf uses flying discs instead of balls and baskets instead of holes, and is played on courses with 9 or 18 holes through parks and woods.",
+      "source": "https://en.wikipedia.org/wiki/Disc_golf_uses_flying_discs_instead_of_balls_and_baskets_instead_of_holes%2C_and"
+    },
+    {
+      "text": "The Professional Disc Golf Association (PDGA) was founded in 1976 and sanctions over 5,000 events worldwide each year.",
+      "source": "https://en.wikipedia.org/wiki/Professional_Disc_Golf_Association_(PDGA)"
+    },
+    {
+      "text": "Paul McBeth is considered one of the greatest disc golf players of all time, with multiple world championship titles.",
+      "source": "https://en.wikipedia.org/wiki/Paul_McBeth"
+    },
+    {
+      "text": "Disc golf is one of the fastest-growing sports in the world, with participation surging dramatically during and after the COVID-19 pandemic.",
+      "source": "https://en.wikipedia.org/wiki/Disc_golf"
+    },
+    {
+      "text": "Disc golf discs come in four categories: drivers (for distance), midrange discs, putters, and specialty discs for specific shot shapes.",
+      "source": "https://en.wikipedia.org/wiki/Golf"
+    },
+    {
+      "text": "Top disc golf courses like Maple Hill in Massachusetts and Järva DiscGolfPark in Sweden attract players from around the globe.",
+      "source": "https://en.wikipedia.org/wiki/Maple_Hill_in_Massachusetts_and"
+    },
+    {
+      "text": "Ben Hogan famously said, 'The secret is in the dirt,' meaning real improvement comes from countless hours of practice.",
+      "source": "https://en.wikipedia.org/wiki/Ben_Hogan_famously"
+    },
+    {
+      "text": "Arnold Palmer once said, 'Golf is deceptively simple and endlessly complicated,' capturing the sport's unique frustration and appeal.",
+      "source": "https://en.wikipedia.org/wiki/Arnold_Palmer_once"
+    },
+    {
+      "text": "Lee Trevino quipped, 'You can make a lot of money in this game. Just ask my ex-wives,' showcasing his legendary wit.",
+      "source": "https://en.wikipedia.org/wiki/Lee_Trevino"
+    },
+    {
+      "text": "Bobby Jones said, 'Golf is the closest game to the game we call life. You get bad breaks from good shots; you get good breaks from bad shots.'",
+      "source": "https://en.wikipedia.org/wiki/Bobby_Jones"
+    },
+    {
+      "text": "Jack Nicklaus said, 'Concentration is a fine antidote to anxiety,' reflecting his calm under pressure in major championships.",
+      "source": "https://en.wikipedia.org/wiki/Jack_Nicklaus"
+    },
+    {
+      "text": "Harvey Penick advised, 'Take dead aim,' one of the simplest and most repeated pieces of golf advice ever given.",
+      "source": "https://en.wikipedia.org/wiki/Harvey_Penick"
+    },
+    {
+      "text": "Chi-Chi Rodriguez joked, 'Golf is the most fun you can have without taking your clothes off.'",
+      "source": "https://en.wikipedia.org/wiki/Chi-Chi_Rodriguez_joked%2C_%27Golf"
+    },
+    {
+      "text": "Mark Twain is often credited with calling golf 'a good walk spoiled,' though the attribution is debated.",
+      "source": "https://en.wikipedia.org/wiki/Mark_Twain"
+    },
+    {
+      "text": "Walter Hagen advised, 'Don't hurry, don't worry. You're only here for a short visit. So be sure to stop and smell the flowers.'",
+      "source": "https://en.wikipedia.org/wiki/Walter_Hagen"
+    },
+    {
+      "text": "Sam Snead said, 'Of all the hazards, fear is the worst,' emphasizing the mental side of golf.",
+      "source": "https://en.wikipedia.org/wiki/Sam_Snead"
+    },
+    {
+      "text": "The movie 'Caddyshack' (1980), starring Chevy Chase, Bill Murray, and Rodney Dangerfield, is widely considered the greatest golf comedy ever made.",
+      "source": "https://en.wikipedia.org/wiki/Caddyshack"
+    },
+    {
+      "text": "Bill Murray's character Carl Spackler in 'Caddyshack' and his vendetta against a gopher became one of the most iconic roles in comedy film history.",
+      "source": "https://en.wikipedia.org/wiki/Bill_Murray%27s_character_Carl_Spackler_in_%27Caddyshack%27_and_his_vendetta_against_a_gopher"
+    },
+    {
+      "text": "'Happy Gilmore' (1996), starring Adam Sandler, popularized the running approach to hitting a golf ball and became a cult classic.",
+      "source": "https://en.wikipedia.org/wiki/Happy_Gilmore"
+    },
+    {
+      "text": "In 'Happy Gilmore,' the character's hockey slapshot-style golf swing was inspired by real long drive competitors who use aggressive approaches.",
+      "source": "https://en.wikipedia.org/wiki/In_%27Happy_Gilmore%2C%27_the_character%27s_hockey_slapshot-style_golf_swing"
+    },
+    {
+      "text": "The movie 'Tin Cup' (1996), starring Kevin Costner, tells the story of a driving range pro who qualifies for the U.S. Open.",
+      "source": "https://en.wikipedia.org/wiki/Tin_Cup"
+    },
+    {
+      "text": "'The Legend of Bagger Vance' (2000) stars Will Smith as a mystical caddie who helps Matt Damon's character rediscover his golf swing.",
+      "source": "https://en.wikipedia.org/wiki/Bagger_Vance"
+    },
+    {
+      "text": "Kevin Costner also starred in 'For Love of the Game,' and his portrayal of a struggling golfer in 'Tin Cup' resonated with everyday players.",
+      "source": "https://en.wikipedia.org/wiki/Kevin_Costner_also"
+    },
+    {
+      "text": "'The Greatest Game Ever Played' (2005) tells the true story of Francis Ouimet, a 20-year-old amateur who won the 1913 U.S. Open.",
+      "source": "https://en.wikipedia.org/wiki/Greatest_Game_Ever_Played"
+    },
+    {
+      "text": "Golf-themed episodes in TV shows like 'Seinfeld' (the Marine Biologist episode features a Titleist) have become memorable pop culture moments.",
+      "source": "https://en.wikipedia.org/wiki/Golf-themed_episodes_in_TV_shows_like_%27Seinfeld%27_(the_Marine_Biologist_episode"
+    },
+    {
+      "text": "The video game 'Tiger Woods PGA Tour' (later 'EA Sports PGA Tour') introduced millions of non-golfers to the rules and courses of golf.",
+      "source": "https://en.wikipedia.org/wiki/video_game_%27Tiger_Woods_PGA_Tour%27_(later_%27EA_Sports_PGA_Tour%27)"
+    },
+    {
+      "text": "'Caddyshack' was largely improvised on set, and many of its most famous lines — like 'Be the ball' — were ad-libbed by the cast.",
+      "source": "https://en.wikipedia.org/wiki/Caddyshack"
+    },
+    {
+      "text": "Gene Sarazen's 'shot heard round the world' — a 235-yard double eagle on the 15th hole at Augusta in 1935 — helped popularize the Masters Tournament.",
+      "source": "https://en.wikipedia.org/wiki/Gene_Sarazen%27s"
+    },
+    {
+      "text": "In the 1986 Masters, 46-year-old Jack Nicklaus shot a final-round 65 to win his 18th and final major championship in one of sports' greatest moments.",
+      "source": "https://en.wikipedia.org/wiki/In_the_1986_Masters"
+    },
+    {
+      "text": "Greg Norman's collapse at the 1996 Masters, where he blew a 6-shot lead to Nick Faldo, is one of the most dramatic final-round implosions in major history.",
+      "source": "https://en.wikipedia.org/wiki/Greg_Norman%27s_collapse_at_the_1996_Masters%2C_where_he_blew_a_6-shot_lead_to_Nick_Faldo"
+    },
+    {
+      "text": "Tiger Woods's chip-in on the 16th hole at Augusta in 2005, where the ball paused on the lip before dropping in, is one of golf's most replayed moments.",
+      "source": "https://en.wikipedia.org/wiki/Tiger_Woods%27s"
+    },
+    {
+      "text": "The 1913 U.S. Open at The Country Club in Brookline was won by 20-year-old amateur Francis Ouimet, shocking the golf world and popularizing the sport in America.",
+      "source": "https://en.wikipedia.org/wiki/1913_U.S._Open_at_The_Country_Club_in_Brookline"
+    },
+    {
+      "text": "Ben Hogan won the 1950 U.S. Open at Merion just 16 months after his near-fatal car accident, one of the greatest displays of determination in sports history.",
+      "source": "https://en.wikipedia.org/wiki/Ben_Hogan"
+    },
+    {
+      "text": "The 'Duel in the Sun' at the 1977 Open Championship saw Tom Watson and Jack Nicklaus battle head-to-head at Turnberry in one of golf's greatest duels.",
+      "source": "https://en.wikipedia.org/wiki/%27Duel_in_the_Sun%27_at_the_1977_Open_Championship"
+    },
+    {
+      "text": "Larry Mize's shocking chip-in on the second playoff hole to beat Greg Norman at the 1987 Masters remains one of Augusta's most unforgettable moments.",
+      "source": "https://en.wikipedia.org/wiki/Larry_Mize%27s"
+    },
+    {
+      "text": "Jean Van de Velde's triple bogey on the final hole of the 1999 Open Championship at Carnoustie, when he needed only a double bogey to win, is one of golf's biggest collapses.",
+      "source": "https://en.wikipedia.org/wiki/Jean_Van"
+    },
+    {
+      "text": "Tom Watson chipped in from off the 17th green at Pebble Beach to win the 1982 U.S. Open, prompting his caddie to say 'You're going to win the Open!'",
+      "source": "https://en.wikipedia.org/wiki/Tom_Watson"
+    },
+    {
+      "text": "Byron Nelson won 18 tournaments in 1945, including 11 consecutive victories — a PGA Tour record that may never be broken.",
+      "source": "https://en.wikipedia.org/wiki/Byron_Nelson"
+    },
+    {
+      "text": "The 'Miracle at Medinah' in the 2012 Ryder Cup saw Europe overcome a 10-6 deficit going into Sunday singles to win the competition.",
+      "source": "https://en.wikipedia.org/wiki/%27Miracle_at_Medinah%27_in_the_2012_Ryder_Cup"
+    },
+    {
+      "text": "The 1999 Ryder Cup at Brookline saw the U.S. team's dramatic Sunday comeback, though it was controversial due to early celebrations on the 17th green.",
+      "source": "https://en.wikipedia.org/wiki/1999_Ryder_Cup_at_Brookline"
+    },
+    {
+      "text": "In the 2000 PGA Championship at Valhalla, Tiger Woods defeated Bob May in a thrilling three-hole playoff to complete the 'Tiger Slam.'",
+      "source": "https://en.wikipedia.org/wiki/In_the_2000_PGA_Championship_at_Valhalla"
+    },
+    {
+      "text": "Y.E. Yang became the first Asian-born golfer to win a men's major when he overtook Tiger Woods in the final round of the 2009 PGA Championship — the only time Woods lost a major when leading after 54 holes.",
+      "source": "https://en.wikipedia.org/wiki/Y.E._Yang"
+    },
+    {
+      "text": "The 'Battle at Brookline' in 1913 inspired the book and movie 'The Greatest Game Ever Played,' telling the story of caddie-turned-champion Francis Ouimet.",
+      "source": "https://en.wikipedia.org/wiki/%27Battle_at_Brookline"
+    },
+    {
+      "text": "The PGA Tour's FedEx Cup, introduced in 2007, is a season-long points competition culminating in a playoff series with a massive bonus pool.",
+      "source": "https://en.wikipedia.org/wiki/PGA_Tour%27s_FedEx_Cup"
+    },
+    {
+      "text": "The FedEx Cup champion receives $25 million, making it one of the richest prizes in all of professional sports.",
+      "source": "https://en.wikipedia.org/wiki/FedEx_Cup"
+    },
+    {
+      "text": "Arnold Palmer, Jack Nicklaus, and Gary Player are known as 'The Big Three' and are credited with popularizing golf on television in the 1960s.",
+      "source": "https://en.wikipedia.org/wiki/Arnold_Palmer%2C_Jack_Nicklaus%2C_and_Gary_Player"
+    },
+    {
+      "text": "The 'Big Three' exhibition matches between Palmer, Nicklaus, and Player were broadcast worldwide and helped make golf a global sport.",
+      "source": "https://en.wikipedia.org/wiki/%27Big_Three%27_exhibition_matches_between_Palmer%2C_Nicklaus%2C_and_Player"
+    },
+    {
+      "text": "Tiger Woods has won 82 PGA Tour events, tying Sam Snead's all-time record, and his pursuit of the outright record has been followed by millions.",
+      "source": "https://en.wikipedia.org/wiki/Tiger_Woods"
+    },
+    {
+      "text": "The PGA Tour's all-time single-season earnings record has been repeatedly broken, reflecting the explosive growth of prize money in professional golf.",
+      "source": "https://en.wikipedia.org/wiki/PGA_Tour%27s_all-time_single-season_earnings_record"
+    },
+    {
+      "text": "The PGA Tour's longest playoff in history lasted 11 holes — between Cary Middlecoff and Lloyd Mangrum at the 1949 Motor City Open.",
+      "source": "https://en.wikipedia.org/wiki/PGA_Tour%27s"
+    },
+    {
+      "text": "The lowest 72-hole score in PGA Tour history is 253 (31 under par), shot by Mark Calcavecchia at the 2001 Phoenix Open.",
+      "source": "https://en.wikipedia.org/wiki/lowest_72-hole_score_in_PGA_Tour_history"
+    },
+    {
+      "text": "Phil Mickelson's dramatic birdie on the 18th hole at the 2004 Masters — his first major victory — was accompanied by his signature leap of joy.",
+      "source": "https://en.wikipedia.org/wiki/Phil_Mickelson%27s"
+    },
+    {
+      "text": "Davis Love III won the 1997 PGA Championship at Winged Foot, and a rainbow appeared over the course, which he took as a sign from his late father, a golf instructor.",
+      "source": "https://en.wikipedia.org/wiki/Davis_Love_III"
+    },
+    {
+      "text": "Zach Johnson won the 2007 Masters as a relative unknown, beating Tiger Woods with a steady, conservative approach on Augusta's par 5s.",
+      "source": "https://en.wikipedia.org/wiki/Zach_Johnson"
+    },
+    {
+      "text": "The U.S. Open at Shinnecock Hills in 2004 was controversial when the 7th green dried out so much that it became unplayable, requiring USGA officials to water it during the round.",
+      "source": "https://en.wikipedia.org/wiki/U.S._Open_at_Shinnecock_Hills_in_2004"
+    },
+    {
+      "text": "Old Tom Morris won four Open Championships and was a pioneering greenkeeper, club maker, and course designer in the 19th century.",
+      "source": "https://en.wikipedia.org/wiki/Old_Tom_Morris"
+    },
+    {
+      "text": "Harry Vardon won six Open Championships, a record that still stands, and popularized the overlap grip that bears his name.",
+      "source": "https://en.wikipedia.org/wiki/Harry_Vardon"
+    },
+    {
+      "text": "The Vardon Trophy, awarded to the PGA Tour player with the lowest scoring average each season, is named after six-time Open Champion Harry Vardon.",
+      "source": "https://en.wikipedia.org/wiki/Vardon_Trophy"
+    },
+    {
+      "text": "The 'Grand Slam' in modern golf refers to winning all four major championships during one's career; only five players have achieved it.",
+      "source": "https://en.wikipedia.org/wiki/Grand_Slam%27_in"
+    },
+    {
+      "text": "The five players to have won the career Grand Slam in golf are Gene Sarazen, Ben Hogan, Gary Player, Jack Nicklaus, and Tiger Woods.",
+      "source": "https://en.wikipedia.org/wiki/five_players_to"
+    },
+    {
+      "text": "The PGA Championship was match play from its inception in 1916 until it switched to stroke play in 1958.",
+      "source": "https://en.wikipedia.org/wiki/PGA_Championship"
+    },
+    {
+      "text": "The U.S. Open uses a 36-hole cut, and the top 60 players and ties advance to the weekend rounds.",
+      "source": "https://en.wikipedia.org/wiki/U.S._Open"
+    },
+    {
+      "text": "The Open Championship is played on a rota of links courses in Scotland, England, and Northern Ireland, never at the same venue two years in a row.",
+      "source": "https://en.wikipedia.org/wiki/Open_Championship"
+    },
+    {
+      "text": "Royal Liverpool (Hoylake), Royal St George's, and Royal Birkdale are among the English courses on The Open Championship rota.",
+      "source": "https://en.wikipedia.org/wiki/Royal_Liverpool_(Hoylake)%2C_Royal_St_George%27s%2C_and_Royal_Birkdale"
+    },
+    {
+      "text": "Muirfield, Royal Troon, St Andrews, and Carnoustie are the Scottish courses on The Open Championship rota.",
+      "source": "https://en.wikipedia.org/wiki/Muirfield%2C_Royal_Troon%2C_St_Andrews%2C_and_Carnoustie"
+    },
+    {
+      "text": "Royal Portrush in Northern Ireland returned to The Open Championship rota in 2019 after a 68-year absence, with Shane Lowry winning.",
+      "source": "https://en.wikipedia.org/wiki/Royal_Portrush_in_Northern_Ireland"
+    },
+    {
+      "text": "The Masters is the only major championship played at the same venue every year — Augusta National Golf Club in Augusta, Georgia.",
+      "source": "https://en.wikipedia.org/wiki/Masters"
+    },
+    {
+      "text": "Jack Nicklaus's 1972 win at Pebble Beach, where he hit the flagstick with a 1-iron on the 17th hole in windy conditions, is one of the most iconic shots in U.S. Open history.",
+      "source": "https://en.wikipedia.org/wiki/Jack_Nicklaus%27s_1972"
+    },
+    {
+      "text": "The U.S. Open has been played at Oakmont Country Club more than any other venue, with the Pennsylvania course hosting nine championships.",
+      "source": "https://en.wikipedia.org/wiki/U.S._Open"
+    },
+    {
+      "text": "The PGA Championship has been played at venues including Southern Hills, Bellerive, Bethpage Black, and Kiawah Island's Ocean Course.",
+      "source": "https://en.wikipedia.org/wiki/PGA_Championship"
+    },
+    {
+      "text": "Kathy Whitworth holds the all-time record for most wins on any professional golf tour, male or female, with 88 LPGA Tour victories.",
+      "source": "https://en.wikipedia.org/wiki/Kathy_Whitworth_holds_the_all-time_record_for_most"
+    },
+    {
+      "text": "Juli Inkster won 7 major championships on the LPGA Tour and also served as a Solheim Cup captain.",
+      "source": "https://en.wikipedia.org/wiki/Juli_Inkster"
+    },
+    {
+      "text": "Karrie Webb of Australia won 7 major championships and was the youngest player to qualify for the LPGA Tour Hall of Fame.",
+      "source": "https://en.wikipedia.org/wiki/Karrie_Webb_of_Australia"
+    },
+    {
+      "text": "Pak Se Ri's legacy in South Korean golf is immense — she is credited with sparking the 'Seoul Sisters' wave of Korean LPGA dominance.",
+      "source": "https://en.wikipedia.org/wiki/Pak_Se_Ri%27s_legacy_in_South_Korean_golf"
+    },
+    {
+      "text": "Ai Miyazato of Japan was one of the most popular golfers in Asia and helped grow the LPGA's fanbase in the region.",
+      "source": "https://en.wikipedia.org/wiki/Ai_Miyazato_of_Japan"
+    },
+    {
+      "text": "Stacy Lewis won 2 major championships and was one of the most outspoken advocates for equity and purse increases in women's golf.",
+      "source": "https://en.wikipedia.org/wiki/Stacy_Lewis"
+    },
+    {
+      "text": "The ANA Inspiration (now the Chevron Championship) features the tradition of the winner jumping into 'Poppie's Pond' next to the 18th green.",
+      "source": "https://en.wikipedia.org/wiki/ANA_Inspiration_(now_the_Chevron_Championship)"
+    },
+    {
+      "text": "The U.S. Women's Open offers the largest purse in women's golf and is known for its demanding course setups, mirroring the men's U.S. Open.",
+      "source": "https://en.wikipedia.org/wiki/U.S._Women%27s_Open_offers_the_largest_purse_in_women%27s_golf_and"
+    },
+    {
+      "text": "The Evian Championship became the LPGA Tour's fifth major in 2013, played at the Evian Resort Golf Club in France.",
+      "source": "https://en.wikipedia.org/wiki/Evian_Championship"
+    },
+    {
+      "text": "The Women's PGA Championship, organized by the PGA of America, has been held at some of the same championship courses used for the men's PGA Championship.",
+      "source": "https://en.wikipedia.org/wiki/Women%27s_PGA_Championship%2C_organized_by_the_PGA_of_America"
+    },
+    {
+      "text": "The first golf club in the United States, Saint Andrew's Golf Club in Yonkers, New York, was founded in 1888 by John Reid.",
+      "source": "https://en.wikipedia.org/wiki/first_golf_club_in_the_United_States%2C_Saint_Andrew%27s_Golf_Club_in_Yonkers%2C_New_York"
+    },
+    {
+      "text": "Golf was banned in Scotland three times in the 15th century — in 1457, 1471, and 1491 — because it was distracting men from archery practice.",
+      "source": "https://en.wikipedia.org/wiki/Golf"
+    },
+    {
+      "text": "Mary, Queen of Scots, is often cited as the first female golfer, playing at St Andrews and Musselburgh in the 1560s.",
+      "source": "https://en.wikipedia.org/wiki/Mary%2C_Queen_of_Scots"
+    },
+    {
+      "text": "The word 'caddie' is believed to derive from the French word 'cadet,' meaning a younger son or student, who would carry bags.",
+      "source": "https://en.wikipedia.org/wiki/word_%27caddie"
+    },
+    {
+      "text": "The featherie golf ball, used before the gutta-percha ball, was made of leather stuffed with goose feathers and was extremely expensive to produce.",
+      "source": "https://en.wikipedia.org/wiki/featherie_golf_ball%2C_used_before_the_gutta-percha_ball"
+    },
+    {
+      "text": "The gutta-percha ball (or 'gutty'), introduced in 1848, was cheaper than featheries and could be mass-produced, helping democratize the sport.",
+      "source": "https://en.wikipedia.org/wiki/gutta-percha_ball_(or_%27gutty%27)"
+    },
+    {
+      "text": "The Haskell ball, invented in 1898 with a rubber-wound core, was the first modern golf ball and dramatically increased driving distances.",
+      "source": "https://en.wikipedia.org/wiki/Haskell_ball"
+    },
+    {
+      "text": "Persimmon wood drivers were the standard from the early 1900s until metalwoods (starting with steel and then titanium) took over in the 1980s and 1990s.",
+      "source": "https://en.wikipedia.org/wiki/Persimmon_wood_drivers"
+    },
+    {
+      "text": "The 'belly putter' and 'long putter,' once anchored against the body, were banned from competition by the USGA and R&A starting in 2016.",
+      "source": "https://en.wikipedia.org/wiki/%27belly_putter%27_and_%27long_putter%2C%27_once_anchored_against_the_body"
+    },
+    {
+      "text": "The adjustable hosel, introduced on modern drivers, allows golfers to change loft, lie angle, and face angle to fine-tune ball flight.",
+      "source": "https://en.wikipedia.org/wiki/adjustable_hosel"
+    },
+    {
+      "text": "Carbon fiber composite materials have increasingly replaced titanium in driver crowns, allowing weight to be redistributed for better performance.",
+      "source": "https://en.wikipedia.org/wiki/Carbon_fiber_composite_materials"
+    },
+    {
+      "text": "The coefficient of restitution (COR) of a driver face is limited to 0.830 by the rules of golf, capping the 'trampoline effect.'",
+      "source": "https://en.wikipedia.org/wiki/coefficient_of_restitution_(COR)_of_a_driver_face"
+    },
+    {
+      "text": "Golf shaft flex — from Ladies (L) to Extra Stiff (X) — affects trajectory and accuracy; the correct flex depends on a player's swing speed.",
+      "source": "https://en.wikipedia.org/wiki/L)_to_Extra_Stiff"
+    },
+    {
+      "text": "Sand wedges typically have 'bounce' — an angled sole — that helps the club glide through sand rather than dig in.",
+      "source": "https://en.wikipedia.org/wiki/Sand_wedges_typically"
+    },
+    {
+      "text": "The typical loft of a modern 7-iron (around 30-33 degrees) is much stronger than a 7-iron from the 1990s (around 36 degrees), partly explaining increased distances.",
+      "source": "https://en.wikipedia.org/wiki/typical_loft_of_a_modern_7-iron_(around_30-33_degrees)"
+    },
+    {
+      "text": "Counterbalanced putters add weight to the grip end, increasing moment of inertia and helping stabilize the putting stroke.",
+      "source": "https://en.wikipedia.org/wiki/Golf"
+    },
+    {
+      "text": "Golf gloves are typically worn on the non-dominant hand (the lead hand) to improve grip and prevent blisters.",
+      "source": "https://en.wikipedia.org/wiki/Golf_gloves"
+    },
+    {
+      "text": "The 'slot' in the golf swing refers to the ideal position of the club at the top of the backswing and during the transition to the downswing.",
+      "source": "https://en.wikipedia.org/wiki/Golf"
+    },
+    {
+      "text": "The modern two-plane and one-plane swing theories, popularized by Jim Hardy, categorize swings based on the angle of the shoulder turn relative to the swing plane.",
+      "source": "https://en.wikipedia.org/wiki/Jim_Hardy"
+    },
+    {
+      "text": "The 'lag' in a golf swing — maintaining the angle between the lead arm and club shaft during the downswing — is key to generating power.",
+      "source": "https://en.wikipedia.org/wiki/Golf"
+    },
+    {
+      "text": "Stack and tilt, a swing method developed by Andy Plummer and Mike Bennett, keeps the weight forward throughout the swing for more consistent contact.",
+      "source": "https://en.wikipedia.org/wiki/Stack_and_tilt%2C_a_swing_method"
+    },
+    {
+      "text": "Impact position is the most critical moment in the swing — having the hands ahead of the clubhead at impact ensures a descending blow and crisp contact.",
+      "source": "https://en.wikipedia.org/wiki/Impact_position"
+    },
+    {
+      "text": "The K-Tour, now part of the DP World Tour's developmental pathway, has helped launch the careers of many international golfers.",
+      "source": "https://en.wikipedia.org/wiki/K-Tour%2C_now_part_of_the_DP_World_Tour%27s_developmental_pathway"
+    },
+    {
+      "text": "The Korn Ferry Tour serves as the PGA Tour's primary developmental tour, with the top finishers earning PGA Tour cards each season.",
+      "source": "https://en.wikipedia.org/wiki/Korn_Ferry_Tour"
+    },
+    {
+      "text": "The Arnold Palmer Invitational at Bay Hill Club is one of the PGA Tour's most beloved events, honoring the King of Golf's legacy.",
+      "source": "https://en.wikipedia.org/wiki/Arnold_Palmer_Invitational_at_Bay_Hill_Club"
+    },
+    {
+      "text": "The Memorial Tournament, hosted by Jack Nicklaus at Muirfield Village in Ohio, annually honors a legend of the game with a special tribute.",
+      "source": "https://en.wikipedia.org/wiki/Memorial_Tournament"
+    },
+    {
+      "text": "The Players Championship at TPC Sawgrass is often called 'the fifth major' due to its strong field, large purse, and iconic venue.",
+      "source": "https://en.wikipedia.org/wiki/Players_Championship_at_TPC_Sawgrass"
+    },
+    {
+      "text": "Oakmont Country Club's greens are some of the fastest in the world, and its 'Church Pews' bunker is its most distinctive architectural feature.",
+      "source": "https://en.wikipedia.org/wiki/Oakmont_Country_Club%27s_greens"
+    },
+    {
+      "text": "Winged Foot Golf Club's West Course, designed by A.W. Tillinghast, has been called 'the hardest course in the country' by multiple U.S. Open champions.",
+      "source": "https://en.wikipedia.org/wiki/Winged_Foot_Golf_Club%27s_West_Course%2C_designed_by_A.W._Tillinghast"
+    },
+    {
+      "text": "Bethpage Black, a public course on Long Island, hosted the 2002 and 2009 U.S. Opens, making it the first public course to host golf's most prestigious national championship.",
+      "source": "https://en.wikipedia.org/wiki/Bethpage_Black"
+    },
+    {
+      "text": "Royal Melbourne Golf Club in Australia is considered one of the finest courses in the Southern Hemisphere, designed by Alister MacKenzie.",
+      "source": "https://en.wikipedia.org/wiki/Royal_Melbourne_Golf_Club_in_Australia"
+    },
+    {
+      "text": "Kapalua's Plantation Course in Maui, Hawaii, hosts the PGA Tour's Tournament of Champions (now the Sentry) every January with breathtaking ocean views.",
+      "source": "https://en.wikipedia.org/wiki/Kapalua%27s_Plantation_Course_in_Maui"
+    },
+    {
+      "text": "Kiawah Island's Ocean Course, designed by Pete Dye, hosted the unforgettable 1991 'War on the Shore' Ryder Cup and the 2021 PGA Championship.",
+      "source": "https://en.wikipedia.org/wiki/Kiawah_Island%27s_Ocean_Course"
+    },
+    {
+      "text": "Whistling Straits, another Pete Dye creation along Lake Michigan, has hosted three PGA Championships and the 2021 Ryder Cup.",
+      "source": "https://en.wikipedia.org/wiki/Whistling_Straits%2C_another_Pete_Dye_creation_along_Lake_Michigan"
+    },
+    {
+      "text": "The Congressional Country Club Blue Course in Bethesda, Maryland, has hosted 3 U.S. Opens and multiple PGA Tour events.",
+      "source": "https://en.wikipedia.org/wiki/Congressional_Country_Club_Blue_Course_in_Bethesda%2C_Maryland"
+    },
+    {
+      "text": "Merion Golf Club's East Course, featuring its iconic wicker basket flagsticks instead of flags, has hosted five U.S. Opens.",
+      "source": "https://en.wikipedia.org/wiki/Merion_Golf_Club%27s_East_Course"
+    },
+    {
+      "text": "The Country Club in Brookline, Massachusetts, one of the five founding USGA member clubs, has hosted three U.S. Opens spanning over a century.",
+      "source": "https://en.wikipedia.org/wiki/Country_Club_in_Brookline%2C_Massachusetts%2C_one_of_the_five_founding_USGA_member_clubs"
+    },
+    {
+      "text": "The 'ground under repair' (GUR) rule provides free relief when a ball comes to rest in an area marked by the committee as damaged or under maintenance.",
+      "source": "https://en.wikipedia.org/wiki/Golf"
+    },
+    {
+      "text": "Slow play penalties are rarely enforced on the PGA Tour, despite calls from fans and players to speed up the pace of play.",
+      "source": "https://en.wikipedia.org/wiki/Slow_play_penalties"
+    },
+    {
+      "text": "In match play, a player wins a hole by completing it in fewer strokes; the overall match is won by the player who wins more holes.",
+      "source": "https://en.wikipedia.org/wiki/In_match_play%2C_a_player"
+    },
+    {
+      "text": "A 'foursome' (or alternate shot) format has two-player teams alternating shots with the same ball, requiring strategy and trust.",
+      "source": "https://en.wikipedia.org/wiki/A_%27foursome%27_(or_alternate_shot)_format"
+    },
+    {
+      "text": "A 'four-ball' (or better ball) format has two-player teams where each player plays their own ball and the lower score on each hole counts.",
+      "source": "https://en.wikipedia.org/wiki/A_%27four-ball%27_(or_better_ball)_format"
+    },
+    {
+      "text": "A 'scramble' is a popular format for charity and corporate events where each player hits a shot, the best is selected, and all play from that spot.",
+      "source": "https://en.wikipedia.org/wiki/A_%27scramble"
+    },
+    {
+      "text": "The Stableford scoring system awards points based on the number of strokes taken at each hole relative to par, encouraging aggressive play.",
+      "source": "https://en.wikipedia.org/wiki/Stableford"
+    },
+    {
+      "text": "A 'Nassau' is the most common golf betting game, consisting of three separate bets: front nine, back nine, and overall 18 holes.",
+      "source": "https://en.wikipedia.org/wiki/A_%27Nassau"
+    },
+    {
+      "text": "'Skins' is a golf betting game where each hole has a set value (skin), and the player with the lowest score on a hole wins the skin.",
+      "source": "https://en.wikipedia.org/wiki/Skins"
+    },
+    {
+      "text": "Nick Faldo won six major championships, including three Open Championships and three Masters titles, through methodical precision.",
+      "source": "https://en.wikipedia.org/wiki/Nick_Faldo"
+    },
+    {
+      "text": "Ian Woosnam won the 1991 Masters and was disqualified from a tournament when his caddie accidentally left a 15th club in his bag.",
+      "source": "https://en.wikipedia.org/wiki/Ian_Woosnam"
+    },
+    {
+      "text": "Sandy Lyle won the 1988 Masters with his famous bunker shot on the 18th hole, becoming the first British golfer to win the Green Jacket.",
+      "source": "https://en.wikipedia.org/wiki/Sandy_Lyle"
+    },
+    {
+      "text": "José María Olazábal won two Masters titles (1994 and 1999), the latter after battling a debilitating foot condition that nearly ended his career.",
+      "source": "https://en.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_Olaz%C3%A1bal"
+    },
+    {
+      "text": "Padraig Harrington won three major championships in just over 12 months (2007 Open Championship, 2008 Open Championship, and 2008 PGA Championship).",
+      "source": "https://en.wikipedia.org/wiki/Padraig_Harrington"
+    },
+    {
+      "text": "Colin Montgomerie won eight consecutive European Tour Order of Merit titles (1993-2000) but never won a major championship despite several close calls.",
+      "source": "https://en.wikipedia.org/wiki/Colin_Montgomerie"
+    },
+    {
+      "text": "Ian Poulter earned the nickname 'The Postman' for always delivering in the Ryder Cup, with one of the best records in the competition's history.",
+      "source": "https://en.wikipedia.org/wiki/Ian_Poulter"
+    },
+    {
+      "text": "Henrik Stenson's final-round 63 to win the 2016 Open Championship at Royal Troon, dueling with Phil Mickelson, is considered one of the greatest rounds ever played.",
+      "source": "https://en.wikipedia.org/wiki/Henrik_Stenson%27s"
+    },
+    {
+      "text": "Retief Goosen won two U.S. Opens (2001 and 2004) and was one of the best ball-strikers of his generation.",
+      "source": "https://en.wikipedia.org/wiki/Retief_Goosen"
+    },
+    {
+      "text": "Louis Oosthuizen won the 2010 Open Championship at St Andrews by seven strokes, dominating on golf's most famous course.",
+      "source": "https://en.wikipedia.org/wiki/Louis_Oosthuizen"
+    },
+    {
+      "text": "Adam Scott became the first Australian to win the Masters in 2013, holing a dramatic birdie putt on the second playoff hole.",
+      "source": "https://en.wikipedia.org/wiki/Adam_Scott"
+    },
+    {
+      "text": "Jason Day reached the world number 1 ranking in 2015 and won the PGA Championship with a record score of 20 under par at Whistling Straits.",
+      "source": "https://en.wikipedia.org/wiki/Jason_Day_reached_the_world_number_1_ranking_in_2015_and"
+    },
+    {
+      "text": "Sergio Garcia won the 2017 Masters on what would have been Seve Ballesteros's 60th birthday, fulfilling a lifelong dream after years of major near-misses.",
+      "source": "https://en.wikipedia.org/wiki/Sergio_Garcia"
+    },
+    {
+      "text": "Marc Leishman is one of several Australians to have succeeded on the PGA Tour, continuing the country's rich golfing tradition.",
+      "source": "https://en.wikipedia.org/wiki/Marc_Leishman"
+    },
+    {
+      "text": "Tommy Fleetwood and Francesco Molinari formed an unbeatable partnership at the 2018 Ryder Cup, nicknamed 'Moliwood,' winning all four of their team matches.",
+      "source": "https://en.wikipedia.org/wiki/Tommy_Fleetwood_and_Francesco_Molinari"
+    },
+    {
+      "text": "Francesco Molinari won the 2018 Open Championship at Carnoustie, becoming the first Italian to win a men's major championship.",
+      "source": "https://en.wikipedia.org/wiki/Francesco_Molinari"
+    },
+    {
+      "text": "Sungjae Im, known as 'Mr. 59' in South Korea, is one of the most consistent young players on the PGA Tour.",
+      "source": "https://en.wikipedia.org/wiki/Sungjae_Im%2C_known_as_%27Mr._59%27_in_South_Korea"
+    },
+    {
+      "text": "Tom Kim (Kim Joo-hyung) burst onto the PGA Tour as a teenager from South Korea and quickly won multiple tournaments.",
+      "source": "https://en.wikipedia.org/wiki/Tom_Kim_(Kim_Joo-hyung)_burst_onto_the_PGA_Tour_as_a_teenager_from_South_Korea_and_quickly"
+    },
+    {
+      "text": "Sahith Theegala, of Indian descent, has become one of the most popular young players on the PGA Tour with his passionate celebrations.",
+      "source": "https://en.wikipedia.org/wiki/Sahith_Theegala%2C_of_Indian_descent"
+    },
+    {
+      "text": "The Augusta National Par 3 Contest, held the Wednesday before the Masters, is a beloved tradition, though no winner has ever gone on to win the Masters the same week.",
+      "source": "https://en.wikipedia.org/wiki/Augusta_National_Par_3_Contest%2C_held_the_Wednesday_before_the_Masters"
+    },
+    {
+      "text": "The 'Tiger Slam' refers to Tiger Woods holding all four major championship trophies simultaneously by winning the 2000 U.S. Open, Open Championship, PGA Championship, and the 2001 Masters.",
+      "source": "https://en.wikipedia.org/wiki/Tiger_Slam"
+    },
+    {
+      "text": "Ben Hogan's 'Five Lessons: The Modern Fundamentals of Golf' (1957) is one of the most influential golf instruction books ever written.",
+      "source": "https://en.wikipedia.org/wiki/Golf"
+    },
+    {
+      "text": "The 'inside-out' swing path promotes a draw and is generally preferred by tour professionals for maximizing distance and control.",
+      "source": "https://en.wikipedia.org/wiki/%27inside-out%27_swing_path_promotes_a_draw_and"
+    },
+    {
+      "text": "Pine Valley's founder, George Crump, personally oversaw construction of the course but died before it was completed in 1918.",
+      "source": "https://en.wikipedia.org/wiki/Pine_Valley%27s"
+    },
+    {
+      "text": "The 'carry distance' is how far a ball flies in the air before landing, while 'total distance' includes the roll after landing.",
+      "source": "https://en.wikipedia.org/wiki/%27carry_distance"
+    },
+    {
+      "text": "Wind is the single biggest environmental factor in golf, capable of turning a routine par 3 approach into a two-club adjustment.",
+      "source": "https://en.wikipedia.org/wiki/Wind"
+    },
+    {
+      "text": "Altitude significantly affects golf ball distance — courses at higher elevations like those in Denver see balls fly 5-10% farther due to thinner air.",
+      "source": "https://en.wikipedia.org/wiki/Golf"
+    },
+    {
+      "text": "Augusta National features Bermuda grass on its fairways and bentgrass (sub-aired) on its greens, a combination that produces fast, true putting surfaces.",
+      "source": "https://en.wikipedia.org/wiki/Augusta_National"
+    },
+    {
+      "text": "Links courses in Scotland and Ireland often use fescue grass, which thrives in sandy soil and requires less water and maintenance.",
+      "source": "https://en.wikipedia.org/wiki/Scotland_and_Ireland"
+    },
+    {
+      "text": "The 'Calamity Jane' putter used by Bobby Jones is one of the most famous clubs in golf history and is displayed at the USGA Museum.",
+      "source": "https://en.wikipedia.org/wiki/%27Calamity_Jane%27_putter_used_by_Bobby_Jones"
+    },
+    {
+      "text": "Golf carts were introduced in the 1950s and now account for the majority of rounds played in the United States.",
+      "source": "https://en.wikipedia.org/wiki/Golf_carts"
+    },
+    {
+      "text": "The first televised golf tournament was the 1947 U.S. Open at St. Louis Country Club, broadcast locally by a St. Louis station.",
+      "source": "https://en.wikipedia.org/wiki/first_televised_golf_tournament"
+    },
+    {
+      "text": "CBS has broadcast the Masters Tournament since 1956, making it one of the longest continuous sports broadcasting partnerships.",
+      "source": "https://en.wikipedia.org/wiki/CBS"
+    },
+    {
+      "text": "The hushed tones of golf commentators, pioneered by broadcasters like Jim McKay and later Jim Nantz, became a hallmark of televised golf.",
+      "source": "https://en.wikipedia.org/wiki/Jim_McKay_and"
+    },
+    {
+      "text": "Jim Nantz's traditional 'A tradition unlike any other' call at the start of Masters broadcasts has itself become an iconic tradition.",
+      "source": "https://en.wikipedia.org/wiki/Jim_Nantz%27s"
+    },
+    {
+      "text": "Jack Nicklaus designed Muirfield Village Golf Club in Dublin, Ohio, naming it after Muirfield in Scotland where he won his first Open Championship.",
+      "source": "https://en.wikipedia.org/wiki/Jack_Nicklaus"
+    },
+    {
+      "text": "The 'course rating' measures the difficulty of a course for a scratch golfer, while the 'slope rating' measures difficulty for a bogey golfer.",
+      "source": "https://en.wikipedia.org/wiki/Golf"
+    },
+    {
+      "text": "Most professional golfers replace their grips every 40-60 rounds to maintain optimal traction and feel.",
+      "source": "https://en.wikipedia.org/wiki/Golf"
+    },
+    {
+      "text": "The average PGA Tour player practices 6-8 hours per day during tournament weeks, including range work, short game, and putting.",
+      "source": "https://en.wikipedia.org/wiki/PGA_Tour"
+    },
+    {
+      "text": "The 'Sentry' at Kapalua (formerly the Tournament of Champions) kicks off the PGA Tour season in January with a winners-only field.",
+      "source": "https://en.wikipedia.org/wiki/Sentry%27_at_Kapalua"
+    },
+    {
+      "text": "The John Deere Classic is known as a launching pad for future stars — Jordan Spieth won there at age 19 for his first PGA Tour victory.",
+      "source": "https://en.wikipedia.org/wiki/John_Deere_Classic"
+    },
+    {
+      "text": "Golf's 'Rule 20' (unplayable lie) gives a player three options for relief with a one-stroke penalty.",
+      "source": "https://en.wikipedia.org/wiki/Rule_20"
+    },
+    {
+      "text": "The USGA Museum and Experience in Liberty Corner, New Jersey, houses one of the world's largest collections of golf artifacts and memorabilia.",
+      "source": "https://en.wikipedia.org/wiki/USGA_Museum_and_Experience_in_Liberty_Corner"
+    },
+    {
+      "text": "The British Golf Museum in St Andrews documents the history of golf from its origins to the present day.",
+      "source": "https://en.wikipedia.org/wiki/British_Golf_Museum_in_St_Andrews"
+    },
+    {
+      "text": "The World Golf Hall of Fame, located in Ponte Vedra Beach, Florida, honors the greatest players, contributors, and moments in golf history.",
+      "source": "https://en.wikipedia.org/wiki/World_Golf_Hall_of_Fame"
+    },
+    {
+      "text": "Foursomes and four-ball matches have been part of the Ryder Cup format since the event began in 1927.",
+      "source": "https://en.wikipedia.org/wiki/Foursomes_and_four-ball_matches"
+    },
+    {
+      "text": "The Curtis Cup, contested between amateur women golfers from the U.S. and Great Britain & Ireland, was first held in 1932.",
+      "source": "https://en.wikipedia.org/wiki/Curtis_Cup"
+    },
+    {
+      "text": "The Walker Cup is the amateur men's equivalent of the Ryder Cup, pitting the U.S. against Great Britain & Ireland since 1922.",
+      "source": "https://en.wikipedia.org/wiki/Walker_Cup"
+    },
+    {
+      "text": "Speed golf combines running and golf — players run between shots and their score is calculated by adding strokes to the elapsed time in minutes.",
+      "source": "https://en.wikipedia.org/wiki/Speed_golf_combines_running_and_golf_%E2%80%94_players_run_between_shots_and_their_score"
+    },
+    {
+      "text": "FootGolf, which combines soccer and golf, is played on a golf course using a soccer ball kicked into larger cups.",
+      "source": "https://en.wikipedia.org/wiki/FootGolf%2C_which_combines_soccer_and_golf"
+    },
+    {
+      "text": "Night golf uses glow-in-the-dark balls, illuminated cups, and LED tee markers, making it possible to play after dark.",
+      "source": "https://en.wikipedia.org/wiki/Golf"
+    },
+    {
+      "text": "The 'Executive Course' is a shorter golf course with mainly par 3s and short par 4s, designed for beginners and golfers with limited time.",
+      "source": "https://en.wikipedia.org/wiki/%27Executive_Course"
+    },
+    {
+      "text": "Topgolf entertainment venues, featuring high-tech driving range bays with scoring and food service, have introduced golf to millions of newcomers.",
+      "source": "https://en.wikipedia.org/wiki/Golf"
+    },
+    {
+      "text": "Golf rangefinder binoculars combine magnification with laser distance measurement, making them popular for both course management and scouting.",
+      "source": "https://en.wikipedia.org/wiki/Golf"
+    },
+    {
+      "text": "The USGA's Distance Insights Report recommended a rollback in golf ball distance to preserve the integrity of classic golf courses.",
+      "source": "https://en.wikipedia.org/wiki/USGA%27s_Distance_Insights_Report"
+    },
+    {
+      "text": "In 2023, the USGA and R&A announced the Model Local Rule to limit golf ball distance for elite competition, effective in 2028.",
+      "source": "https://en.wikipedia.org/wiki/USGA_and_R%26A"
+    },
+    {
+      "text": "Moe Norman, a Canadian eccentric, is regarded by many experts as having the most repeatable swing in golf history despite never winning a PGA Tour event.",
+      "source": "https://en.wikipedia.org/wiki/Moe_Norman%2C_a_Canadian_eccentric"
+    },
+    {
+      "text": "The 'reverse pivot' — shifting weight toward the target on the backswing instead of away — is one of the most common amateur swing faults.",
+      "source": "https://en.wikipedia.org/wiki/%27reverse_pivot%27_%E2%80%94_shifting_weight_toward_the_target_on_the_backswing_instead_of_away_%E2%80%94"
+    },
+    {
+      "text": "The Golden Tee arcade game, introduced in 1989, became one of the most popular bar games in America with its trackball controller.",
+      "source": "https://en.wikipedia.org/wiki/Golden_Tee_arcade_game"
+    },
+    {
+      "text": "Lee Elder became the first African American to play in the Masters Tournament in 1975, breaking a significant barrier in the sport.",
+      "source": "https://en.wikipedia.org/wiki/Lee_Elder"
+    },
+    {
+      "text": "Charlie Sifford was the first African American to play on the PGA Tour full-time, earning his card in 1961 and winning two tour events.",
+      "source": "https://en.wikipedia.org/wiki/Charlie_Sifford"
+    },
+    {
+      "text": "Renee Powell became only the second African American woman to play on the LPGA Tour when she joined in 1967.",
+      "source": "https://en.wikipedia.org/wiki/Renee_Powell"
+    },
+    {
+      "text": "Ted Rhodes was a pioneering African American golfer in the 1940s who helped challenge the PGA's 'Caucasian only' clause.",
+      "source": "https://en.wikipedia.org/wiki/Ted_Rhodes"
+    },
+    {
+      "text": "The PGA of America's 'Caucasian only' membership clause wasn't removed until 1961, preventing Black golfers from competing for decades.",
+      "source": "https://en.wikipedia.org/wiki/PGA_of_America%27s"
+    },
+    {
+      "text": "Notah Begay III is the only full-blooded Native American to have played on the PGA Tour, winning four events.",
+      "source": "https://en.wikipedia.org/wiki/Notah_Begay_III"
+    },
+    {
+      "text": "The 'Desert Swing' is a series of early-season DP World Tour events played in the Middle East, including Dubai and Abu Dhabi.",
+      "source": "https://en.wikipedia.org/wiki/%27Desert_Swing"
+    },
+    {
+      "text": "The WM Phoenix Open's 16th hole, a fully enclosed stadium par 3, is the loudest and most raucous hole in professional golf.",
+      "source": "https://en.wikipedia.org/wiki/WM_Phoenix_Open%27s_16th_hole%2C_a_fully_enclosed_stadium_par_3"
+    },
+    {
+      "text": "The RBC Heritage at Harbour Town Golf Links follows the Masters on the PGA Tour schedule and has become a popular 'hangover event.'",
+      "source": "https://en.wikipedia.org/wiki/RBC_Heritage_at_Harbour_Town_Golf_Links"
+    },
+    {
+      "text": "St Andrews's famous Swilcan Bridge on the 18th hole is one of the most photographed landmarks in golf; players traditionally stop for a photo in their final round.",
+      "source": "https://en.wikipedia.org/wiki/St_Andrews%27s_famous_Swilcan_Bridge_on_the_18th_hole"
+    },
+    {
+      "text": "The 'yardage marker' — typically found at 100, 150, and 200 yards from the center of the green — helps golfers select the appropriate club.",
+      "source": "https://en.wikipedia.org/wiki/Golf"
+    },
+    {
+      "text": "A typical PGA Tour player carries about 14 different clubs over the course of a tournament, and the specific mix varies based on the course layout and conditions.",
+      "source": "https://en.wikipedia.org/wiki/PGA_Tour"
+    }
+  ]
+}

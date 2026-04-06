@@ -1,0 +1,1710 @@
+{
+  "hobby": "Science Fiction",
+  "facts": [
+    {
+      "text": "Isaac Asimov published over 500 books in his lifetime, spanning science fiction, mystery, and popular science.",
+      "source": "https://en.wikipedia.org/wiki/Isaac_Asimov"
+    },
+    {
+      "text": "The term 'science fiction' was popularized by Hugo Gernsback in the late 1920s, though he initially called it 'scientifiction.'",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/term_%27science_fiction"
+    },
+    {
+      "text": "Jules Verne's 1870 novel 'Twenty Thousand Leagues Under the Sea' predicted the development of electrically powered submarines.",
+      "month": 6,
+      "day": 20,
+      "source": "https://en.wikipedia.org/wiki/Jules_Verne%27s_1870"
+    },
+    {
+      "text": "Arthur C. Clarke proposed the concept of geostationary communication satellites in a 1945 paper, decades before they became reality.",
+      "source": "https://en.wikipedia.org/wiki/Arthur_C._Clarke"
+    },
+    {
+      "text": "Frank Herbert's 'Dune' was rejected by over 20 publishers before being accepted by Chilton, a company known for publishing auto repair manuals.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Frank_Herbert%27s_%27Dune"
+    },
+    {
+      "text": "The Hugo Award for science fiction is named after Hugo Gernsback, the founder of 'Amazing Stories' magazine.",
+      "source": "https://en.wikipedia.org/wiki/Hugo_Award_for_science_fiction"
+    },
+    {
+      "text": "Ray Bradbury wrote the first draft of 'Fahrenheit 451' on a coin-operated typewriter in the UCLA library basement.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Ray_Bradbury"
+    },
+    {
+      "text": "Philip K. Dick's novel 'Do Androids Dream of Electric Sheep?' explored the philosophical question of what makes someone human.",
+      "source": "https://en.wikipedia.org/wiki/Philip_K._Dick%27s"
+    },
+    {
+      "text": "H.G. Wells published 'The Time Machine' in 1895, popularizing the concept of mechanical time travel in fiction.",
+      "month": 5,
+      "day": 7,
+      "source": "https://en.wikipedia.org/wiki/H.G._Wells"
+    },
+    {
+      "text": "The Fermi Paradox asks why, given the high probability of extraterrestrial civilizations, we have found no evidence of them.",
+      "source": "https://en.wikipedia.org/wiki/Fermi_Paradox"
+    },
+    {
+      "text": "William Gibson coined the term 'cyberspace' in his 1982 short story 'Burning Chrome,' two years before using it in 'Neuromancer.'",
+      "source": "https://en.wikipedia.org/wiki/William_Gibson"
+    },
+    {
+      "text": "Ursula K. Le Guin's 'The Left Hand of Darkness' explored a society where individuals have no fixed gender.",
+      "month": 3,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/Ursula_K._Le_Guin%27s_%27The_Left_Hand_of_Darkness%27_explored_a_society_where_individuals"
+    },
+    {
+      "text": "Isaac Asimov formulated the Three Laws of Robotics in his 1942 short story 'Runaround.'",
+      "source": "https://en.wikipedia.org/wiki/Isaac_Asimov"
+    },
+    {
+      "text": "The Drake Equation estimates the number of active communicative extraterrestrial civilizations in the Milky Way galaxy.",
+      "source": "https://en.wikipedia.org/wiki/Drake_Equation"
+    },
+    {
+      "text": "Neal Stephenson's 1992 novel 'Snow Crash' introduced the concept of the 'Metaverse,' a virtual reality-based successor to the internet.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Neal_Stephenson%27s_1992_novel_%27Snow_Crash"
+    },
+    {
+      "text": "Robert Heinlein's 1961 novel 'Stranger in a Strange Land' introduced the word 'grok' into the English language.",
+      "source": "https://en.wikipedia.org/wiki/Robert_Heinlein%27s_1961_novel_%27Stranger_in_a_Strange_Land"
+    },
+    {
+      "text": "A Dyson sphere is a hypothetical megastructure that completely encompasses a star to capture its energy output.",
+      "source": "https://en.wikipedia.org/wiki/A_Dyson_sphere"
+    },
+    {
+      "text": "N.K. Jemisin became the first author to win the Hugo Award for Best Novel three years in a row, for her Broken Earth trilogy.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/N.K._Jemisin"
+    },
+    {
+      "text": "The concept of a space elevator was first proposed by Konstantin Tsiolkovsky in 1895, inspired by the Eiffel Tower.",
+      "source": "https://en.wikipedia.org/wiki/concept_of_a_space_elevator"
+    },
+    {
+      "text": "Edward Bellamy's 1888 novel 'Looking Backward' predicted the widespread use of credit cards over a century before they became common.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Edward_Bellamy%27s_1888"
+    },
+    {
+      "text": "Liu Cixin's 'The Three-Body Problem' became the first Asian novel to win the Hugo Award for Best Novel in 2015.",
+      "month": 8,
+      "day": 22,
+      "source": "https://en.wikipedia.org/wiki/Liu_Cixin%27s_%27The_Three-Body_Problem"
+    },
+    {
+      "text": "The Turing test, proposed by Alan Turing in 1950, measures a machine's ability to exhibit intelligent behavior indistinguishable from a human.",
+      "source": "https://en.wikipedia.org/wiki/Turing"
+    },
+    {
+      "text": "Aldous Huxley's 'Brave New World' predicted the use of antidepressant drugs, genetic engineering, and reproductive technology.",
+      "month": 2,
+      "day": 4,
+      "source": "https://en.wikipedia.org/wiki/Aldous_Huxley%27s"
+    },
+    {
+      "text": "WorldCon, the World Science Fiction Convention, has been held annually since 1939 and is the venue for the Hugo Awards.",
+      "source": "https://en.wikipedia.org/wiki/WorldCon%2C_the_World_Science_Fiction_Convention"
+    },
+    {
+      "text": "The manga 'Akira' by Katsuhiro Otomo is set in a post-apocalyptic Neo-Tokyo in the year 2019.",
+      "source": "https://en.wikipedia.org/wiki/manga_%27Akira%27_by_Katsuhiro_Otomo"
+    },
+    {
+      "text": "Arthur C. Clarke's 'Profiles of the Future' established Clarke's Three Laws, the most famous being 'Any sufficiently advanced technology is indistinguishable from magic.'",
+      "source": "https://en.wikipedia.org/wiki/Arthur_C._Clarke%27s"
+    },
+    {
+      "text": "Philip K. Dick experienced what he believed were mystical visions in 1974, which he spent the rest of his life trying to understand.",
+      "source": "https://en.wikipedia.org/wiki/Philip_K._Dick_experienced_what_he_believed"
+    },
+    {
+      "text": "The Nebula Award has been given by the Science Fiction and Fantasy Writers of America since 1966.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Nebula_Award"
+    },
+    {
+      "text": "Jules Verne's 'From the Earth to the Moon' (1865) accurately predicted that the American space launch site would be in Florida.",
+      "source": "https://en.wikipedia.org/wiki/Jules_Verne%27s"
+    },
+    {
+      "text": "Ted Chiang's short story 'Story of Your Life' explores the Sapir-Whorf hypothesis through contact with an alien species.",
+      "source": "https://en.wikipedia.org/wiki/Ted_Chiang%27s"
+    },
+    {
+      "text": "H.G. Wells predicted the atomic bomb in his 1914 novel 'The World Set Free,' coining the term 'atomic bomb.'",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/H.G._Wells_predicted_the_atomic_bomb_in_his_1914_novel_%27The_World"
+    },
+    {
+      "text": "The genre of steampunk imagines a world powered by steam technology, often set in a Victorian-era aesthetic.",
+      "source": "https://en.wikipedia.org/wiki/genre_of_steampunk_imagines_a_world_powered_by_steam_technology%2C_often"
+    },
+    {
+      "text": "Orson Scott Card's 'Ender's Game' was originally published as a short story in 1977 before being expanded into a novel in 1985.",
+      "month": 1,
+      "day": 15,
+      "source": "https://en.wikipedia.org/wiki/Orson_Scott_Card%27s_%27Ender%27s_Game"
+    },
+    {
+      "text": "Isaac Asimov was born in Petrovichi, Russia, and emigrated to the United States at the age of three.",
+      "month": 1,
+      "day": 2,
+      "source": "https://en.wikipedia.org/wiki/Isaac_Asimov"
+    },
+    {
+      "text": "Andy Weir self-published 'The Martian' on his website one chapter at a time, and it later became a bestselling novel.",
+      "source": "https://en.wikipedia.org/wiki/Andy_Weir_self-published_%27The_Martian%27_on_his_website_one_chapter_at_a_time%2C_and_it_later"
+    },
+    {
+      "text": "The term 'robot' was introduced by Czech playwright Karel Čapek in his 1920 play 'R.U.R. (Rossum's Universal Robots).'",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/term_%27robot"
+    },
+    {
+      "text": "Ray Bradbury never learned to drive a car and instead relied on public transportation and his bicycle his entire life.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Ray_Bradbury"
+    },
+    {
+      "text": "The first science fiction magazine, 'Amazing Stories,' was founded by Hugo Gernsback in April 1926.",
+      "month": 4,
+      "day": 5,
+      "source": "https://en.wikipedia.org/wiki/first_science_fiction_magazine%2C_%27Amazing_Stories"
+    },
+    {
+      "text": "A generation ship is a hypothetical starship designed to travel for centuries, with successive generations living and dying aboard.",
+      "source": "https://en.wikipedia.org/wiki/A_generation_ship"
+    },
+    {
+      "text": "Becky Chambers' 'The Long Way to a Small, Angry Planet' was initially self-published through a crowdfunding campaign.",
+      "source": "https://en.wikipedia.org/wiki/Becky_Chambers%27_%27The_Long_Way_to_a_Small%2C_Angry_Planet"
+    },
+    {
+      "text": "George Orwell's '1984' introduced concepts like Big Brother, thoughtcrime, and Newspeak into popular culture.",
+      "month": 6,
+      "day": 8,
+      "source": "https://en.wikipedia.org/wiki/George_Orwell%27s_%271984"
+    },
+    {
+      "text": "The Philip K. Dick Award is given annually for the best original science fiction paperback published in the United States.",
+      "source": "https://en.wikipedia.org/wiki/Philip_K._Dick_Award"
+    },
+    {
+      "text": "Arthur C. Clarke once said that the only way to discover the limits of the possible is to go beyond them into the impossible.",
+      "source": "https://en.wikipedia.org/wiki/Arthur_C._Clarke_once"
+    },
+    {
+      "text": "The concept of terraforming — transforming a planet's atmosphere to make it habitable — was coined by Jack Williamson in 1942.",
+      "source": "https://en.wikipedia.org/wiki/concept_of_terraforming_%E2%80%94_transforming_a_planet%27s_atmosphere_to_make_it_habitable_%E2%80%94"
+    },
+    {
+      "text": "Hugo Gernsback's 'Ralph 124C 41+' (1911) predicted television, radar, and synthetic fabrics.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Hugo_Gernsback%27s"
+    },
+    {
+      "text": "The first WorldCon was held in New York City in 1939, attended by about 200 fans.",
+      "month": 7,
+      "day": 2,
+      "source": "https://en.wikipedia.org/wiki/first_WorldCon"
+    },
+    {
+      "text": "Octavia Butler was the first science fiction writer to receive a MacArthur Foundation 'Genius Grant.'",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Octavia_Butler"
+    },
+    {
+      "text": "The 'grandfather paradox' is one of the most famous thought experiments in time travel theory.",
+      "source": "https://en.wikipedia.org/wiki/%27grandfather_paradox"
+    },
+    {
+      "text": "Robert Heinlein is often called the 'Dean of Science Fiction' and was one of the first sci-fi authors to break into mainstream publishing.",
+      "source": "https://en.wikipedia.org/wiki/Robert_Heinlein"
+    },
+    {
+      "text": "Heavy Metal magazine, founded in 1977, became one of the most influential sci-fi and fantasy comics publications worldwide.",
+      "month": 4,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/Heavy_Metal_magazine"
+    },
+    {
+      "text": "The concept of parallel universes in quantum mechanics inspired the 'many-worlds' interpretation popular in sci-fi.",
+      "source": "https://en.wikipedia.org/wiki/concept_of_parallel_universes_in_quantum_mechanics"
+    },
+    {
+      "text": "Frank Herbert spent six years researching and writing 'Dune,' which drew on ecology, religion, and Middle Eastern culture.",
+      "source": "https://en.wikipedia.org/wiki/Frank_Herbert"
+    },
+    {
+      "text": "The Arthur C. Clarke Award for best science fiction novel published in the UK has been given annually since 1987.",
+      "source": "https://en.wikipedia.org/wiki/Arthur_C._Clarke_Award_for_best_science_fiction_novel_published_in_the_UK"
+    },
+    {
+      "text": "Mary Shelley's 'Frankenstein' (1818) is widely considered the first true science fiction novel.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Mary_Shelley%27s_%27Frankenstein%27_(1818)"
+    },
+    {
+      "text": "NASA has cited Arthur C. Clarke and other science fiction authors as inspiring real-world space exploration programs.",
+      "source": "https://en.wikipedia.org/wiki/NASA"
+    },
+    {
+      "text": "Stanisław Lem's 'Solaris' explores the limits of human understanding when confronted with a truly alien intelligence.",
+      "source": "https://en.wikipedia.org/wiki/Science_Fiction"
+    },
+    {
+      "text": "The Three Laws of Robotics are: a robot may not injure a human, must obey humans, and must protect its own existence.",
+      "source": "https://en.wikipedia.org/wiki/Three_Laws_of_Robotics"
+    },
+    {
+      "text": "William Gibson wrote 'Neuromancer' on a manual typewriter, despite the novel being about advanced computer networks.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/William_Gibson"
+    },
+    {
+      "text": "The concept of faster-than-light travel remains theoretical, with ideas like warp drives and wormholes explored in both physics and fiction.",
+      "source": "https://en.wikipedia.org/wiki/Science_Fiction"
+    },
+    {
+      "text": "Philip K. Dick's works have been adapted into numerous films, though many deviate significantly from his original stories.",
+      "source": "https://en.wikipedia.org/wiki/Philip_K._Dick%27s_works"
+    },
+    {
+      "text": "The first Nebula Awards ceremony was held in 1966, honoring the best science fiction and fantasy published in 1965.",
+      "month": 3,
+      "day": 11,
+      "source": "https://en.wikipedia.org/wiki/first_Nebula_Awards_ceremony"
+    },
+    {
+      "text": "Solarpunk is a speculative fiction genre that envisions optimistic futures focused on renewable energy and sustainable communities.",
+      "source": "https://en.wikipedia.org/wiki/Solarpunk"
+    },
+    {
+      "text": "Kurt Vonnegut's 'Slaughterhouse-Five' blends science fiction with anti-war themes based on his WWII experiences.",
+      "source": "https://en.wikipedia.org/wiki/Kurt_Vonnegut%27s"
+    },
+    {
+      "text": "The space opera subgenre features epic adventures set in space, often involving galactic empires and interstellar conflict.",
+      "source": "https://en.wikipedia.org/wiki/space_opera_subgenre"
+    },
+    {
+      "text": "H.G. Wells published 'The War of the Worlds' in 1898, one of the earliest stories depicting an alien invasion of Earth.",
+      "month": 1,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/H.G._Wells"
+    },
+    {
+      "text": "Ursula K. Le Guin was the daughter of renowned anthropologist Alfred Kroeber, which influenced her explorations of alien cultures.",
+      "source": "https://en.wikipedia.org/wiki/Ursula_K._Le_Guin"
+    },
+    {
+      "text": "The first Hugo Award was presented at the 11th World Science Fiction Convention in Philadelphia in 1953.",
+      "month": 9,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/first_Hugo_Award"
+    },
+    {
+      "text": "In 1926, Hugo Gernsback described television-like devices he called 'telephots' in his fiction.",
+      "source": "https://en.wikipedia.org/wiki/Hugo_Gernsback_described_television-like_devices_he"
+    },
+    {
+      "text": "Ray Bradbury's 'The Martian Chronicles' was published in 1950 and depicted human colonization of Mars.",
+      "month": 5,
+      "day": 4,
+      "source": "https://en.wikipedia.org/wiki/Ray_Bradbury%27s_%27The_Martian_Chronicles"
+    },
+    {
+      "text": "2000 AD is a British weekly sci-fi comic that launched in 1977 and introduced Judge Dredd.",
+      "month": 2,
+      "day": 26,
+      "source": "https://en.wikipedia.org/wiki/2000_AD"
+    },
+    {
+      "text": "The novum is a science fiction concept referring to the new or strange element that distinguishes the story from reality.",
+      "source": "https://en.wikipedia.org/wiki/novum"
+    },
+    {
+      "text": "Isaac Asimov's Foundation series was originally inspired by Edward Gibbon's 'The History of the Decline and Fall of the Roman Empire.'",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Isaac_Asimov%27s_Foundation_series"
+    },
+    {
+      "text": "The concept of a ringworld — an artificial ring-shaped habitat encircling a star — was popularized by Larry Niven's 1970 novel.",
+      "source": "https://en.wikipedia.org/wiki/concept_of_a_ringworld_%E2%80%94_an_artificial_ring-shaped_habitat_encircling_a_star_%E2%80%94"
+    },
+    {
+      "text": "Ted Chiang has published fewer than 20 stories in his career but has won multiple Hugo and Nebula Awards.",
+      "source": "https://en.wikipedia.org/wiki/Ted_Chiang"
+    },
+    {
+      "text": "Arthur C. Clarke lived in Sri Lanka for most of his adult life, where he pursued his passion for scuba diving.",
+      "source": "https://en.wikipedia.org/wiki/Arthur_C._Clarke"
+    },
+    {
+      "text": "The 'uncanny valley' concept, where humanlike robots become unsettling, was first described by Masahiro Mori in 1970.",
+      "source": "https://en.wikipedia.org/wiki/%27uncanny_valley%27_concept%2C_where_humanlike_robots_become_unsettling"
+    },
+    {
+      "text": "Jules Verne is the second most translated author in the world, after Agatha Christie.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Jules_Verne"
+    },
+    {
+      "text": "Cyberpunk fiction typically features near-future settings with advanced technology, societal decay, and anti-establishment themes.",
+      "source": "https://en.wikipedia.org/wiki/Cyberpunk_fiction_typically"
+    },
+    {
+      "text": "Douglas Adams wrote 'The Hitchhiker's Guide to the Galaxy' after lying drunk in a field in Innsbruck, Austria, staring at the stars.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Douglas_Adams"
+    },
+    {
+      "text": "The ansible, a device for instantaneous communication across any distance, was introduced by Ursula K. Le Guin in 'Rocannon's World.'",
+      "source": "https://en.wikipedia.org/wiki/ansible%2C_a_device_for_instantaneous_communication_across_any_distance"
+    },
+    {
+      "text": "Robert Heinlein's 'Starship Troopers' sparked debates about militarism and citizenship that continue to this day.",
+      "source": "https://en.wikipedia.org/wiki/Robert_Heinlein%27s"
+    },
+    {
+      "text": "Ghost in the Shell, created by Masamune Shirow, explored themes of consciousness and identity in a cyberpunk setting.",
+      "source": "https://en.wikipedia.org/wiki/Ghost_in_the_Shell"
+    },
+    {
+      "text": "The Alcubierre drive is a theoretical concept proposed by physicist Miguel Alcubierre that could allow faster-than-light travel.",
+      "source": "https://en.wikipedia.org/wiki/Alcubierre_drive"
+    },
+    {
+      "text": "Fanzines — fan-made magazines — have been a cornerstone of sci-fi fandom since the 1930s.",
+      "source": "https://en.wikipedia.org/wiki/Fanzines_%E2%80%94_fan-made_magazines_%E2%80%94"
+    },
+    {
+      "text": "Philip K. Dick was born in Chicago in 1928 and spent most of his life in California.",
+      "month": 12,
+      "day": 16,
+      "source": "https://en.wikipedia.org/wiki/Philip_K._Dick"
+    },
+    {
+      "text": "The 'Kardashev scale' classifies civilizations by their energy consumption: planetary, stellar, or galactic.",
+      "source": "https://en.wikipedia.org/wiki/Science_Fiction"
+    },
+    {
+      "text": "Samuel R. Delany's 'Dhalgren' remains one of the most controversial and enigmatic sci-fi novels ever published.",
+      "source": "https://en.wikipedia.org/wiki/Samuel_R._Delany%27s"
+    },
+    {
+      "text": "H.G. Wells anticipated aerial warfare in his 1908 novel 'The War in the Air.'",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/H.G._Wells"
+    },
+    {
+      "text": "The concept of cryogenic suspension — freezing humans for future revival — is a staple of sci-fi that has some basis in real cryonics research.",
+      "source": "https://en.wikipedia.org/wiki/concept_of_cryogenic_suspension_%E2%80%94_freezing_humans_for_future_revival_%E2%80%94"
+    },
+    {
+      "text": "Lois McMaster Bujold has won more Hugo Awards for Best Novel than any other author, with four wins.",
+      "source": "https://en.wikipedia.org/wiki/Lois_McMaster_Bujold"
+    },
+    {
+      "text": "Ray Bradbury was born in Waukegan, Illinois, in 1920, which he fictionalized as 'Green Town' in several novels.",
+      "month": 8,
+      "day": 22,
+      "source": "https://en.wikipedia.org/wiki/Ray_Bradbury"
+    },
+    {
+      "text": "The genre of hard science fiction emphasizes scientific accuracy and logical consistency in its worldbuilding.",
+      "source": "https://en.wikipedia.org/wiki/Science_Fiction"
+    },
+    {
+      "text": "Frank Herbert was born in Tacoma, Washington, in 1920.",
+      "month": 10,
+      "day": 8,
+      "source": "https://en.wikipedia.org/wiki/Frank_Herbert"
+    },
+    {
+      "text": "In Arthur C. Clarke's '2001: A Space Odyssey,' astronauts use flat-screen tablet devices decades before iPads existed.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/In_Arthur_C._Clarke%27s"
+    },
+    {
+      "text": "The O'Neill cylinder is a proposed space colony design consisting of two counter-rotating cylinders to simulate gravity.",
+      "source": "https://en.wikipedia.org/wiki/O%27Neill_cylinder"
+    },
+    {
+      "text": "Cosplay at science fiction conventions dates back to the first WorldCon in 1939, when Forrest J Ackerman wore a futuristic costume.",
+      "source": "https://en.wikipedia.org/wiki/Cosplay_at"
+    },
+    {
+      "text": "Ursula K. Le Guin was born in Berkeley, California, on October 21, 1929.",
+      "month": 10,
+      "day": 21,
+      "source": "https://en.wikipedia.org/wiki/Ursula_K._Le_Guin"
+    },
+    {
+      "text": "The concept of a 'singularity' — when AI surpasses human intelligence — was popularized by Vernor Vinge in a 1993 essay.",
+      "source": "https://en.wikipedia.org/wiki/concept_of_a_%27singularity%27_%E2%80%94_when_AI_surpasses_human_intelligence_%E2%80%94"
+    },
+    {
+      "text": "Brian Aldiss argued that Mary Shelley's 'Frankenstein' was the first true science fiction novel in his critical work 'Billion Year Spree.'",
+      "source": "https://en.wikipedia.org/wiki/Brian_Aldiss_argued_that_Mary_Shelley%27s_%27Frankenstein"
+    },
+    {
+      "text": "Isaac Asimov had claustrophilia — he actually enjoyed small, enclosed spaces.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Isaac_Asimov"
+    },
+    {
+      "text": "The first science fiction book club, the Science Fiction Book Club, was founded in 1953.",
+      "source": "https://en.wikipedia.org/wiki/first_science_fiction_book_club%2C_the_Science_Fiction_Book_Club"
+    },
+    {
+      "text": "Afrofuturism blends science fiction, African mythology, and Black culture to imagine alternative futures and histories.",
+      "source": "https://en.wikipedia.org/wiki/Science_Fiction"
+    },
+    {
+      "text": "Robert Heinlein described waterbeds in his 1961 novel 'Stranger in a Strange Land,' years before they were commercially produced.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Robert_Heinlein"
+    },
+    {
+      "text": "A Matrioshka brain is a hypothetical megastructure of concentric Dyson spheres, each layer powered by the waste heat of the one inside it.",
+      "source": "https://en.wikipedia.org/wiki/A_Matrioshka_brain"
+    },
+    {
+      "text": "Greg Bear's 'Blood Music' explored nanotechnology and biological computing before those fields became mainstream.",
+      "source": "https://en.wikipedia.org/wiki/Greg_Bear%27s"
+    },
+    {
+      "text": "H.G. Wells published 'The Invisible Man' in 1897, exploring the consequences of a scientist achieving invisibility.",
+      "source": "https://en.wikipedia.org/wiki/H.G._Wells"
+    },
+    {
+      "text": "The concept of first contact — humanity's initial encounter with alien life — is one of the most enduring themes in sci-fi.",
+      "source": "https://en.wikipedia.org/wiki/concept_of_first_contact_%E2%80%94_humanity%27s_initial_encounter_with_alien_life_%E2%80%94"
+    },
+    {
+      "text": "Arthur C. Clarke passed away in Colombo, Sri Lanka, at the age of 90.",
+      "month": 3,
+      "day": 19,
+      "source": "https://en.wikipedia.org/wiki/Arthur_C._Clarke"
+    },
+    {
+      "text": "John W. Campbell edited 'Astounding Science Fiction' magazine and mentored many of the genre's greatest writers.",
+      "source": "https://en.wikipedia.org/wiki/John_W._Campbell"
+    },
+    {
+      "text": "The 'Prime Directive' concept of non-interference with less advanced civilizations appears in many sci-fi universes beyond Star Trek.",
+      "source": "https://en.wikipedia.org/wiki/Prime_Directive"
+    },
+    {
+      "text": "Aldous Huxley and George Orwell presented contrasting dystopias: one of pleasure and control, the other of fear and surveillance.",
+      "source": "https://en.wikipedia.org/wiki/Aldous_Huxley_and_George_Orwell"
+    },
+    {
+      "text": "The Clarke Award shortlist is chosen by a panel of judges representing the British Science Fiction Association and other organizations.",
+      "source": "https://en.wikipedia.org/wiki/Clarke_Award_shortlist"
+    },
+    {
+      "text": "Jules Verne was born in Nantes, France, in 1828.",
+      "month": 2,
+      "day": 8,
+      "source": "https://en.wikipedia.org/wiki/Jules_Verne"
+    },
+    {
+      "text": "Robert Heinlein was the first science fiction writer to appear on the New York Times Best Seller list.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Robert_Heinlein"
+    },
+    {
+      "text": "The Bussard ramjet is a theoretical spacecraft that collects interstellar hydrogen as fuel, allowing near-light-speed travel.",
+      "source": "https://en.wikipedia.org/wiki/Bussard_ramjet"
+    },
+    {
+      "text": "Iain M. Banks created the Culture series, depicting a post-scarcity utopian society managed by incredibly advanced AIs.",
+      "source": "https://en.wikipedia.org/wiki/Iain_M._Banks"
+    },
+    {
+      "text": "Liu Cixin's 'The Dark Forest' proposes a chilling solution to the Fermi Paradox: civilizations hide because detection means destruction.",
+      "source": "https://en.wikipedia.org/wiki/Liu_Cixin%27s"
+    },
+    {
+      "text": "Science fiction fandom was one of the first subcultures to develop a vibrant online community, starting with Usenet groups in the 1980s.",
+      "source": "https://en.wikipedia.org/wiki/Science_fiction_fandom"
+    },
+    {
+      "text": "Kim Stanley Robinson's Mars trilogy — 'Red Mars,' 'Green Mars,' and 'Blue Mars' — provides a detailed vision of terraforming Mars.",
+      "source": "https://en.wikipedia.org/wiki/Kim_Stanley_Robinson%27s_Mars"
+    },
+    {
+      "text": "The Turing test was originally called 'The Imitation Game' in Alan Turing's 1950 paper.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Turing_test"
+    },
+    {
+      "text": "H.G. Wells was born in Bromley, Kent, England.",
+      "month": 9,
+      "day": 21,
+      "source": "https://en.wikipedia.org/wiki/H.G._Wells"
+    },
+    {
+      "text": "Solaris by Stanisław Lem suggests that truly alien intelligence may be fundamentally incomprehensible to humans.",
+      "source": "https://en.wikipedia.org/wiki/Science_Fiction"
+    },
+    {
+      "text": "Margaret Atwood has often debated whether her works like 'The Handmaid's Tale' are science fiction or speculative fiction.",
+      "source": "https://en.wikipedia.org/wiki/Margaret_Atwood"
+    },
+    {
+      "text": "The concept of uploading consciousness to a computer is explored extensively in sci-fi as 'mind uploading' or 'whole brain emulation.'",
+      "source": "https://en.wikipedia.org/wiki/concept_of_uploading_consciousness_to_a_computer"
+    },
+    {
+      "text": "John Wyndham's 'The Day of the Triffids' depicted a post-apocalyptic world overrun by mobile, predatory plants.",
+      "source": "https://en.wikipedia.org/wiki/John_Wyndham%27s"
+    },
+    {
+      "text": "Isaac Asimov died on April 6, 1992, from heart and kidney failure related to an earlier HIV infection from a blood transfusion.",
+      "month": 4,
+      "day": 6,
+      "source": "https://en.wikipedia.org/wiki/Isaac_Asimov"
+    },
+    {
+      "text": "Hard sci-fi author Hal Clement was known for creating aliens and worlds that strictly obeyed the laws of physics.",
+      "source": "https://en.wikipedia.org/wiki/Hard_sci-fi_author_Hal_Clement"
+    },
+    {
+      "text": "The concept of nanotechnology in fiction was heavily influenced by Eric Drexler's 1986 book 'Engines of Creation.'",
+      "source": "https://en.wikipedia.org/wiki/concept_of_nanotechnology_in_fiction"
+    },
+    {
+      "text": "Connie Willis has won more Hugo and Nebula Awards combined than any other science fiction author.",
+      "source": "https://en.wikipedia.org/wiki/Connie_Willis"
+    },
+    {
+      "text": "The 'generation ship' concept was explored in Robert Heinlein's 1941 novella 'Universe,' where passengers forget they are on a ship.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/%27generation_ship%27_concept"
+    },
+    {
+      "text": "Biopunk is a subgenre focusing on biotechnology, genetic engineering, and the manipulation of living organisms.",
+      "source": "https://en.wikipedia.org/wiki/Biopunk"
+    },
+    {
+      "text": "Arthur C. Clarke was born in Minehead, Somerset, England.",
+      "month": 12,
+      "day": 16,
+      "source": "https://en.wikipedia.org/wiki/Arthur_C._Clarke"
+    },
+    {
+      "text": "The ansible concept has been adopted by many other authors and even lent its name to the IT automation tool Ansible.",
+      "source": "https://en.wikipedia.org/wiki/ansible_concept"
+    },
+    {
+      "text": "James Tiptree Jr. was the pen name of Alice Sheldon, whose true identity remained hidden for years in the sci-fi community.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/James_Tiptree_Jr"
+    },
+    {
+      "text": "The concept of virtual reality in fiction predates the technology, appearing in Stanley Weinbaum's 1935 story 'Pygmalion's Spectacles.'",
+      "source": "https://en.wikipedia.org/wiki/Stanley_Weinbaum%27s_1935"
+    },
+    {
+      "text": "Fred Hoyle, a renowned astronomer, also wrote science fiction, including 'The Black Cloud' about an intelligent interstellar gas cloud.",
+      "source": "https://en.wikipedia.org/wiki/Fred_Hoyle%2C_a_renowned_astronomer%2C_also"
+    },
+    {
+      "text": "The Fermi Paradox was informally articulated by physicist Enrico Fermi during a lunch conversation in 1950.",
+      "source": "https://en.wikipedia.org/wiki/Fermi_Paradox"
+    },
+    {
+      "text": "Octavia Butler's 'Kindred' combined time travel with the history of American slavery in a powerful literary fusion.",
+      "source": "https://en.wikipedia.org/wiki/Octavia_Butler%27s"
+    },
+    {
+      "text": "Robert Heinlein was born in Butler, Missouri.",
+      "month": 7,
+      "day": 7,
+      "source": "https://en.wikipedia.org/wiki/Robert_Heinlein"
+    },
+    {
+      "text": "The 'ansible' as a concept solves the light-speed communication barrier that would make interstellar governance impossible.",
+      "source": "https://en.wikipedia.org/wiki/Science_Fiction"
+    },
+    {
+      "text": "Philip K. Dick won the Hugo Award for Best Novel for 'The Man in the High Castle' in 1963.",
+      "source": "https://en.wikipedia.org/wiki/Philip_K._Dick"
+    },
+    {
+      "text": "The concept of a 'hive mind' — a collective consciousness shared by many individuals — is a common sci-fi trope.",
+      "source": "https://en.wikipedia.org/wiki/concept_of_a_%27hive_mind%27_%E2%80%94_a_collective_consciousness_shared_by_many_individuals_%E2%80%94"
+    },
+    {
+      "text": "Douglas Adams said the answer to life, the universe, and everything — 42 — was chosen because it was a completely ordinary number.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Douglas_Adams"
+    },
+    {
+      "text": "China Miéville blends science fiction with fantasy and Marxist theory in works like 'Perdido Street Station.'",
+      "source": "https://en.wikipedia.org/wiki/Perdido_Street_Station"
+    },
+    {
+      "text": "The warp drive concept from science fiction was given theoretical grounding by physicist Miguel Alcubierre in 1994.",
+      "source": "https://en.wikipedia.org/wiki/warp_drive_concept_from_science_fiction"
+    },
+    {
+      "text": "Sci-fi convention badges and name tags evolved into an art form, with elaborate ribbons and decorations.",
+      "source": "https://en.wikipedia.org/wiki/Science_Fiction"
+    },
+    {
+      "text": "Samuel Butler's 'Erewhon' (1872) was one of the earliest works to explore the idea of machines developing consciousness.",
+      "source": "https://en.wikipedia.org/wiki/Samuel_Butler%27s_%27Erewhon%27_(1872)"
+    },
+    {
+      "text": "Ray Bradbury died on June 5, 2012, at the age of 91.",
+      "month": 6,
+      "day": 5,
+      "source": "https://en.wikipedia.org/wiki/Ray_Bradbury"
+    },
+    {
+      "text": "The 'Ringworld' concept was so influential that MIT students wrote a paper pointing out engineering flaws, which Niven later addressed in a sequel.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/%27Ringworld%27_concept"
+    },
+    {
+      "text": "George Orwell's '1984' has seen surges in sales during periods of political controversy and surveillance debates.",
+      "source": "https://en.wikipedia.org/wiki/George_Orwell%27s_%271984"
+    },
+    {
+      "text": "The International Space Station, orbiting Earth since 1998, has realized many predictions from early science fiction.",
+      "source": "https://en.wikipedia.org/wiki/International_Space_Station%2C_orbiting_Earth_since_1998"
+    },
+    {
+      "text": "Atompunk is a retro-futuristic subgenre inspired by the Atomic Age of the 1940s through 1960s.",
+      "source": "https://en.wikipedia.org/wiki/Atompunk"
+    },
+    {
+      "text": "Vernor Vinge's concept of the technological singularity predicts a point where superintelligent AI transforms civilization beyond human comprehension.",
+      "source": "https://en.wikipedia.org/wiki/Vernor_Vinge%27s"
+    },
+    {
+      "text": "Le Guin's 'The Dispossessed' is subtitled 'An Ambiguous Utopia' and contrasts anarchist and capitalist societies.",
+      "source": "https://en.wikipedia.org/wiki/Le_Guin%27s_%27The_Dispossessed"
+    },
+    {
+      "text": "The International Space Station has a library that includes science fiction books brought by astronauts.",
+      "source": "https://en.wikipedia.org/wiki/International_Space_Station"
+    },
+    {
+      "text": "Asimov's Foundation series uses 'psychohistory,' a fictional science that predicts the behavior of large populations mathematically.",
+      "source": "https://en.wikipedia.org/wiki/Asimov%27s_Foundation"
+    },
+    {
+      "text": "Ann Leckie's 'Ancillary Justice' won the Hugo, Nebula, and Arthur C. Clarke Awards — a rare triple crown.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Ann_Leckie%27s_%27Ancillary_Justice"
+    },
+    {
+      "text": "SpaceX CEO Elon Musk has cited Asimov's Foundation series and Douglas Adams as major influences on his vision for space exploration.",
+      "source": "https://en.wikipedia.org/wiki/SpaceX_CEO_Elon_Musk"
+    },
+    {
+      "text": "The moon landing on July 20, 1969, fulfilled predictions made by sci-fi writers for over a century.",
+      "month": 7,
+      "day": 20,
+      "source": "https://en.wikipedia.org/wiki/July_20"
+    },
+    {
+      "text": "Dieselpunk is an aesthetic and genre combining the interwar period (1920s-1940s) with retro-futuristic technology.",
+      "source": "https://en.wikipedia.org/wiki/Dieselpunk"
+    },
+    {
+      "text": "Becky Chambers' Wayfarers series is celebrated for its focus on character relationships and found family in a space opera setting.",
+      "source": "https://en.wikipedia.org/wiki/Becky_Chambers%27_Wayfarers_series"
+    },
+    {
+      "text": "Cordwainer Smith's sci-fi was deeply influenced by his real-life career as a psychological warfare expert.",
+      "source": "https://en.wikipedia.org/wiki/Cordwainer_Smith%27s_sci-fi"
+    },
+    {
+      "text": "Frank Herbert died on February 11, 1986, leaving the Dune saga unfinished.",
+      "month": 2,
+      "day": 11,
+      "source": "https://en.wikipedia.org/wiki/Frank_Herbert"
+    },
+    {
+      "text": "Jack Vance's 'Dying Earth' series influenced the magic system in Dungeons & Dragons.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Jack_Vance%27s"
+    },
+    {
+      "text": "The concept of uplift — genetically engineering animals to human-level intelligence — was the central theme of David Brin's Uplift series.",
+      "source": "https://en.wikipedia.org/wiki/concept_of_uplift_%E2%80%94_genetically_engineering_animals_to_human-level_intelligence_%E2%80%94"
+    },
+    {
+      "text": "Clarke's First Law states: 'When a distinguished scientist states that something is possible, he is almost certainly right.'",
+      "source": "https://en.wikipedia.org/wiki/Clarke%27s_First_Law_states:_%27When_a_distinguished_scientist_states_that_something"
+    },
+    {
+      "text": "The Three-Body Problem trilogy by Liu Cixin has sold over 8 million copies worldwide.",
+      "source": "https://en.wikipedia.org/wiki/Three-Body_Problem_trilogy_by_Liu_Cixin"
+    },
+    {
+      "text": "Early science fiction was often published in pulp magazines, named for the cheap wood-pulp paper they were printed on.",
+      "source": "https://en.wikipedia.org/wiki/Early_science_fiction"
+    },
+    {
+      "text": "NASA's Innovative Advanced Concepts program has funded research into ideas that were once purely science fiction.",
+      "source": "https://en.wikipedia.org/wiki/NASA%27s_Innovative_Advanced_Concepts_program"
+    },
+    {
+      "text": "The Voyager Golden Records, launched in 1977, carry sounds and images of Earth into interstellar space — a concept straight from sci-fi.",
+      "month": 9,
+      "day": 5,
+      "source": "https://en.wikipedia.org/wiki/Voyager_Golden_Records"
+    },
+    {
+      "text": "Alfred Bester's 'The Demolished Man' won the very first Hugo Award for Best Novel in 1953.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Alfred_Bester%27s_%27The_Demolished_Man"
+    },
+    {
+      "text": "The concept of a 'world ship' is an even larger version of a generation ship, essentially a mobile space habitat the size of a small world.",
+      "source": "https://en.wikipedia.org/wiki/concept_of_a_%27world_ship"
+    },
+    {
+      "text": "Philip K. Dick's estate controls a large body of work, with over 44 published novels and approximately 121 short stories.",
+      "source": "https://en.wikipedia.org/wiki/Philip_K._Dick%27s"
+    },
+    {
+      "text": "The 'novella' format — longer than a short story, shorter than a novel — has always been popular in science fiction publishing.",
+      "source": "https://en.wikipedia.org/wiki/%27novella%27_format_%E2%80%94_longer_than_a_short_story%2C_shorter_than_a_novel_%E2%80%94"
+    },
+    {
+      "text": "Ursula K. Le Guin died on January 22, 2018, at her home in Portland, Oregon.",
+      "month": 1,
+      "day": 22,
+      "source": "https://en.wikipedia.org/wiki/Ursula_K._Le_Guin"
+    },
+    {
+      "text": "The concept of antimatter, now confirmed by physics, was used in science fiction long before it was experimentally observed.",
+      "source": "https://en.wikipedia.org/wiki/concept_of_antimatter%2C_now_confirmed_by_physics"
+    },
+    {
+      "text": "John Scalzi's 'Old Man's War' reimagined the military science fiction genre for a new generation of readers.",
+      "source": "https://en.wikipedia.org/wiki/John_Scalzi%27s"
+    },
+    {
+      "text": "Hugo Gernsback founded Amazing Stories magazine in 1926, creating the first publication dedicated entirely to science fiction.",
+      "source": "https://en.wikipedia.org/wiki/Hugo_Gernsback"
+    },
+    {
+      "text": "The panspermia hypothesis — that life on Earth originated from space — has been explored in many sci-fi works.",
+      "source": "https://en.wikipedia.org/wiki/panspermia_hypothesis_%E2%80%94_that_life_on_Earth_originated_from_space_%E2%80%94"
+    },
+    {
+      "text": "Harlan Ellison famously wrote 'I Have No Mouth, and I Must Scream' about a godlike AI tormenting the last humans on Earth.",
+      "source": "https://en.wikipedia.org/wiki/Harlan_Ellison_famously"
+    },
+    {
+      "text": "The first Hugo Award ceremony at the 1953 WorldCon almost didn't happen because organizers worried nobody would attend.",
+      "source": "https://en.wikipedia.org/wiki/Hugo_Award"
+    },
+    {
+      "text": "Larry Niven's Ringworld has a surface area roughly three million times that of Earth.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Larry_Niven%27s_Ringworld"
+    },
+    {
+      "text": "The 'galaxy brain' is a concept in sci-fi where entire galaxies are converted into computing substrates.",
+      "source": "https://en.wikipedia.org/wiki/%27galaxy_brain"
+    },
+    {
+      "text": "Joanna Russ's 'The Female Man' was a landmark feminist science fiction novel published in 1975.",
+      "source": "https://en.wikipedia.org/wiki/Joanna_Russ%27s_%27The_Female_Man"
+    },
+    {
+      "text": "Mark Twain's 'A Connecticut Yankee in King Arthur's Court' (1889) is one of the earliest time travel novels.",
+      "source": "https://en.wikipedia.org/wiki/Mark_Twain%27s_%27A_Connecticut_Yankee_in_King_Arthur%27s_Court%27_(1889)"
+    },
+    {
+      "text": "The concept of a 'multiverse' has moved from science fiction into mainstream theoretical physics.",
+      "source": "https://en.wikipedia.org/wiki/concept_of_a_%27multiverse"
+    },
+    {
+      "text": "Ray Bradbury's 'Fahrenheit 451' takes its title from the supposed auto-ignition temperature of paper.",
+      "source": "https://en.wikipedia.org/wiki/Ray_Bradbury%27s_%27Fahrenheit_451"
+    },
+    {
+      "text": "The Science Fiction Research Association (SFRA) has been promoting scholarly study of sci-fi since 1970.",
+      "source": "https://en.wikipedia.org/wiki/Science_Fiction_Research_Association_(SFRA)"
+    },
+    {
+      "text": "Roger Zelazny's 'Lord of Light' blends Hindu mythology with far-future science fiction themes.",
+      "source": "https://en.wikipedia.org/wiki/Roger_Zelazny%27s"
+    },
+    {
+      "text": "'Neuromancer' by William Gibson was published on July 1, 1984, and launched the cyberpunk movement.",
+      "month": 7,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/Neuromancer%27_by_William_Gibson"
+    },
+    {
+      "text": "The concept of a 'Von Neumann probe' — a self-replicating spacecraft — was proposed based on mathematician John von Neumann's work.",
+      "source": "https://en.wikipedia.org/wiki/concept_of_a_%27Von_Neumann_probe%27_%E2%80%94_a_self-replicating_spacecraft_%E2%80%94"
+    },
+    {
+      "text": "David Brin has worked as a NASA consultant in addition to his career as a science fiction author.",
+      "source": "https://en.wikipedia.org/wiki/David_Brin"
+    },
+    {
+      "text": "Asimov's 'I, Robot' is a collection of nine short stories, not a single novel, despite the common misconception.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Asimov%27s_%27I%2C_Robot"
+    },
+    {
+      "text": "The subgenre of 'mundane science fiction' restricts itself to scientifically plausible technologies and settings.",
+      "source": "https://en.wikipedia.org/wiki/Science_Fiction"
+    },
+    {
+      "text": "Joe Haldeman's 'The Forever War' used relativistic time dilation to comment on the Vietnam War experience.",
+      "source": "https://en.wikipedia.org/wiki/Joe_Haldeman%27s"
+    },
+    {
+      "text": "The concept of a 'tractor beam' from sci-fi has been partially realized using focused beams of light to move microscopic particles.",
+      "source": "https://en.wikipedia.org/wiki/concept_of_a_%27tractor_beam%27_from_sci-fi"
+    },
+    {
+      "text": "N.K. Jemisin's Broken Earth trilogy begins with the end of the world in the very first sentence of 'The Fifth Season.'",
+      "source": "https://en.wikipedia.org/wiki/N.K._Jemisin%27s_Broken_Earth"
+    },
+    {
+      "text": "The Hugos are voted on by members of the World Science Fiction Convention, making them a populist award.",
+      "source": "https://en.wikipedia.org/wiki/Hugos"
+    },
+    {
+      "text": "Arthur C. Clarke's '2001: A Space Odyssey' was developed simultaneously as both a novel and a film.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Arthur_C._Clarke%27s_%272001:_A_Space_Odyssey"
+    },
+    {
+      "text": "Olaf Stapledon's 'Star Maker' (1937) depicted the entire history of the universe and influenced Clarke and others.",
+      "source": "https://en.wikipedia.org/wiki/Star_Maker"
+    },
+    {
+      "text": "The 'zoo hypothesis' suggests that advanced aliens deliberately avoid contact with Earth, much like a wildlife preserve.",
+      "source": "https://en.wikipedia.org/wiki/Science_Fiction"
+    },
+    {
+      "text": "Doug Adams' 'The Hitchhiker's Guide to the Galaxy' began as a BBC Radio 4 comedy series in 1978.",
+      "month": 3,
+      "day": 8,
+      "source": "https://en.wikipedia.org/wiki/Doug_Adams"
+    },
+    {
+      "text": "Gene Wolfe's 'The Book of the New Sun' is set so far in the future that the sun is dying and technology is indistinguishable from magic.",
+      "source": "https://en.wikipedia.org/wiki/Gene_Wolfe%27s_%27The_Book_of_the_New_Sun"
+    },
+    {
+      "text": "Real-world earbuds were predicted by Ray Bradbury in 'Fahrenheit 451,' where he described 'thimble radios' worn in the ear.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Real-world_earbuds"
+    },
+    {
+      "text": "The New Wave science fiction movement of the 1960s and 1970s emphasized literary style and social themes over hard science.",
+      "source": "https://en.wikipedia.org/wiki/New_Wave"
+    },
+    {
+      "text": "K. Eric Drexler's concept of molecular nanotechnology was popularized in Michael Crichton's 'Prey.'",
+      "source": "https://en.wikipedia.org/wiki/K._Eric_Drexler%27s_concept_of_molecular_nanotechnology"
+    },
+    {
+      "text": "Isaac Asimov's 'Foundation' was originally published as a series of short stories in Astounding Science Fiction starting in 1942.",
+      "source": "https://en.wikipedia.org/wiki/Isaac_Asimov%27s_%27Foundation"
+    },
+    {
+      "text": "The UK's Interplanetary Society, founded in 1933, has included many sci-fi authors among its members.",
+      "source": "https://en.wikipedia.org/wiki/UK%27s_Interplanetary_Society"
+    },
+    {
+      "text": "Cory Doctorow's fiction often explores digital rights, copyright reform, and surveillance culture.",
+      "source": "https://en.wikipedia.org/wiki/Cory_Doctorow%27s"
+    },
+    {
+      "text": "The concept of a Boltzmann brain — a self-aware entity arising from random quantum fluctuations — straddles physics and sci-fi.",
+      "source": "https://en.wikipedia.org/wiki/Science_Fiction"
+    },
+    {
+      "text": "Andy Weir researched orbital mechanics, botany, and chemistry extensively while writing 'The Martian.'",
+      "source": "https://en.wikipedia.org/wiki/Andy_Weir"
+    },
+    {
+      "text": "The first printed science fiction story is often cited as Johannes Kepler's 'Somnium' (1634), about a trip to the Moon.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/first_printed_science_fiction_story"
+    },
+    {
+      "text": "Stanisław Lem estimated he had written about 45,000 pages of fiction and non-fiction during his career.",
+      "source": "https://en.wikipedia.org/wiki/Stanis%C5%82aw_Lem_estimated_he"
+    },
+    {
+      "text": "E.E. 'Doc' Smith's Lensman series, begun in 1934, was among the first major space opera sagas.",
+      "source": "https://en.wikipedia.org/wiki/E.E._%27Doc%27_Smith%27s_Lensman_series%2C_begun_in_1934"
+    },
+    {
+      "text": "The Clarke Award winner receives a prize equal to the current year in British pounds — for example, £2026 in 2026.",
+      "source": "https://en.wikipedia.org/wiki/Clarke_Award"
+    },
+    {
+      "text": "Paolo Bacigalupi's 'The Windup Girl' explored themes of genetic engineering, corporate control, and climate change.",
+      "source": "https://en.wikipedia.org/wiki/Paolo_Bacigalupi%27s"
+    },
+    {
+      "text": "H.G. Wells and Jules Verne, though contemporaries, had very different approaches: Verne emphasized technical accuracy while Wells focused on social commentary.",
+      "source": "https://en.wikipedia.org/wiki/H.G._Wells_and_Jules_Verne%2C_though_contemporaries"
+    },
+    {
+      "text": "The science fiction 'Big Three' traditionally refers to Isaac Asimov, Arthur C. Clarke, and Robert Heinlein.",
+      "source": "https://en.wikipedia.org/wiki/Big_Three"
+    },
+    {
+      "text": "Yevgeny Zamyatin's 'We' (1924) was the first modern dystopian novel and influenced both Orwell and Huxley.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/We"
+    },
+    {
+      "text": "The concept of powered exoskeletons in fiction, from Heinlein's 'Starship Troopers,' has led to real military and medical exoskeleton development.",
+      "source": "https://en.wikipedia.org/wiki/concept_of_powered_exoskeletons_in_fiction%2C_from_Heinlein%27s_%27Starship_Troopers"
+    },
+    {
+      "text": "Le Guin's Earthsea books, while primarily fantasy, incorporate themes common to science fiction like ecology and anthropology.",
+      "source": "https://en.wikipedia.org/wiki/Le_Guin%27s_Earthsea"
+    },
+    {
+      "text": "The SETI Institute searches for signals from extraterrestrial civilizations, a pursuit inspired in part by science fiction.",
+      "source": "https://en.wikipedia.org/wiki/SETI_Institute_searches_for_signals_from_extraterrestrial_civilizations%2C_a_pursuit"
+    },
+    {
+      "text": "Jack McDevitt's Alex Benedict series combines science fiction with archaeological mystery.",
+      "source": "https://en.wikipedia.org/wiki/Jack_McDevitt%27s_Alex_Benedict"
+    },
+    {
+      "text": "Orson Scott Card held a 'boot camp' for aspiring science fiction writers for many years.",
+      "source": "https://en.wikipedia.org/wiki/Orson_Scott_Card"
+    },
+    {
+      "text": "The term 'robotics' was first used by Isaac Asimov in his 1941 story 'Liar!' — he thought it was already a word.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/term_%27robotics"
+    },
+    {
+      "text": "The concept of a 'replicator' — a device that can create any object from raw materials — has parallels in modern 3D printing.",
+      "source": "https://en.wikipedia.org/wiki/concept_of_a_%27replicator%27_%E2%80%94_a_device_that_can_create_any_object_from_raw_materials_%E2%80%94"
+    },
+    {
+      "text": "J.G. Ballard pioneered the 'inner space' movement in sci-fi, focusing on psychological landscapes rather than outer space.",
+      "source": "https://en.wikipedia.org/wiki/J.G._Ballard"
+    },
+    {
+      "text": "Dan Simmons' 'Hyperion' draws its structure from Geoffrey Chaucer's 'The Canterbury Tales.'",
+      "source": "https://en.wikipedia.org/wiki/Dan_Simmons"
+    },
+    {
+      "text": "The first translation of a Chinese sci-fi novel to win a major Western award was Liu Cixin's 'The Three-Body Problem.'",
+      "source": "https://en.wikipedia.org/wiki/first_translation_of_a_Chinese_sci-fi_novel_to_win_a_major_Western_award"
+    },
+    {
+      "text": "The concept of a 'doomsday device' in fiction mirrors real Cold War fears about mutually assured destruction.",
+      "source": "https://en.wikipedia.org/wiki/Cold_War"
+    },
+    {
+      "text": "Pat Murphy's 'The City, Not Long After' explores a post-apocalyptic San Francisco ruled by artists.",
+      "source": "https://en.wikipedia.org/wiki/Pat_Murphy%27s"
+    },
+    {
+      "text": "George Orwell completed '1984' while severely ill with tuberculosis on the Scottish island of Jura.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/George_Orwell"
+    },
+    {
+      "text": "The idea of satellites for communication was first proposed in fiction before Clarke formalized it scientifically.",
+      "source": "https://en.wikipedia.org/wiki/idea_of_satellites_for_communication"
+    },
+    {
+      "text": "Pamela Sargent edited 'Women of Wonder,' one of the first anthologies dedicated to science fiction by women.",
+      "source": "https://en.wikipedia.org/wiki/Pamela_Sargent"
+    },
+    {
+      "text": "The Philip K. Dick Award has been presented annually since 1983.",
+      "month": 3,
+      "day": 15,
+      "source": "https://en.wikipedia.org/wiki/Philip_K._Dick_Award"
+    },
+    {
+      "text": "The 'post-apocalyptic' subgenre explores life after civilization-ending events like nuclear war, pandemics, or asteroid impacts.",
+      "source": "https://en.wikipedia.org/wiki/Science_Fiction"
+    },
+    {
+      "text": "Brian Aldiss coined the term 'cosy catastrophe' for post-apocalyptic stories where middle-class British life continues relatively comfortably.",
+      "source": "https://en.wikipedia.org/wiki/Brian_Aldiss"
+    },
+    {
+      "text": "Edgar Rice Burroughs' Barsoom series, beginning with 'A Princess of Mars' in 1912, helped popularize planetary romance.",
+      "month": 2,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/Edgar_Rice_Burroughs%27_Barsoom_series%2C_beginning_with_%27A_Princess_of_Mars%27_in_1912"
+    },
+    {
+      "text": "The concept of 'grey goo' — self-replicating nanobots consuming all matter — was described by Eric Drexler as a potential nanotechnology risk.",
+      "source": "https://en.wikipedia.org/wiki/concept_of_%27grey_goo%27_%E2%80%94_self-replicating_nanobots_consuming_all_matter_%E2%80%94"
+    },
+    {
+      "text": "Alfred Bester's 'The Stars My Destination' is considered one of the greatest sci-fi novels, blending revenge with teleportation.",
+      "source": "https://en.wikipedia.org/wiki/Alfred_Bester%27s_%27The_Stars_My_Destination"
+    },
+    {
+      "text": "Many submarine captains have cited Jules Verne's Captain Nemo as an inspiration for their careers.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Many_submarine_captains"
+    },
+    {
+      "text": "The concept of closed timelike curves in general relativity provides a theoretical basis for time travel explored in sci-fi.",
+      "source": "https://en.wikipedia.org/wiki/Science_Fiction"
+    },
+    {
+      "text": "Martha Wells' Murderbot Diaries feature an antisocial security android who would rather watch TV than interact with humans.",
+      "source": "https://en.wikipedia.org/wiki/Martha_Wells%27_Murderbot_Diaries"
+    },
+    {
+      "text": "Robert Silverberg was named a Grand Master by the Science Fiction and Fantasy Writers of America in 2004.",
+      "source": "https://en.wikipedia.org/wiki/Robert_Silverberg"
+    },
+    {
+      "text": "The 'space race' between the US and USSR was fueled in part by visions of space travel popularized by science fiction.",
+      "source": "https://en.wikipedia.org/wiki/%27space_race%27_between_the_US_and_USSR"
+    },
+    {
+      "text": "Peter Watts' 'Blindsight' asks whether consciousness is actually necessary for intelligence.",
+      "source": "https://en.wikipedia.org/wiki/Peter_Watts%27_%27Blindsight%27_asks_whether_consciousness"
+    },
+    {
+      "text": "George Orwell was born Eric Arthur Blair on June 25, 1903, in Motihari, British India.",
+      "month": 6,
+      "day": 25,
+      "source": "https://en.wikipedia.org/wiki/George_Orwell"
+    },
+    {
+      "text": "Cyberpunk's visual aesthetic — neon lights, rain-slicked streets, massive corporate towers — has influenced architecture and design.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Science_Fiction"
+    },
+    {
+      "text": "The Nebula Awards are juried by fellow writers, unlike the Hugo Awards which are voted on by convention attendees.",
+      "source": "https://en.wikipedia.org/wiki/Nebula_Awards"
+    },
+    {
+      "text": "Philip K. Dick wrote many of his novels while living in poverty in the San Francisco Bay Area.",
+      "source": "https://en.wikipedia.org/wiki/Philip_K._Dick"
+    },
+    {
+      "text": "The concept of 'unobtainium' — a fictional material with impossible properties — has become a tongue-in-cheek engineering term.",
+      "source": "https://en.wikipedia.org/wiki/concept_of_%27unobtainium%27_%E2%80%94_a_fictional_material_with_impossible_properties_%E2%80%94"
+    },
+    {
+      "text": "Robert Charles Wilson's 'Spin' posits that Earth has been enclosed in a membrane that slows time relative to the rest of the universe.",
+      "source": "https://en.wikipedia.org/wiki/Robert_Charles_Wilson%27s_%27Spin%27_posits_that_Earth"
+    },
+    {
+      "text": "Frederik Pohl's 'Gateway' features an alien space station with ships pre-programmed for unknown destinations.",
+      "source": "https://en.wikipedia.org/wiki/Frederik_Pohl%27s_%27Gateway"
+    },
+    {
+      "text": "The first major fan convention for any genre was the first World Science Fiction Convention in 1939.",
+      "source": "https://en.wikipedia.org/wiki/first_major_fan_convention_for_any_genre"
+    },
+    {
+      "text": "Ada Palmer's Terra Ignota series is set in a 25th century governed by philosophical principles rather than national borders.",
+      "source": "https://en.wikipedia.org/wiki/Ada_Palmer%27s_Terra_Ignota_series"
+    },
+    {
+      "text": "Aldous Huxley was born on July 26, 1894, in Godalming, Surrey, England.",
+      "month": 7,
+      "day": 26,
+      "source": "https://en.wikipedia.org/wiki/Aldous_Huxley"
+    },
+    {
+      "text": "The Drake Equation was formulated by Frank Drake in 1961 to estimate the number of communicative civilizations in our galaxy.",
+      "month": 11,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/Drake_Equation"
+    },
+    {
+      "text": "Sci-fi author Spider Robinson won the Hugo Award with his Callahan's Crosstime Saloon stories about a bar where time travelers and aliens gather.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Sci-fi_author_Spider_Robinson"
+    },
+    {
+      "text": "The concept of a holodeck — an immersive virtual reality room — is being approached by modern VR cave systems.",
+      "source": "https://en.wikipedia.org/wiki/concept_of_a_holodeck_%E2%80%94_an_immersive_virtual_reality_room_%E2%80%94"
+    },
+    {
+      "text": "Greg Egan's hard sci-fi explores post-human existence and abstract mathematical concepts with rigorous scientific accuracy.",
+      "source": "https://en.wikipedia.org/wiki/Greg_Egan%27s"
+    },
+    {
+      "text": "Arthur C. Clarke and Isaac Asimov had a friendly agreement: Clarke was the best science fiction writer and Asimov was the best science writer.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Arthur_C._Clarke_and_Isaac_Asimov"
+    },
+    {
+      "text": "Liu Cixin was born in Beijing in 1963 and worked as a computer engineer at a power plant before becoming a full-time writer.",
+      "source": "https://en.wikipedia.org/wiki/Liu_Cixin"
+    },
+    {
+      "text": "The term 'speculative fiction' is sometimes preferred over 'science fiction' as it encompasses a broader range of imaginative literature.",
+      "source": "https://en.wikipedia.org/wiki/term_%27speculative_fiction"
+    },
+    {
+      "text": "Charles Stross's Laundry Files series blends Lovecraftian horror with spy fiction and information technology.",
+      "source": "https://en.wikipedia.org/wiki/Charles_Stross%27s_Laundry_Files"
+    },
+    {
+      "text": "The 1938 radio broadcast of 'The War of the Worlds' by Orson Welles reportedly caused panic among some listeners who believed it was real.",
+      "month": 10,
+      "day": 30,
+      "source": "https://en.wikipedia.org/wiki/1938"
+    },
+    {
+      "text": "The concept of a 'sleeper ship' — where passengers are in suspended animation during interstellar travel — remains a theoretical possibility.",
+      "source": "https://en.wikipedia.org/wiki/concept_of_a_%27sleeper_ship%27_%E2%80%94_where_passengers"
+    },
+    {
+      "text": "Susanna Clarke's 'Piranesi' won the Women's Prize for Fiction and blends elements of sci-fi with magical realism.",
+      "source": "https://en.wikipedia.org/wiki/Susanna_Clarke%27s_%27Piranesi"
+    },
+    {
+      "text": "The concept of a megastructure — any artificial structure of enormous scale — is a staple of hard sci-fi worldbuilding.",
+      "source": "https://en.wikipedia.org/wiki/concept_of_a_megastructure_%E2%80%94_any_artificial_structure_of_enormous_scale_%E2%80%94"
+    },
+    {
+      "text": "Ted Chiang's 'Exhalation' won the Hugo, Nebula, and Locus Awards for Best Short Story.",
+      "source": "https://en.wikipedia.org/wiki/Ted_Chiang%27s_%27Exhalation"
+    },
+    {
+      "text": "The science fiction 'Golden Age' is generally considered to span from the late 1930s to the early 1950s.",
+      "source": "https://en.wikipedia.org/wiki/science_fiction_%27Golden_Age"
+    },
+    {
+      "text": "Mary Shelley published 'Frankenstein' anonymously in 1818 when she was just 20 years old.",
+      "month": 1,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/Mary_Shelley_published_%27Frankenstein%27_anonymously_in_1818_when_she"
+    },
+    {
+      "text": "The concept of a stellar engine — a megastructure used to move entire star systems — was proposed by scientist Leonid Shkadov.",
+      "source": "https://en.wikipedia.org/wiki/concept_of_a_stellar_engine_%E2%80%94_a_megastructure_used_to_move_entire_star_systems_%E2%80%94"
+    },
+    {
+      "text": "Octavia Butler was born on June 22, 1947, in Pasadena, California.",
+      "month": 6,
+      "day": 22,
+      "source": "https://en.wikipedia.org/wiki/Octavia_Butler"
+    },
+    {
+      "text": "Neal Stephenson's 'The Diamond Age' envisioned nanotechnology-based interactive books that could educate and raise children.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Neal_Stephenson%27s"
+    },
+    {
+      "text": "Larry Niven created the concept of a 'Known Space' universe shared across many of his novels and stories.",
+      "source": "https://en.wikipedia.org/wiki/Larry_Niven"
+    },
+    {
+      "text": "The 'space western' subgenre combines frontier narratives with science fiction settings.",
+      "source": "https://en.wikipedia.org/wiki/Science_Fiction"
+    },
+    {
+      "text": "Lois McMaster Bujold's Vorkosigan Saga spans over 17 novels following the adventures of the physically disabled Miles Vorkosigan.",
+      "source": "https://en.wikipedia.org/wiki/Lois_McMaster_Bujold%27s_Vorkosigan_Saga"
+    },
+    {
+      "text": "Early sci-fi predicted video calling; modern video conferencing technology now makes it an everyday reality.",
+      "source": "https://en.wikipedia.org/wiki/Science_Fiction"
+    },
+    {
+      "text": "Gene Roddenberry consulted with Isaac Asimov about making Star Trek more scientifically accurate.",
+      "source": "https://en.wikipedia.org/wiki/Gene_Roddenberry"
+    },
+    {
+      "text": "The James Tiptree Jr. Literary Award, now called the Otherwise Award, recognizes sci-fi that explores gender.",
+      "source": "https://en.wikipedia.org/wiki/James_Tiptree_Jr._Literary_Award%2C_now"
+    },
+    {
+      "text": "The mass driver — an electromagnetic launcher for propelling objects into space — was first described in sci-fi before becoming a real engineering concept.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/mass_driver_%E2%80%94_an_electromagnetic_launcher_for_propelling_objects_into_space_%E2%80%94"
+    },
+    {
+      "text": "C.J. Cherryh's Alliance-Union universe spans over 30 novels covering thousands of years of human expansion into space.",
+      "source": "https://en.wikipedia.org/wiki/C.J._Cherryh%27s_Alliance-Union"
+    },
+    {
+      "text": "The concept of panopticon surveillance from Jeremy Bentham has been adopted as a metaphor in dystopian sci-fi.",
+      "source": "https://en.wikipedia.org/wiki/concept_of_panopticon_surveillance_from_Jeremy_Bentham"
+    },
+    {
+      "text": "Alastair Reynolds, a former ESA astrophysicist, writes hard sci-fi informed by his scientific background.",
+      "source": "https://en.wikipedia.org/wiki/Alastair_Reynolds%2C_a_former_ESA_astrophysicist"
+    },
+    {
+      "text": "Orson Scott Card's 'Speaker for the Dead' was actually the book he wanted to write first, creating 'Ender's Game' as a prequel.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Orson_Scott_Card%27s_%27Speaker_for_the_Dead"
+    },
+    {
+      "text": "The concept of 'generation loss' — information degrading as it's copied — appears in many sci-fi stories about digital consciousness.",
+      "source": "https://en.wikipedia.org/wiki/Science_Fiction"
+    },
+    {
+      "text": "The 'zoo hypothesis' was formally proposed by John A. Ball in 1973 as an explanation for the Fermi Paradox.",
+      "source": "https://en.wikipedia.org/wiki/%27zoo_hypothesis"
+    },
+    {
+      "text": "Kameron Hurley's 'The Light Brigade' uses teleportation technology as a metaphor for the dehumanization of soldiers.",
+      "source": "https://en.wikipedia.org/wiki/Kameron_Hurley%27s"
+    },
+    {
+      "text": "Frank Herbert's Dune series has sold over 20 million copies worldwide, making it the best-selling science fiction novel of all time.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Frank_Herbert%27s_Dune_series"
+    },
+    {
+      "text": "The concept of a 'torch ship' — a spacecraft with an incredibly efficient drive — was a staple of Heinlein's fiction.",
+      "source": "https://en.wikipedia.org/wiki/concept_of_a_%27torch_ship%27_%E2%80%94_a_spacecraft_with_an_incredibly_efficient_drive_%E2%80%94"
+    },
+    {
+      "text": "Olaf Stapledon's 'Last and First Men' covers two billion years of human evolution across 18 distinct human species.",
+      "source": "https://en.wikipedia.org/wiki/Olaf_Stapledon%27s"
+    },
+    {
+      "text": "Isaac Asimov's 'Nightfall' was voted the best science fiction short story of all time by the Science Fiction Writers of America in 1964.",
+      "source": "https://en.wikipedia.org/wiki/Isaac_Asimov%27s_%27Nightfall"
+    },
+    {
+      "text": "The New Weird movement, led by writers like China Miéville, blends sci-fi with horror and surrealism.",
+      "source": "https://en.wikipedia.org/wiki/New_Weird"
+    },
+    {
+      "text": "Real-world experiments with ion drives, used in NASA's Dawn spacecraft, bring sci-fi propulsion concepts closer to reality.",
+      "source": "https://en.wikipedia.org/wiki/NASA%27s_Dawn"
+    },
+    {
+      "text": "Philip K. Dick died on March 2, 1982, just months before the release of 'Blade Runner,' based on his novel.",
+      "month": 3,
+      "day": 2,
+      "source": "https://en.wikipedia.org/wiki/Philip_K._Dick"
+    },
+    {
+      "text": "The concept of a 'world brain' — a global information network — was described by H.G. Wells in 1938, anticipating the internet.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/concept_of_a_%27world_brain%27_%E2%80%94_a_global_information_network_%E2%80%94"
+    },
+    {
+      "text": "Vandana Singh writes science fiction informed by Indian culture and non-Western perspectives on technology and society.",
+      "source": "https://en.wikipedia.org/wiki/Vandana_Singh"
+    },
+    {
+      "text": "Theodore Sturgeon's Law — '90% of everything is crud' — was originally stated in defense of science fiction's quality.",
+      "source": "https://en.wikipedia.org/wiki/Theodore_Sturgeon%27s_Law_%E2%80%94_%2790%25_of_everything"
+    },
+    {
+      "text": "The Bernal sphere is a proposed space colony design featuring a spherical shell roughly 16 km in diameter.",
+      "source": "https://en.wikipedia.org/wiki/Bernal_sphere"
+    },
+    {
+      "text": "Arkady and Boris Strugatsky were the most famous science fiction authors of the Soviet Union.",
+      "source": "https://en.wikipedia.org/wiki/Arkady_and_Boris_Strugatsky"
+    },
+    {
+      "text": "William Gibson's 'Neuromancer' won the Hugo, Nebula, and Philip K. Dick Awards — the sci-fi 'triple crown.'",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/William_Gibson%27s_%27Neuromancer"
+    },
+    {
+      "text": "Douglas Adams was born in Cambridge, England, on March 11, 1952.",
+      "month": 3,
+      "day": 11,
+      "source": "https://en.wikipedia.org/wiki/Douglas_Adams"
+    },
+    {
+      "text": "The concept of solar sails — spacecraft propelled by radiation pressure from sunlight — was described in sci-fi decades before Japan's IKAROS proved it worked.",
+      "source": "https://en.wikipedia.org/wiki/concept_of_solar_sails_%E2%80%94_spacecraft_propelled_by_radiation_pressure_from_sunlight_%E2%80%94"
+    },
+    {
+      "text": "Robert Sawyer's novels often explore the intersection of paleontology, quantum physics, and consciousness.",
+      "source": "https://en.wikipedia.org/wiki/Robert_Sawyer%27s"
+    },
+    {
+      "text": "The Locus Award, given by Locus Magazine, is one of the most prestigious prizes in science fiction and fantasy.",
+      "source": "https://en.wikipedia.org/wiki/Locus_Award%2C_given_by_Locus_Magazine"
+    },
+    {
+      "text": "Nalo Hopkinson blends Caribbean folklore with science fiction in novels like 'Brown Girl in the Ring.'",
+      "source": "https://en.wikipedia.org/wiki/Nalo_Hopkinson"
+    },
+    {
+      "text": "The concept of asteroid mining, common in sci-fi, is now being seriously pursued by companies like Planetary Resources.",
+      "source": "https://en.wikipedia.org/wiki/concept_of_asteroid_mining%2C_common_in_sci-fi"
+    },
+    {
+      "text": "Samuel R. Delany's 'Babel-17' explored the idea that language can shape and even control thought.",
+      "source": "https://en.wikipedia.org/wiki/Samuel_R._Delany%27s"
+    },
+    {
+      "text": "Ray Bradbury refused to allow 'Fahrenheit 451' to be published as an e-book for many years, only relenting in 2011.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Ray_Bradbury"
+    },
+    {
+      "text": "The Stanford torus is a space colony concept proposed in 1975 that could house 10,000 to 140,000 people.",
+      "source": "https://en.wikipedia.org/wiki/Stanford_torus"
+    },
+    {
+      "text": "Nancy Kress's 'Beggars in Spain' explores a world where genetic engineering creates humans who never need to sleep.",
+      "source": "https://en.wikipedia.org/wiki/Nancy_Kress%27s"
+    },
+    {
+      "text": "The idea of a 'clone army' in fiction predates real cloning technology by decades.",
+      "source": "https://en.wikipedia.org/wiki/Science_Fiction"
+    },
+    {
+      "text": "Kurt Vonnegut was reluctant to be labeled a science fiction writer, fearing it diminished critical respect for his work.",
+      "source": "https://en.wikipedia.org/wiki/Kurt_Vonnegut"
+    },
+    {
+      "text": "The first English-language sci-fi magazine published in Japan was 'Hayakawa's S-F Magazine,' starting in 1960.",
+      "source": "https://en.wikipedia.org/wiki/first_English-language_sci-fi_magazine_published_in_Japan"
+    },
+    {
+      "text": "John Brunner's 'Stand on Zanzibar' (1968) predicted overpopulation, terrorism, and Viagra-like drugs.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Zanzibar"
+    },
+    {
+      "text": "The concept of a megacity — a sprawling urban center home to tens of millions — is a fixture of cyberpunk fiction.",
+      "source": "https://en.wikipedia.org/wiki/concept_of_a_megacity_%E2%80%94_a_sprawling_urban_center_home_to_tens_of_millions_%E2%80%94"
+    },
+    {
+      "text": "Jo Walton's 'Among Others' is a semi-autobiographical novel about a young woman whose life is shaped by reading science fiction.",
+      "source": "https://en.wikipedia.org/wiki/Jo_Walton%27s_%27Among_Others"
+    },
+    {
+      "text": "Arthur C. Clarke proposed that future technology would be able to terraform Venus by seeding its atmosphere with algae.",
+      "source": "https://en.wikipedia.org/wiki/Arthur_C._Clarke"
+    },
+    {
+      "text": "The concept of a 'Bracewell probe' — an autonomous interstellar probe that communicates with other civilizations — was theorized in 1960.",
+      "source": "https://en.wikipedia.org/wiki/Science_Fiction"
+    },
+    {
+      "text": "Vonda McIntyre's 'Dreamsnake' won both the Hugo and Nebula Awards in 1979.",
+      "source": "https://en.wikipedia.org/wiki/Vonda_McIntyre%27s_%27Dreamsnake"
+    },
+    {
+      "text": "The Strugatsky brothers' 'Roadside Picnic' introduced the concept of an alien 'Zone' with incomprehensible artifacts.",
+      "source": "https://en.wikipedia.org/wiki/Strugatsky_brothers%27_%27Roadside_Picnic"
+    },
+    {
+      "text": "Science fiction conventions typically feature panels, readings, art shows, masquerades, and dealer rooms.",
+      "source": "https://en.wikipedia.org/wiki/Science_Fiction"
+    },
+    {
+      "text": "Arkady Martine's 'A Memory Called Empire' explores how language and poetry can be tools of imperialism.",
+      "source": "https://en.wikipedia.org/wiki/Arkady_Martine%27s_%27A_Memory"
+    },
+    {
+      "text": "The first issue of Galaxy Science Fiction magazine, published in October 1950, featured a story by Isaac Asimov.",
+      "month": 10,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/Galaxy_Science_Fiction"
+    },
+    {
+      "text": "The concept of a 'memory palace' from classical rhetoric has been adopted in sci-fi for digital storage of experiences.",
+      "source": "https://en.wikipedia.org/wiki/concept_of_a_%27memory_palace%27_from_classical_rhetoric"
+    },
+    {
+      "text": "Ken Liu both writes original science fiction and translates Chinese sci-fi, including Liu Cixin's work, into English.",
+      "source": "https://en.wikipedia.org/wiki/Ken_Liu_both"
+    },
+    {
+      "text": "The concept of a 'generation starship' requires solving problems of ecology, governance, and culture for centuries-long voyages.",
+      "source": "https://en.wikipedia.org/wiki/Science_Fiction"
+    },
+    {
+      "text": "Heinlein's 'The Moon Is a Harsh Mistress' features a sentient computer named Mike and explores lunar colonist revolution.",
+      "source": "https://en.wikipedia.org/wiki/Heinlein%27s_%27The_Moon"
+    },
+    {
+      "text": "The International Space Station has hosted a book club that has included science fiction selections.",
+      "source": "https://en.wikipedia.org/wiki/International_Space_Station"
+    },
+    {
+      "text": "The 'Kardashev scale' was proposed by Soviet astronomer Nikolai Kardashev in 1964 to classify advanced civilizations.",
+      "source": "https://en.wikipedia.org/wiki/%27Kardashev_scale"
+    },
+    {
+      "text": "Adrian Tchaikovsky's 'Children of Time' depicts the evolution of spiders into an intelligent civilization.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Adrian_Tchaikovsky%27s"
+    },
+    {
+      "text": "A Penrose process extracts energy from a rotating black hole, a concept used in both theoretical physics and sci-fi.",
+      "source": "https://en.wikipedia.org/wiki/A_Penrose"
+    },
+    {
+      "text": "R.A. Lafferty's surreal short stories are considered some of the most unique works in the science fiction canon.",
+      "source": "https://en.wikipedia.org/wiki/R.A._Lafferty%27s_surreal_short_stories"
+    },
+    {
+      "text": "Isaac Asimov coined the term 'psychohistory' for his Foundation series, blending psychology, history, and statistics.",
+      "source": "https://en.wikipedia.org/wiki/Isaac_Asimov"
+    },
+    {
+      "text": "The 'bootstrapping paradox' in time travel occurs when an object or information is sent back in time and becomes its own origin.",
+      "source": "https://en.wikipedia.org/wiki/%27bootstrapping_paradox%27_in_time_travel_occurs_when_an_object_or_information"
+    },
+    {
+      "text": "Mary Robinette Kowal's Lady Astronaut series imagines an alternative 1950s where a meteorite impact accelerates the space program.",
+      "source": "https://en.wikipedia.org/wiki/Mary_Robinette_Kowal%27s_Lady_Astronaut"
+    },
+    {
+      "text": "The concept of a 'Shkadov thruster' — using a star's radiation pressure to move an entire solar system — was proposed in 1987.",
+      "source": "https://en.wikipedia.org/wiki/Science_Fiction"
+    },
+    {
+      "text": "Samuel Delany was one of the first openly gay African American science fiction writers to achieve mainstream success.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Samuel_Delany"
+    },
+    {
+      "text": "Kim Stanley Robinson's 'The Ministry for the Future' blends science fiction with climate activism and policy discussion.",
+      "source": "https://en.wikipedia.org/wiki/Kim_Stanley_Robinson%27s"
+    },
+    {
+      "text": "NASA's Artemis program to return humans to the Moon echoes decades of sci-fi novels about lunar exploration.",
+      "source": "https://en.wikipedia.org/wiki/NASA%27s_Artemis"
+    },
+    {
+      "text": "The 'Fermi bubbles' — enormous structures extending from the Milky Way's center — have inspired speculative fiction about galactic engineering.",
+      "source": "https://en.wikipedia.org/wiki/%27Fermi_bubbles%27_%E2%80%94_enormous_structures_extending_from_the_Milky_Way%27s_center_%E2%80%94"
+    },
+    {
+      "text": "James S.A. Corey is actually the pen name of two authors, Daniel Abraham and Ty Franck, who co-wrote The Expanse series.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/James_S.A._Corey"
+    },
+    {
+      "text": "Kazuo Ishiguro's 'Never Let Me Go' uses science fiction elements to explore mortality and the ethics of cloning.",
+      "source": "https://en.wikipedia.org/wiki/Kazuo_Ishiguro%27s"
+    },
+    {
+      "text": "The 1968 novel 'Do Androids Dream of Electric Sheep?' by Philip K. Dick questions whether empathy is the defining human trait.",
+      "source": "https://en.wikipedia.org/wiki/1968"
+    },
+    {
+      "text": "L. Ron Hubbard began his career as a science fiction writer before founding Scientology.",
+      "source": "https://en.wikipedia.org/wiki/L._Ron_Hubbard"
+    },
+    {
+      "text": "The subgenre of 'cli-fi' (climate fiction) focuses on the effects of climate change and environmental catastrophe.",
+      "source": "https://en.wikipedia.org/wiki/Science_Fiction"
+    },
+    {
+      "text": "Andy Weir's 'Project Hail Mary' features a protagonist who must save Earth by understanding alien biochemistry.",
+      "source": "https://en.wikipedia.org/wiki/Andy_Weir%27s_%27Project_Hail_Mary"
+    },
+    {
+      "text": "The concept of an 'orbital ring' — a ring of material orbiting a planet — could theoretically support space elevators around its circumference.",
+      "source": "https://en.wikipedia.org/wiki/Science_Fiction"
+    },
+    {
+      "text": "Ursula K. Le Guin refused the National Book Foundation's Medal for Distinguished Contribution to American Letters speech format and instead used it to advocate for genre fiction.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Ursula_K._Le_Guin"
+    },
+    {
+      "text": "The concept of 'quantum entanglement' is often used (and misused) in sci-fi for instantaneous communication.",
+      "source": "https://en.wikipedia.org/wiki/concept_of_%27quantum_entanglement"
+    },
+    {
+      "text": "H.G. Wells' 'The Island of Doctor Moreau' explored genetic engineering and bioethics over a century before CRISPR.",
+      "source": "https://en.wikipedia.org/wiki/H.G._Wells"
+    },
+    {
+      "text": "The Retro Hugo Awards honor works from 50 or 75 years ago that were not eligible for Hugos at the time.",
+      "source": "https://en.wikipedia.org/wiki/Retro_Hugo_Awards_honor_works_from_50_or_75_years_ago_that"
+    },
+    {
+      "text": "Nnedi Okofor's 'Binti' combines African Himba culture with far-future space travel.",
+      "source": "https://en.wikipedia.org/wiki/Nnedi_Okofor%27s"
+    },
+    {
+      "text": "The interstellar medium — the matter and radiation between star systems — poses real challenges for the interstellar travel depicted in sci-fi.",
+      "source": "https://en.wikipedia.org/wiki/Science_Fiction"
+    },
+    {
+      "text": "Isaac Asimov wrote his first published story, 'Marooned Off Vesta,' when he was just 18 years old.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Isaac_Asimov"
+    },
+    {
+      "text": "The Worldcon Hugo ceremony has been held on every inhabited continent except Africa.",
+      "source": "https://en.wikipedia.org/wiki/Worldcon_Hugo_ceremony"
+    },
+    {
+      "text": "Tamsyn Muir's Locked Tomb series blends science fiction with necromancy and has a devoted online fandom.",
+      "source": "https://en.wikipedia.org/wiki/Tamsyn_Muir%27s_Locked_Tomb_series_blends_science_fiction_with_necromancy_and"
+    },
+    {
+      "text": "The concept of 'computronium' — matter optimized for computation — is a common element in singularity fiction.",
+      "source": "https://en.wikipedia.org/wiki/concept_of_%27computronium%27_%E2%80%94_matter_optimized_for_computation_%E2%80%94"
+    },
+    {
+      "text": "Robert Heinlein's novel 'Friday' predicted the rise of private courier services and balkanized nation-states.",
+      "source": "https://en.wikipedia.org/wiki/Robert_Heinlein%27s"
+    },
+    {
+      "text": "The first Hugo Award for Best Short Story was given in 1955.",
+      "source": "https://en.wikipedia.org/wiki/first_Hugo_Award_for_Best_Short_Story"
+    },
+    {
+      "text": "Charlie Jane Anders' 'All the Birds in the Sky' blends science fiction and fantasy, positing them as opposing worldviews.",
+      "source": "https://en.wikipedia.org/wiki/Charlie_Jane_Anders"
+    },
+    {
+      "text": "A Bussard ramjet would theoretically use a magnetic field hundreds of kilometers wide to scoop up interstellar hydrogen.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/A_Bussard"
+    },
+    {
+      "text": "The Japanese sci-fi tradition includes unique concepts like 'sekai-kei,' stories where personal relationships mirror global or cosmic stakes.",
+      "source": "https://en.wikipedia.org/wiki/Japanese_sci-fi_tradition"
+    },
+    {
+      "text": "Robert Heinlein's 'The Door into Summer' (1957) described robotic household cleaners decades before the Roomba.",
+      "source": "https://en.wikipedia.org/wiki/Summer"
+    },
+    {
+      "text": "Connie Willis's time-travel novels set in Oxford, like 'Doomsday Book' and 'To Say Nothing of the Dog,' combine sci-fi with historical fiction.",
+      "source": "https://en.wikipedia.org/wiki/Connie_Willis%27s_time-travel_novels"
+    },
+    {
+      "text": "The Nebula Award trophy is a block of Lucite with embedded rock crystal and a metallic spiral nebula.",
+      "source": "https://en.wikipedia.org/wiki/Nebula_Award_trophy"
+    },
+    {
+      "text": "Peter Hamilton's 'Night's Dawn Trilogy' totals over a million words across its three massive volumes.",
+      "source": "https://en.wikipedia.org/wiki/Peter_Hamilton%27s"
+    },
+    {
+      "text": "The concept of AI alignment — ensuring artificial intelligence acts in humanity's interest — is now a serious research field inspired by sci-fi cautionary tales.",
+      "source": "https://en.wikipedia.org/wiki/Science_Fiction"
+    },
+    {
+      "text": "Vernor Vinge's 'A Fire Upon the Deep' introduced 'zones of thought,' regions of the galaxy where different physics applies.",
+      "source": "https://en.wikipedia.org/wiki/Vernor_Vinge%27s_%27A_Fire_Upon_the_Deep"
+    },
+    {
+      "text": "LeVar Burton's Reading Rainbow featured science fiction books for young readers, helping introduce the genre to new audiences.",
+      "source": "https://en.wikipedia.org/wiki/LeVar_Burton%27s_Reading_Rainbow"
+    },
+    {
+      "text": "Douglas Adams died unexpectedly of a heart attack on May 11, 2001, at the age of 49.",
+      "month": 5,
+      "day": 11,
+      "source": "https://en.wikipedia.org/wiki/Douglas_Adams"
+    },
+    {
+      "text": "The concept of a 'paperless office' predicted in sci-fi has only been partially realized, despite advances in digital technology.",
+      "source": "https://en.wikipedia.org/wiki/concept_of_a_%27paperless_office%27_predicted_in_sci-fi"
+    },
+    {
+      "text": "N.K. Jemisin lives in Brooklyn, New York, and worked as a career counselor before becoming a full-time writer.",
+      "source": "https://en.wikipedia.org/wiki/N.K._Jemisin"
+    },
+    {
+      "text": "Jules Verne's 'Paris in the Twentieth Century,' written in 1863, predicted gas-powered automobiles, fax machines, and electric lighting.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Jules_Verne%27s"
+    },
+    {
+      "text": "The concept of 'uplifting' alien species to sentience raises ethical questions explored in David Brin's work and in real debates about animal cognition.",
+      "source": "https://en.wikipedia.org/wiki/David_Brin%27s"
+    },
+    {
+      "text": "The Magazine of Fantasy & Science Fiction has been published continuously since 1949, making it one of the genre's longest-running publications.",
+      "source": "https://en.wikipedia.org/wiki/Magazine_of_Fantasy_%26_Science_Fiction"
+    },
+    {
+      "text": "Kurt Vonnegut's 'Cat's Cradle' introduced the fictional substance 'ice-nine,' which freezes all water it contacts.",
+      "source": "https://en.wikipedia.org/wiki/Kurt_Vonnegut%27s_%27Cat%27s_Cradle"
+    },
+    {
+      "text": "The science fiction canon includes works originally written in dozens of languages, not just English.",
+      "source": "https://en.wikipedia.org/wiki/science_fiction_canon"
+    },
+    {
+      "text": "Jeff VanderMeer's Southern Reach trilogy — beginning with 'Annihilation' — defined the 'New Weird' subgenre.",
+      "source": "https://en.wikipedia.org/wiki/Jeff_VanderMeer%27s_Southern_Reach"
+    },
+    {
+      "text": "Elon Musk named SpaceX's autonomous drone ships after Culture ships from Iain M. Banks' novels.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Elon_Musk"
+    },
+    {
+      "text": "The 'Kessler syndrome' — a cascade of space debris collisions — was explored in sci-fi before becoming a real concern for space agencies.",
+      "source": "https://en.wikipedia.org/wiki/%27Kessler_syndrome%27_%E2%80%94_a_cascade_of_space_debris_collisions_%E2%80%94"
+    },
+    {
+      "text": "One of the largest sci-fi book collections in the world belongs to the Science Fiction and Fantasy Collection at the University of Liverpool.",
+      "source": "https://en.wikipedia.org/wiki/One_of_the"
+    },
+    {
+      "text": "Becky Chambers has described her Wayfarers books as 'hopepunk' — the opposite of grimdark fiction.",
+      "source": "https://en.wikipedia.org/wiki/Becky_Chambers"
+    },
+    {
+      "text": "The first known use of the word 'astronaut' in fiction appeared in Neil R. Jones' 1931 story 'The Jameson Satellite.'",
+      "source": "https://en.wikipedia.org/wiki/first_known_use_of_the_word_%27astronaut%27_in_fiction"
+    },
+    {
+      "text": "Le Guin's Hainish Cycle posits that humans were seeded on many planets by an ancient civilization called the Hain.",
+      "source": "https://en.wikipedia.org/wiki/Le_Guin%27s_Hainish_Cycle_posits_that_humans"
+    },
+    {
+      "text": "The concept of a 'generation gap' aboard generation ships is a frequent plot device in interstellar fiction.",
+      "source": "https://en.wikipedia.org/wiki/concept_of_a_%27generation_gap%27_aboard_generation_ships"
+    },
+    {
+      "text": "Ted Chiang worked as a technical writer in the software industry while writing his award-winning fiction.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Ted_Chiang"
+    },
+    {
+      "text": "The 'dark forest' theory from Liu Cixin's work has become a widely discussed concept in real scientific circles studying the Fermi Paradox.",
+      "source": "https://en.wikipedia.org/wiki/%27dark_forest%27_theory_from_Liu_Cixin%27s_work"
+    },
+    {
+      "text": "Robert Heinlein predicted the waterbed, the Cold War, and nuclear power in his early stories from the 1940s.",
+      "source": "https://en.wikipedia.org/wiki/Robert_Heinlein"
+    }
+  ]
+}

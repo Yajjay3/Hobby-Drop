@@ -1,0 +1,1706 @@
+{
+  "hobby": "Horse Riding & Equestrian",
+  "facts": [
+    {
+      "text": "Equestrian is the only Olympic sport in which men and women compete directly against each other on equal terms.",
+      "source": "https://en.wikipedia.org/wiki/Equestrian"
+    },
+    {
+      "text": "Secretariat set the still-unbroken Kentucky Derby record of 1:59.4 in 1973, winning by 2½ lengths.",
+      "month": 5,
+      "day": 5,
+      "source": "https://en.wikipedia.org/wiki/Secretariat"
+    },
+    {
+      "text": "A horse's hoof is essentially a single toe — horses are perissodactyls, or odd-toed ungulates.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/A_horse%27s_hoof"
+    },
+    {
+      "text": "The Thoroughbred breed traces back to three foundation stallions: the Byerly Turk, the Darley Arabian, and the Godolphin Arabian.",
+      "source": "https://en.wikipedia.org/wiki/Thoroughbred"
+    },
+    {
+      "text": "Western saddles weigh 25–60 pounds, while English saddles typically weigh only 10–25 pounds.",
+      "source": "https://en.wikipedia.org/wiki/Horse_Riding_%26_Equestrian"
+    },
+    {
+      "text": "Polo is sometimes called 'the sport of kings' and has been played for over 2,000 years.",
+      "source": "https://en.wikipedia.org/wiki/Polo"
+    },
+    {
+      "text": "Horses can sleep both lying down and standing up, thanks to a 'stay apparatus' in their legs that locks their joints.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Horse_Riding_%26_Equestrian"
+    },
+    {
+      "text": "The Kentucky Derby has been held annually at Churchill Downs in Louisville, Kentucky since 1875.",
+      "month": 5,
+      "day": 3,
+      "source": "https://en.wikipedia.org/wiki/Kentucky_Derby"
+    },
+    {
+      "text": "Charlotte Dujardin became the most decorated female Olympic equestrian athlete with six medals across three Games.",
+      "source": "https://en.wikipedia.org/wiki/Charlotte_Dujardin"
+    },
+    {
+      "text": "The Lipizzaner stallions of the Spanish Riding School in Vienna have been trained in classical dressage since 1572.",
+      "source": "https://en.wikipedia.org/wiki/Lipizzaner_stallions_of_the_Spanish_Riding_School_in_Vienna"
+    },
+    {
+      "text": "A farrier typically replaces horseshoes every 6 to 8 weeks as the hoof grows.",
+      "source": "https://en.wikipedia.org/wiki/Horse_Riding_%26_Equestrian"
+    },
+    {
+      "text": "Barrel racing is a rodeo event predominantly competed in by women and requires incredible speed and agility from both horse and rider.",
+      "source": "https://en.wikipedia.org/wiki/Barrel_racing"
+    },
+    {
+      "text": "Horses have the largest eyes of any land mammal and can see nearly 360 degrees around them.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Horses"
+    },
+    {
+      "text": "The Preakness Stakes, the second leg of the Triple Crown, is held at Pimlico Race Course in Baltimore.",
+      "month": 5,
+      "day": 17,
+      "source": "https://en.wikipedia.org/wiki/Preakness_Stakes%2C_the_second_leg_of_the_Triple_Crown"
+    },
+    {
+      "text": "Seabiscuit, an undersized Thoroughbred, became a symbol of hope during the Great Depression and was the top U.S. newsmaker in 1938.",
+      "source": "https://en.wikipedia.org/wiki/Seabiscuit%2C_an_undersized_Thoroughbred"
+    },
+    {
+      "text": "Dressage, from the French word for 'training,' is often described as horse ballet.",
+      "source": "https://en.wikipedia.org/wiki/Dressage%2C_from_the_French_word_for_%27training"
+    },
+    {
+      "text": "The Arabian horse is one of the oldest breeds in the world, with archaeological evidence dating back over 4,500 years.",
+      "source": "https://en.wikipedia.org/wiki/Arabian_horse"
+    },
+    {
+      "text": "The Calgary Stampede, billed as 'The Greatest Outdoor Show on Earth,' has been held since 1912.",
+      "month": 7,
+      "day": 3,
+      "source": "https://en.wikipedia.org/wiki/Calgary_Stampede%2C_billed_as_%27The_Greatest_Outdoor_Show_on_Earth"
+    },
+    {
+      "text": "A horse's heart weighs about 9–10 pounds and can pump roughly 75 liters of blood per minute during exercise.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Horse_Riding_%26_Equestrian"
+    },
+    {
+      "text": "Show jumping courses can have obstacles up to 1.70 meters (5 feet 7 inches) high at the Grand Prix level.",
+      "source": "https://en.wikipedia.org/wiki/Show_jumping_courses_can"
+    },
+    {
+      "text": "The Clydesdale breed originated in Scotland and became famous through the Budweiser Clydesdale advertising campaigns.",
+      "source": "https://en.wikipedia.org/wiki/Clydesdale_breed_originated_in_Scotland_and"
+    },
+    {
+      "text": "Horses were first domesticated on the steppes of Central Asia around 4000 BCE.",
+      "source": "https://en.wikipedia.org/wiki/Horses"
+    },
+    {
+      "text": "The Belmont Stakes, the final leg of the Triple Crown, is held at Belmont Park in Elmont, New York.",
+      "month": 6,
+      "day": 7,
+      "source": "https://en.wikipedia.org/wiki/Belmont_Stakes%2C_the_final_leg_of_the_Triple_Crown"
+    },
+    {
+      "text": "Isabell Werth of Germany is the most successful Olympic dressage rider ever, with multiple gold and silver medals.",
+      "source": "https://en.wikipedia.org/wiki/Isabell_Werth_of_Germany"
+    },
+    {
+      "text": "A horse can run within hours of being born, an evolutionary trait for escaping predators.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/A_horse_can"
+    },
+    {
+      "text": "Eventing, also called 'horse triathlon,' combines dressage, cross-country, and show jumping in a single competition.",
+      "source": "https://en.wikipedia.org/wiki/Eventing%2C_also"
+    },
+    {
+      "text": "The Quarter Horse got its name from being the fastest breed over a quarter-mile distance.",
+      "source": "https://en.wikipedia.org/wiki/Quarter_Horse"
+    },
+    {
+      "text": "Prince Charles was a dedicated polo player for decades before retiring from the sport due to injuries.",
+      "source": "https://en.wikipedia.org/wiki/Prince_Charles"
+    },
+    {
+      "text": "English riding uses a smaller, lighter saddle that allows closer contact between rider and horse.",
+      "source": "https://en.wikipedia.org/wiki/Horse_Riding_%26_Equestrian"
+    },
+    {
+      "text": "Horses have approximately 205 bones in their skeleton.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Horses"
+    },
+    {
+      "text": "The Pony Express operated from April 1860 to October 1861, covering nearly 2,000 miles between Missouri and California.",
+      "source": "https://en.wikipedia.org/wiki/Pony_Express"
+    },
+    {
+      "text": "Royal Ascot is a prestigious five-day race meeting attended by the British Royal Family each June.",
+      "month": 6,
+      "day": 18,
+      "source": "https://en.wikipedia.org/wiki/Royal_Ascot"
+    },
+    {
+      "text": "Black Beauty, published by Anna Sewell in 1877, was one of the first novels written from an animal's perspective.",
+      "source": "https://en.wikipedia.org/wiki/Black_Beauty%2C_published_by_Anna_Sewell_in_1877"
+    },
+    {
+      "text": "Frankel, a British racehorse, retired unbeaten after 14 races and is considered one of the greatest racehorses ever.",
+      "source": "https://en.wikipedia.org/wiki/Frankel%2C_a_British_racehorse%2C_retired_unbeaten_after_14_races_and"
+    },
+    {
+      "text": "A horse's teeth take up more space in its head than its brain does.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Horse_Riding_%26_Equestrian"
+    },
+    {
+      "text": "Vaulting is the discipline of performing gymnastics and dance on horseback while the horse moves on a lunge line.",
+      "source": "https://en.wikipedia.org/wiki/Vaulting"
+    },
+    {
+      "text": "The Friesian horse from the Netherlands is known for its striking black coat and feathered fetlocks.",
+      "source": "https://en.wikipedia.org/wiki/Friesian_horse_from_the_Netherlands"
+    },
+    {
+      "text": "Endurance riding competitions can cover 50 to 100 miles in a single day over varied terrain.",
+      "source": "https://en.wikipedia.org/wiki/Horse_Riding_%26_Equestrian"
+    },
+    {
+      "text": "American Pharoah became the 12th Triple Crown winner in 2015, ending a 37-year drought.",
+      "month": 6,
+      "day": 6,
+      "source": "https://en.wikipedia.org/wiki/American_Pharoah"
+    },
+    {
+      "text": "The Melbourne Cup is Australia's most famous horse race, known as 'the race that stops a nation.'",
+      "month": 11,
+      "day": 3,
+      "source": "https://en.wikipedia.org/wiki/Melbourne_Cup"
+    },
+    {
+      "text": "Horses communicate through a complex system of vocalizations, body language, and facial expressions.",
+      "source": "https://en.wikipedia.org/wiki/Horse_Riding_%26_Equestrian"
+    },
+    {
+      "text": "McLain Ward is one of the most successful American show jumpers, with two Olympic gold medals in team events.",
+      "source": "https://en.wikipedia.org/wiki/McLain_Ward"
+    },
+    {
+      "text": "A horse typically drinks 5 to 10 gallons of water per day, and more in hot weather or during exercise.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Horse_Riding_%26_Equestrian"
+    },
+    {
+      "text": "The Appaloosa is known for its distinctive leopard-spotted coat pattern and was bred by the Nez Perce people.",
+      "source": "https://en.wikipedia.org/wiki/Appaloosa"
+    },
+    {
+      "text": "Professional Bull Riders (PBR) events feature riders attempting to stay on a bucking bull for eight seconds.",
+      "source": "https://en.wikipedia.org/wiki/Professional_Bull_Riders"
+    },
+    {
+      "text": "The Andalusian horse, also known as the Pure Spanish Horse, has been prized for its athleticism since the 15th century.",
+      "source": "https://en.wikipedia.org/wiki/Andalusian_horse%2C_also_known_as_the_Pure_Spanish_Horse"
+    },
+    {
+      "text": "Beezie Madden is the only show jumper to win back-to-back World Cup Finals and holds multiple Olympic medals.",
+      "source": "https://en.wikipedia.org/wiki/Beezie_Madden"
+    },
+    {
+      "text": "Horses can gallop at speeds up to 55 mph, with the fastest recorded speed being 43.97 mph over a sustained distance.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Horses_can_gallop_at_speeds_up_to_55_mph%2C_with_the_fastest"
+    },
+    {
+      "text": "The snaffle bit is the most common type of bit and works by applying direct pressure to the corners of the horse's mouth.",
+      "source": "https://en.wikipedia.org/wiki/snaffle_bit"
+    },
+    {
+      "text": "Cavalry units were a dominant military force for thousands of years until mechanized warfare made them obsolete in the 20th century.",
+      "source": "https://en.wikipedia.org/wiki/Cavalry_units"
+    },
+    {
+      "text": "The first equestrian events at the modern Olympics were held in 1900 in Paris.",
+      "month": 5,
+      "day": 14,
+      "source": "https://en.wikipedia.org/wiki/first_equestrian_events_at_the_modern_Olympics"
+    },
+    {
+      "text": "Zara Tindall, granddaughter of Queen Elizabeth II, won a silver medal in eventing at the 2012 London Olympics.",
+      "source": "https://en.wikipedia.org/wiki/Zara_Tindall%2C_granddaughter_of_Queen_Elizabeth_II"
+    },
+    {
+      "text": "A horse's field of vision covers about 350 degrees, with two small blind spots directly in front of and behind them.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Horse_Riding_%26_Equestrian"
+    },
+    {
+      "text": "Reining is a Western riding discipline where the horse performs spins, slides, and stops guided by subtle rider cues.",
+      "source": "https://en.wikipedia.org/wiki/Reining"
+    },
+    {
+      "text": "Mustangs are free-roaming horses of the American West, descended from horses brought by Spanish explorers.",
+      "source": "https://en.wikipedia.org/wiki/Mustangs"
+    },
+    {
+      "text": "Grooming a horse before riding helps stimulate blood flow, removes dirt, and allows the rider to check for injuries.",
+      "source": "https://en.wikipedia.org/wiki/Horse_Riding_%26_Equestrian"
+    },
+    {
+      "text": "The novel 'War Horse' by Michael Morpurgo was adapted into both a stage play and a Steven Spielberg film.",
+      "month": 12,
+      "day": 25,
+      "source": "https://en.wikipedia.org/wiki/novel_%27War_Horse%27_by_Michael_Morpurgo"
+    },
+    {
+      "text": "Argentina has produced some of the world's best polo players, including Adolfo Cambiaso, the highest-rated player ever.",
+      "source": "https://en.wikipedia.org/wiki/Argentina"
+    },
+    {
+      "text": "Horses are herbivores with a digestive system designed for small, frequent meals of forage like hay and grass.",
+      "source": "https://en.wikipedia.org/wiki/Horses"
+    },
+    {
+      "text": "The Grand National at Aintree is one of the most famous steeplechase races in the world.",
+      "month": 4,
+      "day": 10,
+      "source": "https://en.wikipedia.org/wiki/Grand_National_at_Aintree"
+    },
+    {
+      "text": "A horse's hoof grows about 6–9 mm per month and requires regular trimming even without shoes.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Horse_Riding_%26_Equestrian"
+    },
+    {
+      "text": "Show jumping was the first equestrian discipline to be included in the Olympics, debuting in 1912.",
+      "source": "https://en.wikipedia.org/wiki/Show_jumping"
+    },
+    {
+      "text": "The Cheyenne Frontier Days rodeo has been held annually in Wyoming since 1897.",
+      "month": 7,
+      "day": 23,
+      "source": "https://en.wikipedia.org/wiki/Cheyenne_Frontier_Days_rodeo"
+    },
+    {
+      "text": "Horses have excellent long-term memory and can remember people and places for years.",
+      "source": "https://en.wikipedia.org/wiki/Horses"
+    },
+    {
+      "text": "The sport of polo requires a minimum of four players per team riding on a grass field up to 300 yards long.",
+      "source": "https://en.wikipedia.org/wiki/Horse_Riding_%26_Equestrian"
+    },
+    {
+      "text": "Man o' War won 20 of 21 career races and was voted the greatest racehorse of the 20th century by the Associated Press.",
+      "source": "https://en.wikipedia.org/wiki/Man_o%27_War"
+    },
+    {
+      "text": "An adult horse's brain weighs about 22 ounces, roughly half the weight of a human brain.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Horse_Riding_%26_Equestrian"
+    },
+    {
+      "text": "Cross-country in eventing tests a horse's stamina and courage over solid obstacles on natural terrain.",
+      "source": "https://en.wikipedia.org/wiki/Cross-country_in"
+    },
+    {
+      "text": "Riding helmets must meet safety standards such as ASTM/SEI certification to protect against head injuries.",
+      "source": "https://en.wikipedia.org/wiki/Horse_Riding_%26_Equestrian"
+    },
+    {
+      "text": "The Budenny horse was developed in Russia as a military mount and is now used for show jumping and eventing.",
+      "source": "https://en.wikipedia.org/wiki/Budenny_horse"
+    },
+    {
+      "text": "Spirit: Stallion of the Cimarron was a 2002 animated film about a wild Mustang in the Old West.",
+      "source": "https://en.wikipedia.org/wiki/Spirit:_Stallion_of_the_Cimarron"
+    },
+    {
+      "text": "Horses have 16 muscles in each ear, allowing them to rotate their ears 180 degrees independently.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Horses"
+    },
+    {
+      "text": "The Kentucky Derby is known as 'The Most Exciting Two Minutes in Sports.'",
+      "source": "https://en.wikipedia.org/wiki/Kentucky_Derby"
+    },
+    {
+      "text": "Western riding originated from the cattle-working traditions of Spanish vaqueros in the American West.",
+      "source": "https://en.wikipedia.org/wiki/American_West"
+    },
+    {
+      "text": "The Prix de l'Arc de Triomphe is Europe's most prestigious flat horse race, held at Longchamp, Paris.",
+      "month": 10,
+      "day": 4,
+      "source": "https://en.wikipedia.org/wiki/Prix_de_l%27Arc_de_Triomphe"
+    },
+    {
+      "text": "A stirrup iron should be one inch wider than the widest part of the rider's boot for safety.",
+      "source": "https://en.wikipedia.org/wiki/Horse_Riding_%26_Equestrian"
+    },
+    {
+      "text": "Horses can recognize human emotions from facial expressions and voice tone.",
+      "source": "https://en.wikipedia.org/wiki/Horse_Riding_%26_Equestrian"
+    },
+    {
+      "text": "The Hidalgo movie (2004) told the story of a Mustang competing in a 3,000-mile endurance race across the Arabian Desert.",
+      "source": "https://en.wikipedia.org/wiki/Hidalgo_movie_(2004)"
+    },
+    {
+      "text": "The average lifespan of a domestic horse is 25 to 30 years, though some live well into their 40s.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/average_lifespan_of_a_domestic_horse"
+    },
+    {
+      "text": "Affirmed was the last horse to win the Triple Crown before American Pharoah, accomplishing it in 1978.",
+      "source": "https://en.wikipedia.org/wiki/Affirmed"
+    },
+    {
+      "text": "A dressage arena measures either 20×40 meters (small) or 20×60 meters (large) and is marked with letters around its perimeter.",
+      "source": "https://en.wikipedia.org/wiki/A_dressage_arena_measures_either_20%C3%9740_meters_(small)_or_20%C3%9760_meters_(large)_and"
+    },
+    {
+      "text": "The Akhal-Teke horse from Turkmenistan has a distinctive metallic sheen to its coat that earned it the nickname 'golden horse.'",
+      "source": "https://en.wikipedia.org/wiki/Akhal-Teke_horse_from_Turkmenistan"
+    },
+    {
+      "text": "Calf roping, also called tie-down roping, requires a rider to lasso a calf, dismount, and tie three of its legs.",
+      "source": "https://en.wikipedia.org/wiki/Calf_roping%2C_also"
+    },
+    {
+      "text": "Horses produce approximately 50 pounds of manure per day.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Horse_Riding_%26_Equestrian"
+    },
+    {
+      "text": "The first Breeders' Cup was held in 1984 at Hollywood Park Racetrack.",
+      "month": 11,
+      "day": 10,
+      "source": "https://en.wikipedia.org/wiki/first_Breeders%27_Cup"
+    },
+    {
+      "text": "Equine-assisted therapy uses horses to help people with physical, emotional, and cognitive challenges.",
+      "source": "https://en.wikipedia.org/wiki/Horse_Riding_%26_Equestrian"
+    },
+    {
+      "text": "The Morgan horse is one of the earliest horse breeds developed in the United States, descending from a single stallion named Figure.",
+      "source": "https://en.wikipedia.org/wiki/Morgan_horse"
+    },
+    {
+      "text": "A bridle consists of the headstall, bit, and reins, and is the primary means of communication with the horse's head.",
+      "source": "https://en.wikipedia.org/wiki/A_bridle_consists_of_the_headstall%2C_bit%2C_and_reins%2C_and"
+    },
+    {
+      "text": "Nick Skelton won Olympic show jumping gold at age 58 at the 2016 Rio Games, one of the oldest Olympic equestrian champions.",
+      "source": "https://en.wikipedia.org/wiki/Nick_Skelton"
+    },
+    {
+      "text": "Horses can't vomit due to the strong muscles of their lower esophageal sphincter.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Horse_Riding_%26_Equestrian"
+    },
+    {
+      "text": "The Dubai World Cup is one of the richest horse races in the world, with a purse of $12 million.",
+      "month": 3,
+      "day": 28,
+      "source": "https://en.wikipedia.org/wiki/Dubai_World_Cup"
+    },
+    {
+      "text": "Mounted police units still operate in major cities worldwide, using horses for crowd control and community policing.",
+      "source": "https://en.wikipedia.org/wiki/Horse_Riding_%26_Equestrian"
+    },
+    {
+      "text": "The Hanoverian is one of the most successful warmblood breeds in Olympic dressage and show jumping.",
+      "source": "https://en.wikipedia.org/wiki/Hanoverian"
+    },
+    {
+      "text": "A horseshoe is traditionally considered a symbol of good luck when hung above a doorway.",
+      "source": "https://en.wikipedia.org/wiki/A_horseshoe"
+    },
+    {
+      "text": "The Spanish Riding School's Lipizzaner stallions are born dark and gradually turn white as they mature.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Spanish_Riding_School%27s_Lipizzaner_stallions"
+    },
+    {
+      "text": "Hans Günter Winkler of Germany won five Olympic gold medals in show jumping between 1956 and 1972.",
+      "source": "https://en.wikipedia.org/wiki/Hans_G%C3%BCnter_Winkler_of_Germany"
+    },
+    {
+      "text": "Equestrian vaulting was a demonstration sport at the 1920 Olympics in Antwerp.",
+      "source": "https://en.wikipedia.org/wiki/Equestrian_vaulting"
+    },
+    {
+      "text": "A horse's fetlock joint is analogous to the ball of a human foot, not the ankle as commonly believed.",
+      "source": "https://en.wikipedia.org/wiki/A_horse%27s_fetlock_joint"
+    },
+    {
+      "text": "The Paint Horse is known for its combination of white and dark coat patterns, and is one of the most popular breeds in the U.S.",
+      "source": "https://en.wikipedia.org/wiki/Paint_Horse"
+    },
+    {
+      "text": "Polo ponies are not actually ponies — any horse used for polo is called a 'pony' regardless of height.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Polo_ponies"
+    },
+    {
+      "text": "The Epsom Derby has been run since 1780 and is one of the five British Classics.",
+      "month": 6,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/Epsom_Derby"
+    },
+    {
+      "text": "A horse's lungs can hold about 55 liters of air, allowing for tremendous cardiovascular capacity during exercise.",
+      "source": "https://en.wikipedia.org/wiki/Horse_Riding_%26_Equestrian"
+    },
+    {
+      "text": "The Percheron draft horse from France was used extensively for hauling and farm work before motorized equipment.",
+      "source": "https://en.wikipedia.org/wiki/Percheron_draft_horse_from_France"
+    },
+    {
+      "text": "Barrel racing patterns form a cloverleaf shape around three barrels set in a triangular formation.",
+      "source": "https://en.wikipedia.org/wiki/Barrel_racing_patterns_form_a_cloverleaf_shape_around_three_barrels"
+    },
+    {
+      "text": "Mr. Ed, the talking horse from the 1960s TV show, was actually a palomino gelding named Bamboo Harvester.",
+      "source": "https://en.wikipedia.org/wiki/Mr._Ed%2C_the_talking_horse_from_the_1960s_TV_show"
+    },
+    {
+      "text": "Horses have two blind spots: one directly in front of their forehead and one directly behind their tail.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Horses"
+    },
+    {
+      "text": "Michael Jung of Germany is the only rider to have simultaneously held the Olympic, World, and European eventing titles.",
+      "source": "https://en.wikipedia.org/wiki/Michael_Jung_of_Germany"
+    },
+    {
+      "text": "A well-fitted saddle distributes the rider's weight evenly to prevent pressure points and soreness on the horse's back.",
+      "source": "https://en.wikipedia.org/wiki/Horse_Riding_%26_Equestrian"
+    },
+    {
+      "text": "The Tennessee Walking Horse is known for its unique four-beat 'running walk' gait.",
+      "source": "https://en.wikipedia.org/wiki/Tennessee_Walking_Horse"
+    },
+    {
+      "text": "The first recorded polo match was played in Persia (modern-day Iran) around 600 BC.",
+      "source": "https://en.wikipedia.org/wiki/first"
+    },
+    {
+      "text": "Secretariat's heart was found to weigh an estimated 22 pounds at necropsy — about 2.5 times the average horse heart.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Secretariat%27s_heart"
+    },
+    {
+      "text": "Equestrian events at the 1956 Melbourne Olympics were held in Stockholm, Sweden due to Australian quarantine laws.",
+      "month": 6,
+      "day": 10,
+      "source": "https://en.wikipedia.org/wiki/Equestrian_events_at_the_1956_Melbourne_Olympics"
+    },
+    {
+      "text": "A hand, the unit used to measure horse height, equals 4 inches.",
+      "source": "https://en.wikipedia.org/wiki/Horse_Riding_%26_Equestrian"
+    },
+    {
+      "text": "The Paso Fino horse from Latin America is prized for its smooth, natural four-beat gait.",
+      "source": "https://en.wikipedia.org/wiki/Paso_Fino_horse_from_Latin_America"
+    },
+    {
+      "text": "Side reins, draw reins, and martingales are auxiliary equipment used to help develop a horse's frame during training.",
+      "source": "https://en.wikipedia.org/wiki/Side_reins%2C_draw_reins%2C_and_martingales"
+    },
+    {
+      "text": "Horses are social animals that form strong bonds within herds and can become stressed when isolated.",
+      "source": "https://en.wikipedia.org/wiki/Horses"
+    },
+    {
+      "text": "The first Grand National steeplechase was run in 1839 at Aintree Racecourse in Liverpool.",
+      "source": "https://en.wikipedia.org/wiki/first_Grand_National_steeplechase"
+    },
+    {
+      "text": "A foal can stand and walk within one to two hours of being born.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Horse_Riding_%26_Equestrian"
+    },
+    {
+      "text": "Dressage was included in the Olympic Games starting in 1912 in Stockholm.",
+      "month": 7,
+      "day": 15,
+      "source": "https://en.wikipedia.org/wiki/Dressage"
+    },
+    {
+      "text": "The Trakehner horse originated in East Prussia and is one of the lightest and most refined warmblood breeds.",
+      "source": "https://en.wikipedia.org/wiki/Trakehner_horse_originated_in_East_Prussia_and"
+    },
+    {
+      "text": "Racehorses in the Northern Hemisphere all share the same official birthday of January 1.",
+      "month": 1,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/Racehorses_in_the_Northern_Hemisphere"
+    },
+    {
+      "text": "Riding boots with a heel of at least one inch prevent the foot from sliding through the stirrup.",
+      "source": "https://en.wikipedia.org/wiki/Horse_Riding_%26_Equestrian"
+    },
+    {
+      "text": "Winx, an Australian mare, won 33 consecutive races between 2015 and 2019.",
+      "source": "https://en.wikipedia.org/wiki/Winx%2C_an_Australian_mare"
+    },
+    {
+      "text": "The Haflinger breed from Austria is known for its chestnut color and flaxen mane and tail.",
+      "source": "https://en.wikipedia.org/wiki/Haflinger_breed_from_Austria"
+    },
+    {
+      "text": "Horses can detect vibrations in the ground through their hooves before humans can feel an approaching animal or vehicle.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Horse_Riding_%26_Equestrian"
+    },
+    {
+      "text": "The United States Equestrian Federation (USEF) is the national governing body for equestrian sports in America.",
+      "source": "https://en.wikipedia.org/wiki/United_States_Equestrian_Federation_(USEF)"
+    },
+    {
+      "text": "A horse can eat approximately 1.5 to 2 percent of its body weight in forage per day.",
+      "source": "https://en.wikipedia.org/wiki/Horse_Riding_%26_Equestrian"
+    },
+    {
+      "text": "Three-day eventing was originally designed to test military horses for versatility and stamina.",
+      "source": "https://en.wikipedia.org/wiki/Three-day_eventing"
+    },
+    {
+      "text": "The Marwari horse from India is known for its distinctive inward-curving ear tips.",
+      "source": "https://en.wikipedia.org/wiki/Marwari_horse_from_India"
+    },
+    {
+      "text": "Sidesaddle riding was developed in the Middle Ages to allow women in dresses to ride more modestly.",
+      "source": "https://en.wikipedia.org/wiki/Sidesaddle_riding"
+    },
+    {
+      "text": "Horses have a nearly 65-degree range of binocular vision directly in front of them.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Horses"
+    },
+    {
+      "text": "The Badminton Horse Trials is one of the most prestigious eventing competitions in the world.",
+      "month": 5,
+      "day": 8,
+      "source": "https://en.wikipedia.org/wiki/Badminton_Horse_Trials"
+    },
+    {
+      "text": "A girth or cinch secures the saddle to the horse's body by wrapping under the belly.",
+      "source": "https://en.wikipedia.org/wiki/Horse_Riding_%26_Equestrian"
+    },
+    {
+      "text": "The Shire horse holds the record for the tallest horse breed, sometimes exceeding 20 hands (80 inches) in height.",
+      "source": "https://en.wikipedia.org/wiki/Shire"
+    },
+    {
+      "text": "Justify won the Triple Crown in 2018, becoming only the second undefeated Triple Crown winner after Seattle Slew.",
+      "source": "https://en.wikipedia.org/wiki/Justify"
+    },
+    {
+      "text": "Horses use a 'flehmen response' — curling their upper lip — to better detect scents.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Horse_Riding_%26_Equestrian"
+    },
+    {
+      "text": "The Hambletonian Stakes is the most prestigious race in American harness racing.",
+      "month": 8,
+      "day": 2,
+      "source": "https://en.wikipedia.org/wiki/Hambletonian_Stakes"
+    },
+    {
+      "text": "Catherine the Great of Russia was an accomplished rider who often rode astride rather than sidesaddle.",
+      "source": "https://en.wikipedia.org/wiki/Catherine_the_Great_of_Russia"
+    },
+    {
+      "text": "The Connemara pony from Ireland is the country's only native breed and excels in show jumping.",
+      "source": "https://en.wikipedia.org/wiki/Connemara_pony_from_Ireland"
+    },
+    {
+      "text": "A horse's cannon bone (lower leg) has no muscles — only tendons, ligaments, and bone.",
+      "source": "https://en.wikipedia.org/wiki/A_horse%27s_cannon_bone_(lower_leg)"
+    },
+    {
+      "text": "Natural horsemanship emphasizes understanding horse psychology to build trust rather than using force.",
+      "source": "https://en.wikipedia.org/wiki/Horse_Riding_%26_Equestrian"
+    },
+    {
+      "text": "The miniature horse stands under 34–38 inches tall but is classified as a horse, not a pony.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/miniature_horse_stands_under_34%E2%80%9338_inches_tall_but"
+    },
+    {
+      "text": "Hunter/jumper competitions judge both the horse's form and technique over fences.",
+      "source": "https://en.wikipedia.org/wiki/Horse_Riding_%26_Equestrian"
+    },
+    {
+      "text": "The Standardbred horse is the primary breed used in harness racing and was developed in North America.",
+      "source": "https://en.wikipedia.org/wiki/Standardbred_horse"
+    },
+    {
+      "text": "George Morris is known as the father of American show jumping and coached the U.S. team for decades.",
+      "source": "https://en.wikipedia.org/wiki/George_Morris"
+    },
+    {
+      "text": "A curry comb is a rubber or metal tool used in circular motions to loosen dirt and dried mud from a horse's coat.",
+      "source": "https://en.wikipedia.org/wiki/A_curry_comb"
+    },
+    {
+      "text": "Horses typically have 40 teeth — 24 molars, 12 incisors, and 4 canines (usually only in males).",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Horses_typically"
+    },
+    {
+      "text": "The first U.S. Triple Crown was won by Sir Barton in 1919.",
+      "source": "https://en.wikipedia.org/wiki/first_U.S._Triple_Crown"
+    },
+    {
+      "text": "Draft horses like the Clydesdale, Percheron, and Belgian were bred for heavy farm and industrial work.",
+      "source": "https://en.wikipedia.org/wiki/Draft_horses_like_the_Clydesdale%2C_Percheron%2C_and_Belgian"
+    },
+    {
+      "text": "The World Equestrian Games are held every four years and feature eight equestrian disciplines.",
+      "month": 9,
+      "day": 15,
+      "source": "https://en.wikipedia.org/wiki/World_Equestrian_Games"
+    },
+    {
+      "text": "A breastplate prevents the saddle from sliding backward, especially useful in eventing and fox hunting.",
+      "source": "https://en.wikipedia.org/wiki/Horse_Riding_%26_Equestrian"
+    },
+    {
+      "text": "Wild horses still roam in areas of the American West, Australia (brumbies), and Namibia.",
+      "source": "https://en.wikipedia.org/wiki/American_West"
+    },
+    {
+      "text": "Horseback archery was practiced by steppe nomads like the Mongols and Huns centuries ago.",
+      "source": "https://en.wikipedia.org/wiki/Horseback_archery"
+    },
+    {
+      "text": "A horse's cannon bone can bear forces of over 10,000 pounds per square inch at a gallop.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Horse_Riding_%26_Equestrian"
+    },
+    {
+      "text": "The Rolex Grand Slam of Show Jumping awards a bonus to any rider who wins three consecutive major Grand Prix events.",
+      "source": "https://en.wikipedia.org/wiki/Rolex_Grand_Slam_of_Show_Jumping_awards_a_bonus_to_any_rider_who"
+    },
+    {
+      "text": "The Irish Draught is the foundation breed for many successful Irish Sport Horses used in international competition.",
+      "source": "https://en.wikipedia.org/wiki/Irish_Draught"
+    },
+    {
+      "text": "Rein-back in dressage requires the horse to walk backward in a straight, diagonal two-beat movement.",
+      "source": "https://en.wikipedia.org/wiki/Rein-back_in"
+    },
+    {
+      "text": "The Tevis Cup is a 100-mile endurance ride through California's Sierra Nevada mountains, considered one of the toughest.",
+      "month": 7,
+      "day": 19,
+      "source": "https://en.wikipedia.org/wiki/Tevis_Cup"
+    },
+    {
+      "text": "Horses can carry roughly 20% of their body weight comfortably — about 200–250 lbs for an average horse.",
+      "source": "https://en.wikipedia.org/wiki/Horse_Riding_%26_Equestrian"
+    },
+    {
+      "text": "The Knabstrupper horse from Denmark is known for its spotted coat patterns, similar to the Appaloosa.",
+      "source": "https://en.wikipedia.org/wiki/Knabstrupper_horse_from_Denmark"
+    },
+    {
+      "text": "Jockeys typically weigh between 108 and 118 pounds and must maintain strict weight limits.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Horse_Riding_%26_Equestrian"
+    },
+    {
+      "text": "Lunging involves working a horse in a circle on a long line, often used for training and exercise.",
+      "source": "https://en.wikipedia.org/wiki/Horse_Riding_%26_Equestrian"
+    },
+    {
+      "text": "The Turkoman horse, now extinct, was one of the ancestors of the modern Thoroughbred.",
+      "source": "https://en.wikipedia.org/wiki/Turkoman_horse%2C_now_extinct"
+    },
+    {
+      "text": "Rodrigo Pessoa of Brazil is the only show jumper to have won the World Cup Final, Olympic gold, and World Championship.",
+      "source": "https://en.wikipedia.org/wiki/Rodrigo_Pessoa_of_Brazil"
+    },
+    {
+      "text": "A stock saddle used in Australian bush riding combines elements of both English and Western saddle design.",
+      "source": "https://en.wikipedia.org/wiki/English_and_Western"
+    },
+    {
+      "text": "Horses can develop colic, a potentially life-threatening condition involving abdominal pain, from various digestive issues.",
+      "source": "https://en.wikipedia.org/wiki/Horse_Riding_%26_Equestrian"
+    },
+    {
+      "text": "The first modern dressage competition was held at the 1902 Turin Exhibition in Italy.",
+      "month": 4,
+      "day": 20,
+      "source": "https://en.wikipedia.org/wiki/first_modern_dressage_competition"
+    },
+    {
+      "text": "The Przewalski's horse is the only truly wild horse species still in existence — all others are feral.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Przewalski%27s_horse"
+    },
+    {
+      "text": "A sport horse's daily diet may include hay, grain, vitamins, minerals, and electrolytes depending on workload.",
+      "source": "https://en.wikipedia.org/wiki/Horse_Riding_%26_Equestrian"
+    },
+    {
+      "text": "The Selle Français is a French warmblood developed specifically for show jumping and eventing.",
+      "source": "https://en.wikipedia.org/wiki/Selle_Fran%C3%A7ais"
+    },
+    {
+      "text": "Mounted games (gymkhana) include relay races, flag competitions, and other speed events on horseback.",
+      "source": "https://en.wikipedia.org/wiki/Horse_Riding_%26_Equestrian"
+    },
+    {
+      "text": "The British Horse Society was founded in 1947 and promotes horse welfare and riding standards.",
+      "source": "https://en.wikipedia.org/wiki/British_Horse_Society"
+    },
+    {
+      "text": "A horse can rotate each ear independently to focus on different sounds, helping them monitor their environment.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Horse_Riding_%26_Equestrian"
+    },
+    {
+      "text": "The Kentucky Oaks, held the day before the Derby, is one of the premier races for three-year-old fillies.",
+      "month": 5,
+      "day": 2,
+      "source": "https://en.wikipedia.org/wiki/Kentucky_Oaks%2C_held_the_day_before_the_Derby"
+    },
+    {
+      "text": "Flying changes in dressage involve the horse switching its leading leg at the canter without breaking gait.",
+      "source": "https://en.wikipedia.org/wiki/Horse_Riding_%26_Equestrian"
+    },
+    {
+      "text": "The Cleveland Bay is the oldest established horse breed in England and was originally a pack horse.",
+      "source": "https://en.wikipedia.org/wiki/Cleveland_Bay"
+    },
+    {
+      "text": "A brumby is the Australian term for a feral horse, and culling programs remain controversial.",
+      "source": "https://en.wikipedia.org/wiki/A_brumby"
+    },
+    {
+      "text": "Equine chiropractors and massage therapists are increasingly used in competitive horse care.",
+      "source": "https://en.wikipedia.org/wiki/Equine_chiropractors_and_massage_therapists"
+    },
+    {
+      "text": "The first Kentucky Derby was won by a horse named Aristides in 1875.",
+      "month": 5,
+      "day": 17,
+      "source": "https://en.wikipedia.org/wiki/first_Kentucky_Derby"
+    },
+    {
+      "text": "A horse's digestive system is about 100 feet long and food can take 65–75 hours to pass through completely.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/A_horse%27s_digestive_system"
+    },
+    {
+      "text": "The passage in dressage is a highly collected, elevated trot with marked suspension between each diagonal pair.",
+      "source": "https://en.wikipedia.org/wiki/passage_in_dressage"
+    },
+    {
+      "text": "Arabian horses have one fewer vertebra, one fewer rib, and one fewer tail bone than other breeds.",
+      "source": "https://en.wikipedia.org/wiki/Arabian_horses"
+    },
+    {
+      "text": "Charreada is a traditional Mexican rodeo that includes nine competitive events showcasing horsemanship skills.",
+      "source": "https://en.wikipedia.org/wiki/Charreada"
+    },
+    {
+      "text": "The Burghley Horse Trials in England are one of the six CCI5* five-star eventing competitions in the world.",
+      "month": 9,
+      "day": 5,
+      "source": "https://en.wikipedia.org/wiki/Burghley_Horse_Trials_in_England"
+    },
+    {
+      "text": "Half-pass is a lateral dressage movement where the horse moves forward and sideways simultaneously.",
+      "source": "https://en.wikipedia.org/wiki/Half-pass"
+    },
+    {
+      "text": "Horses can learn to respond to a vocabulary of verbal commands and are capable of basic problem-solving.",
+      "source": "https://en.wikipedia.org/wiki/Horses_can_learn_to_respond_to_a_vocabulary_of_verbal_commands_and"
+    },
+    {
+      "text": "The Dartmoor pony is a hardy native breed from England that has lived on the moors for centuries.",
+      "source": "https://en.wikipedia.org/wiki/Dartmoor_pony"
+    },
+    {
+      "text": "Steeplechase racing involves jumping fixed fences over distances of two to four miles.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Horse_Riding_%26_Equestrian"
+    },
+    {
+      "text": "Ian Millar of Canada, known as 'Captain Canada,' competed in a record 10 Olympic Games in show jumping.",
+      "source": "https://en.wikipedia.org/wiki/Ian_Millar_of_Canada"
+    },
+    {
+      "text": "A saddle pad or numnah is placed under the saddle to absorb sweat and prevent rubbing.",
+      "source": "https://en.wikipedia.org/wiki/A_saddle_pad_or_numnah"
+    },
+    {
+      "text": "The Gypsy Vanner horse, also called the Gypsy Cob, was bred by Romani travelers in Ireland and Britain.",
+      "source": "https://en.wikipedia.org/wiki/Gypsy_Vanner_horse%2C_also_called_the_Gypsy_Cob"
+    },
+    {
+      "text": "Piaffe in dressage is a highly collected trot performed essentially in place, demonstrating maximum impulsion.",
+      "source": "https://en.wikipedia.org/wiki/Piaffe_in_dressage"
+    },
+    {
+      "text": "Trail riding is the most popular equestrian activity in the United States.",
+      "source": "https://en.wikipedia.org/wiki/Trail_riding"
+    },
+    {
+      "text": "A horse's temperature should normally be between 99 and 101.5 degrees Fahrenheit.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Horse_Riding_%26_Equestrian"
+    },
+    {
+      "text": "The Prix Saint-Georges is the first international-level dressage test a horse and rider compete in.",
+      "source": "https://en.wikipedia.org/wiki/Prix_Saint-Georges"
+    },
+    {
+      "text": "The Welsh Cob and Welsh Pony breeds are divided into four sections (A through D) based on height.",
+      "source": "https://en.wikipedia.org/wiki/Welsh_Cob_and_Welsh_Pony_breeds"
+    },
+    {
+      "text": "Horseball is a team sport combining elements of rugby, basketball, and polo played on horseback.",
+      "source": "https://en.wikipedia.org/wiki/Horseball"
+    },
+    {
+      "text": "The Mongol Derby, at 1,000 kilometers, is the world's longest horse race and follows the route of Genghis Khan's postal system.",
+      "month": 8,
+      "day": 10,
+      "source": "https://en.wikipedia.org/wiki/Mongol_Derby%2C_at_1%2C000_kilometers"
+    },
+    {
+      "text": "A horse's eye can switch between monocular and binocular vision depending on the position of its head.",
+      "source": "https://en.wikipedia.org/wiki/Horse_Riding_%26_Equestrian"
+    },
+    {
+      "text": "Seattle Slew was the only undefeated Triple Crown winner until Justify in 2018.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Seattle_Slew"
+    },
+    {
+      "text": "Equine dentistry is a specialized field — a horse's teeth continuously erupt and require regular floating (filing).",
+      "source": "https://en.wikipedia.org/wiki/Equine_dentistry"
+    },
+    {
+      "text": "The Exmoor pony is one of the oldest and most primitive horse breeds in the world.",
+      "source": "https://en.wikipedia.org/wiki/Exmoor_pony"
+    },
+    {
+      "text": "Combined driving is a three-phase competition consisting of dressage, marathon, and cone driving.",
+      "source": "https://en.wikipedia.org/wiki/Combined_driving"
+    },
+    {
+      "text": "Racehorses can reach speeds of 40 mph and their stride can cover over 20 feet at a full gallop.",
+      "source": "https://en.wikipedia.org/wiki/Horse_Riding_%26_Equestrian"
+    },
+    {
+      "text": "The half-halt is a subtle riding aid that rebalances the horse by briefly increasing pressure from seat, legs, and hands.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/half-halt"
+    },
+    {
+      "text": "Olympic dressage tests include movements judged on a scale of 0 to 10 by multiple judges around the arena.",
+      "source": "https://en.wikipedia.org/wiki/Horse_Riding_%26_Equestrian"
+    },
+    {
+      "text": "The Dutch Warmblood (KWPN) has dominated international show jumping and dressage rankings.",
+      "source": "https://en.wikipedia.org/wiki/Dutch_Warmblood_(KWPN)"
+    },
+    {
+      "text": "Cutting is a Western competition where a horse separates a single cow from a herd, requiring minimal rider input.",
+      "source": "https://en.wikipedia.org/wiki/Cutting"
+    },
+    {
+      "text": "Count Robert Toptani of Albania brought equestrian sports to the early Olympic movement.",
+      "source": "https://en.wikipedia.org/wiki/Count_Robert_Toptani_of_Albania"
+    },
+    {
+      "text": "The Cheltenham Festival is a major National Hunt horse racing event held annually in March.",
+      "month": 3,
+      "day": 15,
+      "source": "https://en.wikipedia.org/wiki/Cheltenham_Festival"
+    },
+    {
+      "text": "A horse can hear sounds at frequencies up to 25,000 Hz, much higher than the human range of 20,000 Hz.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Horse_Riding_%26_Equestrian"
+    },
+    {
+      "text": "The puissance is a show jumping competition focused on jumping the highest single wall, sometimes exceeding 7 feet.",
+      "source": "https://en.wikipedia.org/wiki/puissance"
+    },
+    {
+      "text": "Fox hunting on horseback dates back to the 16th century in England, though drag hunting now often replaces live quarry.",
+      "source": "https://en.wikipedia.org/wiki/Horse_Riding_%26_Equestrian"
+    },
+    {
+      "text": "The Oldenburg horse from Germany is commonly used in international dressage competitions.",
+      "source": "https://en.wikipedia.org/wiki/Oldenburg_horse_from_Germany"
+    },
+    {
+      "text": "A standing martingale prevents a horse from raising its head above a desired level.",
+      "source": "https://en.wikipedia.org/wiki/Horse_Riding_%26_Equestrian"
+    },
+    {
+      "text": "The 2012 London Olympics were the first to feature dressage set to freestyle music with individual choreography.",
+      "month": 8,
+      "day": 9,
+      "source": "https://en.wikipedia.org/wiki/2012_London_Olympics"
+    },
+    {
+      "text": "The Icelandic horse is known for its two extra gaits, the tölt and the flying pace.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Icelandic_horse"
+    },
+    {
+      "text": "Horse racing in ancient Rome featured chariot races in the Circus Maximus, which could hold 250,000 spectators.",
+      "source": "https://en.wikipedia.org/wiki/Circus_Maximus"
+    },
+    {
+      "text": "The hackamore is a bitless bridle that applies pressure to the nose and chin rather than the mouth.",
+      "source": "https://en.wikipedia.org/wiki/hackamore"
+    },
+    {
+      "text": "The Lusitano horse from Portugal excels in classical dressage and bullfighting demonstrations.",
+      "source": "https://en.wikipedia.org/wiki/Lusitano"
+    },
+    {
+      "text": "Team penning requires three riders to separate three designated cattle from a herd in the fastest time.",
+      "source": "https://en.wikipedia.org/wiki/Horse_Riding_%26_Equestrian"
+    },
+    {
+      "text": "Horses have been used in therapy for people with disabilities since the 1960s through hippotherapy programs.",
+      "source": "https://en.wikipedia.org/wiki/Horses"
+    },
+    {
+      "text": "The Breeders' Cup Classic is the pinnacle race of the Breeders' Cup World Championships.",
+      "month": 11,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/Breeders%27_Cup_Classic"
+    },
+    {
+      "text": "A floating ring bit rotates in the horse's mouth, encouraging the horse to relax its jaw and accept the contact.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Horse_Riding_%26_Equestrian"
+    },
+    {
+      "text": "Skijoring involves a horse pulling a skier over snow and is popular in Scandinavia and parts of the American West.",
+      "source": "https://en.wikipedia.org/wiki/Skijoring_involves_a_horse_pulling_a_skier_over_snow_and"
+    },
+    {
+      "text": "The Holsteiner is one of the oldest warmblood breeds, originating from the Schleswig-Holstein region of Germany.",
+      "source": "https://en.wikipedia.org/wiki/Holsteiner"
+    },
+    {
+      "text": "Horses' hooves act as shock absorbers and blood pumps, helping circulate blood back up the legs.",
+      "source": "https://en.wikipedia.org/wiki/Horse_Riding_%26_Equestrian"
+    },
+    {
+      "text": "The ASPCA was founded in 1866 largely in response to the mistreatment of carriage and work horses.",
+      "source": "https://en.wikipedia.org/wiki/ASPCA"
+    },
+    {
+      "text": "Valegro, ridden by Charlotte Dujardin, set the dressage world record score of 94.3% in freestyle at the 2014 Olympics.",
+      "source": "https://en.wikipedia.org/wiki/Valegro%2C_ridden_by_Charlotte_Dujardin"
+    },
+    {
+      "text": "A horse can produce 10 gallons of saliva per day to aid in the digestion of dry forage.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Horse_Riding_%26_Equestrian"
+    },
+    {
+      "text": "The Federation Equestre Internationale (FEI) governs all international equestrian sports and was founded in 1921.",
+      "source": "https://en.wikipedia.org/wiki/Federation_Equestre_Internationale"
+    },
+    {
+      "text": "The Nokota horse is a rare breed descended from horses of the Northern Great Plains.",
+      "source": "https://en.wikipedia.org/wiki/Nokota_horse"
+    },
+    {
+      "text": "Tent pegging is a cavalry sport in which a rider at a gallop uses a lance to pick up a small ground target.",
+      "source": "https://en.wikipedia.org/wiki/Tent_pegging"
+    },
+    {
+      "text": "The USET Foundation supports the training and competition of U.S. equestrian athletes.",
+      "source": "https://en.wikipedia.org/wiki/USET_Foundation"
+    },
+    {
+      "text": "Riders at the Spanish Riding School train for at least 8 years before performing publicly with the Lipizzaner stallions.",
+      "source": "https://en.wikipedia.org/wiki/Riders_at_the_Spanish_Riding_School"
+    },
+    {
+      "text": "A horse can't breathe through its mouth; it's an obligate nasal breather.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Horse_Riding_%26_Equestrian"
+    },
+    {
+      "text": "Royal Ascot's dress code requires top hats and formal attire in the Royal Enclosure.",
+      "source": "https://en.wikipedia.org/wiki/Royal_Ascot%27s"
+    },
+    {
+      "text": "The Suffolk Punch is the oldest native draft breed of Britain, always chestnut in color.",
+      "source": "https://en.wikipedia.org/wiki/Suffolk_Punch"
+    },
+    {
+      "text": "Cowboy dressage blends classical dressage principles with Western horsemanship traditions.",
+      "source": "https://en.wikipedia.org/wiki/Horse_Riding_%26_Equestrian"
+    },
+    {
+      "text": "The Kentucky Horse Park in Lexington is a working horse farm, educational theme park, and competition facility.",
+      "source": "https://en.wikipedia.org/wiki/Kentucky_Horse_Park_in_Lexington"
+    },
+    {
+      "text": "Jingang, ridden by Alex Hua Tian, helped China qualify for Olympic eventing for the first time.",
+      "source": "https://en.wikipedia.org/wiki/Jingang%2C_ridden_by_Alex_Hua_Tian"
+    },
+    {
+      "text": "Horses can run at about 4 months old and reach 80% of their adult size by 2 years.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Horses_can"
+    },
+    {
+      "text": "The Grand Pardubice Steeplechase in the Czech Republic is one of the most dangerous races in the world.",
+      "month": 10,
+      "day": 11,
+      "source": "https://en.wikipedia.org/wiki/Grand_Pardubice_Steeplechase_in_the_Czech_Republic"
+    },
+    {
+      "text": "A curb chain on a Western bit applies pressure under the horse's chin to encourage flexion at the poll.",
+      "source": "https://en.wikipedia.org/wiki/Horse_Riding_%26_Equestrian"
+    },
+    {
+      "text": "The Rocky Mountain Horse from Kentucky is known for its chocolate coat and flaxen mane.",
+      "source": "https://en.wikipedia.org/wiki/Rocky_Mountain_Horse_from_Kentucky"
+    },
+    {
+      "text": "Competitive trail riding (CTR) judges the condition of the horse throughout a timed distance ride.",
+      "source": "https://en.wikipedia.org/wiki/Horse_Riding_%26_Equestrian"
+    },
+    {
+      "text": "Mark Todd of New Zealand was twice named 'Horseman of the 20th Century' by the FEI.",
+      "source": "https://en.wikipedia.org/wiki/Mark_Todd_of_New_Zealand"
+    },
+    {
+      "text": "Clipping a horse's winter coat helps prevent overheating during hard work in cold weather.",
+      "source": "https://en.wikipedia.org/wiki/Horse_Riding_%26_Equestrian"
+    },
+    {
+      "text": "A healthy horse's resting heart rate is approximately 28–44 beats per minute.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/A_healthy_horse%27s_resting_heart_rate"
+    },
+    {
+      "text": "Working equitation is a discipline that tests classical dressage skills applied to practical cattle-working tasks.",
+      "source": "https://en.wikipedia.org/wiki/Working_equitation"
+    },
+    {
+      "text": "The Saddlebred, also known as the American Saddlebred, is famed for its high-stepping gait and show presence.",
+      "source": "https://en.wikipedia.org/wiki/Saddlebred%2C_also_known_as_the_American_Saddlebred"
+    },
+    {
+      "text": "The 2024 Paris Olympics featured equestrian events at the Palace of Versailles grounds.",
+      "month": 7,
+      "day": 27,
+      "source": "https://en.wikipedia.org/wiki/2024_Paris_Olympics"
+    },
+    {
+      "text": "A running martingale has rings through which the reins pass, applying downward pressure when the horse raises its head too high.",
+      "source": "https://en.wikipedia.org/wiki/A_running_martingale"
+    },
+    {
+      "text": "The flying lead change is a movement where a cantering horse switches its leading legs without breaking stride.",
+      "source": "https://en.wikipedia.org/wiki/flying_lead_change"
+    },
+    {
+      "text": "Horses form deep pair bonds, and separating bonded horses can cause significant stress and behavioral issues.",
+      "source": "https://en.wikipedia.org/wiki/Horse_Riding_%26_Equestrian"
+    },
+    {
+      "text": "The Belgian horse is the most popular draft breed in the United States.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Belgian_horse"
+    },
+    {
+      "text": "Flat racing, where horses run on level ground without jumps, is the most common form of horse racing worldwide.",
+      "source": "https://en.wikipedia.org/wiki/Flat_racing%2C_where_horses_run_on_level_ground_without_jumps"
+    },
+    {
+      "text": "The Fjord horse from Norway is one of the world's oldest breeds, recognizable by its unique dun color and stripe.",
+      "source": "https://en.wikipedia.org/wiki/Fjord_horse_from_Norway"
+    },
+    {
+      "text": "Jousting, a medieval equestrian combat sport, is the official state sport of Maryland.",
+      "source": "https://en.wikipedia.org/wiki/Jousting%2C_a_medieval_equestrian_combat_sport"
+    },
+    {
+      "text": "The Rolex Kentucky Three-Day Event is the only CCI5* eventing competition in the Western Hemisphere.",
+      "month": 4,
+      "day": 25,
+      "source": "https://en.wikipedia.org/wiki/Rolex_Kentucky_Three-Day_Event"
+    },
+    {
+      "text": "Horses have a 'stay apparatus' in both their front and hind legs that allows them to lock their joints and rest standing up.",
+      "source": "https://en.wikipedia.org/wiki/Horses"
+    },
+    {
+      "text": "A double bridle uses two bits — a bradoon and a curb — and four reins, used in advanced dressage.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Horse_Riding_%26_Equestrian"
+    },
+    {
+      "text": "John Henry, a gelding, won the Arlington Million twice and earned over $6.5 million in his career.",
+      "source": "https://en.wikipedia.org/wiki/John_Henry%2C_a_gelding"
+    },
+    {
+      "text": "Trakehner brand marks feature the distinctive double moose antler symbol on the left hip.",
+      "source": "https://en.wikipedia.org/wiki/Trakehner_brand"
+    },
+    {
+      "text": "Mounted archery competitions are growing worldwide, with events in South Korea, Hungary, and the United States.",
+      "source": "https://en.wikipedia.org/wiki/Mounted_archery_competitions"
+    },
+    {
+      "text": "A horse's withers (the ridge between the shoulder blades) is where height is measured.",
+      "source": "https://en.wikipedia.org/wiki/A_horse%27s_withers_(the_ridge_between_the_shoulder_blades)"
+    },
+    {
+      "text": "Alexander the Great's horse Bucephalus was one of the most famous horses in history, carrying him through his conquests.",
+      "source": "https://en.wikipedia.org/wiki/Alexander_the_Great%27s_horse_Bucephalus"
+    },
+    {
+      "text": "Horses can drink up to 15 gallons of water per day in hot weather or during intense exercise.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Horse_Riding_%26_Equestrian"
+    },
+    {
+      "text": "The National Horse Show has been held in the United States since 1883 and is one of the oldest indoor horse competitions.",
+      "source": "https://en.wikipedia.org/wiki/National_Horse_Show"
+    },
+    {
+      "text": "The Franches-Montagnes is the last remaining native Swiss horse breed.",
+      "source": "https://en.wikipedia.org/wiki/Franches-Montagnes"
+    },
+    {
+      "text": "Equine influenza is a highly contagious respiratory disease that can spread rapidly through stables.",
+      "source": "https://en.wikipedia.org/wiki/Equine_influenza"
+    },
+    {
+      "text": "Philippe Le Jeune of Belgium won individual show jumping gold at the 2010 World Equestrian Games.",
+      "source": "https://en.wikipedia.org/wiki/Philippe_Le_Jeune_of_Belgium"
+    },
+    {
+      "text": "The posting trot involves the rider rising and sitting in rhythm with the horse's diagonal gait.",
+      "source": "https://en.wikipedia.org/wiki/Horse_Riding_%26_Equestrian"
+    },
+    {
+      "text": "Horses have no collarbone, which allows for a greater range of motion in their front legs.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Horses"
+    },
+    {
+      "text": "Pieter Devos and McLain Ward have been perennial fixtures atop the show jumping world rankings.",
+      "source": "https://en.wikipedia.org/wiki/Pieter_Devos_and_McLain_Ward"
+    },
+    {
+      "text": "The Camargue horse from southern France is known for being born dark and turning white as it matures.",
+      "source": "https://en.wikipedia.org/wiki/Camargue_horse_from_southern_France"
+    },
+    {
+      "text": "The piaffe and passage are considered the most difficult movements in Grand Prix dressage.",
+      "source": "https://en.wikipedia.org/wiki/piaffe_and_passage"
+    },
+    {
+      "text": "Lead rope training starts when horses are foals and builds the foundation for all future handling.",
+      "source": "https://en.wikipedia.org/wiki/Lead_rope_training_starts_when_horses"
+    },
+    {
+      "text": "The Preakness infield party is one of the largest outdoor gatherings in American sports.",
+      "month": 5,
+      "day": 16,
+      "source": "https://en.wikipedia.org/wiki/Preakness_infield_party"
+    },
+    {
+      "text": "A horse's frog — the triangular structure on the bottom of the hoof — helps absorb shock and pump blood.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Horse_Riding_%26_Equestrian"
+    },
+    {
+      "text": "The sport of polocrosse combines elements of polo and lacrosse and originated in Australia.",
+      "source": "https://en.wikipedia.org/wiki/Horse_Riding_%26_Equestrian"
+    },
+    {
+      "text": "The Westphalian horse from Germany has produced numerous Olympic and World Championship medalists in dressage.",
+      "source": "https://en.wikipedia.org/wiki/Westphalian_horse_from_Germany"
+    },
+    {
+      "text": "A lunging cavesson is a specialized halter with a reinforced noseband used during groundwork.",
+      "source": "https://en.wikipedia.org/wiki/A_lunging_cavesson"
+    },
+    {
+      "text": "Trec (Techniques de Randonnée Equestre de Compétition) is a trail-based competition originating in France.",
+      "source": "https://en.wikipedia.org/wiki/Trec_(Techniques_de_Randonn%C3%A9e_Equestre_de_Comp%C3%A9tition)"
+    },
+    {
+      "text": "Desert Orchid, a beloved British racehorse, won the King George VI Chase four times.",
+      "source": "https://en.wikipedia.org/wiki/Desert_Orchid%2C_a_beloved_British_racehorse"
+    },
+    {
+      "text": "Horses have about 700 muscles, comprising approximately 60% of their total body weight.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Horses"
+    },
+    {
+      "text": "The Japan Cup is one of Asia's most prestigious flat races, held at Tokyo Racecourse.",
+      "month": 11,
+      "day": 29,
+      "source": "https://en.wikipedia.org/wiki/Japan_Cup"
+    },
+    {
+      "text": "Roll-back turns in Western reining require the horse to stop, pivot 180 degrees, and immediately lope off.",
+      "source": "https://en.wikipedia.org/wiki/Horse_Riding_%26_Equestrian"
+    },
+    {
+      "text": "The Don horse from Russia was the mount of choice for Cossack cavalry.",
+      "source": "https://en.wikipedia.org/wiki/Don_horse_from_Russia"
+    },
+    {
+      "text": "A horse blanket comes in various weights, from lightweight sheets for fly protection to heavy-fill turnout blankets for winter.",
+      "source": "https://en.wikipedia.org/wiki/Horse_Riding_%26_Equestrian"
+    },
+    {
+      "text": "Pony Club, founded in 1929 in the United Kingdom, teaches young people horsemanship worldwide.",
+      "source": "https://en.wikipedia.org/wiki/Pony_Club"
+    },
+    {
+      "text": "Seattle Slew won the Triple Crown in 1977 and later became a highly successful breeding stallion.",
+      "source": "https://en.wikipedia.org/wiki/Seattle_Slew"
+    },
+    {
+      "text": "The average horse takes 12–20 breaths per minute at rest.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/average_horse"
+    },
+    {
+      "text": "Kentucky has more horses per capita than any other U.S. state.",
+      "source": "https://en.wikipedia.org/wiki/Kentucky"
+    },
+    {
+      "text": "The Hackney horse is a high-stepping carriage breed known for its flashy trot.",
+      "source": "https://en.wikipedia.org/wiki/Hackney_horse"
+    },
+    {
+      "text": "International eventing uses a star rating system from CCI1* to CCI5* to indicate difficulty level.",
+      "source": "https://en.wikipedia.org/wiki/Horse_Riding_%26_Equestrian"
+    },
+    {
+      "text": "Spanish walk is a dressage movement where the horse extends each front leg high and forward alternately.",
+      "source": "https://en.wikipedia.org/wiki/Spanish_walk"
+    },
+    {
+      "text": "The Crabbet Arabian stud in England was instrumental in developing the modern Arabian horse breed.",
+      "source": "https://en.wikipedia.org/wiki/Crabbet_Arabian_stud_in_England"
+    },
+    {
+      "text": "An average riding lesson lasts 30 to 60 minutes, with beginners usually starting at a walk and trot.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Horse_Riding_%26_Equestrian"
+    },
+    {
+      "text": "The Palio di Siena is a bareback horse race held twice each summer in Siena, Italy.",
+      "month": 7,
+      "day": 2,
+      "source": "https://en.wikipedia.org/wiki/Palio_di_Siena"
+    },
+    {
+      "text": "Tongue ties are used in racing to prevent a horse from getting its tongue over the bit during a race.",
+      "source": "https://en.wikipedia.org/wiki/Tongue_ties"
+    },
+    {
+      "text": "The Missouri Fox Trotter is known for its smooth 'fox trot' gait, ideal for trail riding over rough terrain.",
+      "source": "https://en.wikipedia.org/wiki/Missouri_Fox_Trotter"
+    },
+    {
+      "text": "Hippology is the study of horses, covering everything from anatomy and physiology to breed characteristics.",
+      "source": "https://en.wikipedia.org/wiki/Hippology"
+    },
+    {
+      "text": "The National Finals Rodeo (NFR) is the premier professional rodeo championship held annually in Las Vegas.",
+      "month": 12,
+      "day": 5,
+      "source": "https://en.wikipedia.org/wiki/National_Finals_Rodeo_(NFR)"
+    },
+    {
+      "text": "Cross-country jumps in eventing are solid and do not fall down when hit, unlike show jumping rails.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Cross-country_jumps_in_eventing"
+    },
+    {
+      "text": "Anky van Grunsven of the Netherlands won three consecutive Olympic dressage gold medals from 2000 to 2008.",
+      "source": "https://en.wikipedia.org/wiki/Anky_van_Grunsven_of_the_Netherlands"
+    },
+    {
+      "text": "The Fell Pony from England's Lake District was used as a pack horse and for farm work.",
+      "source": "https://en.wikipedia.org/wiki/Fell_Pony_from_England%27s_Lake_District"
+    },
+    {
+      "text": "An oxer is a type of show jumping fence with two rails set at different heights and widths.",
+      "source": "https://en.wikipedia.org/wiki/An_oxer"
+    },
+    {
+      "text": "The term 'hands' for measuring horses comes from the width of a man's hand, standardized to 4 inches.",
+      "source": "https://en.wikipedia.org/wiki/Horse_Riding_%26_Equestrian"
+    },
+    {
+      "text": "Citation was the first racehorse to earn $1 million in career prize money.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Citation"
+    },
+    {
+      "text": "The Alltech FEI World Equestrian Games 2010 in Kentucky were the first held outside Europe.",
+      "month": 9,
+      "day": 25,
+      "source": "https://en.wikipedia.org/wiki/Alltech_FEI_World_Equestrian_Games_2010_in_Kentucky"
+    },
+    {
+      "text": "A horse's small intestine is about 70 feet long, while the large intestine is about 25 feet.",
+      "source": "https://en.wikipedia.org/wiki/A_horse%27s_small_intestine"
+    },
+    {
+      "text": "The Mangalarga Marchador from Brazil is the most popular breed in South America.",
+      "source": "https://en.wikipedia.org/wiki/Mangalarga_Marchador_from_Brazil"
+    },
+    {
+      "text": "The rollkur technique in dressage, involving hyperflexion of the horse's neck, has been controversial.",
+      "source": "https://en.wikipedia.org/wiki/rollkur_technique_in_dressage%2C_involving_hyperflexion_of_the_horse%27s_neck"
+    },
+    {
+      "text": "Riders use leg yields to teach horses to move sideways away from the pressure of the rider's leg.",
+      "source": "https://en.wikipedia.org/wiki/Horse_Riding_%26_Equestrian"
+    },
+    {
+      "text": "The National Velvet (1944) starring Elizabeth Taylor is one of the most famous horse movies ever made.",
+      "source": "https://en.wikipedia.org/wiki/National_Velvet"
+    },
+    {
+      "text": "Horses can distinguish between happy and angry human facial expressions.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Horse_Riding_%26_Equestrian"
+    },
+    {
+      "text": "The Curragh Racecourse in Ireland has hosted horse racing since the 1700s.",
+      "source": "https://en.wikipedia.org/wiki/Curragh_Racecourse_in_Ireland"
+    },
+    {
+      "text": "A surcingle is a strap that goes around a horse's girth area, used in lunging and vaulting.",
+      "source": "https://en.wikipedia.org/wiki/A_surcingle"
+    },
+    {
+      "text": "The Canadian Horse is a heritage breed descended from horses sent to New France by King Louis XIV.",
+      "source": "https://en.wikipedia.org/wiki/Canadian_Horse"
+    },
+    {
+      "text": "Dressage letters around the arena (A, K, E, H, C, M, B, F) have been used since the 18th century, though their origin is debated.",
+      "source": "https://en.wikipedia.org/wiki/Dressage_letters_around_the_arena_(A%2C_K%2C_E%2C_H%2C_C%2C_M%2C_B%2C_F)"
+    },
+    {
+      "text": "The Royal Windsor Horse Show has been held in the grounds of Windsor Castle since 1943.",
+      "month": 5,
+      "day": 12,
+      "source": "https://en.wikipedia.org/wiki/Royal_Windsor_Horse_Show"
+    },
+    {
+      "text": "A horse's dock is the fleshy top part of its tail, made up of the coccygeal vertebrae.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/A_horse%27s_dock"
+    },
+    {
+      "text": "Point-to-point racing is amateur steeplechasing open primarily to horses that have been regularly hunted.",
+      "source": "https://en.wikipedia.org/wiki/Point-to-point_racing"
+    },
+    {
+      "text": "The Welsh Section D, or Welsh Cob, is popular for both riding and driving competitions.",
+      "source": "https://en.wikipedia.org/wiki/Welsh_Section_D%2C_or_Welsh_Cob"
+    },
+    {
+      "text": "Longeing with side reins helps develop a horse's balance and encourages the horse to work over its back.",
+      "source": "https://en.wikipedia.org/wiki/Longeing_with"
+    },
+    {
+      "text": "Ben Maher of Great Britain won individual show jumping gold at the 2020 Tokyo Olympics.",
+      "source": "https://en.wikipedia.org/wiki/Ben_Maher_of_Great_Britain"
+    },
+    {
+      "text": "Horses groom each other by standing side by side and nibbling each other's withers, called mutual grooming.",
+      "source": "https://en.wikipedia.org/wiki/Horses_groom_each_other_by_standing_side_by_side_and_nibbling_each_other%27s_withers"
+    },
+    {
+      "text": "The oldest recorded horse, Old Billy, lived to be 62 years old in 19th-century England.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/oldest"
+    },
+    {
+      "text": "The Argentine Open Polo Championship in Buenos Aires is considered the most prestigious polo tournament.",
+      "month": 12,
+      "day": 12,
+      "source": "https://en.wikipedia.org/wiki/Argentine_Open_Polo_Championship_in_Buenos_Aires"
+    },
+    {
+      "text": "A flash noseband wraps around the horse's chin to prevent it from opening its mouth too wide.",
+      "source": "https://en.wikipedia.org/wiki/Horse_Riding_%26_Equestrian"
+    },
+    {
+      "text": "The New Forest Pony has roamed England's New Forest for over a thousand years.",
+      "source": "https://en.wikipedia.org/wiki/New_Forest_Pony"
+    },
+    {
+      "text": "Collection in riding means engaging the horse's hindquarters to carry more weight, lightening the forehand.",
+      "source": "https://en.wikipedia.org/wiki/Collection_in"
+    },
+    {
+      "text": "Laura Kraut became the first woman to win the show jumping World Cup Final in 2005.",
+      "source": "https://en.wikipedia.org/wiki/Laura_Kraut"
+    },
+    {
+      "text": "Horses are hindgut fermenters, meaning they digest fibrous food in the cecum and large colon.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Horses"
+    },
+    {
+      "text": "Lexington, Kentucky, known as the 'Horse Capital of the World,' hosts over 450 horse farms.",
+      "source": "https://en.wikipedia.org/wiki/Horse_Capital_of_the_World"
+    },
+    {
+      "text": "Bitless bridles, including the bosal and sidepull, are preferred by some riders who want no bit contact.",
+      "source": "https://en.wikipedia.org/wiki/Bitless_bridles%2C_including_the_bosal_and_sidepull"
+    },
+    {
+      "text": "The Bashkir Curly horse has a uniquely curly coat and is sometimes tolerated by people with horse hair allergies.",
+      "source": "https://en.wikipedia.org/wiki/Bashkir_Curly_horse"
+    },
+    {
+      "text": "Pony Express riders were typically lightweight young men, and their rides averaged 75 to 100 miles each.",
+      "source": "https://en.wikipedia.org/wiki/Pony_Express_riders"
+    },
+    {
+      "text": "The Hickstead Derby in England features a famous 10-foot-6-inch bank that horses must jump down.",
+      "source": "https://en.wikipedia.org/wiki/Hickstead_Derby_in_England"
+    },
+    {
+      "text": "The age of a horse can be estimated by examining the wear patterns and shape of its teeth.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Horse_Riding_%26_Equestrian"
+    },
+    {
+      "text": "Aachen CHIO is considered the unofficial world championship of show jumping, held annually in Germany.",
+      "month": 6,
+      "day": 28,
+      "source": "https://en.wikipedia.org/wiki/Aachen_CHIO"
+    },
+    {
+      "text": "Leg wraps and boots protect a horse's lower legs from injury during work and transport.",
+      "source": "https://en.wikipedia.org/wiki/Horse_Riding_%26_Equestrian"
+    },
+    {
+      "text": "The Orlov Trotter is a Russian breed developed by Count Alexei Orlov in the late 18th century.",
+      "source": "https://en.wikipedia.org/wiki/Orlov_Trotter"
+    },
+    {
+      "text": "A water complex in cross-country eventing tests a horse's bravery as it jumps into, through, or out of water.",
+      "source": "https://en.wikipedia.org/wiki/Horse_Riding_%26_Equestrian"
+    },
+    {
+      "text": "Gene Autry's horse Champion and Roy Rogers' horse Trigger were among the most famous Hollywood horses.",
+      "source": "https://en.wikipedia.org/wiki/Gene_Autry%27s_horse_Champion_and_Roy_Rogers%27_horse_Trigger"
+    },
+    {
+      "text": "The Budweiser Clydesdales have been an advertising icon since 1933, when they celebrated the repeal of Prohibition.",
+      "month": 4,
+      "day": 7,
+      "source": "https://en.wikipedia.org/wiki/Budweiser_Clydesdales"
+    },
+    {
+      "text": "A horse's third eyelid (nictitating membrane) helps protect and clean the eye.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Horse_Riding_%26_Equestrian"
+    },
+    {
+      "text": "Pentathlon originally included equestrian show jumping as one of its five disciplines until 2024.",
+      "source": "https://en.wikipedia.org/wiki/Horse_Riding_%26_Equestrian"
+    },
+    {
+      "text": "The Brumby Heritage Act of 2018 in Australia aimed to protect wild horses in certain national parks.",
+      "source": "https://en.wikipedia.org/wiki/Brumby_Heritage_Act_of_2018_in_Australia"
+    },
+    {
+      "text": "Shoulder-in is a lateral dressage movement where the horse moves with its shoulders to the inside of the track.",
+      "source": "https://en.wikipedia.org/wiki/Shoulder-in"
+    },
+    {
+      "text": "The San Siro racecourse in Milan hosts the Gran Premio di Milano, one of Italy's premier races.",
+      "source": "https://en.wikipedia.org/wiki/San_Siro"
+    },
+    {
+      "text": "A horse can focus on different objects with each eye independently using monocular vision.",
+      "source": "https://en.wikipedia.org/wiki/Horse_Riding_%26_Equestrian"
+    },
+    {
+      "text": "Equine recurrent uveitis (moon blindness) is the most common cause of blindness in horses.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Equine_recurrent_uveitis_(moon_blindness)"
+    },
+    {
+      "text": "The Welsh Mountain Pony (Section A) is one of the most popular children's riding ponies in the world.",
+      "source": "https://en.wikipedia.org/wiki/Welsh_Mountain_Pony_(Section_A)"
+    },
+    {
+      "text": "The canter pirouette in dressage requires the horse to maintain the canter rhythm while turning nearly in place.",
+      "source": "https://en.wikipedia.org/wiki/Horse_Riding_%26_Equestrian"
+    },
+    {
+      "text": "A no-climb fence is the safest type of fencing for horse pastures, preventing hooves from getting caught.",
+      "source": "https://en.wikipedia.org/wiki/A_no-climb_fence"
+    },
+    {
+      "text": "Totilas, a Dutch Warmblood stallion, broke dressage world records in 2009 and became a global sensation.",
+      "source": "https://en.wikipedia.org/wiki/Totilas%2C_a_Dutch_Warmblood_stallion%2C_broke_dressage_world_records_in_2009_and"
+    },
+    {
+      "text": "Kentucky Derby winners are draped with a garland of 554 red roses, hence the race's nickname 'Run for the Roses.'",
+      "month": 5,
+      "day": 1,
+      "source": "https://en.wikipedia.org/wiki/Kentucky_Derby_winners"
+    },
+    {
+      "text": "Horses can sense fear and anxiety in humans through changes in body language and potentially through scent.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Horse_Riding_%26_Equestrian"
+    },
+    {
+      "text": "The Ride for the Brand is a traditional saying in ranch culture meaning loyalty to the outfit you work for.",
+      "source": "https://en.wikipedia.org/wiki/Ride_for_the_Brand"
+    },
+    {
+      "text": "The Danish Warmblood has risen to international prominence in both dressage and show jumping.",
+      "source": "https://en.wikipedia.org/wiki/Danish_Warmblood"
+    },
+    {
+      "text": "A bounce or no-stride combination in show jumping requires the horse to jump two fences with no canter stride between them.",
+      "source": "https://en.wikipedia.org/wiki/Horse_Riding_%26_Equestrian"
+    },
+    {
+      "text": "Edwin 'Ted' Edgar was a legendary British show jumping course designer renowned for challenging courses.",
+      "source": "https://en.wikipedia.org/wiki/Edwin_%27Ted%27_Edgar"
+    },
+    {
+      "text": "The Houston Livestock Show and Rodeo is the world's largest livestock exhibition and rodeo.",
+      "month": 3,
+      "day": 3,
+      "source": "https://en.wikipedia.org/wiki/Houston_Livestock_Show_and_Rodeo"
+    },
+    {
+      "text": "Horses have a specialized structure called the digital cushion in their hooves that helps absorb concussion.",
+      "source": "https://en.wikipedia.org/wiki/Horses"
+    },
+    {
+      "text": "The Godolphin Arabian, one of the three foundation sires of the Thoroughbred, was reportedly rescued from pulling a water cart in Paris.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Godolphin_Arabian%2C_one_of_the_three_foundation_sires_of_the_Thoroughbred"
+    },
+    {
+      "text": "Paddock boots and half chaps are an affordable alternative to tall riding boots for everyday riding.",
+      "source": "https://en.wikipedia.org/wiki/Paddock_boots_and_half_chaps"
+    },
+    {
+      "text": "The Pegasus World Cup at Gulfstream Park has offered a purse of up to $16 million.",
+      "month": 1,
+      "day": 25,
+      "source": "https://en.wikipedia.org/wiki/Pegasus_World_Cup_at_Gulfstream_Park"
+    },
+    {
+      "text": "Horses can sense electromagnetic fields and use the earth's magnetic field to help navigate.",
+      "source": "https://en.wikipedia.org/wiki/Horse_Riding_%26_Equestrian"
+    },
+    {
+      "text": "The pirouette in reining is called a spin and requires the horse to rotate 360 degrees or more around its inside hind leg.",
+      "source": "https://en.wikipedia.org/wiki/pirouette_in_reining"
+    },
+    {
+      "text": "Laminitis, an inflammation of the laminae in the hoof, is one of the most serious conditions in horses.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Laminitis%2C_an_inflammation_of_the_laminae_in_the_hoof"
+    },
+    {
+      "text": "The Spruce Meadows Masters in Calgary is one of the richest show jumping tournaments in the world.",
+      "month": 9,
+      "day": 10,
+      "source": "https://en.wikipedia.org/wiki/Spruce_Meadows_Masters_in_Calgary"
+    },
+    {
+      "text": "George Stubbs, the 18th-century English painter, was famous for his anatomically precise paintings of horses.",
+      "source": "https://en.wikipedia.org/wiki/George_Stubbs%2C_the_18th-century_English_painter"
+    },
+    {
+      "text": "A horse's average body temperature is 100°F (37.8°C), slightly higher than a human's.",
+      "source": "https://en.wikipedia.org/wiki/A_horse%27s_average_body_temperature"
+    },
+    {
+      "text": "The phrase 'get back on the horse' originated from the genuine advice given to fallen riders.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Horse_Riding_%26_Equestrian"
+    },
+    {
+      "text": "Red Rum won the Grand National three times (1973, 1974, 1977) and is considered the greatest steeplechaser.",
+      "month": 4,
+      "day": 4,
+      "source": "https://en.wikipedia.org/wiki/Red_Rum"
+    },
+    {
+      "text": "The Nokota horse was nearly driven to extinction before being discovered in Theodore Roosevelt National Park.",
+      "source": "https://en.wikipedia.org/wiki/Nokota_horse"
+    },
+    {
+      "text": "Horses sweat primarily through their skin, unlike dogs which pant, making electrolyte management critical in hot weather.",
+      "source": "https://en.wikipedia.org/wiki/Horse_Riding_%26_Equestrian"
+    },
+    {
+      "text": "The World Polo Championship is held every three to four years, with Argentina dominating the competition.",
+      "source": "https://en.wikipedia.org/wiki/World_Polo_Championship"
+    },
+    {
+      "text": "A horse's stomach is relatively small for its body size, holding only about 2–4 gallons, which is why they need to eat frequently.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/A_horse%27s_stomach"
+    },
+    {
+      "text": "Nijinsky was the last horse to win the English Triple Crown (2000 Guineas, Derby, St Leger) in 1970.",
+      "month": 9,
+      "day": 12,
+      "source": "https://en.wikipedia.org/wiki/Nijinsky"
+    },
+    {
+      "text": "The Travers Stakes at Saratoga, known as the 'Midsummer Derby,' is the oldest major stakes race in the U.S.",
+      "month": 8,
+      "day": 24,
+      "source": "https://en.wikipedia.org/wiki/Travers_Stakes_at_Saratoga%2C_known_as_the_%27Midsummer_Derby"
+    },
+    {
+      "text": "Horses can recognize themselves in mirrors, suggesting a degree of self-awareness.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Horse_Riding_%26_Equestrian"
+    }
+  ]
+}

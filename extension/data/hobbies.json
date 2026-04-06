@@ -1,0 +1,317 @@
+{
+  "hobbies": [
+    {
+      "id": "top-choices",
+      "label": "Top Choices",
+      "icon": "⭐",
+      "categories": [
+        {
+          "id": "bands",
+          "label": "Bands",
+          "icon": "🎸",
+          "categories": [
+            { "id": "the-beatles", "label": "The Beatles" },
+            { "id": "classic-rock", "label": "Classic Rock" },
+            { "id": "alternative-indie", "label": "Alternative & Indie" },
+            { "id": "punk-rock", "label": "Punk Rock" },
+            { "id": "emo-music", "label": "Emo & Post-Hardcore" },
+            { "id": "new-wave", "label": "New Wave & Synth" },
+            { "id": "heavy-metal", "label": "Heavy Metal" },
+            { "id": "death-metal", "label": "Death Metal" },
+            { "id": "rock-and-roll", "label": "Rock & Roll" },
+            { "id": "reggae", "label": "Reggae" }
+          ]
+        },
+        { "id": "bible", "label": "The Bible", "icon": "📖" },
+        { "id": "comic-books", "label": "Comic Books", "icon": "💥" },
+        {
+          "id": "history",
+          "label": "History",
+          "icon": "📜",
+          "categories": [
+            { "id": "history", "label": "World History" },
+            { "id": "us-history", "label": "U.S. History" },
+            { "id": "wars", "label": "Wars & Battles" },
+            { "id": "presidents", "label": "U.S. Presidents" },
+            { "id": "egyptian-history", "label": "Egyptian History" },
+            { "id": "roman-history", "label": "Roman History" },
+            { "id": "aztecs", "label": "Aztecs" },
+            { "id": "incas", "label": "Incas" },
+            { "id": "mayans", "label": "Mayans" },
+            { "id": "law", "label": "Law & Justice" }
+          ]
+        },
+        {
+          "id": "movies",
+          "label": "Movies",
+          "icon": "🎬",
+          "categories": [
+            { "id": "movies", "label": "General Movie Facts" },
+            { "id": "sci-fi-movies", "label": "Sci-Fi Movies" },
+            { "id": "rom-com", "label": "Romantic Comedies" },
+            { "id": "horror-movies", "label": "Horror Movies" },
+            { "id": "fantasy-movies", "label": "Fantasy Movies" },
+            { "id": "action-adventure", "label": "Action & Adventure" },
+            { "id": "drama-movies", "label": "Drama Movies" },
+            { "id": "comedy-movies", "label": "Comedy Movies" },
+            { "id": "animated-movies", "label": "Animated Movies" },
+            { "id": "documentaries", "label": "Documentaries" },
+            { "id": "war-movies", "label": "War Movies" },
+            { "id": "western-movies", "label": "Western Movies" },
+            { "id": "old-movies", "label": "Classic Movies (1936-1965)" },
+            { "id": "sports-movies", "label": "Sports Movies" },
+            { "id": "60s-movies", "label": "60s Movies" },
+            { "id": "70s-movies", "label": "70s Movies" },
+            { "id": "80s-movies", "label": "80s Movies" },
+            { "id": "90s-movies", "label": "90s Movies" },
+            { "id": "2000s-movies", "label": "2000s-2026 Movies" },
+            { "id": "harry-potter", "label": "Harry Potter" },
+            { "id": "lord-of-the-rings", "label": "Lord of the Rings" },
+            { "id": "star-wars", "label": "Star Wars" },
+            { "id": "indiana-jones", "label": "Indiana Jones" },
+            { "id": "james-bond", "label": "James Bond" },
+            { "id": "john-wick", "label": "John Wick" },
+            { "id": "dune", "label": "Dune" },
+            { "id": "fast-and-furious", "label": "Fast & Furious" },
+            { "id": "transformers", "label": "Transformers" },
+            { "id": "jurassic-park", "label": "Jurassic Park" },
+            { "id": "hunger-games", "label": "Hunger Games" },
+            { "id": "twilight", "label": "Twilight" },
+            { "id": "disney-movies", "label": "Disney Movies" },
+            { "id": "pixar-movies", "label": "Pixar Movies" },
+            { "id": "godfather", "label": "The Godfather" },
+            { "id": "voted-best-movies", "label": "Voted As The Best" },
+            { "id": "academy-awards", "label": "Academy Awards" }
+          ]
+        },
+        {
+          "id": "music",
+          "label": "Music",
+          "icon": "🎵",
+          "categories": [
+            { "id": "music", "label": "General Music Facts" },
+            { "id": "pop-music", "label": "Pop Music" },
+            { "id": "heavy-metal", "label": "Heavy Metal" },
+            { "id": "country-music", "label": "Country Music" },
+            { "id": "classic-rock", "label": "Classic Rock" },
+            { "id": "emo-music", "label": "Emo & Post-Hardcore" },
+            { "id": "new-wave", "label": "New Wave & Synth" },
+            { "id": "death-metal", "label": "Death Metal" },
+            { "id": "classical-music", "label": "Classical Music" },
+            { "id": "jazz", "label": "Jazz" },
+            { "id": "hip-hop", "label": "Hip-Hop & Rap" },
+            { "id": "r-and-b", "label": "R&B / Soul" },
+            { "id": "punk-rock", "label": "Punk Rock" },
+            { "id": "electronic-edm", "label": "Electronic & EDM" },
+            { "id": "blues", "label": "Blues" },
+            { "id": "alternative-indie", "label": "Alternative & Indie" },
+            { "id": "reggae", "label": "Reggae" },
+            { "id": "rock-and-roll", "label": "Rock & Roll" },
+            { "id": "disco", "label": "Disco" },
+            { "id": "music-videos", "label": "Music Videos" },
+            { "id": "music-theory", "label": "Music Theory" },
+            { "id": "the-beatles", "label": "The Beatles" },
+            { "id": "pop-divas", "label": "Pop Divas" }
+          ]
+        },
+        {
+          "id": "pets",
+          "label": "Pets",
+          "icon": "🐾",
+          "categories": [
+            { "id": "pets", "label": "General Pet Facts" },
+            { "id": "dogs", "label": "Dogs" },
+            { "id": "cats", "label": "Cats" },
+            { "id": "birds", "label": "Birds" },
+            { "id": "fish-pets", "label": "Fish & Aquariums" }
+          ]
+        },
+        { "id": "social-media", "label": "Social Media", "icon": "📱" },
+        { "id": "song-lyrics", "label": "Song Lyrics", "icon": "🎤" },
+        {
+          "id": "sports",
+          "label": "Sports",
+          "icon": "🏆",
+          "categories": [
+            {
+              "id": "pro-sports",
+              "label": "Pro Sports",
+              "categories": [
+                { "id": "baseball", "label": "Baseball" },
+                { "id": "basketball", "label": "Basketball" },
+                { "id": "football", "label": "Football" },
+                { "id": "hockey", "label": "Hockey" },
+                { "id": "soccer", "label": "Soccer" },
+                { "id": "golf", "label": "Golf" },
+                { "id": "tennis", "label": "Tennis" },
+                { "id": "olympics", "label": "Olympics" },
+                { "id": "summer-olympics", "label": "Summer Olympics" },
+                { "id": "winter-olympics", "label": "Winter Olympics" },
+                { "id": "poker", "label": "Poker" }
+              ]
+            },
+            {
+              "id": "college-sports",
+              "label": "College Sports",
+              "categories": [
+                { "id": "college-football", "label": "College Football" },
+                { "id": "college-basketball", "label": "College Basketball" },
+                { "id": "womens-college-basketball", "label": "Women's College Basketball" },
+                { "id": "college-hockey", "label": "College Hockey" },
+                { "id": "womens-college-hockey", "label": "Women's College Hockey" }
+              ]
+            },
+            { "id": "figure-skating", "label": "Figure Skating" },
+            { "id": "skiing", "label": "Skiing" },
+            { "id": "snowboarding", "label": "Snowboarding" },
+            { "id": "lacrosse", "label": "Lacrosse" },
+            { "id": "horse-riding", "label": "Horse Riding & Equestrian" }
+          ]
+        },
+        {
+          "id": "superheroes",
+          "label": "Superheroes",
+          "icon": "🦸",
+          "categories": [
+            { "id": "super-heroes", "label": "Super Heroes" },
+            { "id": "the-avengers", "label": "The Avengers" },
+            { "id": "the-hulk", "label": "The Hulk" },
+            { "id": "spiderman", "label": "Spider-Man" },
+            { "id": "batman", "label": "Batman" },
+            { "id": "superman", "label": "Superman" },
+            { "id": "wonder-woman", "label": "Wonder Woman" },
+            { "id": "super-friends", "label": "Super Friends" },
+            { "id": "the-flash", "label": "The Flash" },
+            { "id": "green-lantern", "label": "Green Lantern" },
+            { "id": "x-men", "label": "X-Men" }
+          ]
+        },
+        {
+          "id": "tv",
+          "label": "TV",
+          "icon": "📺",
+          "categories": [
+            { "id": "tv-streaming", "label": "TV Shows & Streaming" },
+            { "id": "game-of-thrones", "label": "Game of Thrones" },
+            { "id": "breaking-bad", "label": "Breaking Bad" },
+            { "id": "simpsons", "label": "The Simpsons" },
+            { "id": "south-park", "label": "South Park" },
+            { "id": "seinfeld", "label": "Seinfeld" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "more-hobbies",
+      "label": "More Hobbies",
+      "icon": "✨",
+      "categories": [
+        { "id": "crafts", "label": "Arts & Crafts", "icon": "✂️" },
+        { "id": "broadway", "label": "Broadway", "icon": "🎭" },
+        { "id": "camping", "label": "Camping", "icon": "⛺" },
+        { "id": "cooking", "label": "Cooking & Baking", "icon": "🍳" },
+        { "id": "crime-mystery", "label": "Crime & Mystery", "icon": "🔍" },
+        { "id": "famous-quotes", "label": "Famous Quotes", "icon": "💬" },
+        { "id": "fashion", "label": "Fashion & Style", "icon": "👗" },
+        { "id": "models", "label": "Fashion Models", "icon": "💃" },
+        {
+          "id": "fitness",
+          "label": "Fitness & Training",
+          "icon": "🏃",
+          "categories": [
+            { "id": "fitness", "label": "Working Out & Fitness" },
+            { "id": "cycling", "label": "Biking & Cycling" },
+            { "id": "swimming", "label": "Swimming & Diving" },
+            { "id": "gymnastics", "label": "Gymnastics" },
+            { "id": "ballet", "label": "Ballet" },
+            { "id": "dancing", "label": "Dancing" },
+            { "id": "cheerleading", "label": "Cheerleading" }
+          ]
+        },
+        { "id": "fishing", "label": "Fishing", "icon": "🎣" },
+        {
+          "id": "food",
+          "label": "Food",
+          "icon": "🍔",
+          "categories": [
+            { "id": "food", "label": "Food Facts" },
+            { "id": "fast-food", "label": "Fast Food" },
+            { "id": "world-food", "label": "World Food" }
+          ]
+        },
+        {
+          "id": "games",
+          "label": "Games",
+          "icon": "🎮",
+          "categories": [
+            { "id": "video-games", "label": "Video Games" },
+            { "id": "board-games", "label": "Board Games & Puzzles" },
+            { "id": "chess", "label": "Chess" },
+            { "id": "poker", "label": "Poker" }
+          ]
+        },
+        { "id": "gardening", "label": "Gardening", "icon": "🌻" },
+        {
+          "id": "geography",
+          "label": "Geography",
+          "icon": "🌍",
+          "categories": [
+            { "id": "geography", "label": "Geography & USA Landmarks" },
+            { "id": "famous-cities", "label": "Famous Cities" },
+            { "id": "beaches", "label": "Beaches" },
+            { "id": "europe", "label": "Europe" },
+            { "id": "africa", "label": "Africa" },
+            { "id": "asia", "label": "Asia" },
+            { "id": "japan", "label": "Japan" },
+            { "id": "china", "label": "China" },
+            { "id": "india", "label": "India" },
+            { "id": "italy", "label": "Italy" },
+            { "id": "greece", "label": "Greece" },
+            { "id": "egypt", "label": "Egypt" }
+          ]
+        },
+        { "id": "ghosts", "label": "Ghosts & Paranormal", "icon": "👻" },
+        { "id": "hiking", "label": "Hiking & Walking", "icon": "🥾" },
+        { "id": "mythology", "label": "Mythology", "icon": "⚡" },
+        {
+          "id": "nature",
+          "label": "Nature",
+          "icon": "🌿",
+          "categories": [
+            { "id": "animals", "label": "Animals & Wildlife" },
+            { "id": "insects", "label": "Insects & Bugs" },
+            { "id": "sea-creatures", "label": "Sea Creatures & Marine Life" }
+          ]
+        },
+        { "id": "painting", "label": "Painting & Art", "icon": "🎨" },
+        { "id": "photography", "label": "Photography", "icon": "📷" },
+        { "id": "reading", "label": "Reading", "icon": "📚" },
+        {
+          "id": "science",
+          "label": "Science",
+          "icon": "🔬",
+          "categories": [
+            { "id": "science", "label": "Science Facts & Quotes" },
+            { "id": "inventors", "label": "Inventors" },
+            { "id": "sci-fi", "label": "Science Fiction" }
+          ]
+        },
+        { "id": "traveling", "label": "Traveling", "icon": "✈️" },
+        { "id": "world-culture", "label": "World Culture", "icon": "🌐" },
+        {
+          "id": "water-sports",
+          "label": "Water Sports",
+          "icon": "🌊",
+          "categories": [
+            { "id": "kayaking", "label": "Kayaking" },
+            { "id": "sailing", "label": "Sailing" },
+            { "id": "water-skiing", "label": "Water Skiing" },
+            { "id": "surfing", "label": "Surfing" }
+          ]
+        },
+        { "id": "witches-wizards", "label": "Witches & Wizards", "icon": "🧙" },
+        { "id": "writing", "label": "Writing & Journaling", "icon": "✍️" }
+      ]
+    }
+  ]
+}

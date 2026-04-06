@@ -1,0 +1,1663 @@
+{
+  "hobby": "Hip-Hop & Rap",
+  "facts": [
+    {
+      "text": "Hip-hop originated in the Bronx, New York City, in the early 1970s.",
+      "source": "https://en.wikipedia.org/wiki/New_York_City"
+    },
+    {
+      "text": "DJ Kool Herc is widely credited as one of the founding fathers of hip-hop.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/DJ_Kool_Herc"
+    },
+    {
+      "text": "The four traditional elements of hip-hop are DJing, MCing (rapping), breakdancing, and graffiti art.",
+      "source": "https://en.wikipedia.org/wiki/four_traditional_elements_of_hip-hop"
+    },
+    {
+      "text": "The Sugarhill Gang's 'Rapper's Delight' (1979) is often considered the first commercially successful hip-hop single.",
+      "source": "https://en.wikipedia.org/wiki/Rapper%27s_Delight"
+    },
+    {
+      "text": "'Rapper's Delight' was released on September 16, 1979.",
+      "month": 9,
+      "day": 16,
+      "source": "https://en.wikipedia.org/wiki/Rapper%27s_Delight"
+    },
+    {
+      "text": "Grandmaster Flash and the Furious Five's 'The Message' (1982) was one of the first hip-hop songs to address social issues.",
+      "source": "https://en.wikipedia.org/wiki/Message"
+    },
+    {
+      "text": "Run-D.M.C. was the first hip-hop group to appear on the cover of Rolling Stone magazine.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Run-D.M.C"
+    },
+    {
+      "text": "Run-D.M.C.'s collaboration with Aerosmith on 'Walk This Way' (1986) helped bring hip-hop to mainstream rock audiences.",
+      "source": "https://en.wikipedia.org/wiki/Walk_This_Way"
+    },
+    {
+      "text": "The Beastie Boys' 'Licensed to Ill' (1986) was the first hip-hop album to reach number one on the Billboard 200.",
+      "source": "https://en.wikipedia.org/wiki/Ill"
+    },
+    {
+      "text": "DJ Kool Herc's back-to-school party on August 11, 1973, is considered the birthdate of hip-hop.",
+      "month": 8,
+      "day": 11,
+      "source": "https://en.wikipedia.org/wiki/DJ_Kool_Herc%27s_back-to-school_party_on_August_11%2C_1973"
+    },
+    {
+      "text": "Public Enemy's 'It Takes a Nation of Millions to Hold Us Back' (1988) is considered one of the most influential hip-hop albums ever made.",
+      "source": "https://en.wikipedia.org/wiki/Hold_Us_Back"
+    },
+    {
+      "text": "N.W.A's 'Straight Outta Compton' (1988) helped pioneer gangsta rap on the West Coast.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Straight_Outta_Compton"
+    },
+    {
+      "text": "The term 'hip-hop' was popularized by Keith Cowboy of Grandmaster Flash and the Furious Five.",
+      "source": "https://en.wikipedia.org/wiki/term_%27hip-hop"
+    },
+    {
+      "text": "Sampling, the practice of reusing portions of existing recordings, has been a foundational production technique in hip-hop since its inception.",
+      "source": "https://en.wikipedia.org/wiki/Sampling%2C_the_practice_of_reusing_portions_of_existing_recordings"
+    },
+    {
+      "text": "The Roland TR-808 drum machine became one of the most iconic instruments in hip-hop production.",
+      "source": "https://en.wikipedia.org/wiki/Roland_TR-808_drum_machine"
+    },
+    {
+      "text": "Afrika Bambaataa's 'Planet Rock' (1982) introduced electronic music elements to hip-hop using the Roland TR-808.",
+      "source": "https://en.wikipedia.org/wiki/Planet_Rock"
+    },
+    {
+      "text": "Tupac Shakur was born on June 16, 1971, in East Harlem, New York City.",
+      "month": 6,
+      "day": 16,
+      "source": "https://en.wikipedia.org/wiki/Tupac_Shakur"
+    },
+    {
+      "text": "The Notorious B.I.G. (Biggie Smalls) was born Christopher George Latore Wallace on May 21, 1972.",
+      "month": 5,
+      "day": 21,
+      "source": "https://en.wikipedia.org/wiki/Notorious_B.I.G._(Biggie_Smalls)"
+    },
+    {
+      "text": "The East Coast–West Coast hip-hop rivalry of the 1990s was one of the most intense feuds in music history.",
+      "source": "https://en.wikipedia.org/wiki/East_Coast%E2%80%93West_Coast_hip-hop_rivalry_of_the_1990s"
+    },
+    {
+      "text": "Tupac's album 'All Eyez on Me' (1996) was one of the first double-disc studio albums in hip-hop.",
+      "source": "https://en.wikipedia.org/wiki/Me"
+    },
+    {
+      "text": "The Notorious B.I.G.'s debut album 'Ready to Die' (1994) is ranked among the greatest hip-hop albums of all time.",
+      "source": "https://en.wikipedia.org/wiki/Die"
+    },
+    {
+      "text": "Tupac Shakur was fatally shot in Las Vegas on September 13, 1996.",
+      "month": 9,
+      "day": 13,
+      "source": "https://en.wikipedia.org/wiki/Tupac_Shakur"
+    },
+    {
+      "text": "The Notorious B.I.G. was killed in a drive-by shooting in Los Angeles on March 9, 1997.",
+      "month": 3,
+      "day": 9,
+      "source": "https://en.wikipedia.org/wiki/Notorious_B.I.G"
+    },
+    {
+      "text": "Dr. Dre's 'The Chronic' (1992) popularized G-funk, a subgenre of hip-hop with heavy synthesizer use.",
+      "source": "https://en.wikipedia.org/wiki/Chronic"
+    },
+    {
+      "text": "Snoop Dogg's debut album 'Doggystyle' (1993) debuted at number one on the Billboard 200.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Doggystyle"
+    },
+    {
+      "text": "Wu-Tang Clan, formed in Staten Island in 1992, consisted of nine original members.",
+      "source": "https://en.wikipedia.org/wiki/Wu-Tang_Clan"
+    },
+    {
+      "text": "Wu-Tang Clan's debut album 'Enter the Wu-Tang (36 Chambers)' (1993) is considered a cornerstone of East Coast hip-hop.",
+      "source": "https://en.wikipedia.org/wiki/Wu-Tang_Clan%27s_debut_album_%27Enter_the_Wu-Tang_(36_Chambers)%27_(1993)"
+    },
+    {
+      "text": "Eminem's 'The Slim Shady LP' (1999) won the Grammy for Best Rap Album, launching him to superstardom.",
+      "source": "https://en.wikipedia.org/wiki/Slim_Shady_LP"
+    },
+    {
+      "text": "Eminem was born Marshall Bruce Mathers III on October 17, 1972, in St. Joseph, Missouri.",
+      "month": 10,
+      "day": 17,
+      "source": "https://en.wikipedia.org/wiki/Eminem"
+    },
+    {
+      "text": "Jay-Z has won 24 Grammy Awards, making him one of the most decorated hip-hop artists of all time.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Jay-Z"
+    },
+    {
+      "text": "Jay-Z's 'Reasonable Doubt' (1996) is widely considered one of the greatest debut albums in hip-hop.",
+      "source": "https://en.wikipedia.org/wiki/Reasonable_Doubt"
+    },
+    {
+      "text": "Jay-Z was born Shawn Corey Carter on December 4, 1969, in Brooklyn, New York.",
+      "month": 12,
+      "day": 4,
+      "source": "https://en.wikipedia.org/wiki/Jay-Z"
+    },
+    {
+      "text": "Nas's debut album 'Illmatic' (1994) is frequently cited as the greatest hip-hop album of all time.",
+      "source": "https://en.wikipedia.org/wiki/Illmatic"
+    },
+    {
+      "text": "Lauryn Hill's 'The Miseducation of Lauryn Hill' (1998) won five Grammy Awards, a record for a female artist at the time.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Lauryn_Hill"
+    },
+    {
+      "text": "OutKast's 'Speakerboxxx/The Love Below' (2003) won the Grammy for Album of the Year, a first for a hip-hop group.",
+      "source": "https://en.wikipedia.org/wiki/Love_Below"
+    },
+    {
+      "text": "Kanye West's debut album 'The College Dropout' was released on February 10, 2004.",
+      "month": 2,
+      "day": 10,
+      "source": "https://en.wikipedia.org/wiki/Kanye_West%27s_debut_album_%27The_College_Dropout"
+    },
+    {
+      "text": "Kanye West originally gained recognition as a producer for Roc-A-Fella Records before becoming a solo artist.",
+      "source": "https://en.wikipedia.org/wiki/Kanye_West"
+    },
+    {
+      "text": "The term 'bling-bling' was popularized by the Cash Money Records camp in the late 1990s.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/term_%27bling-bling"
+    },
+    {
+      "text": "Missy Elliott was the first female rapper inducted into the Songwriters Hall of Fame in 2019.",
+      "source": "https://en.wikipedia.org/wiki/Missy_Elliott"
+    },
+    {
+      "text": "Lil Wayne's 'Tha Carter III' (2008) sold over one million copies in its first week.",
+      "source": "https://en.wikipedia.org/wiki/Tha_Carter_III"
+    },
+    {
+      "text": "Drake holds the record for most Billboard Hot 100 entries of any artist in history.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Billboard_Hot_100"
+    },
+    {
+      "text": "Drake was born Aubrey Drake Graham on October 24, 1986, in Toronto, Canada.",
+      "month": 10,
+      "day": 24,
+      "source": "https://en.wikipedia.org/wiki/Drake"
+    },
+    {
+      "text": "Kendrick Lamar's 'DAMN.' (2017) won the Pulitzer Prize for Music, a first for a non-classical or non-jazz work.",
+      "source": "https://en.wikipedia.org/wiki/DAMN"
+    },
+    {
+      "text": "Kendrick Lamar was born on June 17, 1987, in Compton, California.",
+      "month": 6,
+      "day": 17,
+      "source": "https://en.wikipedia.org/wiki/Kendrick_Lamar"
+    },
+    {
+      "text": "The Pulitzer Prize for 'DAMN.' was announced on April 16, 2018.",
+      "month": 4,
+      "day": 16,
+      "source": "https://en.wikipedia.org/wiki/Pulitzer_Prize_for_%27DAMN"
+    },
+    {
+      "text": "A Tribe Called Quest is credited with pioneering jazz-rap with their debut album 'People's Instinctive Travels and the Paths of Rhythm' (1990).",
+      "source": "https://en.wikipedia.org/wiki/Rhythm"
+    },
+    {
+      "text": "The Native Tongues collective included A Tribe Called Quest, De La Soul, and the Jungle Brothers.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Native_Tongues_collective_included_A_Tribe"
+    },
+    {
+      "text": "De La Soul's '3 Feet High and Rising' (1989) was one of the first hip-hop albums to be inducted into the Library of Congress.",
+      "source": "https://en.wikipedia.org/wiki/Rising"
+    },
+    {
+      "text": "Salt-N-Pepa were the first female rap act to go gold and platinum.",
+      "source": "https://en.wikipedia.org/wiki/Salt-N-Pepa"
+    },
+    {
+      "text": "Queen Latifah won a Grammy for Best Solo Rap Performance for 'U.N.I.T.Y.' in 1995.",
+      "source": "https://en.wikipedia.org/wiki/Queen_Latifah"
+    },
+    {
+      "text": "MC Lyte was the first solo female rapper to release a full-length album with 'Lyte as a Rock' (1988).",
+      "source": "https://en.wikipedia.org/wiki/Rock"
+    },
+    {
+      "text": "The first hip-hop record ever made is often debated, but 'King Tim III (Personality Jock)' by the Fatback Band (1979) predates 'Rapper's Delight' by a few weeks.",
+      "source": "https://en.wikipedia.org/wiki/Fatback_Band"
+    },
+    {
+      "text": "Def Jam Recordings was founded by Russell Simmons and Rick Rubin in 1984.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Def_Jam_Recordings"
+    },
+    {
+      "text": "Def Jam's first release was LL Cool J's 'I Need a Beat' in 1984.",
+      "source": "https://en.wikipedia.org/wiki/Def_Jam%27s_first_release"
+    },
+    {
+      "text": "LL Cool J's name stands for 'Ladies Love Cool James.'",
+      "source": "https://en.wikipedia.org/wiki/LL_Cool_J%27s"
+    },
+    {
+      "text": "Grandmaster Flash was a pioneer of turntablism techniques including cutting, scratching, and punch phrasing.",
+      "source": "https://en.wikipedia.org/wiki/Grandmaster_Flash"
+    },
+    {
+      "text": "The 'breakbeat,' isolated by DJ Kool Herc, is the rhythmic foundation of hip-hop music.",
+      "source": "https://en.wikipedia.org/wiki/%27breakbeat%2C%27_isolated_by_DJ_Kool_Herc"
+    },
+    {
+      "text": "Afrika Bambaataa founded the Universal Zulu Nation, one of the first hip-hop awareness organizations, in 1973.",
+      "source": "https://en.wikipedia.org/wiki/Afrika_Bambaataa"
+    },
+    {
+      "text": "The first major hip-hop film was 'Wild Style' (1983), starring real graffiti artists and MCs from New York City.",
+      "source": "https://en.wikipedia.org/wiki/Wild_Style"
+    },
+    {
+      "text": "The documentary 'Style Wars' (1983) chronicled the early graffiti and breakdancing culture of New York.",
+      "month": 1,
+      "day": 18,
+      "source": "https://en.wikipedia.org/wiki/Style_Wars"
+    },
+    {
+      "text": "Breakdancing (breaking) was officially added as an Olympic sport for the 2024 Paris Games.",
+      "source": "https://en.wikipedia.org/wiki/Breakdancing_(breaking)"
+    },
+    {
+      "text": "The term 'MC' originally stood for 'Master of Ceremonies' in the context of early hip-hop parties.",
+      "source": "https://en.wikipedia.org/wiki/Master_of_Ceremonies%27_in_the"
+    },
+    {
+      "text": "Kurtis Blow was the first rapper to be signed by a major label (Mercury Records) in 1979.",
+      "source": "https://en.wikipedia.org/wiki/Kurtis_Blow"
+    },
+    {
+      "text": "Kurtis Blow's 'The Breaks' (1980) was the first certified gold rap single.",
+      "source": "https://en.wikipedia.org/wiki/Breaks"
+    },
+    {
+      "text": "The Treacherous Three, featuring Kool Moe Dee, were among the first hip-hop groups to perform at a major venue (the Apollo Theater).",
+      "source": "https://en.wikipedia.org/wiki/Treacherous_Three%2C_featuring_Kool_Moe_Dee"
+    },
+    {
+      "text": "Eric B. & Rakim's 'Paid in Full' (1987) revolutionized lyrical complexity in hip-hop.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Full"
+    },
+    {
+      "text": "Rakim is often credited with introducing internal rhyme schemes and multisyllabic rhyming to rap.",
+      "source": "https://en.wikipedia.org/wiki/Rakim"
+    },
+    {
+      "text": "Big Daddy Kane's intricate wordplay and rapid delivery influenced many later rappers including Jay-Z.",
+      "source": "https://en.wikipedia.org/wiki/Big_Daddy_Kane%27s"
+    },
+    {
+      "text": "Slick Rick's 'Children's Story' (1988) is one of the most celebrated storytelling rap songs ever recorded.",
+      "source": "https://en.wikipedia.org/wiki/Children%27s_Story"
+    },
+    {
+      "text": "The Juice Crew, based in Queensbridge, New York, included artists like MC Shan, Roxanne Shanté, and Big Daddy Kane.",
+      "source": "https://en.wikipedia.org/wiki/Juice_Crew"
+    },
+    {
+      "text": "The Bridge Wars (1986-1988) was a battle between the Juice Crew and Boogie Down Productions over hip-hop's origins.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Bridge_Wars_(1986-1988)"
+    },
+    {
+      "text": "KRS-One of Boogie Down Productions is often called 'The Teacha' for his socially conscious lyrics.",
+      "source": "https://en.wikipedia.org/wiki/KRS-One_of_Boogie_Down_Productions"
+    },
+    {
+      "text": "Ice-T is considered one of the pioneers of West Coast hip-hop and gangsta rap.",
+      "source": "https://en.wikipedia.org/wiki/Ice-T"
+    },
+    {
+      "text": "Ice-T's 'Colors' (1988) was a landmark West Coast hip-hop track tied to the Dennis Hopper film of the same name.",
+      "source": "https://en.wikipedia.org/wiki/Colors"
+    },
+    {
+      "text": "Too Short, from Oakland, California, was one of the first West Coast rappers to achieve nationwide success.",
+      "source": "https://en.wikipedia.org/wiki/Too_Short%2C_from_Oakland%2C_California"
+    },
+    {
+      "text": "Digital Underground's 'The Humpty Dance' (1990) was a crossover hit that introduced Tupac Shakur as a backup dancer and roadie.",
+      "source": "https://en.wikipedia.org/wiki/Humpty_Dance"
+    },
+    {
+      "text": "The Geto Boys, from Houston, Texas, helped put Southern hip-hop on the map in the late 1980s.",
+      "source": "https://en.wikipedia.org/wiki/Geto_Boys%2C_from_Houston%2C_Texas"
+    },
+    {
+      "text": "Scarface of the Geto Boys is often ranked among the greatest lyricists in hip-hop history.",
+      "source": "https://en.wikipedia.org/wiki/Scarface_of_the_Geto_Boys"
+    },
+    {
+      "text": "DJ Screw from Houston invented the 'chopped and screwed' technique of slowing down and manipulating records.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/DJ_Screw_from_Houston"
+    },
+    {
+      "text": "UGK (Underground Kingz) from Port Arthur, Texas, were pivotal figures in Southern hip-hop.",
+      "source": "https://en.wikipedia.org/wiki/UGK_(Underground_Kingz)_from_Port_Arthur%2C_Texas"
+    },
+    {
+      "text": "Master P built No Limit Records into one of the most successful independent hip-hop labels of the 1990s.",
+      "source": "https://en.wikipedia.org/wiki/Master_P"
+    },
+    {
+      "text": "Cash Money Records, founded by Bryan 'Birdman' Williams and Ronald 'Slim' Williams, became a dominant force in Southern hip-hop.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Cash_Money_Records"
+    },
+    {
+      "text": "Three 6 Mafia won an Academy Award for Best Original Song for 'It's Hard out Here for a Pimp' from the film 'Hustle & Flow' in 2006.",
+      "source": "https://en.wikipedia.org/wiki/Three_6_Mafia"
+    },
+    {
+      "text": "Three 6 Mafia won their Oscar on March 5, 2006.",
+      "month": 3,
+      "day": 5,
+      "source": "https://en.wikipedia.org/wiki/Three_6_Mafia"
+    },
+    {
+      "text": "Nelly's 'Country Grammar' (2000) sold over 8.4 million copies in the United States, making it one of the best-selling hip-hop albums.",
+      "source": "https://en.wikipedia.org/wiki/Country_Grammar"
+    },
+    {
+      "text": "Ludacris, from Atlanta, earned both a Grammy and a SAG Award for his acting in 'Crash' (2004).",
+      "source": "https://en.wikipedia.org/wiki/Crash"
+    },
+    {
+      "text": "The Dirty South movement of the late 1990s and early 2000s brought national attention to hip-hop from the American South.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Dirty_South"
+    },
+    {
+      "text": "Lil Jon popularized crunk music, a high-energy subgenre of Southern hip-hop, in the early 2000s.",
+      "source": "https://en.wikipedia.org/wiki/Lil_Jon"
+    },
+    {
+      "text": "T.I. is often called the 'King of the South' and helped popularize trap music.",
+      "source": "https://en.wikipedia.org/wiki/T.I"
+    },
+    {
+      "text": "Trap music originated in Atlanta in the early 2000s, characterized by heavy bass, hi-hats, and lyrical themes about street life.",
+      "source": "https://en.wikipedia.org/wiki/Atlanta_in_the"
+    },
+    {
+      "text": "Young Jeezy's debut album 'Let's Get It: Thug Motivation 101' (2005) was a defining trap music release.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Let%27s_Get_It:_Thug_Motivation_101"
+    },
+    {
+      "text": "Gucci Mane is considered one of the key founders of trap music alongside T.I. and Young Jeezy.",
+      "source": "https://en.wikipedia.org/wiki/Gucci_Mane"
+    },
+    {
+      "text": "Future helped pioneer the melodic trap subgenre with heavy use of Auto-Tune.",
+      "source": "https://en.wikipedia.org/wiki/Future"
+    },
+    {
+      "text": "The Migos' 'Versace' (2013) introduced the triplet flow that became the dominant rap cadence of the 2010s.",
+      "source": "https://en.wikipedia.org/wiki/Versace"
+    },
+    {
+      "text": "Travis Scott's Astroworld Festival debuted in 2018 in Houston, Texas.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Travis_Scott%27s_Astroworld_Festival"
+    },
+    {
+      "text": "21 Savage was born in London, England, and moved to Atlanta at age 7.",
+      "source": "https://en.wikipedia.org/wiki/21_Savage"
+    },
+    {
+      "text": "Cardi B's 'Bodak Yellow' (2017) made her the first solo female rapper to top the Hot 100 since Lauryn Hill in 1998.",
+      "source": "https://en.wikipedia.org/wiki/Bodak_Yellow"
+    },
+    {
+      "text": "Cardi B was born Belcalis Marlenis Almánzar on October 11, 1992.",
+      "month": 10,
+      "day": 11,
+      "source": "https://en.wikipedia.org/wiki/Cardi_B"
+    },
+    {
+      "text": "Nicki Minaj was the first female solo artist to have seven singles simultaneously on the Billboard Hot 100.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Nicki_Minaj"
+    },
+    {
+      "text": "Nicki Minaj was born Onika Tanya Maraj on December 8, 1982, in Trinidad and Tobago.",
+      "month": 12,
+      "day": 8,
+      "source": "https://en.wikipedia.org/wiki/Nicki_Minaj"
+    },
+    {
+      "text": "Megan Thee Stallion coined the term 'Hot Girl Summer,' which became a cultural phenomenon in 2019.",
+      "source": "https://en.wikipedia.org/wiki/Megan_Thee_Stallion_coined_the_term_%27Hot_Girl_Summer%2C%27_which"
+    },
+    {
+      "text": "Lil Nas X's 'Old Town Road' spent 19 weeks at number one on the Billboard Hot 100, breaking the record.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Lil_Nas_X%27s_%27Old_Town_Road"
+    },
+    {
+      "text": "'Old Town Road' originally went viral on TikTok in 2019 before topping the charts.",
+      "source": "https://en.wikipedia.org/wiki/Old_Town_Road"
+    },
+    {
+      "text": "Chance the Rapper's 'Coloring Book' (2016) was the first streaming-only album to win a Grammy.",
+      "source": "https://en.wikipedia.org/wiki/Coloring_Book"
+    },
+    {
+      "text": "Tyler, the Creator won the Grammy for Best Rap Album for 'Igor' in 2020.",
+      "source": "https://en.wikipedia.org/wiki/Tyler%2C_the_Creator"
+    },
+    {
+      "text": "Tyler, the Creator was born Tyler Gregory Okonma on March 6, 1991.",
+      "month": 3,
+      "day": 6,
+      "source": "https://en.wikipedia.org/wiki/Tyler%2C_the_Creator"
+    },
+    {
+      "text": "Odd Future (OFWGKTA) was a Los Angeles-based hip-hop collective that launched the careers of Tyler, the Creator, Frank Ocean, and Earl Sweatshirt.",
+      "source": "https://en.wikipedia.org/wiki/Odd_Future_(OFWGKTA)"
+    },
+    {
+      "text": "J. Cole went platinum with his album '2014 Forest Hills Drive' (2014) with no featured artists, a rare achievement.",
+      "source": "https://en.wikipedia.org/wiki/Forest_Hills_Drive"
+    },
+    {
+      "text": "J. Cole was born Jermaine Lamarr Cole on January 28, 1985, in Frankfurt, Germany.",
+      "month": 1,
+      "day": 28,
+      "source": "https://en.wikipedia.org/wiki/J._Cole"
+    },
+    {
+      "text": "Childish Gambino's 'This Is America' (2018) debuted at number one on the Hot 100 and won four Grammy Awards.",
+      "source": "https://en.wikipedia.org/wiki/This_Is_America"
+    },
+    {
+      "text": "Post Malone's 'Rockstar' (2017) spent eight weeks at number one on the Billboard Hot 100.",
+      "source": "https://en.wikipedia.org/wiki/Rockstar"
+    },
+    {
+      "text": "The SoundCloud rap movement of the mid-2010s launched artists like Lil Uzi Vert, XXXTentacion, and Juice WRLD.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/SoundCloud_rap_movement_of_the_mid-2010s"
+    },
+    {
+      "text": "Juice WRLD's freestyle 'Fire in the Booth' showcased his ability to freestyle for over an hour without stopping.",
+      "source": "https://en.wikipedia.org/wiki/Juice_WRLD%27s"
+    },
+    {
+      "text": "Pop Smoke helped popularize Brooklyn drill music before his death in February 2020.",
+      "source": "https://en.wikipedia.org/wiki/Pop_Smoke"
+    },
+    {
+      "text": "UK drill music influenced the development of Brooklyn drill in the late 2010s.",
+      "source": "https://en.wikipedia.org/wiki/Hip-Hop_%26_Rap"
+    },
+    {
+      "text": "Stormzy became the first grime artist to headline Glastonbury Festival in 2019.",
+      "source": "https://en.wikipedia.org/wiki/Stormzy"
+    },
+    {
+      "text": "Grime music originated in London in the early 2000s, blending elements of UK garage, jungle, and hip-hop.",
+      "source": "https://en.wikipedia.org/wiki/London_in_the"
+    },
+    {
+      "text": "Skepta's 'Konnichiwa' (2016) won the Mercury Prize, a prestigious UK music award.",
+      "source": "https://en.wikipedia.org/wiki/Konnichiwa"
+    },
+    {
+      "text": "The Pharcyde's 'Bizarre Ride II the Pharcyde' (1992) is a classic of alternative hip-hop from Los Angeles.",
+      "source": "https://en.wikipedia.org/wiki/Pharcyde"
+    },
+    {
+      "text": "MF DOOM was known for his signature metal mask and complex rhyme schemes.",
+      "source": "https://en.wikipedia.org/wiki/MF_DOOM"
+    },
+    {
+      "text": "MF DOOM and Madlib's collaboration album 'Madvillainy' (2004) is considered a masterpiece of underground hip-hop.",
+      "source": "https://en.wikipedia.org/wiki/Madvillainy"
+    },
+    {
+      "text": "Aesop Rock has been calculated to have the largest vocabulary of any hip-hop artist, surpassing Shakespeare in unique word count.",
+      "source": "https://en.wikipedia.org/wiki/Aesop_Rock"
+    },
+    {
+      "text": "Atmosphere, from Minneapolis, helped build the Rhymesayers Entertainment independent hip-hop label.",
+      "source": "https://en.wikipedia.org/wiki/Atmosphere%2C_from_Minneapolis"
+    },
+    {
+      "text": "Tech N9ne founded Strange Music, one of the largest independent hip-hop labels in the United States.",
+      "source": "https://en.wikipedia.org/wiki/Tech_N9ne"
+    },
+    {
+      "text": "Immortal Technique is known for his politically charged lyrics and for independently releasing his albums.",
+      "source": "https://en.wikipedia.org/wiki/Immortal_Technique"
+    },
+    {
+      "text": "The Roots are known as one of the few hip-hop groups to use a full live band.",
+      "source": "https://en.wikipedia.org/wiki/Roots"
+    },
+    {
+      "text": "The Roots have served as the house band on 'The Tonight Show Starring Jimmy Fallon' since 2014.",
+      "source": "https://en.wikipedia.org/wiki/Roots"
+    },
+    {
+      "text": "Common (formerly Common Sense) is celebrated for his conscious hip-hop and later won an Oscar for the song 'Glory' from the film 'Selma.'",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Common_(formerly_Common_Sense)"
+    },
+    {
+      "text": "Mos Def and Talib Kweli formed Black Star, whose 1998 self-titled album is a landmark of conscious hip-hop.",
+      "source": "https://en.wikipedia.org/wiki/Mos_Def_and_Talib_Kweli"
+    },
+    {
+      "text": "Talib Kweli's name means 'the seeker of truth' in Arabic.",
+      "source": "https://en.wikipedia.org/wiki/Talib_Kweli%27s"
+    },
+    {
+      "text": "Pharrell Williams and Chad Hugo formed The Neptunes, one of the most successful production duos in hip-hop history.",
+      "source": "https://en.wikipedia.org/wiki/Pharrell_Williams_and_Chad_Hugo"
+    },
+    {
+      "text": "Timbaland's innovative production style, incorporating global sounds and syncopated beats, defined the late-1990s and early-2000s hip-hop sound.",
+      "source": "https://en.wikipedia.org/wiki/Hip-Hop_%26_Rap"
+    },
+    {
+      "text": "Swizz Beatz produced hit records for DMX, Jay-Z, and many others, becoming one of hip-hop's most prolific beatmakers.",
+      "source": "https://en.wikipedia.org/wiki/Swizz_Beatz"
+    },
+    {
+      "text": "Just Blaze is known for his soulful production style and work on Jay-Z's 'The Blueprint' (2001).",
+      "source": "https://en.wikipedia.org/wiki/Blueprint"
+    },
+    {
+      "text": "DJ Premier of Gang Starr is considered one of the greatest hip-hop producers of all time.",
+      "source": "https://en.wikipedia.org/wiki/DJ_Premier_of_Gang_Starr"
+    },
+    {
+      "text": "Pete Rock is renowned for his use of jazz samples and the SP-1200 sampler in hip-hop production.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Pete_Rock"
+    },
+    {
+      "text": "The Akai MPC (Music Production Center) series has been a staple of hip-hop production since the late 1980s.",
+      "source": "https://en.wikipedia.org/wiki/Akai_MPC_(Music_Production_Center)_series"
+    },
+    {
+      "text": "J Dilla's 'Donuts' (2006) was released on February 7, 2006, just three days before his death.",
+      "month": 2,
+      "day": 7,
+      "source": "https://en.wikipedia.org/wiki/Donuts"
+    },
+    {
+      "text": "J Dilla is considered one of the most influential producers in hip-hop, known for his off-kilter timing and soulful beats.",
+      "source": "https://en.wikipedia.org/wiki/J_Dilla"
+    },
+    {
+      "text": "Madlib is known for producing beats from rare vinyl samples sourced from record stores around the world.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Madlib"
+    },
+    {
+      "text": "RZA of Wu-Tang Clan produced the group's first several albums and developed a gritty, sample-heavy production style.",
+      "source": "https://en.wikipedia.org/wiki/RZA_of_Wu-Tang_Clan_produced_the_group%27s_first_several_albums_and"
+    },
+    {
+      "text": "Metro Boomin became one of the most sought-after producers of the 2010s, working with Future, 21 Savage, and Migos.",
+      "source": "https://en.wikipedia.org/wiki/Metro_Boomin"
+    },
+    {
+      "text": "Mike Dean has been a key producer and collaborator for Kanye West, Travis Scott, and many Houston artists.",
+      "source": "https://en.wikipedia.org/wiki/Mike_Dean"
+    },
+    {
+      "text": "The SP-1200 sampler, with its lo-fi 12-bit sound, is considered a classic hip-hop production tool.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/SP-1200_sampler%2C_with_its_lo-fi_12-bit_sound"
+    },
+    {
+      "text": "Auto-Tune was first notably used in hip-hop by T-Pain, who popularized the vocal effect in the mid-2000s.",
+      "source": "https://en.wikipedia.org/wiki/Auto-Tune"
+    },
+    {
+      "text": "Kanye West's '808s & Heartbreak' (2008) heavily influenced the use of Auto-Tune and emotional themes in modern rap.",
+      "source": "https://en.wikipedia.org/wiki/Heartbreak"
+    },
+    {
+      "text": "'808s & Heartbreak' was released on November 24, 2008.",
+      "month": 11,
+      "day": 24,
+      "source": "https://en.wikipedia.org/wiki/808s_%26_Heartbreak"
+    },
+    {
+      "text": "Lil Wayne is often credited with popularizing mixtape culture in the 2000s with his 'Dedication' and 'Da Drought' series.",
+      "source": "https://en.wikipedia.org/wiki/Lil_Wayne"
+    },
+    {
+      "text": "50 Cent's 'Get Rich or Die Tryin'' (2003) sold 872,000 copies in its first four days of release.",
+      "source": "https://en.wikipedia.org/wiki/Die_Tryin"
+    },
+    {
+      "text": "50 Cent was born Curtis James Jackson III on July 6, 1975, in Queens, New York.",
+      "month": 7,
+      "day": 6,
+      "source": "https://en.wikipedia.org/wiki/50_Cent"
+    },
+    {
+      "text": "Eminem's 'The Marshall Mathers LP' (2000) sold 1.76 million copies in its first week, a record at the time.",
+      "source": "https://en.wikipedia.org/wiki/Marshall_Mathers_LP"
+    },
+    {
+      "text": "The 8 Mile film (2002), loosely based on Eminem's life, grossed over $240 million worldwide.",
+      "source": "https://en.wikipedia.org/wiki/8_Mile"
+    },
+    {
+      "text": "Eminem's 'Lose Yourself' from the '8 Mile' soundtrack won the Academy Award for Best Original Song.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Eminem%27s_%27Lose_Yourself%27_from_the_%278_Mile%27_soundtrack"
+    },
+    {
+      "text": "Dr. Dre discovered and mentored artists including Snoop Dogg, Eminem, 50 Cent, and Kendrick Lamar.",
+      "source": "https://en.wikipedia.org/wiki/Dr._Dre"
+    },
+    {
+      "text": "Aftermath Entertainment, founded by Dr. Dre in 1996, became one of the most successful hip-hop labels.",
+      "source": "https://en.wikipedia.org/wiki/Aftermath_Entertainment"
+    },
+    {
+      "text": "Dr. Dre sold Beats Electronics to Apple for approximately $3 billion in 2014, one of the largest deals in music history.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Dr._Dre"
+    },
+    {
+      "text": "Jay-Z co-founded Roc-A-Fella Records with Damon Dash and Kareem 'Biggs' Burke in 1995.",
+      "source": "https://en.wikipedia.org/wiki/Roc-A-Fella_Records_with_Damon_Dash_and_Kareem"
+    },
+    {
+      "text": "Jay-Z became the first hip-hop artist to become a billionaire, according to Forbes.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Jay-Z"
+    },
+    {
+      "text": "Roc Nation, Jay-Z's entertainment company founded in 2008, manages athletes and musicians and operates a record label.",
+      "source": "https://en.wikipedia.org/wiki/Roc_Nation%2C_Jay-Z%27s_entertainment_company"
+    },
+    {
+      "text": "Diddy (Sean Combs) founded Bad Boy Records in 1993, launching the careers of The Notorious B.I.G., Mase, and others.",
+      "source": "https://en.wikipedia.org/wiki/Diddy_(Sean_Combs)"
+    },
+    {
+      "text": "Death Row Records, co-founded by Suge Knight and Dr. Dre in 1991, was home to Tupac, Snoop Dogg, and others.",
+      "source": "https://en.wikipedia.org/wiki/Death_Row_Records%2C_co-founded_by_Suge_Knight_and_Dr._Dre_in_1991"
+    },
+    {
+      "text": "Ruthless Records, founded by Eazy-E and Jerry Heller, was N.W.A's original label.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Ruthless_Records"
+    },
+    {
+      "text": "Top Dawg Entertainment (TDE) is the label behind Kendrick Lamar, ScHoolboy Q, SZA, and Ab-Soul.",
+      "source": "https://en.wikipedia.org/wiki/Top_Dawg_Entertainment_(TDE)"
+    },
+    {
+      "text": "Quality Control Music, founded in Atlanta, launched the careers of Migos, Lil Yachty, and Lil Baby.",
+      "source": "https://en.wikipedia.org/wiki/Quality_Control_Music"
+    },
+    {
+      "text": "Dreamville Records, founded by J. Cole, is both a record label and an annual music festival.",
+      "source": "https://en.wikipedia.org/wiki/Dreamville_Records"
+    },
+    {
+      "text": "The first rap Grammy Award was given in 1989 to DJ Jazzy Jeff & The Fresh Prince for 'Parents Just Don't Understand.'",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/first_rap_Grammy_Award"
+    },
+    {
+      "text": "Many artists boycotted the first rap Grammy ceremony because the category was not televised.",
+      "source": "https://en.wikipedia.org/wiki/Many_artists_boycotted_the_first_rap_Grammy_ceremony_because_the_category"
+    },
+    {
+      "text": "The Grammy for Best Rap Album was first awarded in 1996 to Naughty by Nature for 'Poverty's Paradise.'",
+      "source": "https://en.wikipedia.org/wiki/Grammy_for_Best_Rap_Album"
+    },
+    {
+      "text": "Cypress Hill was the first Latino American hip-hop group to have a platinum album.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Cypress_Hill"
+    },
+    {
+      "text": "The Fugees' 'The Score' (1996) sold over 22 million copies worldwide.",
+      "source": "https://en.wikipedia.org/wiki/Score"
+    },
+    {
+      "text": "Wyclef Jean of the Fugees went on to have a successful solo career and even ran for president of Haiti in 2010.",
+      "source": "https://en.wikipedia.org/wiki/Wyclef_Jean_of_the_Fugees_went_on_to"
+    },
+    {
+      "text": "Bone Thugs-n-Harmony from Cleveland blended rapid-fire rapping with melodic harmonies.",
+      "source": "https://en.wikipedia.org/wiki/Bone_Thugs-n-Harmony"
+    },
+    {
+      "text": "Bone Thugs-n-Harmony's 'Tha Crossroads' won a Grammy for Best Rap Performance by a Duo or Group in 1997.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Bone_Thugs-n-Harmony%27s_%27Tha_Crossroads"
+    },
+    {
+      "text": "Busta Rhymes is known for his rapid-fire delivery and energetic music videos.",
+      "source": "https://en.wikipedia.org/wiki/Busta_Rhymes"
+    },
+    {
+      "text": "DMX was the first artist to have his first five studio albums debut at number one on the Billboard 200.",
+      "source": "https://en.wikipedia.org/wiki/DMX"
+    },
+    {
+      "text": "DMX was born Earl Simmons on December 18, 1970, in Mount Vernon, New York.",
+      "month": 12,
+      "day": 18,
+      "source": "https://en.wikipedia.org/wiki/DMX"
+    },
+    {
+      "text": "Method Man of Wu-Tang Clan was the first member to release a solo album, 'Tical' (1994).",
+      "source": "https://en.wikipedia.org/wiki/Tical"
+    },
+    {
+      "text": "Ol' Dirty Bastard of Wu-Tang Clan was known for his eccentric personality and raw vocal style.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Ol%27_Dirty_Bastard_of_Wu-Tang_Clan"
+    },
+    {
+      "text": "GZA's 'Liquid Swords' (1995) is considered one of the best solo Wu-Tang albums.",
+      "source": "https://en.wikipedia.org/wiki/Liquid_Swords"
+    },
+    {
+      "text": "Redman and Method Man's chemistry led to a collaborative album, 'Blackout!' (1999), and a sitcom.",
+      "source": "https://en.wikipedia.org/wiki/Blackout"
+    },
+    {
+      "text": "Xzibit became widely known for hosting the MTV show 'Pimp My Ride' (2004-2007).",
+      "source": "https://en.wikipedia.org/wiki/Xzibit"
+    },
+    {
+      "text": "The Diplomats (Dipset) from Harlem, led by Cam'ron, influenced hip-hop fashion with their pink fur coats and colorful style.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Diplomats"
+    },
+    {
+      "text": "Cam'ron's pink fur coat and matching Range Rover became iconic symbols of early-2000s hip-hop fashion.",
+      "source": "https://en.wikipedia.org/wiki/Cam%27ron%27s_pink_fur_coat_and_matching_Range_Rover"
+    },
+    {
+      "text": "Hip-hop fashion has evolved from Adidas tracksuits and gold chains in the 1980s to designer brands and streetwear today.",
+      "source": "https://en.wikipedia.org/wiki/Hip-hop_fashion"
+    },
+    {
+      "text": "FUBU (For Us, By Us), founded by Daymond John, was one of the first major hip-hop fashion brands.",
+      "source": "https://en.wikipedia.org/wiki/FUBU_(For_Us%2C_By_Us)"
+    },
+    {
+      "text": "Pharrell Williams co-founded the streetwear brand Billionaire Boys Club and the sneaker line Ice Cream.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Pharrell_Williams"
+    },
+    {
+      "text": "Kanye West's Yeezy brand with Adidas became one of the most successful celebrity fashion collaborations in history.",
+      "source": "https://en.wikipedia.org/wiki/Kanye_West%27s_Yeezy_brand_with_Adidas"
+    },
+    {
+      "text": "Run-D.M.C.'s endorsement deal with Adidas in 1986 was the first sneaker deal in hip-hop history.",
+      "source": "https://en.wikipedia.org/wiki/Run-D.M.C.%27s_endorsement_deal_with_Adidas_in_1986"
+    },
+    {
+      "text": "Grillz (decorative dental jewelry) became a mainstream hip-hop fashion accessory in the 2000s, popularized by Southern rappers.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Grillz_(decorative_dental_jewelry)"
+    },
+    {
+      "text": "Dapper Dan from Harlem became famous for creating custom luxury hip-hop fashion using logos from brands like Gucci and Louis Vuitton in the 1980s.",
+      "source": "https://en.wikipedia.org/wiki/Dapper_Dan_from_Harlem"
+    },
+    {
+      "text": "Sean John, Diddy's fashion line launched in 1998, won the CFDA Menswear Designer of the Year award in 2004.",
+      "source": "https://en.wikipedia.org/wiki/Sean_John%2C_Diddy%27s_fashion_line_launched_in_1998"
+    },
+    {
+      "text": "The boom bap sound, characterized by hard-hitting drums and jazzy samples, defined East Coast hip-hop in the 1990s.",
+      "source": "https://en.wikipedia.org/wiki/East_Coast"
+    },
+    {
+      "text": "Cloud rap, characterized by ethereal production and hazy atmospheres, emerged in the early 2010s with artists like Lil B and A$AP Rocky.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Lil_B_and_A"
+    },
+    {
+      "text": "Drill music originated in Chicago around 2010-2012 with artists like Chief Keef, Lil Durk, and King Louie.",
+      "source": "https://en.wikipedia.org/wiki/Chief_Keef"
+    },
+    {
+      "text": "Chief Keef's 'Love Sosa' (2012) was a viral hit that helped bring Chicago drill to national prominence.",
+      "source": "https://en.wikipedia.org/wiki/Love_Sosa"
+    },
+    {
+      "text": "Chance the Rapper was born on April 16, 1993, in Chicago, Illinois.",
+      "month": 4,
+      "day": 16,
+      "source": "https://en.wikipedia.org/wiki/Chance_the_Rapper"
+    },
+    {
+      "text": "Kanye West was born on June 8, 1977, in Atlanta, Georgia, and raised in Chicago.",
+      "month": 6,
+      "day": 8,
+      "source": "https://en.wikipedia.org/wiki/Kanye_West"
+    },
+    {
+      "text": "Twista, from Chicago, held the Guinness World Record for fastest rapper at 598 syllables in 55 seconds.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Guinness_World_Record_for"
+    },
+    {
+      "text": "The chopped and screwed style originated in Houston and involves slowing down the tempo and applying effects to music.",
+      "source": "https://en.wikipedia.org/wiki/Houston_and"
+    },
+    {
+      "text": "Pimp C of UGK was a central figure in Houston hip-hop culture until his death in 2007.",
+      "source": "https://en.wikipedia.org/wiki/Pimp_C_of_UGK"
+    },
+    {
+      "text": "Outkast's André 3000 is widely regarded as one of the most versatile and creative MCs in hip-hop history.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Outkast%27s_Andr%C3%A9_3000"
+    },
+    {
+      "text": "Outkast's 'Hey Ya!' (2003) spent nine weeks at number one on the Billboard Hot 100.",
+      "source": "https://en.wikipedia.org/wiki/Hey_Ya"
+    },
+    {
+      "text": "Goodie Mob, from Atlanta, was one of the first groups in the Dungeon Family collective alongside Outkast.",
+      "source": "https://en.wikipedia.org/wiki/Goodie_Mob%2C_from_Atlanta"
+    },
+    {
+      "text": "CeeLo Green, later famous for 'Crazy' with Gnarls Barkley, was originally a member of Goodie Mob.",
+      "source": "https://en.wikipedia.org/wiki/CeeLo_Green%2C_later_famous_for_%27Crazy%27_with_Gnarls_Barkley"
+    },
+    {
+      "text": "Killer Mike from Atlanta has been active in hip-hop since the early 2000s and later formed Run the Jewels with El-P.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Killer_Mike_from_Atlanta"
+    },
+    {
+      "text": "Run the Jewels released their debut album for free on the internet in 2013.",
+      "source": "https://en.wikipedia.org/wiki/Run_the_Jewels"
+    },
+    {
+      "text": "El-P, originally from Company Flow, is a respected underground rapper and producer from Brooklyn.",
+      "source": "https://en.wikipedia.org/wiki/El-P%2C_originally_from_Company_Flow"
+    },
+    {
+      "text": "Freestyle rapping, or improvised rapping, is a core skill in hip-hop culture.",
+      "source": "https://en.wikipedia.org/wiki/Freestyle_rapping%2C_or_improvised_rapping"
+    },
+    {
+      "text": "The freestyle battle scene has been a testing ground for rappers since the earliest days of hip-hop.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/freestyle_battle_scene"
+    },
+    {
+      "text": "BET's '106 & Park' freestyle Fridays (2000s) helped launch careers and showcase battle rap skills.",
+      "source": "https://en.wikipedia.org/wiki/BET%27s_%27106_%26_Park%27_freestyle_Fridays_(2000s)"
+    },
+    {
+      "text": "Scribble Jam, held annually in Cincinnati from 1996 to 2008, was one of the largest hip-hop festivals featuring battle rap.",
+      "source": "https://en.wikipedia.org/wiki/Scribble_Jam%2C_held_annually_in_Cincinnati_from_1996_to_2008"
+    },
+    {
+      "text": "The Ultimate Rap League (URL) is one of the premier battle rap leagues in the world.",
+      "source": "https://en.wikipedia.org/wiki/Ultimate_Rap_League_(URL)"
+    },
+    {
+      "text": "King of the Dot (KOTD) is a prominent battle rap league based in Canada.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/King_of_the_Dot_(KOTD)"
+    },
+    {
+      "text": "Eminem's battle rap skills were showcased in the 2002 film '8 Mile,' based loosely on his experiences in Detroit.",
+      "source": "https://en.wikipedia.org/wiki/Eminem%27s_battle_rap_skills"
+    },
+    {
+      "text": "Loaded Lux vs. Calicoe (2012) is often cited as one of the greatest rap battles of all time.",
+      "source": "https://en.wikipedia.org/wiki/Calicoe"
+    },
+    {
+      "text": "The Spit Your Game documentary series helped popularize battle rap on YouTube.",
+      "source": "https://en.wikipedia.org/wiki/Spit_Your_Game_documentary_series"
+    },
+    {
+      "text": "Hip-hop lyrics have been used as evidence in criminal trials, sparking debates about artistic expression and legal rights.",
+      "source": "https://en.wikipedia.org/wiki/Hip-hop_lyrics"
+    },
+    {
+      "text": "Several U.S. states have introduced 'Rap Music on Trial' bills to limit the use of song lyrics as courtroom evidence.",
+      "source": "https://en.wikipedia.org/wiki/Several_U.S._states"
+    },
+    {
+      "text": "Kendrick Lamar's 'good kid, m.A.A.d city' (2012) is often described as a 'short film' for its narrative structure.",
+      "source": "https://en.wikipedia.org/wiki/Kendrick_Lamar%27s_%27good_kid%2C_m.A.A.d_city%27_(2012)"
+    },
+    {
+      "text": "Kendrick Lamar's 'To Pimp a Butterfly' (2015) blended hip-hop with jazz, funk, and spoken word to critical acclaim.",
+      "source": "https://en.wikipedia.org/wiki/Butterfly"
+    },
+    {
+      "text": "Anderson .Paak blends hip-hop with R&B, soul, and funk, and is also a skilled drummer.",
+      "source": "https://en.wikipedia.org/wiki/Anderson_.Paak_blends_hip-hop_with_R%26B%2C_soul%2C_and_funk%2C_and"
+    },
+    {
+      "text": "Mac Miller's posthumous album 'Circles' (2020) was completed by producer Jon Brion after Miller's death.",
+      "source": "https://en.wikipedia.org/wiki/Circles"
+    },
+    {
+      "text": "Mac Miller was born Malcolm James McCormick on January 19, 1992, in Pittsburgh, Pennsylvania.",
+      "month": 1,
+      "day": 19,
+      "source": "https://en.wikipedia.org/wiki/Mac_Miller"
+    },
+    {
+      "text": "Nipsey Hussle was a community activist and rapper from Crenshaw, Los Angeles, who was tragically killed on March 31, 2019.",
+      "month": 3,
+      "day": 31,
+      "source": "https://en.wikipedia.org/wiki/Nipsey_Hussle"
+    },
+    {
+      "text": "Nipsey Hussle's 'Victory Lap' (2018) was nominated for the Grammy for Best Rap Album.",
+      "source": "https://en.wikipedia.org/wiki/Victory_Lap"
+    },
+    {
+      "text": "A$AP Rocky co-founded the A$AP Mob collective in Harlem, blending fashion, music, and visual art.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/AP_Rocky"
+    },
+    {
+      "text": "A$AP Rocky's debut mixtape 'Live.Love.A$AP' (2011) was a critical hit for its psychedelic, cloud-rap influenced sound.",
+      "source": "https://en.wikipedia.org/wiki/AP"
+    },
+    {
+      "text": "Pusha T served as the president of Kanye West's G.O.O.D. Music label.",
+      "source": "https://en.wikipedia.org/wiki/Pusha_T"
+    },
+    {
+      "text": "Pusha T and his brother Malice formed Clipse, whose 'Lord Willin'' (2002) is a cult classic.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Lord_Willin"
+    },
+    {
+      "text": "Pharoahe Monch is considered one of the most technically skilled rappers of all time.",
+      "source": "https://en.wikipedia.org/wiki/Pharoahe_Monch"
+    },
+    {
+      "text": "Black Thought of The Roots is frequently cited as one of the greatest live performers in hip-hop.",
+      "source": "https://en.wikipedia.org/wiki/Black_Thought_of_The_Roots"
+    },
+    {
+      "text": "Snoop Dogg's real name is Calvin Cordozar Broadus Jr., and his nickname came from his mother.",
+      "source": "https://en.wikipedia.org/wiki/Snoop_Dogg%27s_real_name"
+    },
+    {
+      "text": "Snoop Dogg briefly renamed himself Snoop Lion in 2012 to release a reggae album.",
+      "source": "https://en.wikipedia.org/wiki/Snoop_Dogg"
+    },
+    {
+      "text": "Ice Cube left N.W.A over financial disputes and released the classic solo album 'AmeriKKKa's Most Wanted' (1990).",
+      "source": "https://en.wikipedia.org/wiki/AmeriKKKa%27s_Most_Wanted"
+    },
+    {
+      "text": "Ice Cube went on to become a successful actor, starring in the 'Friday' and 'Barbershop' film franchises.",
+      "source": "https://en.wikipedia.org/wiki/Ice_Cube"
+    },
+    {
+      "text": "Eazy-E, born Eric Lynn Wright, was a founding member of N.W.A and Ruthless Records.",
+      "source": "https://en.wikipedia.org/wiki/Eazy-E%2C_born_Eric_Lynn_Wright"
+    },
+    {
+      "text": "Eazy-E passed away on March 26, 1995, from complications of AIDS.",
+      "month": 3,
+      "day": 26,
+      "source": "https://en.wikipedia.org/wiki/March_26"
+    },
+    {
+      "text": "MC Hammer's 'U Can't Touch This' (1990) sampled Rick James' 'Super Freak' and became one of the biggest rap hits of the era.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Can%27t_Touch_This"
+    },
+    {
+      "text": "Vanilla Ice's 'Ice Ice Baby' (1990) was the first hip-hop single to top the Billboard Hot 100.",
+      "source": "https://en.wikipedia.org/wiki/Ice_Ice_Baby"
+    },
+    {
+      "text": "The Beastie Boys were inducted into the Rock and Roll Hall of Fame on April 14, 2012.",
+      "month": 4,
+      "day": 14,
+      "source": "https://en.wikipedia.org/wiki/Rock_and_Roll_Hall_of_Fame"
+    },
+    {
+      "text": "The Beastie Boys originally started as a hardcore punk band before transitioning to hip-hop.",
+      "source": "https://en.wikipedia.org/wiki/Beastie_Boys"
+    },
+    {
+      "text": "Will Smith, as The Fresh Prince, won the first Grammy Award ever given for a hip-hop performance.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Will_Smith%2C_as_The_Fresh_Prince"
+    },
+    {
+      "text": "DJ Jazzy Jeff (Jeff Townes) is considered one of the greatest turntablists in hip-hop history.",
+      "source": "https://en.wikipedia.org/wiki/DJ_Jazzy_Jeff_(Jeff_Townes)"
+    },
+    {
+      "text": "LL Cool J was one of the first rappers to achieve crossover success with ballads like 'I Need Love' (1987).",
+      "source": "https://en.wikipedia.org/wiki/Need_Love"
+    },
+    {
+      "text": "LL Cool J was born James Todd Smith on January 14, 1968, in Bay Shore, New York.",
+      "month": 1,
+      "day": 14,
+      "source": "https://en.wikipedia.org/wiki/LL_Cool_J"
+    },
+    {
+      "text": "Heavy D, born Dwight Arif Myers, was known as 'The Overweight Lover' and helped popularize New Jack Swing.",
+      "source": "https://en.wikipedia.org/wiki/Heavy_D%2C_born_Dwight_Arif_Myers"
+    },
+    {
+      "text": "New Jack Swing, a fusion of hip-hop and R&B, was pioneered by producer Teddy Riley in the late 1980s.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/New_Jack_Swing%2C_a_fusion_of_hip-hop_and_R%26B"
+    },
+    {
+      "text": "Arrested Development won the Grammy for Best New Artist in 1993, one of few hip-hop acts to receive that honor.",
+      "source": "https://en.wikipedia.org/wiki/Arrested_Development"
+    },
+    {
+      "text": "Coolio's 'Gangsta's Paradise' (1995) was the number-one single of the year and won a Grammy.",
+      "source": "https://en.wikipedia.org/wiki/Gangsta%27s_Paradise"
+    },
+    {
+      "text": "The Notorious B.I.G.'s 'Life After Death' was released on March 25, 1997, just 16 days after his murder.",
+      "month": 3,
+      "day": 25,
+      "source": "https://en.wikipedia.org/wiki/Notorious_B.I.G.%27s_%27Life_After_Death"
+    },
+    {
+      "text": "Tupac recorded an enormous volume of music; dozens of posthumous albums have been released since his death.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Tupac"
+    },
+    {
+      "text": "Tupac acted in films like 'Juice' (1992), 'Poetic Justice' (1993), and 'Above the Rim' (1994).",
+      "source": "https://en.wikipedia.org/wiki/Juice"
+    },
+    {
+      "text": "Suge Knight co-founded Death Row Records and was a controversial figure in 1990s hip-hop.",
+      "source": "https://en.wikipedia.org/wiki/Suge_Knight_co-founded_Death_Row_Records_and"
+    },
+    {
+      "text": "Lil Kim's debut album 'Hard Core' (1996) pushed boundaries for female rappers with its explicit content.",
+      "source": "https://en.wikipedia.org/wiki/Hard_Core"
+    },
+    {
+      "text": "Foxy Brown released her debut album 'Ill Na Na' in 1996 at just 17 years old.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Foxy_Brown"
+    },
+    {
+      "text": "Eve was the first female rapper on Ruff Ryders Entertainment and later starred in her own TV sitcom.",
+      "source": "https://en.wikipedia.org/wiki/Eve"
+    },
+    {
+      "text": "Da Brat was the first solo female rapper to have a platinum-selling album with 'Funkdafied' (1994).",
+      "source": "https://en.wikipedia.org/wiki/Funkdafied"
+    },
+    {
+      "text": "Roxanne Shanté recorded 'Roxanne's Revenge' in 1984 at only 14 years old.",
+      "source": "https://en.wikipedia.org/wiki/Roxanne_Shant%C3%A9"
+    },
+    {
+      "text": "The Roxanne Wars of 1984-1985 produced over 100 answer records in response to UTFO's 'Roxanne, Roxanne.'",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Roxanne_Wars_of_1984"
+    },
+    {
+      "text": "Jean Grae, born in Cape Town, South Africa, is regarded as one of the most skilled female MCs in underground hip-hop.",
+      "source": "https://en.wikipedia.org/wiki/Jean_Grae%2C_born_in_Cape_Town%2C_South_Africa"
+    },
+    {
+      "text": "Rapsody's 'Laila's Wisdom' (2017) was nominated for the Grammy for Best Rap Album.",
+      "source": "https://en.wikipedia.org/wiki/Laila%27s_Wisdom"
+    },
+    {
+      "text": "Little Simz, from London, won the Mercury Prize for her album 'Sometimes I Might Be Introvert' (2022).",
+      "source": "https://en.wikipedia.org/wiki/Might_Be_Introvert"
+    },
+    {
+      "text": "Tierra Whack's 'Whack World' (2018) consisted of 15 tracks, each exactly one minute long, with accompanying music videos.",
+      "source": "https://en.wikipedia.org/wiki/Whack_World"
+    },
+    {
+      "text": "Doja Cat, born Amala Ratna Zandile Dlamini, blends rap with pop, R&B, and internet culture.",
+      "source": "https://en.wikipedia.org/wiki/Doja_Cat"
+    },
+    {
+      "text": "GloRilla, from Memphis, signed to Yo Gotti's CMG label and broke through in 2022 with 'F.N.F.'",
+      "source": "https://en.wikipedia.org/wiki/GloRilla%2C_from_Memphis"
+    },
+    {
+      "text": "Ice Spice, from the Bronx, became one of the fastest-rising rap stars of 2023.",
+      "source": "https://en.wikipedia.org/wiki/Ice_Spice%2C_from_the_Bronx"
+    },
+    {
+      "text": "The term 'diss track' refers to a song made specifically to insult or challenge another artist.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Hip-Hop_%26_Rap"
+    },
+    {
+      "text": "Tupac's 'Hit 'Em Up' (1996) targeting The Notorious B.I.G. is one of the most famous diss tracks ever.",
+      "source": "https://en.wikipedia.org/wiki/Em_Up"
+    },
+    {
+      "text": "Jay-Z and Nas's rivalry produced legendary diss tracks including 'Ether' and 'Takeover.'",
+      "source": "https://en.wikipedia.org/wiki/Jay-Z_and_Nas%27s"
+    },
+    {
+      "text": "Drake and Pusha T's 2018 feud included Pusha T's 'The Story of Adidon,' which revealed personal information about Drake.",
+      "source": "https://en.wikipedia.org/wiki/Drake_and_Pusha_T%27s_2018"
+    },
+    {
+      "text": "The Kendrick Lamar and Drake feud of 2024 produced multiple diss tracks and dominated social media.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Kendrick_Lamar_and_Drake"
+    },
+    {
+      "text": "Kendrick Lamar's 'Not Like Us' (2024) became one of the most viral diss tracks in hip-hop history.",
+      "source": "https://en.wikipedia.org/wiki/Not_Like_Us"
+    },
+    {
+      "text": "50 Cent and Ja Rule's feud in the early 2000s significantly impacted both artists' careers.",
+      "source": "https://en.wikipedia.org/wiki/Cent_and_Ja_Rule%27s"
+    },
+    {
+      "text": "The Bridge Is Over' by Boogie Down Productions (1987) is one of hip-hop's earliest and most famous diss tracks.",
+      "source": "https://en.wikipedia.org/wiki/Boogie_Down_Productions"
+    },
+    {
+      "text": "LL Cool J and Kool Moe Dee had one of the first major hip-hop beefs in the late 1980s.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/LL_Cool_J_and_Kool_Moe_Dee"
+    },
+    {
+      "text": "Canibus and LL Cool J's feud in the late 1990s produced several diss records.",
+      "source": "https://en.wikipedia.org/wiki/Canibus_and_LL_Cool_J%27s"
+    },
+    {
+      "text": "The concept album has become a significant format in hip-hop, with artists creating thematic narratives across entire records.",
+      "source": "https://en.wikipedia.org/wiki/concept_album"
+    },
+    {
+      "text": "Kendrick Lamar's 'good kid, m.A.A.d city' is structured as a coming-of-age story set in Compton.",
+      "source": "https://en.wikipedia.org/wiki/Kendrick_Lamar%27s_%27good_kid%2C_m.A.A.d_city"
+    },
+    {
+      "text": "Kanye West's 'My Beautiful Dark Twisted Fantasy' (2010) is often cited as one of the greatest albums of the 21st century.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/My_Beautiful_Dark_Twisted_Fantasy"
+    },
+    {
+      "text": "Kanye West's 'My Beautiful Dark Twisted Fantasy' was released on November 22, 2010.",
+      "month": 11,
+      "day": 22,
+      "source": "https://en.wikipedia.org/wiki/Kanye_West%27s_%27My_Beautiful_Dark_Twisted_Fantasy"
+    },
+    {
+      "text": "Tyler, the Creator's 'Flower Boy' (2017) marked a creative evolution with more introspective themes.",
+      "source": "https://en.wikipedia.org/wiki/Flower_Boy"
+    },
+    {
+      "text": "Vince Staples' 'Big Fish Theory' (2017) incorporated electronic and dance music into hip-hop.",
+      "source": "https://en.wikipedia.org/wiki/Big_Fish_Theory"
+    },
+    {
+      "text": "Danny Brown's 'Atrocity Exhibition' (2016) was named after a Joy Division song and blended experimental production with rap.",
+      "source": "https://en.wikipedia.org/wiki/Atrocity_Exhibition"
+    },
+    {
+      "text": "Earl Sweatshirt's 'Some Rap Songs' (2018) pushed the boundaries of lo-fi, abstract hip-hop.",
+      "source": "https://en.wikipedia.org/wiki/Some_Rap_Songs"
+    },
+    {
+      "text": "JPEGMAFIA (Peggy) is known for his experimental approach, blending noise, glitch, and industrial music with rap.",
+      "source": "https://en.wikipedia.org/wiki/JPEGMAFIA_(Peggy)"
+    },
+    {
+      "text": "Denzel Curry from Carol City, Florida, gained fame with his aggressive style and concept albums.",
+      "source": "https://en.wikipedia.org/wiki/Denzel_Curry"
+    },
+    {
+      "text": "Playboi Carti's 'Whole Lotta Red' (2020) divided fans but has grown a cult following for its punk-influenced sound.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Whole_Lotta_Red"
+    },
+    {
+      "text": "Young Thug's unconventional vocal style and fashion choices have influenced a generation of rappers.",
+      "source": "https://en.wikipedia.org/wiki/Young_Thug%27s_unconventional_vocal_style_and_fashion_choices"
+    },
+    {
+      "text": "Young Thug was indicted on RICO charges in May 2022 as part of a wide-ranging criminal case in Atlanta.",
+      "source": "https://en.wikipedia.org/wiki/Young_Thug"
+    },
+    {
+      "text": "Lil Baby's 'My Turn' (2020) was the best-selling album of 2020 in the United States.",
+      "source": "https://en.wikipedia.org/wiki/My_Turn"
+    },
+    {
+      "text": "DaBaby's 'Rockstar' featuring Roddy Ricch (2020) spent seven weeks at number one on the Hot 100.",
+      "source": "https://en.wikipedia.org/wiki/Roddy_Ricch"
+    },
+    {
+      "text": "Roddy Ricch's 'The Box' (2020) topped the Hot 100 for 11 weeks.",
+      "source": "https://en.wikipedia.org/wiki/Box"
+    },
+    {
+      "text": "Jack Harlow, from Louisville, Kentucky, broke out in 2020 with 'Whats Poppin.'",
+      "source": "https://en.wikipedia.org/wiki/Jack_Harlow"
+    },
+    {
+      "text": "NBA YoungBoy has one of the highest YouTube subscriber counts among hip-hop artists.",
+      "source": "https://en.wikipedia.org/wiki/NBA_YoungBoy"
+    },
+    {
+      "text": "Polo G, from Chicago, broke through with 'Pop Out' (2019) featuring Lil Tjay.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Pop_Out"
+    },
+    {
+      "text": "The rise of streaming platforms like Spotify and Apple Music has fundamentally changed how hip-hop is distributed and consumed.",
+      "source": "https://en.wikipedia.org/wiki/rise_of_streaming_platforms_like_Spotify_and_Apple_Music"
+    },
+    {
+      "text": "Hip-hop became the most consumed music genre in the United States in 2017, surpassing rock.",
+      "source": "https://en.wikipedia.org/wiki/Hip-hop"
+    },
+    {
+      "text": "Drake's 'Scorpion' (2018) was the first album to surpass one billion streams on Spotify in its first week.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Scorpion"
+    },
+    {
+      "text": "Bad Bunny, who blends reggaeton with hip-hop, was the most-streamed artist on Spotify from 2020 to 2023.",
+      "source": "https://en.wikipedia.org/wiki/Bad_Bunny%2C_who_blends_reggaeton_with_hip-hop"
+    },
+    {
+      "text": "The hip-hop genre has expanded globally, with thriving scenes in France, South Korea, Japan, Nigeria, and Brazil.",
+      "source": "https://en.wikipedia.org/wiki/hip-hop_genre"
+    },
+    {
+      "text": "BTS collaborated with various American hip-hop artists, helping bridge K-pop and hip-hop.",
+      "source": "https://en.wikipedia.org/wiki/K-pop_and"
+    },
+    {
+      "text": "French hip-hop is the second-largest hip-hop market in the world after the United States.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/French_hip-hop"
+    },
+    {
+      "text": "MC Solaar was one of the first French-language rappers to achieve international recognition in the 1990s.",
+      "source": "https://en.wikipedia.org/wiki/MC_Solaar"
+    },
+    {
+      "text": "Nigerian hip-hop, sometimes called 'Afrobeats rap,' has produced artists like Olamide and M.I Abaga.",
+      "source": "https://en.wikipedia.org/wiki/Nigerian_hip-hop%2C_sometimes_called_%27Afrobeats_rap"
+    },
+    {
+      "text": "Japanese hip-hop emerged in the 1980s and has since developed its own distinct culture and sound.",
+      "source": "https://en.wikipedia.org/wiki/Japanese_hip-hop_emerged_in_the_1980s_and"
+    },
+    {
+      "text": "Keith Shocklee, Hank Shocklee, and Eric Sadler formed the Bomb Squad, Public Enemy's legendary production team.",
+      "source": "https://en.wikipedia.org/wiki/Keith_Shocklee%2C_Hank_Shocklee%2C_and_Eric_Sadler"
+    },
+    {
+      "text": "Public Enemy's Chuck D once described rap as 'the CNN of the ghetto.'",
+      "source": "https://en.wikipedia.org/wiki/Public_Enemy%27s_Chuck_D"
+    },
+    {
+      "text": "The sample clearance process can be extremely expensive, with some samples costing hundreds of thousands of dollars.",
+      "source": "https://en.wikipedia.org/wiki/Hip-Hop_%26_Rap"
+    },
+    {
+      "text": "Biz Markie's 'Alone Again' (1991) led to a landmark sampling lawsuit that changed how samples are legally cleared in hip-hop.",
+      "source": "https://en.wikipedia.org/wiki/Alone_Again"
+    },
+    {
+      "text": "The 1991 Grand Upright Music, Ltd. v. Warner Bros. Records case established that uncleared sampling constitutes copyright infringement.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/1991_Grand_Upright_Music"
+    },
+    {
+      "text": "Many classic hip-hop songs sample James Brown, the most sampled artist in the genre's history.",
+      "source": "https://en.wikipedia.org/wiki/James_Brown"
+    },
+    {
+      "text": "'Funky Drummer' by James Brown is the most sampled breakbeat in music history.",
+      "source": "https://en.wikipedia.org/wiki/Funky_Drummer%27_by_James_Brown"
+    },
+    {
+      "text": "The Amen break, a six-second drum solo from The Winstons' 'Amen, Brother' (1969), is one of the most used samples in hip-hop and electronic music.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Amen%2C_Brother"
+    },
+    {
+      "text": "Kanye West is known for his innovative use of soul music samples, often speeding up and pitch-shifting classic recordings.",
+      "source": "https://en.wikipedia.org/wiki/Kanye_West"
+    },
+    {
+      "text": "FL Studio (formerly FruityLoops) has become one of the most popular digital audio workstations for hip-hop producers.",
+      "source": "https://en.wikipedia.org/wiki/FL_Studio_(formerly_FruityLoops)"
+    },
+    {
+      "text": "Soulja Boy's 'Crank That' (2007) was one of the first hip-hop hits to achieve viral success through the internet.",
+      "source": "https://en.wikipedia.org/wiki/Crank_That"
+    },
+    {
+      "text": "Soulja Boy is often credited as one of the first artists to use social media and the internet to launch a mainstream music career.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Soulja_Boy"
+    },
+    {
+      "text": "WorldStarHipHop, founded in 2005, became one of the most popular platforms for hip-hop music videos and viral content.",
+      "source": "https://en.wikipedia.org/wiki/WorldStarHipHop"
+    },
+    {
+      "text": "DatPiff was a major platform for free mixtape distribution in the 2000s and 2010s.",
+      "source": "https://en.wikipedia.org/wiki/DatPiff"
+    },
+    {
+      "text": "Lil B 'The BasedGod' was a pioneer of internet-era hip-hop, releasing hundreds of free tracks online.",
+      "source": "https://en.wikipedia.org/wiki/Lil_B_%27The_BasedGod"
+    },
+    {
+      "text": "Drake originally gained fame as an actor on the Canadian TV show 'Degrassi: The Next Generation.'",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Canadian_TV"
+    },
+    {
+      "text": "OVO Sound, Drake's record label, was co-founded with Noah '40' Shebib and Oliver El-Khatib.",
+      "source": "https://en.wikipedia.org/wiki/OVO_Sound%2C_Drake%27s_record_label"
+    },
+    {
+      "text": "40 (Noah Shebib) is Drake's primary producer and is known for his ambient, atmospheric beats.",
+      "source": "https://en.wikipedia.org/wiki/40_(Noah_Shebib)"
+    },
+    {
+      "text": "Logic's album 'Everybody' (2017) debuted at number one and explored themes of race, anxiety, and belonging.",
+      "source": "https://en.wikipedia.org/wiki/Everybody"
+    },
+    {
+      "text": "Logic's song '1-800-273-8255' (2017), named after the National Suicide Prevention Lifeline, was credited with increasing calls to the hotline.",
+      "source": "https://en.wikipedia.org/wiki/Logic%27s_song_%271-800-273-8255%27_(2017)%2C_named_after_the_National_Suicide_Prevention_Lifeline"
+    },
+    {
+      "text": "Joyner Lucas gained viral fame with his visual album 'I'm Not Racist' (2017).",
+      "source": "https://en.wikipedia.org/wiki/I%27m_Not_Racist"
+    },
+    {
+      "text": "Machine Gun Kelly transitioned from rap to pop-punk rock in 2020 with 'Tickets to My Downfall.'",
+      "source": "https://en.wikipedia.org/wiki/Machine_Gun_Kelly"
+    },
+    {
+      "text": "YG, from Compton, is known for his West Coast hip-hop style and the hit 'My Hitta' (2014).",
+      "source": "https://en.wikipedia.org/wiki/My_Hitta"
+    },
+    {
+      "text": "Nipsey Hussle released his mixtape 'Crenshaw' in 2013, selling physical copies for $100 each.",
+      "source": "https://en.wikipedia.org/wiki/Nipsey_Hussle"
+    },
+    {
+      "text": "Wiz Khalifa's 'See You Again' (2015) from 'Furious 7' became one of the most-viewed videos on YouTube.",
+      "source": "https://en.wikipedia.org/wiki/See_You_Again"
+    },
+    {
+      "text": "Wiz Khalifa was born Cameron Jibril Thomaz on September 8, 1987, in Minot, North Dakota.",
+      "month": 9,
+      "day": 8,
+      "source": "https://en.wikipedia.org/wiki/Wiz_Khalifa"
+    },
+    {
+      "text": "Kid Cudi's 'Man on the Moon: The End of Day' (2009) pioneered a more emotional and introspective style of rap.",
+      "source": "https://en.wikipedia.org/wiki/Day"
+    },
+    {
+      "text": "Kid Cudi's influence can be heard in the music of Travis Scott, Kanye West's later work, and many emo-rap artists.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Kid_Cudi%27s"
+    },
+    {
+      "text": "ScHoolboy Q's 'Oxymoron' (2014) debuted at number one on the Billboard 200.",
+      "source": "https://en.wikipedia.org/wiki/Oxymoron"
+    },
+    {
+      "text": "Isaiah Rashad, from Chattanooga, Tennessee, is a member of TDE known for his introspective Southern style.",
+      "source": "https://en.wikipedia.org/wiki/Isaiah_Rashad%2C_from_Chattanooga%2C_Tennessee"
+    },
+    {
+      "text": "Joey Bada$$, from Brooklyn, co-founded the Pro Era hip-hop collective.",
+      "source": "https://en.wikipedia.org/wiki/Joey_Bada"
+    },
+    {
+      "text": "Flatbush Zombies, also from Brooklyn, are known for their psychedelic and horrorcore-influenced hip-hop.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Flatbush_Zombies%2C_also_from_Brooklyn"
+    },
+    {
+      "text": "The Underachievers, from Flatbush, blend spiritual themes and third-eye philosophy with hip-hop.",
+      "source": "https://en.wikipedia.org/wiki/Underachievers"
+    },
+    {
+      "text": "Griselda Records, led by Westside Gunn, Benny the Butcher, and Conway the Machine, revived gritty East Coast boom-bap in the late 2010s.",
+      "source": "https://en.wikipedia.org/wiki/Griselda_Records"
+    },
+    {
+      "text": "Westside Gunn's 'Pray for Paris' (2020) sampled rare soul and jazz records while featuring high-fashion themes.",
+      "source": "https://en.wikipedia.org/wiki/Paris"
+    },
+    {
+      "text": "Freddie Gibbs, from Gary, Indiana, has collaborated with Madlib on critically acclaimed albums like 'Piñata' (2014) and 'Bandana' (2019).",
+      "source": "https://en.wikipedia.org/wiki/Bandana"
+    },
+    {
+      "text": "Russ achieved success by independently recording, producing, and releasing his own music before signing a major deal.",
+      "source": "https://en.wikipedia.org/wiki/Hip-Hop_%26_Rap"
+    },
+    {
+      "text": "Noname, from Chicago, is known for her poetic, spoken-word-influenced rap style.",
+      "source": "https://en.wikipedia.org/wiki/Noname%2C_from_Chicago"
+    },
+    {
+      "text": "Saba, also from Chicago, created the Pivot Gang collective and released the acclaimed album 'Care for Me' (2018).",
+      "source": "https://en.wikipedia.org/wiki/Me"
+    },
+    {
+      "text": "JID, from Atlanta, is signed to Dreamville and known for his rapid-fire flow and lyrical dexterity.",
+      "source": "https://en.wikipedia.org/wiki/JID%2C_from_Atlanta"
+    },
+    {
+      "text": "Cordae's debut album 'The Lost Boy' (2019) was nominated for the Grammy for Best Rap Album.",
+      "source": "https://en.wikipedia.org/wiki/Lost_Boy"
+    },
+    {
+      "text": "Rico Nasty blends hip-hop with punk, creating a style she calls 'sugar trap.'",
+      "source": "https://en.wikipedia.org/wiki/Rico_Nasty"
+    },
+    {
+      "text": "City Girls, from Miami, are known for their bold party anthems and ties to Quality Control Music.",
+      "source": "https://en.wikipedia.org/wiki/City_Girls%2C_from_Miami"
+    },
+    {
+      "text": "Saweetie's 'My Type' (2019) sampled Petey Pablo's 'Freek-a-Leek' and became a viral hit.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/My_Type"
+    },
+    {
+      "text": "Latto, originally known as Miss Mulatto, won the first season of Lifetime's 'The Rap Game' at age 16.",
+      "source": "https://en.wikipedia.org/wiki/Latto%2C_originally_known_as_Miss_Mulatto"
+    },
+    {
+      "text": "The 'mumble rap' label emerged in the mid-2010s to describe a style favoring melody and ad-libs over lyrical complexity.",
+      "source": "https://en.wikipedia.org/wiki/Hip-Hop_%26_Rap"
+    },
+    {
+      "text": "The debate between lyrical rap and melodic/trap rap has been ongoing since the mid-2010s.",
+      "source": "https://en.wikipedia.org/wiki/debate_between_lyrical_rap_and_melodic%2Ftrap_rap"
+    },
+    {
+      "text": "Ghostwriting has been a controversial topic in hip-hop, with many fans and artists valuing authenticity in writing one's own lyrics.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Ghostwriting"
+    },
+    {
+      "text": "Dr. Dre is widely known to use ghostwriters, but his production skills and ear for talent are unquestioned.",
+      "source": "https://en.wikipedia.org/wiki/Dr._Dre"
+    },
+    {
+      "text": "Nas and Jay-Z's rivalry in the early 2000s is considered one of the greatest lyrical battles in hip-hop history.",
+      "source": "https://en.wikipedia.org/wiki/Nas_and_Jay-Z%27s_rivalry_in_the_early_2000s"
+    },
+    {
+      "text": "Jay-Z's 'The Blueprint' was released on September 11, 2001, the same day as the terrorist attacks.",
+      "month": 9,
+      "day": 11,
+      "source": "https://en.wikipedia.org/wiki/Jay-Z%27s_%27The_Blueprint"
+    },
+    {
+      "text": "Kanye West produced several tracks on Jay-Z's 'The Blueprint,' including 'Izzo (H.O.V.A.).'",
+      "source": "https://en.wikipedia.org/wiki/Kanye_West"
+    },
+    {
+      "text": "Watch the Throne (2011), the collaborative album by Jay-Z and Kanye West, debuted at number one worldwide.",
+      "source": "https://en.wikipedia.org/wiki/Throne"
+    },
+    {
+      "text": "Kids See Ghosts (2018) was a collaborative album between Kanye West and Kid Cudi.",
+      "source": "https://en.wikipedia.org/wiki/Kids_See_Ghosts"
+    },
+    {
+      "text": "The term 'bars' in hip-hop refers to lines of lyrics, with skilled rappers described as having 'bars.'",
+      "source": "https://en.wikipedia.org/wiki/Hip-Hop_%26_Rap"
+    },
+    {
+      "text": "A 'cipher' is an informal gathering of rappers freestyling together, often in a circle.",
+      "source": "https://en.wikipedia.org/wiki/A_%27cipher"
+    },
+    {
+      "text": "The term 'flow' refers to the rhythmic pattern and cadence a rapper uses when delivering their verses.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Hip-Hop_%26_Rap"
+    },
+    {
+      "text": "Multisyllabic rhyming, pioneered by Rakim, involves rhyming multiple syllables within or across lines.",
+      "source": "https://en.wikipedia.org/wiki/Hip-Hop_%26_Rap"
+    },
+    {
+      "text": "Doubletime rapping involves delivering lyrics at twice the normal speed while maintaining clarity.",
+      "source": "https://en.wikipedia.org/wiki/Hip-Hop_%26_Rap"
+    },
+    {
+      "text": "Chopper-style rapping, popular in the Midwest, involves extremely fast speeds and was perfected by artists like Tech N9ne and Twista.",
+      "source": "https://en.wikipedia.org/wiki/Chopper-style_rapping%2C_popular_in_the_Midwest%2C_involves_extremely_fast_speeds_and"
+    },
+    {
+      "text": "Ghostface Killah of Wu-Tang Clan is known for his vivid storytelling and stream-of-consciousness lyrical style.",
+      "source": "https://en.wikipedia.org/wiki/Ghostface_Killah_of_Wu-Tang_Clan"
+    },
+    {
+      "text": "Inspectah Deck of Wu-Tang Clan delivered one of hip-hop's most celebrated verses on 'Triumph' (1997).",
+      "source": "https://en.wikipedia.org/wiki/Triumph"
+    },
+    {
+      "text": "Mobb Deep's 'The Infamous' (1995) is considered one of the definitive albums of the hardcore East Coast rap movement.",
+      "source": "https://en.wikipedia.org/wiki/Infamous"
+    },
+    {
+      "text": "Prodigy of Mobb Deep passed away on June 20, 2017, at the age of 42.",
+      "month": 6,
+      "day": 20,
+      "source": "https://en.wikipedia.org/wiki/Prodigy_of_Mobb_Deep"
+    },
+    {
+      "text": "AZ's 'Doe or Die' (1995) is a respected but often overlooked East Coast classic.",
+      "source": "https://en.wikipedia.org/wiki/Die"
+    },
+    {
+      "text": "Capone-N-Noreaga (C-N-N) from Queens are known for the street anthem 'T.O.N.Y.' (1997).",
+      "source": "https://en.wikipedia.org/wiki/T.O.N.Y"
+    },
+    {
+      "text": "Fat Joe, from the Bronx, has been active since 1993 and scored a massive hit with 'Lean Back' (2004) with Terror Squad.",
+      "source": "https://en.wikipedia.org/wiki/Lean_Back"
+    },
+    {
+      "text": "Big Pun was the first solo Latino rapper to have a platinum-selling album with 'Capital Punishment' (1998).",
+      "source": "https://en.wikipedia.org/wiki/Capital_Punishment"
+    },
+    {
+      "text": "Big Pun passed away on February 7, 2000, at the age of 28.",
+      "month": 2,
+      "day": 7,
+      "source": "https://en.wikipedia.org/wiki/Big_Pun"
+    },
+    {
+      "text": "Jadakiss, Styles P, and Sheek Louch form The LOX, originally signed to Bad Boy Records.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Jadakiss%2C_Styles_P%2C_and_Sheek_Louch_form_The_LOX%2C_originally"
+    },
+    {
+      "text": "Fabolous, from Brooklyn, has been a consistent presence in hip-hop since his debut in 2001.",
+      "source": "https://en.wikipedia.org/wiki/Fabolous%2C_from_Brooklyn"
+    },
+    {
+      "text": "Lupe Fiasco's 'Food & Liquor' (2006) was a critically acclaimed debut blending skateboarding culture with conscious rap.",
+      "source": "https://en.wikipedia.org/wiki/Liquor"
+    },
+    {
+      "text": "Talib Kweli has released over ten studio albums and is known for his independent approach to the music industry.",
+      "source": "https://en.wikipedia.org/wiki/Talib_Kweli"
+    },
+    {
+      "text": "Brother Ali, signed to Rhymesayers, is an albino rapper known for his powerful voice and socially conscious lyrics.",
+      "type": "did-you-know",
+      "source": "https://en.wikipedia.org/wiki/Brother_Ali%2C_signed_to_Rhymesayers"
+    },
+    {
+      "text": "Sage Francis is a pioneer of the spoken-word and indie hip-hop scene.",
+      "source": "https://en.wikipedia.org/wiki/Sage_Francis"
+    }
+  ]
+}
